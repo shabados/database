@@ -1,5 +1,5 @@
 # Database
-The open gurbani database containing an evolving set of corrections.
+The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 ## Installation
 
