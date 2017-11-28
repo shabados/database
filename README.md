@@ -4,7 +4,7 @@ The open gurbani database containing an evolving set of corrections. Used in Sha
 ## Installation
 
 * Download the SQLite db "data" from the release page
-* Move it to our [Golang App](https://github.com/ShabadOS/shabadOS)'s includes folder:
+* Move it to our [Golang App](https://github.com/ShabadOS/core)'s includes folder:
 
       cp data $GOPATH/src/shabadOS/includes/data
       
