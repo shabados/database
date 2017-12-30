@@ -66,3 +66,6 @@ typings/
 # User-specific stuff:
 .idea/
 *.iml
+
+### App Output
+build/
