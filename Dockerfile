@@ -3,11 +3,12 @@ FROM node:8
 
 WORKDIR /usr/src/app
 
-# Install knex and sqlite3 globally
-RUN npm install -g knex sqlite3
+# Install knex globally and sqlite3 locally
+RUN npm install sqlite3 knex
+RUN npm install -g knex
 
-# Copy sources into current di
+# Copy sources into current dir
 COPY . .
 
 # Build the DB by migrating schema and then inserting seed files
-CMD ["knex", "migrate", "latest", "&&", "knex", "seed:run"]
+CMD ["knex", "migrate:latest", "&&", "knex", "seed:run"]
