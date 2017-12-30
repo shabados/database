@@ -17,8 +17,8 @@ jobs:
       - deploy:
           name: Release database on Github
           command: |
-            git config --global push.default current
-            npm run release
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              git config --global push.default current
               echo "Releasing on Github"
+              npm run release
             fi
