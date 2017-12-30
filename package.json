@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
-    "build": "knex migrate:latest && knex seed:run"
+    "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run"
   },
   "repository": {
     "type": "git",
