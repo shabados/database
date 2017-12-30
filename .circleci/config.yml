@@ -5,19 +5,19 @@ jobs:
     steps:
       - checkout
       - setup_remote_docker
-        - run:
-          name: Build Database
-          command: |
-            set +o pipefail
-            docker-compose up
+      - run:
+        name: Build Database
+        command: |
+          set +o pipefail
+          docker-compose up
       - deploy:
         name: Release databas on GitHub
         command: |
-                ls
-                ls build/
-                if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
-                  echo "Deploying to Github"
-                fi
+          ls
+          ls build/
+          if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
+            echo "Deploying to Github"
+          fi
 workflows:
   version: 2
 
