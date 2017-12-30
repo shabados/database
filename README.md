@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ShabadOS/database/tree/master.svg?style=svg)](https://circleci.com/gh/ShabadOS/database/tree/master)
+CircleCI Build [![CircleCI](https://circleci.com/gh/ShabadOS/database/tree/master.svg?style=svg)](https://circleci.com/gh/ShabadOS/database/tree/master)
 
 # Database
 The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
