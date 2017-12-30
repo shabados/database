@@ -3,12 +3,12 @@ FROM node:8
 
 WORKDIR /usr/src/app
 
-# Install knex globally and sqlite3 locally
-RUN npm install sqlite3 knex
-RUN npm install -g knex
+# Deal with dependencies first to improve docker caching
+COPY package.json .
+RUN npm install
 
 # Copy sources into current dir
 COPY . .
 
-# Build the DB by migrating schema and then inserting seed files
-CMD ["knex", "migrate:latest", "&&", "knex", "seed:run"]
+# Run the build defined in package.json
+CMD ["npm", "run", "build"]
