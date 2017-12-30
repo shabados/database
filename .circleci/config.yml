@@ -1,11 +1,20 @@
 version: 2
 jobs:
   build:
-    docker: docker:17-git
+    docker:
+      - image: docker:17-git
     steps:
       - checkout
       - setup_remote_docker
       - run:
-          name: Build Database
+          name: Build database
           command: docker-compose up
-
+      - deploy:
+          name: Release database on Github
+          command: |
+            echo "Tagging on Github"
+            ls
+            ls build/
+            if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
+              echo "Adding Github release"
+            fi
