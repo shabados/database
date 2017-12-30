@@ -7,9 +7,7 @@ jobs:
       - setup_remote_docker
       - run:
           name: Build Database
-          command: |
-            set +o pipefail
-            docker-compose up
+          command: docker-compose up
       - deploy:
           name: Release database on GitHub
           command: |
