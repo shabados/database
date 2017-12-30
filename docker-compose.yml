@@ -4,4 +4,5 @@ services:
   db:
     build: .
     volumes:
+      - "/usr/src/app/node_modules"
       - ".:/usr/src/app"
