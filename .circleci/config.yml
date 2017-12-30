@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: docker:17-git
+      - image: circleci/node:8.9.2
     steps:
       - checkout
       - setup_remote_docker
@@ -12,9 +12,8 @@ jobs:
       - deploy:
           name: Release database on Github
           command: |
-            echo "Tagging on Github"
-            ls
-            ls build/
-            if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
-              echo "Adding Github release"
+            npm install release-it
+            npm run release
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              echo "Releasing on Github"
             fi
