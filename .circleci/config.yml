@@ -5,16 +5,15 @@ jobs:
       - image: circleci/node:8.9.2
     steps:
       - checkout
-      - setup_remote_docker
+      - run: npm install
       - run:
           name: Build database
-          command: docker-compose up
+          command: npm run build
       - store_artifacts:
           path: build/database.sqlite
       - deploy:
           name: Release database on Github
           command: |
-            npm install release-it
             npm run release
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               echo "Releasing on Github"
