@@ -17,7 +17,7 @@ exports.up = knex => Promise.all( [
     table.text( 'name' ).notNullable()
   } ),
 
-  knex.schema.createTable( 'shabads', table => {
+  knex.schema.createTable( 'bani', table => {
     table.increments( 'id' ).primary()
     table.integer( 'raag_id' ).references( 'id' ).inTable( 'raags' )
     table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' )
@@ -27,7 +27,7 @@ exports.up = knex => Promise.all( [
   knex.schema.createTable( 'lines', table => {
     table.increments( 'id' ).primary()
     table.integer( 'ang' ).notNullable()
-    table.integer( 'shabad_id' ).references( 'id' ).inTable( 'shabads' ).notNullable()
+    table.integer( 'bani_id' ).references( 'id' ).inTable( 'bani' ).notNullable()
     table.text( 'gurmukhi' ).notNullable()
     table.text( 'english' )
     table.text( 'punjabi' )
@@ -43,6 +43,6 @@ exports.down = knex => Promise.all( [
   knex.schema.dropTable( 'raags' ),
   knex.schema.dropTable( 'writers' ),
   knex.schema.dropTable( 'sources' ),
-  knex.schema.dropTable( 'shabads' ),
+  knex.schema.dropTable( 'bani' ),
   knex.schema.dropTable( 'lines' ),
 ] )
