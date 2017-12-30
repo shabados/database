@@ -1,0 +1,18 @@
+{
+  "name": "shabados-database",
+  "version": "1.0.0",
+  "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
+  "scripts": {
+    "build": "knex migrate:latest && knex seed:run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShabadOS/database.git"
+  },
+  "author": "ShabadOS Team <ShabadOS@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ShabadOS/database/issues"
+  },
+  "homepage": "https://github.com/ShabadOS/database#readme"
+}
