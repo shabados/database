@@ -17,8 +17,6 @@ Modify this and run the build as detailed above to generate a new SQLite3 DB wit
 
 The schema can be changed in the `migrations/schema.js` file.
 
-When making a change, adjust the version in `package.json` according to semver versioning.
-
 ## Releases
 
 Compiled databases are available via the release page.

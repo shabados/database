@@ -1,9 +1,10 @@
 {
   "name": "shabados-database",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
-    "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run"
+    "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run",
+    "release": "release-it -n --no-npm.publish --github.release --github.assets=build/database.sqlite"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   "homepage": "https://github.com/ShabadOS/database#readme",
   "dependencies": {
     "knex": "^0.14.2",
+    "release-it": "^5.1.2",
     "sqlite3": "^3.1.13"
   }
 }
