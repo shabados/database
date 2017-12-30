@@ -5,4 +5,5 @@ services:
     build: .
     volumes:
       - "/usr/src/app/node_modules"
+      - "/usr/src/app/build"
       - ".:/usr/src/app"

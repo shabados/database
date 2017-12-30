@@ -3,6 +3,9 @@ FROM node:8
 
 WORKDIR /usr/src/app
 
+# Create a build folder for DB output
+RUN mkdir build
+
 # Deal with dependencies first to improve docker caching
 COPY package*.json ./
 RUN npm install
