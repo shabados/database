@@ -9,6 +9,8 @@ jobs:
       - run:
           name: Build database
           command: docker-compose up
+      - store_artifacts:
+          path: build/database.sqlite
       - deploy:
           name: Release database on Github
           command: |
