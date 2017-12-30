@@ -8,13 +8,4 @@ jobs:
       - run:
           name: Build Database
           command: docker-compose up
-      - deploy:
-          name: Release database on GitHub
-          command: |
-            echo "Tagging on Github"
-            ls
-            ls build/
-            if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
-              echo "Adding Github release"
-            fi
 
