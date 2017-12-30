@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
   },
-  "homepage": "https://github.com/ShabadOS/database#readme"
+  "homepage": "https://github.com/ShabadOS/database#readme",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  }
 }
