@@ -11,13 +11,12 @@ jobs:
           set +o pipefail
           docker-compose up
       - deploy:
-        name: Release databas on GitHub
+        name: Release database on GitHub
         command: |
+          echo "Tagging on Github"
           ls
           ls build/
           if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
-            echo "Deploying to Github"
+            echo "Adding Github release"
           fi
-workflows:
-  version: 2
 
