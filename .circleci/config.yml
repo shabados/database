@@ -6,17 +6,17 @@ jobs:
       - checkout
       - setup_remote_docker
       - run:
-        name: Build Database
-        command: |
-          set +o pipefail
-          docker-compose up
+          name: Build Database
+          command: |
+            set +o pipefail
+            docker-compose up
       - deploy:
-        name: Release database on GitHub
-        command: |
-          echo "Tagging on Github"
-          ls
-          ls build/
-          if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
-            echo "Adding Github release"
-          fi
+          name: Release database on GitHub
+          command: |
+            echo "Tagging on Github"
+            ls
+            ls build/
+            if [ "$ {CIRCLE_BRANCH}" == "master" ]; then
+              echo "Adding Github release"
+            fi
 
