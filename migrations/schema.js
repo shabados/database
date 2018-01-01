@@ -33,7 +33,7 @@ exports.up = knex => Promise.all( [
 
   knex.schema.createTable( 'line_types', table => {
     table.increments( 'id' ).primary()
-    table.text('name').notNullable().unique()
+    table.text( 'name' ).notNullable().unique()
   } ),
 
   knex.schema.createTable( 'lines', table => {
