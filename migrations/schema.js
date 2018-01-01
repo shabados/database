@@ -19,6 +19,7 @@ exports.up = knex => Promise.all( [
 
   knex.schema.createTable( 'shabads', table => {
     table.increments( 'id' ).primary()
+    table.integer( 'ghar' )
     table.integer( 'raag_id' ).references( 'id' ).inTable( 'raags' )
     table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' ) // Make notNullable once we figure out how to get the data
     table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' ).notNullable()
