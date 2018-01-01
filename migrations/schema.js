@@ -30,6 +30,7 @@ exports.up = knex => Promise.all( [
     table.integer( 'ang' ).notNullable()
     table.integer( 'shabad_id' ).references( 'id' ).inTable( 'shabads' ).notNullable()
     table.text( 'gurmukhi' ).notNullable()
+    table.text( 'first_letters' )
     table.text( 'english' )
     table.text( 'punjabi' )
     table.text( 'transliteration' )
