@@ -6,31 +6,40 @@ An open gurbani database containing an evolving set of corrections. Used in Shab
 
 ![schema](schema.png)
 
-## Development
-
-### Building
+## Building
 
 Install [docker](http://docker.com).
 
-Run `docker-compose up db` to generate the SQLite3 DB in the `build` folder.
+Run `docker-compose up build` to generate the SQLite3 DB in the `build` folder.
 
-### Contributing
+## Contributing
 
-The content for each ang can be found in the corresponding js file in the `seeds` folder. 
-Modify this and run the build as detailed above to generate a new SQLite3 DB with the changes.
+The schema can be modified in the `migrations/schema.js` file.
 
-The schema can be changed in the `migrations/schema.js` file.
+The `seeds` folder is structured by source, and then a folder with the number of the ang.
+Each folder contains all the ang files
+
+### Single line changes
+The content for each ang can be found in the corresponding js file. 
+Simply change any values as desired.
+
+### Large/batch changes
+
+To modify large parts of the database, based on some rule:
+- Build a local copy of the database, following the instructions in the Building section
+- Modify the database file in `builds/database.sqlite` as you see fit
+- Run `docker-compose up generate` to regenerate the seed files with your changes
 
 ## Releases
+
+The builds for any of branches can be found on [CircleCI](https://circleci.com/gh/ShabadOS).
 
 Compiled databases are available via the release page.
       
 ## Viewing
 
-Alternately, you can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view the SQLite file.
+You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view the SQLite file.
 
 ## Todo
 
-- Provide contribution guidelines
 - Redo English translations under an open license
-- Secondary priority is to research licenses that disallow monetary gain and incorrect changes while also enforcing a requirement to share the database regardless of how it is being used (examples: cloud-service, desktop/mobile applications, or presentations). This may apply to the Gurbani data in the future.
