@@ -17,12 +17,23 @@ exports.up = knex => Promise.all( [
     table.text( 'name' ).notNullable().unique()
   } ),
 
+  knex.schema.createTable( 'shabad_types', table => {
+    table.increments( 'id' ).primary()
+    table.text( 'name' ).notNullable().unique()
+  } ),
+
   knex.schema.createTable( 'shabads', table => {
     table.increments( 'id' ).primary()
     table.integer( 'ghar' )
     table.integer( 'raag_id' ).references( 'id' ).inTable( 'raags' )
+    table.integer( 'type_id' ).references( 'id' ).inTable( 'shabad_types' )
     table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' ) // Make notNullable once we figure out how to get the data
     table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' ).notNullable()
+  } ),
+
+  knex.schema.createTable( 'line_types', table => {
+    table.increments( 'id' ).primary()
+    table.text('name').notNullable().unique()
   } ),
 
   knex.schema.createTable( 'lines', table => {
@@ -35,6 +46,7 @@ exports.up = knex => Promise.all( [
     table.text( 'punjabi' )
     table.text( 'transliteration' )
     table.text( 'pronounciation' )
+    table.integer( 'type_id' ).references( 'id' ).inTable( 'line_types' )
   } ),
 
   knex.schema.createTable( 'banis', table => {
@@ -53,11 +65,13 @@ exports.up = knex => Promise.all( [
  * Drops schema
  */
 exports.down = knex => Promise.all( [
+  knex.schema.dropTable( 'bani_lines' ),
+  knex.schema.dropTable( 'banis' ),
+  knex.schema.dropTable( 'lines' ),
+  knex.schema.dropTable( 'line_types' ),
+  knex.schema.dropTable( 'shabads' ),
   knex.schema.dropTable( 'raags' ),
   knex.schema.dropTable( 'writers' ),
   knex.schema.dropTable( 'sources' ),
-  knex.schema.dropTable( 'bani_lines' ),
-  knex.schema.dropTable( 'banis' ),
-  knex.schema.dropTable( 'shabads' ),
-  knex.schema.dropTable( 'lines' ),
+  knex.schema.dropTable( 'shabad_types' ),
 ] )
