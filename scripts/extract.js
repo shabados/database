@@ -37,14 +37,45 @@ const main = async () => {
     console.log( `Source ${source} has ${count} pages` )
 
     // Create directories in 100s up to count
-    for ( let i = 1; i <= count; i += 100 ) {
-      const number_dir = `${dir}/${i}`
+    for ( let ang_batch = 1; ang_batch <= count; ang_batch += 100 ) {
+      const number_dir = `${dir}/${ang_batch}`
       // Create folder of number of page in 100s
       if ( !fs.existsSync( number_dir ) ) {
         fs.mkdirSync( number_dir )
       }
-    }
 
+      // Now go through and pull lines for each ang, and write it to the folder
+      for ( let ang = ang_batch; ang <= count; ang++ ) {
+
+        // Be great to write the contents to JSON files in this folder
+        const lines = (
+          await knex(
+            'shabad' )
+            .select()
+            .where( 'ang_id', ang )
+            .andWhere( 'source_id', source )
+        ).map( ( { // this map is pointless for now
+          SHABAD_ID,
+          LINE_ID,
+          RAAG_ID,
+          GURMUKHI,
+          TRANSLITERATION,
+          PUNJABI,
+          PRONUNCIATION
+        } ) => ( {
+          SHABAD_ID,
+          LINE_ID,
+          RAAG_ID,
+          GURMUKHI,
+          TRANSLITERATION,
+          PUNJABI,
+          PRONUNCIATION
+        } ) )
+
+        fs.writeFileSync( `${number_dir}/${ang}.json`, JSON.stringify( lines, null, 2 ) )
+      }
+
+    }
   }
 
 }
