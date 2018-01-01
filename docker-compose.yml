@@ -1,8 +1,14 @@
 version: "3.3"
 
 services:
-  db:
+  build:
     build: .
     volumes:
       - "/usr/src/app/node_modules"
       - ".:/usr/src/app"
+  generate:
+    build: .
+    volumes:
+      - "/usr/src/app/node_modules"
+      - ".:/usr/src/app"
+    command: ["npm", "run", "generate"]
