@@ -2,6 +2,10 @@
 # Database
 An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
+## Schema
+
+[schema](schema.png)
+
 ## Development
 
 ### Building

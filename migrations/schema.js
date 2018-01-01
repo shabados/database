@@ -4,35 +4,46 @@
 exports.up = knex => Promise.all( [
   knex.schema.createTable( 'raags', table => {
     table.increments( 'id' ).primary()
-    table.text( 'name' ).notNullable()
+    table.text( 'name' ).notNullable().unique()
   } ),
 
   knex.schema.createTable( 'sources', table => {
     table.increments( 'id' ).primary()
-    table.text( 'name' ).notNullable()
+    table.text( 'name' ).notNullable().unique()
   } ),
 
   knex.schema.createTable( 'writers', table => {
     table.increments( 'id' ).primary()
-    table.text( 'name' ).notNullable()
+    table.text( 'name' ).notNullable().unique()
   } ),
 
-  knex.schema.createTable( 'bani', table => {
+  knex.schema.createTable( 'shabads', table => {
     table.increments( 'id' ).primary()
     table.integer( 'raag_id' ).references( 'id' ).inTable( 'raags' )
-    table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' )
-    table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' )
+    table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' ) // Make notNullable once we figure out how to get the data
+    table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' ).notNullable()
   } ),
 
   knex.schema.createTable( 'lines', table => {
     table.increments( 'id' ).primary()
     table.integer( 'ang' ).notNullable()
-    table.integer( 'bani_id' ).references( 'id' ).inTable( 'bani' ).notNullable()
+    table.integer( 'shabad_id' ).references( 'id' ).inTable( 'shabads' ).notNullable()
     table.text( 'gurmukhi' ).notNullable()
     table.text( 'english' )
     table.text( 'punjabi' )
     table.text( 'transliteration' )
     table.text( 'pronounciation' )
+  } ),
+
+  knex.schema.createTable( 'banis', table => {
+    table.increments( 'id' ).primary()
+    table.text( 'name' ).notNullable().unique()
+  } ),
+
+  knex.schema.createTable( 'bani_lines', table => {
+    table.integer( 'line_id' ).references( 'id' ).inTable( 'lines' )
+    table.integer( 'bani_id' ).references( 'id' ).inTable( 'banis' )
+    table.primary( [ 'line_id', 'bani_id' ] )
   } ),
 ] )
 
@@ -43,6 +54,8 @@ exports.down = knex => Promise.all( [
   knex.schema.dropTable( 'raags' ),
   knex.schema.dropTable( 'writers' ),
   knex.schema.dropTable( 'sources' ),
-  knex.schema.dropTable( 'bani' ),
+  knex.schema.dropTable( 'bani_lines' ),
+  knex.schema.dropTable( 'banis' ),
+  knex.schema.dropTable( 'shabads' ),
   knex.schema.dropTable( 'lines' ),
 ] )
