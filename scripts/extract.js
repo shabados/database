@@ -1,5 +1,5 @@
 /**
- * Script to generate JSON files from original release DB
+ * One-time script to generate JSON files from original release DB
  */
 
 const fs = require( 'fs' )
@@ -38,6 +38,8 @@ const main = async () => {
 
     // Create directories in 100s up to count
     for ( let ang_batch = 1; ang_batch <= count; ang_batch += 100 ) {
+      console.log( `Writing batch ${ang_batch}` )
+
       const number_dir = `${dir}/${ang_batch}`
       // Create folder of number of page in 100s
       if ( !fs.existsSync( number_dir ) ) {
@@ -80,4 +82,7 @@ const main = async () => {
 
 }
 
-main().catch( e => console.error( e ) )
+const startTime = Date.now()
+main()
+  .then( () => console.log( `Took ${(Date.now() - startTime)/1000} seconds` ) )
+  .catch( e => console.error( e ) )
