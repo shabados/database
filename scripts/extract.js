@@ -45,7 +45,7 @@ const main = async () => {
       }
 
       // Now go through and pull lines for each ang, and write it to the folder
-      for ( let ang = ang_batch; ang <= count; ang++ ) {
+      for ( let ang = ang_batch; ang < ang_batch + 100; ang++ ) {
 
         // Be great to write the contents to JSON files in this folder
         const lines = (
