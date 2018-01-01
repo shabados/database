@@ -4,7 +4,7 @@ An open gurbani database containing an evolving set of corrections. Used in Shab
 
 ## Schema
 
-[schema](schema.png)
+![schema](schema.png)
 
 ## Development
 
