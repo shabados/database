@@ -41,11 +41,13 @@ exports.up = knex => Promise.all( [
     table.integer( 'ang' ).notNullable()
     table.integer( 'shabad_id' ).references( 'id' ).inTable( 'shabads' ).notNullable()
     table.text( 'gurmukhi' ).notNullable()
+    table.integer( 'pada' )
+    table.integer( 'source_line' )
     table.text( 'first_letters' )
     table.text( 'english' )
     table.text( 'punjabi' )
     table.text( 'transliteration' )
-    table.text( 'pronounciation' )
+    table.text( 'pronunciation' )
     table.integer( 'type_id' ).references( 'id' ).inTable( 'line_types' )
   } ),
 
