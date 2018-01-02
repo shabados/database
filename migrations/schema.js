@@ -23,12 +23,13 @@ exports.up = knex => Promise.all( [
   } ),
 
   knex.schema.createTable( 'shabads', table => {
-    table.increments( 'id' ).primary()
+    table.integer( 'id' ) // This should be changed back into increments().primary()
     table.integer( 'ghar' )
     table.integer( 'raag_id' ).references( 'id' ).inTable( 'raags' )
     table.integer( 'type_id' ).references( 'id' ).inTable( 'shabad_types' )
-    table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' ) // Make notNullable once we figure out how to get the data
+    table.integer( 'writer_id' ).references( 'id' ).inTable( 'writers' ).notNullable()
     table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' ).notNullable()
+    // Todo: Define some unique constraints on raag, source, writer, type, ghar
   } ),
 
   knex.schema.createTable( 'line_types', table => {
