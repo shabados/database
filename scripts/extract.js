@@ -70,7 +70,7 @@ const main = async () => {
         GURMUKHI: gurmukhi,
         TRANSLITERATION: transliteration,
         PUNJABI: punjabi,
-        TRANSLATION: translation,
+        ENGLISH: translation,
         PRONUNCIATION: pronunciation,
         PADA: pada,
         TYPE: line_type,
