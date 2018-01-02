@@ -44,6 +44,14 @@
     "no-shadow": 0,
     "no-await-in-loop": 0,
     "no-loop-func": 0,
-    "no-restricted-syntax": 0
+    "no-restricted-syntax": 0,
+    "semi-style": [
+      "error",
+      "first"
+    ],
+    "computed-property-spacing": [
+      "error",
+      "always"
+    ]
   }
 }
