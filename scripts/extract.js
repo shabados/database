@@ -57,8 +57,10 @@ const main = async () => {
       }
 
 
+      // TODO: fix this to use shabad translations etc
       const angs = await ( knex( 'shabad' )
-          .select()
+          .select( `shabad_id, line_id, raag_id, ang_id, shabad.gurmukhi, shabad.transliteration, 
+          shabad.punjabi, shabad.english, pronunciation, pada, type, writer_id, source_id` )
           .join( 'gurmukhi', 'gurmukhi.tuk', 'shabad.pk' )
           .whereBetween( 'ang_id', [ ang_batch, ang_batch + 99 ] )
           .andWhere( 'source_id', source )

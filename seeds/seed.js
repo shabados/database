@@ -54,6 +54,7 @@ exports.seed = knex => knex.transaction( async trx => {
     .transacting( trx ) ) )
 
   // Insert all the lines
+  // TODO: insert in order of sources.json to start SGGS from line 1 here
   const lines = readdirSync( `seeds/${SOURCES_DIR}` )
     .reduce( ( data, source ) => [
       ...data,
