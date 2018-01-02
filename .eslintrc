@@ -39,6 +39,11 @@
         "argsIgnorePattern": "(res|next)"
       }
     ],
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "linebreak-style": 0,
+    "no-shadow": 0,
+    "no-await-in-loop": 0,
+    "no-loop-func": 0,
+    "no-restricted-syntax": 0
   }
 }
