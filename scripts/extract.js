@@ -101,7 +101,7 @@ const main = async () => {
           translation,
           punjabi,
           pronunciation,
-          type_id: line_types.indexOf( line_type ) + 1
+          type_id: ( line_types.indexOf( line_type ) + 1 ) || null // ( -1 + 1 ) || null === null
         }
 
         return { ...angs, [ ang ]: [ ...( angs[ ang ] || [] ), line ] }
