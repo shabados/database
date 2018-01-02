@@ -28,8 +28,17 @@ Run `npm run build` to build the database.
 
 The schema can be modified in the `migrations/schema.js` file.
 
-The `seeds` folder is structured by source, and then a folder with the number of the ang.
-Each folder contains all the ang files
+### Structure
+
+JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `seeds` folder.
+Changing a value here will be reflected everwhere else. The `array index + 1` represents the id used
+for each relation in other tables.
+
+Lines are split by `sources/source name/first ang in batch/ang number.json`.
+
+Shabads are split by `shabads/source name/writer name.json`.
+
+Bani files are split by `banis/bani name.json`
 
 ### Single line changes
 The content for each ang can be found in the corresponding js file. 
