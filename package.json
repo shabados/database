@@ -4,7 +4,7 @@
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run",
-    "generate": "node scripts/extract.js",
+    "generate": "node lib/extract.js",
     "release": "release-it -n --no-npm.publish --github.release --github.assets=build/database.sqlite"
   },
   "repository": {
