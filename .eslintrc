@@ -1,0 +1,57 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "func-names": [
+      "error",
+      "never"
+    ],
+    "space-in-parens": [
+      "error",
+      "always"
+    ],
+    "array-bracket-spacing": [
+      "error",
+      "always"
+    ],
+    "semi": [
+      "error",
+      "never"
+    ],
+    "import/extensions": 0,
+    "import/no-unresolved": 0,
+    "import/prefer-default-export": 0,
+    "object-curly-newline": [
+      "error",
+      {
+        "consistent": true
+      }
+    ],
+    "arrow-parens": [
+      "error",
+      "as-needed",
+      {
+        "requireForBlockBody": false
+      }
+    ],
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "(res|next)"
+      }
+    ],
+    "react/jsx-filename-extension": 0,
+    "linebreak-style": 0,
+    "no-shadow": 0,
+    "no-await-in-loop": 0,
+    "no-loop-func": 0,
+    "no-restricted-syntax": 0,
+    "semi-style": [
+      "error",
+      "first"
+    ],
+    "computed-property-spacing": [
+      "error",
+      "always"
+    ]
+  }
+}
