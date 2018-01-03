@@ -61,11 +61,12 @@ exports.seed = knex => knex.transaction( async trx => {
     .reduce( ( data, source ) => [
       ...data,
       ...readdirSync( `seeds/${SOURCES_DIR}/${source}` )
+        .sort( ( a1, a2 ) => a1 - a2 )
         .reduce( ( data, batch ) => [
           ...data,
           ...readdirSync( `seeds/${SOURCES_DIR}/${source}/${batch}` )
             .map( stripExtension )
-            .sort( ( ang1, ang2 ) => ang1 - ang2 )
+            .sort( ( a1, a2 ) => a1 - a2 )
             .map( ang => [ ang, `./${SOURCES_DIR}/${source}/${batch}/${ang}` ] )
             // eslint-disable-next-line
             .map( ( [ ang, path ] ) => [ ang, require( path ) ] )
