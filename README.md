@@ -36,9 +36,14 @@ for each relation in other tables.
 
 Lines are split by `sources/source name/first ang in batch/ang number.json`.
 
+Banis can be added in `banis.json`. To define the lines a bani contains,
+add a `start_banis` key with an array of the index of the banis that start there,
+and a corresponding `end_banis` with the same in the ending line's definition in
+the corresponding ang file.
+ 
+
 Shabads are split by `shabads/source name/writer name.json`.
 
-Bani files are split by `banis/bani name.json`
 
 ### Single line changes
 The content for each ang can be found in the corresponding js file. 
