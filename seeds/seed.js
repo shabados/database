@@ -51,10 +51,9 @@ exports.seed = knex => knex.transaction( async trx => {
     ], [] )
     .reduce( ( allData, data ) => [ ...allData, ...data ], [] )
 
-  await Promise.all( shabads
-    .map( shabad => knex( 'shabads' )
-      .insert( shabad )
-      .transacting( trx ) ) )
+  for ( const shabad of shabads ) {
+    await knex( 'shabads' ).insert( shabad ).transacting( trx )
+  }
 
   // Insert all the lines
   const lines = readdirSync( `seeds/${SOURCES_DIR}` )
@@ -78,8 +77,7 @@ exports.seed = knex => knex.transaction( async trx => {
     ], [] )
     .reduce( ( allData, data ) => [ ...allData, ...data ], [] )
 
-  await Promise.all( lines
-    .map( lines => knex( 'lines' )
-      .insert( lines )
-      .transacting( trx ) ) )
+  for ( const line of lines ) {
+    await knex( 'lines' ).insert( line ).transacting( trx )
+  }
 } )
