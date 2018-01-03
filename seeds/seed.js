@@ -77,6 +77,7 @@ exports.seed = knex => knex.transaction( async trx => {
     ], [] )
     .reduce( ( allData, data ) => [ ...allData, ...data ], [] )
 
+  // Use for-of instead to insert lines sequentially and preserve order
   for ( const line of lines ) {
     await knex( 'lines' ).insert( line ).transacting( trx )
   }
