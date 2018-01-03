@@ -7,8 +7,5 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
 
-# Copy sources into current dir
-COPY . .
-
 # Run the build defined in package.json
 CMD ["npm", "run", "build"]
