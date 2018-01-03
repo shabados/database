@@ -112,12 +112,45 @@
   {
     "shabad_id": 1306,
     "pada": 1,
+    "source_line": 3,
+    "gurmukhi": "gauVI kbIr jI ]",
+    "transliteration": "Gourree Kabeer Jee ||",
+    "translation": "Gauree, Kabeer Jee:",
+    "punjabi": "",
+    "pronunciation": "",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 1,
     "source_line": 4,
     "gurmukhi": "ibnu sq; sqI hoie kYsy nwir ]",
     "transliteration": "Bin Sath Sathee Hoe Kaisae Naar ||",
     "translation": "Without Truth, how can the woman be a true satee - a widow who burns herself on her husband's funeral pyre?",
     "punjabi": "ਭਲਾ ਸਤਿ-ਧਰਮ ਤੋਂ ਬਿਨਾ ਕੋਈ ਇਸਤ੍ਰੀ ਸਤੀ ਕਿਵੇਂ ਬਣ ਸਕਦੀ ਹੈ?",
     "pronunciation": "sq sqI: poly bolo",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 1,
+    "source_line": 4,
+    "gurmukhi": "ibnu sq; sqI hoie kYsy nwir ]",
+    "transliteration": "Bin Sath Sathee Hoe Kaisae Naar ||",
+    "translation": "Without Truth, how can the woman be a true satee - a widow who burns herself on her husband's funeral pyre?",
+    "punjabi": "ਭਲਾ ਸਤਿ-ਧਰਮ ਤੋਂ ਬਿਨਾ ਕੋਈ ਇਸਤ੍ਰੀ ਸਤੀ ਕਿਵੇਂ ਬਣ ਸਕਦੀ ਹੈ?",
+    "pronunciation": "sq sqI: poly bolo",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 1,
+    "source_line": 4,
+    "gurmukhi": "pMifq dyKhu; irdY bIcwir ]1]",
+    "transliteration": "Panddith Dhaekhahu Ridhai Beechaar ||1||",
+    "translation": "O Pandit, O religious scholar, see this and contemplate it within your heart. ||1||",
+    "punjabi": "ਹੇ ਪੰਡਿਤ! ਮਨ ਵਿਚ ਵਿਚਾਰ ਕੇ ਵੇਖ ॥੧॥",
+    "pronunciation": "",
     "type_id": 3
   },
   {
@@ -145,6 +178,17 @@
   {
     "shabad_id": 1306,
     "pada": 2,
+    "source_line": 4,
+    "gurmukhi": "pRIiq ibnw; kYsy bDY snyhu ]",
+    "transliteration": "Preeth Binaa Kaisae Badhhai Sanaehu ||",
+    "translation": "Without love, how can one's affection increase?",
+    "punjabi": "(ਇਸੇ ਤਰ੍ਹਾਂ ਹਿਰਦੇ ਵਿਚ) ਪ੍ਰੀਤ ਤੋਂ ਬਿਨਾ (ਪ੍ਰਭੂ-ਪਤੀ ਨਾਲ) ਪਿਆਰ ਕਿਵੇਂ ਬਣ ਸਕਦਾ ਹੈ?",
+    "pronunciation": "bDY: polw bolo",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 2,
     "source_line": 5,
     "gurmukhi": "jb lgu rsu; qb lgu nhI nyhu ]1] rhwau ]",
     "transliteration": "Jab Lag Ras Thab Lag Nehee Naehu ||1|| Rehaao ||",
@@ -152,6 +196,28 @@
     "punjabi": "ਜਦ ਤਾਈਂ (ਮਨ ਵਿਚ) ਮਾਇਆ ਦਾ ਚਸਕਾ ਹੈ, ਤਦ ਤਾਈਂ (ਪਤੀ ਪਰਮਾਤਮਾ ਨਾਲ) ਪਿਆਰ ਨਹੀਂ ਹੋ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥",
     "pronunciation": "l`gu",
     "type_id": 4
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 2,
+    "source_line": 5,
+    "gurmukhi": "jb lgu rsu; qb lgu nhI nyhu ]1] rhwau ]",
+    "transliteration": "Jab Lag Ras Thab Lag Nehee Naehu ||1|| Rehaao ||",
+    "translation": "As long as there is attachment to pleasure, there can be no spiritual love. ||1||Pause||",
+    "punjabi": "ਜਦ ਤਾਈਂ (ਮਨ ਵਿਚ) ਮਾਇਆ ਦਾ ਚਸਕਾ ਹੈ, ਤਦ ਤਾਈਂ (ਪਤੀ ਪਰਮਾਤਮਾ ਨਾਲ) ਪਿਆਰ ਨਹੀਂ ਹੋ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥",
+    "pronunciation": "l`gu",
+    "type_id": 4
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 3,
+    "source_line": 5,
+    "gurmukhi": "swhin squ krY; jIA ApnY ]",
+    "transliteration": "Saahan Sath Karai Jeea Apanai ||",
+    "translation": "One who, in his own soul, believes the Queen Maya to be true,",
+    "punjabi": "ਜੋ ਮਨੁੱਖ ਮਾਇਆ ਨੂੰ ਹੀ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸੱਤ ਸਮਝਦਾ ਹੈ,",
+    "pronunciation": "(swhin) SwhUkwrnI, mwieAw[ s`qu",
+    "type_id": 3
   },
   {
     "shabad_id": 1306,
@@ -177,12 +243,45 @@
   },
   {
     "shabad_id": 1306,
+    "pada": 3,
+    "source_line": 5,
+    "gurmukhi": "so rmXy kau; imlY n. supnY ]2]",
+    "transliteration": "So Ramayae Ko Milai N Supanai ||2||",
+    "translation": "Does not meet the Lord, even in dreams. ||2||",
+    "punjabi": "ਉਹ ਪ੍ਰਭੂ ਨੂੰ ਸੁਪਨੇ ਵਿਚ ਭੀ (ਭਾਵ, ਕਦੇ ਭੀ) ਨਹੀਂ ਮਿਲ ਸਕਦਾ ॥੨॥",
+    "pronunciation": "r-mXy: Xy qwlU qoN bolo",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
     "pada": 4,
     "source_line": 6,
     "gurmukhi": "qnu mnu Dnu; igRhu sauip srIru ]",
     "transliteration": "Than Man Dhhan Grihu Soup Sareer ||",
     "translation": "One who surrenders her body, mind, wealth, home and self",
     "punjabi": "ਜੋ ਆਪਣਾ ਤਨ, ਮਨ, ਧਨ, ਘਰ ਤੇ ਸਰੀਰ (ਆਪਣੇ ਪਤੀ ਦੇ) ਹਵਾਲੇ ਕਰ ਦੇਂਦੀ ਹੈ,",
+    "pronunciation": "",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 4,
+    "source_line": 6,
+    "gurmukhi": "qnu mnu Dnu; igRhu sauip srIru ]",
+    "transliteration": "Than Man Dhhan Grihu Soup Sareer ||",
+    "translation": "One who surrenders her body, mind, wealth, home and self",
+    "punjabi": "ਜੋ ਆਪਣਾ ਤਨ, ਮਨ, ਧਨ, ਘਰ ਤੇ ਸਰੀਰ (ਆਪਣੇ ਪਤੀ ਦੇ) ਹਵਾਲੇ ਕਰ ਦੇਂਦੀ ਹੈ,",
+    "pronunciation": "",
+    "type_id": 3
+  },
+  {
+    "shabad_id": 1306,
+    "pada": 4,
+    "source_line": 6,
+    "gurmukhi": "soeI suhwgin; khY kbIru ]3]23]",
+    "transliteration": "Soee Suhaagan Kehai Kabeer ||3||23||",
+    "translation": "- she is the true soul-bride, says Kabeer. ||3||23||",
+    "punjabi": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਉਹੋ (ਜੀਵ-) ਇਸਤ੍ਰੀ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ॥੩॥੨੩॥",
     "pronunciation": "",
     "type_id": 3
   },
