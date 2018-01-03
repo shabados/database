@@ -1,14 +1,18 @@
 [
   {
     "id": 5476,
+    "ghar": null,
     "raag_id": 47,
-    "source_id": 1,
-    "writer_id": 29
+    "type_id": null,
+    "writer_id": 29,
+    "source_id": 1
   },
   {
     "id": 5477,
+    "ghar": null,
     "raag_id": 47,
-    "source_id": 1,
-    "writer_id": 29
+    "type_id": null,
+    "writer_id": 29,
+    "source_id": 1
   }
 ]

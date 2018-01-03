@@ -1,26 +1,34 @@
 [
   {
     "id": 267,
+    "ghar": null,
     "raag_id": 5,
-    "source_id": 1,
-    "writer_id": 8
+    "type_id": null,
+    "writer_id": 8,
+    "source_id": 1
   },
   {
     "id": 268,
+    "ghar": null,
     "raag_id": 5,
-    "source_id": 1,
-    "writer_id": 8
+    "type_id": null,
+    "writer_id": 8,
+    "source_id": 1
   },
   {
     "id": 3604,
+    "ghar": null,
     "raag_id": 22,
-    "source_id": 1,
-    "writer_id": 8
+    "type_id": null,
+    "writer_id": 8,
+    "source_id": 1
   },
   {
     "id": 4892,
+    "ghar": null,
     "raag_id": 34,
-    "source_id": 1,
-    "writer_id": 8
+    "type_id": null,
+    "writer_id": 8,
+    "source_id": 1
   }
 ]
