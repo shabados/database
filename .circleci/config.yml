@@ -20,5 +20,6 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               git config --global push.default current
               echo "Releasing on Github"
+              chmod +x release.sh
               npm run release
             fi
