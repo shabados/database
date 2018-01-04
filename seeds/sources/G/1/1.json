@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "shabad_id": 1,
     "pada": 1,
     "source_line": 1,
@@ -8,13 +9,10 @@
     "translation": "One Universal Creator God, TheName Is Truth Creative Being Personified No Fear No Hatred Image Of The Undying, Beyond Birth, Self-Existent. By Guru's Grace~",
     "punjabi": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ, ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ), ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
     "pronunciation": "ie`kEAMkwr qoN AwrMB kro[ (iekmkwr, eykmkwr, ieikEAMkwr ieh Zlq aucwrn nhIN krnw[) aUVy dw mMUMh Ku`l@w, hoVy dI Avwz lMbI jwx ky, lMbw pUrw Pbw ky iek`Tw ie`k-EAMkwr <> bolo[ s`iq-nwmu[ pur-Ku: rwrw mukqw svwr ky, K`Ky AONkV lwau, rwry AONkV nhIN lwauxw[ sY-BM:sY kih ky B`by dI it`pI n`k c bolo jI , (sYbM jw sYBMg Zlq aucwrn hn) s`sy pYr ibMdI nhIN bolxI[ pRswid: p`py mgroN A`Dw rwrw i^Awl nwl bolo",
-    "type_id": 1,
-    "start_banis": [
-      1,
-      2
-    ]
+    "type_id": 1
   },
   {
+    "id": 2,
     "shabad_id": 1,
     "pada": 1,
     "source_line": 3,
@@ -26,6 +24,7 @@
     "type_id": 2
   },
   {
+    "id": 3,
     "shabad_id": 1,
     "pada": 2,
     "source_line": 4,
@@ -37,6 +36,7 @@
     "type_id": 3
   },
   {
+    "id": 4,
     "shabad_id": 1,
     "pada": 3,
     "source_line": 4,
@@ -48,6 +48,7 @@
     "type_id": 3
   },
   {
+    "id": 5,
     "shabad_id": 2,
     "pada": 1,
     "source_line": 5,
@@ -56,12 +57,10 @@
     "translation": "By thinking, He cannot be reduced to thought, even by thinking hundreds of thousands of times.",
     "punjabi": "ਜੇ ਮੈਂ ਲੱਖ ਵਾਰੀ (ਭੀ) (ਇਸ਼ਨਾਨ ਆਦਿਕ ਨਾਲ ਸਰੀਰ ਦੀ) ਸੁੱਚ ਰੱਖਾਂ, (ਤਾਂ ਭੀ ਇਸ ਤਰ੍ਹਾਂ) ਸੁੱਚ ਰੱਖਣ ਨਾਲ (ਮਨ ਦੀ) ਸੁੱਚ ਨਹੀਂ ਰਹਿ ਸਕਦੀ।",
     "pronunciation": "ho-veI[ l`K[",
-    "type_id": 3,
-    "end_banis": [
-      1
-    ]
+    "type_id": 3
   },
   {
+    "id": 6,
     "shabad_id": 2,
     "pada": 2,
     "source_line": 5,
@@ -73,6 +72,7 @@
     "type_id": 3
   },
   {
+    "id": 7,
     "shabad_id": 2,
     "pada": 3,
     "source_line": 5,
@@ -84,6 +84,7 @@
     "type_id": 3
   },
   {
+    "id": 8,
     "shabad_id": 2,
     "pada": 4,
     "source_line": 6,
@@ -95,6 +96,7 @@
     "type_id": 3
   },
   {
+    "id": 9,
     "shabad_id": 2,
     "pada": 5,
     "source_line": 6,
@@ -106,6 +108,7 @@
     "type_id": 3
   },
   {
+    "id": 10,
     "shabad_id": 2,
     "pada": 6,
     "source_line": 7,
@@ -117,6 +120,7 @@
     "type_id": 3
   },
   {
+    "id": 11,
     "shabad_id": 3,
     "pada": 1,
     "source_line": 7,
@@ -128,6 +132,7 @@
     "type_id": 3
   },
   {
+    "id": 12,
     "shabad_id": 3,
     "pada": 2,
     "source_line": 8,
@@ -139,6 +144,7 @@
     "type_id": 3
   },
   {
+    "id": 13,
     "shabad_id": 3,
     "pada": 3,
     "source_line": 8,
@@ -147,12 +153,10 @@
     "translation": "By His Command, some are high and some are low; by His Written Command, pain and pleasure are obtained.",
     "punjabi": "ਰੱਬ ਦੇ ਹੁਕਮ ਵਿਚ ਕੋਈ ਮਨੁੱਖ ਚੰਗਾ (ਬਣ ਜਾਂਦਾ) ਹੈ, ਕੋਈ ਭੈੜਾ। ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ (ਆਪਣੇ ਕੀਤੇ ਹੋਏ ਕਰਮਾਂ ਦੇ) ਲਿਖੇ ਅਨੁਸਾਰ ਦੁੱਖ ਤੇ ਸੁਖ ਭੋਗੀਦੇ ਹਨ।",
     "pronunciation": "au~qmu[ du`K[ iliK, suK poly bolxy[ pweI-Aih: pweI kih ky, AYVw mukqw kih ky, hwhy ishwrI bolo[",
-    "type_id": 3,
-    "end_banis": [
-      2
-    ]
+    "type_id": 3
   },
   {
+    "id": 14,
     "shabad_id": 3,
     "pada": 4,
     "source_line": 9,
@@ -164,6 +168,7 @@
     "type_id": 3
   },
   {
+    "id": 15,
     "shabad_id": 3,
     "pada": 5,
     "source_line": 9,
@@ -175,6 +180,7 @@
     "type_id": 3
   },
   {
+    "id": 16,
     "shabad_id": 3,
     "pada": 6,
     "source_line": 10,
@@ -186,6 +192,7 @@
     "type_id": 3
   },
   {
+    "id": 17,
     "shabad_id": 4,
     "pada": 1,
     "source_line": 10,
@@ -197,6 +204,7 @@
     "type_id": 3
   },
   {
+    "id": 18,
     "shabad_id": 4,
     "pada": 2,
     "source_line": 11,
@@ -208,6 +216,7 @@
     "type_id": 3
   },
   {
+    "id": 19,
     "shabad_id": 4,
     "pada": 3,
     "source_line": 11,
@@ -219,6 +228,7 @@
     "type_id": 3
   },
   {
+    "id": 20,
     "shabad_id": 4,
     "pada": 4,
     "source_line": 11,
@@ -230,6 +240,7 @@
     "type_id": 3
   },
   {
+    "id": 21,
     "shabad_id": 4,
     "pada": 5,
     "source_line": 12,
@@ -241,6 +252,7 @@
     "type_id": 3
   },
   {
+    "id": 22,
     "shabad_id": 4,
     "pada": 6,
     "source_line": 12,
@@ -252,6 +264,7 @@
     "type_id": 3
   },
   {
+    "id": 23,
     "shabad_id": 4,
     "pada": 7,
     "source_line": 12,
