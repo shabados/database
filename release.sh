@@ -5,7 +5,7 @@ set -o nounset
 set -o xtrace
 set -o pipefail
 
-log_messages=$(git log origin/master...HEAD --format=%s)
+log_messages=$(git log -1 --format=%s)
 major_re=\\bMAJOR\\b
 minor_re=\\bMINOR\\b
 
