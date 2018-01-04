@@ -5,8 +5,7 @@
   "private": true,
   "scripts": {
     "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run",
-    "generate": "node lib/extract.js",
-    "release": "./release.sh"
+    "generate": "node lib/extract.js"
   },
   "repository": {
     "type": "git",
