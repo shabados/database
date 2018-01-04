@@ -6,11 +6,11 @@ minor_re=\\bMINOR\\b
 
 if [[ ${log_messages} =~ ${major_re}  ]]; then
     echo "Major Release"
-    release-it major -n --no-npm.publish --github.release --github.assets=build/database.sqlite
+    release-it major -n --github.release --github.assets=build/database.sqlite
 elif [[ ${log_messages} =~ ${minor_re} ]]; then
     echo "Minor Release"
-    release-it minor -n --no-npm.publish --github.release --github.assets=build/database.sqlite
+    release-it minor -n --github.release --github.assets=build/database.sqlite
 else
     echo "Patch Release"
-    release-it patch -n --no-npm.publish --github.release --github.assets=build/database.sqlite
+    release-it patch -n --github.release --github.assets=build/database.sqlite
 fi
