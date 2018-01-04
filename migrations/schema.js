@@ -57,9 +57,10 @@ exports.up = knex => Promise.all( [
   } ),
 
   knex.schema.createTable( 'bani_lines', table => {
+    table.increments( 'id' ).primary()
     table.integer( 'line_id' ).references( 'id' ).inTable( 'lines' )
     table.integer( 'bani_id' ).references( 'id' ).inTable( 'banis' )
-    table.primary( [ 'line_id', 'bani_id' ] )
+    table.unique( [ 'line_id', 'bani_id' ] )
   } ),
 ] )
 
