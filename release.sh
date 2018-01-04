@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+set -o errexit
+set -o unset
+set -o xtrace
+set -o pipefail
+
 log_messages=$(git log origin/master...HEAD --format=%s)
 major_re=\\bMAJOR\\b
 minor_re=\\bMINOR\\b
