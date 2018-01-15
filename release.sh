@@ -2,7 +2,6 @@
 
 set -o errexit
 set -o nounset
-set -o xtrace
 set -o pipefail
 
 log_messages=$(git log -1 --format=%s)

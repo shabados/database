@@ -20,7 +20,13 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               # Write npm token to .npmrc
               echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
+
+              # Configure git
               git config --global push.default current
+              # Remove .gitignore to allow the built DB to be pushed
+              rm .gitignore
+
+              # Run Release script
               chmod +x release.sh
               echo "Releasing on Github"
               npm run release
