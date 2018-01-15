@@ -31,16 +31,12 @@ The schema can be modified in the `migrations/schema.js` file.
 ### Structure
 
 JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `seeds` folder.
-Changing a value here will be reflected everwhere else. The `array index + 1` represents the id used
+Changing a value here will be reflected everwhere else. The `(array index) + 1` represents the id used
 for each relation in other tables.
 
 Lines are split by `sources/source name/first ang in batch/ang number.json`.
 
-Banis can be added in `banis.json`. To define the lines a bani contains,
-add a `start_banis` key with an array of the index of the banis that start there,
-and a corresponding `end_banis` with the same in the ending line's definition in
-the corresponding ang file.
- 
+Banis can be added by adding a named JSON file to the `banis` folder. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to the files in `sources`. Note that for now, these lines have to be updated if new lines are added or removed from the source files. 
 
 Shabads are split by `shabads/source name/writer name.json`.
 
@@ -72,3 +68,4 @@ You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view th
 ## Todo
 
 - Redo English translations under an open license
+- Automatically update the Bani files if a line change in sources occurs
