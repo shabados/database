@@ -18,6 +18,8 @@ jobs:
           name: Release database on Github
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              # Write npm token to .npmrc
+              echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
               git config --global push.default current
               chmod +x release.sh
               echo "Releasing on Github"
