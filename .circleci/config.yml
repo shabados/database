@@ -26,6 +26,9 @@ jobs:
               # Remove .gitignore to allow the built DB to be pushed
               rm .gitignore
 
+              # Remove seeds to reduce npm packageg size
+              rm -rf seeds
+
               # Run Release script
               chmod +x release.sh
               echo "Releasing on Github"
