@@ -1,6 +1,30 @@
 
-# Database
+# @shabados/database
 An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
+
+## Quickstart
+
+Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
+
+An `objection.js` object is returned, allowing for flexible and relational querying.
+
+To fetch a shabad with first letters:
+
+```javascript
+    const { Lines } = require('@shabados/database')
+    
+    // Fetch the line, with information about the shabad
+    const line = await Lines
+    .query()
+    .where('first_letters', 'GLOB', 'ਹਹਹਗ')
+    .eager('shabad')
+    .first()
+    
+    // Fetch the other lines for the same shabad
+    const lines = await Lines
+      .query()
+      .where('shabad_id', '=', line.shabad_id)
+```
 
 ## Schema
 
@@ -59,7 +83,7 @@ The builds for any of branches can be found on [CircleCI](https://circleci.com/g
 If `MAJOR`, `MINOR` are found in any of the commit messages, the version will be adjusted as per
 semantic versioning.
 
-Compiled databases are available via the release page.
+Compiled databases are available via the release page, or via `npm install @shabados/database`.
       
 ## Viewing
 
