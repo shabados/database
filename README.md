@@ -11,17 +11,29 @@ An `objection.js` object is returned, allowing for flexible and relational query
 To fetch a shabad with first letters:
 
 ```javascript
-    const { Lines } = require('@shabados/database')
+// const { Lines } = require('@shabados/database') // If using npm module
+const { Lines } = require('./index') // If using this repo
     
     // Fetch the line, with information about the shabad
-    Lines        // ES7 async/await construct
-    .query()                        // Setup a query builder
-    .firstLetters('ਹਹਹਗ')           // Add a search for the provided first letters
-    .eager('shabad')                // Fetch the shabad the lines are related to
-    .first()                        // Return only the first line found
-    .then(line => Lines.query().where('shabad_id', '=', line.shabad_id))
-    .then(lines => console.log(lines))
+Lines
+  .query()                        // Setup a query builder
+  .firstLetters('ਹਹਹਗ')           // Add a search for the provided first letters
+  .eager('shabad')                // Fetch the shabad the lines are related to
+  .first()                        // Return only the first line found
+  .then(line => Lines.query().where('shabad_id', '=', line.shabad_id))
+  .then(lines => console.log(lines))
 ```
+
+## Vague Benchmarks
+
+- `ਹਹ` yielded `2748` results in `~200ms`
+- `ਹਹਹ` yielded `226` results in `~100ms`
+- `ਹਹਹਹ` yielded `50` results in `~85ms`
+- `ਹਹਹਹਹ` yielded `13` results in `~85ms`
+
+Obviously, YMMV depending on specs, but this does show that
+it's probably ok to return between 0-200 results in a reasonable amount of time.
+
 
 ## Schema
 
