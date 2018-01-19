@@ -14,11 +14,11 @@ To fetch a shabad with first letters:
     const { Lines } = require('@shabados/database')
     
     // Fetch the line, with information about the shabad
-    const line = await Lines
-    .query()
-    .where('first_letters', 'GLOB', 'ਹਹਹਗ')
-    .eager('shabad')
-    .first()
+    const line = await Lines        // ES7 async/await construct
+    .query()                        // Setup a query builder
+    .firstLetters('ਹਹਹਗ')           // Add a search for the provided first letters
+    .eager('shabad')                // Fetch the shabad the lines are related to
+    .first()                        // Return only the first shabad
     
     // Fetch the other lines for the same shabad
     const lines = await Lines
