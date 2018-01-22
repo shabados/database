@@ -1,6 +1,13 @@
 
 # Database
-An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
+
+[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
+[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
+[![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
+
+An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
+
 
 ## Schema
 
@@ -57,7 +64,7 @@ To modify large parts of the database, based on some rule:
 The builds for any of branches can be found on [CircleCI](https://circleci.com/gh/ShabadOS).
 
 If `MAJOR`, `MINOR` are found in any of the commit messages, the version will be adjusted as per
-semantic versioning.
+semantic versioning (`PATCH` is assumed if none of the above are found).
 
 Compiled databases are available via the release page.
       
