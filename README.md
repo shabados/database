@@ -8,6 +8,7 @@
 
 An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
+Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
 
 ## Schema
 
