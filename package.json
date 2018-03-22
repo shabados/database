@@ -18,15 +18,15 @@
   },
   "homepage": "https://github.com/ShabadOS/database#readme",
   "dependencies": {
-    "knex": "^0.14.2",
-    "release-it": "^6.0.0",
-    "sqlite3": "^3.1.13"
+    "knex": "^0.14.4",
+    "release-it": "^7.2.1",
+    "sqlite3": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^4.16.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.5.1"
+    "eslint-plugin-react": "^7.7.0"
   }
 }
