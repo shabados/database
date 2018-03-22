@@ -71,7 +71,7 @@ const insertBanis = async ( knex, trx ) => {
 // Retrieves, flattens, and inserts the shabads from the various folders
 const insertShabads = async ( knex, trx ) => {
   const shabads = readdirSync( `seeds/${SHABADS_DIR}` )
-    .sort( ( s1, s2 ) => sources.indexOf( s1 ) - sources.indexOf( s2 ) )
+    .sort( ( s1, s2 ) => s1 - s2 )
     .reduce( ( data, source ) => [
       ...data,
       ...readdirSync( `seeds/${SHABADS_DIR}/${source}` )
@@ -80,8 +80,8 @@ const insertShabads = async ( knex, trx ) => {
         .map( writer => [ writer, require( `./${SHABADS_DIR}/${source}/${writer}` ) ] )
         .map( ( [ writer, shabads ] ) => shabads.map( shabad => ( {
           ...shabad,
-          source_id: sources.indexOf( source ) + 1,
-          writer_id: writers.indexOf( writer ) + 1,
+          source_id: source,
+          writer_id: writer,
         } ) ) ),
     ], [] )
     .reduce( ( allData, data ) => [ ...allData, ...data ], [] )
@@ -96,22 +96,22 @@ const insertShabads = async ( knex, trx ) => {
 const insertLines = async ( knex, trx ) => {
   // Insert all the lines
   const lines = readdirSync( `seeds/${SOURCES_DIR}` )
-    .sort( ( s1, s2 ) => sources.indexOf( s1 ) - sources.indexOf( s2 ) )
-    .reduce( ( data, source ) => [
+    .sort( ( s1, s2 ) => s1 - s2 )
+    .reduce( ( data, sourceId ) => [
       ...data,
-      ...readdirSync( `seeds/${SOURCES_DIR}/${source}` )
+      ...readdirSync( `seeds/${SOURCES_DIR}/${sourceId}` )
         .sort( ( a1, a2 ) => a1 - a2 )
         .reduce( ( data, batch ) => [
           ...data,
-          ...readdirSync( `seeds/${SOURCES_DIR}/${source}/${batch}` )
+          ...readdirSync( `seeds/${SOURCES_DIR}/${sourceId}/${batch}` )
             .map( stripExtension )
             .sort( ( a1, a2 ) => a1 - a2 )
             // eslint-disable-next-line
-            .map( ang => [ ang, require( `./${SOURCES_DIR}/${source}/${batch}/${ang}` ) ] )
+            .map( ang => [ ang, require( `./${SOURCES_DIR}/${sourceId}/${batch}/${ang}` ) ] )
             .map( ( [ ang, lines ] ) => lines.map( line => ( {
               ...line,
               ang,
-              first_letters: generateFirstLetters( source, line ),
+              first_letters: generateFirstLetters( sourceId, line ),
             } ) ) ),
         ], [] ),
     ], [] )
