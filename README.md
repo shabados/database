@@ -48,6 +48,7 @@ Lines.query().firstLetters('kkggAnj')
 Obviously, YMMV depending on specs, but this does show that
 it's probably ok to return between 0-200 results in a reasonable amount of time.
 
+To run your own benchmarks, `docker-compose up benchmark` or `npm run benchmark`
 
 ## Schema
 
