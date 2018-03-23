@@ -5,7 +5,8 @@
   "scripts": {
     "build": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run",
     "generate": "node lib/extract.js",
-    "release": "./release.sh"
+    "release": "./release.sh",
+    "benchmark": "node lib/benchmark.js"
   },
   "repository": {
     "type": "git",

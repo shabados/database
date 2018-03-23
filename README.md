@@ -40,10 +40,10 @@ Lines.query().firstLetters('kkggAnj')
 
 ## Vague Benchmarks
 
-- `ਹਹ` yielded `2748` results in `~200ms`
-- `ਹਹਹ` yielded `226` results in `~100ms`
-- `ਹਹਹਹ` yielded `50` results in `~85ms`
-- `ਹਹਹਹਹ` yielded `13` results in `~85ms`
+- `ਹਹ` yielded `2748` results in `~80ms`
+- `ਹਹਹ` yielded `226` results in `~50ms`
+- `ਹਹਹਹ` yielded `50` results in `~50ms`
+- `ਹਹਹਹਹ` yielded `13` results in `~50ms`
 
 Obviously, YMMV depending on specs, but this does show that
 it's probably ok to return between 0-200 results in a reasonable amount of time.
