@@ -12,3 +12,9 @@ services:
       - "/usr/src/app/node_modules"
       - ".:/usr/src/app"
     command: ["npm", "run", "generate"]
+  benchmark:
+    build: .
+    volumes:
+      - "/usr/src/app/node_modules"
+      - ".:/usr/src/app"
+    command: ["npm", "run", "benchmark"]

@@ -1,5 +1,5 @@
-
-# Database
+# @shabados/database
+An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
 [![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
@@ -10,6 +10,45 @@
 An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
+
+## Quickstart
+
+Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
+
+An [`objection.js`](http://vincit.github.io/objection.js/) object is returned, allowing for flexible and relational querying.
+
+To fetch a Shabad with first letters:
+
+```javascript
+// const { Lines } = require('@shabados/database') // If using npm module
+const { Lines } = require('./index') // If using this repo
+    
+// Fetch the line, with information about the shabad
+Lines
+  .query() // Start a query on the lines table
+  .firstLetters('ਹਹਹਗ')   // Search for the first letters
+  .first()  // Use the first line that is returned
+  .then(line => line.$relatedQuery('shabad').eager('[lines, writer]'))  // Return the shabad the line is from, with the lines and writer
+  .then(shabad => console.log(shabad))
+
+```
+
+You can also search the ascii equivalent, and the API will automatically convert the search to unicode:
+```javascript
+Lines.query().firstLetters('kkggAnj')
+```
+
+## Vague Benchmarks
+
+- `ਹਹ` yielded `2748` results in `~80ms`
+- `ਹਹਹ` yielded `226` results in `~50ms`
+- `ਹਹਹਹ` yielded `50` results in `~50ms`
+- `ਹਹਹਹਹ` yielded `13` results in `~50ms`
+
+Obviously, YMMV depending on specs, but this does show that
+it's probably ok to return between 0-200 results in a reasonable amount of time.
+
+To run your own benchmarks, `docker-compose up benchmark` or `npm run benchmark`
 
 ## Schema
 
@@ -68,7 +107,7 @@ The builds for any of branches can be found on [CircleCI](https://circleci.com/g
 If `MAJOR`, `MINOR` are found in any of the commit messages, the version will be adjusted as per
 semantic versioning (`PATCH` is assumed if none of the above are found).
 
-Compiled databases are available via the release page.
+Compiled databases are available via the release page, or via `npm install @shabados/database`.
       
 ## Viewing
 
