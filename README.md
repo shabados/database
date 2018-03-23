@@ -15,7 +15,7 @@ Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)]
 
 Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
 
-An `objection.js` object is returned, allowing for flexible and relational querying.
+An [`objection.js`](http://vincit.github.io/objection.js/) object is returned, allowing for flexible and relational querying.
 
 To fetch a Shabad with first letters:
 
@@ -25,12 +25,12 @@ const { Lines } = require('./index') // If using this repo
     
 // Fetch the line, with information about the shabad
 Lines
-  .query()                        // Setup a query builder
-  .firstLetters('ਹਹਹਗ')           // Add a search for the provided first letters
-  .eager('shabad')                // Fetch the shabad the lines are related to
-  .first()                        // Return only the first line found
-  .then(line => Lines.query().where('shabad_id', '=', line.shabad_id))
-  .then(lines => console.log(lines))
+  .query() // Start a query on the lines table
+  .firstLetters('ਹਹਹਗ')   // Search for the first letters
+  .first()  // Use the first line that is returned
+  .then(line => line.$relatedQuery('shabad').eager('[lines, writer]'))  // Return the shabad the line is from, with the lines and writer
+  .then(shabad => console.log(shabad))
+
 ```
 
 You can also search the ascii equivalent, and the API will automatically convert the search to unicode:
