@@ -10,13 +10,15 @@ minor_re=\\bMINOR\\b
 
 echo ${log_messages}
 
+args="-n --npm.access=public --github.release --no-requireCleanWorkingDir --github.assets=build/database.sqlite"
+
 if [[ ${log_messages} =~ ${major_re}  ]]; then
     echo "Major Release"
-    release-it major -n --npm.access=public --github.release --github.assets=build/database.sqlite
+    release-it major ${args}
 elif [[ ${log_messages} =~ ${minor_re} ]]; then
     echo "Minor Release"
-    release-it minor -n --npm.access=public --github.release --github.assets=build/database.sqlite
+    release-it minor ${args}
 else
     echo "Patch Release"
-    release-it patch -n --npm.access=public --github.release --github.assets=build/database.sqlite
+    release-it patch ${args}
 fi
