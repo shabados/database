@@ -2,7 +2,7 @@
 /* global describe,it */
 const { expect } = require( 'chai' )
 
-const { Lines, Shabads, Writers, Types, Raags, Source, Banis } = require( '../index' )
+const { Shabads } = require( '../index' )
 const sources = require( '../seeds/sources' )
 
 describe( 'Shabads', function () {

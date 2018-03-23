@@ -14,9 +14,16 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "e5:71:50:86:4f:6c:3e:f6:8b:f2:d5:45:ec:f0:9a:f1"
+      - run: mkdir ~/junit
       - run:
-          name: Run tests
-          command: npm test
+          command: mocha test --exit --reporter mocha-junit-reporter
+          environment:
+            MOCHA_FILE: junit/test-results.xml
+          when: always
+      - store_test_results:
+          path: ~/junit
+      - store_artifacts:
+          path: ~/junit
       - deploy:
           name: Release database on Github
           command: |
