@@ -1,4 +1,3 @@
-
 # @shabados/database
 An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
@@ -18,13 +17,13 @@ Want to use this in your own project? Get it from npm with `npm install @shabado
 
 An `objection.js` object is returned, allowing for flexible and relational querying.
 
-To fetch a shabad with first letters:
+To fetch a Shabad with first letters:
 
 ```javascript
 // const { Lines } = require('@shabados/database') // If using npm module
 const { Lines } = require('./index') // If using this repo
     
-    // Fetch the line, with information about the shabad
+// Fetch the line, with information about the shabad
 Lines
   .query()                        // Setup a query builder
   .firstLetters('ਹਹਹਗ')           // Add a search for the provided first letters
@@ -32,6 +31,11 @@ Lines
   .first()                        // Return only the first line found
   .then(line => Lines.query().where('shabad_id', '=', line.shabad_id))
   .then(lines => console.log(lines))
+```
+
+You can also search the ascii equivalent, and the API will automatically convert the search to unicode:
+```javascript
+Lines.query().firstLetters('kkggAnj')
 ```
 
 ## Vague Benchmarks

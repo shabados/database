@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/ShabadOS/database#readme",
   "dependencies": {
+    "is-ascii": "^1.0.0",
     "knex": "^0.14.4",
-    "objection": "^0.9.4",
+    "objection": "^1.0.0",
     "release-it": "^7.2.1",
     "sqlite3": "^4.0.0"
   },
