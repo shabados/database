@@ -26,7 +26,7 @@ const { Lines } = require('./index') // If using this repo
 // Fetch the line, with information about the shabad
 Lines
   .query() // Start a query on the lines table
-  .firstLetters('ਹਹਹਗ')   // Search for the first letters
+  .firstLetters('ਹਹਹਗ')   // Search for the first letters, ordering the results sensibly
   .first()  // Use the first line that is returned
   .then(line => line.$relatedQuery('shabad').eager('[lines, writer]'))  // Return the shabad the line is from, with the lines and writer
   .then(shabad => console.log(shabad))
