@@ -19,7 +19,7 @@ if [[ ${log_messages} =~ ${major_re}  ]]; then
 elif [[ ${log_messages} =~ ${minor_re} ]]; then
     echo "Minor Release"
     release-it minor ${args}
-elif [[ ${log_messages} =~ ${minor_re} ]]; then
+elif [[ ${log_messages} =~ ${no_re} ]]; then
     echo "Not releasing"
 else
     echo "Patch Release"
