@@ -105,7 +105,7 @@ To modify large parts of the database, based on some rule:
 The builds for any of branches can be found on [CircleCI](https://circleci.com/gh/ShabadOS).
 
 If `MAJOR`, `MINOR` are found in any of the commit messages, the version will be adjusted as per
-semantic versioning (`PATCH` is assumed if none of the above are found).
+semantic versioning (`PATCH` is assumed if none of the above are found). `NO-RELEASE` will not create a release.
 
 Compiled databases are available via the release page, or via `npm install @shabados/database`.
       
