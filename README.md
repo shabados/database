@@ -38,6 +38,8 @@ You can also search the ascii equivalent, and the API will automatically convert
 Lines.query().firstLetters('kkggAnj')
 ```
 
+Note that although the column names are in `snake_case`, the API will return names in `camelCase` [note](http://vincit.github.io/objection.js/#snake-case-to-camel-case-conversion).
+
 ## Vague Benchmarks
 
 - `ਹਹ` yielded `2748` results in `~80ms`
