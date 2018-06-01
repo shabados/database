@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/ShabadOS/database.git"
   },
-  "author": "ShabadOS Team <shabados.com@gmail.com>",
+  "author": "ShabadOS Team <shabados.com@gmail.com> (https://shabados.com)",
+  "contributors": [
+    "GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"
+  ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
@@ -33,7 +36,6 @@
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.8.2",
-    "mocha": "^5.2.0",
-    "prettier": "1.13.4"
+    "mocha": "^5.2.0"
   }
 }
