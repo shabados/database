@@ -85,7 +85,7 @@ exports.up = knex =>
       table.text( 'pronunciation' )
       table.text( 'pronunciation_information' )
       table.integer( 'type_id' ).references( 'id' ).inTable( 'line_types' )
-      table.increments( 'order_id' ).notNullable()
+      table.integer( 'order_id' ).notNullable()
     } ),
 
     knex.schema.createTable( 'languages', table => {
@@ -134,18 +134,8 @@ exports.up = knex =>
     } ),
   ] )
 
-// /**
-//  * Drops schema
-//  */
-// exports.down = knex =>
-//   Promise.all( [
-//     knex.schema.dropTable( 'bani_lines' ),
-//     knex.schema.dropTable( 'banis' ),
-//     knex.schema.dropTable( 'lines' ),
-//     knex.schema.dropTable( 'line_types' ),
-//     knex.schema.dropTable( 'shabads' ),
-//     knex.schema.dropTable( 'raags' ),
-//     knex.schema.dropTable( 'writers' ),
-//     knex.schema.dropTable( 'sources' ),
-//     knex.schema.dropTable( 'shabad_types' ),
-//   ] )
+/**
+ * Knex requires a definition to rollback the schema, but we won't use this.
+ * @ignore
+ */
+exports.down = () => {}
