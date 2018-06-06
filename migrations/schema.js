@@ -130,7 +130,7 @@ exports.up = knex =>
       table.integer( 'line_id' ).references( 'id' ).inTable( 'lines' )
       table.integer( 'bani_id' ).references( 'id' ).inTable( 'banis' )
       table.integer( 'line_group' ).notNullable()
-      table.primary( [ 'line_id', 'bani_id', 'line_group' ] )
+      table.primary( [ 'bani_id', 'line_group' ] ) // TODO: Double check
     } ),
   ] )
 

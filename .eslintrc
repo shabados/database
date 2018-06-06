@@ -29,7 +29,7 @@
     "no-restricted-syntax": "off",
     "no-shadow": "off",
     "no-unused-vars": [
-      "error",
+      "warn",
       {
         "argsIgnorePattern": "(res|next)"
       }
