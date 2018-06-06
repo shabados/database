@@ -1,57 +1,174 @@
 [
-  "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
-  "ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
-  "ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
-  "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
-  "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
-  "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
-  "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
-  "ਭਗਤ ਬੇਣੀ ਜੀ",
-  "ਭਗਤ ਭੀਖਨ ਜੀ",
-  "ਭਗਤ ਧੰਨਾ ਜੀ",
-  "ਸ਼ੇਖ ਫਰੀਦ ਜੀ",
-  "ਭਗਤ ਜੈਦੇਵ ਜੀ",
-  "ਭਗਤ ਕਬੀਰ ਜੀ",
-  "ਭਗਤ ਨਾਮਦੇਵ ਜੀ",
-  "ਭਗਤ ਪਰਮਾਨੰਦ ਜੀ",
-  "ਭਗਤ ਪੀਪਾ ਜੀ",
-  "ਭਗਤ ਰਾਮਾਨੰਦ ਜੀ",
-  "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
-  "ਭਗਤ ਸਾਧਨਾ ਜੀ",
-  "ਭਗਤ ਸੈਣ ਜੀ",
-  "ਭਗਤ ਸੂਰਦਾਸ ਜੀ",
-  "ਭਗਤ ਤ੍ਰਿਲੋਚਨ ਜੀ",
-  "Remove0",
-  "ਬਾਬਾ ਸੁੰਦਰ ਜੀ",
-  "ਭੱਟ ਬਲ੍ਯ",
-  "ਭੱਟ ਭਲ੍ਯ",
-  "ਭੱਟ ਭਿਖਾ",
-  "ਭੱਟ ਗਯੰਦ",
-  "ਭੱਟ ਹਰਿਬੰਸ",
-  "ਭੱਟ ਜਾਲਪ",
-  "ਭੱਟ ਕਲ੍ਯਸਹਾਰ",
-  "ਭੱਟ ਕੀਰਤ",
-  "ਭੱਟ ਮਥੁਰਾ",
-  "ਭੱਟ ਨਲ੍ਯ",
-  "ਭੱਟ ਸਲ੍ਯ",
-  "Reassign to ID: 32 (Bhatt Kallsahar) then remove",
-  "ਭਾਈ ਬਲਵੰਡ ਰਾਇ ਅਤੇ ਭਾਈ ਸੱਤਾ ਡੂਮ",
-  "ਭਾਈ ਨੰਦ ਲਾਲ ਜੀ",
-  "ਭਾਈ ਗੁਰਦਾਸ ਜੀ",
-  "Disputed / Unknown (ਰਾਗਮਾਲਾ)",
-  "Remove1",
-  "Remove2",
-  "Remove3",
-  "Remove4",
-  "Remove5",
-  "Remove6",
-  "Remove7",
-  "Remove8",
-  "Remove9",
-  "Reassign to ID: 40 (ਰਾਗਮਾਲਾ) then remove",
-  "Remove10",
-  "Remove11",
-  "Remove12",
-  "Remove13",
-  "Remove14"
+  {
+    "name_gurmukhi": "gurU nwnk dyv jI",
+    "name_english": "Guru Nanak Dev Ji"
+  },
+  {
+    "name_gurmukhi": "gurU AMgd dyv jI",
+    "name_english": "Guru Angad Dev Ji"
+  },
+  {
+    "name_gurmukhi": "gurU Amr dws jI",
+    "name_english": "Guru Amar Das Ji"
+  },
+  {
+    "name_gurmukhi": "gurU rwm dws jI",
+    "name_english": "Guru Raam Das Ji"
+  },
+  {
+    "name_gurmukhi": "gurU Arjn dyv jI",
+    "name_english": "Guru Arjan Dev Ji"
+  },
+  {
+    "name_gurmukhi": "gurU qyZ bhwdr jI",
+    "name_english": "Guru Tegh Bahadur Ji"
+  },
+  {
+    "name_gurmukhi": "gurU goibMd isMG jI",
+    "name_english": "Guru Gobind Singh Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq byxI jI",
+    "name_english": "Bhagat Beni Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq BIKn jI",
+    "name_english": "Bhagat Bheekhan Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq DMnw jI",
+    "name_english": "Bhagat Dhanna Ji"
+  },
+  {
+    "name_gurmukhi": "SyK PrId jI",
+    "name_english": "Sheikh Fareed Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq jYdyv jI",
+    "name_english": "Bhagat Jaidev Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq kbIr jI",
+    "name_english": "Bhagat Kabir Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq nwmdyv jI",
+    "name_english": "Bhagat Naamdev Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq prmwnµd jI",
+    "name_english": "Bhagat Parmaanand Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq pIpw jI",
+    "name_english": "Bhagat Pipa Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq rwmwnµd jI",
+    "name_english": "Bhagat Raamaanand Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq rivdws jI",
+    "name_english": "Bhagat Ravidaas Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq swDnw jI",
+    "name_english": "Bhagat Sadhna Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq sYx jI",
+    "name_english": "Bhagat Sain Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq sUrdws jI",
+    "name_english": "Bhagat Surdaas Ji"
+  },
+  {
+    "name_gurmukhi": "Bgq iqRlocn jI",
+    "name_english": "Bhagat Trilochan Ji"
+  },
+  {
+    "name_gurmukhi": "bwbw suMdr",
+    "name_english": "Baba Sundar"
+  },
+  {
+    "name_gurmukhi": "B`t bl´",
+    "name_english": "Bhatt Balh"
+  },
+  {
+    "name_gurmukhi": "B`t Bl´",
+    "name_english": "Bhatt Bhalh"
+  },
+  {
+    "name_gurmukhi": "B`t iBKw",
+    "name_english": "Bhatt Bhikha"
+  },
+  {
+    "name_gurmukhi": "B`t gXMd",
+    "name_english": "Bhatt Gayand"
+  },
+  {
+    "name_gurmukhi": "B`t hirbMs",
+    "name_english": "Bhatt Harbans"
+  },
+  {
+    "name_gurmukhi": "B`t jwlp",
+    "name_english": "Bhatt Jaalap"
+  },
+  {
+    "name_gurmukhi": "B`t kl´ shwr",
+    "name_english": "Bhatt Kalh Sahar"
+  },
+  {
+    "name_gurmukhi": "B`t kIrqu",
+    "name_english": "Bhatt Keerat"
+  },
+  {
+    "name_gurmukhi": "B`t mQurw",
+    "name_english": "Bhatt Mathura"
+  },
+  {
+    "name_gurmukhi": "B`t nl´",
+    "name_english": "Bhatt Nalh"
+  },
+  {
+    "name_gurmukhi": "B`t sl´",
+    "name_english": "Bhatt Salh"
+  },
+  {
+    "name_gurmukhi": "sqw qy blvMif",
+    "name_english": "Satta & Balwand"
+  },
+  {
+    "name_gurmukhi": "BweI gurdws jI",
+    "name_english": "Bhai Gurdaas Ji"
+  },
+  {
+    "name_gurmukhi": "BweI nMd lwl jI",
+    "name_english": "Bhai Nand Laal Ji"
+  },
+  {
+    "name_gurmukhi": "BweI gurdws isMG jI",
+    "name_english": "Bhai Gurdaas Singh Ji"
+  },
+  {
+    "name_gurmukhi": "BweI caupw isMG jI",
+    "name_english": "Bhai Chaupa Singh Ji"
+  },
+  {
+    "name_gurmukhi": "BweI dysw isMG jI",
+    "name_english": "Bhai Desa Singh Ji"
+  },
+  {
+    "name_gurmukhi": "BweI suKw isMG jI",
+    "name_english": "Bhai Sukha Singh Ji"
+  },
+  {
+    "name_gurmukhi": "sYnwpiq",
+    "name_english": "Sainapat"
+  },
+  {
+    "name_gurmukhi": "kvI awlm",
+    "name_english": "Poet Alam"
+  }
 ]

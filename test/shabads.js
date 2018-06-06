@@ -27,3 +27,4 @@ describe( 'Shabads', function () {
 
 // TODO: Write tests for confirming data in seeds/
 // TODO: Finish writing model tests
+// TODO: Write tests for checking source_id between shabad and the section it belongs to are the same
