@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
+    "benchmark": "node lib/benchmark.js",
     "build-sqlite": "rm -rf build && mkdir build && knex migrate:latest && knex seed:run",
     "build-json": "node lib/extract.js",
+    "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
-    "benchmark": "node lib/benchmark.js",
     "test": "mocha test --exit",
     "precommit": "lint-staged"
   },
