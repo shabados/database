@@ -36,6 +36,7 @@ exports.up = knex =>
     knex.schema.createTable( 'sources', table => {
       setupMySQL( table )
       table.increments( 'id' ).primary()
+      table.integer( 'source_id' ).references( 'id' ).inTable( 'sources' ).notNullable()
       table.text( 'name_gurmukhi' ).notNullable().unique()
       table.text( 'name_english' ).notNullable().unique()
       table.integer( 'length' ).notNullable()
