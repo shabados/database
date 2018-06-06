@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/ShabadOS/database#readme",
   "dependencies": {
+    "anyid": "^1.0.5",
     "colors": "^1.3.0",
     "is-ascii": "^1.0.0",
     "knex": "^0.14.4",

@@ -86,7 +86,7 @@ exports.up = knex =>
       table.text( 'pronunciation' )
       table.text( 'pronunciation_information' )
       table.integer( 'type_id' ).references( 'id' ).inTable( 'line_types' )
-      table.integer( 'order_id' ).notNullable()
+      table.integer( 'order_id' ).notNullable().unique()
     } ),
 
     knex.schema.createTable( 'languages', table => {
