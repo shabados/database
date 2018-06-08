@@ -71,4 +71,4 @@ typings/
 ### App Output
 build/
 *.sqlite
-seeds.tmp/
+data.tmp/
