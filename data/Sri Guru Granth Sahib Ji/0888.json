@@ -1,10 +1,10 @@
 [
   {
     "id": "BB0",
-    "sttm2id": 3306,
     "writer": "Guru Arjan Dev Ji",
     "subsection": null,
     "section": "Raag Raamkalee",
+    "sttm2_id": 3306,
     "lines": [
       {
         "id": "KEDB",
@@ -922,10 +922,10 @@
   },
   {
     "id": "SRV",
-    "sttm2id": 3307,
     "writer": "Guru Arjan Dev Ji",
     "subsection": null,
     "section": "Raag Raamkalee",
+    "sttm2_id": 3307,
     "lines": [
       {
         "id": "DMSA",
@@ -1843,10 +1843,10 @@
   },
   {
     "id": "CVD",
-    "sttm2id": 3308,
     "writer": "Guru Arjan Dev Ji",
     "subsection": null,
     "section": "Raag Raamkalee",
+    "sttm2_id": 3308,
     "lines": [
       {
         "id": "40NW",
