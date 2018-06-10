@@ -8,9 +8,9 @@ const sources = require( '../data/sources' )
 describe( 'Shabads', function () {
   describe( 'First Shabad', function () {
     it( 'should have a source of SGGS from sources.json', async function () {
-      const [ sggs ] = sources
+      // const [ sggs ] = sources
 
-      const { source } = await Shabads.query().first().eager( 'source' )
+      // const { source } = await Shabads.query().first().eager( 'source' )
 
       // expect( source ).to.equal( sggs )
     } )
