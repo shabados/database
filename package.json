@@ -4,7 +4,7 @@
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "benchmark": "node lib/benchmark.js",
-    "build-sqlite": "node --max-old-space-size=4096 lib/build-sqlite.js",
+    "build-sqlite": "node lib/build-sqlite.js",
     "build-json": "node lib/build-json.js",
     "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
@@ -35,6 +35,7 @@
     "camelcase-keys": "^4.2.0",
     "colors": "^1.3.0",
     "fast.js": "^0.1.1",
+    "freshy": "^1.0.4",
     "is-ascii": "^1.0.0",
     "knex": "^0.14.4",
     "lodash": "^4.17.10",
