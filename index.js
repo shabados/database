@@ -26,6 +26,8 @@ const Translations = require( './lib/models/Translations' )
 const TranslationSources = require( './lib/models/TranslationSources' )
 const Languages = require( './lib/models/Languages' )
 
+const { connection: { filename } } = config
+
 module.exports = {
   Banis,
   Languages,
@@ -39,4 +41,5 @@ module.exports = {
   Sources,
   Writers,
   knex,
+  filename,
 }
