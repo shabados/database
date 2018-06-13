@@ -5,9 +5,9 @@ set -o nounset
 set -o pipefail
 
 log_messages=$(git log -1 --format=%s)
-major_re=\\bMajor bump\\b
-minor_re=\\bMinor bump\\b
-patch_re=\\bPatch bump\\b
+major_re=\#Major
+minor_re=\#Minor
+patch_re=\#Patch
 
 echo ${log_messages}
 
