@@ -60,16 +60,41 @@
         "id": "2JGF",
         "source_page": 11,
         "source_line": null,
-        "gurmukhi": "auqwr Kwsy dsKq kw ] pwiqswhI 10 ]",
-        "transliteration_english": "autaar khaase dhasakhat kaa || paatisaahee 10 ||",
-        "transliteration_hindi": "उतार खासे दसखत का ॥ पातिसाही १० ॥",
+        "gurmukhi": "auqwr Kwsy dsKq kw ]",
+        "transliteration_english": "autaar khaase dhasakhat kaa ||",
+        "transliteration_hindi": "उतार खासे दसखत का ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "Copy of the manuscript with exclusive signatures of The Tenth Sovereign.",
+              "translation": "Copy of the manuscript with exclusive signatures of:",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "EZH0",
+        "source_page": 11,
+        "source_line": null,
+        "gurmukhi": "pwiqswhI 10 ]",
+        "transliteration_english": "paatisaahee 10 ||",
+        "transliteration_hindi": "पातिसाही १० ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The Tenth Sovereign.",
               "additional_information": {}
             }
           },
