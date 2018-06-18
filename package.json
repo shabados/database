@@ -9,7 +9,8 @@
     "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
     "test": "mocha test --exit",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "serve-docs": "docsify serve docs"
   },
   "lint-staged": {
     "*.js": [
@@ -49,6 +50,7 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
+    "docsify-cli": "^4.2.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.12.0",

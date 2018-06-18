@@ -1,4 +1,5 @@
 # @shabados/database
+An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
 [![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
@@ -6,7 +7,7 @@
 [![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge)]()
 [![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
 
-> An open-source Gurbani database containing an evolving set of corrections.
+An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
 
