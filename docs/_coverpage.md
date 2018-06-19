@@ -1,5 +1,15 @@
+<img src="./logo.svg" height="200">
+
 # @shabados/database
 
-[GurbaniNow API](https)
-[Contributing](sa)
-[Download](https://github.com/shabados/database/releases)
+> An open-source, collaborative Gurbani database for *all*.
+
+- Fully **open-source**
+- **Multiple** translation sources
+- Most **accurate** Gurbani database
+- Shabad **metadata** and research content
+
+
+<a href="">GurbaniNow API</a>
+[Contribute](sa)
+[Get Started](https://github.com/shabados/database/releases)
