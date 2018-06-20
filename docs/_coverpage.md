@@ -12,4 +12,4 @@
 
 <a href="">GurbaniNow API</a>
 [Contribute](sa)
-[Get Started](https://github.com/shabados/database/releases)
+[Get Started](getting-started/introduction)
