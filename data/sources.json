@@ -2826,7 +2826,16 @@
     "length": 1,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "Ardws",
+        "name_english": "Ardaas",
+        "description": "A formal prayer to God.",
+        "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "augRdMqI",
