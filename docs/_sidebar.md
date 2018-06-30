@@ -2,7 +2,7 @@
   * [Introduction](getting-started/introduction.md)
   * [Installation](getting-started/installation.md)
   * [Schema](getting-started/schema.md)
-  * [Usage](gettin-started/usage.md)
+  * [Usage](getting-started/usage.md)
 
 * API
   * [Models](API/models.md)
