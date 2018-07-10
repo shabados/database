@@ -1,5 +1,339 @@
 [
   {
+    "id": "KL9",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "3CWS",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "1UTB",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "iek idhwVy nwvx AweI durgswh ]",
+        "transliteration_english": "eik dhihaaRe naavaN aae'ee dhuragasaeh ||",
+        "transliteration_hindi": "इक दिहाड़ै नावण आई दुरगस़ाह ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "One day Durga came for a bath.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਇਕ ਦਿਨ (ਜਦੋਂ) ਦੁਰਗਾ ਦੇਵੀ ਨਹਾਉਣ ਲਈ ਆਈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "YYLA",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "ieMdR ibrQw suxweI, Apxy hwl dI ]",
+        "transliteration_english": "eindhr birathaa suNaae'ee, apaNe haal dhee ||",
+        "transliteration_hindi": "इंद्र ब्रिथा सुणाई आपणे हाल दी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Indra related to her the story agony:",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤਦੋਂ) ਇੰਦਰ ਨੇ ਆਪਣੇ ਹਾਲ ਦੀ (ਦੁਖ ਭਰੀ) ਵਿਥਿਆ ਸੁਣਾਈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "5NAE",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "CIn leI TkurweI, swqy dwnvI ]",
+        "transliteration_english": "chheen le'ee ttakuraae'ee, saate dhaanavee ||",
+        "transliteration_hindi": "छीनि लई ठकुराई साते दानवी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“The demons have seized from us our kingdom.\"",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਕਿ) ਸਾਡੇ ਤੋਂ ਦੈਂਤਾ ਨੇ ਰਾਜ ਖੋਹ ਲਿਆ ਹੈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TM6G",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "lokI iqhI iPrweI, dohI AwpxI ]",
+        "transliteration_english": "lokee tihee firaae'ee, dhohee aapaNee ||",
+        "transliteration_hindi": "लोकी तिही फिराई दोही आपणी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“They have proclaimed their authority over all the three worlds.\"",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਨ੍ਰਹਾ ਨੇ) ਤਿੰਨਾ ਲੋਕਾ ਵਿਚ ਆਪਣੀ ਦੁਹਾਈ ਫਿਰਾ ਦਿੱਤੀ ਹੈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "9387",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "bYTy vwie vDweI, qy AmrwvqI ]",
+        "transliteration_english": "baitte vaae vadhaae'ee, te amaraavatee ||",
+        "transliteration_hindi": "बैठे वाइ वधाई ते अमरावती ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“They have played musical instruments in their rejoicings in Amaravati, the city of gods.\"",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਹ) ਅਮਰਾਵਤੀ (ਸੁਅਰਗਪੁਰੀ) ਵਿਚ ਬੈਠੇ (ਖੁਸ਼ੀ ਦੇ) ਵਾਜੇ ਵਜਾ ਰਹੇ ਹਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "90UD",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "idqy dyv BjweI sBnw rwksW ]",
+        "transliteration_english": "dhite dhev bhajaae'ee sabhanaa raakasaa(n) ||",
+        "transliteration_hindi": "दिते देव भजाई सभनां राकस़ां ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“All the demons have caused the flight of the gods.\"",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰਾਖਸ਼ਾ ਨੇ ਸਾਰੇ ਦੇਵਤੇ (ਅਮਰਾਪੁਰੀ ਤੋਂ) ਭਜਾ ਦਿੱਤੇ ਹਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "K2T0",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "ikny n ijqw jweI mhKy dYq nUµ ]",
+        "transliteration_english": "kine na jitaa jaae'ee mahakhe dhait noon ||",
+        "transliteration_hindi": "किनै न जिता जाई महखे दैत नूं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“None hath gone and conquered Mahikha, the demon.\"",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਕਿਉਾਂਕਿ) ਕਿਸੇ ਤੋਂ ਵੀ ਮਹਿਖਾਸੁਰ ਜਿਤਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "VADS",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "qyrI swm qkweI, dyvI durgswh ]4]",
+        "transliteration_english": "teree saam takaae'ee, dhevee dhuragasaeh ||4||",
+        "transliteration_hindi": "तेरी साम तकाई देवी दुरगसाह ॥४॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "“O goddess Durga, I have come under Thy refuge.”4.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਹੇ ਦੁਰਗਾ ਦੇਵੀ! ਇਸ ਕਰਕੇ (ਮੈਂ ਹੁਣ) ਤੇਰੀ ਸ਼ਰਨ ਵਿਚ ਆਇਆ ਹਾ ॥੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8CQ3",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "durgw bYx suxMdI, hsI hV hVwie ]",
+        "transliteration_english": "dhuragaa baiN suNandhee, hasee haR haRaae ||",
+        "transliteration_hindi": "दुरगा बैण सुणंदी हसी हड़ हड़ाइ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Listening to these words (of Indra), Durga laughed heartily.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ (ਇੰਦਰ ਦੇ) ਬੋਲ ਸੁਣ ਕੇ ਖਿੜ-ਖਿੜ ਹਸਣ ਲਗ ਪਈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "5ZHS",
+        "source_page": 245,
+        "source_line": null,
+        "gurmukhi": "EhI sIhu mMgwieAw rwKs BKxw ]",
+        "transliteration_english": "ohee seeh mangaaeiaa raakhas bhakhaNaa ||",
+        "transliteration_hindi": "ओही सीहु मंगाइआ राखस भखणा ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She sent for that lion, who was she devourer of demons.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਸ ਨੇ ਰਾਖਸ਼ਾ ਨੂੰ ਖਾਣ ਵਾਲਾ ਸ਼ੇਰ ਮੰਗਵਾ ਲਿਆ",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "52MM",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "icMqw krhu n kweI, dyvw nUM AwiKAw ]",
+        "transliteration_english": "chintaa karahu na kaae'ee, dhevaa noon aakhiaa ||",
+        "transliteration_hindi": "चिंता करहु न काई देवा नूं आखिआ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She said to gods, “Do not worry mother any more.”",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਤੇ ਦੇਵਤਿਆਂ ਨੂੰ ਕਿਹਾ ਕਿ (ਤੁਸੀਂ) ਕੋਈ ਚਿੰਤਾ ਨਾ ਕਰੋ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HT2B",
+        "source_page": 120,
+        "source_line": null,
+        "gurmukhi": "roh hoeI mhwmweI, rwkis mwrxy ]5]",
+        "transliteration_english": "roh hoe'ee mahaamaae'ee, raakas maaraNe ||5||",
+        "transliteration_hindi": "रोह होई महामाई राकसि मारणे ॥५॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "For killing the demons, the great mother exhibited great fury.5.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਦੇਵੀ ਰਾਖਸ਼ਾ ਨੂੰ ਮਾਰਨ ਲਈ ਕ੍ਰੋਧਵਾਨ ਹੋ ਗਈ ॥੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "5Q1",
     "writer": "Guru Gobind Singh Ji",
     "subsection": null,
