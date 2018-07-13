@@ -129,14 +129,14 @@ To determine which [source](#Sources) that a subsection is from, retrieve the so
 ### Sources
 > The [Sources](#Sources) table provides a list of all the different Gurbani sources that the database contains.
 
-| Column            | Type                                                                           | Description                                                | Constraints |
-| ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ----------- |
-| id                | integer                                                                        | The unique identifier of the source.                       | Primary Key |
-| name_english      | text                                                                           | The name of the source, in English.                        | Not Null    |
-| name_gurmukhi     | text                                                                           | The name of the source, in Gurmukhi, ASCII representation. | Not Null    |
-| length            | integer                                                                        | The number of physical "pages" in the source.              | Not Null    |
-| page_name_english | The name of physical "pages" in the source, in English.                        | Not Null                                                   |
-| page_name_english | The name of physical "pages" in the source, in Gurmukhi, ASCII representation. | Not Null                                                   |
+| Column            | Type    | Description                                                                    | Constraints |
+| ----------------- | ------- | ------------------------------------------------------------------------------ | ----------- |
+| id                | integer | The unique identifier of the source.                                           | Primary Key |
+| name_english      | text    | The name of the source, in English.                                            | Not Null    |
+| name_gurmukhi     | text    | The name of the source, in Gurmukhi, ASCII representation.                     | Not Null    |
+| length            | integer | The number of physical "pages" in the source.                                  | Not Null    |
+| page_name_english | text    | The name of physical "pages" in the source, in English.                        | Not Null    |
+| page_name_english | text    | The name of physical "pages" in the source, in Gurmukhi, ASCII representation. | Not Null    |
 
 ### Languages
 > The [Languages](#Languages) table provides a list of all the translation languages that the database currently supports.
@@ -155,13 +155,13 @@ A translation source is a combination of the Gurbani [source](#Sources), the [la
 
 To retrieve the actual [Translations](#Translations) for a translation source, use the [Translations](#Translations) table.
 
-| Column        | Type                                                                                                | Description                                                            | Constraints |
-| ------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- |
-| id            | integer                                                                                             | The unique identifier of the translation source.                       | Primary Key |
-| name_english  | text                                                                                                | The name of the translation source, in English.                        | Not Null    |
-| name_gurmukhi | text                                                                                                | The name of the translation source, in Gurmukhi, ASCII representation. | Not Null    |
-| source_id     | The unique identifier of the Gurbani [source](#Sources) that the translation source corresponds to. | Foreign Key ([Sources](#Sources).id), <br/> Not Null                   |
-| language_id   | The unique identifier of the [language](#Languages) that the translation source is translated into. | Foreign Key ([Languages](#Languages).id), <br/> Not Null               |
+| Column        | Type    | Description                                                                                         | Constraints                                              |
+| ------------- | ------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| id            | integer | The unique identifier of the translation source.                                                    | Primary Key                                              |
+| name_english  | text    | The name of the translation source, in English.                                                     | Not Null                                                 |
+| name_gurmukhi | text    | The name of the translation source, in Gurmukhi, ASCII representation.                              | Not Null                                                 |
+| source_id     | integer | The unique identifier of the Gurbani [source](#Sources) that the translation source corresponds to. | Foreign Key ([Sources](#Sources).id), <br/> Not Null     |
+| language_id   | integer | The unique identifier of the [language](#Languages) that the translation source is translated into. | Foreign Key ([Languages](#Languages).id), <br/> Not Null |
 
 ### Translations
 > The [Translations](#Translations) table contains the correspoding translation of a single line from a [translation source](#Translation_Sources).
