@@ -31,7 +31,7 @@ Below is a brief summary of all the tables available in the database.
 
 
 ### Lines
-The [Lines](#Lines) table contains all the Gurbani content, across all sources.
+> The [Lines](#Lines) table contains all the Gurbani content, across all sources.
 
 Many lines must belong to one [Shabad](#Shabad).
 
@@ -56,7 +56,7 @@ Currently, the `gurmukhi` stores as an ASCII representation of Gurbani. We are h
 | order_id | integer | The correct order of the line. Order by this field. | None |
 
 ### Line_Types
-The [Line_Types](#Line_Types) table contains the possible classifications of each [line](#Lines).
+> The [Line_Types](#Line_Types) table contains the possible classifications of each [line](#Lines).
 
 This can be useful for filtering out `rahao` lines from searches, or reordering the `manglacharan` if desired.
 
@@ -69,7 +69,7 @@ This can be useful for filtering out `rahao` lines from searches, or reordering 
 | name_gurmukhi | text | The name of the line type, in Gurmukhi, ASCII representation. | Not Null |
 
 ### Shabads
-The [Shabads](#Shabads) table is used to group the [Lines](#Lines) together, and provide additional metadata about those [Lines](#Lines).
+> The [Shabads](#Shabads) table is used to group the [Lines](#Lines) together, and provide additional metadata about those [Lines](#Lines).
 
 Every Shabad must have a [source](#Sources), [writer](#Writer), and [section](#Section).
 
@@ -87,7 +87,7 @@ The `id` is a three-letter, immutable identifier that will refer to the same Sah
 | order_id | integer | The correct order of the Shabad. Order by this field. | None |
 
 ### Writers
-The [Writers](#Writers) table contains a list of all the authors and composers of the contents in the database.
+> The [Writers](#Writers) table contains a list of all the authors and composers of the contents in the database.
 
 | Column | Type | Description | Constraints |
 | ------ | ---- | ----------- | ----------- |
@@ -96,7 +96,7 @@ The [Writers](#Writers) table contains a list of all the authors and composers o
 | name_gurmukhi | text | The name of the writer, in Gurmukhi, ASCII representation. | Not Null |
 
 ### Sections
-The [Sections](#Sections) table contains a list of all the different sections, per [source](#Sources).
+> The [Sections](#Sections) table contains a list of all the different sections, per [source](#Sources).
 
 Every section must have a single [source](#Sources).
 
@@ -111,7 +111,7 @@ Every section must have a single [source](#Sources).
 | source_id | integer | The unique identifier of the [source](#Sources) that this section belongs to. | Foreign Key ([Sources](#Sources).id), <br/> Not Null |
 
 ### Subsections
-The [Subsections](#Subsections) table contains a list of all the different subsections, per single [section](#Sections). 
+> The [Subsections](#Subsections) table contains a list of all the different subsections, per single [section](#Sections). 
 
 Every subsection must belong to a single [section](#Section).
 
@@ -127,7 +127,7 @@ To determine which [source](#Sources) that a subsection is from, retrieve the so
 | end_page | integer | The physical "page" from the source that this subsection ends on. | Not Null |
 
 ### Sources
-The [Sources](#Sources) table provides a list of all the different Gurbani sources that the database contains.
+> The [Sources](#Sources) table provides a list of all the different Gurbani sources that the database contains.
 
 | Column | Type | Description | Constraints |
 | ------ | ---- | ----------- | ----------- |
@@ -139,7 +139,7 @@ The [Sources](#Sources) table provides a list of all the different Gurbani sourc
 | page_name_english | The name of physical "pages" in the source, in Gurmukhi, ASCII representation. | Not Null |
 
 ### Languages
-The [Languages](#Languages) table provides a list of all the translation languages that the database currently supports.
+> The [Languages](#Languages) table provides a list of all the translation languages that the database currently supports.
 
 | Column | Type | Description | Constraints |
 | ------ | ---- | ----------- | ----------- |
@@ -149,7 +149,7 @@ The [Languages](#Languages) table provides a list of all the translation languag
 | name_international | text | The name of the language, as written in the language itself. | Not Null |
 
 ### Translation_Sources
-The [Translation_Sources](#Translation_Sources) table contains all the sources of translations that the database contains, used by the [Translations](#Translations).
+> The [Translation_Sources](#Translation_Sources) table contains all the sources of translations that the database contains, used by the [Translations](#Translations).
 
 A translation source is a combination of the Gurbani [source](#Sources), the [language](#Languages), and the author details.
 
@@ -164,7 +164,7 @@ To retrieve the actual [Translations](#Translations) for a translation source, u
 | language_id | The unique identifier of the [language](#Languages) that the translation source is translated into. | Foreign Key ([Languages](#Languages).id), <br/> Not Null |
 
 ### Translations
-The [Translations](#Translations) table contains the correspoding translation of a single line from a [translation source](#Translation_Sources).
+> The [Translations](#Translations) table contains the correspoding translation of a single line from a [translation source](#Translation_Sources).
 
 Note that the `translation` can be nullable.
 
@@ -178,8 +178,7 @@ If used, the `additional_information` is a serialised JSON string that must be d
 | additional_information | text/json | Any additional, non-standard data about the translation. Stored as a serialised JSON object. | None |
 
 ### Banis
-A Bani is a collection of [Lines](#Lines).
-The [Banis](#Banis) table provides a list of all the Banis tht the database contains.
+> A Bani is a collection of [Lines](#Lines). The [Banis](#Banis) table provides a list of all the Banis tht the database contains.
 
 To retrieve the actual [Lines](#Lines) within a Bani, use the [Bani_Lines](#Bani_Lines) table. 
 
@@ -190,12 +189,12 @@ To retrieve the actual [Lines](#Lines) within a Bani, use the [Bani_Lines](#Bani
 | name_gurmukhi | text | The name of the Bani, in Gurmukhi, ASCII representation. | Not Null |
 
 ### Bani_Lines
-The [Bani_Lines](#Bani_Lines) table connects one [Bani](#Banis) to many [Lines](#Lines).
+> The [Bani_Lines](#Bani_Lines) table connects one [Bani](#Banis) to many [Lines](#Lines).
 
-> The `line_group` field is slightly more complicated, as it orders collections of [lines](#Lines), but not the [lines](#Lines) themselves.
+!> The `line_group` field is slightly more complicated, as it orders collections of [lines](#Lines), but not the [lines](#Lines) themselves.
 
 | Column | Type | Description | Constraints |
 | ------ | ---- | ----------- | ----------- |
 | line_id | char(4) | The 4 letter unique identifier of a [Line](#Lines). | Primary Key, <br/> Foreign Key ([Lines](#Lines).id) |
 | bani_id | integer | The unique identifier of the [Bani](#Banis) that contains this line. | Primary Key, <br/> Foreign Key ([Banis](#Banis).id) |
-| line_group | integer | A partition within the [Bani](#Banis) to group [Lines](#Lines). Order by this field, (and the [Lines](#Lines).order_id, if joining) to get the correct order of the groups (and [Lines](#Lines) within the groups).
+| line_group | integer | A partition within the [Bani](#Banis) to group [Lines](#Lines). Order by this field, (and the [Lines](#Lines).order_id, if joining) to get the correct order of the groups (and [Lines](#Lines) within the groups). | Primary Key | 
