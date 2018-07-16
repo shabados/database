@@ -880,7 +880,7 @@
         "id": "B5M0",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "dyKx cMf pRcMf no; rix Gury ngwry ]",
+        "gurmukhi": "dyKn cMf pRcMf nUµ; rx Gury ngwry ]",
         "transliteration_english": "vekhaN chandd prachandd no; raN ghure nagaare ||",
         "transliteration_hindi": "वेखण चंडि प्रचंड नो रणि घुरे नगारे ॥",
         "pronunciation": null,
@@ -905,7 +905,7 @@
         "id": "0BJ5",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "Dwey rwks rohly; cauigrdy Bwry ]",
+        "gurmukhi": "Dwey rwkis rohly; cauigrdo Bwry ]",
         "transliteration_english": "dhaae raakas rohale; chaugiradhe bhaare ||",
         "transliteration_hindi": "धाए राकस रोहले चउगिरदे भारे ॥",
         "pronunciation": null,
@@ -930,7 +930,7 @@
         "id": "F6N1",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "hQI qygw pkiV kY; rix iBVy krwry ]",
+        "gurmukhi": "hQIN qygW pkiV kY; rx iBVy krwry ]",
         "transliteration_english": "hathee tegaa pakaR kai; raN bhiRe karaare ||",
         "transliteration_hindi": "हथी तेगा पकड़ि कै रणि भिड़े करारे ॥",
         "pronunciation": null,
@@ -955,7 +955,7 @@
         "id": "7DYW",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "kdy n nTY juD qy; joDy juJwry ]",
+        "gurmukhi": "kdy n nTy juD qy; joDy juJwry ]",
         "transliteration_english": "kadhe na nattai judh te; jodhe jujhaare ||",
         "transliteration_hindi": "कदे न नठै जुध ते जोधे जुझारे ॥",
         "pronunciation": null,
@@ -980,7 +980,7 @@
         "id": "2DP4",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "idl ivc roh bFwie kY; mwru mwru pukwry ]",
+        "gurmukhi": "idl ivc roh bFwie kY; mwir mwir pukwry ]",
         "transliteration_english": "dhil vich roh baddaae kai; maar maar pukaare ||",
         "transliteration_hindi": "दिल विच रोह बढाइ कै मारु मारु पुकारे ॥",
         "pronunciation": null,
@@ -1005,7 +1005,7 @@
         "id": "6T01",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "mwry cMif pRcMf nY; bIr Kyiq auqwry ]",
+        "gurmukhi": "mwry cMf pRcMf nY; bIr Kyq auqwry ]",
         "transliteration_english": "maare chandd prachandd nai; beer khet autaare ||",
         "transliteration_hindi": "मारे चंडि प्रचंड नै बीर खेति उतारे ॥",
         "pronunciation": null,
@@ -1030,7 +1030,7 @@
         "id": "DQT5",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "mwry jwpin ibjulI; isr Bwir munwry ]9]",
+        "gurmukhi": "mwry jwpn ibjulI; isrBwr munwry ]9]",
         "transliteration_english": "maare jaapan bijulee; sir bhaar munaare ||9||",
         "transliteration_hindi": "मारे जापनि बिजुली सिर भारि मुनारे ॥९॥",
         "pronunciation": null,
@@ -1050,12 +1050,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "BME",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "A0WP",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "YY7C",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "cot peI dmwmy, dlw mukwblw ]",
+        "gurmukhi": "cot peI dmwmy, dlW mukwblw ]",
         "transliteration_english": "choT pe'ee dhamaame, dhalaa mukaabalaa ||",
         "transliteration_hindi": "चोट पई दमामे दला मुकाबला ॥",
         "pronunciation": null,
@@ -1080,7 +1114,7 @@
         "id": "WNY6",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "dyvI dsiq ncweI, sIhix swr dI ]",
+        "gurmukhi": "dyvI dsq ncweI, sIhx swrdI ]",
         "transliteration_english": "dhevee dhasat nachaae'ee, seehaN saar dhee ||",
         "transliteration_hindi": "देवी दसति नचाई सीहणि सार दी ॥",
         "pronunciation": null,
@@ -1105,7 +1139,7 @@
         "id": "7RMR",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "pyit mlµdy lweI, mihKy dYq no ]",
+        "gurmukhi": "pyt mlµdy lweI, mhKy dYq nUµ ]",
         "transliteration_english": "peT malandhe laae'ee, mahikhe dhait no ||",
         "transliteration_hindi": "पेटि मलंदे लाई महिखे दैत नो ॥",
         "pronunciation": null,
@@ -1130,7 +1164,7 @@
         "id": "0VFE",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "gurdy AWdw KweI nwl rukVy ]",
+        "gurmukhi": "gurdy AWdw KweI nwly rukVy ]",
         "transliteration_english": "guradhe aa(n)dhaa khaae'ee naal rukaRe ||",
         "transliteration_hindi": "गुरदे आंदा खाई नाल रुकड़े ॥",
         "pronunciation": null,
@@ -1180,7 +1214,7 @@
         "id": "M171",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "cotI jwxu idKweI, qwry DUmkyiq ]10]",
+        "gurmukhi": "cotI jwx idKweI, qwry DUmkyq ]10]",
         "transliteration_english": "choTee jaaN dhikhaae'ee, taare dhoomaket ||10||",
         "transliteration_hindi": "चोटी जाणु दिखाई तारे धूमकेति ॥१०॥",
         "pronunciation": null,
@@ -1200,12 +1234,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "3PR",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "CU4T",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "FK4A",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "cotw pvin ngwry, AxIAw jutIAw ]",
+        "gurmukhi": "cotW pvn ngwry, AxIAW jutIAW ]",
         "transliteration_english": "choTaa pavan nagaare, aNeeaa juTeeaa ||",
         "transliteration_hindi": "चोटा पवनि नगारे अणीआ जुटीआ ॥",
         "pronunciation": null,
@@ -1230,7 +1298,7 @@
         "id": "15ZJ",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "DUih leIAw qrvwrI, dyvw dwnvw ]",
+        "gurmukhi": "DUh leIAW qrvwrI, dyvW dwnvI ]",
         "transliteration_english": "dhooh le'eeaa taravaaree, dhevaa dhaanavaa ||",
         "transliteration_hindi": "धूहि लईआ तरवारी देवा दानवा ॥",
         "pronunciation": null,
@@ -1255,7 +1323,7 @@
         "id": "S9VU",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "vwhin vwro vwrI, sUry sMGry ]",
+        "gurmukhi": "vwhn vwro vwrI, sUry sMGry ]",
         "transliteration_english": "vaahan vaaro vaaree, soore sanghare ||",
         "transliteration_hindi": "वाहनि वारो वारी सूरे संघरे ॥",
         "pronunciation": null,
@@ -1280,7 +1348,7 @@
         "id": "2B3J",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "vgY rqu JulwrI, ijau gyrU bwbuqRw ]",
+        "gurmukhi": "vgY rqu JulwrI, ijau gyrU bwbqRw ]",
         "transliteration_english": "vagai rat jhulaaree, jiu geroo baabutraa ||",
         "transliteration_hindi": "वगै रतु झुलारी जिउ गेरू बाबुत्रा ॥",
         "pronunciation": null,
@@ -1305,7 +1373,7 @@
         "id": "2DQY",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "vyKin bYiT AtwrI, nwrI rwksw ]",
+        "gurmukhi": "dyKn bYT AtwrI, nwrI rwksW ]",
         "transliteration_english": "vekhan baitt aTaaree, naaree raakasaa ||",
         "transliteration_hindi": "वेखनि बैठि अटारी नारी राकसा ॥",
         "pronunciation": null,
@@ -1350,12 +1418,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "CJM",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "96AU",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "1P9N",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "lK ngwry vjin, AwmRho swhmxy ]",
+        "gurmukhi": "lK ngwry vjn, AwmHo swmHxy ]",
         "transliteration_english": "lakh nagaare vajan, aamraho saahamaNe ||",
         "transliteration_hindi": "लख नगारे वजनि आम्रहो साहमणे ॥",
         "pronunciation": null,
@@ -1380,7 +1482,7 @@
         "id": "5WR4",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "rwks rxhuM n Bjin, rohy rohly ]",
+        "gurmukhi": "rwks rxo n Bjn, rohy rohly ]",
         "transliteration_english": "raakas raNahun na bhajan, rohe rohale ||",
         "transliteration_hindi": "राकस रणहुं न भजनि रोहे रोहले ॥",
         "pronunciation": null,
@@ -1405,7 +1507,7 @@
         "id": "JTEC",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "sIhw vwgUM gjx, sBy sUrmy ]",
+        "gurmukhi": "sIhW vWgU gjx, sBy sUrmy ]",
         "transliteration_english": "seehaa vaagoon gajaN, sabhe soorame ||",
         "transliteration_hindi": "सीहा वागूं गजण सभे सूरमे ॥",
         "pronunciation": null,
@@ -1430,7 +1532,7 @@
         "id": "8P0Y",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "qix qix kYbr Cfin, durgw swmRhxy ]12]",
+        "gurmukhi": "qix qix kYbr Cfn, durgw swmxy ]12]",
         "transliteration_english": "taN taN kaibar chhaddan, dhuragaa saamrahaNe ||12||",
         "transliteration_hindi": "तणि तणि कैबर छडनि दुरगा साम्रहणे ॥१२॥",
         "pronunciation": null,
@@ -1450,12 +1552,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "H6D",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "53HD",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "K9GA",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "Gury ngwry fohry; rix sMglIAwly ]",
+        "gurmukhi": "Gury ngwry dohry; rx sMglIAwly ]",
         "transliteration_english": "ghure nagaare ddohare; raN sangaleeaale ||",
         "transliteration_hindi": "घुरे नगारे डोहरे रणि संगलीआले ॥",
         "pronunciation": null,
@@ -1480,7 +1616,7 @@
         "id": "XTUC",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "DUiV lpyty DUhry; srdwr jtwly ]",
+        "gurmukhi": "DUiV lpyty DUhry; isrdwr jtwly ]",
         "transliteration_english": "dhooR lapeTe dhoohare; saradhaar jaTaale ||",
         "transliteration_hindi": "धूड़ि लपेटे धूहरे सरदार जटाले ॥",
         "pronunciation": null,
@@ -1505,7 +1641,7 @@
         "id": "UTB9",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "auKlIAw nwsw ijnw mUMih jwpn Awly ]",
+        "gurmukhi": "auKlIAW nwsw ijnw muih jwpn Awly ]",
         "transliteration_english": "aukhaleeaa naasaa jinaa moonh jaapan aale ||",
         "transliteration_hindi": "उखलीआ नासा जिना मूंहि जापन आले ॥",
         "pronunciation": null,
@@ -1530,7 +1666,7 @@
         "id": "SHSR",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "Dwey dyvI swmRhxy; bIr muClIAwly ]",
+        "gurmukhi": "Dwey dyvI swhmxy; bIr muClIAwly ]",
         "transliteration_english": "dhaae dhevee saamrahaNe; beer muchhaleeaale ||",
         "transliteration_hindi": "धाए देवी साम्रहणे बीर मुछलीआले ॥",
         "pronunciation": null,
@@ -1555,7 +1691,7 @@
         "id": "H5JS",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "surpiq jyhy liV hty; bIr tly n twly ]",
+        "gurmukhi": "surpq jyhy lV hty; bIr tly n twly ]",
         "transliteration_english": "surapat jehe laR haTe; beer Tale na Taale ||",
         "transliteration_hindi": "सुरपति जेहे लड़ि हटे बीर टले न टाले ॥",
         "pronunciation": null,
@@ -1580,7 +1716,7 @@
         "id": "4S5B",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "gjy durgw Gyir kY; jxu GxIAru kwly ]13]",
+        "gurmukhi": "gjy durgw Gyir kY; jxu GxIAr kwly ]13]",
         "transliteration_english": "gaje dhuragaa gher kai; jaN ghaNeear kaale ||13||",
         "transliteration_hindi": "गजे दुरगा घेरि कै जणु घणीअरु काले ॥१३॥",
         "pronunciation": null,
@@ -1600,12 +1736,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "GEK",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "M9FD",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "94TE",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "cot peI KrcwmI, dlw mukwblw ]",
+        "gurmukhi": "cot peI KrcwmI, dlW mukwblw ]",
         "transliteration_english": "choT pe'ee kharachaamee, dhalaa mukaabalaa ||",
         "transliteration_hindi": "चोट पई खरचामी दला मुकाबला ॥",
         "pronunciation": null,
@@ -1630,7 +1800,7 @@
         "id": "9383",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "Gyir leI virAwmI, durgw Awie kY ]",
+        "gurmukhi": "Gyr leI virAwmI, durgw Awie kY ]",
         "transliteration_english": "gher le'ee variaamee, dhuragaa aae kai ||",
         "transliteration_hindi": "घेरि लई वरिआमी दुरगा आइ कै ॥",
         "pronunciation": null,
@@ -1655,7 +1825,7 @@
         "id": "BC7L",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "rwKs bfY AlwmI, Bj n jwxdy ]",
+        "gurmukhi": "rwks vfy AlwmI, Bj n jwxdy ]",
         "transliteration_english": "raakhas baddai alaamee, bhaj na jaaNadhe ||",
         "transliteration_hindi": "राखस बडै अलामी भज न जाणदे ॥",
         "pronunciation": null,
@@ -1680,7 +1850,7 @@
         "id": "BKC0",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "AMiq hoey surgwmI, mwry dyvqw ]14]",
+        "gurmukhi": "AMq hoey surgwmI, mwry dyvqw ]14]",
         "transliteration_english": "ant hoe suragaamee, maare dhevataa ||14||",
         "transliteration_hindi": "अंति होए सुरगामी मारे देवता ॥१४॥",
         "pronunciation": null,
@@ -1700,12 +1870,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "R90",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "YW5U",
+        "source_page": 121,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "5Z4M",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "Agxq Gury ngwry, dlw iBVMidAw ]",
+        "gurmukhi": "Agxq Gury ngwry, dlW iBVMidAW ]",
         "transliteration_english": "agaNat ghure nagaare, dhalaa bhiRandhiaa ||",
         "transliteration_hindi": "अगणत घुरे नगारे दला भिड़ंदिआ ॥",
         "pronunciation": null,
@@ -1730,7 +1934,7 @@
         "id": "JRE8",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "pwey mhKl Bwry, dyvw dwnvw ]",
+        "gurmukhi": "pwey mhKl Bwry, dyvW dwnvW ]",
         "transliteration_english": "paae mahakhal bhaare, dhevaa dhaanavaa ||",
         "transliteration_hindi": "पाए महखल भारे देवा दानवा ॥",
         "pronunciation": null,
@@ -1755,7 +1959,7 @@
         "id": "V1DX",
         "source_page": 121,
         "source_line": null,
-        "gurmukhi": "vwhin Pt krwry, rwks rohly ]",
+        "gurmukhi": "vwhn Pt krwry, rwkis rohly ]",
         "transliteration_english": "vaahan faT karaare, raakas rohale ||",
         "transliteration_hindi": "वाहनि फट करारे राकस रोहले ॥",
         "pronunciation": null,
@@ -1780,7 +1984,7 @@
         "id": "869J",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "jwpin qygI Awry, imAwno DUhIAw ]",
+        "gurmukhi": "jwpx qygI Awry, imAwno DUhIAW ]",
         "transliteration_english": "jaapan tegee aare, miaano dhooheeaa ||",
         "transliteration_hindi": "जापनि तेगी आरे मिआनो धूहीआ ॥",
         "pronunciation": null,
@@ -1830,7 +2034,7 @@
         "id": "PUZ6",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "dyvI Awp svwry, pbw jvyhxy ]",
+        "gurmukhi": "dyvI Awp svwry, pb jvyhxy ]",
         "transliteration_english": "dhevee aap savaare, pabaa javehaNe ||",
         "transliteration_hindi": "देवी आप सवारे पबा जवेहणे ॥",
         "pronunciation": null,
@@ -1855,7 +2059,7 @@
         "id": "NQSM",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "kdy n AwKin hwry, Dwvin swmRhxy ]",
+        "gurmukhi": "kdy n AwKn hwry, Dwvn swhmxy ]",
         "transliteration_english": "kadhe na aakhan haare, dhaavan saamrahaNe ||",
         "transliteration_hindi": "कदे न आखनि हारे धावनि साम्रहणे ॥",
         "pronunciation": null,
@@ -1880,7 +2084,7 @@
         "id": "05V2",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "durgw sBy sMGwry, rwKs KVg lY ]15]",
+        "gurmukhi": "durgw sB sMGwry, rwkis KVg lY ]15]",
         "transliteration_english": "dhuragaa sabhe sanghaare, raakhas khaRag lai ||15||",
         "transliteration_hindi": "दुरगा सभे संघारे राखस खड़ग लै ॥१५॥",
         "pronunciation": null,
@@ -1900,12 +2104,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "GQH",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "HEF7",
+        "source_page": 122,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "1NH5",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "auml lQy joDy, mwrU vijAw ]",
+        "gurmukhi": "auml lQy joDy, mwrU bijAw ]",
         "transliteration_english": "aumal lathe jodhe, maaroo vajiaa ||",
         "transliteration_hindi": "उमल लथे जोधे मारू वजिआ ॥",
         "pronunciation": null,
@@ -1930,7 +2168,7 @@
         "id": "ER9N",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "bdl ijau mihKwsur, rx ivc gijAw ]",
+        "gurmukhi": "bdl ijau mihKwsur, rx ivic gijAw ]",
         "transliteration_english": "badhal jiu mahikhaasur, raN vich gajiaa ||",
         "transliteration_hindi": "बदल जिउ महिखासुर रण विच गजिआ ॥",
         "pronunciation": null,
@@ -1955,7 +2193,7 @@
         "id": "NUXX",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ieMdR jyhw joDw, mYQo BijAw ]",
+        "gurmukhi": "ieMdR jyhw joDw, mYQau BijAw ]",
         "transliteration_english": "eindhr jehaa jodhaa, maitho bhajiaa ||",
         "transliteration_hindi": "इंद्र जेहा जोधा मैथो भजिआ ॥",
         "pronunciation": null,
@@ -1980,7 +2218,7 @@
         "id": "2DDP",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "kaux ivcwrI durgw, ijin rx sijAw ]16]",
+        "gurmukhi": "kaux ivcwrI durgw, ijn rxu sijAw ]16]",
         "transliteration_english": "kauN vichaaree dhuragaa, jin raN sajiaa ||16||",
         "transliteration_hindi": "कउण विचारी दुरगा जिनि रण सजिआ ॥१६॥",
         "pronunciation": null,
@@ -2000,12 +2238,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "LFX",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "523Y",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "vjy Fol ngwry, dlw mukwblw ]",
+        "gurmukhi": "vjy Fol ngwry, dlW mukwblw ]",
         "transliteration_english": "vaje ddol nagaare, dhalaa mukaabalaa ||",
         "transliteration_hindi": "वजे ढोल नगारे दला मुकाबला ॥",
         "pronunciation": null,
@@ -2030,7 +2277,7 @@
         "id": "ZVG3",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "qIr iPrY rYbwry, AwmRho swmRhxy ]",
+        "gurmukhi": "qIr iPrY rYbwry, AwmHo swmHxy ]",
         "transliteration_english": "teer firai raibaare, aamraho saamrahaNe ||",
         "transliteration_hindi": "तीर फिरै रैबारे आम्रहो साम्रहणे ॥",
         "pronunciation": null,
@@ -2080,7 +2327,7 @@
         "id": "CSNH",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ifgy jwx munwry, mwrY ibju dY ]",
+        "gurmukhi": "ifgy jwix munwry, mwry ibju dy ]",
         "transliteration_english": "ddige jaaN munaare, maarai bij dhai ||",
         "transliteration_hindi": "डिगे जाण मुनारे मारै बिजु दै ॥",
         "pronunciation": null,
@@ -2105,7 +2352,7 @@
         "id": "LZZJ",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "KulRhI vwlI dYq AhwVy, sBy sUrmy ]",
+        "gurmukhi": "KulI vwlIN dYq AhwVy, sBy sUrmy ]",
         "transliteration_english": "khulrahee vaalee dhait ahaaRe, sabhe soorame ||",
         "transliteration_hindi": "खुल्रही वाली दैत अहाड़े सभे सूरमे ॥",
         "pronunciation": null,
@@ -2130,7 +2377,7 @@
         "id": "5EHS",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "suqy jwxu jtwry, BMgw Kwie kY ]17]",
+        "gurmukhi": "suqy jwix jtwly, BMgW Kwie kY ]17]",
         "transliteration_english": "sute jaaN jaTaare, bhangaa khaae kai ||17||",
         "transliteration_hindi": "सुते जाणु जटारे भंगा खाइ कै ॥१७॥",
         "pronunciation": null,
@@ -2150,12 +2397,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "GKE",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "7SY1",
+        "source_page": 122,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "EFSG",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "duhw kMDwrw muMh juVy nwl Dausw BwrI ]",
+        "gurmukhi": "duhW kMDwrW muih juVy nwil Dausw BwrI ]",
         "transliteration_english": "dhuhaa kandhaaraa munh juRe naal dhausaa bhaaree ||",
         "transliteration_hindi": "दुहा कंधारा मुंह जुड़े नाल धउसा भारी ॥",
         "pronunciation": null,
@@ -2180,7 +2461,7 @@
         "id": "T4V6",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "kVik auiTAw Pauj qy; vfw hMkwrI ]",
+        "gurmukhi": "kVk auiTAw Pauj qy; vfw AhMkwrI ]",
         "transliteration_english": "kaRak auttiaa fauj te; vaddaa hankaaree ||",
         "transliteration_hindi": "कड़कि उठिआ फउज ते वडा हंकारी ॥",
         "pronunciation": null,
@@ -2230,7 +2511,7 @@
         "id": "047B",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "imAwno KMfw DUihAw; mihKwsur BwrI ]",
+        "gurmukhi": "imAwno KMfw DUihAw; mhKwsur BwrI ]",
         "transliteration_english": "miaano khanddaa dhoohiaa; mahikhaasur bhaaree ||",
         "transliteration_hindi": "मिआनो खंडा धूहिआ महिखासुर भारी ॥",
         "pronunciation": null,
@@ -2280,7 +2561,7 @@
         "id": "M0N8",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "cly jwpin rq dy; slly jtDwrI ]18]",
+        "gurmukhi": "jwpy cly rq dy; slly jtDwrI ]18]",
         "transliteration_english": "chale jaapan rat dhe; salale jaTadhaaree ||18||",
         "transliteration_hindi": "चले जापनि रत दे सलले जटधारी ॥१८॥",
         "pronunciation": null,
@@ -2300,12 +2581,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "7LN",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "W807",
+        "source_page": 122,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "90BZ",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "st peI jmDwxI; dlw mukwblw ]",
+        "gurmukhi": "st peI jmDwxI; dlW mukwblw ]",
         "transliteration_english": "saT pe'ee jamadhaaNee; dhalaa mukaabalaa ||",
         "transliteration_hindi": "सट पई जमधाणी दला मुकाबला ॥",
         "pronunciation": null,
@@ -2330,7 +2645,7 @@
         "id": "4PU2",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "DUih leI ikrpwxI; durgw imAwn qy ]",
+        "gurmukhi": "DUih leI ik®pwxI; durgw imAwn qy ]",
         "transliteration_english": "dhooh le'ee kirapaaNee; dhuragaa miaan te ||",
         "transliteration_hindi": "धूहि लई किरपाणी दुरगा मिआन ते ॥",
         "pronunciation": null,
@@ -2355,7 +2670,7 @@
         "id": "XMQY",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "cMfI rwks KwxI; vwhI dYq nUM ]",
+        "gurmukhi": "cMfI rwkis KwxI; vwhI dYq nUµ ]",
         "transliteration_english": "chanddee raakas khaaNee; vaahee dhait noon ||",
         "transliteration_hindi": "चंडी राकस खाणी वाही दैत नूं ॥",
         "pronunciation": null,
@@ -2380,7 +2695,7 @@
         "id": "49ES",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "kopr cUir cvwxI; lQI krg lY ]",
+        "gurmukhi": "kopr cUr cvwxI; lQI krg lY ]",
         "transliteration_english": "kopar choor chavaaNee; lathee karag lai ||",
         "transliteration_hindi": "कोपर चूरि चवाणी लथी करग लै ॥",
         "pronunciation": null,
@@ -2405,7 +2720,7 @@
         "id": "ADMH",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "pwKr qurw plwxI; rVkI Driq jwie ]",
+        "gurmukhi": "pwKr qurw plwxI; rVkI Drq jwie ]",
         "transliteration_english": "paakhar turaa palaaNee; raRakee dharat jaae ||",
         "transliteration_hindi": "पाखर तुरा पलाणी रड़की धरति जाइ ॥",
         "pronunciation": null,
@@ -2430,7 +2745,7 @@
         "id": "85MM",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "lYdI AGw isDwxI; isMgw Daul idAw ]",
+        "gurmukhi": "lYdI AGw isDwxI; isMgW Daul idAW ]",
         "transliteration_english": "laidhee aghaa sidhaaNee; singaa dhaul dhiaa ||",
         "transliteration_hindi": "लैदी अघा सिधाणी सिंगा धउल दिआ ॥",
         "pronunciation": null,
@@ -2455,7 +2770,7 @@
         "id": "VYG2",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "kUrm isr lhlwxI; dusmn mwr kY ]",
+        "gurmukhi": "kUrm isr lihlwxI; dusmn mwir kY ]",
         "transliteration_english": "kooram sir lahalaaNee; dhusaman maar kai ||",
         "transliteration_hindi": "कूरम सिर लहलाणी दुसमन मार कै ॥",
         "pronunciation": null,
@@ -2480,7 +2795,7 @@
         "id": "E0QC",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "vFy gMn iqKwxI; mUey Kyq ivc ]",
+        "gurmukhi": "vFy gn iqKwxI; mUey Kyq ivc ]",
         "transliteration_english": "vadde gann tikhaaNee; mooe khet vich ||",
         "transliteration_hindi": "वढे गंन तिखाणी मूए खेत विच ॥",
         "pronunciation": null,
@@ -2530,7 +2845,7 @@
         "id": "RDEB",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "cwry jug khwxI; clig qyg dI ]",
+        "gurmukhi": "cwry jug khwxI; clg qyg dI ]",
         "transliteration_english": "chaare jug kahaaNee; chalag teg dhee ||",
         "transliteration_hindi": "चारे जुग कहाणी चलगि तेग दी ॥",
         "pronunciation": null,
@@ -2555,7 +2870,7 @@
         "id": "9C5R",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ivDx Kyiq ivhwxI; mihKy dYq nUM ]19]",
+        "gurmukhi": "ibDx Kyq ivhwxI; mhKy dYq nUµ ]19]",
         "transliteration_english": "vidhaN khet vihaaNee; mahikhe dhait noon ||19||",
         "transliteration_hindi": "विधण खेति विहाणी महिखे दैत नूं ॥१९॥",
         "pronunciation": null,
@@ -2575,12 +2890,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "TUD",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "PETM",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ieqI mihKwsur dYq mwry durgw AwieAw ]",
+        "gurmukhi": "ieqI mhKwsur dYq mwry durgw AwieAw ]",
         "transliteration_english": "eitee mahikhaasur dhait maare dhuragaa aaeiaa ||",
         "transliteration_hindi": "इती महिखासुर दैत मारे दुरगा आइआ ॥",
         "pronunciation": null,
@@ -2605,7 +2929,7 @@
         "id": "6HX3",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "caudh lokw rwxI isMGu ncwieAw ]",
+        "gurmukhi": "caudh lokW rwxI isMG ncwieAw ]",
         "transliteration_english": "chaudheh lokaa raaNee singh nachaaeiaa ||",
         "transliteration_hindi": "चउदह लोका राणी सिंघु नचाइआ ॥",
         "pronunciation": null,
@@ -2630,7 +2954,7 @@
         "id": "91SN",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "mwry vIr jtwxI; dl ivic Agly ]",
+        "gurmukhi": "mwry bIr jtwxI; dl ivc Agly ]",
         "transliteration_english": "maare veer jaTaaNee; dhal vich agale ||",
         "transliteration_hindi": "मारे वीर जटाणी दल विचि अगले ॥",
         "pronunciation": null,
@@ -2655,7 +2979,7 @@
         "id": "BYH2",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "mMgx nwhI pwxI; dlI hMkwir kY ]",
+        "gurmukhi": "mMgn nwhI pwxI; dlI hMGwr kY ]",
         "transliteration_english": "mangaN naahee paaNee; dhalee hankaar kai ||",
         "transliteration_hindi": "मंगण नाही पाणी दली हंकारि कै ॥",
         "pronunciation": null,
@@ -2680,7 +3004,7 @@
         "id": "P95F",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "jxu krI smwie pTwxI; suix kY rwgu nUM ]",
+        "gurmukhi": "jx krI smwie pTwxI; suix kY rwg nUµ ]",
         "transliteration_english": "jaN karee samaae pattaaNee; suN kai raag noon ||",
         "transliteration_hindi": "जणु करी समाइ पठाणी सुणि कै रागु नूं ॥",
         "pronunciation": null,
@@ -2705,7 +3029,7 @@
         "id": "GWUX",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "rqu dy hVRhvwxI; cly bIr Kyq ]",
+        "gurmukhi": "rqU dy hVvwxI; cly bIr Kyq ]",
         "transliteration_english": "rat dhe haRrahavaaNee; chale beer khet ||",
         "transliteration_hindi": "रतु दे हड़्रहवाणी चले बीर खेत ॥",
         "pronunciation": null,
@@ -2730,7 +3054,7 @@
         "id": "8V08",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "pIqw Pul AXwxI; GUmix sUrmy ]20]",
+        "gurmukhi": "pIqw Pulu ieAwxI; Gumn sUrmy ]20]",
         "transliteration_english": "peetaa ful ayaaNee; ghoomaN soorame ||20||",
         "transliteration_hindi": "पीता फुल अयाणी घूमणि सूरमे ॥२०॥",
         "pronunciation": null,
@@ -2750,12 +3074,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "JA5",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "NZW8",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "hoeI lop BvwnI; dyvw nUM rwju dy ]",
+        "gurmukhi": "hoeI Alop BvwnI; dyvW nUµ rwj dy ]",
         "transliteration_english": "hoe'ee lop bhavaanee; dhevaa noon raaj dhe ||",
         "transliteration_hindi": "होई लोप भवानी देवा नूं राजु दे ॥",
         "pronunciation": null,
@@ -2780,7 +3113,7 @@
         "id": "0L4U",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "eIsr dI brdwnI; hoeI ijqu idn ]",
+        "gurmukhi": "eIsr dI brdwnI; hoeI ijq idn ]",
         "transliteration_english": "e'eesar dhee baradhaanee; hoe'ee jit dhin ||",
         "transliteration_hindi": "ईसर दी बरदानी होई जितु दिन ॥",
         "pronunciation": null,
@@ -2830,7 +3163,7 @@
         "id": "312J",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ieMdR dI rwjDwnI; qkI ijqxI ]21]",
+        "gurmukhi": "ieMdR dI rwjDwnI; qkI ijqnI ]21]",
         "transliteration_english": "eindhr dhee raajadhaanee; takee jitaNee ||21||",
         "transliteration_hindi": "इंद्र दी राजधानी तकी जितणी ॥२१॥",
         "pronunciation": null,
@@ -2850,12 +3183,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "0DW",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "YEGF",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "ieMdR purI qy Dwvxw; vf joDI mqw pkwieAw ]",
+        "gurmukhi": "ieMdRpurI qy Dwvxw; vf joDI mqw pkwieAw ]",
         "transliteration_english": "eindhr puree te dhaavaNaa; vadd jodhee mataa pakaaeiaa ||",
         "transliteration_hindi": "इंद्र पुरी ते धावणा वड जोधी मता पकाइआ ॥",
         "pronunciation": null,
@@ -2905,7 +3247,7 @@
         "id": "GBKR",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "juMmy ktk ACUhxI; Asmwn grdY CwieAw ]",
+        "gurmukhi": "jMmy ktk ACUhxI; Asmwnu grdI CwieAw ]",
         "transliteration_english": "junme kaTak achhoohaNee; asamaan garadhai chhaaeiaa ||",
         "transliteration_hindi": "जुंमे कटक अछूहणी असमान गरदै छाइआ ॥",
         "pronunciation": null,
@@ -2930,7 +3272,7 @@
         "id": "L30K",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "roih suMB insuMB isDwieAw ]22]",
+        "gurmukhi": "roh suMB insuMB isDwieAw ]22]",
         "transliteration_english": "roh sunbh nisunbh sidhaaeiaa ||22||",
         "transliteration_hindi": "रोहि सुंभ निसुंभ सिधाइआ ॥२२॥",
         "pronunciation": null,
@@ -2950,12 +3292,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "HZY",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "TME2",
+        "source_page": 122,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "SZ03",
         "source_page": 122,
         "source_line": null,
-        "gurmukhi": "suMB insuMB AlwieAw; vf joDI sMGr vwey ]",
+        "gurmukhi": "suMB insuMB AlwieAw; vf joDI sMGru vwey ]",
         "transliteration_english": "sunbh nisunbh alaaeiaa; vadd jodhee sanghar vaae ||",
         "transliteration_hindi": "सुंभ निसुंभ अलाइआ वड जोधी संघर वाए ॥",
         "pronunciation": null,
@@ -3050,6 +3426,40 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "3XJ",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "MGTN",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "5HJU",
@@ -3080,7 +3490,7 @@
         "id": "V7S7",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "Pul iKVy jxu bwgI, bwxY joiDAw ]",
+        "gurmukhi": "Pul iKVy jx bwgIN, bwxy joiDAW ]",
         "transliteration_english": "ful khiRe jaN baagee, baaNai jodhiaa ||",
         "transliteration_hindi": "फुल खिड़े जणु बागी बाणै जोधिआ ॥",
         "pronunciation": null,
@@ -3105,7 +3515,7 @@
         "id": "GEPM",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "BUqw ielw kwgI, gosq BiKAw ]",
+        "gurmukhi": "BUqW ielW kwgIN, gosq BiKAw ]",
         "transliteration_english": "bhootaa eilaa kaagee, gosat bhakhiaa ||",
         "transliteration_hindi": "भूता इला कागी गोसत भखिआ ॥",
         "pronunciation": null,
@@ -3130,7 +3540,7 @@
         "id": "XY6X",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "humV DumV jwgI, GqI sUirAw ]24]",
+        "gurmukhi": "huMmV DuMmV jwgI, GqI sUirAW ]24]",
         "transliteration_english": "humaR dhumaR jaagee, ghatee sooriaa ||24||",
         "transliteration_hindi": "हुमड़ धुमड़ जागी घती सूरिआ ॥२४॥",
         "pronunciation": null,
@@ -3150,12 +3560,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "V3T",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "TK5H",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "st peI ngwry, dlw mukwblw ]",
+        "gurmukhi": "st peI ngwry, dlW mukwblw ]",
         "transliteration_english": "saT pe'ee nagaare, dhalaa mukaabalaa ||",
         "transliteration_hindi": "सट पई नगारे दला मुकाबला ॥",
         "pronunciation": null,
@@ -3180,7 +3599,7 @@
         "id": "57N9",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "idqy dyau BjweI, iml kY rwksI ]",
+        "gurmukhi": "idqy dyau BjweI, imil kY rwksIN ]",
         "transliteration_english": "dhite dheu bhajaae'ee, mil kai raakasee ||",
         "transliteration_hindi": "दिते देउ भजाई मिल कै राकसी ॥",
         "pronunciation": null,
@@ -3230,7 +3649,7 @@
         "id": "W6BK",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "durgw dI swm qkweI, dyvw fridAw ]",
+        "gurmukhi": "durgw dI swm qkweI, dyvW fridAW ]",
         "transliteration_english": "dhuragaa dhee saam takaae'ee, dhevaa ddaradhiaa ||",
         "transliteration_hindi": "दुरगा दी साम तकाई देवा डरदिआ ॥",
         "pronunciation": null,
@@ -3255,7 +3674,7 @@
         "id": "D9SA",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "AwdI cMif cVweI; auqy rwksw ]25]",
+        "gurmukhi": "AWdI cMif cVweI; auqy rwksw ]25]",
         "transliteration_english": "aadhee chandd chaRaae'ee; aute raakasaa ||25||",
         "transliteration_hindi": "आदी चंडि चड़ाई उते राकसा ॥२५॥",
         "pronunciation": null,
@@ -3275,12 +3694,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "KMQ",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "DFBF",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "HGRD",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "AweI Pyir BvwnI, KbrI pweIAw ]",
+        "gurmukhi": "AweI Pyr BvwnI, KbrI pweIAw ]",
         "transliteration_english": "aae'ee fer bhavaanee, khabaree paae'eeaa ||",
         "transliteration_hindi": "आई फेरि भवानी खबरी पाईआ ॥",
         "pronunciation": null,
@@ -3355,7 +3808,7 @@
         "id": "W8GR",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "vfw jg ivc dwno, Awp khwieAw ]",
+        "gurmukhi": "jg ivc vfw dwno, Awp khwieAw ]",
         "transliteration_english": "vaddaa jag vich dhaano, aap kahaaeiaa ||",
         "transliteration_hindi": "वडा जग विच दानो आप कहाइआ ॥",
         "pronunciation": null,
@@ -3380,7 +3833,7 @@
         "id": "K5LV",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "cot peI KrcwmI, durgw ilAwvxI ]26]",
+        "gurmukhi": "st peI KrcwmI, durgw ilAwvxI ]26]",
         "transliteration_english": "choT pe'ee kharachaamee, dhuragaa liaavaNee ||26||",
         "transliteration_hindi": "चोट पई खरचामी दुरगा लिआवणी ॥२६॥",
         "pronunciation": null,
@@ -3400,12 +3853,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "GMB",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "UUXH",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "NENY",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "kVik auTI rix cMfI, Paujw dyiK kY ]",
+        "gurmukhi": "kVk auTI rx cMfI, PaujW dyK kY ]",
         "transliteration_english": "kaRak auttee raN chanddee, faujaa dhekh kai ||",
         "transliteration_hindi": "कड़कि उठी रणि चंडी फउजा देखि कै ॥",
         "pronunciation": null,
@@ -3430,7 +3917,7 @@
         "id": "XT68",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "DUih imAwno KMfw, DweI swmRhxy ]",
+        "gurmukhi": "DUih imAwno KMfw, hoeI swhmxy ]",
         "transliteration_english": "dhooh miaano khanddaa, dhaae'ee saamrahaNe ||",
         "transliteration_hindi": "धूहि मिआनो खंडा धाई साम्रहणे ॥",
         "pronunciation": null,
@@ -3455,7 +3942,7 @@
         "id": "TULT",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "sBy bIr sMGwry, DUmr nYx dy ]",
+        "gurmukhi": "sBy bIr sMGwry, DUmrnYx dy ]",
         "transliteration_english": "sabhe beer sanghaare, dhoomar naiN dhe ||",
         "transliteration_hindi": "सभे बीर संघारे धूमर नैण दे ॥",
         "pronunciation": null,
@@ -3480,7 +3967,7 @@
         "id": "WLC5",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jxu lY kty Awry, drKq bwFIAw ]27]",
+        "gurmukhi": "jx lY kty Awry, drKq bwFIAW ]27]",
         "transliteration_english": "jaN lai kaTe aare, dharakhat baaddeeaa ||27||",
         "transliteration_hindi": "जणु लै कटे आरे दरखत बाढीआ ॥२७॥",
         "pronunciation": null,
@@ -3500,12 +3987,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "86U",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "CFEW",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "5GJZ",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "cobI Daus vjweI, dlw mukwblw ]",
+        "gurmukhi": "cobIN DauNs bjweI, dlW mukwblw ]",
         "transliteration_english": "chobee dhaus vajaae'ee, dhalaa mukaabalaa ||",
         "transliteration_hindi": "चोबी धउस वजाई दला मुकाबला ॥",
         "pronunciation": null,
@@ -3530,7 +4051,7 @@
         "id": "PKXY",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "roih BvwnI AweI, auqY rwKsw ]",
+        "gurmukhi": "roh BvwnI AweI, auqy rwksW ]",
         "transliteration_english": "roh bhavaanee aae'ee, autai raakhasaa ||",
         "transliteration_hindi": "रोहि भवानी आई उतै राखसा ॥",
         "pronunciation": null,
@@ -3555,7 +4076,7 @@
         "id": "5CW0",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "Kby dsq ncweI, sIhx swr dI ]",
+        "gurmukhi": "KbY dsq ncweI, sIhx swr dI ]",
         "transliteration_english": "khabe dhasat nachaae'ee, seehaN saar dhee ||",
         "transliteration_hindi": "खबे दसत नचाई सीहण सार दी ॥",
         "pronunciation": null,
@@ -3580,7 +4101,7 @@
         "id": "K3SK",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "bhuiqAw dy qin lweI, kIqI rMgulI ]",
+        "gurmukhi": "bhuiqAW dy qn lweI, kIqI rMgulI ]",
         "transliteration_english": "bahutiaa dhe tan laae'ee, keetee rangulee ||",
         "transliteration_hindi": "बहुतिआ दे तनि लाई कीती रंगुली ॥",
         "pronunciation": null,
@@ -3605,7 +4126,7 @@
         "id": "PEL9",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "BweIAw mwrin BweI, durgw jwix kY ]",
+        "gurmukhi": "BweIAW mwrn BweI, durgw jwix kY ]",
         "transliteration_english": "bhaae'eeaa maaran bhaae'ee, dhuragaa jaaN kai ||",
         "transliteration_hindi": "भाईआ मारनि भाई दुरगा जाणि कै ॥",
         "pronunciation": null,
@@ -3630,7 +4151,7 @@
         "id": "UFTS",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "rohY hoie clweI, rwkis rwie no ]",
+        "gurmukhi": "roh hoie clweI, rwkis rwie nUµ ]",
         "transliteration_english": "rohai hoe chalaae'ee, raakas raae no ||",
         "transliteration_hindi": "रोहै होइ चलाई राकसि राइ नो ॥",
         "pronunciation": null,
@@ -3655,7 +4176,7 @@
         "id": "DB58",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jmpuir dIAw pTweI, locn DUm no ]",
+        "gurmukhi": "jm pur dIAw pTweI, locn DUm nUµ ]",
         "transliteration_english": "jamapur dheeaa pattaae'ee, lochan dhoom no ||",
         "transliteration_hindi": "जमपुरि दीआ पठाई लोचन धूम नो ॥",
         "pronunciation": null,
@@ -3680,7 +4201,7 @@
         "id": "P1XC",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jwpy idqI sweI, mwrx suMB dI ]28]",
+        "gurmukhi": "jwpy idqI sweI, mwrn suMB dI ]28]",
         "transliteration_english": "jaape dhitee saae'ee, maaraN sunbh dhee ||28||",
         "transliteration_hindi": "जापे दिती साई मारण सुंभ दी ॥२८॥",
         "pronunciation": null,
@@ -3696,6 +4217,40 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇੰਜ ਪ੍ਰਤੀਤ ਹੁੰਦਾ ਹੈ ਕਿ ਸ਼ੁੰਭ ਨੂੰ ਮਾਰਨ ਦੀ ਸਾਈ ਦਿੱਤੀ ਹੋਵੇ ॥੨੮॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "3U7",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "E9CE",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
               "additional_information": {}
             }
           }
@@ -3730,7 +4285,7 @@
         "id": "37SC",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "locn DUm sMGwry, sxy ispwhIAw ]",
+        "gurmukhi": "locn DUm sMGwry, sxy ispwhIAW ]",
         "transliteration_english": "lochan dhoom sanghaare, saNe sipaaheeaa ||",
         "transliteration_hindi": "लोचन धूम संघारे सणे सिपाहीआ ॥",
         "pronunciation": null,
@@ -3780,7 +4335,7 @@
         "id": "JHT9",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jwpin AMbir qwry, ifgin sUrmy ]",
+        "gurmukhi": "jwpn AMbir qwry, ifgin sUrmy ]",
         "transliteration_english": "jaapan anbar taare, ddigan soorame ||",
         "transliteration_hindi": "जापनि अंबरि तारे डिगनि सूरमे ॥",
         "pronunciation": null,
@@ -3805,7 +4360,7 @@
         "id": "Z8W1",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "igry prbq Bwry, mwry ibRju dy ]",
+        "gurmukhi": "igry prbq Bwry, mwry ibju dy ]",
         "transliteration_english": "gire parabat bhaare, maare brij dhe ||",
         "transliteration_hindi": "गिरे परबत भारे मारे ब्रिजु दे ॥",
         "pronunciation": null,
@@ -3830,7 +4385,7 @@
         "id": "SA2W",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "dYqw dy dl hwry, dhsq Kwie kY ]",
+        "gurmukhi": "dYqW dy dl hwry, dhsq Kwie kY ]",
         "transliteration_english": "dhaitaa dhe dhal haare, dhahasat khaae kai ||",
         "transliteration_hindi": "दैता दे दल हारे दहसत खाइ कै ॥",
         "pronunciation": null,
@@ -3875,12 +4430,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "PB1",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "8HGE",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "MMG6",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "rohY hoie bulwey, rwks suMB nY ]",
+        "gurmukhi": "roh hoie bulwey, rwkis rwie ny ]",
         "transliteration_english": "rohai hoe bulaae, raakas sunbh nai ||",
         "transliteration_hindi": "रोहै होइ बुलाए राकस सुंभ नै ॥",
         "pronunciation": null,
@@ -3905,7 +4494,7 @@
         "id": "WM58",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "bYTy mqw pkwey, dyvI ilAwvxI ]",
+        "gurmukhi": "bYTy mqw pkwey, durgw ilAwvxI ]",
         "transliteration_english": "baitte mataa pakaae, dhevee liaavaNee ||",
         "transliteration_hindi": "बैठे मता पकाए देवी लिआवणी ॥",
         "pronunciation": null,
@@ -3930,7 +4519,7 @@
         "id": "RGZH",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "cMf Aru muMf pTwey, bhuqw ktk dY ]",
+        "gurmukhi": "cMf Ar muMf pTwey, bhuqw ktku dY ]",
         "transliteration_english": "chandd ar mundd pattaae, bahutaa kaTak dhai ||",
         "transliteration_hindi": "चंड अरु मुंड पठाए बहुता कटक दै ॥",
         "pronunciation": null,
@@ -3980,7 +4569,7 @@
         "id": "27RZ",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jyqy rwie bulwie, cly juD no ]",
+        "gurmukhi": "jyqy rwie bulwey, cly juD no ]",
         "transliteration_english": "jete raae bulaae, chale judh no ||",
         "transliteration_hindi": "जेते राइ बुलाइ चले जुध नो ॥",
         "pronunciation": null,
@@ -4005,7 +4594,7 @@
         "id": "ZRGV",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "jxu jim pkiV clwey, sBy mwrxy ]30]",
+        "gurmukhi": "jx jm pur pkV clwey, sBy mwrxy ]30]",
         "transliteration_english": "jaN jam pakaR chalaae, sabhe maaraNe ||30||",
         "transliteration_hindi": "जणु जमि पकड़ि चलाए सभे मारणे ॥३०॥",
         "pronunciation": null,
@@ -4025,12 +4614,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "KU3",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "9HSH",
+        "source_page": 123,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "C05Y",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "Fol ngwry vwey, dlw mukwblw ]",
+        "gurmukhi": "Fol ngwry vwey, dlW mukwblw ]",
         "transliteration_english": "ddol nagaare vaae, dhalaa mukaabalaa ||",
         "transliteration_hindi": "ढोल नगारे वाए दला मुकाबला ॥",
         "pronunciation": null,
@@ -4055,7 +4678,7 @@
         "id": "X86Y",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "roih ruhyly Awey, auqy rwksw ]",
+        "gurmukhi": "roh ruhyly Awey, auqy rwksW ]",
         "transliteration_english": "roh ruhele aae, aute raakasaa ||",
         "transliteration_hindi": "रोहि रुहेले आए उते राकसा ॥",
         "pronunciation": null,
@@ -4080,7 +4703,7 @@
         "id": "EM0B",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "sBnI qury ncwey, brCy pkiV ky ]",
+        "gurmukhi": "sBnI qury ncwey, brCy pkiV kY ]",
         "transliteration_english": "sabhanee ture nachaae, barachhe pakaR ke ||",
         "transliteration_hindi": "सभनी तुरे नचाए बरछे पकड़ि के ॥",
         "pronunciation": null,
@@ -4105,7 +4728,7 @@
         "id": "2PYQ",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "bhuqy mwir igrwey, AMdir Kyq dY ]",
+        "gurmukhi": "bhuqy mwr igrwey, AMdr Kyq dY ]",
         "transliteration_english": "bahute maar giraae, andhar khet dhai ||",
         "transliteration_hindi": "बहुते मारि गिराए अंदरि खेत दै ॥",
         "pronunciation": null,
@@ -4130,7 +4753,7 @@
         "id": "ZYF0",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "qIrI Chbr lwey, buTI dyvqw ]31]",
+        "gurmukhi": "qIrI Chbr lweI, buTI dyvqw ]31]",
         "transliteration_english": "teeree chhahabar laae, buttee dhevataa ||31||",
         "transliteration_hindi": "तीरी छहबर लाए बुठी देवता ॥३१॥",
         "pronunciation": null,
@@ -4150,12 +4773,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "BX6",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "4J7P",
         "source_page": 123,
         "source_line": null,
-        "gurmukhi": "ByrI sMK bjwey, sMGr ricAw ]",
+        "gurmukhi": "ByrI sMK vjwey, sMGir ricAw ]",
         "transliteration_english": "bheree sankh bajaae, sanghar rachiaa ||",
         "transliteration_hindi": "भेरी संख बजाए संघर रचिआ ॥",
         "pronunciation": null,
@@ -4180,7 +4812,7 @@
         "id": "4YAZ",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "qix qix qIr clwey, durgw DnuK lY ]",
+        "gurmukhi": "qix qix qIr clwey, durgw DnK lY ]",
         "transliteration_english": "taN taN teer chalaae, dhuragaa dhanukh lai ||",
         "transliteration_hindi": "तणि तणि तीर चलाए दुरगा धनुख लै ॥",
         "pronunciation": null,
@@ -4205,7 +4837,7 @@
         "id": "ZC4G",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "ijnRhI dsq auTwey, rhy n jIvdy ]",
+        "gurmukhi": "ijnI dsq auTwey, rhy n jIvdy ]",
         "transliteration_english": "jinrahee dhasat auttaae, rahe na jeevadhe ||",
         "transliteration_hindi": "जिन्रही दसत उठाए रहे न जीवदे ॥",
         "pronunciation": null,
@@ -4230,7 +4862,7 @@
         "id": "CZQ1",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "cMf Aru muMf Kpwey dono dyvqw ]32]",
+        "gurmukhi": "cMf Ar muMf Kpwey dono dyvqw ]32]",
         "transliteration_english": "chandd ar mundd khapaae dhono dhevataa ||32||",
         "transliteration_hindi": "चंड अरु मुंड खपाए दोनो देवता ॥३२॥",
         "pronunciation": null,
@@ -4250,12 +4882,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "REC",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "XML8",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "suMB insuMB irswey, mwry dYq suix ]",
+        "gurmukhi": "suMB insuMB irswey, mwry dYq sux ]",
         "transliteration_english": "sunbh nisunbh risaae, maare dhait suN ||",
         "transliteration_hindi": "सुंभ निसुंभ रिसाए मारे दैत सुणि ॥",
         "pronunciation": null,
@@ -4280,7 +4921,7 @@
         "id": "CSBK",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "joDy sBY bulwey, AwpxI mjlsY ]",
+        "gurmukhi": "joDy sB bulwey, AwpxI mjlsI ]",
         "transliteration_english": "jodhe sabhai bulaae, aapaNee majalasai ||",
         "transliteration_hindi": "जोधे सभै बुलाए आपणी मजलसै ॥",
         "pronunciation": null,
@@ -4305,7 +4946,7 @@
         "id": "LDMS",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "ijnRhI dYv Bjwey, ieMdR jyvhy ]",
+        "gurmukhi": "ijnI dyau Bjwey, ieMdR jyvhy ]",
         "transliteration_english": "jinrahee dhaiv bhajaae, eindhr jevahe ||",
         "transliteration_hindi": "जिन्रही दैव भजाए इंद्र जेवहे ॥",
         "pronunciation": null,
@@ -4330,7 +4971,7 @@
         "id": "UGWX",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "qyeI mwir igrwey, pl ivc dyvqy ]",
+        "gurmukhi": "qyeI mwr igrwey, pl ivc dyvqw ]",
         "transliteration_english": "te'eee maar giraae, pal vich dhevate ||",
         "transliteration_hindi": "तेई मारि गिराए पल विच देवते ॥",
         "pronunciation": null,
@@ -4355,7 +4996,7 @@
         "id": "UJH8",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "dsqI dsq vjwey, aunRhw icq kir ]",
+        "gurmukhi": "EnI dsqI dsq vjwey, iqnw icq kir ]",
         "transliteration_english": "dhasatee dhasat vajaae, aunrahaa chit kar ||",
         "transliteration_hindi": "दसती दसत वजाए उन्रहा चित करि ॥",
         "pronunciation": null,
@@ -4405,7 +5046,7 @@
         "id": "HPX9",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "sMj ptYlw pwey, iclkq topIAw ]",
+        "gurmukhi": "sMj ptolw pwey, iclkq topIAW ]",
         "transliteration_english": "sanj paTailaa paae, chilakat Topeeaa ||",
         "transliteration_hindi": "संज पटैला पाए चिलकत टोपीआ ॥",
         "pronunciation": null,
@@ -4430,7 +5071,7 @@
         "id": "M74E",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "luJx nUM ArVwey, rwks rohly ]",
+        "gurmukhi": "luJx no ArVwey, rwks rohly ]",
         "transliteration_english": "lujhaN noon araRaae, raakas rohale ||",
         "transliteration_hindi": "लुझण नूं अरड़ाए राकस रोहले ॥",
         "pronunciation": null,
@@ -4455,7 +5096,7 @@
         "id": "2VJF",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "iknY n kdy htwey, juD mcwiekY ]",
+        "gurmukhi": "kdy n ikny htwey, juD mcwie kY ]",
         "transliteration_english": "kinai na kadhe haTaae, judh machaaeikai ||",
         "transliteration_hindi": "किनै न कदे हटाए जुध मचाइकै ॥",
         "pronunciation": null,
@@ -4480,7 +5121,7 @@
         "id": "UCML",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "imil qyeI dwno Awey, hux sMGr vyKxw ]33]",
+        "gurmukhi": "iml qyeI dwno Awey, hux sMGir dyKxw ]33]",
         "transliteration_english": "mil te'eee dhaano aae, huN sanghar vekhaNaa ||33||",
         "transliteration_hindi": "मिलि तेई दानो आए हुण संघर वेखणा ॥३३॥",
         "pronunciation": null,
@@ -4500,12 +5141,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "2W4",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "2737",
+        "source_page": 124,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "ASKR",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "dYqI fMf auBwrI nyVy, Awie kY ]",
+        "gurmukhi": "dYqI fMf auBwrI nyVY, Awie kY ]",
         "transliteration_english": "dhaitee ddandd aubhaaree neRe, aae kai ||",
         "transliteration_hindi": "दैती डंड उभारी नेड़े आइ कै ॥",
         "pronunciation": null,
@@ -4530,7 +5205,7 @@
         "id": "EDBD",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "isMG krI AsvwrI, durgw sor suix ]",
+        "gurmukhi": "isMG krI AsvwrI, durgw sor sux ]",
         "transliteration_english": "singh karee asavaaree, dhuragaa sor suN ||",
         "transliteration_hindi": "सिंघ करी असवारी दुरगा सोर सुणि ॥",
         "pronunciation": null,
@@ -4605,7 +5280,7 @@
         "id": "FTA6",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "jxu md Kwie mdwrI, GUmn sUrmy ]",
+        "gurmukhi": "jx md Kwie mdwrI, GUmn sUrmy ]",
         "transliteration_english": "jaN madh khaae madhaaree, ghooman soorame ||",
         "transliteration_hindi": "जणु मद खाइ मदारी घूमन सूरमे ॥",
         "pronunciation": null,
@@ -4655,7 +5330,7 @@
         "id": "EQYZ",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "jxu kir Kyil iKlwrI, suqy Pwg no ]34]",
+        "gurmukhi": "jwpy Kyf iKfwrI, suqy Pwg nUµ ]34]",
         "transliteration_english": "jaN kar khel khilaaree, sute faag no ||34||",
         "transliteration_hindi": "जणु करि खेलि खिलारी सुते फाग नो ॥३४॥",
         "pronunciation": null,
@@ -4675,7 +5350,16 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "7F8",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "6Y90",
         "source_page": 124,
@@ -4705,7 +5389,7 @@
         "id": "NGM4",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "joDy vfy munwry, idsx Kyq ivc ]",
+        "gurmukhi": "joDy jyf munwry, idsn Kyq ivic ]",
         "transliteration_english": "jodhe vadde munaare, dhisaN khet vich ||",
         "transliteration_hindi": "जोधे वडे मुनारे दिसण खेत विच ॥",
         "pronunciation": null,
@@ -4730,7 +5414,7 @@
         "id": "Q317",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "sBnI dsq auBwry, qygw DUih kY ]",
+        "gurmukhi": "sBnI dsq auBwry, qygW DUih kY ]",
         "transliteration_english": "sabhanee dhasat aubhaare, tegaa dhooh kai ||",
         "transliteration_hindi": "सभनी दसत उभारे तेगा धूहि कै ॥",
         "pronunciation": null,
@@ -4755,7 +5439,7 @@
         "id": "F7SY",
         "source_page": 124,
         "source_line": null,
-        "gurmukhi": "mwro mwru pukwry, Awey swmRhxy ]",
+        "gurmukhi": "mwro mwr pukwry, Awey swhmxy ]",
         "transliteration_english": "maaro maar pukaare, aae saamrahaNe ||",
         "transliteration_hindi": "मारो मारु पुकारे आए साम्रहणे ॥",
         "pronunciation": null,
@@ -4780,7 +5464,7 @@
         "id": "X7KH",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sMjw qy Txkwry qygI auBry ]",
+        "gurmukhi": "sMjwqy Tixkwry qygIN aubry ]",
         "transliteration_english": "sanjaa te ttaNakaare tegee aubhare ||",
         "transliteration_hindi": "संजा ते ठणकारे तेगी उभरे ॥",
         "pronunciation": null,
@@ -4805,7 +5489,7 @@
         "id": "3525",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "Gwt GVin TiTAwry, jwix bxwie ky ]35]",
+        "gurmukhi": "GwV GVin TiTAwry, jwix bxwie kY ]35]",
         "transliteration_english": "ghaaT ghaRan ttattiaare, jaaN baNaae ke ||35||",
         "transliteration_hindi": "घाट घड़नि ठठिआरे जाणि बणाइ के ॥३५॥",
         "pronunciation": null,
@@ -4825,12 +5509,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "CMW",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "85ML",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "st peI jmDwxI, dlw mukwblw ]",
+        "gurmukhi": "st peI jmDwxI, dlW mukwblw ]",
         "transliteration_english": "saT pe'ee jamadhaaNee, dhalaa mukaabalaa ||",
         "transliteration_hindi": "सट पई जमधाणी दला मुकाबला ॥",
         "pronunciation": null,
@@ -4855,7 +5548,7 @@
         "id": "B5TB",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "Gumru brgsqwxI, rx ivc GiqE ]",
+        "gurmukhi": "GUmr brg sqwxI, dl ivic GqIE ]",
         "transliteration_english": "ghumar baragasataaNee, raN vich ghatio ||",
         "transliteration_hindi": "घुमरु बरगसताणी रण विच घतिओ ॥",
         "pronunciation": null,
@@ -4905,7 +5598,7 @@
         "id": "D4YP",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "auiT auiT mMgin pwxI, Gwiel GUmdy ]",
+        "gurmukhi": "auiT auiT mMgix pwxI, Gwiel GUmdy ]",
         "transliteration_english": "autt autt mangan paaNee, ghaaeil ghoomadhe ||",
         "transliteration_hindi": "उठि उठि मंगनि पाणी घाइल घूमदे ॥",
         "pronunciation": null,
@@ -4930,7 +5623,7 @@
         "id": "97S7",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "eyvf mwru ivhwxI, auqY rwksw ]",
+        "gurmukhi": "eyvfu mwir ivhwxI, aupr rwksW ]",
         "transliteration_english": "evadd maar vihaaNee, autai raakasaa ||",
         "transliteration_hindi": "एवड मारु विहाणी उतै राकसा ॥",
         "pronunciation": null,
@@ -4955,7 +5648,7 @@
         "id": "XU3Q",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "ibjil ijau JrlwxI, auTI dyvqw ]36]",
+        "gurmukhi": "ibjl ijau JrlwxI, auTI dyvqw ]36]",
         "transliteration_english": "bijal jiu jharalaaNee, auttee dhevataa ||36||",
         "transliteration_hindi": "बिजलि जिउ झरलाणी उठी देवता ॥३६॥",
         "pronunciation": null,
@@ -4975,12 +5668,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "MGT",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "NU0K",
+        "source_page": 125,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "FPL7",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "cobI Daus auBwrI, dlw mukwblw ]",
+        "gurmukhi": "cobI Daus auBwrI, dlW mukwblw ]",
         "transliteration_english": "chobee dhaus aubhaaree, dhalaa mukaabalaa ||",
         "transliteration_hindi": "चोबी धउस उभारी दला मुकाबला ॥",
         "pronunciation": null,
@@ -5005,7 +5732,7 @@
         "id": "0LYP",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sBo sYnw mwrI, pl ivc dwnvI ]",
+        "gurmukhi": "sBo sYnw mwrI, pl ivic dwnvI ]",
         "transliteration_english": "sabho sainaa maaree, pal vich dhaanavee ||",
         "transliteration_hindi": "सभो सैना मारी पल विच दानवी ॥",
         "pronunciation": null,
@@ -5055,7 +5782,7 @@
         "id": "WCA0",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "isr ivc qyg vgweI, sRoxvq bIj dY ]37]",
+        "gurmukhi": "isr ivc qyg vgweI, sRxvq bIj dy ]37]",
         "transliteration_english": "sir vich teg vagaae'ee, sroNavat beej dhai ||37||",
         "transliteration_hindi": "सिर विच तेग वगाई स्रोणवत बीज दै ॥३७॥",
         "pronunciation": null,
@@ -5075,7 +5802,16 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "JQR",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "11CM",
         "source_page": 125,
@@ -5105,7 +5841,7 @@
         "id": "0R8Z",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "joDy jyf munwry, AMdir Kyq dy ]",
+        "gurmukhi": "joDy jyf munwry, AMdir Kyq dY ]",
         "transliteration_english": "jodhe jedd munaare, andhar khet dhe ||",
         "transliteration_hindi": "जोधे जेड मुनारे अंदरि खेत दे ॥",
         "pronunciation": null,
@@ -5130,7 +5866,7 @@
         "id": "CU13",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "durgw no llkwry, Awey swmRhxy ]",
+        "gurmukhi": "durgw no llkwry, Awvx swhmxy ]",
         "transliteration_english": "dhuragaa no lalakaare, aae saamrahaNe ||",
         "transliteration_hindi": "दुरगा नो ललकारे आए साम्रहणे ॥",
         "pronunciation": null,
@@ -5155,7 +5891,7 @@
         "id": "X76T",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "durgw sBy sMGwry, rwks Awvdy ]",
+        "gurmukhi": "durgw sB sMGwry, rwks AWvdy ]",
         "transliteration_english": "dhuragaa sabhe sanghaare, raakas aavadhe ||",
         "transliteration_hindi": "दुरगा सभे संघारे राकस आवदे ॥",
         "pronunciation": null,
@@ -5180,7 +5916,7 @@
         "id": "PKYB",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "rqU dy prnwly, iqn qy BuieM pey ]",
+        "gurmukhi": "rqU dy prnwly, iqn qy Buie pey ]",
         "transliteration_english": "ratoo dhe paranaale, tin te bhuein pe ||",
         "transliteration_hindi": "रतू दे परनाले तिन ते भुइं पए ॥",
         "pronunciation": null,
@@ -5225,7 +5961,16 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "SJJ",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "BB2M",
         "source_page": 125,
@@ -5255,7 +6000,7 @@
         "id": "GQ6U",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "brCI buMbilAwlI, sUry sMGry ]",
+        "gurmukhi": "brCI bMblIAwlI, sUry sMGry ]",
         "transliteration_english": "barachhee bunbaliaalee, soore sanghare ||",
         "transliteration_hindi": "बरछी बुंबलिआली सूरे संघरे ॥",
         "pronunciation": null,
@@ -5280,7 +6025,7 @@
         "id": "4QS8",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "ByV pieAw bIrwlI, durgw dwnvI ]",
+        "gurmukhi": "ByiV micAw bIrwlI, durgw dwnvIN ]",
         "transliteration_english": "bheR peiaa beeraalee, dhuragaa dhaanavee ||",
         "transliteration_hindi": "भेड़ पइआ बीराली दुरगा दानवी ॥",
         "pronunciation": null,
@@ -5305,7 +6050,7 @@
         "id": "82ES",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "mwr mcI muhrwlI, AMdir Kyq dy ]",
+        "gurmukhi": "mwr mcI muhrwlI, AMdir Kyq dY ]",
         "transliteration_english": "maar machee muharaalee, andhar khet dhe ||",
         "transliteration_hindi": "मार मची मुहराली अंदरि खेत दे ॥",
         "pronunciation": null,
@@ -5330,7 +6075,7 @@
         "id": "8DQE",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "jxu nt lQy CwlI, Fol vjwie kY ]",
+        "gurmukhi": "jx nt lQy CwlI, Foil bjwie kY ]",
         "transliteration_english": "jaN naT lathe chhaalee, ddol vajaae kai ||",
         "transliteration_hindi": "जणु नट लथे छाली ढोल वजाइ कै ॥",
         "pronunciation": null,
@@ -5380,7 +6125,7 @@
         "id": "74ML",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "Gx ivic ijau cMcwlI qygw hsIAW ]",
+        "gurmukhi": "Gx ivic ijau CMCwlI qygW hsIAW ]",
         "transliteration_english": "ghaN vich jiu chanchaalee tegaa haseeaa(n) ||",
         "transliteration_hindi": "घण विचि जिउ चंचाली तेगा हसीआं ॥",
         "pronunciation": null,
@@ -5405,7 +6150,7 @@
         "id": "K3R2",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "GuMmirAwr isAwlI, bxIAw kyjmw ]39]",
+        "gurmukhi": "GumrAwr isAwlI, bxIAW kyjmW ]39]",
         "transliteration_english": "ghunmariaar siaalee, baNeeaa kejamaa ||39||",
         "transliteration_hindi": "घुंमरिआर सिआली बणीआ केजमा ॥३९॥",
         "pronunciation": null,
@@ -5425,12 +6170,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "CM0",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "Q571",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "Dgw sUl bjweIAw, dlw mukwblw ]",
+        "gurmukhi": "Dgw sUlI bjweIAW, dlW mukwblw ]",
         "transliteration_english": "dhagaa sool bajaae'eeaa, dhalaa mukaabalaa ||",
         "transliteration_hindi": "धगा सूल बजाईआ दला मुकाबला ॥",
         "pronunciation": null,
@@ -5455,7 +6209,7 @@
         "id": "3DVH",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "DUih imAwny leIAw, juAwnI sUrmI ]",
+        "gurmukhi": "DUih imAwno leIAW, juAwnI sUrmI ]",
         "transliteration_english": "dhooh miaane le'eeaa, juaanee sooramee ||",
         "transliteration_hindi": "धूहि मिआने लईआ जुआनी सूरमी ॥",
         "pronunciation": null,
@@ -5480,7 +6234,7 @@
         "id": "DXDH",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sRoxvqbIij vDweIAw, Agxq sUrqw ]",
+        "gurmukhi": "sRxvq bIj bDweIAW, Agxq sUrqW ]",
         "transliteration_english": "sroNavatabeej vadhaae'eeaa, agaNat soorataa ||",
         "transliteration_hindi": "स्रोणवतबीजि वधाईआ अगणत सूरता ॥",
         "pronunciation": null,
@@ -5505,7 +6259,7 @@
         "id": "ADA6",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "durgw sauhY AweIAw, roih bFwie kY ]",
+        "gurmukhi": "durgw sauhyN AweIAW, roh bFwie kY ]",
         "transliteration_english": "dhuragaa sauhai aae'eeaa, roh baddaae kai ||",
         "transliteration_hindi": "दुरगा सउहै आईआ रोहि बढाइ कै ॥",
         "pronunciation": null,
@@ -5530,7 +6284,7 @@
         "id": "XY2Y",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sBnI Awn vgweIAw, qygw DUh kY ]",
+        "gurmukhi": "sBnI Awx vgweIAW, qygW DUh kY ]",
         "transliteration_english": "sabhanee aan vagaae'eeaa, tegaa dhooh kai ||",
         "transliteration_hindi": "सभनी आन वगाईआ तेगा धूह कै ॥",
         "pronunciation": null,
@@ -5555,7 +6309,7 @@
         "id": "X4DN",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "durgw sB bcweIAw, Fwl sMBwl kY ]",
+        "gurmukhi": "durgw sB bcweIAW, Fwl sMBwl kY ]",
         "transliteration_english": "dhuragaa sabh bachaae'eeaa, ddaal sanbhaal kai ||",
         "transliteration_hindi": "दुरगा सभ बचाईआ ढाल संभाल कै ॥",
         "pronunciation": null,
@@ -5580,7 +6334,7 @@
         "id": "VDPE",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "dyvI Awp clweIAw, qik qik dwnvI ]",
+        "gurmukhi": "dyvI Awp clweIAW, qik qik dwnvI ]",
         "transliteration_english": "dhevee aap chalaae'eeaa, tak tak dhaanavee ||",
         "transliteration_hindi": "देवी आप चलाईआ तकि तकि दानवी ॥",
         "pronunciation": null,
@@ -5605,7 +6359,7 @@
         "id": "JERC",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "lohU nwl fubweIAw, qygw nµgIAw ]",
+        "gurmukhi": "lohU nwil fubweIAW, qygW nµgIAW ]",
         "transliteration_english": "lohoo naal ddubaae'eeaa, tegaa nangeeaa ||",
         "transliteration_hindi": "लोहू नाल डुबाईआ तेगा नंगीआ ॥",
         "pronunciation": null,
@@ -5630,7 +6384,7 @@
         "id": "Q3R0",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "swrsuqI jxu nRhweIAw, iml kY dyvIAw ]",
+        "gurmukhi": "swrsuqI jnu nweIAW, iml kY dyvIAW ]",
         "transliteration_english": "saarasutee jaN nrahaae'eeaa, mil kai dheveeaa ||",
         "transliteration_hindi": "सारसुती जणु न्रहाईआ मिल कै देवीआ ॥",
         "pronunciation": null,
@@ -5655,7 +6409,7 @@
         "id": "SPEY",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sBy mwir igrweIAw, AMdir Kyq dy ]",
+        "gurmukhi": "sBy mwr igrweIAW, AMdir Kyq dY ]",
         "transliteration_english": "sabhe maar giraae'eeaa, andhar khet dhe ||",
         "transliteration_hindi": "सभे मारि गिराईआ अंदरि खेत दे ॥",
         "pronunciation": null,
@@ -5680,7 +6434,7 @@
         "id": "HV6C",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "iqdUM Pyir svweIAw, hoeIAw sUrqw ]40]",
+        "gurmukhi": "iqdUM Pyir svweIAW, hoeIAW sUrqW ]40]",
         "transliteration_english": "tidhoon fer savaae'eeaa, hoe'eeaa soorataa ||40||",
         "transliteration_hindi": "तिदूं फेरि सवाईआ होईआ सूरता ॥४०॥",
         "pronunciation": null,
@@ -5700,12 +6454,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "BE5",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "K5JC",
+        "source_page": 125,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "QY9D",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "sUrI sMGru ricAw; Fol sMK ngwry vwie kY ]",
+        "gurmukhi": "sUrI sMGir ricAw; Fol sMK ngwry vwie kY ]",
         "transliteration_english": "sooree sanghar rachiaa; ddol sankh nagaare vaae kai ||",
         "transliteration_hindi": "सूरी संघरु रचिआ ढोल संख नगारे वाइ कै ॥",
         "pronunciation": null,
@@ -5730,7 +6518,7 @@
         "id": "07M2",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "cMif icqwrI kwilkw; min bwhlw roh bFwie kY ]",
+        "gurmukhi": "cMf icqwrI kwlkw; mn bwhlw ros bFwie kY ]",
         "transliteration_english": "chandd chitaaree kaalikaa; man baahalaa roh baddaae kai ||",
         "transliteration_hindi": "चंडि चितारी कालिका मनि बाहला रोह बढाइ कै ॥",
         "pronunciation": null,
@@ -5755,7 +6543,7 @@
         "id": "2NXQ",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "inklI mQw PoiV kY; jxu Pqih nIswn bjwie kY ]",
+        "gurmukhi": "inklI mQw PoiV kY; jn Pqy nIswx bjwie kY ]",
         "transliteration_english": "nikalee mathaa foR kai; jaN fateh neesaan bajaae kai ||",
         "transliteration_hindi": "निकली मथा फोड़ि कै जणु फतहि नीसान बजाइ कै ॥",
         "pronunciation": null,
@@ -5780,7 +6568,7 @@
         "id": "618A",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "jwig su juMmI juD no; jrvwxw jxu mrVwie kY ]",
+        "gurmukhi": "jwg su jMmI juD nUµ; jrvwxw jx mrVwie kY ]",
         "transliteration_english": "jaag su junmee judh no; jaravaaNaa jaN maraRaae kai ||",
         "transliteration_hindi": "जागि सु जुंमी जुध नो जरवाणा जणु मरड़ाइ कै ॥",
         "pronunciation": null,
@@ -5805,7 +6593,7 @@
         "id": "7FC2",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "rxu ivic Gyrw GiqAw jxu sINh quirAw gxxwie kY ]",
+        "gurmukhi": "dl ivic Gyrw GiqAw jx sINh quirAw gixxwie kY ]",
         "transliteration_english": "raN vich gheraa ghatiaa jaN see(n)h turiaa gaNaNaae kai ||",
         "transliteration_hindi": "रणु विचि घेरा घतिआ जणु सींह तुरिआ गणणाइ कै ॥",
         "pronunciation": null,
@@ -5830,7 +6618,7 @@
         "id": "989S",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "Awp ivsUlw hoieAw, iqhuM lokw qY Kuxswie kY ]",
+        "gurmukhi": "Awp ivsUlw hoieAw, iqhu lokW qy Kunswie kY ]",
         "transliteration_english": "aap visoolaa hoeiaa, tihun lokaa tai khuNasaae kai ||",
         "transliteration_hindi": "आप विसूला होइआ तिहुं लोका तै खुणसाइ कै ॥",
         "pronunciation": null,
@@ -5855,7 +6643,7 @@
         "id": "Z6VZ",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "roh isDwieAw ck® pwix; kir nµdg KVg auTwie kY ]",
+        "gurmukhi": "roh isDwieAW ck® pwn; kr inMdw KVg auTwie kY ]",
         "transliteration_english": "roh sidhaaeiaa chakr paaN; kar nandhag khaRag auttaae kai ||",
         "transliteration_hindi": "रोह सिधाइआ चक्र पाणि करि नंदग खड़ग उठाइ कै ॥",
         "pronunciation": null,
@@ -5880,7 +6668,7 @@
         "id": "NHZ4",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "rwks bYTy rohly; qIr qygI Chbr lwie kY ]",
+        "gurmukhi": "AgY rwks bYTy rohly; qIrI qygI Chbr lwie kY ]",
         "transliteration_english": "raakas baitte rohale; teer tegee chhahabar laae kai ||",
         "transliteration_hindi": "राकस बैठे रोहले तीर तेगी छहबर लाइ कै ॥",
         "pronunciation": null,
@@ -5905,7 +6693,7 @@
         "id": "P9A7",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "bhuq pCwVy rwksw; dl dYqw AMdr jwie kY ]",
+        "gurmukhi": "pkV pCwVy rwksW; dl dYqW AMdir jwie kY ]",
         "transliteration_english": "bahut pachhaaRe raakasaa; dhal dhaitaa andhar jaae kai ||",
         "transliteration_hindi": "बहुत पछाड़े राकसा दल दैता अंदर जाइ कै ॥",
         "pronunciation": null,
@@ -5930,7 +6718,7 @@
         "id": "SC42",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "bhu kysI pkiV pCwiVAin; iqn AMdr DuMm rcwiekY ]",
+        "gurmukhi": "bhu kysI pkiV pCwiVAin; iqn AMdir DUm rcwie kY ]",
         "transliteration_english": "bahu kesee pakaR pachhaaRian; tin andhar dhunm rachaaeikai ||",
         "transliteration_hindi": "बहु केसी पकड़ि पछाड़िअनि तिन अंदर धुंम रचाइकै ॥",
         "pronunciation": null,
@@ -5955,7 +6743,7 @@
         "id": "3PG0",
         "source_page": 125,
         "source_line": null,
-        "gurmukhi": "vfy vfy cuix sUrmy; gih kotI dey clwie kY ]",
+        "gurmukhi": "bfy bfy cux sUrmy; gih kotI dey clwie kY ]",
         "transliteration_english": "vadde vadde chuN soorame; geh koTee dhe chalaae kai ||",
         "transliteration_hindi": "वडे वडे चुणि सूरमे गहि कोटी दए चलाइ कै ॥",
         "pronunciation": null,
@@ -5980,7 +6768,7 @@
         "id": "JWRX",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "rix kwlI gusw Kwie kY ]41]",
+        "gurmukhi": "rx kwlI gusw Kwie kY ]41]",
         "transliteration_english": "raN kaalee gusaa khaae kai ||41||",
         "transliteration_hindi": "रणि काली गुसा खाइ कै ॥४१॥",
         "pronunciation": null,
@@ -6000,12 +6788,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "7P4",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "0HNV",
+        "source_page": 126,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "AX3T",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "duhw kMDwrw muh juVy, AxIAw coeIAw ]",
+        "gurmukhi": "duhw kMDwrw muih juVy, AxIAwrW coeIAw ]",
         "transliteration_english": "dhuhaa kandhaaraa muh juRe, aNeeaa choe'eeaa ||",
         "transliteration_hindi": "दुहा कंधारा मुह जुड़े अणीआ चोईआ ॥",
         "pronunciation": null,
@@ -6030,7 +6852,7 @@
         "id": "H3KP",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "DUih ik®pwnw iqRKIAw nwil lohU DoeIAW ]",
+        "gurmukhi": "DUih ikrpwxW iqKIAw nwl lohU DoeIAW ]",
         "transliteration_english": "dhooh kripaanaa trikheeaa naal lohoo dhoe'eeaa(n) ||",
         "transliteration_hindi": "धूहि क्रिपाना त्रिखीआ नालि लोहू धोईआं ॥",
         "pronunciation": null,
@@ -6055,7 +6877,7 @@
         "id": "GHM6",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "hUrw sRoxqbIj no, Giq Gyr KloeIAw ]",
+        "gurmukhi": "hUrW sRxq bIj nUµ, Giq Gyir KloeIAW ]",
         "transliteration_english": "hooraa sroNatabeej no, ghat gher khaloe'eeaa ||",
         "transliteration_hindi": "हूरा स्रोणतबीज नो घति घेर खलोईआ ॥",
         "pronunciation": null,
@@ -6080,7 +6902,7 @@
         "id": "Z5NM",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "lwVw vyKix lwVIAw cauigrdY hoeIAW ]42]",
+        "gurmukhi": "lwVw dyKx lwVIAW cauigrdy hoeIAW ]42]",
         "transliteration_english": "laaRaa vekhaN laaReeaa chaugiradhai hoe'eeaa(n) ||42||",
         "transliteration_hindi": "लाड़ा वेखणि लाड़ीआ चउगिरदै होईआं ॥४२॥",
         "pronunciation": null,
@@ -6100,12 +6922,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "KBY",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "P6AS",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "cObI DausI pweIAw, dlw iBVMidAw ]",
+        "gurmukhi": "cobI Dausw pweIAW, dlW mukwblw ]",
         "transliteration_english": "choubee dhausee paae'eeaa, dhalaa bhiRandhiaa ||",
         "transliteration_hindi": "चौबी धउसी पाईआ दला भिड़ंदिआ ॥",
         "pronunciation": null,
@@ -6130,7 +6961,7 @@
         "id": "MM3Q",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "dsqI DUih ncweIAw qygw iqKIAW ]",
+        "gurmukhi": "dsqI DUh ncweIAW qygW nµgIAW ]",
         "transliteration_english": "dhasatee dhooh nachaae'eeaa tegaa tikheeaa(n) ||",
         "transliteration_hindi": "दसती धूहि नचाईआ तेगा तिखीआं ॥",
         "pronunciation": null,
@@ -6155,7 +6986,7 @@
         "id": "4HZ5",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "sUirAw dy qin lweIAw gosq igDIAW ]",
+        "gurmukhi": "sUirAW dy qn lweIAW gosq igDIAW ]",
         "transliteration_english": "sooriaa dhe tan laae'eeaa gosat gidheeaa(n) ||",
         "transliteration_hindi": "सूरिआ दे तनि लाईआ गोसत गिधीआं ॥",
         "pronunciation": null,
@@ -6180,7 +7011,7 @@
         "id": "XJGL",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "ivDx rwqI AweIAW mrdw GoiVAW ]",
+        "gurmukhi": "ibDx rwqI AweIAW mrdW GoiVAW ]",
         "transliteration_english": "vidhaN raatee aae'eeaa(n) maradhaa ghoRiaa(n) ||",
         "transliteration_hindi": "विधण राती आईआं मरदा घोड़िआं ॥",
         "pronunciation": null,
@@ -6205,7 +7036,7 @@
         "id": "L3MN",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "jogxIAw imil DweIAW lohU BKxw ]",
+        "gurmukhi": "jogxIAW imil DweIAW lohU BKxw ]",
         "transliteration_english": "jogaNeeaa mil dhaae'eeaa(n) lohoo bhakhaNaa ||",
         "transliteration_hindi": "जोगणीआ मिलि धाईआं लोहू भखणा ॥",
         "pronunciation": null,
@@ -6230,7 +7061,7 @@
         "id": "TFLN",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "sBy mwir htweIAw, Paujw dwnvw ]",
+        "gurmukhi": "PaujW mwr htweIAW, dyvW dwnvW ]",
         "transliteration_english": "sabhe maar haTaae'eeaa, faujaa dhaanavaa ||",
         "transliteration_hindi": "सभे मारि हटाईआ फउजा दानवा ॥",
         "pronunciation": null,
@@ -6255,7 +7086,7 @@
         "id": "DZH5",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "BjdI kQw suxweIAW rwjy suMB no ]",
+        "gurmukhi": "BjdI kQw suxweIAW rwjy suMB QY ]",
         "transliteration_english": "bhajadhee kathaa suNaae'eeaa(n) raaje sunbh no ||",
         "transliteration_hindi": "भजदी कथा सुणाईआं राजे सुंभ नो ॥",
         "pronunciation": null,
@@ -6280,7 +7111,7 @@
         "id": "AKLW",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "BueI n pauxY pweIAW bUMdw rkq dIAw ]",
+        "gurmukhi": "BueIN n pauxY pweIAW bUMdw rkq dIAw ]",
         "transliteration_english": "bhue'ee na pauNai paae'eeaa(n) boondhaa rakat dheeaa ||",
         "transliteration_hindi": "भुई न पउणै पाईआं बूंदा रकत दीआ ॥",
         "pronunciation": null,
@@ -6305,7 +7136,7 @@
         "id": "DXD6",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "kwlI Kyq KpweIAW sBY sUrqw ]",
+        "gurmukhi": "kwlI Kyq KpweIAW sBy sUrqW ]",
         "transliteration_english": "kaalee khet khapaae'eeaa(n) sabhai soorataa ||",
         "transliteration_hindi": "काली खेत खपाईआं सभै सूरता ॥",
         "pronunciation": null,
@@ -6330,7 +7161,7 @@
         "id": "W1MM",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "bhuqI isrI ivhweIAw, GVIAw kwl dIAw ]",
+        "gurmukhi": "bhuqI isrI ibhweIAW, GVIAW kwl kIAW ]",
         "transliteration_english": "bahutee siree vihaae'eeaa, ghaReeaa kaal dheeaa ||",
         "transliteration_hindi": "बहुती सिरी विहाईआ घड़ीआ काल दीआ ॥",
         "pronunciation": null,
@@ -6355,7 +7186,7 @@
         "id": "Z104",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "jwxu n jwey mweIAw, jUJy sUrmy ]43]",
+        "gurmukhi": "jwix n jwey mweIAW, jUJy sUrmy ]43]",
         "transliteration_english": "jaaN na jaae maae'eeaa, joojhe soorame ||43||",
         "transliteration_hindi": "जाणु न जाए माईआ जूझे सूरमे ॥४३॥",
         "pronunciation": null,
@@ -6375,12 +7206,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "FTL",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "98A5",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "suMB suxI krhwlI, sRoxq bIj dI ]",
+        "gurmukhi": "suMB suxI krhwlI, sRxvq bIj dI ]",
         "transliteration_english": "sunbh suNee karahaalee, sroNat beej dhee ||",
         "transliteration_hindi": "सुंभ सुणी करहाली स्रोणत बीज दी ॥",
         "pronunciation": null,
@@ -6405,7 +7245,7 @@
         "id": "CUNB",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "rx ivic iknY n JwlI, durgw AwvdI ]",
+        "gurmukhi": "rx ivic iknY n JwlI, durgw AWvdI ]",
         "transliteration_english": "raN vich kinai na jhaalee, dhuragaa aavadhee ||",
         "transliteration_hindi": "रण विचि किनै न झाली दुरगा आवदी ॥",
         "pronunciation": null,
@@ -6430,7 +7270,7 @@
         "id": "7055",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "bhuqy bIr jtlI, auTy AwiK kY ]",
+        "gurmukhi": "bhuqy bIr jtwlI, auTy AwK kY ]",
         "transliteration_english": "bahute beer jaTalee, autte aakh kai ||",
         "transliteration_hindi": "बहुते बीर जटली उठे आखि कै ॥",
         "pronunciation": null,
@@ -6455,7 +7295,7 @@
         "id": "S7QK",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "cotw pwn qbwlI jwsn juD no ]",
+        "gurmukhi": "cotw pwn qbwlI jwsn juD nUµ ]",
         "transliteration_english": "choTaa paan tabaalee jaasan judh no ||",
         "transliteration_hindi": "चोटा पान तबाली जासन जुध नो ॥",
         "pronunciation": null,
@@ -6480,7 +7320,7 @@
         "id": "8KZB",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "Qr Qr iprQI hwlI dlw cVMidAW ]",
+        "gurmukhi": "Qir Qir ipRQmI cwlI dlW cVMidAW ]",
         "transliteration_english": "thar thar pirathee haalee dhalaa chaRandhiaa(n) ||",
         "transliteration_hindi": "थर थर पिरथी हाली दला चड़ंदिआं ॥",
         "pronunciation": null,
@@ -6505,7 +7345,7 @@
         "id": "FBL4",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "nwau ijvY hY hwlI, sh dirAwau ivic ]",
+        "gurmukhi": "nwau ijvy hY hwlI, shu drIAwau ivic ]",
         "transliteration_english": "naau jivai hai haalee, seh dhariaau vich ||",
         "transliteration_hindi": "नाउ जिवै है हाली सह दरिआउ विचि ॥",
         "pronunciation": null,
@@ -6530,7 +7370,7 @@
         "id": "B3J0",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "DUiV auqwhw GwlI, KurI qrMgmw ]",
+        "gurmukhi": "DUiV auqwhW GwlI, CVI qurMgmW ]",
         "transliteration_english": "dhooR autaahaa ghaalee, khuree tarangamaa ||",
         "transliteration_hindi": "धूड़ि उताहा घाली खुरी तरंगमा ॥",
         "pronunciation": null,
@@ -6555,7 +7395,7 @@
         "id": "17V3",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "jwx pukwrU cwlI, DrqI ieMdR QY ]44]",
+        "gurmukhi": "jwix pukwrU cwlI, DrqI ieMdR QY ]44]",
         "transliteration_english": "jaaN pukaaroo chaalee, dharatee eindhr thai ||44||",
         "transliteration_hindi": "जाण पुकारू चाली धरती इंद्र थै ॥४४॥",
         "pronunciation": null,
@@ -6575,12 +7415,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "TJE",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "FCEG",
+        "source_page": 126,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "GXZV",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "Awhru imilAw AwhrIAw, sYn sUirAw swjI ]",
+        "gurmukhi": "Awhir imilAw AwhrIAW, sYx sUirAW swjI ]",
         "transliteration_english": "aahar miliaa aahareeaa, sain sooriaa saajee ||",
         "transliteration_hindi": "आहरु मिलिआ आहरीआ सैन सूरिआ साजी ॥",
         "pronunciation": null,
@@ -6605,7 +7479,7 @@
         "id": "HNX1",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "cly sauhY durgswh, jxu kwby hwjI ]",
+        "gurmukhi": "cly sauhy durgswh, jx kwbY hwjI ]",
         "transliteration_english": "chale sauhai dhuragasaeh, jaN kaabe haajee ||",
         "transliteration_hindi": "चले सउहै दुरगसाह जणु काबे हाजी ॥",
         "pronunciation": null,
@@ -6630,7 +7504,7 @@
         "id": "7WTD",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "qIrI qygI jmDVI, rix vMfI BwjI ]",
+        "gurmukhi": "qIrI qygI jmDVI, rx vMfI BwjI ]",
         "transliteration_english": "teeree tegee jamadhaRee, raN vanddee bhaajee ||",
         "transliteration_hindi": "तीरी तेगी जमधड़ी रणि वंडी भाजी ॥",
         "pronunciation": null,
@@ -6655,7 +7529,7 @@
         "id": "FLK7",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "iek Gumin Gwiel sUrmy, jxu mkqib kwjI ]",
+        "gurmukhi": "iek Gwiel GUmn sUrmy, jx mkqb kwjI ]",
         "transliteration_english": "eik ghuman ghaaeil soorame, jaN makatab kaajee ||",
         "transliteration_hindi": "इक घुमनि घाइल सूरमे जणु मकतबि काजी ॥",
         "pronunciation": null,
@@ -6680,7 +7554,7 @@
         "id": "3KRY",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "iek bIr proqy brCIAY, ijau Juik paun nvwjI ]",
+        "gurmukhi": "iek bIr proqy brCIey, ijau Juk paun invwjI ]",
         "transliteration_english": "eik beer parote barachheeaai, jiu jhuk paun navaajee ||",
         "transliteration_hindi": "इक बीर परोते बरछीऐ जिउ झुकि पउन नवाजी ॥",
         "pronunciation": null,
@@ -6705,7 +7579,7 @@
         "id": "EZKM",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "iek dyvI sauhY Kuxs kY, Kuxswien qwjI ]",
+        "gurmukhi": "iek durgw sauhy Kuns kY, Kunswien qwjI ]",
         "transliteration_english": "eik dhevee sauhai khuNas kai, khuNasaaein taajee ||",
         "transliteration_hindi": "इक देवी सउहै खुणस कै खुणसाइन ताजी ॥",
         "pronunciation": null,
@@ -6730,7 +7604,7 @@
         "id": "AR8A",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "iek Dwvin jwpin swmRhxy, ijau BuiKAwey pwjI ]",
+        "gurmukhi": "iek Dwvn durgw swmHxy, ijau BuiKAwey pwjI ]",
         "transliteration_english": "eik dhaavan jaapan saamrahaNe, jiu bhukhiaae paajee ||",
         "transliteration_hindi": "इक धावनि जापनि साम्रहणे जिउ भुखिआए पाजी ॥",
         "pronunciation": null,
@@ -6755,7 +7629,7 @@
         "id": "A9Z4",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "kdy n rjy juD qy, rij hoey rwjI ]45]",
+        "gurmukhi": "kdy n rjy juD qy, rj hoey rwjI ]45]",
         "transliteration_english": "kadhe na raje judh te, raj hoe raajee ||45||",
         "transliteration_hindi": "कदे न रजे जुध ते रजि होए राजी ॥४५॥",
         "pronunciation": null,
@@ -6775,12 +7649,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "MV2",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "FCGF",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "bjy sMglIAwly, sMGir fohry ]",
+        "gurmukhi": "bjy sMglIAwly, sMGr fohry ]",
         "transliteration_english": "baje sangaleeaale, sanghar ddohare ||",
         "transliteration_hindi": "बजे संगलीआले संघरि डोहरे ॥",
         "pronunciation": null,
@@ -6805,7 +7688,7 @@
         "id": "PR1N",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "Kyq fhy jtwly, hwTw joiV kY ]",
+        "gurmukhi": "fhy ju Kyq jtwly, hwTW joiV kY ]",
         "transliteration_english": "khet ddahe jaTaale, haattaa joR kai ||",
         "transliteration_hindi": "खेत डहे जटाले हाठा जोड़ि कै ॥",
         "pronunciation": null,
@@ -6830,7 +7713,7 @@
         "id": "R0XB",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "nyjy bMbilAwly, idisin ErVY ]",
+        "gurmukhi": "nyjy bMblIAwly, idsn ErVy ]",
         "transliteration_english": "neje banbaliaale, dhisin oraRai ||",
         "transliteration_hindi": "नेजे बंबलिआले दिसिनि ओरड़ै ॥",
         "pronunciation": null,
@@ -6855,7 +7738,7 @@
         "id": "LKTY",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "cly jwx jtwly, nRhwvx gMg nUM ]46]",
+        "gurmukhi": "cly jwx jtwly, nwvx gMg nUµ ]46]",
         "transliteration_english": "chale jaaN jaTaale, nrahaavaN gang noon ||46||",
         "transliteration_hindi": "चले जाण जटाले न्रहावण गंग नूं ॥४६॥",
         "pronunciation": null,
@@ -6875,12 +7758,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "RHY",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "R8C0",
+        "source_page": 126,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "DZJU",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "durgw Aqy dwnvI sUl hoeIAW kMgw ]",
+        "gurmukhi": "durgw AqY dwnvI sUl hoeIAW kMgW ]",
         "transliteration_english": "dhuragaa ate dhaanavee sool hoe'eeaa(n) kangaa ||",
         "transliteration_hindi": "दुरगा अते दानवी सूल होईआं कंगा ॥",
         "pronunciation": null,
@@ -6905,7 +7822,7 @@
         "id": "KTM8",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "vwCV GqI sUirAW ivc Kyq KqMgw ]",
+        "gurmukhi": "vwCV GqI sUirAW ivc Kyq KqMgW ]",
         "transliteration_english": "vaachhaR ghatee sooriaa(n) vich khet khatangaa ||",
         "transliteration_hindi": "वाछड़ घती सूरिआं विच खेत खतंगा ॥",
         "pronunciation": null,
@@ -6930,7 +7847,7 @@
         "id": "7JG3",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "DUih ik®pwxw iqKIAW biF lwhin AMgw ]",
+        "gurmukhi": "DUih ik®pwxw iqKIAW bF lwhin AMgW ]",
         "transliteration_english": "dhooh kripaaNaa tikheeaa(n) badd laahan angaa ||",
         "transliteration_hindi": "धूहि क्रिपाणा तिखीआं बढि लाहनि अंगा ॥",
         "pronunciation": null,
@@ -6955,7 +7872,7 @@
         "id": "P0G6",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "pihlw dlw imlµidAW ByVu pwieAw inhMgw ]47]",
+        "gurmukhi": "phlw dlW imlµidAW ByV pwieAw inhMgw ]47]",
         "transliteration_english": "pahilaa dhalaa milandhiaa(n) bheR paaeiaa nihangaa ||47||",
         "transliteration_hindi": "पहिला दला मिलंदिआं भेड़ु पाइआ निहंगा ॥४७॥",
         "pronunciation": null,
@@ -6975,12 +7892,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "TW9",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "2J1E",
+        "source_page": 126,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "BJB4",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "EriV Paujw AweIAW bIr cVy kMDwrI ]",
+        "gurmukhi": "ErV PaujW AweIAW bIr cVy kMDwrI ]",
         "transliteration_english": "oraR faujaa aae'eeaa(n) beer chaRe kandhaaree ||",
         "transliteration_hindi": "ओरड़ि फउजा आईआं बीर चड़े कंधारी ॥",
         "pronunciation": null,
@@ -7005,7 +7956,7 @@
         "id": "76BS",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "sVik imAwnhuW kFIAw, iqKIAw qrvwrI ]",
+        "gurmukhi": "sVk imAwno kFIAW, iqKIAW qrvwrI ]",
         "transliteration_english": "saRak miaanahuaa(n) kaddeeaa, tikheeaa taravaaree ||",
         "transliteration_hindi": "सड़कि मिआनहुां कढीआ तिखीआ तरवारी ॥",
         "pronunciation": null,
@@ -7030,7 +7981,7 @@
         "id": "0QXJ",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "kVik auTy rx micAw vfy hMkwrI ]",
+        "gurmukhi": "kVk auTy rx micAw vfy hMkwrI ]",
         "transliteration_english": "kaRak autte raN machiaa vadde hankaaree ||",
         "transliteration_hindi": "कड़कि उठे रण मचिआ वडे हंकारी ॥",
         "pronunciation": null,
@@ -7055,7 +8006,7 @@
         "id": "1QKW",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "isr DV bwhw gnly, Pul jyhy bwVI ]",
+        "gurmukhi": "isr DV bwhW gn ly, Pul jyhY bwVI ]",
         "transliteration_english": "sir dhaR baahaa ganale, ful jehe baaRee ||",
         "transliteration_hindi": "सिर धड़ बाहा गनले फुल जेहे बाड़ी ॥",
         "pronunciation": null,
@@ -7080,7 +8031,7 @@
         "id": "2YUB",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "jxu kir kty bwFIAW ruK cMdin AwrI ]48]",
+        "gurmukhi": "jwpy kty bwFIAW ruK cMdn AwrI ]48]",
         "transliteration_english": "jaN kar kaTe baaddeeaa(n) rukh chandhan aaree ||48||",
         "transliteration_hindi": "जणु करि कटे बाढीआं रुख चंदनि आरी ॥४८॥",
         "pronunciation": null,
@@ -7100,12 +8051,21 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "M96",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "R8Y8",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "duhw kMDwrw muih juVy; rix st peI Krvwr kau ]",
+        "gurmukhi": "duhW kMDwrW muih juVy; jw st peI Krvwr kau ]",
         "transliteration_english": "dhuhaa kandhaaraa muh juRe; raN saT pe'ee kharavaar ku ||",
         "transliteration_hindi": "दुहा कंधारा मुहि जुड़े रणि सट पई खरवार कउ ॥",
         "pronunciation": null,
@@ -7130,7 +8090,7 @@
         "id": "M80U",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "qk qk kY br durgswh; qik mwrY Bly juJwr kau ]",
+        "gurmukhi": "qk qk kYbir durgswh; qk mwry Bly juJwr kau ]",
         "transliteration_english": "tak tak kai bar dhuragasaeh; tak maarai bhale jujhaar ku ||",
         "transliteration_hindi": "तक तक कै बर दुरगसाह तकि मारै भले जुझार कउ ॥",
         "pronunciation": null,
@@ -7155,7 +8115,7 @@
         "id": "ME5D",
         "source_page": 126,
         "source_line": null,
-        "gurmukhi": "pYdl mwry hwQIAw; sMig rQ igry Asvwr kau ]",
+        "gurmukhi": "pYdl mwry hwQIAW; sMig rQ igry Asvwr kau ]",
         "transliteration_english": "paidhal maare haatheeaa; sang rath gire asavaar ku ||",
         "transliteration_hindi": "पैदल मारे हाथीआ संगि रथ गिरे असवार कउ ॥",
         "pronunciation": null,
@@ -7180,7 +8140,7 @@
         "id": "2H3Y",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "sohin sMjw bwgVw; jxu lgy Pul Anwr kau ]",
+        "gurmukhi": "sohn sMjw bwgVw; jxu lgy Pul Anwr kau ]",
         "transliteration_english": "sohan sanjaa baagaRaa; jaN lage ful anaar ku ||",
         "transliteration_hindi": "सोहनि संजा बागड़ा जणु लगे फुल अनार कउ ॥",
         "pronunciation": null,
@@ -7205,7 +8165,7 @@
         "id": "FSYK",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "gusy AweI kwilkw; hQ sjy lY qrvwr kau ]",
+        "gurmukhi": "gusy AweI kwlkw; hiQ sjy lY qrvwr kau ]",
         "transliteration_english": "guse aae'ee kaalikaa; hath saje lai taravaar ku ||",
         "transliteration_hindi": "गुसे आई कालिका हथ सजे लै तरवार कउ ॥",
         "pronunciation": null,
@@ -7230,7 +8190,7 @@
         "id": "W8TB",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "eydUM pwro Eq pwr; hirnwkis keI hzwr kau ]",
+        "gurmukhi": "eydU pwrau Eq pwr; hrnwkis keI hjwr kau ]",
         "transliteration_english": "edhoon paaro ot paar; harinaakas ke'ee hazaar ku ||",
         "transliteration_hindi": "एदूं पारो ओत पार हरिनाकसि कई हज़ार कउ ॥",
         "pronunciation": null,
@@ -7255,7 +8215,7 @@
         "id": "CQBL",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "ijix ieko rhI, kMDwr kau ]",
+        "gurmukhi": "ijx iekw rhI, kMDwr kau ]",
         "transliteration_english": "jiN eiko rahee, kandhaar ku ||",
         "transliteration_hindi": "जिणि इको रही कंधार कउ ॥",
         "pronunciation": null,
@@ -7280,7 +8240,7 @@
         "id": "JJYF",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "sd rhmiq, qyry vwr kau ]49]",
+        "gurmukhi": "sd rhmq, qyry vwr kau ]49]",
         "transliteration_english": "sadh rahamat, tere vaar ku ||49||",
         "transliteration_hindi": "सद रहमति तेरे वार कउ ॥४९॥",
         "pronunciation": null,
@@ -7300,12 +8260,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "MAG",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "GH91",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "EQQV",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "duhw kMDwrw muih juVy; st peI jmDwx kau ]",
+        "gurmukhi": "duhW kMDwrW muih juVy; st peI jmDwx kau ]",
         "transliteration_english": "dhuhaa kandhaaraa muh juRe; saT pe'ee jamadhaaN ku ||",
         "transliteration_hindi": "दुहा कंधारा मुहि जुड़े सट पई जमधाण कउ ॥",
         "pronunciation": null,
@@ -7330,7 +8324,7 @@
         "id": "ZT9G",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "qid iKMg insuMB ncwieAw; fwil aupr brgusqwx kau ]",
+        "gurmukhi": "qd iKMg nsuMB ncwieAw; fwl aupir brgsqwx kau ]",
         "transliteration_english": "tadh khing nisunbh nachaaeiaa; ddaal aupar baragusataaN ku ||",
         "transliteration_hindi": "तदि खिंग निसुंभ नचाइआ डालि उपर बरगुसताण कउ ॥",
         "pronunciation": null,
@@ -7355,7 +8349,7 @@
         "id": "9885",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "PVI iblµd mMgwieEsu; Prmwies kir mulqwn kau ]",
+        "gurmukhi": "PVI iblµd mgwieaus; Purmwies kir mulqwn kau ]",
         "transliteration_english": "faRee bilandh mangaaeios; faramaaeis kar mulataan ku ||",
         "transliteration_hindi": "फड़ी बिलंद मंगाइओसु फरमाइस करि मुलतान कउ ॥",
         "pronunciation": null,
@@ -7380,7 +8374,7 @@
         "id": "C4DW",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "gusy AweI swmRhxy; rx AMdr Gqx Gwx kau ]",
+        "gurmukhi": "gusy AweI swhmxy; rx AMdir Gqx Gwx kau ]",
         "transliteration_english": "guse aae'ee saamrahaNe; raN andhar ghataN ghaaN ku ||",
         "transliteration_hindi": "गुसे आई साम्रहणे रण अंदर घतण घाण कउ ॥",
         "pronunciation": null,
@@ -7405,7 +8399,7 @@
         "id": "70AQ",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "Agy qyg vgweI durgswh; biF suMBn bhI plwx kau ]",
+        "gurmukhi": "AgY qyg vgweI durgswh; bF suMBn bhI plwx kau ]",
         "transliteration_english": "age teg vagaae'ee dhuragasaeh; badd sunbhan bahee palaaN ku ||",
         "transliteration_hindi": "अगे तेग वगाई दुरगसाह बढि सुंभन बही पलाण कउ ॥",
         "pronunciation": null,
@@ -7430,7 +8424,7 @@
         "id": "1T6M",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "rVkI jwie kY Drq kau; biF pwKr biF ikkwx kau ]",
+        "gurmukhi": "rVkI jwie kY Drq kau; bF pwKr bF ikkwx kau ]",
         "transliteration_english": "raRakee jaae kai dharat ku; badd paakhar badd kikaaN ku ||",
         "transliteration_hindi": "रड़की जाइ कै धरत कउ बढि पाखर बढि किकाण कउ ॥",
         "pronunciation": null,
@@ -7480,7 +8474,7 @@
         "id": "449T",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "swbws, sloxy Kwn kau ]",
+        "gurmukhi": "swbws, sloxy Kwx kau ]",
         "transliteration_english": "saabaas, saloNe khaan ku ||",
         "transliteration_hindi": "साबास सलोणे खान कउ ॥",
         "pronunciation": null,
@@ -7505,7 +8499,7 @@
         "id": "N092",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "sd swbws, qyry qwx kau ]",
+        "gurmukhi": "sdw swbws, qyry qwx kau ]",
         "transliteration_english": "sadh saabaas, tere taaN ku ||",
         "transliteration_hindi": "सद साबास तेरे ताण कउ ॥",
         "pronunciation": null,
@@ -7530,7 +8524,7 @@
         "id": "SYU9",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "qwrIPw, pwn cbwx kau ]",
+        "gurmukhi": "qwrIPW, pwn cbwx kau ]",
         "transliteration_english": "taareefaa, paan chabaaN ku ||",
         "transliteration_hindi": "तारीफा पान चबाण कउ ॥",
         "pronunciation": null,
@@ -7555,7 +8549,7 @@
         "id": "0X03",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "sd rhmq, kYPw Kwx kau ]",
+        "gurmukhi": "sd rhmq, kYPW Kwn kau ]",
         "transliteration_english": "sadh rahamat, kaifaa khaaN ku ||",
         "transliteration_hindi": "सद रहमत कैफा खाण कउ ॥",
         "pronunciation": null,
@@ -7600,12 +8594,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "BK8",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "7FQC",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "A9W1",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "durgw Aqy dwnvI, gih sMGr kQy ]",
+        "gurmukhi": "durgw AqY dwnvI, gh sMGir kQy ]",
         "transliteration_english": "dhuragaa ate dhaanavee, geh sanghar kathe ||",
         "transliteration_hindi": "दुरगा अते दानवी गहि संघर कथे ॥",
         "pronunciation": null,
@@ -7630,7 +8658,7 @@
         "id": "3YDQ",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "ErV auTy sUrmy, Awie fwhY mQy ]",
+        "gurmukhi": "ErV auTy sUrmy, Awie fwhy mQy ]",
         "transliteration_english": "oraR autte soorame, aae ddaahai mathe ||",
         "transliteration_hindi": "ओरड़ उठे सूरमे आइ डाहै मथे ॥",
         "pronunciation": null,
@@ -7655,7 +8683,7 @@
         "id": "XUJG",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "kit quMPMgI kYbrI, dl swihb inkQy ]",
+        "gurmukhi": "kt quPMgI kYbrI, dl gwih inkQy ]",
         "transliteration_english": "kaT tunfangee kaibaree, dhal saahib nikathe ||",
         "transliteration_hindi": "कटि तुंफंगी कैबरी दल साहिब निकथे ॥",
         "pronunciation": null,
@@ -7680,7 +8708,7 @@
         "id": "7B8B",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "vyKix jMg Prysqy, AsmwnhuM lQy ]51]",
+        "gurmukhi": "dyKix jMg Prysqy, Asmwno lQy ]51]",
         "transliteration_english": "vekhaN jang faresate, asamaanahun lathe ||51||",
         "transliteration_hindi": "वेखणि जंग फरेसते असमानहुं लथे ॥५१॥",
         "pronunciation": null,
@@ -7700,12 +8728,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "3FB",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "PB4D",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "PM7Q",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "dohw kMDwrw muh juVy, dl Gury ngwry ]",
+        "gurmukhi": "dohW kMDwrW muh juVy, dl Gury ngwry ]",
         "transliteration_english": "dhohaa kandhaaraa muh juRe, dhal ghure nagaare ||",
         "transliteration_hindi": "दोहा कंधारा मुह जुड़े दल घुरे नगारे ॥",
         "pronunciation": null,
@@ -7730,7 +8792,7 @@
         "id": "GACZ",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "EriV Awey sUrmy, isrdwr rixAwry ]",
+        "gurmukhi": "ErV Awey sUrmy, isrdwr AixAwry ]",
         "transliteration_english": "oraR aae soorame, siradhaar raNiaare ||",
         "transliteration_hindi": "ओरड़ि आए सूरमे सिरदार रणिआरे ॥",
         "pronunciation": null,
@@ -7755,7 +8817,7 @@
         "id": "8K3J",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "lY lY qygw brCIAw, hiQAwr auBwry ]",
+        "gurmukhi": "lY ky qygW brCIAW, hiQAwr auBwry ]",
         "transliteration_english": "lai lai tegaa barachheeaa, hathiaar aubhaare ||",
         "transliteration_hindi": "लै लै तेगा बरछीआ हथिआर उभारे ॥",
         "pronunciation": null,
@@ -7780,7 +8842,7 @@
         "id": "MFZF",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "top ptylw pwKrw, gil sMj svwry ]",
+        "gurmukhi": "top ptylw pwKrW, gil sMj svwry ]",
         "transliteration_english": "Top paTelaa paakharaa, gal sanj savaare ||",
         "transliteration_hindi": "टोप पटेला पाखरा गलि संज सवारे ॥",
         "pronunciation": null,
@@ -7830,7 +8892,7 @@
         "id": "EG2Y",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "cVy rQI gj GoiVeI, mwir Buie qy fwry ]",
+        "gurmukhi": "cVy rQI gj GoiVeI, mwr Buie qy fwry ]",
         "transliteration_english": "chaRe rathee gaj ghoRie'ee, maar bhue te ddaare ||",
         "transliteration_hindi": "चड़े रथी गज घोड़िई मारि भुइ ते डारे ॥",
         "pronunciation": null,
@@ -7855,7 +8917,7 @@
         "id": "HYCZ",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "jxu hlvweI sIK nwl, ibMnRh vVy auqwry ]52]",
+        "gurmukhi": "jxu hlvweI sIK nwl, ivMnH vVy auqwry ]52]",
         "transliteration_english": "jaN halavaae'ee seekh naal, binnreh vaRe autaare ||52||",
         "transliteration_hindi": "जणु हलवाई सीख नाल बिंन्रह वड़े उतारे ॥५२॥",
         "pronunciation": null,
@@ -7875,12 +8937,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "X22",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "3Q8J",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "VKRE",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "duhw kMDwrw muih juVy, nwl Dausw BwrI ]",
+        "gurmukhi": "duhW kMDwrW muih juVy, nwl Dausw BwrI ]",
         "transliteration_english": "dhuhaa kandhaaraa muh juRe, naal dhausaa bhaaree ||",
         "transliteration_hindi": "दुहा कंधारा मुहि जुड़े नाल धउसा भारी ॥",
         "pronunciation": null,
@@ -7905,7 +9001,7 @@
         "id": "ST02",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "leI BgauqI durgswih, vr jwgix BwrI ]",
+        "gurmukhi": "leI BgauqI durgswh, vr jwgn BwrI ]",
         "transliteration_english": "le'ee bhagautee dhuragasaeh, var jaagaN bhaaree ||",
         "transliteration_hindi": "लई भगउती दुरगसाहि वर जागणि भारी ॥",
         "pronunciation": null,
@@ -7930,7 +9026,7 @@
         "id": "WF48",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "lweI rwjy suMB no, rq pIAY ipAwrI ]",
+        "gurmukhi": "lweI rwjy suMB no, rqu pIAY ipAwrI ]",
         "transliteration_english": "laae'ee raaje sunbh no, rat peeaai piaaree ||",
         "transliteration_hindi": "लाई राजे सुंभ नो रत पीऐ पिआरी ॥",
         "pronunciation": null,
@@ -7955,7 +9051,7 @@
         "id": "68HD",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "suMB pwlwxo ifigAw, aupmw vIcwrI ]",
+        "gurmukhi": "suMB pwlwxo ifigAw, aupmw bIcwrI ]",
         "transliteration_english": "sunbh paalaaNo ddigiaa, aupamaa veechaaree ||",
         "transliteration_hindi": "सुंभ पालाणो डिगिआ उपमा वीचारी ॥",
         "pronunciation": null,
@@ -7980,7 +9076,7 @@
         "id": "YNF1",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "fuib rqu nwlhu inklI, brCI doDwrI ]",
+        "gurmukhi": "fub rqU nwlhu inklI, brCI duDwrI ]",
         "transliteration_english": "ddub rat naalahu nikalee, barachhee dhodhaaree ||",
         "transliteration_hindi": "डुबि रतु नालहु निकली बरछी दोधारी ॥",
         "pronunciation": null,
@@ -8005,7 +9101,7 @@
         "id": "XSSS",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "jwxu rjwdI auqrI, pYnRih sUhI swrRhI ]53]",
+        "gurmukhi": "jwx rjwdI auqrI, pYn sUhI swrI ]53]",
         "transliteration_english": "jaaN rajaadhee autaree, painreh soohee saarrahee ||53||",
         "transliteration_hindi": "जाणु रजादी उतरी पैन्रहि सूही सार्रही ॥५३॥",
         "pronunciation": null,
@@ -8025,12 +9121,46 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "8AL",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "W0EP",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "T1UM",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "durgw Aqy dwnvI ByV pieAw sbwhIN ]",
+        "gurmukhi": "durgw AqY dwnvI ByV pieAw sbwhIN ]",
         "transliteration_english": "dhuragaa ate dhaanavee bheR peiaa sabaahee(n) ||",
         "transliteration_hindi": "दुरगा अते दानवी भेड़ पइआ सबाहीं ॥",
         "pronunciation": null,
@@ -8055,7 +9185,7 @@
         "id": "Y78R",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "ssqR pjUqy durgswh gih sBnI bwhIN ]",
+        "gurmukhi": "ssqR pjUqy durgswh gh sBnIN bwhIN ]",
         "transliteration_english": "sasatr pajoote dhuragasaeh geh sabhanee baahee(n) ||",
         "transliteration_hindi": "ससत्र पजूते दुरगसाह गहि सभनी बाहीं ॥",
         "pronunciation": null,
@@ -8080,7 +9210,7 @@
         "id": "JR63",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "suMB insuMB sMGwirAw vQ jy hY swhIN ]",
+        "gurmukhi": "suMB insuMB sMGwirAw vQ jyhy swhIN ]",
         "transliteration_english": "sunbh nisunbh sanghaariaa vath je hai saahee(n) ||",
         "transliteration_hindi": "सुंभ निसुंभ संघारिआ वथ जे है साहीं ॥",
         "pronunciation": null,
@@ -8105,7 +9235,7 @@
         "id": "FNF7",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "Paujw rwks AwrIAW vyK rovin DwhIN ]",
+        "gurmukhi": "PaujW rwkis AwrIAW dyiK rovin DwhIN ]",
         "transliteration_english": "faujaa raakas aareeaa(n) vekh rovan dhaahee(n) ||",
         "transliteration_hindi": "फउजा राकस आरीआं वेख रोवनि धाहीं ॥",
         "pronunciation": null,
@@ -8130,7 +9260,7 @@
         "id": "4Y5M",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "muih kVUcy Gwhu dy Cif GoVy rwhIN ]",
+        "gurmukhi": "muih kuVUcy Gwh dy Cf GoVy rwhIN ]",
         "transliteration_english": "muh kaRooche ghaahu dhe chhadd ghoRe raahee(n) ||",
         "transliteration_hindi": "मुहि कड़ूचे घाहु दे छडि घोड़े राहीं ॥",
         "pronunciation": null,
@@ -8155,7 +9285,7 @@
         "id": "E9MM",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "Bjdy hoie mwrIAn muiV Jwkin nwhIN ]54]",
+        "gurmukhi": "Bjdy hoey mwrIAn muV Jwkn nwhIN ]54]",
         "transliteration_english": "bhajadhe hoe maareean muR jhaakan naahee(n) ||54||",
         "transliteration_hindi": "भजदे होइ मारीअन मुड़ि झाकनि नाहीं ॥५४॥",
         "pronunciation": null,
@@ -8171,6 +9301,40 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਭਜਦੇ ਜਾਦੇ ਦੈਂਤ ਵੀ (ਦੇਵੀ ਦੁਆਰਾ ਮਾਰੇ ਜਾ ਰਹੇ ਸਨ, (ਪਰ ਉਹ) ਪਿਛੇ ਮੁੜ ਕੇ ਝਾਕਦੇ ਤਕ ਨਹੀਂ ਸਨ ॥੫੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "WZC",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "Y4AA",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
               "additional_information": {}
             }
           }
@@ -8205,7 +9369,7 @@
         "id": "H2P6",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "ieMdR sid bulwieAw, rwj AiBKyK no ]",
+        "gurmukhi": "ieMdR sd bulwieAw, rwj AiBsyK no ]",
         "transliteration_english": "eindhr sadh bulaaeiaa, raaj abhikhekh no ||",
         "transliteration_hindi": "इंद्र सदि बुलाइआ राज अभिखेख नो ॥",
         "pronunciation": null,
@@ -8230,7 +9394,7 @@
         "id": "7MNR",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "isr pr CqR iPrwieAw, rwjy ieMdR dy ]",
+        "gurmukhi": "isr pr CqR iPrwieAw, rwjy ieMdR dY ]",
         "transliteration_english": "sir par chhatr firaaeiaa, raaje eindhr dhe ||",
         "transliteration_hindi": "सिर पर छत्र फिराइआ राजे इंद्र दे ॥",
         "pronunciation": null,
@@ -8255,7 +9419,7 @@
         "id": "10MS",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "caudI lokI CwieAw, jsu jgmwq dw ]",
+        "gurmukhi": "caudh lokW CwieAw, jsu jgmwq dw ]",
         "transliteration_english": "chaudhee lokee chhaaeiaa, jas jagamaat dhaa ||",
         "transliteration_hindi": "चउदी लोकी छाइआ जसु जगमात दा ॥",
         "pronunciation": null,
@@ -8280,7 +9444,7 @@
         "id": "MPZB",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "durgw pwT bxwieAw, sBy pauVIAw ]",
+        "gurmukhi": "durgw pwT bxwieAw, sBy pauVIAW ]",
         "transliteration_english": "dhuragaa paatt baNaaeiaa, sabhe pauReeaa ||",
         "transliteration_hindi": "दुरगा पाठ बणाइआ सभे पउड़ीआ ॥",
         "pronunciation": null,
@@ -8305,7 +9469,7 @@
         "id": "FQQ0",
         "source_page": 127,
         "source_line": null,
-        "gurmukhi": "Pyir n jUnI AwieAw, ijin ieh gwieAw ]55]",
+        "gurmukhi": "Pyr n jUnI AwieAw, ijn ieh gwieAw ]55]",
         "transliteration_english": "fer na joonee aaeiaa, jin eih gaaeiaa ||55||",
         "transliteration_hindi": "फेरि न जूनी आइआ जिनि इह गाइआ ॥५५॥",
         "pronunciation": null,
