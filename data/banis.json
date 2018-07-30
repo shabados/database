@@ -344,7 +344,7 @@
     ]
   },
   {
-    "name_gurmukhi": "Anµdu kwrj lwvW",
+    "name_gurmukhi": "Anµd kwrj lwvW",
     "name_english": "Anand Karaj Lava(n)",
     "lines": [
       {
@@ -354,8 +354,18 @@
     ]
   },
   {
-    "name_gurmukhi": "AKMf pwT Bog",
-    "name_english": "Akhand Path Bhog",
+    "name_gurmukhi": "AKMf pwT Bog (muMdwvxI)",
+    "name_english": "Akhand Path Bhog (Mundavani)",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "VC9N"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "AKMf pwT Bog (rwgmwlw)",
+    "name_english": "Akhand Path Bhog (Raagmala)",
     "lines": [
       {
         "start_line": "43WC",
