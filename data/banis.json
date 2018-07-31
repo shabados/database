@@ -88,6 +88,10 @@
     "name_english": "Rehraas Sahib",
     "lines": [
       {
+        "start_line": "W8FD",
+        "end_line": "UXJK"
+      },
+      {
         "start_line": "NAD0",
         "end_line": "K9PD"
       },
@@ -122,6 +126,60 @@
       {
         "start_line": "PGA7",
         "end_line": "VC9N"
+      },
+      {
+        "start_line": "01DW",
+        "end_line": "CFFK"
+      },
+      {
+        "start_line": "XVLU",
+        "end_line": "GDHS"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "AwrqI",
+    "name_english": "Aartee",
+    "lines": [
+      {
+        "start_line": "7V2L",
+        "end_line": "8NR3"
+      },
+      {
+        "start_line": "K8KM",
+        "end_line": "Y1NA"
+      },
+      {
+        "start_line": "D04G",
+        "end_line": "99C5"
+      },
+      {
+        "start_line": "ULH0",
+        "end_line": "716E"
+      },
+      {
+        "start_line": "CN1F",
+        "end_line": "BFR6"
+      },
+      {
+        "start_line": "071K",
+        "end_line": "NFE7"
+      },
+      {
+        "start_line": "EFWX",
+        "end_line": "N6UX"
+      },
+      {
+        "start_line": "7Q9Z",
+        "end_line": "2SUA"
+      },
+      {
+        "start_line": "35MS",
+        "end_line": "TQMS"
+      },
+      {
+        "start_line": "79BD",
+        "end_line": "1032"
       }
     ]
   },
@@ -340,6 +398,36 @@
       {
         "start_line": "GL03",
         "end_line": "714G"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "lwvW",
+    "name_english": "Lava(n)",
+    "lines": [
+      {
+        "start_line": "UZG1",
+        "end_line": "32V1"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "AKMf pwT Bog (muMdwvxI)",
+    "name_english": "Akhand Path Bhog (Mundavani)",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "VC9N"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "AKMf pwT Bog (rwgmwlw)",
+    "name_english": "Akhand Path Bhog (Raagmala)",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "CUSP"
       }
     ]
   }
