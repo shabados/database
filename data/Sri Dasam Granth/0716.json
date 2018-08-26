@@ -35,7 +35,7 @@
         "id": "BUYX",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "sÍYXw ]",
+        "gurmukhi": "sÍYXw ] pwiqswhI 10 ]",
         "transliteration_english": "svYaiyaa ||",
         "transliteration_hindi": "स्वैया ॥",
         "pronunciation": null,
@@ -44,38 +44,13 @@
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "SWAYYA",
+              "translation": "SWAYYA. The ultterance from the holy mouth of the Tenth King:",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸ੍ਵੈਯਾ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "2SWG",
-        "source_page": 716,
-        "source_line": null,
-        "gurmukhi": "pwqswhI 10 ]",
-        "transliteration_english": "paatasaahee 10 ||",
-        "transliteration_hindi": "पातसाही १० ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "The ultterance from the holy mouth of the Tenth King :",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਪਾਤਸ਼ਾਹੀ ੧੦:",
+              "translation": "ਸ੍ਵੈਯਾ: ਪਾਤਸ਼ਾਹੀ ੧੦:",
               "additional_information": {}
             }
           }
@@ -110,7 +85,7 @@
         "id": "C13L",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "myro kCU AprwDu nhI; gXo Xwd qy BUl, nh kopu icqwro ]",
+        "gurmukhi": "myro kCU AprwDu nhIN; gXo Xwd qy BUl, nh kopu icqwro ]",
         "transliteration_english": "mero kachhoo aparaadh nahee; gayo yaadh te bhool, neh kop chitaaro ||",
         "transliteration_hindi": "मेरो कछू अपराधु नही गयो याद ते भूल नह कोपु चितारो ॥",
         "pronunciation": null,
@@ -135,7 +110,7 @@
         "id": "YLVN",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "bwgo inhwlI pTY dYho Awju; Bly qum ko inhcY jIA Dwro ]",
+        "gurmukhi": "bwgo inhwlI pTo dYho Awju; Bly qum ko inhcY jIA Dwro ]",
         "transliteration_english": "baago nihaalee pattai dhaiho aaj; bhale tum ko nihachai jeea dhaaro ||",
         "transliteration_hindi": "बागो निहाली पठै दैहो आजु भले तुम को निहचै जीअ धारो ॥",
         "pronunciation": null,
@@ -160,7 +135,7 @@
         "id": "C3X1",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "CqRI sBY iBRq ibpn ky ienhU pY ktwC ik®pw kY inhwro ]1]",
+        "gurmukhi": "CqRI sBY ik®q ibpn ky ienhU pY ktwC ik®pw kY inhwro ]1]",
         "transliteration_english": "chhatree sabhai bhrit bipan ke einahoo pai kaTaachh kripaa kai nihaaro ||1||",
         "transliteration_hindi": "छत्री सभै भ्रित बिपन के इनहू पै कटाछ क्रिपा कै निहारो ॥१॥",
         "pronunciation": null,
@@ -176,6 +151,40 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਸਾਰੇ ਛਤ੍ਰੀ ਬ੍ਰਾਹਮਣਾ ਦੇ ਦਾਸ (ਭ੍ਰਿਤ) ਹਨ। ਇਨ੍ਰਹਾ ਨੂੰ ਕ੍ਰਿਪਾ ਦੀ ਦ੍ਰਿਸ਼ਟੀ ਨਾਲ ਵੇਖੋ ॥੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+	]
+  },
+  {
+    "id": "9SP",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Khalsa Mahima",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "4HNU",
+        "source_page": 716,
+        "source_line": null,
+        "gurmukhi": "sÍYXw ]",
+        "transliteration_english": "svYaiyaa ||",
+        "transliteration_hindi": "स्वैया ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "SWAYYA",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ੍ਵੈਯਾ:",
               "additional_information": {}
             }
           }
@@ -210,7 +219,7 @@
         "id": "9CS4",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "AG AauG trY, ienhI ky pRswid; ienhI kI ik®pw, Pun Dwm Bry ]",
+        "gurmukhi": "AG AauG try, ienhI ky pRswid; ienhI kI ik®pw, Pun Dwm Bry ]",
         "transliteration_english": "agh aaugh Tarai, einahee ke prasaadh; einahee kee kripaa, fun dhaam bhare ||",
         "transliteration_hindi": "अघ अउघ टरै इनही के प्रसादि इनही की क्रिपा फुन धाम भरे ॥",
         "pronunciation": null,
@@ -280,12 +289,46 @@
             }
           }
         }
+      }
+	]
+  },
+  {
+    "id": "CTA",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Khalsa Mahima",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "RBLA",
+        "source_page": 716,
+        "source_line": null,
+        "gurmukhi": "sÍYXw ]",
+        "transliteration_english": "svYaiyaa ||",
+        "transliteration_hindi": "स्वैया ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "SWAYYA",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ੍ਵੈਯਾ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "9BQ9",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "syv krI, ienhI kI Bwvq; Aaur kI syv suhwq n jIko ]",
+        "gurmukhi": "syv krI, ienhI kI Bwvq; Aaur kI syv suhwq n jI ko ]",
         "transliteration_english": "sev karee, einahee kee bhaavat; aaur kee sev suhaat na jeeko ||",
         "transliteration_hindi": "सेव करी इनही की भावत अउर की सेव सुहात न जीको ॥",
         "pronunciation": null,
@@ -360,7 +403,7 @@
         "id": "4UNN",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "mo igRh mY qn qy, mn qy; isr lau Dn hY, sb hI ienhI ko ]3]",
+        "gurmukhi": "mo gRh mY qn qy, mn qy; isr lau Dn hY, sB hI ienhI ko ]3]",
         "transliteration_english": "mo grih mai tan te, man te; sir lu dhan hai, sab hee einahee ko ||3||",
         "transliteration_hindi": "मो ग्रिह मै तन ते मन ते सिर लउ धन है सब ही इनही को ॥३॥",
         "pronunciation": null,
@@ -419,7 +462,7 @@
         "id": "591J",
         "source_page": 716,
         "source_line": null,
-        "gurmukhi": "ctptwie icq mY jrXo iqRx jXoN k®üDq hoie ]",
+        "gurmukhi": "ctptwie icq mY jirE iqRx ijau k®üDq hoie ]",
         "transliteration_english": "chaTapaTaae chit mai jarayo triN jayo(n) krudhat hoe ||",
         "transliteration_hindi": "चटपटाइ चित मै जरयो त्रिण जयों क्रुधत होइ ॥",
         "pronunciation": null,
