@@ -2888,7 +2888,20 @@
         "description": "Two poetic compositions praising the Khalsa",
         "start_page": 722,
         "end_page": 722,
-        "subsections": []
+        "subsections": [
+          {
+            "name_gurmukhi": "sÍYXw",
+            "name_english": "Svaiya",
+            "start_page": 722,
+            "end_page": 722
+          },
+          {
+            "name_gurmukhi": "dohrw",
+            "name_english": "Dohira",
+            "start_page": 722,
+            "end_page": 722
+          }
+        ]
       },
       {
         "name_gurmukhi": "SsqR nwm mwlw",
