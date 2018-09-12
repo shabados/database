@@ -10,8 +10,8 @@
         "id": "Z7JM",
         "source_page": 34,
         "source_line": null,
-        "gurmukhi": "qÍpRswid ] dohrw ]",
-        "transliteration_english": "tvYaprasaadh || dhoharaa ||",
+        "gurmukhi": "qÍ pRswid ] dohrw ]",
+        "transliteration_english": "tvY prasaadh || dhoharaa ||",
         "transliteration_hindi": "त्वप्रसादि ॥ दोहरा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -35,8 +35,8 @@
         "id": "1MV9",
         "source_page": 34,
         "source_line": null,
-        "gurmukhi": "eyk smy sRI Awqmw; aucirE miq isau bYn ]",
-        "transliteration_english": "ek same sree aatamaa; auchario mat siu bain ||",
+        "gurmukhi": "eyk smY sRI Awqmw; aucirE miq isau bYn ]",
+        "transliteration_english": "ek samai sree aatamaa; auchario mat siu bain ||",
         "transliteration_hindi": "एक समे स्री आतमा उचरिओ मति सिउ बैन ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -60,8 +60,8 @@
         "id": "27BM",
         "source_page": 34,
         "source_line": null,
-        "gurmukhi": "sB pRqwp jgdIs ko; khhu skl ibiD qYn ]1]201]",
-        "transliteration_english": "sabh prataap jagadhees ko; kahahu sakal bidh tain ||1||201||",
+        "gurmukhi": "sB pRqwp jgdIs ko; kho skl ibiD qYn ]1]201]",
+        "transliteration_english": "sabh prataap jagadhees ko; kaho sakal bidh tain ||1||201||",
         "transliteration_hindi": "सभ प्रताप जगदीस को कहहु सकल बिधि तैन ॥१॥२०१॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -76,6 +76,40 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਕਿ ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਰਹਾ (ਉਸ) ਜਗਦੀਸ਼ ਦਾ ਸਾਰਾ ਪ੍ਰਤਾਪ (ਮੈਨੂੰ) ਦਸੋ ॥੧॥੨੦੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "6FF",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Akal Ustat",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "EU5A",
+        "source_page": 34,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "transliteration_english": "dhoharaa ||",
+        "transliteration_hindi": "दोहरा ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
               "additional_information": {}
             }
           }
@@ -110,8 +144,8 @@
         "id": "YFX4",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "kaun Drm, ko krm hY, khhu skl ibsQwr ]2]202]",
-        "transliteration_english": "kaun dharam, ko karam hai, kahahu sakal bisathaar ||2||202||",
+        "gurmukhi": "kaun Drm, ko krm hY, kho skl ibsQwr ]2]202]",
+        "transliteration_english": "kaun dharam, ko karam hai, kaho sakal bisathaar ||2||202||",
         "transliteration_hindi": "कउन धरम को करम है कहहु सकल बिसथार ॥२॥२०२॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -126,406 +160,6 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਧਰਮ ਦਾ ਕਰਮ ਕਿਹੜਾ ਹੈ? ਇਸ ਨੂੰ ਵਿਸਤਾਰ ਨਾਲ ਦਸੋ ॥੨॥੨੦੨॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "PFNW",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khw jIqb, khw mrn hY, kvn surg, khw nrk ]",
-        "transliteration_english": "kahaa jeetab, kahaa maran hai, kavan surag, kahaa narak ||",
-        "transliteration_hindi": "कहा जीतब कहा मरन है कवन सुरग कहा नरक ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are birth and death? What are heaven and hell?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜੀਉਣਾ ਕੀ ਹੈ, ਮਰਨਾ ਕੀ ਹੈ, ਸਵਰਗ ਕੀ ਹੈ ਅਤੇ ਨਰਕ ਦੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "4GZ5",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko suGVw, ko mUVqw, khw qrk Avqrk ]3]203]",
-        "transliteration_english": "ko sughaRaa, ko mooRataa, kahaa tarak avatarak ||3||203||",
-        "transliteration_hindi": "को सुघड़ा को मूड़ता कहा तरक अवतरक ॥३॥२०३॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are wisdom and foolishness? What are logical and illogical? 3.203.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸੁਘੜ ਕੌਣ ਹੈ, ਮੂਰਖ ਕੌਣ ਹੈ, ਤਰਕ ਕੀ ਹੈ ਅਤੇ ਅਵਿਤਰਕ (ਬੇਦਲੀਲੀ) ਕੀ ਹੈ? ॥੩॥੨੦੩॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "HQWX",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko inMdw, js hY kvn, kvn pwp, khw Drm ]",
-        "transliteration_english": "ko nindhaa, jas hai kavan, kavan paap, kahaa dharam ||",
-        "transliteration_hindi": "को निंदा जस है कवन कवन पाप कहा धरम ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are slander and praise? What are sin and rectitude?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਨਿੰਦਾ ਕੀ ਹੈ, ਯਸ਼ ਕੀ ਹੈ, ਪਾਪ ਕੀ ਹੈ, ਧਰਮ ਕੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "NF10",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "kvn jog, ko Bog hY, kvn krm Apkrm ]4]204]",
-        "transliteration_english": "kavan jog, ko bhog hai, kavan karam apakaram ||4||204||",
-        "transliteration_hindi": "कवन जोग को भोग है कवन करम अपकरम ॥४॥२०४॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are enjoyment and ecstasy? What are virtue and vice? 4.204.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਯੋਗ ਕੀ ਹੈ, ਭੋਗ ਕੀ ਹੈ, ਸੁਕਰਮ ਕੀ ਹੈ ਅਤੇ ਕੁਕਰਮ ਕੀ ਹੈ? ॥੪॥੨੦੪॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "SKFG",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khhu, susRm kw so khih, dm ko khw khMq ]",
-        "transliteration_english": "kahahu, susram kaa so kaheh, dham ko kahaa kahant ||",
-        "transliteration_hindi": "कहहु सुस्रम का सो कहहि दम को कहा कहंत ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What is called effort? And what shuld endurance be called?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦਸੋ, ਤਪਸਿਆ ਕਿਸ ਨੂੰ ਕਹਿੰਦੇ ਹਨ ਅਤੇ (ਇੰਦਰੀਆਂ ਦਾ) ਦਮਨ ਕਿਸ ਨੂੰ ਕਹਿੰਦੇ ਹਨ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "J8MN",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko sUrw, dwqw kvn, khhu qMq ko mMq ]5]205]",
-        "transliteration_english": "ko sooraa, dhaataa kavan, kahahu tant ko mant ||5||205||",
-        "transliteration_hindi": "को सूरा दाता कवन कहहु तंत को मंत ॥५॥२०५॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is hero? And who is Donor? Tell me what are Tantra and Mantra? 5.205.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸੂਰਮਾ ਕੌਣ ਹੈ, ਦਾਤਾ ਕੋਣ ਹੈ, ਤੰਤ੍ਰ ਕੀ ਹੈ ਅਤੇ ਮੰਤ੍ਰ ਕੀ ਹੈ? ॥੫॥੨੦੫॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "WVFG",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khw rMk, rwjw kvn, hrK sog hY kvn ]",
-        "transliteration_english": "kahaa rank, raajaa kavan, harakh sog hai kavan ||",
-        "transliteration_hindi": "कहा रंक राजा कवन हरख सोग है कवन ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who are the pauper and the king? What are joy and sorrow?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਕੌਣ ਭਿਖਾਰੀ ਹੈ, ਕੌਣ ਰਾਜਾ ਹੈ? ਅਤੇ ਹਰਖ ਅਤੇ ਸੋਗ ਕੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "Z480",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko rogI, rwgI kvn, khhu qqu muih qvn ]6]206]",
-        "transliteration_english": "ko rogee, raagee kavan, kahahu tat muh tavan ||6||206||",
-        "transliteration_hindi": "को रोगी रागी कवन कहहु ततु मुहि तवन ॥६॥२०६॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is ailing and who is attached? Tell me their substance. 6.206.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਰੋਗੀ ਕੌਣ ਹੈ ਅਤੇ ਸੰਸਾਰ ਵਿਚ ਲਿਪਤ ('ਰਾਗੀ') ਕੌਣ ਹੈ? ਉਸ ਦੀ ਅਸਲੀਅਤ ਮੈਨੂੰ ਦਸੋ ॥੬॥੨੦੬॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "20W5",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "kvn irst, ko pust hY, khw isRst ko ibcwr ]",
-        "transliteration_english": "kavan risaT, ko pusaT hai, kahaa srisaT ko bichaar ||",
-        "transliteration_hindi": "कवन रिसट को पुसट है कहा स्रिसट को बिचार ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who are hale and hearty? What is the object of the creation of the world?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਰਜਿਆ ਹੋਇਆ ਕੌਣ ਹੈ, ਬਲਵਾਨ ਕੌਣ ਹੈ ਅਤੇ ਸ੍ਰਿਸ਼ਟੀ (ਦੀ ਰਚਨਾ ਦਾ) ਵਿਚਾਰ ਕੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "ND5H",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "kvn iDRst, ko iBRst hY, kho skl ibsQwr ]7]207]",
-        "transliteration_english": "kavan dhrisaT, ko bhrisaT hai, kaho sakal bisathaar ||7||207||",
-        "transliteration_hindi": "कवन ध्रिसट को भ्रिसट है कहो सकल बिसथार ॥७॥२०७॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is superb? And who is defiled? Tell me all in detail.7.207.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਢੀਠ ਕੌਣ ਹੈ, ਭ੍ਰਸ਼ਟ ਕੌਣ ਹੈ? ਸਾਰੀ (ਗੱਲ ਮੈਨੂੰ) ਵਿਸਤਾਰ ਸਹਿਤ ਦਸੋ ॥੭॥੨੦੭॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "6PZW",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khw krm ko krm hY, khw Brm ko nws ]",
-        "transliteration_english": "kahaa karam ko karam hai, kahaa bharam ko naas ||",
-        "transliteration_hindi": "कहा करम को करम है कहा भरम को नास ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "How an action is recompensed? How and illusion is destroyed?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਕਰਨ ਯੋਗ ਕਰਮ ਕਿਹੜਾ ਹੈ ਅਤੇ ਭਰਮ ਦਾ ਨਾਸ਼ ਕਿਵੇਾਂ ਹੁੰਦਾ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "0D12",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khw icqn kI cystw, khw Acyq pRkws ]8]208]",
-        "transliteration_english": "kahaa chitan kee chesaTaa, kahaa achet prakaas ||8||208||",
-        "transliteration_hindi": "कहा चितन की चेसटा कहा अचेत प्रकास ॥८॥२०८॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are the cravings of the mind? And what is the carefree illumination? 8.208.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਚਿੰਤਨ ਕੀ ਹੈ, ਚੇਸ਼ਟਾ ਕੀ ਹੈ ਅਤੇ ਅਚਿੰਤ੍ਰਯ ਦਾ ਪ੍ਰਕਾਸ਼ ਕੀ ਹੈ? ॥੮॥੨੦੮॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "G3U3",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "khw nym, sMjm khw, khw igAwn AigAwn ]",
-        "transliteration_english": "kahaa nem, sanjam kahaa, kahaa giaan agiaan ||",
-        "transliteration_hindi": "कहा नेम संजम कहा कहा गिआन अगिआन ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "What are the observance and restraint? What are the knowledge and nescience",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਨਿਯਮ ਕੀ ਹੈ, ਸੰਜਮ ਕੀ ਹੈ, ਗਿਆਨ ਅਤੇ ਅਗਿਆਨ ਕੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "BZGT",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko rogI, sogI kvn, khw Drm kI hwin ]9]209]",
-        "transliteration_english": "ko rogee, sogee kavan, kahaa dharam kee haan ||9||209||",
-        "transliteration_hindi": "को रोगी सोगी कवन कहा धरम की हानि ॥९॥२०९॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is ailing and who is sorrowful, and where does the downfall of Dharma occur? 9.209.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਰੋਗੀ ਕੌਣ ਹੈ, ਸੋਗੀ ਕੌਣ ਹੈ ਅਤੇ ਧਰਮ ਦੀ ਹਾਨੀ ਕਿਥੇ ਹੁੰਦੀ ਹੈ ॥੯॥੨੦੯॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "5QZU",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko sUrw, suMdr kvn, khw jog ko swr ]",
-        "transliteration_english": "ko sooraa, sundhar kavan, kahaa jog ko saar ||",
-        "transliteration_hindi": "को सूरा सुंदर कवन कहा जोग को सार ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is hero and who is beautiful? What is the essence of Yoga?",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸੂਰਮਾ ਕੌਣ ਹੈ, ਸੁੰਦਰ ਕੌਣ ਹੈ ਅਤੇ ਯੋਗ ਦਾ ਸਾਰ ਕੀ ਹੈ?",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "KLTR",
-        "source_page": 35,
-        "source_line": null,
-        "gurmukhi": "ko dwqw, igAwnI kvn, kho ibcwr Aibcwir ]10]210]",
-        "transliteration_english": "ko dhaataa, giaanee kavan, kaho bichaar abichaar ||10||210||",
-        "transliteration_hindi": "को दाता गिआनी कवन कहो बिचार अबिचारि ॥१०॥२१०॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Who is the Donor and who is the Knower? Tell me the judicious and injudicious.10.210.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਕਰਤਾ ਕੌਣ ਹੈ, ਗਿਆਨੀ ਕੌਣ ਹੈ? ਇਨ੍ਰਹਾ ਦਾ ਵਿਚਾਰ-ਅਵਿਚਾਰ (ਮੈਨੂੰ) ਦਸੋ ॥੧੦॥੨੧੦॥",
               "additional_information": {}
             }
           }

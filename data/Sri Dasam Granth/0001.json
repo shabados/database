@@ -9,7 +9,7 @@
       {
         "id": "PXES",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 1,
         "gurmukhi": "<> siqgur pRswid ]",
         "transliteration_english": "IkOankaar satigur prasaadh ||",
         "transliteration_hindi": "ੴ  सतिगुर प्रसादि ॥",
@@ -34,7 +34,7 @@
       {
         "id": "LCHA",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 2,
         "gurmukhi": "jwpu ]",
         "transliteration_english": "jaap ||",
         "transliteration_hindi": "जापु ॥",
@@ -59,7 +59,7 @@
       {
         "id": "UJKD",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 3,
         "gurmukhi": "sRI muKvwk pwiqswhI 10 ]",
         "transliteration_english": "sree mukhavaak paatisaahee 10 ||",
         "transliteration_hindi": "स्री मुखवाक पातिसाही १० ॥",
@@ -84,9 +84,9 @@
       {
         "id": "AX8H",
         "source_page": 1,
-        "source_line": null,
-        "gurmukhi": "CpY CMd ] qÍpRswid ]",
-        "transliteration_english": "chhapai chhandh || tvYaprasaadh ||",
+        "source_line": 3,
+        "gurmukhi": "CpY CMd ] qÍ pRswid ]",
+        "transliteration_english": "chhapai chhandh || tvY prasaadh ||",
         "transliteration_hindi": "छपै छंद ॥ त्वप्रसादि ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -109,7 +109,7 @@
       {
         "id": "2735",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 4,
         "gurmukhi": "ck® ichn Aru brn; jwiq Aru pwiq nihn ijh ]",
         "transliteration_english": "chakr chihan ar baran; jaat ar paat nahin jih ||",
         "transliteration_hindi": "चक्र चिहन अरु बरन जाति अरु पाति नहिन जिह ॥",
@@ -134,7 +134,7 @@
       {
         "id": "9FJB",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 4,
         "gurmukhi": "rUp rMg Aru ryK ByK; koaU kih n skq ikh ]",
         "transliteration_english": "roop rang ar rekh bhekh; kouoo keh na sakat kih ||",
         "transliteration_hindi": "रूप रंग अरु रेख भेख कोऊ कहि न सकत किह ॥",
@@ -159,7 +159,7 @@
       {
         "id": "J5L4",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 5,
         "gurmukhi": "Acl mUriq AnBau pRkws Aimqoij kihjY ]",
         "transliteration_english": "achal moorat anabhu prakaas amitoj kahijai ||",
         "transliteration_hindi": "अचल मूरति अनभउ प्रकास अमितोजि कहिजै ॥",
@@ -184,8 +184,8 @@
       {
         "id": "TKW7",
         "source_page": 1,
-        "source_line": null,
-        "gurmukhi": "koit ieMdR ieMdRwix; swhu swhwix gixjY ]",
+        "source_line": 5,
+        "gurmukhi": "koit ieMdR ieMdRwx; swhu swhwix gixjY ]",
         "transliteration_english": "koT eindhr eindhraaN; saahu saahaaN gaNijai ||",
         "transliteration_hindi": "कोटि इंद्र इंद्राणि साहु साहाणि गणिजै ॥",
         "pronunciation": null,
@@ -209,7 +209,7 @@
       {
         "id": "FGHS",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 5,
         "gurmukhi": "iqRBvx mhIp, sur, nr, Asur; nyq nyq bn iqRx khq ]",
         "transliteration_english": "tribhavaN maheep, sur, nar, asur; net net ban triN kahat ||",
         "transliteration_hindi": "त्रिभवण महीप सुर नर असुर नेत नेत बन त्रिण कहत ॥",
@@ -234,7 +234,7 @@
       {
         "id": "6VRM",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 6,
         "gurmukhi": "qÍ srb nwm kQY kvn, krm nwm brnq sumiq ]1]",
         "transliteration_english": "tvY sarab naam kathai kavan, karam naam baranat sumat ||1||",
         "transliteration_hindi": "त्व सरब नाम कथै कवन करम नाम बरनत सुमति ॥१॥",
@@ -268,7 +268,7 @@
       {
         "id": "NNJS",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "BujMg pRXwq CMd ]",
         "transliteration_english": "bhujang prayaat chhandh ||",
         "transliteration_hindi": "भुजंग प्रयात छंद ॥",
@@ -293,7 +293,7 @@
       {
         "id": "A72K",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "nmsqÍM Akwly ]",
         "transliteration_english": "namasatvYan akaale ||",
         "transliteration_hindi": "नमसत्वं अकाले ॥",
@@ -318,7 +318,7 @@
       {
         "id": "RWVW",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "nmsqÍM ik®pwly ]",
         "transliteration_english": "namasatvYan kripaale ||",
         "transliteration_hindi": "नमसत्वं क्रिपाले ॥",
@@ -343,7 +343,7 @@
       {
         "id": "VBP8",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "nmsqM ArUpy ]",
         "transliteration_english": "namasatan aroope ||",
         "transliteration_hindi": "नमसतं अरूपे ॥",
@@ -368,7 +368,7 @@
       {
         "id": "8QTE",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "nmsqM AnUpy ]2]",
         "transliteration_english": "namasatan anoope ||2||",
         "transliteration_hindi": "नमसतं अनूपे ॥२॥",
@@ -393,7 +393,7 @@
       {
         "id": "6MBC",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM AByKy ]",
         "transliteration_english": "namasatan abhekhe ||",
         "transliteration_hindi": "नमसतं अभेखे ॥",
@@ -418,7 +418,7 @@
       {
         "id": "0WZ1",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM AlyKy ]",
         "transliteration_english": "namasatan alekhe ||",
         "transliteration_hindi": "नमसतं अलेखे ॥",
@@ -443,7 +443,7 @@
       {
         "id": "A4FJ",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM Akwey ]",
         "transliteration_english": "namasatan akaae ||",
         "transliteration_hindi": "नमसतं अकाए ॥",
@@ -468,7 +468,7 @@
       {
         "id": "DF49",
         "source_page": 1,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM Ajwey ]3]",
         "transliteration_english": "namasatan ajaae ||3||",
         "transliteration_hindi": "नमसतं अजाए ॥३॥",
@@ -492,8 +492,8 @@
       },
       {
         "id": "YRR7",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 1,
         "gurmukhi": "nmsqM AgMjy ]",
         "transliteration_english": "namasatan aganje ||",
         "transliteration_hindi": "नमसतं अगंजे ॥",
@@ -517,8 +517,8 @@
       },
       {
         "id": "71SB",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 1,
         "gurmukhi": "nmsqM ABMjy ]",
         "transliteration_english": "namasatan abhanje ||",
         "transliteration_hindi": "नमसतं अभंजे ॥",
@@ -542,8 +542,8 @@
       },
       {
         "id": "TZWU",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 1,
         "gurmukhi": "nmsqM Anwmy ]",
         "transliteration_english": "namasatan anaame ||",
         "transliteration_hindi": "नमसतं अनामे ॥",
@@ -567,8 +567,8 @@
       },
       {
         "id": "VHN9",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 1,
         "gurmukhi": "nmsqM ATwmy ]4]",
         "transliteration_english": "namasatan attaame ||4||",
         "transliteration_hindi": "नमसतं अठामे ॥४॥",
@@ -592,8 +592,8 @@
       },
       {
         "id": "9ALS",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 1,
         "gurmukhi": "nmsqM AkrmM ]",
         "transliteration_english": "namasatan akaraman ||",
         "transliteration_hindi": "नमसतं अकरमं ॥",
@@ -617,8 +617,8 @@
       },
       {
         "id": "Y7DK",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 2,
         "gurmukhi": "nmsqM ADrmM ]",
         "transliteration_english": "namasatan adharaman ||",
         "transliteration_hindi": "नमसतं अधरमं ॥",
@@ -642,8 +642,8 @@
       },
       {
         "id": "YG08",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 2,
         "gurmukhi": "nmsqM AnwmM ]",
         "transliteration_english": "namasatan anaaman ||",
         "transliteration_hindi": "नमसतं अनामं ॥",
@@ -667,8 +667,8 @@
       },
       {
         "id": "2H9R",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 2,
         "gurmukhi": "nmsqM ADwmM ]5]",
         "transliteration_english": "namasatan adhaaman ||5||",
         "transliteration_hindi": "नमसतं अधामं ॥५॥",
@@ -692,8 +692,8 @@
       },
       {
         "id": "1SD4",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 2,
         "gurmukhi": "nmsqM AjIqy ]",
         "transliteration_english": "namasatan ajeete ||",
         "transliteration_hindi": "नमसतं अजीते ॥",
@@ -717,8 +717,8 @@
       },
       {
         "id": "EGZZ",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 2,
         "gurmukhi": "nmsqM ABIqy ]",
         "transliteration_english": "namasatan abheete ||",
         "transliteration_hindi": "नमसतं अभीते ॥",
@@ -742,8 +742,8 @@
       },
       {
         "id": "3XVG",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 3,
         "gurmukhi": "nmsqM Abwhy ]",
         "transliteration_english": "namasatan abaahe ||",
         "transliteration_hindi": "नमसतं अबाहे ॥",
@@ -767,8 +767,8 @@
       },
       {
         "id": "BVQJ",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 3,
         "gurmukhi": "nmsqM AFwhy ]6]",
         "transliteration_english": "namasatan addaahe ||6||",
         "transliteration_hindi": "नमसतं अढाहे ॥६॥",
@@ -792,8 +792,8 @@
       },
       {
         "id": "73Q2",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 3,
         "gurmukhi": "nmsqM AnIly ]",
         "transliteration_english": "namasatan aneele ||",
         "transliteration_hindi": "नमसतं अनीले ॥",
@@ -817,8 +817,8 @@
       },
       {
         "id": "E269",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 3,
         "gurmukhi": "nmsqM Anwdy ]",
         "transliteration_english": "namasatan anaadhe ||",
         "transliteration_hindi": "नमसतं अनादे ॥",
@@ -842,8 +842,8 @@
       },
       {
         "id": "CXRL",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 3,
         "gurmukhi": "nmsqM ACydy ]",
         "transliteration_english": "namasatan achhedhe ||",
         "transliteration_hindi": "नमसतं अछेदे ॥",
@@ -867,8 +867,8 @@
       },
       {
         "id": "681N",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 4,
         "gurmukhi": "nmsqM AgwDy ]7]",
         "transliteration_english": "namasatan agaadhe ||7||",
         "transliteration_hindi": "नमसतं अगाधे ॥७॥",
@@ -892,8 +892,8 @@
       },
       {
         "id": "2H80",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 4,
         "gurmukhi": "nmsqM AgMjy ]",
         "transliteration_english": "namasatan aganje ||",
         "transliteration_hindi": "नमसतं अगंजे ॥",
@@ -917,8 +917,8 @@
       },
       {
         "id": "LMST",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 4,
         "gurmukhi": "nmsqM ABMjy ]",
         "transliteration_english": "namasatan abhanje ||",
         "transliteration_hindi": "नमसतं अभंजे ॥",
@@ -942,8 +942,8 @@
       },
       {
         "id": "S619",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 4,
         "gurmukhi": "nmsqM audwry ]",
         "transliteration_english": "namasatan audhaare ||",
         "transliteration_hindi": "नमसतं उदारे ॥",
@@ -967,8 +967,8 @@
       },
       {
         "id": "0ZPV",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 4,
         "gurmukhi": "nmsqM Apwry ]8]",
         "transliteration_english": "namasatan apaare ||8||",
         "transliteration_hindi": "नमसतं अपारे ॥८॥",
@@ -992,8 +992,8 @@
       },
       {
         "id": "PQBL",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 5,
         "gurmukhi": "nmsqM su eykY ]",
         "transliteration_english": "namasatan su ekai ||",
         "transliteration_hindi": "नमसतं सु एकै ॥",
@@ -1017,8 +1017,8 @@
       },
       {
         "id": "YY1A",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 5,
         "gurmukhi": "nmsqM AnykY ]",
         "transliteration_english": "namasatan anekai ||",
         "transliteration_hindi": "नमसतं अनेकै ॥",
@@ -1042,8 +1042,8 @@
       },
       {
         "id": "6ZSL",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 5,
         "gurmukhi": "nmsqM ABUqy ]",
         "transliteration_english": "namasatan abhoote ||",
         "transliteration_hindi": "नमसतं अभूते ॥",
@@ -1067,8 +1067,8 @@
       },
       {
         "id": "FAN7",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 5,
         "gurmukhi": "nmsqM AjUpy ]9]",
         "transliteration_english": "namasatan ajoope ||9||",
         "transliteration_hindi": "नमसतं अजूपे ॥९॥",
@@ -1092,8 +1092,8 @@
       },
       {
         "id": "R0E2",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 5,
         "gurmukhi": "nmsqM inRkrmy ]",
         "transliteration_english": "namasatan nrikarame ||",
         "transliteration_hindi": "नमसतं न्रिकरमे ॥",
@@ -1117,8 +1117,8 @@
       },
       {
         "id": "U9EK",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 6,
         "gurmukhi": "nmsqM inRBrmy ]",
         "transliteration_english": "namasatan nribharame ||",
         "transliteration_hindi": "नमसतं न्रिभरमे ॥",
@@ -1142,8 +1142,8 @@
       },
       {
         "id": "P1RV",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 6,
         "gurmukhi": "nmsqM inRdysy ]",
         "transliteration_english": "namasatan nridhese ||",
         "transliteration_hindi": "नमसतं न्रिदेसे ॥",
@@ -1167,8 +1167,8 @@
       },
       {
         "id": "LDYA",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 6,
         "gurmukhi": "nmsqM inRBysy ]10]",
         "transliteration_english": "namasatan nribhese ||10||",
         "transliteration_hindi": "नमसतं न्रिभेसे ॥१०॥",
@@ -1192,8 +1192,8 @@
       },
       {
         "id": "YEKF",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 6,
         "gurmukhi": "nmsqM inRnwmy ]",
         "transliteration_english": "namasatan nrinaame ||",
         "transliteration_hindi": "नमसतं न्रिनामे ॥",
@@ -1217,8 +1217,8 @@
       },
       {
         "id": "HVHW",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 6,
         "gurmukhi": "nmsqM inRkwmy ]",
         "transliteration_english": "namasatan nrikaame ||",
         "transliteration_hindi": "नमसतं न्रिकामे ॥",
@@ -1242,8 +1242,8 @@
       },
       {
         "id": "53SD",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 7,
         "gurmukhi": "nmsqM inRDwqy ]",
         "transliteration_english": "namasatan nridhaate ||",
         "transliteration_hindi": "नमसतं न्रिधाते ॥",
@@ -1267,8 +1267,8 @@
       },
       {
         "id": "4BXC",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 7,
         "gurmukhi": "nmsqM inRGwqy ]11]",
         "transliteration_english": "namasatan nrighaate ||11||",
         "transliteration_hindi": "नमसतं न्रिघाते ॥११॥",
@@ -1292,8 +1292,8 @@
       },
       {
         "id": "03CY",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 7,
         "gurmukhi": "nmsqM inRDUqy ]",
         "transliteration_english": "namasatan nridhoote ||",
         "transliteration_hindi": "नमसतं न्रिधूते ॥",
@@ -1317,8 +1317,8 @@
       },
       {
         "id": "81WN",
-        "source_page": 1,
-        "source_line": null,
+        "source_page": 2,
+        "source_line": 7,
         "gurmukhi": "nmsqM ABUqy ]",
         "transliteration_english": "namasatan abhoote ||",
         "transliteration_hindi": "नमसतं अभूते ॥",
@@ -1343,7 +1343,7 @@
       {
         "id": "F2GU",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 7,
         "gurmukhi": "nmsqM Aloky ]",
         "transliteration_english": "namasatan aloke ||",
         "transliteration_hindi": "नमसतं अलोके ॥",
@@ -1368,7 +1368,7 @@
       {
         "id": "PVZU",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM Asoky ]12]",
         "transliteration_english": "namasatan asoke ||12||",
         "transliteration_hindi": "नमसतं असोके ॥१२॥",
@@ -1393,7 +1393,7 @@
       {
         "id": "HP9N",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM inRqwpy ]",
         "transliteration_english": "namasatan nritaape ||",
         "transliteration_hindi": "नमसतं न्रितापे ॥",
@@ -1418,7 +1418,7 @@
       {
         "id": "GY3B",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM AQwpy ]",
         "transliteration_english": "namasatan athaape ||",
         "transliteration_hindi": "नमसतं अथापे ॥",
@@ -1443,7 +1443,7 @@
       {
         "id": "BVQ0",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM iqRmwny ]",
         "transliteration_english": "namasatan trimaane ||",
         "transliteration_hindi": "नमसतं त्रिमाने ॥",
@@ -1468,7 +1468,7 @@
       {
         "id": "9GN7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 8,
         "gurmukhi": "nmsqM inDwny ]13]",
         "transliteration_english": "namasatan nidhaane ||13||",
         "transliteration_hindi": "नमसतं निधाने ॥१३॥",
@@ -1493,7 +1493,7 @@
       {
         "id": "6PEQ",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 9,
         "gurmukhi": "nmsqM Agwhy ]",
         "transliteration_english": "namasatan agaahe ||",
         "transliteration_hindi": "नमसतं अगाहे ॥",
@@ -1518,7 +1518,7 @@
       {
         "id": "D7RC",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 9,
         "gurmukhi": "nmsqM Abwhy ]",
         "transliteration_english": "namasatan abaahe ||",
         "transliteration_hindi": "नमसतं अबाहे ॥",
@@ -1543,7 +1543,7 @@
       {
         "id": "3VRQ",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 9,
         "gurmukhi": "nmsqM iqRbrgy ]",
         "transliteration_english": "namasatan tribarage ||",
         "transliteration_hindi": "नमसतं त्रिबरगे ॥",
@@ -1568,7 +1568,7 @@
       {
         "id": "911R",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 9,
         "gurmukhi": "nmsqM Asrgy ]14]",
         "transliteration_english": "namasatan asarage ||14||",
         "transliteration_hindi": "नमसतं असरगे ॥१४॥",
@@ -1593,7 +1593,7 @@
       {
         "id": "0VL2",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 10,
         "gurmukhi": "nmsqM pRBogy ]",
         "transliteration_english": "namasatan prabhoge ||",
         "transliteration_hindi": "नमसतं प्रभोगे ॥",
@@ -1618,7 +1618,7 @@
       {
         "id": "EFMZ",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 10,
         "gurmukhi": "nmsqM sujogy ]",
         "transliteration_english": "namasatan sujoge ||",
         "transliteration_hindi": "नमसतं सुजोगे ॥",
@@ -1643,7 +1643,7 @@
       {
         "id": "PS4E",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 10,
         "gurmukhi": "nmsqM ArMgy ]",
         "transliteration_english": "namasatan arange ||",
         "transliteration_hindi": "नमसतं अरंगे ॥",
@@ -1668,7 +1668,7 @@
       {
         "id": "B1ME",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 10,
         "gurmukhi": "nmsqM ABMgy ]15]",
         "transliteration_english": "namasatan abhange ||15||",
         "transliteration_hindi": "नमसतं अभंगे ॥१५॥",
@@ -1693,7 +1693,7 @@
       {
         "id": "18T7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 10,
         "gurmukhi": "nmsqM AgMmy ]",
         "transliteration_english": "namasatan aganme ||",
         "transliteration_hindi": "नमसतं अगंमे ॥",
@@ -1718,7 +1718,7 @@
       {
         "id": "03XA",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmsqsqu rMmy ]",
         "transliteration_english": "namasatasat ranme ||",
         "transliteration_hindi": "नमसतसतु रंमे ॥",
@@ -1743,7 +1743,7 @@
       {
         "id": "0SZ4",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmsqM jlwsry ]",
         "transliteration_english": "namasatan jalaasare ||",
         "transliteration_hindi": "नमसतं जलासरे ॥",
@@ -1768,7 +1768,7 @@
       {
         "id": "E7T8",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmsqM inrwsry ]16]",
         "transliteration_english": "namasatan niraasare ||16||",
         "transliteration_hindi": "नमसतं निरासरे ॥१६॥",
@@ -1793,7 +1793,7 @@
       {
         "id": "8EV7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmsqM Ajwqy ]",
         "transliteration_english": "namasatan ajaate ||",
         "transliteration_hindi": "नमसतं अजाते ॥",
@@ -1818,7 +1818,7 @@
       {
         "id": "S6QH",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmsqM Apwqy ]",
         "transliteration_english": "namasatan apaate ||",
         "transliteration_hindi": "नमसतं अपाते ॥",
@@ -1843,7 +1843,7 @@
       {
         "id": "YBFD",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmsqM Amjby ]",
         "transliteration_english": "namasatan amajabe ||",
         "transliteration_hindi": "नमसतं अमजबे ॥",
@@ -1859,7 +1859,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਹੇ ਮਜ਼੍ਰਹਬ ਤੋਂ ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
+              "translation": "ਹੇ ਮਜ਼੍ਹਬ ਤੋਂ ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
           }
@@ -1868,7 +1868,7 @@
       {
         "id": "2NBV",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmsqsqu Ajby ]17]",
         "transliteration_english": "namasatasat ajabe ||17||",
         "transliteration_hindi": "नमसतसतु अजबे ॥१७॥",
@@ -1893,7 +1893,7 @@
       {
         "id": "DAN2",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "AdysM Adysy ]",
         "transliteration_english": "adhesan adhese ||",
         "transliteration_hindi": "अदेसं अदेसे ॥",
@@ -1918,7 +1918,7 @@
       {
         "id": "KSD5",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmsqM ABysy ]",
         "transliteration_english": "namasatan abhese ||",
         "transliteration_hindi": "नमसतं अभेसे ॥",
@@ -1943,7 +1943,7 @@
       {
         "id": "U51L",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmsqM inRDwmy ]",
         "transliteration_english": "namasatan nridhaame ||",
         "transliteration_hindi": "नमसतं न्रिधामे ॥",
@@ -1968,7 +1968,7 @@
       {
         "id": "F53X",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmsqM inRbwmy ]18]",
         "transliteration_english": "namasatan nribaame ||18||",
         "transliteration_hindi": "नमसतं न्रिबामे ॥१८॥",
@@ -1993,7 +1993,7 @@
       {
         "id": "FRHL",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb kwly ]",
         "transliteration_english": "namo sarab kaale ||",
         "transliteration_hindi": "नमो सरब काले ॥",
@@ -2018,7 +2018,7 @@
       {
         "id": "DHNS",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb idAwly ]",
         "transliteration_english": "namo sarab dhiaale ||",
         "transliteration_hindi": "नमो सरब दिआले ॥",
@@ -2043,7 +2043,7 @@
       {
         "id": "A5B7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb rUpy ]",
         "transliteration_english": "namo sarab roope ||",
         "transliteration_hindi": "नमो सरब रूपे ॥",
@@ -2068,7 +2068,7 @@
       {
         "id": "CGES",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb BUpy ]19]",
         "transliteration_english": "namo sarab bhoope ||19||",
         "transliteration_hindi": "नमो सरब भूपे ॥१९॥",
@@ -2093,7 +2093,7 @@
       {
         "id": "HDEB",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo srb Kwpy ]",
         "transliteration_english": "namo sarab khaape ||",
         "transliteration_hindi": "नमो सरब खापे ॥",
@@ -2118,7 +2118,7 @@
       {
         "id": "GLJ7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo srb Qwpy ]",
         "transliteration_english": "namo sarab thaape ||",
         "transliteration_hindi": "नमो सरब थापे ॥",
@@ -2143,7 +2143,7 @@
       {
         "id": "LC2H",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo srb kwly ]",
         "transliteration_english": "namo sarab kaale ||",
         "transliteration_hindi": "नमो सरब काले ॥",
@@ -2168,7 +2168,7 @@
       {
         "id": "YAR3",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo srb pwly ]20]",
         "transliteration_english": "namo sarab paale ||20||",
         "transliteration_hindi": "नमो सरब पाले ॥२०॥",
@@ -2193,7 +2193,7 @@
       {
         "id": "W8ZA",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmsqsqu dyvY ]",
         "transliteration_english": "namasatasat dhevai ||",
         "transliteration_hindi": "नमसतसतु देवै ॥",
@@ -2218,7 +2218,7 @@
       {
         "id": "MRW0",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmsqM AByvY ]",
         "transliteration_english": "namasatan abhevai ||",
         "transliteration_hindi": "नमसतं अभेवै ॥",
@@ -2243,7 +2243,7 @@
       {
         "id": "JWLA",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmsqM Ajnmy ]",
         "transliteration_english": "namasatan ajaname ||",
         "transliteration_hindi": "नमसतं अजनमे ॥",
@@ -2268,7 +2268,7 @@
       {
         "id": "KDCL",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmsqM subnmy ]21]",
         "transliteration_english": "namasatan subaname ||21||",
         "transliteration_hindi": "नमसतं सुबनमे ॥२१॥",
@@ -2293,7 +2293,7 @@
       {
         "id": "7YQT",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmo srb gauny ]",
         "transliteration_english": "namo sarab gaune ||",
         "transliteration_hindi": "नमो सरब गउने ॥",
@@ -2318,7 +2318,7 @@
       {
         "id": "KGW7",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "nmo srb Bauny ]",
         "transliteration_english": "namo sarab bhaune ||",
         "transliteration_hindi": "नमो सरब भउने ॥",
@@ -2343,7 +2343,7 @@
       {
         "id": "K6XJ",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "nmo srb rMgy ]",
         "transliteration_english": "namo sarab range ||",
         "transliteration_hindi": "नमो सरब रंगे ॥",
@@ -2368,7 +2368,7 @@
       {
         "id": "K9CT",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "nmo srb BMgy ]22]",
         "transliteration_english": "namo sarab bhange ||22||",
         "transliteration_hindi": "नमो सरब भंगे ॥२२॥",
@@ -2393,7 +2393,7 @@
       {
         "id": "ZS3Y",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "nmo kwly kwly ]",
         "transliteration_english": "namo kaale kaale ||",
         "transliteration_hindi": "नमो काले काले ॥",
@@ -2418,7 +2418,7 @@
       {
         "id": "QRH2",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "nmsqsqu idAwly ]",
         "transliteration_english": "namasatasat dhiaale ||",
         "transliteration_hindi": "नमसतसतु दिआले ॥",
@@ -2443,7 +2443,7 @@
       {
         "id": "65S9",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmsqM Abrny ]",
         "transliteration_english": "namasatan abarane ||",
         "transliteration_hindi": "नमसतं अबरने ॥",
@@ -2468,7 +2468,7 @@
       {
         "id": "MUK8",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmsqM Amrny ]23]",
         "transliteration_english": "namasatan amarane ||23||",
         "transliteration_hindi": "नमसतं अमरने ॥२३॥",
@@ -2493,7 +2493,7 @@
       {
         "id": "26ED",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmsqM jrwrM ]",
         "transliteration_english": "namasatan jaraaran ||",
         "transliteration_hindi": "नमसतं जरारं ॥",
@@ -2518,7 +2518,7 @@
       {
         "id": "EELR",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmsqM ik®qwrM ]",
         "transliteration_english": "namasatan kritaaran ||",
         "transliteration_hindi": "नमसतं क्रितारं ॥",
@@ -2543,7 +2543,7 @@
       {
         "id": "R4MB",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmo srb DMDy ]",
         "transliteration_english": "namo sarab dhandhe ||",
         "transliteration_hindi": "नमो सरब धंधे ॥",
@@ -2568,7 +2568,7 @@
       {
         "id": "UGJB",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmo sq AbMDy ]24]",
         "transliteration_english": "namo sat abandhe ||24||",
         "transliteration_hindi": "नमो सत अबंधे ॥२४॥",
@@ -2593,7 +2593,7 @@
       {
         "id": "LKW0",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmsqM inRswky ]",
         "transliteration_english": "namasatan nrisaake ||",
         "transliteration_hindi": "नमसतं न्रिसाके ॥",
@@ -2618,7 +2618,7 @@
       {
         "id": "9M73",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmsqM inRbwky ]",
         "transliteration_english": "namasatan nribaake ||",
         "transliteration_hindi": "नमसतं न्रिबाके ॥",
@@ -2643,7 +2643,7 @@
       {
         "id": "47NL",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmsqM rhImy ]",
         "transliteration_english": "namasatan raheeme ||",
         "transliteration_hindi": "नमसतं रहीमे ॥",
@@ -2668,7 +2668,7 @@
       {
         "id": "2FPJ",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmsqM krImy ]25]",
         "transliteration_english": "namasatan kareeme ||25||",
         "transliteration_hindi": "नमसतं करीमे ॥२५॥",
@@ -2693,7 +2693,7 @@
       {
         "id": "HAMB",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "nmsqM Anµqy ]",
         "transliteration_english": "namasatan anante ||",
         "transliteration_hindi": "नमसतं अनंते ॥",
@@ -2718,7 +2718,7 @@
       {
         "id": "LP04",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "nmsqM mhMqy ]",
         "transliteration_english": "namasatan mahante ||",
         "transliteration_hindi": "नमसतं महंते ॥",
@@ -2743,7 +2743,7 @@
       {
         "id": "8LL4",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "nmsqsqu rwgy ]",
         "transliteration_english": "namasatasat raage ||",
         "transliteration_hindi": "नमसतसतु रागे ॥",
@@ -2768,7 +2768,7 @@
       {
         "id": "M7Z1",
         "source_page": 2,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "nmsqM suhwgy ]26]",
         "transliteration_english": "namasatan suhaage ||26||",
         "transliteration_hindi": "नमसतं सुहागे ॥२६॥",
@@ -2792,8 +2792,8 @@
       },
       {
         "id": "ZKWY",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 1,
         "gurmukhi": "nmo srb soKM ]",
         "transliteration_english": "namo sarab sokhan ||",
         "transliteration_hindi": "नमो सरब सोखं ॥",
@@ -2817,8 +2817,8 @@
       },
       {
         "id": "BNLG",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 1,
         "gurmukhi": "nmo srb poKM ]",
         "transliteration_english": "namo sarab pokhan ||",
         "transliteration_hindi": "नमो सरब पोखं ॥",
@@ -2842,8 +2842,8 @@
       },
       {
         "id": "VPYV",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 1,
         "gurmukhi": "nmo srb krqw ]",
         "transliteration_english": "namo sarab karataa ||",
         "transliteration_hindi": "नमो सरब करता ॥",
@@ -2867,8 +2867,8 @@
       },
       {
         "id": "1UB0",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 1,
         "gurmukhi": "nmo srb hrqw ]27]",
         "transliteration_english": "namo sarab harataa ||27||",
         "transliteration_hindi": "नमो सरब हरता ॥२७॥",
@@ -2892,8 +2892,8 @@
       },
       {
         "id": "LYHJ",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 1,
         "gurmukhi": "nmo jog jogy ]",
         "transliteration_english": "namo jog joge ||",
         "transliteration_hindi": "नमो जोग जोगे ॥",
@@ -2917,8 +2917,8 @@
       },
       {
         "id": "FECX",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 2,
         "gurmukhi": "nmo Bog Bogy ]",
         "transliteration_english": "namo bhog bhoge ||",
         "transliteration_hindi": "नमो भोग भोगे ॥",
@@ -2942,8 +2942,8 @@
       },
       {
         "id": "X52Y",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 2,
         "gurmukhi": "nmo srb idAwly ]",
         "transliteration_english": "namo sarab dhiaale ||",
         "transliteration_hindi": "नमो सरब दिआले ॥",
@@ -2967,8 +2967,8 @@
       },
       {
         "id": "RJQB",
-        "source_page": 2,
-        "source_line": null,
+        "source_page": 3,
+        "source_line": 2,
         "gurmukhi": "nmo srb pwly ]28]",
         "transliteration_english": "namo sarab paale ||28||",
         "transliteration_hindi": "नमो सरब पाले ॥२८॥",

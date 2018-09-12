@@ -2616,10 +2616,143 @@
         "description": "Set of Hymns uttered by the 10th Guru, Guru Gobind Singh Ji.",
         "start_page": 1,
         "end_page": 10,
-        "subsections": []
+        "subsections": [
+          {
+            "name_gurmukhi": "CpY CMd",
+            "name_english": "Chhapai Chhand",
+            "start_page": 1,
+            "end_page": 1
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 1,
+            "end_page": 3
+          },
+          {
+            "name_gurmukhi": "cwcrI CMd",
+            "name_english": "Chachree Chhand",
+            "start_page": 3,
+            "end_page": 3
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 3,
+            "end_page": 4
+          },
+          {
+            "name_gurmukhi": "qyrw joru ] cwcrI CMd ]",
+            "name_english": "Tera Jor || Chachree Chhand ||",
+            "start_page": 4,
+            "end_page": 4
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 4,
+            "end_page": 4
+          },
+          {
+            "name_gurmukhi": "crpt CMd",
+            "name_english": "CharpaT Chhand",
+            "start_page": 4,
+            "end_page": 5
+          },
+          {
+            "name_gurmukhi": "rUAwl CMd",
+            "name_english": "Rooaal Chhand",
+            "start_page": 5,
+            "end_page": 5
+          },
+          {
+            "name_gurmukhi": "mDuBwr CMd",
+            "name_english": "Madhubhaar Chhand",
+            "start_page": 5,
+            "end_page": 6
+          },
+          {
+            "name_gurmukhi": "cwcrI CMd",
+            "name_english": "Chachree Chhand",
+            "start_page": 6,
+            "end_page": 6
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 6,
+            "end_page": 6
+          },
+          {
+            "name_gurmukhi": "cwcrI CMd",
+            "name_english": "Chachree Chhand",
+            "start_page": 6,
+            "end_page": 6
+          },
+          {
+            "name_gurmukhi": "BgvqI CMd ] qÍ pRswid kQqy ]",
+            "name_english": "Bhagvatee Chhand || TvY Prasad Kathte ||",
+            "start_page": 6,
+            "end_page": 7
+          },
+          {
+            "name_gurmukhi": "cwcrI CMd",
+            "name_english": "Chachree Chhand",
+            "start_page": 7,
+            "end_page": 8
+          },
+          {
+            "name_gurmukhi": "crpt CMd",
+            "name_english": "CharpaT Chhand",
+            "start_page": 8,
+            "end_page": 8
+          },
+          {
+            "name_gurmukhi": "rswvl CMd",
+            "name_english": "Rasaaval Chhand",
+            "start_page": 8,
+            "end_page": 8
+          },
+          {
+            "name_gurmukhi": "BgvqI CMd",
+            "name_english": "Bhagvatee Chhand",
+            "start_page": 8,
+            "end_page": 9
+          },
+          {
+            "name_gurmukhi": "mDuBwr CMd",
+            "name_english": "Madhubhaar Chhand",
+            "start_page": 9,
+            "end_page": 9
+          },
+          {
+            "name_gurmukhi": "hirbolmnw CMd",
+            "name_english": "Harbolmana Chhand",
+            "start_page": 9,
+            "end_page": 10
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 10,
+            "end_page": 10
+          },
+          {
+            "name_gurmukhi": "eyk ACrI CMd",
+            "name_english": "Ek Achhree Chhand",
+            "start_page": 10,
+            "end_page": 10
+          },
+          {
+            "name_gurmukhi": "BujMg pRXwq CMd",
+            "name_english": "Bhujang Prayaat Chhand",
+            "start_page": 10,
+            "end_page": 10
+          }
+        ]
       },
       {
-        "name_gurmukhi": "Akwl ausqiq",
+        "name_gurmukhi": "Akwl ausqq",
         "name_english": "Akal Ustat",
         "description": "Devotional verses in praise of the Divine.",
         "start_page": 11,
@@ -2631,23 +2764,23 @@
         "name_english": "Bachittar Natak",
         "description": "An autobiography of Guru Gobind Singh Ji, including his spiritual lineage.",
         "start_page": 39,
-        "end_page": 73,
+        "end_page": 72,
         "subsections": []
       },
       {
         "name_gurmukhi": "cMfI cirqR aukiq iblws",
         "name_english": "Chandi Charittar Ukat Bilas",
         "description": "A discussion of the mythological goddess, Chandi. As per internal references, it is based on the Sanskrit scripture Markandeya Purana.",
-        "start_page": 74,
-        "end_page": 100,
+        "start_page": 73,
+        "end_page": 98,
         "subsections": []
       },
       {
         "name_gurmukhi": "cMfI cirqR",
         "name_english": "Chandi Charittar",
         "description": "A discussion of Chandi.",
-        "start_page": 100,
-        "end_page": 119,
+        "start_page": 99,
+        "end_page": 118,
         "subsections": []
       },
       {
@@ -2655,7 +2788,7 @@
         "name_english": "Vaar Sri Bhagauti Ji Ki",
         "description": "A discussion of Chandi in Punjabi. Not based on any Purana, but an independent narrative.",
         "start_page": 119,
-        "end_page": 127,
+        "end_page": 126,
         "subsections": []
       },
       {
@@ -2663,62 +2796,118 @@
         "name_english": "Gyan Prabodh",
         "description": "The Awakening of Knowledge",
         "start_page": 127,
-        "end_page": 155,
+        "end_page": 154,
         "subsections": []
       },
       {
         "name_gurmukhi": "caubIs Avqwr",
-        "name_english": "24 Avtaar",
+        "name_english": "Chaubees Avtaar",
         "description": "A narrative of the 24 incarnations of Vishnu.",
         "start_page": 155,
-        "end_page": 611,
+        "end_page": 610,
         "subsections": []
       },
       {
         "name_gurmukhi": "bRhmw Avqwr",
-        "name_english": "Brahma Avtar",
+        "name_english": "Brahma Avtaar",
         "description": "Narrative on the seven incarnations of Brahma.",
         "start_page": 611,
-        "end_page": 635,
+        "end_page": 636,
         "subsections": []
       },
       {
         "name_gurmukhi": "rudR Avqwr",
-        "name_english": "Rudra Avtar",
+        "name_english": "Rudra Avtaar",
         "description": "Narrative of Rudra Avtars, includes a beautiful conversation between King Parsavnath and Sage Machindranath, with detailed explanations about Kaam, Krodh, Lobh, Moh, and Ahankar.",
-        "start_page": 635,
-        "end_page": 709,
+        "start_page": 637,
+        "end_page": 712,
         "subsections": []
       },
       {
         "name_gurmukhi": "Sbd hzwry pwÚ 10",
         "name_english": "Shabad Hazare",
         "description": "Ten religious hymns criticising ritualistic practices by renunciates such as sannyasins, yogis, and vairagis, as well as idolatry.",
-        "start_page": 709,
-        "end_page": 712,
-        "subsections": []
+        "start_page": 713,
+        "end_page": 716,
+        "subsections": [
+          {
+            "name_gurmukhi": "rwmklI",
+            "name_english": "Raamkalee",
+            "start_page": 713,
+            "end_page": 714
+          },
+          {
+            "name_gurmukhi": "soriT",
+            "name_english": "Sorath",
+            "start_page": 714,
+            "end_page": 714
+          },
+          {
+            "name_gurmukhi": "kilAwx",
+            "name_english": "Kalyaan",
+            "start_page": 714,
+            "end_page": 715
+          },
+          {
+            "name_gurmukhi": "iKAwl",
+            "name_english": "Khiaal",
+            "start_page": 715,
+            "end_page": 715
+          },
+          {
+            "name_gurmukhi": "iqlµg kwPI",
+            "name_english": "Tilang Kaafee",
+            "start_page": 715,
+            "end_page": 715
+          },
+          {
+            "name_gurmukhi": "iblwvl",
+            "name_english": "Bilaaval",
+            "start_page": 715,
+            "end_page": 715
+          },
+          {
+            "name_gurmukhi": "dyvgMDwrI",
+            "name_english": "Devgandhari",
+            "start_page": 716,
+            "end_page": 716
+          }
+        ]
       },
       {
         "name_gurmukhi": "33 svYXy",
         "name_english": "33 Svaiyay",
         "description": "33 Stanzas",
-        "start_page": 712,
-        "end_page": 716,
+        "start_page": 717,
+        "end_page": 721,
         "subsections": []
       },
       {
         "name_gurmukhi": "Kwlsw mihmw",
         "name_english": "Khalsa Mahima",
         "description": "Two poetic compositions praising the Khalsa",
-        "start_page": 716,
-        "end_page": 717,
-        "subsections": []
+        "start_page": 722,
+        "end_page": 722,
+        "subsections": [
+          {
+            "name_gurmukhi": "sÍYXw",
+            "name_english": "Svaiya",
+            "start_page": 722,
+            "end_page": 722
+          },
+          {
+            "name_gurmukhi": "dohrw",
+            "name_english": "Dohira",
+            "start_page": 722,
+            "end_page": 722
+          }
+        ]
       },
       {
         "name_gurmukhi": "SsqR nwm mwlw",
         "name_english": "Shastar Naam Mala",
         "description": "Garland of the Names of Weapons",
-        "start_page": 717,
+        "start_page": 723,
         "end_page": 809,
         "subsections": []
       },
@@ -2749,7 +2938,7 @@
       {
         "name_gurmukhi": "ihkwXq",
         "name_english": "Hikayat",
-        "description": "Tales which are part of Zafarnama",
+        "description": "Tales written in Persian. (Separate from Zafarnama)",
         "start_page": 1394,
         "end_page": 1428,
         "subsections": []

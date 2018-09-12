@@ -1,5 +1,839 @@
 [
   {
+    "id": "8MW",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Jaap",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "QEM5",
+        "source_page": 5,
+        "source_line": 1,
+        "gurmukhi": "rUAwl CMd ] qÍ pRswid ]",
+        "transliteration_english": "rooaal chhandh || tvY prasaadh ||",
+        "transliteration_hindi": "रूआल छंद ॥ त्वप्रसादि ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "ROOALL STANZA. BY THY GRACE",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰੂਆਲ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "90JG",
+        "source_page": 5,
+        "source_line": 1,
+        "gurmukhi": "Awid rUp Anwid mUriq; Ajoin purK Apwr ]",
+        "transliteration_english": "aadh roop anaadh moorat; ajon purakh apaar ||",
+        "transliteration_hindi": "आदि रूप अनादि मूरति अजोनि पुरख अपार ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Supreme Purush, an Eternal Entity in the beginning and free from birth.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਭ ਦਾ) ਆਦਿ-ਰੂਪ, ਸਭ ਤੋਂ ਪਹਿਲਾ ਹੋਣ ਵਾਲਾ ਸਰੂਪ, ਅਯੋਨਿਜ ਅਤੇ ਅਪਰ ਅਪਾਰ ਪੁਰਖ ਹੈਂ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZBL2",
+        "source_page": 5,
+        "source_line": 2,
+        "gurmukhi": "srb mwn iqRmwn dyv; AByv Awid audwr ]",
+        "transliteration_english": "sarab maan trimaan dhev; abhev aadh audhaar ||",
+        "transliteration_hindi": "सरब मान त्रिमान देव अभेव आदि उदार ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Worshipped by all and venerated by three gods, Thou art without difference and art Generous from the very beginning.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸਭ ਦਾ ਮਾਣ, ਤਿੰਨ ਦੇਵਤਿਆਂ ਦੁਆਰਾ ਮੰਨਣਯੋਗ, ਅਭੇਦ ਅਤੇ ਮੁੱਢ-ਕਦੀਮ ਤੋਂ ਉਦਾਰ ਹੈਂ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PKQZ",
+        "source_page": 5,
+        "source_line": 2,
+        "gurmukhi": "srb pwlk, srb Gwlk; srb ko puin kwl ]",
+        "transliteration_english": "sarab paalak, sarab ghaalak; sarab ko pun kaal ||",
+        "transliteration_hindi": "सरब पालक सरब घालक सरब को पुनि काल ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Creator Sustainer, Inspirer and Destroyer of all.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸਭ ਦਾ ਪਾਲਕ, ਸਭ ਦਾ ਨਾਸ਼ਕ ਅਤੇ ਫਿਰ ਸਭ ਦਾ ਕਾਲ-ਰੂਪ ਹੈਂ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N1B1",
+        "source_page": 5,
+        "source_line": 3,
+        "gurmukhi": "jqR qqR ibrwjhI AvDUq rUp rswl ]79]",
+        "transliteration_english": "jatr tatr biraajahee avadhoot roop rasaal ||79||",
+        "transliteration_hindi": "जत्र तत्र बिराजही अवधूत रूप रसाल ॥७९॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art present everywhere like an ascetic with a Generous disposition.79.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਥੇ ਕਿਥੇ ਨਿਰਲਿਪਤ ('ਅਵਧੂਤ ਰੂਪ') ਹੋਣ ਤੇ ਵੀ ਪਸੀਜਣ ਵਾਲਾ ਹੋ ਕੇ ਬਿਰਾਜ ਰਿਹਾ ਹੈਂ ॥੭੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "5RA9",
+        "source_page": 5,
+        "source_line": 3,
+        "gurmukhi": "nwm Twm n jwiq jwkr; rUp rMg n ryK ]",
+        "transliteration_english": "naam ttaam na jaat jaakar; roop rang na rekh ||",
+        "transliteration_hindi": "नाम ठाम न जाति जाकर रूप रंग न रेख ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Nameless, Placeless, Casteless, Formless, Colourless and Lineless.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਦਾ ਨਾਮ, ਧਾਮ, ਜਾਤਿ, ਰੂਪ, ਰੰਗ ਅਤੇ ਰੇਖ ਨਹੀਂ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CUSH",
+        "source_page": 5,
+        "source_line": 4,
+        "gurmukhi": "Awid purK audwr mUriq; Ajoin Awid AsyK ]",
+        "transliteration_english": "aadh purakh audhaar moorat; ajon aadh asekh ||",
+        "transliteration_hindi": "आदि पुरख उदार मूरति अजोनि आदि असेख ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the Primal Purusha, art Unborn, Generous Entity and Perfect from the very beginning.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਆਦਿ ਪੁਰਖ, ਉਦਾਰ ਸਰੂਪ ਵਾਲਾ, ਅਜੋਨੀ ਅਤੇ ਮੁੱਢ ਤੋਂ ਹੀ ਅਸ਼ੇਸ਼-ਰੂਪ (ਪਰਿਪੂਰਣ) ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "Z9E4",
+        "source_page": 5,
+        "source_line": 4,
+        "gurmukhi": "dys AOr n Bys jwkr; rUp ryK n rwg ]",
+        "transliteration_english": "dhes aour na bhes jaakar; roop rekh na raag ||",
+        "transliteration_hindi": "देस और न भेस जाकर रूप रेख न राग ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Countryless, Garbless, Formless, Lineless and Non-attached.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਦਾ ਦੇਸ, ਭੇਸ, ਰੂਪ, ਰੇਖ ਅਤੇ ਰਾਗ (ਮੋਹ) ਨਹੀਂ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "SJT8",
+        "source_page": 5,
+        "source_line": 5,
+        "gurmukhi": "jqR qqR idsw ivsw huie PYilE Anurwg ]80]",
+        "transliteration_english": "jatr tatr dhisaa visaa hue failio anuraag ||80||",
+        "transliteration_hindi": "जत्र तत्र दिसा विसा हुइ फैलिओ अनुराग ॥८०॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art present in all direction and conners and Pervadest the Universe as Love.80.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਥੇ ਕਿਥੇ ਦਿਸ਼ਾ-ਵਿਦਿਸ਼ਾ (ਚੌਹਾ ਪਾਸੇ) ਵਿਚ ਪ੍ਰੇਮ ਰੂਪ ਹੋ ਕੇ ਪਸਰਿਆ ਹੋਇਆ ਹੈ ॥੮੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "2BHL",
+        "source_page": 5,
+        "source_line": 5,
+        "gurmukhi": "nwm kwm ibhIn pyKq; Dwm hUM nih jwih ]",
+        "transliteration_english": "naam kaam biheen pekhat; dhaam hoon neh jaeh ||",
+        "transliteration_hindi": "नाम काम बिहीन पेखत धाम हूं नहि जाहि ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou appearest without name and desire, thou hast no particular Abode.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਨਾਮ, ਕਾਮਨਾ ਤੋਂ ਬਿਨਾ ਦਿਸਦਾ ਹੈ, ਜਿਸ ਦਾ ਕੋਈ ਘਰ-ਘਾਟ ਨਹੀਂ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MS69",
+        "source_page": 5,
+        "source_line": 6,
+        "gurmukhi": "srb mwn srbqR mwn; sdYv mwnq qwih ]",
+        "transliteration_english": "sarab maan sarabatr maan; sadhaiv maanat taeh ||",
+        "transliteration_hindi": "सरब मान सरबत्र मान सदैव मानत ताहि ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, being worshipped by all, art the Enjoyer of all.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਸਭ ਦਾ ਮਾਣ ਅਤੇ ਸਭ ਦੁਆਰਾ ਮਾਣਿਆ ਜਾਣ ਵਾਲਾ ਅਤੇ ਜਿਸ ਨੂੰ ਸਦਾ (ਅਸੀਂ) ਮੰਨਦੇ ਹਾ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4M64",
+        "source_page": 5,
+        "source_line": 6,
+        "gurmukhi": "eyk mUriq Anyk drsn; kIn rUp Anyk ]",
+        "transliteration_english": "ek moorat anek dharasan; keen roop anek ||",
+        "transliteration_hindi": "एक मूरति अनेक दरसन कीन रूप अनेक ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the One Entity, appearest as Many creating innumerable forms.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਹ ਇਕ ਰੂਪ ਵਾਲਾ, ਪਰ ਅਨੇਕ ਰੂਪਾ ਵਿਚ ਦਿਸਣ ਵਾਲਾ ਅਤੇ ਅਨੇਕ ਰੂਪਾ ਨੂੰ ਕਰਨ ਵਾਲਾ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "JQ44",
+        "source_page": 5,
+        "source_line": 6,
+        "gurmukhi": "Kyl Kyl AKyl Kyln AMq ko iPir eyk ]81]",
+        "transliteration_english": "khel khel akhel khelan ant ko fir ek ||81||",
+        "transliteration_hindi": "खेल खेल अखेल खेलन अंत को फिरि एक ॥८१॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "After playing the world-drama, when Thou wilt stop the play, Thou wilt be the same One again.81.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਖੇਡ ਖੇਡ ਕੇ ਫਿਰ ਅਖੇਡਣ ਦੀ ਅਵਸਥਾ ਹੋ ਕੇ ਅੰਤ ਨੂੰ ਫਿਰ ਇਕ ਹੋ ਜਾਦਾ ਹੈ ॥੮੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HPEY",
+        "source_page": 5,
+        "source_line": 7,
+        "gurmukhi": "dyv Byv n jwnhI; ijh byd Aaur kqyb ]",
+        "transliteration_english": "dhev bhev na jaanahee; jih bedh aaur kateb ||",
+        "transliteration_hindi": "देव भेव न जानही जिह बेद अउर कतेब ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The gods and the Scriptures of Hindus and Muslims do not know Thy secret.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਜਿਸ ਦਾ) ਭੇਦ ਦੇਵਤੇ, ਵੇਦ ਅਤੇ ਕਤੇਬ (ਸਾਮੀ ਧਰਮ ਪੁਸਤਕਾ) ਨਹੀਂ ਜਾਣਦੇ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UD8D",
+        "source_page": 5,
+        "source_line": 7,
+        "gurmukhi": "rUp rMg n jwiq pwiq; su jwneI ikh jyb ]",
+        "transliteration_english": "roop rang na jaat paat; su jaane'ee kih jeb ||",
+        "transliteration_hindi": "रूप रंग न जाति पाति सु जानई किह जेब ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "How to know Thee when thou art Formless, Colourless, Casteless and without lineage?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਜਿਸ ਦਾ) ਰੂਪ, ਰੰਗ, ਜਾਤਿ-ਪਾਤਿ ਪਤਾ ਨਹੀਂ ਕਿਹੋ ਜਿਹਾ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "YBG3",
+        "source_page": 5,
+        "source_line": 8,
+        "gurmukhi": "qwq mwq n jwq jwkr; jnm mrn ibhIn ]",
+        "transliteration_english": "taat maat na jaat jaakar; janam maran biheen ||",
+        "transliteration_hindi": "तात मात न जात जाकर जनम मरन बिहीन ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art without father and mother and art casteless, Thou art without births and deaths.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਦਾ ਪਿਤਾ, ਮਾਤਾ ਅਤੇ ਜਾਤਿ ਨਹੀਂ ਹੈ ਅਤੇ ਜੋ ਜਨਮ-ਮਰਨ ਦੇ ਚੱਕਰ ਤੋਂ ਰਹਿਤ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "G9MG",
+        "source_page": 5,
+        "source_line": 8,
+        "gurmukhi": "ck® bk® iPrY cqur ck mwnhI pur qIn ]82]",
+        "transliteration_english": "chakr bakr firai chatur chak maanahee pur teen ||82||",
+        "transliteration_hindi": "चक्र बक्र फिरै चतुर चक मानही पुर तीन ॥८२॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou movest fast like the disc in all the four directions and art worshipped by the three worlds. 82.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ (ਦੇ ਹੁਕਮ) ਦਾ ਤੇਜ਼ੀ ਨਾਲ ਘੁੰਮਦਾ ਹੋਇਆ ('ਬਕ੍ਰ') ਚੱਕਰ ਚੌਹਾ ਚੱਕਾ ਵਿਚ ਭੌਂਦਾ ਫਿਰਦਾ ਹੈ ਅਤੇ (ਜਿਸ ਦਾ ਹੁਕਮ) ਤਿੰਨਾ ਲੋਕਾ ਵਿਚ ਮੰਨਿਆ ਜਾਦਾ ਹੈ ॥੮੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "JZ7E",
+        "source_page": 5,
+        "source_line": 9,
+        "gurmukhi": "lok caudh ky ibKY; jg jwphI ijh jwp ]",
+        "transliteration_english": "lok chaudheh ke bikhai; jag jaapahee jih jaap ||",
+        "transliteration_hindi": "लोक चउदह के बिखै जग जापही जिह जाप ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The Name is recited in the fourteen divisions of the universe.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਦਾ ਜਾਪ ਚੌਦਾ ਲੋਕਾ ਦੇ ਸਾਰੇ ਜਗਤ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8YL1",
+        "source_page": 5,
+        "source_line": 9,
+        "gurmukhi": "Awid dyv, Anwid mUriq; QwipE sbY ijh Qwip ]",
+        "transliteration_english": "aadh dhev, anaadh moorat; thaapio sabai jih thaap ||",
+        "transliteration_hindi": "आदि देव अनादि मूरति थापिओ सबै जिह थापि ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the Primal God, art Eternal Entity and hast created the entire universe.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਆਦਿ ਦੇਵ, ਆਦਿ (ਮੁੱਢ) ਤੋਂ ਰਹਿਤ ਸਰੂਪ ਵਾਲਾ ਅਤੇ ਜਿਸ ਨੇ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ (ਸਥਾਪਨਾ) ਨੂੰ ਸਥਾਪਿਤ ਕੀਤਾ ਹੋਇਆ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "B4W9",
+        "source_page": 5,
+        "source_line": 10,
+        "gurmukhi": "prm rUp, punIq mUriq; pUrn purK Apwr ]",
+        "transliteration_english": "param roop, puneet moorat; pooran purakh apaar ||",
+        "transliteration_hindi": "परम रूप पुनीत मूरति पूरन पुरख अपार ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the holiest Entity, art of Supreme Form, Thou art Bondless, Perfect Purusha.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਪਰਮ ਸ੍ਰੇਸ਼ਠ ਰੂਪ ਵਾਲਾ, ਪਵਿਤਰ ਸਰੂਪ ਵਾਲਾ ਅਤੇ ਪੂਰਨ ਤੇ ਅਪਾਰ ਪੁਰਖ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "1MY4",
+        "source_page": 5,
+        "source_line": 10,
+        "gurmukhi": "srb ibsÍ ricE suXMBv gVn BMjnhwr ]83]",
+        "transliteration_english": "sarab bisvY rachio suyanbhav gaRan bhanjanahaar ||83||",
+        "transliteration_hindi": "सरब बिस्व रचिओ सुयंभव गड़न भंजनहार ॥८३॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the Self-Existent, Creator and Destroyer, hast crated the whole universe.83.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਆਪਣੇ ਆਪ ਹੋਣ ਵਾਲੇ (ਸ੍ਵਯੰਭੂ) ਨੇ ਸਾਰੇ ਜਗਤ ਨੂੰ ਰਚਿਆ ਹੈ ਅਤੇ ਸਭ ਨੂੰ ਬਣਾਉਣ ਅਤੇ ਢਾਹਣ ਵਾਲਾ ਹੈ ॥੮੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "D176",
+        "source_page": 5,
+        "source_line": 10,
+        "gurmukhi": "kwl hIn, klw sMjugiq; Akwl purK Adys ]",
+        "transliteration_english": "kaal heen, kalaa sanjugat; akaal purakh adhes ||",
+        "transliteration_hindi": "काल हीन कला संजुगति अकाल पुरख अदेस ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Dearthless, Almighty, Timeless Purasha and Countryless.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਸ) ਕਾਲ-ਰਹਿਤ, ਕਲਾ (ਸ਼ਕਤੀ) ਸਹਿਤ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "645W",
+        "source_page": 5,
+        "source_line": 11,
+        "gurmukhi": "Drm Dwm su Brm rihq; ABUq AlK ABys ]",
+        "transliteration_english": "dharam dhaam su bharam rahit; abhoot alakh abhes ||",
+        "transliteration_hindi": "धरम धाम सु भरम रहत अभूत अलख अभेस ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Abode of righteousness,  Thou art Illusionless, Garbless, Incomprehensible and devoid of five elements.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਹ ਧਰਮ ਦਾ ਸਰੋਤ, ਭਰਮ ਤੋਂ ਰਹਿਤ, ਪੰਜ ਤੱਤ੍ਵਾ ਤੋਂ ਨਿਆਰਾ, ਅਦ੍ਰਿਸ਼ ਅਤੇ ਭੇਸ ਰਹਿਤ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "53CG",
+        "source_page": 5,
+        "source_line": 11,
+        "gurmukhi": "AMg rwg n rMg jwkih; jwiq pwiq n nwm ]",
+        "transliteration_english": "ang raag na rang jaakeh; jaat paat na naam ||",
+        "transliteration_hindi": "अंग राग न रंग जाकहि जाति पाति न नाम ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art without body, without attachment, without colour, caste, lineage and name.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਿਸ ਨੂੰ ਸ਼ਰੀਰ ਦਾ ਮੋਹ ਨਹੀਂ, ਜਿਸ ਦਾ ਕੋਈ ਰੰਗ, ਜਾਤਿ-ਪਾਤਿ ਜਾ ਨਾਮ ਨਹੀਂ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZNJ9",
+        "source_page": 5,
+        "source_line": 12,
+        "gurmukhi": "grb gMjn dust BMjn mukiq dwiek kwm ]84]",
+        "transliteration_english": "garab ganjan dhusaT bhanjan mukat dhaaeik kaam ||84||",
+        "transliteration_hindi": "गरब गंजन दुसट भंजन मुकति दाइक काम ॥८४॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Destroyer of ego, the vanquisher of tyrants and performer of works leading to salvation.84.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਹੰਕਾਰ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲਾ ਹੈ, ਦੁਸ਼ਟਾ ਦਾ ਦਮਨ ਕਰਨ ਵਾਲਾ, ਮੁਕਤੀਦਾਤਾ ਅਤੇ ਕਾਮਨਾਵਾ ਪੂਰੀਆਂ ਕਰਨ ਵਾਲਾ ਹੈ ॥੮੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "VQ6C",
+        "source_page": 5,
+        "source_line": 12,
+        "gurmukhi": "Awp rUp, AmIk, Anausqiq; eyk purKu AvDUq ]",
+        "transliteration_english": "aap roop, ameek, anausatat; ek purakh avadhoot ||",
+        "transliteration_hindi": "आप रूप अमीक अनउसतति एक पुरखु अवधूत ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Deepest and Indescribable Entity, the One unique ascetic Purusha.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਆਪਣੇ ਰੂਪ ਵਾਲਾ ਆਪ ਹੀ ਹੈ, ਅਤਿ ਗੰਭੀਰ ਹੈ, ਉਸਤਤ ਤੋਂ ਉੱਚਾ ਹੈ, (ਮਾਇਆ ਤੋਂ ਅਪ੍ਰਭਾਵਿਤ ਰੂਪ ਵਾਲਾ) ਪਵਿਤਰ ਇਕੋ ਇਕ ਪੁਰਸ਼ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UNEN",
+        "source_page": 5,
+        "source_line": 13,
+        "gurmukhi": "grb gMjn, srb BMjn; Awid rUp AsUq ]",
+        "transliteration_english": "garab ganjan, sarab bhanjan; aadh roop asoot ||",
+        "transliteration_hindi": "गरब गंजन सरब भंजन आदि रूप असूत ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the Unborn Primal Entity, art the Destroyer of all egocentric people.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਹੰਕਾਰ ਨੂੰ ਤੋੜਨ ਵਾਲਾ, ਸਭ ਨੂੰ ਭੰਨਣ ਵਾਲਾ ਆਦਿ ਰੂਪ ਅਤੇ ਅਜਨਮਾ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LGK4",
+        "source_page": 5,
+        "source_line": 13,
+        "gurmukhi": "AMg hIn, ABMg, Anwqm; eyk purK Apwr ]",
+        "transliteration_english": "ang heen, abhang, anaatam; ek purakh apaar ||",
+        "transliteration_hindi": "अंग हीन अभंग अनातम एक पुरखु अपार ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou, the Boundless Purusha, art Limbless, Indestructible and without self.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਹ ਸ਼ਰੀਰ-ਰਹਿਤ, ਨਾਸ਼ਰਹਿਤ ਅਤੇ ਆਤਮਾ ਰਹਿਤ ਇਕ ਅਪਾਰ ਪੁਰਸ਼ ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ARKS",
+        "source_page": 5,
+        "source_line": 14,
+        "gurmukhi": "srb lwiek srb Gwiek srb ko pRiqpwr ]85]",
+        "transliteration_english": "sarab laaeik sarab ghaaeik sarab ko pratipaar ||85||",
+        "transliteration_hindi": "सरब लाइक सरब घाइक सरब को प्रतिपार ॥८५॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art capable of doing everything, Thou Destroyest all and Sustainest all.85.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਹ ਸਭ ਕੁਝ ਕਰਨ ਦੇ ਯੋਗ, ਸਭ ਦਾ ਸੰਘਾਰਕ ਅਤੇ ਸਭ ਦਾ ਪਾਲਣਹਾਰ ਹੈ ॥੮੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "97R9",
+        "source_page": 5,
+        "source_line": 14,
+        "gurmukhi": "srb gMqw, srb hMqw; srb qy AnByK ]",
+        "transliteration_english": "sarab gantaa, sarab hantaa; sarab te anabhekh ||",
+        "transliteration_hindi": "सरब गंता सरब हंता सरब ते अनभेख ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou knowest all, Destroyest all and art beyond all the guises.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਸ ਦੀ ਸਭ ਤਕ ਪਹੁੰਚ ਹੈ, ਉਹ ਸਭ ਦਾ ਸੰਘਾਰਕ ਅਤੇ ਸਭ ਤੋਂ ਨਿਰਾਲਾ ('ਅਨਭੇਖ') ਹੈ;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "WY0N",
+        "source_page": 5,
+        "source_line": 15,
+        "gurmukhi": "srb swsqR n jwnhI; ijh rUp rMgu Aru ryK ]",
+        "transliteration_english": "sarab saasatr na jaanahee; jih roop rang ar rekh ||",
+        "transliteration_hindi": "सरब सासत्र न जानही जिह रूप रंगु अरु रेख ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thy form, colour and marks are not known to all the Scriptures.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਸ ਦੇ ਰੂਪ ਰੰਗ ਅਤੇ ਆਕਾਰ ('ਰੇਖ') ਨੂੰ ਸਾਰੇ ਸ਼ਾਸਤ੍ਰ ਜਾਣਦੇ ਤਕ ਨਹੀਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "G8A0",
+        "source_page": 5,
+        "source_line": 15,
+        "gurmukhi": "prm byd purwx jwkih; nyq BwKq inq ]",
+        "transliteration_english": "param bedh puraaN jaakeh; net bhaakhat nit ||",
+        "transliteration_hindi": "परम बेद पुराण जाकहि नेत भाखत नित ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The Vedas and the Puransa always declare Thee the Supreme and the Greatest.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਸ ਦਾ ਵੇਦ, ਪੁਰਾਣ (ਆਦਿ ਸਾਰੇ ਧਰਮ ਗ੍ਰੰਥ) ਸ੍ਰੇਸ਼ਠ ਅਤੇ ਬੇਅੰਤ ਰੂਪ ਵਿਚ ਸਦਾ ਵਰਣਨ ਕਰਦੇ ਹਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "B5K9",
+        "source_page": 5,
+        "source_line": 16,
+        "gurmukhi": "koit isMimRq purwn swsqR n AwveI vhu icq ]86]",
+        "transliteration_english": "koT sinmrit puraan saasatr na aave'ee vahu chit ||86||",
+        "transliteration_hindi": "कोटि सिंम्रित पुरान सासत्र न आवई वहु चित ॥८६॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "None can comprehend thee completely through millions of Smritis, Puranas and Shastras.86.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਰੋੜਾ ਸਮ੍ਰਿਤੀਆਂ, ਪੁਰਾਣਾ ਅਤੇ ਸ਼ਾਸਤ੍ਰਾ ਦੁਆਰਾ ਉਹ ਚਿਤਵਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ॥੮੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "NE0",
     "writer": "Guru Gobind Singh Ji",
     "subsection": null,
@@ -9,9 +843,9 @@
       {
         "id": "1CJD",
         "source_page": 5,
-        "source_line": null,
-        "gurmukhi": "mDuBwr CMd ] qÍpRswid ]",
-        "transliteration_english": "madhubhaar chhandh || tvYaprasaadh ||",
+        "source_line": 16,
+        "gurmukhi": "mDuBwr CMd ] qÍ pRswid ]",
+        "transliteration_english": "madhubhaar chhandh || tvY prasaadh ||",
         "transliteration_hindi": "मधुभार छंद ॥ त्वप्रसादि ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -34,7 +868,7 @@
       {
         "id": "PEPD",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "gun gn audwr ]",
         "transliteration_english": "gun gan audhaar ||",
         "transliteration_hindi": "गुन गन उदार ॥",
@@ -59,7 +893,7 @@
       {
         "id": "FAM2",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "mihmw Apwr ]",
         "transliteration_english": "mahimaa apaar ||",
         "transliteration_hindi": "महिमा अपार ॥",
@@ -84,7 +918,7 @@
       {
         "id": "NK1J",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "Awsn ABMg ]",
         "transliteration_english": "aasan abhang ||",
         "transliteration_hindi": "आसन अभंग ॥",
@@ -109,7 +943,7 @@
       {
         "id": "BSFV",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "aupmw Anµg ]87]",
         "transliteration_english": "aupamaa anang ||87||",
         "transliteration_hindi": "उपमा अनंग ॥८७॥",
@@ -134,7 +968,7 @@
       {
         "id": "AG4A",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "AnBau pRkws ]",
         "transliteration_english": "anabhu prakaas ||",
         "transliteration_hindi": "अनभउ प्रकास ॥",
@@ -159,7 +993,7 @@
       {
         "id": "QVAS",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "ins idn Anws ]",
         "transliteration_english": "nis dhin anaas ||",
         "transliteration_hindi": "निस दिन अनास ॥",
@@ -184,7 +1018,7 @@
       {
         "id": "PNRR",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "Awjwnu bwhu ]",
         "transliteration_english": "aajaan baahu ||",
         "transliteration_hindi": "आजानु बाहु ॥",
@@ -209,7 +1043,7 @@
       {
         "id": "QE1S",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "swhwnu swhu ]88]",
         "transliteration_english": "saahaan saahu ||88||",
         "transliteration_hindi": "साहानु साहु ॥८८॥",
@@ -234,7 +1068,7 @@
       {
         "id": "CH7Y",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "rwjwn rwj ]",
         "transliteration_english": "raajaan raaj ||",
         "transliteration_hindi": "राजान राज ॥",
@@ -259,7 +1093,7 @@
       {
         "id": "LFNE",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "Bwnwn Bwn ]",
         "transliteration_english": "bhaanaan bhaan ||",
         "transliteration_hindi": "भानान भान ॥",
@@ -284,7 +1118,7 @@
       {
         "id": "QDD2",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "dyvwn dyv ]",
         "transliteration_english": "dhevaan dhev ||",
         "transliteration_hindi": "देवान देव ॥",
@@ -309,7 +1143,7 @@
       {
         "id": "XCKP",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "aupmw mhwn ]89]",
         "transliteration_english": "aupamaa mahaan ||89||",
         "transliteration_hindi": "उपमा महान ॥८९॥",
@@ -334,7 +1168,7 @@
       {
         "id": "GC1Q",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "ieMdRwn ieMdR ]",
         "transliteration_english": "eindhraan eindhr ||",
         "transliteration_hindi": "इंद्रान इंद्र ॥",
@@ -359,7 +1193,7 @@
       {
         "id": "B48G",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "bwlwn bwl ]",
         "transliteration_english": "baalaan baal ||",
         "transliteration_hindi": "बालान बाल ॥",
@@ -384,7 +1218,7 @@
       {
         "id": "AFZ1",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "rMkwn rMk ]",
         "transliteration_english": "rankaan rank ||",
         "transliteration_hindi": "रंकान रंक ॥",
@@ -409,7 +1243,7 @@
       {
         "id": "A7NY",
         "source_page": 5,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "kwlwn kwl ]90]",
         "transliteration_english": "kaalaan kaal ||90||",
         "transliteration_hindi": "कालान काल ॥९०॥",
@@ -433,8 +1267,8 @@
       },
       {
         "id": "VTXQ",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 1,
         "gurmukhi": "AnBUq AMg ]",
         "transliteration_english": "anabhoot ang ||",
         "transliteration_hindi": "अनभूत अंग ॥",
@@ -458,8 +1292,8 @@
       },
       {
         "id": "Q3F7",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 1,
         "gurmukhi": "AwBw ABMg ]",
         "transliteration_english": "aabhaa abhang ||",
         "transliteration_hindi": "आभा अभंग ॥",
@@ -483,8 +1317,8 @@
       },
       {
         "id": "TPG0",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 1,
         "gurmukhi": "giq imiq Apwr ]",
         "transliteration_english": "gat mit apaar ||",
         "transliteration_hindi": "गति मिति अपार ॥",
@@ -508,8 +1342,8 @@
       },
       {
         "id": "XPBA",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 1,
         "gurmukhi": "gun gn audwr ]91]",
         "transliteration_english": "gun gan audhaar ||91||",
         "transliteration_hindi": "गुन गन उदार ॥९१॥",
@@ -533,8 +1367,8 @@
       },
       {
         "id": "8HW6",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 1,
         "gurmukhi": "muin gn pRnwm ]",
         "transliteration_english": "mun gan pranaam ||",
         "transliteration_hindi": "मुनि गन प्रनाम ॥",
@@ -558,8 +1392,8 @@
       },
       {
         "id": "9LZW",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 2,
         "gurmukhi": "inrBY inkwm ]",
         "transliteration_english": "nirabhai nikaam ||",
         "transliteration_hindi": "निरभै निकाम ॥",
@@ -583,8 +1417,8 @@
       },
       {
         "id": "64TK",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 2,
         "gurmukhi": "Aiq duiq pRcMf ]",
         "transliteration_english": "at dhut prachandd ||",
         "transliteration_hindi": "अति दुति प्रचंड ॥",
@@ -608,8 +1442,8 @@
       },
       {
         "id": "DGKF",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 2,
         "gurmukhi": "imiq giq AKMf ]92]",
         "transliteration_english": "mit gat akhandd ||92||",
         "transliteration_hindi": "मिति गति अखंड ॥९२॥",
@@ -633,8 +1467,8 @@
       },
       {
         "id": "592V",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 2,
         "gurmukhi": "AwilsÎ krm ]",
         "transliteration_english": "aalisay karam ||",
         "transliteration_hindi": "आलिस्य करम ॥",
@@ -658,8 +1492,8 @@
       },
       {
         "id": "YESN",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 2,
         "gurmukhi": "AwidRsÎ Drm ]",
         "transliteration_english": "aadhrisay dharam ||",
         "transliteration_hindi": "आद्रिस्य धरम ॥",
@@ -683,10 +1517,10 @@
       },
       {
         "id": "BX9E",
-        "source_page": 5,
-        "source_line": null,
-        "gurmukhi": "srbw BrxwFX ]",
-        "transliteration_english": "sarabaa bharaNaadday ||",
+        "source_page": 6,
+        "source_line": 3,
+        "gurmukhi": "srbwBrxwFX ]",
+        "transliteration_english": "sarabaabharaNaadday ||",
         "transliteration_hindi": "सरबा भरणाढय ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -708,8 +1542,8 @@
       },
       {
         "id": "UA58",
-        "source_page": 5,
-        "source_line": null,
+        "source_page": 6,
+        "source_line": 3,
         "gurmukhi": "AnfMf bwFX ]93]",
         "transliteration_english": "anaddandd baadday ||93||",
         "transliteration_hindi": "अनडंड बाढय ॥९३॥",

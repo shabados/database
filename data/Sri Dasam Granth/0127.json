@@ -1,5 +1,1234 @@
 [
   {
+    "id": "MAG",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "GH91",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "EQQV",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "duhW kMDwrW muih juVy; st peI jmDwx kau ]",
+        "transliteration_english": "dhuhaa(n) kandhaaraa(n) muh juRe; saT pe'ee jamadhaaN ku ||",
+        "transliteration_hindi": "दुहा कंधारा मुहि जुड़े सट पई जमधाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The trumpet, enveloped by the hide of the male buffalo, the vehicle of Yama, was beaten and both the armies faced each other.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਜਦੋਂ ਨਗਾਰੇ ਉਤੇ ਸਟ ਵਜੀ ਤਦੋਂ) ਦੋਹਾ (ਪਾਸਿਆਂ ਦੀਆਂ) ਫੌਜਾ ਆਹਮਣੇ ਸਾਹਮਣੇ ਹੋ ਗਈਆਂ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZT9G",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "qd iKMg nsuMB ncwieAw; fwl aupir brgsqwx kau ]",
+        "transliteration_english": "tadh khing nasunbh nachaaeiaa; ddaal aupar baragasataaN ku ||",
+        "transliteration_hindi": "तदि खिंग निसुंभ नचाइआ डालि उपर बरगुसताण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Then Nisumbh caused the horse to dance, putting on his back the saddle-armour.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤਦੋਂ ਨਿਸ਼ੁੰਭ ਨੇ (ਆਪਣੇ) ਨੁਕਰੇ ਘੋੜੇ ਉਤੇ ਲੋਹੇ ਦਾ ਝੁਲ ('ਬਰਗਸਤਾਣ') ਪਾ ਕੇ ਨਚਾਇਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "9885",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "PVI iblµd mgwieaus; Purmwies kir mulqwn kau ]",
+        "transliteration_english": "faRee bilandh magaaeiaus; furamaaeis kar mulataan ku ||",
+        "transliteration_hindi": "फड़ी बिलंद मंगाइओसु फरमाइस करि मुलतान कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She held the big bow, which was caused to be brought on order form Musltan.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌੜੀ ਫਟੀ ਵਾਲੀ ਵੱਡੀ ਕਮਾਨ (ਉਸ ਨੇ) ਹੱਥ ਵਿਚ ਪਕੜ ਲਈ (ਜੋ ਉਸ ਨੇ) ਉਚੇਚੀ ਫੁਰਮਾਇਸ਼ ਕਰ ਕੇ ਮੁਲਤਾਨ ਤੋਂ ਮੰਗਵਾਈ ਸੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "C4DW",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "gusy AweI swhmxy; rx AMdir Gqx Gwx kau ]",
+        "transliteration_english": "guse aae'ee saahamaNe; raN andhar ghataN ghaaN ku ||",
+        "transliteration_hindi": "गुसे आई साम्रहणे रण अंदर घतण घाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "In her fury, she came in front in order to fill the battlefield with the mud of blood and fat.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਧਰੋਂ) ਗੁੱਸੇ ਨਾਲ ਭਰੀ ਹੋਈ (ਦੁਰਗਾ) ਰਣ ਵਿਚ ਘਮਸਾਨ ਮਚਾਉਣ ਲਈ (ਰਾਖਸ਼ ਦੇ) ਸਾਹਮਣੇ ਆ ਗਈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "70AQ",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "AgY qyg vgweI durgswh; bF suMBn bhI plwx kau ]",
+        "transliteration_english": "agai teg vagaae'ee dhuragasaeh; badd sunbhan bahee palaaN ku ||",
+        "transliteration_hindi": "अगे तेग वगाई दुरगसाह बढि सुंभन बही पलाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Durga struck the sword in front of her, cutting the demon-king, penetrated through the horse-saddle.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਨੇ ਅਗੋਂ ਹੋ ਕੇ ਅਜਿਹੀ ਤਲਵਾਰ ਚਲਾਈ ਕਿ (ਉਹ) ਨਿਸ਼ੁੰਭ ਨੂੰ ਵੱਢ ਕੇ ਕਾਠੀ ('ਪਲਾਣੋ') ਤੋਂ ਵੀ ਪਾਰ ਨਿਕਲ ਗਈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "1T6M",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "rVkI jwie kY Drq kau; bF pwKr bF ikkwx kau ]",
+        "transliteration_english": "raRakee jaae kai dharat ku; badd paakhar badd kikaaN ku ||",
+        "transliteration_hindi": "रड़की जाइ कै धरत कउ बढि पाखर बढि किकाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Then it penetrated further and struck the earth after cutting the saddle-armour and the horse.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਅਤੇ ਫਿਰ) ਪਾਖਰ (ਲੋਹੇ ਦੀਆਂ ਤਾਰਾ ਦੀ ਬਣੀ ਝੁਲ) ਨੂੰ ਫਾੜ ਕੇ ਅਤੇ ਘੋੜੇ ਨੂੰ ਵਢ ਕੇ ਧਰਤੀ ਵਿਚ ਜਾ ਵਜੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XSS2",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "bIr plwxo ifigAw; kir isjdw suMB sujwx kau ]",
+        "transliteration_english": "beer palaaNo ddigiaa; kar sijadhaa sunbh sujaaN ku ||",
+        "transliteration_hindi": "बीर पलाणो डिगिआ करि सिजदा सुंभ सुजाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The great hero (Nisumbh) fell down from the horse-saddle, offering salutation to the wise Sumbh.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਵੀਰ-ਯੋਧਾ (ਨਿਸੁੰਭ) ਕਾਠੀ ਤੋਂ (ਇਸ ਤਰ੍ਰਹਾ ਹੇਠਾ ਨੂੰ) ਡਿਗਿਆ ਮਾਨੋ ਸੂਝਵਾਨ ਸ਼ੁੰਭ ਨੂੰ ਸਿਜਦਾ ਕਰਦਾ ਹੋਵੇ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "449T",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "swbws, sloxy Kwx kau ]",
+        "transliteration_english": "saabaas, saloNe khaaN ku ||",
+        "transliteration_hindi": "साबास सलोणे खान कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Hail, hail, to the winsome chieftain (Khan).",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਕਾਵਿ-ਨਿਆਂ ਅਧੀਨ ਕਵੀ ਨੇ ਦੈਂਤ ਨਾਇਕ ਨੂੰ ਅਸੀਸ ਦਿੱਤੀ) ਸਾਵਲੇ ਰੰਗ ਵਾਲੇ ਖ਼ਾਨ ਨੂੰ ਸ਼ਾਬਾਸ਼ ਹੈ (ਸਲੋਣੇ ਖਾਨ ਦਾ ਅਰਥਾਤਰ 'ਸਲੂਣੇ ਖਾਣ ਵਾਲਾ')",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N092",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "sdw swbws, qyry qwx kau ]",
+        "transliteration_english": "sadhaa saabaas, tere taaN ku ||",
+        "transliteration_hindi": "सद साबास तेरे ताण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Hail, hail, ever to thy strength.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰੇ ਤ੍ਰਾਣ ਨੂੰ ਵੀ ਸ਼ਾਬਾਸ਼ ਹੈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "SYU9",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "qwrIPW, pwn cbwx kau ]",
+        "transliteration_english": "taareefaa(n), paan chabaaN ku ||",
+        "transliteration_hindi": "तारीफा पान चबाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Praises are offered for the chewing of betel.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰਾ ਪਾਨ ਚਬਾਉਣਾ ਵੀ ਸ਼ਲਾਘਾ ਯੋਗ ਹੈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0X03",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "sd rhmq, kYPW Kwn kau ]",
+        "transliteration_english": "sadh rahamat, kaifaa(n) khaan ku ||",
+        "transliteration_hindi": "सद रहमत कैफा खाण कउ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Hail, hail to thy addiction.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰੇ ਨਸ਼ੇ ਕਰਨ ਦੀ (ਬਾਣ) ਨੂੰ ਵੀ ਸ਼ਾਬਾਸ਼ ਹੈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "9T9R",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "sd rhmq, qury ncwx kau ]50]",
+        "transliteration_english": "sadh rahamat, ture nachaaN ku ||50||",
+        "transliteration_hindi": "सद रहमत तुरे नचाण कउ ॥५०॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Hail hail, to thy horse-control.50.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰੇ ਘੋੜਾ ਨਚਾਉਣ (ਦੀ ਵਿਧੀ) ਨੂੰ ਵੀ ਸ਼ਾਬਾਸ਼ ਹੈ ॥੫੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "BK8",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "7FQC",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "A9W1",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "durgw AqY dwnvI, gh sMGir kQy ]",
+        "transliteration_english": "dhuragaa atai dhaanavee, geh sanghar kathe ||",
+        "transliteration_hindi": "दुरगा अते दानवी गहि संघर कथे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Durga and demons sounded their trumpets, in the remarkable war.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਅਤੇ ਦੈਂਤਾ ਦਾ ਯੁੱਧ-ਭੂਮੀ ਨੂੰ ਗਾਹਦਿਆਂ ਫਿਰਨਾ ਕਥਨ-ਯੋਗ ਹੈ (ਸ਼ਲਾਘਾ ਯੋਗ ਹੈ)।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "3YDQ",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "ErV auTy sUrmy, Awie fwhy mQy ]",
+        "transliteration_english": "oraR autte soorame, aae ddaahe mathe ||",
+        "transliteration_hindi": "ओरड़ उठे सूरमे आइ डाहै मथे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The warriors arose in great numbers and have come to fight.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸੂਰਮਿਆਂ ਨੇ ਉਲਰ ਕੇ ਲੜਨ ਲਈ ਮੱਥੇ ਆਣ ਡਾਹੇ ਹਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XUJG",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "kt quPMgI kYbrI, dl gwih inkQy ]",
+        "transliteration_english": "kaT tufangee kaibaree, dhal gaeh nikathe ||",
+        "transliteration_hindi": "कटि तुंफंगी कैबरी दल साहिब निकथे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "They have come to tread through the forces in order to destroy (the enemy) with guns and arrows.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਇਹ ਸ਼ੂਰਵੀਰ) ਬੰਦੂਕਾ ਅਤੇ ਬਾਣਾ ('ਕੈਬਰੀ') ਨਾਲ ਕਟ ਕੇ ਦਲ ਨੂੰ ਗਾਹਣ ਲਈ ਨਿਕਲੇ ਹਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "7B8B",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "dyKix jMg Prysqy, Asmwno lQy ]51]",
+        "transliteration_english": "dhekhaN jang faresate, asamaano lathe ||51||",
+        "transliteration_hindi": "वेखणि जंग फरेसते असमानहुं लथे ॥५१॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The angels come down (to the earth) from the sky in order to see the war.51.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਅਜਿਹਾ ਅਦੁੱਤੀ) ਯੁੱਧ ਵੇਖਣ ਲਈ ਫਰਿਸ਼ਤੇ ਆਸਮਾਨ ਤੋਂ (ਹੇਠਾ ਉਤਰ ਆਏ ਹਨ) ॥੫੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "3FB",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "PB4D",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PM7Q",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "dohW kMDwrW muh juVy, dl Gury ngwry ]",
+        "transliteration_english": "dhohaa(n) kandhaaraa(n) muh juRe, dhal ghure nagaare ||",
+        "transliteration_hindi": "दोहा कंधारा मुह जुड़े दल घुरे नगारे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The trumpets have sounded in the army and both the forces face each other.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਗਾਰਿਆਂ ਦੇ ਗੂੰਜਣ ਨਾਲ ਦੋਹਾ ਦਲਾ ਦੀਆਂ ਕਤਾਰਾ ਆਹਮੋ ਸਾਹਮਣੇ ਹੋ ਗਈਆਂ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "GACZ",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "ErV Awey sUrmy, isrdwr AixAwry ]",
+        "transliteration_english": "oraR aae soorame, siradhaar aNiaare ||",
+        "transliteration_hindi": "ओरड़ि आए सूरमे सिरदार रणिआरे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The chief and brave warriors swayed in the field.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਵੱਡੇ ਵੱਡੇ ਜੁਝਾਰੂ ਸੈਨਾ-ਨਾਇਕ ਉਲਰ ਕੇ (ਯੁੱਧ ਵਿਚ) ਆ ਗਏ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8K3J",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "lY ky qygW brCIAW, hiQAwr auBwry ]",
+        "transliteration_english": "lai ke tegaa(n) barachheeaa(n), hathiaar aubhaare ||",
+        "transliteration_hindi": "लै लै तेगा बरछीआ हथिआर उभारे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "They raised their weapons including the swords and daggers.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਨ੍ਰਹਾ ਨੇ) ਤਲਵਾਰਾ ਅਤੇ ਬਰਛੀਆਂ ਆਦਿ ਹਥਿਆਰਾ ਨੂੰ ਉਲਾਰ ਲਿਆ ਸੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MFZF",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "top ptylw pwKrW, gil sMj svwry ]",
+        "transliteration_english": "Top paTelaa paakharaa(n), gal sanj savaare ||",
+        "transliteration_hindi": "टोप पटेला पाखरा गलि संज सवारे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "They have bedecked themselves with helmets on their heads, and armour around their necks alongwith their horse-sddles with belts.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਤੇ (ਸਿਰਾ ਉਤੇ) ਟੋਪ, (ਮੂੰਹ ਤੇ) ਪਟੇਲ, (ਘੋੜੇ ਉਤੇ) ਪਾਖਰ ਅਤੇ ਗਲ ਵਿਚ ਕਵਚ ਪਾਏ ਹੋਏ ਸਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "V50Z",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "lY ky brCI durgswh, bhu dwnv mwry ]",
+        "transliteration_english": "lai ke barachhee dhuragasaeh, bahu dhaanav maare ||",
+        "transliteration_hindi": "लै के बरछी दुरगसाह बहु दानव मारे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Durga holding her dagger, killed many demons.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਨੇ ਬਰਛੀ ਲੈ ਬਹੁਤ ਸਾਰੇ ਦੈਂਤ ਮਾਰ ਦਿੱਤੇ ਸਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "EG2Y",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "cVy rQI gj GoiVeI, mwr Buie qy fwry ]",
+        "transliteration_english": "chaRe rathee gaj ghoRie'ee, maar bhue te ddaare ||",
+        "transliteration_hindi": "चड़े रथी गज घोड़िई मारि भुइ ते डारे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She killed and threw those on the round who were riding chariots, elephants and horses.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰਥਾ, ਹਾਥੀਆਂ ਅਤੇ ਘੋੜਿਆਂ ਉਪਰ ਚੜ੍ਰਹਿਆਂ ਹੋਇਆਂ ਨੂੰ ਮਾਰ ਕੇ ਧਰਤੀ ਉਤੇ ਸੁੱਟ ਦਿੱਤਾ ਸੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HYCZ",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "jxu hlvweI sIK nwl, ivMnH vVy auqwry ]52]",
+        "transliteration_english": "jaN halavaae'ee seekh naal, vinnh vaRe autaare ||52||",
+        "transliteration_hindi": "जणु हलवाई सीख नाल बिंन्रह वड़े उतारे ॥५२॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "It appear that the confectioner has cooked small round cakes of grounded pulse, piercing them with a spike.52.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਇੰਜ ਪ੍ਰਤੀਤ ਹੁੰਦਾ ਸੀ) ਮਾਨੋ ਹਲਵਾਈ ਨੇ ਸੀਖ ਨਾਲ ਵਿੰਨ੍ਰਹ ਕੇ ਵੜੇ ਲਾਹੇ ਹੋਣ ॥੫੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "X22",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "3Q8J",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "VKRE",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "duhW kMDwrW muih juVy, nwl Dausw BwrI ]",
+        "transliteration_english": "dhuhaa(n) kandhaaraa(n) muh juRe, naal dhausaa bhaaree ||",
+        "transliteration_hindi": "दुहा कंधारा मुहि जुड़े नाल धउसा भारी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Alongwith the sounding of the large trumpet, both the forces faced each other.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਭਾਰੀ ਨਗਾਰੇ ਦੇ ਵਜਣ ਨਾਲ ਦੋਹਾ ਧਿਰਾ ਦੀਆਂ ਫ਼ੌਜਾ ਆਹਮੋ-ਸਾਹਮਣੇ ਹੋਈਆਂ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ST02",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "leI BgauqI durgswh, vr jwgn BwrI ]",
+        "transliteration_english": "le'ee bhagautee dhuragasaeh, var jaagan bhaaree ||",
+        "transliteration_hindi": "लई भगउती दुरगसाहि वर जागणि भारी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Durga held out her sword, appearing like great lustrous fire",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਨੇ ਹੱਥ ਵਿਚ ਬਰਛੀ (ਭਗਉਤੀ) ਲੈ ਲਈ ਜੋ ਦਗਦੀ ਹੋਈ ਅਗਨੀ 'ਵਰਜਾਗਨਿ' ਦੇ ਸਮਾਨ ਚਮਕਦੀ ਸੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "WF48",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "lweI rwjy suMB no, rqu pIAY ipAwrI ]",
+        "transliteration_english": "laae'ee raaje sunbh no, rat peeaai piaaree ||",
+        "transliteration_hindi": "लाई राजे सुंभ नो रत पीऐ पिआरी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She struck it on the king Sumbh and this lovely weapon drinks blood.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਹ) ਬਰਛੀ (ਦੇਵੀ ਨੇ) ਰਾਜੇ ਸ਼ੁੰਭ ਨੂੰ ਮਾਰ ਦਿੱਤੀ (ਜੋ) ਪਿਆਰੀ (ਉਸ ਦੇ) ਲਹੂ ਨੂੰ ਪੀ ਰਹੀ ਸੀ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "68HD",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "suMB pwlwxo ifigAw, aupmw bIcwrI ]",
+        "transliteration_english": "sunbh paalaaNo ddigiaa, aupamaa beechaaree ||",
+        "transliteration_hindi": "सुंभ पालाणो डिगिआ उपमा वीचारी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Sumbh fell down from the saddle for which the following simile hath been thought.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ਼ੁੰਭ ਕਾਠੀ ਤੋਂ ਡਿਗ ਪਿਆ, (ਉਹ ਦ੍ਰਿਸ਼ ਨੂੰ ਵੇਖ ਕੇ ਕਵੀ ਨੂੰ ਇੰਜ) ਉਪਮਾ ਸੁਝੀ",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "YNF1",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "fub rqU nwlhu inklI, brCI duDwrI ]",
+        "transliteration_english": "ddub ratoo naalahu nikalee, barachhee dhudhaaree ||",
+        "transliteration_hindi": "डुबि रतु नालहु निकली बरछी दोधारी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "That the double-edged dagger, smeared with blood, which hath come out (from the body of Sumbh)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਕਿ ਜੋ) ਦੋ ਧਾਰੀ ਬਰਛੀ ਲਹੂ ਨਾਲ ਲਿਬੜ ਕੇ ਬਾਹਰ ਨਿਕਲੀ ਹੈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XSSS",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "jwx rjwdI auqrI, pYn sUhI swrI ]53]",
+        "transliteration_english": "jaaN rajaadhee autaree, pain soohee saaree ||53||",
+        "transliteration_hindi": "जाणु रजादी उतरी पैन्रहि सूही सार्रही ॥५३॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Seems like a princess coming down from her loft, wearing the red sari.53.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਉਹ) ਮਾਨੋ ਰਾਜ-ਕੁਮਾਰੀ ('ਰਜਾਦੀ') ਲਾਲ ਰੰਗ ਦੀ ਸਾੜ੍ਰਹੀ ਪਾ ਕੇ (ਮਹੱਲ ਤੋਂ) ਉਤਰੀ ਹੋਵੇ ॥੫੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "8AL",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "W0EP",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "T1UM",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "durgw AqY dwnvI ByV pieAw sbwhIN ]",
+        "transliteration_english": "dhuragaa atai dhaanavee bheR peiaa sabaahee(n) ||",
+        "transliteration_hindi": "दुरगा अते दानवी भेड़ पइआ सबाहीं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The war between Durga and the demons started early in the morning.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਅਤੇ ਦੈਂਤਾ ਦਾ ਤੜਕਸਾਰ ਯੁੱਧ ਸ਼ੁਰੂ ਹੋਇਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "Y78R",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "ssqR pjUqy durgswh gh sBnIN bwhIN ]",
+        "transliteration_english": "sasatr pajoote dhuragasaeh geh sabhanee(n) baahee(n) ||",
+        "transliteration_hindi": "ससत्र पजूते दुरगसाह गहि सभनी बाहीं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Durga held her weapons firmly in all her arms.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ ਨੇ ਸਾਰਿਆਂ ਹੱਥਾ ਵਿਚ ਮਜ਼ਬੂਤੀ ਨਾਲ ਸ਼ਸਤ੍ਰ ਪਕੜ ਲਏ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "JR63",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "suMB insuMB sMGwirAw vQ jyhy swhIN ]",
+        "transliteration_english": "sunbh nisunbh sanghaariaa vath jehe saahee(n) ||",
+        "transliteration_hindi": "सुंभ निसुंभ संघारिआ वथ जे है साहीं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "She killed both Sumbh and Nisumbh, who were the masters of all the materials.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ਼ੁੰਭ ਨਿਸ਼ੁੰਭ ਵਰਗੇ ਨਾਮੀ ਯੋਧਿਆਂ ਨੂੰ ਮਾਰ ਸੁਟਿਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "FNF7",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "PaujW rwkis AwrIAW dyiK rovin DwhIN ]",
+        "transliteration_english": "faujaa(n) raakas aareeaa(n) dhekh rovan dhaahee(n) ||",
+        "transliteration_hindi": "फउजा राकस आरीआं वेख रोवनि धाहीं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Seeing this, the helpless forces of the demons, weep bitterly.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਸਮਰਥ ਦੈਂਤ ਫ਼ੌਜਾ (ਹਾਰ ਨੂੰ) ਵੇਖ ਕੇ ਧਾਹਾ (ਮਾਰ ਕੇ) ਰੋ ਰਹੇ ਸਨ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4Y5M",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "muih kuVUcy Gwh dy Cf GoVy rwhIN ]",
+        "transliteration_english": "muh kuRooche ghaeh dhe chhadd ghoRe raahee(n) ||",
+        "transliteration_hindi": "मुहि कड़ूचे घाहु दे छडि घोड़े राहीं ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Accepting their defeat (by putting the straws of grass in their mouth), and leaving their horses in the way",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਬਹੁਤੇ ਦੈਂਤ) ਮੂੰਹ ਵਿਚ ਘਾਹ ਦੇ ਤੀਲੇ ਦੇ ਕੇ ਅਤੇ ਘੋੜਿਆਂ ਨੂੰ ਰਾਹ ਵਿਚ ਹੀ ਛਡ ਕੇ (ਦੇਵੀ ਦੇ ਸਾਹਮਣੇ ਆਪਣੀ ਅਸਮਰਥਾ ਪ੍ਰਗਟ ਕਰਨ ਲਗੇ)।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "E9MM",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "Bjdy hoey mwrIAn muV Jwkn nwhIN ]54]",
+        "transliteration_english": "bhajadhe hoe maareean muR jhaakan naahee(n) ||54||",
+        "transliteration_hindi": "भजदे होइ मारीअन मुड़ि झाकनि नाहीं ॥५४॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "They are being killed, while fleeing, without looking back.54.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਭਜਦੇ ਜਾਦੇ ਦੈਂਤ ਵੀ (ਦੇਵੀ ਦੁਆਰਾ ਮਾਰੇ ਜਾ ਰਹੇ ਸਨ, (ਪਰ ਉਹ) ਪਿਛੇ ਮੁੜ ਕੇ ਝਾਕਦੇ ਤਕ ਨਹੀਂ ਸਨ ॥੫੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "WZC",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "Y4AA",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "9GGP",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "suMB insuMB pTwieAw, jm dy Dwm no ]",
+        "transliteration_english": "sunbh nisunbh pattaaeiaa, jam dhe dhaam no ||",
+        "transliteration_hindi": "सुंभ निसुंभ पठाइआ जम दे धाम नो ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Sumbh and Nisumbh were dispatched to the abode of Yama",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਦੇਵੀ ਨੇ) ਸ਼ੁੰਭ ਅਤੇ ਨਿਸ਼ੁੰਭ ਨੂੰ ਯਮ-ਲੋਕ ਨੂੰ ਤੋਰ ਦਿੱਤਾ",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "H2P6",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "ieMdR sd bulwieAw, rwj AiBsyK no ]",
+        "transliteration_english": "eindhr sadh bulaaeiaa, raaj abhisekh no ||",
+        "transliteration_hindi": "इंद्र सदि बुलाइआ राज अभिखेख नो ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "And Indra was called for crowning him.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਤੇ ਇੰਦਰ ਨੂੰ ਰਾਜਤਿਲਕ ('ਅਭਿਖੇਖ') ਦੇਣ ਲਈ ਸਦ ਲਿਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "7MNR",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "isr pr CqR iPrwieAw, rwjy ieMdR dY ]",
+        "transliteration_english": "sir par chhatr firaaeiaa, raaje eindhr dhai ||",
+        "transliteration_hindi": "सिर पर छत्र फिराइआ राजे इंद्र दे ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The canopy was held up over the head of king Indra.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰਾਜੇ ਇੰਦਰ ਦੇ ਸਿਰ ਉਤੇ ਛਤ੍ਰ ਫਿਰਾ ਦਿੱਤਾ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "10MS",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "caudh lokW CwieAw, jsu jgmwq dw ]",
+        "transliteration_english": "chaudheh lokaa(n) chhaaeiaa, jas jagamaat dhaa ||",
+        "transliteration_hindi": "चउदी लोकी छाइआ जसु जगमात दा ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The praise of the mother of the universe spread over all the fourteen worlds.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਇਸ ਤਰ੍ਰਹਾ) ਚੌਦਾ ਲੋਕਾ ਵਿਚ ਜਗਤ-ਮਾਤਾ (ਦੁਰਗਾ) ਦਾ ਯਸ਼ ਛਾ ਗਿਆ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MPZB",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "durgw pwT bxwieAw, sBy pauVIAW ]",
+        "transliteration_english": "dhuragaa paatt baNaaeiaa, sabhe pauReeaa(n) ||",
+        "transliteration_hindi": "दुरगा पाठ बणाइआ सभे पउड़ीआ ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "All the Pauris (stanza) of this DURGA PATH (The text about the exploits of Durga) have been composed",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੁਰਗਾ (ਸਪਤਸ਼ਤੀ) ਦਾ ਪਾਠ (ਇਸ ਵਾਰ ਦੀਆਂ) ਸਾਰੀਆਂ ਪਉੜੀਆਂ ਵਿਚ ਰਚਿਆ ਹੈ।",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "FQQ0",
+        "source_page": 127,
+        "source_line": null,
+        "gurmukhi": "Pyr n jUnI AwieAw, ijn ieh gwieAw ]55]",
+        "transliteration_english": "fer na joonee aaeiaa, jin eih gaaeiaa ||55||",
+        "transliteration_hindi": "फेरि न जूनी आइआ जिनि इह गाइआ ॥५५॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "And that person who sings it, will not take birth again.55.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੋ ਇਸ (ਪਾਠ) ਨੂੰ ਗਾਏਗਾ (ਉਹ) ਫਿਰ ਆਵਾਗਵਣ ਦੇ ਚਕਰਾ ਵਿਚ ਨਹੀਂ ਪਏਗਾ ॥੫੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "J52",
     "writer": "Guru Gobind Singh Ji",
     "subsection": null,
@@ -919,7 +2148,7 @@
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "He is unassailable, invincible, PrimE6268:E6298al, non-dual and very difficult to realise.8.",
+              "translation": "He is unassailable, invincible, Primal, non-dual and very difficult to realise.8.",
               "additional_information": {}
             }
           },

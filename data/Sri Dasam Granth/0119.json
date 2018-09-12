@@ -775,36 +775,11 @@
         }
       },
       {
-        "id": "T4UV",
-        "source_page": 119,
-        "source_line": null,
-        "gurmukhi": "pauVI ]",
-        "transliteration_english": "pauRee ||",
-        "transliteration_hindi": "पउड़ी ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "PAURI",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਪਉੜੀ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
         "id": "PSRF",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "ipRQm BgOqI ismr kY gurU nwnk leIN iDAwie ]",
-        "transliteration_english": "pritham bhagoutee simar kai guroo naanak le'ee(n) dhiaae ||",
+        "gurmukhi": "ipRQm BgOqI ismir kY gur nwnk leIN iDAwie ]",
+        "transliteration_english": "pritham bhagoutee simar kai gur naanak le'ee(n) dhiaae ||",
         "transliteration_hindi": "प्रिथम भगौती सिमर कै गुरू नानक लईं धिआइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -853,8 +828,8 @@
         "id": "KGYS",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "Arjun hirgoibMd no ismrO sRI hirrwie ]",
-        "transliteration_english": "arajun harigobindh no simaro sree hariraae ||",
+        "gurmukhi": "Arjn hirgoibMd no ismrO sRI hirrwie ]",
+        "transliteration_english": "arajan harigobindh no simaro sree hariraae ||",
         "transliteration_hindi": "अरजुन हरिगोबिंद नो सिमरौ स्री हरिराइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -878,8 +853,8 @@
         "id": "B36J",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "sRI hirik®Sn iDAweIAY ijsu ifTy sBu duiK jwie ]",
-        "transliteration_english": "sree harikrishan dhiaae'eeaai jis dditte sabh dhukh jaae ||",
+        "gurmukhi": "sRI hirik®sn iDAweIAY ijs ifTy siB duiK jwie ]",
+        "transliteration_english": "sree harikrisan dhiaae'eeaai jis dditte sabh dhukh jaae ||",
         "transliteration_hindi": "स्री हरिक्रिस़न धिआईऐ जिसु डिठे सभु दुखि जाइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -903,8 +878,8 @@
         "id": "BT4L",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "qyg bhwdr ismirAY Gir nauiniD AwvY Dwie ]",
-        "transliteration_english": "teg bahaadhar simariaai ghar naunidh aavai dhaae ||",
+        "gurmukhi": "qyg bhwdr ismirAY Gr nau iniD AwvY Dwie ]",
+        "transliteration_english": "teg bahaadhar simariaai ghar nu nidh aavai dhaae ||",
         "transliteration_hindi": "तेग बहादर सिमरिऐ घरि नउनिधि आवै धाइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -948,13 +923,47 @@
             }
           }
         }
+      }
+    ]
+  },
+  {
+    "id": "MJ7",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
+      {
+        "id": "T4UV",
+        "source_page": 119,
+        "source_line": null,
+        "gurmukhi": "pauVI ]",
+        "transliteration_english": "pauRee ||",
+        "transliteration_hindi": "पउड़ी ॥",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "PAURI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਉੜੀ:",
+              "additional_information": {}
+            }
+          }
+        }
       },
       {
         "id": "TK7M",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "KMfw ipRQmY swijkY ijn sB sYswru aupwieAw ]",
-        "transliteration_english": "khanddaa prithamai saajikai jin sabh saisaar aupaaeiaa ||",
+        "gurmukhi": "KMfw ipRQmY swj kY ijn sB sYswru aupwieAw ]",
+        "transliteration_english": "khanddaa prithamai saaj kai jin sabh saisaar aupaaeiaa ||",
         "transliteration_hindi": "खंडा प्रिथमै साजिकै जिन सभ सैसारु उपाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -978,8 +987,8 @@
         "id": "682S",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "bRhmw ibsnu mhys swij kudriq dw Kylu bxwieAw ]",
-        "transliteration_english": "brahamaa bisan mahes saaj kudharat dhaa khel baNaaeiaa ||",
+        "gurmukhi": "bRhmw ibsnu mhys swij kudriq dw Kylu rcwie bxwieAw ]",
+        "transliteration_english": "brahamaa bisan mahes saaj kudharat dhaa khel rachaae baNaaeiaa ||",
         "transliteration_hindi": "ब्रहमा बिसनु महेस साजि कुदरति दा खेलु बणाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1003,7 +1012,7 @@
         "id": "9P9P",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "isMDu prbq mydnI ibnu QMmHw ggin rhwieAw ]",
+        "gurmukhi": "isMD prbq mydnI ibnu QMmHw ggin rhwieAw ]",
         "transliteration_english": "sindh parabat medhanee bin thanmhaa gagan rahaaeiaa ||",
         "transliteration_hindi": "सिंधु परबत मेदनी बिनु थंम्हा गगनि रहाइआ ॥",
         "pronunciation": null,
@@ -1078,8 +1087,8 @@
         "id": "K107",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "qYQo hI blu rwm lY nwl bwxw dh isru GwieAw ]",
-        "transliteration_english": "taitho hee bal raam lai naal baaNaa dheh sir ghaaeiaa ||",
+        "gurmukhi": "qYQoN hI blu rwm lY nwl bwxw dhisru GwieAw ]",
+        "transliteration_english": "taitho(n) hee bal raam lai naal baaNaa dhahasir ghaaeiaa ||",
         "transliteration_hindi": "तैथो ही बलु राम लै नाल बाणा दह सिरु घाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1103,8 +1112,8 @@
         "id": "TZJ6",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "qYQoN hI blu ik®Sn lY kMs kysI pkiV igrwieAw ]",
-        "transliteration_english": "taitho(n) hee bal krishan lai kans kesee pakaR giraaeiaa ||",
+        "gurmukhi": "qYQoN hI blu ik®sn lY kMsu kysI pkiV igrwieAw ]",
+        "transliteration_english": "taitho(n) hee bal krisan lai kans kesee pakaR giraaeiaa ||",
         "transliteration_hindi": "तैथों ही बलु क्रिस़न लै कंस केसी पकड़ि गिराइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1173,13 +1182,22 @@
             }
           }
         }
-      },
+      }
+    ]
+  },
+  {
+    "id": "JFX",
+    "writer": "Guru Gobind Singh Ji",
+    "subsection": null,
+    "section": "Vaar Sri Bhagauti Ji Ki",
+    "sttm2_id": null,
+    "lines": [
       {
         "id": "JFJD",
         "source_page": 119,
         "source_line": null,
-        "gurmukhi": "swDU siqjugu bIiqAw ADsIlI qRyqw AwieAw ]",
-        "transliteration_english": "saadhoo satijug beetiaa adhaseelee tretaa aaeiaa ||",
+        "gurmukhi": "swDU sqjugu bIiqAw AD sIlI qRyqw AwieAw ]",
+        "transliteration_english": "saadhoo satajug beetiaa adh seelee tretaa aaeiaa ||",
         "transliteration_hindi": "साधू सतिजुगु बीतिआ अधसीली त्रेता आइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1203,7 +1221,7 @@
         "id": "RCWF",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "ncI kil srosrI; kil nwrd faurU vwieAw ]",
+        "gurmukhi": "ncI kl srosrI; kl nwrd faurU vwieAw ]",
         "transliteration_english": "nachee kal sarosaree; kal naaradh ddauroo vaaeiaa ||",
         "transliteration_hindi": "नची कलि सरोसरी कलि नारद डउरू वाइआ ॥",
         "pronunciation": null,
@@ -1228,8 +1246,8 @@
         "id": "Y2ED",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "AiBmwnu auqwrn dyviqAw mihKwsur suMB aupwieAw ]",
-        "transliteration_english": "abhimaan autaaran dhevatiaa mahikhaasur sunbh aupaaeiaa ||",
+        "gurmukhi": "AiBmwnu auqwrn dyviqAW mihKwsur suMB aupwieAw ]",
+        "transliteration_english": "abhimaan autaaran dhevatiaa(n) mahikhaasur sunbh aupaaeiaa ||",
         "transliteration_hindi": "अभिमानु उतारन देवतिआ महिखासुर सुंभ उपाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1253,7 +1271,7 @@
         "id": "BZN3",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "jIq ley iqin dyvqy; iqhu lokI rwju kmwieAw ]",
+        "gurmukhi": "jIiq ley iqn dyvqy; iqh lokI rwju kmwieAw ]",
         "transliteration_english": "jeet le tin dhevate; tih lokee raaj kamaaeiaa ||",
         "transliteration_hindi": "जीत लए तिनि देवते तिहु लोकी राजु कमाइआ ॥",
         "pronunciation": null,
@@ -1278,8 +1296,8 @@
         "id": "YPCG",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "vfw bIr AKwiekY isr aupir CqR iPrwieAw ]",
-        "transliteration_english": "vaddaa beer akhaaeikai sir aupar chhatr firaaeiaa ||",
+        "gurmukhi": "vfw bIru AKwie kY isr aupr CqRü iPrwieAw ]",
+        "transliteration_english": "vaddaa beer akhaae kai sir aupar chhatr firaaeiaa ||",
         "transliteration_hindi": "वडा बीर अखाइकै सिर उपरि छत्र फिराइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1303,8 +1321,8 @@
         "id": "8X8P",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "idqw ieMdR inkwl ky iqin igir kYlwsu qkwieAw ]",
-        "transliteration_english": "dhitaa eindhr nikaal ke tin gir kailaas takaaeiaa ||",
+        "gurmukhi": "idqw ieMdRü inkwl kY iqn igr kYlwsu qkwieAw ]",
+        "transliteration_english": "dhitaa eindhr nikaal kai tin gir kailaas takaaeiaa ||",
         "transliteration_hindi": "दिता इंद्र निकाल के तिनि गिरि कैलासु तकाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1328,8 +1346,8 @@
         "id": "L7CV",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "firkY hQo dwnvI idl AMdir qRwsu vDwieAw ]",
-        "transliteration_english": "ddarikai hatho dhaanavee dhil andhar traas vadhaaeiaa ||",
+        "gurmukhi": "fir kY hQo dwnvI idl AMdir qRwsu vDwieAw ]",
+        "transliteration_english": "ddar kai hatho dhaanavee dhil andhar traas vadhaaeiaa ||",
         "transliteration_hindi": "डरिकै हथो दानवी दिल अंदरि त्रासु वधाइआ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
@@ -1353,7 +1371,7 @@
         "id": "1J2B",
         "source_page": 120,
         "source_line": null,
-        "gurmukhi": "pws durgw dy ieMdR AwieAw ]3]",
+        "gurmukhi": "pws durgw dy ieMdRü AwieAw ]3]",
         "transliteration_english": "paas dhuragaa dhe eindhr aaeiaa ||3||",
         "transliteration_hindi": "पास दुरगा दे इंद्र आइआ ॥३॥",
         "pronunciation": null,
@@ -1369,306 +1387,6 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਫਰਿਆਦ ਅਥਵਾ ਸਹਾਇਤਾ ਨਿਮਿਤ) ਇੰਦਰ ਦੁਰਗਾ ਕੋਲ ਆਇਆ ॥੩॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "1UTB",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "iek idhwVY nwvx AweI durgSwh ]",
-        "transliteration_english": "eik dhihaaRai naavaN aae'ee dhuragashaeh ||",
-        "transliteration_hindi": "इक दिहाड़ै नावण आई दुरगस़ाह ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "One day Durga came for a bath.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਇਕ ਦਿਨ (ਜਦੋਂ) ਦੁਰਗਾ ਦੇਵੀ ਨਹਾਉਣ ਲਈ ਆਈ,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "YYLA",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "ieMdR ibRQw suxweI, Awpxy hwl dI ]",
-        "transliteration_english": "eindhr brithaa suNaae'ee, aapaNe haal dhee ||",
-        "transliteration_hindi": "इंद्र ब्रिथा सुणाई आपणे हाल दी ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Indra related to her the story agony:",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਤਦੋਂ) ਇੰਦਰ ਨੇ ਆਪਣੇ ਹਾਲ ਦੀ (ਦੁਖ ਭਰੀ) ਵਿਥਿਆ ਸੁਣਾਈ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "5NAE",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "CIin leI TkurweI, swqy dwnvI ]",
-        "transliteration_english": "chheen le'ee ttakuraae'ee, saate dhaanavee ||",
-        "transliteration_hindi": "छीनि लई ठकुराई साते दानवी ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“The demons have seized from us our kingdom.\"",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਕਿ) ਸਾਡੇ ਤੋਂ ਦੈਂਤਾ ਨੇ ਰਾਜ ਖੋਹ ਲਿਆ ਹੈ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "TM6G",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "lokI iqhI iPrweI, dohI AwpxI ]",
-        "transliteration_english": "lokee tihee firaae'ee, dhohee aapaNee ||",
-        "transliteration_hindi": "लोकी तिही फिराई दोही आपणी ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“They have proclaimed their authority over all the three worlds.\"",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਉਨ੍ਰਹਾ ਨੇ) ਤਿੰਨਾ ਲੋਕਾ ਵਿਚ ਆਪਣੀ ਦੁਹਾਈ ਫਿਰਾ ਦਿੱਤੀ ਹੈ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "9387",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "bYTy vwie vDweI, qy AmrwvqI ]",
-        "transliteration_english": "baitte vaae vadhaae'ee, te amaraavatee ||",
-        "transliteration_hindi": "बैठे वाइ वधाई ते अमरावती ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“They have played musical instruments in their rejoicings in Amaravati, the city of gods.\"",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਉਹ) ਅਮਰਾਵਤੀ (ਸੁਅਰਗਪੁਰੀ) ਵਿਚ ਬੈਠੇ (ਖੁਸ਼ੀ ਦੇ) ਵਾਜੇ ਵਜਾ ਰਹੇ ਹਨ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "90UD",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "idqy dyv BjweI sBnwN rwkSwN ]",
-        "transliteration_english": "dhite dhev bhajaae'ee sabhanaa(n) raakashaa(n) ||",
-        "transliteration_hindi": "दिते देव भजाई सभनां राकस़ां ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“All the demons have caused the flight of the gods.\"",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਰਾਖਸ਼ਾ ਨੇ ਸਾਰੇ ਦੇਵਤੇ (ਅਮਰਾਪੁਰੀ ਤੋਂ) ਭਜਾ ਦਿੱਤੇ ਹਨ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "K2T0",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "iknY n ijqw jweI mhKy dYq nUM ]",
-        "transliteration_english": "kinai na jitaa jaae'ee mahakhe dhait noon ||",
-        "transliteration_hindi": "किनै न जिता जाई महखे दैत नूं ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“None hath gone and conquered Mahikha, the demon.\"",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਕਿਉਾਂਕਿ) ਕਿਸੇ ਤੋਂ ਵੀ ਮਹਿਖਾਸੁਰ ਜਿਤਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "VADS",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "qyrI swm qkweI, dyvI durgswh ]4]",
-        "transliteration_english": "teree saam takaae'ee, dhevee dhuragasaeh ||4||",
-        "transliteration_hindi": "तेरी साम तकाई देवी दुरगसाह ॥४॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "“O goddess Durga, I have come under Thy refuge.”4.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਹੇ ਦੁਰਗਾ ਦੇਵੀ! ਇਸ ਕਰਕੇ (ਮੈਂ ਹੁਣ) ਤੇਰੀ ਸ਼ਰਨ ਵਿਚ ਆਇਆ ਹਾ ॥੪॥",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "8CQ3",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "durgw bYx suxMdI, hsI hV hVwie ]",
-        "transliteration_english": "dhuragaa baiN suNandhee, hasee haR haRaae ||",
-        "transliteration_hindi": "दुरगा बैण सुणंदी हसी हड़ हड़ाइ ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Listening to these words (of Indra), Durga laughed heartily.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੁਰਗਾ (ਇੰਦਰ ਦੇ) ਬੋਲ ਸੁਣ ਕੇ ਖਿੜ-ਖਿੜ ਹਸਣ ਲਗ ਪਈ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "5ZHS",
-        "source_page": 245,
-        "source_line": null,
-        "gurmukhi": "EhI sIhu mMgwieAw rwKs BKxw ]",
-        "transliteration_english": "ohee seeh mangaaeiaa raakhas bhakhaNaa ||",
-        "transliteration_hindi": "ओही सीहु मंगाइआ राखस भखणा ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "She sent for that lion, who was she devourer of demons.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਉਸ ਨੇ ਰਾਖਸ਼ਾ ਨੂੰ ਖਾਣ ਵਾਲਾ ਸ਼ੇਰ ਮੰਗਵਾ ਲਿਆ",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "52MM",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "icMqw krhu n kweI, dyvw nUM AwiKAw ]",
-        "transliteration_english": "chintaa karahu na kaae'ee, dhevaa noon aakhiaa ||",
-        "transliteration_hindi": "चिंता करहु न काई देवा नूं आखिआ ॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "She said to gods, “Do not worry mother any more.”",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਅਤੇ ਦੇਵਤਿਆਂ ਨੂੰ ਕਿਹਾ ਕਿ (ਤੁਸੀਂ) ਕੋਈ ਚਿੰਤਾ ਨਾ ਕਰੋ।",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "HT2B",
-        "source_page": 120,
-        "source_line": null,
-        "gurmukhi": "roh hoeI mhwmweI, rwkis mwrxy ]5]",
-        "transliteration_english": "roh hoe'ee mahaamaae'ee, raakas maaraNe ||5||",
-        "transliteration_hindi": "रोह होई महामाई राकसि मारणे ॥५॥",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "For killing the demons, the great mother exhibited great fury.5.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੁਰਗਾ ਦੇਵੀ ਰਾਖਸ਼ਾ ਨੂੰ ਮਾਰਨ ਲਈ ਕ੍ਰੋਧਵਾਨ ਹੋ ਗਈ ॥੫॥",
               "additional_information": {}
             }
           }
