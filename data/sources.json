@@ -2757,12 +2757,21 @@
     ]
   },
   {
-    "name_gurmukhi": "vwrW",
-    "name_english": "Vaaran",
+    "name_gurmukhi": "vwrW BweI gurdws jI",
+    "name_english": "Vaars of Bhai Gurdas Ji",
     "length": 41,
     "page_name_english": "Vaar",
     "page_name_gurmukhi": "vwr",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "vwrW",
+        "name_english": "Vaars",
+        "description": "Vaars of Bhai Gurdas Ji",
+        "start_page": 1,
+        "end_page": 41,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "kibq svXy",
