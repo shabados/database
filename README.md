@@ -9,7 +9,7 @@ An open gurbani database containing an evolving set of corrections. Used in Shab
 
 An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
-Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
+Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com) [![Greenkeeper badge](https://badges.greenkeeper.io/ShabadOS/database.svg)](https://greenkeeper.io/)
 
 ## Quickstart
 
