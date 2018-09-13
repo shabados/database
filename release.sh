@@ -4,14 +4,14 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
-log_messages=$(git log -1 --format=%s)
+log_messages=$(git log $(git describe --tags --abbrev=0)...HEAD --format=%B)
 major_re=\#Major
 minor_re=\#Minor
 patch_re=\#Patch
 
 echo ${log_messages}
 
-args="-n --npm.access=public --github.release --no-requireCleanWorkingDir --github.assets=build/database.sqlite"
+args="-n --npm.access=public --github.release --no-requireCleanWorkingDir"
 
 if [[ ${log_messages} =~ ${major_re}  ]]; then
     echo "Major Release"
