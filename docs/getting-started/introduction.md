@@ -23,9 +23,9 @@ We're also able to apply licensing that **protects** the database from non-publi
 Most importantly, open-source means work on the database can always be carried forward by the **community**.
 
 ### Quality
-With **over 6,000 corrections**, we've built upon the work of iGurbani, SikhiToTheMax, and GurbaniNow databases. We've even consolidated our efforts with the [GurbaniNow Team](https://GurbaniNow.com) as part of our aim to maintain the most accurate Gurbani database. We'd love for others to work with us too.
+With **over 6,000 corrections**, we've built upon the work of SikhiToTheMax II, iGurbani, and GurbaniNow databases. We've even consolidated our efforts with the [GurbaniNow Team](https://GurbaniNow.com) as part of our aim to maintain the most accurate Gurbani database. We'd love for others to work with us too.
 
-A modern [schema](getting-started/schema) has been designed to capture data in the most effective way, ideal for developing **apps**, carrying out data **analysis**, and undertaking **research**. We have incorporated notes from the likes of esteemed **scholars** such as Bhai Joginder Singh Talwara (Daarji), Sant Gurbachan Singh Bhindrawale. There are also **multiple** language options and translation sources (see [content](#content) for more information). 
+A modern [schema](getting-started/schema) has been designed to capture data in the most effective way, ideal for developing **apps**, carrying out data **analysis**, and undertaking **research**. We have incorporated notes from the likes of esteemed **scholars** such as Bhai Joginder Singh Talwara (Daarji) and Sant Gurbachan Singh Bhindrawale. There are also **multiple** language options and translation sources (see [content](#content) for more information). 
 
 The database is also **SGPC compliant**, allowing any software developed using this database to be used in Gurdwaras across the world. 
 
@@ -45,7 +45,7 @@ The `@shabados/database` npm JS package also includes an API that can be used to
 A hosted API is provided by [GurbaniNow](https://github.com/gurbaninow/api), who also run the [GurbaniNow Search](https://GurbaniNow.com).
 
 ### Transparency
-Our project is for the Sangat, by the Sangat. Thus, we believe in accountabiility, attribution, and transparency, allowing the Sangat to determine for themselves the validity and integrity of this Gurbani database.
+Our project is for the Sangat, by the Sangat. Thus, we believe in accountability, attribution, and transparency, allowing the Sangat to determine for themselves the validity and integrity of this Gurbani database.
 
 All work carried out is open-source, and can be seen on [GitHub](https://github.com/shabados/database). The history of changes made to the database can be seen, and with this information easily-accessibly and public, the GitHub repository serves as the transparent source of truth. Anyone can verify the validity and integrity of their copy of the database themselves, saying no more to Gurbani databases that are distributed with no attribution or history. 
 
@@ -56,39 +56,46 @@ Anyone is free to join our open [Slack channel](https://slack.shabados.com), whe
 The database contains content from a variety of academic and online sources. As a research-quality source of information, the original attribution and sources of the content is provided below.
 
 ### Sri Guru Granth Sahib Ji
-- [SGPC PDF](http://old.sgpc.net/CDN/Siri%20Guru%20Granth%20Sahib%20without%20Index%20%28Uni%29.pdf)
+- [SGPC PDF](https://web.archive.org/web/20171118031846/http://old.sgpc.net/CDN/Siri%20Guru%20Granth%20Sahib%20without%20Index%20(Uni).pdf)
 
 ### Sri Dasam Granth
-- Das Granthi, SGPC, March 2006
-    - Jaap
-    - Akal Ustat
-    - Bachittar Natak
-    - Chandi Charittar Ukat Bilas
-    - Chandi Charittar
-    - Vaar Sri Bhagauti Ji Ki
-    - Gyan Prabodh
-    - Shabad Hazare
+- ਨਿਤਨੇਮ ਤੇ ਹੋਰ ਬਾਣੀਆ, SGPC, May 2017
+  - Jaap
+  - Akal Ustat
+    - Tav Prasad Svaiyay (ਸ੍ਰਾਵਗ ਸੁਧ)
+    - Tav Prasad Svaiyay (ਦੀਨਨ ਕੀ)
+  - Kabiyobach Benti Choupai
+- ਦਸ ਗ੍ਰੰਥੀ, SGPC, March 2006
+  - Akal Ustat
+  - Bachittar Natak
+  - Chandi Charittar Ukat Bilas
+  - Chandi Charittar
+  - Vaar Sri Bhagauti Ji Ki
+  - Gyan Prabodh
+  - Shabad Hazare
+- [Gobind Sadan PDF](https://web.archive.org/web/20161019133456/http://media.sikher.com:80/files/Dasam_Granth.pdf) (WARNING: This source is not trustworthy and has various mistakes. We are actively looking for an accurate source for the Baanis listed below! Major and obvious mistakes have been corrected.)
+  - Chaubees Avtaar
+  - Brahma Avtar
+  - Rudra Avtar
+  - 33 Svaiyay
+  - Khalsa Mahima
+  - Shastar Naam Mala
+  - Charitropakhyan
+  - Zafarnama
+  - Hikayat
 
 ### Vaaran
-- Vaaran Bhai Gurdaas, Dr. Gursharan Kaur Jaggi, Punjabi University (Patiala), 2nd Edition (1999)
-    - Vaars 1-40
-- Amrit Keertan, Khalsa Brothers Amritsar (now Singh Brothers), 24th Edition (September 1992)
-    - Vaar 41, Pauri 1
-    - Vaar 41, Pauri 2
-    - Vaar 41, Pauri 14
-    - Vaar 41, Pauri 15
-    - Vaar 41, Pauri 16
-    - Vaar 41, Pauri 17
-    - Vaar 41, Pauri 18
-    - Vaar 41, Pauri 19
-- Vaaran Bhai Gurdaas Steek, Bhai Vir Singh, Bhai Vir Singh ਸਾਹਿਤ ਸਦਨ, 22nd Edition (July 2012)
-    - Vaar 41
+- ਵਾਰਾਂ ਭਾਈ ਗੁਰਦਾਸ ਜੀ, SGPC, November 2011
+  - Vaars 1-40
+  - Vaar 41, Pauris 2-28
+- ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ, Khalsa Brothers Amritsar, 40th Edition (July 2011)
+  - Vaar 41, Pauri 1
 
 ### Kabit Swaiye
-- [SGPC PDF](http://old.sgpc.net/CDN/Kabit%20by%20Bhai%20Gurdaas,%20Gurmukhi.pdf)
+- ਕਬਿਤ ਸਵਯੇੇ ਭਾਈ ਗੁਰਦਾਸ ਜੀ ਸਟੀਕ, Bhai Seva Singh, Singh Brothers Amritsar, 5th Edition (July 2006)
 
 ### Bhai Nand Lal Ji
-- Bhai Nand Lal Granthavali, Dr. Ganda Singh, Punjabi University (Patiala), 4th Edition (2009)
+- ਭਾਈ ਨੰਦ ਲਾਲ ਗ੍ਰੰਥਾਵਲੀ, Dr. Ganda Singh, Punjabi University (Patiala), 4th Edition (2009)
     - Guzals
     - Rubaiyia
     - Zindgi Nama
@@ -101,20 +108,21 @@ The database contains content from a variety of academic and online sources. As 
     - Touseefo-Sana
 
 ### Sarabloh Granth
-- Amrit Keertan, Khalsa Brothers Amritsar (now Singh Brothers), 24th Edition (September 1992)
+- ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ, Khalsa Brothers Amritsar, 24th Edition (September 1992)
 
 ### Gurbilas Patshai 10
-- Amrit Keertan, Khalsa Brothers Amritsar (now Singh Brothers), 24th Edition (September 1992)
+- ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ, Khalsa Brothers Amritsar, 24th Edition (September 1992)
 
 ### Sri Gur Sobha
-- Amrit Keertan, Khalsa Brothers Amritsar (now Singh Brothers), 24th Edition (September 1992)
+- ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ, Khalsa Brothers Amritsar, 24th Edition (September 1992)
 
 ## Comparisons
 Fake
 
-| Source           | Public | Changes   | Maintained | Open-Source |
-|------------------|--------|-----------|------------|-------------|
-| SikhiToTheMax II | No     | 6000      | No         | No          |
-| SikhiToTheMax 3  | No     | 600000    | Yes        | No          |
-| iGurbani         | No     | 6000000   | No         | No          |
-| Sikher           | Yes    | 32423     | No         | No          |
+| Source           | Public | Changes | Maintained | Open-Source | SGPC Compatible |
+| ---------------- | :----: | ------- | :--------: | :---------: | :-------------: |
+| Shabad OS        | ✅      | -       | ✅          | ✅           | ✅               |
+| SikhiToTheMax II | ❌      | 6000    | ❌          | ❌           | ❌               |
+| SikhiToTheMax 3+ | ❌      | 600000  | ✅          | ❌           | ❌               |
+| iGurbani         | ❌      | 6000000 | ❌          | ❌           | ❌               |
+| Sikher           | ✅      | 32423   | ❌          | ❓           | ❌               |
