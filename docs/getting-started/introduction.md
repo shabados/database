@@ -1,9 +1,9 @@
 # Shabad OS Database
-[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
-[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
-[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=for-the-badge)](https://www.npmjs.com/package/@shabados/database)
-[![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge)]()
-[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
+[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge   ':no-zoom')](https://circleci.com/gh/ShabadOS/database)
+[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge  ':no-zoom')](https://github.com/ShabadOS/database/releases)
+[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=for-the-badge  ':no-zoom')](https://www.npmjs.com/package/@shabados/database)
+[![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge  ':no-zoom')]()
+[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge  ':no-zoom')]()
 
 ## Motivation & Aims
 > An open-source, collaborative Gurbani database for *all*.
