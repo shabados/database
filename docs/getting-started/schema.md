@@ -10,6 +10,8 @@ The SQL schema can be seen below:
 
 ![Schema](../schema.png)
 
+The schema can also be explored on [SQLDBM](https://app.sqldbm.com/MySQL/Share/pNAqT007VSFLHnCdfAc9NkGFrngIE8md_DYjF4jNYw0).
+
 ## Tables
 
 Below is a brief summary of all the tables available in the database.
@@ -24,6 +26,7 @@ Below is a brief summary of all the tables available in the database.
 | [Sections](#Sections)                       | Grouping of `Shabads` within a single source.                         | `Sources`                                     |
 | [Subsections](#Subsections)                 | Sub-groupings within a single section.                                | `Sections`                                    |
 | [Languages](#Languages)                     | Available translation languages.                                      | None                                          |
+| [Transliterations](#Transliterations)       | Transliterations for Gurbani `Lines` in a given `Language`.           | `Lines`, `Languages`                          |
 | [Translation_Sources](#Translation_Sources) | Translation source authors and languages for a single Gurbani source. | `Languages`, `Sources`                        |
 | [Translations](#Translations)               | Translations for Gurbani `Lines` from a translation source.           | `Lines`, `Translation_Sources`                |
 | [Banis](#Banis)                             | Named of available Banis.                                             | None                                          |
@@ -47,13 +50,13 @@ Currently, the `gurmukhi` stores as an ASCII representation of Gurbani. We are h
 | source_page               | integer | The physical "page" number within the source that the line appears on.                                    | Not Null                                            |
 | source_line               | integer | The physical "line" number within the source that the line appears on.                                    | None                                                |
 | gurmukhi                  | text    | The Gurbani line, stored as an ASCII representation of Gurmukhi.                                          | Not Null                                            |
-| pronunciation             | text    | Guidelines around pronouncing the Gurbani line, `gurmukhi`, correctly.                                    | None                                                |
+| pronunciation             | text    | Guidelines around pronouncing the Gurbani line stored in the `gurmukhi` field, correctly.                 | None                                                |
 | pronunciation_information | text    | Additional footnotes about the `pronunciation` guidelines.                                                | None                                                |
 | transliteration_english   | text    | The transliterated `gurmukhi` into English, allowing English readers to pronounce the `gurmukhi`.         | Not Null                                            |
 | transliteration_hindi     | text    | The transliterated `gurmukhi` into Hindi, allowing Hindi readers to pronounce the `gurmukhi`.             | Not Null                                            |
 | first_letters             | text    | The first letters of each word in the `gurmukhi` line, useful for searching the database by first letter. | Not Null                                            |
 | type_id                   | integer | The unique identifier of the line type.                                                                   | Foreign Key ([Line_Types](#Line_Types))             |
-| order_id                  | integer | The correct order of the line. Order by this field.                                                       | None                                                |
+| order_id                  | integer | The correct order of the line. Order by this field to fetch the lines in the correct order.               | None                                                |
 
 ### Line_Types
 The [Line_Types](#Line_Types) table contains the possible classifications of each [line](#Lines).
@@ -76,15 +79,15 @@ Every Shabad must have a [source](#Sources), [writer](#Writer), and [section](#S
 The content is unordered by default, and must be ordered by `order_id`.
 The `id` is a three-letter, immutable identifier that will refer to the same Sahbad across database versions.
 
-| Column        | Type    | Description                                                                         | Constraints                                            |
-| ------------- | ------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| id            | char(3) | A 3 character unique identifier for the Shabad. Permanent and will never change.    | Primary Key                                            |
-| writer_id     | integer | The unique identifier of the [writer](#Writers) of the Shabad.                      | Foreign Key ([Writers](#Writers).id), <br/> Not Null   |
-| section_id    | integer | The unique identifier of the [section](#Sections) that the Shabad belongs to.       | Foreign Key ([Sections](#Sections).id), <br/> Not Null |
-| subsection_id | integer | The unique identifier of the subsection that the Shabad belongs to.                 | Foreign Key ([Subsections](#Subsections).id)           |
-| sttm2_id      | integer | The unique identifier of the equivalent Shabad within the SikhiToTheMax 2 database. | None                                                   |
-| source_id     | integer | The Gurbani [source](#Sources) that the Shabad belongs to.                          | Foreign Key ([Sources](#Sources).id), <br/> Not Null   |
-| order_id      | integer | The correct order of the Shabad. Order by this field.                               | None                                                   |
+| Column        | Type    | Description                                                                                                 | Constraints                                            |
+| ------------- | ------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| id            | char(3) | A 3 character unique identifier for the Shabad. Permanent and will never change.                            | Primary Key                                            |
+| writer_id     | integer | The unique identifier of the [writer](#Writers) of the Shabad.                                              | Foreign Key ([Writers](#Writers).id), <br/> Not Null   |
+| section_id    | integer | The unique identifier of the [section](#Sections) that the Shabad belongs to.                               | Foreign Key ([Sections](#Sections).id), <br/> Not Null |
+| subsection_id | integer | The unique identifier of the subsection that the Shabad belongs to.                                         | Foreign Key ([Subsections](#Subsections).id)           |
+| sttm_id       | integer | The unique identifier of the equivalent Shabad within the SikhiToTheMax 2 database.                         | None                                                   |
+| source_id     | integer | The Gurbani [source](#Sources) that the Shabad belongs to.                                                  | Foreign Key ([Sources](#Sources).id), <br/> Not Null   |
+| order_id      | integer | The correct order of the Shabad. Order by this field to fetch the shabads in the correct order, if desired. | None                                                   |
 
 ### Writers
 The [Writers](#Writers) table contains a list of all the authors and composers of the contents in the database.
@@ -148,6 +151,19 @@ The [Languages](#Languages) table provides a list of all the translation languag
 | name_gurmukhi      | text    | The name of the language, in Gurmukhi, ASCII representation. | Not Null    |
 | name_international | text    | The name of the language, as written in the language itself. | Not Null    |
 
+### Transliterations
+The [Transliterations](#Transliterations) table contains the corresponding transliteration of a single line in a given [language](#Languages).
+
+Note that the `transliteration` can be nullable.
+
+If used, the `additional_information` is a serialised JSON string that must be deserialised with a `JSON.parse()` or equivalent, to support non-standard fields universally across different translation sources.
+
+| Column                 | Type      | Description                                                                                                   | Constraints                                                                     |
+| ---------------------- | --------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| line_id                | char(4)   | The 4 letter unique identifier of the Gurbani line that the translation corresponds with.                     | Primary Key, <br/> Foreign Key ([Lines](#Lines).id)                             |
+| translation_source_id  | integer   | The unique identifier of the [translation source](#Translation_Sources) that the translation originates from. | Primary Key, <br/> Foreign Key ([Translation_Sources](#Translation_Sources).id) |
+| translation            | text      | The translation of the Gurbani line.                                                                          | None                                                                            |
+| additional_information | text/json | Any additional, non-standard data about the translation. Stored as a serialised JSON object.                  | None                                                                            |
 ### Translation_Sources
 The [Translation_Sources](#Translation_Sources) table contains all the sources of translations that the database contains, used by the [Translations](#Translations).
 
