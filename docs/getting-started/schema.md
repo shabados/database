@@ -156,14 +156,13 @@ The [Transliterations](#Transliterations) table contains the corresponding trans
 
 Note that the `transliteration` can be nullable.
 
-If used, the `additional_information` is a serialised JSON string that must be deserialised with a `JSON.parse()` or equivalent, to support non-standard fields universally across different translation sources.
 
-| Column                 | Type      | Description                                                                                                   | Constraints                                                                     |
-| ---------------------- | --------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| line_id                | char(4)   | The 4 letter unique identifier of the Gurbani line that the translation corresponds with.                     | Primary Key, <br/> Foreign Key ([Lines](#Lines).id)                             |
-| translation_source_id  | integer   | The unique identifier of the [translation source](#Translation_Sources) that the translation originates from. | Primary Key, <br/> Foreign Key ([Translation_Sources](#Translation_Sources).id) |
-| translation            | text      | The translation of the Gurbani line.                                                                          | None                                                                            |
-| additional_information | text/json | Any additional, non-standard data about the translation. Stored as a serialised JSON object.                  | None                                                                            |
+| Column          | Type    | Description                                                                                   | Constraints                                                 |
+| --------------- | ------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| line_id         | char(4) | The 4 letter unique identifier of the Gurbani line that the transliteration corresponds with. | Primary Key, <br/> Foreign Key ([Lines](#Lines).id)         |
+| language_id     | integer | The unique identifier of the [Language](#Languages) that the transliteration is in.           | Primary Key, <br/> Foreign Key ([Languages](#Languages).id) |
+| transliteration | text    | The transliteration of the Gurbani line.                                                      | None                                                        |
+
 ### Translation_Sources
 The [Translation_Sources](#Translation_Sources) table contains all the sources of translations that the database contains, used by the [Translations](#Translations).
 
