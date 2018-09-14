@@ -37,7 +37,7 @@ Not a programmer? You can still contribute. Not a Gurmukhi expert? You can still
 Work **with** us and **contribute** via the [GitHub Repo](https://github.com/shabados/database) to discuss issues, add corrections, and contribute to the roadmap of the ultimate Gurbani consolidation project.
 
 ### Updates
-Frequent updates to the database are published according to semantic versioning via [npm](https://npmjs.com/package/@shabados/database) and [GitHub releases](https://github.com/shabados/database/releases). This means that you can safely update the database without worrying about the schema changing, according to the version. See [semantic versioning] for more information.
+Frequent updates to the database are published according to semantic versioning via [npm](https://npmjs.com/package/@shabados/database) and [GitHub releases](https://github.com/shabados/database/releases). This means that you can safely update the database without worrying about the schema changing, according to the version. See [semantic versioning](https://semver.org/) for more information.
 
 ### APIs
 The `@shabados/database` npm JS package also includes an API that can be used to query the database without SQL. Common operations, such as searching by the first letter of each word in a line have been implemented, and can be used straight away (see [Models](models) and [API examples](examples) for more information).
