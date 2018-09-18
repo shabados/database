@@ -56,7 +56,7 @@ Anyone is free to join our open [Slack channel](https://slack.shabados.com), whe
 The database contains content from a variety of academic and online sources. As a research-quality source of information, the original attribution and sources of the content is provided below.
 
 ### Sri Guru Granth Sahib Ji
-- [SGPC PDF](https://web.archive.org/web/20171118031846/http://old.sgpc.net/CDN/Siri%20Guru%20Granth%20Sahib%20without%20Index%20(Uni).pdf)
+- [SGPC PDF](https://web.archive.org/web/20171118031846/http://old.sgpc.net/CDN/Siri%20Guru%20Granth%20Sahib%20without%20Index%20%28Uni%29.pdf)
 
 ### Sri Dasam Granth
 - ਨਿਤਨੇਮ ਤੇ ਹੋਰ ਬਾਣੀਆ, SGPC, May 2017
