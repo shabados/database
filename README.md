@@ -10,17 +10,18 @@
 
 Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
 
+**Read the full documentation at https://ShabadOS.github.io/database.**
+
 ## Quickstart
 
 Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
 
-An [`objection.js`](http://vincit.github.io/objection.js/) object is returned, allowing for flexible and relational querying.
+An [`Objection.js Model`](http://vincit.github.io/objection.js/) is returned, allowing for flexible and relational querying.
 
 To fetch a Shabad with first letters:
 
 ```javascript
-// const { Lines } = require('@shabados/database') // If using npm module
-const { Lines } = require('./index') // If using this repo
+const { Lines } = require('@shabados/database')
     
 // Fetch the line, with information about the shabad
 Lines
@@ -79,27 +80,22 @@ The schema can be modified in the `migrations/schema.js` file.
 
 ### Structure
 
-JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `seeds` folder.
-Changing a value here will be reflected everwhere else. The `(array index) + 1` represents the id used
-for each relation in other tables.
+JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `data` folder.
 
-Lines are split by `sources/source name/first ang in batch/ang number.json`.
+Shabads are split by `data/[source name]/[page number.json]`, and contain the corresponding lines.
 
-Banis can be added by adding a named JSON file to the `banis` folder. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to the files in `sources`. Note that for now, these lines have to be updated if new lines are added or removed from the source files. 
-
-Shabads are split by `shabads/source name/writer name.json`.
-
+Banis can be added by adding an object to the `data/banis.json` file. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to `line_id`s.
 
 ### Single line changes
-The content for each ang can be found in the corresponding js file. 
+The content for each ang can be found in the corresponding JSON file. 
 Simply change any values as desired.
 
 ### Large/batch changes
 
-To modify large parts of the database, based on some rule:
-- Build a local copy of the database, following the instructions in the Building section
+To modify large parts of the database based on some rule, or rename a value used in many places, such as a writer's name or a language name:
+- Build a local copy of the database by running `npm run build-sqlite`
 - Modify the database file in `builds/database.sqlite` as you see fit
-- Run `docker-compose up build-json` or `npm run build-json` to regenerate the seed files with your changes
+- Run `npm run build-json` to regenerate the seed files with your changes
 
 ## Releases
 
@@ -112,8 +108,3 @@ Compiled databases are available via the release page, or via `npm install @shab
 ## Viewing
 
 You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view the SQLite file.
-
-## Todo
-
-- Redo English translations under an open license
-- Automatically update the Bani files if a line change in sources occurs
