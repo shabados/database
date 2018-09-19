@@ -32,7 +32,6 @@ Some common SQL queries have been provided below:
 SELECT * FROM lines WHERE first_letters LIKE '%hhhh%' ORDER BY order_id
 ```
 
-
 `hhhh` is starting letters of the first 4 words in the line.
 
 #### Given a Shabad ID, retrieve the Lines
@@ -40,7 +39,7 @@ SELECT * FROM lines WHERE first_letters LIKE '%hhhh%' ORDER BY order_id
 SELECT * FROM lines WHERE shabad_id = '9N9' ORDER BY order_id
 ```
 
-#### Given a Source, retrieve all the Translation Sources, with Languages and Author Namess
+#### Given a Source, retrieve all the Translation Sources, with Languages and Author Names
 ```sql
 SELECT * FROM sources
 JOIN translation_sources ON translation_sources.source_id = sources.id
@@ -54,7 +53,17 @@ SELECT * FROM lines
 JOIN shabads ON shabads.id = lines.shabad_id
 JOIN translations ON lines.id = translations.line_id 
 WHERE shabad_id = 'W9Z'
-ORDER BY order_id
+ORDER BY lines.order_id
+```
+
+### Given any Shabad ID (from any Source), retrieve the English Transliterations
+```sql
+SELECT * FROM lines
+JOIN shabads ON shabads.id = lines.shabad_id
+JOIN transliterations ON lines.id = transliterations.line_id 
+JOIN languages ON languages.id = transliterations.language_id
+WHERE shabad_id = 'W9Z' AND languages.name_english = 'English'
+ORDER BY lines.order_id
 ```
 
 #### Given some Lines, retrieve the Dr. Sant Singh Khalsa English Translations
@@ -67,7 +76,7 @@ AND translation_sources.name_english = 'Dr. Sant Singh Khalsa'
 ORDER BY order_id
 ```
 
-**Note:** it is preferable to select a translation source by its `id`, than a text value, unlike the example above.
+**Note:** it is preferable to select a translation source by its `id`, than a text value, unlike the example above, since text values can change.
 
 #### Fetch all the Lines for a given Bani
 ```sql
@@ -89,6 +98,37 @@ WHERE writer_id = 3
 
 Fetch a list of writers and their `id`s with `SELECT * FROM writers`.
 
+#### Fetch all Sections and Subsections for all Sources
+
+```sql
+SELECT * FROM sources
+JOIN sections ON sections.source_id = sources.id
+JOIN subsections ON subsections.section_id = sections.id
+```
+
 ## Offline Applications - JavaScript
+
+The offline JavaScript API is perfect for [Node](https://nodejs.org) applications. Once installed using `npm install @shabados/database`, the module can be used to query the database using the fluid interface that [Objection.js](http://vincit.github.io/objection.js/) and [Knex](https://knexjs.org/) provide.
+
+The module exposes an [Objection.js Model](http://vincit.github.io/objection.js/#models) for each table in the database, and can automatically fetch any relations. 
+
+A quick example of querying an [Objection.js Model](http://vincit.github.io/objection.js/#models) can be seen below. Each query must begin with a `.query()` method call, which will return a [Knex Query Builder object](https://knexjs.org/#Builder) that can be used to build up the query by chaining method calls.
+
+This kicks off a jQuery-like chain, with which you can call additional query builder methods as needed to construct the query, eventually calling any of the interface methods, to either convert toString, or execute the query, returning the results as a  promise, callback, or stream.
+
+Let's start by fetching all the Gurbani sources that the database has:
+
+```js
+// Import the Sources Model from the module
+const { Sources } = require('@shabados/database')
+
+Sources
+  .query()                                // Returns a Knex Query Builder
+  .then(results => console.log(results))  // Results are returned as a promise
+```
+
+ES7 async/await can also be used with the results: `await Sources.query()`.
+
+The [API](api) section describes the usage in more detail, with common examples.
 
 ## Online Applications - GurbaniNow API
