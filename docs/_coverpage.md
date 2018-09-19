@@ -11,5 +11,5 @@
 
 
 <a href="">GurbaniNow API</a>
-[Contribute](sa)
+[Contribute](contributing/introduction)
 [Get Started](getting-started/introduction)
