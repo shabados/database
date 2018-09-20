@@ -132,3 +132,11 @@ ES7 async/await can also be used with the results: `await Sources.query()`.
 The [API](api) section describes the usage in more detail, with common examples.
 
 ## Online Applications - GurbaniNow API
+
+The [GurbaniNow API](https://github.com/gurbaninow/api) is a fast and powerful JSON API for querying Gurbani content. GurbaniNow and Shabad OS have teamed up to provide the Shabad OS database through GurbaniNow's popular API. 
+
+The [GurbaniNow API](https://github.com/gurbaninow/api) is perfect for online applications and websites that wish to integrate Gurbani, without needing writing their own queries and code around the Shabad OS database.
+
+Visit [their repository](https://github.com/gurbaninow/api) for more information.
+
+!> **Currently, the API does not use the Shabad OS database.** The GurbaniNow and Shabad OS teams are currently working together to seamlessly switch over the data sources that power the GurbaniNow API to the Shabad OS database.
