@@ -2,11 +2,10 @@
   * [Introduction](getting-started/introduction.md)
   * [Installation](getting-started/installation.md)
   * [Schema](getting-started/schema.md)
-  * [Usage](getting-started/usage.md)
 
-* API
-  * [Models](API/models.md)
-  * [Examples](API/examples.md)
+* Usage
+  * [Overview](usage/overview.md)
+  * [NPM Module](usage/module.md)
 
 * Contributing
   * [Setup](contributing/setup.md)
@@ -16,8 +15,8 @@
 
 * [Licensing](licensing.md)
 
-* FAQ
+* [FAQ](faq.md)
 
-* Showcase
+* [Showcase](showcase.md)
 
-* Partners
+* [Partners](partners.md)
