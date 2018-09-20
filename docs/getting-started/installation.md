@@ -16,7 +16,7 @@ Examples of useful and common queries can be found in the [usage](usage) section
 ## npm
 The database is packaged as an [npm module](https://www.npmjs.com/package/@shabados/database). To install it, run `npm install @shabados/database`. Importing the package will give you access to the location of the database
 
-This package uses the same [semantic versioning](https://semver.org/) format as the SQLite database, so running `npm update` will allow you to retrieve compatible database corrections without breaking your application. Additionally, there is a [Javascript API](API) that can be imported from the package, allowing you to leverage the database using wrapper functions, without the need to write SQL.
+This package uses the same [semantic versioning](https://semver.org/) format as the SQLite database, so running `npm update` will allow you to retrieve compatible database corrections without breaking your application. Additionally, there is a [Javascript API](usage/overview) that can be imported from the package, allowing you to leverage the database using wrapper functions, without the need to write SQL.
 
 It also exposes the path of the SQLite database, which can be used directly, if desired.
 

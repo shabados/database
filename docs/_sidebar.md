@@ -5,6 +5,7 @@
 
 * Usage
   * [Overview](usage/overview.md)
+  * [SQLite Querying](usage/queries)
   * [NPM Module](usage/module.md)
 
 * Contributing

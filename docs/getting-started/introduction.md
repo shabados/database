@@ -40,7 +40,7 @@ Work **with** us and **contribute** via the [GitHub Repo](https://github.com/sha
 Frequent updates to the database are published according to semantic versioning via [npm](https://npmjs.com/package/@shabados/database) and [GitHub releases](https://github.com/shabados/database/releases). This means that you can safely update the database without worrying about the schema changing, according to the version. See [semantic versioning](https://semver.org/) for more information.
 
 ### APIs
-The `@shabados/database` npm JS package also includes an API that can be used to query the database without SQL. Common operations, such as searching by the first letter of each word in a line have been implemented, and can be used straight away (see [Models](models) and [API examples](examples) for more information).
+The `@shabados/database` npm JS package also includes an API that can be used to query the database without SQL. Common operations, such as searching by the first letter of each word in a line have been implemented, and can be used straight away (see [usage overview](usage/overview) for more information).
 
 A hosted API is provided by [GurbaniNow](https://github.com/gurbaninow/api), who also run the [GurbaniNow Search](https://GurbaniNow.com).
 
