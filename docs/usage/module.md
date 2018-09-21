@@ -1,2 +1,2 @@
-# Models
+# NPM Module
 

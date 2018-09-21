@@ -50,7 +50,7 @@ Sources
 
 ES7 async/await can also be used with the results: `await Sources.query()`.
 
-The [API](api/models) section describes the usage in more detail, with common examples.
+The [module](usage/module) section describes the usage in more detail, with common examples.
 
 ## Online Applications - GurbaniNow API
 
