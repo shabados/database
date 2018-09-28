@@ -5,7 +5,7 @@ jobs:
       - image: circleci/node:8.9.2
     steps:
       - checkout
-      - run: npm install
+      - run: npm ci
       - run:
           name: Build database
           command: npm run build-sqlite
