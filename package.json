@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
-    "prepare": "npm run build-sqlite",
     "benchmark": "node lib/benchmark.js",
     "build-sqlite": "node lib/build-sqlite.js",
     "build-json": "node lib/build-json.js",
