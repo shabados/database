@@ -114,7 +114,10 @@ Compiled databases are available via the release page, or via `npm install @shab
 
 You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view the SQLite file.
 
-## Todo
+## Licensing
 
-- Redo English translations under an open license
-- Automatically update the Bani files if a line change in sources occurs
+All **Gurbani** content under the `data` folder and generated content under the `build` folder is licensed under a [Creative Commons Public Domain Mark 1.0 License](https://creativecommons.org/publicdomain/mark/1.0/). This includes data spanning the `gurmukhi` JSON and SQLite database fields. **This license removes copyright from Gurbani data, since no individual should have ownership of it.** ![PDM](https://i.creativecommons.org/p/mark/1.0/80x15.png)
+
+All **non-Gurbani** content under the `data` folder and generated content under the `build` folder, including but not limited to: translations, transliterations, notes, compilations, any other non-Gurbani items are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). ![CC By-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+
+All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
