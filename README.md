@@ -116,8 +116,10 @@ You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view th
 
 ## Licensing
 
-All **Gurbani** content under the `data` folder and generated content under the `build` folder is licensed under a [Creative Commons Public Domain Mark 1.0 License](https://creativecommons.org/publicdomain/mark/1.0/). This includes data spanning the `gurmukhi` JSON and SQLite database fields. **This license removes copyright from Gurbani data, since no individual should have ownership of it.** ![PDM](https://i.creativecommons.org/p/mark/1.0/80x15.png)
+**Gurbani** under the `data` folder and generated under the `build` folder, including the `gurmukhi` JSON and SQlite fields, is licensed under a [Creative Commons Public Domain Mark 1.0 License](https://creativecommons.org/publicdomain/mark/1.0/). This license identifies Gurbani as being free of known restrictions under copyright law. If any such restrictions were to become known in the future, we could update the license. Gurbani was not written during a time when copyright laws existed; therefore, being considered a historical, written fact which is unchanging. ![PDM](https://i.creativecommons.org/p/mark/1.0/80x15.png)
 
-All **non-Gurbani** content under the `data` folder and generated content under the `build` folder, including but not limited to: translations, transliterations, notes, compilations, any other non-Gurbani items are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). ![CC By-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+**Supporting text** under the `data` folder and generated under the `build` folder, are subject to their respective source copyrights, some by other authors. Translations, transliterations, notes, compilations, or other items which are not Gurbani and which are created or uniquely organized by the Shabad OS team are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). ![CC By-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
 
-All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
+**Code** and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
+
+A text copy of the CC BY-SA 4.0 International, is included in the LICENSE.md file for offline viewing.
