@@ -1,5 +1,4 @@
 # @shabados/database
-An open gurbani database containing an evolving set of corrections. Used in Shabad OS software.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
 [![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
@@ -7,21 +6,22 @@ An open gurbani database containing an evolving set of corrections. Used in Shab
 [![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge)]()
 [![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
 
-An open Gurbani database containing an evolving set of corrections. Used in Shabad OS software.
+> An open-source Gurbani database containing an evolving set of corrections.
 
 Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
+
+**Read the full documentation at https://ShabadOS.github.io/database.**
 
 ## Quickstart
 
 Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
 
-An [`objection.js`](http://vincit.github.io/objection.js/) object is returned, allowing for flexible and relational querying.
+An [`Objection.js Model`](http://vincit.github.io/objection.js/) is returned, allowing for flexible and relational querying.
 
 To fetch a Shabad with first letters:
 
 ```javascript
-// const { Lines } = require('@shabados/database') // If using npm module
-const { Lines } = require('./index') // If using this repo
+const { Lines } = require('@shabados/database')
     
 // Fetch the line, with information about the shabad
 Lines
@@ -64,7 +64,7 @@ You can use docker, or node.
 
 Install [docker](http://docker.com). You won't need to install anything else.
 
-Run `docker-compose up build` to generate the SQLite3 DB in the `build` folder.
+Run `docker-compose up build-sqlite` to generate the SQLite3 DB in the `build` folder.
 
 ### Node
 
@@ -72,7 +72,7 @@ Install [node](https://nodejs.org/).
 
 Run `npm install` inside the project directory to install dependencies.
 
-Run `npm run build` to build the database.
+Run `npm run build-sqlite` to build the SQLite database.
 
 ## Contributing
 
@@ -80,34 +80,28 @@ The schema can be modified in the `migrations/schema.js` file.
 
 ### Structure
 
-JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `seeds` folder.
-Changing a value here will be reflected everwhere else. The `(array index) + 1` represents the id used
-for each relation in other tables.
+JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `data` folder.
 
-Lines are split by `sources/source name/first ang in batch/ang number.json`.
+Shabads are split by `data/[source name]/[page number.json]`, and contain the corresponding lines.
 
-Banis can be added by adding a named JSON file to the `banis` folder. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to the files in `sources`. Note that for now, these lines have to be updated if new lines are added or removed from the source files. 
-
-Shabads are split by `shabads/source name/writer name.json`.
-
+Banis can be added by adding an object to the `data/banis.json` file. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to `line_id`s.
 
 ### Single line changes
-The content for each ang can be found in the corresponding js file. 
+The content for each ang can be found in the corresponding JSON file. 
 Simply change any values as desired.
 
 ### Large/batch changes
 
-To modify large parts of the database, based on some rule:
-- Build a local copy of the database, following the instructions in the Building section
+To modify large parts of the database based on some rule, or rename a value used in many places, such as a writer's name or a language name:
+- Build a local copy of the database by running `npm run build-sqlite`
 - Modify the database file in `builds/database.sqlite` as you see fit
-- Run `docker-compose up generate` or `npm run generate` to regenerate the seed files with your changes
+- Run `npm run build-json` to regenerate the seed files with your changes
 
 ## Releases
 
 The builds for any of branches can be found on [CircleCI](https://circleci.com/gh/ShabadOS).
 
-If `MAJOR`, `MINOR` are found in any of the commit messages, the version will be adjusted as per
-semantic versioning (`PATCH` is assumed if none of the above are found). `NO-RELEASE` will not create a release.
+If `Major bump`, `Minor bump`, `Patch bump` are found in the last commit message, the a version will be compiled and released as per semantic versioning.
 
 Compiled databases are available via the release page, or via `npm install @shabados/database`.
       
@@ -115,7 +109,10 @@ Compiled databases are available via the release page, or via `npm install @shab
 
 You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view the SQLite file.
 
-## Todo
+## Licensing
 
-- Redo English translations under an open license
-- Automatically update the Bani files if a line change in sources occurs
+All **Gurbani** content under the `data` folder and generated content under the `build` folder is licensed under a [Creative Commons Public Domain Mark 1.0 License](https://creativecommons.org/publicdomain/mark/1.0/). This includes data spanning the `gurmukhi` JSON and SQLite database fields. **This license removes copyright from Gurbani data, since no individual should have ownership of it.** ![PDM](https://i.creativecommons.org/p/mark/1.0/80x15.png)
+
+All **non-Gurbani** content under the `data` folder and generated content under the `build` folder, including but not limited to: translations, transliterations, notes, compilations, any other non-Gurbani items are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). ![CC By-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+
+All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
