@@ -1,30 +1,9 @@
 {
   "extends": "airbnb",
   "rules": {
-    "func-names": [
-      "error",
-      "never"
-    ],
-    "space-in-parens": [
-      "error",
-      "always"
-    ],
     "array-bracket-spacing": [
       "error",
       "always"
-    ],
-    "semi": [
-      "error",
-      "never"
-    ],
-    "import/extensions": 0,
-    "import/no-unresolved": 0,
-    "import/prefer-default-export": 0,
-    "object-curly-newline": [
-      "error",
-      {
-        "consistent": true
-      }
     ],
     "arrow-parens": [
       "error",
@@ -33,23 +12,45 @@
         "requireForBlockBody": false
       }
     ],
-    "no-unused-vars": [
+    "computed-property-spacing": [
       "error",
+      "always"
+    ],
+    "func-names": [
+      "warn",
+      "never"
+    ],
+    "import/extensions": "off",
+    "import/no-unresolved": "off",
+    "import/prefer-default-export": "off",
+    "linebreak-style": "off",
+    "no-await-in-loop": "off",
+    "no-loop-func": "off",
+    "no-restricted-syntax": "off",
+    "no-shadow": "off",
+    "no-unused-vars": [
+      "warn",
       {
         "argsIgnorePattern": "(res|next)"
       }
     ],
-    "react/jsx-filename-extension": 0,
-    "linebreak-style": 0,
-    "no-shadow": 0,
-    "no-await-in-loop": 0,
-    "no-loop-func": 0,
-    "no-restricted-syntax": 0,
+    "object-curly-newline": [
+      "error",
+      {
+        "consistent": true
+      }
+    ],
+    "react/jsx-filename-extension": "off",
+    "require-jsdoc": "warn",
+    "semi": [
+      "error",
+      "never"
+    ],
     "semi-style": [
       "error",
       "first"
     ],
-    "computed-property-spacing": [
+    "space-in-parens": [
       "error",
       "always"
     ]
