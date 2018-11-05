@@ -29,12 +29,6 @@ jobs:
               git config --global user.email "team@shabados.com"
               git config --global user.name "ShabadOS Bot"
 
-              # Remove .gitignore to allow the built DB to be pushed
-              rm .gitignore
-
-              # Remove data to reduce npm package size
-              rm -rf data
-
               # Run Release script
               chmod +x release.sh
               echo "Releasing on Github"
