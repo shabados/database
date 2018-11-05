@@ -1,39 +1,27 @@
-<div align="center">
-  <img src="./repologo.png">
-</div>
-<br/>
-<div align="center">
+# @shabados/database
 
-The most accurate, open, digital representation of Sikh Bani and other Panthic texts, their translations, transliterations, discourse, pronunciation, and more with an evolving, reproducible, and publicly logged set of corrections.
+[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge)](https://circleci.com/gh/ShabadOS/database)
+[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge)](https://github.com/ShabadOS/database/releases)
+[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=for-the-badge)](https://www.npmjs.com/package/@shabados/database)
+[![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge)]()
 
-[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=flat)](https://circleci.com/gh/ShabadOS/database)
-[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=flat)](https://github.com/ShabadOS/database/releases)
-[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=flat)](https://www.npmjs.com/package/@shabados/database)
-[![David](https://img.shields.io/david/ShabadOS/database.svg?style=flat)]()
-[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=flat)]()
-<br/>
-[![Email](https://img.shields.io/badge/Email-team%40shabados.com-blue.svg)](mailto:team@shabados.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B1--516--619--6059-brightgreen.svg)](https://wa.me/15166196059) [![Slack](https://img.shields.io/badge/Slack-join%20the%20conversation-B649AB.svg)](https://slack.shabados.com)
-</div>
+> An open-source Gurbani database containing an evolving set of corrections.
 
-# Table of Contents
+Want to speak to us? [![Join us on Slack](https://slack.shabados.com/badge.svg)](https://slack.shabados.com)
 
-- [Getting Started](#getting-started)
-- [Schema & File Structure](#schema--file-structure)
-- [Build](#build)
-  - [Database](#database)
-  - [JSON](#json)
-- [Releases](#releases)
-- [Benchmarks](#benchmarks)
-- [Viewers](#viewers)
-- [Licenses](#licenses)
+**Read the full documentation at https://ShabadOS.github.io/database.**
 
-# Getting Started
+## Quickstart
 
-Install the database with `npm install @shabados/database`. An [`objection.js`](http://vincit.github.io/objection.js/) object is returned, allowing for flexible and relational querying. To fetch a Shabad with first letters:
+Want to use this in your own project? Get it from npm with `npm install @shabados/database`.
+
+An [`Objection.js Model`](http://vincit.github.io/objection.js/) is returned, allowing for flexible and relational querying.
+
+To fetch a Shabad with first letters:
 
 ```javascript
-// const { Lines } = require('./index') // If using this repo
-const { Lines } = require('@shabados/database') // If using npm module
+const { Lines } = require('@shabados/database')
     
 // Fetch the line, with information about the shabad
 Lines
@@ -78,21 +66,22 @@ You can build an SQLite3 database with the following methods:
 
 ## JSON
 
-> Instead of making bulk changes to JSON files as a pull request, we highly urge you to submit an issue of the change instead for visibility and security.
+JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `data` folder.
 
-It would be best practice to build the database, make changes to `database.sqlite`, and regenerate JSON files with the following methods:
+Shabads are split by `data/[source name]/[page number.json]`, and contain the corresponding lines.
 
-**Node.js** - `npm run build-json`
+Banis can be added by adding an object to the `data/banis.json` file. To define the lines a bani contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to `line_id`s.
 
-**Docker** - `docker-compose up build-json`
-
-# Releases
-
-The builds for any of branches can be found on [CircleCI](https://circleci.com/gh/ShabadOS).
+### Single line changes
+The content for each ang can be found in the corresponding JSON file. 
+Simply change any values as desired.
 
 If `Major bump`, `Minor bump`, `Patch bump` are found in the last commit message, database assets will be compiled and released per semantic versioning.
 
-Compiled databases are available via the release page, or via `npm install @shabados/database`.
+To modify large parts of the database based on some rule, or rename a value used in many places, such as a writer's name or a language name:
+- Build a local copy of the database by running `npm run build-sqlite`
+- Modify the database file in `builds/database.sqlite` as you see fit
+- Run `npm run build-json` to regenerate the seed files with your changes
 
 # Benchmarks
 
@@ -117,4 +106,4 @@ Supporting text under the `data` folder and generated under the `build` folder, 
 
 Code and content resting outside of the `data` and `build` folders is licensed under the <img src="https://www.gnu.org/graphics/gplv3-88x31.png" height="15"> [GNU General Public License V3](https://www.gnu.org/licenses/gpl.html).
 
-A text copy of the CC BY-SA 4.0 International, is included in the [LICENSE.md](LICENSE.md) file for offline viewing.
+All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
