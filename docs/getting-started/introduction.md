@@ -1,9 +1,20 @@
-# Shabad OS Database
-[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=for-the-badge   ':no-zoom')](https://circleci.com/gh/ShabadOS/database)
-[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=for-the-badge  ':no-zoom')](https://github.com/ShabadOS/database/releases)
-[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=for-the-badge  ':no-zoom')](https://www.npmjs.com/package/@shabados/database)
-[![David](https://img.shields.io/david/ShabadOS/database.svg?style=for-the-badge  ':no-zoom')]()
-[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=for-the-badge  ':no-zoom')]()
+<div align="center">
+  <img src="./repologo.png">
+</div>
+<br/>
+<div align="center">
+
+The most accurate, open, digital representation of Sikh Bani and other Panthic texts, their translations, transliterations, discourse, pronunciation, and more with an evolving, reproducible, and publicly logged set of corrections.
+
+[![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=flat)](https://circleci.com/gh/ShabadOS/database)
+[![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=flat)](https://github.com/ShabadOS/database/releases)
+[![npm (scoped)](https://img.shields.io/npm/v/@shabados/database.svg?style=flat)](https://www.npmjs.com/package/@shabados/database)
+[![David](https://img.shields.io/david/ShabadOS/database.svg?style=flat)]()
+[![license](https://img.shields.io/github/license/ShabadOS/database.svg?style=flat)]()
+<br/>
+[![Email](https://img.shields.io/badge/Email-team%40shabados.com-blue.svg)](mailto:team@shabados.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B1--516--619--6059-brightgreen.svg)](https://wa.me/15166196059) [![Slack](https://img.shields.io/badge/Slack-join%20the%20conversation-B649AB.svg)](https://slack.shabados.com)
+<br/>
+</div>
 
 ## Motivation & Aims
 > An open-source, collaborative Gurbani database for *all*.
