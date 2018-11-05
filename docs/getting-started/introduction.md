@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./repologo.png">
+  <img src="../repologo.png">
 </div>
 <br/>
 <div align="center">
