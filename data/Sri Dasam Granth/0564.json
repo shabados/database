@@ -1,18 +1,16 @@
 [
   {
     "id": "94E",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
+    "section": "Chaubees Avtaar",
     "subsection": null,
-    "section": "24 Avtaar",
-    "sttm2_id": null,
     "lines": [
       {
         "id": "1R9Z",
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "kuMfrIAw CMd ]",
-        "transliteration_english": "kunddareeaa chhandh ||",
-        "transliteration_hindi": "कुंडरीआ छंद ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -36,8 +34,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "ney ney mwrg cly; jg mo bFw ADrm ]",
-        "transliteration_english": "ne ne maarag chale jag mo baddaa adharam ||",
-        "transliteration_hindi": "नए नए मारग चले जग मो बढा अधरम ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -50,7 +46,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਗਤ ਵਿਚ ਨਵੇਾਂ ਨਵੇਾਂ ਮਾਰਗ (ਪੰਥ) ਚਲ ਪਏ ਹਨ ਅਤੇ ਅਧਰਮ ਵਧ ਗਿਆ ਹੈ।",
+              "translation": "ਜਗਤ ਵਿਚ ਨਵੇਂ ਨਵੇਂ ਮਾਰਗ (ਪੰਥ) ਚਲ ਪਏ ਹਨ ਅਤੇ ਅਧਰਮ ਵਧ ਗਿਆ ਹੈ।",
               "additional_information": {}
             }
           }
@@ -61,8 +57,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "rwjw pRjw sBY lgy; jh jh krn kukrm ]",
-        "transliteration_english": "raajaa prajaa sabhai lage jeh jeh karan kukaram ||",
-        "transliteration_hindi": "राजा प्रजा सभै लगे जह जह करन कुकरम ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -86,8 +80,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "jh qh krn kukrm; pRjw rwjw nr nwrI ]",
-        "transliteration_english": "jeh teh karan kukaram prajaa raajaa nar naaree ||",
-        "transliteration_hindi": "जह तह करन कुकरम प्रजा राजा नर नारी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -111,8 +103,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "Drm pMK kr aufw; pwp kI ik®Aw ibQwrI ]135]",
-        "transliteration_english": "dharam pankh kar auddaa paap kee kiraa bithaaree ||135||",
-        "transliteration_hindi": "धरम पंख कर उडा पाप की क्रिआ बिथारी ॥१३५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -136,8 +126,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "Drm lop jg qy Bey; pwp pRgt bpu kIn ]",
-        "transliteration_english": "dharam lop jag te bhe paap pragaT bap keen ||",
-        "transliteration_hindi": "धरम लोप जग ते भए पाप प्रगट बपु कीन ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -161,8 +149,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "aUc nIc rwjw pRjw; ik®Aw ADrm kI lIn ]",
-        "transliteration_english": "uooch neech raajaa prajaa kiraa adharam kee leen ||",
-        "transliteration_hindi": "ऊच नीच राजा प्रजा क्रिआ अधरम की लीन ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -175,7 +161,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਉੱਚੇ ਨੀਵੇਾਂ, ਰਾਜਾ ਅਤੇ ਪ੍ਰਜਾ (ਸਭ) ਅਧਰਮ ਦੀ ਕ੍ਰਿਆ ਵਿਚ ਲੀਨ ਹੋ ਗਏ ਹਨ।",
+              "translation": "ਉੱਚੇ ਨੀਵੇਂ, ਰਾਜਾ ਅਤੇ ਪ੍ਰਜਾ (ਸਭ) ਅਧਰਮ ਦੀ ਕ੍ਰਿਆ ਵਿਚ ਲੀਨ ਹੋ ਗਏ ਹਨ।",
               "additional_information": {}
             }
           }
@@ -186,8 +172,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "ik®Aw pwp kI lIn; nwir nr rMk Aru rwjw ]",
-        "transliteration_english": "kiraa paap kee leen naar nar rank ar raajaa ||",
-        "transliteration_hindi": "क्रिआ पाप की लीन नारि नर रंक अरु राजा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -211,8 +195,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "pwp pRcur bpu kIn; Drm Dir pMKn Bwjw ]136]",
-        "transliteration_english": "paap prachur bap keen dharam dhar pankhan bhaajaa ||136||",
-        "transliteration_hindi": "पाप प्रचुर बपु कीन धरम धरि पंखन भाजा ॥१३६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -236,8 +218,6 @@
         "source_page": 564,
         "source_line": null,
         "gurmukhi": "pwpwk®wq Drw BeI; pl n skiq Thrwie ]",
-        "transliteration_english": "paapaakaraat dharaa bhe'ee pal na sakat ttaharaae ||",
-        "transliteration_hindi": "पापाक्रात धरा भई पल न सकति ठहराइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -261,8 +241,6 @@
         "source_page": 565,
         "source_line": null,
         "gurmukhi": "kwl purK ko iDAwn Dir; rovq BeI bnwie ]",
-        "transliteration_english": "kaal purakh ko dhiaan dhar rovat bhe'ee banaae ||",
-        "transliteration_hindi": "काल पुरख को धिआन धरि रोवत भई बनाइ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -286,8 +264,6 @@
         "source_page": 565,
         "source_line": null,
         "gurmukhi": "rovq BeI bnwie; pwp Bwrn Bir DrxI ]",
-        "transliteration_english": "rovat bhe'ee banaae paap bhaaran bhar dharaNee ||",
-        "transliteration_hindi": "रोवत भई बनाइ पाप भारन भरि धरणी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -311,8 +287,6 @@
         "source_page": 565,
         "source_line": null,
         "gurmukhi": "mhw purK ky qIr; bhuqu ibiD jwq n brxI ]137]",
-        "transliteration_english": "mahaa purakh ke teer bahut bidh jaat na baraNee ||137||",
-        "transliteration_hindi": "महा पुरख के तीर बहुतु बिधि जात न बरणी ॥१३७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,

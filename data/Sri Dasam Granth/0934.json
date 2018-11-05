@@ -1,18 +1,16 @@
 [
   {
     "id": "D2T",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
-    "subsection": null,
     "section": "Charitropakhyan",
-    "sttm2_id": null,
+    "subsection": null,
     "lines": [
       {
         "id": "CQ1B",
         "source_page": 934,
         "source_line": null,
         "gurmukhi": "sorTw ]",
-        "transliteration_english": "sorattaa ||",
-        "transliteration_hindi": "सोरठा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -36,8 +34,6 @@
         "source_page": 934,
         "source_line": null,
         "gurmukhi": "ijin rIswlU Dwie; ieh Tw phuMcY Awie kY ]",
-        "transliteration_english": "jin reesaaloo dhaae eih ttaa pahunchai aae kai ||",
-        "transliteration_hindi": "जिनि रीसालू धाइ इह ठा पहुंचै आइ कै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -61,8 +57,6 @@
         "source_page": 934,
         "source_line": null,
         "gurmukhi": "muih quih isMDu bhwie; jmpur dyie pTwie liK ]50]",
-        "transliteration_english": "muh tuh sindh bahaae jamapur dhee pattaae lakh ||50||",
-        "transliteration_hindi": "मुहि तुहि सिंधु बहाइ जमपुर देइ पठाइ लखि ॥५०॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,

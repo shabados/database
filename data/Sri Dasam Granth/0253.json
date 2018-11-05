@@ -1,18 +1,16 @@
 [
   {
     "id": "MSS",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
+    "section": "Chaubees Avtaar",
     "subsection": null,
-    "section": "24 Avtaar",
-    "sttm2_id": null,
     "lines": [
       {
         "id": "GFLW",
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "pwDrI CMd ]",
-        "transliteration_english": "paadharee chhandh ||",
-        "transliteration_hindi": "पाधरी छंद ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -36,8 +34,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "qh BXo Gor Awhv Apwr ]",
-        "transliteration_english": "teh bhayo ghor aahav apaar ||",
-        "transliteration_hindi": "तह भयो घोर आहव अपार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -61,8 +57,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "rx BUMim JUim juJy juJwr ]",
-        "transliteration_english": "raN bhoonm jhoom jujhe jujhaar ||",
-        "transliteration_hindi": "रण भूंमि झूमि जुझे जुझार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -86,8 +80,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "ieq rwm BRwq Aqkwie auq ]",
-        "transliteration_english": "eit raam bhraat atakaae aut ||",
-        "transliteration_hindi": "इत राम भ्रात अतकाइ उत ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -111,8 +103,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "irs juJ auJry rwj puq ]510]",
-        "transliteration_english": "ris jujh aujhare raaj put ||510||",
-        "transliteration_hindi": "रिस जुझ उझरे राज पुत ॥५१०॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -125,7 +115,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਰਾਜਕੁਮਾਰ ਕ੍ਰੋਧ ਨਾਲ ਜੁਟੇ ਪਏ ਹਨ ॥੫੧੦॥",
+              "translation": "ਦੋਵੇਂ ਰਾਜਕੁਮਾਰ ਕ੍ਰੋਧ ਨਾਲ ਜੁਟੇ ਪਏ ਹਨ ॥੫੧੦॥",
               "additional_information": {}
             }
           }
@@ -136,8 +126,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "qb rwm BRwq Aiq kIn ros ]",
-        "transliteration_english": "tab raam bhraat at keen ros ||",
-        "transliteration_hindi": "तब राम भ्रात अति कीन रोस ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -161,8 +149,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "ijm prq Agn iGRq krq jos ]",
-        "transliteration_english": "jim parat agan ghrit karat jos ||",
-        "transliteration_hindi": "जिम परत अगन घ्रित करत जोस ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -175,7 +161,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਘਿਉ ਦੇ ਪੈਂਦਿਆਂ ਹੀ ਅੱਗ ਜੋਸ਼ ਨਾਲ ਭੜਕ ਪੈਂਦੀ ਹੈ।",
+              "translation": "ਜਿਵੇਂ ਘਿਉ ਦੇ ਪੈਂਦਿਆਂ ਹੀ ਅੱਗ ਜੋਸ਼ ਨਾਲ ਭੜਕ ਪੈਂਦੀ ਹੈ।",
               "additional_information": {}
             }
           }
@@ -186,8 +172,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "gih bwx pwx qjy Anµq ]",
-        "transliteration_english": "geh baaN paaN taje ananat ||",
-        "transliteration_hindi": "गहि बाण पाण तजे अनंत ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -211,8 +195,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "ijm jyT sUr ikrxY durMq ]511]",
-        "transliteration_english": "jim jett soor kiraNai dhurant ||511||",
-        "transliteration_hindi": "जिम जेठ सूर किरणै दुरंत ॥५११॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -225,7 +207,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਜੇਠ ਦੇ ਮਹੀਨੇ ਵਿੱਚ ਸੂਰਜ ਦੀਆਂ ਕਿਰਨਾ ਪ੍ਰਚੰਡ ਹੁੰਦੀਆਂ ਹਨ ॥੫੧੧॥",
+              "translation": "ਜਿਵੇਂ ਜੇਠ ਦੇ ਮਹੀਨੇ ਵਿੱਚ ਸੂਰਜ ਦੀਆਂ ਕਿਰਨਾ ਪ੍ਰਚੰਡ ਹੁੰਦੀਆਂ ਹਨ ॥੫੧੧॥",
               "additional_information": {}
             }
           }
@@ -236,8 +218,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "bRx Awp mD bwhq Anyk ]",
-        "transliteration_english": "braN aap madh baahat anek ||",
-        "transliteration_hindi": "ब्रण आप मध बाहत अनेक ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -261,8 +241,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "brxY n jwih kih eyk eyk ]",
-        "transliteration_english": "baraNai na jaeh keh ek ek ||",
-        "transliteration_hindi": "बरणै न जाहि कहि एक एक ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -286,8 +264,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "auJry vIr juJx juJwr ]",
-        "transliteration_english": "aujhare veer jujhaN jujhaar ||",
-        "transliteration_hindi": "उझरे वीर जुझण जुझार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -311,8 +287,6 @@
         "source_page": 253,
         "source_line": null,
         "gurmukhi": "jY sbd dyv BwKq pukwr ]512]",
-        "transliteration_english": "jai sabadh dhev bhaakhat pukaar ||512||",
-        "transliteration_hindi": "जै सबद देव भाखत पुकार ॥५१२॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -336,8 +310,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "irpu krXo ssqR AsqRM ibhIn ]",
-        "transliteration_english": "rip karayo sasatr asatran biheen ||",
-        "transliteration_hindi": "रिपु करयो ससत्र असत्रं बिहीन ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -361,8 +333,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "bhu ssqR swsqR ibidAw pRbIn ]",
-        "transliteration_english": "bahu sasatr saasatr bidhiaa prabeen ||",
-        "transliteration_hindi": "बहु ससत्र सासत्र बिदिआ प्रबीन ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -386,8 +356,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "hX mukt sUq ibnu BXo gvwr ]",
-        "transliteration_english": "hay mukaT soot bin bhayo gavaar ||",
-        "transliteration_hindi": "हय मुकट सूत बिनु भयो गवार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -411,8 +379,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "kCu cpy cor ijm bl sMBwr ]513]",
-        "transliteration_english": "kachh chape chor jim bal sanbhaar ||513||",
-        "transliteration_hindi": "कछु चपे चोर जिम बल संभार ॥५१३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -436,8 +402,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "irpu hxy bwx bjRv Gwq ]",
-        "transliteration_english": "rip haNe baaN bajrav ghaat ||",
-        "transliteration_hindi": "रिपु हणे बाण बज्रव घात ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -461,8 +425,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "sm cly kwl kI juAwl qwq ]",
-        "transliteration_english": "sam chale kaal kee juaal taat ||",
-        "transliteration_hindi": "सम चले काल की जुआल तात ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -486,8 +448,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "qb kupXo vIr Aqkwie AYs ]",
-        "transliteration_english": "tab kupayo veer atakaae aais ||",
-        "transliteration_hindi": "तब कुपयो वीर अतकाइ ऐस ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -511,8 +471,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "jn pRlY kwl ko myG jYs ]514]",
-        "transliteration_english": "jan pralai kaal ko megh jais ||514||",
-        "transliteration_hindi": "जन प्रलै काल को मेघ जैस ॥५१४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -525,7 +483,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਮਾਨੋ ਪਰਲੋ ਦੇ ਸਮੇਾਂ ਦੇ ਮੇਘ ਵਰਗਾ ਹੋਵੇ ॥੫੧੪॥",
+              "translation": "ਮਾਨੋ ਪਰਲੋ ਦੇ ਸਮੇਂ ਦੇ ਮੇਘ ਵਰਗਾ ਹੋਵੇ ॥੫੧੪॥",
               "additional_information": {}
             }
           }
@@ -536,8 +494,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "iem krn lwg lptYN lbwr ]",
-        "transliteration_english": "eim karan laag lapaTai(n) labaar ||",
-        "transliteration_hindi": "इम करन लाग लपटैं लबार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -561,8 +517,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ijm jubx hIx lptwie nwr ]",
-        "transliteration_english": "jim jubaN heeN lapaTaae naar ||",
-        "transliteration_hindi": "जिम जुबण हीण लपटाइ नार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -575,7 +529,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਜੋਬਨ-ਹੀਣ (ਬਿਰਧ) ਇਸਤਰੀ ਨਾਲ ਲਿਪਟ ਜਾਦਾ ਹੈ,",
+              "translation": "ਜਿਵੇਂ ਜੋਬਨ-ਹੀਣ (ਬਿਰਧ) ਇਸਤਰੀ ਨਾਲ ਲਿਪਟ ਜਾਦਾ ਹੈ,",
               "additional_information": {}
             }
           }
@@ -586,8 +540,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ijm dMq rhq gh sÍwn ssk ]",
-        "transliteration_english": "jim dhant rahat geh svYaan sasak ||",
-        "transliteration_hindi": "जिम दंत रहत गह स्वान ससक ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -600,7 +552,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਕੁੱਤਾ ਦੰਦਾ ਤੋਂ ਬਿਨਾ ਸਹੇ ਨੂੰ ਫੜਦਾ ਹੈ,",
+              "translation": "ਜਿਵੇਂ ਕੁੱਤਾ ਦੰਦਾ ਤੋਂ ਬਿਨਾ ਸਹੇ ਨੂੰ ਫੜਦਾ ਹੈ,",
               "additional_information": {}
             }
           }
@@ -611,8 +563,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ijm gey bYs bl bIrj rsk ]515]",
-        "transliteration_english": "jim ge bais bal beeraj rasak ||515||",
-        "transliteration_hindi": "जिम गए बैस बल बीरज रसक ॥५१५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -625,7 +575,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਉਮਰ ਦੇ ਬੀਤਣ ਨਾਲ ਬਲ ਤੇ ਬੀਰਜ ਰਿਸ ਜਾਦਾ ਹੈ ॥੫੧੫॥",
+              "translation": "ਜਿਵੇਂ ਉਮਰ ਦੇ ਬੀਤਣ ਨਾਲ ਬਲ ਤੇ ਬੀਰਜ ਰਿਸ ਜਾਦਾ ਹੈ ॥੫੧੫॥",
               "additional_information": {}
             }
           }
@@ -636,8 +586,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ijm drb hIx kCu kir bpwr ]",
-        "transliteration_english": "jim dharab heeN kachh kar bapaar ||",
-        "transliteration_hindi": "जिम दरब हीण कछु करि बपार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -650,7 +598,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਧਨ ਰਹਿਤ ਵਿਅਕਤੀ ਕੁਝ ਵਪਾਰ ਕਰਦਾ ਹੈ ਜਾ",
+              "translation": "ਜਿਵੇਂ ਧਨ ਰਹਿਤ ਵਿਅਕਤੀ ਕੁਝ ਵਪਾਰ ਕਰਦਾ ਹੈ ਜਾ",
               "additional_information": {}
             }
           }
@@ -661,8 +609,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "jx ssqR hIx ruJXo juJwr ]",
-        "transliteration_english": "jaN sasatr heeN rujhayo jujhaar ||",
-        "transliteration_hindi": "जण ससत्र हीण रुझयो जुझार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -686,8 +632,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ijm rUp hIx bysXw pRBwv ]",
-        "transliteration_english": "jim roop heeN besayaa prabhaav ||",
-        "transliteration_hindi": "जिम रूप हीण बेसया प्रभाव ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -700,7 +644,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਜਿਵੇਾਂ ਰੂਪ ਤੋਂ ਹੀਣੀ ਵੇਸਵਾ ਦਾ ਪ੍ਰਭਾਵ ਹੁੰਦਾ ਹੈ",
+              "translation": "ਜਿਵੇਂ ਰੂਪ ਤੋਂ ਹੀਣੀ ਵੇਸਵਾ ਦਾ ਪ੍ਰਭਾਵ ਹੁੰਦਾ ਹੈ",
               "additional_information": {}
             }
           }
@@ -711,8 +655,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "jx bwj hIx rQ ko clwv ]516]",
-        "transliteration_english": "jaN baaj heeN rath ko chalaav ||516||",
-        "transliteration_hindi": "जण बाज हीण रथ को चलाव ॥५१६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -736,8 +678,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "qb qmk qyg lCmx audwr ]",
-        "transliteration_english": "tab tamak teg lachhamaN audhaar ||",
-        "transliteration_hindi": "तब तमक तेग लछमण उदार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -761,8 +701,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "qh hxXo sIs ikno duPwr ]",
-        "transliteration_english": "teh haNayo sees kino dhufaar ||",
-        "transliteration_hindi": "तह हणयो सीस किनो दुफार ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -786,8 +724,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "qb igrXo bIr Aiqkwie eyk ]",
-        "transliteration_english": "tab girayo beer atikaae ek ||",
-        "transliteration_hindi": "तब गिरयो बीर अतिकाइ एक ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -811,8 +747,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "lK qwih sUr Bjy Anyk ]517]",
-        "transliteration_english": "lakh taeh soor bhaje anek ||517||",
-        "transliteration_hindi": "लख ताहि सूर भजे अनेक ॥५१७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -836,8 +770,6 @@
         "source_page": 254,
         "source_line": null,
         "gurmukhi": "ieiq sRI bicqR nwtky rwmvqwr Aqkwie bDih iDAwie smwpqm squ ]14]",
-        "transliteration_english": "eit sree bachitr naaTake raamavataar atakaae badheh dhiaae samaapatam sat ||14||",
-        "transliteration_hindi": "इति स्री बचित्र नाटके रामवतार अतकाइ बधहि धिआइ समापतम सतु ॥१४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,

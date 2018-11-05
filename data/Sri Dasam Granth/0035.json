@@ -1,18 +1,640 @@
 [
   {
-    "id": "QJ3",
+    "id": "4QB",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
-    "subsection": null,
     "section": "Akal Ustat",
-    "sttm2_id": null,
+    "subsection": null,
+    "lines": [
+      {
+        "id": "32C9",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PFNW",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "kh jIqb, kh mrn hY, kvn surg, kh nrk ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are birth and death? What are heaven and hell?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜੀਉਣਾ ਕੀ ਹੈ, ਮਰਨਾ ਕੀ ਹੈ, ਸਵਰਗ ਕੀ ਹੈ ਅਤੇ ਨਰਕ ਦੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4GZ5",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko suGVw, ko mUVqw, khw qrk Avqrk ]3]203]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are wisdom and foolishness? What are logical and illogical? 3.203.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸੁਘੜ ਕੌਣ ਹੈ, ਮੂਰਖ ਕੌਣ ਹੈ, ਤਰਕ ਕੀ ਹੈ ਅਤੇ ਅਵਿਤਰਕ (ਬੇਦਲੀਲੀ) ਕੀ ਹੈ? ॥੩॥੨੦੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "KMZ",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "WRS9",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HQWX",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko inMdw, js hY kvn, kvn pwp, kh Drm ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are slander and praise? What are sin and rectitude?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਿੰਦਾ ਕੀ ਹੈ, ਯਸ਼ ਕੀ ਹੈ, ਪਾਪ ਕੀ ਹੈ, ਧਰਮ ਕੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "NF10",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "kvn jog, ko Bog hY, kvn krm Apkrm ]4]204]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are enjoyment and ecstasy? What are virtue and vice? 4.204.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਯੋਗ ਕੀ ਹੈ, ਭੋਗ ਕੀ ਹੈ, ਸੁਕਰਮ ਕੀ ਹੈ ਅਤੇ ਕੁਕਰਮ ਕੀ ਹੈ? ॥੪॥੨੦੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "LQ3",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "68G5",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "SKFG",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "kho, su sRm kw so khY, dm ko khw khMq ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What is called effort? And what shuld endurance be called?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦਸੋ, ਤਪਸਿਆ ਕਿਸ ਨੂੰ ਕਹਿੰਦੇ ਹਨ ਅਤੇ (ਇੰਦਰੀਆਂ ਦਾ) ਦਮਨ ਕਿਸ ਨੂੰ ਕਹਿੰਦੇ ਹਨ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "J8MN",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko sUrw, dwqw kvn, kho qMq ko mMq ]5]205]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is hero? And who is Donor? Tell me what are Tantra and Mantra? 5.205.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸੂਰਮਾ ਕੌਣ ਹੈ, ਦਾਤਾ ਕੋਣ ਹੈ, ਤੰਤ੍ਰ ਕੀ ਹੈ ਅਤੇ ਮੰਤ੍ਰ ਕੀ ਹੈ? ॥੫॥੨੦੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "6RM",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "67AG",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "WVFG",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "khw rMk, rwjw kvn, hrK sog hY kvn ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who are the pauper and the king? What are joy and sorrow?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕੌਣ ਭਿਖਾਰੀ ਹੈ, ਕੌਣ ਰਾਜਾ ਹੈ? ਅਤੇ ਹਰਖ ਅਤੇ ਸੋਗ ਕੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "Z480",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko rogI, rwgI kvn, kho qq muih qvn ]6]206]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is ailing and who is attached? Tell me their substance. 6.206.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰੋਗੀ ਕੌਣ ਹੈ ਅਤੇ ਸੰਸਾਰ ਵਿਚ ਲਿਪਤ ('ਰਾਗੀ') ਕੌਣ ਹੈ? ਉਸ ਦੀ ਅਸਲੀਅਤ ਮੈਨੂੰ ਦਸੋ ॥੬॥੨੦੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "V9L",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "SK7T",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "20W5",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "kvn irst, ko pust hY, khw isRsit ko ibcwr ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who are hale and hearty? What is the object of the creation of the world?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰਜਿਆ ਹੋਇਆ ਕੌਣ ਹੈ, ਬਲਵਾਨ ਕੌਣ ਹੈ ਅਤੇ ਸ੍ਰਿਸ਼ਟੀ (ਦੀ ਰਚਨਾ ਦਾ) ਵਿਚਾਰ ਕੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ND5H",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "kvn iDRsit, ko iBRst hY, kho skl ibsQwr ]7]207]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is superb? And who is defiled? Tell me all in detail.7.207.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਢੀਠ ਕੌਣ ਹੈ, ਭ੍ਰਸ਼ਟ ਕੌਣ ਹੈ? ਸਾਰੀ (ਗੱਲ ਮੈਨੂੰ) ਵਿਸਤਾਰ ਸਹਿਤ ਦਸੋ ॥੭॥੨੦੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "Y74",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "C5QZ",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "6PZW",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "khw Brm ko krm hY, khw Brm ko nws ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "How an action is recompensed? How and illusion is destroyed?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਰਨ ਯੋਗ ਕਰਮ ਕਿਹੜਾ ਹੈ ਅਤੇ ਭਰਮ ਦਾ ਨਾਸ਼ ਕਿਵੇਂ ਹੁੰਦਾ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0D12",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "khw icqn kI cystw, khw Acyq pRkws ]8]208]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are the cravings of the mind? And what is the carefree illumination? 8.208.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚਿੰਤਨ ਕੀ ਹੈ, ਚੇਸ਼ਟਾ ਕੀ ਹੈ ਅਤੇ ਅਚਿੰਤ੍ਰਯ ਦਾ ਪ੍ਰਕਾਸ਼ ਕੀ ਹੈ? ॥੮॥੨੦੮॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ALS",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "VD2S",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "G3U3",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "khw nym, sMjm khw, khw igAwn AigAwn ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "What are the observance and restraint? What are the knowledge and nescience",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਿਯਮ ਕੀ ਹੈ, ਸੰਜਮ ਕੀ ਹੈ, ਗਿਆਨ ਅਤੇ ਅਗਿਆਨ ਕੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BZGT",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko rogI, sogI kvn, khw Drm kI hwn ]9]209]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is ailing and who is sorrowful, and where does the downfall of Dharma occur? 9.209.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰੋਗੀ ਕੌਣ ਹੈ, ਸੋਗੀ ਕੌਣ ਹੈ ਅਤੇ ਧਰਮ ਦੀ ਹਾਨੀ ਕਿਥੇ ਹੁੰਦੀ ਹੈ ॥੯॥੨੦੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "5BH",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "8YL8",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "dohrw ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "DOHRA (COUPLET)",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਦੋਹਰਾ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "5QZU",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko sUrw, suMdr kvn, khw jog ko swr ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is hero and who is beautiful? What is the essence of Yoga?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸੂਰਮਾ ਕੌਣ ਹੈ, ਸੁੰਦਰ ਕੌਣ ਹੈ ਅਤੇ ਯੋਗ ਦਾ ਸਾਰ ਕੀ ਹੈ?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "KLTR",
+        "source_page": 35,
+        "source_line": null,
+        "gurmukhi": "ko dwqw, igAwnI kvn, kho ibcwr Aibcwr ]10]210]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Who is the Donor and who is the Knower? Tell me the judicious and injudicious.10.210.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਰਤਾ ਕੌਣ ਹੈ, ਗਿਆਨੀ ਕੌਣ ਹੈ? ਇਨ੍ਰਹਾ ਦਾ ਵਿਚਾਰ-ਅਵਿਚਾਰ (ਮੈਨੂੰ) ਦਸੋ ॥੧੦॥੨੧੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "QJ3",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Akal Ustat",
+    "subsection": null,
     "lines": [
       {
         "id": "R0P8",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "qÍpRswid ] dIGr iqRBMgI CMd ]",
-        "transliteration_english": "tvYaprasaadh || dheeghar tribhangee chhandh ||",
-        "transliteration_hindi": "त्वप्रसादि ॥ दीघर त्रिभंगी छंद ॥",
+        "gurmukhi": "qÍ pRswid ] dIGr iqRBMgI CMd ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -35,9 +657,7 @@
         "id": "HP0K",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "durjn dl dMfx, Asur ibhMfx; dust inkMdx Awid ibRqy ]",
-        "transliteration_english": "dhurajan dhal dhanddaN asur bihanddaN dhusaT nikandhaN aadh brite ||",
-        "transliteration_hindi": "दुरजन दल दंडण असुर बिहंडण दुसट निकंदण आदि ब्रिते ॥",
+        "gurmukhi": "durjn dl dMfx, Asur ibhMfx; dust inkMdix Awid ibRqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -60,9 +680,7 @@
         "id": "6C67",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "cCrwsur mwrx, piqq auDwrx; nrk invwrx gUV gqy ]",
-        "transliteration_english": "chachharaasur maaraN patit audhaaraN narak nivaaraN gooR gate ||",
-        "transliteration_hindi": "चछरासुर मारण पतित उधारण नरक निवारण गूड़ गते ॥",
+        "gurmukhi": "cCrwsur mwrix, piqq auDwrix; nrk invwrix gUVH gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -86,8 +704,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "ACY AKMfy, qyj pRcMfy; KMf audMfy, AlK mqy ]",
-        "transliteration_english": "achhai akhandde tej prachandde khandd audhandde alakh mate ||",
-        "transliteration_hindi": "अछै अखंडे तेज प्रचंडे खंड उदंडे अलख मते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -110,9 +726,7 @@
         "id": "WM9K",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsuir mrdn; rMm kprdn, CqR iCqy ]1]211]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan ranm kaparadhan chhatr chhite ||1||211||",
-        "transliteration_hindi": "जै जै होसी महिखासुरि मरदन रंम कपरदन छत्र छिते ॥१॥२११॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdn; rMm kprdn, CqR iCqy ]1]211]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -135,9 +749,7 @@
         "id": "BGLX",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "AwsurI ibhMfx, dust inkMdx; pust audMfx, rUp Aqy ]",
-        "transliteration_english": "aasuree bihanddaN dhusaT nikandhaN pusaT audhanddaN roop ate ||",
-        "transliteration_hindi": "आसुरी बिहंडण दुसट निकंदण पुसट उदंडण रूप अते ॥",
+        "gurmukhi": "Awsuir ibhMfix, dust inkMdix; pust audMfix, rUp Aqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -160,9 +772,7 @@
         "id": "HGFN",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "cMfwsur cMfx, muMf ibhMfx; DUmR ibDuMsx, mihK mqy ]",
-        "transliteration_english": "chanddaasur chanddaN mundd bihanddaN dhoomr bidhunsaN mahikh mate ||",
-        "transliteration_hindi": "चंडासुर चंडण मुंड बिहंडण धूम्र बिधुंसण महिख मते ॥",
+        "gurmukhi": "cMfwsur cMfix, muMf ibhMfix; DUmR ibDuMsix, mihK mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -185,9 +795,7 @@
         "id": "5L7H",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwnv pRhwrn, nrk invwrn; ADm auDwrn, aurD ADy ]",
-        "transliteration_english": "dhaanav prahaaran narak nivaaran adham audhaaran auradh adhe ||",
-        "transliteration_hindi": "दानव प्रहारन नरक निवारन अधम उधारन उरध अधे ॥",
+        "gurmukhi": "dwnvIN pRhwrix, nrk invwrix; AiDm auDwrix, aurD ADy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -211,8 +819,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; rMm kprdn, Awid ibRqy ]2]212]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan ranm kaparadhan aadh brite ||2||212||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन रंम कपरदन आदि ब्रिते ॥२॥२१२॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -236,8 +842,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "fwvrU fvMkY, bbr bvMkY; Bujw PrMkY, qyj brM ]",
-        "transliteration_english": "ddaavaroo ddavankai babar bavankai bhujaa farankai tej baran ||",
-        "transliteration_hindi": "डावरू डवंकै बबर बवंकै भुजा फरंकै तेज बरं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -260,9 +864,7 @@
         "id": "XS98",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "lµkuVIAw PwDY, AwXuD bwDY; sYn ibmrdn, kwl AsurM ]",
-        "transliteration_english": "lanakuReeaa faadhai aayudh baadhai sain bimaradhan kaal asuran ||",
-        "transliteration_hindi": "लंकुड़ीआ फाधै आयुध बाधै सैन बिमरदन काल असुरं ॥",
+        "gurmukhi": "lµkuVIAw PwDY, AwXuD bWDY; sYn ibmrdn, kwl AsurM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -285,9 +887,7 @@
         "id": "74Y8",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "AstwXuD cmkY, BUKn dmkY; Aiq isq JmkY, PMk PxM ]",
-        "transliteration_english": "asaTaayudh chamakai bhookhan dhamakai at sit jhamakai fank faNan ||",
-        "transliteration_hindi": "असटायुध चमकै भूखन दमकै अति सित झमकै फंक फणं ॥",
+        "gurmukhi": "AstwXuD cmkY, BUKn dmkY; Aiq isq JmkY, PuMk PxM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -311,8 +911,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; rMm kprdn, dYq ijxM ]3]213]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan ranm kaparadhan dhait jiNan ||3||213||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन रंम कपरदन दैत जिणं ॥३॥२१३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -336,8 +934,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "cMfwsur cMfx, muMf ibmuMfx; KMf AKMfx KUn iKqy ]",
-        "transliteration_english": "chanddaasur chanddaN mundd bimunddaN khandd akhanddaN khoon khite ||",
-        "transliteration_hindi": "चंडासुर चंडण मुंड बिमुंडण खंड अखंडण खून खिते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -360,9 +956,7 @@
         "id": "KYR6",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwimnI dmMkx, Dujw PrMkx; PxI PuMkwrx, joD ijqy ]",
-        "transliteration_english": "dhaaminee dhamankaN dhujaa farankaN faNee funkaaraN jodh jite ||",
-        "transliteration_hindi": "दामिनी दमंकण धुजा फरंकण फणी फुंकारण जोध जिते ॥",
+        "gurmukhi": "dwmnI dmMkix, Dujw PrMkix; PxI Pukwrix, joD ijqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -385,9 +979,7 @@
         "id": "ASKS",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "sr Dwr ibbrKx, dust pRkrKx; pust pRhrKx, dust mQy ]",
-        "transliteration_english": "sar dhaar bibarakhaN dhusaT prakarakhaN pusaT praharakhaN dhusaT mathe ||",
-        "transliteration_hindi": "सर धार बिबरखण दुसट प्रकरखण पुसट प्रहरखण दुसट मथे ॥",
+        "gurmukhi": "sr Dwr ibbrKix, dust pRkrKix; pust pRhrKix, dust mQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -410,9 +1002,7 @@
         "id": "3P62",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; BUim Awkws, ql aurD ADy ]4]214]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan bhoom aakaas tal auradh adhe ||4||214||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन भूमि आकास तल उरध अधे ॥४॥२१४॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdn; BUm Akws, ql aurD ADy ]4]214]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -435,9 +1025,7 @@
         "id": "B0DM",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwimnI pRhwsn, suCib invwsn; isRsit pRkwsn, gUV gqy ]",
-        "transliteration_english": "dhaaminee prahaasan suchhab nivaasan srisaT prakaasan gooR gate ||",
-        "transliteration_hindi": "दामिनी प्रहासन सुछबि निवासन स्रिसटि प्रकासन गूड़ गते ॥",
+        "gurmukhi": "dwmnI pRhwsin, su Cib invwsin; isRsit pRkwsin, gUVH gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -461,8 +1049,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "rkqwsur Awcn, juD pRmwcn; inRdY nrwcn, Drm ibRqy ]",
-        "transliteration_english": "rakataasur aachan judh pramaachan nridhai naraachan dharam brite ||",
-        "transliteration_hindi": "रकतासुर आचन जुध प्रमाचन न्रिदै नराचन धरम ब्रिते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -486,8 +1072,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "sRoxMq AicMqI, Anl ibvMqI; jog jXMqI, KVg Dry ]",
-        "transliteration_english": "sroNant achintee anal bivantee jog jayantee khaRag dhare ||",
-        "transliteration_hindi": "स्रोणंत अचिंती अनल बिवंती जोग जयंती खड़ग धरे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -511,8 +1095,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; pwp ibnwsn, Drm kry ]5]215]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan paap binaasan dharam kare ||5||215||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन पाप बिनासन धरम करे ॥५॥२१५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -535,9 +1117,7 @@
         "id": "EN91",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "AG EG invwrn, dust pRjwrn; isRsit aubwrn, suD mqy ]",
-        "transliteration_english": "agh ogh nivaaran dhusaT prajaaran srisaT aubaaran sudh mate ||",
-        "transliteration_hindi": "अघ ओघ निवारन दुसट प्रजारन स्रिसटि उबारन सुध मते ॥",
+        "gurmukhi": "AG EG invwrix, dust pRjwrix; isRsit aubwrix, suD mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -560,9 +1140,7 @@
         "id": "52W7",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "PxIAr PuMkwrn, bwG bukwrx; ssqR pRhwrx, swD mqy ]",
-        "transliteration_english": "faNeear funkaaran baagh bukaaraN sasatr prahaaraN saadh mate ||",
-        "transliteration_hindi": "फणीअर फुंकारन बाघ बुकारण ससत्र प्रहारण साध मते ॥",
+        "gurmukhi": "PxIAr PuMkwrix, bwG bukwrix; ssqR pRhwrix, swD mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -585,9 +1163,7 @@
         "id": "039Q",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "sYhQI snwhin, Ast pRbwhn; bol inbwhn, qyj Aqulµ ]",
-        "transliteration_english": "saihathee sanaahan asaT prabaahan bol nibaahan tej atulan ||",
-        "transliteration_hindi": "सैहथी सनाहनि असट प्रबाहन बोल निबाहन तेज अतुलं ॥",
+        "gurmukhi": "sYhQI snwhin, Ast pRbwhin; bol inbwhin, qyj Aqulµ ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -611,8 +1187,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; BUim, Akws, pqwl, jlµ ]6]216]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan bhoom akaas pataal jalan ||6||216||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन भूमि अकास पताल जलं ॥६॥२१६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -635,9 +1209,7 @@
         "id": "X6K8",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "cwcir cmkwrn, icCur hwrn; DUm Dukwrn, dRp mQy ]",
-        "transliteration_english": "chaachar chamakaaran chichhur haaran dhoom dhukaaran dhrap mathe ||",
-        "transliteration_hindi": "चाचरि चमकारन चिछुर हारन धूम धुकारन द्रप मथे ॥",
+        "gurmukhi": "cwcr cmkwrn, icCur hwrn; DUm Dukwrn, dRp mQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -660,9 +1232,7 @@
         "id": "WDK5",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwVvI pRdMqy, jog jXMqy; mnuj mQMqy, gUV kQy ]",
-        "transliteration_english": "dhaaRavee pradhante jog jayante manuj mathante gooR kathe ||",
-        "transliteration_hindi": "दाड़वी प्रदंते जोग जयंते मनुज मथंते गूड़ कथे ॥",
+        "gurmukhi": "dwVHI pRdMqy, jog jXMqy; mnuj mQMqy, gUVH kQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -685,9 +1255,7 @@
         "id": "0FQ1",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "krm pRxwsn, cMd pRkwsn; sUrj pRqyjn, AstBujy ]",
-        "transliteration_english": "karam praNaasan chandh prakaasan sooraj pratejan asaTabhuje ||",
-        "transliteration_hindi": "करम प्रणासन चंद प्रकासन सूरज प्रतेजन असटभुजे ॥",
+        "gurmukhi": "krm pRxwsn, cMd pRkwsix; sUrj pRqyjix, Ast Bujy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -711,8 +1279,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; Brm ibnwsn, Drm Dujy ]7]217]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan bharam binaasan dharam dhuje ||7||217||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन भरम बिनासन धरम धुजे ॥७॥२१७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -735,9 +1301,7 @@
         "id": "6U8U",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "GuMGrU GmMkx, ssqR JmMkx; PxIAr PuMkwrx, Drm Dujy ]",
-        "transliteration_english": "ghungharoo ghamankaN sasatr jhamankaN faNeear funkaaraN dharam dhuje ||",
-        "transliteration_hindi": "घुंघरू घमंकण ससत्र झमंकण फणीअर फुंकारण धरम धुजे ॥",
+        "gurmukhi": "GuMGrU GmMkix, ssqR JmMkix; PxIAir PuMkwrix, Drm Dujy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -760,9 +1324,7 @@
         "id": "Z6C8",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "Astwt pRhwsn, isRsit invwsn; dust pRxwsn, ck® gqy ]",
-        "transliteration_english": "asaTaaT prahaasan srisaT nivaasan dhusaT praNaasan chakar gate ||",
-        "transliteration_hindi": "असटाट प्रहासन स्रिसटि निवासन दुसट प्रणासन चक्र गते ॥",
+        "gurmukhi": "Astwt pRhwsn, isRsit invwsn; dust pRnwsn, ck® gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -786,8 +1348,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "kysrI pRvwhy, suD snwhy; Agm AQwhy, eyk ibRqy ]",
-        "transliteration_english": "kesaree pravaahe sudh sanaahe agam athaahe ek brite ||",
-        "transliteration_hindi": "केसरी प्रवाहे सुध सनाहे अगम अथाहे एक ब्रिते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -811,8 +1371,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid kumwir, AgwD ibRqy ]8]218]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh kumaar agaadh brite ||8||218||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि कुमारि अगाध ब्रिते ॥८॥२१८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -835,9 +1393,7 @@
         "id": "ARSZ",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "sur nr muin bMdn, dust inkMdn; iBRst ibnwsn, imRq mQy ]",
-        "transliteration_english": "sur nar mun bandhan dhusaT nikandhan bhrisaT binaasan mrit mathe ||",
-        "transliteration_hindi": "सुर नर मुनि बंदन दुसट निकंदन भ्रिसट बिनासन म्रित मथे ॥",
+        "gurmukhi": "sur nr muin bMdn, dusit inkMdin; iBRsit ibnwsn, imRq mQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -861,8 +1417,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "kwvrU kumwry, ADm auDwry; nrk invwry, Awid kQy ]",
-        "transliteration_english": "kaavaroo kumaare adham audhaare narak nivaare aadh kathe ||",
-        "transliteration_hindi": "कावरू कुमारे अधम उधारे नरक निवारे आदि कथे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -886,8 +1440,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "ikMkxI pRsohix, sur nr mohix; isMGwrohix, ibql qly ]",
-        "transliteration_english": "kinkaNee prasohaN sur nar mohaN singhaarohaN bital tale ||",
-        "transliteration_hindi": "किंकणी प्रसोहणि सुर नर मोहणि सिंघारोहणि बितल तले ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -910,9 +1462,7 @@
         "id": "8CYH",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, sB Tauir invwsn; bwie, pqwl, Akws, Anly ]9]219]",
-        "transliteration_english": "jai jai hosee sabh ttaur nivaasan baae pataal akaas anale ||9||219||",
-        "transliteration_hindi": "जै जै होसी सभ ठउरि निवासन बाइ पताल अकास अनले ॥९॥२१९॥",
+        "gurmukhi": "jY jY hosI, sB TOr invwsn; bwie, pqwl, Akws, Anly ]9]219]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -935,9 +1485,7 @@
         "id": "P498",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "sMktI invwrx, ADm auDwrx; qyj pRkrKx, quMd qby ]",
-        "transliteration_english": "sankaTee nivaaraN adham audhaaraN tej prakarakhaN tundh tabe ||",
-        "transliteration_hindi": "संकटी निवारण अधम उधारण तेज प्रकरखण तुंद तबे ॥",
+        "gurmukhi": "sMktI invwrin, ADm auDwrin; qyj pRkrKix, quMd qby ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -960,9 +1508,7 @@
         "id": "W7R9",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "duK doK dhMqI, juAwl jXMqI; Awid Anwid AgwD ACy ]",
-        "transliteration_english": "dhukh dhokh dhahantee juaal jayantee aadh anaadh agaadh achhe ||",
-        "transliteration_hindi": "दुख दोख दहंती जुआल जयंती आदि अनादि अगाध अछे ॥",
+        "gurmukhi": "duK doK dhMqI, jÍwl jXMqI; Awid Anwid AgwiD ACy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -985,9 +1531,7 @@
         "id": "XSW2",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "suDqw smrpx, qrk ibqrkx; qpq pRqwpx, jpq ijvY ]",
-        "transliteration_english": "sudhataa samarapaN tarak bitarakaN tapat prataapaN japat jivai ||",
-        "transliteration_hindi": "सुधता समरपण तरक बितरकण तपत प्रतापण जपत जिवै ॥",
+        "gurmukhi": "suDqw smrpix, qrk ibqrkix; qpq pRqwpix, jpq ijvy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1010,9 +1554,7 @@
         "id": "WVJE",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, ssqR pRkrKx; Awid AnIl AgwiD ABY ]10]220]",
-        "transliteration_english": "jai jai hosee sasatr prakarakhaN aadh aneel agaadh abhai ||10||220||",
-        "transliteration_hindi": "जै जै होसी ससत्र प्रकरखण आदि अनील अगाधि अभै ॥१०॥२२०॥",
+        "gurmukhi": "jY jY hosI, ssqR pRkrKix; Awid AnIl AgwD ABY ]10]220]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1035,9 +1577,7 @@
         "id": "GTQ0",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "cMclw cKMgI, Alk BujMgI; quMd qurMgx, iqC sry ]",
-        "transliteration_english": "chanchalaa chakhangee alak bhujangee tundh turangaN tichh sare ||",
-        "transliteration_hindi": "चंचला चखंगी अलक भुजंगी तुंद तुरंगण तिछ सरे ॥",
+        "gurmukhi": "cMclw cKMgI, Alk BujMgI; quMd qurMgix, iqC sry ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1060,9 +1600,7 @@
         "id": "5VJJ",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "krksw kuTwry, nrk invwry; ADm auDwry, qUr Bjy ]",
-        "transliteration_english": "karakasaa kuttaare narak nivaare adham audhaare toor bhaje ||",
-        "transliteration_hindi": "करकसा कुठारे नरक निवारे अधम उधारे तूर भजे ॥",
+        "gurmukhi": "kr ksw kuTwry, nrk invwry; ADm auDwry, qUr Bjy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1085,9 +1623,7 @@
         "id": "P6HW",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwimnI dmMky, kyhir lµky; Awid AqMky, k®¨r kQy ]",
-        "transliteration_english": "dhaaminee dhamanke kehar lanake aadh atanke karaoor kathe ||",
-        "transliteration_hindi": "दामिनी दमंके केहरि लंके आदि अतंके क्रूर कथे ॥",
+        "gurmukhi": "dwmnI dmMky, kyhr lµky; Awid AqMky, k®¨r kQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1110,9 +1646,7 @@
         "id": "1LDX",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, rkqwsur KMfx; suMB ck®qn, insuMB mQy ]11]221]",
-        "transliteration_english": "jai jai hosee rakataasur khanddaN sunbh chakaratan nisunbh mathe ||11||221||",
-        "transliteration_hindi": "जै जै होसी रकतासुर खंडण सुंभ चक्रतन निसुंभ मथे ॥११॥२२१॥",
+        "gurmukhi": "jY jY hosI, rkqwsur KMfix; suMB ck®qin, suMB mQy ]11]221]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1135,9 +1669,7 @@
         "id": "X2LN",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "bwirj iblocn, ibRqn ibmocn; soc ibsocn, kauc ksy ]",
-        "transliteration_english": "baarij bilochan britan bimochan soch bisochan kauch kase ||",
-        "transliteration_hindi": "बारिज बिलोचन ब्रितन बिमोचन सोच बिसोचन कउच कसे ॥",
+        "gurmukhi": "bwrj iblocin, ibRqn ibmocin; soc ibsocin, kauc ksy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1160,9 +1692,7 @@
         "id": "VZY0",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "dwimnI pRhwsy, suk sr nwsy; suibRq subwsy, dust gRsy ]",
-        "transliteration_english": "dhaaminee prahaase suk sar naase subrit subaase dhusaT grase ||",
-        "transliteration_hindi": "दामिनी प्रहासे सुक सर नासे सुब्रित सुबासे दुसट ग्रसे ॥",
+        "gurmukhi": "dwmnI pRhwsy, suk sr nwsy; su ibRq subwsy, dust gRsy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1185,9 +1715,7 @@
         "id": "86AG",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "cMclw ipRAMgI, byd pRsMgI; qyj qurMgI, KMf AsurM ]",
-        "transliteration_english": "chanchalaa priangee bedh prasangee tej turangee khandd asuran ||",
-        "transliteration_hindi": "चंचला प्रिअंगी बेद प्रसंगी तेज तुरंगी खंड असुरं ॥",
+        "gurmukhi": "cMclw pRAMgI, byd pRsMgI; qyj qurMgI, KMf AsurM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1210,9 +1738,7 @@
         "id": "WLLL",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid Anwid, AgwiD aurDM ]12]222]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh anaadh agaadh auradhan ||12||222||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि अनादि अगाधि उरधं ॥१२॥२२२॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid Anwid, AgwD aurDM ]12]222]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1235,9 +1761,7 @@
         "id": "NW9G",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "GMtkw ibrwjY, ruxJux bwjY; BRm BY BwjY, sunq surM ]",
-        "transliteration_english": "ghanTakaa biraajai ruNajhuN baajai bhram bhai bhaajai sunat suran ||",
-        "transliteration_hindi": "घंटका बिराजै रुणझुण बाजै भ्रम भै भाजै सुनत सुरं ॥",
+        "gurmukhi": "GMtkw ibrwjY, rux Jux bwjY; BRm BY BwjY, sunq surM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1260,9 +1784,7 @@
         "id": "YXTJ",
         "source_page": 35,
         "source_line": null,
-        "gurmukhi": "koikl suin lwjY, iklibK BwjY; suK auprwjY, miD aurM ]",
-        "transliteration_english": "kokil sun laajai kilabikh bhaajai sukh auparaajai madh auran ||",
-        "transliteration_hindi": "कोकिल सुनि लाजै किलबिख भाजै सुख उपराजै मधि उरं ॥",
+        "gurmukhi": "kokl sun lwjY, iklibK BwjY; suK auprwjY, mD aurM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1286,8 +1808,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "durjn dl dJY, mn qn irJY; sBY n BjY, rohrxM ]",
-        "transliteration_english": "dhurajan dhal dhajhai man tan rijhai sabhai na bhajai roharaNan ||",
-        "transliteration_hindi": "दुरजन दल दझै मन तन रिझै सभै न भजै रोहरणं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1311,8 +1831,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; cMf ck®qn, Awid gurM ]13]223]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan chandd chakaratan aadh guran ||13||223||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन चंड चक्रतन आदि गुरं ॥१३॥२२३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1336,8 +1854,6 @@
         "source_page": 35,
         "source_line": null,
         "gurmukhi": "cwcrI pRjoDn, dust ibroDn; ros AroDn, k®¨r ibRqy ]",
-        "transliteration_english": "chaacharee prajodhan dhusaT birodhan ros arodhan karaoor brite ||",
-        "transliteration_hindi": "चाचरी प्रजोधन दुसट बिरोधन रोस अरोधन क्रूर ब्रिते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1360,9 +1876,7 @@
         "id": "464L",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "DUmRwC ibDuMsn, pRlY pRjuMsn; jig ibDuMsn, suD mqy ]",
-        "transliteration_english": "dhoomraachh bidhunsan pralai prajunsan jag bidhunsan sudh mate ||",
-        "transliteration_hindi": "धूम्राछ बिधुंसन प्रलै प्रजुंसन जगि बिधुंसन सुध मते ॥",
+        "gurmukhi": "DUmRwC ibDuMsn, pRlY pRjuMsn; jg ibDuMsn, suD mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1385,9 +1899,7 @@
         "id": "3PXZ",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "jwlpw jXMqI, sqR mQMqI; dust pRdwhn, gwV mqy ]",
-        "transliteration_english": "jaalapaa jayantee satr mathantee dhusaT pradhaahan gaaR mate ||",
-        "transliteration_hindi": "जालपा जयंती सत्र मथंती दुसट प्रदाहन गाड़ मते ॥",
+        "gurmukhi": "jwlpw jXMqI, sqR mQMqI; dust pRdwhn, gwVH mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1411,8 +1923,6 @@
         "source_page": 36,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid jugwid, AgwiD gqy ]14]224]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh jugaadh agaadh gate ||14||224||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि जुगादि अगाधि गते ॥१४॥२२४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1435,9 +1945,7 @@
         "id": "FLA3",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "KiqRAwix KqMgI, ABY ABMgI; Awid AnµgI, AgwiD gqy ]",
-        "transliteration_english": "khatriaaN khatangee abhai abhangee aadh ananagee agaadh gate ||",
-        "transliteration_hindi": "खत्रिआणि खतंगी अभै अभंगी आदि अनंगी अगाधि गते ॥",
+        "gurmukhi": "KiqRAwx KqMgI, ABY ABMgI; Awid AnµgI, AgwiD gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1460,9 +1968,7 @@
         "id": "PQ0K",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "ibRVlwC ibhMfx, cCr dMfx; qyj pRcMfx, Awid ibRqy ]",
-        "transliteration_english": "briRalaachh bihanddaN chachhar dhanddaN tej prachanddaN aadh brite ||",
-        "transliteration_hindi": "ब्रिड़लाछ बिहंडण चछर दंडण तेज प्रचंडण आदि ब्रिते ॥",
+        "gurmukhi": "ibRVlwC ibhMfix, cCur dMfix; qyj pRcMfix, Awid ibRqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1485,9 +1991,7 @@
         "id": "1E9S",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "sur nr pRiqpwrx, piqq auDwrx; dust invwrx, doK hry ]",
-        "transliteration_english": "sur nar pratipaaraN patit audhaaraN dhusaT nivaaraN dhokh hare ||",
-        "transliteration_hindi": "सुर नर प्रतिपारण पतित उधारण दुसट निवारण दोख हरे ॥",
+        "gurmukhi": "sur nr pRiqpwrix, piqq auDwrix; dust invwrix, doK hry ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1510,9 +2014,7 @@
         "id": "XB53",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; ibs ibDuMsn, isRsit kry ]15]225]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan bis bidhunsan srisaT kare ||15||225||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन बिस बिधुंसन स्रिसटि करे ॥१५॥२२५॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdin; ibsÍ ibDuMsin, isRsit kry ]15]225]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1535,9 +2037,7 @@
         "id": "89PM",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "dwimnI pRkwsy, aunq nwsy; joiq pRkwsy, Aqul bly ]",
-        "transliteration_english": "dhaaminee prakaase aunat naase jot prakaase atul bale ||",
-        "transliteration_hindi": "दामिनी प्रकासे उनत नासे जोति प्रकासे अतुल बले ॥",
+        "gurmukhi": "dwmnI pRkwsy, aunqn nwsy; joiq pRkwsy, Aqul bly ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1560,9 +2060,7 @@
         "id": "H7BM",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "dwnvI pRkrKx, sr vr vrKx; dust pRDrKx, ibql qly ]",
-        "transliteration_english": "dhaanavee prakarakhaN sar var varakhaN dhusaT pradharakhaN bital tale ||",
-        "transliteration_hindi": "दानवी प्रकरखण सर वर वरखण दुसट प्रधरखण बितल तले ॥",
+        "gurmukhi": "dwnvI pRkrKix, sr vr vrKix; dust pRDrKix, ibql qly ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1585,9 +2083,7 @@
         "id": "QA7A",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "AstwXuD bwhx, bol inbwhx; sMq pnwhx, gUV gqy ]",
-        "transliteration_english": "asaTaayudh baahaN bol nibaahaN sant panaahaN gooR gate ||",
-        "transliteration_hindi": "असटायुध बाहण बोल निबाहण संत पनाहण गूड़ गते ॥",
+        "gurmukhi": "AstwieD bwhix, bol inbwhix; sMq pnwhix, gUVH gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1610,9 +2106,7 @@
         "id": "PMGU",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid Anwid, AgwiD ibRqy ]16]226]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh anaadh agaadh brite ||16||226||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि अनादि अगाधि ब्रिते ॥१६॥२२६॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdin; Awid Anwid, AgwiD ibRqy ]16]226]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1635,9 +2129,7 @@
         "id": "BGCC",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "duK doK pRBCx, syvk rCx; sMq pRqCx, suD sry ]",
-        "transliteration_english": "dhukh dhokh prabhachhaN sevak rachhaN sant pratachhaN sudh sare ||",
-        "transliteration_hindi": "दुख दोख प्रभछण सेवक रछण संत प्रतछण सुध सरे ॥",
+        "gurmukhi": "duK doK pRBCix, syvk rCix; sMq pRqCix, suD sry ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1661,8 +2153,6 @@
         "source_page": 36,
         "source_line": null,
         "gurmukhi": "swrMg snwhy, dust pRdwhy; Air dl gwhy, doK hry ]",
-        "transliteration_english": "saarang sanaahe dhusaT pradhaahe ar dhal gaahe dhokh hare ||",
-        "transliteration_hindi": "सारंग सनाहे दुसट प्रदाहे अरि दल गाहे दोख हरे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1685,9 +2175,7 @@
         "id": "V0RT",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "gMjn gumwny, Aqul pRvwny; sMiq jmwny, Awid AMqy ]",
-        "transliteration_english": "ganjan gumaane atul pravaane sant jamaane aadh ante ||",
-        "transliteration_hindi": "गंजन गुमाने अतुल प्रवाने संति जमाने आदि अंते ॥",
+        "gurmukhi": "gMjn gumwny, Aqul pRvwny; sMq jmwny, Awid AMqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1700,7 +2188,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਹੰਕਾਰ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲੀ, ਅਤੁੱਲ ਪ੍ਰਵਾਨਿਆਂ ਵਾਲੀ, ਅੰਤ ਸਮੇਾਂ ਜ਼ਾਮਨ ਵਜੋਂ ਪੇਸ਼ ਆਉਣ ਵਾਲੀ, ਆਦਿ ਤੋਂ ਅੰਤ ਤਕ ਪਸਰਨ ਵਾਲੀ,",
+              "translation": "ਹੰਕਾਰ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲੀ, ਅਤੁੱਲ ਪ੍ਰਵਾਨਿਆਂ ਵਾਲੀ, ਅੰਤ ਸਮੇਂ ਜ਼ਾਮਨ ਵਜੋਂ ਪੇਸ਼ ਆਉਣ ਵਾਲੀ, ਆਦਿ ਤੋਂ ਅੰਤ ਤਕ ਪਸਰਨ ਵਾਲੀ,",
               "additional_information": {}
             }
           }
@@ -1711,8 +2199,6 @@
         "source_page": 36,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; swD pRdCn, dust hMqy ]17]227]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan saadh pradhachhan dhusaT hante ||17||227||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन साध प्रदछन दुसट हंते ॥१७॥२२७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1735,9 +2221,7 @@
         "id": "N9CR",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "kwrx krIlI, grb ghIlI; joiq ijqIlI, quMd mqy ]",
-        "transliteration_english": "kaaraN kareelee garab gaheelee jot jiteelee tundh mate ||",
-        "transliteration_hindi": "कारण करीली गरब गहीली जोति जितीली तुंद मते ॥",
+        "gurmukhi": "kwrx krIlI, grb ghIlI; joiq jqIlI, quMd mqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1760,9 +2244,7 @@
         "id": "C65Q",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "AstwieD cmkx, ssqR Jmkx; dwimin dmkx, Awid ibRqy ]",
-        "transliteration_english": "asaTaaeidh chamakaN sasatr jhamakaN dhaamin dhamakaN aadh brite ||",
-        "transliteration_hindi": "असटाइध चमकण ससत्र झमकण दामिनि दमकण आदि ब्रिते ॥",
+        "gurmukhi": "AstwieD cmkix, ssqR Jmkix; dwmn dmkix, Awid ibRqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1785,9 +2267,7 @@
         "id": "LXJH",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "fukfukI fmMkY, bwG bbMkY; Bujw PrMkY, suD gqy ]",
-        "transliteration_english": "ddukaddukee ddamankai baagh babankai bhujaa farankai sudh gate ||",
-        "transliteration_hindi": "डुकडुकी डमंकै बाघ बबंकै भुजा फरंकै सुध गते ॥",
+        "gurmukhi": "fukfukI dmMkY, bwG bbMkY; Bujw PrMkY, suD gqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1811,8 +2291,6 @@
         "source_page": 36,
         "source_line": null,
         "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid jugwid, Anwid mqy ]18]228]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh jugaadh anaadh mate ||18||228||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि जुगादि अनादि मते ॥१८॥२२८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1835,9 +2313,7 @@
         "id": "Y1PU",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "cCrwsur mwrx, nrk invwrx; piqq auDwrx, eyk Bty ]",
-        "transliteration_english": "chachharaasur maaraN narak nivaaraN patit audhaaraN ek bhaTe ||",
-        "transliteration_hindi": "चछरासुर मारण नरक निवारण पतित उधारण एक भटे ॥",
+        "gurmukhi": "cCrwsur mwrix, nrk invwrix; piqq auDwrix, eyk Bty ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1860,9 +2336,7 @@
         "id": "D3W0",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "pwpwn ibhMfn, dust pRcMfx; KMf AKMfx, kwl kty ]",
-        "transliteration_english": "paapaan bihanddan dhusaT prachanddaN khandd akhanddaN kaal kaTe ||",
-        "transliteration_hindi": "पापान बिहंडन दुसट प्रचंडण खंड अखंडण काल कटे ॥",
+        "gurmukhi": "pwpwn ibhMfix, dust pRcMfix; KMf AKMfix, kwl kty ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1885,9 +2359,7 @@
         "id": "USQP",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "cMdRwnn cwrY, nrk invwrY; piqq auDwrY, muMf mQy ]",
-        "transliteration_english": "chandhraanan chaarai narak nivaarai patit audhaarai mundd mathe ||",
-        "transliteration_hindi": "चंद्रानन चारै नरक निवारै पतित उधारै मुंड मथे ॥",
+        "gurmukhi": "cMdRwnn cwry, nrk invwry; piqq auDwry, muMf mQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1910,9 +2382,7 @@
         "id": "5WYT",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; DUmR ibDuMsn, Awid kQy ]19]229]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan dhoomr bidhunsan aadh kathe ||19||229||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन धूम्र बिधुंसन आदि कथे ॥१९॥२२९॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdn; DUmR ibDuMsin, Awid kQy ]19]229]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1935,9 +2405,7 @@
         "id": "FZVK",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "rkqwsur mrdn, cMf ck®dn; dwnv Ardn, ibVwl bDy ]",
-        "transliteration_english": "rakataasur maradhan chandd chakaradhan dhaanav aradhan biRaal badhe ||",
-        "transliteration_hindi": "रकतासुर मरदन चंड चक्रदन दानव अरदन बिड़ाल बधे ॥",
+        "gurmukhi": "rkqwsur mrdn, cMf ckrdn; dwnv Ardn, ibVwl bDy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1961,8 +2429,6 @@
         "source_page": 36,
         "source_line": null,
         "gurmukhi": "sr Dwr ibbrKx, durjn DrKx; Aqul AmrKx, Drm Dujy ]",
-        "transliteration_english": "sar dhaar bibarakhaN dhurajan dharakhaN atul amarakhaN dharam dhuje ||",
-        "transliteration_hindi": "सर धार बिबरखण दुरजन धरखण अतुल अमरखण धरम धुजे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1985,9 +2451,7 @@
         "id": "72XF",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "DUmRwC ibDuMsn, sRoxq cuMsn; suMB inpwq, insuMB mQy ]",
-        "transliteration_english": "dhoomraachh bidhunsan sroNat chunsan sunbh nipaat nisunbh mathe ||",
-        "transliteration_hindi": "धूम्राछ बिधुंसन स्रोणत चुंसन सुंभ निपात निसुंभ मथे ॥",
+        "gurmukhi": "DUmRwC ibDuMsin, sROxq cuMsn; suMB npwq, insuMB mQy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2010,9 +2474,7 @@
         "id": "Q9NJ",
         "source_page": 36,
         "source_line": null,
-        "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid AnIl, AgwiD kQy ]20]230]",
-        "transliteration_english": "jai jai hosee mahikhaasur maradhan aadh aneel agaadh kathe ||20||230||",
-        "transliteration_hindi": "जै जै होसी महिखासुर मरदन आदि अनील अगाधि कथे ॥२०॥२३०॥",
+        "gurmukhi": "jY jY hosI, mihKwsur mrdn; Awid AnIl, AgwD kQy ]20]230]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,

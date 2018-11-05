@@ -1,18 +1,16 @@
 [
   {
     "id": "RR1",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
-    "subsection": null,
     "section": "Gyan Prabodh",
-    "sttm2_id": null,
+    "subsection": null,
     "lines": [
       {
         "id": "6WB7",
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "cOpeI ]",
-        "transliteration_english": "choupe'ee ||",
-        "transliteration_hindi": "चौपई ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -36,8 +34,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "sl rwjw jaunY idn jUJw ]",
-        "transliteration_english": "sal raajaa jaunai dhin joojhaa ||",
-        "transliteration_hindi": "सल राजा जउनै दिन जूझा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -61,8 +57,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "kaurau hwr qvn qy sUJw ]",
-        "transliteration_english": "kauru haar tavan te soojhaa ||",
-        "transliteration_hindi": "कउरउ हार तवन ते सूझा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -86,8 +80,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "jUJq sl BieE Asqwmw ]",
-        "transliteration_english": "joojhat sal bheio asataamaa ||",
-        "transliteration_hindi": "जूझत सल भइओ असतामा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -111,8 +103,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "kUitE kot ktku iek jwmw ]1]216]",
-        "transliteration_english": "kooTio koT kaTak eik jaamaa ||1||216||",
-        "transliteration_hindi": "कूटिओ कोट कटकु इक जामा ॥१॥२१६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -136,8 +126,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "iDRst donu mwirE AiqrQI ]",
-        "transliteration_english": "dhrisaT dhon maario atirathee ||",
-        "transliteration_hindi": "ध्रिसट दोनु मारिओ अतिरथी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -161,8 +149,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "pwfv sYn Bly kir mQI ]",
-        "transliteration_english": "paaddav sain bhale kar mathee ||",
-        "transliteration_hindi": "पाडव सैन भले करि मथी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -186,8 +172,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "pwfv ky pwco suq mwry ]",
-        "transliteration_english": "paaddav ke paacho sut maare ||",
-        "transliteration_hindi": "पाडव के पाचो सुत मारे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -211,8 +195,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "duAwpur mY bf kIn AKwry ]2]217]",
-        "transliteration_english": "dhuaapur mai badd keen akhaare ||2||217||",
-        "transliteration_hindi": "दुआपुर मै बड कीन अखारे ॥२॥२१७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -236,8 +218,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "kaurau rwj kIE qb juDw ]",
-        "transliteration_english": "kauru raaj keeo tab judhaa ||",
-        "transliteration_hindi": "कउरउ राज कीओ तब जुधा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -261,8 +241,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "BIm sMig huie kY Aiq k®üDw ]",
-        "transliteration_english": "bheem sang hue kai at karudhaa ||",
-        "transliteration_hindi": "भीम संगि हुइ कै अति क्रुधा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -286,8 +264,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "juD krq kbhU nhI hwrw ]",
-        "transliteration_english": "judh karat kabahoo nahee haaraa ||",
-        "transliteration_hindi": "जुध करत कबहू नही हारा ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -311,8 +287,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "kwl blI iqh Awn sMGwrw ]3]218]",
-        "transliteration_english": "kaal balee tih aan sanghaaraa ||3||218||",
-        "transliteration_hindi": "काल बली तिह आन संघारा ॥३॥२१८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -335,18 +309,16 @@
   },
   {
     "id": "Z8H",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
-    "subsection": null,
     "section": "Gyan Prabodh",
-    "sttm2_id": null,
+    "subsection": null,
     "lines": [
       {
         "id": "0E7A",
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "BujMg pRXwq CMd ]",
-        "transliteration_english": "bhujang prayaat chhandh ||",
-        "transliteration_hindi": "भुजंग प्रयात छंद ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -370,8 +342,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "qhw BIm kurrwj isau juD micE ]",
-        "transliteration_english": "tahaa bheem kuraraaj siu judh machio ||",
-        "transliteration_hindi": "तहा भीम कुरराज सिउ जुध मचिओ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -395,8 +365,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "CutI bRhm qwrI mhw rudR nicE ]",
-        "transliteration_english": "chhuTee braham taaree mahaa rudhr nachio ||",
-        "transliteration_hindi": "छुटी ब्रहम तारी महा रुद्र नचिओ ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -420,8 +388,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "auTY sbd inrGwq AwGwq bIrM ]",
-        "transliteration_english": "auttai sabadh niraghaat aaghaat beeran ||",
-        "transliteration_hindi": "उठै सबद निरघात आघात बीरं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -445,8 +411,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "Bey ruMf muMfM qxM qC qIrM ]1]219]",
-        "transliteration_english": "bhe rundd munddan taNan tachh teeran ||1||219||",
-        "transliteration_hindi": "भए रुंड मुंडं तणं तछ तीरं ॥१॥२१९॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -470,8 +434,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "igry bIr eykM AnykM pRkwrM ]",
-        "transliteration_english": "gire beer ekan anekan prakaaran ||",
-        "transliteration_hindi": "गिरे बीर एकं अनेकं प्रकारं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -495,8 +457,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "igry AD ADM CuDM ssqR DwrM ]",
-        "transliteration_english": "gire adh adhan chhudhan sasatr dhaaran ||",
-        "transliteration_hindi": "गिरे अध अधं छुधं ससत्र धारं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -520,8 +480,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "kty kaurvM dur isMdUr KyqM ]",
-        "transliteration_english": "kaTe kauravan dhur sindhoor khetan ||",
-        "transliteration_hindi": "कटे कउरवं दुर सिंदूर खेतं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -545,8 +503,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "ncy igD AwvD swvMq KyqM ]2]220]",
-        "transliteration_english": "nache gidh aavadh saavant khetan ||2||220||",
-        "transliteration_hindi": "नचे गिध आवध सावंत खेतं ॥२॥२२०॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -570,8 +526,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "blI mMflwkwr jUJY ibrwjY ]",
-        "transliteration_english": "balee manddalaakaar joojhai biraajai ||",
-        "transliteration_hindi": "बली मंडलाकार जूझै बिराजै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -595,8 +549,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "hsY grj TokY Bujw hr du gwjY ]",
-        "transliteration_english": "hasai garaj ttokai bhujaa har dh gaajai ||",
-        "transliteration_hindi": "हसै गरज ठोकै भुजा हर दु गाजै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -620,8 +572,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "idKwvy blI mMflwkwr QwnY ]",
-        "transliteration_english": "dhikhaave balee manddalaakaar thaanai ||",
-        "transliteration_hindi": "दिखावे बली मंडलाकार थानै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -645,8 +595,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "auBwrY Bujw Aau PtwkY gjwnY ]3]221]",
-        "transliteration_english": "aubhaarai bhujaa au faTaakai gajaanai ||3||221||",
-        "transliteration_hindi": "उभारै भुजा अउ फटाकै गजानै ॥३॥२२१॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -670,8 +618,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "suBy svrn ky pqR bwDy gjw mY ]",
-        "transliteration_english": "subhe savaran ke patr baadhe gajaa mai ||",
-        "transliteration_hindi": "सुभे सवरन के पत्र बाधे गजा मै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -695,8 +641,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "BeI Agin soBw lKI kY Dujw mY ]",
-        "transliteration_english": "bhe'ee agan sobhaa lakhee kai dhujaa mai ||",
-        "transliteration_hindi": "भई अगनि सोभा लखी कै धुजा मै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -720,8 +664,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "iBVw mY BRmY mMflwkwr bwhY ]",
-        "transliteration_english": "bhiRaa mai bhramai manddalaakaar baahai ||",
-        "transliteration_hindi": "भिड़ा मै भ्रमै मंडलाकार बाहै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -745,8 +687,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "Apo Awp sY nyik GwieM srwhY ]4]222]",
-        "transliteration_english": "apo aap sai nek ghaaein saraahai ||4||222||",
-        "transliteration_hindi": "अपो आप सै नेकि घाइं सराहै ॥४॥२२२॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -759,7 +699,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "(ਦੋਵੇਾਂ) ਆਪੋ ਆਪਣੇ ਪਾਸਿਆਂ ਵਿਚ ਚੰਗੇ ਫਟ ਲਗਾਉਣ ਵਾਲਿਆਂ ਨੂੰ ਸਲਾਹ ਰਹੇ ਸਨ ॥੪॥੨੨੨॥",
+              "translation": "(ਦੋਵੇਂ) ਆਪੋ ਆਪਣੇ ਪਾਸਿਆਂ ਵਿਚ ਚੰਗੇ ਫਟ ਲਗਾਉਣ ਵਾਲਿਆਂ ਨੂੰ ਸਲਾਹ ਰਹੇ ਸਨ ॥੪॥੨੨੨॥",
               "additional_information": {}
             }
           }
@@ -770,8 +710,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "qhw BIm BwrI Bujw ssqR bwhY ]",
-        "transliteration_english": "tahaa bheem bhaaree bhujaa sasatr baahai ||",
-        "transliteration_hindi": "तहा भीम भारी भुजा ससत्र बाहै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -795,8 +733,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "BlI Bwiq kY kY Bly sYn gwhY ]",
-        "transliteration_english": "bhalee bhaat kai kai bhale sain gaahai ||",
-        "transliteration_hindi": "भली भाति कै कै भले सैन गाहै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -820,8 +756,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "auqY kaurpwlµ DrY CqR DrmM ]",
-        "transliteration_english": "autai kaurapaalan dharai chhatr dharaman ||",
-        "transliteration_hindi": "उतै कउरपालं धरै छत्र धरमं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -845,8 +779,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "krY icq pwivqR bwicqR krmM ]5]223]",
-        "transliteration_english": "karai chit paavitr baachitr karaman ||5||223||",
-        "transliteration_hindi": "करै चित पावित्र बाचित्र करमं ॥५॥२२३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -870,8 +802,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "sBY bwjuvMdM CkY BUpnwxM ]",
-        "transliteration_english": "sabhai baajuvandhan chhakai bhoopanaaNan ||",
-        "transliteration_hindi": "सभै बाजुवंदं छकै भूपनाणं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -895,8 +825,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "lsY muqkw cwr dumilAM hwxM ]",
-        "transliteration_english": "lasai mutakaa chaar dhumalian haaNan ||",
-        "transliteration_hindi": "लसै मुतका चार दुमलिअं हाणं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -909,7 +837,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਅਤੇ ਮੋਤੀਆਂ ਦੇ ਹਾਰ ਸੋਭ ਰਹੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਮੱਲ ਹਾਣੀ ਸਨ।",
+              "translation": "ਅਤੇ ਮੋਤੀਆਂ ਦੇ ਹਾਰ ਸੋਭ ਰਹੇ ਸਨ ਅਤੇ ਦੋਵੇਂ ਮੱਲ ਹਾਣੀ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -920,8 +848,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU mIr DIrM doaU prm EjM ]",
-        "transliteration_english": "dhouoo meer dheeran dhouoo param ojan ||",
-        "transliteration_hindi": "दोऊ मीर धीरं दोऊ परम ओजं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -934,7 +860,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸੈਨਾਨੀ ਬੜੇ ਧੀਰਜ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਬਹੁਤ ਅਧਿਕ ਓਜ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸੈਨਾਨੀ ਬੜੇ ਧੀਰਜ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਵੇਂ ਬਹੁਤ ਅਧਿਕ ਓਜ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -945,8 +871,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU mwnDwqw mhIpM ik BojM ]6]224]",
-        "transliteration_english": "dhouoo maanadhaataa maheepan k bhojan ||6||224||",
-        "transliteration_hindi": "दोऊ मानधाता महीपं कि भोजं ॥६॥२२४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -959,7 +883,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਰਾਜਾ ਮਾਨਧਾਤਾ ਅਥਵਾ ਭੋਜ ਵਰਗੇ ਸਨ ॥੬॥੨੨੪॥",
+              "translation": "ਦੋਵੇਂ ਰਾਜਾ ਮਾਨਧਾਤਾ ਅਥਵਾ ਭੋਜ ਵਰਗੇ ਸਨ ॥੬॥੨੨੪॥",
               "additional_information": {}
             }
           }
@@ -970,8 +894,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU bIr bwnw bDY AD ADM ]",
-        "transliteration_english": "dhouoo beer baanaa badhai adh adhan ||",
-        "transliteration_hindi": "दोऊ बीर बाना बधै अध अधं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -995,8 +917,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU ssqR DwrI mhw juD k®üDM ]",
-        "transliteration_english": "dhouoo sasatr dhaaree mahaa judh karudhan ||",
-        "transliteration_hindi": "दोऊ ससत्र धारी महा जुध क्रुधं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1009,7 +929,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰਧਾਰੀ ਅਤੇ ਬਹੁਤ ਕ੍ਰੋਧ ਨਾਲ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸ਼ਸਤ੍ਰਧਾਰੀ ਅਤੇ ਬਹੁਤ ਕ੍ਰੋਧ ਨਾਲ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1020,8 +940,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU k®¨r krmM doaU jwn bwhM ]",
-        "transliteration_english": "dhouoo karaoor karaman dhouoo jaan baahan ||",
-        "transliteration_hindi": "दोऊ क्रूर करमं दोऊ जान बाहं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1034,7 +952,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਕਠੋਰ ਕਰਮ ਕਰਨ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਹਾ ਦੀਆਂ ਭੁਜਾਵਾ ਗੋਡਿਆਂ ਤਕ ਲੰਬੀਆਂ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਕਠੋਰ ਕਰਮ ਕਰਨ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਹਾ ਦੀਆਂ ਭੁਜਾਵਾ ਗੋਡਿਆਂ ਤਕ ਲੰਬੀਆਂ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1045,8 +963,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU hid ihMdUn swhwn swhM ]7]225]",
-        "transliteration_english": "dhouoo hadh hindhoon saahaan saahan ||7||225||",
-        "transliteration_hindi": "दोऊ हदि हिंदून साहान साहं ॥७॥२२५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1059,7 +975,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਹਿੰਦੂਆਂ ਦੀ ਧੁਰ ਤਕ (ਸ਼ਾਨ ਵਧਾਉਣ ਵਾਲੇ) ਸ਼ਾਹਾ ਦੇ ਸ਼ਾਹ ਸਨ ॥੭॥੨੨੫॥",
+              "translation": "ਦੋਵੇਂ ਹਿੰਦੂਆਂ ਦੀ ਧੁਰ ਤਕ (ਸ਼ਾਨ ਵਧਾਉਣ ਵਾਲੇ) ਸ਼ਾਹਾ ਦੇ ਸ਼ਾਹ ਸਨ ॥੭॥੨੨੫॥",
               "additional_information": {}
             }
           }
@@ -1070,8 +986,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU ssqR DwrM doaU prm dwnµ ]",
-        "transliteration_english": "dhouoo sasatr dhaaran dhouoo param dhaanan ||",
-        "transliteration_hindi": "दोऊ ससत्र धारं दोऊ परम दानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1084,7 +998,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰ ਧਾਰਨ ਕਰਨ ਵਾਲੇ ਅਤੇ ਮਹਾਨ ਦਾਨੀ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸ਼ਸਤ੍ਰ ਧਾਰਨ ਕਰਨ ਵਾਲੇ ਅਤੇ ਮਹਾਨ ਦਾਨੀ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1095,8 +1009,6 @@
         "source_page": 146,
         "source_line": null,
         "gurmukhi": "doaU Fwl FIcwl ihMdU ihMdwnµ ]",
-        "transliteration_english": "dhouoo ddaal ddeechaal hindhoo hindhaanan ||",
-        "transliteration_hindi": "दोऊ ढाल ढीचाल हिंदू हिंदानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1109,7 +1021,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਹਿੰਦੁਤਵ ਦੇ ਸੱਚੇ ਵਿਚ ਢਲੇ ਹੋਏ ਹਿੰਦੂ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਹਿੰਦੁਤਵ ਦੇ ਸੱਚੇ ਵਿਚ ਢਲੇ ਹੋਏ ਹਿੰਦੂ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1120,8 +1032,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU ssqR vrqI doaU CqR DwrI ]",
-        "transliteration_english": "dhouoo sasatr varatee dhouoo chhatr dhaaree ||",
-        "transliteration_hindi": "दोऊ ससत्र वरती दोऊ छत्र धारी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1134,7 +1044,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰਾ ਨੂੰ ਵਰਤਣ ਵਾਲੇ ਅਤੇ ਛਤਰਧਾਰੀ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸ਼ਸਤ੍ਰਾ ਨੂੰ ਵਰਤਣ ਵਾਲੇ ਅਤੇ ਛਤਰਧਾਰੀ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1145,8 +1055,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU prm joDw mhw juDkwrI ]8]226]",
-        "transliteration_english": "dhouoo param jodhaa mahaa judhakaaree ||8||226||",
-        "transliteration_hindi": "दोऊ परम जोधा महा जुधकारी ॥८॥२२६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1159,7 +1067,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਤਕੜੇ ਯੋਧੇ ਅਤੇ ਵੱਡਾ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਸਨ ॥੮॥੨੨੬॥",
+              "translation": "ਦੋਵੇਂ ਤਕੜੇ ਯੋਧੇ ਅਤੇ ਵੱਡਾ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਸਨ ॥੮॥੨੨੬॥",
               "additional_information": {}
             }
           }
@@ -1170,8 +1078,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU KMf KMfI doaU mMf mMfM ]",
-        "transliteration_english": "dhouoo khandd khanddee dhouoo mandd manddan ||",
-        "transliteration_hindi": "दोऊ खंड खंडी दोऊ मंड मंडं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1184,7 +1090,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ (ਵੈਰੀਆਂ ਦੇ) ਖੰਡਾ (ਇਲਾਕਿਆਂ) ਨੂੰ ਖੰਡਣ ਵਾਲੇ ਅਤੇ ਦੋਵੇਾਂ (ਉਨ੍ਰਹਾ ਨੂੰ) ਸਥਾਪਿਤ ਕਰਨ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ (ਵੈਰੀਆਂ ਦੇ) ਖੰਡਾ (ਇਲਾਕਿਆਂ) ਨੂੰ ਖੰਡਣ ਵਾਲੇ ਅਤੇ ਦੋਵੇਂ (ਉਨ੍ਰਹਾ ਨੂੰ) ਸਥਾਪਿਤ ਕਰਨ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1195,8 +1101,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU joD jYqvwru joDw pRcMfM ]",
-        "transliteration_english": "dhouoo jodh jaitavaar jodhaa prachanddan ||",
-        "transliteration_hindi": "दोऊ जोध जैतवारु जोधा प्रचंडं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1209,7 +1113,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਯੋਧਿਆਂ ਨੂੰ ਜਿਤਣ ਵਾਲੇ ਅਤੇ ਖ਼ੁਦ ਪ੍ਰਚੰਡ ਯੋਧੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਯੋਧਿਆਂ ਨੂੰ ਜਿਤਣ ਵਾਲੇ ਅਤੇ ਖ਼ੁਦ ਪ੍ਰਚੰਡ ਯੋਧੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1220,8 +1124,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU bIr bwnI doaU bwh swhM ]",
-        "transliteration_english": "dhouoo beer baanee dhouoo baeh saahan ||",
-        "transliteration_hindi": "दोऊ बीर बानी दोऊ बाह साहं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1234,7 +1136,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ੂਰਵੀਰਾ ਦੇ ਮੋਢੀ ਅਤੇ ਦੋਵੇਾਂ ਭੁਜਾਵਾ ਦੇ ਬਲੀ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸ਼ੂਰਵੀਰਾ ਦੇ ਮੋਢੀ ਅਤੇ ਦੋਵੇਂ ਭੁਜਾਵਾ ਦੇ ਬਲੀ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1245,8 +1147,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU sUr sYnµ doaU sUr mwhM ]9]227]",
-        "transliteration_english": "dhouoo soor sainan dhouoo soor maahan ||9||227||",
-        "transliteration_hindi": "दोऊ सूर सैनं दोऊ सूर माहं ॥९॥२२७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1259,7 +1159,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸੈਨਾਵਾ ਦੇ ਸੂਰਜ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਸੈਨਾਵਾ ਦੇ ਚੰਦ੍ਰਮਾ ਸਨ ॥੯॥੨੨੭॥",
+              "translation": "ਦੋਵੇਂ ਸੈਨਾਵਾ ਦੇ ਸੂਰਜ ਸਨ ਅਤੇ ਦੋਵੇਂ ਸੈਨਾਵਾ ਦੇ ਚੰਦ੍ਰਮਾ ਸਨ ॥੯॥੨੨੭॥",
               "additional_information": {}
             }
           }
@@ -1270,8 +1170,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU ck®vrqI doaU ssqR byqw ]",
-        "transliteration_english": "dhouoo chakaravaratee dhouoo sasatr betaa ||",
-        "transliteration_hindi": "दोऊ चक्रवरती दोऊ ससत्र बेता ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1284,7 +1182,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਚਕਰਵਰਤੀ ਸਨ, ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰ ਚਲਾਉਣ ਵਿਚ ਪ੍ਰਬੀਨ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਚਕਰਵਰਤੀ ਸਨ, ਦੋਵੇਂ ਸ਼ਸਤ੍ਰ ਚਲਾਉਣ ਵਿਚ ਪ੍ਰਬੀਨ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1295,8 +1193,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU jMg joDI doaU jMg jyqw ]",
-        "transliteration_english": "dhouoo jang jodhee dhouoo jang jetaa ||",
-        "transliteration_hindi": "दोऊ जंग जोधी दोऊ जंग जेता ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1309,7 +1205,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਜੰਗ ਦੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਯੁੱਧ ਵਿਚ ਵਿਜਈ ਹੋਣ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਜੰਗ ਦੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਂ ਯੁੱਧ ਵਿਚ ਵਿਜਈ ਹੋਣ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1320,8 +1216,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU icqR joqI doaU icqR cwpM ]",
-        "transliteration_english": "dhouoo chitr jotee dhouoo chitr chaapan ||",
-        "transliteration_hindi": "दोऊ चित्र जोती दोऊ चित्र चापं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1334,7 +1228,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਜੋਤਿ ਦੇ ਚਿਤਰ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਧਨੁਸ਼ ਦੀ ਮੂਰਤ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਜੋਤਿ ਦੇ ਚਿਤਰ ਸਨ ਅਤੇ ਦੋਵੇਂ ਧਨੁਸ਼ ਦੀ ਮੂਰਤ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1345,8 +1239,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU icqR vrmw doaU dust qwpM ]10]228]",
-        "transliteration_english": "dhouoo chitr varamaa dhouoo dhusaT taapan ||10||228||",
-        "transliteration_hindi": "दोऊ चित्र वरमा दोऊ दुसट तापं ॥१०॥२२८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1359,7 +1251,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਢਾਲ ਦੀ ਮੂਰਤ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਦੁਸ਼ਟਾ ਨੂੰ ਦੁਖ ਦੇਣ ਵਾਲੇ ਸਨ ॥੧੦॥੨੨੮॥",
+              "translation": "ਦੋਵੇਂ ਢਾਲ ਦੀ ਮੂਰਤ ਸਨ ਅਤੇ ਦੋਵੇਂ ਦੁਸ਼ਟਾ ਨੂੰ ਦੁਖ ਦੇਣ ਵਾਲੇ ਸਨ ॥੧੦॥੨੨੮॥",
               "additional_information": {}
             }
           }
@@ -1370,8 +1262,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU KMf KMfI doaU mMf mMfM ]",
-        "transliteration_english": "dhouoo khandd khanddee dhouoo mandd manddan ||",
-        "transliteration_hindi": "दोऊ खंड खंडी दोऊ मंड मंडं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1384,7 +1274,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ (ਵੈਰੀਆਂ ਦੇ) ਖੰਡਾ (ਖੇਤਰਾ) ਨੂੰ ਖੰਡਣ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ (ਉਨ੍ਰਹਾ ਨੂੰ) ਸਥਾਪਿਤ ਕਰਨ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ (ਵੈਰੀਆਂ ਦੇ) ਖੰਡਾ (ਖੇਤਰਾ) ਨੂੰ ਖੰਡਣ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਵੇਂ (ਉਨ੍ਰਹਾ ਨੂੰ) ਸਥਾਪਿਤ ਕਰਨ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1395,8 +1285,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU icqR joqI su joDw pRcMfM ]",
-        "transliteration_english": "dhouoo chitr jotee su jodhaa prachanddan ||",
-        "transliteration_hindi": "दोऊ चित्र जोती सु जोधा प्रचंडं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1409,7 +1297,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਜੋਤਿ ਦਾ ਚਿਤਰ ਸਨ ਅਤੇ ਪ੍ਰਚੰਡ ਯੋਧੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਜੋਤਿ ਦਾ ਚਿਤਰ ਸਨ ਅਤੇ ਪ੍ਰਚੰਡ ਯੋਧੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1420,8 +1308,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU mq bwruMn ibk®m smwnµ ]",
-        "transliteration_english": "dhouoo mat baarunn bikaram samaanan ||",
-        "transliteration_hindi": "दोऊ मत बारुंन बिक्रम समानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1434,7 +1320,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਹਾਥੀ ('ਬਾਰੁੰਨ') ਵਾਗ ਮਸਤ ਅਤੇ (ਰਾਜਾ) ਬਿਕ੍ਰਮ ਦੇ ਸਮਾਨ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਹਾਥੀ ('ਬਾਰੁੰਨ') ਵਾਗ ਮਸਤ ਅਤੇ (ਰਾਜਾ) ਬਿਕ੍ਰਮ ਦੇ ਸਮਾਨ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1445,8 +1331,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU ssqR byqw doaU ssqR pwnµ ]11]229]",
-        "transliteration_english": "dhouoo sasatr betaa dhouoo sasatr paanan ||11||229||",
-        "transliteration_hindi": "दोऊ ससत्र बेता दोऊ ससत्र पानं ॥११॥२२९॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1459,7 +1343,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰ (ਚਲਾਉਣ ਵਿਚ) ਪ੍ਰਬੀਨ ਸਨ ਅਤੇ ਦੋਹਾ ਨੇ ਹੱਥ ਵਿਚ ਸ਼ਸਤ੍ਰ (ਧਾਰਨ ਕੀਤੇ ਹੋਏ ਸ ਨ) ॥੧੧॥੨੨੯॥",
+              "translation": "ਦੋਵੇਂ ਸ਼ਸਤ੍ਰ (ਚਲਾਉਣ ਵਿਚ) ਪ੍ਰਬੀਨ ਸਨ ਅਤੇ ਦੋਹਾ ਨੇ ਹੱਥ ਵਿਚ ਸ਼ਸਤ੍ਰ (ਧਾਰਨ ਕੀਤੇ ਹੋਏ ਸ ਨ) ॥੧੧॥੨੨੯॥",
               "additional_information": {}
             }
           }
@@ -1470,8 +1354,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU prm joDy doaU k®üDvwnµ ]",
-        "transliteration_english": "dhouoo param jodhe dhouoo karudhavaanan ||",
-        "transliteration_hindi": "दोऊ परम जोधे दोऊ क्रुधवानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1484,7 +1366,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਵੱਡੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਕ੍ਰੋਧ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਵੱਡੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਂ ਕ੍ਰੋਧ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1495,8 +1377,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU ssqR byqw doaU rUp Kwnµ ]",
-        "transliteration_english": "dhouoo sasatr betaa dhouoo roop khaanan ||",
-        "transliteration_hindi": "दोऊ ससत्र बेता दोऊ रूप खानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1509,7 +1389,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸ਼ਸਤ੍ਰ-ਵਿਦਿਆ ਜਾਣਨ ਵਾਲੇ ਅਤੇ ਦੋਵੇਾਂ ਰੂਪ ਦੀ ਖਾਣ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸ਼ਸਤ੍ਰ-ਵਿਦਿਆ ਜਾਣਨ ਵਾਲੇ ਅਤੇ ਦੋਵੇਂ ਰੂਪ ਦੀ ਖਾਣ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1520,8 +1400,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU CqRpwlµ doaU CqR DrmM ]",
-        "transliteration_english": "dhouoo chhatrapaalan dhouoo chhatr dharaman ||",
-        "transliteration_hindi": "दोऊ छत्रपालं दोऊ छत्र धरमं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1534,7 +1412,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਛਤਰਪਾਲ ਅਤੇ ਦੋਵੇਾਂ ਛਾਤਰ ਧਰਮ (ਦੀ ਰਖਿਆ ਕਰਨ ਵਾਲੇ) ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਛਤਰਪਾਲ ਅਤੇ ਦੋਵੇਂ ਛਾਤਰ ਧਰਮ (ਦੀ ਰਖਿਆ ਕਰਨ ਵਾਲੇ) ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1545,8 +1423,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU juD joDw doaU k®¨r krmM ]12]230]",
-        "transliteration_english": "dhouoo judh jodhaa dhouoo karaoor karaman ||12||230||",
-        "transliteration_hindi": "दोऊ जुध जोधा दोऊ क्रूर करमं ॥१२॥२३०॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1559,7 +1435,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਕਠੋਰ ਕਰਮ ਕਰਨ ਵਾਲੇ ਸਨ ॥੧੨॥੨੩੦॥",
+              "translation": "ਦੋਵੇਂ ਯੁੱਧ ਕਰਨ ਵਾਲੇ ਯੋਧੇ ਸਨ ਅਤੇ ਦੋਵੇਂ ਕਠੋਰ ਕਰਮ ਕਰਨ ਵਾਲੇ ਸਨ ॥੧੨॥੨੩੦॥",
               "additional_information": {}
             }
           }
@@ -1570,8 +1446,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU mMflwkwr jUJy ibrwjY ]",
-        "transliteration_english": "dhouoo manddalaakaar joojhe biraajai ||",
-        "transliteration_hindi": "दोऊ मंडलाकार जूझे बिराजै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1584,7 +1458,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਮੰਡਲਾਕਾਰ ਵਿਚ ਖੜੋ ਕੇ ਜੂਝ ਰਹੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਮੰਡਲਾਕਾਰ ਵਿਚ ਖੜੋ ਕੇ ਜੂਝ ਰਹੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1595,8 +1469,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "hQY hr du TokY Bujw pwie gwjY ]",
-        "transliteration_english": "hathai har dh ttokai bhujaa paae gaajai ||",
-        "transliteration_hindi": "हथै हर दु ठोकै भुजा पाइ गाजै ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1609,7 +1481,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਡੌਲਿਆਂ (ਭੁਜਾਵਾ) ਨੂੰ ਹੱਥਾ ਨਾਲ ਠੋਕਦੇ ਸਨ ਅਤੇ (ਧਰਤੀ ਉਤੇ) ਪੈਰ (ਮਾਰ ਕੇ) ਗਜਦੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਡੌਲਿਆਂ (ਭੁਜਾਵਾ) ਨੂੰ ਹੱਥਾ ਨਾਲ ਠੋਕਦੇ ਸਨ ਅਤੇ (ਧਰਤੀ ਉਤੇ) ਪੈਰ (ਮਾਰ ਕੇ) ਗਜਦੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1620,8 +1492,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU KqRhwxM doaU KqR KMfM ]",
-        "transliteration_english": "dhouoo khatrahaaNan dhouoo khatr khanddan ||",
-        "transliteration_hindi": "दोऊ खत्रहाणं दोऊ खत्र खंडं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1634,7 +1504,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਛਤਰੀਆਂ ਦੀ ਹਾਨੀ ਕਰਨ ਵਾਲੇ ਅਤੇ ਛਤਰੀਆਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਛਤਰੀਆਂ ਦੀ ਹਾਨੀ ਕਰਨ ਵਾਲੇ ਅਤੇ ਛਤਰੀਆਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1645,8 +1515,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU Kg pwxM doaU CyqR mMfM ]13]231]",
-        "transliteration_english": "dhouoo khag paaNan dhouoo chhetr manddan ||13||231||",
-        "transliteration_hindi": "दोऊ खग पाणं दोऊ छेत्र मंडं ॥१३॥२३१॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1659,7 +1527,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਹਾ ਦੇ ਹੱਥਾ ਵਿਚ ਤਲਵਾਰਾ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਯੁੱਧ-ਭੂਮੀ ਨੂੰ ਸੁਸ਼ੋਭਿਤ ਕਰਨ ਵਾਲੇ ਸਨ ॥੧੩॥੨੩੧॥",
+              "translation": "ਦੋਹਾ ਦੇ ਹੱਥਾ ਵਿਚ ਤਲਵਾਰਾ ਸਨ ਅਤੇ ਦੋਵੇਂ ਯੁੱਧ-ਭੂਮੀ ਨੂੰ ਸੁਸ਼ੋਭਿਤ ਕਰਨ ਵਾਲੇ ਸਨ ॥੧੩॥੨੩੧॥",
               "additional_information": {}
             }
           }
@@ -1670,8 +1538,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU icqRjoqI doaU cwr ibcwrM ]",
-        "transliteration_english": "dhouoo chitrajotee dhouoo chaar bichaaran ||",
-        "transliteration_hindi": "दोऊ चित्रजोती दोऊ चार बिचारं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1684,7 +1550,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਸੁੰਦਰ ਜੋਤਿ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਹਾ ਦੇ ਵਿਚਾਰ ਸੁੰਦਰ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਸੁੰਦਰ ਜੋਤਿ ਵਾਲੇ ਸਨ ਅਤੇ ਦੋਹਾ ਦੇ ਵਿਚਾਰ ਸੁੰਦਰ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1695,8 +1561,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU mMflwkwr KMfw AbwrM ]",
-        "transliteration_english": "dhouoo manddalaakaar khanddaa abaaran ||",
-        "transliteration_hindi": "दोऊ मंडलाकार खंडा अबारं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1709,7 +1573,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਮੰਡਲਾਕਾਰ ਵਿਚ ਲਗਾਤਾਰ ਖੰਡਾ ਚਲਾ ਰਹੇ ਸਨ।",
+              "translation": "ਦੋਵੇਂ ਮੰਡਲਾਕਾਰ ਵਿਚ ਲਗਾਤਾਰ ਖੰਡਾ ਚਲਾ ਰਹੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1720,8 +1584,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU Kg KUnI doaU KqRhwxM ]",
-        "transliteration_english": "dhouoo khag khoonee dhouoo khatrahaaNan ||",
-        "transliteration_hindi": "दोऊ खग खूनी दोऊ खत्रहाणं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1734,7 +1596,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਹਾ ਦੀਆਂ ਤਲਵਾਰਾ ਲਹੂ ਨਾਲ ਲਿਬੜੀਆਂ ਸਨ ਅਤੇ ਦੋਵੇਾਂ ਛਤਰੀਆਂ ਦਾ ਨੁਕਸਾਨ ਕਰਨ ਵਾਲੇ ਸਨ।",
+              "translation": "ਦੋਹਾ ਦੀਆਂ ਤਲਵਾਰਾ ਲਹੂ ਨਾਲ ਲਿਬੜੀਆਂ ਸਨ ਅਤੇ ਦੋਵੇਂ ਛਤਰੀਆਂ ਦਾ ਨੁਕਸਾਨ ਕਰਨ ਵਾਲੇ ਸਨ।",
               "additional_information": {}
             }
           }
@@ -1745,8 +1607,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU KqRKyqw doaU CqRpwxM ]14]232]",
-        "transliteration_english": "dhouoo khatrakhetaa dhouoo chhatrapaaNan ||14||232||",
-        "transliteration_hindi": "दोऊ खत्रखेता दोऊ छत्रपाणं ॥१४॥२३२॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1759,7 +1619,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਦੋਵੇਾਂ ਛਤਰਾਣੀਆਂ (ਖੇਤਾ) (ਤੋਂ ਪੈਦਾ ਹੋਏ ਸਨ) ਅਤੇ ਦੋਵੇਾਂ ਛਾਤਰ-ਪਣੇ ਵਾਲੇ ਸਨ ॥੧੪॥੨੩੨॥",
+              "translation": "ਦੋਵੇਂ ਛਤਰਾਣੀਆਂ (ਖੇਤਾ) (ਤੋਂ ਪੈਦਾ ਹੋਏ ਸਨ) ਅਤੇ ਦੋਵੇਂ ਛਾਤਰ-ਪਣੇ ਵਾਲੇ ਸਨ ॥੧੪॥੨੩੨॥",
               "additional_information": {}
             }
           }
@@ -1770,8 +1630,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "doaU bIr ibb Awsq Dwry inhwry ]",
-        "transliteration_english": "dhouoo beer bib aasat dhaare nihaare ||",
-        "transliteration_hindi": "दोऊ बीर बिब आसत धारे निहारे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1795,8 +1653,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "rhy bÎom mY BUp gaunY hkwry ]",
-        "transliteration_english": "rahe bayom mai bhoop gaunai hakaare ||",
-        "transliteration_hindi": "रहे ब्योम मै भूप गउनै हकारे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1820,8 +1676,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "hkw hk lwgI Dnµ DMn jMpRXo ]",
-        "transliteration_english": "hakaa hak laagee dhanan dhann janprayo ||",
-        "transliteration_hindi": "हका हक लागी धनं धंन जंप्रयो ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1845,8 +1699,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "ck®Xo jC rwjM ipRQI lok kMpÎo ]15]233]",
-        "transliteration_english": "chakarayo jachh raajan prithee lok kanpayo ||15||233||",
-        "transliteration_hindi": "चक्रयो जछ राजं प्रिथी लोक कंप्यो ॥१५॥२३३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1870,8 +1722,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "hinE rwj durjoDnµ juD BUmM ]",
-        "transliteration_english": "hanio raaj dhurajodhanan judh bhooman ||",
-        "transliteration_hindi": "हनिओ राज दुरजोधनं जुध भूमं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1895,8 +1745,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "Bjy sBY joDw clI Dwm DUmM ]",
-        "transliteration_english": "bhaje sabhai jodhaa chalee dhaam dhooman ||",
-        "transliteration_hindi": "भजे सभै जोधा चली धाम धूमं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1920,8 +1768,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "kirXo rwj inhkMtkM kaurpwlµ ]",
-        "transliteration_english": "kariyo raaj nihakanTakan kaurapaalan ||",
-        "transliteration_hindi": "करियो राज निहकंटकं कउरपालं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1945,8 +1791,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "punr jwie kY miJ isJY ihvwlµ ]16]234]",
-        "transliteration_english": "punar jaae kai majh sijhai hivaalan ||16||234||",
-        "transliteration_hindi": "पुनर जाइ कै मझि सिझै हिवालं ॥१६॥२३४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1970,8 +1814,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "qhw eyk gMDRb isau juD mcÎo ]",
-        "transliteration_english": "tahaa ek gandhrab siu judh machayo ||",
-        "transliteration_hindi": "तहा एक गंध्रब सिउ जुध मच्यो ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1995,8 +1837,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "qhw BUrpwlµ DUrw rMgu rcÎo ]",
-        "transliteration_english": "tahaa bhoorapaalan dhooraa rang rachayo ||",
-        "transliteration_hindi": "तहा भूरपालं धूरा रंगु रच्यो ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2020,8 +1860,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "qhw sqRü ky BIm hsqI clwey ]",
-        "transliteration_english": "tahaa satr ke bheem hasatee chalaae ||",
-        "transliteration_hindi": "तहा सत्रु के भीम हसती चलाए ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2045,8 +1883,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "iPry miD gYxM Ajau lau n Awey ]17]235]",
-        "transliteration_english": "fire madh gaiNan aju lu na aae ||17||235||",
-        "transliteration_hindi": "फिरे मधि गैणं अजउ लउ न आए ॥१७॥२३५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2070,8 +1906,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "sunY bYn kau BUp ieau AYT nwkM ]",
-        "transliteration_english": "sunai bain ku bhoop eiu aaitt naakan ||",
-        "transliteration_hindi": "सुनै बैन कउ भूप इउ ऐठ नाकं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2095,8 +1929,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "kirXo hws mMdY bulÎo eym bwkM ]",
-        "transliteration_english": "kariyo haas mandhai bulayo em baakan ||",
-        "transliteration_hindi": "करियो हास मंदै बुल्यो एम बाकं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2109,7 +1941,7 @@
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਅਤੇ ਕਹਿਣ ਲਗਾ (ਹਾਥੀਆਂ ਨੂੰ ਸੁਟਣ ਵਾਲੀ) ਐਵੇਾਂ ਗੱਪ ਹੈ।",
+              "translation": "ਅਤੇ ਕਹਿਣ ਲਗਾ (ਹਾਥੀਆਂ ਨੂੰ ਸੁਟਣ ਵਾਲੀ) ਐਵੇਂ ਗੱਪ ਹੈ।",
               "additional_information": {}
             }
           }
@@ -2120,8 +1952,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "rihXo nwk mY kust CqRI svwnµ ]",
-        "transliteration_english": "rahiyo naak mai kusaT chhatree savaanan ||",
-        "transliteration_hindi": "रहियो नाक मै कुसट छत्री सवानं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -2145,8 +1975,6 @@
         "source_page": 147,
         "source_line": null,
         "gurmukhi": "BeI qaun hI rog qy BUp hwnµ ]18]236]",
-        "transliteration_english": "bhe'ee taun hee rog te bhoop haanan ||18||236||",
-        "transliteration_hindi": "भई तउन ही रोग ते भूप हानं ॥१८॥२३६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,

@@ -22,6 +22,7 @@ const Subsections = require( './lib/models/Subsections' )
 const Shabads = require( './lib/models/Shabads' )
 const Sources = require( './lib/models/Sources' )
 const Writers = require( './lib/models/Writers' )
+const Transliterations = require( './lib/models/Transliterations' )
 const Translations = require( './lib/models/Translations' )
 const TranslationSources = require( './lib/models/TranslationSources' )
 const Languages = require( './lib/models/Languages' )
@@ -33,6 +34,7 @@ module.exports = {
   Languages,
   Lines,
   LineTypes,
+  Transliterations,
   Translations,
   TranslationSources,
   Sections,

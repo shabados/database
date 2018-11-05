@@ -1,18 +1,1428 @@
 [
   {
-    "id": "K6W",
+    "id": "GYT",
+    "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
-    "subsection": null,
     "section": "Jaap",
-    "sttm2_id": null,
+    "subsection": null,
+    "lines": [
+      {
+        "id": "6J4U",
+        "source_page": 3,
+        "source_line": 2,
+        "gurmukhi": "cwcrI CMd ] qÍ pRswid ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHACHARI STANZA. BY THY GRACE",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚਾਚਰੀ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "DCXL",
+        "source_page": 3,
+        "source_line": 2,
+        "gurmukhi": "ArUp hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Formless Lord !",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਰੂਪ ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "2WJ0",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "AnUp hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unparalleled Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਪਮਾ ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LLQV",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "AjU hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਨਮ ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PJ9F",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "ABU hYN ]29]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Non-Being Lord! 29",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਪੰਜ) ਭੂਤਾ ਤੋਂ ਰਹਿਤ ਹੈਂ ॥੨੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "A5KR",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "AlyK hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unaccountable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਲੇਖ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UTMS",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "AByK hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Garbless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਭੇਖ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N186",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "Anwm hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Nameless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਾਮ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0PVP",
+        "source_page": 3,
+        "source_line": 3,
+        "gurmukhi": "Akwm hYN ]30]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Desireless Lord! 30",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਾਮਨਾ-ਰਹਿਤ ਹੈਂ ॥੩੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "NDKX",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "ADy hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Propless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਧਿਆਨ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TCGS",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "ABy hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Non-Discriminating Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਭੇਦ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "F5YP",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "AjIq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unconquerable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਜਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XHH2",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "ABIq hYN ]31]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Fearless Lord! 31",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਭੈ ਹੈਂ ॥੩੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "F7L2",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "iqRmwn hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Universally-Honoured Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਤਿੰਨਾ ਲੋਕਾ ਵਿਚ ਮੰਨਣਯੋਗ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "GA0U",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "inDwn hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Treasure Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਸਭ ਦਾ) ਖ਼ਜ਼ਾਨਾ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "980A",
+        "source_page": 3,
+        "source_line": 4,
+        "gurmukhi": "iqRbrg hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Master of Attributes Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤਿੰਨ ਵਰਗਾ (ਧਰਮ, ਅਰਥ ਅਤੇ ਕਾਮ ਜਾ ਦੇਵਤਾ, ਦੈਂਤ ਅਤੇ ਮਨੁੱਖ) ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "EH0E",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "Asrg hYN ]32]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord! 32",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਉਤਪਤੀ (ਸਰਗ) ਰਹਿਤ ਹੈਂ ॥੩੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PKAK",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "AnIl hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Colourless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਰੰਗ-ਰਹਿਤ (ਅਥਵਾ ਸੰਖਿਆ ਰਹਿਤ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "7VH8",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "Anwid hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Beginningless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਆਦਿ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "K6YV",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "Ajy hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਜਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "675N",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "Ajwid hYN ]33]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Independent Lord! 33",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਬ੍ਰਹਮਾ (ਅਜ) ਤੋਂ ਵੀ ਪਹਿਲਾ ਦਾ ਹੈਂ ॥੩੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XX5D",
+        "source_page": 3,
+        "source_line": 5,
+        "gurmukhi": "Ajnm hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਜਨਮ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UHTV",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "Abrn hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Colourless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਰੰਗ (ਵਰਨ) ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LVC6",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "ABUq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Elementless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੱਤ੍ਵ (ਭੂਤ) ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "WWE5",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "ABrn hYN ]34]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Perfect Lord! 34",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪੋਸ਼ਣ (ਭਰਨ) ਰਹਿਤ ਹੈਂ ॥੩੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UZCL",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "AgMj hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Invincible Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਨਾਸ਼-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "J74X",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "ABMj hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unbreakable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਟੁੱਟ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HFUV",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "AJUJ hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unconquerable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਿਰਦੁਅੰਦ (ਝਗੜੇ ਤੋਂ ਮੁਕਤ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "SRW8",
+        "source_page": 3,
+        "source_line": 6,
+        "gurmukhi": "AJMJ hYN ]35]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou are Tensionless Lord! 35",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਡੋਲ ਹੈਂ ॥੩੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4TDU",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "AmIk hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Deepest Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਅਥਾਹ (ਅਮੀਕ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8CXJ",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "rPIk hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Friendliest Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਸਭਨਾ ਦਾ) ਸਾਥੀ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "F7WS",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "ADMD hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Strife less Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਧੰਧਿਆਂ ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "X3KM",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "AbMD hYN ]36]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Bondless Lord! 36",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਬੰਧਨ ਤੋਂ ਰਹਿਤ ਹੈਂ ॥੩੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CCBJ",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "inRbUJ hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unthinkable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਨਿਰਬੂਝ (ਬੁਝੇ ਜਾਣ ਤੋਂ ਪਰੇ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8GQ3",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "AsUJ hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unknowable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਸੂਝ (ਸਮਝੇ ਜਾਣ ਤੋਂ ਪਰੇ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "Y3GR",
+        "source_page": 3,
+        "source_line": 7,
+        "gurmukhi": "Akwl hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Immortal Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਾਲ-ਰਹਿਤ ਹੈ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "3310",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "Ajwl hYN ]37]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unbound Lord! 37",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਮਾਇਆ-ਜਾਲ ਤੋਂ ਮੁਕਤ ਹੈਂ ॥੩੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "DDQ6",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "Alwh hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unbound Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਲਾਭ (ਲਾਹ) ਪ੍ਰਾਪਤ ਕਰਨ ਤੋਂ ਮੁਕਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4Q79",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "Ajwh hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Placeless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਬਿਨਾ ਕਿਸੇ ਸਥਾਨ ਦੇ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "722U",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "Anµq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Infinite Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅੰਤ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TWC2",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "mhMq hYN ]38]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Greatest Lord! 38",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਮਹਾਨਤਾ ਵਾਲਾ ਹੈਂ ॥੩੮॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CEJN",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "AlIk hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Limitless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਅਸੀਮ (ਲਕੀਰ ਤੋਂ ਮੁਕਤ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HQVL",
+        "source_page": 3,
+        "source_line": 8,
+        "gurmukhi": "inRsRIk hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unparalleled Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਲਾ-ਸ਼ਰੀਕ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N0LA",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "inRlµB hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Propless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਆਸਰਾ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "A5GE",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "AsMB hYN ]39]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord! 39",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਨਮ ਰਹਿਤ (ਸ੍ਵਯੰਭਵ) ਹੈਂ ॥੩੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8L0W",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "AgMm hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unfathomable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CSNK",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "AjMm hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unborn Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਜਨਮ ਤੋਂ ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "3FKK",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "ABUq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Elementless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪੰਜ ਭੌਤਿਕ ਹੋਂਦ ਤੋਂ ਪਰੇ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8KE0",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "ACUq hYN ]40]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Uncontaminated Lord! 40",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਛੋਹ ਹੈਂ ॥੪੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "FXC6",
+        "source_page": 3,
+        "source_line": 9,
+        "gurmukhi": "Alok hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art All-Pervasive Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਅਦ੍ਰਿਸ਼ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BS6F",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "Asok hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Woeless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸੋਗ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "QD38",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "Akrm hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Deedless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਕਰਮ-ਰਹਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZTBJ",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "ABrm hYN ]41]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Illusionless Lord! 41",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਭਰਮ-ਰਹਿਤ ਹੈਂ ॥੪੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "THNY",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "AjIq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unconquerable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਅਜਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "9MKF",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "ABIq hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Fearless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਨਿਡਰ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "KKP7",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "Abwh hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Motionless Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਚਲ (ਵਾਹਨ ਦੁਆਰਾ ਚਲਾਏ ਨਾ ਜਾ ਸਕਣ ਵਾਲਾ) ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "DBTJ",
+        "source_page": 3,
+        "source_line": 10,
+        "gurmukhi": "Agwh hYN ]42]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Unfathomable Lord.! 42",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਥਾਹ (ਸਮੁੰਦਰ ਵਾਗ) ਹੈਂ ॥੪੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "T640",
+        "source_page": 3,
+        "source_line": 11,
+        "gurmukhi": "Amwn hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Immeasurable Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਤੂੰ) ਅਮਿਤ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "80FH",
+        "source_page": 3,
+        "source_line": 11,
+        "gurmukhi": "inDwn hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Treasure Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "(ਸਭ ਦਾ) ਖ਼ਜ਼ਾਨਾ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TPPQ",
+        "source_page": 3,
+        "source_line": 11,
+        "gurmukhi": "Anyk hYN ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art Manifold Lord!",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਅਨੇਕ ਰੂਪਾ ਵਾਲਾ ਹੈਂ,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XXBD",
+        "source_page": 3,
+        "source_line": 11,
+        "gurmukhi": "iPir eyk hYN ]43]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "Thou art the Only one Lord! 43",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਰ ਫਿਰ ਵੀ ਇਕ ਹੈਂ ॥੪੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "K6W",
+    "sttm_id": null,
+    "writer": "Guru Gobind Singh Ji",
+    "section": "Jaap",
+    "subsection": null,
     "lines": [
       {
         "id": "HS47",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "BujMg pRXwq CMd ]",
-        "transliteration_english": "bhujang prayaat chhandh ||",
-        "transliteration_hindi": "भुजंग प्रयात छंद ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -34,10 +1444,8 @@
       {
         "id": "WM62",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 11,
         "gurmukhi": "nmo srb mwny ]",
-        "transliteration_english": "namo sarab maane ||",
-        "transliteration_hindi": "नमो सरब माने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -59,10 +1467,8 @@
       {
         "id": "CART",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "smsqI inDwny ]",
-        "transliteration_english": "samasatee nidhaane ||",
-        "transliteration_hindi": "समसती निधाने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -84,10 +1490,8 @@
       {
         "id": "LKTH",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmo dyv dyvy ]",
-        "transliteration_english": "namo dhev dheve ||",
-        "transliteration_hindi": "नमो देव देवे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -109,10 +1513,8 @@
       {
         "id": "2YDJ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "AByKI AByvy ]44]",
-        "transliteration_english": "abhekhee abheve ||44||",
-        "transliteration_hindi": "अभेखी अभेवे ॥४४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -134,10 +1536,8 @@
       {
         "id": "34BL",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmo kwl kwly ]",
-        "transliteration_english": "namo kaal kaale ||",
-        "transliteration_hindi": "नमो काल काले ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -159,10 +1559,8 @@
       {
         "id": "QN3G",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 12,
         "gurmukhi": "nmo srb pwly ]",
-        "transliteration_english": "namo sarab paale ||",
-        "transliteration_hindi": "नमो सरब पाले ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -184,10 +1582,8 @@
       {
         "id": "TM2V",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb gauxy ]",
-        "transliteration_english": "namo sarab gauNe ||",
-        "transliteration_hindi": "नमो सरब गउणे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -209,10 +1605,8 @@
       {
         "id": "94G6",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "nmo srb Bauxy ]45]",
-        "transliteration_english": "namo sarab bhauNe ||45||",
-        "transliteration_hindi": "नमो सरब भउणे ॥४५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -234,10 +1628,8 @@
       {
         "id": "45ZF",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "AnµgI AnwQy ]",
-        "transliteration_english": "ananagee anaathe ||",
-        "transliteration_hindi": "अनंगी अनाथे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -259,10 +1651,8 @@
       {
         "id": "F76D",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 13,
         "gurmukhi": "inRsMgI pRmwQy ]",
-        "transliteration_english": "nrisangee pramaathe ||",
-        "transliteration_hindi": "न्रिसंगी प्रमाथे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -284,10 +1674,8 @@
       {
         "id": "6ASB",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo Bwn Bwny ]",
-        "transliteration_english": "namo bhaan bhaane ||",
-        "transliteration_hindi": "नमो भान भाने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -309,10 +1697,8 @@
       {
         "id": "PDT2",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo mwn mwny ]46]",
-        "transliteration_english": "namo maan maane ||46||",
-        "transliteration_hindi": "नमो मान माने ॥४६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -334,10 +1720,8 @@
       {
         "id": "JS8C",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo cMdRy cMdRy ]",
-        "transliteration_english": "namo chandhre chandhre ||",
-        "transliteration_hindi": "नमो चंद्रे चंद्रे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -359,10 +1743,8 @@
       {
         "id": "TMRC",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo Bwn Bwny ]",
-        "transliteration_english": "namo bhaan bhaane ||",
-        "transliteration_hindi": "नमो भान भाने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -384,10 +1766,8 @@
       {
         "id": "5RMM",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo gIq gIqy ]",
-        "transliteration_english": "namo geet geete ||",
-        "transliteration_hindi": "नमो गीत गीते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -409,10 +1789,8 @@
       {
         "id": "PC4P",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 14,
         "gurmukhi": "nmo qwn qwny ]47]",
-        "transliteration_english": "namo taan taane ||47||",
-        "transliteration_hindi": "नमो तान ताने ॥४७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -434,10 +1812,8 @@
       {
         "id": "PAQ3",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmo inRq inRqy ]",
-        "transliteration_english": "namo nrit nrite ||",
-        "transliteration_hindi": "नमो न्रित न्रिते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -459,10 +1835,8 @@
       {
         "id": "AQFN",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmo nwd nwdy ]",
-        "transliteration_english": "namo naadh naadhe ||",
-        "transliteration_hindi": "नमो नाद नादे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -484,10 +1858,8 @@
       {
         "id": "SZYC",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmo pwn pwny ]",
-        "transliteration_english": "namo paan paane ||",
-        "transliteration_hindi": "नमो पान पाने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -509,10 +1881,8 @@
       {
         "id": "89MZ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "nmo bwd bwdy ]48]",
-        "transliteration_english": "namo baadh baadhe ||48||",
-        "transliteration_hindi": "नमो बाद बादे ॥४८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -534,10 +1904,8 @@
       {
         "id": "B0PF",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 15,
         "gurmukhi": "AnµgI Anwmy ]",
-        "transliteration_english": "ananagee anaame ||",
-        "transliteration_hindi": "अनंगी अनामे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -559,10 +1927,8 @@
       {
         "id": "PZ7F",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "smsqI srUpy ]",
-        "transliteration_english": "samasatee saroope ||",
-        "transliteration_hindi": "समसती सरूपे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -584,10 +1950,8 @@
       {
         "id": "DXXQ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "pRBMgI pRmwQy ]",
-        "transliteration_english": "prabhangee pramaathe ||",
-        "transliteration_hindi": "प्रभंगी प्रमाथे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -609,10 +1973,8 @@
       {
         "id": "JW1K",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "smsqI ibBUqy ]49]",
-        "transliteration_english": "samasatee bibhoote ||49||",
-        "transliteration_hindi": "समसती बिभूते ॥४९॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -634,10 +1996,8 @@
       {
         "id": "7UJM",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 16,
         "gurmukhi": "klµkM ibnw nyklµkI srUpy ]",
-        "transliteration_english": "kalanakan binaa nekalanakee saroope ||",
-        "transliteration_hindi": "कलंकं बिना नेकलंकी सरूपे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -659,10 +2019,8 @@
       {
         "id": "58FF",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmo rwj rwjysÍrM prm rUpy ]50]",
-        "transliteration_english": "namo raaj raajesvYaran param roope ||50||",
-        "transliteration_hindi": "नमो राज राजेस्वरं परम रूपे ॥५०॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -684,10 +2042,8 @@
       {
         "id": "70LZ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmo jog jogysÍrM prm isDy ]",
-        "transliteration_english": "namo jog jogesvYaran param sidhe ||",
-        "transliteration_hindi": "नमो जोग जोगेस्वरं परम सिधे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -709,10 +2065,8 @@
       {
         "id": "B8QD",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 17,
         "gurmukhi": "nmo rwj rwjysÍrM prm ibRDy ]51]",
-        "transliteration_english": "namo raaj raajesvYaran param bridhe ||51||",
-        "transliteration_hindi": "नमो राज राजेस्वरं परम ब्रिधे ॥५१॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -734,10 +2088,8 @@
       {
         "id": "1AEC",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmo ssqR pwxy ]",
-        "transliteration_english": "namo sasatr paaNe ||",
-        "transliteration_hindi": "नमो ससत्र पाणे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -759,10 +2111,8 @@
       {
         "id": "HWMZ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmo AsqR mwxy ]",
-        "transliteration_english": "namo asatr maaNe ||",
-        "transliteration_hindi": "नमो असत्र माणे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -784,10 +2134,8 @@
       {
         "id": "TWNJ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmo prm igAwqw ]",
-        "transliteration_english": "namo param giaataa ||",
-        "transliteration_hindi": "नमो परम गिआता ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -809,10 +2157,8 @@
       {
         "id": "3XEQ",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 18,
         "gurmukhi": "nmo lok mwqw ]52]",
-        "transliteration_english": "namo lok maataa ||52||",
-        "transliteration_hindi": "नमो लोक माता ॥५२॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -834,10 +2180,8 @@
       {
         "id": "G15M",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "AByKI ABrmI ABogI ABugqy ]",
-        "transliteration_english": "abhekhee abharamee abhogee abhugate ||",
-        "transliteration_hindi": "अभेखी अभरमी अभोगी अभुगते ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -859,10 +2203,8 @@
       {
         "id": "R169",
         "source_page": 3,
-        "source_line": null,
+        "source_line": 19,
         "gurmukhi": "nmo jog jogysÍrM prm jugqy ]53]",
-        "transliteration_english": "namo jog jogesvYaran param jugate ||53||",
-        "transliteration_hindi": "नमो जोग जोगेस्वरं परम जुगते ॥५३॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -883,11 +2225,9 @@
       },
       {
         "id": "QSMH",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 1,
         "gurmukhi": "nmo inq nwrwiexy k®¨r krmy ]",
-        "transliteration_english": "namo nit naaraaeiNe karaoor karame ||",
-        "transliteration_hindi": "नमो नित नाराइणे क्रूर करमे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -908,11 +2248,9 @@
       },
       {
         "id": "8X2M",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 1,
         "gurmukhi": "nmo pRyq ApRyq dyvy suDrmy ]54]",
-        "transliteration_english": "namo pret apret dheve sudharame ||54||",
-        "transliteration_hindi": "नमो प्रेत अप्रेत देवे सुधरमे ॥५४॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -933,11 +2271,9 @@
       },
       {
         "id": "JJ29",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 1,
         "gurmukhi": "nmo rog hrqw nmo rwg rUpy ]",
-        "transliteration_english": "namo rog harataa namo raag roope ||",
-        "transliteration_hindi": "नमो रोग हरता नमो राग रूपे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -958,11 +2294,9 @@
       },
       {
         "id": "D4L9",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 2,
         "gurmukhi": "nmo swh swhM nmo BUp BUpy ]55]",
-        "transliteration_english": "namo saeh saahan namo bhoop bhoope ||55||",
-        "transliteration_hindi": "नमो साह साहं नमो भूप भूपे ॥५५॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -983,11 +2317,9 @@
       },
       {
         "id": "ZNES",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 2,
         "gurmukhi": "nmo dwny dwny nmo mwn mwny ]",
-        "transliteration_english": "namo dhaane dhaane namo maan maane ||",
-        "transliteration_hindi": "नमो दाने दाने नमो मान माने ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1008,11 +2340,9 @@
       },
       {
         "id": "5KKA",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 2,
         "gurmukhi": "nmo rog rogy nmsqM iesnwny ]56]",
-        "transliteration_english": "namo rog roge namasatan eisanaane ||56||",
-        "transliteration_hindi": "नमो रोग रोगे नमसतं इसनाने ॥५६॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1033,11 +2363,9 @@
       },
       {
         "id": "TU4F",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 3,
         "gurmukhi": "nmo mMqR mMqRM ]",
-        "transliteration_english": "namo mantr mantran ||",
-        "transliteration_hindi": "नमो मंत्र मंत्रं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1058,11 +2386,9 @@
       },
       {
         "id": "WQKG",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 3,
         "gurmukhi": "nmo jMqR jMqRM ]",
-        "transliteration_english": "namo jantr jantran ||",
-        "transliteration_hindi": "नमो जंत्र जंत्रं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1083,11 +2409,9 @@
       },
       {
         "id": "11P0",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 3,
         "gurmukhi": "nmo iest iesty ]",
-        "transliteration_english": "namo eisaT eisaTe ||",
-        "transliteration_hindi": "नमो इसट इसटे ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1108,11 +2432,9 @@
       },
       {
         "id": "9YWS",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 3,
         "gurmukhi": "nmo qMqR qMqRM ]57]",
-        "transliteration_english": "namo tantr tantran ||57||",
-        "transliteration_hindi": "नमो तंत्र तंत्रं ॥५७॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1133,11 +2455,9 @@
       },
       {
         "id": "LR3K",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 4,
         "gurmukhi": "sdw scdwnµd srbM pRxwsI ]",
-        "transliteration_english": "sadhaa sachadhaananadh saraban praNaasee ||",
-        "transliteration_hindi": "सदा सचदानंद सरबं प्रणासी ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1158,11 +2478,9 @@
       },
       {
         "id": "AAB9",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 4,
         "gurmukhi": "AnUpy ArUpy smsqul invwsI ]58]",
-        "transliteration_english": "anoope aroope samasatul nivaasee ||58||",
-        "transliteration_hindi": "अनूपे अरूपे समसतुल निवासी ॥५८॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1183,11 +2501,9 @@
       },
       {
         "id": "46HZ",
-        "source_page": 3,
-        "source_line": null,
-        "gurmukhi": "sdw isDdw buDdw ibRD krqw ]",
-        "transliteration_english": "sadhaa sidhadhaa budhadhaa bridh karataa ||",
-        "transliteration_hindi": "सदा सिधदा बुधदा ब्रिध करता ॥",
+        "source_page": 4,
+        "source_line": 4,
+        "gurmukhi": "sdw isD dw buD dw ibRD krqw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1208,11 +2524,9 @@
       },
       {
         "id": "HZVJ",
-        "source_page": 3,
-        "source_line": null,
+        "source_page": 4,
+        "source_line": 5,
         "gurmukhi": "ADo aurD ArDM AGM EG hrqw ]59]",
-        "transliteration_english": "adho auradh aradhan aghan ogh harataa ||59||",
-        "transliteration_hindi": "अधो उरध अरधं अघं ओघ हरता ॥५९॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1234,10 +2548,8 @@
       {
         "id": "PYL3",
         "source_page": 4,
-        "source_line": null,
+        "source_line": 5,
         "gurmukhi": "prM prm prmysÍrM pRoC pwlµ ]",
-        "transliteration_english": "paran param paramesvYaran prochh paalan ||",
-        "transliteration_hindi": "परं परम परमेस्वरं प्रोछ पालं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1259,10 +2571,8 @@
       {
         "id": "M39U",
         "source_page": 4,
-        "source_line": null,
-        "gurmukhi": "sdw srbdw isD dwqw idAwlµ ]60]",
-        "transliteration_english": "sadhaa sarabadhaa sidh dhaataa dhiaalan ||60||",
-        "transliteration_hindi": "सदा सरबदा सिध दाता दिआलं ॥६०॥",
+        "source_line": 6,
+        "gurmukhi": "sdw srb dw isD dwqw idAwlµ ]60]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1284,10 +2594,8 @@
       {
         "id": "S7F9",
         "source_page": 4,
-        "source_line": null,
+        "source_line": 6,
         "gurmukhi": "ACydI ABydI AnwmM AkwmM ]",
-        "transliteration_english": "achhedhee abhedhee anaaman akaaman ||",
-        "transliteration_hindi": "अछेदी अभेदी अनामं अकामं ॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
@@ -1309,10 +2617,8 @@
       {
         "id": "9ZM6",
         "source_page": 4,
-        "source_line": null,
+        "source_line": 6,
         "gurmukhi": "smsqo prwjI smsqsqu DwmM ]61]",
-        "transliteration_english": "samasato paraajee samasatasat dhaaman ||61||",
-        "transliteration_hindi": "समसतो पराजी समसतसतु धामं ॥६१॥",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": null,
