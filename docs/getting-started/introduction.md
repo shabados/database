@@ -117,12 +117,12 @@ The database contains content from a variety of academic and online sources. As 
 - ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ, Khalsa Brothers Amritsar, 24th Edition (September 1992)
 
 ## Comparisons
-Fake
+The table below outlines some comparisons between the databases, as of 20/10/18.
 
 | Source           | Public | Changes | Maintained | Open-Source | SGPC Compatible |
 | ---------------- | :----: | ------- | :--------: | :---------: | :-------------: |
 | Shabad OS        | ✅      | -       | ✅          | ✅           | ✅               |
 | SikhiToTheMax II | ❌      | 6000    | ❌          | ❌           | ❌               |
-| SikhiToTheMax 3+ | ❌      | 600000  | ✅          | ❌           | ❌               |
-| iGurbani         | ❌      | 6000000 | ❌          | ❌           | ❌               |
-| Sikher           | ✅      | 32423   | ❌          | ❓           | ❌               |
+| BaniDB           | ❌      | 4892    | ✅          | ❌           | ❌               |
+| iGurbani         | ❌      | ?       | ❌          | ❌           | ❌               |
+| Sikher           | ✅      | ?       | ❌          | ❓           | ❌               |
