@@ -1,6 +1,6 @@
 {
   "name": "@shabados/database",
-  "version": "0.0.0",
+  "version": "4.0.2",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "benchmark": "node lib/benchmark.js",
@@ -9,7 +9,8 @@
     "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
     "test": "mocha test --exit",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "serve-docs": "docsify serve docs -p 3001"
   },
   "lint-staged": {
     "*.js": [
@@ -21,7 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/ShabadOS/database.git"
   },
-  "author": "ShabadOS Team <team@shabados.com> (https://shabados.com)",
+  "author": "Shabad OS Team <team@shabados.com>",
   "contributors": [
     "GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"
   ],
@@ -49,6 +50,7 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
+    "docsify-cli": "^4.2.1",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.14.0",
