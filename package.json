@@ -1,6 +1,6 @@
 {
   "name": "@shabados/database",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "benchmark": "node lib/benchmark.js",
@@ -18,6 +18,18 @@
       "git add"
     ]
   },
+  "keywords": [
+    "gurbani",
+    "database",
+    "scripture",
+    "nitnem",
+    "gurmukhi",
+    "guru",
+    "shabad",
+    "sikh",
+    "kirtan",
+    "bani"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ShabadOS/database.git"
