@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../repologo.png">
+  ![Schema](../schema.png)
 </div>
 <br/>
 <div align="center">

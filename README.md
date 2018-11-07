@@ -1,3 +1,5 @@
+# Shabad OS Database
+
 <div align="center">
   <img src="./repologo.png">
 </div>
@@ -19,6 +21,7 @@ The most accurate, open, digital representation of Sikh Bani and other Panthic t
 
 # Table of Contents
 
+- [Shabad OS Database](#shabad-os-database)
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
 - [Schema & File Structure](#schema--file-structure)
