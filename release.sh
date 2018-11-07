@@ -11,7 +11,7 @@ patch_re=\#Patch
 
 echo ${log_messages}
 
-args="-n --npm.access=public --github.release --no-requireCleanWorkingDir"
+args="-n --npm.access=public --github.release --no-requireCleanWorkingDir --github.assets=build/database.sqlite"
 
 if [[ ${log_messages} =~ ${major_re}  ]]; then
     echo "Major Release"
