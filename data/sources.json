@@ -2981,7 +2981,7 @@
   {
     "name_gurmukhi": "rubweIAW",
     "name_english": "Rubaiyia",
-    "length": 20,
+    "length": 19,
     "page_name_english": "Rubai",
     "page_name_gurmukhi": "rubweI",
     "sections": []
@@ -2989,15 +2989,23 @@
   {
     "name_gurmukhi": "izMdgI nwmw",
     "name_english": "Zindgi Nama",
-    "length": 61,
+    "length": 60,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": []
   },
   {
-    "name_gurmukhi": "joiq ibgws (PwrsI)",
-    "name_english": "Jot Bigas (Farsi)",
-    "length": 21,
+    "name_gurmukhi": "gMjnwmw",
+    "name_english": "Ganj Nama",
+    "length": 10,
+    "page_name_english": "Patishahi",
+    "page_name_gurmukhi": "pwiqSwhI",
+    "sections": []
+  },
+  {
+    "name_gurmukhi": "joiq ibgws",
+    "name_english": "Jot Bigas",
+    "length": 20,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": []
@@ -3005,14 +3013,6 @@
   {
     "name_gurmukhi": "joiq ibgws (pMjwbI)",
     "name_english": "Jot Bigas (Punjabi)",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "qn^wh nwmw",
-    "name_english": "Tankhah Nama",
     "length": 1,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
@@ -3047,6 +3047,14 @@
     "name_gurmukhi": "rihqnwmw",
     "name_english": "Rehitnama",
     "length": 3,
+    "page_name_english": "Panna",
+    "page_name_gurmukhi": "pMnw",
+    "sections": []
+  },
+  {
+    "name_gurmukhi": "qn^wh nwmw",
+    "name_english": "Tankhah Nama",
+    "length": 1,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": []
