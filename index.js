@@ -12,6 +12,8 @@ const config = require( './knexfile' )
 const knex = Knex( config )
 // Bind it to Objection
 Model.knex( knex )
+// Enable case-sensitivity for LIKE searches
+knex.raw( 'PRAGMA case_sensitive_like = ON' ).then().catch()
 
 // Import all the models
 const Banis = require( './lib/models/Banis' )
