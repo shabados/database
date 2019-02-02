@@ -106,6 +106,8 @@ From where did you source the information (Include title, year, and other pertin
 (Optional) Why was the information incorrect in our db (e.g. mistake inherited from 2014 iGurbani db or mistake found in 2008 Sttm2 db).
 ```
 
+We also have the [Shabad OS Database viewer](https://database.shabados.com), which can be used to view the database and autofill issues! 
+
 ## Folder structure
 
 The `data` folder is the source of truth for any builds.
