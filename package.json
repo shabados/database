@@ -54,7 +54,7 @@
     "lodash": "^4.17.11",
     "memoizee": "^0.4.14",
     "objection": "^1.2.6",
-    "release-it": "^10.0.0",
+    "release-it": "^10.1.0",
     "rimraf": "^2.6.2",
     "snakecase-keys": "^2.1.0",
     "sqlite3": "^4.0.6",
