@@ -1,6 +1,6 @@
 {
   "name": "@shabados/database",
-  "version": "4.0.12",
+  "version": "4.0.15",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "benchmark": "node lib/benchmark.js",
@@ -50,15 +50,15 @@
     "freshy": "^1.0.4",
     "gurmukhi-utils": "^2.0.3",
     "is-ascii": "^1.0.0",
-    "knex": "^0.14.6",
+    "knex": "^0.16.3",
     "lodash": "^4.17.11",
     "memoizee": "^0.4.14",
     "objection": "^1.2.6",
-    "release-it": "^7.6.1",
+    "release-it": "^10.0.0",
     "rimraf": "^2.6.2",
-    "snakecase-keys": "^1.2.0",
-    "sqlite3": "^4.0.2",
-    "string-similarity": "^1.2.2"
+    "snakecase-keys": "^2.1.0",
+    "sqlite3": "^4.0.6",
+    "string-similarity": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
@@ -67,9 +67,8 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-prettier": "^2.6.2",
     "eslint-plugin-react": "^7.11.1",
-    "lint-staged": "^7.2.2",
+    "lint-staged": "^8.1.0",
     "mocha": "^5.2.0"
   }
 }
