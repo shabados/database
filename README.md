@@ -140,7 +140,7 @@ You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view th
 
 # Licenses
 
-Gurbani was written during a time and place without formal copyright laws. Therefore we identify it as being free of known restrictions under copyright law. Gurbani under the `data` folder and generated under the `build` folder, including the `gurmukhi` JSON and SQLite fields, is free of copyright and in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).
+Gurbani was written during a time and place without formal copyright laws. Therefore we identify it as being free of known restrictions under copyright law. Gurbani under the `data` folder and generated under the `build` folder, including the `gurmukhi` JSON and SQLite fields, is in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/).
 
 Supporting text under the `data` folder and generated under the `build` folder, are subject to their respective source copyrights, some by other authors. Translations, transliterations, notes, compilations, or other items which are not Gurbani and which are created or uniquely organized by the Shabad OS team are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
