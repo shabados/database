@@ -3044,20 +3044,85 @@
     "sections": []
   },
   {
-    "name_gurmukhi": "rihqnwmw",
-    "name_english": "Rehitnama",
-    "length": 3,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "qn^wh nwmw",
-    "name_english": "Tankhah Nama",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "name_gurmukhi": "rihqnwmy",
+    "name_english": "Rehitname",
+    "length": 10,
+    "page_name_english": "rihqnwmw",
+    "page_name_gurmukhi": "Rehitnama",
+	"sections": [
+      {
+        "name_gurmukhi": "rihqnwmw BweI nµd lwl",
+        "name_english": "Rehitnama Bhai Nand Lal",
+        "description": "",
+        "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "qn^whnwmw BweI nµd lwl",
+        "name_english": "Tankhahnama Bhai Nand Lal",
+        "description": "",
+        "start_page": 2,
+        "end_page": 2,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "swKI rihq kI (BweI nµd lwl)",
+        "name_english": "Sakhi Rehit Ki (Bhai Nand Lal)",
+        "description": "",
+        "start_page": 4,
+        "end_page": 4,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI pRihlwd isMG",
+        "name_english": "Rehitnama Bhai Prahlad Singh",
+        "description": "",
+        "start_page": 5,
+        "end_page": 5,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI dXw isMG",
+        "name_english": "Rehitnama Bhai Daya Singh",
+        "description": "",
+        "start_page": 6,
+        "end_page": 6,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI caupw isMG",
+        "name_english": "Rehitnama Bhai Chaupa Singh",
+        "description": "",
+        "start_page": 7,
+        "end_page": 7,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pRym sumwrg",
+        "name_english": "Prem Sumarag",
+        "description": "",
+        "start_page": 8,
+        "end_page": 8,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI dysw isMG",
+        "name_english": "Rehitnama Bhai Desa Singh",
+        "description": "",
+        "start_page": 9,
+        "end_page": 9,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI swihb isMG",
+        "name_english": "Rehitnama Bhai Sahib Singh",
+        "description": "",
+        "start_page": 10,
+        "end_page": 10,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "srbloh gRMQ",
