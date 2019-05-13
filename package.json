@@ -3,6 +3,7 @@
   "version": "4.0.15",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
+    "import": "node lib/import.js",
     "benchmark": "node lib/benchmark.js",
     "build-sqlite": "node lib/build-sqlite.js",
     "build-json": "node lib/build-json.js",
@@ -46,6 +47,7 @@
   "dependencies": {
     "anyid": "^1.0.5",
     "colors": "^1.3.2",
+    "commander": "^2.20.0",
     "fast.js": "^0.1.1",
     "freshy": "^1.0.4",
     "gurmukhi-utils": "^2.0.3",
