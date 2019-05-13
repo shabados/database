@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-The most accurate, open, digital representation of Sikh Bani and other Panthic texts, their translations, transliterations, discourse, pronunciation, and more with an evolving, reproducible, and publicly logged set of corrections.
+A digital representation of Sikh Bani and other Panthic texts with a public logbook of sangat-sourced corrections.
 
 [![CircleCI](https://img.shields.io/circleci/project/github/ShabadOS/database.svg?style=flat)](https://circleci.com/gh/ShabadOS/database)
 [![Github All Releases](https://img.shields.io/github/downloads/ShabadOS/database/total.svg?style=flat)](https://github.com/ShabadOS/database/releases)
@@ -106,6 +106,8 @@ From where did you source the information (Include title, year, and other pertin
 (Optional) Why was the information incorrect in our db (e.g. mistake inherited from 2014 iGurbani db or mistake found in 2008 Sttm2 db).
 ```
 
+We also have the [Shabad OS Database viewer](https://database.shabados.com), which can be used to view the database and autofill issues! 
+
 ## Folder structure
 
 The `data` folder is the source of truth for any builds.
@@ -138,10 +140,8 @@ You can use an application like [DBeaver](https://dbeaver.jkiss.org/) to view th
 
 # Licenses
 
-Gurbani was written during a time and place without formal copyright laws. Therefore we identify it as being free of known restrictions under copyright law. Gurbani under the `data` folder and generated under the `build` folder, including the `gurmukhi` JSON and SQLite fields, is licensed under a ![PDM](https://i.creativecommons.org/p/mark/1.0/80x15.png) [Creative Commons Public Domain Mark 1.0 License](https://creativecommons.org/publicdomain/mark/1.0/).  
+Gurbani was written during a time and place without formal copyright laws. Therefore we identify it as being free of known restrictions. Instead we consider the Gurbani under the `data` folder and generated under the `build` folder, including the `gurmukhi` JSON and SQLite fields, to be in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/) as a work of factual compilation with originality. Therefore any derogatory treatments, such as adding to, deleting from, altering or adapting the work in such a way that it amounts to a distortion or mutilation of the work, or is otherwise prejudicial to the honor or reputation of the work, are not allowed. The typographical corrections the Shabad OS team has made to the Gurbani honors the originality of Gurbani to the best of our knowledge.
 
-Supporting text under the `data` folder and generated under the `build` folder, are subject to their respective source copyrights, some by other authors. Translations, transliterations, notes, compilations, or other items which are not Gurbani and which are created or uniquely organized by the Shabad OS team are subject to the ![CC By-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png) [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Supporting text under the `data` folder and generated under the `build` folder, are subject to their respective source copyrights, some by other authors. Translations, transliterations, notes, compilations, or other items which are not Gurbani and which are created or uniquely organized by the Shabad OS team are subject to the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Code and content resting outside of the `data` and `build` folders is licensed under the <img src="https://www.gnu.org/graphics/gplv3-88x31.png" height="15"> [GNU General Public License V3](https://www.gnu.org/licenses/gpl.html).
-
-All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License V3](LICENSE.md).
+All code and content resting outside of the `data` and `build` folders is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl.html).
