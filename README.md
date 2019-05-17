@@ -29,7 +29,6 @@ A digital representation of Sikh Bani and other Panthic texts with a public logb
   - [Database](#database)
   - [JSON](#json)
   - [Import](#import)
-- [Contributing](#contributing)
   - [Folder structure](#folder-structure)
 - [Releases](#releases)
 - [Benchmarks](#benchmarks)
@@ -75,7 +74,8 @@ Bani compilations can be added to the `bani.json`. To define the lines it contai
 
 # Build
 
-It is possible to make small changes and build a database from the JSON files and in reverse to make batch changes and build the JSON files from the database.
+It is possible to make small changes and build a database from the JSON files and in reverse to make batch changes and build the JSON files from the database. Additionally, 
+*some* SQLite files can be imported.
 
 ## Database
 
