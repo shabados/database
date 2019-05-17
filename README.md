@@ -97,7 +97,12 @@ It is best practice to build the database, make changes to `database.sqlite`, an
 
 ## Import
 
-The import CLI can be used to automate the import of new data, allocating new IDs to Shabads and Lines.
+It's possible to import other sqlite files. Run `npm run import -- --help` to see all options.
+
+The importer will generate placeholder Sources, Translation Sources, and fill in `-1` for Shabad sections and Writer IDs. These must be corrected in `build/database.sqlite`.
+
+```bash
+npm run import -- nandlal.sqlite nandlal -o ID -s ShabadID -2 ShabadID -S SourceID -t English -t Punjabi -p PageNo -l LineNo -g Gurmukhi
 
 It will generate placeholder Sources, Translation Sources, and fill in `-1` for Shabad sections and Writer IDs. 
 
