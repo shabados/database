@@ -28,6 +28,7 @@ A digital representation of Sikh Bani and other Panthic texts with a public logb
 - [Build](#build)
   - [Database](#database)
   - [JSON](#json)
+  - [Import](#import)
 - [Contributing](#contributing)
   - [Folder structure](#folder-structure)
 - [Releases](#releases)
@@ -74,7 +75,8 @@ Bani compilations can be added to the `bani.json`. To define the lines it contai
 
 # Build
 
-It is possible to make small changes and build a database from the JSON files and in reverse to make batch changes and build the JSON files from the database.
+It is possible to make small changes and build a database from the JSON files and in reverse to make batch changes and build the JSON files from the database. Additionally, 
+*some* SQLite files can be imported.
 
 ## Database
 
@@ -93,6 +95,16 @@ It is best practice to build the database, make changes to `database.sqlite`, an
 **Node.js** - `npm run build-json`
 
 **Docker** - `docker-compose up build-json`
+
+## Import
+
+It's possible to import other sqlite files. Run `npm run import -- --help` to see all options.
+
+The importer will generate placeholder Sources, Translation Sources, and fill in `-1` for Shabad sections and Writer IDs. These must be corrected in `build/database.sqlite`. (Refer to [Database](#database) and [JSON](#json) above).
+
+```bash
+npm run import -- nandlal.sqlite nandlal -o ID -s ShabadID -2 ShabadID -S SourceID -t English -t Punjabi -p PageNo -l LineNo -g Gurmukhi
+```
 
 # Contributing
 
