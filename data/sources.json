@@ -3329,7 +3329,16 @@
     "length": 61,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "izMdgI nwmw",
+        "name_english": "Zindgi Nama",
+        "description": "",
+        "start_page": 1,
+        "end_page": 61,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "gMjnwmw",
@@ -3434,7 +3443,16 @@
     "length": 21,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "joiq ibgws",
+        "name_english": "Jot Bigas",
+        "description": "",
+        "start_page": 1,
+        "end_page": 21,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "joiq ibgws (pMjwbI)",
