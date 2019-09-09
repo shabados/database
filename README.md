@@ -84,8 +84,6 @@ You can build an SQLite3 database with the following methods:
 
 **Node.js** - Install [node](https://nodejs.org/). Install dependencies and build with `npm install && npm run build-sqlite`.
 
-**Docker** - Install [docker](http://docker.com). Build with `docker-compose up build-sqlite`. Check the `build` folder.
-
 ## JSON
 
 > Instead of making bulk changes to JSON files as a pull request, we highly urge you to submit an issue of the change first instead for visibility and security.
@@ -93,8 +91,6 @@ You can build an SQLite3 database with the following methods:
 It is best practice to build the database, make changes to `database.sqlite`, and regenerate JSON files with the following methods:
 
 **Node.js** - `npm run build-json`
-
-**Docker** - `docker-compose up build-json`
 
 ## Import
 
@@ -137,7 +133,7 @@ Compiled databases are available via the release page, or via `npm install @shab
 
 # Benchmarks
 
-Run benchmarks with `npm run benchmark` or `docker-compose up benchmark`. Benchmarks depend on specs, but the following shows that between 0-200 results can be returned in a reasonable amount of time.
+Run benchmarks with `npm run benchmark`. Benchmarks depend on specs, but the following shows that between 0-200 results can be returned in a reasonable amount of time.
 
 Query | Results | Time
 ----- | ------- | ----
