@@ -6,6 +6,7 @@
     "import": "node lib/import.js",
     "benchmark": "node lib/benchmark.js",
     "build-sqlite": "node lib/build-sqlite.js",
+    "build-mysql": "node lib/build-mysql.js",
     "build-json": "node lib/build-json.js",
     "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
