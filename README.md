@@ -28,8 +28,7 @@ A digital representation of Sikh Bani and other Panthic texts with a public logb
 - [Build](#build)
   - [Database](#database)
   - [JSON](#json)
-  - [Import](#import)
-- [Contributing](#contributing)
+    - [MariaDB/MySQL](#mariadbmysql)
   - [Folder structure](#folder-structure)
 - [Releases](#releases)
 - [Benchmarks](#benchmarks)
@@ -91,6 +90,15 @@ You can build an SQLite3 database with the following methods:
 It is best practice to build the database, make changes to `database.sqlite`, and regenerate JSON files with the following methods:
 
 **Node.js** - `npm run build-json`
+
+### MariaDB/MySQL
+
+You can run a Shabad OS MariaDB using Docker:
+```
+docker run -p 3306:3306 shabados/database
+``
+
+If you'd like to build the image yourself, run: `docker build -f docker/mariadb/Dockerfile`.
 
 ## Import
 
