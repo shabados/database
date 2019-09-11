@@ -16,9 +16,8 @@ until mysqladmin ping >/dev/null 2>&1; do
   echo -n "."; sleep 0.2
 done
 
-# Permit root login without password from outside container.
 echo "Removing MySQL default users"
-mysql --protocol=socket -h localhost -u root -e "DELETE FROM mysql.user WHERE User='';"
+mysql --protocol=socket -h localhost -u root -e "DELETE FROM mysql.user WHERE user=''"
 echo "Creating shabad-os MySQL user"
 mysql --protocol=socket -h localhost -u root -e "CREATE USER 'shabad-os'@'%'"
 echo "Creating shabad-os database"
@@ -26,8 +25,6 @@ mysql --protocol=socket -h localhost -u root -e "CREATE DATABASE \`shabad-os\`"
 echo "Granting priviledges to shabad-os database"
 mysql --protocol=socket -h localhost -u root -e "GRANT ALL PRIVILEGES ON *.* TO 'shabad-os'@'%'"
 mysql --protocol=socket -h localhost -u root -e "FLUSH PRIVILEGES"
-mysql --protocol=socket -h localhost -u root -e "SELECT * from mysql.user"
-mysql --protocol=socket -h localhost -u shabad-os -e "SELECT USER(), CURRENT_USER()"
 
 # Populate the database with data
 echo "Populating data"
