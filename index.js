@@ -6,7 +6,11 @@
 // Must bind any models to knex database connection
 const { Model } = require( 'objection' )
 const Knex = require( 'knex' )
-const config = require( './knexfile' )
+
+// Load config file from environment or locally
+const { KNEXFILE } = process.env
+// eslint-disable-next-line import/no-dynamic-require
+const config = require( KNEXFILE || './knexfile' )
 
 // Initialise knex with connection to sqlite file
 const knex = Knex( config )
