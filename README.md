@@ -98,7 +98,9 @@ You can run a Shabad OS MariaDB using Docker:
 docker run -p 3306:3306 shabados/database
 ``
 
-If you'd like to build the image yourself, run: `docker build -f docker/mariadb/Dockerfile`.
+The username is `shabados`, and the database name is `shabados`.
+
+If you'd like to build the image yourself, run: `docker build -f docker/mariadb/Dockerfile -t shabados/database . `.
 
 ## Import
 
