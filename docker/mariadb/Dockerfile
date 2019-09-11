@@ -5,9 +5,6 @@ FROM mariadb:10.4.7 as generate
 WORKDIR /usr/app
 
 ENV KNEXFILE=./docker/mariadb/knexfile
-ENV MYSQL_DATABASE=shabad-os
-ENV MYSQL_USER=shabad-os
-ENV MYSQL_ALLOW_EMPTY_PASSWORD=yes
 
 # Install node
 RUN apt-get update
