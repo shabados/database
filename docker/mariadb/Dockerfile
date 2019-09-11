@@ -28,6 +28,7 @@ RUN docker/mariadb/build_db.sh
 FROM mariadb:10.4.7
 
 COPY --from=generate /etc/mysql /etc/mysql
-COPY --from=generate /var/lib/mysql /var/lib/mysql
+COPY --from=generate /data /data
 
 ENTRYPOINT []
+CMD [ "mysqld", "--user=root" ]
