@@ -2,8 +2,8 @@ const config = {
   client: 'mysql',
   connection: {
     host: 'localhost',
-    user: 'shabad-os',
-    database: 'shabad-os',
+    user: 'shabados',
+    database: 'shabados',
   },
   useNullAsDefault: true,
 }

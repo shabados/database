@@ -18,12 +18,12 @@ done
 
 echo "Removing MySQL default users"
 mysql --protocol=socket -h localhost -u root -e "DELETE FROM mysql.user WHERE user=''"
-echo "Creating shabad-os MySQL user"
-mysql --protocol=socket -h localhost -u root -e "CREATE USER 'shabad-os'@'%'"
+echo "Creating shabados MySQL user"
+mysql --protocol=socket -h localhost -u root -e "CREATE USER 'shabados'@'%'"
 echo "Creating shabad-os database"
-mysql --protocol=socket -h localhost -u root -e "CREATE DATABASE \`shabad-os\`"
-echo "Granting priviledges to shabad-os database"
-mysql --protocol=socket -h localhost -u root -e "GRANT ALL PRIVILEGES ON *.* TO 'shabad-os'@'%'"
+mysql --protocol=socket -h localhost -u root -e "CREATE DATABASE \`shabados\`"
+echo "Granting priviledges to shabados database"
+mysql --protocol=socket -h localhost -u root -e "GRANT ALL PRIVILEGES ON *.* TO 'shabados'@'%'"
 mysql --protocol=socket -h localhost -u root -e "FLUSH PRIVILEGES"
 
 # Populate the database with data
