@@ -48,7 +48,7 @@ jobs:
           command: |
             chmod +x bump-version.sh
             ./bump-version.sh
-      - run: apt-get install jq
+      - run: sudo apt-get install jq
       - run: 
           name: Set version numbers
           command: |
