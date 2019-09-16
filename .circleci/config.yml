@@ -64,10 +64,7 @@ jobs:
             echo -e "export PATCH=$PATCH" >> $BASH_ENV
       - run:
           name: Build database image
-          command: |
-            echo -e ${VERSION}
-            echo -e ${MAJOR}.${MINOR}.${PATCH}
-            docker build -f docker/mariadb/Dockerfile -t shabados/database:${MAJOR}-mariadb -t shabados/database:${MAJOR}.${MINOR}-mariadb -t shabados/database:${VERSION}-mariadb .
+          command: docker build -f docker/mariadb/Dockerfile -t shabados/database:${MAJOR}-mariadb -t shabados/database:${MAJOR}.${MINOR}-mariadb -t shabados/database:${VERSION}-mariadb .
       - deploy:
           name: Release database image on DockerHub
           command: |

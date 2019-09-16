@@ -22,6 +22,7 @@ COPY . .
 
 # Build it
 COPY docker/mariadb/my.cnf /etc/mysql/my.cnf
+RUN chmod +x docker/mariadb/build_db.sh
 RUN docker/mariadb/build_db.sh
 
 ## Just the DB with data
