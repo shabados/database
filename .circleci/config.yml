@@ -57,9 +57,14 @@ jobs:
             MAJOR="${SEMVER[0]}"
             MINOR="${SEMVER[1]}"
             PATCH="${SEMVER[2]}"
+            echo -e ${VERSION}
+            echo -e ${MAJOR}.${MINOR}.${PATCH}
       - run:
           name: Build database image
-          command: docker build -f docker/mariadb/Dockerfile -t shabados/database:${MAJOR}-mariadb -t shabados/database:${MAJOR}.${MINOR}-mariadb -t shabados/database:${VERSION}-mariadb .
+          command: |
+            echo -e ${VERSION}
+            echo -e ${MAJOR}.${MINOR}.${PATCH}
+            docker build -f docker/mariadb/Dockerfile -t shabados/database:${MAJOR}-mariadb -t shabados/database:${MAJOR}.${MINOR}-mariadb -t shabados/database:${VERSION}-mariadb .
       - deploy:
           name: Release database image on DockerHub
           command: |

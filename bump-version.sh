@@ -23,5 +23,5 @@ elif [[ ${log_messages} =~ ${patch_re} ]]; then
     echo "Patch Release"
     npm version patch ${args}
 else
-    echo "Not releasing"
+    echo "Not bumping"
 fi
