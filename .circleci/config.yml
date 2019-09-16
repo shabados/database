@@ -52,13 +52,11 @@ jobs:
       - run: 
           name: Set version numbers
           command: |
-            VERSION=$(jq -r .version package.json)
-            SEMVER=(${VERSION//./ })
-            MAJOR="${SEMVER[0]}"
-            MINOR="${SEMVER[1]}"
-            PATCH="${SEMVER[2]}"
-            echo -e ${VERSION}
-            echo -e ${MAJOR}.${MINOR}.${PATCH}
+            echo "export VERSION=$(jq -r .version package.json)" >> $BASH_ENV
+            echp "export SEMVER=(${VERSION//./ })" >> $BASH_ENV
+            echo 'export MAJOR="${SEMVER[0]}"' >> $BASH_ENV
+            echo 'export MINOR="${SEMVER[1]}"' >> $BASH_ENV
+            echo 'export PATCH="${SEMVER[2]}"' >> $BASH_ENV
       - run:
           name: Build database image
           command: |
