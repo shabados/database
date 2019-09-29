@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  build-sqlite:
     docker:
       - image: circleci/node:10.13
     steps:
@@ -35,3 +35,53 @@ jobs:
 
               npm run release
             fi
+
+  build-mariadb:
+    docker:
+      - image: circleci/node:10.13
+    steps:
+      - setup_remote_docker
+      # Fetch the source code
+      - checkout
+      - run: 
+          name: Bump image version
+          command: |
+            chmod +x bump-version.sh
+            ./bump-version.sh
+      - run: sudo apt-get install jq
+      - run: 
+          name: Set version numbers
+          command: |
+            VERSION=$(jq -r .version package.json)
+            SEMVER=(${VERSION//./ })
+            MAJOR="${SEMVER[0]}"
+            MINOR="${SEMVER[1]}"
+            PATCH="${SEMVER[2]}"
+            echo -e "export VERSION=$VERSION" >> $BASH_ENV
+            echo -e "export SEMVER=$SEMVER" >> $BASH_ENV
+            echo -e "export MAJOR=$MAJOR" >> $BASH_ENV
+            echo -e "export MINOR=$MINOR" >> $BASH_ENV
+            echo -e "export PATCH=$PATCH" >> $BASH_ENV
+      - run:
+          name: Build database image
+          command: docker build -f docker/mariadb/Dockerfile -t shabados/database:${MAJOR}-mariadb -t shabados/database:${MAJOR}.${MINOR}-mariadb -t shabados/database:${VERSION}-mariadb .
+      - deploy:
+          name: Release database image on DockerHub
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+
+              # Log in to Docker Hub
+              docker login -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}
+
+              # Push full, major, minor-minor images
+              docker push shabados/database:${VERSION}-mariadb
+              docker push shabados/database:${MAJOR}-mariadb
+              docker push shabados/database:${MAJOR}.${MINOR}-mariadb
+            fi
+
+workflows:
+  version: 2
+  build_all:
+    jobs:
+      - build-sqlite
+      - build-mariadb
