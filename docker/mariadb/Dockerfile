@@ -1,6 +1,6 @@
 # Multi-stage docker build. Builds data first, and then switches to pure MariaDB.
 
-FROM mariadb:10.4.7 as generate
+FROM mariadb:10.4 as generate
 
 WORKDIR /usr/app
 
@@ -26,7 +26,7 @@ RUN chmod +x docker/mariadb/build_db.sh
 RUN docker/mariadb/build_db.sh
 
 ## Just the DB with data
-FROM mariadb:10.4.7
+FROM mariadb:10.4
 
 COPY --from=generate /etc/mysql /etc/mysql
 COPY --from=generate /data /data
