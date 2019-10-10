@@ -6,12 +6,20 @@
 // Must bind any models to knex database connection
 const { Model } = require( 'objection' )
 const Knex = require( 'knex' )
-const config = require( './knexfile' )
+
+// Load config file from environment or locally
+const { KNEXFILE } = process.env
+// eslint-disable-next-line import/no-dynamic-require
+const config = require( KNEXFILE || './knexfile' )
 
 // Initialise knex with connection to sqlite file
 const knex = Knex( config )
 // Bind it to Objection
 Model.knex( knex )
+
+// Enable case-sensitivity for LIKE searches in SQLite3
+const { client } = config
+if ( client === 'sqlite3' ) knex.raw( 'PRAGMA case_sensitive_like = ON' ).then().catch()
 
 // Import all the models
 const Banis = require( './lib/models/Banis' )

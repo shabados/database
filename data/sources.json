@@ -2953,10 +2953,330 @@
     "page_name_gurmukhi": "vwr",
     "sections": [
       {
-        "name_gurmukhi": "vwrW",
-        "name_english": "Vaars",
-        "description": "Vaars of Bhai Gurdas Ji",
+        "name_gurmukhi": "vwr 1",
+        "name_english": "Vaar 1",
+        "description": "Vaar 1",
         "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 2",
+        "name_english": "Vaar 2",
+        "description": "Vaar 2",
+        "start_page": 2,
+        "end_page": 2,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 3",
+        "name_english": "Vaar 3",
+        "description": "Vaar 3",
+        "start_page": 3,
+        "end_page": 3,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 4",
+        "name_english": "Vaar 4",
+        "description": "Vaar 4",
+        "start_page": 4,
+        "end_page": 4,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 5",
+        "name_english": "Vaar 5",
+        "description": "Vaar 5",
+        "start_page": 5,
+        "end_page": 5,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 6",
+        "name_english": "Vaar 6",
+        "description": "Vaar 6",
+        "start_page": 6,
+        "end_page": 6,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 7",
+        "name_english": "Vaar 7",
+        "description": "Vaar 7",
+        "start_page": 7,
+        "end_page": 7,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 8",
+        "name_english": "Vaar 8",
+        "description": "Vaar 8",
+        "start_page": 8,
+        "end_page": 8,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 9",
+        "name_english": "Vaar 9",
+        "description": "Vaar 9",
+        "start_page": 9,
+        "end_page": 9,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 10",
+        "name_english": "Vaar 10",
+        "description": "Vaar 10",
+        "start_page": 10,
+        "end_page": 10,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 11",
+        "name_english": "Vaar 11",
+        "description": "Vaar 11",
+        "start_page": 11,
+        "end_page": 11,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 12",
+        "name_english": "Vaar 12",
+        "description": "Vaar 12",
+        "start_page": 12,
+        "end_page": 12,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 13",
+        "name_english": "Vaar 13",
+        "description": "Vaar 13",
+        "start_page": 13,
+        "end_page": 13,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 14",
+        "name_english": "Vaar 14",
+        "description": "Vaar 14",
+        "start_page": 14,
+        "end_page": 14,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 15",
+        "name_english": "Vaar 15",
+        "description": "Vaar 15",
+        "start_page": 15,
+        "end_page": 15,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 16",
+        "name_english": "Vaar 16",
+        "description": "Vaar 16",
+        "start_page": 16,
+        "end_page": 16,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 17",
+        "name_english": "Vaar 17",
+        "description": "Vaar 17",
+        "start_page": 17,
+        "end_page": 17,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 18",
+        "name_english": "Vaar 18",
+        "description": "Vaar 18",
+        "start_page": 18,
+        "end_page": 18,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 19",
+        "name_english": "Vaar 19",
+        "description": "Vaar 19",
+        "start_page": 19,
+        "end_page": 19,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 20",
+        "name_english": "Vaar 20",
+        "description": "Vaar 20",
+        "start_page": 20,
+        "end_page": 20,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 21",
+        "name_english": "Vaar 21",
+        "description": "Vaar 21",
+        "start_page": 21,
+        "end_page": 21,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 22",
+        "name_english": "Vaar 22",
+        "description": "Vaar 22",
+        "start_page": 22,
+        "end_page": 22,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 23",
+        "name_english": "Vaar 23",
+        "description": "Vaar 23",
+        "start_page": 23,
+        "end_page": 23,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 24",
+        "name_english": "Vaar 24",
+        "description": "Vaar 24",
+        "start_page": 24,
+        "end_page": 24,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 25",
+        "name_english": "Vaar 25",
+        "description": "Vaar 25",
+        "start_page": 25,
+        "end_page": 25,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 26",
+        "name_english": "Vaar 26",
+        "description": "Vaar 26",
+        "start_page": 26,
+        "end_page": 26,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 27",
+        "name_english": "Vaar 27",
+        "description": "Vaar 27",
+        "start_page": 27,
+        "end_page": 27,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 28",
+        "name_english": "Vaar 28",
+        "description": "Vaar 28",
+        "start_page": 28,
+        "end_page": 28,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 29",
+        "name_english": "Vaar 29",
+        "description": "Vaar 29",
+        "start_page": 29,
+        "end_page": 29,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 30",
+        "name_english": "Vaar 30",
+        "description": "Vaar 30",
+        "start_page": 30,
+        "end_page": 30,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 31",
+        "name_english": "Vaar 31",
+        "description": "Vaar 31",
+        "start_page": 31,
+        "end_page": 31,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 32",
+        "name_english": "Vaar 32",
+        "description": "Vaar 32",
+        "start_page": 32,
+        "end_page": 32,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 33",
+        "name_english": "Vaar 33",
+        "description": "Vaar 33",
+        "start_page": 33,
+        "end_page": 33,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 34",
+        "name_english": "Vaar 34",
+        "description": "Vaar 34",
+        "start_page": 34,
+        "end_page": 34,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 35",
+        "name_english": "Vaar 35",
+        "description": "Vaar 35",
+        "start_page": 35,
+        "end_page": 35,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 36",
+        "name_english": "Vaar 36",
+        "description": "Vaar 36",
+        "start_page": 36,
+        "end_page": 36,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 37",
+        "name_english": "Vaar 37",
+        "description": "Vaar 37",
+        "start_page": 37,
+        "end_page": 37,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 38",
+        "name_english": "Vaar 38",
+        "description": "Vaar 38",
+        "start_page": 38,
+        "end_page": 38,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 39",
+        "name_english": "Vaar 39",
+        "description": "Vaar 39",
+        "start_page": 39,
+        "end_page": 39,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 40",
+        "name_english": "Vaar 40",
+        "description": "Vaar 40",
+        "start_page": 40,
+        "end_page": 40,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "vwr 41",
+        "name_english": "Vaar 41",
+        "description": "Vaar 41",
+        "start_page": 41,
         "end_page": 41,
         "subsections": []
       }
@@ -2964,27 +3284,53 @@
   },
   {
     "name_gurmukhi": "kibq svXy",
-    "name_english": "Kabit Swaiye",
+    "name_english": "Kabit Savaiye",
     "length": 675,
     "page_name_english": "Kabit",
     "page_name_gurmukhi": "kibq",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "kibq svXy",
+        "name_english": "Kabit Savaiye",
+        "description": "",
+        "start_page": 1,
+        "end_page": 675,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "ZzlW",
     "name_english": "Guzals",
-    "length": 61,
+    "length": 65,
     "page_name_english": "Guzal",
     "page_name_gurmukhi": "Zzl",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "rubweIAW",
-    "name_english": "Rubaiyia",
-    "length": 20,
-    "page_name_english": "Rubai",
-    "page_name_gurmukhi": "rubweI",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "ZzlW",
+        "name_english": "Guzals",
+        "description": "",
+        "start_page": 1,
+        "end_page": 63,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rubweIAW",
+        "name_english": "Rubaiyia",
+        "description": "",
+        "start_page": 64,
+        "end_page": 64,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "Putkl bYNq",
+        "name_english": "Futkal Baint",
+        "description": "",
+        "start_page": 65,
+        "end_page": 65,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "izMdgI nwmw",
@@ -2992,27 +3338,134 @@
     "length": 61,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "izMdgI nwmw",
+        "name_english": "Zindgi Nama",
+        "description": "",
+        "start_page": 1,
+        "end_page": 61,
+        "subsections": []
+      }
+    ]
   },
   {
-    "name_gurmukhi": "joiq ibgws (PwrsI)",
-    "name_english": "Jot Bigas (Farsi)",
+    "name_gurmukhi": "gMjnwmw",
+    "name_english": "Ganj Nama",
+    "length": 10,
+    "page_name_english": "Patishahi",
+    "page_name_gurmukhi": "pwiqSwhI",
+    "sections": [
+      {
+        "name_gurmukhi": "mMglwcrn",
+        "name_english": "Manglacharan",
+        "description": "",
+        "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pihlI pwiqSwhI",
+        "name_english": "First Patishahi",
+        "description": "",
+        "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "dUjI pwiqSwhI",
+        "name_english": "Second Patishahi",
+        "description": "",
+        "start_page": 2,
+        "end_page": 2,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "qIji pwiqSwhI",
+        "name_english": "Third Patishahi",
+        "description": "",
+        "start_page": 3,
+        "end_page": 3,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "cOQI pwiqSwhI",
+        "name_english": "Fourth Patishahi",
+        "description": "",
+        "start_page": 4,
+        "end_page": 4,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pMjvIN pwiqSwhI",
+        "name_english": "Fifth Patishahi",
+        "description": "",
+        "start_page": 5,
+        "end_page": 5,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "CyvIN pwiqSwhI",
+        "name_english": "Sixth Patishahi",
+        "description": "",
+        "start_page": 6,
+        "end_page": 6,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "s`qvIN pwiqSwhI",
+        "name_english": "Seventh Patishahi",
+        "description": "",
+        "start_page": 7,
+        "end_page": 7,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "ATvIN pwiqSwhI",
+        "name_english": "Eighth Patishahi",
+        "description": "",
+        "start_page": 8,
+        "end_page": 8,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "nOvI pwiqSwhI",
+        "name_english": "Ninth Patishahi",
+        "description": "",
+        "start_page": 9,
+        "end_page": 9,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "dsvIN pwiqSwhI",
+        "name_english": "Tenth Patishahi",
+        "description": "",
+        "start_page": 10,
+        "end_page": 10,
+        "subsections": []
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "joiq ibgws",
+    "name_english": "Jot Bigas",
     "length": 21,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "sections": [
+      {
+        "name_gurmukhi": "joiq ibgws",
+        "name_english": "Jot Bigas",
+        "description": "",
+        "start_page": 1,
+        "end_page": 21,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "joiq ibgws (pMjwbI)",
     "name_english": "Jot Bigas (Punjabi)",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "qn^wh nwmw",
-    "name_english": "Tankhah Nama",
     "length": 1,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
@@ -3044,12 +3497,85 @@
     "sections": []
   },
   {
-    "name_gurmukhi": "rihqnwmw",
-    "name_english": "Rehitnama",
-    "length": 3,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "name_gurmukhi": "rihqnwmy",
+    "name_english": "Rehitname",
+    "length": 10,
+    "page_name_english": "rihqnwmw",
+    "page_name_gurmukhi": "Rehitnama",
+    "sections": [
+      {
+        "name_gurmukhi": "rihqnwmw BweI nµd lwl",
+        "name_english": "Rehitnama Bhai Nand Lal",
+        "description": "",
+        "start_page": 1,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "qn^whnwmw BweI nµd lwl",
+        "name_english": "Tankhahnama Bhai Nand Lal",
+        "description": "",
+        "start_page": 2,
+        "end_page": 2,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "swKI rihq kI (BweI nµd lwl)",
+        "name_english": "Sakhi Rehit Ki (Bhai Nand Lal)",
+        "description": "",
+        "start_page": 4,
+        "end_page": 4,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI pRihlwd isMG",
+        "name_english": "Rehitnama Bhai Prahlad Singh",
+        "description": "",
+        "start_page": 5,
+        "end_page": 5,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI dXw isMG",
+        "name_english": "Rehitnama Bhai Daya Singh",
+        "description": "",
+        "start_page": 6,
+        "end_page": 6,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI caupw isMG",
+        "name_english": "Rehitnama Bhai Chaupa Singh",
+        "description": "",
+        "start_page": 7,
+        "end_page": 7,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pRym sumwrg",
+        "name_english": "Prem Sumarag",
+        "description": "",
+        "start_page": 8,
+        "end_page": 8,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI dysw isMG",
+        "name_english": "Rehitnama Bhai Desa Singh",
+        "description": "",
+        "start_page": 9,
+        "end_page": 9,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "rihqnwmw BweI swihb isMG",
+        "name_english": "Rehitnama Bhai Sahib Singh",
+        "description": "",
+        "start_page": 10,
+        "end_page": 10,
+        "subsections": []
+      }
+    ]
   },
   {
     "name_gurmukhi": "srbloh gRMQ",
