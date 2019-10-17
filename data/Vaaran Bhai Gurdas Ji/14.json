@@ -699,29 +699,6 @@
             }
           }
         }
-      },
-      {
-        "id": "HG68",
-        "source_page": 14,
-        "source_line": 4,
-        "gurmukhi": "nwrd munI AKwie; gl suxwieAw [",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Jodh Singh": {
-              "translation": "Even being an ascetic, Narad merely talked (of here and there).",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Vir Singh": {
-              "translation": "ਨਾਰਦ ਨੇ (ਆਪ ਨੂੰ) 'ਮੁਨੀ' (ਈਸ਼੍ਵਰ ਦਾ ਮਨਨਸ਼ੀਲ) ਕਹਾ ਕੇ ਗਲ ਹੀ ਸੁਣਾਈ (ਭਾਵ ਗੱਪ ਹੀ ਮਾਰੀ, ਸੱਚ ਨਹੀਂ ਕੀਤਾ) (ਅਥਵਾ ਲੋਕਾਂ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਨ ਲਈ ਹੀ ਆਇਆ ਕਿਉਂ ਜੋ ਇਕ ਦੂਜੇ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਕੇ)।",
-              "additional_information": {}
-            }
-          }
-        }
       }
     ]
   },
@@ -750,6 +727,29 @@
           "Punjabi": {
             "Bhai Vir Singh": {
               "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "HG68",
+        "source_page": 14,
+        "source_line": 5,
+        "gurmukhi": "nwrd munI AKwie; gl suxwieAw [",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": null,
+        "translations": {
+          "English": {
+            "Dr. Jodh Singh": {
+              "translation": "Even being an ascetic, Narad merely talked (of here and there).",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Vir Singh": {
+              "translation": "ਨਾਰਦ ਨੇ (ਆਪ ਨੂੰ) 'ਮੁਨੀ' (ਈਸ਼੍ਵਰ ਦਾ ਮਨਨਸ਼ੀਲ) ਕਹਾ ਕੇ ਗਲ ਹੀ ਸੁਣਾਈ (ਭਾਵ ਗੱਪ ਹੀ ਮਾਰੀ, ਸੱਚ ਨਹੀਂ ਕੀਤਾ) (ਅਥਵਾ ਲੋਕਾਂ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਨ ਲਈ ਹੀ ਆਇਆ ਕਿਉਂ ਜੋ ਇਕ ਦੂਜੇ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਕੇ)।",
               "additional_information": {}
             }
           }
