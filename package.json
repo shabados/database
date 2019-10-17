@@ -1,6 +1,6 @@
 {
   "name": "@shabados/database",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "import": "node lib/import.js",
