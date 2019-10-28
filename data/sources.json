@@ -3580,25 +3580,26 @@
   {
     "name_gurmukhi": "srbloh gRMQ",
     "name_english": "Sarabloh Granth",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "gur iblws pwÚ 10",
-    "name_english": "Gurbilas Patshahi 10",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
-  },
-  {
-    "name_gurmukhi": "sRI gur soBw",
-    "name_english": "Sri Gur Sobha",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
+    "length": 4,
+    "page_name_english": "Shabad",
+    "page_name_gurmukhi": "Sbd",
+    "sections": [
+      {
+        "name_gurmukhi": "Kwlsw mihmw (srbloh gRMQ)",
+        "name_english": "Khalsa Mahima (Sarabloh Granth)",
+        "description": "Poetic compositions praising the Khalsa",
+        "start_page": 1,
+        "end_page": 3,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "&urmwn dsmyS jI dw",
+        "name_english": "Furmaan Dasmesh Jee Daa",
+        "description": "Command of the Tenth Master",
+        "start_page": 4,
+        "end_page": 4,
+        "subsections": []
+      }
+    ]
   }
 ]
