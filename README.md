@@ -96,7 +96,7 @@ It is best practice to build the database, make changes to `database.sqlite`, an
 You can run a Shabad OS MariaDB using Docker:
 ```
 docker run -p 3306:3306 shabados/database
-``
+```
 
 The username is `shabados`, and the database name is `shabados`.
 
