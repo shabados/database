@@ -1660,52 +1660,6 @@
             }
           }
         }
-      },
-      {
-        "id": "GKL5",
-        "source_page": 1387,
-        "source_line": 3,
-        "gurmukhi": "svXy sRI muKbwk´ mhlw 5 ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": null,
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Swaiyas From The Mouth Of The Great Fifth Mehl:",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Swayas recited in person by the Sire, 5th Guru.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਸਵੱਯੇ ਮੁਖਾਰਬਿੰਦ ਤੋਂ ਉਚਾਰਨ ਕੀਤੇ ਹੋਏ, ਮਹਾਰਾਜ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਗੁਰੂ ਅਰਜਨਦੇਵ ਦੇ ਮੁਖਾਰਬਿੰਦ ਤੋਂ ਉਚਾਰਨ ਕੀਤੇ ਹੋਏ ਸਵਯੇ।",
-              "additional_information": {
-                "arth": "",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Sweyas, recitadas en persona de la boca de Guru Aryan Dev, Mejl Quinto Canal Divino.",
-              "additional_information": {}
-            }
-          }
-        }
       }
     ]
   }
