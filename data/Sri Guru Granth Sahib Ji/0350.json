@@ -197,7 +197,11 @@
         "gurmukhi": "eyko hY BweI; eyko hY ]1] rhwau ]",
         "pronunciation": "",
         "pronunciation_information": "",
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -804,7 +808,11 @@
         "gurmukhi": "horu ncxw; KusIAw mn mwh ]1] rhwau ]",
         "pronunciation": "",
         "pronunciation_information": "",
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1595,7 +1603,11 @@
         "gurmukhi": "qUM srby pUir rihAw; ilv lwie ]1] rhwau ]",
         "pronunciation": "",
         "pronunciation_information": "",
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {

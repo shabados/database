@@ -629,7 +629,11 @@
         "gurmukhi": "<> vwihgurU jI kI Pqh ]",
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": null,
+        "type": {
+          "id": 1,
+          "name_gurmukhi": "mMglwcrn",
+          "name_english": "Manglacharan"
+        },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {

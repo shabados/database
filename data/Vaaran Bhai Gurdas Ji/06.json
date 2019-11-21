@@ -13,7 +13,11 @@
         "gurmukhi": "<> siqgur pRswid ]",
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": null,
+        "type": {
+          "id": 1,
+          "name_gurmukhi": "mMglwcrn",
+          "name_english": "Manglacharan"
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {

@@ -151,7 +151,11 @@
         "gurmukhi": "Awie imlu gurisK. Awie imlu; qU myry gurU ky ipAwry ] rhwau ]",
         "pronunciation": "",
         "pronunciation_information": "",
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {

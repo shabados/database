@@ -183,7 +183,11 @@
         "gurmukhi": "Awid AMq Anµq mUriq; gVHn BMjnhwr ]1] rhwau ]",
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
@@ -399,7 +403,11 @@
         "gurmukhi": "isD smwD swD kr hwry kÎohUM n dyKn pwey ]1] rhwau ]",
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": null,
+        "type": {
+          "id": 3,
+          "name_gurmukhi": "rhwau",
+          "name_english": "Rahao"
+        },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
