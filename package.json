@@ -69,7 +69,7 @@
     "docsify-cli": "^4.2.1",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
-    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsdoc": "^3.15.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
