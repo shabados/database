@@ -17,6 +17,9 @@ jobs:
       - run:
           name: Run tests
           command: npm run test
+      - run:
+          name: Run benchmarks
+          command: npm run benchmark
       - deploy:
           name: Release database on Github
           command: |
