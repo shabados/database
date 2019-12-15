@@ -3447,29 +3447,29 @@
     ]
   },
   {
-    "name_gurmukhi": "joiq ibgws",
-    "name_english": "Jot Bigas",
-    "length": 21,
+    "name_gurmukhi": "joiq ibgws BweI nµd lwl jI",
+    "name_english": "Jot Bigas Bhai Nand Lal Ji",
+    "length": 2,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": [
       {
-        "name_gurmukhi": "joiq ibgws",
-        "name_english": "Jot Bigas",
-        "description": "",
+        "name_gurmukhi": "&wrsI",
+        "name_english": "Farsi",
+        "description": "Jot Bigaas in Farsi/Persian",
         "start_page": 1,
-        "end_page": 21,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pMjwbI",
+        "name_english": "Punjabi",
+        "description": "Jot Bigaas written in Punjabi (Separate from Farsi)",
+        "start_page": 2,
+        "end_page": 2,
         "subsections": []
       }
     ]
-  },
-  {
-    "name_gurmukhi": "joiq ibgws (pMjwbI)",
-    "name_english": "Jot Bigas (Punjabi)",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
   },
   {
     "name_gurmukhi": "Ardws",
