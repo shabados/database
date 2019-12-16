@@ -2481,7 +2481,7 @@
       {
         "name_gurmukhi": "sveIey mhly qIjy ky",
         "name_english": "Svaiyay Third Mehl",
-        "description": "Praises of Guru Amar Das Ji",
+        "description": "Praises of Guru Amardas Ji",
         "start_page": 1392,
         "end_page": 1396,
         "subsections": [
@@ -2496,7 +2496,7 @@
       {
         "name_gurmukhi": "sveIey mhly cauQy ky",
         "name_english": "Svaiyay Fourth Mehl",
-        "description": "Praises of Guru Raam Das Ji",
+        "description": "Praises of Guru Ramdas Ji",
         "start_page": 1396,
         "end_page": 1406,
         "subsections": [
@@ -2589,7 +2589,7 @@
       {
         "name_gurmukhi": "rwgmwlw",
         "name_english": "Raagmala",
-        "description": "A string of Musical Measures written by Poet Alam (raagmalainfo.com)",
+        "description": "A string of Musical Measures",
         "start_page": 1430,
         "end_page": 1430,
         "subsections": [
@@ -2764,22 +2764,22 @@
         "name_english": "Bachittar Natak",
         "description": "An autobiography of Guru Gobind Singh Ji, including his spiritual lineage.",
         "start_page": 39,
-        "end_page": 72,
+        "end_page": 73,
         "subsections": []
       },
       {
         "name_gurmukhi": "cMfI cirqR aukiq iblws",
         "name_english": "Chandi Charittar Ukat Bilas",
         "description": "A discussion of the mythological goddess, Chandi. As per internal references, it is based on the Sanskrit scripture Markandeya Purana.",
-        "start_page": 73,
-        "end_page": 98,
+        "start_page": 74,
+        "end_page": 99,
         "subsections": []
       },
       {
         "name_gurmukhi": "cMfI cirqR",
         "name_english": "Chandi Charittar",
         "description": "A discussion of Chandi.",
-        "start_page": 99,
+        "start_page": 100,
         "end_page": 118,
         "subsections": []
       },
@@ -2812,65 +2812,65 @@
         "name_english": "Brahma Avtaar",
         "description": "Narrative on the seven incarnations of Brahma.",
         "start_page": 611,
-        "end_page": 636,
+        "end_page": 634,
         "subsections": []
       },
       {
         "name_gurmukhi": "rudR Avqwr",
         "name_english": "Rudra Avtaar",
         "description": "Narrative of Rudra Avtars, includes a beautiful conversation between King Parsavnath and Sage Machindranath, with detailed explanations about Kaam, Krodh, Lobh, Moh, and Ahankar.",
-        "start_page": 637,
-        "end_page": 712,
+        "start_page": 635,
+        "end_page": 708,
         "subsections": []
       },
       {
         "name_gurmukhi": "Sbd hzwry pwÚ 10",
         "name_english": "Shabad Hazare",
         "description": "Ten religious hymns criticising ritualistic practices by renunciates such as sannyasins, yogis, and vairagis, as well as idolatry.",
-        "start_page": 713,
-        "end_page": 716,
+        "start_page": 709,
+        "end_page": 712,
         "subsections": [
           {
             "name_gurmukhi": "rwmklI",
             "name_english": "Raamkalee",
-            "start_page": 713,
-            "end_page": 714
+            "start_page": 709,
+            "end_page": 710
           },
           {
             "name_gurmukhi": "soriT",
             "name_english": "Sorath",
-            "start_page": 714,
-            "end_page": 714
+            "start_page": 710,
+            "end_page": 710
           },
           {
             "name_gurmukhi": "kilAwx",
             "name_english": "Kalyaan",
-            "start_page": 714,
-            "end_page": 715
+            "start_page": 710,
+            "end_page": 710
           },
           {
             "name_gurmukhi": "iKAwl",
             "name_english": "Khiaal",
-            "start_page": 715,
-            "end_page": 715
+            "start_page": 711,
+            "end_page": 711
           },
           {
             "name_gurmukhi": "iqlµg kwPI",
             "name_english": "Tilang Kaafee",
-            "start_page": 715,
-            "end_page": 715
+            "start_page": 711,
+            "end_page": 711
           },
           {
             "name_gurmukhi": "iblwvl",
             "name_english": "Bilaaval",
-            "start_page": 715,
-            "end_page": 715
+            "start_page": 711,
+            "end_page": 712
           },
           {
             "name_gurmukhi": "dyvgMDwrI",
             "name_english": "Devgandhari",
-            "start_page": 716,
-            "end_page": 716
+            "start_page": 712,
+            "end_page": 712
           }
         ]
       },
@@ -2878,28 +2878,28 @@
         "name_gurmukhi": "33 svYXy",
         "name_english": "33 Svaiyay",
         "description": "33 Stanzas",
-        "start_page": 717,
-        "end_page": 721,
+        "start_page": 712,
+        "end_page": 716,
         "subsections": []
       },
       {
         "name_gurmukhi": "Kwlsw mihmw",
         "name_english": "Khalsa Mahima",
         "description": "Two poetic compositions praising the Khalsa",
-        "start_page": 722,
-        "end_page": 722,
+        "start_page": 716,
+        "end_page": 716,
         "subsections": [
           {
             "name_gurmukhi": "sÍYXw",
             "name_english": "Svaiya",
-            "start_page": 722,
-            "end_page": 722
+            "start_page": 716,
+            "end_page": 716
           },
           {
             "name_gurmukhi": "dohrw",
             "name_english": "Dohira",
-            "start_page": 722,
-            "end_page": 722
+            "start_page": 716,
+            "end_page": 716
           }
         ]
       },
@@ -2907,8 +2907,8 @@
         "name_gurmukhi": "SsqR nwm mwlw",
         "name_english": "Shastar Naam Mala",
         "description": "Garland of the Names of Weapons",
-        "start_page": 723,
-        "end_page": 809,
+        "start_page": 717,
+        "end_page": 808,
         "subsections": []
       },
       {
@@ -2916,16 +2916,15 @@
         "name_english": "Charitropakhyan",
         "description": "Characters and Stories of People",
         "start_page": 809,
-        "end_page": 1386,
-        "subsections": []
-      },
-      {
-        "name_gurmukhi": "kibXobwc bynqI cOpeI",
-        "name_english": "Kabiyobach Benti Choupai",
-        "description": "One of the Daily Prayers of Sikhs",
-        "start_page": 1386,
         "end_page": 1388,
-        "subsections": []
+        "subsections": [
+          {
+            "name_gurmukhi": "kibXobwc bynqI cOpeI",
+            "name_english": "Kabiyobach Benti Choupai",
+            "start_page": 1386,
+            "end_page": 1388
+          }
+        ]
       },
       {
         "name_gurmukhi": "z&rnwmh",
@@ -3283,8 +3282,8 @@
     ]
   },
   {
-    "name_gurmukhi": "kibq svXy",
-    "name_english": "Kabit Savaiye",
+    "name_gurmukhi": "kibq svXy BweI gurdws jI",
+    "name_english": "Kabit Savaiye Bhai Gurdas Ji",
     "length": 675,
     "page_name_english": "Kabit",
     "page_name_gurmukhi": "kibq",
@@ -3300,15 +3299,15 @@
     ]
   },
   {
-    "name_gurmukhi": "ZzlW",
-    "name_english": "Guzals",
+    "name_gurmukhi": "ZzlW BweI nµd lwl jI",
+    "name_english": "Ghazals Bhai Nand Lal Ji",
     "length": 65,
-    "page_name_english": "Guzal",
+    "page_name_english": "Ghazal",
     "page_name_gurmukhi": "Zzl",
     "sections": [
       {
         "name_gurmukhi": "ZzlW",
-        "name_english": "Guzals",
+        "name_english": "Ghazals",
         "description": "",
         "start_page": 1,
         "end_page": 63,
@@ -3333,25 +3332,25 @@
     ]
   },
   {
-    "name_gurmukhi": "izMdgI nwmw",
-    "name_english": "Zindgi Nama",
-    "length": 61,
+    "name_gurmukhi": "izMdgI nwmw BweI nµd lwl jI",
+    "name_english": "Zindagi Nama Bhai Nand Lal Ji",
+    "length": 1,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": [
       {
         "name_gurmukhi": "izMdgI nwmw",
-        "name_english": "Zindgi Nama",
+        "name_english": "Zindagi Nama",
         "description": "",
         "start_page": 1,
-        "end_page": 61,
+        "end_page": 1,
         "subsections": []
       }
     ]
   },
   {
-    "name_gurmukhi": "gMjnwmw",
-    "name_english": "Ganj Nama",
+    "name_gurmukhi": "gMj nwmw BweI nµd lwl jI",
+    "name_english": "Ganj Nama Bhai Nand Lal Ji",
     "length": 10,
     "page_name_english": "Patishahi",
     "page_name_gurmukhi": "pwiqSwhI",
@@ -3367,7 +3366,7 @@
       {
         "name_gurmukhi": "pihlI pwiqSwhI",
         "name_english": "First Patishahi",
-        "description": "",
+        "description": "Praises of Guru Nanak Dev Ji",
         "start_page": 1,
         "end_page": 1,
         "subsections": []
@@ -3375,7 +3374,7 @@
       {
         "name_gurmukhi": "dUjI pwiqSwhI",
         "name_english": "Second Patishahi",
-        "description": "",
+        "description": "Praises of Guru Angad Dev Ji",
         "start_page": 2,
         "end_page": 2,
         "subsections": []
@@ -3383,7 +3382,7 @@
       {
         "name_gurmukhi": "qIji pwiqSwhI",
         "name_english": "Third Patishahi",
-        "description": "",
+        "description": "Praises of Guru Amardas Ji",
         "start_page": 3,
         "end_page": 3,
         "subsections": []
@@ -3391,7 +3390,7 @@
       {
         "name_gurmukhi": "cOQI pwiqSwhI",
         "name_english": "Fourth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Ramdas Ji",
         "start_page": 4,
         "end_page": 4,
         "subsections": []
@@ -3399,7 +3398,7 @@
       {
         "name_gurmukhi": "pMjvIN pwiqSwhI",
         "name_english": "Fifth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Arjan Dev Ji",
         "start_page": 5,
         "end_page": 5,
         "subsections": []
@@ -3407,7 +3406,7 @@
       {
         "name_gurmukhi": "CyvIN pwiqSwhI",
         "name_english": "Sixth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Hargobind Sahib Ji",
         "start_page": 6,
         "end_page": 6,
         "subsections": []
@@ -3415,7 +3414,7 @@
       {
         "name_gurmukhi": "s`qvIN pwiqSwhI",
         "name_english": "Seventh Patishahi",
-        "description": "",
+        "description": "Praises of Guru Har Rai Sahib Ji",
         "start_page": 7,
         "end_page": 7,
         "subsections": []
@@ -3423,7 +3422,7 @@
       {
         "name_gurmukhi": "ATvIN pwiqSwhI",
         "name_english": "Eighth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Harkrishan Sahib Ji",
         "start_page": 8,
         "end_page": 8,
         "subsections": []
@@ -3431,7 +3430,7 @@
       {
         "name_gurmukhi": "nOvI pwiqSwhI",
         "name_english": "Ninth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Tegh Bahadur Ji",
         "start_page": 9,
         "end_page": 9,
         "subsections": []
@@ -3439,7 +3438,7 @@
       {
         "name_gurmukhi": "dsvIN pwiqSwhI",
         "name_english": "Tenth Patishahi",
-        "description": "",
+        "description": "Praises of Guru Gobind Singh Ji",
         "start_page": 10,
         "end_page": 10,
         "subsections": []
@@ -3447,29 +3446,29 @@
     ]
   },
   {
-    "name_gurmukhi": "joiq ibgws",
-    "name_english": "Jot Bigas",
-    "length": 21,
+    "name_gurmukhi": "joiq ibgws BweI nµd lwl jI",
+    "name_english": "Jot Bigas Bhai Nand Lal Ji",
+    "length": 2,
     "page_name_english": "Panna",
     "page_name_gurmukhi": "pMnw",
     "sections": [
       {
-        "name_gurmukhi": "joiq ibgws",
-        "name_english": "Jot Bigas",
-        "description": "",
+        "name_gurmukhi": "&wrsI",
+        "name_english": "Farsi",
+        "description": "Jot Bigaas in Farsi/Persian",
         "start_page": 1,
-        "end_page": 21,
+        "end_page": 1,
+        "subsections": []
+      },
+      {
+        "name_gurmukhi": "pMjwbI",
+        "name_english": "Punjabi",
+        "description": "Jot Bigaas written in Punjabi (Separate from Farsi)",
+        "start_page": 2,
+        "end_page": 2,
         "subsections": []
       }
     ]
-  },
-  {
-    "name_gurmukhi": "joiq ibgws (pMjwbI)",
-    "name_english": "Jot Bigas (Punjabi)",
-    "length": 1,
-    "page_name_english": "Panna",
-    "page_name_gurmukhi": "pMnw",
-    "sections": []
   },
   {
     "name_gurmukhi": "Ardws",
@@ -3487,14 +3486,6 @@
         "subsections": []
       }
     ]
-  },
-  {
-    "name_gurmukhi": "augRdMqI",
-    "name_english": "Uggardanti",
-    "length": 6,
-    "page_name_english": "Chand",
-    "page_name_gurmukhi": "CMd",
-    "sections": []
   },
   {
     "name_gurmukhi": "rihqnwmy",
@@ -3601,5 +3592,13 @@
         "subsections": []
       }
     ]
+  },
+  {
+    "name_gurmukhi": "augRdMqI",
+    "name_english": "Uggardanti",
+    "length": 6,
+    "page_name_english": "Chand",
+    "page_name_gurmukhi": "CMd",
+    "sections": []
   }
 ]
