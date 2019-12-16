@@ -2917,15 +2917,14 @@
         "description": "Characters and Stories of People",
         "start_page": 809,
         "end_page": 1388,
-        "subsections": []
-      },
-      {
-        "name_gurmukhi": "kibXobwc bynqI cOpeI",
-        "name_english": "Kabiyobach Benti Choupai",
-        "description": "One of the Daily Prayers of Sikhs",
-        "start_page": 1386,
-        "end_page": 1388,
-        "subsections": []
+        "subsections": [
+          {
+            "name_gurmukhi": "kibXobwc bynqI cOpeI",
+            "name_english": "Kabiyobach Benti Choupai",
+            "start_page": 1386,
+            "end_page": 1388
+          }
+        ]
       },
       {
         "name_gurmukhi": "z&rnwmh",
