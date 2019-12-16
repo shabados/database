@@ -3488,14 +3488,6 @@
     ]
   },
   {
-    "name_gurmukhi": "augRdMqI",
-    "name_english": "Uggardanti",
-    "length": 6,
-    "page_name_english": "Chand",
-    "page_name_gurmukhi": "CMd",
-    "sections": []
-  },
-  {
     "name_gurmukhi": "rihqnwmy",
     "name_english": "Rehitname",
     "length": 10,
@@ -3600,5 +3592,13 @@
         "subsections": []
       }
     ]
+  },
+  {
+    "name_gurmukhi": "augRdMqI",
+    "name_english": "Uggardanti",
+    "length": 6,
+    "page_name_english": "Chand",
+    "page_name_gurmukhi": "CMd",
+    "sections": []
   }
 ]
