@@ -77,10 +77,7 @@ jobs:
               docker login -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}
 
               # Push full, major, minor-minor images
-              docker push shabados/database:${VERSION}-mariadb
-              docker push shabados/database:${MAJOR}-mariadb
-              docker push shabados/database:${MAJOR}.${MINOR}-mariadb
-              docker push shabados/database:latest
+              docker push shabados/database
             fi
 
 workflows:
