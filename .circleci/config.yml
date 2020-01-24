@@ -80,6 +80,7 @@ jobs:
               docker push shabados/database:${VERSION}-mariadb
               docker push shabados/database:${MAJOR}-mariadb
               docker push shabados/database:${MAJOR}.${MINOR}-mariadb
+              docker push shabados/database:latest
             fi
 
 workflows:
