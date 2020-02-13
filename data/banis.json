@@ -402,26 +402,6 @@
     ]
   },
   {
-    "name_gurmukhi": "lwvW (Anµd kwrj)",
-    "name_english": "Lavan (Anand Karaj)",
-    "lines": [
-      {
-        "start_line": "UZG1",
-        "end_line": "32V1"
-      }
-    ]
-  },
-  {
-    "name_gurmukhi": "slok mhlw 9",
-    "name_english": "Salok Mehla 9",
-    "lines": [
-      {
-        "start_line": "43WC",
-        "end_line": "ATZ1"
-      }
-    ]
-  },
-  {
     "name_gurmukhi": "Ardws",
     "name_english": "Ardaas",
     "lines": [
@@ -432,6 +412,16 @@
       {
         "start_line": "2HY4",
         "end_line": "Z4ZP"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "slok mhlw 9",
+    "name_english": "Salok Mehla 9",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "ATZ1"
       }
     ]
   },
@@ -546,6 +536,70 @@
       {
         "start_line": "S2AC",
         "end_line": "FQQ0"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "lwvW (Anµd kwrj)",
+    "name_english": "Lavan (Anand Karaj)",
+    "lines": [
+      {
+        "start_line": "UZG1",
+        "end_line": "32V1"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "sRI gurU gRMQ swihb dy pwT dw Bog (muMdwvxI)",
+    "name_english": "Sri Guru Granth Sahib Paath Bhog (Mundavnni)",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "VC9N"
+      },
+      {
+        "start_line": "LTKA",
+        "end_line": "4RHQ"
+      },
+      {
+        "start_line": "ELHF",
+        "end_line": "C1W0"
+      },
+      {
+        "start_line": "XQLL",
+        "end_line": "9WAL"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "sRI gurU gRMQ swihb dy pwT dw Bog (rwgmwlw)",
+    "name_english": "Sri Guru Granth Sahib Paath Bhog (Ragmala)",
+    "lines": [
+      {
+        "start_line": "43WC",
+        "end_line": "CUSP"
+      },
+      {
+        "start_line": "LTKA",
+        "end_line": "4RHQ"
+      },
+      {
+        "start_line": "ELHF",
+        "end_line": "C1W0"
+      },
+      {
+        "start_line": "XQLL",
+        "end_line": "9WAL"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "rwmklI sdu",
+    "name_english": "Raamkali Sadu",
+    "lines": [
+      {
+        "start_line": "Q8FU",
+        "end_line": "QPJH"
       }
     ]
   }
