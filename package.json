@@ -48,7 +48,7 @@
   "dependencies": {
     "anyid": "^1.0.7",
     "colors": "^1.4.0",
-    "commander": "^2.20.3",
+    "commander": "^4.1.1",
     "fast.js": "^0.1.1",
     "freshy": "^1.0.4",
     "gurmukhi-utils": "^2.3.0",
