@@ -10,10 +10,12 @@
         "id": "TM9S",
         "source_page": 123,
         "source_line": 1,
-        "gurmukhi": "eyk hI gors mY Anyk rs ko pRgws; dihE mihE mwKnu Aau iGRq aunmwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "eyk hI gors mY Anyk rs ko pRgws; dihE mihE mwKnu Aau iGRq aunmwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "GMVD",
         "source_page": 123,
         "source_line": 2,
-        "gurmukhi": "eyk hI auKwrI mY imTws ko invws guVu; KwNf imsrI Aau klIkMd pihcwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "eyk hI auKwrI mY imTws ko invws guVu; KwNf imsrI Aau klIkMd pihcwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "0Z4N",
         "source_page": 123,
         "source_line": 3,
-        "gurmukhi": "eyk hI gyhU sY hoq nwnw ibMjnwd sÍwd; BUny BIjy pIsy Aau ausy eI ibibDwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "eyk hI gyhU sY hoq nwnw ibMjnwd sÍwd; BUny BIjy pIsy Aau ausy eI ibibDwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "NU4N",
         "source_page": 123,
         "source_line": 4,
-        "gurmukhi": "pwvk sill eyk eykih gun Anyk; pMc kY pMcwmRq swDsMgu jwnIAY [123[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "pwvk sill eyk eykih gun Anyk; pMc kY pMcwmRq swDsMgu jwnIAY [123["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
