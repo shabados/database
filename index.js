@@ -35,6 +35,7 @@ const Translations = require( './lib/models/Translations' )
 const TranslationSources = require( './lib/models/TranslationSources' )
 const Languages = require( './lib/models/Languages' )
 const Publications = require( './lib/models/Publications' )
+const LineContent = require( './lib/models/LineContent' )
 
 const { connection: { filename } } = config
 
@@ -42,6 +43,7 @@ module.exports = {
   Banis,
   Languages,
   Lines,
+  LineContent,
   LineTypes,
   Transliterations,
   Translations,
