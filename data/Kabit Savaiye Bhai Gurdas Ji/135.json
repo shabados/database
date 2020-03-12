@@ -10,10 +10,12 @@
         "id": "AM80",
         "source_page": 135,
         "source_line": 1,
-        "gurmukhi": "sRI gur drs iDAwn sRI gur sbd; igAwn ssqR snwh pMc dUq bis Awey hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "sRI gur drs iDAwn sRI gur sbd; igAwn ssqR snwh pMc dUq bis Awey hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "2T10",
         "source_page": 135,
         "source_line": 2,
-        "gurmukhi": "sRI gur crn ryn sRI gur srin Dyn; krm Brm kit ABY pd pwey hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "sRI gur crn ryn sRI gur srin Dyn; krm Brm kit ABY pd pwey hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "K1ML",
         "source_page": 135,
         "source_line": 3,
-        "gurmukhi": "sRI gur bcn lyK sRI gur syvk ByK; ACl AlyK pRBu AlK lKwey hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "sRI gur bcn lyK sRI gur syvk ByK; ACl AlyK pRBu AlK lKwey hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "E8VX",
         "source_page": 135,
         "source_line": 4,
-        "gurmukhi": "gurisK swDsMg gosit pRym pRsMg; inMmRqw inrMqrI kY shj smwey hY [135[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "gurisK swDsMg gosit pRym pRsMg; inMmRqw inrMqrI kY shj smwey hY [135["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

@@ -10,10 +10,12 @@
         "id": "QLPG",
         "source_page": 34,
         "source_line": 1,
-        "gurmukhi": "durmiq myit gurmiq ihrdY pRgwsI; Koey hY AigAwn jwny bRhm igAwn hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "durmiq myit gurmiq ihrdY pRgwsI; Koey hY AigAwn jwny bRhm igAwn hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "7YKL",
         "source_page": 34,
         "source_line": 2,
-        "gurmukhi": "drs iDAwn Awn iDAwn ibsmrn kY; sbd suriq moin bRq prvwny hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "drs iDAwn Awn iDAwn ibsmrn kY; sbd suriq moin bRq prvwny hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "PU8Q",
         "source_page": 34,
         "source_line": 3,
-        "gurmukhi": "pRym rs risk huoie An rs rhq huie; joqI mY joiq srUp sohM sur qwny hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "pRym rs risk huoie An rs rhq huie; joqI mY joiq srUp sohM sur qwny hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "H5H8",
         "source_page": 34,
         "source_line": 4,
-        "gurmukhi": "gur isK sMD imly bIs iekIs eIs; pUrn ibbyk tyk eyk hIXy Awny hY [34[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "gur isK sMD imly bIs iekIs eIs; pUrn ibbyk tyk eyk hIXy Awny hY [34["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

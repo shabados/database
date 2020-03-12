@@ -10,10 +10,12 @@
         "id": "APAP",
         "source_page": 236,
         "source_line": 1,
-        "gurmukhi": "srvr mY n jwnI dwdr kml giq; imRg imRgmd giq AMqr n jwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "srvr mY n jwnI dwdr kml giq; imRg imRgmd giq AMqr n jwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "6CLV",
         "source_page": 236,
         "source_line": 2,
-        "gurmukhi": "min mihmw n jwnI Aih ibKR ibKm kY; swgr mY sMK iniD hIn bk bwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "min mihmw n jwnI Aih ibKR ibKm kY; swgr mY sMK iniD hIn bk bwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "PEPG",
         "source_page": 236,
         "source_line": 3,
-        "gurmukhi": "cMdn smIp jYsy bwNs inrgMD kMD; aulUAY AlK idn idnkr iDAwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "cMdn smIp jYsy bwNs inrgMD kMD; aulUAY AlK idn idnkr iDAwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "S911",
         "source_page": 236,
         "source_line": 4,
-        "gurmukhi": "qYsy bwNJ bDU mm sRI gur purK Byt; inhcl syNbl ijau haumY AiBmwnI hY [236[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "qYsy bwNJ bDU mm sRI gur purK Byt; inhcl syNbl ijau haumY AiBmwnI hY [236["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

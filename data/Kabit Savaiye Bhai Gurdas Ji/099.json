@@ -10,10 +10,12 @@
         "id": "LY42",
         "source_page": 99,
         "source_line": 1,
-        "gurmukhi": "pUrn bRhm gur pUrn srbmeI; pUrn ikRpw kY prpUrn kY jwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "pUrn bRhm gur pUrn srbmeI; pUrn ikRpw kY prpUrn kY jwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "FL1H",
         "source_page": 99,
         "source_line": 2,
-        "gurmukhi": "drs iDAwn ilv eyk Aau Anyk myk; sbd ibbyk tyk eykY aur AwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "drs iDAwn ilv eyk Aau Anyk myk; sbd ibbyk tyk eykY aur AwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "ZJB8",
         "source_page": 99,
         "source_line": 3,
-        "gurmukhi": "idRsit drs Aru sbd suriq imil; pyKqw bkqw sRoqw eykY pihcwnIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "idRsit drs Aru sbd suriq imil; pyKqw bkqw sRoqw eykY pihcwnIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "V5RA",
         "source_page": 99,
         "source_line": 4,
-        "gurmukhi": "sUKm sQUl mUl gupq pRgt Tt; nt vt ismrn mMqR mnu mwnIAY [99[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Shiromani Gurdwara Parbandhak Committee": "sUKm sQUl mUl gupq pRgt Tt; nt vt ismrn mMqR mnu mwnIAY [99["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
