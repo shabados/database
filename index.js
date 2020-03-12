@@ -34,6 +34,7 @@ const Transliterations = require( './lib/models/Transliterations' )
 const Translations = require( './lib/models/Translations' )
 const TranslationSources = require( './lib/models/TranslationSources' )
 const Languages = require( './lib/models/Languages' )
+const Publications = require( './lib/models/Publications' )
 
 const { connection: { filename } } = config
 
@@ -50,6 +51,7 @@ module.exports = {
   Shabads,
   Sources,
   Writers,
+  Publications,
   knex,
   filename,
 }
