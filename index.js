@@ -28,13 +28,13 @@ const LineTypes = require( './lib/models/LineTypes' )
 const Sections = require( './lib/models/Sections' )
 const Subsections = require( './lib/models/Subsections' )
 const Shabads = require( './lib/models/Shabads' )
-const Sources = require( './lib/models/Sources' )
+const Compositions = require( './lib/models/Compositions' )
 const Writers = require( './lib/models/Writers' )
 const Transliterations = require( './lib/models/Transliterations' )
 const Translations = require( './lib/models/Translations' )
 const TranslationSources = require( './lib/models/TranslationSources' )
 const Languages = require( './lib/models/Languages' )
-const Publications = require( './lib/models/Publications' )
+const Sources = require( './lib/models/Sources' )
 const LineContent = require( './lib/models/LineContent' )
 
 const { connection: { filename } } = config
@@ -51,9 +51,9 @@ module.exports = {
   Sections,
   Subsections,
   Shabads,
-  Sources,
+  Compositions,
   Writers,
-  Publications,
+  Sources,
   knex,
   filename,
 }

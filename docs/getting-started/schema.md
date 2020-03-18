@@ -16,21 +16,23 @@ The schema can also be explored on [SQLDBM](https://app.sqldbm.com/MySQL/Share/p
 
 Below is a brief summary of all the tables available in the database.
 
-| Name                                        | Description                                                           | Depends on                                    |
-| ------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------- |
-| [Lines](#Lines)                             | Gurbani lines, linked to a `Shabad`.                                  | `Shabads`, `Line_Types`                       |
-| [Line_Types](#Line_Types)                   | List of possible line classifications. E.g. `rahao`, `tuk`.           | None                                          |
-| [Shabads](#Shabads)                         | Grouping of Gurbani `Lines`, with additional metadata.                | `Lines`, `Writers`, `Sections`, `Subsections` |
-| [Writers](#Writers)                         | Composers of `Shabads`.                                               | None                                          |
-| [Sources](#Sources)                         | A source of Gurbani `Shabads` or `Lines`.                             | None                                          |
-| [Sections](#Sections)                       | Grouping of `Shabads` within a single source.                         | `Sources`                                     |
-| [Subsections](#Subsections)                 | Sub-groupings within a single section.                                | `Sections`                                    |
-| [Languages](#Languages)                     | Available translation languages.                                      | None                                          |
-| [Transliterations](#Transliterations)       | Transliterations for Gurbani `Lines` in a given `Language`.           | `Lines`, `Languages`                          |
-| [Translation_Sources](#Translation_Sources) | Translation source authors and languages for a single Gurbani source. | `Languages`, `Sources`                        |
-| [Translations](#Translations)               | Translations for Gurbani `Lines` from a translation source.           | `Lines`, `Translation_Sources`                |
-| [Banis](#Banis)                             | Named of available Banis.                                             | None                                          |
-| [Bani_Lines](#Bani_Lines)                   | Groupings of `Lines` to `Banis`.                                      | `Banis`, `Lines`                              |
+| Name                                        | Description                                                              | Conceptual Example                              | Depends on                                    |
+| ------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------- |
+| [Lines](#Lines)                             | Gurbani lines, linked to a `Shabad`.                                     | `source_page: 10, Line_Content`                 | `Shabads`, `Line_Types`                       |
+| [Line_Content](#Line_Content)               | Corresponding Gurmukhi related to the `source` of a `line`.              | `SGPC: nmsqM mhMqy ]`, `source2: nmsqM mhMqy ]` | `Sources`, `Lines`                            |
+| [Line_Types](#Line_Types)                   | List of possible line classifications.                                   | `rahao`, `tuk`                                  | None                                          |
+| [Shabads](#Shabads)                         | Grouping of Gurbani `Lines`, with additional metadata.                   | `Writer, Section, Subsection, Lines`            | `Lines`, `Writers`, `Sections`, `Subsections` |
+| [Writers](#Writers)                         | Composers of `Shabads`.                                                  | `Guru Angad Dev Ji`                             | None                                          |
+| [Compositions](#Compositions)               | A composition of Gurbani `Shabads`.                                      | `Sri Guru Granth Sahib Ji`                      | None                                          |
+| [Sources](#Sources)                         | A source of Gurbani .                                                    | `SGPC`, `Budha Dal Mehron`                      | None                                          |
+| [Sections](#Sections)                       | Grouping of `Shabads` within a single composition.                       | `Raag Gujri`, `Siree Raag`                      | `Compositions`                                |
+| [Subsections](#Subsections)                 | Sub-groupings within a single section.                                   | `Mahalaa 1`                                     | `Sections`                                    |
+| [Languages](#Languages)                     | Available translation languages.                                         | `English`                                       | None                                          |
+| [Transliterations](#Transliterations)       | Transliterations for Gurbani `Lines` in a given `Language` and `Source`. | `SGPC: har har har gun gaavo`                   | `Lines`, `Languages`, `Sources`               |
+| [Translation_Sources](#Translation_Sources) | Translation source authors and languages for a single Gurbani source.    | `Language: English, Author: Sant Singh Khalsa`  | `Languages`, `Sources`                        |
+| [Translations](#Translations)               | Translations for Gurbani `Lines` from a translation source.              | `The Lord is One`                               | `Lines`, `Translation_Sources`                |
+| [Banis](#Banis)                             | Named of available Banis.                                                | `Jap Ji Sahib`                                  | None                                          |
+| [Bani_Lines](#Bani_Lines)                   | Groupings of `Lines` to `Banis`.                                         | N/A                                             | `Banis`, `Lines`                              |
 
 
 ### Lines
@@ -49,7 +51,6 @@ Currently, the `gurmukhi` stores as an ASCII representation of Gurbani. We are h
 | shabad_id                 | char(3) | A 3 character unique identifier of the [Shabad](#Shabads) that the line belongs to.                       | Foreign Key ([Shabads](#Shabads).id) <br/> Not Null |
 | source_page               | integer | The physical "page" number within the source that the line appears on.                                    | Not Null                                            |
 | source_line               | integer | The physical "line" number within the source that the line appears on.                                    | None                                                |
-| gurmukhi                  | text    | The Gurbani line, stored as an ASCII representation of Gurmukhi.                                          | Not Null                                            |
 | pronunciation             | text    | Guidelines around pronouncing the Gurbani line stored in the `gurmukhi` field, correctly.                 | None                                                |
 | pronunciation_information | text    | Additional footnotes about the `pronunciation` guidelines.                                                | None                                                |
 | transliteration_english   | text    | The transliterated `gurmukhi` into English, allowing English readers to pronounce the `gurmukhi`.         | Not Null                                            |
@@ -57,6 +58,32 @@ Currently, the `gurmukhi` stores as an ASCII representation of Gurbani. We are h
 | first_letters             | text    | The first letters of each word in the `gurmukhi` line, useful for searching the database by first letter. | Not Null                                            |
 | type_id                   | integer | The unique identifier of the line type.                                                                   | Foreign Key ([Line_Types](#Line_Types))             |
 | order_id                  | integer | The correct order of the line. Order by this field to fetch the lines in the correct order.               | None                                                |
+
+### Sources
+The [Sources](#Sources) table provides a list of all the different source of Gurbani that the database contains. E.g. `SGPC`, `Budha Dal Mehron`.
+
+Sometimes, [sources](#Sources) may overlap for the same [Line](#Lines), since it is possible for the same line to vary slightly.
+
+This is useful for selecting which Gurbani source that a [Line](#Lines) will be displayed from.
+
+| Column        | Type    | Description                                                | Constraints |
+| ------------- | ------- | ---------------------------------------------------------- | ----------- |
+| id            | integer | The unique identifier of the source.                       | Primary Key |
+| name_english  | text    | The name of the source, in English.                        | Not Null    |
+| name_gurmukhi | text    | The name of the source, in Gurmukhi, ASCII representation. | Not Null    |
+|               |
+### Line_Content
+The [Line_Content](#Line_Content) table contains the corresponding gurmukhi for a [Line](#Lines) for a [Source](#Sources).
+
+This exists to support the differences between Sources of Gurbani for the same lines.
+
+| Column        | Type    | Description                                                                                               | Constraints                                          |
+| ------------- | ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| line_id       | char(4) | The 4 letter unique identifier of the Gurbani line that the transliteration corresponds with.             | Primary Key, <br/> Foreign Key ([Lines](#Lines).id)  |
+| source_id     | integer | The unique identifier of the gurbani source for the line.                                                 | Primary, <br/> Foreign Key ([Sources](#Sources)) Key |
+| gurmukhi      | text    | The Gurbani line, stored as an ASCII representation of Gurmukhi.                                          | Not Null                                             |
+| first_letters | text    | The first letters of each word in the `gurmukhi` line, useful for searching the database by first letter. | Not Null                                             |
+
 
 ### Line_Types
 The [Line_Types](#Line_Types) table contains the possible classifications of each [line](#Lines).
@@ -74,20 +101,20 @@ This can be useful for filtering out `rahao` lines from searches, or reordering 
 ### Shabads
 The [Shabads](#Shabads) table is used to group the [Lines](#Lines) together, and provide additional metadata about those [Lines](#Lines).
 
-Every Shabad must have a [source](#Sources), [writer](#Writer), and [section](#Section).
+Every Shabad must have a [composition](#Compositions), [writer](#Writer), and [section](#Section).
 
 The content is unordered by default, and must be ordered by `order_id`.
 The `id` is a three-letter, immutable identifier that will refer to the same Sahbad across database versions.
 
-| Column        | Type    | Description                                                                                                 | Constraints                                            |
-| ------------- | ------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| id            | char(3) | A 3 character unique identifier for the Shabad. Permanent and will never change.                            | Primary Key                                            |
-| writer_id     | integer | The unique identifier of the [writer](#Writers) of the Shabad.                                              | Foreign Key ([Writers](#Writers).id), <br/> Not Null   |
-| section_id    | integer | The unique identifier of the [section](#Sections) that the Shabad belongs to.                               | Foreign Key ([Sections](#Sections).id), <br/> Not Null |
-| subsection_id | integer | The unique identifier of the subsection that the Shabad belongs to.                                         | Foreign Key ([Subsections](#Subsections).id)           |
-| sttm_id       | integer | The unique identifier of the equivalent Shabad within the SikhiToTheMax 2 database.                         | None                                                   |
-| source_id     | integer | The Gurbani [source](#Sources) that the Shabad belongs to.                                                  | Foreign Key ([Sources](#Sources).id), <br/> Not Null   |
-| order_id      | integer | The correct order of the Shabad. Order by this field to fetch the shabads in the correct order, if desired. | None                                                   |
+| Column         | Type    | Description                                                                                                 | Constraints                                            |
+| -------------- | ------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| id             | char(3) | A 3 character unique identifier for the Shabad. Permanent and will never change.                            | Primary Key                                            |
+| writer_id      | integer | The unique identifier of the [writer](#Writers) of the Shabad.                                              | Foreign Key ([Writers](#Writers).id), <br/> Not Null   |
+| section_id     | integer | The unique identifier of the [section](#Sections) that the Shabad belongs to.                               | Foreign Key ([Sections](#Sections).id), <br/> Not Null |
+| subsection_id  | integer | The unique identifier of the subsection that the Shabad belongs to.                                         | Foreign Key ([Subsections](#Subsections).id)           |
+| sttm_id        | integer | The unique identifier of the equivalent Shabad within the SikhiToTheMax 2 database.                         | None                                                   |
+| composition_id | integer | The Gurbani [composition](#Compositions) that the Shabad belongs to.                                        | Foreign Key ([Sources](#Sources).id), <br/> Not Null   |
+| order_id       | integer | The correct order of the Shabad. Order by this field to fetch the shabads in the correct order, if desired. | None                                                   |
 
 ### Writers
 The [Writers](#Writers) table contains a list of all the authors and composers of the contents in the database.
@@ -99,19 +126,19 @@ The [Writers](#Writers) table contains a list of all the authors and composers o
 | name_gurmukhi | text    | The name of the writer, in Gurmukhi, ASCII representation. | Not Null    |
 
 ### Sections
-The [Sections](#Sections) table contains a list of all the different sections, per [source](#Sources).
+The [Sections](#Sections) table contains a list of all the different sections, per [composition](#Compositions).
 
-Every section must have a single [source](#Sources).
+Every section must have a single [composition](#Composition).
 
-| Column        | Type    | Description                                                                   | Constraints                                          |
-| ------------- | ------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- |
-| id            | integer | The unique identifier of the section.                                         | Primary Key                                          |
-| name_english  | text    | The name of the section, in English.                                          | Not Null                                             |
-| name_gurmukhi | text    | The name of the section, in Gurmukhi, ASCII representation.                   | Not Null                                             |
-| description   | text    | The description of the section.                                               | Not Null                                             |
-| start_page    | integer | The physical "page" from the source that this section begins on.              | Not Null                                             |
-| end_page      | integer | The physical "page" from the source that this section ends on.                | Not Null                                             |
-| source_id     | integer | The unique identifier of the [source](#Sources) that this section belongs to. | Foreign Key ([Sources](#Sources).id), <br/> Not Null |
+| Column         | Type    | Description                                                                             | Constraints                                                    |
+| -------------- | ------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| id             | integer | The unique identifier of the section.                                                   | Primary Key                                                    |
+| name_english   | text    | The name of the section, in English.                                                    | Not Null                                                       |
+| name_gurmukhi  | text    | The name of the section, in Gurmukhi, ASCII representation.                             | Not Null                                                       |
+| description    | text    | The description of the section.                                                         | Not Null                                                       |
+| start_page     | integer | The physical "page" from the source that this section begins on.                        | Not Null                                                       |
+| end_page       | integer | The physical "page" from the source that this section ends on.                          | Not Null                                                       |
+| composition_id | integer | The unique identifier of the [composition](#Compositions) that this section belongs to. | Foreign Key ([Compositions](#Compositions).id), <br/> Not Null |
 
 ### Subsections
 The [Subsections](#Subsections) table contains a list of all the different subsections, per single [section](#Sections). 
@@ -129,8 +156,8 @@ To determine which [source](#Sources) that a subsection is from, retrieve the so
 | start_page    | integer | The physical "page" from the source that this subsection begins on.            | Not Null                                               |
 | end_page      | integer | The physical "page" from the source that this subsection ends on.              | Not Null                                               |
 
-### Sources
-The [Sources](#Sources) table provides a list of all the different Gurbani sources that the database contains.
+### Compositions
+The [Compositions](#Compositions) table provides a list of all the different compositions that the database contains. E.g. `Sri Guru Granth Sahib`.
 
 | Column            | Type    | Description                                                                    | Constraints |
 | ----------------- | ------- | ------------------------------------------------------------------------------ | ----------- |
@@ -152,7 +179,7 @@ The [Languages](#Languages) table provides a list of all the translation languag
 | name_international | text    | The name of the language, as written in the language itself. | Not Null    |
 
 ### Transliterations
-The [Transliterations](#Transliterations) table contains the corresponding transliteration of a single line in a given [language](#Languages).
+The [Transliterations](#Transliterations) table contains the corresponding transliteration of a single line in a given [language](#Languages) and [source](#Sources).
 
 Note that the `transliteration` can be nullable.
 
@@ -160,6 +187,7 @@ Note that the `transliteration` can be nullable.
 | Column          | Type    | Description                                                                                   | Constraints                                                 |
 | --------------- | ------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | line_id         | char(4) | The 4 letter unique identifier of the Gurbani line that the transliteration corresponds with. | Primary Key, <br/> Foreign Key ([Lines](#Lines).id)         |
+| source_id       | integer | The unique identifier of the [Source](#Sources) that the transliteration is of.               | Primary Key, <br/> Foreign Key ([Sources](#Sources).id)     |
 | language_id     | integer | The unique identifier of the [Language](#Languages) that the transliteration is in.           | Primary Key, <br/> Foreign Key ([Languages](#Languages).id) |
 | transliteration | text    | The transliteration of the Gurbani line.                                                      | None                                                        |
 
@@ -170,13 +198,13 @@ A translation source is a combination of the Gurbani [source](#Sources), the [la
 
 To retrieve the actual [Translations](#Translations) for a translation source, use the [Translations](#Translations) table.
 
-| Column        | Type    | Description                                                                                         | Constraints                                              |
-| ------------- | ------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| id            | integer | The unique identifier of the translation source.                                                    | Primary Key                                              |
-| name_english  | text    | The name of the translation source, in English.                                                     | Not Null                                                 |
-| name_gurmukhi | text    | The name of the translation source, in Gurmukhi, ASCII representation.                              | Not Null                                                 |
-| source_id     | integer | The unique identifier of the Gurbani [source](#Sources) that the translation source corresponds to. | Foreign Key ([Sources](#Sources).id), <br/> Not Null     |
-| language_id   | integer | The unique identifier of the [language](#Languages) that the translation source is translated into. | Foreign Key ([Languages](#Languages).id), <br/> Not Null |
+| Column         | Type    | Description                                                                                                   | Constraints                                                    |
+| -------------- | ------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| id             | integer | The unique identifier of the translation source.                                                              | Primary Key                                                    |
+| name_english   | text    | The name of the translation source, in English.                                                               | Not Null                                                       |
+| name_gurmukhi  | text    | The name of the translation source, in Gurmukhi, ASCII representation.                                        | Not Null                                                       |
+| composition_id | integer | The unique identifier of the Gurbani [composition](#Compositions) that the translation source corresponds to. | Foreign Key ([Compositions](#Compositions).id), <br/> Not Null |
+| language_id    | integer | The unique identifier of the [language](#Languages) that the translation source is translated into.           | Foreign Key ([Languages](#Languages).id), <br/> Not Null       |
 
 ### Translations
 The [Translations](#Translations) table contains the corresponding translation of a single line from a [translation source](#Translation_Sources).
