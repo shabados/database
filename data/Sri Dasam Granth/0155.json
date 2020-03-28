@@ -1825,6 +1825,31 @@
         }
       },
       {
+        "id": "RUXR",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "pwqswhI 10 ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "By the Tenth King (Guru).",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਪਾਤਸ਼ਾਹੀ ੧੦:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "0TBN",
         "source_page": 155,
         "source_line": null,
@@ -1844,31 +1869,6 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਹੁਣ ਚੌਬੀਸ ਅਉਤਾਰ ਦਾ ਕਥਨ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "RUXR",
-        "source_page": 155,
-        "source_line": null,
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Sirlekh",
-        "gurmukhi": {
-          "Budha Dal Mehron": "pwiqswhI 10 ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "By the Tenth King (Guru).",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਪਾਤਸ਼ਾਹੀ ੧੦:",
               "additional_information": {}
             }
           }
