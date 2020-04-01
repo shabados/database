@@ -10,10 +10,12 @@
         "id": "XXG2",
         "source_page": 1401,
         "source_line": 1,
-        "gurmukhi": "gurU guru. guru krhu; gurU hir pweIAY ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurU guru. guru krhu; gurU hir pweIAY ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -56,10 +58,12 @@
         "id": "SRSM",
         "source_page": 1401,
         "source_line": 1,
-        "gurmukhi": "audiD guru gihr gMBIr; byAMqu hir nwm ng hIr mix; imlq ilv lweIAY ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "audiD guru gihr gMBIr; byAMqu hir nwm ng hIr mix; imlq ilv lweIAY ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -102,10 +106,12 @@
         "id": "XRCX",
         "source_page": 1401,
         "source_line": 2,
-        "gurmukhi": "Puin. gurU prml srs, krq kMcnu prs; mYlu durmiq ihrq, sbid guru D´weIAY ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Puin. gurU prml srs, krq kMcnu prs; mYlu durmiq ihrq, sbid guru D´weIAY ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -148,10 +154,12 @@
         "id": "L62Z",
         "source_page": 1401,
         "source_line": 3,
-        "gurmukhi": "AMimRq prvwh, CutkMq sd dÍwir ijsu; g´wn gur ibml sr, sMq isK nweIAY ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AMimRq prvwh, CutkMq sd dÍwir ijsu; g´wn gur ibml sr, sMq isK nweIAY ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -194,10 +202,12 @@
         "id": "MTYF",
         "source_page": 1401,
         "source_line": 4,
-        "gurmukhi": "nwmu inrbwxu inDwnu hir. auir Drhu; gurU guru guru krhu, gurU hir pweIAY ]3]15]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "nwmu inrbwxu inDwnu hir. auir Drhu; gurU guru guru krhu, gurU hir pweIAY ]3]15]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -249,10 +259,12 @@
         "id": "11KW",
         "source_page": 1401,
         "source_line": 5,
-        "gurmukhi": "gurU guru gurU guru; gurU jpu mMn ry ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurU guru gurU guru; gurU jpu mMn ry ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -295,10 +307,12 @@
         "id": "WS0M",
         "source_page": 1401,
         "source_line": 5,
-        "gurmukhi": "jw kI syv, isv isD swiDk. sur Asur gx; qrih qyqIs, gur bcn suix kMn ry ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jw kI syv, isv isD swiDk. sur Asur gx; qrih qyqIs, gur bcn suix kMn ry ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -341,10 +355,12 @@
         "id": "K3Z9",
         "source_page": 1401,
         "source_line": 6,
-        "gurmukhi": "Puin. qrih qy sMq ihq, Bgq guru guru krih; qirE pRhlwdu, gur imlq muin jMn ry ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Puin. qrih qy sMq ihq, Bgq guru guru krih; qirE pRhlwdu, gur imlq muin jMn ry ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -387,10 +403,12 @@
         "id": "FVD7",
         "source_page": 1401,
         "source_line": 7,
-        "gurmukhi": "qrih nwrdwid snkwid, hir gurmuKih qrih; iek nwm lig, qjhu rs AMn ry ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "qrih nwrdwid snkwid, hir gurmuKih qrih; iek nwm lig, qjhu rs AMn ry ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -433,10 +451,12 @@
         "id": "PWNC",
         "source_page": 1401,
         "source_line": 8,
-        "gurmukhi": "dwsu byniq khY. nwmu gurmuiK lhY; gurU guru gurU guru. gurU jpu mMn ry ]4]16]29]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dwsu byniq khY. nwmu gurmuiK lhY; gurU guru gurU guru. gurU jpu mMn ry ]4]16]29]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -488,10 +508,12 @@
         "id": "9BXP",
         "source_page": 1401,
         "source_line": 9,
-        "gurmukhi": "isrI gurU swihbu, sB aUpir ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "isrI gurU swihbu, sB aUpir ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -534,10 +556,12 @@
         "id": "JHQJ",
         "source_page": 1401,
         "source_line": 9,
-        "gurmukhi": "krI ik®pw; sqjuig ijin DR¨ pir ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "krI ik®pw; sqjuig ijin DR¨ pir ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -580,10 +604,12 @@
         "id": "RR98",
         "source_page": 1401,
         "source_line": 9,
-        "gurmukhi": "sRI pRhlwd Bgq auDrIAM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sRI pRhlwd Bgq auDrIAM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -626,10 +652,12 @@
         "id": "WJHA",
         "source_page": 1401,
         "source_line": 10,
-        "gurmukhi": "hsœ kml; mwQy pr DrIAM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hsœ kml; mwQy pr DrIAM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -672,10 +700,12 @@
         "id": "L3A9",
         "source_page": 1401,
         "source_line": 10,
-        "gurmukhi": "AlK rUp; jIA lK´w. n jweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AlK rUp; jIA lK´w. n jweI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -718,10 +748,12 @@
         "id": "0QZ5",
         "source_page": 1401,
         "source_line": 10,
-        "gurmukhi": "swiDk isD sgl srxweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "swiDk isD sgl srxweI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -764,10 +796,12 @@
         "id": "4605",
         "source_page": 1401,
         "source_line": 10,
-        "gurmukhi": "gur ky bcn; siq jIA Dwrhu ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gur ky bcn; siq jIA Dwrhu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -810,10 +844,12 @@
         "id": "HH30",
         "source_page": 1401,
         "source_line": 11,
-        "gurmukhi": "mwxs jnmu dyh insœwrhu ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mwxs jnmu dyh insœwrhu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -856,10 +892,12 @@
         "id": "X4UC",
         "source_page": 1401,
         "source_line": 11,
-        "gurmukhi": "guru jhwju. Kyvtu gurU; gur ibnu qirAw. n koie ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "guru jhwju. Kyvtu gurU; gur ibnu qirAw. n koie ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -902,10 +940,12 @@
         "id": "437X",
         "source_page": 1401,
         "source_line": 12,
-        "gurmukhi": "gurpRswid pRBu pweIAY; gur ibnu mukiq. n hoie ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurpRswid pRBu pweIAY; gur ibnu mukiq. n hoie ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -948,10 +988,12 @@
         "id": "J1Y8",
         "source_page": 1401,
         "source_line": 12,
-        "gurmukhi": "guru nwnku; inkit bsY bnvwrI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "guru nwnku; inkit bsY bnvwrI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -994,10 +1036,12 @@
         "id": "UR00",
         "source_page": 1401,
         "source_line": 12,
-        "gurmukhi": "iqin lhxw Qwip; joiq jig DwrI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iqin lhxw Qwip; joiq jig DwrI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1040,10 +1084,12 @@
         "id": "0SJ8",
         "source_page": 1401,
         "source_line": 13,
-        "gurmukhi": "lhxY. pMQu Drm kw kIAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhxY. pMQu Drm kw kIAw ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1086,10 +1132,12 @@
         "id": "3NL1",
         "source_page": 1401,
         "source_line": 13,
-        "gurmukhi": "Amrdws Bly kau; dIAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Amrdws Bly kau; dIAw ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1132,10 +1180,12 @@
         "id": "3PG9",
         "source_page": 1401,
         "source_line": 13,
-        "gurmukhi": "iqin sRI rwmdwsu soFI; iQru Qp´au ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iqin sRI rwmdwsu soFI; iQru Qp´au ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1178,10 +1228,12 @@
         "id": "8Z9Z",
         "source_page": 1401,
         "source_line": 14,
-        "gurmukhi": "hir kw nwmu; AKY iniD Ap´au ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hir kw nwmu; AKY iniD Ap´au ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1224,10 +1276,12 @@
         "id": "964G",
         "source_page": 1401,
         "source_line": 14,
-        "gurmukhi": "Ap´au hir nwmu. AKY iniD; chu juig gur syvw kir, Plu lhIAM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Ap´au hir nwmu. AKY iniD; chu juig gur syvw kir, Plu lhIAM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1270,10 +1324,12 @@
         "id": "UVDD",
         "source_page": 1401,
         "source_line": 15,
-        "gurmukhi": "bMdih jo crx srix. suKu pwvih; prmwnµd gurmuiK khIAM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "bMdih jo crx srix. suKu pwvih; prmwnµd gurmuiK khIAM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1316,10 +1372,12 @@
         "id": "AV2U",
         "source_page": 1401,
         "source_line": 15,
-        "gurmukhi": "prqiK dyh. pwrbRhmu suAwmI; Awid rUip poKx BrxM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "prqiK dyh. pwrbRhmu suAwmI; Awid rUip poKx BrxM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1362,10 +1420,12 @@
         "id": "4Q4Q",
         "source_page": 1401,
         "source_line": 16,
-        "gurmukhi": "siqguru guru syiv. AlK giq jw kI; sRI rwmdwsu qwrx qrxM ]1]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "siqguru guru syiv. AlK giq jw kI; sRI rwmdwsu qwrx qrxM ]1]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1408,10 +1468,12 @@
         "id": "2MYC",
         "source_page": 1401,
         "source_line": 17,
-        "gurmukhi": "ijh AMimRq bcn bwxI; swDU jn jpih. kir ibiciq cwE ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ijh AMimRq bcn bwxI; swDU jn jpih. kir ibiciq cwE ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1463,10 +1525,12 @@
         "id": "PC5J",
         "source_page": 1401,
         "source_line": 17,
-        "gurmukhi": "Awnµdu inq mMglu; gur drsnu sPlu sMswir ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Awnµdu inq mMglu; gur drsnu sPlu sMswir ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1509,10 +1573,12 @@
         "id": "SV8F",
         "source_page": 1401,
         "source_line": 18,
-        "gurmukhi": "sMswir sPlu. gMgw gur drsnu; prsn prm pivqR gqy ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sMswir sPlu. gMgw gur drsnu; prsn prm pivqR gqy ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1555,10 +1621,12 @@
         "id": "VJX2",
         "source_page": 1401,
         "source_line": 19,
-        "gurmukhi": "jIqih jm loku. piqq jy pRwxI; hir jn isv gur g´win rqy ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jIqih jm loku. piqq jy pRwxI; hir jn isv gur g´win rqy ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1601,10 +1669,12 @@
         "id": "8W5U",
         "source_page": 1401,
         "source_line": 19,
-        "gurmukhi": "rGubMis iqlku suMdru, dsrQ Gir; muin bMCih jw kI srxM ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "rGubMis iqlku suMdru, dsrQ Gir; muin bMCih jw kI srxM ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1647,10 +1717,12 @@
         "id": "1B78",
         "source_page": 1402,
         "source_line": 1,
-        "gurmukhi": "siqguru guru syiv. AlK giq jw kI; sRI rwmdwsu qwrx qrxM ]2]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "siqguru guru syiv. AlK giq jw kI; sRI rwmdwsu qwrx qrxM ]2]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {

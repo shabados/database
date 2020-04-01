@@ -10,10 +10,12 @@
         "id": "KAS1",
         "source_page": 262,
         "source_line": 1,
-        "gurmukhi": "pUrn bRhm gur mihmw khY su QorI; kQnI bdnI bwid nyq nyq nyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "pUrn bRhm gur mihmw khY su QorI; kQnI bdnI bwid nyq nyq nyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "KKLM",
         "source_page": 262,
         "source_line": 2,
-        "gurmukhi": "pUrn bRhm gur pUrn srbmeI; inMdw krIAY su kw kI nmo nmo hyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "pUrn bRhm gur pUrn srbmeI; inMdw krIAY su kw kI nmo nmo hyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "Z427",
         "source_page": 262,
         "source_line": 3,
-        "gurmukhi": "qwhI qy ibvrjq Asuqiq inMdw doaU; AkQ kQw bIcwir moin bRq lyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "qwhI qy ibvrjq Asuqiq inMdw doaU; AkQ kQw bIcwir moin bRq lyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "RQYD",
         "source_page": 262,
         "source_line": 4,
-        "gurmukhi": "bwl buiD suiD kir dyh kY ibdyh Bey; jIvn mukiq giq ibsm sucyq hY [262[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "bwl buiD suiD kir dyh kY ibdyh Bey; jIvn mukiq giq ibsm sucyq hY [262["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

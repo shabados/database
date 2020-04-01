@@ -10,10 +10,12 @@
         "id": "29WT",
         "source_page": 165,
         "source_line": 1,
-        "gurmukhi": "mwns jnmu Dwir sMgiq suBwv giq; gur qy gurmiq durmiq ibibiD ibDwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "mwns jnmu Dwir sMgiq suBwv giq; gur qy gurmiq durmiq ibibiD ibDwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "UBC7",
         "source_page": 165,
         "source_line": 2,
-        "gurmukhi": "swDusMig pdvI Bgiq Aau ibbykI jn; jIvn mukiq swDU bRhmigAwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "swDusMig pdvI Bgiq Aau ibbykI jn; jIvn mukiq swDU bRhmigAwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "M2WF",
         "source_page": 165,
         "source_line": 3,
-        "gurmukhi": "ADm AswD sMg cor jwr Aau jUAwrI; Tg btvwrw mqvwrw AiBmwnI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "ADm AswD sMg cor jwr Aau jUAwrI; Tg btvwrw mqvwrw AiBmwnI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "ZEST",
         "source_page": 165,
         "source_line": 4,
-        "gurmukhi": "Apuny Apuny rMg sMg suKu mwnY ibsu; gurmiq giq gurmuiK pihcwnI hY [165[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "Apuny Apuny rMg sMg suKu mwnY ibsu; gurmiq giq gurmuiK pihcwnI hY [165["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

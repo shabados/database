@@ -10,10 +10,12 @@
         "id": "NCB2",
         "source_page": 14,
         "source_line": 1,
-        "gurmukhi": "pRym rs bis huie, pqMg sMgm n jwnY; ibrh ibCoh mIn huie n mir jwny hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "pRym rs bis huie, pqMg sMgm n jwnY; ibrh ibCoh mIn huie n mir jwny hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "DHKB",
         "source_page": 14,
         "source_line": 2,
-        "gurmukhi": "drs iDAwn joiq mY n huie joqI srUp; crn ibmuK hoie, pRwn Thrwny hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "drs iDAwn joiq mY n huie joqI srUp; crn ibmuK hoie, pRwn Thrwny hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "ZN46",
         "source_page": 14,
         "source_line": 3,
-        "gurmukhi": "imil ibCrq giq pRym n ibrh jwnI; mIn Aau pqMg, moih dyKq ljwny hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "imil ibCrq giq pRym n ibrh jwnI; mIn Aau pqMg, moih dyKq ljwny hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "SNAT",
         "source_page": 14,
         "source_line": 4,
-        "gurmukhi": "mwns jnm iDRgu, DMin hY iqRgd join; kpt snyh dyh nrk n mwny hY [14[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "mwns jnm iDRgu, DMin hY iqRgd join; kpt snyh dyh nrk n mwny hY [14["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

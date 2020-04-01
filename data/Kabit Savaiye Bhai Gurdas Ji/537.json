@@ -10,10 +10,12 @@
         "id": "BKBL",
         "source_page": 537,
         "source_line": 1,
-        "gurmukhi": "jYsy jl Doey ibnu AMbr mlIn hoq; ibnu qyl myly jYsy kys hUM BieAwn hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "jYsy jl Doey ibnu AMbr mlIn hoq; ibnu qyl myly jYsy kys hUM BieAwn hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "RH5B",
         "source_page": 537,
         "source_line": 2,
-        "gurmukhi": "jYsy ibnu mwNjy drpn joiq hIn hoq; brKw ibhUMn jYsy Kyq mY n Dwn hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "jYsy ibnu mwNjy drpn joiq hIn hoq; brKw ibhUMn jYsy Kyq mY n Dwn hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "DCA5",
         "source_page": 537,
         "source_line": 3,
-        "gurmukhi": "jYsy ibnu dIpku Bvn AMDkwr hoq; lony iGRiq ibnu jYsy Bojn smwn hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "jYsy ibnu dIpku Bvn AMDkwr hoq; lony iGRiq ibnu jYsy Bojn smwn hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "H63P",
         "source_page": 537,
         "source_line": 4,
-        "gurmukhi": "qYsy ibnu swDsMgiq jnm mrn duK; imtq n BY Brm ibnu gur igAwn hY [537[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "qYsy ibnu swDsMgiq jnm mrn duK; imtq n BY Brm ibnu gur igAwn hY [537["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

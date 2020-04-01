@@ -10,10 +10,12 @@
         "id": "0NVY",
         "source_page": 1,
         "source_line": 1,
-        "gurmukhi": "<> siq nwmu krqw purKu inrBau inrvYru; Akwl mUriq AjUnI sYBM gur pRswid ]",
         "pronunciation": "",
         "pronunciation_information": "੧. ਇਹ \"ਜਪੁ\" ਬਾਣੀ ਦੇ ਆਦਿ ਵਿਚ, ਰਵਾਇਤ ਅਨੁਸਾਰ, ਸਤਿਗੁਰਾਂ ਵਲੋਂ ਪਰਮਾਤਮਾ ਦਾ ਮੰਗਲਾਚਰਨ ਹੈ। ੨.\"ਗੁਰਪ੍ਰਸਾਦਿ\" ਤੋਂ ਬਾਅਦ ਲਗੀਆਂ ਡੰਡੀਆਂ ਇਹ ਸਾਬਤ ਕਰਦੀਆਂ ਹਨ ਕਿ ਇਸ ਮੰਗਲਾਚਰਨ ਦੀ ਸਮਾਪਤੀ ਇਥੇ ਹੀ ਹੋ ਜਾਂਦੀ ਹੈ ਨਾ ਕਿ \"ਹੋਸੀ ਭੀ ਸਚੁ\" ਤੇ। ੩. \"ਪ੍ਰਸਾਦਿ\" ਦਾ ਉਚਾਰਨ \"ਪ੍ਰਸ਼ਾਦਿ\" ਅਤੇ \"ਸੈਭੰ\" ਦਾ ਉਚਾਰਨ \"ਸੈਭੰਗ\" ਕਰਨਾ ਠੀਕ ਨਹੀਂ ਹੈ।",
         "type": "Manglacharan",
+        "gurmukhi": {
+          "SGPC": "<> siq nwmu krqw purKu inrBau inrvYru; Akwl mUriq AjUnI sYBM gur pRswid ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -56,10 +58,12 @@
         "id": "RBP6",
         "source_page": 1,
         "source_line": 3,
-        "gurmukhi": "] jpu ]",
         "pronunciation": "",
         "pronunciation_information": "ਜਪੁ ਬਾਣੀ ਦਾ ਨਾਮ ਹੈ।",
         "type": "Sirlekh",
+        "gurmukhi": {
+          "SGPC": "] jpu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -102,10 +106,12 @@
         "id": "J92N",
         "source_page": 1,
         "source_line": 4,
-        "gurmukhi": "Awid scu; jugwid scu ]",
         "pronunciation": "",
         "pronunciation_information": "ਇਹ ਸ੍ਰੀ ਜਪੁ ਜੀ ਸਾਹਿਬ ਦੇ ਆਦਿ ਦਾ ਸਲੋਕ ਹੈ। ਇਕ ਸਲੋਕ ਇਸ ਬਾਣੀ ਦੇ ਅਖੀਰ ਵਿਚ ਹੈ ਤੇ ਇਹਨਾਂ ਦੋ ਸਲੋਕਾਂ ਦੇ ਵਿਚਾਲੇ ੩੮ ਪਉੜੀਆਂ ਹਨ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Awid scu; jugwid scu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -148,10 +154,12 @@
         "id": "K0U6",
         "source_page": 1,
         "source_line": 4,
-        "gurmukhi": "hY BI scu; nwnk. hosI BI scu ]1]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hY BI scu; nwnk. hosI BI scu ]1]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -194,10 +202,12 @@
         "id": "BL70",
         "source_page": 1,
         "source_line": 5,
-        "gurmukhi": "socY. soic n hoveI; jy socI lK vwr ]",
         "pronunciation": "",
         "pronunciation_information": "\"ਸੋਚੀ\" ਦੇ ਅਖੀਰ ਵਿਚ ਨਾਸਕੀ ਉਚਾਰਨ ਨਹੀਂ ਕਿਉਂਕਿ ਇਹ ਉਤਮ ਪੁਰਖੀ ਕਿਰਿਆ ਨਹੀਂ ਹੈ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "socY. soic n hoveI; jy socI lK vwr ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -240,10 +250,12 @@
         "id": "GJW9",
         "source_page": 1,
         "source_line": 5,
-        "gurmukhi": "cupY. cup n hoveI; jy lwie rhw ilv qwr ]",
         "pronunciation": "",
         "pronunciation_information": "\"ਰਹਾ\" ਦੇ ਅਖੀਰ ਵਿਚ ਨਾਸਕੀ ਉਚਾਰਨ ਨਹੀਂ ਕਿਉਂਕਿ ਇਹ ਉਤਮ ਪੁਰਖੀ ਕਿਰਿਆ ਨਹੀਂ ਹੈ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "cupY. cup n hoveI; jy lwie rhw ilv qwr ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -286,10 +298,12 @@
         "id": "ZERL",
         "source_page": 1,
         "source_line": 5,
-        "gurmukhi": "BuiKAw. BuK n auqrI; jy bMnw purIAw Bwr ]",
         "pronunciation": "ਭੁਖਿਆਂ, ਪੁਰੀਆਂ",
         "pronunciation_information": "ਭੁਖਿਆ ਭੁਖ - ਭੁਖਿਆਂ ਦੀ ਭੁਖ ਨਹੀਂ ਉਤਰਦੀ ਭਾਂਵੇਂ ਉਹ ਕਿਨੀਆਂ ਵੀ ਪੁਰੀਆਂ ਦੇ ਪਦਾਰਥਾਂ ਦੇ ਭਾਰ ਬੰਨ ਲੈਣ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "BuiKAw. BuK n auqrI; jy bMnw purIAw Bwr ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -332,10 +346,12 @@
         "id": "9MN2",
         "source_page": 1,
         "source_line": 6,
-        "gurmukhi": "shs isAwxpw. lK hoih; q iek. n clY nwil ]",
         "pronunciation": "ਸਿਆਣਪਾਂ, ਹੋਹਿਂ",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "shs isAwxpw. lK hoih; q iek. n clY nwil ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -378,10 +394,12 @@
         "id": "MK1Q",
         "source_page": 1,
         "source_line": 6,
-        "gurmukhi": "ikv. sicAwrw hoeIAY; ikv. kUVY qutY pwil ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ikv. sicAwrw hoeIAY; ikv. kUVY qutY pwil ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -424,10 +442,12 @@
         "id": "H0PC",
         "source_page": 1,
         "source_line": 7,
-        "gurmukhi": "hukim rjweI clxw; nwnk. iliKAw nwil ]1]",
         "pronunciation": "ਰਜ਼ਾਈ",
         "pronunciation_information": "ਰਜ਼ਾਈ ਦਾ ਭਾਵ ਹੈ ਰਜ਼ਾ ਵਾਲਾ ਵਾਹਿਗੁਰੂ। ਹੁਕਮਿ ਰਜ਼ਾਈ ਚਲਣਾ ਦਾ ਭਾਵ ਹੈ ਰਜ਼ਾਈ ਦੇ ਹੁਕਮ ਵਿਚ ਚਲਣਾ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukim rjweI clxw; nwnk. iliKAw nwil ]1]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -479,10 +499,12 @@
         "id": "60LK",
         "source_page": 1,
         "source_line": 7,
-        "gurmukhi": "hukmI. hovin Awkwr; hukmu. n kihAw jweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukmI. hovin Awkwr; hukmu. n kihAw jweI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -525,10 +547,12 @@
         "id": "UVSL",
         "source_page": 1,
         "source_line": 8,
-        "gurmukhi": "hukmI. hovin jIA; hukim. imlY vifAweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukmI. hovin jIA; hukim. imlY vifAweI ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -571,10 +595,12 @@
         "id": "GLXS",
         "source_page": 1,
         "source_line": 8,
-        "gurmukhi": "hukmI, auqmu nIcu; hukim iliK, duK suK pweIAih ]",
         "pronunciation": "ਪਾਈਅਹਿਂ",
         "pronunciation_information": "ਪਾਈਅਹਿ = ਪਾਉਂਦੇ ਹਨ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukmI, auqmu nIcu; hukim iliK, duK suK pweIAih ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -617,10 +643,12 @@
         "id": "P2VG",
         "source_page": 1,
         "source_line": 9,
-        "gurmukhi": "ieknw. hukmI bKsIs; ieik, hukmI sdw BvweIAih ]",
         "pronunciation": "ਇਕਨਾਂ, ਬਖ਼ਸ਼ੀਸ਼, ਭਵਾਈਅਹਿਂ",
         "pronunciation_information": "ਭਵਾਈਅਹਿ = ਭਵਾਉਂਦੇ ਹਨ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ieknw. hukmI bKsIs; ieik, hukmI sdw BvweIAih ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -663,10 +691,12 @@
         "id": "MX4P",
         "source_page": 1,
         "source_line": 9,
-        "gurmukhi": "hukmY AMdir. sBu ko; bwhir hukm. n koie ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukmY AMdir. sBu ko; bwhir hukm. n koie ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -709,10 +739,12 @@
         "id": "FKUU",
         "source_page": 1,
         "source_line": 10,
-        "gurmukhi": "nwnk. hukmY jy buJY; q haumY. khY n koie ]2]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "nwnk. hukmY jy buJY; q haumY. khY n koie ]2]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -764,10 +796,12 @@
         "id": "VUQD",
         "source_page": 1,
         "source_line": 10,
-        "gurmukhi": "gwvY ko qwxu; hovY iksY qwxu ]",
         "pronunciation": "",
         "pronunciation_information": "ਇਸ ਸਾਰੀ ਪਉੜੀ ਵਿਚ ਬਿਸ਼ਰਾਮ \"ਕੋ\" ਤੋਂ ਬਾਅਦ ਹੈ। \"ਕੋ\" ਦਾ ਭਾਵ ਹੈ \"ਕੋਈ\"।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko qwxu; hovY iksY qwxu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -810,10 +844,12 @@
         "id": "7AC7",
         "source_page": 1,
         "source_line": 11,
-        "gurmukhi": "gwvY ko dwiq; jwxY nIswxu ]",
         "pronunciation": "ਨੀਸ਼ਾਣੁ",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko dwiq; jwxY nIswxu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -856,10 +892,12 @@
         "id": "MB8C",
         "source_page": 1,
         "source_line": 11,
-        "gurmukhi": "gwvY ko; gux vifAweIAw cwr ]",
         "pronunciation": "ਵਡਿਆਈਆਂ",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; gux vifAweIAw cwr ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -902,10 +940,12 @@
         "id": "C5NR",
         "source_page": 1,
         "source_line": 11,
-        "gurmukhi": "gwvY ko; ividAw ivKmu vIcwru ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; ividAw ivKmu vIcwru ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -948,10 +988,12 @@
         "id": "HZSG",
         "source_page": 1,
         "source_line": 12,
-        "gurmukhi": "gwvY ko; swij kry qnu Kyh ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; swij kry qnu Kyh ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -994,10 +1036,12 @@
         "id": "13CH",
         "source_page": 1,
         "source_line": 12,
-        "gurmukhi": "gwvY ko; jIA lY iPir dyh ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; jIA lY iPir dyh ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1040,10 +1084,12 @@
         "id": "4SBX",
         "source_page": 1,
         "source_line": 12,
-        "gurmukhi": "gwvY ko; jwpY idsY dUir ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; jwpY idsY dUir ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1086,10 +1132,12 @@
         "id": "ELAE",
         "source_page": 2,
         "source_line": 1,
-        "gurmukhi": "gwvY ko; vyKY hwdrw hdUir ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gwvY ko; vyKY hwdrw hdUir ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1132,10 +1180,12 @@
         "id": "7922",
         "source_page": 2,
         "source_line": 1,
-        "gurmukhi": "kQnw kQI; n AwvY qoit ]",
         "pronunciation": "",
         "pronunciation_information": "\"ਕਥਨਾ\" ਦਾ ਭਾਵ ਹੈ ਕਥਾ ਤੇ \"ਕਥੀ\" ਕਿਰਿਆ ਹੈ। ਪੰਕਤੀ ਦਾ ਭਾਵ ਹੈ - ਕਥਨਾ ਕਥੀ (ਹੈ ਕਈਆਂ ਨੇ) ਪਰ ਇਸ ਕਥਾ ਦੀ ਤੋਟਿ ਨਹੀਂ ਆਉਂਦੀ ਭਾਵ ਕਥਾ ਇਤਨੀ ਜ਼ਿਆਦਾ ਹੈ ਕਿ ਕੱਥ ਨਹੀਂ ਹੁੰਦੀ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kQnw kQI; n AwvY qoit ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1178,10 +1228,12 @@
         "id": "Y9R8",
         "source_page": 2,
         "source_line": 1,
-        "gurmukhi": "kiQ kiQ kQI; kotI. koit koit ]",
         "pronunciation": "ਕੋਟੀਂ",
         "pronunciation_information": "ਕੋਟਾਂ ਨੇ ਕੋਟਿ ਕੋਟਿ ਵਾਰ (ਪਰਮਾਤਮਾ ਦੀ ਕਥਨੀ) ਕੱਥ ਕੱਥ ਕੇ ਕਥੀ ਹੈ। ਬਿਸ਼ਰਾਮ \"ਕੋਟੀ\" ਤੋਂ ਬਾਅਦ ਹੈ ਨਾ ਕਿ \"ਕਥੀ\" ਤੋਂ ਬਾਅਦ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kiQ kiQ kQI; kotI. koit koit ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1224,10 +1276,12 @@
         "id": "1UMU",
         "source_page": 2,
         "source_line": 2,
-        "gurmukhi": "dydw dy; lYdy Qik pwih ]",
         "pronunciation": "ਦੇਂਦਾ, ਲੈਂਦੇ, ਪਾਹਿਂ",
         "pronunciation_information": "ਦੇਦਾ - ਦੇਣਵਾਲ, ਲੈਦੇ - ਲੈਣਵਾਲੇ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dydw dy; lYdy Qik pwih ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1270,10 +1324,12 @@
         "id": "32FN",
         "source_page": 2,
         "source_line": 2,
-        "gurmukhi": "jugw jugMqir; KwhI Kwih ]",
         "pronunciation": "ਜੁਗਾਂ, ਖਾਹਿਂ",
         "pronunciation_information": "\"ਖਾਹੀ\" ਦਾ ਉਚਾਰਨ \"ਖਾਹੀਂ\" ਕਰਨਾ ਠੀਕ ਨਹੀਂ ਹੈ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jugw jugMqir; KwhI Kwih ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1316,10 +1372,12 @@
         "id": "Q13S",
         "source_page": 2,
         "source_line": 2,
-        "gurmukhi": "hukmI; hukmu clwey rwhu ]",
         "pronunciation": "",
         "pronunciation_information": "ਵਿਆਕਰਣ ਮੁਤਾਬਕ ਇਸ ਪੰਕਤੀ ਦਾ ਅਰਥ ਹੈ ਹੁਕਮੀ ਦਾ ਹੁਕਮ ਰਾਹ ਚਲਾਉਂਦਾ ਹੈ। ਇਹ ਅਰਥ ਠੀਕ ਨਹੀਂ ਕਿ - ਹੁਕਮੀ, ਆਪਣੇ ਹੁਕਮ ਰਾਹੀਂ ਰਾਹ ਚਲਾਉਂਦਾ ਹੈ ਕਿਉਂਕਿ \"ਹੁਕਮੁ\" ਦੇ ਅਖੀਰ ਵਿਚ ਔਂਕੜ ਲਗਿਆ ਹੋਣ ਕਰਕੇ ਇਸ ਵਿਚੋਂ ਸੰਬੰਧਕ ਨਹੀਂ ਨਿਕਲ ਸਕਦਾ।",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hukmI; hukmu clwey rwhu ]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {
@@ -1362,10 +1420,12 @@
         "id": "6VSN",
         "source_page": 2,
         "source_line": 3,
-        "gurmukhi": "nwnk; ivgsY vyprvwhu ]3]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "nwnk; ivgsY vyprvwhu ]3]"
+        },
         "translations": {
           "English": {
             "Dr. Sant Singh Khalsa": {

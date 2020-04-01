@@ -10,10 +10,12 @@
         "id": "F83A",
         "source_page": 450,
         "source_line": 1,
-        "gurmukhi": "AYsI nwiekw mY kuAwr pwqR hI supwqR BlI; Aws ipAwsI mwqw ipqw eykY kwh dyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "AYsI nwiekw mY kuAwr pwqR hI supwqR BlI; Aws ipAwsI mwqw ipqw eykY kwh dyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "4LH1",
         "source_page": 450,
         "source_line": 2,
-        "gurmukhi": "AYsI nwiekw mY dInqw kY duhwgn BlI; piqq pwvn ipRA pwie lwie lyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "AYsI nwiekw mY dInqw kY duhwgn BlI; piqq pwvn ipRA pwie lwie lyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "MLZN",
         "source_page": 450,
         "source_line": 3,
-        "gurmukhi": "AYsI nwiekw mY Blo ibrh ibEg sog; lgn sgn soDy srDw shyq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "AYsI nwiekw mY Blo ibrh ibEg sog; lgn sgn soDy srDw shyq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "4KNR",
         "source_page": 450,
         "source_line": 4,
-        "gurmukhi": "AYsI nwiekw mwq grB hI glI BlI; kpt snyh duibDw ijau rwhu kyqu hY [450[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "AYsI nwiekw mwq grB hI glI BlI; kpt snyh duibDw ijau rwhu kyqu hY [450["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

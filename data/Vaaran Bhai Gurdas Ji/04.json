@@ -10,10 +10,12 @@
         "id": "W3J5",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "<> siqgur pRswid ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Manglacharan",
+        "gurmukhi": {
+          "SGPC": "<> siqgur pRswid ]"
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -33,10 +35,12 @@
         "id": "1T45",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "vwr 4 [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "vwr 4 ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -56,10 +60,12 @@
         "id": "GWC6",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "EAMkwir Akwru kir; pauxu pwxI bYsMqru Dwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "EAMkwir Akwru kir; pauxu pwxI bYsMqru Dwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -79,10 +85,12 @@
         "id": "0V4D",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "Driq Akws ivCoiVAnu; cMdu sUru dy joiq svwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Driq Akws ivCoiVAnu; cMdu sUru dy joiq svwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -102,10 +110,12 @@
         "id": "Z4Y4",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "KwxI cwir bMDwn kir; lK caurwsIh jUin duAwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "KwxI cwir bMDwn kir; lK caurwsIh jUin duAwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -125,10 +135,12 @@
         "id": "E9QN",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "ieks ieks jUin ivic; jIA jMq Axgxq Apwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ieks ieks jUin ivic; jIA jMq Axgxq Apwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -148,10 +160,12 @@
         "id": "2DMY",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "mwxs jnmu dulMBu hY; sPl jnmu gur srx auDwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mwxs jnmu dulMBu hY; sPl jnmu gur srx auDwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -171,10 +185,12 @@
         "id": "Z9QN",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "swDsMgiq gur sbd ilv; Bwie Bgiq gur igAwn vIcwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "swDsMgiq gur sbd ilv; Bwie Bgiq gur igAwn vIcwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -194,10 +210,12 @@
         "id": "BPDX",
         "source_page": 4,
         "source_line": 1,
-        "gurmukhi": "praupkwrI, gurU ipAwry [1[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "praupkwrI, gurU ipAwry [1["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -226,10 +244,12 @@
         "id": "F0X5",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "sB dUM nIvI Driq hY; Awpu gvwie, hoeI aufIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sB dUM nIvI Driq hY; Awpu gvwie, hoeI aufIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -249,10 +269,12 @@
         "id": "FNAH",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "DIrju, Drmu, sMqoKu idRVu; pYrw hyiT rhY ilv lIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "DIrju, Drmu, sMqoKu idRVu; pYrw hyiT rhY ilv lIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -272,10 +294,12 @@
         "id": "48GR",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "swD jnw dy crx Cuih; AwFIxI hoeI lwKIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "swD jnw dy crx Cuih; AwFIxI hoeI lwKIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -295,10 +319,12 @@
         "id": "9KH6",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "AMimRq bUMd suhwvxI; Chbr Clk ryxu hoie rIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AMimRq bUMd suhwvxI; Chbr Clk ryxu hoie rIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -318,10 +344,12 @@
         "id": "V5U7",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "imilAw mwxu inmwxIAY; iprm ipAwlw pIie pqIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "imilAw mwxu inmwxIAY; iprm ipAwlw pIie pqIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -341,10 +369,12 @@
         "id": "R17N",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "jo bIjY soeI luxY; sB rs ks bhu rMg rMgIxI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jo bIjY soeI luxY; sB rs ks bhu rMg rMgIxI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -364,10 +394,12 @@
         "id": "14V3",
         "source_page": 4,
         "source_line": 2,
-        "gurmukhi": "gurmuiK, suK Pl hY mskIxI [2[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurmuiK, suK Pl hY mskIxI [2["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -396,10 +428,12 @@
         "id": "93P5",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "mwxs dyh su Kyh hY; iqsu ivic jIBY leI nkIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mwxs dyh su Kyh hY; iqsu ivic jIBY leI nkIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -419,10 +453,12 @@
         "id": "467W",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "AKI dyKin rUp rMg; rwg nwd kMn krin rkIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AKI dyKin rUp rMg; rwg nwd kMn krin rkIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -442,10 +478,12 @@
         "id": "QF3L",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "nik, suvwsu invwsu hY; pMjy dUq burI qrqIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "nik, suvwsu invwsu hY; pMjy dUq burI qrqIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -465,10 +503,12 @@
         "id": "5EF3",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "sB dUM nIvy crx hoie; Awpu gvwie nsIbu nsIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sB dUM nIvy crx hoie; Awpu gvwie nsIbu nsIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -488,10 +528,12 @@
         "id": "EHJA",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "haumY rogu imtwiedw; siqgur pUrw krY qbIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "haumY rogu imtwiedw; siqgur pUrw krY qbIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -511,10 +553,12 @@
         "id": "RPYJ",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "pYrI pY rihrws kir; gur isK suix gurisK mnIbI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pYrI pY rihrws kir; gur isK suix gurisK mnIbI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -534,10 +578,12 @@
         "id": "CAQC",
         "source_page": 4,
         "source_line": 3,
-        "gurmukhi": "murdw hoie, murIdu grIbI [3[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "murdw hoie, murIdu grIbI [3["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -566,10 +612,12 @@
         "id": "XWSD",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "lhuVI hoie cIcuMglI; pYDI Cwip imlI vifAweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhuVI hoie cIcuMglI; pYDI Cwip imlI vifAweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -589,10 +637,12 @@
         "id": "GMVQ",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "lhuVI Gnhr bUMd huie; prgtu moqI isp smweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhuVI Gnhr bUMd huie; prgtu moqI isp smweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -612,10 +662,12 @@
         "id": "VPVV",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "lhuVI bUtI kysrY; mQY itkw soBw pweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhuVI bUtI kysrY; mQY itkw soBw pweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -635,10 +687,12 @@
         "id": "XGSN",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "lhuVI pwrs pQrI; Ast Dwqu kMcnu krvweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhuVI pwrs pQrI; Ast Dwqu kMcnu krvweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -658,10 +712,12 @@
         "id": "HDC0",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "ijau mix lhuVy sp isir; dyKY luik luik lok lukweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ijau mix lhuVy sp isir; dyKY luik luik lok lukweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -681,10 +737,12 @@
         "id": "4JE8",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "jwix rswiexu pwirAhu; rqI muil n jwie mulweI [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jwix rswiexu pwirAhu; rqI muil n jwie mulweI ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -704,10 +762,12 @@
         "id": "MW5W",
         "source_page": 4,
         "source_line": 4,
-        "gurmukhi": "Awpu gvwie, n Awpu gxweI [4[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Awpu gvwie, n Awpu gxweI [4["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -736,10 +796,12 @@
         "id": "EEXV",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "Aig qqI jlu sIArw; ikqu Avguix, ikqu gux vIcwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Aig qqI jlu sIArw; ikqu Avguix, ikqu gux vIcwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -759,10 +821,12 @@
         "id": "UZYH",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "AgI DUAw Daulhru; jlu inrml gur igAwn sucwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AgI DUAw Daulhru; jlu inrml gur igAwn sucwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -782,10 +846,12 @@
         "id": "1F0B",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "kul dIpku bYsMqrhu; jl kul kvlu vfy prvwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kul dIpku bYsMqrhu; jl kul kvlu vfy prvwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -805,10 +871,12 @@
         "id": "VLPB",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "dIpk hyqu pqMg dw; kvlu Bvr prgtu pwhwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dIpk hyqu pqMg dw; kvlu Bvr prgtu pwhwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -828,10 +896,12 @@
         "id": "LK55",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "AgI lwt aucwt hY; isru aucw kir krY kucwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AgI lwt aucwt hY; isru aucw kir krY kucwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -851,10 +921,12 @@
         "id": "1U7F",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "isru nIvw nIvwix vwsu; pwxI AMdir praupkwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "isru nIvw nIvwix vwsu; pwxI AMdir praupkwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -874,10 +946,12 @@
         "id": "VTXX",
         "source_page": 4,
         "source_line": 5,
-        "gurmukhi": "inv clY, so gurU ipAwrw [5[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "inv clY, so gurU ipAwrw [5["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -906,10 +980,12 @@
         "id": "LX2B",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "rMgu mjIT ksuMB dw; kcw pkw ikqu vIcwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "rMgu mjIT ksuMB dw; kcw pkw ikqu vIcwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -929,10 +1005,12 @@
         "id": "5VUY",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "DrqI auKix kFIAY; mUl mjIT jVI jVqwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "DrqI auKix kFIAY; mUl mjIT jVI jVqwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -952,10 +1030,12 @@
         "id": "1X02",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "auKl muhly kutIAY; pIhix pIsY ckI Bwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "auKl muhly kutIAY; pIhix pIsY ckI Bwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -975,10 +1055,12 @@
         "id": "34NC",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "shY Av`txu A`ig dw; hoie ipAwrI imlY ipAwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "shY Av`txu A`ig dw; hoie ipAwrI imlY ipAwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -998,10 +1080,12 @@
         "id": "CWX5",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "pohlIAhu isru kiF kY; Pulu ksuMB cluMB iKlwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pohlIAhu isru kiF kY; Pulu ksuMB cluMB iKlwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1021,10 +1105,12 @@
         "id": "ZD5A",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "Kt qursI dy rMgIAY; kpt snyhu rhY idh cwry [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Kt qursI dy rMgIAY; kpt snyhu rhY idh cwry ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1044,10 +1130,12 @@
         "id": "ATWV",
         "source_page": 4,
         "source_line": 6,
-        "gurmukhi": "nIvw ijxY, aucyrw hwry [6[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "nIvw ijxY, aucyrw hwry [6["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1076,10 +1164,12 @@
         "id": "TRLG",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "kIVI inkVI cilq kir; iBRMgI no imil iBRMgI hovY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kIVI inkVI cilq kir; iBRMgI no imil iBRMgI hovY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1099,10 +1189,12 @@
         "id": "KK7Q",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "inkVI idsY mkVI; sUqu muhhu kiF iPir sMgovY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "inkVI idsY mkVI; sUqu muhhu kiF iPir sMgovY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1122,10 +1214,12 @@
         "id": "LENE",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "inkVI miK vKwxIAY; mwiKE imTw BwgTu hovY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "inkVI miK vKwxIAY; mwiKE imTw BwgTu hovY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1145,10 +1239,12 @@
         "id": "2NDN",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "inkVw kIVw AwKIAY; pt ptoly kir FMg FovY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "inkVw kIVw AwKIAY; pt ptoly kir FMg FovY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1168,10 +1264,12 @@
         "id": "331F",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "gutkw muh ivic pwie kY; dys idsMqiR jwie KVovY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gutkw muh ivic pwie kY; dys idsMqiR jwie KVovY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1191,10 +1289,12 @@
         "id": "FGXL",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "moqI mwxk hIirAw; pwiqswhu lY hwru provY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "moqI mwxk hIirAw; pwiqswhu lY hwru provY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1214,10 +1314,12 @@
         "id": "KKTQ",
         "source_page": 4,
         "source_line": 7,
-        "gurmukhi": "pwie smwiexu, dhI iblovY [7[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pwie smwiexu, dhI iblovY [7["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1246,10 +1348,12 @@
         "id": "H497",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "lqW hyiT lqwVIAY; Gwhu n kFY swhu ivcwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lqW hyiT lqwVIAY; Gwhu n kFY swhu ivcwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1269,10 +1373,12 @@
         "id": "QBUV",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "gorsu dy KVu Kwie kY; gwie grIbI praupkwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gorsu dy KVu Kwie kY; gwie grIbI praupkwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1292,10 +1398,12 @@
         "id": "KM7D",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "duDhu dhI jmweIAY; deIAhu mKxu Cwih ipAwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "duDhu dhI jmweIAY; deIAhu mKxu Cwih ipAwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1315,10 +1423,12 @@
         "id": "4E91",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "iGA qy hovin hom jg; FMg suAwrQ cj Acwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iGA qy hovin hom jg; FMg suAwrQ cj Acwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1338,10 +1448,12 @@
         "id": "NTSW",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "Drm Daulu prgtu hoie; DIrij vhY shY isir Bwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Drm Daulu prgtu hoie; DIrij vhY shY isir Bwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1361,10 +1473,12 @@
         "id": "PBB1",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "ieku ieku jwau jxyidAW; chu ckw ivic vg hjwrw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ieku ieku jwau jxyidAW; chu ckw ivic vg hjwrw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1384,10 +1498,12 @@
         "id": "64YE",
         "source_page": 4,
         "source_line": 8,
-        "gurmukhi": "iqRx AMdir, vfw pwswrw [8[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iqRx AMdir, vfw pwswrw [8["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1416,10 +1532,12 @@
         "id": "QTJL",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "lhuVw iqlu hoie jMimAw; nIchu nIcu n Awpu gxwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lhuVw iqlu hoie jMimAw; nIchu nIcu n Awpu gxwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1439,10 +1557,12 @@
         "id": "88UJ",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "Pulw sMgiq vwisAw; hoie inrgMDu sugMDu suhwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Pulw sMgiq vwisAw; hoie inrgMDu sugMDu suhwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1462,10 +1582,12 @@
         "id": "MP0C",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "kolU pwie pIVwieAw; hoie Pulylu Kylu vrqwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kolU pwie pIVwieAw; hoie Pulylu Kylu vrqwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1485,10 +1607,12 @@
         "id": "RS42",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "piqqu pivqR cilqRü kir; piqswh isir Dir suKu pwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "piqqu pivqR cilqRü kir; piqswh isir Dir suKu pwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1508,10 +1632,12 @@
         "id": "GVSB",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "dIvY pwie jlwieAw; kul dIpku jig ibrdu sdwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dIvY pwie jlwieAw; kul dIpku jig ibrdu sdwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1531,10 +1657,12 @@
         "id": "5652",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "kjlu hoAw dIivAhu; AKI AMdir jwie smwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kjlu hoAw dIivAhu; AKI AMdir jwie smwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1554,10 +1682,12 @@
         "id": "4T1P",
         "source_page": 4,
         "source_line": 9,
-        "gurmukhi": "bwlw hoie, n vfw khwieAw [9[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "bwlw hoie, n vfw khwieAw [9["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1586,10 +1716,12 @@
         "id": "ZWX2",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "hoie vVyvW jg ivic; bIjy qnu Kyh nwil rlwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hoie vVyvW jg ivic; bIjy qnu Kyh nwil rlwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1609,10 +1741,12 @@
         "id": "UQRV",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "bUtI hoie kpwh dI; tINfy his his Awpu iKVwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "bUtI hoie kpwh dI; tINfy his his Awpu iKVwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1632,10 +1766,12 @@
         "id": "RC7J",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "duhu imil vylxu vyilAw; lUM lUM kir quMbu quMbwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "duhu imil vylxu vyilAw; lUM lUM kir quMbu quMbwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1655,10 +1791,12 @@
         "id": "4WVJ",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "ipM\\ix ipM\\ aufwieAw; kir kir goVI sUq kqwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ipM\\ix ipM\\ aufwieAw; kir kir goVI sUq kqwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1678,10 +1816,12 @@
         "id": "U9P7",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "qix vuix KuMib cVwie kY; dy dy duKu DuAwie rMgwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "qix vuix KuMib cVwie kY; dy dy duKu DuAwie rMgwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1701,10 +1841,12 @@
         "id": "JAPJ",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "kYcI ktix kitAw; sUeI Dwgy joiV sIvwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kYcI ktix kitAw; sUeI Dwgy joiV sIvwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1724,10 +1866,12 @@
         "id": "57WW",
         "source_page": 4,
         "source_line": 10,
-        "gurmukhi": "l`jxu k`jxu, hoie kjwieAw [10[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "l`jxu k`jxu, hoie kjwieAw [10["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1756,10 +1900,12 @@
         "id": "Z5VZ",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "dwxw hoie Anwr dw; hoie DUiV, DUVI ivic D`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dwxw hoie Anwr dw; hoie DUiV, DUVI ivic D`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1779,10 +1925,12 @@
         "id": "YL03",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "hoie ibrKu hrIAwvlw; lwl gulwlw Pl ivg`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hoie ibrKu hrIAwvlw; lwl gulwlw Pl ivg`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1802,10 +1950,12 @@
         "id": "3QLM",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "iekqu ibrK shs Pul; Pul Pl iek dU iek sr`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iekqu ibrK shs Pul; Pul Pl iek dU iek sr`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1825,10 +1975,12 @@
         "id": "MM6T",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "iek dU dwxy lK hoie; Pl Pl dy mn AMdir v`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iek dU dwxy lK hoie; Pl Pl dy mn AMdir v`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1848,10 +2000,12 @@
         "id": "XNU4",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "iqsu Pl qoit n AwveI; gurmuiK suKu Plu AMimRqu r`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iqsu Pl qoit n AwveI; gurmuiK suKu Plu AMimRqu r`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1871,10 +2025,12 @@
         "id": "3R4G",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "ijau ijau l`Xin qoiV Pil; iqau iqau iPir iPr PlIAY h`sY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ijau ijau l`Xin qoiV Pil; iqau iqau iPir iPr PlIAY h`sY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1894,10 +2050,12 @@
         "id": "5K95",
         "source_page": 4,
         "source_line": 11,
-        "gurmukhi": "inv clxu, gur mwrgu d`sY [11[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "inv clxu, gur mwrgu d`sY [11["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1926,10 +2084,12 @@
         "id": "4MS4",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "ryix rswiex isJIAY; ryqu hyqu kir kMcnu vsY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ryix rswiex isJIAY; ryqu hyqu kir kMcnu vsY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1949,10 +2109,12 @@
         "id": "2TF6",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "Doie Doie kxu kFIAY; rqI mwsw qolw hsY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Doie Doie kxu kFIAY; rqI mwsw qolw hsY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1972,10 +2134,12 @@
         "id": "TM8X",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "pwie kuTwlI gwlIAY; rYxI kir suinAwir ivgsY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pwie kuTwlI gwlIAY; rYxI kir suinAwir ivgsY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -1995,10 +2159,12 @@
         "id": "Q1FS",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "GiV GiV pqR pKwlIAin; lUxI lwie jlwie rhsY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "GiV GiV pqR pKwlIAin; lUxI lwie jlwie rhsY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2018,10 +2184,12 @@
         "id": "C7Y3",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "bwrh vMnI hoie kY; lgY lvY ksautI ksY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "bwrh vMnI hoie kY; lgY lvY ksautI ksY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2041,10 +2209,12 @@
         "id": "H7DL",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "tkswlY iskw pvY; Gx Ahrix ivic Aclu srsY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "tkswlY iskw pvY; Gx Ahrix ivic Aclu srsY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2064,10 +2234,12 @@
         "id": "9HNL",
         "source_page": 4,
         "source_line": 12,
-        "gurmukhi": "swlu suneIAw, poqY psY [12[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "swlu suneIAw, poqY psY [12["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2096,10 +2268,12 @@
         "id": "W7BY",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "KsKs dwxw hoie kY; Kwk AMdir hoie Kwk smwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "KsKs dwxw hoie kY; Kwk AMdir hoie Kwk smwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2119,10 +2293,12 @@
         "id": "W2W1",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "dosqu posqu bUtu hoie; rMg ibrMgI Pu`l iKVwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dosqu posqu bUtu hoie; rMg ibrMgI Pu`l iKVwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2142,10 +2318,12 @@
         "id": "KDQS",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "hofw hofI fofIAw; iek dUM iek cVHwau cVHwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hofw hofI fofIAw; iek dUM iek cVHwau cVHwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2165,10 +2343,12 @@
         "id": "N1GW",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "sUlI aupir Kylxw; ipCoN dy isir CqRü DrwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sUlI aupir Kylxw; ipCoN dy isir CqRü DrwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2188,10 +2368,12 @@
         "id": "1FQL",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "cuKu cuKu hoie mlwie kY; lohU pwxI rMig rMgwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "cuKu cuKu hoie mlwie kY; lohU pwxI rMig rMgwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2211,10 +2393,12 @@
         "id": "8J71",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "iprm ipAwlw mjlsI; jog Bog sMjog bxwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iprm ipAwlw mjlsI; jog Bog sMjog bxwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2234,10 +2418,12 @@
         "id": "7QBZ",
         "source_page": 4,
         "source_line": 13,
-        "gurmukhi": "AmlI hoie, su mjls AwvY [13[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AmlI hoie, su mjls AwvY [13["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2266,10 +2452,12 @@
         "id": "JJJB",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "rs BirAw rsu rKdw; bolx Axubolx AiBirTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "rs BirAw rsu rKdw; bolx Axubolx AiBirTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2289,10 +2477,12 @@
         "id": "T5HQ",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "suixAw AxsuixAw krY; kry vIcwir, ifTw AxifTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "suixAw AxsuixAw krY; kry vIcwir, ifTw AxifTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2312,10 +2502,12 @@
         "id": "CDNL",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "AKI DUiV AtweIAw; AKI ivic AMgUru bihTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AKI DUiV AtweIAw; AKI ivic AMgUru bihTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2335,10 +2527,12 @@
         "id": "J4FX",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "iek dU bwhly bUt hoie; isr qlvwieAw ieThu ieTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "iek dU bwhly bUt hoie; isr qlvwieAw ieThu ieTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2358,10 +2552,12 @@
         "id": "PBV1",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "duhu KuMFw ivic pIVIAY; toty lwhy iequ guix imTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "duhu KuMFw ivic pIVIAY; toty lwhy iequ guix imTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2381,10 +2577,12 @@
         "id": "6YDL",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "vIh iekIh vrqdw; AvguixAwry pwp pixTw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "vIh iekIh vrqdw; AvguixAwry pwp pixTw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2404,10 +2602,12 @@
         "id": "WT44",
         "source_page": 4,
         "source_line": 14,
-        "gurmukhi": "mMnY, gMnY vWg suiDTw [14[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mMnY, gMnY vWg suiDTw [14["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2436,10 +2636,12 @@
         "id": "14TP",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "Gxhr bUMd suhwvxI; nIvI hoie Agwshu AwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Gxhr bUMd suhwvxI; nIvI hoie Agwshu AwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2459,10 +2661,12 @@
         "id": "RKBB",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "Awpu gvwie smuMdu vyiK; ispY dy muih ivic smwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Awpu gvwie smuMdu vyiK; ispY dy muih ivic smwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2482,10 +2686,12 @@
         "id": "4Q14",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "lYdo hI muih bUMd ispu; cuMBI mwir pqwil lukwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lYdo hI muih bUMd ispu; cuMBI mwir pqwil lukwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2505,10 +2711,12 @@
         "id": "XGL9",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "PiV kFY mrujIvVw; pr kwrj no Awpu PVwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "PiV kFY mrujIvVw; pr kwrj no Awpu PVwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2528,10 +2736,12 @@
         "id": "RC4B",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "prvis praupkwr no; pr hiQ pQr dMd BnwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "prvis praupkwr no; pr hiQ pQr dMd BnwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2551,10 +2761,12 @@
         "id": "4KF6",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "Buil ABuil Amulu dy; moqI dwn n pCoqwvY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Buil ABuil Amulu dy; moqI dwn n pCoqwvY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2574,10 +2786,12 @@
         "id": "82MN",
         "source_page": 4,
         "source_line": 15,
-        "gurmukhi": "sPl jnmu, koeI vruswvY [15[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sPl jnmu, koeI vruswvY [15["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2606,10 +2820,12 @@
         "id": "0K7D",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "hIry hIrw byDIAY; brmy kxI AxI hoie hIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hIry hIrw byDIAY; brmy kxI AxI hoie hIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2629,10 +2845,12 @@
         "id": "DVMC",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "Dwgw hoie proeIAY; hIrY mwl rswl ghIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Dwgw hoie proeIAY; hIrY mwl rswl ghIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2652,10 +2870,12 @@
         "id": "1LF4",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "swDsMgiq guru sbd ilv; haumY mwir mrY mnu DIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "swDsMgiq guru sbd ilv; haumY mwir mrY mnu DIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2675,10 +2895,12 @@
         "id": "13TJ",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "mn ijix mnu dy ley mn; guix ivic gux gurmuiK srIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mn ijix mnu dy ley mn; guix ivic gux gurmuiK srIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2698,10 +2920,12 @@
         "id": "1W1D",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "pYrI pY pw Kwku hoie; kwmDynu sMq ryxu n nIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pYrI pY pw Kwku hoie; kwmDynu sMq ryxu n nIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2721,10 +2945,12 @@
         "id": "CDRD",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "islw AlUxI ctxI; lK AMimRq rs qrsn sIrY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "islw AlUxI ctxI; lK AMimRq rs qrsn sIrY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2744,10 +2970,12 @@
         "id": "Y9NM",
         "source_page": 4,
         "source_line": 16,
-        "gurmukhi": "ivrlw isK, suxY gur pIrY [16[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ivrlw isK, suxY gur pIrY [16["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2776,10 +3004,12 @@
         "id": "YRPS",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "gur isKI gurisK suix; AMdir isAwxw bwhir Bolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gur isKI gurisK suix; AMdir isAwxw bwhir Bolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2799,10 +3029,12 @@
         "id": "F5Q6",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "sbid suriq swvDwn hoie; ivxu gur sbid n suxeI bolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sbid suriq swvDwn hoie; ivxu gur sbid n suxeI bolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2822,10 +3054,12 @@
         "id": "2PX8",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "siqgur drsnu dyKxw; swDsMgiq ivxu AMnHw Kolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "siqgur drsnu dyKxw; swDsMgiq ivxu AMnHw Kolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2845,10 +3079,12 @@
         "id": "JDUN",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "vwhgurU guru sbdu lY; iprm ipAwlw cuip cbolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "vwhgurU guru sbdu lY; iprm ipAwlw cuip cbolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2868,10 +3104,12 @@
         "id": "KTJ5",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "pYrI pY pw Kwk hoie; crix Doie crxodk Jolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pYrI pY pw Kwk hoie; crix Doie crxodk Jolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2891,10 +3129,12 @@
         "id": "TR8J",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "crx kvl icqu Bvru kir; Bvjl AMdir rhY inrolw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "crx kvl icqu Bvru kir; Bvjl AMdir rhY inrolw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2914,10 +3154,12 @@
         "id": "20X5",
         "source_page": 4,
         "source_line": 17,
-        "gurmukhi": "jIvix mukiq, scwvw colw [17[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jIvix mukiq, scwvw colw [17["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2946,10 +3188,12 @@
         "id": "PMBY",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "isir ivic inkY vwl hoie; swDU crx cvr kir FwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "isir ivic inkY vwl hoie; swDU crx cvr kir FwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2969,10 +3213,12 @@
         "id": "S60B",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "gur sr qIrQ nwie kY; AMJU Bir Bir pYir pKwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gur sr qIrQ nwie kY; AMJU Bir Bir pYir pKwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -2992,10 +3238,12 @@
         "id": "QQPG",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "kwlI hUM Dauly kry; clw jwix nIswxu smHwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kwlI hUM Dauly kry; clw jwix nIswxu smHwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3015,10 +3263,12 @@
         "id": "0ZCG",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "pYrI pY pw Kwk hoie; pUrw siqguru ndir inhwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pYrI pY pw Kwk hoie; pUrw siqguru ndir inhwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3038,10 +3288,12 @@
         "id": "J164",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "kwg kumMqhuM prm hMsu; aujl moqI Kwie KvwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "kwg kumMqhuM prm hMsu; aujl moqI Kwie KvwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3061,10 +3313,12 @@
         "id": "PRM6",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "vwlhu inkI AwKIAY; gur isKI suix gurisK pwlY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "vwlhu inkI AwKIAY; gur isKI suix gurisK pwlY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3084,10 +3338,12 @@
         "id": "AZCA",
         "source_page": 4,
         "source_line": 18,
-        "gurmukhi": "gurisKu lMGY, iprm ipAwlY [18[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurisKu lMGY, iprm ipAwlY [18["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3116,10 +3372,12 @@
         "id": "8GHJ",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "gulr AMdir Buxhxw; gulr noN bRhmMfu vKwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gulr AMdir Buxhxw; gulr noN bRhmMfu vKwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3139,10 +3397,12 @@
         "id": "MUK7",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "gulr lgix lK Pl; iek dU lK AlK n jwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gulr lgix lK Pl; iek dU lK AlK n jwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3162,10 +3422,12 @@
         "id": "XB44",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "lK lK ibrK bgIicAhu; lK bgIcy bwg bbwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lK lK ibrK bgIicAhu; lK bgIcy bwg bbwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3185,10 +3447,12 @@
         "id": "XAZ8",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "lK bwg bRhmMf ivic; lK bRhmMf lUA ivic AwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "lK bwg bRhmMf ivic; lK bRhmMf lUA ivic AwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3208,10 +3472,12 @@
         "id": "RJNP",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "imhir kry jy imhirvwnu; gurmuiK swDsMgiq rMgu mwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "imhir kry jy imhirvwnu; gurmuiK swDsMgiq rMgu mwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3231,10 +3497,12 @@
         "id": "FLSL",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "pYrI pY pw Kwku hoie; swihbu dy clY Ehu BwxY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "pYrI pY pw Kwku hoie; swihbu dy clY Ehu BwxY ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3254,10 +3522,12 @@
         "id": "W5BH",
         "source_page": 4,
         "source_line": 19,
-        "gurmukhi": "haumY jwie, q jwie is\\wxY [19[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "haumY jwie, q jwie is\\wxY [19["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3286,10 +3556,12 @@
         "id": "RTDA",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "duie idih cMdu Alopu hoie; iqAY idh cVHdw hoie inkw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "duie idih cMdu Alopu hoie; iqAY idh cVHdw hoie inkw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3309,10 +3581,12 @@
         "id": "9DGT",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "auiT auiT jgqu juhwrdw; ggn mhysur msqik itkw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "auiT auiT jgqu juhwrdw; ggn mhysur msqik itkw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3332,10 +3606,12 @@
         "id": "Y93B",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "solh klw sMGwrIAY sPlu jnmu sohY kil iekw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "solh klw sMGwrIAY sPlu jnmu sohY kil iekw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3355,10 +3631,12 @@
         "id": "BB7V",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "AMimRq ikrix suhwvxI; inJru JrY isMjY shiskw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "AMimRq ikrix suhwvxI; inJru JrY isMjY shiskw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3378,10 +3656,12 @@
         "id": "SCXG",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "sIqlu sWiq sMqoKu dy; shj sMjogI rqn Aimkw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sIqlu sWiq sMqoKu dy; shj sMjogI rqn Aimkw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3401,10 +3681,12 @@
         "id": "3MP4",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "krY Anyrhu cwnxw; for ckor iDAwnu Dir iCkw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "krY Anyrhu cwnxw; for ckor iDAwnu Dir iCkw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3424,10 +3706,12 @@
         "id": "KAUN",
         "source_page": 4,
         "source_line": 20,
-        "gurmukhi": "Awpu gvwie, Amol mixkw [20[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Awpu gvwie, Amol mixkw [20["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3456,10 +3740,12 @@
         "id": "XN74",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "hoie inmwxw Bgiq kir; gurmuiK DR¨ hir drsnu pwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "hoie inmwxw Bgiq kir; gurmuiK DR¨ hir drsnu pwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3479,10 +3765,12 @@
         "id": "QH14",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "Bgiq vClu hoie ByitAw; mwxu inmwxy Awip idvwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Bgiq vClu hoie ByitAw; mwxu inmwxy Awip idvwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3502,10 +3790,12 @@
         "id": "S92G",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "mwq lok ivic mukiq kir; inhclu vwsu Agwis cVwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mwq lok ivic mukiq kir; inhclu vwsu Agwis cVwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3525,10 +3815,12 @@
         "id": "XJ3W",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "cMdu sUrj qyqIs kroiV; prdKxw cauPyir iPrwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "cMdu sUrj qyqIs kroiV; prdKxw cauPyir iPrwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3548,10 +3840,12 @@
         "id": "A1QN",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "vyd purwx vKwxdy; prgtu kir prqwpu jxwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "vyd purwx vKwxdy; prgtu kir prqwpu jxwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3571,10 +3865,12 @@
         "id": "UVKU",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "Aibgiq giq Aiq Agm hY; AkQ kQw vIcwru n AwieAw [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Aibgiq giq Aiq Agm hY; AkQ kQw vIcwru n AwieAw ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {
@@ -3594,10 +3890,12 @@
         "id": "W7XT",
         "source_page": 4,
         "source_line": 21,
-        "gurmukhi": "gurmuiK suK Plu, AlKu lKwieAw [21[4[ cwir [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurmuiK suK Plu, AlKu lKwieAw [21[4[ cwir ["
+        },
         "translations": {
           "English": {
             "Dr. Jodh Singh": {

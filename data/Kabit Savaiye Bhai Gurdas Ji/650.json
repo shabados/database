@@ -10,10 +10,12 @@
         "id": "3Z9T",
         "source_page": 650,
         "source_line": 1,
-        "gurmukhi": "rUp koit rUp pr soBw pr koit soBw; cqurweI koit cqurweI pr vwrIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "rUp koit rUp pr soBw pr koit soBw; cqurweI koit cqurweI pr vwrIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "W3A7",
         "source_page": 650,
         "source_line": 2,
-        "gurmukhi": "gÎwn gun kot gun gÎwn pr vwr fwrY; koit Bwg Bwg pr Dir bilhwrIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "gÎwn gun kot gun gÎwn pr vwr fwrY; koit Bwg Bwg pr Dir bilhwrIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "50F3",
         "source_page": 650,
         "source_line": 3,
-        "gurmukhi": "sIl suB lCn kotwn sIl lCn kY; ljw kot ljw kY ljwiemwn mwrIAY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "sIl suB lCn kotwn sIl lCn kY; ljw kot ljw kY ljwiemwn mwrIAY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "KPVZ",
         "source_page": 650,
         "source_line": 4,
-        "gurmukhi": "pRymn piqbRqw hUM pRym Aau piqbRq kY; jw kau nwQ ikMcq ktwC kY inhwrIAY [650[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "pRymn piqbRqw hUM pRym Aau piqbRq kY; jw kau nwQ ikMcq ktwC kY inhwrIAY [650["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

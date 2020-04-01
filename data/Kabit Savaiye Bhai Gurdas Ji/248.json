@@ -10,10 +10,12 @@
         "id": "WYST",
         "source_page": 248,
         "source_line": 1,
-        "gurmukhi": "AvGit auqir srovir mjnu krY; jpq Ajpw jwpu AnBY AiBAwsI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "AvGit auqir srovir mjnu krY; jpq Ajpw jwpu AnBY AiBAwsI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "GUW0",
         "source_page": 248,
         "source_line": 2,
-        "gurmukhi": "inJr Apwr Dwr brKw Akws bws; jgmg joiq Anhd AibnwsI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "inJr Apwr Dwr brKw Akws bws; jgmg joiq Anhd AibnwsI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "SVD7",
         "source_page": 248,
         "source_line": 3,
-        "gurmukhi": "Awqm Avys prmwqm pRvys kY; ADXwqm igAwn iriD isiD iniD dwsI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "Awqm Avys prmwqm pRvys kY; ADXwqm igAwn iriD isiD iniD dwsI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "D48C",
         "source_page": 248,
         "source_line": 4,
-        "gurmukhi": "jIvn mukiq jgjIvn jugiq jwnI; sill kml giq mwieAw mY audwsI hY [248[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "jIvn mukiq jgjIvn jugiq jwnI; sill kml giq mwieAw mY audwsI hY [248["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

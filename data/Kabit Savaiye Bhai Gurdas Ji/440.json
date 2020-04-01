@@ -10,10 +10,12 @@
         "id": "WTV4",
         "source_page": 440,
         "source_line": 1,
-        "gurmukhi": "KojI Koij dyiK cilE jwie phucy iTkwny; Ails iblMb kIey Koij imt jwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "KojI Koij dyiK cilE jwie phucy iTkwny; Ails iblMb kIey Koij imt jwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "WNNB",
         "source_page": 440,
         "source_line": 2,
-        "gurmukhi": "ishjw smY rmY Brqwr br nwir soeI; krY jau AigAwn mwnu pRgtq pRwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "ishjw smY rmY Brqwr br nwir soeI; krY jau AigAwn mwnu pRgtq pRwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "QXC7",
         "source_page": 440,
         "source_line": 3,
-        "gurmukhi": "brKq myG jl cwqRk iqRpiq pIey; mon ghy brKw ibqIqy ibllwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "brKq myG jl cwqRk iqRpiq pIey; mon ghy brKw ibqIqy ibllwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "SNDL",
         "source_page": 440,
         "source_line": 4,
-        "gurmukhi": "isK soeI suin gur sbd rhq rhY; kpt snyh kIey pwCy pCuqwq hY [440[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "isK soeI suin gur sbd rhq rhY; kpt snyh kIey pwCy pCuqwq hY [440["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

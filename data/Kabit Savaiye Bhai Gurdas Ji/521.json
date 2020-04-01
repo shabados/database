@@ -10,10 +10,12 @@
         "id": "CPBR",
         "source_page": 521,
         "source_line": 1,
-        "gurmukhi": "pr Dn pr qn pr Apvwd bwd; bl Cl bMc prpMc hI kmwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "pr Dn pr qn pr Apvwd bwd; bl Cl bMc prpMc hI kmwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "TSAN",
         "source_page": 521,
         "source_line": 2,
-        "gurmukhi": "imqR gur sÍwm dRoh kwm kRoD loB moh; gobD bDU ibsÍws bMs ibpR Gwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "imqR gur sÍwm dRoh kwm kRoD loB moh; gobD bDU ibsÍws bMs ibpR Gwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "XMM3",
         "source_page": 521,
         "source_line": 3,
-        "gurmukhi": "rog sog huie ibEg Awpdw dirdR iCdR; jnmu mrn jm lok ibllwq hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "rog sog huie ibEg Awpdw dirdR iCdR; jnmu mrn jm lok ibllwq hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "4JET",
         "source_page": 521,
         "source_line": 4,
-        "gurmukhi": "ikRqGn ibisK ibiKAwdI koit doKI dIn; ADm AsMK mm rom n pujwq hY [521[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "ikRqGn ibisK ibiKAwdI koit doKI dIn; ADm AsMK mm rom n pujwq hY [521["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {

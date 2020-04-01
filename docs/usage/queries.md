@@ -8,7 +8,10 @@ These can be implemented in the programming language of choice, or alternatively
 
 #### Given some first letters, retrieve any matching Lines
 ```sql
-SELECT * FROM lines WHERE first_letters LIKE '%hhhh%' ORDER BY order_id
+SELECT * FROM lines 
+JOIN line_content ON line_content.line_id = lines.id
+WHERE line_content.first_letters LIKE '%hhhh%'
+ORDER BY order_id
 ```
 
 `hhhh` is starting letters of the first 4 words in the line.
@@ -18,15 +21,15 @@ SELECT * FROM lines WHERE first_letters LIKE '%hhhh%' ORDER BY order_id
 SELECT * FROM lines WHERE shabad_id = '9N9' ORDER BY order_id
 ```
 
-#### Given a Source, retrieve all the Translation Sources, with Languages and Author Names
+#### Given a Composition, retrieve all the Translation Sources, with Languages and Author Names
 ```sql
-SELECT * FROM sources
-JOIN translation_sources ON translation_sources.source_id = sources.id
+SELECT * FROM compositions
+JOIN translation_sources ON translation_sources.composition_id = compositions.id
 JOIN languages ON languages.id = translation_sources.language_id
-WHERE source_id = 1
+WHERE composition_id= 1
 ```
 
-### Given any Shabad ID (from any Source), retrieve the possible Translations
+### Given any Shabad ID (from any Composition), retrieve the possible Translations
 ```sql
 SELECT * FROM lines
 JOIN shabads ON shabads.id = lines.shabad_id
@@ -35,7 +38,7 @@ WHERE shabad_id = 'W9Z'
 ORDER BY lines.order_id
 ```
 
-### Given any Shabad ID (from any Source), retrieve the English Transliterations
+### Given any Shabad ID (from any Composition and every Source), retrieve the English Transliterations
 ```sql
 SELECT * FROM lines
 JOIN shabads ON shabads.id = lines.shabad_id
@@ -57,11 +60,12 @@ ORDER BY order_id
 
 **Note:** it is preferable to select a translation source by its `id`, than a text value, unlike the example above, since text values can change.
 
-#### Fetch all the Lines for a given Bani
+#### Fetch all the Lines for a given Bani using SGPC
 ```sql
 SELECT * FROM lines
 JOIN bani_lines ON bani_lines.line_id = lines.id
-WHERE bani_lines.bani_id = 1
+JOIN line_content ON line_content.line_id = lines.id
+WHERE bani_lines.bani_id = 1 AND line_content.source_id = 1
 ORDER BY order_id
 ```
 
@@ -80,7 +84,7 @@ Fetch a list of writers and their `id`s with `SELECT * FROM writers`.
 #### Fetch all Sections and Subsections for all Sources
 
 ```sql
-SELECT * FROM sources
-JOIN sections ON sections.source_id = sources.id
+SELECT * FROM compositions
+JOIN sections ON sections.composition_id = compositions.id
 JOIN subsections ON subsections.section_id = sections.id
 ```

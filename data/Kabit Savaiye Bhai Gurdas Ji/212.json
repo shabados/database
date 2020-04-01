@@ -10,10 +10,12 @@
         "id": "HEHL",
         "source_page": 212,
         "source_line": 1,
-        "gurmukhi": "eyk sY AiDk eyk nwiekw Anyk jw kY; dIn kY dieAwl huie ikRpwl ikRpw DwrI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "eyk sY AiDk eyk nwiekw Anyk jw kY; dIn kY dieAwl huie ikRpwl ikRpw DwrI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -33,10 +35,12 @@
         "id": "XQB5",
         "source_page": 212,
         "source_line": 2,
-        "gurmukhi": "sjnI rjnI sis pRym rs Aausr mY; Ably ADIn giq bynqI aucwrI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "sjnI rjnI sis pRym rs Aausr mY; Ably ADIn giq bynqI aucwrI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -56,10 +60,12 @@
         "id": "ECX3",
         "source_page": 212,
         "source_line": 3,
-        "gurmukhi": "joeI joeI AwigAw hoie soeI soeI mwin jwin; hwQ jory AgRBwig hoie AwigAwkwrI hY [",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "joeI joeI AwigAw hoie soeI soeI mwin jwin; hwQ jory AgRBwig hoie AwigAwkwrI hY ["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
@@ -79,10 +85,12 @@
         "id": "8M3F",
         "source_page": 212,
         "source_line": 4,
-        "gurmukhi": "BwvnI Bgiq bwie cwiekY ceIlo Bjau; sPl jnmu DMin Awj myrI bwrI hY [212[",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
+        "gurmukhi": {
+          "Seva Singh": "BwvnI Bgiq bwie cwiekY ceIlo Bjau; sPl jnmu DMin Awj myrI bwrI hY [212["
+        },
         "translations": {
           "English": {
             "Shamsher Singh Puri": {
