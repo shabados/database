@@ -3,10 +3,11 @@
 This section outlines methods of using of the database, and goes through some examples.
 
 There are several methods of using the database, depending on your purpose:
-- [**General Browsing/Querying**](#general-browsingquerying): Use an application such as [DBeaver](https://dbeaver.io/) to query the  [SQLite database](https://github.com/ShabadOS/database/releases)
-- [**Offline App**](#offline-applications-sqlite): Download the [SQLite database](https://github.com/ShabadOS/database/releases)
-- [**Offline JavaScript App (recommended)**](#offline-applications-javascript): Install the [API via npm](installation#npm)
-- [**Online App**](#online-applications-gurbaninow-api): Use the [GurbaniNow API](https://github.com/GurbaniNow/api)
+- [Overview](#overview)
+  - [General Browsing/Querying](#general-browsingquerying)
+  - [Offline Applications - SQLite](#offline-applications---sqlite)
+  - [Offline Applications - JavaScript](#offline-applications---javascript)
+  - [Online Applications - GurbaniNow API](#online-applications---gurbaninow-api)
 
 ## General Browsing/Querying
 If you're interested in the contents of the database, start by downloading the latest
@@ -59,5 +60,3 @@ The [GurbaniNow API](https://github.com/gurbaninow/api) is a fast and powerful J
 The [GurbaniNow API](https://github.com/gurbaninow/api) is perfect for online applications and websites that wish to integrate Gurbani, without needing writing their own queries and code around the Shabad OS database.
 
 Visit [their repository](https://github.com/gurbaninow/api) for more information.
-
-!> **Currently, the API does not use the Shabad OS database.** The GurbaniNow and Shabad OS teams are currently working together to seamlessly switch over the data sources that power the GurbaniNow API to the Shabad OS database.
