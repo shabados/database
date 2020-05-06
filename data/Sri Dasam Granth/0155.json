@@ -1807,7 +1807,7 @@
         "pronunciation_information": null,
         "type": "Manglacharan",
         "gurmukhi": {
-          "Budha Dal Mehron": "<> siqgur pRswid ]"
+          "Budha Dal Mehron": "<> sRI vwihgurU jI kI Pqy ]"
         },
         "translations": {
           "English": {
@@ -1825,56 +1825,6 @@
         }
       },
       {
-        "id": "03ZZ",
-        "source_page": 155,
-        "source_line": null,
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "gurmukhi": {
-          "Budha Dal Mehron": "sRI BgauqI jI shwie ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸ੍ਰੀ ਭਗਉਤੀ ਜੀ ਸਹਾਇ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "0TBN",
-        "source_page": 155,
-        "source_line": null,
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "gurmukhi": {
-          "Budha Dal Mehron": "AQ caubIs Aauqwr kQnµ ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "VISNU’S TWENTY-FOUR INCARNATIONS.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਹੁਣ ਚੌਬੀਸ ਅਉਤਾਰ ਦਾ ਕਥਨ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
         "id": "RUXR",
         "source_page": 155,
         "source_line": null,
@@ -1882,7 +1832,7 @@
         "pronunciation_information": null,
         "type": "Sirlekh",
         "gurmukhi": {
-          "Budha Dal Mehron": "pwiqswhI 10 ]"
+          "Budha Dal Mehron": "pwqswhI 10 ]"
         },
         "translations": {
           "English": {
@@ -1900,6 +1850,31 @@
         }
       },
       {
+        "id": "0TBN",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "AQ cObIs Aauqwr ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "VISNU’S TWENTY-FOUR INCARNATIONS.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਹੁਣ ਚੌਬੀਸ ਅਉਤਾਰ ਦਾ ਕਥਨ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "N2GX",
         "source_page": 155,
         "source_line": null,
@@ -1907,18 +1882,18 @@
         "pronunciation_information": null,
         "type": "Sirlekh",
         "gurmukhi": {
-          "Budha Dal Mehron": "qÍpRswid ] cOpeI ]"
+          "Budha Dal Mehron": "caupeI ]"
         },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "BY THY GRACE CHAUPAI",
+              "translation": "CHAUPAI",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ: ਚੌਪਈ:",
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -1932,7 +1907,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Ab caubIs aucrO Avqwrw ]"
+          "Budha Dal Mehron": "Ab caubIs aucroN Avqwrw ]"
         },
         "translations": {
           "English": {
@@ -1957,7 +1932,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ijh ibiD iqn kw lKw AKwrw ]"
+          "Budha Dal Mehron": "ij`h ibD iqn kw lKw AKwrw ]"
         },
         "translations": {
           "English": {
@@ -1982,7 +1957,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "sunIAhu sMq, sbY icq lweI ]"
+          "Budha Dal Mehron": "sunIìhu sMq, sbY icq lweI ]"
         },
         "translations": {
           "English": {
@@ -2007,7 +1982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "brnq sÎwm jQwmiq BweI ]1]"
+          "Budha Dal Mehron": "brnq sìwm jQw mq BweI ]1]"
         },
         "translations": {
           "English": {
@@ -2025,6 +2000,31 @@
         }
       },
       {
+        "id": "A7TD",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "WUA6",
         "source_page": 155,
         "source_line": null,
@@ -2032,7 +2032,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jb jb hoiq Airsit Apwrw ]"
+          "Budha Dal Mehron": "jb jb hoq Airsit Apwrw ]"
         },
         "translations": {
           "English": {
@@ -2082,7 +2082,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "kwl sbn ko pyiK qmwsw ]"
+          "Budha Dal Mehron": "kwl sbn ko pyK qmwsw ]"
         },
         "translations": {
           "English": {
@@ -2107,7 +2107,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "AMqhkwl krq hY nwsw ]2]"
+          "Budha Dal Mehron": "AMqh kwl krq hY nwsw ]2]"
         },
         "translations": {
           "English": {
@@ -2119,6 +2119,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਓੜਕ ਓਹੀ (ਸਭ ਦਾ) ਨਾਸ਼ ਕਰਦਾ ਹੈ ॥੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CGE5",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2157,7 +2182,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "AMq kwil soeI Kwpinhwrw ]"
+          "Budha Dal Mehron": "AMq kwl soeI Kwpn hwrw ]"
         },
         "translations": {
           "English": {
@@ -2207,7 +2232,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Awpih miD lIn puin krhI ]3]"
+          "Budha Dal Mehron": "Awpih mD lIn pun krhI ]3]"
         },
         "translations": {
           "English": {
@@ -2219,6 +2244,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਫਿਰ ਆਪਣੇ ਵਿਚ ਹੀ (ਸਭ ਨੂੰ) ਲੀਨ ਕਰ ਲੈਂਦਾ ਹੈ ॥੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0285",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2257,7 +2307,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ijn mih rimAw rwmu hmwrw ]"
+          "Budha Dal Mehron": "ijn mih rimìw rwm hmwrw ]"
         },
         "translations": {
           "English": {
@@ -2282,7 +2332,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Anq cqurds gin Avqwru ]"
+          "Budha Dal Mehron": "Anq cqur ds gn AvqwrU ]"
         },
         "translations": {
           "English": {
@@ -2307,7 +2357,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "kho ju iqn iqn kIey AKwru ]4]"
+          "Budha Dal Mehron": "kho ju iqn iqn kIey AKwrU ]4]"
         },
         "translations": {
           "English": {
@@ -2319,6 +2369,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਕੀ ਕੀ ਲੀਲਾ ਕੀਤੀ (ਉਸ ਦਾ) ਕਥਨ ਕਰਦਾ ਹਾਂ ॥੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "M4L7",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2357,7 +2432,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Avrn ky isir dy buirAweI ]"
+          "Budha Dal Mehron": "Avrn ky isir dY buirAweI ]"
         },
         "translations": {
           "English": {
@@ -2407,7 +2482,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jwn ley jw nwmY qb qy ]5]"
+          "Budha Dal Mehron": "jwn ley jwnw mY qbqy ]5]"
         },
         "translations": {
           "English": {
@@ -2419,6 +2494,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਮੈਂ) ਉਦੋਂ ਤੋਂ ਹੀ (ਇਹ ਸਭ ਕੁਝ) ਜਾਣ ਲਿਆ, ਜਦੋਂ ਤੋਂ (ਇਨ੍ਹਾਂ ਦਾ) ਨਾਮ ਧਰਿਆ ਗਿਆ ॥੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0EQZ",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2457,7 +2557,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Avrn ky dy mUMif hqwey ]"
+          "Budha Dal Mehron": "Avrn kY dY mUMf hqwey ]"
         },
         "translations": {
           "English": {
@@ -2482,7 +2582,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Awp inrwlm rhw n pwXw ]"
+          "Budha Dal Mehron": "Awp inrwlmu rhw n pwìw ]"
         },
         "translations": {
           "English": {
@@ -2507,7 +2607,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "qw qy nwm ibAMq khwXw ]6]"
+          "Budha Dal Mehron": "qW qy nwmu ibAMq khwìw ]6]"
         },
         "translations": {
           "English": {
@@ -2519,6 +2619,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸੇ ਕਰਕੇ (ਉਸ ਨੂੰ) 'ਬੇਅੰਤ' ਕਿਹਾ ਜਾਂਦਾ ਹੈ ॥੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "RFSP",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2557,7 +2682,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqn BI qum pRB, qink n pwey ]"
+          "Budha Dal Mehron": "iqn BI qum pRB, qnk n pwey ]"
         },
         "translations": {
           "English": {
@@ -2582,7 +2707,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "sB hI jg Brmy BvrwXM ]"
+          "Budha Dal Mehron": "sB hI jg Brmy BvrwìM ]"
         },
         "translations": {
           "English": {
@@ -2607,7 +2732,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "qw qy nwm ibAMq khwXM ]7]"
+          "Budha Dal Mehron": "qw qy nwmu ibAMq khwìM ]7]"
         },
         "translations": {
           "English": {
@@ -2625,6 +2750,31 @@
         }
       },
       {
+        "id": "REQ5",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "ZHC5",
         "source_page": 156,
         "source_line": null,
@@ -2632,7 +2782,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "sB hI Clq, n Awp ClwXw ]"
+          "Budha Dal Mehron": "sB hI Clq, n Awp Clwìw ]"
         },
         "translations": {
           "English": {
@@ -2682,7 +2832,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "sMqn duKI inriK AkulwvY ]"
+          "Budha Dal Mehron": "sMqn duKI inrK AkulwvY ]"
         },
         "translations": {
           "English": {
@@ -2725,6 +2875,31 @@
         }
       },
       {
+        "id": "KBQ2",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "B5VK",
         "source_page": 156,
         "source_line": null,
@@ -2732,7 +2907,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "AMiq krq sB jg ko kwlw ]"
+          "Budha Dal Mehron": "AMq krq sB jg kO kwlw ]"
         },
         "translations": {
           "English": {
@@ -2807,7 +2982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "qw qy sMKÎw sMq sunweI ]9]"
+          "Budha Dal Mehron": "qw qy sMKìw sMq sunweI ]9]"
         },
         "translations": {
           "English": {
@@ -2825,6 +3000,31 @@
         }
       },
       {
+        "id": "F1NR",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "DBQB",
         "source_page": 156,
         "source_line": null,
@@ -2832,7 +3032,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "inriK dIn pr hoq idAwrw ]"
+          "Budha Dal Mehron": "inrK dIn pr hoq idAwrw ]"
         },
         "translations": {
           "English": {
@@ -2857,7 +3057,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "dIn bMDu hm qbY ibcwrw ]"
+          "Budha Dal Mehron": "dIn bMD hm qbY ibcwrw ]"
         },
         "translations": {
           "English": {
@@ -2907,7 +3107,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "kruxwiniD jg qbY aucreI ]10]"
+          "Budha Dal Mehron": "kruxw iniD jg qbY aucreI ]10]"
         },
         "translations": {
           "English": {
@@ -2919,6 +3119,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸੇ ਲਈ ਜਗਤ ਤੈਨੂੰ 'ਕਰੁਣਾਨਿਧੀ' ਉਚਾਰਦਾ ਹੈ ॥੧੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8S6F",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -2957,7 +3182,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "sMkt hrn nwmu BXo qdw ]"
+          "Budha Dal Mehron": "sMkt hrn nwmu Bìo qdw ]"
         },
         "translations": {
           "English": {
@@ -2982,7 +3207,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "duK dwhq sMqn ky AwXo ]"
+          "Budha Dal Mehron": "duK dwhq sMqn ky Awìo ]"
         },
         "translations": {
           "English": {
@@ -3007,7 +3232,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "duKdwhn pRB qidn khwXo ]11]"
+          "Budha Dal Mehron": "duK dwhn pRB qidn khwìo ]11]"
         },
         "translations": {
           "English": {
@@ -3025,6 +3250,31 @@
         }
       },
       {
+        "id": "NRN0",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "Q0VV",
         "source_page": 157,
         "source_line": null,
@@ -3032,7 +3282,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "rhw Anµq AMq nhI pwXo ]"
+          "Budha Dal Mehron": "rhw Anµq AMq nhI pwìo ]"
         },
         "translations": {
           "English": {
@@ -3057,7 +3307,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Xw qy nwmu ibAMq khwXo ]"
+          "Budha Dal Mehron": "Xw qy nwmu ibAMq khwìo ]"
         },
         "translations": {
           "English": {
@@ -3082,7 +3332,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jg mo rUp sBn kY Drqw ]"
+          "Budha Dal Mehron": "jg mo rUp sBn ky Drqw ]"
         },
         "translations": {
           "English": {
@@ -3107,7 +3357,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Xw qy nwmu bKnIXq krqw ]12]"
+          "Budha Dal Mehron": "Xw qy nwmu bKwnIXq krqw ]12]"
         },
         "translations": {
           "English": {
@@ -3125,6 +3375,31 @@
         }
       },
       {
+        "id": "4RZX",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "53PW",
         "source_page": 157,
         "source_line": null,
@@ -3132,7 +3407,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iknhUM khUM n qwih lKwXo ]"
+          "Budha Dal Mehron": "iknhUM khUM n qwih lKwìo ]"
         },
         "translations": {
           "English": {
@@ -3157,7 +3432,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ieh kir nwm AlK khwXo ]"
+          "Budha Dal Mehron": "ieh kr nwmu AlK khwìo ]"
         },
         "translations": {
           "English": {
@@ -3182,7 +3457,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "join jgq mY kbhUM n AwXw ]"
+          "Budha Dal Mehron": "jon jgq mY kbhUM n Awìw ]"
         },
         "translations": {
           "English": {
@@ -3207,7 +3482,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Xw qy sBo Ajon bqwXw ]13]"
+          "Budha Dal Mehron": "Xw qy sBO Ajon bqwìw ]13]"
         },
         "translations": {
           "English": {
@@ -3225,6 +3500,31 @@
         }
       },
       {
+        "id": "QESS",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "F53K",
         "source_page": 157,
         "source_line": null,
@@ -3232,7 +3532,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "bRhmwidk sb hI pic hwry ]"
+          "Budha Dal Mehron": "bRhmwdk sb hI pchwry ]"
         },
         "translations": {
           "English": {
@@ -3257,7 +3557,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ibsn mhysvr kaun ibcwry ]"
+          "Budha Dal Mehron": "ibsn mhysÍür kaun ibcwry ]"
         },
         "translations": {
           "English": {
@@ -3282,7 +3582,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "cMd sUr ijin kry ibcwrw ]"
+          "Budha Dal Mehron": "cMd sUr ijn kry ibcwrw ]"
         },
         "translations": {
           "English": {
@@ -3307,7 +3607,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "qw qy jnIXq hY krqwrw ]14]"
+          "Budha Dal Mehron": "qw qy jwnIXq hY krqwrw ]14]"
         },
         "translations": {
           "English": {
@@ -3319,6 +3619,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸ ਲਈ (ਉਸ ਨੂੰ) 'ਕਰਤਾਰ' ਕਰ ਕੇ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ ॥੧੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "YLPM",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "caupeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
               "additional_information": {}
             }
           }
@@ -3425,6 +3750,31 @@
         }
       },
       {
+        "id": "UMKP",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UWP7",
         "source_page": 157,
         "source_line": null,
@@ -3507,7 +3857,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jwn lXo krqw hm qb qy ]16]"
+          "Budha Dal Mehron": "jwn lìo krqw hm qb qy ]16]"
         },
         "translations": {
           "English": {
@@ -3519,6 +3869,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਤਦੋਂ ਤੋਂ ਅਸੀਂ (ਤੈਨੂੰ) 'ਕਰਤਾ' ਜਾਣ ਲਿਆ ਹੈ ॥੧੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BWRH",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3582,7 +3957,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jMqR mMqR qMqR n irJwXw ]"
+          "Budha Dal Mehron": "jMqR mMqR qMqR n irJwìw ]"
         },
         "translations": {
           "English": {
@@ -3607,7 +3982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ByK krq iknhUM nih pwXw ]17]"
+          "Budha Dal Mehron": "ByK krq iknhUM nih pwìw ]17]"
         },
         "translations": {
           "English": {
@@ -3619,6 +3994,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਭੇਖ ਕਰਨ ਵਾਲੇ ਕਿਸੇ ਨੇ ਵੀ (ਤੈਨੂੰ) ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ ॥੧੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "S4LX",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3657,7 +4057,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "pwrbRhm kwhUM n pCwnw ]"
+          "Budha Dal Mehron": "pwrbRhm kwhU n pCwnw ]"
         },
         "translations": {
           "English": {
@@ -3682,7 +4082,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iek mVIAn kbrn vy jwhI ]"
+          "Budha Dal Mehron": "iek mVIAn kbrn vy jWhI ]"
         },
         "translations": {
           "English": {
@@ -3707,7 +4107,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "duhUMAn mY prmysr nwhI ]18]"
+          "Budha Dal Mehron": "duhUMAn mY prmysÍr nwhI ]18]"
         },
         "translations": {
           "English": {
@@ -3719,6 +4119,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਪਰ ਇਨ੍ਹਾਂ ਦੋਹੀਂ (ਥਾਈਂ) ਪਰਮੇਸ਼ਵਰ ਨਹੀਂ ਹੈ ॥੧੮॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PQRA",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3757,7 +4182,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqn qy nwQ inrwly bcy ]"
+          "Budha Dal Mehron": "ien qy nwQ inrwly bcy ]"
         },
         "translations": {
           "English": {
@@ -3807,7 +4232,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqh AwgY ihMdU ikAw qurkw ]19]"
+          "Budha Dal Mehron": "iq`h AwgY ihMdU ikAw qurkw ]19]"
         },
         "translations": {
           "English": {
@@ -3819,6 +4244,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਲਈ ਨਾ ਕੋਈ ਹਿੰਦੂ ਹੈ ਅਤੇ ਨਾ ਹੀ ਤੁਰਕ ॥੧੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BYLN",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3882,7 +4332,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "krq ibruD gey mir mUVw ]"
+          "Budha Dal Mehron": "krq ibru`D gey mr mUVw ]"
         },
         "translations": {
           "English": {
@@ -3919,6 +4369,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਇਨ੍ਹਾਂ ਵਿਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ) ਪ੍ਰਭੂ ਦੇ (ਪ੍ਰੇਮ ਦਾ) ਗੂੜ੍ਹਾ ਰੰਗ ਨਹੀਂ ਚੜ੍ਹਿਆ ॥੨੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "GMPT",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3982,7 +4457,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Awid purK ijin eyku pCwnw ]"
+          "Budha Dal Mehron": "Awid purK ijn eyku pCwnw ]"
         },
         "translations": {
           "English": {
@@ -4025,6 +4500,31 @@
         }
       },
       {
+        "id": "MZ1M",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "DRLK",
         "source_page": 157,
         "source_line": null,
@@ -4032,7 +4532,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jo jo Bwv duiqX mih rwcy ]"
+          "Budha Dal Mehron": "jo jo Bwv duqIA mih rwcy ]"
         },
         "translations": {
           "English": {
@@ -4082,7 +4582,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "eyk purK ijin nYku pCwnw ]"
+          "Budha Dal Mehron": "eyk purK ijn nYk pCwnw ]"
         },
         "translations": {
           "English": {
@@ -4107,7 +4607,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqn hI prm qq kh jwnw ]22]"
+          "Budha Dal Mehron": "iqnhI prm qq k`h jwnw ]22]"
         },
         "translations": {
           "English": {
@@ -4119,6 +4619,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਨੇ ਹੀ ਪਰਮ-ਤਤ੍ਵ ਨੂੰ ਜਾਣ ਲਿਆ ਹੈ ॥੨੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LCKE",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4207,7 +4732,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Cpq swDu ijh nwmu AwDwrw ]23]"
+          "Budha Dal Mehron": "Cpq swD ij`h nwmu ADwrw ]23]"
         },
         "translations": {
           "English": {
@@ -4225,6 +4750,31 @@
         }
       },
       {
+        "id": "1ANB",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "RWH6",
         "source_page": 158,
         "source_line": null,
@@ -4232,7 +4782,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "pyt hyqu nr ifMBu idKwhI ]"
+          "Budha Dal Mehron": "pyt hyq nr ifMBu idKwhIN ]"
         },
         "translations": {
           "English": {
@@ -4257,7 +4807,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ifMB kry ibnu peIXq nwhI ]"
+          "Budha Dal Mehron": "ifMB kry ibnu peIXq nwhIN ]"
         },
         "translations": {
           "English": {
@@ -4282,7 +4832,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ijn nr eyk purK kh iDAwXo ]"
+          "Budha Dal Mehron": "ijn nr eyk purK k`h iDAwìo ]"
         },
         "translations": {
           "English": {
@@ -4307,7 +4857,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqn kir ifMB n iksI idKwXo ]24]"
+          "Budha Dal Mehron": "iqn kr ifMB n iksI idKwìo ]24]"
         },
         "translations": {
           "English": {
@@ -4319,6 +4869,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਨੇ ਪਾਖੰਡ ਕਰਕੇ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਵਿਖਾਇਆ ॥੨੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TT76",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4357,7 +4932,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "koaU n kwhUM sIs invwvY ]"
+          "Budha Dal Mehron": "koaU n kwhU sIs invwvY ]"
         },
         "translations": {
           "English": {
@@ -4382,7 +4957,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "jo iehu pyt n kwhUM hoqw ]"
+          "Budha Dal Mehron": "jo iehu pyt n kwhU hoqw ]"
         },
         "translations": {
           "English": {
@@ -4407,7 +4982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "rwv rMk kwhUM ko khqw ]25]"
+          "Budha Dal Mehron": "rwv rMk kwhU ko khqw ]25]"
         },
         "translations": {
           "English": {
@@ -4425,6 +5000,31 @@
         }
       },
       {
+        "id": "8HKP",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "V8QU",
         "source_page": 158,
         "source_line": null,
@@ -4432,7 +5032,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ijn pRBu eyk vhY ThrwXo ]"
+          "Budha Dal Mehron": "ijn pRB eyk vhY Thrwìo ]"
         },
         "translations": {
           "English": {
@@ -4457,7 +5057,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "iqn kr ifMB n iksU idKwXo ]"
+          "Budha Dal Mehron": "iqn kr ifMB n iksU idKwìo ]"
         },
         "translations": {
           "English": {
@@ -4525,6 +5125,31 @@
         }
       },
       {
+        "id": "8N2Q",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UCYC",
         "source_page": 158,
         "source_line": null,
@@ -4532,7 +5157,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "kwn Cyd jogI khvwXo ]"
+          "Budha Dal Mehron": "kwn Cyd jogI khvwìo ]"
         },
         "translations": {
           "English": {
@@ -4557,7 +5182,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "Aiq pRpMc kr bnih isDwXo ]"
+          "Budha Dal Mehron": "Aiq pRpMc kr bnih isDwìo ]"
         },
         "translations": {
           "English": {
@@ -4582,7 +5207,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "eyk nwmu ko qqu n lXo ]"
+          "Budha Dal Mehron": "eyk nwmu ko q`qu n lìo ]"
         },
         "translations": {
           "English": {
@@ -4607,7 +5232,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "bn ko BXo n igRh ko BXo ]27]"
+          "Budha Dal Mehron": "bn ko Bìo n igRh ko Bìo ]27]"
         },
         "translations": {
           "English": {
@@ -4625,6 +5250,31 @@
         }
       },
       {
+        "id": "H6KG",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "MHDG",
         "source_page": 158,
         "source_line": null,
@@ -4632,7 +5282,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "khw lgY, kib kQY ibcwrw ]"
+          "Budha Dal Mehron": "khw lgY, kb kQY ibcwrw ]"
         },
         "translations": {
           "English": {
@@ -4725,6 +5375,31 @@
         }
       },
       {
+        "id": "PFGT",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "P84B",
         "source_page": 158,
         "source_line": null,
@@ -4757,7 +5432,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "qw qy BXo qyj ibKÎwqw ]"
+          "Budha Dal Mehron": "qw qy Bìo qyj ibKìwqw ]"
         },
         "translations": {
           "English": {
@@ -4807,7 +5482,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "Budha Dal Mehron": "ijin isgrI Xh isRsit aupweI ]29]"
+          "Budha Dal Mehron": "ijn isgrI Xh isRsit aupweI ]29]"
         },
         "translations": {
           "English": {
@@ -4819,6 +5494,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਜਿਸ ਨੇ ਇਸ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਉਤਪੱਤੀ ਕੀਤੀ ॥੨੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UN48",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4925,6 +5625,31 @@
         }
       },
       {
+        "id": "224Z",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UJWX",
         "source_page": 158,
         "source_line": null,
@@ -5019,6 +5744,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਵਖਰੇ ਵਖਰੇ ਕਰਕੇ (ਸਾਰੇ) ਨਾਂਵਾਂ ਬਾਰੇ ਦਸਾਂ ॥੩੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LXZU",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -5125,6 +5875,31 @@
         }
       },
       {
+        "id": "4F8G",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "MPJR",
         "source_page": 158,
         "source_line": null,
@@ -5219,6 +5994,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅੰਤ ਵਿਚ ਉਹ ਸਾਰੇ (ਅਵਤਾਰ) ਉਸੇ ਵਿਚ ਮਿਲ ਜਾਂਦੇ ਹਨ ॥੩੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ABLK",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -5325,6 +6125,31 @@
         }
       },
       {
+        "id": "X8ZN",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "77K8",
         "source_page": 158,
         "source_line": null,
@@ -5419,6 +6244,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਪਰ ਉਸੇ ਨੂੰ) ਸਭ ਲੋਕ ਭਿੰਨ ਭਿੰਨ ਰੂਪ ਵਿਚ ਸਥਾਪਿਤ ਕਰਦੇ ਹਨ ॥੩੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "5RHQ",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -5525,6 +6375,31 @@
         }
       },
       {
+        "id": "H7U2",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "2JYV",
         "source_page": 159,
         "source_line": null,
@@ -5619,6 +6494,31 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਉਹ) ਸਭ ਤੋਂ ਵਖਰਾ ਹੈ, ਉਸ (ਦੇ ਭੇਦ) ਨੂੰ ਕਿਸੇ ਨਹੀਂ ਜਾਣਿਆ ॥੩੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "AH5M",
+        "source_page": 155,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "Budha Dal Mehron": "cOpeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
