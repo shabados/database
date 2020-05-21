@@ -1,0 +1,278 @@
+:repo: database
+:project: Shabad OS (Database)
+:idprefix:
+:hide-uri-scheme:
+:numbered:
+:max-width: 900px
+:icons: font
+:toc: macro
+:toclevels: 4
+ifdef::env-github,env-browser[:outfilesuffix: .asciidoc]
+ifdef::env-github[]
+:note-caption: :information_source:
+:tip-caption: :bulb:
+:important-caption: :fire:
+:caution-caption: :warning:
+:warning-caption: :no_entry:
+endif::[]
+
+[discrete]
+# Contributing to {project}
+
+Thank you for your interest in participating!
+
+There are many ways for people to contribute, beyond writing code or programming, by: proofreading, reviewing sources, and creating tickets. All of which can be learned in our https://tutorials.shabados.com/tutorials/1.0.0/database-viewer/proofreading.html[proofreading] tutorial. See our readme for other ways to link:README.adoc#Contributing[Contribute] or give link:README.adoc#Feedback[Feedback].
+
+This document is for developers or programmers that wish to write code and directly contribute to the source code of {project}.
+
+toc::[id="toc"]
+
+## Getting Started
+
+If you wish to better understand how the `{repo}` repo works or want to debug an issue: get the source, build it, and run it locally.
+
+### Prerequisites
+
+In order to download necessary tools, clone the repository, and install dependencies, you'll need network access. To view the database you'll need a database viewer (e.g. https://dbeaver.io/[DBeaver]).
+
+* https://git-scm.com/[Git]
+* Source code of `{repo}` repo. We recommend forking the repo on GitHub and cloning that to your local machine.
+* https://nodejs.org/en/[Node.js]
+
+NOTE: If you need to manage multiple Node.js versions, use a node version manager to install https://docs.npmjs.com/downloading-and-installing-node-js-and-npm[Node.js].
+
+### Build
+
+Run `npm i` in the root directory. Build an sqlite file by entering `npm run build-sqlite`.
+
+### Run
+
+Usage: 
+----
+npm run <command>
+----
+
+The commands are:
+----
+build-sqlite  Generate an sqlite db in the build folder
+build-mysql   Generate a mySQL db in the build folder
+
+build-json    Generate a json file of build/database.sqlite
+import        Import an sqlite db into build/database.sqlite
+generate-id   Generate unique ID for shabad or line
+
+benchmark
+release 
+precommit
+serve-docs
+----
+
+NOTE: Mass changes can be made to the repo by building an sqlite file, editing it, then building the json from it to commit upstream. Mass changes are usually reserved for cases like renaming the transliteration of a name. These changes will not be accepted from outside collaborators and is reserved for maintainers, admins, or owners of the Shabad OS project. 
+
+NOTE: It's possible to import other sqlite files. Run `npm run import -- --help` to see all options. The importer will generate placeholder Sources, Translation Sources, and fill in -1 for Shabad sections and Writer IDs. These must be corrected in `build/database.sqlite`. Then you will need to follow the note above to commit changes. Importing is reserved for maintainers, admins, or owners of the Shabad OS project.
+
+Example import command:
+----
+npm run import -- nandlal.sqlite nandlal -o ID -s ShabadID -2 ShabadID -S SourceID -t English -t Punjabi -p PageNo -l LineNo -g Gurmukhi
+----
+
+### Docker
+
+In addition to the above comamnds, you can run a Shabad OS MariaDB using Docker (username: `shabados`, database name: `shabados`):
+----
+docker run -p 3306:3306 shabados/database
+----
+
+If you'd like to build the image yourself, run:
+----
+`docker build -f docker/mariadb/Dockerfile -t shabados/database .`.
+----
+
+## File/Folder Structure
+
+### Schema
+
+The schema can be modified in the `migrations/schema.js` file. 
+
+JSON files for `Raags`, `Sources`, `Writers`, and `Line_Types` can be found in the `data` folder. Changing a value here will be reflected everywhere else. The `(array index) + 1` represents the id used for each relation in other tables.
+
+Lines of JSON files are split by page or other sensible method via `./data/source/number.json`.
+
+Bani compilations can be added to the `bani.json`. To define the lines it contains, each bani should contain a list of objects with `start_line` and `end_line`, referring to the files in `sources`.
+
+### Data Folder
+
+Binary files are difficult to track in git. Therefore the JSON files in the data folder is used as the source of truth for the Shabad OS Database.
+
+* Source folders - JSON files contain the id, gurmukhi, pronunciation, and translations of each line of parent folder's source
+* JSON files - these files range from compiling banis, separating sections and sub-sections, to naming languages, translations, and writers
+
+## Workflow
+
+The general workflow of development is to choose an issue to work on, create a feature branch off `dev`, and submit a pull request.
+
+### Issues
+
+Check out the link:https://github.com/ShabadOS/{repo}/issues[full issues list] for a list of all potential areas for contributions. Note that, just because an issue exists, does not mean we will accept a contribution for it. 
+
+There are two project management related labels worth noting:
+
+* _Difficulty: 0-109_ - The perceived/estimated "points" of effort to resolve the issue (points = hours)
+* _Impact: 0-4_ - The perceived percentage of users the issue affects
+
+If an issue's impact is high and difficulty is low, then its resolution should be prioritized higher. Here are some helpful issue queries: 
+
+* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+0%22+[0 points of difficulty]
+* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+1%22+[1 point of difficulty]
+* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+5%22+[5 points of difficulty]
+
+IMPORTANT: Be sure to discuss with the assignee of the issue, before tackling issues. If there are no assignees, ask to be assigned in a comment.
+
+IMPORTANT: To avoid multiple pull requests resolving the same issue, let others know you are working on it by saying so in a comment.
+
+### Branches
+
+The `master` branch is used for stable releases. The `dev` branch is used for prereleases and serves as the main branch for development. Developers should create feature branches from `dev` and work on them. Feature branches should be short-lived and should relate to a single issue from the repo. Avoid updating feature branches with other feature branches.
+
+[IMPORTANT]
+====
+Keep your feature branches separate from each other. Only update your feature branches with upstream `dev` using rebase:
+
+[source,subs="attributes"]
+----
+git remote add upstream https://github.com/ShabadOS/{repo}.git
+
+git fetch upstream
+
+# Make sure that you are on your feature branch:
+git checkout your-feature-branch 
+
+git rebase upstream/dev
+----
+====
+
+Even if you have push rights on the `ShabadOS/{repo}` repository, you should create a personal fork and create feature branches. This keeps the main repository clean and your personal workflow out of sight.
+
+Branches should be named after the issue they are resolving (e.g. `issue-128`) or in the format of `<issue_number>-<hyphenated_description>` (e.g. `128-fix-readme-typos`). If there is no issue related to the work being done, then create an issue for tracking purposes.
+
+### Pull Requests
+
+To enable quick code reviews, always create one pull request per issue and link the issue in the pull request. Avoid merging multiple requests in one PR unless they have the same root cause. Be sure to follow the <<Coding Guidelines>> and keep code changes as small as possible. Avoid pure formatting changes to code that has not been modified otherwise. Pull requests should contain tests whenever possible.
+
+## Coding Guidelines
+
+We use spaces, not tabs.
+
+### Names
+
+* Use PascalCase for `type` names
+* Use PascalCase for `enum` values
+* Use camelCase for `function` and `method` names
+* Use camelCase for `property` names and `local variables`
+* Use UPPER_SNAKE_CASE for `true constants` (hardcoded string or env variable)
+* Use whole words in names when possible
+
+### Comments
+
+Use https://jsdoc.app/index.html[JSDoc] style comments for `functions`, `interfaces`, `enums`, and `classes`
+
+### Style
+
+Our style guide is very similar to https://github.com/airbnb/javascript[Airbnb's Javascript Style Guide], apart from a few minor modifications. Notably, spaces should be included inside parentheses and brackets.
+
+### Linting
+
+The desktop repo contains an https://eslint.org/[ESLint] configuration file. You can run ESLint on any file or directory by running `npx eslint yourfile.js` in a terminal or command prompt.
+
+It is recommended to https://eslint.org/docs/user-guide/integrations[integrate ESLint] with your editor so you can receive linter suggestions as you type. We recommend https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint[VSCode's ESLint extension].
+
+In addition to linting, code will automatically be checked by GitHub Actions for style. 
+
+### Commit Messages
+
+Our git commit messages consist of three sections separated by blank lines in the following format:
+
+[source,shell]
+----
+<type>(<scope>): <subject> <1>
+
+<body>
+
+<footer> <2>
+----
+<1> Type and subject is mandatory. Scope is optionally added in parentheses. See our https://github.com/ShabadOS/{repo}/commits/dev[commit history] for examples.
+<2> Use this to reference breaking changes and github issues, e.g. `Close #128` or `Related #128`. We use this for automating builds and tracking issues.
+
+#### Type
+
+A majority of our commits tend to be one of the following:
+
+- *feat*: Changes that introduce a new feature or enhancement; Always an addition or improvement.
+- *fix*: Changes related to unexpected behavior; Usually bug related, but also for correcting typos/content.
+- *perf*: Changes that improve performance.
+- *refactor*: Changes that don't alter behavior, don't add features/enhancements, don't affect performance, and don't change anything for the user.
+
+NOTE: Typos are always mistakes, and therefore type *fix*. Additions/enhancements to content are type *feat*.
+
+We have some target level types:
+
+- *build*: Changes to our build system or external dependencies (e.g. with scopes: gulp, broccoli, npm)
+- *ci*: Changes to our CI configuration files and scripts (e.g. with scopes: Circle, BrowserStack, SauceLabs)
+- *docs*: Changes to our documentation
+- *test*: Changes to our tests; Adding missing tests or correcting existing tests
+
+And, the last type:
+
+- *style*: Changes to code that are superficial and do not affect anything in a meaningful way (e.g. white-space, formatting,  missing semi-colons)
+
+#### Scope
+
+The scope should be the name of the npm package affected (as perceived by the person reading the changelog generated from commit messages). There are currently no scopes in `{repo}`.
+
+There are currently a few exceptions to the "use package name" rule:
+
+- *none/empty string*: useful for `style`, `test`, and `refactor` changes that are done across all packages (e.g. style: add missing semicolons) and for `docs` changes that are not related to a specific package (e.g. docs: fix typo in tutorial).
+
+#### Subject
+
+We begin our subjects in lowercase and remove any trailing punctuation (e.g. period or exclamation mark).
+
+The subject line must be no more than 72 characters. If you're unable to succinctly summarize what you've done, then perhaps too many changes are being committed at once. Aim for smaller commits which can be explained better.
+
+Our subjects are written imperatively. The imperative is the same as if giving a command or instruction. It can be easily tested by substituting the subject for blank in the line "this commit will <blank>". Examples: refactor, update, show, hide, add, remove, allow, prevent, open, close.
+
+#### Body
+
+Code is generally self-explanatory. Not every commit requires a body. Some changes are so simple that no further explanation is necessary. Even complex code should have comments for explanations.
+
+Focus on using the body to explain _why_ you made the changes. Explain how it worked before the change, why it required changing, and why you resolved it the way you did.
+
+If the subject is the command, then the body is the purpose.
+
+#### Footer
+
+If your commit introduces a major breaking change (one that requires a https://semver.org/[major version jump]), then end the footer with `BREAKING CHANGE`.
+
+If your commit relates to a GitHub issue, then use the footer to link it (e.g. "Related #128"). If your commit would close a GitHub issue when merged, then use the footer to automate it (e.g. "Close #128"). One commit should almost never reference multiple issues, but if need be the commands can be comma-separated (e.g. "Close #128, Close #64, Related #32").
+
+#### Revert
+
+When reverting single commits, modify the header of the commit being reverted by beginning it with `revert: ` and use the body of the commit to reference the SHA hash of the commit being reverted.
+
+[source]
+.Example commit with SHA abc123
+----
+docs: add contributing guidelines
+----
+
+[source]
+.Example of reverting commit with SHA abc123
+----
+revert: docs: add contributing guidelines
+
+Reverting commit abc123.
+----
+
+## Thank you!
+
+Your contributions to open source, large or small, make great projects like this possible. Thank you for taking the time to participate in this project.
