@@ -141,9 +141,7 @@ This code of conduct was influenced by link:https://opensource.microsoft.com/cod
 
 ## License
 
-### Code
-
-May apply to content resting outside of the `data` folder and generated inside the `build` folder.
+IMPORTANT: Applies to content resting outside of the `data` folder and generated inside the `build` folder.
 
 The code of the `{repo}` repo is under v3 of the link:LICENSE.adoc[GPL]. It is similar to the Golden Rule: do unto others as you would have them do unto you. In exchange for benefitting from the work completed in this repo, others must share their derivative work under v3 of the link:LICENSE.adoc[GPL].
 
@@ -153,32 +151,17 @@ The code of the `{repo}` repo is under v3 of the link:LICENSE.adoc[GPL]. It is s
 
 > You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-### Gurbani and Panthic Compilations
+## Gurbani and Panthic Compilations
 
-Applies to specific lines inside the `data` folder.
+IMPORTANT: Applies to different texts inside the `data` folder and generated inside the `build` folder.
 
 As typical of many old, historical works, most gurbani and panthic texts are free of known copyright restrictions. We identify it as being in the https://creativecommons.org/publicdomain/mark/1.0/[public domain] as a work of factual compilation with originality. The honor and reputation of the original works are to be maintained. Derogatory treatments (including adding to, deleting from, altering of, or adapting) the words in a way that distorts or mutilates the original work is forbidden. That is why, whenever possible, physical sources are used to determine the digital representation of these works as to avoid any controversy.
-
-## Acknowledgments
-
-Applies to supporting text inside the `data` folder and generated inside the `build` folder.
-
-NOTE: If we have missed any attribution, credits, or copyrights, please link:https://github.com/ShabadOS/{repo}/issues/new[let us know] or fork this repo and submit a link:CONTRIBUTING.adoc[pull request].
-
-Though unmentioned in the bibliography of sources below, the following are acknowledged for their work in pioneering the digitization process of gurbani, translations, and pronunciations:
-
-* Dr. Kulbir S Thind
-* SHARE Charity UK
 
 Citations for accuracy and review are based on MLA formatting. More often than not, a condensed version of the following is used when citing changes to any of the sources in the database:
 
 ```
 Author. Title of source. Title of container, Other contributors, Version, Number, Publisher, City of Publication, Publication Date, Location. Date of access.
 ```
-
-## Sources
-
-The goal is to accurately digitize these physical sources into Shabad OS. Most are digitized but some require further review and proofreading. Others may be listed but not yet imported into the DB. Please <<feedback, reach out>> if you would like to discuss the sources.
 
 ### Sri Guru Granth Sahib Ji
 
@@ -259,3 +242,12 @@ Kalaam-e-Goya. Translated by Pritpal S Bindra, Institute of Sikh Studies, Chandi
 
 Kalaam-e-Goya Note: "Punjabi Translation of the Persian Text included in this volume is the work of Dr. Ganda Singh."
 ```
+
+## Acknowledgments
+
+NOTE: If we have missed any attribution, credits, or copyrights, please link:https://github.com/ShabadOS/{repo}/issues/new[let us know] or fork this repo and submit a link:CONTRIBUTING.adoc[pull request].
+
+Though unmentioned in the bibliography of sources above, the following are acknowledged for their work in pioneering the digitization process of gurbani, translations, and pronunciations:
+
+* Dr. Kulbir S Thind
+* SHARE Charity UK
