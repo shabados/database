@@ -159,13 +159,13 @@ Applies to specific lines inside the `data` folder.
 
 As typical of many old, historical works, most gurbani and panthic texts are free of known copyright restrictions. We identify it as being in the https://creativecommons.org/publicdomain/mark/1.0/[public domain] as a work of factual compilation with originality. The honor and reputation of the original works are to be maintained. Derogatory treatments (including adding to, deleting from, altering of, or adapting) the words in a way that distorts or mutilates the original work is forbidden. That is why, whenever possible, physical sources are used to determine the digital representation of these works as to avoid any controversy.
 
-### Attribution/Credit
+## Acknowledgments
 
 Applies to supporting text inside the `data` folder and generated inside the `build` folder.
 
-NOTE: If we have missed any attribution, copyrights, or crediting, please link:https://github.com/ShabadOS/{repo}/issues/new[let us know] or fork this repo and submit a link:CONTRIBUTING.adoc[pull request].
+NOTE: If we have missed any attribution, credits, or copyrights, please link:https://github.com/ShabadOS/{repo}/issues/new[let us know] or fork this repo and submit a link:CONTRIBUTING.adoc[pull request].
 
-Though unmentioned in the bibliography of sources below, the following are credited for their work in pioneering the digitization process of gurbani, translations, and pronunciations:
+Though unmentioned in the bibliography of sources below, the following are acknowledged for their work in pioneering the digitization process of gurbani, translations, and pronunciations:
 
 * Dr. Kulbir S Thind
 * SHARE Charity UK
@@ -176,7 +176,11 @@ Citations for accuracy and review are based on MLA formatting. More often than n
 Author. Title of source. Title of container, Other contributors, Version, Number, Publisher, City of Publication, Publication Date, Location. Date of access.
 ```
 
-#### Sri Guru Granth Sahib Ji
+## Sources
+
+The goal is to accurately digitize these physical sources into Shabad OS. Most are digitized but some require further review and proofreading. Others may be listed but not yet imported into the DB. Please <<feedback, reach out>> if you would like to discuss the sources.
+
+### Sri Guru Granth Sahib Ji
 
 ```
 Shabadaarth. Vol. 1-4, SGPC, Sri Amritsar, 2009-2012, www.discoversikhism.com/sikh_library/gurmukhi/shabdaarth_sri_guru_granth_sahib_ji_part_1.html. Accessed 22 Jan 2019.
@@ -194,7 +198,7 @@ Randhawe, Hari S. Gurbani Arth-Bhandar. 1st ed., Vol. 1-12, Khalsa Charitable Tr
 Singh, Sahib. Sri Guru Granth Darpan. Vol. 1-10, Raaj Publishers, Hoshiarpur/Jalandhar, 1972, www.sikhbookclub.com/Book/Sri-Guru-Granth-Sahib-Darpan-Pothi-Pehli. Accessed 18 May 2020.
 ```
 
-#### Sri Dasam Granth
+### Sri Dasam Granth
 
 ਜਾਪੁ ਸਾਹਿਬ, ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸਵਯੇ (ਸ੍ਰਾਵਗ ਸੁਧ), ਕਬਿਯੋਬਾਚ ਬੇਨਤੀ ਚੌਪਈ, ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸ੍ਵਯੇ (ਦੀਨਨ ਕੀ), ਚਉਬੀਸ ਅਵਤਾਰ (Last 2, Ending):
 ```
@@ -225,7 +229,7 @@ Arth / Translation:
 Jaggi, Ratan S. Sri Dasam Granth. Gobind Sadan, New Delhi, www.gobindsadan.org/gobind-sadan-institute/#148-wpfd-siri-dasam-granth. Created 15 Sep 2007. Uploaded 02 Nov 2017. Accessed 22 Jan 2019.
 ```
 
-#### Bhai Gurdaas Ji
+### Bhai Gurdaas Ji
 
 ```
 Ashok, Shamsher S, and Chakar, Amar S. Varan Giaan Ratnaavli Bhai Gurdaas Ji. SGPC, Sri Amritsar, Nov 2011, www.vidhia.com/Bhai%20Gurdaas%20Ji/Vaaran%20Bhai%20Gurdaas%20Ji%20-%20SGPC.pdf. Accessed 22 Jan 2019.
@@ -242,7 +246,7 @@ Singh, Vir. Varan Bhai Gurdas Steek. 22nd ed., New Delhi, Jul 2012, www.discover
 Singh, Jodh. Vārān Bhāī Gurdās (Text, Transliteration, and Translation). 2nd ed., B. Chattar Singh Jiwan Singh, Amritsar, 2013, www.sikhbookclub.com/Book/Varan-Bhai-Gurdas-Volume-1. Accessed 18 May 2020.
 ```
 
-#### Bhai Nand Laal Ji
+### Bhai Nand Laal Ji
 
 Ghazals, Zindagi Nama, Ganj Nama, Jot Bigas (Punjabi & Farsi), Rehit Nama, Tankah Nama, Dasturul-Insa, Arjul-Alfaz, Tausifo-Sana, Khatima:
 ```
