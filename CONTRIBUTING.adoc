@@ -109,169 +109,23 @@ Binary files are difficult to track in git. Therefore the JSON files in the data
 
 ## Workflow
 
-The general workflow of development is to choose an issue to work on, create a feature branch off `dev`, and submit a pull request.
+The general workflow of development is to choose an issue to work on, create a feature branch off `dev` branch, and submit a pull request. This model is shared across all repos in the Shabad OS organization.
 
-### Issues
-
-Check out the link:https://github.com/ShabadOS/{repo}/issues[full issues list] for a list of all potential areas for contributions. Note that, just because an issue exists, does not mean we will accept a contribution for it. 
-
-There are two project management related labels worth noting:
-
-* _Difficulty: 0-109_ - The perceived/estimated "points" of effort to resolve the issue (points = hours)
-* _Impact: 0-4_ - The perceived percentage of users the issue affects
-
-If an issue's impact is high and difficulty is low, then its resolution should be prioritized higher. Here are some helpful issue queries: 
-
-* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+0%22+[0 points of difficulty]
-* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+1%22+[1 point of difficulty]
-* https://github.com/ShabadOS/{repo}/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Impact%3A+1+Low%22+label%3A%22Difficulty%3A+5%22+[5 points of difficulty]
-
-IMPORTANT: Be sure to discuss with the assignee of the issue, before tackling issues. If there are no assignees, ask to be assigned in a comment.
-
-IMPORTANT: To avoid multiple pull requests resolving the same issue, let others know you are working on it by saying so in a comment.
-
-### Branches
-
-The `master` branch is used for stable releases. The `dev` branch is used for prereleases and serves as the main branch for development. Developers should create feature branches from `dev` and work on them. Feature branches should be short-lived and should relate to a single issue from the repo. Avoid updating feature branches with other feature branches.
-
-[IMPORTANT]
-====
-Keep your feature branches separate from each other. Only update your feature branches with upstream `dev` using rebase:
-
-[source,subs="attributes"]
-----
-git remote add upstream https://github.com/ShabadOS/{repo}.git
-
-git fetch upstream
-
-# Make sure that you are on your feature branch:
-git checkout your-feature-branch 
-
-git rebase upstream/dev
-----
-====
-
-Even if you have push rights on the `ShabadOS/{repo}` repository, you should create a personal fork and create feature branches. This keeps the main repository clean and your personal workflow out of sight.
-
-Branches should be named after the issue they are resolving (e.g. `issue-128`) or in the format of `<issue_number>-<hyphenated_description>` (e.g. `128-fix-readme-typos`). If there is no issue related to the work being done, then create an issue for tracking purposes.
-
-### Pull Requests
-
-To enable quick code reviews, always create one pull request per issue and link the issue in the pull request. Avoid merging multiple requests in one PR unless they have the same root cause. Be sure to follow the <<Coding Guidelines>> and keep code changes as small as possible. Avoid pure formatting changes to code that has not been modified otherwise. Pull requests should contain tests whenever possible.
+IMPORTANT: Please see the shared docs for Workflow (Issue Tracking, Branching, and Pull Requests) in the link:https://github.com/ShabadOS/.github/wiki/How-to-Contribute#workflow[How To Contribute wiki article].
 
 ## Coding Guidelines
 
-We use spaces, not tabs.
+Our coding guidelines are also (mostly) shared across all repos in the Shabad OS organization. Aside from scope definitions (which are repo specific), the rest should be referenced in the wiki article.
 
-### Names
+IMPORTANT: Please see the shared docs for Coding Guidelines (Names, Comments, Style, Linting, and Commit Messages) in the link:https://github.com/ShabadOS/.github/wiki/How-to-Contribute#coding-guidelines[How to Contribute wiki article].
 
-* Use PascalCase for `type` names
-* Use PascalCase for `enum` values
-* Use camelCase for `function` and `method` names
-* Use camelCase for `property` names and `local variables`
-* Use UPPER_SNAKE_CASE for `true constants` (hardcoded string or env variable)
-* Use whole words in names when possible
-
-### Comments
-
-Use https://jsdoc.app/index.html[JSDoc] style comments for `functions`, `interfaces`, `enums`, and `classes`
-
-### Style
-
-Our style guide is very similar to https://github.com/airbnb/javascript[Airbnb's Javascript Style Guide], apart from a few minor modifications. Notably, spaces should be included inside parentheses and brackets.
-
-### Linting
-
-The desktop repo contains an https://eslint.org/[ESLint] configuration file. You can run ESLint on any file or directory by running `npx eslint yourfile.js` in a terminal or command prompt.
-
-It is recommended to https://eslint.org/docs/user-guide/integrations[integrate ESLint] with your editor so you can receive linter suggestions as you type. We recommend https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint[VSCode's ESLint extension].
-
-In addition to linting, code will automatically be checked by GitHub Actions for style. 
-
-### Commit Messages
-
-Our git commit messages consist of three sections separated by blank lines in the following format:
-
-[source,shell]
-----
-<type>(<scope>): <subject> <1>
-
-<body>
-
-<footer> <2>
-----
-<1> Type and subject is mandatory. Scope is optionally added in parentheses. See our https://github.com/ShabadOS/{repo}/commits/dev[commit history] for examples.
-<2> Use this to reference breaking changes and github issues, e.g. `Close #128` or `Related #128`. We use this for automating builds and tracking issues.
-
-#### Type
-
-A majority of our commits tend to be one of the following:
-
-- *feat*: Changes that introduce a new feature or enhancement; Always an addition or improvement.
-- *fix*: Changes related to unexpected behavior; Usually bug related, but also for correcting typos/content.
-- *perf*: Changes that improve performance.
-- *refactor*: Changes that don't alter behavior, don't add features/enhancements, don't affect performance, and don't change anything for the user.
-
-NOTE: Typos are always mistakes, and therefore type *fix*. Additions/enhancements to content are type *feat*.
-
-We have some target level types:
-
-- *build*: Changes to our build system or external dependencies (e.g. with scopes: gulp, broccoli, npm)
-- *ci*: Changes to our CI configuration files and scripts (e.g. with scopes: Circle, BrowserStack, SauceLabs)
-- *docs*: Changes to our documentation
-- *test*: Changes to our tests; Adding missing tests or correcting existing tests
-
-And, the last type:
-
-- *style*: Changes to code that are superficial and do not affect anything in a meaningful way (e.g. white-space, formatting,  missing semi-colons)
-
-#### Scope
+### Scope (Part of link:https://github.com/ShabadOS/.github/wiki/How-to-Contribute#commit-messages[Commit Messages])
 
 The scope should be the name of the npm package affected (as perceived by the person reading the changelog generated from commit messages). There are currently no scopes in `{repo}`.
 
 There are currently a few exceptions to the "use package name" rule:
 
 - *none/empty string*: useful for `style`, `test`, and `refactor` changes that are done across all packages (e.g. style: add missing semicolons) and for `docs` changes that are not related to a specific package (e.g. docs: fix typo in tutorial).
-
-#### Subject
-
-We begin our subjects in lowercase and remove any trailing punctuation (e.g. period or exclamation mark).
-
-The subject line must be no more than 72 characters. If you're unable to succinctly summarize what you've done, then perhaps too many changes are being committed at once. Aim for smaller commits which can be explained better.
-
-Our subjects are written imperatively. The imperative is the same as if giving a command or instruction. It can be easily tested by substituting the subject for blank in the line "this commit will <blank>". Examples: refactor, update, show, hide, add, remove, allow, prevent, open, close.
-
-#### Body
-
-Code is generally self-explanatory. Not every commit requires a body. Some changes are so simple that no further explanation is necessary. Even complex code should have comments for explanations.
-
-Focus on using the body to explain _why_ you made the changes. Explain how it worked before the change, why it required changing, and why you resolved it the way you did.
-
-If the subject is the command, then the body is the purpose.
-
-#### Footer
-
-If your commit introduces a major breaking change (one that requires a https://semver.org/[major version jump]), then end the footer with `BREAKING CHANGE`.
-
-If your commit relates to a GitHub issue, then use the footer to link it (e.g. "Related #128"). If your commit would close a GitHub issue when merged, then use the footer to automate it (e.g. "Close #128"). One commit should almost never reference multiple issues, but if need be the commands can be comma-separated (e.g. "Close #128, Close #64, Related #32").
-
-#### Revert
-
-When reverting single commits, modify the header of the commit being reverted by beginning it with `revert: ` and use the body of the commit to reference the SHA hash of the commit being reverted.
-
-[source]
-.Example commit with SHA abc123
-----
-docs: add contributing guidelines
-----
-
-[source]
-.Example of reverting commit with SHA abc123
-----
-revert: docs: add contributing guidelines
-
-Reverting commit abc123.
-----
 
 ## Thank you!
 
