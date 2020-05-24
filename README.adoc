@@ -138,7 +138,7 @@ Please note that this project is released under the Contributor Covenant. By par
 
 ## License
 
-IMPORTANT: Applies to content resting outside of the `data` folder and generated inside the `build` folder.
+IMPORTANT: Applies to code and content resting outside of the `data` folder.
 
 The code of the `{repo}` repo is under v3 of the link:LICENSE.adoc[GPL]. It is similar to the Golden Rule: do unto others as you would have them do unto you. In exchange for benefitting from the work completed in this repo, others must share their derivative work under v3 of the link:LICENSE.adoc[GPL].
 
@@ -150,7 +150,7 @@ The code of the `{repo}` repo is under v3 of the link:LICENSE.adoc[GPL]. It is s
 
 ## Gurbani and Panthic Compilations
 
-IMPORTANT: Applies to different texts inside the `data` folder and generated inside the `build` folder.
+IMPORTANT: Applies to different texts inside the `data` folder, generated inside the `build` folder, and as releases (e.g. GitHub, npm).
 
 As typical of many old, historical works, most gurbani and panthic texts are free of known copyright restrictions. We identify it as being in the https://creativecommons.org/publicdomain/mark/1.0/[public domain] as a work of factual compilation with originality. The honor and reputation of the original works are to be maintained. Derogatory treatments (including adding to, deleting from, altering of, or adapting) the words in a way that distorts or mutilates the original work is forbidden. That is why, whenever possible, physical sources are used to determine the digital representation of these works as to avoid any controversy.
 
