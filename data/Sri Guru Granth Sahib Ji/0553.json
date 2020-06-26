@@ -153,7 +153,7 @@
       {
         "id": "JP5P",
         "source_page": 553,
-        "source_line": 2,
+        "source_line": 3,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -249,7 +249,7 @@
       {
         "id": "K7NR",
         "source_page": 553,
-        "source_line": 3,
+        "source_line": 4,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -354,7 +354,7 @@
       {
         "id": "BMD8",
         "source_page": 553,
-        "source_line": 4,
+        "source_line": 5,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -498,7 +498,7 @@
       {
         "id": "DDB6",
         "source_page": 553,
-        "source_line": 5,
+        "source_line": 6,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -594,7 +594,7 @@
       {
         "id": "ZVE1",
         "source_page": 553,
-        "source_line": 6,
+        "source_line": 7,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -690,7 +690,7 @@
       {
         "id": "UQ1F",
         "source_page": 553,
-        "source_line": 7,
+        "source_line": 8,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -747,7 +747,7 @@
       {
         "id": "QLJA",
         "source_page": 553,
-        "source_line": 8,
+        "source_line": 9,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -891,7 +891,7 @@
       {
         "id": "F0BH",
         "source_page": 553,
-        "source_line": 9,
+        "source_line": 10,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -987,7 +987,7 @@
       {
         "id": "V2WV",
         "source_page": 553,
-        "source_line": 10,
+        "source_line": 11,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1044,7 +1044,7 @@
       {
         "id": "CDP1",
         "source_page": 553,
-        "source_line": 11,
+        "source_line": 12,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1188,7 +1188,7 @@
       {
         "id": "KP50",
         "source_page": 553,
-        "source_line": 12,
+        "source_line": 13,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1293,7 +1293,7 @@
       {
         "id": "CW6A",
         "source_page": 553,
-        "source_line": 13,
+        "source_line": 14,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1389,7 +1389,7 @@
       {
         "id": "GG4Z",
         "source_page": 553,
-        "source_line": 14,
+        "source_line": 15,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1446,7 +1446,7 @@
       {
         "id": "9RCR",
         "source_page": 553,
-        "source_line": 15,
+        "source_line": 16,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1590,7 +1590,7 @@
       {
         "id": "4J1W",
         "source_page": 553,
-        "source_line": 16,
+        "source_line": 17,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1686,7 +1686,7 @@
       {
         "id": "04ZW",
         "source_page": 553,
-        "source_line": 17,
+        "source_line": 18,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1743,7 +1743,7 @@
       {
         "id": "RZ1D",
         "source_page": 553,
-        "source_line": 18,
+        "source_line": 19,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1879,159 +1879,6 @@
           "Spanish": {
             "SikhNet": {
               "translation": "Dice Nanak, aquél que no conoce a su Creador, oh Señor, maldito sea su vano e insípido cuerpo. (1)",
-              "additional_information": {}
-            }
-          }
-        }
-      }
-    ]
-  },
-  {
-    "id": "R2L",
-    "sttm_id": 2121,
-    "writer": "Guru Arjan Dev Ji",
-    "section": "Raag Bihaagraa",
-    "subsection": null,
-    "lines": [
-      {
-        "id": "UN1R",
-        "source_page": 553,
-        "source_line": 19,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Sirlekh",
-        "gurmukhi": {
-          "SGPC": "mÚ 5 ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Fifth Mehl:",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "5th Guru.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "",
-              "additional_information": {
-                "arth": "",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Mejl Guru Aryan, Quinto Canal Divino.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "XQ7Z",
-        "source_page": 554,
-        "source_line": 1,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "Git vsih crxwribMd; rsnw jpY gupwl ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Let the Lotus Feet of the Lord abide within your heart, and with your tongue, chant God's Name.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Enshrine within thy mind the Lord's lotus feet and with thy tongue repeat the Lord's Name.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਆਪਣੇ ਹਿਰਦੇ ਅੰਦਰ ਸਾਹਿਬ ਦੇ ਕੰਵਲ ਚਰਨ ਅਸਥਾਪਨ ਕਰ ਅਤੇ ਆਪਣੀ ਜੀਭਾ ਨਾਲ ਸਾਹਿਬ ਦਾ ਨਾਮ ਉਚਾਰਨ ਕਰ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਔਰ ਜਿਸ ਕੇ (ਘਟਿ) ਅੰਤਸਕਰਣ ਮੇਂ ਅਕਾਲ ਪੁਰਖ ਕੇ ਚਰਣਾਰਬਿੰਦ ਬਸਤੇ ਹੈਂ ਔਰ ਰਸਨਾ ਗੋਪਾਲ ਕਾ ਸਿਮਰਨ ਕਰਤੀ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਚਰਨ ਕਮਲ ਵਸਾਈਏ ਤੇ ਜੀਭ ਨਾਲ ਹਰੀ ਨੂੰ ਜਪੀਏ!",
-              "additional_information": {
-                "arth": "ਘਟਿ = ਹਿਰਦੇ ਵਿਚ। ਚਰਣਾਰਬਿੰਦ = (ਚਰਣ-ਅਰਬਿੰਦ। ਅਰਬਿੰਦ = ਕਉਲ ਫੁੱਲ) ਕਉਲ ਫੁੱਲ ਵਰਗੇ ਪੈਰ। ਰਸਨਾ = ਜੀਭ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Deja que el Loto de los Pies del Señor habite en tu corazón, y con tu lengua canta el Nombre de Dios,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "1DPQ",
-        "source_page": 554,
-        "source_line": 1,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "nwnk. so pRBu ismrIAY; iqsu dyhI kau pwil ]2]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "O Nanak, meditate in remembrance on God, and nurture this body. ||2||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Contemplate over that Lord, O Nanak, and nurture this body of thine.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਹੇ ਨਾਨਕ ਉਸ ਸਾਹਿਬ ਦੇ ਆਰਾਧਨ ਦੁਆਰਾ ਆਪਣੇ ਇਸ ਸਰੀਰ ਦੀ ਪਾਲਨਾ ਪੋਸਨਾ ਕਰ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਤਿਸ ਦੇਹੀ ਕੀ ਪਾਲਨਾ ਕਰੋ॥੨॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਨਾਨਕ! ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪੀਏ ਜਿਸ ਨੇ ਸਰੀਰ ਨੂੰ ਪਾਲਿਆ ਹੈ ॥੨॥",
-              "additional_information": {
-                "arth": "ਦੇਹੀ = ਸਰੀਰ ॥੨॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "oh, dice Nanak, medita en Dios y nutre este cuerpo. (2)",
               "additional_information": {}
             }
           }
