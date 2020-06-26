@@ -1,5 +1,734 @@
 [
   {
+    "id": "9NB",
+    "sttm_id": 522,
+    "writer": "Guru Arjan Dev Ji",
+    "section": "Raag Gauree",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "NQJ7",
+        "source_page": 176,
+        "source_line": 5,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "SGPC": "gauVI guAwryrI mhlw 5 ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Gauree Gwaarayree, Fifth Mehl:",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Gauri Guareri 5th Guru.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਗਊੜੀ ਗੁਆਰੇਰੀ ਪਾਤਸ਼ਾਹੀ ਪੰਜਵੀਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Gauri Guareri, Mejl Guru Aryan, Quinto Canal Divino.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MAW4",
+        "source_page": 176,
+        "source_line": 5,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "ikau BRmIAY; BRmu iks kw hoeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Why do you doubt? What do you doubt?",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Why doubt? Regarding what should the doubt be?",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਕਿਉਂ ਸੰਦੇਹ ਕਰੀਏ? ਕਾਹਦਾ ਸੰਦੇਹ ਕਰਨਾ ਹੋਇਆ?",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਫਿਰ ਕਿਉ ਭ੍ਰਮੀਐ ਔਰ ਕਿਸ ਵਸਤੂ ਕਾ ਭ੍ਰਮ ਹੋਵੈ, ਭਾਵ ਪਰਮੇਸ੍ਵਰ ਸੇ ਬਿਨਾਂ ਦੂਜਾ ਕੋਈ ਨਹੀਂ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਤਦੋਂ ਮਨ ਭਟਕਣੋਂ ਹਟ ਜਾਂਦਾ ਹੈ ਕਿਉਂਕਿ ਕਿਸੇ ਮਾਇਕ ਪਦਾਰਥ ਦੀ ਖ਼ਾਤਰ ਭਟਕਣਾ ਰਹਿੰਦੀ ਹੀ ਨਹੀਂ,",
+              "additional_information": {
+                "arth": "ਭ੍ਰਮੁ = ਭਟਕਣਾ। ਭ੍ਰਮੀਐ = ਭਟਕਦੇ ਫਿਰੀਏ। ਕਿਉ ਭ੍ਰਮੀਐ = ਭਟਕਣਾ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "¿Por qué nos la pasamos en duda?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BD8M",
+        "source_page": 176,
+        "source_line": 5,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jw jil Qil mhIAil; rivAw soeI ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "God is pervading the water, the land and the sky.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "When that Lord is contained in the water, dry land, the earth and sky.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜਦ ਉਹ ਸਾਹਿਬ ਪਾਣੀ, ਸੁੱਕੀ ਧਰਤੀ ਜਮੀਨ ਅਤੇ ਅਸਮਾਨ ਅੰਦਰ ਵਿਆਪਕ ਹੋ ਰਿਹਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਲ ਥਲ ਪ੍ਰਿਥਵੀ ਅਕਾਸ ਮੇਂ ਸੋਈ ਬਿਆਪ ਰਹਾ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਦੋਂ (ਇਹ ਯਕੀਨ ਬਣ ਜਾਏ ਕਿ) ਉਹ ਪ੍ਰਭੂ ਹੀ ਜਲ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ ਵਿਆਪਕ ਹੈ।",
+              "additional_information": {
+                "arth": "ਜਾ = ਜਦੋਂ। ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀ ਤਲਿ, ਧਰਤੀ ਦੀ ਸਤਹ ਉੱਤੇ, ਪੁਲਾੜ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "¿Por qué desvariamos cuando Él, el Señor, prevalece en la tierra, en las aguas y en los interespacios?",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "6DF6",
+        "source_page": 176,
+        "source_line": 6,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "gurmuiK aubry; mnmuK piq KoeI ]1]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The Gurmukhs are saved, while the self-willed manmukhs lose their honor. ||1||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The Guru-wards are saved and the mind-wards lose their honour.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਗੁਰੂ-ਅਨੁਸਾਰੀ ਬਚ ਜਾਂਦੇ ਹਨ ਅਤੇ ਮਲ-ਮਤੀਏ ਆਪਣੀ ਇੱਜਤ ਗੁਆ ਲੈਂਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਹੇ ਭਾਈ! ਸੰਸਾਰ ਕੋ ਭ੍ਰਮ ਰੂਪ ਜਾਣ ਕਰ ਗੁਰਮੁਖ ਤੋ ਬਚੇ ਹੈਂ ਔਰ ਮਨਮੁਖੋਂ ਨੇ ਸਤ੍ਯ ਜਾਣ ਕਰ ਆਪਣੀ ਪਤ ਖੋਈ ਹੈ॥੧॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਪਰ ਤ੍ਰਿਸ਼ਨਾ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ) ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ (ਹੀ) ਬਚਦੇ ਹਨ, ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ (ਤ੍ਰਿਸ਼ਨਾ ਵਿਚ ਫਸ ਕੇ ਆਪਣੀ) ਇੱਜ਼ਤ ਗਵਾ ਲੈਂਦੇ ਹਨ (ਕਿਉਂਕਿ ਉਹ ਆਤਮਕ ਜੀਵਨ ਦੀ ਪੱਧਰ ਤੋਂ ਨੀਵੇਂ ਹੋ ਜਾਂਦੇ ਹਨ) ॥੧॥",
+              "additional_information": {
+                "arth": "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ। ਉਬਰੇ = (ਤ੍ਰਿਸ਼ਨਾ ਤੋਂ) ਬਚ ਜਾਂਦੇ ਹਨ। ਮਨਮੁਖ = ਆਪਣੇ ਮਨ ਵਲ ਰੁਖ਼ ਰੱਖਣ ਵਾਲੇ ਮਨੁੱਖ। ਪਤਿ = ਇੱਜ਼ਤ ॥੧॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "A salvo están los Fieles de Dios; los fieles al ego se pierden a sí mismos.(1)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "RHUU",
+        "source_page": 176,
+        "source_line": 6,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Rahao",
+        "gurmukhi": {
+          "SGPC": "ijsu rwKY Awip; rwmu dieAwrw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "One who is protected by the Merciful Lord",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Whom the Merciful Omnipresent Lord Himself protects,",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜਿਸ ਦੀ ਸਰਬ-ਵਿਆਪਕ ਮਿਹਰਬਾਨ ਸੁਆਮੀ ਖੁਦ ਰਖਿਆ ਕਰਦਾ ਹੈ,",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਹੇ ਭਾਈ! ਰਾਮ ਜੋ ਦਿਆਲੁ ਹੈ ਜਿਸ ਕੀ ਆਪ ਰਖ੍ਯਾ ਕਰੇਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਦਇਆਲ ਪ੍ਰਭੂ ਆਪ (ਤ੍ਰਿਸ਼ਨਾ ਤੋਂ) ਬਚਾਂਦਾ ਹੈ,",
+              "additional_information": {
+                "arth": "ਰਾਖੈ = (ਤ੍ਰਿਸ਼ਨਾ ਤੋਂ) ਬਚਾਂਦਾ ਹੈ। ਦਇਆਰਾ = ਦਇਆਲ, ਦਇਆ ਦਾ ਘਰ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "A Aquél a Quien el Mismo Señor Benévolo lo protege,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "P1S4",
+        "source_page": 176,
+        "source_line": 6,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Rahao",
+        "gurmukhi": {
+          "SGPC": "iqsu; nhI dUjw ko phucnhwrw ]1] rhwau ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "- no one else can rival him. ||1||Pause||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "no one else can equal him. Pause.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਸ ਦੀ ਬਰਾਬਰੀ ਕੋਈ ਹੋਰ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਠਹਿਰਾਉ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਤਿਸ ਕੋ ਦੂਸਰਾ ਕੋਈ ਪਹੁਚਨ ਵਾਲਾ ਨਹੀਂ, ਭਾਵ ਏਹਿ ਕਿ ਤਿਸ ਕੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਤਾ॥੧॥ ਰਹਾਉ ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਉਸ ਦਾ ਜੀਵਨ ਇਤਨਾ ਉੱਚਾ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ) ਕੋਈ ਹੋਰ ਮਨੁੱਖ ਉਸ ਦੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥",
+              "additional_information": {
+                "arth": "ਪਹੁਚਨਹਾਰਾ = ਬਰਾਬਰੀ ਕਰ ਸਕਣ ਵਾਲਾ ॥੧॥ ਰਹਾਉ ॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "nadie lo puede igualar. (1-Pausa)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "QBCL",
+        "source_page": 176,
+        "source_line": 7,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sB mih vrqY; eyku Anµqw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The Infinite One is pervading among all.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Among all the One Infinite Lord is pervading.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਸਾਰਿਆਂ ਅੰਦਰ ਇਕ ਬੇਅੰਤ ਸਾਈਂ ਵਿਆਪਕ ਹੋ ਰਿਹਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਏਕ ਜੋ (ਅਨੰਤਾ) ਪ੍ਰਮਾਤਮਾ ਹੈ, ਸੋਈ ਸਰਬ ਮੇਂ ਵਰਤ ਰਹਾ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਹੇ ਭਾਈ! ਜਦੋਂ ਤੈਨੂੰ ਇਹ ਨਿਸ਼ਚਾ ਹੋ ਜਾਵੇ ਕਿ) ਇਕ ਬੇਅੰਤ ਪ੍ਰਭੂ ਹੀ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ,",
+              "additional_information": {
+                "arth": "ਵਰਤੈ = ਮੌਜੂਦ ਹੈ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "En todas partes prevalece el Infinito Señor;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "1868",
+        "source_page": 176,
+        "source_line": 7,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "qw qUM suiK soau; hoie AicMqw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "So sleep in peace, and don't worry.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "So be thou free from care and sleep comfortably.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਇਸ ਲਈ ਤੂੰ ਬੇਫਿਕਰ ਹੋ ਕੇ ਆਰਾਮ ਨਾਲ ਸੌ ਜਾਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜੇ ਤੂੰ  ਉਸ ਕੋ ਜਾਣੇ ਤਉ ਸੁਖ ਸੰਯੁਕਤ ਔ ਅਚਿੰਤ ਹੋ ਰਹੁ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਤੂੰ ਤਦੋਂ ਹੀ ਚਿੰਤਾ-ਰਹਿਤ ਹੋ ਕੇ ਆਤਮਕ ਆਨੰਦ ਵਿਚ ਲੀਨ ਰਹਿ ਸਕਦਾ ਹੈਂ।",
+              "additional_information": {
+                "arth": "ਤਾ = ਤਦੋਂ। ਸੁਖਿ = ਆਤਮਕ ਆਨੰਦ ਵਿਚ। ਸੋਉ = ਸੌਂ, ਲੀਨ ਰਹੁ। ਅਚਿੰਤਾ = ਚਿੰਤਾ-ਰਹਿਤ ਹੋ ਕੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "descansa entonces sin preocupación,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "W0CY",
+        "source_page": 176,
+        "source_line": 7,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "Ehu sBu ikCu jwxY; jo vrqMqw ]2]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "He knows everything which happens. ||2||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "He knows everything that happens.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਹ ਸਭ ਕੁਝ ਜਾਣਦਾ ਹੈ ਜੋ ਹੋ ਰਿਹਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜੋ ਵਰਤ ਰਹਾ ਹੈ, ਸੋ ਵਹੁ ਸਭ ਕਿਛੁ ਜਾਨਤਾ ਹੈ॥੨॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਤੇ, ਜੋ ਕੁਝ ਜਗਤ ਵਿਚ ਵਾਪਰਦਾ ਹੈ ਉਹ ਪਰਮਾਤਮਾ ਸਭ ਕੁਝ ਜਾਣਦਾ ਹੈ ॥੨॥",
+              "additional_information": {
+                "arth": "ਓਹੁ = ਉਹ ਪਰਮਾਤਮਾ। ਵਰਤੰਤਾ = ਵਾਪਰਦਾ ਹੈ ॥੨॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "porque Él sabe todo lo que pasa.(2)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UP7Q",
+        "source_page": 176,
+        "source_line": 8,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "mnmuK muey; ijn dUjI ipAwsw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The self-willed manmukhs are dying in the thirst of duality.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The perverse are dyeing of thirst for worldliness.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਆਪ-ਹੁਦਰੇ ਦੁਨੀਆਦਾਰੀ ਦੀ ਤ੍ਰੇਹਿ ਨਾਲ ਮਰ ਰਹੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਨ ਮਨਮੁਖੋਂ ਕੋ ਦੂਜੀ ਪਿਆਸਾ ਹੈ, ਸੋ ਭ੍ਰਮ ਕਰ ਮੁਏ ਅਰਥਾਤ ਜਨਮਤੇ ਮਰਤੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਚੰਬੜੀ ਰਹਿੰਦੀ ਹੈ, ਉਹ ਆਪਣੇ ਮਨ ਦੇ ਮੁਰੀਦ ਮਨੁੱਖ ਆਤਮਕ ਮੌਤੇ ਮਰੇ ਰਹਿੰਦੇ ਹਨ,",
+              "additional_information": {
+                "arth": "ਮੁਏ = ਆਤਮਕ ਮੌਤ ਮਰ ਗਏ। ਦੂਜੀ ਪਿਆਸਾ = ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਤਾਂਘ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Determinado por su ego, uno se pierde porque ama a lo otro que está concebido aparte de Dios,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "P1WN",
+        "source_page": 176,
+        "source_line": 8,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "bhu jonI Bvih; Duir ikriq iliKAwsw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "They wander lost through countless incarnations; this is their pre-ordained destiny.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They wander through many births. Their destiny is so preordained.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਹ ਬੜੇ ਜਨਮਾ ਅੰਦਰ ਭਟਕਦੇ ਹਨ। ਉਨ੍ਹਾਂ ਦੀ ਕਿਸਮਤ ਮੁਢ ਤੋਂ ਹੀ ਐਸੀ ਲਿਖੀ ਹੋਈ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਔਰ ਧੁਰ ਕੇ ਕਰਤਤੁ ਲਿਖੇ ਅਨੁਸਾਰ ਅਨੇਕ ਜੋਨੀਓਂ ਮੇਂ ਭ੍ਰਮਤੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਕਿਉਂਕਿ ਉਹਨਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਧੁਰੋਂ ਹੀ ਉਹਨਾਂ ਦੇ ਮੱਥੇ ਉਤੇ ਅਜੇਹਾ ਲੇਖ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ ਕਿ ਉਹ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਭਵਹਿ = ਭੌਂਦੇ ਹਨ। ਧੁਰਿ = ਧੁਰ ਤੋਂ। ਕਿਰਤਿ = ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਅਨੁਸਾਰ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "y vaga por muchas encarnaciones. Tal es su destino ordenado por el Mismo Dios,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0Z8H",
+        "source_page": 176,
+        "source_line": 9,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jYsw bIjih; qYsw Kwsw ]3]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "As they plant, so shall they harvest. ||3||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "As they sow, so shall they eat.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜਿਹੋ ਜਿਹਾ ਉਹ ਬੀਜਦੇ ਹਨ, ਉਹੋ ਜਿਹਾ ਹੀ ਖਾਣਗੇ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜੈਸਾ ਬੀਜਤੇ ਹੈਂ ਤੈਸਾ ਖਾਤੇ ਹੈਂ; ਅਰਥਾਤ ਜੈਸਾ ਕਰਮ ਕਰਤੇ ਹੈਂ ਤੈਸਾ ਫਲ ਭੋਗਤੇ ਹੈਂ॥੩॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹ ਜਿਹੋ ਜਿਹਾ (ਕਰਮ-ਬੀਜ) ਬੀਜਦੇ ਹਨ ਉਹੋ ਜਿਹਾ (ਫਲ) ਖਾਂਦੇ ਹਨ ॥੩॥",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "pues uno  cosecha sólo lo que siembra.(3)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LSMA",
+        "source_page": 176,
+        "source_line": 9,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "dyiK drsu; min BieAw ivgwsw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Beholding the Blessed Vision of the Lord's Darshan, my mind has blossomed forth.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "By holding the sight of the Lord, my mind has blossomed.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਸਾਹਿਬ ਦਾ ਦੀਦਾਰ ਵੇਖ ਕੇ ਮੇਰਾ ਚਿੱਤ ਖਿੜ ਗਿਆ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਔਰ ਗੁਰਮੁਖੋਂ ਕੋ ਦਰਸਨ ਦੇਖਣੇ ਸੇ ਮਨ ਮੇਂ (ਵਿਗਾਸਾ) ਅਨੰਦ ਭਇਆ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਹਰ ਥਾਂ) ਪਰਮਾਤਮਾ ਦਾ ਦਰਸਨ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਖਿੜਾਉ ਪੈਦਾ ਹੁੰਦਾ ਹੈ,",
+              "additional_information": {
+                "arth": "ਦੇਖਿ = ਵੇਖ ਕੇ। ਮਨਿ = ਮਨ ਵਿਚ। ਵਿਗਾਸਾ = ਖਿੜਾਉ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Mi mente se iluminó con la Visión del Señor,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CH1V",
+        "source_page": 176,
+        "source_line": 9,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sBu ndrI AwieAw; bRhmu prgwsw ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "And now everywhere I look, God is revealed to me.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Everywhere I see, now the light of the Pervading God.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਹਰ ਥਾਂ ਹੁਣ ਮੈਂ ਵਿਆਪਕ ਵਾਹਿਗੁਰੂ ਦਾ ਪ੍ਰਕਾਸ਼ ਵੇਖਦਾ ਹਾਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਕਿਉਂਕਿ ਤਿਨ ਕੀ ਦ੍ਰਿਸਟੀ ਮੇਂ ਸਰਬਤ੍ਰ ਬ੍ਰਹਮ ਕਾ ਪ੍ਰਗਾਸ ਹੀ ਆਇਆ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਸ ਨੂੰ ਹਰ ਥਾਂ ਪਰਮਾਤਮਾ ਹੀ ਪ੍ਰਕਾਸ਼ ਕਰ ਰਿਹਾ ਦਿੱਸਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "ਨਦਰੀ ਆਇਆ = ਦਿੱਸਿਆ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "y mira, vi la Presencia del Señor,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8Q05",
+        "source_page": 176,
+        "source_line": 10,
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "jn nwnk kI; hir pUrn Awsw ]4]2]71]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Servant Nanak's hopes have been fulfilled by the Lord. ||4||2||71||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Of slave Nanak God has fulfilled the aspiration.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਗੋਲੇ ਨਾਨਕ ਦੀ ਵਾਹਿਗੁਰੂ ਨੇ ਅਭਿਲਾਸ਼ਾ ਪੂਰੀ ਕਰ ਦਿੱਤੀ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਹਰੀ ਕੇ ਪ੍ਰਾਪਤ ਹੋਣੇ ਕਰ ਜਨੋਂ ਕੀ ਆਸਾ ਪੂਰਨ ਹੋ ਗਈ ਹੈ॥੪॥੨॥੭੧॥☬ਚੌਰਾਸੀ ਕੇ ਦੁਖ ਸੂਚਨ ਕਰਾਵਤੇ ਹੂਏ ਮਾਨੁਖ ਜਨਮ ਕੀ ਦੁਰਲਭਤਾ ਦੇਖਾਕਰ ਉਪਦੇਸ ਕਰਤੇ ਹੈਂ:",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਹੇ ਨਾਨਕ! ਉਸ ਦਾਸ ਦੀ ਪਰਮਾਤਮਾ (ਹਰੇਕ) ਆਸ ਪੂਰੀ ਕਰਦਾ ਹੈ ॥੪॥੨॥੭੧॥",
+              "additional_information": {
+                "arth": "",
+                "note": "* ਨੋਟ: ਗੁਰੂ ਅਰਜਨ ਸਾਹਿਬ ਦਾ ਗਉੜੀ ਰਾਗ ਵਿਚ ਇਹ ਦੂਜਾ ਸ਼ਬਦ ਹੈ। ਪਹਿਲੇ ਸਾਰੇ ਸ਼ਬਦਾਂ ਦਾ ਜੋੜ ੭੦ ਹੈ। ਇਥੇ ਵੱਡਾ ਜੋੜ ੭੨ ਚਾਹੀਦਾ ਸੀ। ਗੁਰੂ ਅਰਜਨ ਸਾਹਿਬ ਦੇ ਸ਼ਬਦ ਨੰ: ੧੦੫ ਤਕ ਇਹੀ ਇੱਕ ਦੀ ਘਾਟ ਤੁਰੀ ਜਾਂਦੀ ਹੈ। ਸ਼ਬਦ ਨੰ: ੧੦੬ ਤੋਂ ਵੱਡਾ ਅੰਕ ਦਰਜ ਕਰਨਾ ਹੀ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "el Dios, y así conocí el Éxtasis. (4-2-71)",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "N0R",
     "sttm_id": 523,
     "writer": "Guru Arjan Dev Ji",

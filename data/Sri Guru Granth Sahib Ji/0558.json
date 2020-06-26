@@ -9,7 +9,7 @@
       {
         "id": "G1R9",
         "source_page": 558,
-        "source_line": 7,
+        "source_line": 9,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -105,7 +105,7 @@
       {
         "id": "9M75",
         "source_page": 558,
-        "source_line": 9,
+        "source_line": 10,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -201,7 +201,7 @@
       {
         "id": "JEED",
         "source_page": 558,
-        "source_line": 10,
+        "source_line": 11,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Rahao",
@@ -345,7 +345,7 @@
       {
         "id": "2VDF",
         "source_page": 558,
-        "source_line": 11,
+        "source_line": 12,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -441,7 +441,7 @@
       {
         "id": "V9BA",
         "source_page": 558,
-        "source_line": 12,
+        "source_line": 13,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -489,7 +489,7 @@
       {
         "id": "QELY",
         "source_page": 558,
-        "source_line": 13,
+        "source_line": 14,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -594,7 +594,7 @@
       {
         "id": "BM6H",
         "source_page": 558,
-        "source_line": 14,
+        "source_line": 15,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -738,7 +738,7 @@
       {
         "id": "1ZN2",
         "source_page": 558,
-        "source_line": 15,
+        "source_line": 16,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Rahao",
@@ -834,7 +834,7 @@
       {
         "id": "1WRC",
         "source_page": 558,
-        "source_line": 16,
+        "source_line": 17,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -930,7 +930,7 @@
       {
         "id": "RYXS",
         "source_page": 558,
-        "source_line": 17,
+        "source_line": 18,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1026,7 +1026,7 @@
       {
         "id": "T3CY",
         "source_page": 558,
-        "source_line": 18,
+        "source_line": 19,
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Pankti",
@@ -1114,543 +1114,6 @@
           "Spanish": {
             "SikhNet": {
               "translation": "Dice Nanak, aquél que se encuentra con el Verdadero Guru, cosecha el Fruto y logra la Gloria del Nombre. (4‑2)",
-              "additional_information": {}
-            }
-          }
-        }
-      }
-    ]
-  },
-  {
-    "id": "32M",
-    "sttm_id": 2149,
-    "writer": "Guru Amardas Ji",
-    "section": "Raag Vadhans",
-    "subsection": null,
-    "lines": [
-      {
-        "id": "5PLC",
-        "source_page": 558,
-        "source_line": 19,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Sirlekh",
-        "gurmukhi": {
-          "SGPC": "vfhMsu mhlw 3 ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Wadahans, Third Mehl:",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Wadhans 3rd Guru.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਵਡਹੰਸ ਤੀਜੀ ਪਾਤਸ਼ਾਹੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "",
-              "additional_information": {
-                "arth": "",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Wadajans, Mejl Guru Amar Das, Tercer Canal Divino.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "P4S2",
-        "source_page": 559,
-        "source_line": 1,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "mwieAw mohu gubwru hY; gur ibnu. igAwnu n hoeI ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Emotional attachment to Maya is darkness; without the Guru, there is no wisdom.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "The love of wealth is spiritual darkness and without the Guru, gnosis is attained not.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਧਨ-ਦੌਲਤ ਦੀ ਮੁਹੱਬਤ ਆਤਮਿਕ ਅੰਨ੍ਹੇਰਾ ਹੈ। ਗੁਰਾਂ ਦੇ ਬਾਝੋਂ ਗਿਆਤ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਮਾਇਆ ਕਾ ਜੋ ਮੋਹ ਹੈ ਇਹੀ ਅੰਧਕਾਰ ਹੈ, ਇਸ ਅੰਧੇਰੇ ਮੇਂ ਗੁਰੋਂ ਸੇ ਬਿਨਾਂ ਗਿਆਨ ਨਹੀਂ ਪ੍ਰਾਪਤ ਹੋਤਾ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਮਾਇਆ ਦਾ ਮੋਹ (ਮਾਨੋ) ਘੁੱਪ ਹਨੇਰਾ ਹੈ ਤੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਨਹੀਂ ਪੈ ਸਕਦੀ।",
-              "additional_information": {
-                "arth": "ਗੁਬਾਰੁ = ਘੁੱਪ ਹਨੇਰਾ। ਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Maya y el apego nos envuelven en la oscuridad; sin el Guru uno no es iluminado.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "PCK3",
-        "source_page": 559,
-        "source_line": 1,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "sbid lgy iqn buiJAw; dUjY prj ivgoeI ]1]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Those who are attached to the Word of the Shabad understand; duality has ruined the people. ||1||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "They, who are attached to the Name, understands this but duality has ruined the people.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਜੋ ਨਾਮ ਨਾਲ ਜੁੜੇ ਹਨ ਉਹ ਇਸ ਨੂੰ ਸਮਝਦੇ ਹਨ। ਦਵੈਤ-ਭਾਵ ਨੇ ਲੋਕਾਂ ਨੂੰ ਤਬਾਹ ਕਰ ਛੱਡਿਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਜੋ ਗੁਰ ਸਬਦ ਮੇਂ ਲਗੇ ਹੈਂ ਤਿਨੋਂ ਨੇ ਸ੍ਵੈ ਸਰੂਪ ਕੋ ਬੂਝਾ ਹੈ ਔਰ (ਪਰਜ) ਪਰਜਾ (ਦੂਜੈ) ਦ੍ਵੈਤ ਭਾਵ ਨੇ (ਵਿਗੋਈ) ਖਰਾਬ ਕਰੀ ਹੈ॥੧॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜੇ ਰਹਿੰਦੇ ਹਨ ਉਹਨਾਂ ਨੂੰ ਸੂਝ ਪੈ ਜਾਂਦੀ ਹੈ, (ਨਹੀਂ ਤਾਂ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਸ੍ਰਿਸ਼ਟੀ ਖ਼ੁਆਰ ਹੁੰਦੀ ਰਹਿੰਦੀ ਹੈ ॥੧॥",
-              "additional_information": {
-                "arth": "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ। ਤਿਨ = ਉਹਨਾਂ ਨੇ। ਦੂਜੈ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ। ਪਰਜ = ਸ੍ਰਿਸ਼ਟੀ। ਵਿਗੋਈ = ਖ਼ੁਆਰ ਹੋ ਰਹੀ ਹੈ ॥੧॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Aquéllos que se entonan en la Palabra, les es revelado el Señor, pero aquéllos que se apegan al otro, son destruidos. (1)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "W2TV",
-        "source_page": 559,
-        "source_line": 2,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Rahao",
-        "gurmukhi": {
-          "SGPC": "mn myry; gurmiq krxI swru ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "O my mind, under Guru's Instruction, do good deeds.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "O my soul, under Guru's instruction do thou the good deeds.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਹੇ ਮੇਰੀ ਜਿੰਦੜੀਏ! ਗੁਰਾਂ ਦੇ ਉਪਦੇਸ਼ ਤਾਬੇ ਤੂੰ ਸ਼੍ਰੇਸ਼ਟ ਅਮਲ ਕਮਾ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰਮਤ ਸੇ (ਸਾਰੁ) ਸ੍ਰੇਸ਼ਟ (ਕਰਣੀ) ਭਗਤੀ ਕਰ ਵਾ ਗੁਰਮਤ ਧਾਰਨ ਕਰਨਾ ਇਹੀ ਸ੍ਰੇਸ਼ਟ ਕਰਣੀ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦੀ ਮੱਤ ਲੈ ਕੇ ਜੀਵਨ-ਚਾਲ ਚੱਲ।",
-              "additional_information": {
-                "arth": "ਕਰਣੀ = ਜੀਵਨ-ਕਰਤੱਬ। ਸਾਰੁ = ਸੰਭਾਲ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Oh mi mente, actúa sobre la base de la Instrucción del Guru, pues si uno habita siempre en el Señor y Maestro,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "596E",
-        "source_page": 559,
-        "source_line": 2,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Rahao",
-        "gurmukhi": {
-          "SGPC": "sdw sdw hir pRBu rvih; qw pwvih moK duAwru ]1] rhwau ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Dwell forever and ever upon the Lord God, and you shall find the gate of salvation. ||1||Pause||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "If thou ever and ever meditate on the Lord God, then, shalt thou obtain the door of salvation. Pause.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਹਮੇਸ਼ਾਂ ਹਮੇਸ਼ਾਂ ਹੀ ਜੇਕਰ ਤੂੰ ਸੁਆਮੀ ਵਾਹਿਗੁਰੂ ਦਾ ਸਿਮਰਨ ਕਰੇਂ, ਤਦ ਤੂੰ ਮੁਕਤੀ ਦੇ ਦਰਵਾਜੇ ਨੂੰ ਪਾ ਲਵੇਗੀਂ। ਠਹਿਰਾਉ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਜੇਕਰ ਨਿਤ ਨਿਤ ਹਰਿ ਪ੍ਰਭ ਸੇ ਰਮਣ ਕਰਹਿ ਤੋ (ਮੋਖ ਦੁਆਰੁ) ਗਿਆਨ ਕੋ ਪਾਵੈਗਾ॥੧॥ ਰਹਾਉ ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਜੇ ਤੂੰ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹੇਂ ਤਾਂ (ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ਦਾ ਰਸਤਾ ਲੱਭ ਲਏਂਗਾ ॥੧॥ ਰਹਾਉ ॥",
-              "additional_information": {
-                "arth": "ਰਵਹਿ = (ਜੇ) ਤੂੰ ਸਿਮਰਦਾ ਰਹੇਂ। ਮੋਖ = ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ॥੧॥ ਰਹਾਉ ॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "logra pasar por la Puerta de la Salvación. (1-Pausa)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "APXB",
-        "source_page": 559,
-        "source_line": 3,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "guxw kw inDwnu eyku hY; Awpy dyie qw ko pwey ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "The Lord alone is the treasure of virtue; He Himself gives, and then one receives.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "The Lord alone is the treasure of virtues and if He Himself gives, then alone can anyone attain them.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਕੇਵਲ ਸਾਹਿਬ ਹੀ ਖੂਬੀਆਂ ਦਾ ਖਜ਼ਾਨਾ ਹੈ ਜੇਕਰ ਉਹ ਆਪ ਦੇਵੇ, ਤਦ ਹੀ ਉਨ੍ਹਾਂ ਨੂੰ ਕੋਈ ਜਣਾਂ ਹਾਸਲ ਕਰ ਸਕਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਨਾਮ ਆਦ ਗੁਣੋਂ ਕਾ ਆਸਰਾ ਏਕ ਹਰੀ ਹੈ, ਜਬ ਆਪ ਦੇਤਾ ਹੈ ਤਬ ਕੋਈ ਪਾਉਤਾ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਇਕ ਹਰਿ-ਨਾਮ ਹੀ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈ, ਪਰ ਇਸ ਖ਼ਜ਼ਾਨੇ ਨੂੰ ਤਦੋਂ ਹੀ ਕੋਈ ਮਨੁੱਖ ਹਾਸਲ ਕਰਦਾ ਹੈ ਜਦੋਂ ਪ੍ਰਭੂ ਆਪ ਹੀ ਇਹ ਖ਼ਜ਼ਾਨਾ ਦੇਂਦਾ ਹੈ।",
-              "additional_information": {
-                "arth": "ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਦੇਇ = ਦੇਂਦਾ ਹੈ। ਕੋ = ਕੋਈ ਮਨੁੱਖ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "El Único Señor es el Tesoro de Virtud; sólo aquél ser a quien el Señor bendice con Sus Bondades,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "M3MM",
-        "source_page": 559,
-        "source_line": 3,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "ibnu nwvY. sB ivCuVI; gur kY sbid imlwey ]2]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Without the Name, all are separated from the Lord; through the Word of the Guru's Shabad, one meets the Lord. ||2||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Without the Name all are separated from the Lord. By Guru's instruction, one meets the Lord.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਨਾਮ ਦੇ ਬਾਝੋਂ ਸਾਰੇ ਸਾਈਂ ਨਾਲੋਂ ਵਿਛੁੜੇ ਹੋਏ ਹਨ। ਗੁਰਾਂ ਦੇ ਉਪਦੇਸ਼ ਦੁਆਰਾ ਬੰਦਾ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਬਿਨਾਂ ਨਾਮ ਸੇ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਬਿਛੜੀ ਹੂਈ ਹੈ ਅਰ ਗੁਰ ਉਪਦੇਸ਼ ਦੁਆਰਾ ਨਾਮ ਦੇ ਕਰ ਅਪਨੇ ਸਾਥ ਮਿਲਾਉਤਾ ਹੈ॥੨॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਸ੍ਰਿਸ਼ਟੀ ਪਰਮਾਤਮਾ ਤੋਂ ਵਿਛੁੜੀ ਰਹਿੰਦੀ ਹੈ, ਪਰ, ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੋੜ ਕੇ (ਪ੍ਰਭੂ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾ ਲੈਂਦਾ ਹੈ ॥੨॥",
-              "additional_information": {
-                "arth": "ਸਬਦਿ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ॥੨॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "las recibe. Sin el Nombre del Señor todos están separados de Su Fuente; la Unión se da a través de la Palabra del Shabd del Guru. (2)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "B402",
-        "source_page": 559,
-        "source_line": 4,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "myrI myrI krdy Git gey; iqnw hiQ ikhu. n AwieAw ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Acting in ego, they lose, and nothing comes into their hands.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "By practising ego, men have run into loss and nothing has come into their hands.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਹੰਕਾਰ ਕਰਨ ਦੁਆਰਾ, ਬੰਦੇ ਨੁਕਸਾਨ ਉਠਾ ਗਏ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਹੱਥ ਪੱਲੇ ਕੁਝ ਨਹੀਂ ਪਿਆ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਜੋ ਮੇਰੀ ਮੇਰੀ ਕਰਤੇ ਥੇ ਤਿਨ ਕੇ ਸਭ ਸ਼ੁਭ ਗੁਣ ਘਟ ਗਏ, ਉਨ ਕੇ ਹਾਥ ਮੇਂ ਕੁਛ ਭੀ ਨਹੀਂ ਆਇਆ ਅਰਥਾਤ ਉਨ ਕੋ ਸੁਖ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੂਆ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਮਾਇਆ ਦੀ ਅਪਣੱਤ ਦੀਆਂ ਗੱਲਾਂ ਕਰ ਕਰ ਕੇ ਜੀਵ ਆਤਮਕ ਜੀਵਨ ਵਿਚ ਕਮਜ਼ੋਰ ਹੁੰਦੇ ਰਹਿੰਦੇ ਹਨ (ਆਤਮਕ ਜੀਵਨ ਦੇ ਸਰਮਾਏ ਵਿਚੋਂ) ਉਹਨਾਂ ਨੂੰ ਕੁਝ ਭੀ ਨਹੀਂ ਮਿਲਦਾ।",
-              "additional_information": {
-                "arth": "ਘਟਿ ਗਏ = ਆਤਮਕ ਜੀਵਨ ਵਿਚ ਲਿੱਸੇ ਹੁੰਦੇ ਜਾਂਦੇ ਹਨ। ਹਥਿ = ਹੱਥ ਵਿਚ। ਕਿਹੁ = (ਆਤਮਕ ਜੀਵਨ ਵਿਚੋਂ) ਕੁਝ ਭੀ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Aquéllos que tratan de poseer algo, en realidad no poseen nada. Encontrando al Verdadero Guru,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "3R7F",
-        "source_page": 559,
-        "source_line": 4,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "sqguir imilAY sic imly; sic nwim smwieAw ]3]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Meeting the True Guru, they find Truth, and merge into the True Name. ||3||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Meeting the True Guru, man obtains Truth and is merged in the True Name.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਸੱਚੇ ਗੁਰਾਂ ਨੂੰ ਮਿਲ ਕੇ ਇਨਸਾਨ ਸੱਚ ਨੂੰ ਪਾ ਲੈਂਦਾ ਹੈ ਅਤੇ ਸੱਚੇ ਨਾਮ ਅੰਦਰ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਸਤਿਗੁਰੋਂ ਕੇ ਮਿਲਨੇ ਸੇ ਸਚ ਨਾਮ ਮੇਂ ਮਿਲੇ ਹੈਂ ਪੁਨਾ ਉਨ ਕਾ ਅੰਤਸਕਰਣ ਸਚੇ ਨਾਮੀ ਮੇਂ ਸਮਾਇਆ ਹੈ॥੩॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਪਰ, ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਜੀਵ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਜੁੜੇ ਰਹਿੰਦੇ ਹਨ ਤੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ ॥੩॥",
-              "additional_information": {
-                "arth": "ਸਤਗੁਰਿ ਮਿਲਿਐ = ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ। ਸਚਿ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ। ਨਾਮਿ = ਨਾਮ ਵਿਚ ॥੩॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "uno obtiene la Verdad y se inmerge en el Verdadero Nombre. (3)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "XBTV",
-        "source_page": 559,
-        "source_line": 5,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "Awsw mnsw eyhu srIru hY; AMqir joiq jgwey ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Hope and desire abide in this body, but the Lord's Light shines within as well.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Hope and desire abide in this body and the Lord's light, too, burns therein.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਉਮੈਦ ਤੇ ਖਾਹਿਸ਼ ਇਸ ਦੇਹ ਅੰਦਰ ਵਸਦੇ ਹਨ ਅਤੇ ਪ੍ਰਭੂ ਦਾ ਪ੍ਰਕਾਸ਼ ਭੀ ਉਸ ਅੰਦਰ ਜਗਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਜੋ ਮਨਮੁਖ ਸਰੀਰ ਧਾਰੀ ਹੈਂ ਤਿਨ ਕੀ (ਮਨਸਾ) ਬੁਧ ਮੇਂ ਆਸਾ ਲਗੀ ਰਹੀ ਹੈ ਔਰ ਜੋ ਗੁਰਮੁਖ ਹੈਂ ਤਿਨ ਕੇ ਅੰਤਸਕਰਣ ਮੇਂ ਪ੍ਰਕਾਸ਼ ਹੋ ਰਹਾ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਮਨੁੱਖ ਦਾ ਇਹ ਸਰੀਰ ਆਸਾ ਅਤੇ ਮਨਸਾ (ਨਾਲ ਬੱਝਾ ਰਹਿੰਦਾ) ਹੈ, (ਗੁਰੂ ਇਸ ਦੇ) ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਦੀ ਰੌਸ਼ਨੀ ਪੈਦਾ ਕਰਦਾ ਹੈ।",
-              "additional_information": {
-                "arth": "ਮਨਸਾ = ਮਨ ਦਾ ਫੁਰਨਾ {मनीषा}। ਜੋਤਿ ਜਗਾਏ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਰੌਸ਼ਨੀ ਕਰ ਦੇਂਦਾ ਹੈ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Nuestro cuerpo es conducido por el deseo y la esperanza, pero la Luz del Señor también está prendida en el interior.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "QRPH",
-        "source_page": 559,
-        "source_line": 5,
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "nwnk. mnmuiK bMDu hY; gurmuiK. mukiq krwey ]4]3]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "O Nanak, the self-willed manmukhs remain in bondage; the Gurmukhs are liberated. ||4||3||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Nanak, the self-wards remain in bondage and the Guru-wards the Lord emancipates.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਨਾਨਕ, ਆਪ-ਹੁਦਰੇ ਕੈਦ ਵਿੱਚ ਰਹਿੰਦੇ ਹਨ ਅਤੇ ਗੁਰੂ-ਸਮਰਪਣਾ ਨੂੰ ਪ੍ਰਭੂ ਬੰਦ-ਖਲਾਸ ਕਰ ਦਿੰਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਇਸੀ ਤੇ ਮਨਮੁਖ ਆਸਾ ਕਰ ਕੇ ਬੰਧਨੋਂ ਮੇਂ ਪੜੇ ਹੈਂ ਅਰ ਬਬੇਕ ਨੇ ਗੁਰਮੁਖ ਸੰਸਾਰ ਸੇ ਮੁਕਤ ਕਰਾਏ ਗਏ ਹੈਂ॥੪॥੩॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਨਾਨਕ! ਆਪਣੇ ਮਨ ਦੇ ਪਿਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਦੇ ਰਾਹ ਵਿਚ (ਆਸਾ ਮਨਸਾ ਦੀ) ਰੋਕ ਪਈ ਰਹਿੰਦੀ ਹੈ, ਪਰ, ਗੁਰੂ ਦੀ ਸਰਨ ਪਏ ਮਨੁੱਖ ਨੂੰ ਖ਼ਲਾਸੀ ਮਿਲ ਜਾਂਦੀ ਹੈ ॥੪॥੩॥",
-              "additional_information": {
-                "arth": "ਮਨਮੁਖਿ = ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ। ਬੰਧੁ = ਬੰਨ੍ਹ, ਰੋਕ। ਮੁਕਤਿ = (ਵਿਕਾਰਾਂ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ॥੪॥੩॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Dice Nanak, los hombres llenos de ego son amarrados a Maya, mientras los Gurmukjs son emancipados. (4‑3)",
               "additional_information": {}
             }
           }
