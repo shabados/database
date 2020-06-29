@@ -53,9 +53,8 @@ Currently, the `gurmukhi` stores as an ASCII representation of Gurbani. We are h
 | source_line               | integer | The physical "line" number within the source that the line appears on.                                    | None                                                |
 | pronunciation             | text    | Guidelines around pronouncing the Gurbani line stored in the `gurmukhi` field, correctly.                 | None                                                |
 | pronunciation_information | text    | Additional footnotes about the `pronunciation` guidelines.                                                | None                                                |
-| transliteration_english   | text    | The transliterated `gurmukhi` into English, allowing English readers to pronounce the `gurmukhi`.         | Not Null                                            |
-| transliteration_hindi     | text    | The transliterated `gurmukhi` into Hindi, allowing Hindi readers to pronounce the `gurmukhi`.             | Not Null                                            |
 | first_letters             | text    | The first letters of each word in the `gurmukhi` line, useful for searching the database by first letter. | Not Null                                            |
+| vishraam_first_letters             | text    | Same as `first_letters`, but includes heavy vishraams. Useful for prioritising search results. | Not Null                                            |
 | type_id                   | integer | The unique identifier of the line type.                                                                   | Foreign Key ([Line_Types](#Line_Types))             |
 | order_id                  | integer | The correct order of the line. Order by this field to fetch the lines in the correct order.               | None                                                |
 
@@ -190,6 +189,8 @@ Note that the `transliteration` can be nullable.
 | source_id       | integer | The unique identifier of the [Source](#Sources) that the transliteration is of.               | Primary Key, <br/> Foreign Key ([Sources](#Sources).id)     |
 | language_id     | integer | The unique identifier of the [Language](#Languages) that the transliteration is in.           | Primary Key, <br/> Foreign Key ([Languages](#Languages).id) |
 | transliteration | text    | The transliteration of the Gurbani line.                                                      | None                                                        |
+| first_letters             | text    | The first letters of each word in the `transliteration`, useful for searching the database by first letter. | Not Null                                            |
+| vishraam_first_letters             | text    | Same as `first_letters`, but includes heavy vishraams. Useful for prioritising search results. | Not Null                                            |
 
 ### Translation_Sources
 The [Translation_Sources](#Translation_Sources) table contains all the sources of translations that the database contains, used by the [Translations](#Translations).
