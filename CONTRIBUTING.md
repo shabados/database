@@ -59,7 +59,7 @@ The commands are:
 
 ```shell
 build-sqlite  # Generate an sqlite db in the build folder
-build-mysql   # Generate a mySQL db in the build folder
+build-mysql   # Builds and writes the source data to a running MySQL instance
 
 build-json    # Generate a json file of build/database.sqlite
 import        # Import an sqlite db into build/database.sqlite
