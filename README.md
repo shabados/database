@@ -39,7 +39,7 @@ Shabad OS Database is an open source project with ongoing development, project m
 
 - Open-source
   - Content, history, and modifications are publicly accessible
-  - Transparency is more accountable (i.e. anyone can verify integrity)
+  - Transparency through open-source is more accountable (i.e. anyone can verify integrity)
   - Duplication of effort among different parties is reduced
   - Sustainability and longevity of project is improved
 - Quality / Accuracy
