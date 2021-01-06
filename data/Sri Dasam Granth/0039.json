@@ -4,7 +4,7 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "Manglacharan",
     "lines": [
       {
         "id": "RH8M",
@@ -37,7 +37,7 @@
         "source_line": null,
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": "Pankti",
+        "type": "Sirlekh",
         "gurmukhi": {
           "SGPC": "AQ bicqR nwtk gRMQ ilKÎqy ]"
         },
@@ -57,6 +57,31 @@
         }
       },
       {
+        "id": "GC13",
+        "source_page": 39,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "gurmukhi": {
+          "SGPC": "qÍ pRswid ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "BY THY GRACE.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "FNME",
         "source_page": 39,
         "source_line": null,
@@ -64,7 +89,7 @@
         "pronunciation_information": null,
         "type": "Sirlekh",
         "gurmukhi": {
-          "SGPC": "sRI muKvwk pwqswhI 10 ]"
+          "SGPC": "sRI muKbwk pwqSwhI 10 ]"
         },
         "translations": {
           "English": {
@@ -89,18 +114,18 @@
         "pronunciation_information": null,
         "type": "Sirlekh",
         "gurmukhi": {
-          "SGPC": "qÍpRswid ] dohrw ]"
+          "SGPC": "dohrw ]"
         },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "BY THY GRACE.  DOHRA",
+              "translation": "DOHRA",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ: ਦੋਹਰਾ:",
+              "translation": "ਦੋਹਰਾ:",
               "additional_information": {}
             }
           }
@@ -114,7 +139,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "nmskwr sRI KVg ko; krO su ihqu icqu lwie ]"
+          "SGPC": "nmskwr sRI KVg ko kroN su ihqu icqu lwie ]"
         },
         "translations": {
           "English": {
@@ -139,7 +164,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "pUrn krO igrMQ iehu; qum muih krhu shwie ]1]"
+          "SGPC": "pUrn kroN igrMQ iehu qum muih krhu shwie ]1]"
         },
         "translations": {
           "English": {
@@ -163,33 +188,8 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "The Praises of the Lord",
     "lines": [
-      {
-        "id": "F61Z",
-        "source_page": 39,
-        "source_line": null,
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "sRI kwl jI kI ausqiq ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "The Eulogy of the Revered Death (KAL).",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸ੍ਰੀ ਕਾਲ ਜੀ ਦੀ ਉਸਤਤ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
       {
         "id": "VMPD",
         "source_page": 39,
@@ -216,6 +216,31 @@
         }
       },
       {
+        "id": "F61Z",
+        "source_page": 39,
+        "source_line": null,
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Pankti",
+        "gurmukhi": {
+          "SGPC": "sRI kwl jI kI ausqiq ]"
+        },
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The Eulogy of the Revered Death (KAL).",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ੍ਰੀ ਕਾਲ ਜੀ ਦੀ ਉਸਤਤ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "0SX8",
         "source_page": 39,
         "source_line": null,
@@ -223,7 +248,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "Kg KMf ibhMfM, Kldl KMfM; Aiq rx mMfM brbMfM ]"
+          "SGPC": "Kg KMf ibhMfM Kl dl KMfM Aiq rx mMfM br bMfM ]"
         },
         "translations": {
           "English": {
@@ -248,7 +273,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "Buj dMf AKMfM, qyj pRcMfM; joiq AmMfM Bwnu pRBM ]"
+          "SGPC": "Buj dMf AKMfM qyj pRcMfM joiq AmMfM Bwn pRBM ]"
         },
         "translations": {
           "English": {
@@ -273,7 +298,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "suK sMqw krxM, durmiq drxM; iklibK hrxM Ais srxM ]"
+          "SGPC": "suK sMqw krxM durmiq drxM iklibK hrxM Ais srxM ]"
         },
         "translations": {
           "English": {
@@ -298,7 +323,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "jY jY jg kwrx, isRsit aubwrx; mm pRiqpwrx jY qygM ]2]"
+          "SGPC": "jY jY jg kwrx isRsit aubwrx mm pRiqpwrx jY qygM ]2]"
         },
         "translations": {
           "English": {
@@ -322,7 +347,7 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "The Praises of the Lord",
     "lines": [
       {
         "id": "Z4AY",
@@ -357,7 +382,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "sdw eyk joqRXM AjUnI srUpM ]"
+          "SGPC": "sdw eyk joqÎM AjUnI srUpM ]"
         },
         "translations": {
           "English": {
@@ -382,7 +407,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "mhwdyv dyvM mhw BUp BUpM ]"
+          "SGPC": "mhw dyv dyvM mhw BUp BUpM ]"
         },
         "translations": {
           "English": {
@@ -407,7 +432,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "inrMkwr inqRXM inrUpM inRbwxM ]"
+          "SGPC": "inrMkwr inqÎM inrUpM inRbwxM ]"
         },
         "translations": {
           "English": {
@@ -432,7 +457,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "klµ kwrxyXM nmo KVgpwxM ]3]"
+          "SGPC": "klµ kwrxyXM nmo KVg pwxM ]3]"
         },
         "translations": {
           "English": {
@@ -457,7 +482,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "inrMkwr inRibkwr inqRXM inrwlµ ]"
+          "SGPC": "inrMkwr inRibkwr inqÎM inrwlµ ]"
         },
         "translations": {
           "English": {
@@ -607,7 +632,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "n dÍYKM n ByKM inrMkwr inqRXM ]"
+          "SGPC": "n dÍYKM n ByKM inrMkwr inqÎM ]"
         },
         "translations": {
           "English": {
@@ -632,7 +657,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "mhw jog jogM su prmM pivqRXM ]5]"
+          "SGPC": "mhw jog jogM su prmM pivqÎM ]5]"
         },
         "translations": {
           "English": {
@@ -757,7 +782,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "suAwdM AnwdM AnIlµ AnµqM ]"
+          "SGPC": "su AwdM AnwdM AnIlµ AnµqM ]"
         },
         "translations": {
           "English": {
@@ -857,7 +882,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "pryXM pivqRM punIqM purwxM ]"
+          "SGPC": "pryAM pivqRM punIqM purwxM ]"
         },
         "translations": {
           "English": {
@@ -882,7 +907,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "AjyXM AByXM BivKÎM BvwxM ]"
+          "SGPC": "AjyAM AByAM BivKÎM BvwxM ]"
         },
         "translations": {
           "English": {
@@ -907,7 +932,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "n rogM n sogM su inqRXM nvInµ ]"
+          "SGPC": "n rogM n sogM su inqÎM nvInµ ]"
         },
         "translations": {
           "English": {
@@ -957,7 +982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "su BUqM BivKÎM Bvwnµ BvyXM ]"
+          "SGPC": "su BUqM BivKÎM Bvwnµ BvyAM ]"
         },
         "translations": {
           "English": {
@@ -982,7 +1007,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "nmo inRbkwrM nmo inRjuryXM ]"
+          "SGPC": "nmo inRibkwrM nmo inRjuryAM ]"
         },
         "translations": {
           "English": {
@@ -1032,7 +1057,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "inrwlµb inqRXM su rwjwiDrwjM ]9]"
+          "SGPC": "inrwlµb inqÎM su rwjw iDrwjM ]9]"
         },
         "translations": {
           "English": {
@@ -1157,7 +1182,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM rwjsM qwmsM swqkyXM ]"
+          "SGPC": "khUM rwjsM qwmsM swqkyAM ]"
         },
         "translations": {
           "English": {
@@ -1182,7 +1207,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM nwir ko rUp Dwry nryXM ]"
+          "SGPC": "khUM nwr ky rUp Dwry nryAM ]"
         },
         "translations": {
           "English": {
@@ -1207,7 +1232,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM dyvIXM dyvqM deIq rUpM ]"
+          "SGPC": "khUM dyvIAM dyvqM deIq rUpM ]"
         },
         "translations": {
           "English": {
@@ -1232,7 +1257,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM rUpM Anyk Dwry AnUpM ]11]"
+          "SGPC": "khUM rUp Anyk Dwry AnUpM ]11]"
         },
         "translations": {
           "English": {
@@ -1282,7 +1307,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM Bvr hÍY kY BlI Bwiq BUly ]"
+          "SGPC": "khUM Bvr hÍY kY BlI BWiq BUly ]"
         },
         "translations": {
           "English": {
@@ -1307,7 +1332,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM pvn hÍY kY bhy byig AYsy ]"
+          "SGPC": "khUM paun hÍY kY bhy byig AYsy ]"
         },
         "translations": {
           "English": {
@@ -1332,7 +1357,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khy mo n Awvy kQO qwih kYsy ]12]"
+          "SGPC": "khy mo n AwvY kQoN qwih kYsy ]12]"
         },
         "translations": {
           "English": {
@@ -1357,7 +1382,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM nwd hÍY kY BlI Bwiq bwjy ]"
+          "SGPC": "khUM nwd hÍY kY BlI BWiq bwjy ]"
         },
         "translations": {
           "English": {
@@ -1382,7 +1407,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM pwrDI hÍY Dry bwn rwjy ]"
+          "SGPC": "khUM pwrDI hÍY kY Dry bwn rwjy ]"
         },
         "translations": {
           "English": {
@@ -1407,7 +1432,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM imRg hÍY kY BlI Bwiq mohy ]"
+          "SGPC": "khUM imRg hÍY kY BlI BWiq mohy ]"
         },
         "translations": {
           "English": {
@@ -1432,7 +1457,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khUM kwmkI ijau Dry rUp sohy ]13]"
+          "SGPC": "khUM kwmukI ijau Dry rUp sohy ]13]"
         },
         "translations": {
           "English": {
@@ -1457,7 +1482,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "nhI jwin jweI kCU rUp ryKM ]"
+          "SGPC": "nhIN jwn jweI kCU rUp ryKM ]"
         },
         "translations": {
           "English": {
@@ -1482,7 +1507,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khw bws qw ko, iPrY kaun ByKM ]"
+          "SGPC": "khW bws qw ko iPrY kaun ByKM ]"
         },
         "translations": {
           "English": {
@@ -1507,7 +1532,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khw nwm qw ko, khw kY khwvY ]"
+          "SGPC": "khw nwm qw ko khw kY khwvY ]"
         },
         "translations": {
           "English": {
@@ -1532,7 +1557,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "khw mY bKwno, khy mo n AwvY ]14]"
+          "SGPC": "khw mY bKwno khy mo n AwvY ]14]"
         },
         "translations": {
           "English": {
@@ -1757,7 +1782,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "AdwgM AdgM AlyKM AByKM ]"
+          "SGPC": "AdwgM Ad`gM AlyKM AByKM ]"
         },
         "translations": {
           "English": {
@@ -1907,7 +1932,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "mhw dwV dwVM su sohM ApwrM ]"
+          "SGPC": "mhW dwVH dwVHM su sohM ApwrM ]"
         },
         "translations": {
           "English": {
@@ -1932,7 +1957,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "ijnY crbIXM jIv jgRXM hjwrM ]18]"
+          "SGPC": "ijnY crbIXM jIv j`gÎM hjwrM ]18]"
         },
         "translations": {
           "English": {
@@ -1957,7 +1982,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "fmw fMf faurU isqwsyq CqRM ]"
+          "SGPC": "fmwf`m faurU isqw syq CqRM ]"
         },
         "translations": {
           "English": {
@@ -1982,7 +2007,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "hwhw hUh hwsM Jmw Jm AqRM ]"
+          "SGPC": "hwhw hUhU hwsM JmwJ`m AqRM ]"
         },
         "translations": {
           "English": {
@@ -2007,7 +2032,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "mhw Gor sbdM bjy sMK AYsM ]"
+          "SGPC": "mhw Gor sbdM bjy sMK AYsy ]"
         },
         "translations": {
           "English": {
@@ -2032,7 +2057,7 @@
         "pronunciation_information": null,
         "type": "Pankti",
         "gurmukhi": {
-          "SGPC": "pRlY kwl ky kwl kI jÍwl jYsM ]19]"
+          "SGPC": "pRlY kwl ky kwl kI jÍwl jYsy ]19]"
         },
         "translations": {
           "English": {
