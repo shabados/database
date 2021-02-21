@@ -67,6 +67,7 @@ typings/
 .idea/
 *.iml
 .vscode/
+.history
 
 ### App Output
 build/
