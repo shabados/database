@@ -13,17 +13,17 @@ jobs:
           path: build/database.sqlite
       - add_ssh_keys:
           fingerprints:
-            - "e5:71:50:86:4f:6c:3e:f6:8b:f2:d5:45:ec:f0:9a:f1"
-      - run:
-          name: Run tests
-          command: npm run test
-      - run:
-          name: Run benchmarks
-          command: npm run benchmark
+            - 'e5:71:50:86:4f:6c:3e:f6:8b:f2:d5:45:ec:f0:9a:f1'
+      # - run:
+      #     name: Run tests
+      #     command: npm run test
+      # - run:
+      #     name: Run benchmarks
+      #     command: npm run benchmark
       - deploy:
           name: Release database on Github
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "main" ]; then
               # Write npm token to .npmrc
               echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
 
@@ -46,18 +46,18 @@ jobs:
       - setup_remote_docker
       # Fetch the source code
       - checkout
-      - run: 
+      - run:
           name: Bump image version
           command: |
             # Configure git
             git config --global push.default current
             git config --global user.email "team@shabados.com"
             git config --global user.name "ShabadOS Bot"
-            
+
             chmod +x bump-version.sh
             ./bump-version.sh
       - run: sudo apt-get install jq
-      - run: 
+      - run:
           name: Set version numbers
           command: |
             VERSION=$(jq -r .version package.json)
@@ -76,7 +76,7 @@ jobs:
       - deploy:
           name: Release database image on DockerHub
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "main" ]; then
 
               # Log in to Docker Hub
               docker login -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}
