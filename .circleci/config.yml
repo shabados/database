@@ -72,6 +72,10 @@ jobs:
           name: Release database image on DockerHub
           command: |
             if [ "${CIRCLE_BRANCH}" == "main" ]; then
+              # Configure git
+              git config --global push.default current
+              git config --global user.email "team@shabados.com"
+              git config --global user.name "ShabadOS Bot"
 
               # Log in to Docker Hub
               docker login -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}
