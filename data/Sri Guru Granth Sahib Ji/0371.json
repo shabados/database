@@ -101,7 +101,7 @@
       {
         "id": "YFML",
         "source_page": 371,
-        "source_line": 5,
+        "source_line": 6,
         "gurmukhi": "sIl sMjm kY; inkit KloeI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -239,7 +239,7 @@
       {
         "id": "6NE9",
         "source_page": 371,
-        "source_line": 6,
+        "source_line": 7,
         "gurmukhi": "Gr kI nwieik; Gr vwsu. n dyvY ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -377,7 +377,7 @@
       {
         "id": "5UD6",
         "source_page": 371,
-        "source_line": 7,
+        "source_line": 8,
         "gurmukhi": "nau KMf jIqy; siB Qwn Qnµqr ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -515,7 +515,7 @@
       {
         "id": "77U2",
         "source_page": 371,
-        "source_line": 8,
+        "source_line": 9,
         "gurmukhi": "jh bYsau; qh nwly bYsY ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -653,7 +653,7 @@
       {
         "id": "HT7U",
         "source_page": 371,
-        "source_line": 9,
+        "source_line": 10,
         "gurmukhi": "khu mIqw; hau kY pih jweI ]3]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -745,7 +745,7 @@
       {
         "id": "A6P3",
         "source_page": 371,
-        "source_line": 10,
+        "source_line": 11,
         "gurmukhi": "guir hir hir nwmu; moih mMqRü idRVwieAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -883,7 +883,7 @@
       {
         "id": "3FW6",
         "source_page": 371,
-        "source_line": 11,
+        "source_line": 12,
         "gurmukhi": "Gru myrw; ieh nwieik hmwrI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -984,7 +984,7 @@
       {
         "id": "WSYU",
         "source_page": 371,
-        "source_line": 12,
+        "source_line": 13,
         "gurmukhi": "Awsw mhlw 5 ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1122,7 +1122,7 @@
       {
         "id": "RSXE",
         "source_page": 371,
-        "source_line": 13,
+        "source_line": 14,
         "gurmukhi": "iqRqIey mqw; ikCu krau aupwieAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1214,7 +1214,7 @@
       {
         "id": "12T3",
         "source_page": 371,
-        "source_line": 14,
+        "source_line": 15,
         "gurmukhi": "mhw Anµd; AicMq shjwieAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1306,7 +1306,7 @@
       {
         "id": "EPX9",
         "source_page": 371,
-        "source_line": 15,
+        "source_line": 16,
         "gurmukhi": "siqguir mo kau; dIAw aupdysu ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1490,7 +1490,7 @@
       {
         "id": "17F6",
         "source_page": 371,
-        "source_line": 16,
+        "source_line": 17,
         "gurmukhi": "quDno Coif; jweIAY pRB kYN Dir ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1628,7 +1628,7 @@
       {
         "id": "QSJL",
         "source_page": 371,
-        "source_line": 17,
+        "source_line": 18,
         "gurmukhi": "swkqu BUlw iPrY; bybwix ]3]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1766,7 +1766,7 @@
       {
         "id": "5V50",
         "source_page": 371,
-        "source_line": 18,
+        "source_line": 19,
         "gurmukhi": "nwnk dws; qyrI srxweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1850,889 +1850,6 @@
           "Spanish": {
             "SikhNet": {
               "translation": "y ahora busca sólo Tu Refugio, oh Señor. (4‑5)",
-              "additional_information": {}
-            }
-          }
-        }
-      }
-    ]
-  },
-  {
-    "id": "12X",
-    "sttm_id": 1442,
-    "writer": "Guru Arjan Dev Ji",
-    "section": "Raag Aasaa",
-    "subsection": null,
-    "lines": [
-      {
-        "id": "D8VG",
-        "source_page": 371,
-        "source_line": 19,
-        "gurmukhi": "Awsw mhlw 5 ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Sirlekh",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Aasaa, Fifth Mehl:",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Asa 5th Guru.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਆਸਾ ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "",
-              "additional_information": {
-                "arth": "",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Asa, Mejl Guru Aryan, Quinto Canal Divino.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "KYV3",
-        "source_page": 372,
-        "source_line": 1,
-        "gurmukhi": "prdysu Jwig; saudy kau AwieAw ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Having wandered through foreign lands, I have come here to do business.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Having wandered in foreign lands, I have come here for transactions.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਪਰਾਏ ਵਤਨਾਂ ਅੰਦਰ ਭਟਕ ਕੇ, ਮੈਂ ਇਥੇ ਸੌਦੇ ਸੂਤ ਲਈ ਆਇਆ ਹਾਂ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਹੇ ਸੰਤੋ! ਚੌਰਾਸੀ ਲਾਖ ਜੂਨ ਰੂਪ ਪਰਦੇਸ (ਝਾਗਿ) ਲਾਂਘ ਕਰ ਮਾਨੁਖ ਸਰੀਰ ਮੇਂ ਆਪ ਕੇ ਪਾਸ ਸਉਦਾ ਕਰਨੇ ਆਯਾ ਹੂੰ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਸ਼ਾਹ! (ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਾਲਾ) ਓਪਰਾ ਦੇਸ ਬੜੀਆਂ ਔਖਿਆਈਆਂ ਨਾਲ ਲੰਘ ਕੇ ਮੈਂ (ਤੇਰੇ ਦਰ ਤੇ ਨਾਮ ਦਾ) ਸੌਦਾ ਕਰਨ ਆਇਆ ਹਾਂ,",
-              "additional_information": {
-                "arth": "ਪਰਦੇਸੁ = (ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਾਲਾ) ਓਪਰਾ ਦੇਸ। ਝਾਗਿ = ਔਖਿਆਈਆਂ ਨਾਲ ਲੰਘ ਕੇ। ਕਉ = ਵਾਸਤੇ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Yendo a través de muchas encarnaciones,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "BCPR",
-        "source_page": 372,
-        "source_line": 1,
-        "gurmukhi": "vsqu AnUp suxI; lwBwieAw ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I heard of the incomparable and profitable merchandise.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "I have heard, that thou O Guru, hast an incomparable and profitable commodity.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੋਲ, ਹੇ ਗੁਰੂ ਜੀ! ਇਕ ਲਾਸਾਨੀ ਤੇ ਲਾਭਦਾਇਕ ਵੱਖਰ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਆਪ ਕੇ ਪਾਸ ਨਾਮ ਧਨ ਅਨੂਪਮ ਵਸਤੁ (ਲਾਭਾਇਆ) ਆਤਮ ਗ੍ਯਾਨ ਰੂਪੁ ਲਾਭਦਾਇਕ ਸੁਣ ਕਰ ਆਇਆ ਹੂੰ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਨਾਮ ਵਸਤ ਬੜੀ ਸੁੰਦਰ ਹੈ ਤੇ ਲਾਭ ਦੇਣ ਵਾਲੀ ਹੈ।",
-              "additional_information": {
-                "arth": "ਅਨੂਪ = ਜਿਸ ਵਰਗੀ ਹੋਰ ਕੋਈ ਨ ਹੋਵੇ, ਅਤਿ ਸੁੰਦਰ। ਲਾਭਾਇਆ = ਲਾਹੇਵੰਦੀ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "vine a adquirir muchas cosas en este mundo,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "EQP2",
-        "source_page": 372,
-        "source_line": 1,
-        "gurmukhi": "gux rwis; bMin@ plY AwnI ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have gathered in my pockets my capital of virtue, and I have brought it here with me.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Having tied the capital of virtues in my skirt, I have brought it with me.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਨੇਕੀਆਂ ਦੀ ਪੂੰਜੀ ਆਪਣੇ ਲੜ ਬਣ ਕੇ ਮੈਂ ਆਪਣੇ ਨਾਲ ਲਿਆਇਆ ਹਾਂ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਅਰ ਚਤੁਸ੍ਟ੍ਯ ਸਾਧਨ ਰੂਪ ਗੁਣੋਂ ਕੀ ਰਾਸ ਪਲੇ ਮੇਂ ਬਾਂਧ ਕਰ ਲ੍ਯਾਯਾ ਹੂੰ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਗੁਰੂ! ਮੈਂ ਗੁਣਾਂ ਦਾ ਸਰਮਾਇਆ ਪੱਲੇ ਬੰਨ੍ਹ ਕੇ ਲਿਆਂਦਾ ਹੈ,",
-              "additional_information": {
-                "arth": "ਬੰਨ੍ਹ੍ਹਿ = ਬੰਨ੍ਹ ਕੇ। ਪਲੈ = ਪੱਲੈ, ਪੱਲੇ ਵਿਚ। ਆਨੀ = ਲਿਆਂਦੀ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "y escuchando aquí que podría comprar algo de Belleza Incomparable,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "R000",
-        "source_page": 372,
-        "source_line": 1,
-        "gurmukhi": "dyiK rqnu; iehu mnu lptwnI ]1]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Beholding the jewel, this mind is fascinated. ||1||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Seeing the jewel of Thy Name this mind of mine is fascinated.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਨਾਮ ਦੇ ਹੀਰੇ ਨੂੰ ਵੇਖ ਕੇ ਮੇਰਾ ਇਹ ਚਿੱਤ ਫਰੇਫਤਾ ਹੋ ਗਿਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਆਪ ਕੇ ਪਾਸ ਜੋ ਨਾਮ ਰਤਨ ਹੈ ਤਿਸ ਕੋ ਦੇਖ ਕਰ ਮਨ ਕੀ ਬ੍ਰਿਤੀ ਉਸ ਮੇਂ (ਲਪਟਾਨੀ) ਖਚਤ ਹੋ ਰਹੀ ਹੈ॥੧॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਰਤਨ ਵੇਖ ਕੇ ਮੇਰਾ ਇਹ ਮਨ (ਇਸ ਨੂੰ ਖਰੀਦਣ ਵਾਸਤੇ) ਰੀਝ ਪਿਆ ਹੈ ॥੧॥",
-              "additional_information": {
-                "arth": "ਦੇਖਿ = ਵੇਖ ਕੇ। ਲਪਟਾਨੀ = ਰੀਝ ਪਿਆ ॥੧॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "puse en mi bolsa el Capital del Verdadero Mérito, y observando la Joya del Naam, el Nombre del Señor, mi mente se cautivó. (1)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "5AZA",
-        "source_page": 372,
-        "source_line": 2,
-        "gurmukhi": "swh vwpwrI; duAwrY Awey ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Rahao",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have come to the door of the Trader.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "O Banker! the dealer has come to thy door.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਹੇ ਸ਼ਾਹੂਕਾਰ! ਵਣਜਾਰਾ ਤੇਰੇ ਬੂਹੇ ਤੇ ਆਇਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਹੇ ਸਾਹੁ ਸਤਗੁਰੂ ਸੰਤੋ! ਜਗ੍ਯਾਸੀ ਬਾਪਾਰੀ ਆਪ ਕੇ ਦ੍ਵਾਰੇ ਆਏ ਹੈਂ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਸ਼ਾਹ! ਹੇ ਸਤਿਗੁਰੂ! ਤੇਰੇ ਦਰ ਤੇ (ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਵਾਲੇ) ਜੀਵ-ਵਪਾਰੀ ਆਏ ਹਨ।",
-              "additional_information": {
-                "arth": "ਸਾਹ = ਹੇ ਸ਼ਾਹ! ਹੇ ਗੁਰੂ! ਦੁਆਰੈ = ਦੁਆਰੇ ਤੇ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Llegué yo, el buscador, hasta la puerta del joyero diciendo,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "LAG8",
-        "source_page": 372,
-        "source_line": 2,
-        "gurmukhi": "vKru kwFhu; saudw krwey ]1] rhwau ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Rahao",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Please display the merchandise, so that the business may be transacted. ||1||Pause||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Show the goods, that transaction may be effected. Pause.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮਾਲ ਵਿਖਾਲੋ, ਤਾਂ ਜੋ ਸੌਦਾ ਕਰਾਇਆ ਜਾਵੇ। ਠਹਿਰਾਉ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "(ਵਖਰੁ) ਵਸਤੁ ਨਿਕਾਲੀਏ ਹਮ ਸੌਦਾ ਕਰਨ ਆਏ ਹੈਂ॥੧॥ ਰਹਾਉ ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਤੂੰ ਆਪਣੇ ਖ਼ਜ਼ਾਨੇ ਵਿਚੋਂ ਨਾਮ ਦਾ) ਸੌਦਾ ਕੱਢ ਕੇ ਇਹਨਾਂ ਨੂੰ ਸੌਦਾ ਕਰਨ ਦੀ ਜਾਚ ਸਿਖਾ ॥੧॥ ਰਹਾਉ ॥",
-              "additional_information": {
-                "arth": "ਕਰਾਏ = ਕਰਾਇ ॥੧॥ ਰਹਾਉ ॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "muéstrame lo que tienes, oh querido, para que pueda comprar. (1-Pausa)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "L2DC",
-        "source_page": 372,
-        "source_line": 2,
-        "gurmukhi": "swih pTwieAw; swhY pwis ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "The Trader has sent me to the Banker.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "The sovereign Lord has sent me to the banker Guru.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਪਾਤਸ਼ਾਹ ਪਰਮੇਸ਼ਵਰ ਨੇ ਮੈਨੂੰ ਗੁਰੂ-ਸ਼ਾਹੂਕਾਰ ਕੋਲ ਘੱਲਿਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "(ਸਾਹਿ) ਹੇ ਸਤਿਗੁਰ! ਸਾਹ ਬ੍ਰਹਮ ਨਿਸ੍ਟ ਸੰਤ ਨੇ ਆਪ ਕੇ ਪਾਸ ਭੇਜਾ ਹੂੰ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ-ਸ਼ਾਹ ਨੇ ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਪਾਸ ਭੇਜਿਆ।",
-              "additional_information": {
-                "arth": "ਸਾਹਿ = ਸ਼ਾਹ ਨੇ, ਪਰਮਾਤਮਾ ਨੇ। ਪਠਾਇਆ = ਭੇਜਿਆ। ਸਾਹੈ ਪਾਸਿ = ਸ਼ਾਹ ਦੇ ਕੋਲ, ਗੁਰੂ ਕੋਲ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Entonces el joyero me llevó hasta su Señor,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "4KGJ",
-        "source_page": 372,
-        "source_line": 3,
-        "gurmukhi": "Amol rqn; Amolw rwis ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "The jewel is priceless, and the capital is priceless.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Invaluable is Name jewel and invaluable the capital of merits.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਅਮੋਲਕ ਹੈ ਨਾਮ ਦਾ ਜਵੇਹਰ ਅਤੇ ਅਮੋਲਕ ਹੈ ਗੁਣਾਂ ਦੀ ਰਾਸਪੂੰਜੀ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਆਪ ਕੇ ਪਾਸ ਅਮੋਲਕ ਨਾਮ ਰਤਨ ਹੈ ਔਰ ਮੇਰੇ ਪਾਸ ਅਮੋਲਕ ਸਾਧਨ ਰਾਸਿ ਹੈ। ਇਤਨੀ ਬੇਨਤੀ ਸੁਨ ਕਰ ਸਤਗੁਰੋਂ ਨੇ ਸਾਧਨ ਸੰਪੰਨ ਜਗ੍ਯਾਸੂ ਕੋ ਨਾਮ ਰਤਨ ਕਾ ਸੌਦਾ ਕਰਾਇਆ, ਭਾਵ ਯਹ ਕਿ ਉਪਦੇਸ਼ ਕੀਆ॥☬ਤਬ ਕ੍ਰਿਤ ਕ੍ਰਿਤ ਹੋ ਕਰ ਕਹਤਾ ਹੈ:",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਗੁਰੂ ਦੇ ਦਰ ਤੋਂ ਮੈਨੂੰ ਉਹ) ਰਤਨ ਮਿਲ ਪਿਆ ਹੈ ਉਹ ਸਰਮਾਇਆ ਮਿਲ ਪਿਆ ਹੈ, ਦੁਨੀਆ ਵਿਚ ਜਿਸ ਦੇ ਬਰਾਬਰ ਦੀ ਕੀਮਤ ਦਾ ਕੋਈ ਪਦਾਰਥ ਨਹੀਂ ਹੈ।",
-              "additional_information": {
-                "arth": "ਅਮੋਲ = ਜਿਸ ਦੇ ਵੱਟੇ ਵਿਚ ਕੋਈ ਚੀਜ਼ ਬਰਾਬਰ ਦੇ ਮੁੱਲ ਦੀ ਨਾਹ ਹੋਵੇ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "el Rey, que tenía la Joya Invaluable y la trajo.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "ESD3",
-        "source_page": 372,
-        "source_line": 3,
-        "gurmukhi": "ivstu suBweI; pwieAw mIq ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "O my gentle brother, mediator and friend",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Through the Guru, my gentle brother, friend and intercessor,",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਆਪਣੇ ਸੁਸ਼ੀਲ ਵੀਰ, ਮਿੱਤਰ ਅਤੇ ਵਚੋਲੇ ਗੁਰਾਂ ਦੇ ਰਾਹੀਂ,",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਜਬ ਮਿਤ੍ਰ (ਵਿਸਟੁ) ਵਕੀਲ ਸਤਗੁਰੂ (ਸੁਭਾਈ) ਸੋਭਾਇਮਾਨ ਪਾਯਾ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਪਰਮਾਤਮਾ ਦੀ ਮੇਹਰ ਨਾਲ ਮੈਨੂੰ) ਪਿਆਰ-ਭਰੇ ਹਿਰਦੇ ਵਾਲਾ ਵਿਚੋਲਾ ਮਿੱਤਰ ਮਿਲ ਪਿਆ ਹੈ,",
-              "additional_information": {
-                "arth": "ਵਿਸਟੁ = ਵਕੀਲ, ਵਿਚੋਲਾ। ਸੁਭਾਈ = ਪ੍ਰੇਮ ਕਰਨ ਵਾਲਾ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Y así, mediante mi gentil hermano, mi amigo,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "EMP8",
-        "source_page": 372,
-        "source_line": 3,
-        "gurmukhi": "saudw imilAw; inhcl cIq ]2]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "- I have obtained the merchandise, and my consciousness is now steady and stable. ||2||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "I have received the goods and my mind is rendered stable.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮੈਨੂੰ ਵਖਰ ਮਿਲ ਗਿਆ ਹੈ ਅਤੇ ਮੇਰਾ ਮਨ ਅਸਥਿਰ ਹੋ ਗਿਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਤਬ ਨਾਮ ਕਾ ਸੌਦਾ ਪ੍ਰਾਪਤਿ ਹੂਆ ਔਰ ਚਿਤ ਇਸਥਿਤ ਹੋ ਗਿਆ॥੨॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਉਸ ਪਾਸੋਂ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੌਦਾ ਲੱਭਾ ਹੈ ਤੇ ਮੇਰਾ ਮਨ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਵਲ ਡੋਲਣੋਂ ਹਟ ਗਿਆ ਹੈ ॥੨॥",
-              "additional_information": {
-                "arth": "ਨਿਹਚਲ = ਅਡੋਲ ॥੨॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "mi intercesor, recibí el Bien y mi mente se volvió íntegra. (2)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "LTXA",
-        "source_page": 372,
-        "source_line": 4,
-        "gurmukhi": "Bau nhI qskr; paux n pwnI ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have no fear of thieves, of wind or water.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "I have no fear of thieves of wind or of water.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮੈਨੂੰ ਕੋਈ ਡਰ ਚੋਰਾਂ ਦਾ ਹਵਾ ਦਾ ਜਾਂ ਪਾਣੀ ਦਾ ਨਹੀਂ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਇਸ ਨਾਮ ਰਤਨ ਕੋ ਨ ਤੋ ਚੋਰ ਕਾ ਭ੍ਯ ਹੈ, ਨ ਪਉਣ ਪਾਣੀ ਕਾ ਭ੍ਯ ਹੈ; ਭਾਵ ਯਹ ਕਿ ਨ ਚੋਰ ਚੁਰਾਇ ਸਕਤਾ ਹੈ, ਨ ਪਉਨ ਸੁਕਾਇ ਸਕਤੀ ਹੈ, ਨ ਪਾਨੀ ਗਲਾਇ ਸਕਤਾ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਹੇ ਭਾਈ! ਇਸ ਰਤਨ ਨੂੰ ਇਸ ਸਰਮਾਏ ਨੂੰ) ਚੋਰਾਂ ਤੋਂ ਖ਼ਤਰਾ ਨਹੀਂ, ਹਵਾ ਤੋਂ ਡਰ ਨਹੀਂ, ਪਾਣੀ ਤੋਂ ਡਰ ਨਹੀਂ (ਨਾਹ ਚੋਰ ਚੁਰਾ ਸਕਦੇ ਹਨ ਨਾਹ ਝੱਖੜ ਉਡਾ ਸਕਦੇ ਹਨ ਨਾਹ ਪਾਣੀ ਡੋਬ ਸਕਦਾ ਹੈ)।",
-              "additional_information": {
-                "arth": "ਤਸਕਰ = ਚੋਰ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Con este Bien Invaluable no existe el miedo a los ladrones, ni a los mares,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "7PV4",
-        "source_page": 372,
-        "source_line": 4,
-        "gurmukhi": "shij ivhwJI; shij lY jwnI ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have easily made my purchase, and I easily take it away.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Quietly have I purchased and quietly do I take away the merchandise of Name.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਸਹਿਜੇ ਹੀ ਮੈਂ ਨਾਮ ਦਾ ਸੌਦਾ ਖਰੀਦ ਕੀਤਾ ਹੈ ਅਤੇ ਚੁਪ ਚੁਪੀਤੇ ਹੀ ਮੈਂ ਇਹ ਸੌਦਾ ਸੂਤ ਲਈ ਜਾਂਦਾ ਹਾਂ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਵਹੁ ਨਾਮ ਰਤਨ ਵਸਤ (ਸਹਜਿ) ਸਾਂਤੀ ਧਾਰ ਕਰ (ਵਿਹਾਝੀ) ਖਰੀਦੀ ਗਈ ਹੈ ਔਰ ਸਾਂਤੀ ਧਾਰ ਕਰ ਲੇ ਜਾਤੇ ਹੈਂ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਆਤਮਕ ਅਡੋਲਤਾ ਦੀ ਬਰਕਤਿ ਨਾਲ ਇਹ ਰਤਨ ਮੈਂ (ਗੁਰੂ ਪਾਸੋਂ) ਖਰੀਦਿਆ ਹੈ, ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕਿਆ ਰਹਿ ਕੇ ਇਹ ਰਤਨ ਮੈਂ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਵਾਂਗਾ।",
-              "additional_information": {
-                "arth": "ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "o a los vientos; esta Joya fue comprada en el Equilibrio y es transportada en el mismo Estado.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "20B9",
-        "source_page": 372,
-        "source_line": 4,
-        "gurmukhi": "sq kY KitAY; duKu nhI pwieAw ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have earned Truth, and I shall have no pain.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "The True Name, I have earned, and so shall have no pain.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਸੱਚਾ ਨਾਮ ਮੈਂ ਕਮਾਇਆ ਹੈ ਅਤੇ ਇਸ ਲਈ ਦੁੱਖ ਨਹੀਂ ਪਾਵਾਂਗਾ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਇਸ ਸਤ ਨਾਮ ਕੇ ਕਮਾਉਨੇ ਮੇਂ ਕਿਸੀ ਪ੍ਰਕਾਰ ਕਾ ਦੁਖ ਨਹੀਂ ਪ੍ਰਾਪਤ ਹੂਆ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਈਮਾਨਦਾਰੀ ਨਾਲ ਖੱਟਣ ਕਰਕੇ ਇਹ ਰਤਨ ਹਾਸਲ ਕਰਨ ਵਿਚ ਮੈਨੂੰ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਸਹਾਰਨਾ ਪਿਆ,",
-              "additional_information": {
-                "arth": "ਸਤ ਕੈ ਖਟਿਐ = ਈਮਾਨਦਾਰੀ ਨਾਲ ਕਮਾਇਆਂ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Sí, comprada con Verdad, no trajo ningún dolor,",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "6WHU",
-        "source_page": 372,
-        "source_line": 5,
-        "gurmukhi": "shI slwmiq; Gir lY AwieAw ]3]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have brought this merchandise home, safe and sound. ||3||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "I have brought home this merchandise safe and sound.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਐਨ ਠੀਕ ਤੇ ਦਰੁਸਤ ਤੌਰ ਤੇ ਮੈਂ ਆਪਣਾ ਸੌਦਾ ਸੂਤ ਘਰ ਲੈ ਆਂਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "(ਸਹੀ ਸਲਾਮਤਿ) ਸੁਖ ਚੈਨ ਕੇ ਸਾਥ ਨਿਰਬਿਘਨ ਨਾਮ ਰਤਨ ਅਪਨੇ (ਘਰਿ) ਹ੍ਰਿਦੇ ਮੇਂ ਲੇ ਆਯਾ ਅਰਥਾਤ ਪ੍ਰਾਪਤਿ ਹੂਆ॥੩॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਤੇ ਇਹ ਨਾਮ-ਸੌਦਾ ਮੈਂ ਸਹੀ ਸਲਾਮਤਿ ਸਾਂਭ ਕੇ ਆਪਣੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਲੈ ਆਂਦਾ ਹੈ ॥੩॥",
-              "additional_information": {
-                "arth": "ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ ॥੩॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "y la transporté a salvo hasta el interior de mi más íntimo hogar. (3)",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "K48E",
-        "source_page": 372,
-        "source_line": 5,
-        "gurmukhi": "imilAw lwhw; Bey Anµd ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "I have earned the profit, and I am happy.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "I have made the profit (of Name) and I am happy.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮੈਂ ਨਾਮ-ਨਫਾ ਖੱਟਿਆ ਹੈ ਅਤੇ ਖੁਸ਼ ਹਾਂ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਤਿਸ ਮੇਂ ਲਾਭ ਯਹ ਮਿਲਾ ਕਿ ਅਨੰਦ ਸ੍ਵਰੂਪ ਹੋ ਗਏ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਮੇਹਰ ਨਾਲ ਮੈਨੂੰ ਤੇਰੇ ਨਾਮ ਦਾ) ਲਾਭ ਮਿਲਿਆ ਹੈ ਤੇ ਮੇਰੇ ਅੰਦਰ ਆਨੰਦ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ।",
-              "additional_information": {
-                "arth": "ਲਾਹਾ = ਲਾਭ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Recibí entonces la utilidad, y el Éxtasis",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "A2D3",
-        "source_page": 372,
-        "source_line": 5,
-        "gurmukhi": "DMnu swh; pUry bKisMd ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Blessed is the Banker, the Perfect Bestower.",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Blessed is the Guru banker, the perfect bestower.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਮੁਬਾਰਕ ਹੈ ਪੂਰਨ ਦਾਨੀ, ਗੁਰੂ ਸ਼ਾਹੁਕਾਰ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਸਾਹ ਪੂਰੇ ਬਖਸਿੰਦ ਸਤਿਗੁਰੂ ਜਿਨਾਂ ਕੀ ਕ੍ਰਿਪਾ ਸੇ ਯਹ ਲਾਭ ਮਿਲਾ ਹੈ, ਸੋ ਧੰਨ੍ਯ ਹੈਂ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਪੂਰੀਆਂ ਬਖ਼ਸ਼ਸ਼ਾਂ ਕਰਨ ਵਾਲੇ ਸ਼ਾਹ-ਪ੍ਰਭੂ! ਮੈਂ ਤੈਨੂੰ ਹੀ ਸਲਾਹੁੰਦਾ ਹਾਂ।",
-              "additional_information": {
-                "arth": "ਧੰਨੁ = ਸਲਾਹਣ-ਯੋਗ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Eterno me fue revelado. Oh, Bendito es mi Príncipe Mercader;",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "GQHB",
-        "source_page": 372,
-        "source_line": 6,
-        "gurmukhi": "iehu saudw; gurmuiK iknY ivrlY pwieAw ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "How rare is the Gurmukh who obtains this merchandise;",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Rare is the person, who through the Guru, receives this commodity.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਕੋਈ ਟਾਵਾਂ ਟੱਲਾ ਹੀ ਗੁਰੂ ਦੇ ਰਾਹੀਂ, ਇਸ ਵੱਖਰ ਨੂੰ ਹਾਸਲ ਕਰਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਇਹੁ ਨਾਮ ਰਤਨ ਕਾ ਸਉਦਾ ਕਿਸੀ ਬਿਰਲੇ ਗੁਰਮੁਖਿ ਨੇ ਪਾਇਆ ਹੈ, ਭਾਵ ਯਹ ਕਿ ਅਤ੍ਯੰਤ ਦੁਰਲਭ ਹੈ॥",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਹੇ ਭਾਈ! ਕਿਸੇ ਵਿਰਲੇ ਭਾਗਾਂ ਵਾਲੇ ਨੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ (ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ) ਸੌਦਾ ਪ੍ਰਾਪਤ ਕੀਤਾ ਹੈ।",
-              "additional_information": {
-                "arth": "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ।",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Perfectamente Benévolo es Él.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "EMYJ",
-        "source_page": 372,
-        "source_line": 6,
-        "gurmukhi": "shlI Kyp; nwnku. lY AwieAw ]4]6]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "Nanak has brought this profitable merchandise home. ||4||6||",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "Profitable merchandise, Nanak has brought home.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਨਫੇ ਵੰਦਾ ਸੌਦਾ ਸੂਤ ਨਾਨਕ ਘਰ ਲੈ ਆਇਆ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "ਸੋਈ (ਸਹਲੀ ਖੇਪ) ਸਸਤੀ ਵਾ ਸੁਖਦਾਈ ਖੇਪ ਸਤਗੁਰੋਂ ਕੀ ਕ੍ਰਿਪਾ ਸੇ, ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਅਪਨੇ ਘਰ ਲੇ ਆਇਆ ਹੈ॥੪॥੬॥☬ਜੇ ਕਹੈ ਐਸੀ ਸਸਤੀ ਖੇਪ ਤੁਮ ਕੋ ਕਿਸ ਸਾਧਨ ਸੇ ਮਿਲ ਗਈ ਹੈ? ਸੋਈ ਕਹਤੇ ਹੈਂ:",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "(ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹੀ) ਨਾਨਕ ਭੀ ਇਹ ਲਾਹੇਵੰਦਾ ਸੌਦਾ ਖੱਟ ਸਕਿਆ ਹੈ ॥੪॥੬॥",
-              "additional_information": {
-                "arth": "ਸਹਲੀ = ਸਫਲੀ। ਖੇਪ = ਸੌਦਾ ॥੪॥੬॥",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Dice Nanak, escasas son las Almas despiertas en Dios que adquieren esta Mercancía, y al adquirirla, la traen a su hogar. (4‑6)",
               "additional_information": {}
             }
           }

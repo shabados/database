@@ -1661,7 +1661,7 @@
         "id": "CGUS",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "<> siqgur pRswid ]",
+        "gurmukhi": "<> sRI vwihgurU jI kI Pqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Manglacharan",
@@ -1681,56 +1681,10 @@
         }
       },
       {
-        "id": "03ZZ",
-        "source_page": 155,
-        "source_line": null,
-        "gurmukhi": "sRI BgauqI jI shwie ]",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸ੍ਰੀ ਭਗਉਤੀ ਜੀ ਸਹਾਇ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "0TBN",
-        "source_page": 155,
-        "source_line": null,
-        "gurmukhi": "AQ caubIs Aauqwr kQnµ ]",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "VISNU’S TWENTY-FOUR INCARNATIONS.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਹੁਣ ਚੌਬੀਸ ਅਉਤਾਰ ਦਾ ਕਥਨ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
         "id": "RUXR",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "pwiqswhI 10 ]",
+        "gurmukhi": "pwqswhI 10 ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Sirlekh",
@@ -1750,23 +1704,46 @@
         }
       },
       {
-        "id": "N2GX",
+        "id": "0TBN",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "qÍpRswid ] cOpeI ]",
+        "gurmukhi": "AQ cObIs Aauqwr ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Sirlekh",
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "BY THY GRACE CHAUPAI",
+              "translation": "VISNU’S TWENTY-FOUR INCARNATIONS.",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ: ਚੌਪਈ:",
+              "translation": "ਹੁਣ ਚੌਬੀਸ ਅਉਤਾਰ ਦਾ ਕਥਨ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N2GX",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -1776,7 +1753,7 @@
         "id": "VXHK",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "Ab caubIs aucrO Avqwrw ]",
+        "gurmukhi": "Ab caubIs aucroN Avqwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1799,7 +1776,7 @@
         "id": "QKY1",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "ijh ibiD iqn kw lKw AKwrw ]",
+        "gurmukhi": "ij`h ibD iqn kw lKw AKwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1822,7 +1799,7 @@
         "id": "PA16",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "sunIAhu sMq, sbY icq lweI ]",
+        "gurmukhi": "sunIïhu sMq, sbY icq lweI ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1845,7 +1822,7 @@
         "id": "NMQJ",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "brnq sÎwm jQwmiq BweI ]1]",
+        "gurmukhi": "brnq sïwm jQw mq BweI ]1]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1865,10 +1842,33 @@
         }
       },
       {
+        "id": "A7TD",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "WUA6",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "jb jb hoiq Airsit Apwrw ]",
+        "gurmukhi": "jb jb hoq Airsit Apwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1914,7 +1914,7 @@
         "id": "07ZQ",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "kwl sbn ko pyiK qmwsw ]",
+        "gurmukhi": "kwl sbn ko pyK qmwsw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1937,7 +1937,7 @@
         "id": "CZG3",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "AMqhkwl krq hY nwsw ]2]",
+        "gurmukhi": "AMqh kwl krq hY nwsw ]2]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1951,6 +1951,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਓੜਕ ਓਹੀ (ਸਭ ਦਾ) ਨਾਸ਼ ਕਰਦਾ ਹੈ ॥੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "CGE5",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -1983,7 +2006,7 @@
         "id": "TZHD",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "AMq kwil soeI Kwpinhwrw ]",
+        "gurmukhi": "AMq kwl soeI Kwpn hwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2029,7 +2052,7 @@
         "id": "A5B8",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "Awpih miD lIn puin krhI ]3]",
+        "gurmukhi": "Awpih mD lIn pun krhI ]3]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2043,6 +2066,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਫਿਰ ਆਪਣੇ ਵਿਚ ਹੀ (ਸਭ ਨੂੰ) ਲੀਨ ਕਰ ਲੈਂਦਾ ਹੈ ॥੩॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0285",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -2075,7 +2121,7 @@
         "id": "GF41",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "ijn mih rimAw rwmu hmwrw ]",
+        "gurmukhi": "ijn mih rimïw rwm hmwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2098,7 +2144,7 @@
         "id": "TB2K",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "Anq cqurds gin Avqwru ]",
+        "gurmukhi": "Anq cqur ds gn AvqwrU ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2121,7 +2167,7 @@
         "id": "47HA",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "kho ju iqn iqn kIey AKwru ]4]",
+        "gurmukhi": "kho ju iqn iqn kIey AKwrU ]4]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2135,6 +2181,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਕੀ ਕੀ ਲੀਲਾ ਕੀਤੀ (ਉਸ ਦਾ) ਕਥਨ ਕਰਦਾ ਹਾਂ ॥੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "M4L7",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -2167,7 +2236,7 @@
         "id": "EJCW",
         "source_page": 155,
         "source_line": null,
-        "gurmukhi": "Avrn ky isir dy buirAweI ]",
+        "gurmukhi": "Avrn ky isir dY buirAweI ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2213,7 +2282,7 @@
         "id": "ZDFW",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "jwn ley jw nwmY qb qy ]5]",
+        "gurmukhi": "jwn ley jwnw mY qbqy ]5]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2227,6 +2296,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਮੈਂ) ਉਦੋਂ ਤੋਂ ਹੀ (ਇਹ ਸਭ ਕੁਝ) ਜਾਣ ਲਿਆ, ਜਦੋਂ ਤੋਂ (ਇਨ੍ਹਾਂ ਦਾ) ਨਾਮ ਧਰਿਆ ਗਿਆ ॥੫॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "0EQZ",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -2259,7 +2351,7 @@
         "id": "U2AS",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "Avrn ky dy mUMif hqwey ]",
+        "gurmukhi": "Avrn kY dY mUMf hqwey ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2282,7 +2374,7 @@
         "id": "2R58",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "Awp inrwlm rhw n pwXw ]",
+        "gurmukhi": "Awp inrwlmu rhw n pwïw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2305,7 +2397,7 @@
         "id": "NEZV",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "qw qy nwm ibAMq khwXw ]6]",
+        "gurmukhi": "qW qy nwmu ibAMq khwïw ]6]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2319,6 +2411,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸੇ ਕਰਕੇ (ਉਸ ਨੂੰ) 'ਬੇਅੰਤ' ਕਿਹਾ ਜਾਂਦਾ ਹੈ ॥੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "RFSP",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -2351,7 +2466,7 @@
         "id": "DQ6S",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "iqn BI qum pRB, qink n pwey ]",
+        "gurmukhi": "iqn BI qum pRB, qnk n pwey ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2374,7 +2489,7 @@
         "id": "BKKM",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "sB hI jg Brmy BvrwXM ]",
+        "gurmukhi": "sB hI jg Brmy BvrwïM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2397,7 +2512,7 @@
         "id": "5ZEF",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "qw qy nwm ibAMq khwXM ]7]",
+        "gurmukhi": "qw qy nwmu ibAMq khwïM ]7]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2417,10 +2532,33 @@
         }
       },
       {
+        "id": "REQ5",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "ZHC5",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "sB hI Clq, n Awp ClwXw ]",
+        "gurmukhi": "sB hI Clq, n Awp Clwïw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2466,7 +2604,7 @@
         "id": "HD25",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "sMqn duKI inriK AkulwvY ]",
+        "gurmukhi": "sMqn duKI inrK AkulwvY ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2509,10 +2647,33 @@
         }
       },
       {
+        "id": "KBQ2",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "B5VK",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "AMiq krq sB jg ko kwlw ]",
+        "gurmukhi": "AMq krq sB jg kO kwlw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2581,7 +2742,7 @@
         "id": "LMDX",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "qw qy sMKÎw sMq sunweI ]9]",
+        "gurmukhi": "qw qy sMKïw sMq sunweI ]9]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2601,10 +2762,33 @@
         }
       },
       {
+        "id": "F1NR",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "DBQB",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "inriK dIn pr hoq idAwrw ]",
+        "gurmukhi": "inrK dIn pr hoq idAwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2627,7 +2811,7 @@
         "id": "5AEC",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "dIn bMDu hm qbY ibcwrw ]",
+        "gurmukhi": "dIn bMD hm qbY ibcwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2673,7 +2857,7 @@
         "id": "XQES",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "kruxwiniD jg qbY aucreI ]10]",
+        "gurmukhi": "kruxw iniD jg qbY aucreI ]10]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2687,6 +2871,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸੇ ਲਈ ਜਗਤ ਤੈਨੂੰ 'ਕਰੁਣਾਨਿਧੀ' ਉਚਾਰਦਾ ਹੈ ॥੧੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "8S6F",
+        "source_page": 156,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -2719,7 +2926,7 @@
         "id": "BNWJ",
         "source_page": 156,
         "source_line": null,
-        "gurmukhi": "sMkt hrn nwmu BXo qdw ]",
+        "gurmukhi": "sMkt hrn nwmu Bïo qdw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2742,7 +2949,7 @@
         "id": "3G74",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "duK dwhq sMqn ky AwXo ]",
+        "gurmukhi": "duK dwhq sMqn ky Awïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2765,7 +2972,7 @@
         "id": "VUA0",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "duKdwhn pRB qidn khwXo ]11]",
+        "gurmukhi": "duK dwhn pRB qidn khwïo ]11]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2785,10 +2992,33 @@
         }
       },
       {
+        "id": "NRN0",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "Q0VV",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "rhw Anµq AMq nhI pwXo ]",
+        "gurmukhi": "rhw Anµq AMq nhI pwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2811,7 +3041,7 @@
         "id": "WSHM",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "Xw qy nwmu ibAMq khwXo ]",
+        "gurmukhi": "Xw qy nwmu ibAMq khwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2834,7 +3064,7 @@
         "id": "VQ3U",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "jg mo rUp sBn kY Drqw ]",
+        "gurmukhi": "jg mo rUp sBn ky Drqw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2857,7 +3087,7 @@
         "id": "3FH0",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "Xw qy nwmu bKnIXq krqw ]12]",
+        "gurmukhi": "Xw qy nwmu bKwnIXq krqw ]12]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2877,10 +3107,33 @@
         }
       },
       {
+        "id": "4RZX",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "53PW",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "iknhUM khUM n qwih lKwXo ]",
+        "gurmukhi": "iknhUM khUM n qwih lKwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2903,7 +3156,7 @@
         "id": "UC5Z",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "ieh kir nwm AlK khwXo ]",
+        "gurmukhi": "ieh kr nwmu AlK khwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2926,7 +3179,7 @@
         "id": "42PC",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "join jgq mY kbhUM n AwXw ]",
+        "gurmukhi": "jon jgq mY kbhUM n Awïw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2949,7 +3202,7 @@
         "id": "PS7L",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "Xw qy sBo Ajon bqwXw ]13]",
+        "gurmukhi": "Xw qy sBO Ajon bqwïw ]13]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2969,10 +3222,33 @@
         }
       },
       {
+        "id": "QESS",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "F53K",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "bRhmwidk sb hI pic hwry ]",
+        "gurmukhi": "bRhmwdk sb hI pchwry ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -2995,7 +3271,7 @@
         "id": "53GH",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "ibsn mhysvr kaun ibcwry ]",
+        "gurmukhi": "ibsn mhysÍür kaun ibcwry ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3018,7 +3294,7 @@
         "id": "SUNV",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "cMd sUr ijin kry ibcwrw ]",
+        "gurmukhi": "cMd sUr ijn kry ibcwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3041,7 +3317,7 @@
         "id": "T0GM",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "qw qy jnIXq hY krqwrw ]14]",
+        "gurmukhi": "qw qy jwnIXq hY krqwrw ]14]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3055,6 +3331,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਇਸ ਲਈ (ਉਸ ਨੂੰ) 'ਕਰਤਾਰ' ਕਰ ਕੇ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ ॥੧੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "YLPM",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "caupeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3153,6 +3452,29 @@
         }
       },
       {
+        "id": "UMKP",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UWP7",
         "source_page": 157,
         "source_line": null,
@@ -3225,7 +3547,7 @@
         "id": "FQVX",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "jwn lXo krqw hm qb qy ]16]",
+        "gurmukhi": "jwn lïo krqw hm qb qy ]16]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3239,6 +3561,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਤਦੋਂ ਤੋਂ ਅਸੀਂ (ਤੈਨੂੰ) 'ਕਰਤਾ' ਜਾਣ ਲਿਆ ਹੈ ॥੧੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BWRH",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3294,7 +3639,7 @@
         "id": "RBCX",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "jMqR mMqR qMqR n irJwXw ]",
+        "gurmukhi": "jMqR mMqR qMqR n irJwïw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3317,7 +3662,7 @@
         "id": "WLS2",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "ByK krq iknhUM nih pwXw ]17]",
+        "gurmukhi": "ByK krq iknhUM nih pwïw ]17]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3331,6 +3676,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਭੇਖ ਕਰਨ ਵਾਲੇ ਕਿਸੇ ਨੇ ਵੀ (ਤੈਨੂੰ) ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ ॥੧੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "S4LX",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3363,7 +3731,7 @@
         "id": "LSW8",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "pwrbRhm kwhUM n pCwnw ]",
+        "gurmukhi": "pwrbRhm kwhU n pCwnw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3386,7 +3754,7 @@
         "id": "UEMW",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "iek mVIAn kbrn vy jwhI ]",
+        "gurmukhi": "iek mVIAn kbrn vy jWhI ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3409,7 +3777,7 @@
         "id": "9NTQ",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "duhUMAn mY prmysr nwhI ]18]",
+        "gurmukhi": "duhUMAn mY prmysÍr nwhI ]18]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3423,6 +3791,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਪਰ ਇਨ੍ਹਾਂ ਦੋਹੀਂ (ਥਾਈਂ) ਪਰਮੇਸ਼ਵਰ ਨਹੀਂ ਹੈ ॥੧੮॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "PQRA",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3455,7 +3846,7 @@
         "id": "0NKV",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "iqn qy nwQ inrwly bcy ]",
+        "gurmukhi": "ien qy nwQ inrwly bcy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3501,7 +3892,7 @@
         "id": "0YTU",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "iqh AwgY ihMdU ikAw qurkw ]19]",
+        "gurmukhi": "iqh` AwgY ihMdU ikAw qurkw ]19]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3515,6 +3906,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਲਈ ਨਾ ਕੋਈ ਹਿੰਦੂ ਹੈ ਅਤੇ ਨਾ ਹੀ ਤੁਰਕ ॥੧੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BYLN",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3570,7 +3984,7 @@
         "id": "2BL0",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "krq ibruD gey mir mUVw ]",
+        "gurmukhi": "krq ibru`D gey mr mUVw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3607,6 +4021,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਇਨ੍ਹਾਂ ਵਿਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ) ਪ੍ਰਭੂ ਦੇ (ਪ੍ਰੇਮ ਦਾ) ਗੂੜ੍ਹਾ ਰੰਗ ਨਹੀਂ ਚੜ੍ਹਿਆ ॥੨੦॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "GMPT",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3662,7 +4099,7 @@
         "id": "APNG",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "Awid purK ijin eyku pCwnw ]",
+        "gurmukhi": "Awid purK ijn eyku pCwnw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3705,10 +4142,33 @@
         }
       },
       {
+        "id": "MZ1M",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "DRLK",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "jo jo Bwv duiqX mih rwcy ]",
+        "gurmukhi": "jo jo Bwv duqIA mih rwcy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3754,7 +4214,7 @@
         "id": "9QTF",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "eyk purK ijin nYku pCwnw ]",
+        "gurmukhi": "eyk purK ijn nYk pCwnw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3777,7 +4237,7 @@
         "id": "Y993",
         "source_page": 157,
         "source_line": null,
-        "gurmukhi": "iqn hI prm qq kh jwnw ]22]",
+        "gurmukhi": "iqnhI prm qq k`h jwnw ]22]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3791,6 +4251,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਨੇ ਹੀ ਪਰਮ-ਤਤ੍ਵ ਨੂੰ ਜਾਣ ਲਿਆ ਹੈ ॥੨੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LCKE",
+        "source_page": 157,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -3869,7 +4352,7 @@
         "id": "33X9",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "Cpq swDu ijh nwmu AwDwrw ]23]",
+        "gurmukhi": "Cpq swD ijh` nwmu ADwrw ]23]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3889,10 +4372,33 @@
         }
       },
       {
+        "id": "1ANB",
+        "source_page": 158,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "RWH6",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "pyt hyqu nr ifMBu idKwhI ]",
+        "gurmukhi": "pyt hyq nr ifMBu idKwhIN ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3915,7 +4421,7 @@
         "id": "W7EF",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "ifMB kry ibnu peIXq nwhI ]",
+        "gurmukhi": "ifMB kry ibnu peIXq nwhIN ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3938,7 +4444,7 @@
         "id": "E4FJ",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "ijn nr eyk purK kh iDAwXo ]",
+        "gurmukhi": "ijn nr eyk purK kh` iDAwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3961,7 +4467,7 @@
         "id": "3NZ6",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "iqn kir ifMB n iksI idKwXo ]24]",
+        "gurmukhi": "iqn kr ifMB n iksI idKwïo ]24]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -3975,6 +4481,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਨੇ ਪਾਖੰਡ ਕਰਕੇ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਵਿਖਾਇਆ ॥੨੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TT76",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4007,7 +4536,7 @@
         "id": "WY54",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "koaU n kwhUM sIs invwvY ]",
+        "gurmukhi": "koaU n kwhU sIs invwvY ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4030,7 +4559,7 @@
         "id": "N7RN",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "jo iehu pyt n kwhUM hoqw ]",
+        "gurmukhi": "jo iehu pyt n kwhU hoqw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4053,7 +4582,7 @@
         "id": "UAG8",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "rwv rMk kwhUM ko khqw ]25]",
+        "gurmukhi": "rwv rMk kwhU ko khqw ]25]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4073,10 +4602,33 @@
         }
       },
       {
+        "id": "8HKP",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "V8QU",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "ijn pRBu eyk vhY ThrwXo ]",
+        "gurmukhi": "ijn pRB eyk vhY Thrwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4099,7 +4651,7 @@
         "id": "5T8G",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "iqn kr ifMB n iksU idKwXo ]",
+        "gurmukhi": "iqn kr ifMB n iksU idKwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4165,10 +4717,33 @@
         }
       },
       {
+        "id": "8N2Q",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UCYC",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "kwn Cyd jogI khvwXo ]",
+        "gurmukhi": "kwn Cyd jogI khvwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4191,7 +4766,7 @@
         "id": "QNGL",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "Aiq pRpMc kr bnih isDwXo ]",
+        "gurmukhi": "Aiq pRpMc kr bnih isDwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4214,7 +4789,7 @@
         "id": "CQ9A",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "eyk nwmu ko qqu n lXo ]",
+        "gurmukhi": "eyk nwmu ko q`qu n lïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4237,7 +4812,7 @@
         "id": "0S6D",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "bn ko BXo n igRh ko BXo ]27]",
+        "gurmukhi": "bn ko Bïo n igRh ko Bïo ]27]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4257,10 +4832,33 @@
         }
       },
       {
+        "id": "H6KG",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "MHDG",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "khw lgY, kib kQY ibcwrw ]",
+        "gurmukhi": "khw lgY, kb kQY ibcwrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4349,6 +4947,29 @@
         }
       },
       {
+        "id": "PFGT",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "P84B",
         "source_page": 158,
         "source_line": null,
@@ -4375,7 +4996,7 @@
         "id": "ABUV",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "qw qy BXo qyj ibKÎwqw ]",
+        "gurmukhi": "qw qy Bïo qyj ibKïwqw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4421,7 +5042,7 @@
         "id": "QBJE",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "ijin isgrI Xh isRsit aupweI ]29]",
+        "gurmukhi": "ijn isgrI Xh isRsit aupweI ]29]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4435,6 +5056,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਜਿਸ ਨੇ ਇਸ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਉਤਪੱਤੀ ਕੀਤੀ ॥੨੯॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "UN48",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4513,7 +5157,7 @@
         "id": "GNSB",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "purKu pRik®iq jb duhU ibcwrw ]30]",
+        "gurmukhi": "purK pRik®iq jb duhU` ibcwrw ]30]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4533,10 +5177,33 @@
         }
       },
       {
+        "id": "224Z",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "UJWX",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "jgq BXo qw qy sB jnIXq ]",
+        "gurmukhi": "jgq Bïo qw qy sB jnIXq ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4559,7 +5226,7 @@
         "id": "5Z4F",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "cwr Kwin kir pRgt bKnIXq ]",
+        "gurmukhi": "cwr Kwn kr pRgt bKnIXq ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4582,7 +5249,7 @@
         "id": "PHQ2",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "skiq ieqI nhI brn sunwaU ]",
+        "gurmukhi": "skq ieqI nhI brn sunwaUN ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4605,7 +5272,7 @@
         "id": "TVX6",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "iBMn iBMn kir nwm bqwau ]31]",
+        "gurmukhi": "iBMn iBMn kr nwm bqwauN ]31]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4619,6 +5286,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਵਖਰੇ ਵਖਰੇ ਕਰਕੇ (ਸਾਰੇ) ਨਾਂਵਾਂ ਬਾਰੇ ਦਸਾਂ ॥੩੧॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "LXZU",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4651,7 +5341,7 @@
         "id": "QDRL",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "aUc nIc kir iBMn idKwey ]",
+        "gurmukhi": "aUc nIc kr iBMn idKwey ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4697,7 +5387,7 @@
         "id": "CF9U",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "Awpih rUp Drq BXo nwnw ]32]",
+        "gurmukhi": "Awph rUp Drq Bïo nwnw ]32]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4711,6 +5401,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਅਤੇ ਆਪ ਹੀ ਅਨੇਕ ਪ੍ਰਕਾਰ ਦੇ (ਸਹਾਇਕ) ਰੂਪ ਧਾਰਨ ਕੀਤੇ ॥੩੨॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "4F8G",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4766,7 +5479,7 @@
         "id": "3F0H",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "prm rUp jo eyk khwXo ]",
+        "gurmukhi": "prm rUp jo eyk khwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4789,7 +5502,7 @@
         "id": "3MLW",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "AMiq sBo iqh miD imlwXo ]33]",
+        "gurmukhi": "AMq sBo iqh m`iD imlwïo ]33]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4809,10 +5522,33 @@
         }
       },
       {
+        "id": "ABLK",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "PNYR",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "ijiqk jgiq kY jIv bKwno ]",
+        "gurmukhi": "ijiqk jgiq ky jIv bKwno ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4835,7 +5571,7 @@
         "id": "N9VW",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "eyk joiq sB hI mih jwno ]",
+        "gurmukhi": "eyk joq sB hI mih jwno ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4881,7 +5617,7 @@
         "id": "36RZ",
         "source_page": 158,
         "source_line": null,
-        "gurmukhi": "qw mih lIn jgiq sB hÍYbo ]34]",
+        "gurmukhi": "qw mY lIn jgiq sB hÍüYbo ]34]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -4895,6 +5631,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਸ ਵਿਚ ਸਾਰਾ ਜਗਤ ਲੀਨ ਹੋਵੇਗਾ ॥੩੪॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "X8ZN",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -4993,10 +5752,33 @@
         }
       },
       {
+        "id": "5RHQ",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "FBZ2",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "sB hI mih rm rihXo AlyKw ]",
+        "gurmukhi": "sB hI mih rm rihïo AlyKw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -5042,7 +5824,7 @@
         "id": "E79E",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "ijn nr eyk vhY ThrwXo ]",
+        "gurmukhi": "ijn nr eyk vhY Thrwïo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -5065,7 +5847,7 @@
         "id": "SW20",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "iqn hI prm qqu khu pwXo ]36]",
+        "gurmukhi": "qnhIN prm q`qu kh pwïo ]36]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -5079,6 +5861,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "ਉਨ੍ਹਾਂ ਨੇ ਹੀ ਪਰਮ-ਤੱਤ੍ਵ ਨੂੰ ਪਾਇਆ ਹੈ ॥੩੬॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "H7U2",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -5111,7 +5916,7 @@
         "id": "62HG",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "rMk BXo rwv khUM BUpw ]",
+        "gurmukhi": "rMk BXo rwvq khU` BUpw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -5157,7 +5962,7 @@
         "id": "PSAS",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "sB qy judo, n iknhuM pwXo ]37]",
+        "gurmukhi": "sB qy judo, n iknhUM pwXo ]37]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -5171,6 +5976,29 @@
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
               "translation": "(ਉਹ) ਸਭ ਤੋਂ ਵਖਰਾ ਹੈ, ਉਸ (ਦੇ ਭੇਦ) ਨੂੰ ਕਿਸੇ ਨਹੀਂ ਜਾਣਿਆ ॥੩੭॥",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "AH5M",
+        "source_page": 155,
+        "source_line": null,
+        "gurmukhi": "cOpeI ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "CHAUPAI",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਚੌਪਈ:",
               "additional_information": {}
             }
           }
@@ -5203,7 +6031,7 @@
         "id": "WD0N",
         "source_page": 159,
         "source_line": null,
-        "gurmukhi": "iBMn iBMn kir iqno KpwXo ]",
+        "gurmukhi": "iBMn iBMn kr iqno KpwXo ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",

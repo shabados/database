@@ -10,7 +10,7 @@
         "id": "0F4K",
         "source_page": 248,
         "source_line": 1,
-        "gurmukhi": "gauVI mhlw 5 ]",
+        "gurmukhi": "gauVI₂ mhlw 5 ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1159,8 +1159,8 @@
     ]
   },
   {
-    "id": "0PU",
-    "sttm_id": 755,
+    "id": "YM8",
+    "sttm_id": 756,
     "writer": "Guru Arjan Dev Ji",
     "section": "Raag Gauree",
     "subsection": null,
@@ -1169,7 +1169,7 @@
         "id": "XK4Q",
         "source_page": 248,
         "source_line": 14,
-        "gurmukhi": "gauVI mhlw 5 ]",
+        "gurmukhi": "gauVI₃ mhlw 5 ]",
         "pronunciation": "",
         "pronunciation_information": "",
         "type": "Sirlekh",
@@ -1210,16 +1210,7 @@
             }
           }
         }
-      }
-    ]
-  },
-  {
-    "id": "YM8",
-    "sttm_id": 756,
-    "writer": "Guru Arjan Dev Ji",
-    "section": "Raag Gauree",
-    "subsection": null,
-    "lines": [
+      },
       {
         "id": "CM5J",
         "source_page": 248,

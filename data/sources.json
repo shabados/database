@@ -2765,7 +2765,98 @@
         "description": "An autobiography of Guru Gobind Singh Ji, including his spiritual lineage.",
         "start_page": 39,
         "end_page": 73,
-        "subsections": []
+        "subsections": [
+          {
+            "name_gurmukhi": "mMglwcrn",
+            "name_english": "Manglacharan",
+            "start_page": 39,
+            "end_page": 39
+          },
+          {
+            "name_gurmukhi": "sRI kwl jI kI ausqiq",
+            "name_english": "The Praises of the Lord",
+            "start_page": 39,
+            "end_page": 47
+          },
+          {
+            "name_gurmukhi": "suB bMs brnnµ",
+            "name_english": "Autobiography and Ancestry",
+            "start_page": 47,
+            "end_page": 49
+          },
+          {
+            "name_gurmukhi": "lvI kuSI ju`D brnnµ",
+            "name_english": "The War between the Descendants of Lav Kush",
+            "start_page": 49,
+            "end_page": 53
+          },
+          {
+            "name_gurmukhi": "byd pwT Byt rwj",
+            "name_english": "The Recitation of the Vedas and the Offering of the Kingdom",
+            "start_page": 53,
+            "end_page": 54
+          },
+          {
+            "name_gurmukhi": "pwqSwhI brnnµ",
+            "name_english": "The Description of the Spiritual Kings",
+            "start_page": 54,
+            "end_page": 55
+          },
+          {
+            "name_gurmukhi": "mm AwigAw kwl jg pRvys krn",
+            "name_english": "Coming into the World",
+            "start_page": 55,
+            "end_page": 60
+          },
+          {
+            "name_gurmukhi": "kib jnm kQnµ",
+            "name_english": "Birth of the Poet",
+            "start_page": 60,
+            "end_page": 60
+          },
+          {
+            "name_gurmukhi": "BMgwxI ju`D brnnµ",
+            "name_english": "The Battle of Bhangani",
+            "start_page": 60,
+            "end_page": 63
+          },
+          {
+            "name_gurmukhi": "ndOn ju`D brnnµ",
+            "name_english": "The Battle of Nadaun",
+            "start_page": 63,
+            "end_page": 65
+          },
+          {
+            "name_gurmukhi": "Kwnjwdy ko Awgmn qRwisq auT jYbo brnnµ",
+            "name_english": "Expedition of Khanzada",
+            "start_page": 65,
+            "end_page": 65
+          },
+          {
+            "name_gurmukhi": "husYnI bD ik®pwl ihMmq sMgqIAw bD brnnµ",
+            "name_english": "Killing of Hussaini, Kirpal, Himmat, and Sangatia",
+            "start_page": 65,
+            "end_page": 70
+          },
+          {
+            "name_gurmukhi": "juJwr isMG juD brnnµ",
+            "name_english": "Battle of Jujhar Singh",
+            "start_page": 70,
+            "end_page": 71
+          },
+          {
+            "name_gurmukhi": "Swhzwdy v AihdIAw gmn brnnµ",
+            "name_english": "Arrival of the Mughal Prince",
+            "start_page": 71,
+            "end_page": 73
+          },
+          {
+            "name_gurmukhi": "srb kwl kI bynqI brnnµ",
+            "name_english": "The Supplication to the Lord",
+            "start_page": 73,
+            "end_page": 73
+          }
+        ]
       },
       {
         "name_gurmukhi": "cMfI cirqR aukiq iblws",
@@ -3491,8 +3582,8 @@
     "name_gurmukhi": "rihqnwmy",
     "name_english": "Rehitname",
     "length": 10,
-    "page_name_english": "rihqnwmw",
-    "page_name_gurmukhi": "Rehitnama",
+    "page_name_english": "Rehitnama",
+    "page_name_gurmukhi": "rihqnwmw",
     "sections": [
       {
         "name_gurmukhi": "rihqnwmw BweI nµd lwl",

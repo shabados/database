@@ -1,5 +1,851 @@
 [
   {
+    "id": "D1Z",
+    "sttm_id": 358,
+    "writer": "Guru Arjan Dev Ji",
+    "section": "Raag Maajh",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "6QBR",
+        "source_page": 136,
+        "source_line": 4,
+        "gurmukhi": "Plguix. Anµd aupwrjnw; hir sjx. pRgty Awie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "In the month of Phalgun, bliss comes to those, unto whom the Lord, the Friend, has been revealed.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "In Phagan they alone obtain happiness unto whom God the Friend has become manifest.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਫਗਣ ਵਿੱਚ ਕੇਵਲ ਉਹੀ ਖੁਸ਼ੀ ਨੂੰ ਪਰਾਪਤ ਹੁੰਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਅੱਗੇ ਵਾਹਿਗੁਰੂ ਮਿੱਤ੍ਰ, ਪਰਤੱਖ ਹੋਇਆ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਫਾਗੁਣ ਮੇਂ ਤਿਨ ਕੋ ਅਨੰਦ (ਉਪਾਰਜਨਾ) ਉਪਜਾ ਹੈ ਜਿਨ ਕੋ ਹਰੀ ਸਜਨ ਆ ਪ੍ਰਗਟੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਸਿਆਲੀ ਰੁੱਤ ਦੀ ਕਰੜੀ ਸਰਦੀ ਪਿੱਛੋਂ ਬਹਾਰ ਫਿਰਨ ਤੇ ਫੱਗਣ ਦੇ ਮਹੀਨੇ ਵਿਚ ਲੋਕ ਹੋਲੀਆਂ ਦੇ ਰੰਗ-ਤਮਾਸ਼ਿਆਂ ਦੀ ਰਾਹੀਂ ਖ਼ੁਸ਼ੀਆਂ ਮਨਾਂਦੇ ਹਨ, ਪਰ) ਫੱਗਣ ਵਿਚ (ਉਹਨਾਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਦੇ ਅੰਦਰ) ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਹੁੰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸੱਜਣ-ਹਰੀ ਪਰਤੱਖ ਆ ਵੱਸਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "ਫਲਗੁਣਿ = ਫੱਗਣ (ਮਹੀਨੇ) ਵਿਚ। ਉਪਾਰਜਨਾ = ਉਪਜ, ਪ੍ਰਕਾਸ਼।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "En Falgan, grande es la Dicha si Dios, el Amigo, se manifiesta en mí.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "L4TH",
+        "source_page": 136,
+        "source_line": 4,
+        "gurmukhi": "sMq shweI rwm ky; kir ikrpw dIAw imlwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The Saints, the Lord's helpers, in their mercy, have united me with Him.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The saints who render man assistance with the Pervading Lord, have mercifully united me with Him.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਸਾਧੂਆਂ ਨੇ ਜੋ ਵਿਆਪਕ ਸੁਆਮੀ ਸੰਬੰਧੀ ਇਨਸਾਨ ਨੂੰ ਸਹਾਇਤਾ ਦਿੰਦੇ ਹਨ, ਮਿਹਰ ਧਾਰ ਕੇ ਮੈਨੂੰ ਉਸ ਨਾਲ ਮਿਲਾ ਦਿੱਤਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਪਰੰਤੂ ਰਾਮ ਕੇ ਪਿਆਰੇ ਜੋ ਸੰਤ ਹੈਂ ਜਬ ਸਹਾਈ ਹੂਏ ਤਬ ਤਿਨ੍ਹੋਂ ਨੇ ਕਿਰਪਾ ਕਰ ਕੇ ਮਿਲਾਇ ਦੀਆ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਪਰਮਾਤਮਾ ਨਾਲ ਮਿਲਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ ਸੰਤ ਜਨ ਮਿਹਰ ਕਰ ਕੇ ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਭੂ ਨਾਲ ਜੋੜ ਦੇਂਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਰਾਮ ਕੇ ਸਹਾਈ = ਪਰਮਾਤਮਾ ਨਾਲ ਮਿਲਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Los Hombres Santos han propiciado mi encuentro con el Señor Prevaleciente y misericordiosamente me han llevado a unirme con Él.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "DWWX",
+        "source_page": 136,
+        "source_line": 5,
+        "gurmukhi": "syj suhwvI srb suK; huix duKw nwhI jwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "My bed is beautiful, and I have all comforts. I feel no sadness at all.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "My couch is beautiful, I possess all the comforts and now there is no room for aches.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਮੇਰਾ ਪਲੰਘ ਸ਼ੋਭਨੀਕ ਹੈ, ਮੈਨੂੰ ਸਾਰੇ ਆਰਾਮ ਹਨ ਅਤੇ ਦੁੱਖ ਤਕਲੀਫਾਂ ਲਈ ਹੁਣ ਕੋਈ ਜਗ੍ਹਾ ਨਹੀਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸਰਬ ਸੁਖ ਅਰਥਾਤ ਆਤਮ ਸੁਖ ਹੋਣੇ ਕਰ ਅੰਤਹਕਰਣ ਰੂਪੀ ਸੇਹਜਾ ਸੋਭਤੀ ਭਈ ਹੈ, (ਹੁਣਿ) ਅਭ ਦੁਖੋਂ ਕੋ ਜਗਾ ਨਹੀਂ ਰਹੀ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਦੀ ਹਿਰਦਾ-ਸੇਜ ਸੁੰਦਰ ਬਣ ਜਾਂਦੀ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਸਾਰੇ ਹੀ ਸੁੱਖ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਫਿਰ ਦੁੱਖਾਂ ਲਈ (ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਕਿਤੇ ਰਤਾ ਥਾਂ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।",
+              "additional_information": {
+                "arth": "ਸੇਜ = ਹਿਰਦਾ। ਜਾਇ = ਥਾਂ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Mi Alma descansa y disfruta de todas las comodidades y todo dolor ha desaparecido.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZMP0",
+        "source_page": 136,
+        "source_line": 5,
+        "gurmukhi": "ieC punI vfBwgxI; vru pwieAw hir rwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "My desires have been fulfilled-by great good fortune, I have obtained the Sovereign Lord as my Husband.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "My desire has been fulfilled and I am exceedingly lucky in having God the monarch, as my Spouse.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਮੇਰੀ ਖਾਹਿਸ਼ ਪੂਰੀ ਹੋ ਗਈ ਹੈ, ਵਾਹਿਗੁਰੂ ਪਾਤਸ਼ਾਹ ਮੈਨੂੰ ਆਪਣੇ ਕੰਤ ਵਜੋਂ ਮਿਲਿਆ ਹੈ, ਤੇ ਮੈਂ ਬੜੇ ਚੰਗੇ ਕਰਮਾ ਵਾਲੀ ਹਾਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਨੋਂ ਨੇ ਹਰੀ ਰਾਜਾ ਵਰ ਪਾਇਆ ਹੈ, ਤਿਨ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੀਓਂ ਕੀ ਸਰਬ ਇਛਾ ਪੂਰਨ ਭਈ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਵਡ-ਭਾਗਣ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਦੀ ਮਨੋ-ਕਾਮਨਾ ਪੂਰੀ ਹੋ ਜਾਂਦੀ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਹਰੀ-ਪ੍ਰਭੂ ਖਸਮ ਮਿਲ ਪੈਂਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "ਵਰੁ = ਖਸਮ-ਪ੍ਰਭੂ। ਗਾਵਹੀ = ਗਾਵਹਿ, ਗਾਂਦੀਆਂ ਹਨ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "¡Afortunado soy al tener a Dios, el Monarca, mi Esposo, todos mis deseos han sido satisfechos!",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "7T06",
+        "source_page": 136,
+        "source_line": 6,
+        "gurmukhi": "imil shIAw mMglu gwvhI; gIq goivMd Alwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Join with me, my sisters, and sing the songs of rejoicing and the Hymns of the Lord of the Universe.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Meeting together my fellow maids sing songs of rejoicing and utter the sermons of the world-Lord.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਇਕੱਠੀਆਂ ਹੋ ਕੇ ਮੇਰੀਆਂ ਸਹੇਲੀਆਂ ਖੁਸ਼ੀ ਦੇ ਗੀਤ ਗਾਇਨ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਸੁਆਮੀ ਦੇ ਭਜਨ ਉਚਾਰਣ ਕਰਦੀਆਂ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜੋ ਸੰਤ ਜਨ ਰੂਪ ਸਖੀਆਂ ਗੁਨ ਗਾਵਤੀਆਂ ਹੈਂ, ਤਿਨ ਕੇ ਸਾਥ ਮਿਲ ਕਰ ਕੇ ਗੋਵਿੰਦ ਕੇ ਮੰਗਲ ਕੇ ਗੀਤ ਉਚਾਰਨ ਕਰੂੰ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹ ਸਤ-ਸੰਗੀ ਸਹੇਲੀਆਂ ਨਾਲ ਰਲ ਕੇ ਗੋਵਿੰਦ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਅਲਾਪ ਕੇ ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਗੁਰਬਾਣੀ ਗਾਂਦੀਆਂ ਹਨ।",
+              "additional_information": {
+                "arth": "ਮੰਗਲੁ = ਖ਼ੁਸ਼ੀ ਦਾ ਗੀਤ, ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਗੀਤ, ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ। ਅਲਾਇ = ਉਚਾਰ ਕੇ, ਅਲਾਪ ਕੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Vengan, mis amigos y Almas hermanas; cantemos los himnos de regocijo y proclamemos la Grandeza de Dios.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "73UX",
+        "source_page": 136,
+        "source_line": 6,
+        "gurmukhi": "hir jyhw. Avru n idseI; koeI dUjw. lvY n lwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "There is no other like the Lord-there is no equal to Him.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Like God I perceive no other. No one else is equal to Him.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਵਾਹਿਗੁਰੂ ਵਰਗਾ ਮੈਨੂੰ ਹੋਰ ਕੋਈ ਨਜ਼ਰ ਨਹੀਂ ਆਉਂਦਾ। ਕੋਈ ਦੂਸਰਾ ਉਸ ਦੇ ਬਰਾਬਰ ਨਹੀਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਤਿਨ ਕੋ ਹਰੀ ਜੈਸਾ ਔਰ ਕੋਈ ਦੇਖਾਈ ਨਹੀਂ ਦੇਤਾ, ਇਸ ਤੇ ਕੋਈ ਦੂਜਾ ਉਸ ਕੇ ਸਦਰਸ ਵਾ ਪਾਸ ਨਹੀਂ ਲਾਇਆ ਜਾਤਾ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਪਰਮਾਤਮਾ ਵਰਗਾ ਕੋਈ ਹੋਰ, ਉਸ ਦੀ ਬਰਾਬਰੀ ਕਰ ਸਕਣ ਵਾਲਾ ਕੋਈ ਦੂਜਾ ਉਹਨਾਂ ਨੂੰ ਕਿਤੇ ਦਿੱਸਦਾ ਹੀ ਨਹੀਂ।",
+              "additional_information": {
+                "arth": "ਦਿਸਦੀ = ਦਿੱਸਦਾ। ਲਵੈ = ਨੇੜੇ। ਲਵੈ ਲਾਉਣੇ = ਨੇੜੇ ਤੇੜੇ, ਇਰਦ-ਗਿਰਦ। ਲਵੈ ਨ ਲਾਇ = ਲਵੈ ਲਾਉਣੇ ਨਹੀਂ, ਨੇੜੇ ਤੇੜੇ ਦਾ ਨਹੀਂ, ਬਰਾਬਰੀ ਕਰਨ ਜੋਗਾ ਨਹੀਂ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Como Dios no percibo a ningún otro; nadie se compara con Él.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "1N4L",
+        "source_page": 136,
+        "source_line": 7,
+        "gurmukhi": "hlqu plqu svwirEnu; inhcl idqIAnu jwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "He embellishes this world and the world hereafter, and He gives us our permanent home there.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "He has embellished my this world and the next one, and had given me a permanent place.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਸ ਨੇ ਮੇਰਾ ਇਹ ਲੋਕ ਤੇ ਪਰਲੋਕ ਸੁਧਾਰ ਦਿਤੇ ਹਨ ਅਤੇ ਮੈਨੂੰ ਮੁਸਤਕਿਲ ਥਾਂ ਦੇ ਦਿੱਤੀ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਉਨ ਪਰੁਸ਼ੋ ਕਾ ਲੋਕ ਪ੍ਰਲੋਕ ਸਵਾਰਿਆ ਹੈ ਔਰ ਅਕਲ ਜਗਾ ਦਿਤੀ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਸ ਪਰਮਾਤਮਾ ਨੇ (ਉਹਨਾਂ ਸਤ-ਸੰਗੀਆਂ ਦਾ) ਲੋਕ ਪਰਲੋਕ ਸਵਾਰ ਦਿੱਤਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਲਿਵ-ਲੀਨਤਾ ਵਾਲੀ) ਐਸੀ ਥਾਂ ਬਖ਼ਸ਼ੀ ਹੈ ਜੋ ਕਦੇ ਡੋਲਦੀ ਹੀ ਨਹੀਂ।",
+              "additional_information": {
+                "arth": "ਹਲਤੁ = {अत्र} ਇਹ ਲੋਕ। ਪਲਤੁ = {परत्र} ਪਰ ਲੋਕ। ਸਵਾਰਿਓਨੁ = ਉਸ (ਪ੍ਰਭੂ) ਨੇ ਸਵਾਰ ਦਿੱਤਾ। ਦਿਤੀਅਨੁ = ਉਸ (ਪ੍ਰਭੂ) ਨੇ ਦਿੱਤੀ। ਜਾਇ = ਥਾਂ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Dios me ha adornado en este mundo y me ha dado un lugar en la eternidad,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "TNW4",
+        "source_page": 136,
+        "source_line": 7,
+        "gurmukhi": "sMswr swgr qy riKAnu; bhuiV. n jnmY Dwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "He rescues us from the world-ocean; never again do we have to run the cycle of reincarnation.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "He has rescued me from the world-ocean and I shall not again have to run through births.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਸ ਨੇ ਮੈਨੂੰ ਜਗਤ-ਸਮੁੰਦਰ ਤੋਂ ਬਚਾ ਲਿਆ ਹੈ ਅਤੇ ਮੈਂ ਮੁੜ ਕੇ ਜਨਮਾਂ ਅੰਦਰ ਨਹੀਂ ਪਵਾਂਗਾ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਤਿਨ ਕੀ ਸੰਸਾਰ ਸਮੁੰਦਰ ਤੇ ਰਖਿਆ ਕਰੀ ਹੈ, ਪੁਨਾ ਜਨਮਤੇ ਨਹੀਂ ਹੈ ਔਰ (ਧਾਇ) ਦੌੜਤੇ ਅਰਥਾਤ ਮਰਤੇ ਨਹੀਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਪ੍ਰਭੂ ਨੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਉਹਨਾਂ ਨੂੰ (ਹੱਥ ਦੇ ਕੇ) ਰੱਖ ਲਿਆ ਹੈ, ਜਨਮਾਂ ਦੇ ਗੇੜ ਵਿਚ ਮੁੜ ਉਹਨਾਂ ਦੀ ਦੌੜ ਭੱਜ ਨਹੀਂ ਹੁੰਦੀ।",
+              "additional_information": {
+                "arth": "ਤੇ = ਤੋਂ। ਰਖਿਅਨੁ = ਉਸ (ਹਰੀ) ਨੇ ਰੱਖ ਲਏ। ਧਾਇ = ਧਾਈ, ਭਟਕਣਾ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Me ha rescatado del océano de las existencias, y me ha liberado del ciclo de nacimientos y muertes.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "6RF8",
+        "source_page": 136,
+        "source_line": 8,
+        "gurmukhi": "ijhvw eyk. Anyk gux; qry nwnk crxI pwie ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "I have only one tongue, but Your Glorious Virtues are beyond counting. Nanak is saved, falling at Your Feet.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "I have but one tongue and manifold are Thine excellences. Nanak is saved by falling at thine feet.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਮੇਰੀ ਕੇਵਲ ਇਕ ਜੀਭ ਹੈ ਅਤੇ ਘਲੇਰੀਆਂ ਹਨ ਤੇਰੀਆਂ ਉਤਕ੍ਰਿਸ਼ਟਤਾਈਆਂ। ਤੇਰੇ ਪੈਰੀ ਡਿਗ ਕੇ ਨਾਨਕ ਪਾਰ ਉਤਰ ਗਿਆ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਜਿਹਬਾ ਏਕ ਹੈ ਗੁਨ ਵਾਹਿਗੁਰੂ ਕੇ ਅਨੇਕ ਹੈਂ, ਜੋ ਜੀਵ ਹਰੀ ਨੇ ਅਪਨੀ ਚਰਨੀ ਪਾਏ ਹੈਂ, ਸੋ ਤਰੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਸਾਡੀ ਇਕ ਜੀਭ ਹੈ, ਪ੍ਰਭੂ ਦੇ ਅਨੇਕਾਂ ਹੀ ਗੁਣ ਹਨ (ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਬਿਆਨ ਕਰਨ ਜੋਗੇ ਨਹੀਂ ਹਾਂ, ਪਰ) ਜੇਹੜੇ ਜੀਵ ਉਸ ਦੀ ਚਰਨੀਂ ਪੈਂਦੇ ਹਨ (ਉਸ ਦਾ ਆਸਰਾ ਤੱਕਦੇ ਹਨ) ਉਹ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਤਰ ਜਾਂਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਪਾਇ = ਪੈ ਕੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Tengo un sólo par de labios para cantar y entonar Tus Infinitas Excelencias. ¡Nanak se postra a Tus Pies, oh Señor!",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "P5V2",
+        "source_page": 136,
+        "source_line": 8,
+        "gurmukhi": "Plguix inq slwhIAY; ijs no. iqlu n qmwie ]13]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "In Phalgun, praise Him continually; He has not even an iota of greed. ||13||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "In Phagan ever praise Him who has not ever an iota of avarice.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਫਗਣ ਵਿੱਚ ਸਦਾ ਹੀ ਉਸ ਦੀ ਉਸਤਤ ਕਰ, ਜਿਸ ਨੂੰ ਇਕ ਭੋਰਾ ਭਰ ਭੀ ਤਮ੍ਹਾ ਨਹੀਂ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਫਾਗੁਨ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਤਿਸ ਕੀ ਫਾਗਨ ਮੇਂ ਨਿੰਤਪ੍ਰਤੀ ਸਲਾਹੁਣਾ ਕਰੀਏ ਜਿਸ ਕੋ ਤਿਲ ਮਾਤ੍ਰ (ਤਮਾਇ) ਇੱਛਾ ਨਹੀਂ॥੧੩॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਫੱਗਣ ਦੇ ਮਹੀਨੇ ਵਿਚ (ਹੋਲੀਆਂ ਆਦਿਕ ਵਿਚੋਂ ਅਨੰਦ ਲੱਭਣ ਦੇ ਥਾਂ) ਸਦਾ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਜਿਸ ਨੂੰ (ਆਪਣੀ ਵਡਿਆਈ ਕਰਾਣ ਦਾ) ਰਤਾ ਭਰ ਭੀ ਲਾਲਚ ਨਹੀਂ ਹੈ (ਇਸ ਵਿਚ ਸਾਡਾ ਹੀ ਭਲਾ ਹੈ) ॥੧੩॥",
+              "additional_information": {
+                "arth": "ਤਿਲੁ = ਰਤਾ ਭੀ। ਤਮਾਇ = ਤਮ੍ਹਾ, ਲਾਲਚ ॥੧੩॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "En el mes de Falgan alaba para siempre al Señor, Quien está libre de toda avaricia.  (13)",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "1Z7",
+    "sttm_id": 358,
+    "writer": "Guru Arjan Dev Ji",
+    "section": "Raag Maajh",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "9385",
+        "source_page": 136,
+        "source_line": 9,
+        "gurmukhi": "ijin ijin nwmu iDAwieAw; iqn ky kwj sry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Those who meditate on the Naam, the Name of the Lord-their affairs are all resolved.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The affairs of those who have meditated on the Name have been adjusted.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਜਿਨ੍ਹਾਂ ਨੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਹੈ ਉਨ੍ਹਾਂ ਦੇ ਕਾਰਜ ਸੌਰ ਗਏ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਨਿ ਜਿਨਿ ਪੁਰਸ਼ੋਂ ਨੇ ਨਾਮ ਧਿਆਇਆ ਹੈ, ਤਿਨ ਕੇ ਕਾਰਜ ਪੂਰਨ ਭਏ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਹੈ, ਉਹਨਾਂ ਦੇ ਸਾਰੇ ਕਾਰਜ ਸਫਲ ਹੋ ਜਾਂਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਸਰੇ = ਨੇਪਰੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Si uno se acuerda de Dios, sus perplejidades son resueltas.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "Z45F",
+        "source_page": 136,
+        "source_line": 10,
+        "gurmukhi": "hir guru pUrw AwrwiDAw; drgh sic Kry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Those who meditate on the Perfect Guru, the Lord-Incarnate-they are judged true in the Court of the Lord.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They, who contemplate over God-incarnate perfect Guru, are judged as true and genuine in His court.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜੋ ਵਾਹਿਗੁਰੂ ਸਰੂਪ ਪੁਰਨ-ਗੁਰਾਂ ਦਾ ਚਿੰਤਨ ਕਰਦੇ ਹਨ, ਉਹ ਉਸ ਦੇ ਦਰਬਾਰ ਅੰਦਰ ਸੱਚੇ ਤੇ ਅਸਲੀ ਕਰਾਰ ਦਿਤੇ ਜਾਂਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "(ਸਚਿ) ਨਿਸਚ੍ਯ ਕਰ ਕੇ ਜਿਨ੍ਹੋਂ ਨੇ ਗੁਰੂ ਪੂਰਾ ਅਰਾਧਿਆ ਹੈ, ਸੋ ਪੁਰਸ਼ ਹਰੀ ਕੀ ਦਰਗਾਹ ਮੇਂ ਖਰੇ ਹੂਏ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਨੇ ਪ੍ਰਭੂ ਨੂੰ ਪੂਰੇ ਗੁਰੂ ਨੂੰ ਆਰਾਧਿਆ ਹੈ, ਉਹ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਸੁਰਖ਼ਰੂ ਹੁੰਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਦਰਗਹ ਸਚਿ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ। ਖਰੇ = ਸੁਰਖ਼ਰੂ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Si uno contempla la Perfecta Encarnación de Dios, nuestro Maestro Realizado, es aceptado en la Corte del Señor.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "L35A",
+        "source_page": 136,
+        "source_line": 10,
+        "gurmukhi": "srb suKw iniD crx hir; Baujlu ibKmu qry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The Lord's Feet are the Treasure of all peace and comfort for them; they cross over the terrifying and treacherous world-ocean.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "God's feet are the treasure of all the comforts. Through them man crosses the dreadful and arduous world-ocean.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਵਾਹਿਗੁਰੂ ਦੇ ਪੈਰ, ਸਮੂਹ ਆਰਾਮਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹਨ। ਉਨ੍ਹਾਂ ਦੇ ਰਾਹੀਂ ਆਦਮੀ ਭੈ-ਦਾਇਕ ਤੇ ਕਠਨ ਸੰਸਾਰ-ਸੰਮੁਦਰ ਤੋਂ ਪਾਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸਰਬ ਸੁਖੋਂ ਕੀ ਨਿਧੀ ਹਰੀ ਕੇ ਚਰਨ ਪਾ ਕਰ ਕਠਨ ਸੰਸਾਰ ਸਮੁੰਦਰ ਸੇ ਤਰੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਪ੍ਰਭੂ ਦੇ ਚਰਨ ਹੀ ਸਾਰੇ ਸੁੱਖਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹਨ, (ਜਿਹੜੇ ਜੀਵ ਚਰਨੀਂ ਲੱਗਦੇ ਹਨ, ਉਹ) ਔਖੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ (ਸਹੀ-ਸਲਾਮਤ) ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਭਉਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਬਿਖਮੁ = ਔਖਾ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "A Sus Pies uno encuentra todos los tesoros y comodidades, y con Su Ayuda puede cruzar el terrible y arduo océano del mundo.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "V8DD",
+        "source_page": 136,
+        "source_line": 11,
+        "gurmukhi": "pRym Bgiq iqn pweIAw; ibiKAw nwih jry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "They obtain love and devotion, and they do not burn in corruption.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They obtain love and devotion and burn not in mortal sins.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਹ ਪ੍ਰੀਤ ਤੇ ਅਨੁਰਾਗ ਨੂੰ ਪਰਾਪਤ ਹੁੰਦੇ ਹਨ ਅਤੇ ਪ੍ਰਾਣ-ਨਾਸ਼ਕ ਪਾਪਾਂ ਅੰਦਰ ਨਹੀਂ ਸੜਦੇ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਪੁਨਾ ਤਿਨ੍ਹੋਂ ਨੇ ਪ੍ਰੇਮਾਂ ਭਗਤੀ ਪਾਈ ਹੈ ਔਰ ਬਿਖ੍ਯੋਂ ਮੇਂ ਨਹੀਂ ਜਲਤੇ ਵਾ (ਜਰੇ) ਖਚਤ ਨਹੀਂ ਹੋਏ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਭੂ ਦਾ ਪਿਆਰ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਪ੍ਰਾਪਤ ਹੁੰਦੀ ਹੈ, ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ-ਅੱਗ ਵਿਚ ਉਹ ਨਹੀਂ ਸੜਦੇ।",
+              "additional_information": {
+                "arth": "ਤਿਨ = ਉਹਨਾਂ (ਬੰਦਿਆਂ) ਨੇ। ਬਿਖਿਆ = ਮਾਇਆ। ਜਰੇ = ਸੜਦੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "En el Amor y la Devoción, uno es protegido de la maldad y de la oscuridad que ésta trae a la conciencia.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "N7R5",
+        "source_page": 136,
+        "source_line": 11,
+        "gurmukhi": "kUV gey duibDw nsI; pUrn sic Bry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Falsehood has vanished, duality has been erased, and they are totally overflowing with Truth.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The falsehood had vanished love for duality has run away, and they are perfectly brimful with truth.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਝੂਠ ਅਲੋਪ ਹੋ ਗਿਆ ਹੈ, ਦਵੈਤ-ਭਾਵ ਦੌੜ ਗਿਆ ਹੈ ਅਤੇ ਉਹ ਸੱਚ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਲਬਾਲਬ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਔਰ ਮਨ ਕੇ ਬੀਚ ਸੇ ਝੂਠਾਦਿ ਬਿਕਾਰ ਚਲੇ ਗਏ ਹੈਂ ਅਰ ਦ੍ਵੈਤ ਭਾਵਨਾ ਨਸੀ ਹੈ, ਅਰੁ ਪੂਰਨ ਪਰਮੇਸ੍ਵਰ ਕੇ ਨਿਸਚੇ ਕਰ ਅੰਤਹਕਰਣ ਭਰੇ ਹੂਏ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਦੇ ਵਿਅਰਥ ਝੂਠੇ ਲਾਲਚ ਖ਼ਤਮ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ ਮਨ ਦੀ ਭਟਕਣਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ, ਉਹ ਮੁਕੰਮਲ ਤੌਰ ਤੇ ਸਦਾ-ਥਿਰ ਹਰੀ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਕੂੜ = ਵਿਅਰਥ ਝੂਠੇ ਲਾਲਚ। ਦੁਬਿਧਾ = ਦੁਚਿੱਤਾ-ਪਨ, ਮਨ ਦੀ ਭਟਕਣਾ। ਸਚਿ = ਸੱਚੇ ਪ੍ਰਭੂ ਵਿਚ। ਭਰੇ = ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "La falsedad desvanece, la dualidad ya no lo engaña, y la Verdad toma lugar.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MGD0",
+        "source_page": 136,
+        "source_line": 11,
+        "gurmukhi": "pwrbRhmu pRBu syvdy; mn AMdir eyku Dry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "They serve the Supreme Lord God, and enshrine the One Lord within their minds.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They serve the Supreme Lord Master and place the unique One in their heart.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਹ ਸ਼ਰੋਮਣੀ ਸਾਹਿਬ ਮਾਲਕ ਦੀ ਟਹਿਲ ਕਮਾਉਂਦੇ ਹਨ ਅਤੇ ਅਦੁੱਤੀ ਪੁਰਖ ਨੂੰ ਆਪਣੇ ਦਿਲ ਵਿੱਚ ਟਿਕਾਉਂਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭ ਏਕ ਕੋ ਹੀ ਮਨ ਮੇਂ ਧਾਰ ਕਰ ਸੇਵਤੇ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹ ਆਪਣੇ ਮਨ ਵਿਚ ਇਕੋ ਪਰਮ ਜੋਤਿ ਪਰਮਾਤਮਾ ਨੂੰ ਵਸਾ ਕੇ ਸਦਾ ਉਸ ਨੂੰ ਸਿਮਰਦੇ ਹਨ।",
+              "additional_information": {
+                "arth": "ਧਰੇ = ਧਰਿ, ਧਰ ਕੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Entonces uno sirve al Supremo Señor Maestro, enalteciéndolo en su corazón.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "7TF8",
+        "source_page": 136,
+        "source_line": 12,
+        "gurmukhi": "mwh idvs. mUrq Bly; ijs kau. ndir kry ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The months, the days, and the moments are auspicious, for those upon whom the Lord casts His Glance of Grace.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The months days and moments are auspicious for those on whom the Lord casts His merciful glance.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਮਹੀਨੇ, ਦਿਹਾੜੇ ਅਤੇ ਮੁਹਤ ਉਨ੍ਹਾਂ ਲਈ ਚੰਗੇ ਹਨ ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ ਆਪਣੀ ਰਹਿਮਤ ਦੀ ਨਜ਼ਰ ਧਾਰਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਸ ਕੋ ਵਾਹਿਗੁਰੂ ਨਜਰ ਕਰਤਾ ਹੈ ਤਿਸ ਕੋ ਮਹੀਨੇ ਬਿਨ ਮਹੂਰਤ ਸ੍ਰੇਸਟ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਪ੍ਰਭੂ ਮਿਹਰ ਦੀ ਨਜ਼ਰ ਕਰਦਾ ਹੈ (ਆਪਣੇ ਨਾਮ ਦੀ  ਦਾਤ ਦੇਂਦਾ ਹੈ) ਉਹਨਾਂ ਵਾਸਤੇ ਸਾਰੇ ਮਹੀਨੇ ਸਾਰੇ ਦਿਹਾੜੇ ਸਾਰੇ ਹੀ ਮੁਹੂਰਤ ਸੁਲੱਖਣੇ ਹਨ (ਸੰਗ੍ਰਾਂਦ ਆਦਿਕ ਦੀ ਪਵਿਤ੍ਰਤਾ ਦੇ ਭਰਮ-ਭੁਲੇਖੇ ਉਹਨਾਂ ਨੂੰ ਨਹੀਂ ਪੈਂਦੇ)।",
+              "additional_information": {
+                "arth": "ਮਾਹ = ਮਹੀਨੇ। ਦਿਵਸ = ਦਿਹਾੜੇ। ਮੂਰਤ = ਮੁਹੂਰਤ। ਜਿਨ ਕਉ = ਜਿਨ੍ਹਾਂ ਉੱਤੇ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Dichoso es el mes, el día y el momento en el que Dios nos concede Su Mirada de Gracia.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "XPCP",
+        "source_page": 136,
+        "source_line": 12,
+        "gurmukhi": "nwnku mMgY drs dwnu; ikrpw krhu hry ]14]1]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Nanak begs for the blessing of Your Vision, O Lord. Please, shower Your Mercy upon me! ||14||1||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Nanak asks for the boon of Thine sight, O God! Shower Thine benediction on Him.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਨਾਨਕ ਤੇਰੇ ਦੀਦਾਰ ਦੀ ਦਾਤ ਦੀ ਯਾਂਚਨਾ ਕਰਦਾ ਹੈ, ਹੇ ਵਾਹਿਗੁਰੂ! ਆਪਣੀ ਰਹਿਮਤ ਉਸ ਤੇ ਨਿਛਾਵਰ ਕਰ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ ਹਰੇ ਕਰਨੇ ਵਾਲੇ ਪਰਮੇਸ੍ਵਰ! ਮੈਂ ਤੇਰਾ ਦਰਸਨ ਦਾਨ ਮਾਂਗਤਾ ਹੂੰ ਕਿਰਪਾ ਕਰੋ, ਭਾਵ ਏਹਿ ਕਿ ਦਰਸ਼ਨ ਦੇਵੋ॥੧੪॥੧॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਹੇ ਹਰੀ! (ਮੇਰੇ ਉੱਤੇ) ਮਿਹਰ ਕਰ, ਮੈਂ ਨਾਨਕ (ਤੇਰੇ ਦਰ ਤੋਂ ਤੇਰੇ) ਦੀਦਾਰ ਦੀ  ਦਾਤ ਮੰਗਦਾ ਹਾਂ ॥੧੪॥",
+              "additional_information": {
+                "arth": "ਹਰੇ = ਹੇ ਹਰੀ ॥੧੪॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Nanak desea solamente tener una Visión de Ti. (14-1)",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "ZEQ",
     "sttm_id": 359,
     "writer": "Guru Arjan Dev Ji",

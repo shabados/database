@@ -1,5 +1,566 @@
 [
   {
+    "id": "P5L",
+    "sttm_id": 1433,
+    "writer": "Guru Ramdas Ji",
+    "section": "Raag Aasaa",
+    "subsection": null,
+    "lines": [
+      {
+        "id": "7PKC",
+        "source_page": 369,
+        "source_line": 1,
+        "gurmukhi": "<> siqgur pRswid ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Manglacharan",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "One Universal Creator God. By The Grace Of The True Guru:",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "There is but one God. By True Guru's favour, He is obtained.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Por la Gracia del Ser Supremo, el Eterno, el Iluminador",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "864V",
+        "source_page": 369,
+        "source_line": 1,
+        "gurmukhi": "rwgu Awsw Gru 8 ky kwPI₂, mhlw 4 ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Raag Aasaa, Eighth House, Kaafee, Fourth Mehl:",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Asa Measure Kafi. 4th Guru.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਰਾਗ ਆਸਾ ਕਾਫ਼ੀ। ਚੌਥੀ ਪਾਤਸ਼ਾਹੀ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਕਾਫੀ ਕਾ ਅਰਥ ਬੈਰਾਗ ਸੂਚਕ ਵਾ ਗਾਉਣ ਦੀ ਰੀਤ ਹੋਤੀ ਹੈ।",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਰਾਗ ਆਸਾ, ਘਰ ੮ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਕਾਫੀ'।",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Asa, Mejl Guru Ram Das, Cuarto Canal Divino, Kafi.",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "FRT5",
+        "source_page": 369,
+        "source_line": 1,
+        "gurmukhi": "AwieAw mrxu Durwhu; haumY roeIAY ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Death is ordained from the very beginning, and yet ego makes us cry.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "From the very beginning death is ordained but egotism makes man bewail.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਐਨ ਆਰੰਭ ਤੋਂ ਮੌਤ ਨੀਅਤ ਹੋਈ ਹੋਈ ਹੈ। ਹੰਕਾਰ ਹੀ ਆਦਮੀ ਨੂੰ ਰੁਆਉਂਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਧੁਰ ਆਦਿ ਸੇ ਜਨਮ ਮਰਣ ਚਲਾ ਆਇਆ ਹੈ, ਹੰਤਾ ਮਮਤਾ ਕਰ ਕੇ ਰੋਈਤਾ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਹੇ ਭਾਈ!) ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਹੀ (ਹਰੇਕ ਜੀਵ ਵਾਸਤੇ) ਮੌਤ (ਦਾ ਪਰਵਾਨਾ) ਆਇਆ ਹੋਇਆ ਹੈ (ਧੁਰ ਤੋਂ ਹੀ ਇਹ ਰਜ਼ਾ ਹੈ ਕਿ ਜੇਹੜਾ ਜੰਮਿਆ ਹੈ ਉਸ ਨੇ ਮਰਨਾ ਭੀ ਜ਼ਰੂਰ ਹੈ) ਹਉਮੈ ਦੇ ਕਾਰਨ ਹੀ (ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ) ਰੋਈਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "ਧੁਰਾਹੁ = ਧੁਰ ਦਰਗਾਹ ਤੋਂ। ਮਰਣੁ = ਮੌਤ, ਮਰਣਾ। ਰੋਈਐ = ਰੋਈਦਾ ਹੈ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "La muerte está inscrita en nuestro destino, y es la conciencia del ego que nos hace sufrir,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "D6L6",
+        "source_page": 369,
+        "source_line": 2,
+        "gurmukhi": "gurmuiK nwmu iDAwie; AsiQru hoeIAY ]1]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Meditating on the Naam, as Gurmukh, one becomes stable and steady. ||1||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "By remembering the Name, through the Guru, one becomes eternal.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਗੁਰਾਂ ਦੇ ਰਾਹੀਂ ਨਾਮ ਦਾ ਸਿਮਰਨ ਕਰਨ ਦੁਆਰਾ ਇਨਸਾਨ ਸਦੀਵੀ ਅਟੱਲ ਹੋ ਜਾਂਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਬ ਗੁਰਮੁਖ ਹੋ ਕਰ ਨਾਮ ਕੋ ਧ੍ਯਾਵੈ ਤਬ ਇਸਥਿਰ ਹੋਈਏ ਅਰਥਾਤ ਜਨਮ ਮਰਨ ਤੇ ਰਹਿਤ ਹੋਈਤਾ ਹੈ॥੧॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ ਅਡੋਲ-ਚਿੱਤ ਹੋ ਜਾਈਦਾ ਹੈ (ਮੌਤ ਆਉਣ ਤੇ ਡੋਲਣੋਂ ਹਟ ਜਾਈਦਾ ਹੈ) ॥੧॥",
+              "additional_information": {
+                "arth": "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ। ਅਸਥਿਰੁ = ਅਡੋਲ-ਚਿੱਤ ॥੧॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "pero aquéllos que se enfocan en Dios y contemplan el Naam, el Nombre del Señor, se vuelven eternos. (1)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "MPBZ",
+        "source_page": 369,
+        "source_line": 2,
+        "gurmukhi": "gur pUry swbwis; clxu jwixAw ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Rahao",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Blessed is the Perfect Guru, through whom the way of Death is known.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Blessed is the Perfect Guru, through whom passing away is realised.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਧੰਨ ਹਨ ਪੂਰਨ ਗੁਰਦੇਵ ਜੀ, ਜਿਨ੍ਹਾਂ ਦੇ ਰਾਹੀਂ ਟੁਰ ਵੰਞਣਾ ਅਨੁਭਵ ਹੁੰਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਸ ਨੇ (ਚਲਣੁ ਜਾਣਿਆ) ਮਰਣਾ ਨਿਸਚ੍ਯ ਕੀਆ ਹੈ ਤਿਸ ਕੋ ਪੂਰੇ ਗੁਰੋਂ ਸੇ ਸਾਬਾਸੀ ਮਿਲਤੀ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਜਾਣ ਲਿਆ ਕਿ ਜਗਤ ਤੋਂ ਆਖ਼ਿਰ ਚਲੇ ਜਾਣਾ ਹੈ ਉਹਨਾਂ ਨੇ ਸ਼ਾਬਾਸ਼ੇ ਖੱਟੀ।",
+              "additional_information": {
+                "arth": "ਗੁਰ ਪੂਰੇ = ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Bendito es el Verdadero Guru, a través de Él conocí la verdad del fantasma de la muerte",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "ZA53",
+        "source_page": 369,
+        "source_line": 2,
+        "gurmukhi": "lwhw nwmu, su swru; sbid smwixAw ]1] rhwau ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Rahao",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The sublime people earn the profit of the Naam, the Name of the Lord; they are absorbed in the Word of the Shabad. ||1||Pause||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The sublime persons earn the profit of the Name and get absorbed in God. Pause.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਸ਼੍ਰੇਸ਼ਟ ਪੁਰਸ਼ ਨਾਮ ਦਾ ਨਫ਼ਾ ਕਮਾਉਂਦੇ ਹਨ ਅਤੇ ਵਾਹਿਗੁਰੂ ਅੰਦਰ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ। ਠਹਿਰਾਉ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਨਾਮ ਲਾਭ ਜੋ ਜਗਤ ਮੇਂ ਤਤ੍ਵ ਬਸਤੂ ਹੈ ਤਿਸ ਮੇਂ ਸਬਦ ਸੇ ਸਮਾਯਾ ਹੈ॥੧॥ ਰਹਾਉ ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (-ਰੂਪ) ਸ੍ਰੇਸ਼ਟ ਲਾਭ ਖੱਟ ਲਿਆ, ਉਹ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ (ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ) ਲੀਨ ਹੋਏ ਰਹੇ ॥੧॥ ਰਹਾਉ ॥",
+              "additional_information": {
+                "arth": "ਲਾਹਾ = ਲਾਭ। ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ। ਸਬਦਿ = ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ॥੧॥ ਰਹਾਉ ॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "y coseché la Esencia del Señor y me fundí en Su Palabra. (1‑Pausa)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "BRJ1",
+        "source_page": 369,
+        "source_line": 3,
+        "gurmukhi": "pUrib ilKy fyh; is Awey mwieAw ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "The days of one's life are pre-ordained; they will come to their end, O mother.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "The days of life are pre-ordained, they do come (to an end), O mother.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਮੁੱਢ ਦੇ ਲਿਖੇ ਹੋਏ, ਉਹ ਦਿਹਾੜੇ ਆ ਜਾਂਦੇ ਹਨ, ਹੇ ਮਾਤਾ!",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "(ਮਾਇਆ) ਹੇ ਭਾਈ! ਜੋ ਪਹਿਲੇ ਹੀ (ਡੇਹ) ਦਿਨ ਮਰਨੇ ਕੇ ਲਿਖੇ ਗਏ ਹੈਂ, ਸੋ ਆਏ ਹੀ ਜਾਨ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਹੇ ਮਾਂ! ਪੂਰਬਲੇ ਜਨਮ ਵਿਚ (ਧੁਰੋਂ) ਲਿਖੇ ਅਨੁਸਾਰ (ਜਿਨ੍ਹਾਂ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇ) ਦਿਨ ਮਿਲਦੇ ਹਨ ਉਹ ਜਗਤ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ (ਜੰਮ ਪੈਂਦੇ ਹਨ)",
+              "additional_information": {
+                "arth": "ਪੂਰਬਿ = ਪਹਿਲੇ ਜਨਮ ਵਿਚ। ਡੇਹ = ਦਿਨ। ਸਿ = ਉਹ ਦਿਨ। ਮਾਇਆ = ਹੇ ਮਾਂ!",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Oh madre, cuando los días dispuestos para uno se van,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "JA53",
+        "source_page": 369,
+        "source_line": 3,
+        "gurmukhi": "clxu Aju ik kil@; Durhu PurmwieAw ]2]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "One must depart, today or tomorrow, according to the Lord's Primal Order. ||2||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "To-day or to-morrow one must depart as is the Primal Lord's order.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਅੱਜ ਜਾਂ ਕੱਲ੍ਹ ਬੰਦਾ ਜਰੂਰ ਹੀ ਟੁਰ ਵੰਞੇਗਾ, ਜਿਸ ਤਰ੍ਹਾਂ ਕਿ ਆਦਿ ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਧੁਰ ਕੀ ਆਗਿਆ ਹੈ ਆਜ ਵਾ ਕਾਲ ਕੋ ਚਲਨਾ ਹੈ ਅਰਥਾਤ ਅਵਸ੍ਯ ਮਰਣਾ ਹੈ॥੨॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਇਸੇ ਤਰ੍ਹਾਂ ਹੀ) ਧੁਰੋਂ ਇਹ ਫ਼ੁਰਮਾਨ ਭੀ ਹੈ ਕਿ ਇਥੋਂ ਅੱਜ ਭਲਕ ਤੁਰ ਭੀ ਜਾਣਾ ਹੈ ॥੨॥",
+              "additional_information": {
+                "arth": "ਕਿ = ਜਾਂ ॥੨॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "ya sea hoy o mañana puede uno morir, pues tal es la Voluntad del Señor. (2)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "T13H",
+        "source_page": 369,
+        "source_line": 4,
+        "gurmukhi": "ibrQw jnmu iqnw; ijn@I nwmu ivswirAw ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Useless are the lives of those, who have forgotten the Naam.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "In vain is the advent of those who have forgotten the Name.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਵਿਅਰਥ ਹੈ ਆਗਮਨ ਉਨ੍ਹਾਂ ਦਾ ਜਿਨ੍ਹਾਂ ਨੇ ਨਾਮ ਭੁਲਾ ਛੱਡਿਆ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਨੋਂ ਨੇ ਨਾਮ ਕੋ ਭੁਲਾਇ ਦੀਆ ਹੈ, ਤਿਨ ਕਾ ਜਨਮ ਬਿ੍ਯਰਥ ਹੈ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਹੇ ਭਾਈ!) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ (ਜਗਤ ਵਿਚ ਆ ਕੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ ਉਹਨਾਂ ਦਾ ਮਨੁੱਖਾ ਜਨਮ ਵਿਅਰਥ ਚਲਾ ਗਿਆ।",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Vana es la vida de aquéllos que abandonan el Naam, el Nombre del Señor;",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "M9P2",
+        "source_page": 369,
+        "source_line": 4,
+        "gurmukhi": "jUAY Kylxu jig; ik iehu mnu hwirAw ]3]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "They play the game of chance in this world, and lose their mind. ||3||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They play the game of chance in this world and lose this soul of theirs.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਉਹ ਇਸ ਜਹਾਨ ਅੰਦਰ ਜੂਏ ਦੀ ਖੇਡ ਖੇਡਦੇ ਹਨ ਅਤੇ ਆਪਣੀ ਇਸ ਆਤਮਾ ਨੂੰ ਹਾਰ ਦਿੰਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਗਤ ਕੇ ਜੂਏ ਕੀ ਖੇਲੋਂ ਮੇਂ ਇਸ ਮਨ ਕੋ ਹਾਰ ਦੀਆ ਹੈ॥੩॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਉਹਨਾਂ ਨੇ ਜਗਤ ਵਿਚ (ਆ ਕੇ) ਜੂਏ ਦੀ ਖੇਡ ਹੀ ਖੇਡੀ (ਤੇ ਇਸ ਖੇਡ ਵਿਚ) ਆਪਣਾ ਮਨ (ਵਿਕਾਰਾਂ ਦੀ ਹੱਥੀਂ) ਹਾਰ ਦਿੱਤਾ ॥੩॥",
+              "additional_information": {
+                "arth": "ਜੂਐ = ਜੂਏ ਵਿਚ। ਜਗਿ = ਜਗ ਵਿਚ ॥੩॥",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "ellos se arriesgan en el mundo de la vida y pierden sus mentes en ese juego. (3)",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "RPHK",
+        "source_page": 369,
+        "source_line": 5,
+        "gurmukhi": "jIvix mrix suKu hoie; ijn@w guru pwieAw ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "Those who have found the Guru are at peace, in life and in death.",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "They who have obtained the Guru in birth and death they remain in peace.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਪਰਾਪਤ ਹੋਇਆ ਹੈ, ਉਹ ਜੰਮਣ ਤੇ ਮਰਣ ਵਿੱਚ ਸੁਖ ਪ੍ਰਤੀਤ ਕਰਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਜਿਨੋਂ ਨੇ ਗੁਰੂ ਪਾਯਾ ਹੈ, ਤਿਨ ਕਾ ਜੀਵਨਾ ਔਰ ਮਰਣਾ ਦੋਨੋਂ ਸੁਖ ਪੂਰਬਕ ਹੋਤੇ ਹੈਂ ਅਰਥਾਤ ਦੁਖ ਰਹਿਤ ਸ੍ਵੈਇਛਤ ਹੈਂ॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਗੁਰੂ ਮਿਲ ਪਿਆ ਉਹਨਾਂ ਨੇ (ਸਾਰੇ) ਜੀਵਨ ਵਿਚ (ਭੀ) ਆਤਮਕ ਆਨੰਦ ਮਾਣਿਆ, ਤੇ ਮਰਨ ਵਿਚ ਭੀ (ਮਰਨ ਵੇਲੇ ਭੀ) ਸੁਖ ਹੀ ਪ੍ਰਤੀਤ ਕੀਤਾ,",
+              "additional_information": {
+                "arth": "ਜੀਵਣਿ ਮਰਣਿ = ਜੀਵਨ ਵਿਚ ਭੀ ਤੇ ਮਰਨ ਵਿਚ ਭੀ।",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Sólo aquéllos que están entonados en el Guru están en paz en la vida y en la muerte,",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "F16E",
+        "source_page": 369,
+        "source_line": 5,
+        "gurmukhi": "nwnk scy sic; sic smwieAw ]4]12]64]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "O Nanak, the true ones are truly absorbed into the True Lord. ||4||12||64||",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "Nanak, the true are, truly absorbed in the True Lord.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਨਾਨਕ, ਸਚਿਆਰ, ਨਿਸਚਿਤ ਹੀ, ਸੱਚੇ ਸੁਆਮੀ ਅੰਦਰ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਓਹ ਪੁਰਖ ਸਚੇ ਹੈਂ ਜਿਨ ਕਾ ਮਨ (ਸਚਿ) ਪਰਮਾਤਮਾ ਮੇਂ (ਸਚਿ) ਨਿਸਚਯ ਕਰ ਕੇ ਸਮਾਇਆ ਹੈ॥੪॥੧੨॥੬੪॥",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਵਿਚ ਹੀ ਸਦਾ ਲੀਨ ਰਹੇ ਅਤੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਰੂਪ ਬਣੇ ਰਹੇ (ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਇਕ-ਇਕ ਹੋਏ ਰਹੇ) ॥੪॥੧੨॥੬੪॥",
+              "additional_information": {
+                "arth": "ਸਚੇ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਰੂਪ। ਸਚਿ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਵਿਚ ॥੪॥੧੨॥੬੪॥",
+                "note": "* ਨੋਟ: ਆਸਾ ਘਰੁ ੮ ਕੇ ਕਾਫੀ-ਲਫ਼ਜ਼ 'ਕੇ' ਪੁਲਿੰਗ ਹੈ। ਜੇ ਲਫ਼ਜ਼ 'ਕਾਫੀ' 'ਕਾਫ਼ੀਆਂ' ਵਾਸਤੇ ਹੁੰਦਾ ਤਾਂ 'ਕੇ' ਦੇ ਥਾਂ 'ਕੀਆਂ' ਹੁੰਦਾ। ਸੋ, 'ਕਾਫੀ' ਰਾਗ ਦਾ ਨਾਮ ਹੈ। ਆਸਾ ਘਰ ਅਠਵੇਂ ਦੇ ਦੋ ਸ਼ਬਦ ਰਾਗ ਕਾਫੀ ਨਾਲ ਮਿਲਾ ਕੇ ਗਾਏ ਜਾਣ ਵਾਲੇ।"
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "porque aquéllos, dice Nanak, se vuelven Verdaderos habitando en la Verdad, y se inmergen en la Verdad del Señor. (4‑12‑64)",
+              "additional_information": {}
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
     "id": "A08",
     "sttm_id": 1434,
     "writer": "Guru Ramdas Ji",
@@ -9,7 +570,7 @@
       {
         "id": "THGG",
         "source_page": 369,
-        "source_line": 5,
+        "source_line": 6,
         "gurmukhi": "Awsw mhlw 4 ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -147,7 +708,7 @@
       {
         "id": "CXAX",
         "source_page": 369,
-        "source_line": 6,
+        "source_line": 7,
         "gurmukhi": "ijn@ Duir iliKAw lyKu; iqn@I nwmu kmwieAw ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -239,7 +800,7 @@
       {
         "id": "20XU",
         "source_page": 369,
-        "source_line": 7,
+        "source_line": 8,
         "gurmukhi": "AMqir nwmu inDwnu; gurmuiK pweIAY ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -377,7 +938,7 @@
       {
         "id": "J3BW",
         "source_page": 369,
-        "source_line": 8,
+        "source_line": 9,
         "gurmukhi": "haumY grbY grbu; Awip KuAweIAY ]3]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -469,7 +1030,7 @@
       {
         "id": "J6C8",
         "source_page": 369,
-        "source_line": 9,
+        "source_line": 10,
         "gurmukhi": "gurmiq min prgwsu; scw pweIAY ]4]13]65]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -524,7 +1085,7 @@
       {
         "id": "EX51",
         "source_page": 369,
-        "source_line": 10,
+        "source_line": 11,
         "gurmukhi": "rwgu AwswvrI Gru 16 ky 2 mhlw 4 suDMg ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -616,7 +1177,7 @@
       {
         "id": "JN47",
         "source_page": 369,
-        "source_line": 11,
+        "source_line": 12,
         "gurmukhi": "hau Anidnu; hir nwmu kIrqnu krau ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -708,7 +1269,7 @@
       {
         "id": "F3XV",
         "source_page": 369,
-        "source_line": 12,
+        "source_line": 13,
         "gurmukhi": "hmrY sRvxu. ismrnu hir kIrqnu; hau. hir ibnu, rih n skau hau ieku iKnu ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -754,7 +1315,7 @@
       {
         "id": "1YBJ",
         "source_page": 369,
-        "source_line": 13,
+        "source_line": 14,
         "gurmukhi": "jYsy hMsu. srvr ibnu, rih n skY; qYsy hir jnu, ikau rhY hir syvw ibnu ]1]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -800,7 +1361,7 @@
       {
         "id": "Y0DN",
         "source_page": 369,
-        "source_line": 14,
+        "source_line": 15,
         "gurmukhi": "iknhUM pRIiq lweI, dUjw Bwau ird Dwir; iknhUM pRIiq lweI moh Apmwn ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -901,7 +1462,7 @@
       {
         "id": "R9TG",
         "source_page": 369,
-        "source_line": 15,
+        "source_line": 16,
         "gurmukhi": "AwswvrI mhlw 4 ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -947,7 +1508,7 @@
       {
         "id": "1CJ2",
         "source_page": 369,
-        "source_line": 16,
+        "source_line": 17,
         "gurmukhi": "mweI. moro pRIqmu rwmu; bqwvhu. rI mweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1039,7 +1600,7 @@
       {
         "id": "FZRU",
         "source_page": 369,
-        "source_line": 17,
+        "source_line": 18,
         "gurmukhi": "hmrw mnu. bYrwg ibrkqu BieE; hir drsn mIq kY qweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1131,7 +1692,7 @@
       {
         "id": "C31S",
         "source_page": 370,
-        "source_line": 18,
+        "source_line": 1,
         "gurmukhi": "rwKu srix jgdIsur ipAwry; moih srDw pUir, hir gusweI ]",
         "pronunciation": "",
         "pronunciation_information": "",
@@ -1177,7 +1738,7 @@
       {
         "id": "A0GC",
         "source_page": 370,
-        "source_line": 1,
+        "source_line": 2,
         "gurmukhi": "jn nwnk kY min. Andu hoq hY; hir drsnu. inmK idKweI ]2]39]13]15]67]",
         "pronunciation": "",
         "pronunciation_information": "",

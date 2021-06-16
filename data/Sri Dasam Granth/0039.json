@@ -4,7 +4,7 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "Manglacharan",
     "lines": [
       {
         "id": "RH8M",
@@ -36,7 +36,7 @@
         "gurmukhi": "AQ bicqR nwtk gRMQ ilKÎqy ]",
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": "Pankti",
+        "type": "Sirlekh",
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
@@ -53,10 +53,33 @@
         }
       },
       {
+        "id": "GC13",
+        "source_page": 39,
+        "source_line": null,
+        "gurmukhi": "qÍ pRswid ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Sirlekh",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "BY THY GRACE.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "FNME",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "sRI muKvwk pwqswhI 10 ]",
+        "gurmukhi": "sRI muKbwk pwqSwhI 10 ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Sirlekh",
@@ -79,20 +102,20 @@
         "id": "HSGH",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "qÍpRswid ] dohrw ]",
+        "gurmukhi": "dohrw ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Sirlekh",
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "BY THY GRACE.  DOHRA",
+              "translation": "DOHRA",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ: ਦੋਹਰਾ:",
+              "translation": "ਦੋਹਰਾ:",
               "additional_information": {}
             }
           }
@@ -102,7 +125,7 @@
         "id": "27JE",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "nmskwr sRI KVg ko; krO su ihqu icqu lwie ]",
+        "gurmukhi": "nmskwr sRI KVg ko kroN su ihqu icqu lwie ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -125,7 +148,7 @@
         "id": "91FC",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "pUrn krO igrMQ iehu; qum muih krhu shwie ]1]",
+        "gurmukhi": "pUrn kroN igrMQ iehu qum muih krhu shwie ]1]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -151,31 +174,8 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "The Praises of the Lord",
     "lines": [
-      {
-        "id": "F61Z",
-        "source_page": 39,
-        "source_line": null,
-        "gurmukhi": "sRI kwl jI kI ausqiq ]",
-        "pronunciation": null,
-        "pronunciation_information": null,
-        "type": "Pankti",
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "The Eulogy of the Revered Death (KAL).",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਸ੍ਰੀ ਕਾਲ ਜੀ ਦੀ ਉਸਤਤ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
       {
         "id": "VMPD",
         "source_page": 39,
@@ -200,10 +200,33 @@
         }
       },
       {
+        "id": "F61Z",
+        "source_page": 39,
+        "source_line": null,
+        "gurmukhi": "sRI kwl jI kI ausqiq ]",
+        "pronunciation": null,
+        "pronunciation_information": null,
+        "type": "Pankti",
+        "translations": {
+          "English": {
+            "Dr. Surinder Singh Kohli": {
+              "translation": "The Eulogy of the Revered Death (KAL).",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Dr. Rattan Singh Jaggi": {
+              "translation": "ਸ੍ਰੀ ਕਾਲ ਜੀ ਦੀ ਉਸਤਤ:",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
         "id": "0SX8",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "Kg KMf ibhMfM, Kldl KMfM; Aiq rx mMfM brbMfM ]",
+        "gurmukhi": "Kg KMf ibhMfM Kl dl KMfM Aiq rx mMfM br bMfM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -226,7 +249,7 @@
         "id": "TBPA",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "Buj dMf AKMfM, qyj pRcMfM; joiq AmMfM Bwnu pRBM ]",
+        "gurmukhi": "Buj dMf AKMfM qyj pRcMfM joiq AmMfM Bwn pRBM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -249,7 +272,7 @@
         "id": "BB7S",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "suK sMqw krxM, durmiq drxM; iklibK hrxM Ais srxM ]",
+        "gurmukhi": "suK sMqw krxM durmiq drxM iklibK hrxM Ais srxM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -272,7 +295,7 @@
         "id": "P0HU",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "jY jY jg kwrx, isRsit aubwrx; mm pRiqpwrx jY qygM ]2]",
+        "gurmukhi": "jY jY jg kwrx isRsit aubwrx mm pRiqpwrx jY qygM ]2]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -298,7 +321,7 @@
     "sttm_id": null,
     "writer": "Guru Gobind Singh Ji",
     "section": "Bachittar Natak",
-    "subsection": null,
+    "subsection": "The Praises of the Lord",
     "lines": [
       {
         "id": "Z4AY",
@@ -327,7 +350,7 @@
         "id": "SS1U",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "sdw eyk joqRXM AjUnI srUpM ]",
+        "gurmukhi": "sdw eyk joqÎM AjUnI srUpM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -350,7 +373,7 @@
         "id": "GA06",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "mhwdyv dyvM mhw BUp BUpM ]",
+        "gurmukhi": "mhw dyv dyvM mhw BUp BUpM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -373,7 +396,7 @@
         "id": "HTB9",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "inrMkwr inqRXM inrUpM inRbwxM ]",
+        "gurmukhi": "inrMkwr inqÎM inrUpM inRbwxM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -396,7 +419,7 @@
         "id": "7TT6",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "klµ kwrxyXM nmo KVgpwxM ]3]",
+        "gurmukhi": "klµ kwrxyXM nmo KVg pwxM ]3]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -419,7 +442,7 @@
         "id": "WREN",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "inrMkwr inRibkwr inqRXM inrwlµ ]",
+        "gurmukhi": "inrMkwr inRibkwr inqÎM inrwlµ ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -557,7 +580,7 @@
         "id": "8GXN",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "n dÍYKM n ByKM inrMkwr inqRXM ]",
+        "gurmukhi": "n dÍYKM n ByKM inrMkwr inqÎM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -580,7 +603,7 @@
         "id": "PN4P",
         "source_page": 39,
         "source_line": null,
-        "gurmukhi": "mhw jog jogM su prmM pivqRXM ]5]",
+        "gurmukhi": "mhw jog jogM su prmM pivqÎM ]5]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -695,7 +718,7 @@
         "id": "LTH1",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "suAwdM AnwdM AnIlµ AnµqM ]",
+        "gurmukhi": "su AwdM AnwdM AnIlµ AnµqM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -787,7 +810,7 @@
         "id": "TLNL",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "pryXM pivqRM punIqM purwxM ]",
+        "gurmukhi": "pryAM pivqRM punIqM purwxM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -810,7 +833,7 @@
         "id": "27DS",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "AjyXM AByXM BivKÎM BvwxM ]",
+        "gurmukhi": "AjyAM AByAM BivKÎM BvwxM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -833,7 +856,7 @@
         "id": "005C",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "n rogM n sogM su inqRXM nvInµ ]",
+        "gurmukhi": "n rogM n sogM su inqÎM nvInµ ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -879,7 +902,7 @@
         "id": "01Q2",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "su BUqM BivKÎM Bvwnµ BvyXM ]",
+        "gurmukhi": "su BUqM BivKÎM Bvwnµ BvyAM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -902,7 +925,7 @@
         "id": "2W84",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "nmo inRbkwrM nmo inRjuryXM ]",
+        "gurmukhi": "nmo inRibkwrM nmo inRjuryAM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -948,7 +971,7 @@
         "id": "SCRB",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "inrwlµb inqRXM su rwjwiDrwjM ]9]",
+        "gurmukhi": "inrwlµb inqÎM su rwjw iDrwjM ]9]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1063,7 +1086,7 @@
         "id": "VD3C",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM rwjsM qwmsM swqkyXM ]",
+        "gurmukhi": "khUM rwjsM qwmsM swqkyAM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1086,7 +1109,7 @@
         "id": "E11S",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM nwir ko rUp Dwry nryXM ]",
+        "gurmukhi": "khUM nwr ky rUp Dwry nryAM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1109,7 +1132,7 @@
         "id": "YMDP",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM dyvIXM dyvqM deIq rUpM ]",
+        "gurmukhi": "khUM dyvIAM dyvqM deIq rUpM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1132,7 +1155,7 @@
         "id": "KRAP",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM rUpM Anyk Dwry AnUpM ]11]",
+        "gurmukhi": "khUM rUp Anyk Dwry AnUpM ]11]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1178,7 +1201,7 @@
         "id": "2Z48",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM Bvr hÍY kY BlI Bwiq BUly ]",
+        "gurmukhi": "khUM Bvr hÍY kY BlI BWiq BUly ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1201,7 +1224,7 @@
         "id": "WVZ6",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM pvn hÍY kY bhy byig AYsy ]",
+        "gurmukhi": "khUM paun hÍY kY bhy byig AYsy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1224,7 +1247,7 @@
         "id": "J8WK",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khy mo n Awvy kQO qwih kYsy ]12]",
+        "gurmukhi": "khy mo n AwvY kQoN qwih kYsy ]12]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1247,7 +1270,7 @@
         "id": "9WX2",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM nwd hÍY kY BlI Bwiq bwjy ]",
+        "gurmukhi": "khUM nwd hÍY kY BlI BWiq bwjy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1270,7 +1293,7 @@
         "id": "DM7A",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM pwrDI hÍY Dry bwn rwjy ]",
+        "gurmukhi": "khUM pwrDI hÍY kY Dry bwn rwjy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1293,7 +1316,7 @@
         "id": "8Q0X",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM imRg hÍY kY BlI Bwiq mohy ]",
+        "gurmukhi": "khUM imRg hÍY kY BlI BWiq mohy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1316,7 +1339,7 @@
         "id": "E726",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khUM kwmkI ijau Dry rUp sohy ]13]",
+        "gurmukhi": "khUM kwmukI ijau Dry rUp sohy ]13]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1339,7 +1362,7 @@
         "id": "L97S",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "nhI jwin jweI kCU rUp ryKM ]",
+        "gurmukhi": "nhIN jwn jweI kCU rUp ryKM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1362,7 +1385,7 @@
         "id": "98VJ",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khw bws qw ko, iPrY kaun ByKM ]",
+        "gurmukhi": "khW bws qw ko iPrY kaun ByKM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1385,7 +1408,7 @@
         "id": "RELU",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khw nwm qw ko, khw kY khwvY ]",
+        "gurmukhi": "khw nwm qw ko khw kY khwvY ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1408,7 +1431,7 @@
         "id": "43Z1",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "khw mY bKwno, khy mo n AwvY ]14]",
+        "gurmukhi": "khw mY bKwno khy mo n AwvY ]14]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1615,7 +1638,7 @@
         "id": "U2US",
         "source_page": 40,
         "source_line": null,
-        "gurmukhi": "AdwgM AdgM AlyKM AByKM ]",
+        "gurmukhi": "AdwgM Ad`gM AlyKM AByKM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1753,7 +1776,7 @@
         "id": "N5KS",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "mhw dwV dwVM su sohM ApwrM ]",
+        "gurmukhi": "mhW dwVH dwVHM su sohM ApwrM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1776,7 +1799,7 @@
         "id": "HCGU",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "ijnY crbIXM jIv jgRXM hjwrM ]18]",
+        "gurmukhi": "ijnY crbIXM jIv j`gÎM hjwrM ]18]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1799,7 +1822,7 @@
         "id": "HQJC",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "fmw fMf faurU isqwsyq CqRM ]",
+        "gurmukhi": "fmwf`m faurU isqw syq CqRM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1822,7 +1845,7 @@
         "id": "E6RG",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "hwhw hUh hwsM Jmw Jm AqRM ]",
+        "gurmukhi": "hwhw hUhU hwsM JmwJ`m AqRM ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1845,7 +1868,7 @@
         "id": "B7XK",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "mhw Gor sbdM bjy sMK AYsM ]",
+        "gurmukhi": "mhw Gor sbdM bjy sMK AYsy ]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
@@ -1868,7 +1891,7 @@
         "id": "SUXB",
         "source_page": 41,
         "source_line": null,
-        "gurmukhi": "pRlY kwl ky kwl kI jÍwl jYsM ]19]",
+        "gurmukhi": "pRlY kwl ky kwl kI jÍwl jYsy ]19]",
         "pronunciation": null,
         "pronunciation_information": null,
         "type": "Pankti",
