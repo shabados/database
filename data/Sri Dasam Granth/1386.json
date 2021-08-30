@@ -12,45 +12,20 @@
         "source_line": null,
         "pronunciation": null,
         "pronunciation_information": null,
-        "type": "Pankti",
-        "gurmukhi": {
-          "SGPC": "kibXo bwc bynqI ]"
-        },
-        "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
-              "translation": "Speech of the poet.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
-              "translation": "ਕਵੀ ਨੇ ਬੇਨਤੀ ਕੀਤੀ:",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
-        "id": "2AP8",
-        "source_page": 1386,
-        "source_line": null,
-        "pronunciation": null,
-        "pronunciation_information": null,
         "type": "Sirlekh",
         "gurmukhi": {
-          "SGPC": "cOpeI ]"
+          "SGPC": "kibXo bwc bynqI ] cOpeI ]"
         },
         "translations": {
           "English": {
             "Dr. Surinder Singh Kohli": {
-              "translation": "Chaupai",
+              "translation": "Speech of the poet. Chaupai",
               "additional_information": {}
             }
           },
           "Punjabi": {
             "Dr. Rattan Singh Jaggi": {
-              "translation": "ਚੌਪਈ:",
+              "translation": "ਕਵੀ ਨੇ ਬੇਨਤੀ ਕੀਤੀ: ਚੌਪਈ:",
               "additional_information": {}
             }
           }
