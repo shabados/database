@@ -84,8 +84,8 @@
     ]
   },
   {
-    "name_gurmukhi": "rhrwis swihb",
-    "name_english": "Rehras Sahib",
+    "name_gurmukhi": "rhrwis swihb (s:)",
+    "name_english": "Rehras Sahib (S.)",
     "lines": [
       {
         "start_line": "W8FD",
@@ -110,6 +110,104 @@
       {
         "start_line": "6KNN",
         "end_line": "DM0Z"
+      },
+      {
+        "start_line": "7Q9Z",
+        "end_line": "2SUA"
+      },
+      {
+        "start_line": "LTKA",
+        "end_line": "4RHQ"
+      },
+      {
+        "start_line": "ELHF",
+        "end_line": "C1W0"
+      },
+      {
+        "start_line": "PGA7",
+        "end_line": "VC9N"
+      },
+      {
+        "start_line": "01DW",
+        "end_line": "CFFK"
+      },
+      {
+        "start_line": "XVLU",
+        "end_line": "GDHS"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "rhrwis swihb (t:)",
+    "name_english": "Rehras Sahib (T.)",
+    "lines": [
+      {
+        "start_line": "W8FD",
+        "end_line": "UXJK"
+      },
+      {
+        "start_line": "NAD0",
+        "end_line": "K9PD"
+      },
+      {
+        "start_line": "9ANB",
+        "end_line": "9B0E"
+      },
+      {
+        "start_line": "WJ68",
+        "end_line": "WJ68"
+      },
+      {
+        "start_line": "CHL7",
+        "end_line": "CHL7"
+      },
+      {
+        "start_line": "VZTG",
+        "end_line": "VZTG"
+      },
+      {
+        "start_line": "SKGS",
+        "end_line": "MPZK"
+      },
+      {
+        "start_line": "6KNN",
+        "end_line": "ACH9"
+      },
+      {
+        "start_line": "BE8H",
+        "end_line": "VCC6"
+      },
+      {
+        "start_line": "AN8V",
+        "end_line": "YKHZ"
+      },
+      {
+        "start_line": "TB6Y",
+        "end_line": "QC4P"
+      },
+      {
+        "start_line": "GWGJ",
+        "end_line": "ST9K"
+      },
+      {
+        "start_line": "H9EG",
+        "end_line": "JXJR"
+      },
+      {
+        "start_line": "8227",
+        "end_line": "LKYU"
+      },
+      {
+        "start_line": "TGJK",
+        "end_line": "BJYD"
+      },
+      {
+        "start_line": "YE8S",
+        "end_line": "GF3D"
+      },
+      {
+        "start_line": "G5GV",
+        "end_line": "EZV9"
       },
       {
         "start_line": "7Q9Z",
@@ -164,6 +262,76 @@
       {
         "start_line": "7Q9Z",
         "end_line": "2SUA"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "v`fI AwrqI",
+    "name_english": "Aarti (Longer)",
+    "lines": [
+      {
+        "start_line": "7V2L",
+        "end_line": "8NR3"
+      },
+      {
+        "start_line": "K8KM",
+        "end_line": "Y1NA"
+      },
+      {
+        "start_line": "D04G",
+        "end_line": "99C5"
+      },
+      {
+        "start_line": "ULH0",
+        "end_line": "716E"
+      },
+      {
+        "start_line": "CN1F",
+        "end_line": "BFR6"
+      },
+      {
+        "start_line": "R0D1",
+        "end_line": "NFE7"
+      },
+      {
+        "start_line": "EFWX",
+        "end_line": "N6UX"
+      },
+      {
+        "start_line": "7Q9Z",
+        "end_line": "2SUA"
+      },
+      {
+        "start_line": "MDK1",
+        "end_line": "UFKK"
+      },
+      {
+        "start_line": "GX9M",
+        "end_line": "U9T1"
+      },
+      {
+        "start_line": "87X5",
+        "end_line": "ASVR"
+      },
+      {
+        "start_line": "FPJH",
+        "end_line": "1KMV"
+      },
+      {
+        "start_line": "K26G",
+        "end_line": "ENXB"
+      },
+      {
+        "start_line": "2385",
+        "end_line": "V9UT"
+      },
+      {
+        "start_line": "GBMW",
+        "end_line": "MMAT"
+      },
+      {
+        "start_line": "7VAY",
+        "end_line": "15QX"
       }
     ]
   },
@@ -579,11 +747,21 @@
   },
   {
     "name_gurmukhi": "rwmklI sdu",
-    "name_english": "Raamkali Sadu",
+    "name_english": "Raamkali Sad",
     "lines": [
       {
         "start_line": "Q8FU",
         "end_line": "QPJH"
+      }
+    ]
+  },
+  {
+    "name_gurmukhi": "AlwhxIAw (sog dw gIq)",
+    "name_english": "Alahnia (Songs of Grief)",
+    "lines": [
+      {
+        "start_line": "K5AX",
+        "end_line": "429N"
       }
     ]
   }
