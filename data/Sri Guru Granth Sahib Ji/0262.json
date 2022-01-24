@@ -568,52 +568,6 @@
         }
       },
       {
-        "id": "6JS7",
-        "source_page": 262,
-        "source_line": 8,
-        "gurmukhi": "<> siqgur pRswid ]",
-        "pronunciation": "",
-        "pronunciation_information": "",
-        "type": "Manglacharan",
-        "translations": {
-          "English": {
-            "Dr. Sant Singh Khalsa": {
-              "translation": "One Universal Creator God. By The Grace Of The True Guru:",
-              "additional_information": {}
-            },
-            "Bhai Manmohan Singh": {
-              "translation": "There is but One God. By the True Guru's grace He is obtained.",
-              "additional_information": {}
-            }
-          },
-          "Punjabi": {
-            "Bhai Manmohan Singh": {
-              "translation": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ, ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।",
-              "additional_information": {}
-            },
-            "Fareedkot Teeka": {
-              "translation": "",
-              "additional_information": {
-                "reference": ""
-              }
-            },
-            "Prof. Sahib Singh": {
-              "translation": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
-              "additional_information": {
-                "arth": "",
-                "note": ""
-              }
-            }
-          },
-          "Spanish": {
-            "SikhNet": {
-              "translation": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru.",
-              "additional_information": {}
-            }
-          }
-        }
-      },
-      {
         "id": "UR26",
         "source_page": 262,
         "source_line": 8,
@@ -654,6 +608,52 @@
           "Spanish": {
             "SikhNet": {
               "translation": "Slok",
+              "additional_information": {}
+            }
+          }
+        }
+      },
+      {
+        "id": "6JS7",
+        "source_page": 262,
+        "source_line": 8,
+        "gurmukhi": "<> siqgur pRswid ]",
+        "pronunciation": "",
+        "pronunciation_information": "",
+        "type": "Manglacharan",
+        "translations": {
+          "English": {
+            "Dr. Sant Singh Khalsa": {
+              "translation": "One Universal Creator God. By The Grace Of The True Guru:",
+              "additional_information": {}
+            },
+            "Bhai Manmohan Singh": {
+              "translation": "There is but One God. By the True Guru's grace He is obtained.",
+              "additional_information": {}
+            }
+          },
+          "Punjabi": {
+            "Bhai Manmohan Singh": {
+              "translation": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ, ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।",
+              "additional_information": {}
+            },
+            "Fareedkot Teeka": {
+              "translation": "",
+              "additional_information": {
+                "reference": ""
+              }
+            },
+            "Prof. Sahib Singh": {
+              "translation": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
+              "additional_information": {
+                "arth": "",
+                "note": ""
+              }
+            }
+          },
+          "Spanish": {
+            "SikhNet": {
+              "translation": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru.",
               "additional_information": {}
             }
           }
