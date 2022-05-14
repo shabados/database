@@ -4,6 +4,7 @@
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "scripts": {
     "import": "node lib/import.js",
+    "backport": "node lib/backport.js",
     "benchmark": "node lib/benchmark.js",
     "build-sqlite": "node lib/build-sqlite.js",
     "build-mysql": "node lib/build-mysql.js",
