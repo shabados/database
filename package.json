@@ -1,6 +1,6 @@
 {
   "name": "@shabados/database",
-  "version": "4.8.1",
+  "version": "4.8.2",
   "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
   "types": "index.d.ts",
   "scripts": {
