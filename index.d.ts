@@ -148,6 +148,6 @@ declare module '@shabados/database' {
      nameGurmukhi: string
      nameEnglish: string
 
-     lines?: Lines[]
+     lines?: (Lines & { lineGroup: number })[]
    }
 }
