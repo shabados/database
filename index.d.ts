@@ -34,7 +34,7 @@ declare module '@shabados/database' {
      languageId: number
      transliteration: string
 
-     language?: Lnaguages
+     language?: Languages
      line?: Lines
    }
 
