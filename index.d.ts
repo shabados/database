@@ -1,13 +1,9 @@
 /* eslint-disable max-classes-per-file, import/no-extraneous-dependencies */
 
 declare module '@shabados/database' {
-  import { Model, QueryBuilder } from 'objection'
+  import { Model, ModelObject, QueryBuilder } from 'objection'
 
-  type RecursiveHelper<T> = { [P in keyof T]: UnwrapModel<T[P]> }
-
-  export type UnwrapModel<M> = M extends Model
-    ? RecursiveHelper<ReturnType<M['toJSON']>>
-    : RecursiveHelper<M>
+  export type { Model, ModelObject, QueryBuilder }
 
   export const knex: ReturnType<Model['$knex']>
 
