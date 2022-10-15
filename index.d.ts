@@ -5,6 +5,14 @@ declare module '@shabados/database' {
 
   export type { Model, ModelObject, QueryBuilder }
 
+  type RecursiveHelper<T> = { [P in keyof T]: UnwrapRecursive<T[P]> }
+
+  export type UnwrapRecursive<M> = M extends Model
+    ? RecursiveHelper<ModelObject<M>>
+    : RecursiveHelper<M>
+
+  export type UnwrapModel<M extends Model> = UnwrapRecursive<M>
+
   export const knex: ReturnType<Model['$knex']>
 
   export type CommonBuilder<M extends Model> = QueryBuilder<M> & {
