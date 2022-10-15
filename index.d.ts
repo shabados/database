@@ -3,6 +3,12 @@
 declare module '@shabados/database' {
   import { Model, QueryBuilder } from 'objection'
 
+  type RecursiveHelper<T> = { [P in keyof T]: UnwrapModel<T[P]> }
+
+  export type UnwrapModel<M> = M extends Model
+    ? RecursiveHelper<ReturnType<M['toJSON']>>
+    : RecursiveHelper<M>
+
   export const knex: ReturnType<Model['$knex']>
 
    type CommonBuilder<M extends Model> = QueryBuilder<M> & {
@@ -25,8 +31,8 @@ declare module '@shabados/database' {
      translation: string
      additionalInformation: string
 
-     translationSource?: TranslationSources
-     line?: Lines
+     translationSource?: UnwrapModel<TranslationSources>
+     line?: UnwrapModel<Lines>
    }
 
    export class Transliterations extends Model {
@@ -34,8 +40,8 @@ declare module '@shabados/database' {
      languageId: number
      transliteration: string
 
-     language?: Languages
-     line?: Lines
+     language?: UnwrapModel<Languages>
+     line?: UnwrapModel<Lines>
    }
 
    export class Lines extends Model {
