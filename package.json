@@ -8,6 +8,7 @@
     "benchmark": "node lib/benchmark.js",
     "build-sqlite": "node lib/build-sqlite.js",
     "build-mysql": "node lib/build-mysql.js",
+    "build-mysql-mariadb": "node lib/build-mysql-mariadb.js",
     "build-json": "node lib/build-json.js",
     "generate-id": "node lib/generate-id.js",
     "release": "./release.sh",
@@ -61,7 +62,7 @@
     "release-it": "^12.4.3",
     "rimraf": "^3.0.2",
     "snakecase-keys": "^3.1.0",
-    "sqlite3": "^4.1.1",
+    "sqlite3": "^5.1.7",
     "string-similarity": "^3.0.0"
   },
   "devDependencies": {
