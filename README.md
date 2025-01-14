@@ -2,7 +2,10 @@
 
 # Database
 
-A digital representation of Sikh Bani and other Panthic texts with a public logbook of sangat-sourced corrections
+> [!NOTE]
+> This is the next major version of the database. Documentation is currently being updated.
+
+A digital representation of Sikh Bani and other Panthic texts with a public logbook of sangat-sourced corrections.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -130,19 +133,23 @@ Please note that this project is released under the Contributor Covenant. By par
 
 ## License
 
-**NOTE**: Applies to code and content resting outside of the `data` folder.
+> [!NOTE]
+> Applies to code and content resting outside of the `data` folder.
 
-This project is under v3 of the [GPL](LICENSE.md). It is similar to the Golden Rule: do unto others as you would have them do unto you. In exchange for benefitting from the work completed in this repo, others must share their derivative work under v3 of the [GPL](LICENSE.md).
+The code under this project falls under the [MIT License](LICENSE.md).
 
-> This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+> Copyright (c) Shabad OS Organization and Contributors
 >
-> This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 >
-> You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Gurbani and Panthic Compositions
 
-**NOTE**: Applies to different texts inside the `data` folder, generated inside the `build` folder, and as releases (e.g. GitHub, npm).
+> [!NOTE]
+> Applies to different texts inside the `data` folder, generated inside the `build` folder, and as releases (e.g. GitHub, npm).
 
 As typical of many old, historical works, most gurbani and panthic texts are free of known copyright restrictions. We identify it as being in the [public domain](https://creativecommons.org/publicdomain/mark/1.0/) as a work of factual compilation with originality. The honor and reputation of the original works are to be maintained. Derogatory treatments (including adding to, deleting from, altering of, or adapting) the words in a way that distorts or mutilates the original work is forbidden. That is why, whenever possible, physical sources are used to determine the digital representation of these works as to avoid any controversy.
 

@@ -1,26 +1,7 @@
 {
   "name": "@shabados/database",
-  "version": "4.7.0",
-  "description": "The open gurbani database containing an evolving set of corrections. Used in Shabad OS software.",
-  "scripts": {
-    "import": "node lib/import.js",
-    "backport": "node lib/backport.js",
-    "benchmark": "node lib/benchmark.js",
-    "build-sqlite": "node lib/build-sqlite.js",
-    "build-mysql": "node lib/build-mysql.js",
-    "build-json": "node lib/build-json.js",
-    "generate-id": "node lib/generate-id.js",
-    "release": "./release.sh",
-    "test": "mocha test --exit",
-    "precommit": "lint-staged",
-    "serve-docs": "docsify serve docs -p 3001"
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "git add"
-    ]
-  },
+  "version": "5.0.0-next.0",
+  "description": "A digital representation of Sikh Bani and other Panthic texts.",
   "keywords": [
     "gurbani",
     "database",
@@ -41,38 +22,8 @@
   "contributors": [
     "GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"
   ],
-  "license": "GPL-3.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
-  },
-  "homepage": "https://github.com/ShabadOS/database#readme",
-  "dependencies": {
-    "anyid": "^1.0.7",
-    "colors": "^1.4.0",
-    "commander": "^4.1.1",
-    "fast.js": "^0.1.1",
-    "freshy": "^1.0.4",
-    "gurmukhi-utils": "^3.1.0",
-    "is-ascii": "^1.0.0",
-    "knex": "^0.19.5",
-    "lodash": "^4.17.15",
-    "memoizee": "^0.4.14",
-    "objection": "^2.1.3",
-    "release-it": "^12.4.3",
-    "rimraf": "^3.0.2",
-    "snakecase-keys": "^3.1.0",
-    "sqlite3": "^4.1.1",
-    "string-similarity": "^3.0.0"
-  },
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "docsify-cli": "^4.4.0",
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^17.1.1",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.17.0",
-    "lint-staged": "^8.2.1",
-    "mocha": "^7.1.1"
   }
 }
