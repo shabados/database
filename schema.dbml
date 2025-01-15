@@ -1,0 +1,160 @@
+enum line_kind {
+  refrain
+  heading
+  line
+  invocation
+  orphan
+}
+
+enum language {
+  "iso-639"
+}
+
+enum asset_type {
+  primary
+  translations
+}
+
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+Table line_groups {
+  id string [pk]
+  bookmark_id string [ref: > bookmarks.id]
+  line_id string [ref: > lines.id]
+  author string [ref: - authors.id]
+  related_assets string [ref: <> assets.id]
+  order_id int
+}
+
+Table lines {
+  id string [primary key]
+  kind line_kind
+  // Standardised ordering for conceptual
+  line_number int
+  // need a better letter
+  p int
+  related_assets string [ref: <> assets.id]
+}
+
+Table recommended_line_assets {
+  asset_id string [ref: - assets.id]
+  language language
+  type asset_type
+  priority int
+}
+
+// asset_id | lang | type
+// --
+// ssa2 | pa | primary
+// svsv | pa | primary
+Table line_data {
+  line_id string [ref: < lines.id]
+  asset_id int [ref: - assets.id]
+  type asset_type
+  language language
+  data string
+}
+
+Table authors {
+  id string
+  first_name string
+  last_names string
+}
+
+// Banis also have to be able to include / augment from other material sources
+// TO discuss
+table bookmark_folders {
+  // id = 0 is root folder
+  id string
+  bookmark_id string [ref: - bookmarks.id]
+  bookmarks b [ref: <> bookmarks.id]
+}
+
+table bookmarks {
+  id string
+  name string
+}
+
+table banis {
+  id string
+  bookmark_id string [ref: - bookmarks.id]
+  name i18string
+  asset_id string [ref: - assets.id]
+  lines string [ref: <> lines.id]
+}
+
+// Amrit Keertan will be an asset (for research reasons)
+// But a bookmark for browsing reasons
+// Mahan Kosh -> word level
+table dictionaries {
+  id string
+  asset_id string [ref: - assets.id]
+}
+
+table words {
+  id string
+}
+
+// future can have recommended dicitionaries
+// for now, return all defintiions but ordered
+table word_definitions {
+  word_id string [ref: - words.id]
+  dictionary_id string [ref: - dictionaries.id]
+  language language
+  definition string
+}
+
+// generated from word_representations
+table words_search {
+  query string [primary key]
+  word_id string [ref: > words.id]
+  // unique per query <> word_id pair
+  priority int
+}
+
+table word_representations {
+  dictionary_id string [ref: - dictionaries.id]
+  word_id string [ref: - words.id]
+  language language
+  script script
+  // primary key (dict_id, word_id, lang, script)
+  word string
+  alternative_spellings string[]
+}
+
+// Assets Scenarios:
+// - Kirtan of (line groups | banis)[]
+// - Katha/Podcasts of (lines, line groups, banis)[]
+// - Notes / compositions (pictures) of (line groups, banis)
+// - PDFs, books (line groups)[]
+Table asset_author {
+  id string [pk]
+  name string
+}
+
+Table asset_group {
+  id string [pk]
+  name string
+  assets string [ref: > assets.id]
+}
+
+Table assets {
+  id string [primary key]
+  name string
+  authors string [ref: > asset_author.id]
+  publisher string
+  published_date Date
+  // ....
+}
+
+Table audio {
+  asset_id string [ref: > assets.id]
+}
+
+Table video {
+  asset_id string [ref: > assets.id]
+}
+
+Table pdf {
+  asset_id string [ref: > assets.id]
+}

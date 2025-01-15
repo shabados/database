@@ -1,0 +1,7 @@
+{
+  "[dbml]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "aflalo.dbml-formatter"
+  },
+  "dbmlERDPreviewer.preferredTheme": "dark"
+}
