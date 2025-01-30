@@ -1,3 +1,29 @@
+enum iso_639_codes {
+  en
+  es
+  pa
+}
+
+table iso_639_strings {
+  id int [primary key]
+  code iso_639_codes [primary key]
+  value string
+  Note: 'Strings for a given iso-639 code. E.g. en, es, pa, etc'
+}
+
+enum iso_15924_codes {
+  Latn
+  Aran
+  Guru
+}
+
+table iso_15924_strings {
+  id int [primary key]
+  code iso_15924_codes [primary key]
+  value string
+  Note: 'Strings for a given iso-15924 code. E.g. Latn, Aran, Guru, etc'
+}
+
 enum line_kind {
   refrain
   heading
@@ -10,20 +36,23 @@ enum language {
   "iso-639"
 }
 
-enum asset_type {
-  primary
+enum line_data_type {
+  recitable [note: 'Recitable Gurbani']
+  panthic [note: 'Non-singable panthic text E.g. suraj prakash']
   translations
+  // We should decide if we need this
+  transliteration
 }
 
-// Use DBML to define your database structure
-// Docs: https://dbml.dbdiagram.io/docs
+
 Table line_groups {
-  id string [pk]
+  id string [primary key]
   bookmark_id string [ref: > bookmarks.id]
   line_id string [ref: > lines.id]
   author string [ref: - authors.id]
-  related_assets string [ref: <> assets.id]
+  // related_assets string [ref: <> assets.id, note: 'Related, useful assets to the line group. E.g. Kirtan, Katha, etc.']
   order_id int
+  Note: 'A line group is a grouped, ordered portion of lines. E.g. a shabad.'
 }
 
 Table lines {
@@ -31,56 +60,93 @@ Table lines {
   kind line_kind
   // Standardised ordering for conceptual
   line_number int
-  // need a better letter
-  p int
-  related_assets string [ref: <> assets.id]
+  page int
+  related_assets string [ref: <> assets.id, note: 'Related, useful assets to the line. E.g. katha, kirtan, podcasts, notes, etc.']
+  // Could be on line_group instead?
+  source_id string [ref: - sources.id]
+  Note: '''
+  A fundamental, abstract unit of content, backed by a consistent id.
+  Whilst a line represents a single unit of content abstractly, it can have multiple representations, depending on the asset selected.
+  E.g. a line may have the same identifier, but the assets may have different translations.
+  '''
 }
 
 Table recommended_line_assets {
   asset_id string [ref: - assets.id]
-  language language
-  type asset_type
+  language int [ref: - iso_639_strings.id]
+  type line_data_type
   priority int
+  Note: 'Our recommendation of which asset to read from for a line. Used to prioritise what to display from line_data.'
 }
 
-// asset_id | lang | type
-// --
-// ssa2 | pa | primary
-// svsv | pa | primary
 Table line_data {
   line_id string [ref: < lines.id]
   asset_id int [ref: - assets.id]
-  type asset_type
-  language language
+  type line_data_type [note: 'The type of line data. E.g. primary, translation, etc.']
+  language int [ref: - iso_639_strings.id]
   data string
+  Note: '''
+  Whilst a line represents a single unit of content, abstractly, it can have multiple representations.
+  E.g. a line may have a variation depending on the publisher, or have multiple translations.
+
+  line_data is a table of all representations of a line according to different assets.
+  '''
 }
 
 Table authors {
   id string
-  first_name string
-  last_names string
+  name int [ref: - iso_15924_strings.id]
+  Note: 'The composer of a line group within a source. e.g. Guru Nanak Dev Ji, etc.'
 }
 
 // Banis also have to be able to include / augment from other material sources
 // TO discuss
 table bookmark_folders {
   // id = 0 is root folder
-  id string
+  id int [primary key]
   bookmark_id string [ref: - bookmarks.id]
-  bookmarks b [ref: <> bookmarks.id]
+  bookmarks bookmarks [ref: <> bookmarks.id]
+  Note: '''
+  A folder is a collection of bookmarks.
+
+  The root folder will have id = 0
+  '''
+}
+
+enum bookmark_type {
+  line_group
+  bani
+  source
 }
 
 table bookmarks {
-  id string
+  id int [primary key]
   name string
+  type bookmark_type
+  Note: '''
+  A bookmark is an organisational unit for a collection of lines, line groups, banis, etc.
+
+  The root bookmark will have id = 0 and type = folder
+  '''
 }
 
+// A published collection of lines
 table banis {
   id string
   bookmark_id string [ref: - bookmarks.id]
   name i18string
-  asset_id string [ref: - assets.id]
   lines string [ref: <> lines.id]
+  related_assets string [ref: <> assets.id, note: 'Related, useful assets to the bani. E.g. katha, kirtan, podcasts, notes, etc.']
+}
+
+// Composition e.g. SGGS
+table sources {
+  id string
+  bookmark_id string [ref: - bookmarks.id]
+  name int [ref: - iso_15924_strings.id]
+  Note: '''
+  Represents a composition containing lines. E.g. SGGS, Sarbloh Granth.
+  '''
 }
 
 // Amrit Keertan will be an asset (for research reasons)
@@ -122,29 +188,54 @@ table word_representations {
   alternative_spellings string[]
 }
 
-// Assets Scenarios:
-// - Kirtan of (line groups | banis)[]
-// - Katha/Podcasts of (lines, line groups, banis)[]
-// - Notes / compositions (pictures) of (line groups, banis)
-// - PDFs, books (line groups)[]
-Table asset_author {
-  id string [pk]
-  name string
+Table asset_authors {
+  id string [primary key]
+  first_name string
+  last_name string
 }
 
-Table asset_group {
-  id string [pk]
+Table asset_groups {
+  id string [primary key]
   name string
   assets string [ref: > assets.id]
+  Note: '''
+  A group of assets that are related to each other.
+
+  Examples:
+  - Bundled Content: To group related assets that form a complete work (e.g., a multi-part katha series or a collection of kirtan recordings that belong together)
+  - Different Formats: To link different formats of the same content (e.g., a video recording and its audio-only version, or PDF transcripts of the same content)
+  - Versioning/Editions: To group different versions or editions of the same content while maintaining them as separate assets
+  - Playlists/Collections: To allow user-created or curated collections of related assets
+  '''
+}
+
+enum asset_type {
+  audio
+  video
+  pdf
 }
 
 Table assets {
   id string [primary key]
   name string
-  authors string [ref: > asset_author.id]
+  authors string [ref: > asset_authors.id]
   publisher string
   published_date Date
-  // ....
+  type asset_type
+  Note:
+  '''
+  A digitised source of content. e.g. a PDF, audio, video, etc.'
+
+  Assets have 2 fundamental purposes:
+  - To be a source of primary content for lines, exposed in line_data. E.g. line ABCD can have multiple line_data entries, each with a different asset_id, corresponding to different translations, or different variations of the same content.
+  - To provide a related content for a user to browse, e.g. a PDF, audio, video, etc.
+
+  Examples of related assets:
+  - Kirtan of line groups / banis
+  - Katha / Podcasts of lines, line groups, banis
+  - Notes / compositions (pictures) of line groups, banis
+  - PDFs, books of line groups
+  '''
 }
 
 Table audio {
