@@ -25,5 +25,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
+  },
+  "dependencies": {
+    "valibot": "^1.0.0-rc.3"
   }
 }
