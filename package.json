@@ -19,14 +19,23 @@
     "url": "git+https://github.com/ShabadOS/database.git"
   },
   "author": "Shabad OS Team <team@shabados.com>",
-  "contributors": [
-    "GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"
-  ],
+  "contributors": ["GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
   },
+  "type": "module",
+  "imports": {
+    "#~/*": "./*"
+  },
+  "scripts": {
+    "lint": "biome check .",
+    "format": "biome check --write .",
+  },
   "dependencies": {
     "valibot": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
   }
 }

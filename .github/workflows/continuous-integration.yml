@@ -1,0 +1,11 @@
+name: Continuous Integration
+
+on:
+  push:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/actions/setup
+      - run: npm run lint
