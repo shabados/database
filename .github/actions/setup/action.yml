@@ -1,4 +1,5 @@
-name: Setup Dependencies
+name: Setup
+description: Setup Node dependencies
 
 runs:
   using: composite
@@ -7,3 +8,5 @@ runs:
       with:
         node-version-file: .nvmrc
         cache: npm
+    - run: npm ci
+      shell: bash

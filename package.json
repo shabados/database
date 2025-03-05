@@ -30,12 +30,12 @@
   },
   "scripts": {
     "lint": "biome check .",
-    "format": "biome check --write .",
+    "format": "biome check --write ."
   },
   "dependencies": {
     "valibot": "^1.0.0-rc.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
+    "@biomejs/biome": "^1.9.4"
   }
 }
