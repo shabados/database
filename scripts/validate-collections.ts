@@ -1,33 +1,62 @@
-import fg from 'fast-glob'
-import { type ObjectEntries, type ObjectSchema, safeParseAsync } from 'valibot'
-
 import { readFile } from 'node:fs/promises'
+import Ajv from 'ajv'
 import chalk from 'chalk'
 import dedent from 'dedent'
-import { AssetSchema } from '#~/types/collections'
+import fg from 'fast-glob'
 
-const validateCollection = async (name: string, schema: ObjectSchema<ObjectEntries, undefined>) => {
-  console.log(chalk.green(`\nValidating ${name} collection...`))
+const ajv = new Ajv({
+  allErrors: true,
+})
 
-  const collectionPath = `./collections/${name}`
+const SCHEMA_PATH = './collections/$schemas'
+
+const commonSchema = JSON.parse(await readFile(`${SCHEMA_PATH}/common.json`, 'utf-8'))
+ajv.addSchema(commonSchema)
+
+const validateCollection = async (schemaFile: string, collectionName: string) => {
+  console.log(
+    chalk.green(`\nValidating ${collectionName} collection using ${schemaFile} schema...`),
+  )
+
+  const schemaContent = JSON.parse(await readFile(`${SCHEMA_PATH}/${schemaFile}`, 'utf-8'))
+  const validate = ajv.compile(schemaContent)
+
+  const collectionPath = `./collections/${collectionName}`
   const collection = await fg(`${collectionPath}/**/*.json`)
+
+  let hasErrors = false
 
   for (const filePath of collection) {
     const data = JSON.parse(await readFile(filePath, 'utf-8'))
-    const result = await safeParseAsync(schema, data)
+    const isValid = validate(data)
 
     const fileName = filePath.replace(`${collectionPath}/`, '')
 
-    if (!result.success) {
+    if (!isValid) {
+      hasErrors = true
       console.error(
         chalk.red(
-          dedent`Invalid ${name} document: ${fileName}
-          ${result.issues.map((issue) => `- ${issue.message}`).join('\n')}
+          dedent`Invalid ${collectionName} document: ${fileName}
+          ${validate.errors?.map((error) => `- ${error.instancePath || '/'} ${error.message}`).join('\n')}
       `,
         ),
       )
     }
   }
+
+  if (!hasErrors) {
+    console.log(chalk.green(`✓ All ${collectionName} documents are valid`))
+  }
+
+  return !hasErrors
 }
 
-await validateCollection('assets', AssetSchema)
+const validationConfigs = [{ schemaFile: 'assets.json', collectionName: 'assets' }]
+
+let allSuccess = true
+for (const config of validationConfigs) {
+  const success = await validateCollection(config.schemaFile, config.collectionName)
+  if (!success) allSuccess = false
+}
+
+process.exit(allSuccess ? 0 : 1)
