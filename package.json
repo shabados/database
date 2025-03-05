@@ -26,16 +26,21 @@
   },
   "type": "module",
   "imports": {
-    "#~/*": "./*"
+    "#~/*": "./*.ts"
   },
   "scripts": {
     "lint": "biome check .",
-    "format": "biome check --write ."
+    "format": "biome check --write .",
+    "validate": "node --experimental-strip-types scripts/validate-collections.ts"
   },
   "dependencies": {
+    "@types/node": "^22.13.9",
     "valibot": "^1.0.0-rc.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4"
+    "@biomejs/biome": "^1.9.4",
+    "chalk": "^5.4.1",
+    "dedent": "^1.5.3",
+    "fast-glob": "^3.3.3"
   }
 }
