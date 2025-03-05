@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "common.json",
+  "definitions": {
+    "Iso15924": {
+      "type": "object",
+      "required": ["Latn", "Guru"],
+      "properties": {
+        "Latn": { "type": "string" },
+        "Guru": { "type": "string" }
+      }
+    },
+    "Person": {
+      "type": "object",
+      "required": ["first", "last"],
+      "properties": {
+        "first": { "type": "string" },
+        "middle": { "type": "string" },
+        "last": { "type": "string" },
+        "prefix": { "type": "string" },
+        "suffix": { "type": "string" }
+      }
+    },
+    "Publisher": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "city": { "type": "string" },
+        "country": { "type": "string" }
+      }
+    },
+    "Publication": {
+      "type": "object",
+      "required": ["date"],
+      "properties": {
+        "date": { "type": "string" },
+        "version": { "type": "string" }
+      }
+    },
+    "Volume": {
+      "type": "object",
+      "properties": {
+        "current": { "type": "number" },
+        "total": { "type": "number" }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "assets.json",
+  "title": "Asset",
+  "description": "An asset in the collection",
+  "definitions": {
+    "Source": {
+      "type": "object",
+      "required": ["authors", "title", "publisher", "publication"],
+      "properties": {
+        "authors": {
+          "type": "array",
+          "items": { "$ref": "common.json#/definitions/Person" }
+        },
+        "translators": {
+          "type": "array",
+          "items": { "$ref": "common.json#/definitions/Person" }
+        },
+        "title": { "type": "string" },
+        "subtitle": { "type": "string" },
+        "edition": { "type": "string" },
+        "publisher": { "$ref": "common.json#/definitions/Publisher" },
+        "publication": { "$ref": "common.json#/definitions/Publication" },
+        "url": { "type": "string" },
+        "accessed": { "type": "string" },
+        "volume": { "$ref": "common.json#/definitions/Volume" },
+        "type": { "type": "string" },
+        "language": { "type": "string" },
+        "isbn": { "type": "string" },
+        "doi": { "type": "string" },
+        "pages": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    }
+  },
+  "type": "object",
+  "required": ["name", "source"],
+  "properties": {
+    "name": { "$ref": "common.json#/definitions/Iso15924" },
+    "source": { "$ref": "#/definitions/Source" }
+  }
+}

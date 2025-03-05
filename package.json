@@ -19,7 +19,9 @@
     "url": "git+https://github.com/ShabadOS/database.git"
   },
   "author": "Shabad OS Team <team@shabados.com>",
-  "contributors": ["GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"],
+  "contributors": [
+    "GurbaniNow Team <contact@gurbaninow.com> (https://gurbaninow.com)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ShabadOS/database/issues"
@@ -34,11 +36,11 @@
     "validate": "node --experimental-strip-types scripts/validate-collections.ts"
   },
   "dependencies": {
-    "@types/node": "^22.13.9",
-    "valibot": "^1.0.0-rc.3"
+    "ajv": "^8.17.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
+    "@types/node": "^22.13.9",
     "chalk": "^5.4.1",
     "dedent": "^1.5.3",
     "fast-glob": "^3.3.3"

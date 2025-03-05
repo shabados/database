@@ -29,5 +29,11 @@
   "[html]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "dbmlERDPreviewer.preferredTheme": "dark"
+  "dbmlERDPreviewer.preferredTheme": "dark",
+  "json.schemas": [
+    {
+      "fileMatch": ["collections/assets/**/*.json"],
+      "url": "./collections/$schemas/assets.json"
+    }
+  ]
 }
