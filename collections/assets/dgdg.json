@@ -1,8 +1,16 @@
 {
   "name": {
-    "Latn": "Das Granthi"
+    "Latn": "Das Granthi",
+    "Guru": "ਦਸ ਗ੍ਰੰਥੀ"
   },
-  "citation": {
-    "mla": "Das Granthi. SGPC, Sri Amritsar, Jul 2014."
+  "source": {
+    "title": "Das Granthi",
+    "publisher": {
+      "name": "SGPC",
+      "city": "Sri Amritsar"
+    },
+    "publication": {
+      "date": "2014-07"
+    }
   }
 }

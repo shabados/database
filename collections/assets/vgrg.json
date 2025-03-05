@@ -1,8 +1,28 @@
 {
   "name": {
-    "Latn": "Varan Giaan Ratnaavli Bhai Gurdaas Ji"
+    "Latn": "Varan Giaan Ratnaavli Bhai Gurdaas Ji",
+    "Guru": "ਵਾਰਾਂ ਗਿਆਨ ਰਤਨਾਵਲੀ ਭਾਈ ਗੁਰਦਾਸ ਜੀ"
   },
-  "citation": {
-    "mla": "Ashok, Shamsher S, and Chakar, Amar S. Varan Giaan Ratnaavli Bhai Gurdaas Ji. SGPC, Sri Amritsar, Nov 2011, www.vidhia.com/Bhai%20Gurdaas%20Ji/Vaaran%20Bhai%20Gurdaas%20Ji%20-%20SGPC.pdf. Accessed 22 Jan 2019."
+  "source": {
+    "authors": [
+      {
+        "first": "Shamsher S",
+        "last": "Ashok"
+      },
+      {
+        "first": "Amar S",
+        "last": "Chakar"
+      }
+    ],
+    "title": "Varan Giaan Ratnaavli Bhai Gurdaas Ji",
+    "publisher": {
+      "name": "SGPC",
+      "city": "Sri Amritsar"
+    },
+    "publication": {
+      "date": "2011-11"
+    },
+    "url": "www.vidhia.com/Bhai%20Gurdaas%20Ji/Vaaran%20Bhai%20Gurdaas%20Ji%20-%20SGPC.pdf",
+    "accessed": "2019-01-22"
   }
 }

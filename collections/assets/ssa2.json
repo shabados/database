@@ -1,12 +1,27 @@
 {
   "name": {
-    "Latn": "Shabadaarth"
+    "Latn": "Shabadaarth",
+    "Guru": "ਸ਼ਬਦਾਰਥ"
   },
-  "meta": {
-    "publisher_city": "Sri Amritsar",
-    "publication_date": "2009-2012"
-  },
-  "citation": {
-    "mla": "Shabadaarth. Vol. 1-4, SGPC, Sri Amritsar, 2009-2012, www.archive.org/details/ShabdaarthSriGuruGranthSahibJi-Part1. Accessed 22 Jan 2019."
+  "source": {
+    "authors": [
+      {
+        "first": "SGPC",
+        "last": "Committee"
+      }
+    ],
+    "title": "Shabadaarth",
+    "publisher": {
+      "name": "SGPC",
+      "city": "Sri Amritsar"
+    },
+    "publication": {
+      "date": "2009-2012"
+    },
+    "volume": {
+      "total": 4
+    },
+    "url": "www.archive.org/details/ShabdaarthSriGuruGranthSahibJi-Part1",
+    "accessed": "2019-01-22"
   }
 }

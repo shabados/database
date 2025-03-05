@@ -1,5 +1,17 @@
 {
   "name": {
     "Latn": "SikhNet Spanish Translation"
+  },
+  "source": {
+    "authors": [
+      {
+        "first": "SikhNet",
+        "last": "Team"
+      }
+    ],
+    "title": "SikhNet Spanish Translation",
+    "publisher": {
+      "name": "SikhNet"
+    }
   }
 }

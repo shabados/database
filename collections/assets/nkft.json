@@ -1,8 +1,20 @@
 {
   "name": {
-    "Latn": "Faridkot Wala Teeka"
+    "Latn": "Faridkot Wala Teeka",
+    "Guru": "ਫਰੀਦਕੋਟ ਵਾਲਾ ਟੀਕਾ"
   },
-  "citation": {
-    "mla": "Singh, Badan. Fridkot Wala Teeka. Bh. Baljinder Singh Rara Sahib, www.ik13.com/PDFS/Fridkot_Wala_Teeka.pdf. Accessed 24 May 2020."
+  "source": {
+    "authors": [
+      {
+        "first": "Badan",
+        "last": "Singh"
+      }
+    ],
+    "title": "Fridkot Wala Teeka",
+    "publisher": {
+      "name": "Bh. Baljinder Singh Rara Sahib"
+    },
+    "url": "www.ik13.com/PDFS/Fridkot_Wala_Teeka.pdf",
+    "accessed": "2020-05-24"
   }
 }

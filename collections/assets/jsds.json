@@ -1,12 +1,24 @@
 {
   "name": {
-    "Latn": "Sri Guru Granth Sahib Ji Shudh Ucharan"
+    "Latn": "Sri Guru Granth Sahib Ji Shudh Ucharan",
+    "Guru": "ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਸ਼ੁੱਧ ਉਚਾਰਨ"
   },
-  "meta": {
-    "publisher_city": "Sri Damdami Taksaal",
-    "publication_date": "Oct 2015"
-  },
-  "citation": {
-    "mla": "Dauder, Jaswant S. Sri Guru Granth Sahib Ji Shudh Ucharan, Arth Paath Vishraam Pothi, Sri Damdami Taksaal. Oct 2015, www.gursevak.com/drupal7/sites/default/files/Vishram%20Sri%20Guru%20Granth%20Sahib%20Jee.pdf. Accessed 18 May 2020."
+  "source": {
+    "authors": [
+      {
+        "first": "Jaswant S",
+        "last": "Dauder"
+      }
+    ],
+    "title": "Sri Guru Granth Sahib Ji Shudh Ucharan",
+    "subtitle": "Arth Paath Vishraam Pothi",
+    "publisher": {
+      "name": "Sri Damdami Taksaal"
+    },
+    "publication": {
+      "date": "2015-10"
+    },
+    "url": "www.gursevak.com/drupal7/sites/default/files/Vishram%20Sri%20Guru%20Granth%20Sahib%20Jee.pdf",
+    "accessed": "2020-05-18"
   }
 }

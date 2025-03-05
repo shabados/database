@@ -1,14 +1,25 @@
 {
   "name": {
-    "Latn": "Varan Bhai Gurdas Steek"
+    "Latn": "Varan Bhai Gurdas Steek",
+    "Guru": "ਵਾਰਾਂ ਭਾਈ ਗੁਰਦਾਸ ਸਟੀਕ"
   },
-  "meta": {
-    "author": {
-      "first": "Vir",
-      "last": "Singh"
-    }
-  },
-  "citation": {
-    "mla": "Singh, Vir. Varan Bhai Gurdas Steek. 22nd ed., New Delhi, Jul 2012, www.archive.org/details/VaraanBhaiGurdasSteek-BhaiVirSingh. Accessed 18 May 2020."
+  "source": {
+    "authors": [
+      {
+        "prefix": "Bhai",
+        "first": "Vir",
+        "last": "Singh"
+      }
+    ],
+    "title": "Varan Bhai Gurdas Steek",
+    "publisher": {
+      "city": "New Delhi"
+    },
+    "publication": {
+      "date": "2012-07",
+      "version": "22nd ed."
+    },
+    "url": "www.archive.org/details/VaraanBhaiGurdasSteek-BhaiVirSingh",
+    "accessed": "2020-05-18"
   }
 }

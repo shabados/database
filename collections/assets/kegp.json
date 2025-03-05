@@ -2,7 +2,21 @@
   "name": {
     "Latn": "Kalaam-e-Goya"
   },
-  "citation": {
-    "mla": "Kalaam-e-Goya. Translated by Pritpal S Bindra, Institute of Sikh Studies, Chandigarh, 2003"
+  "source": {
+    "authors": [
+      {
+        "first": "Pritpal S",
+        "last": "Bindra",
+        "role": "Translator"
+      }
+    ],
+    "title": "Kalaam-e-Goya",
+    "publisher": {
+      "name": "Institute of Sikh Studies",
+      "city": "Chandigarh"
+    },
+    "publication": {
+      "date": "2003"
+    }
   }
 }
