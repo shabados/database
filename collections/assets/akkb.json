@@ -1,8 +1,12 @@
 {
   "name": {
-    "Latn": "Amrit Kirtan"
+    "Latn": "Amrit Kirtan",
+    "Guru": "ਅੰਮ੍ਰਿਤ ਕੀਰਤਨ"
   },
-  "meta": {
-    "publisher": "Khalsa Brothers"
+  "source": {
+    "title": "Amrit Kirtan",
+    "publisher": {
+      "name": "Khalsa Brothers"
+    }
   }
 }

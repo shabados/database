@@ -1,13 +1,19 @@
 {
   "name": {
-    "Latn": "Siri Guru Granth Sahib Ji"
+    "Latn": "Siri Guru Granth Sahib Ji",
+    "Guru": "ਸਿਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ"
   },
-  "meta": {
-    "author": {
-      "first": "Dr. Sant S",
-      "last": "Khalsa"
-    },
+  "source": {
+    "authors": [
+      {
+        "prefix": "Dr.",
+        "first": "Sant S",
+        "last": "Khalsa"
+      }
+    ],
     "title": "Siri Guru Granth Sahib Ji",
-    "publication_date": "Mar 2013"
+    "publication": {
+      "date": "2013-03"
+    }
   }
 }

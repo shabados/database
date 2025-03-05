@@ -1,13 +1,22 @@
 {
   "name": {
-    "Latn": "Sri Dasam Granth Sahib Translation"
+    "Latn": "Sri Dasam Granth Sahib Translation",
+    "Guru": "ਸ੍ਰੀ ਦਸਮ ਗ੍ਰੰਥ ਸਾਹਿਬ ਅਨੁਵਾਦ"
   },
-  "meta": {
-    "author": {
-      "first": "Dr. Surinder S",
-      "last": "Kohli"
+  "source": {
+    "authors": [
+      {
+        "prefix": "Dr.",
+        "first": "Surinder S",
+        "last": "Kohli"
+      }
+    ],
+    "title": "Sri Dasam Granth Sahib Translation",
+    "publisher": {
+      "name": "Sikh National Heritage Trust"
     },
-    "publisher": "Sikh National Heritage Trust",
-    "publication_date": "1 Jan 2003"
+    "publication": {
+      "date": "2003-01-01"
+    }
   }
 }

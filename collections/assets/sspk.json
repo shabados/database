@@ -1,16 +1,23 @@
 {
   "name": {
-    "Latn": "Kabitt Swayye Bhai Gurdas Ji"
+    "Latn": "Kabitt Swayye Bhai Gurdas Ji",
+    "Guru": "ਕਬਿਤ ਸਵੱਯੇ ਭਾਈ ਗੁਰਦਾਸ ਜੀ"
   },
-  "meta": {
-    "author": {
-      "first": "Shamsher S",
-      "last": "Puri"
-    },
+  "source": {
+    "authors": [
+      {
+        "first": "Shamsher S",
+        "last": "Puri"
+      }
+    ],
     "title": "Kabitt Swayye Bhai Gurdas Ji",
-    "version": "1st ed.",
-    "publisher": "Singh Brothers",
-    "publisher_city": "Amritsar",
-    "publication_date": "May 2007"
+    "publisher": {
+      "name": "Singh Brothers",
+      "city": "Amritsar"
+    },
+    "publication": {
+      "date": "2007-05",
+      "version": "1st ed."
+    }
   }
 }

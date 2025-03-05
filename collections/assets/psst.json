@@ -1,8 +1,28 @@
 {
   "name": {
-    "Latn": "Prof Sahib Singh"
+    "Latn": "Prof Sahib Singh",
+    "Guru": "ਪ੍ਰੋ. ਸਾਹਿਬ ਸਿੰਘ"
   },
-  "citation": {
-    "mla": "Singh, Sahib. Sri Guru Granth Darpan. Vol. 1-10, Raaj Publishers, Hoshiarpur/Jalandhar, 1972, www.archive.org/details/SriGuruGranthSahibDarpan-Volume1. Accessed 18 May 2020."
+  "source": {
+    "authors": [
+      {
+        "prefix": "Prof",
+        "first": "Sahib",
+        "last": "Singh"
+      }
+    ],
+    "title": "Sri Guru Granth Darpan",
+    "publisher": {
+      "name": "Raaj Publishers",
+      "city": "Hoshiarpur/Jalandhar"
+    },
+    "publication": {
+      "date": "1972"
+    },
+    "volume": {
+      "total": 10
+    },
+    "url": "www.archive.org/details/SriGuruGranthSahibDarpan-Volume1",
+    "accessed": "2020-05-18"
   }
 }

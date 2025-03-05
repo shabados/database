@@ -1,13 +1,18 @@
 {
   "name": {
-    "Latn": "Kabit Sawayan Bhai Gurdas Ji Steek"
+    "Latn": "Kabit Sawayan Bhai Gurdas Ji Steek",
+    "Guru": "ਕਬਿਤ ਸਵੱਯਾਂ ਭਾਈ ਗੁਰਦਾਸ ਜੀ ਸਟੀਕ"
   },
-  "meta": {
-    "author": {
-      "first": "Sampuran",
-      "last": "Singh"
-    },
+  "source": {
+    "authors": [
+      {
+        "first": "Sampuran",
+        "last": "Singh"
+      }
+    ],
     "title": "Kabit Sawayan Bhai Gurdas Ji Steek",
-    "publication_date": "2012"
+    "publication": {
+      "date": "2012"
+    }
   }
 }
