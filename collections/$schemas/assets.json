@@ -4,26 +4,61 @@
   "title": "Asset",
   "description": "A digitised source of content. e.g. a PDF, audio, video, etc.Assets have 2 fundamental purposes:\n- To be a source of primary content for lines, exposed in line_data. E.g. line ABCD can have multiple line_data entries, each with a different asset_id, corresponding to different translations, or different variations of the same content.\n- To provide a related content for a user to browse, e.g. a PDF, audio, video, etc.\nExamples of related assets:\n- Kirtan of line groups / banis\n- Katha / Podcasts of lines, line groups, banis\n- Notes / compositions (pictures) of line groups, banis\n- PDFs, books of line groups",
   "definitions": {
+    "Person": {
+      "type": "object",
+      "required": ["first", "last"],
+      "properties": {
+        "first": { "type": "string" },
+        "middle": { "type": "string" },
+        "last": { "type": "string" },
+        "prefix": { "type": "string" },
+        "suffix": { "type": "string" }
+      }
+    },
+    "Publisher": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "city": { "type": "string" },
+        "country": { "type": "string" }
+      }
+    },
+    "Publication": {
+      "type": "object",
+      "required": ["date"],
+      "properties": {
+        "date": { "type": "string" },
+        "version": { "type": "string" }
+      }
+    },
+    "Volume": {
+      "type": "object",
+      "properties": {
+        "current": { "type": "number" },
+        "total": { "type": "number" }
+      }
+    },
     "Reference": {
       "type": "object",
       "required": ["title"],
       "properties": {
         "authors": {
           "type": "array",
-          "items": { "$ref": "common.json#/definitions/Person" }
+          "items": { "$ref": "#/definitions/Person" }
         },
         "translators": {
           "type": "array",
-          "items": { "$ref": "common.json#/definitions/Person" }
+          "items": { "$ref": "#/definitions/Person" }
         },
         "title": { "type": "string" },
         "subtitle": { "type": "string" },
         "edition": { "type": "string" },
-        "publisher": { "$ref": "common.json#/definitions/Publisher" },
-        "publication": { "$ref": "common.json#/definitions/Publication" },
+        "publisher": { "$ref": "#/definitions/Publisher" },
+        "publication": { "$ref": "#/definitions/Publication" },
         "url": { "type": "string" },
         "accessed": { "type": "string" },
-        "volume": { "$ref": "common.json#/definitions/Volume" },
+        "volume": { "$ref": "#/definitions/Volume" },
         "type": { "type": "string" },
         "language": { "type": "string" },
         "isbn": { "type": "string" },
@@ -36,7 +71,7 @@
   "type": "object",
   "required": ["name", "reference"],
   "properties": {
-    "name": { "$ref": "common.json#/definitions/Iso15924" },
+    "name": { "$ref": "common.json#/definitions/ScriptField" },
     "reference": { "$ref": "#/definitions/Reference" }
   }
 }
