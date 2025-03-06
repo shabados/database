@@ -71,7 +71,7 @@
   "type": "object",
   "required": ["name", "reference"],
   "properties": {
-    "name": { "$ref": "common.json#/definitions/ScriptField" },
+    "name": { "$ref": "common.json#/definitions/LanguageField" },
     "reference": { "$ref": "#/definitions/Reference" }
   }
 }
