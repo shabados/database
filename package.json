@@ -33,7 +33,8 @@
   "scripts": {
     "lint": "biome check .",
     "format": "biome check --write .",
-    "validate": "node --experimental-strip-types scripts/validate-collections.ts"
+    "collections:preview": "redocly preview-docs 'collections/$schemas/_preview.yml'",
+    "collections:validate": "node --experimental-strip-types scripts/validate-collections.ts"
   },
   "dependencies": {
     "ajv": "^8.17.1"
