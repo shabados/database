@@ -4,7 +4,7 @@
   "title": "Asset",
   "description": "An asset in the collection",
   "definitions": {
-    "Source": {
+    "Reference": {
       "type": "object",
       "required": ["authors", "title", "publisher", "publication"],
       "properties": {
@@ -34,9 +34,9 @@
     }
   },
   "type": "object",
-  "required": ["name", "source"],
+  "required": ["name", "reference"],
   "properties": {
     "name": { "$ref": "common.json#/definitions/Iso15924" },
-    "source": { "$ref": "#/definitions/Source" }
+    "reference": { "$ref": "#/definitions/Reference" }
   }
 }
