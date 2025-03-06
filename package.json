@@ -31,6 +31,7 @@
     "#~/*": "./*.ts"
   },
   "scripts": {
+    "prepare": "husky",
     "lint": "biome check .",
     "format": "biome check --write .",
     "collections:preview": "redocly preview-docs 'collections/$schemas/_preview.yml'",
@@ -41,9 +42,12 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
+    "@commitlint/cli": "^19.7.1",
+    "@commitlint/config-conventional": "^19.7.1",
     "@types/node": "^22.13.9",
     "chalk": "^5.4.1",
     "dedent": "^1.5.3",
-    "fast-glob": "^3.3.3"
+    "fast-glob": "^3.3.3",
+    "husky": "^9.1.7"
   }
 }
