@@ -20,5 +20,8 @@
       "quoteStyle": "single",
       "semicolons": "asNeeded"
     }
+  },
+  "files": {
+    "ignore": ["package*.json"]
   }
 }
