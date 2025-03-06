@@ -4,10 +4,10 @@
   "definitions": {
     "Iso15924": {
       "type": "object",
-      "required": ["Latn", "Guru"],
       "properties": {
         "Latn": { "type": "string" },
-        "Guru": { "type": "string" }
+        "Guru": { "type": "string" },
+        "Aran": { "type": "string" }
       }
     },
     "Person": {
