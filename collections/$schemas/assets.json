@@ -6,8 +6,10 @@
   "definitions": {
     "Person": {
       "type": "object",
+      "additionalProperties": false,
       "required": ["first", "last"],
       "properties": {
+        "role": { "type": "string" },
         "first": { "type": "string" },
         "middle": { "type": "string" },
         "last": { "type": "string" },
@@ -17,6 +19,7 @@
     },
     "Publisher": {
       "type": "object",
+      "additionalProperties": false,
       "required": ["name"],
       "properties": {
         "name": { "type": "string" },
@@ -26,6 +29,7 @@
     },
     "Publication": {
       "type": "object",
+      "additionalProperties": false,
       "required": ["date"],
       "properties": {
         "date": { "type": "string" },
@@ -34,6 +38,7 @@
     },
     "Volume": {
       "type": "object",
+      "additionalProperties": false,
       "properties": {
         "current": { "type": "number" },
         "total": { "type": "number" }
@@ -41,6 +46,7 @@
     },
     "Reference": {
       "type": "object",
+      "additionalProperties": false,
       "required": ["title"],
       "properties": {
         "authors": {
@@ -70,6 +76,7 @@
   },
   "type": "object",
   "required": ["name", "reference"],
+  "additionalProperties": false,
   "properties": {
     "name": { "$ref": "common.json#/definitions/LanguageField" },
     "reference": { "$ref": "#/definitions/Reference" }
