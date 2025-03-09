@@ -51,7 +51,10 @@ const validateCollection = async (schemaFile: string, collectionName: string) =>
   return !hasErrors
 }
 
-const validationConfigs = [{ schemaFile: 'assets.json', collectionName: 'assets' }]
+const validationConfigs = [
+  { schemaFile: 'assets.json', collectionName: 'assets' },
+  { schemaFile: 'authors.json', collectionName: 'authors' },
+]
 
 let allSuccess = true
 for (const config of validationConfigs) {
