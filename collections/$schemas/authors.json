@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "authors.json",
+  "title": "Author",
+  "description": "The author of a line group within a source.\nE.g. Guru Nanak Dev Ji, etc.",
+  "type": "object",
+  "required": ["name"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "$ref": "common.json#/definitions/ScriptField"
+    },
+    "otherNames": {
+      "type": "array",
+      "items": {
+        "$ref": "common.json#/definitions/ScriptField"
+      }
+    },
+    "social": {
+      "type": "object",
+      "properties": {
+        "facebook": { "type": "string" },
+        "instagram": { "type": "string" },
+        "twitter": { "type": "string" },
+        "youtube": { "type": "string" }
+      }
+    }
+  }
+}
