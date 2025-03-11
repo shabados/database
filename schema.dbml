@@ -99,6 +99,20 @@ Table authors {
   Note: 'The composer of a line group within a source. e.g. Guru Nanak Dev Ji, etc.'
 }
 
+Table sections {
+  id string [primary key]
+  name int [ref: - iso_15924_strings.id]
+  line_groups string [ref: > line_groups.id]
+  Note: 'A section is a collection of line groups. E.g. Shabad, etc.'
+}
+
+Table ragas {
+  id string [primary key]
+  name int [ref: - iso_15924_strings.id]
+  section_id string [ref: - sections.id]
+  Note: 'A raga is a musical scale. E.g. Suhi, etc.'
+}
+
 // Banis also have to be able to include / augment from other material sources
 // TO discuss
 table bookmark_folders {
