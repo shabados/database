@@ -15,15 +15,6 @@
       "items": {
         "$ref": "common.json#/definitions/ScriptField"
       }
-    },
-    "social": {
-      "type": "object",
-      "properties": {
-        "facebook": { "type": "string" },
-        "instagram": { "type": "string" },
-        "twitter": { "type": "string" },
-        "youtube": { "type": "string" }
-      }
     }
   }
 }
