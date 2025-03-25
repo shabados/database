@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "sections.json",
+  "type": "object",
+  "required": ["name", "description"],
+  "properties": {
+    "name": {
+      "$ref": "common.json#/definitions/ScriptField",
+      "description": "The name of the section in different scripts"
+    },
+    "description": {
+      "$ref": "common.json#/definitions/LanguageField",
+      "description": "The description of the section in different languages"
+    },
+    "lineGroups": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "The line groups that are part of the section"
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -14,3 +14,30 @@ paths:
             application/json:
               schema:
                 $ref: './collections/$schemas/assets.json'
+  /authors/{id}:
+    get:
+      responses:
+        '200':
+          description: Author document
+          content:
+            application/json:
+              schema:
+                $ref: './collections/$schemas/authors.json'
+  /sources/{id}:
+    get:
+      responses:
+        '200':
+          description: Sources document
+          content:
+            application/json:
+              schema:
+                $ref: './collections/$schemas/sources.json'
+  /sections/{id}:
+    get:
+      responses:
+        '200':
+          description: Section document
+          content:
+            application/json:
+              schema:
+                $ref: './collections/$schemas/sections.json'

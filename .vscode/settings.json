@@ -34,6 +34,18 @@
     {
       "fileMatch": ["collections/assets/**/*.json"],
       "url": "./collections/$schemas/assets.json"
+    },
+    {
+      "fileMatch": ["collections/sections/**/*.json"],
+      "url": "./collections/$schemas/sections.json"
+    },
+    {
+      "fileMatch": ["collections/authors/**/*.json"],
+      "url": "./collections/$schemas/authors.json"
+    },
+    {
+      "fileMatch": ["collections/sources/**/*.json"],
+      "url": "./collections/$schemas/sources.json"
     }
   ]
 }

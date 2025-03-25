@@ -11,6 +11,13 @@
     "translation": {
       "$ref": "common.json#/definitions/LanguageField",
       "description": "The translation of the source name in different languages"
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "The sections that are part of the source"
+      }
     }
   },
   "additionalProperties": false
