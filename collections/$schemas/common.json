@@ -5,6 +5,7 @@
     "ScriptField": {
       "description": "Script field represented by ISO 15924 script code key-values",
       "type": "object",
+      "additionalProperties": false,
       "properties": {
         "Latn": { "type": "string" },
         "Guru": { "type": "string" },
@@ -14,6 +15,7 @@
     "LanguageField": {
       "description": "Language field represented by ISO 639 language code key-values",
       "type": "object",
+      "additionalProperties": false,
       "properties": {
         "en": { "type": "string" },
         "pa": { "type": "string" },
