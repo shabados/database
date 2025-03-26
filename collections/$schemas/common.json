@@ -1,7 +1,7 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "common.json",
-  "definitions": {
+  "$defs": {
     "ScriptField": {
       "description": "Script field represented by ISO 15924 script code key-values",
       "type": "object",

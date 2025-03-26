@@ -1,15 +1,15 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "sections.json",
   "type": "object",
   "required": ["name", "description"],
   "properties": {
     "name": {
-      "$ref": "common.json#/definitions/ScriptField",
+      "$ref": "common.json#/$defs/ScriptField",
       "description": "The name of the section in different scripts"
     },
     "description": {
-      "$ref": "common.json#/definitions/LanguageField",
+      "$ref": "common.json#/$defs/LanguageField",
       "description": "The description of the section in different languages"
     },
     "lineGroups": {

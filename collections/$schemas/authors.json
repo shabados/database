@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "authors.json",
   "title": "Author",
   "description": "The author of a line group within a source.\nE.g. Guru Nanak Dev Ji, etc.",
@@ -8,12 +8,12 @@
   "additionalProperties": false,
   "properties": {
     "name": {
-      "$ref": "common.json#/definitions/ScriptField"
+      "$ref": "common.json#/$defs/ScriptField"
     },
     "otherNames": {
       "type": "array",
       "items": {
-        "$ref": "common.json#/definitions/ScriptField"
+        "$ref": "common.json#/$defs/ScriptField"
       }
     }
   }

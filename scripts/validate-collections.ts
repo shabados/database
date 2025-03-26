@@ -1,5 +1,5 @@
 import { readFile } from 'node:fs/promises'
-import Ajv from 'ajv'
+import Ajv from 'ajv/dist/2020.js'
 import chalk from 'chalk'
 import dedent from 'dedent'
 import fg from 'fast-glob'
@@ -57,6 +57,7 @@ const validationConfigs = [
   { schemaFile: 'sources.json', collectionName: 'sources' },
   { schemaFile: 'sections.json', collectionName: 'sections' },
   { schemaFile: 'line-groups.json', collectionName: 'line-groups' },
+  { schemaFile: 'lines.json', collectionName: 'lines' },
 ]
 
 let allSuccess = true

@@ -1,15 +1,15 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "sources.json",
   "type": "object",
   "required": ["name", "translation"],
   "properties": {
     "name": {
-      "$ref": "common.json#/definitions/ScriptField",
+      "$ref": "common.json#/$defs/ScriptField",
       "description": "The name of the source in different scripts"
     },
     "translation": {
-      "$ref": "common.json#/definitions/LanguageField",
+      "$ref": "common.json#/$defs/LanguageField",
       "description": "The translation of the source name in different languages"
     },
     "sections": {
