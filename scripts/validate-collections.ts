@@ -56,6 +56,7 @@ const validationConfigs = [
   { schemaFile: 'authors.json', collectionName: 'authors' },
   { schemaFile: 'sources.json', collectionName: 'sources' },
   { schemaFile: 'sections.json', collectionName: 'sections' },
+  { schemaFile: 'line-groups.json', collectionName: 'line-groups' },
 ]
 
 let allSuccess = true

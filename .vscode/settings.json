@@ -46,6 +46,10 @@
     {
       "fileMatch": ["collections/sources/**/*.json"],
       "url": "./collections/$schemas/sources.json"
+    },
+    {
+      "fileMatch": ["collections/line-groups/**/*.json"],
+      "url": "./collections/$schemas/line-groups.json"
     }
   ]
 }

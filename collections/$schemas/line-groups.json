@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "line-groups.json",
+  "type": "object",
+  "description": "A line group is a grouped, ordered portion of lines. E.g. a shabad.",
+  "required": ["lines", "author"],
+  "properties": {
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "The lines that are part of the line group"
+      }
+    },
+    "raga": {
+      "type": "string",
+      "description": "The raga of the line group"
+    },
+    "author": {
+      "type": "string",
+      "description": "The author of the line group"
+    },
+    "externalReferences": {
+      "type": "object",
+      "description": "External references to the line group",
+      "properties": {
+        "sttm2": {
+          "type": "number",
+          "description": "The STTM2 ID of the line group"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

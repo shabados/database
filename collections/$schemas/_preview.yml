@@ -41,3 +41,12 @@ paths:
             application/json:
               schema:
                 $ref: './collections/$schemas/sections.json'
+  /line-group/{id}:
+    get:
+      responses:
+        '200':
+          description: Line group document
+          content:
+            application/json:
+              schema:
+                $ref: './collections/$schemas/sections.json'
