@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਿਰਧਨੁ ਸਰਧਨੁ; ਦੋਨਉ ਭਾਈ ॥",
+      "page": 1159,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The poor and the rich both are brothers."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਰੀਬ ਅਤੇ ਅਮੀਰ ਦੋਨੋ ਭਰਾ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The poor man and the rich man are both brothers."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਿਰਧਨ ਔਰ ਧਨਾਢ ਦੋਨੋ ਭਾਈ ਬਰਾਬਰ ਹੀ ਹੈਂ, ਭਾਵ ਯਹਿ ਕਿ ਬਿਰਾਦਰੀ ਮੇਂ ਸਮ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਂਞ ਕੰਗਾਲ ਤੇ ਧਨੀ ਦੋਵੇਂ ਭਰਾ ਹੀ ਹਨ (ਧਨੀ ਨੂੰ ਇਤਨਾ ਮਾਣ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ)।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "La persona que posee riquezas y él, la persona pobre, ambos son en realidad hermanos,"
+    }
+  ]
+}

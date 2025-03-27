@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਮਹਲਾ ੩ ॥",
+      "page": 229,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri 3rd Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਊੜੀ ਪਾਤਸ਼ਾਹੀ ਤੀਜੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree, Third Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri, Mejl Guru Amar Das, Tercer Canal Divino."
+    }
+  ]
+}

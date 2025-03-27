@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੋ ਭਲਾਈ; ਸੋ ਬੁਰਾ ਜਾਨੈ ॥",
+      "page": 180,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "What is for his Good that he deems evil."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਉਸ ਦੀ ਬਿਹਤਰੀ ਲਈ ਹੈ ਉਸ ਨੂੰ ਉਹ ਮਾੜਾ ਸਮਝਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "That which is for his own good, he thinks is evil."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰ ਜੋ (ਭਲਾਈ) ਸੁਤ ਕਰਮ ਹੈਂ ਤਿਸ ਕੋ ਜੀਵ ਬੁਰਾ ਜਾਨਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇਹੜਾ ਕੰਮ ਇਸ ਦੀ ਭਲਾਈ (ਦਾ) ਹੈ ਉਸ ਨੂੰ ਭੈੜਾ ਸਮਝਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Lo que es bueno, uno lo considera malo,"
+    }
+  ]
+}

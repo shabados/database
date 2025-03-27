@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਪੂਰਬੀ ੧੨ ॥",
+      "page": 338,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Purbi."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਉੜੀ ਪੂਰਬੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree Poorbee 12:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri Purbi 12."
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "੧੨ = 'ਘਰ' ਬਾਰ੍ਹਵਾਂ।"
+    }
+  ]
+}

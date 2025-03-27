@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਟੂਟੀ ਤੰਤੁ; ਨ ਬਜੈ ਰਬਾਬੁ ॥",
+      "page": 478,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The string has broken and the rebeck plays not."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਾਰ ਟੁੱਟ ਗਈ ਹੈ ਅਤੇ ਸਰੰਦਾ ਵੱਜਦਾ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The string has broken, and the guitar makes no sound."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਗ੍ਯਾਨ ਬਸਿਸ੍ਟ ਹੰਕਾਰ ਰੂਪੀ ਰਬਾਬ ਨਹੀਂ ਬਜਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕਣ ਤੇ) ਮੋਹ ਦੀ ਤਾਰ ਟੁੱਟ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "La cuerda se rompió, el rabel ya no emite sonidos;"
+    }
+  ]
+}

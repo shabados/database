@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਤਨੁ ਤੇਰਾ; ਨਾ ਮਨੁ ਤੋਹਿ ॥",
+      "page": 899,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Neither the body belongs to thee, nor belongs to thee the mind."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾਂ ਦੇਹ ਤੇਰੀ ਹੈ, ਨਾਂ ਹੀ ਆਪਣਾ ਹੈ ਤੇਰਾ ਮਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Neither your body nor your mind belong to you."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮਨ! ਤੇਰਾ ਤੋ ਇਹੁ ਅਸਥੂਲ ਸਰੀਰ ਭੀ ਨਹੀਂ ਔ ਸੂਖਮ ਸਰੀਰ ਭੀ ਤੇਰਾ ਨਹੀਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਭਾਈ!) ਨਾਹ ਉਹ ਸਰੀਰ ਤੇਰਾ ਹੈ, ਤੇ, ਨਾਹ ਹੀ (ਉਸ ਸਰੀਰ ਵਿਚ ਵੱਸਦਾ) ਮਨ ਤੇਰਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ni el cuerpo te pertenece, ni tu mente está en tu comando,"
+    }
+  ]
+}

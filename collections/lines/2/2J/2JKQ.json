@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਵਡਹੰਸੁ ਮਹਲਾ ੧ ਘਰੁ ੨ ॥",
+      "page": 557,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Wadhans 1st Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਡਹੰਸ ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Wadahans, First Mehl, Second House:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Wadajans, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

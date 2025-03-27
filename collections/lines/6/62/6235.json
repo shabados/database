@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੂਰਜ ਚੰਦੁ; ਕਰਹਿ ਉਜੀਆਰਾ ॥",
+      "page": 329,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The sun and the moon diffuse light."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੂਰਜ ਅਤੇ ਚੰਦ੍ਰਮਾ ਚਾਨਣ ਕਰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The sun and the moon give their light;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰ ਜਿਸ ਕੀ ਸਤਾ ਕੋ ਪਾਇ ਕਰ ਸੂਰਜ ਔਰ ਚੰਦ੍ਰਮਾ ਉਜਿਆਲਾ ਕਰਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਇਹ ਜੋ) ਸੂਰਜ ਤੇ ਚੰਦ੍ਰਮਾ (ਆਦਿਕ ਜਗਤ ਵਿਚ) ਚਾਨਣ ਕਰ ਰਹੇ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El sol y la luna brillan con resplandor,"
+    }
+  ]
+}

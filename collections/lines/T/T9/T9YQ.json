@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਾਰੂ ਸੋਲਹੇ ੩ ॥",
+      "page": 1052,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Maru Solhe 3rd Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਰੂ ਸੋਲਹੇ ਤੀਜੀ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Maaroo, Solhay, Third Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Maru Solje, Mejl Guru Amar Das, Tercer Canal Divino."
+    }
+  ]
+}

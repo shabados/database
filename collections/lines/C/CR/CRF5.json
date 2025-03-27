@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਉਣੁ ਉਪਦੇਸੁ; ਜਿਤੁ. ਦੁਖੁ ਸੁਖੁ ਸਮ ਸਹਤਾ ॥",
+      "page": 131,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "What is that instruction by which man bears woe and weal alike?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਕਿਹੜੀ ਸਿਖਿਆ ਹੈ ਜਿਸ ਦੁਆਰਾ ਆਦਮੀ ਗਮੀ ਤੇ ਖੁਸ਼ੀ ਨੂੰ ਇਕ ਸਾਰ ਸਹਾਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "What are those teachings, by which we may endure pain and pleasure alike?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਹੁ ਉਪਦੇਸ਼ ਕੌਣ ਹੈ ਜਿਸ ਕਰ ਜੀਵ ਦੁਖ ਸੁਖ ਕੋ ਸਮ ਜਾਣ ਕਰ ਸਹਾਰਤਾ ਹੈ ੨੨?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਕੇਹੜਾ ਉਪਦੇਸ਼ ਹੈ ਜਿਸ ਉੱਤੇ ਤੁਰ ਕੇ ਮਨੁੱਖ ਦੁੱਖ ਸੁਖ ਇਕੋ ਜਿਹੇ ਸਹਾਰ ਸਕਦਾ ਹੈ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "cuál es la Instrucción que hace ver al dolor y al placer igual?"
+    }
+  ]
+}

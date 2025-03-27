@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਮਾਲਾ₂ ਮਹਲਾ ੫ ॥",
+      "page": 215,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Mala 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਊੜੀ ਮਾਲਾ ਪਾਤਸ਼ਾਹੀ ਪੰਜਵੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree Maalaa, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri Mala, Mejl Guru Aryan, Quinto Canal Divino."
+    }
+  ]
+}

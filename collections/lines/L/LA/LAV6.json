@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
+      "page": 1150,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Bhairo 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਭੈਰਊ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Bhairao, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Bhairo, Mejl Guru Aryan, Quinto Canal Divino."
+    }
+  ]
+}

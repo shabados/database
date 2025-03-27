@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗੋਂਡ ਮਹਲਾ ੫ ॥",
+      "page": 868,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gond 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੋਂਡ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gond, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gond, Mejl Guru Aryan, Quinto Canal Divino."
+    }
+  ]
+}

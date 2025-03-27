@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਏਕੁ ਸੁਆਨੁ; ਦੁਇ ਸੁਆਨੀ ਨਾਲਿ ॥",
+      "page": 24,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I have a dog and two bitches with me."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰੇ ਸਾਥ ਇਕ ਕੁੱਤਾ ਤੇ ਦੋ ਕੁੱਤੀਆਂ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The dogs of greed are with me."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਗਵਨੁ! ਲੋਭੁ ਰੂਪੀ ਏਕ ਕੂਕਰੁ ਹੈ ਔਰੁ ਆਸਾ ਤਥਾ ਤ੍ਰਿਸ਼ਨਾ ਏਹਿ ਦੋ ਕੂਕਰੀ ਸਦੀਵ ਜੀਵ ਕੇ ਸੰਗ ਰਹਿਤੀ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰੇ ਨਾਲ ਇਕ ਕੁੱਤਾ (ਲੋਭ) ਹੈ, ਦੋ ਕੁੱਤੀਆਂ (ਆਸਾ, ਤ੍ਰਿਸ਼ਨਾ) ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "En mí vive el perro del deseo y la perra de la avaricia,"
+    }
+  ]
+}

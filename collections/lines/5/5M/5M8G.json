@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਤੈਸਾ ਰੰਕੁ; ਤੈਸਾ ਰਾਜਾਨੁ ॥",
+      "page": 275,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "As is the pauper, so is the king."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇਹੋ ਜੇਹਾ ਕੰਗਲਾ ਹੈ, ਉਹੋ ਜੇਹਾ ਹੀ ਬਾਦਸ਼ਾਹ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "As is the beggar, so is the king."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰ ਤਿਸ ਕੌ ਤੈਸਾ ਹੀ (ਰੰਕੁ) ਗਰੀਬ ਔ ਤੈਸਾ ਹੀ (ਰਾਜਾਨੁ) ਰਾਜਾ ਹੈ, ਭਾਵ ਸਭ ਕੌ ਤੁਲ ਜਾਨਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕੰਗਾਲ ਤੇ ਸ਼ਹਨਸ਼ਾਹ ਭੀ ਉਸ ਦੀ ਨਜ਼ਰ ਵਿਚ ਬਰਾਬਰ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "y no hace distinción entre el rey y el pordiosero,"
+    }
+  ]
+}

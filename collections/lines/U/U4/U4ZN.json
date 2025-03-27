@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਾਤੀ ਸੂਕੀ; ਤੇਲੁ ਨਿਖੂਟਾ ॥",
+      "page": 478,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The wick has dried up and the oil has exhausted."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬੱਤੀ ਸੁੱਕ ਗਈ ਹੈ ਅਤੇ ਤੇਲ ਮੁੱਕ ਗਿਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The wick has dried up, and the oil is exhausted."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾ ਰੂਪ ਬਾਤੀ ਸੂਕ ਗਈ ਕ੍ਯੋਂਕਿ ਲੋਭ ਤੇਲ (ਨਿਖੂਟਾ) ਨਹੀਂ ਰਹਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦੋਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਤੇਲ (ਜੀਵ ਦੇ ਅੰਦਰੋਂ) ਮੁੱਕ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੀ ਸੁਰਤ (ਮਾਇਆ ਵਾਲੇ ਪਾਸੇ ਤੋਂ) ਹਟ ਜਾਂਦੀ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "La mecha está seca y el aceite se acabó; el tambor ya no resuena,"
+    }
+  ]
+}

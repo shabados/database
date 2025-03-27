@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਤੁਧੁ ਬਿਨੁ; ਦੂਜਾ ਅਵਰੁ ਨ ਕੋਇ ॥",
+      "page": 12,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Beside Thee, there is no other second."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੈ ਬਾਝੋਂ ਹੋਰ ਦੂਸਰਾ ਕੋਈ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "There is no one except You."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰੁ ਤੇਰੇ ਬਿਨਾ ਦੂਸਰਾ ਔਰੁ ਕੋਈ ਕਰਤਾ ਨਹੀਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੈਥੋਂ ਬਿਨਾ (ਤੇਰੇ ਵਰਗਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Aparte de Ti, no hay otro más."
+    }
+  ]
+}

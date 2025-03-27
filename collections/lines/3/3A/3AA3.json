@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਿਆ ਕਥੀਐ; ਕਿਛੁ ਕਥਨੁ. ਨ ਜਾਈ ॥",
+      "page": 822,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "What should I say, I can say not anything."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਕੀ ਆਖਾਂ, ਮੈਂ ਕੁਝ ਆਖ ਨਹੀਂ ਸਕਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "What can I say? I cannot say anything."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਆ ਕਥਨ ਕਰੀਏ ਤੇਰਾ ਸਰੂਪ ਬਾਣੀ ਕਰ ਕਛ ਕਥਨ ਕਰਿਆ ਨਹੀਂ ਜਾਤਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਕਿਹੋ ਜਿਹਾ ਹੈ?-ਇਹ ਗੱਲ) ਕੀਹ ਦੱਸੀਏ? ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Qué puedo decir yo? Nada en verdad,"
+    }
+  ]
+}

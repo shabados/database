@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਤਿ ਬਚਨ; ਸਾਧੂ ਉਪਦੇਸ ॥",
+      "page": 284,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "True are the words and instruction of the saint."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੱਚੇ ਹਨ ਸੰਤ ਦੇ ਸ਼ਬਦ ਅਤੇ ਸਿੱਖਿਆ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "True are the Teachings, and the Instructions of the Holy."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਤ ਜਨੋਂ ਕੇ ਉਪਦੇਸ਼ ਕੇ ਬਚਨ ਭੀ ਸਤਿ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਅਟੱਲ ਬਚਨ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Los Santos nos instruyen en la Palabra Verdadera, porque aquéllos en que Dios habita, son Verdad."
+    }
+  ]
+}

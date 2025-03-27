@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਇਕਿ ਮਾਸਹਾਰੀ; ਇਕਿ ਤ੍ਰਿਣੁ ਖਾਹਿ ॥",
+      "page": 144,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Some are meat eaters and some eat grass."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਈ ਗੋਸਤ ਖਾਣ ਵਾਲੇ ਹਨ ਅਤੇ ਕਈ ਘਾਹ ਫੂਸ ਖਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Some eat meat, while others eat grass."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਏਕ ਮਾਸ ਕਾ ਅਹਾਰ ਕਰਤੇ ਹੈਂ ਏਕ ਘਾਸ ਖਾਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਈ ਜੀਵ ਮਾਸ ਖਾਣ ਵਾਲੇ ਹਨ, ਕਈ ਘਾਹ ਖਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Algunos se alimentan de carnes, otros de pasto;"
+    }
+  ]
+}

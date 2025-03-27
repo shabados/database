@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੩ ॥",
+      "page": 797,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Bilawal 3rd Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਿਲਾਵਲ ਤੀਜੀ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Bilaaval, Third Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Bilawal, Mejl Guru Amar Das, Tercer Canal Divino."
+    }
+  ]
+}

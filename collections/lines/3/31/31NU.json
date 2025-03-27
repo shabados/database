@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਗਉੜੀ ਚੇਤੀ ॥",
+      "page": 331,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Measure Gauri Cheti."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਗਉੜੀ ਚੇਤੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Gauree Chaytee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Rag Gauri Cheti."
+    }
+  ]
+}

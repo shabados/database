@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਾਰੂ ਮਹਲਾ ੧ ॥",
+      "page": 1038,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Maru 1st Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਰੂ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Maaroo, First Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Maru, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

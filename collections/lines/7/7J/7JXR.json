@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੧ ਘਰੁ ੨ ॥",
+      "page": 23,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sri Rag, First Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਿਰੀ ਰਾਗ, ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Siree Raag, First Mehl, Second House:"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਘਰੁ ਨਾਮ ਰਾਗੋਂ ਕੇ ਸੁਰੋਂ ਕੇ ਭੇਦ ਕਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Siri Rag, Mejl Guru Nanak, Primer Canal Divino, Segunda Casa."
+    }
+  ]
+}

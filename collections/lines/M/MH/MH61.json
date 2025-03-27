@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੋਰਠਿ ਮਹਲਾ ੯ ॥",
+      "page": 631,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorarh 9th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੋਰਠਿ ਨੌਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorat'h, Ninth Mehl:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਸੋਰਠਿ ਵਿੱਚ ਗੁਰੂ ਤੇਗਬਹਾਦਰ ਜੀ ਦੀ ਬਾਣੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sorath, Mejl Guru Teg Bajadur, Noveno Canal Divino."
+    }
+  ]
+}

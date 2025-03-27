@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਨ ਮੇਰੇ; ਹਰਿ ਕੀ ਅਕਥ ਕਹਾਣੀ ॥",
+      "page": 1234,
+      "line": 11
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "O my soul, Ineffable is the gospel of God."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਅਕਹਿ ਹੈ ਕਥਾ-ਵਾਰਤਾ ਵਾਹਿਗੁਰੂ ਦੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "O my mind, the Speech of the Lord is unspoken."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੇ ਮਨ! ਹਰੀ ਅਕਥ ਕੀ ਜੋ (ਕਹਾਣੀ) ਕਥਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੇ ਮਨ! ਪ੍ਰਭੂ ਦੀ ਕਦੇ ਨਾਹ ਮੁੱਕ ਸਕਣ ਵਾਲੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਦੀ ਦਾਤਿ)"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh mente mía, Inefable es el Evangelio del Señor,"
+    }
+  ]
+}

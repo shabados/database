@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੩ ॥",
+      "page": 159,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Guareri, 3rd Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਉੜੀ ਗੁਆਰੇਰਰੀ, ਪਾਤਸ਼ਾਹੀ ਤੀਜੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree Gwaarayree, Third Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri Guareri, Mejl Guru Amar Das, Tercer Canal Divino."
+    }
+  ]
+}

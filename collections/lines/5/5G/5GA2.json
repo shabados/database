@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਗਉੜੀ ਭਗਤਾਂ ਕੀ ਬਾਣੀ ॥",
+      "page": 323,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Measure The hymns of the Saints."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਗਉੜੀ ਭਗਤਾਂ ਦੇ ਸ਼ਬਦ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Gauree, The Word Of The Devotees:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਗਉੜੀ ਵਿੱਚ ਭਗਤਾਂ ਦੀ ਬਾਣੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Rag Gauri. Himnos de los Bhaktas."
+    }
+  ]
+}

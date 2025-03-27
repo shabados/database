@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਾਰਿਕ ਵਾਂਗੀ; ਹਉ. ਸਭ ਕਿਛੁ ਮੰਗਾ ॥",
+      "page": 99,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Like a child I ask for everything."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬੱਚੇ ਦੀ ਮਾਨਿੰਦ ਮੈਂ ਹਰ ਸ਼ੈ ਦੀ ਯਾਚਨਾ ਕਰਦਾ ਹਾਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Like a child, I ask for everything."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਗਵਨ! ਬਾਰਿਕਵਤ ਮੈਂ ਸਭ ਕਿਛੁ ਮਾਂਗਤਾ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਗੁਰੂ ਦੀ ਮਤਿ ਲੈ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਦਰ ਤੋਂ) ਮੈਂ ਅੰਞਾਣੇ ਬਾਲ ਵਾਂਗ ਹਰੇਕ ਚੀਜ਼ ਮੰਗਦਾ ਹਾਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Como un niño le pido todas las cosas,"
+    }
+  ]
+}

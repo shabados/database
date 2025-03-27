@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਲੋਕ ਡਖਣਾ ਮਃ ੫ ॥",
+      "page": 322,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Slok Dakhna 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਲੋਕ ਡਖਣਾ, ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Salok, Dakhanaa, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Slok Dakjana, Mejl Guru Aryan, Quinto Canal Divino."
+    }
+  ]
+}

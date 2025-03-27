@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਦੇ ਸਾਬੂਣੁ; ਲਈਐ ਓਹੁ ਧੋਇ ॥",
+      "page": 4,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "is washed clean by applying soap."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਬਣ ਲਾ ਕੇ ਸਾਫ ਸੁਥਰਾ ਕਰ ਲਈਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "soap can wash them clean."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਓਹੁ ਜਬ ਸਾਬੁਣ (ਦੇ) ਲਗਾ ਕੇ ਕਪੜਾ ਧੋਇ ਲਈਦਾ ਹੈ, ਤਬ ਸੁਧੁ ਹੋ ਜਾਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਾਂ ਸਾਬੁਣ ਲਾ ਕੇ ਉਸ ਨੂੰ ਧੋ ਲਈਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "el jabón quita la mancha."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਿਸੁ ਧਨ ਕਉ; ਚਾਰਿ ਕੁੰਟ ਉਠਿ ਧਾਵਹਿ ॥",
+      "page": 288,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The wealth after which thou runnest in four directions,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਪਦਾਰਥ ਲਈ ਤੂੰ ਚਹੂੰ ਪਾਸੀ ਭੱਜਿਆ ਫਿਰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The wealth which you chase after in the four directions"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! ਜਿਸ ਧਨ ਕੌ ਤੂੰ ਚਾਰੋਂ ਦਿਸਾ ਮੇਂ ਉਠ ਕਰ ਧਾਵਤਾ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਮਿਤ੍ਰ!) ਜਿਸ ਧਨ ਦੀ ਖ਼ਾਤਰ (ਤੂੰ) ਚੌਹੀਂ ਪਾਸੀਂ ਉਠ ਦੌੜਦਾ ਹੈਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Tú que hasta en el último rincón de la tierra buscas riqueza,"
+    }
+  ]
+}

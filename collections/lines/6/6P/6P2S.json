@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਿੰਦੂ ਕੈ ਘਰਿ. ਹਿੰਦੂ ਆਵੈ ॥",
+      "page": 951,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Hindu comes to the house of the Hindu."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਿੰਦੂ ਦੇ ਗ੍ਰਹਿ ਵਿੱਚ ਹਿੰਦੂ ਆਉਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Hindu comes to the house of a Hindu."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਖਤ੍ਰੀ ਹਿੰਦੂ ਕੇ ਘਰ ਬ੍ਰਾਹਮਣ ਹਿੰਦੂ ਆਵਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਕਿਸੇ ਖਤ੍ਰੀ ਆਦਿਕ) ਹਿੰਦੂ ਦੇ ਘਰ ਵਿਚ ਬ੍ਰਾਹਮਣ ਆਉਂਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El hindú entra sólo en la casa del hindú"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਵਤ ਇਕੇਲਾ; ਜਾਤ ਇਕੇਲਾ ॥",
+      "page": 1004,
+      "line": 19
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Man comes alone and goes alone."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਨਸਾਨ ਕੱਲਮਕੱਲ ਆਉਂਦਾ ਹੈ ਤੇ ਕੱਲਮਕੱਲਾ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "He comes alone, and he goes alone."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਹੁ ਜੀਵ ਅਕੇਲਾ ਆਵਤਾ ਹੈ ਪੁਨਾ ਇਕੇਲਾ ਹੀ ਜਾਵਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੀਵ ਇਸ ਸੰਸਾਰ ਵਿਚ ਇਕੱਲਾ ਹੀ ਆਉਂਦਾ ਹੈ ਇਥੋਂ ਇਕੱਲਾ ਹੀ ਤੁਰ ਪੈਂਦਾ ਹੈ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ése ser va y viene solo."
+    }
+  ]
+}

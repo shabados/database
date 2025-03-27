@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੫ ॥",
+      "page": 816,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Bilawal 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਿਲਾਵਲ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Bilaaval, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Bilawal, Mejl Guru Aryan, Quinto Canal Divino"
+    }
+  ]
+}

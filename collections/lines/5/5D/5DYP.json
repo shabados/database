@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਡ ॥",
+      "page": 1399,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "it is the Name of measure."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਹ ਇਕ ਛੰਦ ਦਾ ਨਾਮ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Radd:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Radd"
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "ਰਡ = ਛੰਦ।"
+    }
+  ]
+}

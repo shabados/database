@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਐਥੈ ਓਥੈ ਰਖਵਾਲਾ ॥",
+      "page": 628,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Here and hereafter, the Lord is my saviour."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਏਥੇ ਅਤੇ ਓਥੇ ਸਾਹਿਬ ਹੀ ਮੇਰਾ ਰੱਖਿਅਕ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Here and hereafter, He is our Savior."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! (ਐਥੈ) ਇਸ ਲੋਕ ਮੇਂ ਅਰੁ (ਓਥੈ) ਪ੍ਰਲੋਕ ਮੇਂ ਰਖ੍ਯਾ ਕਰਨੇ ਵਾਲਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! (ਪ੍ਰਭੂ ਸਰਨ ਪਿਆਂ ਦੀ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਰਾਖੀ ਕਰਨ ਵਾਲਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El Señor es nuestro Refugio aquí y aquí después."
+    }
+  ]
+}

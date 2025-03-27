@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਊਠਤ ਬੈਠਤ; ਸਾਸਿ ਗਿਰਾਸਿ ॥",
+      "page": 971,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "standing, sitting, at every breath and morsel,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਖਲੋਂਦਿਆਂ, ਬਹਿੰਦਿਆਂ, ਹਰ ਸੁਆਸ ਤੇ ਬੁਰਕੀ ਨਾਲ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "while standing up and sitting down, with every breath and morsel of food."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਠਤਿਆਂ ਬੈਠਤਿਆਂ ਸ੍ਵਾਸ-ਸ੍ਵਾਸ ਭੋਜਨੁ ਖਾਤਿਆਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉੱਠਦਿਆਂ ਬੈਠਦਿਆਂ, ਖਾਂਦਿਆਂ, ਸਾਹ ਲੈਂਦਿਆਂ-"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "sentado o parado; sí, con cada respiración."
+    }
+  ]
+}

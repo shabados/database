@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੋਰਠਿ ਮਹਲਾ ੫ ਦੁਤੁਕੇ ॥",
+      "page": 609,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorath 5th Guru. Dotukas."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੋਰਠਿ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ। ਦੁਤੁਕੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorat'h, Fifth Mehl, Dho-Thukay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sorath, Mejl Guru Aryan, Quinto Canal Divino, Du-Tukas."
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "ਦੁਤੁਕੇ= ਦੁ-ਤੁਕੇ, ਦੋ ਦੋ ਤੁਕਾਂ ਵਾਲੇ 'ਬੰਦ'।"
+    }
+  ]
+}

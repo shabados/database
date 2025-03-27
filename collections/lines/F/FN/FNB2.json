@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਵਣੁ ਤ੍ਰਿਣੁ ਤ੍ਰਿਭਵਣ ਪਾਣੀ ॥",
+      "page": 1003,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The forests, grass, the three worlds, water,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੰਗਲ, ਘਾਅ, ਤਿੰਨੇ ਲੋਕ, ਜਲ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The forests, meadows, three worlds, water,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਨ ਔ ਘਾਸ ਪੁਨਾਂ ਤਿੰਨੇ ਭੌਨ ਤਥਾ ਪਾਣੀ ਆਦਿ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੰਗਲ, (ਜੰਗਲ ਦਾ) ਘਾਹ, ਤਿੰਨੇ ਭਵਨ, ਪਾਣੀ (ਆਦਿਕ ਸਾਰੇ ਤੱਤ),"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "a los bosques y glaciares, a los tres mundos de agua,"
+    }
+  ]
+}

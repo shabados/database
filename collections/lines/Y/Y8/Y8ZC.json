@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮੈਲਾਗਰ; ਬੇਰ੍ਹੇ ਹੈ ਭੁਇਅੰਗਾ ॥",
+      "page": 525,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The serpents twine around the sandal tree."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਰਪਾਂ ਨੇ ਚੰਦਨ ਦੇ ਬੂਟੇ ਨੂੰ ਵਲ੍ਹੇਟ ਪਾਏ ਹੋਏ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The snakes encircle the sandalwood trees."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਲਿਆਗਿਰ ਚੰਦਨ ਸਰਪੋਂ ਸੇ ਬੇਸਿਟਤ, ਭਾਵ ਬਹੇੜਿਆ ਹੋਇਆ ਹੋਨੇ ਕਰ ਕੇ ਜੂਠਾ ਹੋ ਗਇਆ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਚੰਦਨ ਦੇ ਬੂਟਿਆਂ ਨੂੰ ਸੱਪ ਚੰਬੜੇ ਹੋਏ ਹਨ (ਤੇ ਉਹਨਾਂ ਨੇ ਚੰਦਨ ਨੂੰ ਜੂਠਾ ਕਰ ਦਿੱਤਾ ਹੈ),"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El árbol de sándalo está rodeado de serpientes y así el néctar"
+    }
+  ]
+}

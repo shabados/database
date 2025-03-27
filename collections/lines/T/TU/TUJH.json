@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਸੰਤੁ ਮਹਲਾ ੪ ਹਿੰਡੋਲ ॥",
+      "page": 1178,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant 4th Guru Hindol."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਸੰਤ ਚੌਥੀ ਪਾਤਿਸ਼ਾਹੀ ਹਿੰਡੋਲ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant, Fourth Mehl, Hindol:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Basant Mejl Guru Ram Das, Cuarto Canal Divino."
+    }
+  ]
+}

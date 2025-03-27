@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਖਹਿ; ਪੜੇ ਕਰਹਿ ਵਖਿਆਣ ॥",
+      "page": 5,
+      "line": 19
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਅਨਪੁਰਖ ਬਹੁਵਚਨ ਕਿਰਿਆ"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The literate repeat Thy Name and deliver discourses apropos Thee."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੜ੍ਹੇ ਲਿਖੇ ਤੇਰਾ ਨਾਮ ਉਚਾਰਦੇ ਅਤੇ ਤੇਰੇ ਬਾਰੇ ਭਾਸ਼ਨ ਦਿੰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The scholars speak and lecture."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰੁ ਤਿਨ ਕੇ ਪਢਨੇ ਹਾਰੇ ਭੀ ਕਹਤੇ ਹੈਂ, ਔਰੁ ਤਿਸ ਪਾਠ ਕੋ ਪਢ ਕਰ ਵਖ੍ਯਾਨ ਕਥਾ ਕਰਨੇ ਹਾਰੇ, ਵਾ ਵਖ੍ਯਾਨ ਟੀਕਾ ਕਰਨੇ ਹਾਰੇ ਭੀ ਕਹਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਿਦਵਾਨ ਮਨੁੱਖ ਭੀ, ਜੋ (ਹੋਰਨਾਂ ਨੂੰ) ਉਪਦੇਸ਼ ਕਰਦੇ ਹਨ, (ਅਕਾਲ ਪੁਰਖ ਦਾ) ਬਿਆਨ ਕਰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "mientras que los escolares Lo proclaman en largos discursos."
+    }
+  ]
+}

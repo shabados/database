@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾਮੁ ਜਪਤ; ਸਰਬ ਸੁਖੁ ਪਾਈਐ ॥",
+      "page": 104,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "By repeating the Name all the comforts are obtained."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾਮ ਦਾ ਉਚਾਰਣ ਕਰਨ ਦੁਆਰਾ ਸਾਰੇ ਆਰਾਮ ਮਿਲ ਜਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Chanting the Naam, all pleasures are obtained."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਉਂਕਿ ਤਿਸ ਕੇ ਨਾਮ ਕੇ ਜਪਨੇ ਸੇ ਸੰਪੂਰਨ ਸੁਖ ਪਾਈਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆਂ ਹਰੇਕ ਕਿਸਮ ਦਾ ਸੁਖ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Meditando en el Nombre obtenemos la Paz,"
+    }
+  ]
+}

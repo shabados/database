@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਾਵੈ ਕੋ ਤਾਣੁ; ਹੋਵੈ ਕਿਸੈ ਤਾਣੁ ॥",
+      "page": 1,
+      "line": 10
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਇਸ ਸਾਰੀ ਪਉੜੀ ਵਿਚ ਬਿਸ਼ਰਾਮ \"ਕੋ\" ਤੋਂ ਬਾਅਦ ਹੈ। \"ਕੋ\" ਦਾ ਭਾਵ ਹੈ \"ਕੋਈ\"।"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Who can sing His might? Who has power to sing it?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸਦੀ ਸ਼ਕਤੀ ਨੂੰ ਕੌਣ ਗਾਇਨ ਕਰ ਸਕਦਾ ਹੈ? ਇਸ ਨੂੰ ਗਾਇਨ ਕਰਨ ਦਾ ਕੀਹਦੇ ਕੋਲ ਬਲ ਹੈ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Some sing of His Power-who has that Power?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਅਕਾਲ ਪੁਰਖ ਕੇ ਸਮੱਗ੍ਰ (ਤਾਣੁ) ਬਲੁ ਕੋ (ਕੋ ਗਾਵੈ) ਕੌਣ ਗਾਇ ਸਕਤਾ ਹੈ? ਜਬ ਕਿਸੀ ਮੈ ਐਸਾ ਬਲੁ ਹੋਵੈ, ਤੌ ਗਾਇ ਸਕਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਸਮਰਥਾ ਹੁੰਦੀ ਹੈ, ਉਹ ਰੱਬ ਦੇ ਤਾਣ ਨੂੰ ਗਾਉਂਦਾ ਹੈ, (ਭਾਵ, ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ ਤੇ ਉਸ ਦੇ ਉਹ ਕੰਮ ਕਥਨ ਕਰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਤੋਂ ਉਸ ਦੀ ਵੱਡੀ ਤਾਕਤ ਪਰਗਟ ਹੋਵੇ)।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Quién por sí mismo puede ser grande?"
+    }
+  ]
+}

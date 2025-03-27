@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੂਤਕੁ ਜਲਿ ਥਲਿ ਸਭ ਹੀ ਥਾਇ ॥",
+      "page": 413,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Defilement is in water, land and all the places."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਸ਼ੁੱਧਤਾ ਹੈ ਪਾਣੀ, ਧਰਤੀ ਅਤੇ ਸਾਰਿਆਂ ਥਾਵਾਂ ਅੰਦਰ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Pollution is in the water, upon the land, and everywhere."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੁਨ: ਜਲ ਮੇਂ ਥਲ ਮੇਂ ਸਭ ਸਥਾਨੋਂ ਮੇਂ ਸੂਤਕ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਸੂਤਕ ਦਾ ਭਰਮ ਕਿਥੇ ਕਿਥੇ ਕੀਤਾ ਜਾਵੇਗਾ?) ਸੂਤਕ ਅੱਗ, ਸਮੁੰਦਰ ਤੇ ਧਰਤੀ ਵਿਚ ਹੈ, ਹਰ ਥਾਂ ਹੈ, ਕਿਉਂਕ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "la impureza está en el agua, en la tierra y en todo lugar."
+    }
+  ]
+}

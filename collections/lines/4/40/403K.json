@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾ ਮਹਲਾ ੫ ਪੰਚਪਦੇ₃ ॥",
+      "page": 373,
+      "line": 19
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa 5th Guru. Panchpade."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾ ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ। ਪੰਚਪਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaa, Fifth Mehl, Panch-Padhay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asa, Mejl Guru Aryan, Quinto Canal Divino, Panch-Padas."
+    }
+  ]
+}

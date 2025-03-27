@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਾ ਕੋ; ਮਾਤ ਪਿਤਾ ਸੁਤ ਧੀਆ ॥",
+      "page": 253,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Whose are mother, father, son and daughter?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਸ ਦੇ ਹਨ ਮਾਈ, ਬਾਪ, ਪੁੱਤ ਅਤੇ ਲੜਕੀਆਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Who is our mother, father, son and daughter?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਤਾ ਪਿਤਾ ਅਰ ਪੁਤ੍ਰ ਪੁਤ੍ਰੀ ਕਿਸ ਕੇ ਹੈਂ? ਕਾਕੋ ਉਕਤੀ ਸੇ ਕਿਸੀ ਕੇ ਨਹੀਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਂ ਪਿਉ ਪੁੱਤਰ ਧੀ ਕੋਈ ਭੀ ਕਿਸੇ ਦਾ ਸਦਾ ਸਾਥੀ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Quién es el padre, la madre, el hijo y la hija, la casa y la esposa?"
+    }
+  ]
+}

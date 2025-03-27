@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੂਹੀ ਛੰਤ ਮਹਲਾ ੪ ॥",
+      "page": 776,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Suhi Chhant 4th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੂਹੀ ਛੰਤ ਚੌਥੀ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Soohee, Chhant, Fourth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Suji, Chhant, Mejl Guru Ram Das, Cuarto Canal Divino."
+    }
+  ]
+}

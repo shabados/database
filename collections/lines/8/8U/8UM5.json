@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮੋ ਸਉ; ਕੋਊ. ਨ ਕਹੈ ਸਮਝਾਇ ॥",
+      "page": 346,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "No one explains and brings it home to me,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਨੂੰ ਕੋਈ ਜਣਾ ਇਸ ਨੂੰ ਦਰਸਾਉਂਦਾ ਤੇ ਨਿਸਚਿਤ ਨਹੀਂ ਕਰਾਉਂਦਾ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "No one has explained to me,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਐਸੇ ਮੇਰੇ ਕੋ ਸਮਝਾਇ ਕਰ ਕੋਈ ਨਹੀਂ ਕਹਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਤੁਹਾਡੇ ਵਿਚੋਂ) ਕੋਈ ਭੀ ਮੈਨੂੰ ਐਸਾ ਕੰਮ ਸਮਝਾ ਕੇ ਨਹੀਂ ਦੱਸ ਸਕਿਆ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Nadie me lo ha explicado,"
+    }
+  ]
+}

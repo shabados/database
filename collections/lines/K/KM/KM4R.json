@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਾਝ ਮਹਲਾ ੫ ਚਉਪਦੇ ਘਰੁ ੧ ॥",
+      "page": 96,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Majh, Fifth Guru, Couplets."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਝ, ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ, ਚਉਪਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Maajh, Fifth Mehl, Chau-Padhay, First House:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Mi corazón añora una Visión del Guru;"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਲੇਖੈ ਬੋਲਣੁ ਬੋਲਣਾ; ਲੇਖੈ ਖਾਣਾ ਖਾਉ ॥",
+      "page": 15,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "In account the man speaks the words, in accounts he partakes of the food."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਿਸਾਬ ਵਿੱਚ ਆਦਮੀ ਬਚਨ ਬੋਲਦਾ ਹੈ। ਹਿਸਾਬ ਅੰਦਰ ਉਹ ਭੋਜਨ ਛਕਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "As it is pre-ordained, people speak their words. As it is pre-ordained, they consume their food."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਪਿਤਾ! ਜੋ ਸਬਦ ਕਾ ਬੋਲਣਾ ਹੈ, ਸੋ ਲੇਖੇ ਮੇਂ ਹੈ, ਔਰੁ ਭੋਜਨੁ ਖਾਣਾ ਭੀ ਲੇਖੇ ਮੇਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਡਾ ਬੋਲ-ਚਾਲ, ਸਾਡਾ ਖਾਣ-ਪੀਣ ਥੋੜੇ ਹੀ ਸਮੇਂ ਲਈ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Con nuestros límites hablamos, con nuestros límites comemos."
+    }
+  ]
+}

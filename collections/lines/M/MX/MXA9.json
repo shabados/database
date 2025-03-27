@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਊ ਬਾਛ ਕਉ; ਸੰਚੈ ਖੀਰੁ ॥",
+      "page": 1252,
+      "line": 11
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The cow stores up milk for her calf,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਾਂ ਆਪਣੇ ਵੱਛੇ ਲਈ ਦੁੱਧ ਇਕੱਠਾ ਕਰਦੀ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The cow stores up loads of milk;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਸੇ ਗਊ ਬਛੇ ਕੇ ਵਾਸਤੇ ਦੂਧ ਕੋ ਇਕਠਾ ਰਖਤੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਵੇਂ ਗਊ ਆਪਣੇ ਵੱਛੇ ਲਈ ਦੁੱਧ (ਥਣਾਂ ਵਿਚ) ਇਕੱਠਾ ਕਰਦੀ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "La vaca produce leche para alimentar a sus becerros"
+    }
+  ]
+}

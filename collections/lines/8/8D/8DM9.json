@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਇਕ ਬਹਿ ਸੁਨਹਿ; ਸੁਨਾਵਹਿ ਕਾਨਾਂ ॥",
+      "page": 1043,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Some sit down, read to others and hear with their ears."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਈ ਬੈਠ ਕੇ ਹੋਰਨਾਂ ਨੂੰ ਸੁਣਾਉਂਦੇ ਅਤੇ ਆਪਣੇ ਕੰਨਾਂ ਨਾਂਲ ਸੁਣਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Some sit and listen, and read to others."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਕ ਬਹਿ ਕਰ ਕਾਨਾਂ ਦੁਆਰੇ ਸੁਨਤੇ ਹੈਂ, ਏਕ ਰਸਨਾ ਦੁਆਰੇ ਸੁਨਾਵਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਕੁਝ ਉਹ ਸੁਣਾਂਦੇ ਹਨ ਉਸ ਨੂੰ ਅਨੇਕਾਂ ਬੰਦੇ ਬਹਿ ਕੇ ਧਿਆਨ ਨਾਲ ਸੁਣਦੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "otros se sientan y tratan de escuchar con suma atención,"
+    }
+  ]
+}

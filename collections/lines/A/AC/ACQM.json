@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਪਿ ਜਪਿ ਜੀਵਾ; ਤੇਰਾ ਨਾਉ ॥",
+      "page": 893,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I live by uttering and repeating Thy Name."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਤੇਰੇ ਨਾਮ ਨੂੰ ਉਚਾਰ ਅਥਵਾ ਆਖ ਕੇ ਜੀਉਂਦਾ ਹਾਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Chanting, meditating on Your Name, I live,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਹ ਕ੍ਰਿਪਾ ਕਰ ਕਿ ਮੈਂ ਤੇਰਾ ਹੀ ਨਾਮ ਜਪ ਜਪ ਕੇ ਜੀਵਾਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੇ ਗੁਰਦੇਵ! ਤੇਰਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਮੈਂ (ਇਥੇ) ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰ ਰਿਹਾ ਹਾਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sólo vivo cuando contemplo Tu Nombre"
+    }
+  ]
+}

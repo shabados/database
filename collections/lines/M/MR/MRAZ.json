@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਤਿਸੁ ਭੈਣ, ਨ ਭਰਾਉ ਕਮਾਇਆ ॥",
+      "page": 1038,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He has earned neither a sister nor a brother."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੇ ਨਾਂ ਕੋਈ ਭੈਣ ਤੇ ਨਾਂ ਹੀ ਵੀਰ ਖੱਟਿਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "He has not acquired any sister or brother."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔ ਨਾ ਤਿਸ ਤੇਰਾ ਭਾਈ, ਨਾ ਭੈਣ ਔ ਨਾ ਕੋਈ (ਕਮਾਇਆ) ਸੇਵਕ ਹੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾਹ ਕੋਈ ਭੈਣ ਨਾਹ ਭਾਈ ਤੇ ਨਾਹ ਕੋਈ ਸੇਵਕ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "no ha nacido ni ha muerto, no pertenece a ninguna clase o clan,"
+    }
+  ]
+}

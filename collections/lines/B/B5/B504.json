@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਤ ਕਬੀਰ; ਜੁ ਇਸ ਪਦ ਬੂਝੈ ॥",
+      "page": 481,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir that he, who understands this hymn,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਜਿਹੜਾ ਇਸ ਸ਼ਬਦ ਨੂੰ ਸਮਝਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, one who understands this hymn,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਜੋ ਉਸ ਪਦ ਕੇ ਭਾਵ ਕੋ ਬੂਝਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜੋ ਮਨੁੱਖ ਇਸ (ਵਾਪਰਨ ਵਾਲੀ) ਹਾਲਤ ਨੂੰ ਸਮਝ ਲੈਂਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, aquél que entiende este misterio"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਐਸੀ ਜਾਨਿ ਪਾਈ ॥",
+      "page": 1005,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Thus have I understood,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਐਸ ਤਰ੍ਹਾਂ ਸਮਝਿਆ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "This is what I have come to know."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਮਨੇ ਤੌ ਐਸੀ ਬਾਤ ਜਾਨ ਪਾਈ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਤਾਂ ਇਉਂ ਸਮਝ ਲਿਆ ਹੈ"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ahora conozco la Verdad,"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਮਾਝ ਮਹਲਾ ੫ ॥",
+      "page": 218,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Majh 5th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਊੜੀ ਮਾਝ ਪਾਤਸ਼ਾਹੀ ਪੰਜਵੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree Maajh, Fifth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri Mall, Mejl Guru Aryan, Quinto Canal Divino."
+    }
+  ]
+}

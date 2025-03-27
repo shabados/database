@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਓਹਿ ਮਰਹਿ; ਨ ਠਾਗੇ ਜਾਹਿ ॥",
+      "page": 8,
+      "line": 4
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਅਨਪੁਰਖ ਬਹੁਵਚਨ ਕਿਰਿਆ"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "They, die not and nor are they hood-winked,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਨਾਂ ਮਰਦੇ ਹਨ ਤੇ ਨਾਂ ਹੀ ਛਲੇ ਜਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Neither death nor deception comes to those,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਓਹੁ ਉਪਾਸਕ ਨ ਮ੍ਰਿਤੂ ਹੋਤੇ ਹੈਂ, ਔਰ ਨ ਮਾਯਾ ਠਗਨੀ ਸੇ ਠਗੇ ਜਾਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਇਸ ਅਵਸਥਾ ਵਿਚ) ਉਹ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਮਰਦੇ ਤੇ ਮਾਇਆ ਉਹਨਾਂ ਨੂੰ ਠੱਗ ਨਹੀਂ ਸਕਦੀ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ni la muerte ni la trampa de la traición"
+    }
+  ]
+}

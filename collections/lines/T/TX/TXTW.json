@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਾਰੂ ਮਹਲਾ ੧ ਦਖਣੀ ॥",
+      "page": 1033,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Maru 1st Guru Dakhni."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮਾਰੂ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ ਦੱਖਣੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Maaroo, First Mehl, Dakhanee:"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦਖਨੀ ਛੰਦ ਕੀ ਚਾਲ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Maru, Mejl Guru Nanak, Primer Canal Divino, Dakhni."
+    }
+  ]
+}

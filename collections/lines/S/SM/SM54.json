@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਗੂਜਰੀ ਭਗਤਾ ਕੀ ਬਾਣੀ ॥",
+      "page": 524,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gujri Measure. Hymns of the Saints."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਗੁਜਰੀ। ਭਗਤਾਂ ਦੀ ਬਾਣੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Goojaree, The Words Of The Devotees:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੂਜਰੀ ਰਾਗ ਵਿੱਚ ਭਗਤਾਂ ਦੀ ਬਾਣੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Rag Guyuri, versos de los Bhaktas,"
+    }
+  ]
+}

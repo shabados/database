@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਤਿਗੁਰੁ ਭੇਟਿਓ; ਸਦਾ ਕ੍ਰਿਪਾਲ ॥",
+      "page": 200,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I have met the ever merciful True Guru,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਸਦੀਵੀ ਮਿਹਰਬਾਨ ਸੱਚੇ ਗੁਰਾਂ ਨੂੰ ਮਿਲ ਪਿਆ ਹਾਂ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I have met the True Guru, who is merciful forever."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਬ ਸਤਿਗੁਰੂ ਜੋ ਸਦਾ ਦ੍ਯਾਲੁ ਹੈ ਮਿਲਿਆ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਸਤਿਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ ਜਿਸ ਉਤੇ ਗੁਰੂ ਸਦਾ ਦਇਆਵਾਨ ਰਹਿੰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Si uno encuentra al Siempre Benévolo y Verdadero Guru,"
+    }
+  ]
+}

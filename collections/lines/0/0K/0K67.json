@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਨਮ ਮਰਨ ਦੁਖ ਫਾਹਾ ਕਾਟਿਆ ॥",
+      "page": 1340,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The painful noose of their birth and death is snapped."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਨ੍ਹਾਂ ਦੀ ਜੰਮਣ ਤੇ ਮਰਨ ਦੀ ਦੁਖਦਾਈ ਫਾਂਸੀ ਕੱਟੀ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The painful noose of death and rebirth is snapped."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਨ ਕੇ ਜਨਮ ਮਰਣ ਰੂਪੀ ਦੁਖੋਂ ਕਾ ਫਾਹਾ ਕਾਟਿਆ ਹੈ"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹਨਾਂ ਦੇ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੇ ਦੁੱਖਾਂ ਦੀ ਫਾਹੀ (ਗੁਰੂ ਨੇ) ਕੱਟ ਦਿੱਤੀ ਹੈ"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "el doloroso dogal de la muerte y el nacimiento desaparece"
+    }
+  ]
+}

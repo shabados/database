@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lines.json",
+  "type": "object",
+  "description": "A fundamental, abstract unit of content, backed by a consistent id.",
+  "required": ["content"],
+  "$defs": {
+    "baseContent": {
+      "type": "object",
+      "required": ["asset", "type", "data"],
+      "properties": {
+        "asset": { "type": "string" },
+        "type": { "type": "string" },
+        "data": { "type": "string" }
+      }
+    },
+    "primaryContent": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "#/$defs/baseContent" },
+        {
+          "properties": {
+            "type": { "const": "primary" },
+            "page": { "type": "integer" },
+            "line": { "type": "integer" }
+          }
+        }
+      ],
+      "unevaluatedProperties": false
+    },
+    "translationContent": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "#/$defs/baseContent" },
+        {
+          "properties": {
+            "type": { "const": "translation" },
+            "language": { "type": "string" }
+          },
+          "required": ["language"]
+        }
+      ],
+      "unevaluatedProperties": false
+    },
+    "noteContent": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "#/$defs/baseContent" },
+        {
+          "properties": {
+            "type": { "const": "note" },
+            "language": { "type": "string" }
+          },
+          "required": ["language"]
+        }
+      ],
+      "unevaluatedProperties": false
+    },
+    "pronunciationContent": {
+      "type": "object",
+      "allOf": [
+        { "$ref": "#/$defs/baseContent" },
+        {
+          "properties": {
+            "type": { "const": "pronunciation" },
+            "language": { "type": "string" }
+          },
+          "required": ["language"]
+        }
+      ],
+      "unevaluatedProperties": false
+    }
+  },
+  "properties": {
+    "content": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "$ref": "#/$defs/primaryContent" },
+          { "$ref": "#/$defs/translationContent" },
+          { "$ref": "#/$defs/noteContent" },
+          { "$ref": "#/$defs/pronunciationContent" }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਸੂਹੀ ਛੰਤ ਮਹਲਾ ੧ ਘਰੁ ੪ ॥",
+      "page": 765,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Rag Suhi Chhant 1st Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗੁ ਸੂਹੀ ਛੰਦ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Soohee, Chhant, First Mehl, Fourth House:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਸੂਹੀ, ਘਰ ੪ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਛੰਤ' (ਛੰਦ)।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Rag Suji, Chhant, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

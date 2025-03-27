@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਿਉ ਅੰਧਿਆਰੈ; ਦੀਪਕੁ ਪਰਗਾਸਾ ॥",
+      "page": 100,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "As the lamp lights the darkness,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਤਰ੍ਹਾਂ ਚਰਾਗ ਅਨ੍ਹੇਰੇ ਨੂੰ ਪ੍ਰਕਾਸ਼ ਕਰ ਦਿੰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Just as the darkness is lit up by the lamp,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਸੇ ਅੰਧੇਰੇ ਮੇਂ ਦੀਪਕ ਕੇ ਪਰਕਾਸ ਹੋਨੇ ਕਰ ਕੇ ਅਨੰਦ ਹੋਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਵੇਂ ਹਨੇਰੇ ਵਿਚ ਦੀਵਾ ਚਾਨਣ ਕਰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Como la luz disipa la oscuridad,"
+    }
+  ]
+}

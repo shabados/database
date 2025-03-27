@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੋਰਠਿ ਮਹਲਾ ੫ ਪੰਚਪਦਾ ॥",
+      "page": 616,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorath 5th Guru. Panchpada."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੋਰਠਿ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ। ਪੰਚਪਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorat'h, Fifth Mehl, Panch-Padhay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sorath, Mejl Guru Aryan, Quinto Canal Divino, Panch-Pada."
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "ਪੰਚਪਦਾ = ਪੰਜ 'ਬੰਦਾਂ' ਵਾਲਾ ਸ਼ਬਦ।"
+    }
+  ]
+}

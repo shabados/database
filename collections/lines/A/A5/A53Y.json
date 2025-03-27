@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਤ ਕਬੀਰ; ਸੁਨਹੁ ਰੇ ਲੋਈ ॥",
+      "page": 481,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, \"Listen, O ye people\","
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਤੁਸੀਂ ਸ੍ਰਵਣ ਕਰੋ, ਹੇ ਲੋਕੋ!"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, listen, people:"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ ਲੋਈ! ਤੁਮ ਸੁਨਹੁ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੁਣੋ, ਹੇ ਜਗਤ ਦੇ ਲੋਕੋ!"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, escucha, oh gente,"
+    }
+  ]
+}

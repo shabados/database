@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕੂਅਟਾ ਏਕੁ; ਪੰਚ ਪਨਿਹਾਰੀ ॥",
+      "page": 325,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "There is one well and the five water-carriers."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਖੂਹ ਇੱਕ ਹੈ ਅਤੇ ਪੰਜ ਪਾਣੀ ਭਰਣ ਵਾਲੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "There is one well, and five water-carriers."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਸਾਰ ਰੂਪੀ ਏਕ ਕੂਪ ਹੈ ਸਬਦ, ਸਪਰਸ, ਰੂਪ, ਰਸ, ਗੰਧ ਰੂਪੀ ਤਿਸ ਮੇਂ ਜਲ ਹੈ ਔਰ ਜੋ ਪੰਚ ਗਿਆਨ ਇੰਦ੍ਰੀਆਂ ਸੇ ਪੰਚ (ਪਨਿਹਾਰੀ) ਚਰਖੜੀਆਂ ਹੈਂ, ਜਿਨ ਦੁਆਰੇ ਜਲ ਖਿਚੀਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਸਰੀਰ ਮਾਨੋ) ਇਕ ਨਿੱਕਾ ਜਿਹਾ ਖੂਹ ਹੈ, (ਪੰਜ ਗਿਆਨ-ਇੰਦਰੇ, ਮਾਨੋ) ਪੰਜ ਚਰੱਖੜੀਆਂ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Hay un sólo pozo que es el cuerpo, y los cinco órganos de los sentidos sacan agua de él."
+    }
+  ]
+}

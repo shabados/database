@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਦਿਨਸੁ ਚੜੈ. ਫਿਰਿ ਆਥਵੈ; ਰੈਣਿ ਸਬਾਈ ਜਾਇ ॥",
+      "page": 41,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The day dawns, then it sinks and the whole night passes away."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦਿੰਹੁ ਚੜ੍ਹਦਾ ਹੈ, ਮੁੜ ਇਹ ਡੁੱਬ ਜਾਂਦਾ ਹੈ ਅਤੇ ਸਾਰੀ ਰਾਤ੍ਰੀ ਬੀਤ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The day dawns, and then it ends, and the night passes away."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦਿਨ ਚੜਦਾ ਹੈ ਫਿਰ (ਆਥਵੈ) ਲਹਿ ਜਾਂਦਾ ਹੈ, ਇਸੀ ਪ੍ਰਕਾਰ ਰਾਤ ਭੀ ਸਾਰੀ ਬਿਤੀਤ ਹੋ ਜਾਂਤੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦਿਨ ਚੜ੍ਹਦਾ ਹੈ ਫਿਰ ਡੁੱਬ ਜਾਂਦਾ ਹੈ, ਸਾਰੀ ਰਾਤ ਭੀ ਲੰਘ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El día nace y se levanta y después muere con la noche y así la noche pasa."
+    }
+  ]
+}

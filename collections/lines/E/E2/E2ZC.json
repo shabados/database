@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸ੍ਰੀਰਾਗੁ ਭਗਤ ਕਬੀਰ ਜੀਉ ਕਾ ॥",
+      "page": 92,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sri Rag, Saint Kabir ji."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਿਰੀ ਰਾਗ, ਸੰਤ ਕਬੀਰ ਜੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Siree Raag, Devotee Kabeer Jee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Siri Rag del Reverendo Bhagat Kabir."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਸੰਤੁ ਮਹਲਾ ੧ ਇਕ ਤੁਕੀਆ ॥",
+      "page": 1189,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant 1st Guru. Ik-tukia."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਸੰਤੁ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ। ਇਕਤੁਕੀਆ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant, First Mehl, Ik-Tukee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Basant Mejl Guru Nanak, Primer Canal Divino, Ik-Tukas."
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "ਇਕ ਤੁਕੀਆ = ਉਹ ਅਸਟਪਦੀਆਂ ਜਿਨ੍ਹਾਂ ਦੇ ਹਰੇਕ ਬੰਦ ਵਿਚ ਇਕ ਇਕ ਤੁਕ ਹੈ।"
+    }
+  ]
+}

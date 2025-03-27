@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਹਲਾ ੧ ਮਲਾਰ ॥",
+      "page": 1255,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "1st Guru Malar."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ ਮਲਾਰ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "First Mehl, Malaar:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Malhar, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

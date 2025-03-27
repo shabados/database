@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਖੁਲੑੇ ਹਟ; ਹੋਆ ਵਾਪਾਰੁ ॥",
+      "page": 789,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The shops are open and the trade goes on."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦੁਕਾਨਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹਨ ਅਤੇ ਵਣਜ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The shops are open, and trading is going on;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਲੋਕ ਰੂਪ ਹੱਟ ਖੁਲੇ ਹੂਏ ਹੈਂ, ਕਰਮਾਂ ਰੂਪ ਬਪਾਰ ਹੂਆ ਜਾਤਾ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦੋਂ ਹੱਟ ਖੁਲ੍ਹ ਪਏ (ਜਗਤ-ਰਚਨਾ ਹੋਈ), ਵਪਾਰ ਹੋਣ ਲੱਗ ਪਿਆ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "aquí las tiendas están siempre abiertas, el comercio no para."
+    }
+  ]
+}

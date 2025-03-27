@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰੂਪਵੰਤੁ; ਸੋ ਚਤੁਰੁ ਸਿਆਣਾ ॥",
+      "page": 198,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "That man alone is handsome clever and wise,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕੇਵਲ ਉਹੀ ਆਦਮੀ ਸੁੰਦਰ, ਹੁਸ਼ਿਆਰ ਅਤੇ ਅਕਲਮੰਦ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "They alone are handsome, clever and wise,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰੂਪ ਵਾਲਾ ਸੋਈ ਹੈ ਔਰ ਬਾਣੀ ਕਾ ਚਤਰ ਪੁਨਾ ਬੁਧੀ ਕਾ ਸਿਆਣਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਭਾਈ!) ਉਹੀ ਮਨੁੱਖ ਰੂਪ ਵਾਲਾ ਹੈ ਉਹੀ ਤੀਖਣ ਬੁੱਧਿ ਵਾਲਾ ਹੈ ਉਹੀ ਸਿਆਣਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sólo es guapo, astuto y sabio,"
+    }
+  ]
+}

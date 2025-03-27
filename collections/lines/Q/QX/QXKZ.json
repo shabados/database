@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਤੀ ਕਾਲੁ; ਘਟੈ ਦਿਨਿ ਕਾਲੁ ॥",
+      "page": 1287,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The time diminishes by night and so does the time diminish by day."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਕਤ ਰੈਣ ਨੂੰ ਘਟਦਾ ਹੈ ਅਤੇ ਏਸੇ ਤਰ੍ਹਾਂ ਹੀ ਵਕਤ ਘਟਦਾ ਹੈ ਦਿਨ ਨੂੰ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Through the night the time ticks away; through the day the time ticks away."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਤੋਂ ਕਰ ਕੇ ਭੀ ਸਮਾਂ ਘਟਤਾ ਹੈ ਔਰ ਦਿਨੋਂ ਕਰ ਕੇ ਭੀ ਸਮਾਂ ਬਿਤੀਤ ਹੋਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਉਂ ਜਿਉਂ ਰਾਤਿ ਦਿਨ ਬੀਤਦੇ ਹਨ ਉਮਰ ਦਾ ਸਮਾ ਘਟਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "A través de la noche el tiempo transcurre y a través del día también."
+    }
+  ]
+}

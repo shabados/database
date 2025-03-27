@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਤੁ ਕਬੀਰ; ਸੁਨਹੁ ਮੇਰੀ ਮਾਈ ॥",
+      "page": 484,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, \"Listen, O my mother\","
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਸ੍ਰਵਣ ਕਰ, ਹੇ ਮੈਡੀ ਅੰਮੜੀਏ!"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, listen, O mother:"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੇਰੀ ਮਾਈ! ਇਨ ਮੁੰਡੀਓਂ ਕੀ ਨਿੰਦਾ ਮਤ ਕਰੋ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਮੇਰੀ ਮਾਂ! ਸੁਣ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, escucha, oh madre mía,"
+    }
+  ]
+}

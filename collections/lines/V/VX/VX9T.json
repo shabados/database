@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਜੇ ਧਰਮੁ ਕਰਹਿ; ਪਰਥਾਏ ॥",
+      "page": 1024,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The kings did good deeds for some self-interest."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਤਿਸ਼ਾਹ ਕਿਸੇ ਸਵੈ-ਮਨੋਰਥ ਲਈ ਚੰਗੇ ਕਰਮ ਕਰਦੇ ਸਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The kings acted righteously only out of self-interest."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਜਾ ਕਿਸੇ (ਪਰਥਾਏ) ਨਮਿਤ ਕਰ ਕੇ ਧਰਮ ਕਰਤੇ ਥੇ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਜੇ ਲੋਕ ਕਿਸੇ ਗ਼ਰਜ਼ ਦੀ ਖ਼ਾਤਰ ਧਰਮ ਕਮਾਂਦੇ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Los reyes practicaban el Dharma impulsados por algo muy distinto al Dharma en sí,"
+    }
+  ]
+}

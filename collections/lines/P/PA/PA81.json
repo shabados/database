@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਮਾਝ ਅਸਟਪਦੀਆ ਮਹਲਾ ੧ ਘਰੁ ੧ ॥",
+      "page": 109,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Majh Rag, Canto, First Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਮਾਝ ਅਸ਼ਟਪਦੀਆਂ ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Maajh, Ashtpadheeyaa: First Mehl, First House:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Rag Mall, Ashtapadis, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

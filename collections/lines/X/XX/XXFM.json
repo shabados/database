@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੁਨਹੁ ਰੇ. ਤੂ ਕਉਨੁ; ਕਹਾ ਤੇ ਆਇਓ ॥",
+      "page": 999,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Hear, O man, who art thou and where comest thou from?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੁਣ, ਹੇ ਬੰਦੇ! ਤੂੰ ਕੌਣ ਹੈਂ ਤੇ ਕਿੱਥੇ ਆਇਆ ਹੈਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Listen: who are you, and where did you come from?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੁਨ ਹੇ ਭਾਈ! ਤੂੰ ਕਉਨ ਹੈਂ ਔ ਕਹਾਂ ਤੇ ਆਇਆ ਹੈਂ?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੁਣ (ਵਿਚਾਰ ਕਿ) ਤੂੰ ਕੌਣ ਹੈਂ? (ਤੇਰਾ ਅਸਲਾ ਕੀਹ ਹੈ?), ਤੂੰ ਕਿਥੋਂ (ਇਸ ਜਗਤ ਵਿਚ) ਆਇਆ ਹੈਂ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Escúchame, te digo de dónde viene uno, y también qué tan corta es la estancia aquí."
+    }
+  ]
+}

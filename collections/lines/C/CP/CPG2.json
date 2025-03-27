@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅਗਨੀ ਗੰਢੁ ਪਾਏ ਲੋਹਾਰੁ ॥",
+      "page": 143,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "the smith effects welding with fire."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਾਂ ਧਾਤ ਦਾ ਕਾਰੀਗਰ ਅੱਗ ਨਾਲ ਟਾਂਕਾ ਲਾ ਦਿੰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "the metal-smith welds them together again in the fire, and the bond is established."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੋ ਸੁਨਿਆਰ ਲੁਹਾਰ ਠਠਿਆਰ ਅਗਨੀ ਕਰ ਕੇ ਗੰਢ ਪਾ ਲੇਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੱਗ ਨਾਲ ਲੋਹਾਰ (ਆਦਿਕ) ਗਾਂਢਾ ਲਾ ਦੇਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "el herrero los suelda de nuevo en el fuego."
+    }
+  ]
+}

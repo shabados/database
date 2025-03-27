@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਗਲੇ ਜਾਚਹਿ; ਗੁਰ ਭੰਡਾਰੀ ॥",
+      "page": 1024,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Everyone ask for alms from the Guru, the Lord's treasurer."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਰ ਕੋਈ ਪ੍ਰਭੂ ਦੇ ਖ਼ਜ਼ਾਨਚੀ, ਗੁਰਾਂ ਪਾਸੋਂ ਖ਼ੈਰ ਮੰਗਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Everyone begs from the Guru, God's Treasurer."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਜੋ ਭੰਡਾਰੀ ਹੈਂ ਤਿਨ ਸੇ ਸਗਲੇ ਜਗ੍ਯਾਸੀ ਮਾਂਗਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਰੇ ਜੀਵ ਗੁਰੂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਵਿਚੋਂ (ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਮੰਗਦੇ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Todos buscan al Guru, el Tesoro del Bien,"
+    }
+  ]
+}

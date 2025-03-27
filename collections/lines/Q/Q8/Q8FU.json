@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਮਕਲੀ ਸਦੁ ॥",
+      "page": 923,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Ramkali, The call of death."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਮਕਲੀ, ਮੌਤ ਦਾ ਬੁਲਾਵਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raamkalee, Sadd ~ The Call Of Death:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਰਾਮਕਲੀ ਵਿੱਚ ਬਾਣੀ 'ਸਦੁ'।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ramkali, Sadd. El Llamado de la Muerte"
+    }
+  ]
+}

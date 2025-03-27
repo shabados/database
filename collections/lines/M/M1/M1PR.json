@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੂਕਰ ਸੁਆਨ ਗਰਧਭ ਮੰਜਾਰਾ ॥",
+      "page": 832,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "One is a swine, a dog, a donkey a cat,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਸੂਰ, ਕੁੱਤਾ, ਖੋਤਾ, ਬਿਲਾ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The human is a pig, a dog, a donkey, a cat,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਸੂਕਰ) ਸੂਰ ਔ (ਕੂਕਰ) ਕੁਤੇ, (ਗਰਧਪ) ਗਧੇ, (ਮੰਜਾਰਾ) ਬਿਲੇ ਆਦੀ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਸੂਰ, ਕੁੱਤੇ, ਖੋਤੇ, ਬਿੱਲੇ-"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ese ser es como un puerco, un perro, un gato o un asno;"
+    }
+  ]
+}

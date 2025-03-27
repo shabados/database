@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਹਲਾ ੧ ਬਸੰਤੁ ॥",
+      "page": 1168,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "1st Guru Basant."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ ਬਸੰਤ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "First Mehl, Basant:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Basant, Mejl Guru Nanak, Primer Canal Divino."
+    }
+  ]
+}

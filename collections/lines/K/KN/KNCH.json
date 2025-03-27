@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅੰਨ ਪਉਣ; ਥਿਰੁ ਨ ਕੁਈ ॥",
+      "page": 144,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "nor the corn or the wind; nothing is stable."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਨਾਜ ਅਤੇ ਹਵਾ ਦੇ ਸਣੇ, ਕੋਈ ਵੀ ਸਥਿਰ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Nor food, nor the wind-nothing is permanent."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੁਨਾ ਅੰਨ ਪੌਣ ਇਸਥਿਰ ਕੋਈ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨ ਅੰਨ, ਨਾਹ ਹਵਾ-ਕੋਈ ਭੀ ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "ni comida ni aire, son no eternos."
+    }
+  ]
+}

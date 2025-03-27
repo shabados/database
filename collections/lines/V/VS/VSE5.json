@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੋਰਠਿ ਮਹਲਾ ੧ ਤਿਤੁਕੀ ॥",
+      "page": 635,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorath 1st Guru Tituki."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੋਰਿਠ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ। ਤਿਤੁਕੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorat'h, First Mehl, Thi-Thukay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sorath, Mejl Guru Nanak, Primer Canal Divino, Ti-Tukas."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਟੋਡੀ ਬਾਣੀ ਭਗਤਾਂ ਕੀ ॥",
+      "page": 718,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Todi Hymns of the saints."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਟੋਡੀ ਸੰਤਾਂ ਤੇ ਸ਼ਬਦ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Todee, The Word Of The Devotees:"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਟੋਡੀ ਵਿੱਚ ਭਗਤਾਂ ਦੀ ਬਾਣੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Todi, Palabras de los Bhaktas."
+    }
+  ]
+}

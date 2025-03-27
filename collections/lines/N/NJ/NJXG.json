@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕੋਈ ਓਢੈ ਨੀਲ; ਕੋਈ ਸੁਪੇਦ ॥੩॥",
+      "page": 885,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Some wear blue robes and some white."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਈ ਨੀਲੇ ਕੱਪੜੇ ਪਾਉਂਦੇ ਹਨ ਅਤੇ ਕਈ ਚਿੱਟੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Some wear blue robes, and some wear white. ||3||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੁਸਲਮੀਨ ਨੀਲ ਓਢਤੇ ਹੈਂ ਹਿੰਦੂ ਸੁਫੈਦ ਓਢਤੇ ਹੈਂ॥੩॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕੋਈ (ਮੁਸਲਮਾਨ ਹੋ ਕੇ) ਨੀਲੇ ਕੱਪੜੇ ਪਹਿਨਦਾ ਹੈ, ਕੋਈ (ਹਿੰਦੂ) ਚਿੱਟੇ ਬਸਤ੍ਰ ਪਾਂਦਾ ਹੈ ॥੩॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "algunos se visten de blanco, otros de azul. (3)"
+    }
+  ]
+}

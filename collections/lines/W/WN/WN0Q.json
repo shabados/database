@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਥਨੀ ਕਹਿ; ਭਰਮੁ ਨ ਜਾਈ ॥",
+      "page": 655,
+      "line": 4
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "By uttering sermons, the doubt is dispelled not."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਧਰਮ ਭਾਸ਼ਨ ਉਚਾਰਨ ਦੁਆਰਾ ਸੰਦੇਹ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "By preaching sermons, one's doubt is not dispelled."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਥਨ ਕਰਨੇ ਮਾਤ੍ਰ ਸੇ ਬਿਨਾਂ ਧਾਰਨਾ ਤੇ ਭਰਮ ਨਹੀਂ ਜਾਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਪਰ ਇਹ ਦ੍ਵੈਤ ਦਾ) ਭੁਲੇਖਾ ਨਿਰੀਆਂ ਗੱਲਾਂ ਕਰਨ ਨਾਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "A través de palabras, nuestra duda no es disipada,"
+    }
+  ]
+}

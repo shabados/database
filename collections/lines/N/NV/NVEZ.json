@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅਨਿਕ ਉਪਾਵੀ; ਰੋਗੁ ਨ ਜਾਇ ॥",
+      "page": 288,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The malady which is not cured by many remedies,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਹੜੀ ਬੀਮਾਰੀ ਘਣੇਰੇ ਇਲਾਜਾ ਦੁਆਰਾ ਨਹੀਂ ਮਿਟਦੀ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "All sorts of remedies have not cured the disease"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰ ਅਨੇਕ ਉਪਾਵ ਕਰ ਕੇ ਅਗਿਆਨ ਵਾ ਪ੍ਰਤਖ ਰੋਗ ਤੇਰਾ ਨਹੀਂ ਜਾਇਗਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਜੇਹੜਾ ਹਉਮੈ ਦਾ) ਰੋਗ ਅਨੇਕਾਂ ਹੀਲਿਆਂ ਨਾਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Si te encuentras afligido por alguna enfermedad para la cual no has hallado cura,"
+    }
+  ]
+}

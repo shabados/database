@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਚਲਤੀ ਬਾਰ; ਤੇਰੋ ਕਛੂ ਨਾਹਿ ॥੪॥",
+      "page": 1189,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Nothing shall be thine at the time of departure."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕੂਚ ਕਰਨ ਦੇ ਵੇਲੇ ਤੇਰਾ ਕੁਝ ਭੀ ਨਹੀਂ ਹੋਣਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "When you must leave, nothing shall go along with you. ||4||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੰਤ ਕੋ ਚਲਣੇ ਕੇ ਸਮੇਂ ਤੇਰੋ ਕੁਛ ਭੀ ਸਹਾਈ ਨਹੀਂ ਹੋਵੇਗਾ॥੪॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਸਾਰ ਤੋਂ ਕੂਚ ਕਰਨ ਵੇਲੇ (ਧਨ ਮਾਲ ਵਿਚੋਂ) ਕੋਈ ਭੀ ਚੀਜ਼ ਤੇਰੀ ਨਹੀਂ ਹੋਵੇਗੀ ॥੪॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "cuando nada se va con uno al final? (4)"
+    }
+  ]
+}

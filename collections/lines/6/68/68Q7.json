@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮੇਘੁ ਵਰਸੈ; ਸਭਨੀ ਥਾਈ ॥",
+      "page": 105,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The rain falls at all the places."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਰੀਆਂ ਥਾਵਾਂ ਤੇ ਮੀਹ ਵਰ੍ਹਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "the rain is falling everywhere."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਸੇ ਮੇਘ ਸਰਬ ਅਸਥਾਨ ਬਰਸਤਾ ਹੈ ਵਾ ਜਬ ਪ੍ਰਮੇਸ੍ਵਰ ਜੀ ਦਯਾਲੂ ਹੂਏ ਤਬ ਗੁਰੂ ਰੂਪੀ ਮੇਘ ਨੇ ਸਰਬ ਅਧਕਾਰੀਓਂ ਕੋ ਉਪਦੇਸੁ ਕੀਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਤਾਂ) ਬੱਦਲ (ਉੱਚੇ ਨੀਵੇਂ) ਸਭ ਥਾਵਾਂ ਤੇ ਵਰਖਾ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "y la roció por todas partes."
+    }
+  ]
+}

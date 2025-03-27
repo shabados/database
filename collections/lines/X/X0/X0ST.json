@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾਵਰੀ ਮਹਲਾ ੫ ਇਕਤੁਕਾ ॥",
+      "page": 410,
+      "line": 19
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa 5th Guru Ek Tuke."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾਵਰੀ ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ ਇਕ ਤੁਕਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaavaree, Fifth Mehl, Ek-Thukay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asavari, Mejl, Guru Aryan, Quinto Canal Divino, Ik-Tuka."
+    }
+  ]
+}

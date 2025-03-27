@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਤਹ ਕਉਨੁ ਕਥੈ; ਕਉਨੁ ਸੁਨਨੈਹਾਰਾ ॥",
+      "page": 291,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "who was the utterer and who the hearer then?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉੱਥੇ ਕੌਣ ਕਹਿਣ ਵਾਲਾ ਅਤੇ ਕੌਣ ਸੁਣਨ ਵਾਲਾ ਸੀ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "then who spoke and who listened?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਬ ਕੌਨ ਕਥਨ ਕਰਤਾ ਔਰ ਕੌਨ ਸੁਨਨੇ ਹਾਰਾ ਥਾ ਅਰਥਾਤ ਕੋਈ ਨਹੀਂ ਥਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਦੋਂ ਕੌਣ ਬੋਲਦਾ ਸੀ, ਤੇ ਕੌਣ ਸੁਣਨ ਵਾਲਾ ਸੀ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Entonces , quien escucho y quien hablo?"
+    }
+  ]
+}

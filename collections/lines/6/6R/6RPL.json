@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਉ ਪੰਡਿਤੁ; ਹਉ ਚਤੁਰੁ ਸਿਆਣਾ ॥",
+      "page": 178,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I am learned, I am clever, and wise."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਵਿਦਵਾਨ ਹਾਂ, ਮੈਂ ਹੁਸ਼ਿਆਰ ਤੇ ਅਕਲਮੰਦ ਹਾਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I am learned, I am clever and wise.\""
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਪੰਡਤ ਹਾਂ, ਮੈਂ ਚਤਰ ਹਾਂ, ਮੈਂ ਸਿਆਣਾ ਹਾਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਵਿਦਵਾਨ ਹਾਂ, ਮੈਂ ਚਤੁਰ ਹਾਂ ਮੈਂ ਸਿਆਣਾ ਹਾਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh, ¿quién puede traspasar mi propiedad? ¡Soy un escolástico sabio e inteligente!"
+    }
+  ]
+}

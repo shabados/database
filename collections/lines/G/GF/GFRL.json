@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅੰਨੈ ਬਿਨਾ; ਨ ਹੋਇ ਸੁਕਾਲੁ ॥",
+      "page": 873,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Without corn, time passes not in peace."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਨਾਜ ਦਾ ਬਾਝੋਂ ਸਮਾਂ ਸੁੱਖ ਅੰਦਰ ਬਤੀਤ ਨਹੀਂ ਹੁੰਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Without this grain, time does not pass in peace."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੰਨ ਪੈਦੇ ਹੋਇ ਬਿਨਾਂ ਸੁਕਾਲ ਨਹੀਂ ਹੋਤਾ, ਭਾਵ ਜੀਵ ਖੁਧਾ ਕਰ ਦੁਖੀ ਰਹਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੰਨ ਤੋਂ ਬਗ਼ੈਰ ਸੁਕਾਲ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Pues sin granos para comer,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮੈ ਬਿਗਰੇ; ਅਪਨੀ ਮਤਿ ਖੋਈ ॥",
+      "page": 855,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I am spoiled and I have lost my intellect."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਵਿਗੜ ਗਿਆ ਹਾਂ ਅਤੇ ਮੈਂ ਸੰਦੇਹ ਅੰਦਰ ਆਪਣੀ ਅਕਲ ਗੁਆ ਲਈ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I am spoiled; I have lost my intellect."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਬਿਗੜ ਕਰ ਕੇ ਅਪਨੀ ਇਜਤ ਖੋਇ ਲਈ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਜੇ) ਮੈਂ ਕੁਰਾਹੇ ਪਏ ਹੋਏ ਨੇ ਆਪਣੀ ਅਕਲ ਗੁਆ ਲਈ ਹੈ (ਤਾਂ ਲੋਕਾਂ ਨੂੰ ਭਲਾ ਕਿਉਂ ਮੇਰਾ ਇਤਨਾ ਫ਼ਿਕਰ ਹੈ?)"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "He perdido mis sentidos y mi intelecto,"
+    }
+  ]
+}

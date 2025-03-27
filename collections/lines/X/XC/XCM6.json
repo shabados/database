@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾ ਮਹਲਾ ੧ ਇਕਤੁਕੀ ॥",
+      "page": 416,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa 1st Guru. Ek Tuki."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾ ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ। ਇਕ ਤੁਕੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaa, First Mehl, Ik-Tukee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asa, Mejl Guru Nanak, Primer Canal Divino, Ik-Tuki."
+    }
+  ]
+}

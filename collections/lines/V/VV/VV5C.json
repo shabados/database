@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪੰਜਿ ਨਿਵਾਜਾ. ਵਖਤ ਪੰਜਿ; ਪੰਜਾ ਪੰਜੇ ਨਾਉ ॥",
+      "page": 141,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "There are five prayers, five times for prayers, and the five have five names."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਜ ਨਿਮਾਜ਼ਾ ਹਨ, ਨਿਮਾਜ਼ਾ ਲਈ ਪੰਜ ਵੇਲੇ ਹਨ ਅਤੇ ਪੰਜਾਂ ਦੇ ਪੰਜ ਨਾਮ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "There are five prayers and five times of day for prayer; the five have five names."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਾਂਚ ਨਿਵਾਜਾਂ ਹੈਂ ਪਾਂਚ ਹੀ ਵਖਤ ਹੈਂ ਪਾਂਚੋਂ ਹੀ ਨਾਮ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਮੁਸਲਮਾਨਾਂ ਦੀਆਂ ਪੰਜ ਨਿਮਾਜ਼ਾਂ ਹਨ, (ਉਹਨਾਂ ਦੇ) ਪੰਜ ਵਕਤ ਹਨ ਤੇ ਪੰਜਾਂ ਹੀ ਨਿਮਾਜ਼ਾਂ ਦੇ (ਵਖੋ ਵਖਰੇ) ਪੰਜ ਨਾਮ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Tú recitas tus oraciones cinco veces, dándoles cinco nombres."
+    }
+  ]
+}

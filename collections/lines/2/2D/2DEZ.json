@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਵੈਦ ਨ ਭੋਲੇ ਦਾਰੂ ਲਾਇ ॥",
+      "page": 1256,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "O simpleton physician, give thou me no medicaments."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਨਾਦਾਨ ਹਕੀਮ! ਤੂੰ ਮੈਨੂੰ ਕੋਈ ਅੋਸ਼ਧੀਆਂ ਨਾਂ ਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "O foolish doctor, don't give me medicine."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੋ ਭੋਲੇ ਵੈਦ! ਇਹ ਦਾਰੂ ਹਮ ਕੋ ਲਗਾਉ ਨਹੀਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭੋਲੇ ਵੈਦ! ਤੂੰ ਦਵਾਈ ਨਾਹ ਦੇਹ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Cuál de todos estos males podrías curar, dime cuál?"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਾਤਿ ਵਰਨ; ਤੁਰਕ ਅਰੁ ਹਿੰਦੂ ॥",
+      "page": 237,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The castes, races, Musalmans and Hindus;"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਾਤੀਆਂ, ਨਸਲਾ, ਮੁਸਲਮਾਨ ਅਤੇ ਹਿੰਦੂ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Social classes, races, Muslims and Hindus;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਾਤਿ ਵਰਣ ਤੁਰਕ ਔਰ ਹਿੰਦੂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਵਖ ਵਖ) ਜਾਤਾਂ, (ਬ੍ਰਾਹਮਣ, ਖੱਤ੍ਰੀ ਆਦਿਕ) ਵਰਨ, ਮੁਸਲਮਾਨ ਅਤੇ ਹਿੰਦੂ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Las castas y las razas, los hindúes y los musulmanes."
+    }
+  ]
+}

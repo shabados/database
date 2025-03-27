@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੰਤ ਬਿਹਾਵੈ; ਹਰਿ ਜਸੁ ਗਾਵਤ ॥੫॥",
+      "page": 914,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The life of the Saint passes singing God's praise."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਧੂ ਦਾ ਜੀਵਨ ਰੱਬ ਦੀ ਕੀਰਤੀ ਗਾਉਦਿਆਂ ਹੀ ਗੁਜ਼ਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Saints pass their lives singing the Lord's Praise. ||5||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਤੋਂ ਕੀ ਅਵਸਥਾ ਹਰੀ ਕੇ ਜਸ ਗਾਵਤਿਆਂ ਬੀਤਤੀ ਹੈ॥੫॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਤ ਦੀ ਉਮਰ ਬੀਤਦੀ ਹੈ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਂਦਿਆਂ ॥੫॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "pero los Santos pasan su vida cantándole a Dios. (5)"
+    }
+  ]
+}

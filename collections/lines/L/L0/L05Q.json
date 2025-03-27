@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਵਿਸੁਏ ਚਸਿਆ ਘੜੀਆ ਪਹਰਾ; ਥਿਤੀ ਵਾਰੀ ਮਾਹੁ ਭਇਆ ॥",
+      "page": 357,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "As seconds, minutes, hours, quarters of a day, lunar days, week days, months,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਤਰ੍ਹਾਂ, ਸੈਕਿੰਡ, ਮਿੰਟ, ਘੰਟੇ ਪਹਰ, ਚੰਦ ਦੇ ਦਿਹਾੜੇ, ਹਫਤੇ ਦੇ ਦਿਹੁੰ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "As the seconds, minutes, hours, days, weekdays months"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "੧੫ ਬੇਰ ਨੇਤ੍ਰੋਂ ਕੇ ਮੀਚਨੇ ਉਘਾਰਨੇ ਕਾ ਨਾਮ ਬਿਸਾ ਹੈ, ਤਿਨ ੧੫ ਬਿਸੋਂ ਕਾ ਨਾਮ ਚਸਾ ਹੈ, ੩੦ ਚਸੋਂ ਕਾ ਏਕ ਪਲ ਹੈ, ੬੦ ਪਲ ਕੀ ਘੜੀ ਹੈ, ੮ ਘੜੀ ਕਾ ਪਹਿਰ ਹੈ, ੮ ਪਹਰ ਕਾ ਰਾਤਿ ਦਿਨ ਹੈ, ੧੫ ਥਿਤ ਹੈਂ, ੧੨ ਮਹੀਨੇ ਹੈਂ, ੬ ਰੁਤਿ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਵੇਂ ਵਿਸੁਏ, ਚਸੇ, ਘੜੀਆਂ, ਪਹਰ, ਥਿੱਤਾਂ, ਵਾਰ, ਮਹੀਨਾ (ਆਦਿਕ) ਤੇ ਹੋਰ ਅਨੇਕਾਂ ਰੁੱਤਾਂ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Los segundos, los minutos, las horas, los días solares y lunares,"
+    }
+  ]
+}

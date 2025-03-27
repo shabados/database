@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅਭਿਆਗਤ ਏਹਿ. ਨ ਆਖੀਅਨਿ; ਜਿ ਪਰ ਘਰਿ ਭੋਜਨੁ ਕਰੇਨਿ ॥",
+      "page": 949,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "They are not called the world-renouncers, who take food in other's houses,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਜਗਤ ਦੇ ਤਿਆਗੀ ਨਹੀਂ ਆਖੇ ਜਾਂਦੇ ਜੋ ਹੋਰਨਾਂ ਦੇ ਘਰਾਂ ਵਿੱਚ ਪ੍ਰਸ਼ਾਦ ਛੱਕਦੇ ਹਨ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "They are not called renunciates, who take food in the homes of others."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਭ੍ਯਾਗਤਿ ਏਹੁ ਨਹੀਂ ਕਹੀਤੇ ਜੋ ਪਰਾਏ ਘਰ ਜਾਇਕੇ ਭੋਜਨ ਕਰਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹਨਾਂ ਨੂੰ 'ਅਭਿਆਗਤ' (ਸਾਧੂ) ਨਹੀਂ ਆਖੀਦਾ ਜੋ ਮਨੁੱਖ ਪਰਾਏ ਘਰ ਵਿਚ ਰੋਟੀ ਖਾਂਦੇ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El santo mendigo no es aquél que se alimenta de las dádivas de otro,"
+    }
+  ]
+}

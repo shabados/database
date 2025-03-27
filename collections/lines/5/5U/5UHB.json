@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਤਿਗੁਰ ਬਾਝਹੁ; ਵੈਦੁ. ਨ ਕੋਈ ॥",
+      "page": 1016,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Without the True Guru, there is no other physician."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੱਚੇ ਗੁਰਾਂ ਦੇ ਬਗੈਰ ਹੋਰ ਕੋਈ ਹਕੀਮ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Other than the True Guru, there is no physician."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਤਿਗੁਰੋਂ ਸੇ ਬਿਨਾਂ ਅਗਿਆਨ ਰੋਗ ਨਵਿਰਤ ਕਰਤਾ ਬੈਦ ਕੋਈ ਨਹੀਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਪ੍ਰੇਮ ਦੀ ਚੋਭ ਦਾ ਇਲਾਜ ਕਰਨ ਵਾਲਾ) ਹਕੀਮ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sin el Guru Verdadero no hay ningún otro médico,"
+    }
+  ]
+}

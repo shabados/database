@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਤੂ ਦੇਖਹਿ; ਹਉ ਮੁਕਰਿ ਪਾਉ ॥",
+      "page": 25,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Thou seest my actions, yet I deny."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੂੰ ਮੇਰੇ ਅਮਲ ਵੇਖਦਾ ਹੈਂ ਤਾਂ ਵੀ ਮੈਂ ਇਨਕਾਰੀ ਹਾਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "You see all my actions, and yet I deny them."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੂੰ  ਮੇਰੇ ਕਰਮੋਂ ਕੋ ਦੇਖਤਾ ਹੈਂ ਔਰੁ ਮੈਂ ਕਰਮ ਕਰ ਕੇ ਮੁਕਰ ਜਾਤਾ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੂੰ ਸਭ ਕੁਝ ਵੇਖਦਾ ਹੈਂ (ਫਿਰ ਭੀ) ਮੈਂ ਆਪਣੇ ਕੀਤੇ ਕੰਮਾਂ ਤੋਂ ਮੁੱਕਰ ਜਾਂਦਾ ਹਾਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "sé que ves todas mis acciones y aún así lo niego,"
+    }
+  ]
+}

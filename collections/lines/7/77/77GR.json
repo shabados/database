@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੀਅ ਕੀ; ਕੈ ਪਹਿ ਬਾਤ ਕਹਾ ॥",
+      "page": 1003,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "To whom should I tell the state of my mind?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਆਪਣੇ ਮਨ ਦੀ ਅਵਸਥਾ ਕਿਸ ਨੂੰ ਦੱਸਾਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Who can I tell about the state of my soul?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਅਪਨੇ ਜੀਅ ਕੀ ਕਿਸ ਪਾਸ ਬਾਤ ਕਹਾਂ?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਪੰਡਿਤ!) ਮੈਂ ਆਪਣੇ ਦਿਲ ਦੀ ਗੱਲ ਕਿਸ ਨੂੰ ਦੱਸਾਂ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿A quien le puedo contar el estado de mi Alma?"
+    }
+  ]
+}

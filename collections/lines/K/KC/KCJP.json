@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਤ ਝਖਿ ਝਖਿ; ਅਉਰਨ ਸਮਝਾਵਾ ॥",
+      "page": 341,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Why talk nonsense to convince other?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੋਰਨਾ ਦੀ ਤਸੱਲੀ ਕਰਾਉਣ ਲਈ ਤੂੰ ਕਿਉਂ ਬਕਵਾਸ ਕਰਦਾ ਹੈਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Why do you talk such nonsense, trying to convince others?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਆਪ ਨਹੀਂ ਸਮਝਾ ਤੌ ਕਿਉਂ (ਝਖਿ ਝਖਿ) ਖਪ ਖਪ ਕਰ ਔਰੋਂ ਕੋ ਸਮਝਾਵਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਹਿਸਾਂ ਕਰ ਕਰ ਕੇ ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਣ ਦਾ ਕੀਹ ਲਾਭ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Por qué debo de instruir a otros en el método discursivo?"
+    }
+  ]
+}

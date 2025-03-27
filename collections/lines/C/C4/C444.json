@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਉ ਮਣੁ. ਹਸਤੀ ਘਿਉ ਗੁੜੁ ਖਾਵੈ; ਪੰਜਿ ਸੈ ਦਾਣਾ ਖਾਇ ॥",
+      "page": 1286,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "An elephant eats a hundred monds of clarified butter and molasses and swallows five hundred monds of corn."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਾਥੀ ਸੌ ਮਣ ਘੀ ਅਤੇ ਗੁੜ ਖਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਪੰਜ ਸੌ ਮਣ ਅਨਾਜ ਨਿਗਲ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The elephant eats a hundred pounds of ghee and molasses, and five hundred pounds of corn."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਸੇ ਹਾਥੀ ਘੀ ਅਰੁ ਗੁੜ ਕਈ ਸੌ ਮਣੁ ਖਾ ਜਾਤਾ ਹੈ ਅਰੁ ਕਈ ਪੰਜ ਸੈ ਮਣ ਦਾਣਾ ਖਾਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਾਥੀ ਕਿਤਨਾ ਹੀ ਘਿਉ ਗੁੜ ਤੇ ਕਈ ਮਣਾਂ ਦਾਣਾ ਖਾਂਦਾ ਹੈ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El elefante se come cincuenta Kilos de Guí y melaza, y doscientos cincuenta Kilos de maíz."
+    }
+  ]
+}

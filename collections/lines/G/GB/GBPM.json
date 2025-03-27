@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਜਾਨਾ; ਬੈਕੁੰਠ ਕਹਾ ਹੀ ॥",
+      "page": 325,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I know not where Lord's abode is."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਸੁਆਮੀ ਦਾ ਭਵਨ ਕਿੱਥੇ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I do not know where heaven is."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਨਹੀਂ ਜਾਨਤਾ ਬੈਕੁੰਠ ਕਹਾਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਨੂੰ ਤਾਂ ਪਤਾ ਨਹੀਂ, ਉਹ ਬੈਕੁੰਠ ਕਿੱਥੇ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Ellos no saben, ni siquiera, en donde habita el Señor;"
+    }
+  ]
+}

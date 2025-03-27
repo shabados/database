@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਿ ਕਬੀਰ; ਨਿਰਧਨੁ ਹੈ ਸੋਈ ॥",
+      "page": 1159,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, he alone is poor,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਕੇਵਲ ਉਹ ਹੀ ਗਰੀਬ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, he alone is poor,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਹਮਾਰੇ ਮਤ ਮੇਂ ਸੋਈ ਪੁਰਸ਼ ਨਿਰਧਨੁ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ (ਅਸਲ ਵਿਚ) ਉਹ ਮਨੁੱਖ ਹੀ ਕੰਗਾਲ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, el pobre es"
+    }
+  ]
+}

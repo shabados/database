@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪੜਿ ਪੜਿ ਪੋਥੀ; ਸਿੰਮ੍ਰਿਤਿ ਪਾਠਾ ॥",
+      "page": 226,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The mortal reads and studies books, recites Simritis,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੀਵ ਪੁਸਤਕਾਂ ਨੂੰ ਪੜ੍ਹਦਾ ਤੇ ਵਾਚਦਾ ਹੈ, ਸਿਮ੍ਰਤੀਆਂ ਦਾ ਪਾਠ ਕਰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "You may read, recite and study the scriptures,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਿੰਮ੍ਰਤੀਓਂ ਕੋ ਪੜ ਕਰ ਪੁਨਾ ਅੰਨ੍ਯ ਪੁਸਤਕੋਂ ਪੜ ਕਰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਵਿਦਵਾਨ ਪੰਡਿਤ) ਧਰਮ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Uno lee los textos semíticos,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪਾਠ ਪੜੈ; ਲੇ ਲੋਕ ਸੁਣਾਵੈ ॥",
+      "page": 905,
+      "line": 19
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Studying religious texts and reading them to people,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਧਾਰਮਕ ਗ੍ਰੰਥ ਵਾਚਣ ਅਤੇ ਲੋਕਾਂ ਨੂੰ ਸੁਣਾਉਣ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Studying the scriptures, reading them to other people,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੀਤਾ ਆਦਿਕੋਂ ਕੇ ਪਾਠ ਪੜਕੇ ਲੋਗੋਂ ਕੋ ਸੁਨਾਇ ਵਡਿਆਈ ਕੋ (ਲੇ) ਲੇਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇਹੜਾ ਮਨੁੱਖ (ਲੋਕ-ਵਿਖਾਵੇ ਦੀ ਖ਼ਾਤਰ) ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਪੜ੍ਹਦਾ ਹੈ, ਪੁਸਤਕਾਂ ਲੈ ਕੇ ਲੋਕਾਂ ਨੂੰ (ਹੀ) ਸੁਣਾਂਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "aunque estudie las escrituras, leyéndoselas a otros,"
+    }
+  ]
+}

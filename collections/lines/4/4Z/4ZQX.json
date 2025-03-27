@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾ ਮਹਲਾ ੫ ਇਕਤੁਕੇ ਚਉਪਦੇ ॥",
+      "page": 374,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa 5th Guru. Chaupade."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾ ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ। ਚਉਪਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaa, Fifth Mehl, Ek-Thukay, Chau-Padhay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asa, Mejl Guru Aryan, Quinto Canal Divino, Ik‑Tukas, Chau-Padas."
+    }
+  ]
+}

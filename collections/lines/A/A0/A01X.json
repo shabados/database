@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੇ ਰਤੁ ਲਗੈ ਕਪੜੈ; ਜਾਮਾ ਹੋਇ ਪਲੀਤੁ ॥",
+      "page": 140,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "If clothes be stained with blood the garment gets polluted."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇਕਰ ਬਸਤਰਾ ਨੂੰ ਲਹੂ ਲੱਗ ਜਾਵੇ ਤਾਂ ਪੁਸ਼ਾਕ ਮਲੀਨ ਹੋ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "If one's clothes are stained with blood, the garment becomes polluted."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਕਾਜੀ: ਜੇ ਕਰ (ਰਤੁ) ਰੁਧਰ ਬਸਤ੍ਰੋਂ ਕੋ ਲਗ ਜਾਤਾ ਹੈ ਤਬ ਕਹਤੇ ਹੋ ਜਾਮਾ ਪਲੀਤ ਅਰਥਾਤ ਅਪਵਿਤ੍ਰ ਹੋ ਗਯਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇ ਜਾਮੇ ਨੂੰ ਲਹੂ ਲੱਗ ਜਾਵੇ, ਤਾਂ ਜਾਮਾ ਪਲੀਤ ਹੋ ਜਾਂਦਾ ਹੈ (ਤੇ ਨਮਾਜ਼ ਨਹੀਂ ਹੋ ਸਕਦੀ),"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Si la sangre se pega a la ropa, la ropa se ensucia."
+    }
+  ]
+}

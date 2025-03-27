@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਸੰਤੁ ਮਹਲਾ ੫ ਹਿੰਡੋਲ ॥",
+      "page": 1185,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant 5th Guru Hindol."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬਸੰਤ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ ਹਿੰਡੋਲ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Basant, Fifth Mehl, Hindol:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Basant Mejl Guru Aryan Dev, Quinto Canal Divino, Hindol."
+    }
+  ]
+}

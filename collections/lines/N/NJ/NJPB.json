@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਮ ਮੂਰਖ; ਮੂਰਖ ਮਨ ਮਾਹਿ ॥",
+      "page": 666,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "We are ignorant and ignorance is within our mind,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਸੀਂ ਬੇਸਮਝ ਹਾਂ ਅਤੇ ਬੇਸਮਝੀ ਹੀ ਸਾਡੇ ਚਿੱਤ ਵਿੱਚ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "We are ignorant; ignorance fills our minds."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹਮ) ਤਮਾਮ ਅਰਥਾਤ ਸਰਬ ਮੂਰਖ ਜੀਵੋਂ ਕੇ ਮਨ ਬੀਚ ਮੂਰਖਤਾ ਵਸ ਰਹੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! (ਜੇ ਅਸੀਂ ਆਪਣੇ) ਮਨ ਵਿਚ (ਗਹੁ ਨਾਲ ਵਿਚਾਰੀਏ ਤਾਂ ਇਸ ਹਉਮੈ ਦੇ ਕਾਰਨ) ਅਸੀਂ ਨਿਰੋਲ ਮੂਰਖ ਹਾਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Soy ignorante y la ignorancia es parte de mi mente,"
+    }
+  ]
+}

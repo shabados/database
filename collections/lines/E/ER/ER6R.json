@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਨੁ ਕੁੰਚਰੁ; ਕਾਇਆ ਉਦਿਆਨੈ ॥",
+      "page": 221,
+      "line": 11
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The mind is an elephant in the body forest."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦੇਹਿ ਦੇ ਜੰਗਲ ਅੰਦਰ ਮਨੂਆਂ ਇਕ ਹਾਥੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The mind is an elephant in the forest of the body."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਏਹ ਮਨ ਰੂਪੀ ਹਸਤੀ ਹੈ ਔਰ (ਕਾਇਆ) ਸਰੀਰ ਰੂਪੀ (ਉਦਿਆਨੈ) ਜੰਗਲ ਮੇਂ ਰਹਿਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਇਸ) ਸਰੀਰ ਜੰਗਲ ਵਿਚ ਮਨ ਹਾਥੀ (ਸਮਾਨ) ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "La mente es el elefante salvaje en la jungla del cuerpo;"
+    }
+  ]
+}

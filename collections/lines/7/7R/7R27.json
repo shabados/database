@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਉਗਵੈ ਸੂਰੁ; ਨ ਜਾਪੈ ਚੰਦੁ ॥",
+      "page": 791,
+      "line": 3
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "When the sun rises, the moon is seen not."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦ ਸੂਰਜ ਚੜ੍ਹ ਪੈਂਦਾ ਹੈ, ਚੰਦਰਮਾ ਦਿਸਦਾ ਹੀ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "When the sun rises, the moon is not visible."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੁਨਾ ਜੈਸੇ ਸੂਰਜ ਕੇ ਉਦੇ ਹੋਣੇ ਤੇ ਨਹੀਂ ਜਾਣੀਤਾ ਜੋ ਚੰਦ ਕਾ ਪ੍ਰਕਾਸ ਕਹਾਂ ਗਿਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦੋਂ ਸੂਰਜ ਚੜ੍ਹ ਪੈਂਦਾ ਹੈ ਚੰਦ੍ਰਮਾ (ਚੜ੍ਹਿਆ ਹੋਇਆ) ਨਹੀਂ ਜਾਪਦਾ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Cuando el sol se levanta, la luna se desvanece;"
+    }
+  ]
+}

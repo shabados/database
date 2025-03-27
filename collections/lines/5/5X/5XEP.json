@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੋ ਮੈ ਬੇਦਨ; ਸਾ. ਕਿਸੁ ਆਖਾ ਮਾਈ ॥",
+      "page": 990,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The pain, that I have; to whom should I tell that, O my mother?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਹੜੀ ਪੀੜ ਮੈਨੂੰ ਹੈ ਉਹ ਮੈਂ ਕਿਸ ਨੂੰ ਦੱਸਾਂ, ਹੇ ਮੇਰੀ ਮਾਤਾ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Who can I tell about my pain, O my mother?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੀ ਸਖੀ! ਜੋ ਮੇਰੇ ਕੋ ਪੀੜਾ ਹੈ, ਸੋ ਮੈਂ ਕਿਸਕੋ ਕਹੋਂ?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ (ਮੇਰੀ) ਮਾਂ! ਮੈਂ ਕਿਸ ਨੂੰ ਦੱਸਾਂ ਆਪਣੇ ਦਿਲ ਦੀ ਪੀੜ? (ਬਿਗਾਨੀ ਪੀੜ ਦੀ ਸਾਰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਸਕਦਾ)।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh madre, ¿a quién le voy a contar mi dolor?"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਉ ਭਾਲਿ; ਵਿਕੁੰਨੀ ਹੋਈ ॥",
+      "page": 145,
+      "line": 11
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "In my search, I have become bewildered."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਪਣੀ ਖੋਜ ਢੂੰਡ ਅੰਦਰ ਮੈਂ ਪਰੇਸ਼ਾਨ ਹੋ ਗਿਆ ਹਾਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I have searched in vain, and I am so confused;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ (ਭਾਲਿ) ਢੂੰਢ ਕਰ (ਵਿਕੁੰਨੀ) ਬਿਆਕੁਲ ਹੋ ਰਹੀ ਹਾਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਇਸ ਚੰਦ੍ਰਮਾ ਨੂੰ ਲੱਭ ਲੱਭ ਕੇ ਵਿਆਕੁਲ ਹੋ ਗਈ ਹਾਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Buscar en vano me ha vuelto loco, y no puedo ver mi Sendero en la oscuridad."
+    }
+  ]
+}

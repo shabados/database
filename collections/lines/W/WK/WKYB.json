@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪਰੰਦਏ; ਨ ਗਿਰਾਹ ਜਰ ॥",
+      "page": 144,
+      "line": 4
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The birds have no money in their pockets."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਛੀਆਂ ਦੀ ਗੰਢ ਵਿੱਚ ਕੋਈ ਮਾਲ ਧਨ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The birds have no money in their pockets."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਪਰੰਦਏ) ਪੰਛੀਓਂ ਕੇ (ਗਿਰਾਹ) ਗਾਠ ਮੇਂ (ਜਰ) ਧਨ ਨਹੀਂ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਛੀਆਂ ਦੇ ਗੰਢੇ-ਪੱਲੇ ਧਨ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Un pájaro no tiene pertenencias,"
+    }
+  ]
+}

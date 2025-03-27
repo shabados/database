@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਸਤ੍ਰ ਹਮਾਰੇ; ਰੰਗਿ ਚਲੂਲ ॥",
+      "page": 372,
+      "line": 11
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "My clothes are red like the colour of tulip."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰੇ ਕੱਪੜੇ ਪੋਸਤ ਦੇ ਫੁਲ ਦੀ ਰੰਗਤ ਦੀ ਮਾਨੰਦ ਲਾਲ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "My clothes are dyed the deep crimson color of the poppy."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਬਸਤ੍ਰ) ਅੰਤਸਕਰਨ ਹਮਾਰੇ ਚਲੂਲ ਰੰਗਿ ਵਾਲੇ ਗਾਢੇ ਹੋ ਰਹੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰੇ (ਸਾਲੂ ਆਦਿਕ) ਕੱਪੜੇ, ਗੂੜ੍ਹੇ ਰੰਗ ਵਿਚ ਰੰਗੇ ਗਏ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Mi ropa está teñida con el rojo de la flor de Lala"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਠਾਕੁਰੁ ਹਮਰਾ ਸਦ ਬੋਲੰਤਾ ॥",
+      "page": 1160,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "My Lord ever speaks."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰਾ ਸੁਆਮੀ ਹਮੇਸ਼ਾਂ ਹੀ ਬੋਲਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "My Lord and Master speaks forever."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਮਾਰਾ ਠਾਕੁਰ ਸਦਾ ਬੋਲਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਡਾ ਠਾਕੁਰ ਸਦਾ ਬੋਲਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Mi Maestro se expresa siempre por todas partes"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਾ ਕੀ ਮਾਈ; ਕਾ ਕੋ ਬਾਪ ॥",
+      "page": 188,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Whose is this mother and whose this father?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਸ ਦੀ ਇਹ ਮਾਂ ਹੈ ਅਤੇ ਕਿਸ ਦਾ ਇਹ ਪਿਓ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Whose mother is this? Whose father is this?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! ਕਿਸ ਕੀ ਮਾਈ ਔਰ ਕਿਸ ਕਾ ਪਿਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਅਸਲ ਵਿਚ ਸਦਾ ਲਈ) ਨਾਹ ਕੋਈ ਕਿਸੇ ਦੀ ਮਾਂ ਹੈ, ਨਾਹ ਕੋਈ ਕਿਸੇ ਦਾ ਪਿਉ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿De quién es el padre? ¿De quién es la madre?"
+    }
+  ]
+}

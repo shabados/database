@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੋ ਨਰੁ ਦੁਖ ਮੈ; ਦੁਖੁ ਨਹੀ ਮਾਨੈ ॥",
+      "page": 633,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The man, who in pain, feels not pain,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਹੜਾ ਪੁਰਸ਼ ਤਕਲੀਫ ਵਿੱਚ ਤਕਲੀਫ ਨਹੀਂ ਮੰਨਦਾ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "That man, who in the midst of pain, does not feel pain,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਪੁਰਸ ਦੁੱਖ ਕੇ ਸਮੇਂ ਮੇਂ ਦੁਖ ਕਰ ਕੇ ਨਹੀਂ ਮਾਨਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਦੁੱਖਾਂ ਵਿਚ ਘਬਰਾਂਦਾ ਨਹੀਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Para aquél a quien no le aflige el dolor ni le afecta el placer ni el miedo,"
+    }
+  ]
+}

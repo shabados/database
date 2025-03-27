@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਹ ਕਿਛੁ ਜਨਮੈ; ਨਹ ਕਿਛੁ ਮਰੈ ॥",
+      "page": 281,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Nothing is born and nothing dies."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾਂ ਕੁਝ ਜੰਮਦਾ ਹੈ ਅਤੇ ਨਾਂ ਹੀ ਕੁਝ ਮਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Nothing is born, and nothing dies."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਾਂ ਤੇ ਨਾ ਕੁਛ ਜਨਮਤਾ ਹੈ ਔਰ ਨਾ ਕੁਛ ਮਰਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾਹ ਕੁਝ ਜੰਮਦਾ ਹੈ ਨਾਹ ਕੁਝ ਮਰਦਾ ਹੈ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Nada nace y nada muere;"
+    }
+  ]
+}

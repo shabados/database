@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਿਤੁ ਮੇਰਾ ਮਨੁ; ਜਪੈ ਹਰਿ ਨਾਉ ॥੧॥ ਰਹਾਉ ॥",
+      "page": 191,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "when my mind remembers the Name of god. Pause."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦ ਮੇਰੀ ਆਤਮਾ ਵਾਹਿਗੁਰੂ ਦੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਕਰਦੀ ਹੈ। ਠਹਿਰਾਉ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "when my mind chants the Name of the Lord. ||1||Pause||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਸਮੇਂ ਮੇਰੇ ਮਨ ਨੈ ਹਰੀ ਨਾਮ ਜਪੇ ਹੈ॥੧॥ ਰਹਾਉ ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਵੇਲੇ ਮੇਰਾ ਮਨ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "en el que mi mente pueda descansar en el Naam, el Nombre del Señor.(1-Pausa)"
+    }
+  ]
+}

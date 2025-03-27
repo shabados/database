@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਭਗਤਿ ਕਰਹਿ ਮੂਰਖ; ਆਪੁ ਜਣਾਵਹਿ ॥",
+      "page": 159,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The fools perform service, and show themselves off."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬੇਵਕੂਫ ਸੇਵਾ ਕਮਾਉਂਦੇ ਹਨ ਅਤੇ ਆਪਣੇ ਆਪ ਦਾ ਮੁਜ਼ਾਹਰਾ ਕਰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The fools perform devotional worship by showing off;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਮੂਰਖ ਭਗਤੀ ਕਰ ਕੇ ਅਪਨੇ ਆਪ ਕੋ ਜਣਾਵਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੂਰਖ ਲੋਕ ਰਾਸਾਂ ਪਾਂਦੇ ਹਨ ਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਭਗਤ ਪਰਗਟ ਕਰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Aquél que danza en alabanza y trata de hacerse conocido,"
+    }
+  ]
+}

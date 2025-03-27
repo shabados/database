@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾ ਸ੍ਰੀ ਕਬੀਰ ਜੀਉ ॥",
+      "page": 475,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa of sire venerable Kabir;"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਸਾ, ਮਹਾਰਾਜ ਮਾਣਨੀਯ ਕਬੀਰ ਜੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaa, Kabeer Jee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asa Siri Kabir yi"
+    }
+  ]
+}

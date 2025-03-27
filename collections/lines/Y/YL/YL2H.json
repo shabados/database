@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੰਤ ਕਾ ਦੋਖੀ; ਕਿਤੈ ਕਾਜਿ. ਨ ਪਹੂਚੈ ॥",
+      "page": 280,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The saints' calumniator can accomplish task."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਧੂ ਦਾ ਨਿੰਦਕ ਕੋਈ ਕੰਮ ਨੇਪਰੇ ਨਹੀਂ ਚਾੜ੍ਹ ਸਕਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The slanderer of the Saint cannot accomplish his tasks."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੁਨਾ ਸੰਤ ਕਾ ਦੋਸੀ ਕਿਸੀ ਕਾਰਜ ਕੌ ਪਹੁੰਚ ਨਹੀਂ ਸਕਤਾ ਹੈ, ਅਰਥਾਤ ਤਿਸ ਕਾ ਕੋਈ ਕਾਰਜ ਪੂਰਨ ਨਹੀਂ ਹੋਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਸੇ ਕੰਮ ਵਿਚ ਨੇਪਰੇ ਨਹੀਂ ਚੜ੍ਹਦਾ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "y nunca podrá concluir nada."
+    }
+  ]
+}

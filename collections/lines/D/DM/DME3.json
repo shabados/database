@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਵਨੁ ਸੁ ਆਵੈ; ਕਵਨੁ ਸੁ ਜਾਇ ॥",
+      "page": 939,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Q. 15: Who is he that comes? Q. 16: Who is he, who goes?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪ੍ਰ. 15: ਉਹ ਕੌਣ ਹੈ ਜੋ ਆਉਂਦਾ ਹੈ? ਪ੍ਰ. 16: ਉਹ ਕੌਣ ਹੈ ਜੋ ਜਾਂਦਾ ਹੈ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Who comes, and who goes?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਆਵਤਾ ਜਾਵਤਾ ਕਵਨ ਹੈ ੪?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਸਦਾ) ਜੰਮਦਾ ਮਰਦਾ ਕੌਣ ਹੈ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "¿Quién viene y se va?"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਾ. ਸੁ ਤੇਗਬੰਦ ਗਾਡੇਰੜਿ; ਕਹਾ. ਸੁ ਲਾਲ ਕਵਾਈ ॥",
+      "page": 417,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Where are drums and bugles? Where are those sword-belts and chariots? Where are those scarlet uniforms?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿੱਥੇ ਹਨ ਨਗਾਰੇ ਤੇ ਬਿਗਲ? ਕਿੱਥੇ ਹਨ ਉਹ ਤਲਵਾਰਾਂ ਦੇ ਗਾਤ੍ਰੇ ਤੇ ਰਥ? ਕਿੱਥੇ ਹਨ ਉਹ ਸੂਹੇ ਰੰਗੀਆਂ ਵਰਦੀਆਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Where are the sword-belts and chariots? Where are those scarlet uniforms?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਲਵਾਰੋਂ ਕੇ ਬੰਧਨੇ ਵਾਲੇ ਕਹਾਂ ਹੈਂ, (ਗਾਡੇਰੜਿ) ਗਾਡੇ, ਭਾਵ ਰਥੀ ਸੂਰਮੇ ਕਹਾਂ ਹੈ, ਲਾਲ (ਕਵਾਈ) ਪੁਸਾਕਾਂ ਕਹਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿੱਥੇ ਹਨ ਪਸ਼ਮੀਨੇ ਦੇ ਗਾਤਰੇ? ਤੇ ਕਿੱਥੇ ਹਨ ਉਹ (ਫ਼ੌਜੀਆਂ ਦੀਆਂ) ਲਾਲ ਬਰਦੀਆਂ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "dónde están las fundas de las espadas, dónde las carrozas, los uniformes"
+    }
+  ]
+}

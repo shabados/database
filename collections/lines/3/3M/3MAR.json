@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਿੰਦਕੁ ਸੋ; ਜੋ ਨਿੰਦਾ ਹੋਰੈ ॥",
+      "page": 339,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He is the slanderer, who prevents my being slandered."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਲੰਕ ਲਾਉਣ ਵਾਲਾ ਉਹ ਹੈ, ਜੋ ਮੇਰੀ ਬਦਖੋਈ ਹੁੰਦੀ ਨੂੰ ਹੋੜਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The slanderer is the one who prevents me from being slandered."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਮਾਰਾ ਨਿੰਦਕ ਸੋ ਹੈ, ਜੋ ਹਮਾਰੀ ਨਿੰਦਾ ਹੋਤੀ ਕੋ (ਹੋਰੈ) ਹਟਾਵੈ, ਨਿੰਦਾ ਪਰਾਇਣ ਹੀ ਹੋ ਰਹੇ ਸੋ ਨਿੰਦਕ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਅਸਲ ਵਿਚ) ਸਾਡਾ ਮੰਦਾ ਚਿਤਵਣ ਵਾਲਾ ਮਨੁੱਖ ਉਹ ਹੈ, ਜੋ ਸਾਡੇ ਐਬ ਨਸ਼ਰ ਹੋਣੋਂ ਰੋਕਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Es el calumniador quien previene que otros me calumnien otra vez;"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੁਣਿ ਬਾਵਰੇ; ਕਿਆ ਕੀਚੈ ਕੂੜਾ ਮਾਨੋ ॥",
+      "page": 777,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Hearken thou, O mad man, why takest thou the false pride?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤੂੰ ਸੁਣ ਹੇ ਝੱਲੇ ਇਨਸਾਨ! ਤੂੰ ਝੂਠਾ ਹੰਕਾਰ ਕਿਉਂ ਕਰਦਾ ਹੈਂ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Listen, madman: why do you harbor false pride?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੁਣ ਹੇ ਬਾਵਰੇ! ਕਯਾ ਝੂਠਾ ਮਾਨ ਕਰ ਰਹਾ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਵਰੇ! (ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦਾ) ਝੂਠਾ ਅਹੰਕਾਰ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh hombre loco, ¿por qué te enorgulleces de todo lo que es ilusorio y falso?"
+    }
+  ]
+}

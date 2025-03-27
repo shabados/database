@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਏ ਸਾਜਨ; ਕਛੁ ਕਹਹੁ ਉਪਾਇਆ ॥",
+      "page": 251,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "O friend, tell me of some device."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮਿੱਤ੍ਰ! ਮੈਨੂੰ ਕੋਈ ਤਰਕੀਬ ਦੱਸ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "O friend, tell me some way,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮਹਾਂ ਪੁਰਸੋ! ਕੋਈ ਉਪਾਉ ਕਥਨ ਕਰੀਏ?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਸੱਜਣ! ਕੋਈ ਐਸਾ ਇਲਾਜ ਦੱਸ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh amigo, dime de alguna forma para salir de esto,"
+    }
+  ]
+}

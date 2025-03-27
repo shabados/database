@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਉ ਪਾਪੀ; ਤੂੰ ਨਿਰਮਲੁ ਏਕ ॥੧॥ ਰਹਾਉ ॥",
+      "page": 153,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I am a sinner, Thou alone art pure. Pause."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਗੁਨਹਗਾਰ ਹਾਂ, ਕੇਵਲ ਤੂੰ ਹੀ ਪਵਿੱਤ੍ਰ ਹੈਂ। ਠਹਿਰਾਉ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I am a sinner - You alone are pure. ||1||Pause||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੁਨਾ ਕੈਸਾ ਹੈਂ? ਏਕ ਹੈਂ ਔਰ ਮਾਇਆ ਆਦਿਕ ਉਪਾਧੀਓਂ ਸੇ ਰਹਿਤ ਨਿਰਮਲੁ ਹੈ ਔਰ ਮੈਂ ਪਾਪੀ ਹੂੰ ॥੧॥ ਰਹਾਉ ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਪਾਪੀ ਹਾਂ, ਸਿਰਫ਼ ਤੂੰ ਹੀ ਪਵਿਤ੍ਰ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Soy el peor de los que cometen errores y Tú eres lo más Puro de lo puro. (1-Pausa)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਿ ਕਬੀਰ; ਹਉ ਭਇਆ ਉਦਾਸੁ ॥",
+      "page": 331,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, I have become sad at this,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਮੈਂ ਇਸ ਗੱਲ ਤੋਂ ਸ਼ੋਕਵਾਨ ਹੋਇਆ ਹੋਇਆ ਹਾਂ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, I have become depressed;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਮੇਂ ਉਦਾਸ ਹੋ ਰਹਾ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਮੇਰੇ ਮਨ ਵਿਚ ਇਹ ਸ਼ੱਕ ਉੱਠ ਰਿਹਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Me he puesto triste y desolado"
+    }
+  ]
+}

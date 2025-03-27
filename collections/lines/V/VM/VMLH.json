@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਾਰੋ ਦਿਨੁ ਡੋਲਤ ਬਨ ਮਹੀਆ; ਅਜਹੁ. ਨ ਪੇਟ ਅਘਈਹੈ ॥",
+      "page": 524,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "All day thou shalt wander in the forest, even then thy belly shall not be satiated."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਰਾ ਦਿਨ ਤੂੰ ਜੰਗਲ ਅੰਦਰ ਭਟਕਦਾ ਫਿਰਨੂੰਗਾ, ਤਾਂ ਭੀ ਤੇਰਾ ਢਿੱਡ ਨਹੀਂ ਭਰਨਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "All day long, you shall wander in the forest, and even then, your belly will not be full."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਰਾ ਦਿਨ ਬਨ ਮੇਂ ਚਰਤਾ ਫਿਰੇਂਗਾ (ਅਜਹੁ ਨ) ਤਾਂ ਵੀ ਪੇਟ ਨ ਭਰੇਗਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੰਗਲ (ਜੂਹ) ਵਿਚ ਸਾਰਾ ਦਿਨ ਭਟਕਦਿਆਂ ਭੀ ਪੇਟ ਨਹੀਂ ਰੱਜੇਗਾ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El día entero vaga en los bosques pero su hambre no se sacia."
+    }
+  ]
+}

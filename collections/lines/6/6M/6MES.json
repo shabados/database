@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਊਪਰਿ ਚਰਨ; ਤਲੈ ਆਕਾਸੁ ॥",
+      "page": 900,
+      "line": 1
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The feet soar high and the sky sinks low."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੈਰ ਉਚੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ ਅਤੇ ਅਸਮਾਨ ਹੇਠਾਂ ਉਤਰ ਆਉਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The feet are above, and the sky is beneath."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਬ੍ਰਿਛ ਕੇ ਡਾਲੇ ਰੂਪ ਚਰਨ ਹੈਂ, ਸੋ ਊਪਰ ਰਹਿਤੇ ਹੈਂ ਔ (ਆਕਾਸੁ) ਊਪਰ ਰਹਿਨੇ ਵਾਲਾ ਸਿਰ ਰੂਪ ਜੋ ਮੁਢ ਹੈ, ਸੋ (ਤਲੈ) ਨੀਚੇ ਰਹਿਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਰੁੱਖ ਦੇ) ਪੈਰ (ਜੜ੍ਹਾਂ) ਉਪਰ ਵਲ ਹਨ, ਤੇ ਸਿਰ ਹੇਠਲੇ ਪਾਸੇ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "los pies están arriba y el cielo está abajo,"
+    }
+  ]
+}

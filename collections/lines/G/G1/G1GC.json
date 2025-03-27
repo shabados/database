@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ; ਰਾਜ ਤੇ ਹੀਨੁ ॥",
+      "page": 280,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The slanderer of the saint loses his kingdom."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਾਧੂ ਦੀ ਨਿੰਦਾ ਕਰਨ ਵਾਲਾ ਆਪਣੀ ਪਾਤਸ਼ਾਹੀ ਗੁਆ ਲੈਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The slanderer of the Saint has no kingdom."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਤ ਕਾ ਨਿੰਦਕ ਰਾਜ ਸੁਖ ਸੇ ਹੀਨ ਹੋਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਰਾਜ (ਭਾਵ, ਦੁਨੀਆ ਦੇ ਸੁਖਾਂ) ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿੰਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Tal ser es privado de su poder"
+    }
+  ]
+}

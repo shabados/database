@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ ਮਹਲਾ ੫ ਚਉਪਦੇ ਦੁਪਦੇ ॥",
+      "page": 185,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Rag Gauri Guareri 5th Guru. Chaupade Dupade"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਰਾਗ ਗਊੜੀ ਗੁਆਰੇਰੀ ਪਾਤਸ਼ਾਹੀ ਪੰਜਵੀਂ। ਚਉਪਦੇ ਦੁਪਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Gauree Gwaarayree, Fifth Mehl, Chau-Padhay, Dho-Padhay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Raag Gauri Gwaarayre,  Quinto Canal Divino, Chau-Padas, Du-Padas:"
+    }
+  ]
+}

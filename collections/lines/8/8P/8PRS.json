@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਿਹ ਪਾਵਕ; ਸੁਰਿ ਨਰ ਹੈ ਜਾਰੇ ॥",
+      "page": 323,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The fire, which has consumed gods and men,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਅਗ ਨੇ ਦੇਵਤੇ ਅਤੇ ਆਦਮੀ ਸਾੜ ਸੁੱਟੇ ਹਨ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "That fire has consumed angels and mortal beings,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਮਾਇਆ ਰੂਪੀ ਅਗਨੀ ਵਾ ਤ੍ਰਿਸਨਾ ਕਾਮ ਕ੍ਰੋਧ ਅਗਨੀ ਨੇ ਸੁਰ ਨਰ ਜਲਾਏ ਹੈਂ⁽¹⁾॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਜਿਸ ਅੱਗ ਨੇ ਦੇਵਤੇ ਤੇ ਮਨੁੱਖ ਸਾੜ ਸੁੱਟੇ ਸਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Este fuego arrasa con los hombres y con los ángeles también;"
+    }
+  ]
+}

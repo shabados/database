@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਨੁ; ਘਨੈ ਭ੍ਰਮੈ ਬਨੈ ॥",
+      "page": 1272,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "My mind passes through the dense forest."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰਾ ਮਨੂਆ ਸੰਘਣੇ ਜੰਗਲ ਵਿੱਚ ਦੀ ਲੰਘਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "My mind wanders through the dense forest."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮਨ! ਪੂਰਬ ਸੰਸਾਰ ਬਨ ਮੇਂ ਬਹੁਤ ਭਰਮੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਮਨੁੱਖ ਦਾ) ਮਨ (ਸੰਸਾਰ-ਰੂਪ) ਸੰਘਣੇ ਜੰਗਲ ਵਿਚ ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Mi mente vaga por estos bosques"
+    }
+  ]
+}

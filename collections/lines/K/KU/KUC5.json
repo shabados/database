@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਬਿਨੁ ਹਰਿ ਨਾਮ; ਅਵਰੁ ਸਭੁ ਥੋਰਾ ॥",
+      "page": 376,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Without God's Name all else is (useless) wanting."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਾਹਿਗੁਰੂ ਦੇ ਨਾਮ ਦੇ ਬਗੈਰ ਹੋਰ ਸਾਰਾ ਕੁਛ ਘੱਟ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Without the Lord's Name, everything else is useless."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਰਿ ਨਾਮ ਸੇ ਬਿਨਾਂ ਅਵਰ ਬਿਸ੍ਯਰਸ ਸਭ ਥੋਰਾ, ਭਾਵ ਤੁਛ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ ਸਾਰਾ (ਧਨ ਪਦਾਰਥ) ਘਾਟੇਵੰਦਾ ਹੀ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sin el Naam, el Nombre del Señor, el aquí y el aquí después no me sirven de nada,"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਬੈਰਾਗਣਿ ਮਹਲਾ ੪ ॥",
+      "page": 165,
+      "line": 12
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri Bairagan, 4th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਊੜੀ ਬੈਰਾਗਣਿ, ਪਾਤਸ਼ਾਹੀ ਚੌਥੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree Bairaagan, Fourth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri Bairagan, Mejl Guru Ram Das, Cuarto Canal Divino."
+    }
+  ]
+}

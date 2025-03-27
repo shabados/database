@@ -50,6 +50,10 @@
     {
       "fileMatch": ["collections/line-groups/**/*.json"],
       "url": "./collections/$schemas/line-groups.json"
+    },
+    {
+      "fileMatch": ["collections/lines/**/*.json"],
+      "url": "./collections/$schemas/lines.json"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹੁ ਕਬੀਰ; ਤਬ ਹੀ ਨਰੁ ਜਾਗੈ ॥",
+      "page": 870,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, then alone does the man awake,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਕੇਵਲ ਤਦ ਹੀ ਬੰਦਾ ਜਾਗਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, the man wakes up,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ੍ਰੀ ਕਬੀਰ ਜੀ ਕਹਿਤੇ ਹੈਂ: ਤਬ ਹੀ ਇਹ ਪੁਰਸ਼ ਜਾਗੇਗਾ, ਭਾਵ ਤਬ ਹੀ ਇਸ ਕੋ ਖਬਰ ਹੋਵੇਗੀ ਕਿ ਮੈਨੇ ਅਮੋਲਕ ਮਨੁਖ ਜਨਮ ਬ੍ਯਰਥ ਗਵਾਯਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਪਰ) ਕਬੀਰ ਆਖਦਾ ਹੈ- ਸੱਚ ਇਹ ਹੈ ਕਿ ਮਨੁੱਖ ਇਸ ਮੂਰਖਤਾ ਵਲੋਂ ਤਦੋਂ ਹੀ ਜਾਗਦਾ ਹੈ (ਤਦੋਂ ਹੀ ਪਛਤਾਉਂਦਾ ਹੈ)"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, es entonces cuando el hombre podrá despertar,"
+    }
+  ]
+}

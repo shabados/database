@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਮਨ ਰੇ; ਸੰਸਾਰੁ ਅੰਧ ਗਹੇਰਾ ॥",
+      "page": 654,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "O my soul, the world is a blind deep pit."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੀ ਜਿੰਦੜੀਏ! ਜਗਤ ਇਕ ਅੰਨ੍ਹਾ ਡੂੰਘਾ ਖਾਤਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "O mind, the world is a deep, dark pit."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮਨ! ਇਹੁ ਸੰਸਾਰ ਅੰਧਾ (ਗਹੇਰਾ) ਖਾਤਾ ਰੂਪ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਮੇਰੇ ਮਨ! (ਅਗਿਆਨਤਾ ਦੇ ਕਾਰਨ) ਸਿਮਰਨ ਤੋਂ ਖੁੰਝ ਕੇ ਜਗਤ ਇਕ ਹਨੇਰਾ ਖਾਤਾ ਬਣਿਆ ਪਿਆ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Oh mi mente, el mundo es un oscuro pozo sin fondo"
+    }
+  ]
+}

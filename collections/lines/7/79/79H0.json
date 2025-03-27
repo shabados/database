@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ; ਸਤਿਗੁਰਿ ਦੀਆ ॥",
+      "page": 352,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The true Guru gives the man Nectareous Name."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੂੰ ਸੱਚੇ ਗੁਰਦੇਵ ਜੀ ਅੰਮ੍ਰਿਤਮਈ ਨਾਮ ਦਿੰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The True Guru bestows the Ambrosial Naam, the Name of the Lord."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਨ ਕੋ ਸਤਿਗੁਰੋਂ ਨੇ ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਦੀਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੂੰ ਸਤਿਗੁਰੂ ਨੇ ਅਟੱਲ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰੀ-ਨਾਮ ਦੇ ਦਿੱਤਾ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "sí, el Verdadero Guru confiere el Naam Ambrosial, el Naam, el Nombre del Señor,"
+    }
+  ]
+}

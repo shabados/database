@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਗੁ ਦੁਖੀਆ; ਸੁਖੀਆ ਜਨੁ ਕੋਇ ॥",
+      "page": 413,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The world is unhappy, and rare is the man who is happy."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਸਾਰ ਨਾਖੁਸ਼ ਹੈ, ਕੋਈ ਟਾਂਵਾਂ ਪੁਰਸ਼ ਹੀ ਖੁਸ਼ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The world is unhappy; only a few are happy."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੰਪੂਰਨ ਸੰਸਾਰ ਦੁਖੀਆ ਹੋ ਰਹਾ ਹੈ ਇਸ ਮੇਂ ਕੋਈ ਵਿਰਲਾ ਪੁਰਸ ਹੀ ਸੁਖੀਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਗਤ ਦੁਖੀ ਹੋ ਰਿਹਾ ਹੈ, ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਸੁਖੀ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El mundo está infeliz; raro es aquél que vive en Dicha,"
+    }
+  ]
+}

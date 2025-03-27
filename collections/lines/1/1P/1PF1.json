@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਭੁ ਕਿਛੁ; ਤਿਸੁ ਸੁਝੈ ਹਾਂ ॥",
+      "page": 410,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He knows all the things."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਸਾਰੀਆਂ ਗੱਲਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "He knows everything."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਿਸ ਕੋ ਸਭ ਕੁਛ ਸੂਝਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੂੰ ਹਰੇਕ ਜੀਵ ਦੀ ਹਰੇਕ ਮਨੋ-ਕਾਮਨਾ ਦੀ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Él conoce todo y supervisa todo."
+    }
+  ]
+}

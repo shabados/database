@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਉ ਮਾਗਉ ਆਨ; ਲਜਾਵਉ ॥",
+      "page": 401,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "When I beg others I feel ashamed."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੋਰਨਾ ਪਾਸੋਂ ਮੰਗਦਿਆਂ ਮੈਨੂੰ ਸ਼ਰਮ ਆਉਂਦੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "When I beg from others, I am ashamed."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਪਰਮੇਸ੍ਵਰ ਕੋ ਛੋਡ ਕਰ ਔਰੁ ਸੇ ਮਾਂਗਤਾ ਲਜਿਤ ਹੋਤਾ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਦੋਂ ਮੈਂ (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਪਾਸੋਂ ਮੰਗਦਾ ਹਾਂ ਤਾਂ ਸ਼ਰਮਾਂਦਾ ਹਾਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Estoy avergonzado cuando le pido a otro,"
+    }
+  ]
+}

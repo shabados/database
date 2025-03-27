@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਤਿਸੁ ਭੁਖ ਪਿਆਸ; ਰਜਾ ਧਾਇਆ ॥",
+      "page": 1279,
+      "line": 13
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He has no hunger and thirst and is sated and satiated."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੂੰ ਕੋਈ ਖੁਧਿਆਂ ਅਤੇ ਤਰੇਹ ਨਹੀਂ ਅਤੇ ਉਹ ਰੱਜਿਆ ਤੇ ਧ੍ਰਾਪਿਆ ਹੋਇਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "You have no hunger or thirst; You are satisfied and satiated."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਨਾ ਤੇਰੇ ਕੋ ਭੂਖ ਹੈ ਔਰ ਨਾ ਪਿਆਸ ਹੀ ਹੈ, ਤਾਂ ਤੇ ਤੂੰ ਰਜਾ (ਧਾਇਆ) ਅਤੀ ਤ੍ਰਿਪਤ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸ ਨੂੰ ਕੋਈ ਭੁੱਖ ਤ੍ਰੇਹ ਭੀ ਨਹੀਂ ਹੈ, ਰੱਜਿਆ ਪੁੱਜਿਆ ਹੋਇਆ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "no tienes hambre ni sed, pero estás saciado y satisfecho."
+    }
+  ]
+}

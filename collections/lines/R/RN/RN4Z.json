@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗੁਰ ਕੈ ਸੰਗਿ; ਸਗਲ ਨਿਸਤਾਰਾ ॥੩॥",
+      "page": 864,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "In the Guru's association all are emancipated."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰਾਂ ਦੀ ਸੰਗਤ ਅੰਦਰ ਸਾਰੇ ਪਾਰ ਉਤਰ ਜਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "With the Guru, all are saved. ||3||"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੋਂ ਕੇ ਸੰਗ ਕਰ ਕੇ ਸਕਲ ਜਾਤੀ ਕਾ ਨਿਸਤਾਰਾ ਹੋਤਾ ਹੈ॥੩॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "es en la asociación con el Guru que uno es totalmente redimido. (3)"
+    }
+  ]
+}

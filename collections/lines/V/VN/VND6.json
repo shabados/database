@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੈਤਸਰੀ ਬਾਣੀ ਭਗਤਾ ਕੀ ॥",
+      "page": 710,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Jaitsri Hymns of the saints."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਤਸਰੀ ਸਾਧੂਆਂ ਦੇ ਸ਼ਬਦ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Jaitsree, The Word Of The Devotees:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Yaitsri, palabras de los Bhaktas."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜਿਨਹਿ ਉਪਾਹਾ; ਤਿਨਹਿ ਬਿਨਾਹਾ ॥",
+      "page": 392,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He, who created him, has destroyed him."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਪੈਦਾ ਕੀਤਾ ਸੀ, ਉਸ ਨੇ ਹੀ ਉਸ ਨੂੰ ਮਾਰ ਛੱਡਿਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The One who created him destroys him."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜਿਸ ਨੇ ਉਤਪਤ ਕੀਆ ਥਾ ਉਸੀ ਨੇ ਨਾਸ ਕੀਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ (ਉਸ ਨੂੰ) ਪੈਦਾ ਕੀਤਾ ਸੀ ਉਸੇ ਨੇ ਉਸ ਨੂੰ ਨਾਸ ਭੀ ਕਰ ਦਿੱਤਾ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Él, Quien lo crea,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਧਨਿ ਧਨਿ ਮੇਘਾ ਰੋਮਾਵਲੀ ॥",
+      "page": 988,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Blessed, blessed is the fleece of the ram."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੁਬਾਰਕ, ਮੁਬਾਰਕ! ਹੈ ਭੇਡੂ ਦੀ ਉਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Blessed, blessed is the wool of the sheep;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਧੰਨ ਹੈ (ਮੇਘਾ) ਭੇਡੂ ਅਰਥਾਤ ਛਤ੍ਰਾ ਔ ਧੰਨ ਉਸ ਕੀ (ਰੋਮਾਵਲੀ) ਉੱਨ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸਦਕੇ ਹਾਂ ਉਸ ਮੇਢੇ ਦੀ ਉੱਨ ਤੋਂ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Benditas sean las ovejas"
+    }
+  ]
+}

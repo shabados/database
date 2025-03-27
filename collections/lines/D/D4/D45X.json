@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਚੋਰੁ ਸੁਆਲਿਉ; ਚੋਰੁ ਸਿਆਣਾ ॥",
+      "page": 662,
+      "line": 6
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "A thief may be handsome, a thief may be wise,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਚੋਰ ਭਾਵ ਸੁੰਦਰ ਹੋਵੇ, ਚੋਰ ਭਾਵੇਂ ਅਕਲਬੰਦ ਹੋਵੇ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "A thief may be handsome, and a thief may be wise,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਾਹਿਗੁਰੂ ਸੇ ਬੇਮੁਖ ਰੂਪ ਚੋਰ (ਸੁਆਲਿਉ) ਸਰੂਪ ਕਰ ਸੁੰਦਰ ਹੋਵੇ, ਚਾਹੇ ਚੋਰ ਕੇਤਾ ਸਿਆਣਾ ਅਰਥਾਤ ਚਤਰ ਹੋਵੇ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਚੋਰ ਪਿਆ ਸੋਹਣਾ ਬਣੇ ਚਤੁਰ ਬਣੇ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Aun si el ladrón es bien parecido, inteligente y sabio,"
+    }
+  ]
+}

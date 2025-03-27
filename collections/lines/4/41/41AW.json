@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸੋਰਠਿ ਮਹਲਾ ੧ ਪੰਚਪਦੇ ॥",
+      "page": 598,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorath 1st Guru. Panchpadas."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੋਰਠਿ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ। ਪੰਚਪਦੇ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Sorat'h, First Mehl, Panch-Padhay:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Sorath, Mejl Guru Nanak, Primer Canal Divino, Panch-Padas."
+    },
+    {
+      "asset": "psst",
+      "type": "note",
+      "language": "pa",
+      "data": "ਪੰਚਪਦੇ = ਪੰਜ ਪੰਜ ਬੰਦਾਂ ਵਾਲੇ ਸ਼ਬਦ।"
+    }
+  ]
+}

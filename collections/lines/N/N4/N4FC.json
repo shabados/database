@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਦੇਵਗੰਧਾਰੀ ਮਹਲਾ ੯ ॥",
+      "page": 536,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Dev Gandhari 9th Guru."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦੇਵ ਗੰਧਾਰੀ ਨੌਵੀਂ ਪਾਤਿਸ਼ਾਹੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Raag Dayv-Gandhaaree, Ninth Mehl:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dev Gandari, Mejl Guru Teg Bajadur, Noveno Canal Divino."
+    }
+  ]
+}

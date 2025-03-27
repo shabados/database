@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਖਹਿ ਵੇਦ; ਪਾਠ ਪੁਰਾਣ ॥",
+      "page": 5,
+      "line": 19
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਅਨਪੁਰਖ ਬਹੁਵਚਨ ਕਿਰਿਆ"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The reciters of the Vedas and the Puranas Proclaim Thee."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵੇਦਾਂ ਅਤੇ ਪੁਰਾਣਾ ਦੇ ਪਾਠੀ ਤੈਨੂੰ ਹੀ ਪੁਕਾਰਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Vedas and the Puraanas speak."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "੪ ਵੇਦ ਭੀ ਕਹਤੇ ਹੈਂ, ੧੮ ਪੁਰਾਣ ਭੀ ਕਹਤੇ ਹੈਂ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵੇਦਾਂ ਦੇ ਮੰਤਰ ਤੇ ਪੁਰਾਣ ਅਕਾਲ ਪੁਰਖ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਂਦੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "En Alabanza del Nombre algunos recitan los Vedas, otros los Puranas,"
+    }
+  ]
+}

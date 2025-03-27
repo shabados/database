@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਭਲੀ ਸੁ ਕਰਨੀ; ਸੋਭਾ ਧਨਵੰਤ ॥",
+      "page": 290,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Good are his deeds and glorious and wealthy is he,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਚੰਗੇ ਹਨ ਉਸ ਦੇ ਅਮਲ ਅਤੇ ਸੁਭਾਇਮਾਨ ਤੇ ਦੌਲਤਮੰਦ ਹੈ ਉਹ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "His actions are good, he is glorious and wealthy;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਿਸੀ ਕੀ ਭਲੀ ਕਰਨੀ ਹੈ ਔਰ ਵਹੀ ਸੋਭਾਵਾਨ ਔ ਧਨਾਢ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਸੇ ਮਨੁੱਖ ਦਾ ਹੀ ਆਚਰਨ ਭਲਾ ਹੈ, ਉਸੇ ਨੂੰ ਹੀ ਸੋਭਾ ਮਿਲਦੀ ਹੈ, ਓਹੀ ਧਨਾਢ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "se encuentra cualquier acción virtuosa, renombre, fama y riqueza."
+    }
+  ]
+}

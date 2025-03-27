@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਭ੍ਰਿੰਗ ਪਤੰਗੁ ਕੁੰਚਰੁ ਅਰੁ ਮੀਨਾ ॥",
+      "page": 225,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The bumble bee, the moth, the elephant, the fish,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਭੋਰਾ, ਪਰਵਾਨ, ਹਾਥੀ, ਮੱਛੀ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The bumble bee, the moth, the elephant, the fish"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੈਸੇ (ਭ੍ਰਿੰਗੁ) ਭੌਰਾ ਔਰ ਪਤੰਗ ਪੁਨਾ (ਕੁੰਚਰੁ) ਹਸਤੀ ਤਥਾ (ਮੀਨਾ) ਮਛੀ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਭੌਰਾ, ਪਤੰਗ, ਹਾਥੀ ਅਤੇ ਮੱਛੀ;"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El abejorro negro, la palomilla, el elefante, el pez"
+    }
+  ]
+}

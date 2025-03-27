@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪੰਡਿਤੁ; ਵੇਦੁ ਪੁਕਾਰਾ ॥",
+      "page": 71,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Pandits read aloud the Vedas."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਡਤ ਵੇਦਾਂ ਨੂੰ ਉੱਚੀ ਉੱਚੀ ਪੜ੍ਹਦੇ ਹਨ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Pandits recite the Vedas."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਪੰਡਿਤ) ਵੇਦ ਵੇਤਾ ਬੇਦੋਂ ਕੇ ਉਚਾਰਨ ਕੋ ਹੀ ਮੁਕਤੀ ਮਾਨਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਡਿਤ ਵੇਦ ਉੱਚੀ ਉੱਚੀ ਪੜ੍ਹਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El Pandit lee en voz alta los Vedas."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਨਾ ਫਿਰਿ ਮਰੈ; ਨ ਆਵੈ ਜਾਇ ॥",
+      "page": 364,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He dies not again and comes and goes not."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਮੁੜ ਮਰਦਾ ਨਹੀਂ ਅਤੇ ਆਉਂਦਾ ਤੇ ਜਾਂਦਾ ਭੀ ਨਹੀਂ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "He does not die any more, and he does not come or go."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਫਿਰ ਨ ਵਹੁ ਮਰ ਕਰ ਜਾਤਾ ਹੈ ਨ ਜਨਮ ਕਰ ਆਉਤਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਮੁੜ ਆਤਮਕ ਮੌਤੇ ਨਹੀਂ ਮਰਦਾ, ਉਹ ਮੁੜ ਮੁੜ ਜੰਮਦਾ ਮਰਦਾ ਨਹੀਂ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "De esta manera no muere otra vez, ni va ni viene más,"
+    }
+  ]
+}

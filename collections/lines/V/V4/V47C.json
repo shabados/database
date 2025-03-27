@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਿਨਹੀ; ਘੂਘਰ ਨਿਰਤਿ ਕਰਾਈ ॥",
+      "page": 913,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Some one dances, wearing small anklets."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕੋਈ ਜਣਾ ਪੈਰਾਂ ਨੂੰ ਘੁੰਗਰੂ ਬੰਨ੍ਹ ਕੇ ਨੱਚਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Some dance, wearing ankle bells."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਸੀ ਨੇ ਘੁੰਘਰੂ ਬਾਧਕੈ ਨਿਰਤ ਆਪ ਕਰੀ ਹੈ ਔਰੋਂ ਪੈ ਕਰਾਈ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਸੇ ਨੇ ਘੁੰਘਰੂ ਬੰਨ੍ਹ ਕੇ (ਦੇਵਤਿਆਂ ਅੱਗੇ) ਨਾਚ ਸ਼ੁਰੂ ਕੀਤੇ ਹੋਏ ਹਨ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Algunos bailan al compás de las campanas de sus tobillos,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਸਸਾ; ਸਤਿ ਸਤਿ. ਸਤਿ ਸੋਊ ॥",
+      "page": 250,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "S: True, true, true is that Lord."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸ-ਸੱਚਾ, ਸੱਚਾ, ਸੱਚਾ ਹੈ ਉਹ ਸੁਆਮੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "SASSA: True, True, True is that Lord."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਸੱਸੇ ਅਖਰ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਸੋ ਪ੍ਰਭੂ ਤੀਨ ਕਾਲੋਂ ਮੇਂ ਸਤਿ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਪਰਮਾਤਮਾ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "SASSA: Verdad, Verdad, Verdad es Él."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕੀਮਤਿ ਪਾਈ ਪਾਵਣਹਾਰੈ ॥",
+      "page": 1036,
+      "line": 15
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Appraiser Himself appraises the Thing."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੁਲ ਪਾਉਣਹਾਰ ਖ਼ੁਦ ਹੀ ਚੀਜ਼ ਦਾ ਮੁਲ ਪਾਉਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Appraiser appraises its value."
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਦਰ ਸਮਝਣ ਵਾਲਾ ਪ੍ਰਭੂ ਹੀ ਆਪਣੇ ਨਾਮ-ਰਤਨ ਦੀ ਕਦਰ ਪਾ ਰਿਹਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Él Mismo da valor al Nombre, y mira, tan Independiente es Él que Su Tesoro es Inagotable."
+    }
+  ]
+}

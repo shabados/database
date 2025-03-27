@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਸਾ ॥ ਤਿਪਦਾ ॥ ਇਕਤੁਕਾ ॥",
+      "page": 483,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Asa. Tipada. Ik-Tuka."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਿਪਦਾ। ਇਕ ਤੁਕਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Aasaa, Ti-Pada, Ik-Tuka:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Asa, Ti-Pada, Ik-Tuka"
+    }
+  ]
+}

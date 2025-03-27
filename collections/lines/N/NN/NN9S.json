@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗੁਰੁ ਸਾਗਰੁ. ਪੂਰਾ ਭੰਡਾਰ ॥",
+      "page": 363,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Guru is an ocean and perfect treasure,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਸਮੁੰਦਰ ਹੈ, ਉਸ ਦਾ ਪੂਰਨ ਖ਼ਜ਼ਾਨਾ ਅਨਗਿਣਤ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Guru is the ocean, the perfect treasure,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰ (ਸਾਗਰੁ) ਸਮੁੰਦ੍ਰ ਰੂਪ ਹੈਂ ਪੁਨਾ ਤਿਨ ਕਾ ਭੰਡਾਰ ਪੂਰਨ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਸਮੁੰਦਰ ਹੈ ਅਤੇ ਉਸ ਦਾ ਖ਼ਜ਼ਾਨਾ ਅਖੁੱਟ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El Guru es el Mar, el Tesoro Perfecto,"
+    }
+  ]
+}

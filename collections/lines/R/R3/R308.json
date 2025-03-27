@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗਉੜੀ ਮਹਲਾ ੧ ਦਖਣੀ ॥",
+      "page": 152,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauri, 1st Guru, Dakhni."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗਊੜੀ ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ ਦਖਣੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Gauree, First Mehl, Dakhanee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Gauri, Mejl Guru Nanak, Primer Canal Divino, Dakni."
+    }
+  ]
+}

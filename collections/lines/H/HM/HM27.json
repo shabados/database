@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਆਨ ਸੁਆਦ ਸਭਿ ਫੀਕਿਆ; ਕਰਿ ਨਿਰਨਉ ਡੀਠਾ ॥",
+      "page": 708,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "All other relishes are insipid; them, I have tested and seen."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੋਰ ਸਾਰੇ ਰੱਸ ਫਿੱਕੇ ਹਨ, ਉਨ੍ਹਾਂ ਨੂੰ ਮੈਂ ਅਜ਼ਮਾ ਕੇ ਵੇਖ ਲਿਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "All other tastes are bland and insipid; I have tested them and seen them."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔਰ ਸ੍ਵਾਦ ਸੰਪੂਰਨ ਫਿਕੇ ਹੈਂ, ਇਸ ਬਾਤ ਕੋ ਨਿਰਨਾ ਅਰਥਾਤ ਵਿਚਾਰ ਕੇ ਤਿਨੋਂ ਨੇ ਦੇਖ ਲੀਆ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹਨਾਂ ਨੇ ਖੋਜ ਕੇ ਵੇਖ ਲਿਆ ਹੈ ਕਿ (ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਸਾਰੇ ਸੁਆਦ ਫਿੱਕੇ ਹਨ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Cualquier otro sabor es insípido para ellos, pues han probado y han visto."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਹਉ ਰਹਿ. ਨ ਸਕਾ; ਬਿਨੁ ਨਾਮ ਵਖਾਣੇ ॥",
+      "page": 95,
+      "line": 4
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "I cannot live without uttering Lord's Name."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੈਂ ਸੁਆਮੀ ਦਾ ਨਾਮ ਉਚਾਰਨ ਕਰਨ ਬਗੈਰ ਬਚ ਨਹੀਂ ਸਕਦਾ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "I cannot continue living without chanting the Naam."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! ਨਾਮ ਕੇ (ਵਖਾਣੇ) ਜਪਨੇ ਸੇ ਬਿਨਾ ਮੈਂ ਰਹ ਨਹੀਂ ਸਕਤਾ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਨ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ ਧੀਰਜ ਨਹੀਂ ਆ ਸਕਦੀ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "sin pronunciar Su Nombre, no puedo estar."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਪੰਡਿਤੁ; ਸਾਸਤ ਸਿਮ੍ਰਿਤਿ ਪੜਿਆ ॥",
+      "page": 163,
+      "line": 18
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Brahmin recites Shastras (the six schools of philosophy), and Smritis (twenty seven Hindu ceremonial treatises)."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਬ੍ਰਹਿਮਣ, ਸ਼ਾਸਤਰਾਂ (ਭਾਵ ਫਲਸਫੇ ਦੇ ਛੇ ਗ੍ਰੰਥਾਂ) ਅਤੇ ਸਿਮ੍ਰਿਤੀਆ (ਭਾਵ ਸਤਾਈ ਹਿੰਦੂ ਕਰਮਕਾਡੀ ਪੁਸਤਕਾਂ) ਦਾ ਪਾਠ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Pandit - the religious scholar - recites the Shaastras and the Simritees;"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਡਿਤ ਜਨੋਂ ਨੇ ਤੋ ਸਾਸਤ੍ਰ ਸਿਮ੍ਰਤੀਆਂ ਕੋ ਪੜਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪੰਡਿਤ ਸ਼ਾਸਤਰ ਸਿਮ੍ਰਿਤੀਆਂ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕ) ਪੜ੍ਹਦਾ ਹੈ (ਤੇ ਇਸ ਵਿਦਵਤਾ ਦਾ ਫ਼ਖ਼ਰ ਕਰਦਾ ਹੈ),"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El Pandit recita los Smritis y los Shastras."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹੁ ਕਬੀਰ; ਜੋ ਜਾਨੈ ਭੇਉ ॥",
+      "page": 329,
+      "line": 2
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, he who understands this secret,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਜੋ ਇਸ ਭੇਤ ਨੂੰ ਸਮਝਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, one who knows the secret of this mystery,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਕਹਤੇ ਹੈਂ: ਜੋ ਭੇਦ ਕੋ ਜਾਣੇ ਅਰਥਾਤ ਸਾਸਤ੍ਰ ਕੇ ਅਭਿਪ੍ਰਾਇ ਕੋ ਸਮਝੇ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਜੋ ਮਨੁੱਖ ਇਸ ਰਮਜ਼ ਨੂੰ ਸਮਝਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, aquél que puede resolver este misterio de la mente,"
+    }
+  ]
+}

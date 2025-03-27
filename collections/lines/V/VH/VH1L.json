@@ -1,0 +1,35 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਵਡਹੰਸੁ ਮਹਲਾ ੧ ਦਖਣੀ ॥",
+      "page": 580,
+      "line": 7
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Wadhans 1st Guru Dakhni."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਵਡਹੰਸ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ ਦਖਣੀ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Wadahans, First Mehl, Dakhanee:"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Wadajans, Mejl Guru Nanak, Primer Canal Divino, Dakhni."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਵਣੁ ਸੁ ਵੇਲਾ, ਵਖਤੁ ਕਵਣੁ; ਕਵਣ ਥਿਤਿ, ਕਵਣੁ ਵਾਰੁ ॥",
+      "page": 4,
+      "line": 16
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "What the time, what movement, what lunar day, what week day,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਉਹ ਕਿਹੜਾ ਸਮਾਂ, ਕਿਹੜਾ ਮੁਹਤ, ਕਿਹੜੀ ਤਿੱਥ, ਕਿਹੜਾ ਦਿਨ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "What was that time, and what was that moment? What was that day, and what was that date?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਤਬ ਕਵਣੁ (ਵੇਲਾ) ਸਮਾ ਥਾ, ਔਰੁ ਕੌਣੁ ਸਾ ਵਕਤੁ ਥਾ? ਵੇਲਾ ਹਿੰਦੂ ਕਹਤੇ ਹੈਂ। ਵਕਤੁ ਮੁਸਲਮਾਨ ਕਹਿਤੇ ਹੈਂ। ਤਬ ਕਵਨੁ ਤਿੱਥਿ ਥੀ, ਕਵਨੁ ਦਿਨ ਥਾ?"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਿਹੜਾ ਉਹ ਵੇਲਾ ਤੇ ਵਕਤ ਸੀ, ਕਿਹੜੀ ਥਿਤ ਸੀ, ਕਿਹੜਾ ਦਿਨ ਸੀ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Nadie sabe cuál fue el tiempo, la hora, la fecha,"
+    }
+  ]
+}

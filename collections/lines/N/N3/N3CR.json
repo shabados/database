@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹਤੁ ਕਬੀਰੁ; ਕਾਰਗਹ ਤੋਰੀ ॥",
+      "page": 484,
+      "line": 14
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabir, when my body work-shop breaks,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਜੀ ਆਖਦੇ ਹਨ, ਜਦ ਦੇਹ ਦਾ ਕਾਰਖਾਨਾ ਟੁਟਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Says Kabeer, when my body workshop breaks,"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜਦੋਂ ਉਹ ਜੁਲਾਹ (ਇਸ ਜਗਤ-) ਕੰਘੀ ਨੂੰ ਤੋੜ ਦੇਂਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Dice Kabir, cuando el telar del cuerpo se rompe,"
+    }
+  ]
+}

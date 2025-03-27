@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੈ ਜੈ ਕਾਰੁ; ਜਗੁ ਗਾਵੈ ॥",
+      "page": 623,
+      "line": 5
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "He who sings His praise,"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਉਸ ਦੀ ਉਸਤਤੀ ਗਾਇਨ ਕਰਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The world sings cheers of victory,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਔ ਤੀਰਥ ਕਾ ਸਭ ਜਗਤ ਆਗੇ ਭੀ ਜੈ ਜੈ ਕਾਰ ਗਾਵੈਗਾ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਭਾਈ! ਸਾਰਾ ਜਗਤ ਉਸ ਦੀ ਸੋਭਾ ਦਾ ਗੀਤ ਗਾਂਦਾ ਹੈ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Es aclamado en el mundo entero;"
+    }
+  ]
+}

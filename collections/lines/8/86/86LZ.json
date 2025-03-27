@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਕਹੁ ਰੇ ਪੰਡਿਤ; ਬਾਮਨ ਕਬ ਕੇ ਹੋਏ ॥",
+      "page": 324,
+      "line": 17
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Say O Pandit, since when hast thou been a Brahman?"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦੱਸ ਹੇ ਪੰਡਤ! ਤੂੰ ਕਦੋਂ ਦਾ ਬ੍ਰਾਹਮਣ ਹੋਇਆ ਹੈ?"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "Tell me, O Pandit, O religious scholar: since when have you been a Brahmin?"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹੇ ਪੰਡਤ! ਕਹੁ ਕਬ ਸੇ ਬ੍ਰਹਮਣ ਹੋਏ ਹੋ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਦੱਸ, ਹੇ ਪੰਡਿਤ! ਤੁਸੀ ਬ੍ਰਾਹਮਣ ਕਦੋਂ ਦੇ ਬਣ ਗਏ ਹੋ?"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Di, oh Pandit, ¿cómo es que te volviste Brahmán de nacimiento?"
+    }
+  ]
+}

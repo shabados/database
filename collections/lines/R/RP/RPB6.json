@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਇਹੁ ਮੁੰਡੀਆ; ਸਗਲੋ ਦ੍ਰਬੁ ਖੋਈ ॥",
+      "page": 871,
+      "line": 9
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "This lad has lost all his wealth."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਸ ਮੁੰਡੇ ਨੇ ਆਪਣਾ ਸਾਰਾ ਧਨ ਗੁਆ ਲਿਆ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "This shaven-headed mendicant has wasted all his wealth."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਇਹੁ ਜੋ ਕਬੀਰ (ਮੁੰਡੀਆ) ਫਕੀਰੁ ਹੈ ਵਾ ਲੜਕਾ ਸਰਬ ਧਨ ਕਾ (ਖੋਈ) ਗਵਾਵਨੇ ਵਾਲਾ ਹੈ ਅਰਥਾਤ ਔਖੀ ਹੂਈ ਹੂੰ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਮੇਰਾ) ਇਹ (ਖਸਮ) ਸਾਧੂ ਸਾਰਾ (ਕਮਾਇਆ) ਧਨ ਗਵਾਈ ਜਾਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El pobre desafortunado ha desperdiciado todo su dinero;"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਗੁਰਾ; ਇਕ ਦੇਹਿ ਬੁਝਾਈ ॥",
+      "page": 2,
+      "line": 12
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਗੁਰਾਂ ਨੇ ਇਕ ਸਿਖਿਆ ਬੁਝਾ ਦਿਤੀ ਹੈ। ਦੇਹਿ = ਦਿਤੀ ਹੈ।"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "The Guru has explained one thing to me."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਇਕ ਗਲ ਸਮਝਾ ਦਿਤੀ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The Guru has given me this one understanding:"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਗੁਰੋਂ ਨੇ ਮੁਝ ਕੋ ਏਕ ਬੂਝ ਦਿਤੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "(ਤਾਂ ਤੇ) ਹੇ ਸਤਿਗੁਰੂ! (ਮੇਰੀ ਤੇਰੇ ਅੱਗੇ ਇਹ ਅਰਦਾਸ ਹੈ ਕਿ) ਮੈਨੂੰ ਇਕ ਇਹ ਸਮਝ ਦੇਹ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "El Guru me ha enseñado esto,"
+    }
+  ]
+}

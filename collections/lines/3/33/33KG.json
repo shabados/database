@@ -1,0 +1,53 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਜੇ ਕੋ ਆਖੈ; ਬੋਲੁਵਿਗਾੜੁ ॥",
+      "page": 6,
+      "line": 4
+    },
+    {
+      "asset": "jsts",
+      "type": "note",
+      "language": "pa",
+      "data": "ਬੋਲੁਵਿਗਾੜੁ ਸਮਾਸੀ ਸ਼ਬਦ ਹੈ ਤੇ ਇਸ ਦਾ ਭਾਵ ਹੈ ਵਿਗਾੜੂਬੋਲ ਭਾਵ ਬੇਕਾਰ ਬੋਲਣ ਵਾਲਾ।"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "If some prater says that he can describe God"
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇਕਰ ਕੋਈ ਬਕਵਾਸੀ ਕਹੇ ਕਿ ਉਹ ਵਾਹਿਗੁਰੂ ਨੂੰ ਵਰਨਣ ਕਰ ਸਕਦਾ ਹੈ,"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "If anyone presumes to describe God,"
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੋ ਕੋਈ (ਬੋਲੁ ਵਿਗਾੜੁ) ਬਿ੍ਯਰਥ ਬੋਲਨੇ ਵਾਲਾ ਪਰਮੇਸ੍ਵਰ ਦਾ ਅੰਤੁ ਕਹੇ, ਕਿ ਪਰਮੇਸ੍ਵਰੁ ਇਤਨਾ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਜੇ ਕੋਈ ਬੜਬੋਲਾ ਮਨੁੱਖ ਦੱਸਣ ਲੱਗੇ (ਕਿ ਅਕਾਲ ਪੁਰਖ ਕਿਤਨਾ ਵੱਡਾ ਹੈ)"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "y si alguien presumiera y dijera que Lo conoce,"
+    }
+  ]
+}

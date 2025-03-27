@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਤੀਰਥੁ ਹਮਰਾ; ਹਰਿ ਕੋ ਨਾਮੁ ॥",
+      "page": 1142,
+      "line": 10
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "My place of pilgrimage is the Lord's Name."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਮੇਰਾ ਧਰਮ ਅਸਥਾਨ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "My sacred shrine of pilgrimage is the Name of the Lord."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਹਮਾਰਾ ਤੋ ਤੀਰਥ ਰੂਪ ਪਵਿਤ੍ਰ ਕਰਨੇ ਵਾਲਾ ਹਰੀ ਕਾ ਨਾਮ ਹੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਸਾਡਾ ਤੀਰਥ ਹੈ।"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Mi lugar de peregrinaje es el Naam, el Nombre del Señor,"
+    }
+  ]
+}

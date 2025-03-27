@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "asset": "ssa2",
+      "type": "primary",
+      "data": "ਅਗਨਿ ਭੀ ਜੂਠੀ. ਪਾਨੀ ਜੂਠਾ; ਜੂਠੀ ਬੈਸਿ ਪਕਾਇਆ ॥",
+      "page": 1195,
+      "line": 8
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "en",
+      "data": "Fire is also impure, water is impure and impure is the place where thou sit and cook."
+    },
+    {
+      "asset": "sbms",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੱਗ ਭੀ ਮਲੀਣ ਹੈ, ਜਲ ਮਲੀਣ ਹੈ ਅਤੇ ਮਲੀਣ ਹੈ ਉਹ ਜਗ੍ਹਾ ਜਿਥੇ ਬੈਠ ਕੇ ਤੂੰ ਭੋਜਨ ਬਣਾਉਂਦਾ ਹੈ।"
+    },
+    {
+      "asset": "dssk",
+      "type": "translation",
+      "language": "en",
+      "data": "The fire is impure, and the water is impure. The place where you sit and cook is impure."
+    },
+    {
+      "asset": "nkft",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅਗਨੀ ਭੀ ਜੂਠੀ ਹੈ ਔਰ ਪਾਨੀ ਭੀ ਜੂਠਾ ਹੈ ਔਰ ਬੈਠ ਕਰ ਜਿਸ ਨੇ ਪਕਾਯਾ ਹੈ ਵਹੁ ਭੀ ਜੂਠੀ ਹੈ॥"
+    },
+    {
+      "asset": "psst",
+      "type": "translation",
+      "language": "pa",
+      "data": "ਅੱਗ ਜੂਠੀ, ਪਾਣੀ ਜੂਠਾ, ਪਕਾਣ ਵਾਲੀ ਭੀ ਜੂਠੀ,"
+    },
+    {
+      "asset": "snst",
+      "type": "translation",
+      "language": "es",
+      "data": "Impuro es el fuego, impura el agua, impuro el que cocina,"
+    }
+  ]
+}
