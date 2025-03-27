@@ -45,7 +45,7 @@ const validateCollection = async (schemaFile: string, collectionName: string) =>
   }
 
   if (!hasErrors) {
-    console.log(chalk.green(`✓ All ${collectionName} documents are valid`))
+    console.log(chalk.green(`✓ All ${collection.length} ${collectionName} documents are valid`))
   }
 
   return !hasErrors
@@ -56,6 +56,7 @@ const validationConfigs = [
   { schemaFile: 'authors.json', collectionName: 'authors' },
   { schemaFile: 'sources.json', collectionName: 'sources' },
   { schemaFile: 'sections.json', collectionName: 'sections' },
+  { schemaFile: 'banis.json', collectionName: 'banis' },
   { schemaFile: 'line-groups.json', collectionName: 'line-groups' },
   { schemaFile: 'lines.json', collectionName: 'lines' },
 ]

@@ -59,3 +59,12 @@ paths:
             application/json:
               schema:
                 $ref: './collections/$schemas/lines.json'
+  /banis/{id}:
+    get:
+      responses:
+        '200':
+          description: Bani document
+          content:
+            application/json:
+              schema:
+                $ref: './collections/$schemas/banis.json'

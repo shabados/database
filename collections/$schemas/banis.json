@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "bains.json",
+  "type": "object",
+  "required": ["name", "sections"],
+  "properties": {
+    "name": {
+      "$ref": "common.json#/$defs/ScriptField",
+      "description": "The name of the bani in different scripts"
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["lines"],
+        "properties": {
+          "lines": {
+            "type": "array",
+            "items": {
+              "$ref": "common.json#/$defs/Identifier"
+            }
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -54,6 +54,10 @@
     {
       "fileMatch": ["collections/lines/**/*.json"],
       "url": "./collections/$schemas/lines.json"
+    },
+    {
+      "fileMatch": ["collections/banis/**/*.json"],
+      "url": "./collections/$schemas/banis.json"
     }
   ]
 }
