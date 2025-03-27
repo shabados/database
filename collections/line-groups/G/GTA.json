@@ -1,9 +1,6 @@
 {
   "author": "TGBD",
-  "lines": [
-    "320R",
-    "A1T0"
-  ],
+  "lines": ["320R", "A1T0"],
   "externalReferences": {
     "sttm2": 5509
   }

@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "HRX1",
-    "U6MF",
-    "QG3P",
-    "VF6M",
-    "XKNU",
-    "3RGM",
-    "B3M2"
-  ],
+  "lines": ["HRX1", "U6MF", "QG3P", "VF6M", "XKNU", "3RGM", "B3M2"],
   "externalReferences": {
     "sttm2": 5669
   }

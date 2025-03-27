@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "AFAH",
-    "3FDU",
-    "39R6",
-    "N113",
-    "XVU8",
-    "4ZFX",
-    "NSPN"
-  ],
+  "lines": ["AFAH", "3FDU", "39R6", "N113", "XVU8", "4ZFX", "NSPN"],
   "externalReferences": {
     "sttm2": 4365
   }

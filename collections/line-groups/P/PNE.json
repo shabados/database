@@ -1,14 +1,7 @@
 {
   "author": "AMAR",
   "raga": "GJRI",
-  "lines": [
-    "D6T2",
-    "DE2N",
-    "48GD",
-    "BPF5",
-    "GC69",
-    "DRL7"
-  ],
+  "lines": ["D6T2", "DE2N", "48GD", "BPF5", "GC69", "DRL7"],
   "externalReferences": {
     "sttm2": 1888
   }

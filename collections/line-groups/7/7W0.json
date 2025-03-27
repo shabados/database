@@ -1,11 +1,6 @@
 {
   "author": "GYND",
-  "lines": [
-    "PCVC",
-    "60H9",
-    "H88L",
-    "FFAW"
-  ],
+  "lines": ["PCVC", "60H9", "H88L", "FFAW"],
   "externalReferences": {
     "sttm2": 5430
   }

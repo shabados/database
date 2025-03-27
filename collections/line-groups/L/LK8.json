@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "TY21",
-    "M6ZC",
-    "X96E",
-    "828S"
-  ],
+  "lines": ["TY21", "M6ZC", "X96E", "828S"],
   "externalReferences": {
     "sttm2": 6714
   }

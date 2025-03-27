@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SORT",
-  "lines": [
-    "5D2N",
-    "C5HU",
-    "D6BD",
-    "F4P0",
-    "HKLA",
-    "RGGN",
-    "NYMU",
-    "V0HQ",
-    "T239",
-    "7425",
-    "UNCB"
-  ],
+  "lines": ["5D2N", "C5HU", "D6BD", "F4P0", "HKLA", "RGGN", "NYMU", "V0HQ", "T239", "7425", "UNCB"],
   "externalReferences": {
     "sttm2": 2391
   }

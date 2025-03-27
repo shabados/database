@@ -1,15 +1,7 @@
 {
   "author": "RAMD",
   "raga": "BILA",
-  "lines": [
-    "MH2U",
-    "3WA2",
-    "RHG3",
-    "AY32",
-    "9AGE",
-    "6NEZ",
-    "9802"
-  ],
+  "lines": ["MH2U", "3WA2", "RHG3", "AY32", "9AGE", "6NEZ", "9802"],
   "externalReferences": {
     "sttm2": 3194
   }

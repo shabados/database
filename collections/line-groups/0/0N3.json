@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "K91X",
-    "DWS8",
-    "WMCX",
-    "42FC"
-  ],
+  "lines": ["K91X", "DWS8", "WMCX", "42FC"],
   "externalReferences": {
     "sttm2": 6545
   }

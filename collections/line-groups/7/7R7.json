@@ -1,9 +1,6 @@
 {
   "author": "TGBD",
-  "lines": [
-    "MDUA",
-    "CBAN"
-  ],
+  "lines": ["MDUA", "CBAN"],
   "externalReferences": {
     "sttm2": 5519
   }

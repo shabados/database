@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "DEDR",
-    "Y5VL",
-    "ZHSA",
-    "S9WD",
-    "9T3Z",
-    "QX1T"
-  ],
+  "lines": ["DEDR", "Y5VL", "ZHSA", "S9WD", "9T3Z", "QX1T"],
   "externalReferences": {
     "sttm2": 4500
   }

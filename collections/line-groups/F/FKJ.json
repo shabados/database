@@ -1,10 +1,6 @@
 {
   "author": "KLSR",
-  "lines": [
-    "39RT",
-    "STBX",
-    "CSSD"
-  ],
+  "lines": ["39RT", "STBX", "CSSD"],
   "externalReferences": {
     "sttm2": 5463
   }

@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "CKCA",
-    "GC7W",
-    "UM38",
-    "14PW"
-  ],
+  "lines": ["CKCA", "GC7W", "UM38", "14PW"],
   "externalReferences": {
     "sttm2": 6570
   }

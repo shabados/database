@@ -1,11 +1,7 @@
 {
   "author": "RAMD",
   "raga": "KANR",
-  "lines": [
-    "ZTAK",
-    "WSQY",
-    "M2B2"
-  ],
+  "lines": ["ZTAK", "WSQY", "M2B2"],
   "externalReferences": {
     "sttm2": 4781
   }

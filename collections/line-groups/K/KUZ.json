@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ASVM",
-    "BSTG",
-    "6LLE",
-    "AQPD",
-    "D1FV",
-    "ZKXA",
-    "A5W5"
-  ],
+  "lines": ["ASVM", "BSTG", "6LLE", "AQPD", "D1FV", "ZKXA", "A5W5"],
   "externalReferences": {
     "sttm2": 5974
   }

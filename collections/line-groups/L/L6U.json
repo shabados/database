@@ -1,14 +1,7 @@
 {
   "author": "AMAR",
   "raga": "BHGR",
-  "lines": [
-    "CYBC",
-    "01RX",
-    "Q9A8",
-    "D8PQ",
-    "Q5B3",
-    "7CLW"
-  ],
+  "lines": ["CYBC", "01RX", "Q9A8", "D8PQ", "Q5B3", "7CLW"],
   "externalReferences": {
     "sttm2": 2133
   }

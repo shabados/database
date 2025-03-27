@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "VHSE",
-    "XPFA",
-    "L2PD",
-    "UU9X"
-  ],
+  "lines": ["VHSE", "XPFA", "L2PD", "UU9X"],
   "externalReferences": {
     "sttm2": 6632
   }

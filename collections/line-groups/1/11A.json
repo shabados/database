@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ULVS",
-    "1FRA",
-    "09B6",
-    "NV9S",
-    "03TU",
-    "K98K",
-    "XK62",
-    "EDJM"
-  ],
+  "lines": ["ULVS", "1FRA", "09B6", "NV9S", "03TU", "K98K", "XK62", "EDJM"],
   "externalReferences": {
     "sttm2": 5920
   }

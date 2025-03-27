@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "RL4C",
-    "B0C3",
-    "BGFM",
-    "RTRE",
-    "420B",
-    "QPJ8",
-    "GJXW"
-  ],
+  "lines": ["RL4C", "B0C3", "BGFM", "RTRE", "420B", "QPJ8", "GJXW"],
   "externalReferences": {
     "sttm2": 4399
   }

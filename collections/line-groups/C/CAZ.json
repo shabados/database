@@ -1,13 +1,7 @@
 {
   "author": "ANGD",
   "raga": "SRNG",
-  "lines": [
-    "T755",
-    "SNE6",
-    "A9RL",
-    "H6Q9",
-    "3MMZ"
-  ],
+  "lines": ["T755", "SNE6", "A9RL", "H6Q9", "3MMZ"],
   "externalReferences": {
     "sttm2": 4416
   }

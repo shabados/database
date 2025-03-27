@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "NKGZ",
-    "CP2N",
-    "MNLV",
-    "RQDE",
-    "XV6Q",
-    "89GT",
-    "KPZ6"
-  ],
+  "lines": ["NKGZ", "CP2N", "MNLV", "RQDE", "XV6Q", "89GT", "KPZ6"],
   "externalReferences": {
     "sttm2": 5973
   }

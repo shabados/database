@@ -1,14 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "GSF2",
-    "ZZ59",
-    "B13S",
-    "RZ58",
-    "GC3E",
-    "AH1T"
-  ],
+  "lines": ["GSF2", "ZZ59", "B13S", "RZ58", "GC3E", "AH1T"],
   "externalReferences": {
     "sttm2": 1267
   }

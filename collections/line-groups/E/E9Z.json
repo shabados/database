@@ -1,13 +1,6 @@
 {
   "author": "KIRT",
-  "lines": [
-    "MSXA",
-    "6Q40",
-    "S5PR",
-    "JCTA",
-    "8WGV",
-    "6ES2"
-  ],
+  "lines": ["MSXA", "6Q40", "S5PR", "JCTA", "8WGV", "6ES2"],
   "externalReferences": {
     "sttm2": 5388
   }

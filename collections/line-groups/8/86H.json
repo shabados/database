@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "CHX6",
-    "EL95",
-    "VFNF",
-    "3N6L",
-    "HFHS",
-    "JS35"
-  ],
+  "lines": ["CHX6", "EL95", "VFNF", "3N6L", "HFHS", "JS35"],
   "externalReferences": {
     "sttm2": 4431
   }

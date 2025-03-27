@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SIRI",
-  "lines": [
-    "GBMW",
-    "95W2",
-    "85AW",
-    "1XJN",
-    "BLLM",
-    "MMAT"
-  ],
+  "lines": ["GBMW", "95W2", "85AW", "1XJN", "BLLM", "MMAT"],
   "externalReferences": {
     "sttm2": 261
   }

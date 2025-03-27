@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "DK29",
-    "J575",
-    "JZD5",
-    "26FC",
-    "3G16",
-    "STFA",
-    "TJ74",
-    "H1TK"
-  ],
+  "lines": ["DK29", "J575", "JZD5", "26FC", "3G16", "STFA", "TJ74", "H1TK"],
   "externalReferences": {
     "sttm2": 6445
   }

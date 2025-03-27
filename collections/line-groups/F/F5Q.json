@@ -1,17 +1,7 @@
 {
   "author": "ARJN",
   "raga": "RMKL",
-  "lines": [
-    "PLN1",
-    "A3LA",
-    "BQ1Y",
-    "P4J4",
-    "LV7N",
-    "K59P",
-    "1HM2",
-    "EAWM",
-    "D85A"
-  ],
+  "lines": ["PLN1", "A3LA", "BQ1Y", "P4J4", "LV7N", "K59P", "1HM2", "EAWM", "D85A"],
   "externalReferences": {
     "sttm2": 3565
   }

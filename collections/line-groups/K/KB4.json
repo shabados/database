@@ -1,11 +1,7 @@
 {
   "author": "ARJN",
   "raga": "RMKL",
-  "lines": [
-    "BR5F",
-    "EPZA",
-    "PLWG"
-  ],
+  "lines": ["BR5F", "EPZA", "PLWG"],
   "externalReferences": {
     "sttm2": 3576
   }

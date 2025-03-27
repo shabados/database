@@ -1,19 +1,7 @@
 {
   "author": "RAMD",
   "raga": "KLYN",
-  "lines": [
-    "AHVM",
-    "PRBR",
-    "4410",
-    "RV07",
-    "FGUW",
-    "US2L",
-    "0XE4",
-    "6Q7G",
-    "ANAG",
-    "JRVA",
-    "06Q8"
-  ],
+  "lines": ["AHVM", "PRBR", "4410", "RV07", "FGUW", "US2L", "0XE4", "6Q7G", "ANAG", "JRVA", "06Q8"],
   "externalReferences": {
     "sttm2": 4814
   }

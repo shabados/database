@@ -1,11 +1,4 @@
 {
   "author": "GGSN",
-  "lines": [
-    "M5C1",
-    "GSYM",
-    "QPHA",
-    "J8RD",
-    "HRX8",
-    "XQ1G"
-  ]
+  "lines": ["M5C1", "GSYM", "QPHA", "J8RD", "HRX8", "XQ1G"]
 }

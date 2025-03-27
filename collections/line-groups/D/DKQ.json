@@ -1,11 +1,7 @@
 {
   "author": "ARJN",
   "raga": "MARU",
-  "lines": [
-    "RP36",
-    "TAR2",
-    "D5T2"
-  ],
+  "lines": ["RP36", "TAR2", "D5T2"],
   "externalReferences": {
     "sttm2": 3957
   }

@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SIRI",
-  "lines": [
-    "XFU5",
-    "1CZC",
-    "853C",
-    "28P3",
-    "HFC8",
-    "GS05"
-  ],
+  "lines": ["XFU5", "1CZC", "853C", "28P3", "HFC8", "GS05"],
   "externalReferences": {
     "sttm2": 212
   }

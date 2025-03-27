@@ -1,9 +1,6 @@
 {
   "author": "FRID",
-  "lines": [
-    "NUWN",
-    "KWSW"
-  ],
+  "lines": ["NUWN", "KWSW"],
   "externalReferences": {
     "sttm2": 5268
   }

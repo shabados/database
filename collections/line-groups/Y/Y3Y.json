@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "BILA",
-  "lines": [
-    "BCM5",
-    "E27M",
-    "P8CK",
-    "APE1",
-    "QRRH",
-    "R6SW",
-    "1FRM",
-    "4RW5",
-    "VDTG",
-    "9XY6",
-    "CQYC"
-  ],
+  "lines": ["BCM5", "E27M", "P8CK", "APE1", "QRRH", "R6SW", "1FRM", "4RW5", "VDTG", "9XY6", "CQYC"],
   "externalReferences": {
     "sttm2": 3053
   }

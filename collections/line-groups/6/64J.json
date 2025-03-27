@@ -1,9 +1,6 @@
 {
   "author": "TGBD",
-  "lines": [
-    "NZN1",
-    "N87E"
-  ],
+  "lines": ["NZN1", "N87E"],
   "externalReferences": {
     "sttm2": 5500
   }

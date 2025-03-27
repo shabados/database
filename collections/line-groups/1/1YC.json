@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "7D4S",
-    "HT25",
-    "1EA6",
-    "JDK7"
-  ],
+  "lines": ["7D4S", "HT25", "1EA6", "JDK7"],
   "externalReferences": {
     "sttm2": 6685
   }

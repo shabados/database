@@ -1,19 +1,7 @@
 {
   "author": "NMDV",
   "raga": "BHRO",
-  "lines": [
-    "EW95",
-    "Q4VW",
-    "H7R5",
-    "5ZLM",
-    "S3DD",
-    "A2KH",
-    "GJ65",
-    "PB87",
-    "MPXS",
-    "DDCV",
-    "X60Q"
-  ],
+  "lines": ["EW95", "Q4VW", "H7R5", "5ZLM", "S3DD", "A2KH", "GJ65", "PB87", "MPXS", "DDCV", "X60Q"],
   "externalReferences": {
     "sttm2": 4150
   }

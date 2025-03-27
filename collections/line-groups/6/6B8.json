@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "GAUR",
-  "lines": [
-    "PP1Q",
-    "N827",
-    "XNAS",
-    "NEJN",
-    "FTG3",
-    "1NH6"
-  ],
+  "lines": ["PP1Q", "N827", "XNAS", "NEJN", "FTG3", "1NH6"],
   "externalReferences": {
     "sttm2": 1150
   }

@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "RMKL",
-  "lines": [
-    "ULC1",
-    "JNDT",
-    "SD8X",
-    "JKQU",
-    "Z4MC",
-    "4K7L",
-    "EW59",
-    "EQ30",
-    "7701",
-    "A75C",
-    "HGM2"
-  ],
+  "lines": ["ULC1", "JNDT", "SD8X", "JKQU", "Z4MC", "4K7L", "EW59", "EQ30", "7701", "A75C", "HGM2"],
   "externalReferences": {
     "sttm2": 3290
   }

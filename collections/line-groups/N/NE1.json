@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "KAS1",
-    "KKLM",
-    "Z427",
-    "RQYD"
-  ],
+  "lines": ["KAS1", "KKLM", "Z427", "RQYD"],
   "externalReferences": {
     "sttm2": 6742
   }

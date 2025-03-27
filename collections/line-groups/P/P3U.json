@@ -1,11 +1,7 @@
 {
   "author": "RAMD",
   "raga": "KANR",
-  "lines": [
-    "FZEM",
-    "1ZAA",
-    "TT95"
-  ],
+  "lines": ["FZEM", "1ZAA", "TT95"],
   "externalReferences": {
     "sttm2": 4799
   }

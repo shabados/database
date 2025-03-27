@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "RCHR",
-    "1MUV",
-    "G79L",
-    "APL2",
-    "L20S",
-    "6D4B",
-    "BW4C",
-    "K34C"
-  ],
+  "lines": ["RCHR", "1MUV", "G79L", "APL2", "L20S", "6D4B", "BW4C", "K34C"],
   "externalReferences": {
     "sttm2": 6098
   }

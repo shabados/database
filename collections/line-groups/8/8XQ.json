@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "70SR",
-    "R5BT",
-    "RT62",
-    "JB90",
-    "RG7P",
-    "5WSL",
-    "3BC3"
-  ],
+  "lines": ["70SR", "R5BT", "RT62", "JB90", "RG7P", "5WSL", "3BC3"],
   "externalReferences": {
     "sttm2": 6306
   }

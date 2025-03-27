@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "XMNG",
-    "78H9",
-    "WE4K",
-    "3FXG"
-  ],
+  "lines": ["XMNG", "78H9", "WE4K", "3FXG"],
   "externalReferences": {
     "sttm2": 6736
   }

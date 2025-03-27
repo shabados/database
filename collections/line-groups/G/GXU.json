@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SORT",
-  "lines": [
-    "DPLK",
-    "BZ7S",
-    "87DJ",
-    "HTYA",
-    "J9DJ",
-    "KAXF"
-  ],
+  "lines": ["DPLK", "BZ7S", "87DJ", "HTYA", "J9DJ", "KAXF"],
   "externalReferences": {
     "sttm2": 2499
   }

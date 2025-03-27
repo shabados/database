@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "N80S",
-    "QDBG",
-    "101V",
-    "1W2E"
-  ],
+  "lines": ["N80S", "QDBG", "101V", "1W2E"],
   "externalReferences": {
     "sttm2": 6527
   }

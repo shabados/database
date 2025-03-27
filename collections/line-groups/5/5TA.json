@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "RMKL",
-  "lines": [
-    "VSMP",
-    "FAMA",
-    "NK1Q",
-    "F0ES",
-    "FJ52",
-    "8XQ7",
-    "7AUE"
-  ],
+  "lines": ["VSMP", "FAMA", "NK1Q", "F0ES", "FJ52", "8XQ7", "7AUE"],
   "externalReferences": {
     "sttm2": 3551
   }

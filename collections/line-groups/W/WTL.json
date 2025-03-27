@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "P7E0",
-    "DYRV",
-    "AS00",
-    "G2VU"
-  ],
+  "lines": ["P7E0", "DYRV", "AS00", "G2VU"],
   "externalReferences": {
     "sttm2": 6525
   }

@@ -1,11 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "H2C1",
-    "W8A6",
-    "RYMP"
-  ],
+  "lines": ["H2C1", "W8A6", "RYMP"],
   "externalReferences": {
     "sttm2": 1243
   }

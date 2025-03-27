@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "WVN1",
-    "G5DV",
-    "085Z",
-    "ZV1Y"
-  ],
+  "lines": ["WVN1", "G5DV", "085Z", "ZV1Y"],
   "externalReferences": {
     "sttm2": 6896
   }

@@ -1,15 +1,7 @@
 {
   "author": "RAMD",
   "raga": "DHNS",
-  "lines": [
-    "KXMB",
-    "NPTC",
-    "MVTE",
-    "BSXZ",
-    "SP9V",
-    "EZ4Q",
-    "KTH3"
-  ],
+  "lines": ["KXMB", "NPTC", "MVTE", "BSXZ", "SP9V", "EZ4Q", "KTH3"],
   "externalReferences": {
     "sttm2": 2554
   }

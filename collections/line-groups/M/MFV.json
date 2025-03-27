@@ -1,13 +1,7 @@
 {
   "author": "NANK",
   "raga": "SRNG",
-  "lines": [
-    "UKA4",
-    "AZ6B",
-    "15Q6",
-    "3H5A",
-    "EALT"
-  ],
+  "lines": ["UKA4", "AZ6B", "15Q6", "3H5A", "EALT"],
   "externalReferences": {
     "sttm2": 4454
   }

@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "EUVU",
-    "RFC0",
-    "BGVT",
-    "WAYF",
-    "VHGM",
-    "R13L",
-    "689D",
-    "SS59",
-    "R25R",
-    "L2T2",
-    "QKBN"
-  ],
+  "lines": ["EUVU", "RFC0", "BGVT", "WAYF", "VHGM", "R13L", "689D", "SS59", "R25R", "L2T2", "QKBN"],
   "externalReferences": {
     "sttm2": 664
   }

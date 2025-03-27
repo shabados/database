@@ -1,12 +1,7 @@
 {
   "author": "AMAR",
   "raga": "SRNG",
-  "lines": [
-    "E75L",
-    "1PGD",
-    "GCTR",
-    "LHK4"
-  ],
+  "lines": ["E75L", "1PGD", "GCTR", "LHK4"],
   "externalReferences": {
     "sttm2": 4502
   }

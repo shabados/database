@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "P20V",
-    "504W"
-  ],
+  "lines": ["P20V", "504W"],
   "externalReferences": {
     "sttm2": 5194
   }

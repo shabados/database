@@ -1,12 +1,7 @@
 {
   "author": "AMAR",
   "raga": "GJRI",
-  "lines": [
-    "JA15",
-    "1ZCJ",
-    "CE3C",
-    "C25D"
-  ],
+  "lines": ["JA15", "1ZCJ", "CE3C", "C25D"],
   "externalReferences": {
     "sttm2": 1881
   }

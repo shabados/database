@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "KANR",
-  "lines": [
-    "PTSB",
-    "XWRX",
-    "029G",
-    "NT2R",
-    "F7W7",
-    "778E",
-    "FU3X",
-    "63J3",
-    "3BL1",
-    "L64Y",
-    "3AKY"
-  ],
+  "lines": ["PTSB", "XWRX", "029G", "NT2R", "F7W7", "778E", "FU3X", "63J3", "3BL1", "L64Y", "3AKY"],
   "externalReferences": {
     "sttm2": 4707
   }

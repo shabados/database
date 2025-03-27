@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ZU84",
-    "C40N",
-    "85VR",
-    "U6PC",
-    "3604",
-    "KTH9",
-    "12MN",
-    "E2HT"
-  ],
+  "lines": ["ZU84", "C40N", "85VR", "U6PC", "3604", "KTH9", "12MN", "E2HT"],
   "externalReferences": {
     "sttm2": 6366
   }

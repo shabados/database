@@ -1,15 +1,7 @@
 {
   "author": "TGBD",
   "raga": "GAUR",
-  "lines": [
-    "VPN0",
-    "8RBT",
-    "U2LF",
-    "SG6J",
-    "Z1GM",
-    "SEBT",
-    "T28F"
-  ],
+  "lines": ["VPN0", "8RBT", "U2LF", "SG6J", "Z1GM", "SEBT", "T28F"],
   "externalReferences": {
     "sttm2": 697
   }

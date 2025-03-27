@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "VDHN",
-  "lines": [
-    "80RB",
-    "1KZP",
-    "C7ZY",
-    "S77Z",
-    "UULE",
-    "BZ4P"
-  ],
+  "lines": ["80RB", "1KZP", "C7ZY", "S77Z", "UULE", "BZ4P"],
   "externalReferences": {
     "sttm2": 2218
   }

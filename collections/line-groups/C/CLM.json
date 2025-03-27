@@ -1,13 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "RDJC",
-    "J7SP",
-    "CBSX",
-    "2XRR",
-    "12Z6"
-  ],
+  "lines": ["RDJC", "J7SP", "CBSX", "2XRR", "12Z6"],
   "externalReferences": {
     "sttm2": 4403
   }

@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "DHNS",
-  "lines": [
-    "BKS8",
-    "RAM0",
-    "LTBL",
-    "Q76Y",
-    "XVSR",
-    "FAMS",
-    "KNEC"
-  ],
+  "lines": ["BKS8", "RAM0", "LTBL", "Q76Y", "XVSR", "FAMS", "KNEC"],
   "externalReferences": {
     "sttm2": 2592
   }

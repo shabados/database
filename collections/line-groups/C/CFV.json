@@ -1,16 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "Y5S1",
-    "R530",
-    "HM70",
-    "8KDM",
-    "XQWJ",
-    "AN9G",
-    "0N78",
-    "U1XB",
-    "QC01"
-  ],
+  "lines": ["Y5S1", "R530", "HM70", "8KDM", "XQWJ", "AN9G", "0N78", "U1XB", "QC01"],
   "externalReferences": {
     "sttm2": 6091
   }

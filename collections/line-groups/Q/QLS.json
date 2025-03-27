@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "YM7C",
-    "EUK5",
-    "HX86",
-    "95PG",
-    "ZLEZ",
-    "AGNQ"
-  ],
+  "lines": ["YM7C", "EUK5", "HX86", "95PG", "ZLEZ", "AGNQ"],
   "externalReferences": {
     "sttm2": 4419
   }

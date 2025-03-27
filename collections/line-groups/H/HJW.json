@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "KNCN",
-    "F1C4",
-    "HVZK",
-    "N8TD"
-  ],
+  "lines": ["KNCN", "F1C4", "HVZK", "N8TD"],
   "externalReferences": {
     "sttm2": 7144
   }

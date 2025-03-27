@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "AXBC",
-    "BM10",
-    "E919",
-    "KGQE",
-    "YWCL",
-    "MA18"
-  ],
+  "lines": ["AXBC", "BM10", "E919", "KGQE", "YWCL", "MA18"],
   "externalReferences": {
     "sttm2": 4497
   }

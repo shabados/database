@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "NTCT",
-    "UPPT",
-    "9WLK",
-    "G6LX"
-  ],
+  "lines": ["NTCT", "UPPT", "9WLK", "G6LX"],
   "externalReferences": {
     "sttm2": 6924
   }

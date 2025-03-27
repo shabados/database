@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "DVGD",
-  "lines": [
-    "0M5R",
-    "M7CL",
-    "Z4K9",
-    "GYBR",
-    "MPTL",
-    "FTMN",
-    "C04C"
-  ],
+  "lines": ["0M5R", "M7CL", "Z4K9", "GYBR", "MPTL", "FTMN", "C04C"],
   "externalReferences": {
     "sttm2": 2049
   }

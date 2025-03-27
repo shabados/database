@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "EXHM",
-    "248L",
-    "TVL7",
-    "46MV"
-  ],
+  "lines": ["EXHM", "248L", "TVL7", "46MV"],
   "externalReferences": {
     "sttm2": 7023
   }

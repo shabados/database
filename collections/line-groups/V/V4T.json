@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "3LPT",
-    "TCAF",
-    "1ZU7",
-    "4UUD",
-    "8W31",
-    "ERC3",
-    "WUA0"
-  ],
+  "lines": ["3LPT", "TCAF", "1ZU7", "4UUD", "8W31", "ERC3", "WUA0"],
   "externalReferences": {
     "sttm2": 4325
   }

@@ -1,11 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "PX2F",
-    "ATX2",
-    "K14N"
-  ],
+  "lines": ["PX2F", "ATX2", "K14N"],
   "externalReferences": {
     "sttm2": 1234
   }

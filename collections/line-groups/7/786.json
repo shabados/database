@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "WLEG",
-    "BVCB",
-    "ENS7",
-    "CE1V"
-  ],
+  "lines": ["WLEG", "BVCB", "ENS7", "CE1V"],
   "externalReferences": {
     "sttm2": 6763
   }

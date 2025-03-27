@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "LNPY",
-    "T59T",
-    "B8PQ",
-    "WFP4",
-    "B898",
-    "7S6G",
-    "E1D5"
-  ],
+  "lines": ["LNPY", "T59T", "B8PQ", "WFP4", "B898", "7S6G", "E1D5"],
   "externalReferences": {
     "sttm2": 4398
   }

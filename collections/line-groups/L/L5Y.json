@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "SAMD",
-    "LFV5"
-  ],
+  "lines": ["SAMD", "LFV5"],
   "externalReferences": {
     "sttm2": 5185
   }

@@ -1,13 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "XLSZ",
-    "EL98",
-    "D55R",
-    "TR2B",
-    "2CBE",
-    "GYZP"
-  ],
+  "lines": ["XLSZ", "EL98", "D55R", "TR2B", "2CBE", "GYZP"],
   "externalReferences": {
     "sttm2": 5593
   }

@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "VSEP",
-    "3MRU",
-    "3416",
-    "RBVL",
-    "FRZ9",
-    "WTYZ",
-    "YCP2",
-    "C2K4"
-  ],
+  "lines": ["VSEP", "3MRU", "3416", "RBVL", "FRZ9", "WTYZ", "YCP2", "C2K4"],
   "externalReferences": {
     "sttm2": 6233
   }

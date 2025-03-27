@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "1PSB",
-    "CZP4",
-    "YB2V",
-    "2WKN"
-  ],
+  "lines": ["1PSB", "CZP4", "YB2V", "2WKN"],
   "externalReferences": {
     "sttm2": 6971
   }

@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "DHNS",
-  "lines": [
-    "T5ES",
-    "LRTD",
-    "XL3D",
-    "NGXH",
-    "ET92",
-    "JXET",
-    "FSNK"
-  ],
+  "lines": ["T5ES", "LRTD", "XL3D", "NGXH", "ET92", "JXET", "FSNK"],
   "externalReferences": {
     "sttm2": 2589
   }

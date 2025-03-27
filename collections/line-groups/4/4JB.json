@@ -1,15 +1,7 @@
 {
   "author": "RAMD",
   "raga": "GOND",
-  "lines": [
-    "5S1R",
-    "52KU",
-    "33MY",
-    "9KPC",
-    "QNWP",
-    "C703",
-    "V4WU"
-  ],
+  "lines": ["5S1R", "52KU", "33MY", "9KPC", "QNWP", "C703", "V4WU"],
   "externalReferences": {
     "sttm2": 3225
   }

@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "T00W",
-    "K8D2",
-    "JVBT",
-    "048A",
-    "TRH7",
-    "U2SE",
-    "JNES"
-  ],
+  "lines": ["T00W", "K8D2", "JVBT", "048A", "TRH7", "U2SE", "JNES"],
   "externalReferences": {
     "sttm2": 5685
   }

@@ -1,19 +1,7 @@
 {
   "author": "NANK",
   "raga": "PRBT",
-  "lines": [
-    "GC6K",
-    "5HSK",
-    "S234",
-    "65SQ",
-    "1R8U",
-    "46SF",
-    "XJYZ",
-    "5LSY",
-    "YVTB",
-    "2RCW",
-    "9N83"
-  ],
+  "lines": ["GC6K", "5HSK", "S234", "65SQ", "1R8U", "46SF", "XJYZ", "5LSY", "YVTB", "2RCW", "9N83"],
   "externalReferences": {
     "sttm2": 4839
   }

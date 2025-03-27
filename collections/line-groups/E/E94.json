@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "CSU6",
-    "1SSP",
-    "5MS5",
-    "99X8"
-  ],
+  "lines": ["CSU6", "1SSP", "5MS5", "99X8"],
   "externalReferences": {
     "sttm2": 6936
   }

@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "BPB6",
-    "18X8",
-    "629V",
-    "KJKF"
-  ],
+  "lines": ["BPB6", "18X8", "629V", "KJKF"],
   "externalReferences": {
     "sttm2": 6595
   }

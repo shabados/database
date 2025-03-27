@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "RU32",
-    "8BLN"
-  ],
+  "lines": ["RU32", "8BLN"],
   "externalReferences": {
     "sttm2": 5133
   }

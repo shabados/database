@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "EDXM",
-    "DJY5",
-    "4A80",
-    "PFJL",
-    "L8B8",
-    "F7LT"
-  ],
+  "lines": ["EDXM", "DJY5", "4A80", "PFJL", "L8B8", "F7LT"],
   "externalReferences": {
     "sttm2": 4509
   }

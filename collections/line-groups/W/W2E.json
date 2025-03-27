@@ -1,16 +1,7 @@
 {
   "author": "TGBD",
   "raga": "AAAA",
-  "lines": [
-    "PC70",
-    "FRPW",
-    "FPMT",
-    "BM05",
-    "TALK",
-    "YHG7",
-    "QBZ7",
-    "9ABT"
-  ],
+  "lines": ["PC70", "FRPW", "FPMT", "BM05", "TALK", "YHG7", "QBZ7", "9ABT"],
   "externalReferences": {
     "sttm2": 1598
   }

@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SIRI",
-  "lines": [
-    "BGWB",
-    "L2JX",
-    "6K33",
-    "2SZ3",
-    "QNAV",
-    "ANPL"
-  ],
+  "lines": ["BGWB", "L2JX", "6K33", "2SZ3", "QNAV", "ANPL"],
   "externalReferences": {
     "sttm2": 203
   }

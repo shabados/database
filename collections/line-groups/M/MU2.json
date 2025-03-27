@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "M81D",
-    "JHYC",
-    "AUCY",
-    "AZP1"
-  ],
+  "lines": ["M81D", "JHYC", "AUCY", "AZP1"],
   "externalReferences": {
     "sttm2": 6941
   }

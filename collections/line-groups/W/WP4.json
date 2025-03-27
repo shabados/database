@@ -1,13 +1,7 @@
 {
   "author": "NANK",
   "raga": "MLAR",
-  "lines": [
-    "CV69",
-    "0DND",
-    "PVTR",
-    "UEUG",
-    "CSKB"
-  ],
+  "lines": ["CV69", "0DND", "PVTR", "UEUG", "CSKB"],
   "externalReferences": {
     "sttm2": 4672
   }

@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "JPCS",
-    "0RHY",
-    "CCL4",
-    "CD01",
-    "HYS4",
-    "8PVY",
-    "1YD5",
-    "C5FU"
-  ],
+  "lines": ["JPCS", "0RHY", "CCL4", "CD01", "HYS4", "8PVY", "1YD5", "C5FU"],
   "externalReferences": {
     "sttm2": 5574
   }

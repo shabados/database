@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "M02C",
-    "PJBN",
-    "XCFC",
-    "AQJT"
-  ],
+  "lines": ["M02C", "PJBN", "XCFC", "AQJT"],
   "externalReferences": {
     "sttm2": 6804
   }

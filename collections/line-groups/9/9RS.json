@@ -1,11 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GJRI",
-  "lines": [
-    "C4DM",
-    "D6Q1",
-    "XEJF"
-  ],
+  "lines": ["C4DM", "D6Q1", "XEJF"],
   "externalReferences": {
     "sttm2": 1976
   }

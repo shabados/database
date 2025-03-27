@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "G8A5",
-    "CAEZ",
-    "NDD2",
-    "HPND",
-    "XT67",
-    "NLJ8",
-    "TC90",
-    "FBTW",
-    "35U3",
-    "P873",
-    "QEN1"
-  ],
+  "lines": ["G8A5", "CAEZ", "NDD2", "HPND", "XT67", "NLJ8", "TC90", "FBTW", "35U3", "P873", "QEN1"],
   "externalReferences": {
     "sttm2": 1016
   }

@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "YFUS",
-    "V60R",
-    "FRFQ",
-    "3DBR"
-  ],
+  "lines": ["YFUS", "V60R", "FRFQ", "3DBR"],
   "externalReferences": {
     "sttm2": 6870
   }

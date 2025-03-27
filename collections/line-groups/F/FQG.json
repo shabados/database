@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GJRI",
-  "lines": [
-    "1D2V",
-    "4D4E",
-    "VSXL",
-    "RMNJ",
-    "5NVL",
-    "DNJC",
-    "M24S"
-  ],
+  "lines": ["1D2V", "4D4E", "VSXL", "RMNJ", "5NVL", "DNJC", "M24S"],
   "externalReferences": {
     "sttm2": 1849
   }

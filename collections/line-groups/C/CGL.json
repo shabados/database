@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "V400",
-    "H2MH",
-    "ZVRM",
-    "ZJ16",
-    "CXZV",
-    "T6CC",
-    "TZJA",
-    "9U9Q"
-  ],
+  "lines": ["V400", "H2MH", "ZVRM", "ZJ16", "CXZV", "T6CC", "TZJA", "9U9Q"],
   "externalReferences": {
     "sttm2": 6126
   }

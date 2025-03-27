@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "SWRD",
-    "8461",
-    "HWH5",
-    "UV03",
-    "SNGU",
-    "91XF",
-    "U6MT"
-  ],
+  "lines": ["SWRD", "8461", "HWH5", "UV03", "SNGU", "91XF", "U6MT"],
   "externalReferences": {
     "sttm2": 4374
   }

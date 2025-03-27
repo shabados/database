@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "BILA",
-  "lines": [
-    "FP2S",
-    "KLDD",
-    "61EL",
-    "LB26",
-    "ECG9",
-    "Z6KE",
-    "R9WX",
-    "1CNV",
-    "L0UM",
-    "JWGN",
-    "DA19"
-  ],
+  "lines": ["FP2S", "KLDD", "61EL", "LB26", "ECG9", "Z6KE", "R9WX", "1CNV", "L0UM", "JWGN", "DA19"],
   "externalReferences": {
     "sttm2": 3049
   }

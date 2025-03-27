@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ZTER",
-    "ENU3",
-    "J7ZN",
-    "A0KU"
-  ],
+  "lines": ["ZTER", "ENU3", "J7ZN", "A0KU"],
   "externalReferences": {
     "sttm2": 6583
   }

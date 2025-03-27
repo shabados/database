@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "KP26",
-    "LQAM",
-    "XX16",
-    "WPXQ"
-  ],
+  "lines": ["KP26", "LQAM", "XX16", "WPXQ"],
   "externalReferences": {
     "sttm2": 6501
   }

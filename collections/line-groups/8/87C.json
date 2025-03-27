@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "UGPU",
-    "KJB1"
-  ],
+  "lines": ["UGPU", "KJB1"],
   "externalReferences": {
     "sttm2": 5009
   }

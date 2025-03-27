@@ -1,14 +1,7 @@
 {
   "author": "NMDV",
   "raga": "SRNG",
-  "lines": [
-    "WQEH",
-    "ENV7",
-    "S7HN",
-    "HNKF",
-    "JW9Z",
-    "22YL"
-  ],
+  "lines": ["WQEH", "ENV7", "S7HN", "HNKF", "JW9Z", "22YL"],
   "externalReferences": {
     "sttm2": 4530
   }

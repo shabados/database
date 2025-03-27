@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "RRCS",
-    "DNN3",
-    "HVD7",
-    "5CBG"
-  ],
+  "lines": ["RRCS", "DNN3", "HVD7", "5CBG"],
   "externalReferences": {
     "sttm2": 6668
   }

@@ -1,17 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "2JJZ",
-    "469D",
-    "8A8B",
-    "4UDA",
-    "X06G",
-    "Z86H",
-    "4BZD",
-    "H51U",
-    "M5F9"
-  ],
+  "lines": ["2JJZ", "469D", "8A8B", "4UDA", "X06G", "Z86H", "4BZD", "H51U", "M5F9"],
   "externalReferences": {
     "sttm2": 4264
   }

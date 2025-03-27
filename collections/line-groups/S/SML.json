@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "AAAA",
-  "lines": [
-    "FTPS",
-    "PBAX",
-    "GUNL",
-    "VPQN",
-    "DGQN",
-    "G26J",
-    "8FAM",
-    "EGW9",
-    "B69L",
-    "R3P6",
-    "JAVT"
-  ],
+  "lines": ["FTPS", "PBAX", "GUNL", "VPQN", "DGQN", "G26J", "8FAM", "EGW9", "B69L", "R3P6", "JAVT"],
   "externalReferences": {
     "sttm2": 1545
   }

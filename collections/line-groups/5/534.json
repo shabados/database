@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "EN61",
-    "7QRD",
-    "D4WT",
-    "2PWV"
-  ],
+  "lines": ["EN61", "7QRD", "D4WT", "2PWV"],
   "externalReferences": {
     "sttm2": 7030
   }

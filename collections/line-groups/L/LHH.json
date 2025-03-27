@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "G5V3",
-    "JYMX",
-    "8AWD",
-    "FA71",
-    "VJ6V",
-    "EKLT",
-    "W7TB"
-  ],
+  "lines": ["G5V3", "JYMX", "8AWD", "FA71", "VJ6V", "EKLT", "W7TB"],
   "externalReferences": {
     "sttm2": 4287
   }

@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "HP55",
-    "YMC0"
-  ],
+  "lines": ["HP55", "YMC0"],
   "externalReferences": {
     "sttm2": 5157
   }

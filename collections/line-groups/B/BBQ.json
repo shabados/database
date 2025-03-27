@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "BILA",
-  "lines": [
-    "S079",
-    "505V",
-    "PCSK",
-    "5Z5L",
-    "HW6C",
-    "0G0L",
-    "7K63"
-  ],
+  "lines": ["S079", "505V", "PCSK", "5Z5L", "HW6C", "0G0L", "7K63"],
   "externalReferences": {
     "sttm2": 3106
   }

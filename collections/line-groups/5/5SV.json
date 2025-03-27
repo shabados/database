@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SUHI",
-  "lines": [
-    "XU8S",
-    "64K5",
-    "FZST",
-    "B5ZR",
-    "PCB1",
-    "CDZZ",
-    "LMPM",
-    "D2HE",
-    "BH00",
-    "7199",
-    "99E2"
-  ],
+  "lines": ["XU8S", "64K5", "FZST", "B5ZR", "PCB1", "CDZZ", "LMPM", "D2HE", "BH00", "7199", "99E2"],
   "externalReferences": {
     "sttm2": 2853
   }

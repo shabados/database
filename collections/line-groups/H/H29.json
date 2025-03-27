@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SIRI",
-  "lines": [
-    "VM2B",
-    "SZFD",
-    "V3E4",
-    "W7JB",
-    "5LDK",
-    "5DDL",
-    "6CAU"
-  ],
+  "lines": ["VM2B", "SZFD", "V3E4", "W7JB", "5LDK", "5DDL", "6CAU"],
   "externalReferences": {
     "sttm2": 199
   }

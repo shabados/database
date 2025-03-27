@@ -1,11 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "QYZU",
-    "P9MU",
-    "3UXU"
-  ],
+  "lines": ["QYZU", "P9MU", "3UXU"],
   "externalReferences": {
     "sttm2": 4469
   }

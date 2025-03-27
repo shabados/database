@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "VDHN",
-  "lines": [
-    "05E3",
-    "D0XX",
-    "UAHG",
-    "AUD2",
-    "PE7J",
-    "0AKN"
-  ],
+  "lines": ["05E3", "D0XX", "UAHG", "AUD2", "PE7J", "0AKN"],
   "externalReferences": {
     "sttm2": 2206
   }

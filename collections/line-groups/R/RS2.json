@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "FG8E",
-    "FM35",
-    "2AHX",
-    "8RS2"
-  ],
+  "lines": ["FG8E", "FM35", "2AHX", "8RS2"],
   "externalReferences": {
     "sttm2": 6834
   }

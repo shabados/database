@@ -1,10 +1,4 @@
 {
   "author": "GGSN",
-  "lines": [
-    "R2SB",
-    "M2H4",
-    "MCNP",
-    "FAKP",
-    "EC91"
-  ]
+  "lines": ["R2SB", "M2H4", "MCNP", "FAKP", "EC91"]
 }

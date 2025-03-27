@@ -1,15 +1,7 @@
 {
   "author": "NANK",
   "raga": "MAJH",
-  "lines": [
-    "VLPF",
-    "LPT2",
-    "QKPG",
-    "B7R2",
-    "Q93E",
-    "CZDH",
-    "BEY7"
-  ],
+  "lines": ["VLPF", "LPT2", "QKPG", "B7R2", "Q93E", "CZDH", "BEY7"],
   "externalReferences": {
     "sttm2": 414
   }

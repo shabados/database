@@ -1,13 +1,7 @@
 {
   "author": "RAMD",
   "raga": "GAUR",
-  "lines": [
-    "F150",
-    "QGX9",
-    "7XVQ",
-    "XBS4",
-    "6BN6"
-  ],
+  "lines": ["F150", "QGX9", "7XVQ", "XBS4", "6BN6"],
   "externalReferences": {
     "sttm2": 1190
   }

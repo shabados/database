@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "VDHN",
-  "lines": [
-    "EBK1",
-    "SDVS",
-    "FNJC",
-    "ZT3V",
-    "YM84",
-    "FQEE"
-  ],
+  "lines": ["EBK1", "SDVS", "FNJC", "ZT3V", "YM84", "FQEE"],
   "externalReferences": {
     "sttm2": 2245
   }

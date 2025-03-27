@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "8QH0",
-    "VPN9",
-    "BLE8",
-    "AEGR"
-  ],
+  "lines": ["8QH0", "VPN9", "BLE8", "AEGR"],
   "externalReferences": {
     "sttm2": 6899
   }

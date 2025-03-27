@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "KR2S",
-    "Y3K9",
-    "DE42",
-    "HZLN"
-  ],
+  "lines": ["KR2S", "Y3K9", "DE42", "HZLN"],
   "externalReferences": {
     "sttm2": 6788
   }

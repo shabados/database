@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "DEUV",
-    "WEHQ",
-    "MKP6",
-    "GYQA"
-  ],
+  "lines": ["DEUV", "WEHQ", "MKP6", "GYQA"],
   "externalReferences": {
     "sttm2": 6867
   }

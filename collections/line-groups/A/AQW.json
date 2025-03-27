@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "WE61",
-    "2P78",
-    "10EN",
-    "SUVR",
-    "SM7W",
-    "K8JU",
-    "G26Z",
-    "PNRX"
-  ],
+  "lines": ["WE61", "2P78", "10EN", "SUVR", "SM7W", "K8JU", "G26Z", "PNRX"],
   "externalReferences": {
     "sttm2": 6224
   }

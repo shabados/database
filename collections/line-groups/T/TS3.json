@@ -1,11 +1,7 @@
 {
   "author": "KABI",
   "raga": "BHGR",
-  "lines": [
-    "PLPQ",
-    "C11G",
-    "E1K5"
-  ],
+  "lines": ["PLPQ", "C11G", "E1K5"],
   "externalReferences": {
     "sttm2": 2129
   }

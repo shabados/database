@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "SGUA",
-    "5L06",
-    "GVMN",
-    "U320"
-  ],
+  "lines": ["SGUA", "5L06", "GVMN", "U320"],
   "externalReferences": {
     "sttm2": 6789
   }

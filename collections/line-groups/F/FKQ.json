@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "QSFN",
-    "QPM4",
-    "L94G",
-    "XEQA"
-  ],
+  "lines": ["QSFN", "QPM4", "L94G", "XEQA"],
   "externalReferences": {
     "sttm2": 6812
   }

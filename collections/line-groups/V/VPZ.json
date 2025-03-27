@@ -1,19 +1,7 @@
 {
   "author": "AMAR",
   "raga": "BSNT",
-  "lines": [
-    "Y1T1",
-    "ET99",
-    "4HGV",
-    "S146",
-    "MBNR",
-    "AJ80",
-    "3X4H",
-    "NALZ",
-    "U28D",
-    "4JNC",
-    "0N9S"
-  ],
+  "lines": ["Y1T1", "ET99", "4HGV", "S146", "MBNR", "AJ80", "3X4H", "NALZ", "U28D", "4JNC", "0N9S"],
   "externalReferences": {
     "sttm2": 4186
   }

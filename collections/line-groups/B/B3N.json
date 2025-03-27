@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "HWDH",
-    "2CEF",
-    "84UB",
-    "JG78",
-    "AM43",
-    "XRB5"
-  ],
+  "lines": ["HWDH", "2CEF", "84UB", "JG78", "AM43", "XRB5"],
   "externalReferences": {
     "sttm2": 4464
   }

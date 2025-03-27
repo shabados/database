@@ -1,10 +1,4 @@
 {
   "author": "GGSN",
-  "lines": [
-    "G0SB",
-    "G971",
-    "RSEG",
-    "L0SX",
-    "2MS2"
-  ]
+  "lines": ["G0SB", "G971", "RSEG", "L0SX", "2MS2"]
 }

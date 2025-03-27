@@ -1,14 +1,7 @@
 {
   "author": "ARJN",
   "raga": "BILA",
-  "lines": [
-    "MUSP",
-    "CGSS",
-    "C2HD",
-    "M9RS",
-    "PK7N",
-    "C19U"
-  ],
+  "lines": ["MUSP", "CGSS", "C2HD", "M9RS", "PK7N", "C19U"],
   "externalReferences": {
     "sttm2": 3120
   }

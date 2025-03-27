@@ -1,9 +1,6 @@
 {
   "author": "FRID",
-  "lines": [
-    "KR03",
-    "A2PM"
-  ],
+  "lines": ["KR03", "A2PM"],
   "externalReferences": {
     "sttm2": 5310
   }

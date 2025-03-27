@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "FD51",
-    "4MND",
-    "AHPB",
-    "VY5M",
-    "5TPH",
-    "0L82",
-    "X721",
-    "RLSW"
-  ],
+  "lines": ["FD51", "4MND", "AHPB", "VY5M", "5TPH", "0L82", "X721", "RLSW"],
   "externalReferences": {
     "sttm2": 5569
   }

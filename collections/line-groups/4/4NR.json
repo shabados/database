@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "0207",
-    "F7LP",
-    "MV2A",
-    "VXMA",
-    "31VQ",
-    "6KB1",
-    "75F5",
-    "ZRQ4"
-  ],
+  "lines": ["0207", "F7LP", "MV2A", "VXMA", "31VQ", "6KB1", "75F5", "ZRQ4"],
   "externalReferences": {
     "sttm2": 6222
   }

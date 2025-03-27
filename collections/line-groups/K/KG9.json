@@ -1,19 +1,7 @@
 {
   "author": "NMDV",
   "raga": "DHNS",
-  "lines": [
-    "P8Z3",
-    "LXXS",
-    "NTN1",
-    "22CR",
-    "2QUW",
-    "A0T2",
-    "JBLT",
-    "9KWQ",
-    "929J",
-    "55D5",
-    "F60D"
-  ],
+  "lines": ["P8Z3", "LXXS", "NTN1", "22CR", "2QUW", "A0T2", "JBLT", "9KWQ", "929J", "55D5", "F60D"],
   "externalReferences": {
     "sttm2": 2633
   }

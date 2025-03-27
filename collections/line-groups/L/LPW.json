@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "EHD2",
-    "QCAR",
-    "HRK9",
-    "XZUQ"
-  ],
+  "lines": ["EHD2", "QCAR", "HRK9", "XZUQ"],
   "externalReferences": {
     "sttm2": 6536
   }

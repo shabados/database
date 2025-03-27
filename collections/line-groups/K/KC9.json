@@ -1,17 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "QDFT",
-    "VE2F",
-    "XCK5",
-    "4UEE",
-    "6EBA",
-    "TQ53",
-    "4PHU",
-    "84N8",
-    "AX19",
-    "MKVX"
-  ],
+  "lines": ["QDFT", "VE2F", "XCK5", "4UEE", "6EBA", "TQ53", "4PHU", "84N8", "AX19", "MKVX"],
   "externalReferences": {
     "sttm2": 6418
   }

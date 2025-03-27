@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "VW2N",
-    "785X",
-    "TTGQ",
-    "BN56",
-    "YSVX",
-    "G139",
-    "V1AN",
-    "A6L3"
-  ],
+  "lines": ["VW2N", "785X", "TTGQ", "BN56", "YSVX", "G139", "V1AN", "A6L3"],
   "externalReferences": {
     "sttm2": 6181
   }

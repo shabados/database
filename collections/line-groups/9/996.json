@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "683N",
-    "PCV5",
-    "CU4E",
-    "32QF",
-    "P74B",
-    "HKEH",
-    "C3A3",
-    "X81S"
-  ],
+  "lines": ["683N", "PCV5", "CU4E", "32QF", "P74B", "HKEH", "C3A3", "X81S"],
   "externalReferences": {
     "sttm2": 6136
   }

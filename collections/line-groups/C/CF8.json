@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "1UEF",
-    "EL96",
-    "20RT",
-    "8770",
-    "9HXN",
-    "032V",
-    "ASXY",
-    "SXN0"
-  ],
+  "lines": ["1UEF", "EL96", "20RT", "8770", "9HXN", "032V", "ASXY", "SXN0"],
   "externalReferences": {
     "sttm2": 6055
   }

@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "2RPF",
-    "0L84",
-    "XE81",
-    "L4Q2"
-  ],
+  "lines": ["2RPF", "0L84", "XE81", "L4Q2"],
   "externalReferences": {
     "sttm2": 6609
   }

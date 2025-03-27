@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "XHC2",
-    "FRXU",
-    "SHNU",
-    "TXEV",
-    "SJA3",
-    "N3WX",
-    "P7YU"
-  ],
+  "lines": ["XHC2", "FRXU", "SHNU", "TXEV", "SJA3", "N3WX", "P7YU"],
   "externalReferences": {
     "sttm2": 6016
   }

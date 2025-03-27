@@ -1,15 +1,7 @@
 {
   "author": "ARJN",
   "raga": "DHNS",
-  "lines": [
-    "C3PZ",
-    "YRLL",
-    "G68S",
-    "NEDH",
-    "TSDA",
-    "X8FY",
-    "J07Y"
-  ],
+  "lines": ["C3PZ", "YRLL", "G68S", "NEDH", "TSDA", "X8FY", "J07Y"],
   "externalReferences": {
     "sttm2": 2571
   }

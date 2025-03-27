@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "4D90",
-    "A46E",
-    "4MTK",
-    "CFVP"
-  ],
+  "lines": ["4D90", "A46E", "4MTK", "CFVP"],
   "externalReferences": {
     "sttm2": 6771
   }

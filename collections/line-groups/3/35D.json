@@ -1,19 +1,7 @@
 {
   "author": "ARJN",
   "raga": "BHRO",
-  "lines": [
-    "ARMD",
-    "1SC7",
-    "FW35",
-    "85QE",
-    "CLW7",
-    "ATHB",
-    "PK4D",
-    "Q6CA",
-    "AHU8",
-    "BEEN",
-    "0BF3"
-  ],
+  "lines": ["ARMD", "1SC7", "FW35", "85QE", "CLW7", "ATHB", "PK4D", "Q6CA", "AHU8", "BEEN", "0BF3"],
   "externalReferences": {
     "sttm2": 4075
   }

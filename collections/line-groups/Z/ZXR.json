@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "V82C",
-    "UM2S",
-    "ZPZ1",
-    "TAHF"
-  ],
+  "lines": ["V82C", "UM2S", "ZPZ1", "TAHF"],
   "externalReferences": {
     "sttm2": 7089
   }

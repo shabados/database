@@ -1,19 +1,7 @@
 {
   "author": "AMAR",
   "raga": "BHRO",
-  "lines": [
-    "VN35",
-    "HKJQ",
-    "5V8C",
-    "HMQJ",
-    "M8C7",
-    "RVRX",
-    "6659",
-    "5H3S",
-    "DN7N",
-    "YESP",
-    "RXU3"
-  ],
+  "lines": ["VN35", "HKJQ", "5V8C", "HMQJ", "M8C7", "RVRX", "6659", "5H3S", "DN7N", "YESP", "RXU3"],
   "externalReferences": {
     "sttm2": 4048
   }

@@ -5,17 +5,5 @@
   "description": {
     "en": "Tales written in Persian. (Separate from Zafarnama)"
   },
-  "lineGroups": [
-    "9QY",
-    "10E",
-    "MPU",
-    "S7A",
-    "860",
-    "89T",
-    "VKY",
-    "1BL",
-    "X3K",
-    "06S",
-    "BTE"
-  ]
+  "lineGroups": ["9QY", "10E", "MPU", "S7A", "860", "89T", "VKY", "1BL", "X3K", "06S", "BTE"]
 }

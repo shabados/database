@@ -1,14 +1,7 @@
 {
   "author": "ARJN",
   "raga": "SRNG",
-  "lines": [
-    "P91S",
-    "26L1",
-    "3L1X",
-    "NNZV",
-    "LH85",
-    "1G22"
-  ],
+  "lines": ["P91S", "26L1", "3L1X", "NNZV", "LH85", "1G22"],
   "externalReferences": {
     "sttm2": 4523
   }

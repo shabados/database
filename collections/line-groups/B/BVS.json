@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "N75C",
-    "CCNP",
-    "ATS6",
-    "1JBX"
-  ],
+  "lines": ["N75C", "CCNP", "ATS6", "1JBX"],
   "externalReferences": {
     "sttm2": 6599
   }

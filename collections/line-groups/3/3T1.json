@@ -1,14 +1,7 @@
 {
   "author": "AMAR",
   "raga": "RMKL",
-  "lines": [
-    "1TTU",
-    "FF47",
-    "TMKS",
-    "SYTK",
-    "VCMR",
-    "MM47"
-  ],
+  "lines": ["1TTU", "FF47", "TMKS", "SYTK", "VCMR", "MM47"],
   "externalReferences": {
     "sttm2": 3487
   }

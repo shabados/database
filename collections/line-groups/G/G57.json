@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "NZUT",
-    "98EL",
-    "B58F",
-    "W72S",
-    "V2P0",
-    "EACD",
-    "HSM0",
-    "P35M"
-  ],
+  "lines": ["NZUT", "98EL", "B58F", "W72S", "V2P0", "EACD", "HSM0", "P35M"],
   "externalReferences": {
     "sttm2": 6288
   }

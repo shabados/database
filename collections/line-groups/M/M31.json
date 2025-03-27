@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "YULP",
-    "R07Z",
-    "T69Q",
-    "RBMC"
-  ],
+  "lines": ["YULP", "R07Z", "T69Q", "RBMC"],
   "externalReferences": {
     "sttm2": 6511
   }

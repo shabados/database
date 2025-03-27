@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "PMBY",
-    "S60B",
-    "QQPG",
-    "0ZCG",
-    "J164",
-    "PRM6",
-    "AZCA"
-  ],
+  "lines": ["PMBY", "S60B", "QQPG", "0ZCG", "J164", "PRM6", "AZCA"],
   "externalReferences": {
     "sttm2": 5647
   }

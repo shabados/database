@@ -1,18 +1,7 @@
 {
   "author": "ARJN",
   "raga": "GAUR",
-  "lines": [
-    "K350",
-    "CV2X",
-    "XULQ",
-    "R27X",
-    "LBSM",
-    "ZK39",
-    "AM2S",
-    "QCZ2",
-    "9DK1",
-    "AGDH"
-  ],
+  "lines": ["K350", "CV2X", "XULQ", "R27X", "LBSM", "ZK39", "AM2S", "QCZ2", "9DK1", "AGDH"],
   "externalReferences": {
     "sttm2": 960
   }

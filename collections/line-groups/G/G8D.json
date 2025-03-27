@@ -1,16 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "UBAF",
-    "SV5V",
-    "HJDH",
-    "G18F",
-    "AEES",
-    "Z79B",
-    "BTDJ",
-    "9GBU",
-    "BPCH"
-  ],
+  "lines": ["UBAF", "SV5V", "HJDH", "G18F", "AEES", "Z79B", "BTDJ", "9GBU", "BPCH"],
   "externalReferences": {
     "sttm2": 5930
   }

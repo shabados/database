@@ -1,16 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "W17K",
-    "UT1K",
-    "2HAR",
-    "SDMS",
-    "M6GK",
-    "WYFJ",
-    "Y3DT",
-    "YTDZ",
-    "5WVC"
-  ],
+  "lines": ["W17K", "UT1K", "2HAR", "SDMS", "M6GK", "WYFJ", "Y3DT", "YTDZ", "5WVC"],
   "externalReferences": {
     "sttm2": 5897
   }

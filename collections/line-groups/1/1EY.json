@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ARBE",
-    "9QAN",
-    "FSL6",
-    "3SVC"
-  ],
+  "lines": ["ARBE", "9QAN", "FSL6", "3SVC"],
   "externalReferences": {
     "sttm2": 6741
   }

@@ -1,19 +1,7 @@
 {
   "author": "KABI",
   "raga": "DHNS",
-  "lines": [
-    "ZP4H",
-    "B1A8",
-    "SCPA",
-    "U91B",
-    "GL6R",
-    "ZNW1",
-    "4TML",
-    "6CAV",
-    "5B9W",
-    "71CM",
-    "U5Z2"
-  ],
+  "lines": ["ZP4H", "B1A8", "SCPA", "U91B", "GL6R", "ZNW1", "4TML", "6CAV", "5B9W", "71CM", "U5Z2"],
   "externalReferences": {
     "sttm2": 2626
   }

@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "MC5E",
-    "Y25D",
-    "ACL6",
-    "2LNV"
-  ],
+  "lines": ["MC5E", "Y25D", "ACL6", "2LNV"],
   "externalReferences": {
     "sttm2": 6988
   }

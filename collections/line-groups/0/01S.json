@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "VWL1",
-    "2PZB",
-    "AMUE",
-    "LY5Z",
-    "098V",
-    "KAN9",
-    "B117",
-    "RXGK"
-  ],
+  "lines": ["VWL1", "2PZB", "AMUE", "LY5Z", "098V", "KAN9", "B117", "RXGK"],
   "externalReferences": {
     "sttm2": 5622
   }

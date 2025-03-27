@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "C6P2",
-    "EREK",
-    "7AUK",
-    "ZC5K",
-    "YQYF",
-    "PUZE",
-    "PFSB"
-  ],
+  "lines": ["C6P2", "EREK", "7AUK", "ZC5K", "YQYF", "PUZE", "PFSB"],
   "externalReferences": {
     "sttm2": 5750
   }

@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "LM6V",
-    "8EC6",
-    "MTF5",
-    "WC7K",
-    "7FZF",
-    "DJL3",
-    "0ETR",
-    "F0TX"
-  ],
+  "lines": ["LM6V", "8EC6", "MTF5", "WC7K", "7FZF", "DJL3", "0ETR", "F0TX"],
   "externalReferences": {
     "sttm2": 5959
   }

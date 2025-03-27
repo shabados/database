@@ -1,8 +1,4 @@
 {
   "author": "GGSN",
-  "lines": [
-    "NSNX",
-    "21EL",
-    "DHCE"
-  ]
+  "lines": ["NSNX", "21EL", "DHCE"]
 }

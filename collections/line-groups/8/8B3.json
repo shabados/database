@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "GPBS",
-    "GLVE",
-    "NTWK",
-    "WE2E"
-  ],
+  "lines": ["GPBS", "GLVE", "NTWK", "WE2E"],
   "externalReferences": {
     "sttm2": 7146
   }

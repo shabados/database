@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "A976",
-    "C5MP",
-    "UN58",
-    "LMER",
-    "HTCD",
-    "6KBR",
-    "DE1Z"
-  ],
+  "lines": ["A976", "C5MP", "UN58", "LMER", "HTCD", "6KBR", "DE1Z"],
   "externalReferences": {
     "sttm2": 5862
   }

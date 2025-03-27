@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "EV6Q",
-    "1XMH",
-    "GNSG",
-    "NRK9",
-    "MS27",
-    "HL3L",
-    "ZNPT"
-  ],
+  "lines": ["EV6Q", "1XMH", "GNSG", "NRK9", "MS27", "HL3L", "ZNPT"],
   "externalReferences": {
     "sttm2": 6255
   }

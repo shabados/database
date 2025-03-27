@@ -1,9 +1,6 @@
 {
   "author": "KABI",
-  "lines": [
-    "ETDN",
-    "GSPM"
-  ],
+  "lines": ["ETDN", "GSPM"],
   "externalReferences": {
     "sttm2": 5121
   }

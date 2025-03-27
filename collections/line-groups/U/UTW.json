@@ -1,13 +1,7 @@
 {
   "author": "RAMD",
   "raga": "KANR",
-  "lines": [
-    "CGCT",
-    "HL8A",
-    "8K8U",
-    "36A4",
-    "GVFD"
-  ],
+  "lines": ["CGCT", "HL8A", "8K8U", "36A4", "GVFD"],
   "externalReferences": {
     "sttm2": 4785
   }

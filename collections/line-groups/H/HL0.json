@@ -1,12 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "P3HX",
-    "Y8RL",
-    "VR7D",
-    "5N4K",
-    "WPK6"
-  ],
+  "lines": ["P3HX", "Y8RL", "VR7D", "5N4K", "WPK6"],
   "externalReferences": {
     "sttm2": 6862
   }

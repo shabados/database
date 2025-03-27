@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "NCB2",
-    "DHKB",
-    "ZN46",
-    "SNAT"
-  ],
+  "lines": ["NCB2", "DHKB", "ZN46", "SNAT"],
   "externalReferences": {
     "sttm2": 6494
   }

@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "VL0K",
-    "QXB1",
-    "RQ64",
-    "TYCL",
-    "VVH0",
-    "TXFR",
-    "S67U",
-    "SC43"
-  ],
+  "lines": ["VL0K", "QXB1", "RQ64", "TYCL", "VVH0", "TXFR", "S67U", "SC43"],
   "externalReferences": {
     "sttm2": 5888
   }

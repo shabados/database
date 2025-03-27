@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "ALLH",
-    "9SFF",
-    "SYE0",
-    "05HF"
-  ],
+  "lines": ["ALLH", "9SFF", "SYE0", "05HF"],
   "externalReferences": {
     "sttm2": 7115
   }

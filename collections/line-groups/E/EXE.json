@@ -1,11 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "371P",
-    "TZDU",
-    "6PL4",
-    "5N30"
-  ],
+  "lines": ["371P", "TZDU", "6PL4", "5N30"],
   "externalReferences": {
     "sttm2": 6855
   }

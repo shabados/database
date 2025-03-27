@@ -1,13 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "W33R",
-    "MA54",
-    "R04W",
-    "URHR",
-    "VBD0",
-    "S062"
-  ],
+  "lines": ["W33R", "MA54", "R04W", "URHR", "VBD0", "S062"],
   "externalReferences": {
     "sttm2": 5596
   }

@@ -1,17 +1,7 @@
 {
   "author": "NANK",
   "raga": "SUHI",
-  "lines": [
-    "20AL",
-    "NAVX",
-    "AHZS",
-    "8PKB",
-    "00V4",
-    "K04R",
-    "ZS01",
-    "NH2D",
-    "60QN"
-  ],
+  "lines": ["20AL", "NAVX", "AHZS", "8PKB", "00V4", "K04R", "ZS01", "NH2D", "60QN"],
   "externalReferences": {
     "sttm2": 2953
   }

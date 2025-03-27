@@ -1,17 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "2ABW",
-    "PZ5B",
-    "0FXN",
-    "N1FN",
-    "0BNK",
-    "MTMR",
-    "4VXB",
-    "HJDF",
-    "ZLWE"
-  ],
+  "lines": ["2ABW", "PZ5B", "0FXN", "N1FN", "0BNK", "MTMR", "4VXB", "HJDF", "ZLWE"],
   "externalReferences": {
     "sttm2": 4518
   }

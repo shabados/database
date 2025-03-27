@@ -1,14 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "9AFX",
-    "G7GX",
-    "JTRZ",
-    "13BR",
-    "Y025",
-    "MVYM",
-    "JFGX"
-  ],
+  "lines": ["9AFX", "G7GX", "JTRZ", "13BR", "Y025", "MVYM", "JFGX"],
   "externalReferences": {
     "sttm2": 5744
   }

@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SRNG",
-  "lines": [
-    "E54X",
-    "GS63",
-    "Q8X4",
-    "K8NU",
-    "M4CY",
-    "4S5T"
-  ],
+  "lines": ["E54X", "GS63", "Q8X4", "K8NU", "M4CY", "4S5T"],
   "externalReferences": {
     "sttm2": 4525
   }

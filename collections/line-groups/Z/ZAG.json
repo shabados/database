@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "FT5L",
-    "F8DU",
-    "TAEK",
-    "P520",
-    "09KS",
-    "5VZ6",
-    "2RLM",
-    "W3DP"
-  ],
+  "lines": ["FT5L", "F8DU", "TAEK", "P520", "09KS", "5VZ6", "2RLM", "W3DP"],
   "externalReferences": {
     "sttm2": 6076
   }

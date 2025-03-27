@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "BHGR",
-  "lines": [
-    "GXUL",
-    "V44B",
-    "9KLA",
-    "BDD8",
-    "A3T7",
-    "ZNCC"
-  ],
+  "lines": ["GXUL", "V44B", "9KLA", "BDD8", "A3T7", "ZNCC"],
   "externalReferences": {
     "sttm2": 2125
   }

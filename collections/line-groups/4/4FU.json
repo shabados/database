@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "7AMC",
-    "H009",
-    "YKRE",
-    "R9M5",
-    "VKU2",
-    "0KK5",
-    "QK4M",
-    "ABZT"
-  ],
+  "lines": ["7AMC", "H009", "YKRE", "R9M5", "VKU2", "0KK5", "QK4M", "ABZT"],
   "externalReferences": {
     "sttm2": 5901
   }

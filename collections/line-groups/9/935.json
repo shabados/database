@@ -1,11 +1,7 @@
 {
   "author": "AMAR",
   "raga": "VDHN",
-  "lines": [
-    "M85A",
-    "V5D4",
-    "B4AQ"
-  ],
+  "lines": ["M85A", "V5D4", "B4AQ"],
   "externalReferences": {
     "sttm2": 2204
   }

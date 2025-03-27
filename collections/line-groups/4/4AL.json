@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "2ND7",
-    "U8D5",
-    "TDKT",
-    "KP5V",
-    "GTJY",
-    "4553",
-    "F70G",
-    "7696"
-  ],
+  "lines": ["2ND7", "U8D5", "TDKT", "KP5V", "GTJY", "4553", "F70G", "7696"],
   "externalReferences": {
     "sttm2": 6104
   }

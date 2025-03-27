@@ -1,14 +1,4 @@
 {
   "author": "GGSN",
-  "lines": [
-    "E6L1",
-    "TUDF",
-    "HU8X",
-    "S185",
-    "PV2V",
-    "0V8V",
-    "HA6N",
-    "4SRD",
-    "PPMB"
-  ]
+  "lines": ["E6L1", "TUDF", "HU8X", "S185", "PV2V", "0V8V", "HA6N", "4SRD", "PPMB"]
 }

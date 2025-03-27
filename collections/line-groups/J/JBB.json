@@ -1,13 +1,7 @@
 {
   "author": "ARJN",
   "raga": "JSRI",
-  "lines": [
-    "G328",
-    "G07T",
-    "WRGA",
-    "PXHB",
-    "8NWU"
-  ],
+  "lines": ["G328", "G07T", "WRGA", "PXHB", "8NWU"],
   "externalReferences": {
     "sttm2": 2709
   }

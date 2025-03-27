@@ -1,17 +1,7 @@
 {
   "author": "RAMD",
   "raga": "BILA",
-  "lines": [
-    "A9D6",
-    "ZTUS",
-    "Q2SF",
-    "HL2B",
-    "2E55",
-    "BGBV",
-    "7NFJ",
-    "AXRQ",
-    "QZS4"
-  ],
+  "lines": ["A9D6", "ZTUS", "Q2SF", "HL2B", "2E55", "BGBV", "7NFJ", "AXRQ", "QZS4"],
   "externalReferences": {
     "sttm2": 3164
   }

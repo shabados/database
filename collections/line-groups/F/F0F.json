@@ -1,9 +1,6 @@
 {
   "author": "TGBD",
-  "lines": [
-    "EPRD",
-    "FGBT"
-  ],
+  "lines": ["EPRD", "FGBT"],
   "externalReferences": {
     "sttm2": 5513
   }

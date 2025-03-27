@@ -1,15 +1,6 @@
 {
   "author": "BGDB",
-  "lines": [
-    "A13R",
-    "1485",
-    "BN81",
-    "XSCY",
-    "GKP1",
-    "PAUA",
-    "NSR3",
-    "V0BC"
-  ],
+  "lines": ["A13R", "1485", "BN81", "XSCY", "GKP1", "PAUA", "NSR3", "V0BC"],
   "externalReferences": {
     "sttm2": 6227
   }

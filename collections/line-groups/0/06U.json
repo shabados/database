@@ -1,14 +1,7 @@
 {
   "author": "RAMD",
   "raga": "SORT",
-  "lines": [
-    "E3G5",
-    "G45N",
-    "31EJ",
-    "C8WD",
-    "4V7E",
-    "50D9"
-  ],
+  "lines": ["E3G5", "G45N", "31EJ", "C8WD", "4V7E", "50D9"],
   "externalReferences": {
     "sttm2": 2469
   }
