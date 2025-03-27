@@ -20,9 +20,6 @@ jobs:
 
   build-database:
     runs-on: ubuntu-latest
-    needs:
-      - lint
-      - validate-collections
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
