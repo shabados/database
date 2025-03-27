@@ -1,0 +1,6 @@
+author = "RAMD"
+raga = "SRNG"
+lines = [ "GV2E", "S4EU", "KQB6", "FX5E", "UVMW", "J96F" ]
+
+[externalReferences]
+sttm2 = 4515

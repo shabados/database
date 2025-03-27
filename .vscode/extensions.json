@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "esbenp.prettier-vscode",
+    "tamasfe.even-better-toml",
     "biomejs.biome",
     "bocovo.dbml-erd-visualizer",
     "matt-meyers.vscode-dbml",

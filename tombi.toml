@@ -1,3 +1,0 @@
-[[schemas]]
-path = "collections/$schemas/assets.json"
-include = ["test.toml"]

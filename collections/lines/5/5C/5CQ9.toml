@@ -1,0 +1,42 @@
+[[content]]
+asset = "SSA2"
+type = "primary"
+data = "ਝੋਲਨਾ ॥"
+page = 1400
+line = 12
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "en"
+data = "The Name of measure."
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "pa"
+data = "ਇਕ ਛੰਦ ਦਾ ਨਾਮ।"
+
+[[content]]
+asset = "DSSK"
+type = "translation"
+language = "en"
+data = "Jholnaa:"
+
+[[content]]
+asset = "NKFT"
+type = "translation"
+language = "pa"
+data = "ਇਸ ਛੰਤ ਕੀ ਸੰਗ੍ਯਾ ਹੀ ਝੋਲਨਾ ਹੈ।"
+
+[[content]]
+asset = "SNST"
+type = "translation"
+language = "es"
+data = "Yholna"
+
+[[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੋਲਨਾ = ਛੰਦ।"

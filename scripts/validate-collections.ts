@@ -3,7 +3,7 @@ import Ajv from 'ajv/dist/2020.js'
 import chalk from 'chalk'
 import dedent from 'dedent'
 import fg from 'fast-glob'
-
+import { parse } from 'smol-toml'
 const ajv = new Ajv({
   allErrors: true,
 })
@@ -11,7 +11,7 @@ const ajv = new Ajv({
 const SCHEMA_PATH = './collections/$schemas'
 
 const commonSchema = JSON.parse(await readFile(`${SCHEMA_PATH}/common.json`, 'utf-8'))
-ajv.addSchema(commonSchema)
+ajv.addSchema(commonSchema, 'common.json')
 
 const validateCollection = async (schemaFile: string, collectionName: string) => {
   console.log(
@@ -22,12 +22,12 @@ const validateCollection = async (schemaFile: string, collectionName: string) =>
   const validate = ajv.compile(schemaContent)
 
   const collectionPath = `./collections/${collectionName}`
-  const collection = await fg(`${collectionPath}/**/*.json`)
+  const collection = await fg(`${collectionPath}/**/*.toml`)
 
   let hasErrors = false
 
   for (const filePath of collection) {
-    const data = JSON.parse(await readFile(filePath, 'utf-8'))
+    const data = parse(await readFile(filePath, 'utf-8'))
     const isValid = validate(data)
 
     const fileName = filePath.replace(`${collectionPath}/`, '')

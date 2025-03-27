@@ -1,0 +1,17 @@
+[name]
+en = "Kalaam-e-Goya"
+
+[reference]
+title = "Kalaam-e-Goya"
+
+[[reference.authors]]
+first = "Pritpal S"
+last = "Bindra"
+role = "Translator"
+
+[reference.publisher]
+name = "Institute of Sikh Studies"
+city = "Chandigarh"
+
+[reference.publication]
+date = "2003"

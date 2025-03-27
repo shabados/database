@@ -1,6 +1,5 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "lines.json",
   "type": "object",
   "description": "A fundamental, abstract unit of content, backed by a consistent id.",
   "required": ["content"],

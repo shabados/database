@@ -1,0 +1,6 @@
+author = "RAMD"
+raga = "BHGR"
+lines = [ "JT32", "KJE1", "6S7F", "05B9", "JX7A", "DM5B" ]
+
+[externalReferences]
+sttm2 = 2083

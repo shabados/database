@@ -1,0 +1,5 @@
+author = "KIRT"
+lines = [ "G74Y", "ATDR", "PBZ4", "URN8", "UJFS", "VJEE" ]
+
+[externalReferences]
+sttm2 = 5389

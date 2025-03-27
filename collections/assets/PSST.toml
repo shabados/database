@@ -1,0 +1,23 @@
+[name]
+en = "Prof Sahib Singh"
+pa = "ਪ੍ਰੋ. ਸਾਹਿਬ ਸਿੰਘ"
+
+[reference]
+title = "Sri Guru Granth Darpan"
+url = "www.archive.org/details/SriGuruGranthSahibDarpan-Volume1"
+accessed = "2020-05-18"
+
+[[reference.authors]]
+prefix = "Prof"
+first = "Sahib"
+last = "Singh"
+
+[reference.publisher]
+name = "Raaj Publishers"
+city = "Hoshiarpur/Jalandhar"
+
+[reference.publication]
+date = "1972"
+
+[reference.volume]
+total = 10

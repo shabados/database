@@ -1,0 +1,18 @@
+[name]
+en = "Sikhs of the Khalsa"
+
+[reference]
+title = "Sikhs of the Khalsa"
+subtitle = "A History of the Khalsa Rahit"
+url = "https://books.google.com/books?id=HIrXAAAAMAAJ"
+
+[[reference.authors]]
+first = "W. H."
+last = "McLeod"
+
+[reference.publisher]
+name = "Oxford University Press"
+country = "India"
+
+[reference.publication]
+date = "2003"

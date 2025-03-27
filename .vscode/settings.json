@@ -29,35 +29,20 @@
   "[html]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
   "dbmlERDPreviewer.preferredTheme": "dark",
-  "json.schemas": [
-    {
-      "fileMatch": ["collections/assets/**/*.json"],
-      "url": "./collections/$schemas/assets.json"
-    },
-    {
-      "fileMatch": ["collections/sections/**/*.json"],
-      "url": "./collections/$schemas/sections.json"
-    },
-    {
-      "fileMatch": ["collections/authors/**/*.json"],
-      "url": "./collections/$schemas/authors.json"
-    },
-    {
-      "fileMatch": ["collections/sources/**/*.json"],
-      "url": "./collections/$schemas/sources.json"
-    },
-    {
-      "fileMatch": ["collections/line-groups/**/*.json"],
-      "url": "./collections/$schemas/line-groups.json"
-    },
-    {
-      "fileMatch": ["collections/lines/**/*.json"],
-      "url": "./collections/$schemas/lines.json"
-    },
-    {
-      "fileMatch": ["collections/banis/**/*.json"],
-      "url": "./collections/$schemas/banis.json"
-    }
-  ]
+  "yaml.schemas": {
+    "collections/-schemas/assets.json": "collections/test.yml"
+  },
+  "evenBetterToml.schema.associations": {
+    "^collections/assets/.*\\.toml$": "file://collections/$schemas/assets.json",
+    "^collections/sections/.*\\.toml$": "file://collections/$schemas/sections.json",
+    "^collections/authors/.*\\.toml$": "file://collections/$schemas/authors.json",
+    "^collections/sources/.*\\.toml$": "file://collections/$schemas/sources.json",
+    "^collections/line-groups/.*\\.toml$": "file://collections/$schemas/line-groups.json",
+    "^collections/lines/.*\\.toml$": "file://collections/$schemas/lines.json",
+    "^collections/banis/.*\\.toml$": "file://collections/$schemas/banis.json"
+  }
 }

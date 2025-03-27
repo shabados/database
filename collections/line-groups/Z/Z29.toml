@@ -1,0 +1,5 @@
+author = "BGDB"
+lines = [ "G89R", "WTVB", "GPF8", "M9TV" ]
+
+[externalReferences]
+sttm2 = 7020

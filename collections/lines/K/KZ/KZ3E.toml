@@ -1,0 +1,42 @@
+[[content]]
+asset = "SSA2"
+type = "primary"
+data = "ਨ ਸੂਰ ਸਸਿ; ਮੰਡਲੋ ॥"
+page = 144
+line = 2
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "en"
+data = "Neither the solar and lunar regions,"
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "pa"
+data = "ਨਾਂ ਸੂਰਜ ਅਤੇ ਚੰਦਰਮਾ ਦੀਆਂ ਪੁਰੀਆਂ,"
+
+[[content]]
+asset = "DSSK"
+type = "translation"
+language = "en"
+data = "Neither the sun, nor the moon, nor the planets,"
+
+[[content]]
+asset = "NKFT"
+type = "translation"
+language = "pa"
+data = "ਨ ਸੂਰਜ ਔਰ ਚੰਦ੍ਰਮਾ ਕੇ (ਮੰਡਲੋ) ਅਸਥਾਨ"
+
+[[content]]
+asset = "PSST"
+type = "translation"
+language = "pa"
+data = "ਨਾ ਸੂਰਜ, ਨਾਹ ਚੰਦਰਮਾ, ਨਾਹ ਇਹ ਦਿੱਸਦਾ ਆਕਾਸ਼,"
+
+[[content]]
+asset = "SNST"
+type = "translation"
+language = "es"
+data = "Ni el sol, ni la luna ni las estrellas;"

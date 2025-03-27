@@ -1,0 +1,6 @@
+author = "RAMD"
+raga = "SRNG"
+lines = [ "BMM8", "LAZG", "N9F8", "V9GX", "L2AE" ]
+
+[externalReferences]
+sttm2 = 4483

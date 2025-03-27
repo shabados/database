@@ -1,6 +1,5 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "assets.json",
   "title": "Asset",
   "description": "A digitised source of content. e.g. a PDF, audio, video, etc.Assets have 2 fundamental purposes:\n- To be a source of primary content for lines, exposed in line_data. E.g. line ABCD can have multiple line_data entries, each with a different asset_id, corresponding to different translations, or different variations of the same content.\n- To provide a related content for a user to browse, e.g. a PDF, audio, video, etc.\nExamples of related assets:\n- Kirtan of line groups / banis\n- Katha / Podcasts of lines, line groups, banis\n- Notes / compositions (pictures) of line groups, banis\n- PDFs, books of line groups",
   "$defs": {
@@ -78,7 +77,7 @@
   "required": ["name", "reference"],
   "additionalProperties": false,
   "properties": {
-    "name": { "$ref": "common.json#/$defs/LanguageField" },
+    "name": { "$ref": "./common.json#/$defs/LanguageField" },
     "reference": { "$ref": "#/$defs/Reference" }
   }
 }

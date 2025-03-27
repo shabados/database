@@ -1,0 +1,5 @@
+author = "BGDB"
+lines = [ "DPDR", "CS04", "4G20", "FDBS" ]
+
+[externalReferences]
+sttm2 = 7045

@@ -1,0 +1,42 @@
+[[content]]
+asset = "SSA2"
+type = "primary"
+data = "ਵਿਸੁਏ ਚਸਿਆ, ਘੜੀਆ ਪਹਰਾ; ਥਿਤੀ ਵਾਰੀ ਮਾਹੁ ਹੋਆ ॥"
+page = 12
+line = 18
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "en"
+data = "Second, minutes, hours, quarters of a day, lunar-days, weekdays, months,"
+
+[[content]]
+asset = "SBMS"
+type = "translation"
+language = "pa"
+data = "ਸਕਿੰਟ, ਮਿੰਟ ਘੰਟੇ, ਦਿਨ ਦੇ ਚੁਥਾਈਏ, ਚੰਦ ਦੇ ਦਿਹਾੜੇ ਸੂਰਜ ਦੇ ਦਿਹਾੜੇ, ਮਹੀਨੇ,"
+
+[[content]]
+asset = "DSSK"
+type = "translation"
+language = "en"
+data = "The seconds, minutes and hours, days, weeks and months,"
+
+[[content]]
+asset = "NKFT"
+type = "translation"
+language = "pa"
+data = "ਏਹ ਏਕ ਸੇ ਅਨੇਕ ਮਤਿ ਕ੍ਯੋਂ ਹੂਏ? ਤਿਸ ਪਰ ਦ੍ਰਿਸਟਾਂਤੁ: ਜੈਸੇ ੧੫ ਵਾਰ ਨੇਤ੍ਰੋ ਨਮੀਲਨਕੇ ਕਾਲ ਕਾ ਨਾਮੁ ਵਿਸਾ ਹੈ। ਤਿਸ ੧੫ ਵਿਸੋਂ ਕਾ ਨਾਮ ਚਸਾ ਹੈ। ੩੦ ਚਸੋਂ ਕਾ ਨਾਮੁ ਪਲੁ ਹੈ। ੬੦ ਪਲ ਕੀ ਘੜੀ ਹੈ। ੮ ਘੜੀ ਕਾ ਪਹਰੁ ਹੈ। ੮ ਪਹਰ ਕਾ ਦਿਨ ਰਾਤ ਹੈ। ੧੫ ਤਿੱਥ ਹੈਂ। ੧੨ ਮਹੀਨੇ ਹੈਂ। ੬ ਰੁਤਿ ਹੈਂ॥"
+
+[[content]]
+asset = "PSST"
+type = "translation"
+language = "pa"
+data = "ਜਿਵੇਂ ਵਿਸੁਏ, ਚਸੇ, ਘੜੀਆਂ, ਪਹਰ, ਥਿੱਤਾਂ, ਵਾਰ, ਮਹੀਨਾ (ਆਦਿਕ),"
+
+[[content]]
+asset = "SNST"
+type = "translation"
+language = "es"
+data = "Así como los segundos, minutos, horas, días, semanas, meses,"

@@ -37,10 +37,10 @@
     "collections:preview": "redocly preview-docs 'collections/$schemas/_preview.yml'",
     "collections:validate": "node --experimental-strip-types scripts/validate-collections.ts"
   },
-  "dependencies": {
-    "ajv": "^8.17.1"
-  },
-  "devDependencies": {
+  "dependencies": {},
+  "devDependencies": {    
+    "ajv": "^8.17.1",
+    "smol-toml": "^1.3.1",
     "@biomejs/biome": "^1.9.4",
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",

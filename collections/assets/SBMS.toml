@@ -1,0 +1,23 @@
+[name]
+en = "Sri Guru Granth Sahib (English & Punjabi Translation)"
+
+[reference]
+title = "Sri Guru Granth Sahib"
+subtitle = "English & Punjabi Translation"
+url = "www.archive.org/details/SriGuruGranthSahibEnglishAndPunjabiTranslation-Vol.1"
+accessed = "2020-05-24"
+
+[[reference.authors]]
+first = "Manmohan"
+last = "Singh"
+
+[reference.publisher]
+name = "SGPC"
+city = "Amritsar"
+
+[reference.publication]
+date = "2006-2009"
+version = "6th & 8th ed."
+
+[reference.volume]
+total = 8
