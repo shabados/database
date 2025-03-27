@@ -6,7 +6,13 @@ Ultimately, these collections are used to generate the database.
 
 ## Schema
 
-Each collection is a JSON file conforming to the [JSON Schema](https://json-schema.org/) specified in the `$schemas` subdirectory. For example, the `assets` collection schema is defined in [`$schemas/assets.json`](/collections/$schemas/assets.json).
+Each collection is a [TOML](https://toml.io/en/) file conforming to the [JSON Schema](https://json-schema.org/) specified in the `$schemas` subdirectory. For example, the `assets` collection schema is defined in [`$schemas/assets.json`](/collections/$schemas/assets.json).
+
+### Why TOML?
+
+TOML is a simple, human-readable format that is easy to understand and write. It is also a strict superset of JSON, meaning that any valid JSON file is also a valid TOML file.
+
+Given the growing complexity of the schema, TOML provided greater readability and maintainability for humans over JSON.
 
 ### Visualize Schemas
 
@@ -67,8 +73,8 @@ Assets have 2 fundamental purposes:
 
 #### Examples of primary content:
 
-- Shabadaarth (`ssa2.json`) provides the primary content for the Gurū Granth Sāhib (`sggs.json`) source.
-- Dr. Sant Singh Khalsa's translation (`dssk.json`) is an asset providing English translations of lines for the Gurū Granth Sāhib (`sggs.json`) source.
+- Shabadaarth (`SSA2.toml`) provides the primary content for the Gurū Granth Sāhib (`SGGS.toml`) source.
+- Dr. Sant Singh Khalsa's translation (`DSSK.toml`) is an asset providing English translations of lines for the Gurū Granth Sāhib (`SGGS.toml`) source.
 
 #### Examples of related assets:
 
