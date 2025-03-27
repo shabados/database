@@ -27,7 +27,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: database.sqlite
-          path: dist
+          path: dist/database.sqlite
 
   analyze-database:
     runs-on: ubuntu-latest
@@ -39,5 +39,5 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: database.sqlite
-          path: dist/database.sqlite
+          path: dist
       - run: sqlite3_analyzer dist/database.sqlite
