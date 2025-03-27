@@ -43,4 +43,4 @@ jobs:
         with:
           name: database.sqlite
           path: dist/database.sqlite
-      - run: sqlite-analyzer dist/database.sqlite
+      - run: sqlite3_analyzer dist/database.sqlite
