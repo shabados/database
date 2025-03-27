@@ -15,8 +15,8 @@
     "sections": {
       "type": "array",
       "items": {
-        "type": "string",
-        "description": "The sections that are part of the source"
+        "$ref": "common.json#/$defs/Identifier",
+        "description": "The section IDs that are part of the source"
       }
     }
   },

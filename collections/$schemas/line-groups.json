@@ -13,12 +13,12 @@
       }
     },
     "raga": {
-      "type": "string",
-      "description": "The raga of the line group"
+      "$ref": "common.json#/$defs/Identifier",
+      "description": "The raga ID of the line group"
     },
     "author": {
-      "type": "string",
-      "description": "The author of the line group"
+      "$ref": "common.json#/$defs/Identifier",
+      "description": "The author ID of the line group"
     },
     "externalReferences": {
       "type": "object",

@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਪਵਣ ਪਾਣੀ; ਅਗਨੀ ਪਾਤਾਲ ॥",
       "page": 7,
       "line": 11
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "wind, water, fire and nether lands."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਹਵਾ, ਜਲ, ਅੱਗ ਤੇ ਪਇਆਲ ਪੈਦਾ ਕੀਤੇ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "wind, water, fire and the nether regions"
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਪੌਣ, ਪਾਣੀ, ਅਗਨੀ ,ਪਾਤਾਲਾਦਿ, ੧੪ ਲੋਕ, ਇਹ ਯਾਵਤ ਪ੍ਰਪੰਚੁ ਹੈ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਹਵਾ, ਪਾਣੀ, ਅੱਗ ਅਤੇ ਪਾਤਾਲ- ਇਹਨਾਂ ਸਾਰਿਆਂ ਦੇ ਇਕੱਠ ਵਿਚ (ਅਕਾਲ ਪੁਰਖ ਨੇ)"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Él compuso los elementos del aire, el agua, el fuego, y las regiones inferiores,"

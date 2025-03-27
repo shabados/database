@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਸੁਨਤ ਸੰਦੇਸਿਆ; ਹਾਂ ॥੧॥ ਰਹਾਉ ॥",
       "page": 410,
       "line": 19
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "Listen to the message. Pause."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਇਕ ਸੁਨੇਹਾ ਸੁਣ। ਠਹਿਰਾਉ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "listen to the call. ||1||Pause||"
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਯਹ ਸੰਦੇਸੇ ਸੁਨਾਈ ਪੜੇ ਹੈਂ ਕਿ ਅਮੁਕਾ ਚਲਾ ਗ੍ਯਾ ਅਮਕਾ ਚਲਨੇ ਕੋ ਤ੍ਯਾਰ ਹੈ॥੧॥ ਰਹਾਉ ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਇਹ ਸੁਨੇਹਾ ਧਿਆਨ ਨਾਲ ਸੁਣ ॥੧॥ ਰਹਾਉ ॥"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "escucha el Llamado. (1-Pausa)"

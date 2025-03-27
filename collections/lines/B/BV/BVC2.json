@@ -1,32 +1,32 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਰਾਗੁ ਸੋਰਠਿ ॥",
       "page": 656,
       "line": 13
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "Sorath Measure."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਰਾਗੁ ਸੋਰਠਿ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "Raag Sorat'h:"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Sorath"

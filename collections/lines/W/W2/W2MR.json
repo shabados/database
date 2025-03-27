@@ -1,38 +1,38 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੧ ਘਰੁ ੧ ਅਸਟਪਦੀਆ ॥",
       "page": 53,
       "line": 8
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "Sri Rag, First Guru. Eight stanzas."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਸਿਰੀ ਰਾਗ, ਪਹਿਲੀ ਪਾਤਸ਼ਾਹੀ ਅਠ ਪਦ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "Siree Raag, First Mehl, First House, Ashtpadheeyaa:"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Siri Rag, Mejl Guru Nanak, Primer Canal Divino, Ashtapadis."
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "note",
       "language": "pa",
       "data": "ਅਸਟਪਦੀ = {ਅਸਟ = ਅੱਠ। ਪਦ = ਬੰਦ} ਅੱਠ ਬੰਦਾਂ ਵਾਲੀ।"

@@ -1,38 +1,38 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਸਲੋਕੁ ॥",
       "page": 454,
       "line": 14
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "Slok."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਸਲੋਕ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "Salok:"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਸਲੋਕੁ।"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Slok"

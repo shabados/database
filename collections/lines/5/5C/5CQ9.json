@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਝੋਲਨਾ ॥",
       "page": 1400,
       "line": 12
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "The Name of measure."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਇਕ ਛੰਦ ਦਾ ਨਾਮ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "Jholnaa:"
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਇਸ ਛੰਤ ਕੀ ਸੰਗ੍ਯਾ ਹੀ ਝੋਲਨਾ ਹੈ।"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Yholna"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "note",
       "language": "pa",
       "data": "ਝੋਲਨਾ = ਛੰਦ।"

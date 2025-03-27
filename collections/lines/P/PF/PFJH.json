@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਤਿਸ ਕੀ ਕੀਮਤਿ; ਕਹੀ. ਨ ਜਾਇ ॥",
       "page": 841,
       "line": 5
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "His worth can be told not."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਉਸ ਦਾ ਮੁੱਲ ਆਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "His value cannot be described."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਤਿਸ ਕੀ ਕੀਮਤਿ ਕਹੀ ਨਹੀਂ ਜਾਤੀ ਹੈ, ਭਾਵ ਮਹਤਤਾ ਨਹੀਂ ਕਹੀ ਜਾਤੀ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "(ਉਸ ਦਾ ਆਤਮਕ ਜੀਵਨ ਇਤਨਾ ਉੱਚਾ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ) ਉਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Uno no puede imaginar Su Valor."

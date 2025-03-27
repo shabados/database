@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਜਮਕੰਕਰੁ. ਨੇੜਿ ਨ ਆਵਈ; ਫਿਰਿ. ਬਹੁੜਿ ਨ ਮਰੀਐ ॥",
       "page": 320,
       "line": 16
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "Death's myrmidon draws not near him and then he dies not again."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਮੌਤ ਦਾ ਫਰਿਸ਼ਤਾ ਉਸ ਦੇ ਲਾਗੇ ਨਹੀਂ ਲਗਦਾ ਅਤੇ ਤਦ ਉਹ ਮੁੜ ਕੇ ਨਹੀਂ ਮਰਦਾ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "The Messenger of Death does not come near him; he never has to die again."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਜਮ ਕੰਕਰ ਨਿਕਟ ਨਹੀਂ ਆਵਤਾ ਹੈ ਬਹੁੜੋ ਫੇਰ, ਭਾਵ ਵਾਰ ਵਾਰ ਜਨਮ ਨਹੀਂ ਹੋਤਾ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਜਮ ਦਾ ਸੇਵਕ (ਭਾਵ, ਜਮਦੂਤ) ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ ਤੇ ਮੁੜ ਮੁੜ ਨਹੀਂ ਮਰੀਦਾ।"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "y los mensajeros de Yama no lo tocan, y uno no muere otra vez,"

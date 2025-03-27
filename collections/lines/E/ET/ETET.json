@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਸੋਈ ਸੋਈ ਜਾਗੀ ॥",
       "page": 655,
       "line": 10
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "She, yea she alone wakes whom the Lord awakens."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਓਹੀ ਕੇਵਲ ਓਹੀ ਜਾਗਦੀ ਹੈ, ਜਿਸ ਨੂੰ ਸੁਆਮੀ ਜਗਾਉਂਦਾ ਹੈ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "She awakens from her slumber,"
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਅਵਿਦਿਆ ਰੂਪੀ ਨਿੰਦ੍ਰਾ ਮੇਂ ਸੋਈ ਹੂਈ ਸੋਈ ਜਾਗੀ ਹੈ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਇਹ ਕਈ ਜਨਮਾਂ ਦੀ ਸੁੱਤੀ ਹੋਈ ਜਿੰਦ (ਤਦੋਂ ਹੀ) ਜਾਗਦੀ ਹੈ (ਜਦੋਂ ਉਹ ਆਪ ਜਗਾਉਂਦਾ ਹੈ)"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Al despertar a la vida,"

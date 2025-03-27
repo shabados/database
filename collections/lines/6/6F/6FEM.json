@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਭੈ ਤੇ; ਨਿਰਭਉ ਡਰਤਾ ਫਿਰੈ ॥",
       "page": 900,
       "line": 4
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "The fearless are afraid of the fear."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਨਿੱਡਰ, ਡਰ ਪਾਸੋਂ, ਡਰਦੇ ਫਿਰਦੇ ਹਨ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "The fearless are afraid of fear."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਜਿਸ ਕੇ ਭੈ ਕਰ ਗਰਭ ਮੇਂ ਡਰਤਾ ਥਾ ਅਬ ਜਨਮ ਕੇ ਤਿਸ ਤੇ ਨਿਰਭੈ ਫਿਰਤਾ ਹੈ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਨਿਰਭਉ-ਪ੍ਰਭੂ ਦੀ ਅੰਸ ਜੀਵ ਦੁਨੀਆ ਦੇ ਅਨੇਕਾਂ ਡਰਾਂ ਤੋਂ ਡਰਦਾ ਫਿਰਦਾ ਹੈ,"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "los intrépidos le temen al miedo"

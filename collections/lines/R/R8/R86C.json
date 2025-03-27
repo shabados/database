@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਚੰਦੁ ਸੂਰਜੁ; ਜਾ ਕੇ ਤਪਤ ਰਸੋਈ ॥",
       "page": 481,
       "line": 9
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "The moon and the sun cooked his food."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਚੰਦਰਮਾ ਅਤੇ ਸੂਰਜ ਉਸ ਦਾ ਖਾਣਾ ਪਕਾਉਂਦੇ ਸਨ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "The moon and the sun cooked his food."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਚੰਦ੍ਰਮਾ ਸੂਰਜ ਜਾਂਕੀ ਰਸੋਈ ਤਪਤੇ, ਭਾਵ ਕਰਤੇ ਥੇ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "(ਇਹ ਉਸ ਰਾਵਣ ਦਾ ਜ਼ਿਕਰ ਹੈ) ਜਿਸ ਦੀ ਰਸੋਈ ਚੰਦ੍ਰਮਾ ਤੇ ਸੂਰਜ ਤਿਆਰ ਕਰਦੇ ਸਨ,"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Su comida fue cocinada por el sol y la luna"

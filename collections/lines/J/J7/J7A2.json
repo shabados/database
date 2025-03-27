@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਬਾਪਿ ਦਿਲਾਸਾ. ਮੇਰੋ ਕੀਨੑਾ ॥",
       "page": 476,
       "line": 6
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "My father (God) has comforted me."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਮੇਰੇ ਪਿਤਾ ਨੇ ਮੈਨੂੰ ਧੀਰਜ ਦਿੱਤਾ ਹੈ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "My Father has comforted me. He has given me a cozy bed,"
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਪਾਰਬ੍ਰਹਮ ਪਿਤਾ ਨੇ ਮੁਝੇ (ਦਿਲਾਸਾ) ਧੀਰਜੁ ਦੀਆ ਹੈ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "(ਮੇਰੇ ਅੰਦਰ ਟਿਕ ਕੇ) ਮੇਰੇ ਪਿਤਾ-ਪ੍ਰਭੂ ਨੇ ਮੈਨੂੰ ਸਹਾਰਾ ਦੇ ਦਿੱਤਾ ਹੈ,"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Mi Padre ha confortado mi mente y me ha bendecido con un lecho suave y terso,"

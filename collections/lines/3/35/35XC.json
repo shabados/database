@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਇਹੁ ਸੁਪਨਾ; ਸੋਵਤ ਨਹੀ ਜਾਨੈ ॥",
       "page": 740,
       "line": 9
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "This world is a dream, but one in sleep knows it not."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਇਹ ਜਹਾਨ ਇਕ ਸੁਫਨਾ ਹੈ ਪਰ ਸੁੱਤਾ ਪਿਆ ਬੰਦਾ ਇਸ ਨੂੰ ਜਾਣਦਾ ਨਹੀਂ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "This is a dream, but the sleeper does not know it."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਇਹ ਜਗਤ ਸੁਪਨਾ, ਭਾਵ ਮਿਥ੍ਯਾ ਹੈ, ਇਹ ਜੀਵ ਅਗ੍ਯਾਨ ਨਿੰਦ੍ਰਾ ਮੇਂ ਸੋਏ ਹੂਏ ਨਹੀਂ ਜਾਨਤੇ ਹੈਂ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "ਹੇ ਭਾਈ! ਇਹ (ਜਗਤ ਇਉਂ ਹੈ, ਜਿਵੇਂ) ਸੁਪਨਾ (ਹੁੰਦਾ) ਹੈ, (ਸੁਪਨੇ ਵਿਚ) ਸੁੱਤਾ ਹੋਇਆ ਮਨੁੱਖ (ਇਹ) ਨਹੀਂ ਜਾਣਦਾ (ਕਿ ਮੈਂ ਸੁੱਤਾ ਪਿਆ ਹਾਂ, ਤੇ ਸੁਪਨਾ ਵੇਖ ਰਿਹਾ ਹਾਂ।"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "El mundo no es sino un sueño, pero el que está dormido no se entera"

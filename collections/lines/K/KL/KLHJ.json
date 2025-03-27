@@ -1,44 +1,44 @@
 {
   "content": [
     {
-      "asset": "ssa2",
+      "asset": "SSA2",
       "type": "primary",
       "data": "ਏਕੈ ਸੂਤਿ ਪਰੋਏ ਮਣੀਏ ॥",
       "page": 886,
       "line": 7
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "en",
       "data": "On one string the beads are strung."
     },
     {
-      "asset": "sbms",
+      "asset": "SBMS",
       "type": "translation",
       "language": "pa",
       "data": "ਇਕ ਤਾਗੇ ਵਿੱਚ ਮਣਕੇ ਪਰੋਤੇ ਹੋਏ ਹਨ।"
     },
     {
-      "asset": "dssk",
+      "asset": "DSSK",
       "type": "translation",
       "language": "en",
       "data": "The beads are strung upon the one thread."
     },
     {
-      "asset": "nkft",
+      "asset": "NKFT",
       "type": "translation",
       "language": "pa",
       "data": "ਏਕ ਚੇਤਨ ਸੱਤਾ ਰੂਪੀ ਸੂਤ੍ਰ ਮੇਂ ਸਰੀਰ ਮਣਕੇ ਪਰੋਏ ਹੂਏ ਹੈਂ॥"
     },
     {
-      "asset": "psst",
+      "asset": "PSST",
       "type": "translation",
       "language": "pa",
       "data": "(ਵੇਖ, ਹੇ ਜੋਗੀ! ਜਿਵੇਂ ਮਾਲਾ ਦੇ ਇਕੋ ਧਾਗੇ ਵਿਚ ਕਈ ਮਣਕੇ ਪ੍ਰੋਤੇ ਹੋਏ ਹੁੰਦੇ ਹਨ,"
     },
     {
-      "asset": "snst",
+      "asset": "SNST",
       "type": "translation",
       "language": "es",
       "data": "Un mismo hilo contiene las cuentas en el rosario,"

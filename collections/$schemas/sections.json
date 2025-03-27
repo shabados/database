@@ -15,8 +15,8 @@
     "lineGroups": {
       "type": "array",
       "items": {
-        "type": "string",
-        "description": "The line groups that are part of the section"
+        "$ref": "common.json#/$defs/Identifier",
+        "description": "The line group IDs that are part of the section"
       }
     }
   },

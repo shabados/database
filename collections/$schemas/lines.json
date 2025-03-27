@@ -9,7 +9,7 @@
       "type": "object",
       "required": ["asset", "type", "data"],
       "properties": {
-        "asset": { "type": "string" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
         "type": { "type": "string" },
         "data": { "type": "string" }
       }
@@ -35,7 +35,7 @@
         {
           "properties": {
             "type": { "const": "translation" },
-            "language": { "type": "string" }
+            "language": { "$ref": "common.json#/$defs/LanguageCode" }
           },
           "required": ["language"]
         }
@@ -49,7 +49,7 @@
         {
           "properties": {
             "type": { "const": "note" },
-            "language": { "type": "string" }
+            "language": { "$ref": "common.json#/$defs/LanguageCode" }
           },
           "required": ["language"]
         }
@@ -63,7 +63,7 @@
         {
           "properties": {
             "type": { "const": "pronunciation" },
-            "language": { "type": "string" }
+            "language": { "$ref": "common.json#/$defs/LanguageCode" }
           },
           "required": ["language"]
         }
