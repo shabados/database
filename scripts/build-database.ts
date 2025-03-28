@@ -1,4 +1,4 @@
-import { mkdir } from 'node:fs/promises'
+import { mkdir, rm } from 'node:fs/promises'
 import { createRequire } from 'node:module'
 import { drizzle } from 'drizzle-orm/libsql'
 import * as schema from '#~/src/schema'
@@ -9,12 +9,14 @@ const { generateSQLiteMigration, generateSQLiteDrizzleJson, generateDrizzleJson 
   require('drizzle-kit/api') as DrizzleKitApi
 
 const DIST_PATH = 'dist'
+const DB_PATH = `${DIST_PATH}/database.sqlite`
 
 await mkdir(DIST_PATH, { recursive: true })
+await rm(DB_PATH, { force: true })
 
 const db = drizzle({
   connection: {
-    url: `file:./${DIST_PATH}/database.sqlite`,
+    url: `file:./${DB_PATH}`,
   },
 })
 
@@ -24,9 +26,3 @@ const createStatements = await generateSQLiteMigration(
 ).then((migrations) => migrations.join('\n'))
 
 await db.run(createStatements)
-
-await db.insert(schema.assets).values({
-  id: '1',
-  name: 'Test Asset',
-  description: 'Test Description',
-})
