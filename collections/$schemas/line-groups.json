@@ -11,10 +11,6 @@
         "description": "The lines that are part of the line group"
       }
     },
-    "raga": {
-      "$ref": "common.json#/$defs/Identifier",
-      "description": "The raga ID of the line group"
-    },
     "author": {
       "$ref": "common.json#/$defs/Identifier",
       "description": "The author ID of the line group"
