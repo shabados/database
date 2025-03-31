@@ -5,7 +5,7 @@ import * as schema from '#~/src/schema'
 const require = createRequire(import.meta.url)
 
 type DrizzleKitApi = typeof import('drizzle-kit/api')
-const { generateSQLiteMigration, generateSQLiteDrizzleJson, generateDrizzleJson } =
+const { generateSQLiteMigration, generateSQLiteDrizzleJson } =
   require('drizzle-kit/api') as DrizzleKitApi
 
 const DIST_PATH = 'dist'
@@ -15,6 +15,7 @@ await mkdir(DIST_PATH, { recursive: true })
 await rm(DB_PATH, { force: true })
 
 const db = drizzle({
+  casing: 'snake_case',
   connection: {
     url: `file:./${DB_PATH}`,
   },
@@ -22,7 +23,9 @@ const db = drizzle({
 
 const createStatements = await generateSQLiteMigration(
   await generateSQLiteDrizzleJson({}),
-  await generateSQLiteDrizzleJson(schema),
-).then((migrations) => migrations.join('\n'))
+  await generateSQLiteDrizzleJson(schema, undefined, 'snake_case'),
+)
 
-await db.run(createStatements)
+for (const stmt of createStatements) {
+  await db.run(stmt)
+}

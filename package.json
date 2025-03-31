@@ -40,7 +40,7 @@
     "database:view": "drizzle-kit studio"
   },
   "dependencies": {
-    "drizzle-orm": "^0.41.0"
+    "drizzle-orm": "^1.0.0-beta.1-8aabc28"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
@@ -51,7 +51,7 @@
     "ajv": "^8.17.1",
     "chalk": "^5.4.1",
     "dedent": "^1.5.3",
-    "drizzle-kit": "^0.30.6",
+    "drizzle-kit": "^1.0.0-beta.1-8aabc28",
     "fast-glob": "^3.3.3",
     "husky": "^9.1.7",
     "smol-toml": "^1.3.1"
