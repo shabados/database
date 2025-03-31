@@ -29,7 +29,7 @@
   "type": "module",
   "imports": {
     "#~/*": "./src/*.ts"
-  }, 
+  },
   "scripts": {
     "prepare": "husky",
     "lint": "biome check .",
@@ -50,6 +50,7 @@
     "@biomejs/biome": "^1.9.4",
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
+    "@libsql/client": "^0.15.1",
     "@types/bun": "^1.2.8",
     "ajv": "^8.17.1",
     "consola": "^3.4.2",

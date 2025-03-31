@@ -19,6 +19,7 @@ export const sections = sqliteTable('sections', {
   sourceId: text(),
   name: json(),
   description: json(),
+  index: integer(),
 })
 
 export const authors = sqliteTable('authors', {
@@ -31,20 +32,20 @@ export const lineGroups = sqliteTable('line_groups', {
   id: text().primaryKey(),
   sectionId: text(),
   authorId: text(),
-  order: integer(),
+  index: integer(),
 })
 
 export const lines = sqliteTable('lines', {
   id: text().primaryKey(),
   lineGroupId: text(),
   content: json(),
-  order: integer(),
+  index: integer(),
 })
 
 export const assetLines = sqliteTable('asset_lines', {
   assetId: text(),
   lineId: text(),
   type: text(),
-  language: text(),
   data: text(),
+  payload: json(),
 })

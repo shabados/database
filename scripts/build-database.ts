@@ -1,16 +1,24 @@
-import { Database } from 'bun:sqlite'
 import { mkdir, readFile, rm } from 'node:fs/promises'
 import { createRequire } from 'node:module'
 import { basename } from 'node:path'
 import { Glob } from 'bun'
 import { consola } from 'consola'
-import { drizzle } from 'drizzle-orm/bun-sqlite'
+import { eq } from 'drizzle-orm'
+import type { BatchItem } from 'drizzle-orm/batch'
+import { drizzle } from 'drizzle-orm/libsql'
 import type { SQLiteTable, TableConfig } from 'drizzle-orm/sqlite-core'
 import { parse } from 'smol-toml'
+
 import * as schema from '#~/schema'
 
 import type { Asset } from '../collections/$schemas/.types/assets'
 import type { Author } from '../collections/$schemas/.types/authors'
+import type { Banis } from '../collections/$schemas/.types/banis'
+import type { LanguageCode, ScriptCode } from '../collections/$schemas/.types/common'
+import type { LineGroups } from '../collections/$schemas/.types/line-groups'
+import type { Lines } from '../collections/$schemas/.types/lines'
+import type { Sections } from '../collections/$schemas/.types/sections'
+import type { Sources } from '../collections/$schemas/.types/sources'
 
 const require = createRequire(import.meta.url)
 
@@ -26,11 +34,11 @@ consola.info(`Output path: ${DB_PATH}\n`)
 await mkdir(DIST_PATH, { recursive: true })
 await rm(DB_PATH, { force: true })
 
-const sqlite = new Database(DB_PATH)
-
 const db = drizzle({
   casing: 'snake_case',
-  client: sqlite,
+  connection: {
+    url: `file:./${DB_PATH}`,
+  },
 })
 
 consola.start('Generating schema')
@@ -41,12 +49,12 @@ const createStatements = await generateSQLiteMigration(
 )
 
 for (const stmt of createStatements) {
-  db.run(stmt)
+  await db.run(stmt)
 }
 
 consola.success('Database initialized\n')
 
-const scan = (path: string) => new Glob(path).scan()
+const statements: [BatchItem<'sqlite'>, ...BatchItem<'sqlite'>[]] = [db.run('Select 1')]
 
 const importCollection = async <CollectionSchema, DatabaseSchema extends SQLiteTable<TableConfig>>(
   name: string,
@@ -55,16 +63,14 @@ const importCollection = async <CollectionSchema, DatabaseSchema extends SQLiteT
 ) => {
   consola.start(`Importing ${name}`)
 
-  const statements = []
+  const files = new Glob(`./collections/${name}/**/*.toml`).scan()
 
-  for await (const filePath of scan(`./collections/${name}/**/*.toml`)) {
+  for await (const filePath of files) {
     const id = basename(filePath, '.toml')
     const data = parse(await readFile(filePath, 'utf-8')) as unknown as CollectionSchema
 
     statements.push(db.insert(schema).values(mapper(data, id)))
   }
-
-  return Promise.all(statements).then(() => consola.success(`Imported ${name}\n`))
 }
 
 await importCollection<Asset, typeof schema.assets>(
@@ -77,6 +83,22 @@ await importCollection<Asset, typeof schema.assets>(
   }),
 )
 
+await importCollection<Lines, typeof schema.lines>('lines', schema.lines, ({ content }, id) => {
+  for (const { asset, data, type, ...payload } of content) {
+    statements.push(
+      db.insert(schema.assetLines).values({
+        lineId: id,
+        assetId: asset,
+        data,
+        type,
+        payload,
+      }),
+    )
+  }
+
+  return { id }
+})
+
 await importCollection<Author, typeof schema.authors>(
   'authors',
   schema.authors,
@@ -86,3 +108,60 @@ await importCollection<Author, typeof schema.authors>(
     otherNames,
   }),
 )
+
+await importCollection<LineGroups, typeof schema.lineGroups>(
+  'line-groups',
+  schema.lineGroups,
+  ({ author, lines, externalReferences }, id) => {
+    for (const [index, lineId] of lines.entries()) {
+      statements.push(
+        db.update(schema.lines).set({ lineGroupId: id, index }).where(eq(schema.lines.id, lineId)),
+      )
+    }
+
+    return {
+      id,
+      authorId: author,
+      externalReferences,
+    }
+  },
+)
+
+await importCollection<Sections, typeof schema.sections>(
+  'sections',
+  schema.sections,
+  ({ name, description, lineGroups }, id) => {
+    for (const [index, lineGroupId] of lineGroups.entries()) {
+      statements.push(
+        db
+          .update(schema.lineGroups)
+          .set({ sectionId: id, index })
+          .where(eq(schema.lineGroups.id, lineGroupId)),
+      )
+    }
+
+    return { id, description, name }
+  },
+)
+
+await importCollection<Sources, typeof schema.sources>(
+  'sources',
+  schema.sources,
+  ({ name, translation, sections }, id) => {
+    for (const [index, sectionId] of sections.entries()) {
+      statements.push(
+        db
+          .update(schema.sections)
+          .set({ sourceId: id, index })
+          .where(eq(schema.sections.id, sectionId)),
+      )
+    }
+
+    return { id, name, translation }
+  },
+)
+
+console.log('')
+consola.start('Committing changes')
+await db.batch(statements)
+consola.success('Changes committed\n')
