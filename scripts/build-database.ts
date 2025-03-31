@@ -1,7 +1,9 @@
+import { Database } from 'bun:sqlite'
 import { mkdir, rm } from 'node:fs/promises'
 import { createRequire } from 'node:module'
-import { drizzle } from 'drizzle-orm/libsql'
+import { drizzle } from 'drizzle-orm/bun-sqlite'
 import * as schema from '#~/src/schema'
+import { log } from './helpers'
 const require = createRequire(import.meta.url)
 
 type DrizzleKitApi = typeof import('drizzle-kit/api')
@@ -10,15 +12,16 @@ const { generateSQLiteMigration, generateSQLiteDrizzleJson } =
 
 const DIST_PATH = 'dist'
 const DB_PATH = `${DIST_PATH}/database.sqlite`
+log.stage(`Building database at ${DB_PATH}`)
 
 await mkdir(DIST_PATH, { recursive: true })
 await rm(DB_PATH, { force: true })
 
+const sqlite = new Database(DB_PATH)
+
 const db = drizzle({
   casing: 'snake_case',
-  connection: {
-    url: `file:./${DB_PATH}`,
-  },
+  client: sqlite,
 })
 
 const createStatements = await generateSQLiteMigration(
@@ -27,5 +30,7 @@ const createStatements = await generateSQLiteMigration(
 )
 
 for (const stmt of createStatements) {
-  await db.run(stmt)
+  db.run(stmt)
 }
+
+log.success('Database schema created')

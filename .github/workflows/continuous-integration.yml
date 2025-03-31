@@ -9,21 +9,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
-      - run: npm run lint
+      - run: bun run lint
 
   validate-collections:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
-      - run: npm run collections:validate
+      - run: bun run collections:validate
 
   build-database:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
-      - run: npm run database:build
+      - run: bun run database:build
       - uses: actions/upload-artifact@v4
         with:
           name: database.sqlite

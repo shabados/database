@@ -1,9 +1,10 @@
 import { readFile } from 'node:fs/promises'
 import Ajv from 'ajv/dist/2020.js'
+import { Glob } from 'bun'
 import chalk from 'chalk'
 import dedent from 'dedent'
-import fg from 'fast-glob'
 import { parse } from 'smol-toml'
+import { log } from './helpers'
 const ajv = new Ajv({
   allErrors: true,
 })
@@ -14,19 +15,18 @@ const commonSchema = JSON.parse(await readFile(`${SCHEMA_PATH}/common.json`, 'ut
 ajv.addSchema(commonSchema, 'common.json')
 
 const validateCollection = async (schemaFile: string, collectionName: string) => {
-  console.log(
-    chalk.green(`\nValidating ${collectionName} collection using ${schemaFile} schema...`),
-  )
+  log.stage(`Validating ${collectionName} collection using ${schemaFile} schema...`)
 
   const schemaContent = JSON.parse(await readFile(`${SCHEMA_PATH}/${schemaFile}`, 'utf-8'))
   const validate = ajv.compile(schemaContent)
 
   const collectionPath = `./collections/${collectionName}`
-  const collection = await fg(`${collectionPath}/**/*.toml`)
+  const glob = new Glob(`${collectionPath}/**/*.toml`)
+  const collection = glob.scan()
 
   let hasErrors = false
 
-  for (const filePath of collection) {
+  for await (const filePath of collection) {
     const data = parse(await readFile(filePath, 'utf-8'))
     const isValid = validate(data)
 
@@ -45,7 +45,7 @@ const validateCollection = async (schemaFile: string, collectionName: string) =>
   }
 
   if (!hasErrors) {
-    console.log(chalk.green(`✓ All ${collection.length} ${collectionName} documents are valid`))
+    log.success(`All ${collectionName} documents are valid`)
   }
 
   return !hasErrors

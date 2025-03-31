@@ -1,12 +1,11 @@
 name: Setup
-description: Setup Node dependencies
+description: Setup dependencies
 
 runs:
   using: composite
   steps:
-    - uses: actions/setup-node@v4
+    - uses: oven-sh/setup-bun@v2
       with:
-        node-version-file: .nvmrc
-        cache: npm
+        bun-version-file: .bun-version
     - run: npm ci
       shell: bash

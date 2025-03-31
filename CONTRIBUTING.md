@@ -7,14 +7,14 @@ There are many ways to contribute, beyond writing code or programming, by: loggi
 
 ## Getting Started
 
-You'll need Git + Node.js installed on your machine. We recommend using [mise](https://mise.jdx.dev/) to manage node.js versions. Don't forget to install the dependencies by running `npm install`.
+You'll need Git + Bun installed on your machine. We recommend using [mise](https://mise.jdx.dev/) to manage Bun versions. Don't forget to install the dependencies by running `bun install`.
 
 > [!TIP]
 > If you're using VS Code + forks, you can install the recommended extensions for a better DX.
 
 ## Linting + Formatting
 
-We use Biome for linting + formatting. You can run `npm run lint` to check for linting errors. If you'd like to fix linting errors automatically, you can run `npm run format` to format the code.
+We use Biome for linting + formatting. You can run `bun run lint` to check for linting errors. If you'd like to fix linting errors automatically, you can run `bun run format` to format the code.
 
 > [!TIP]
 > Using VS Code, you can use the Biome extension to get linting + formatting suggestions. This is included in the recommended extensions.
@@ -23,7 +23,7 @@ We use Biome for linting + formatting. You can run `npm run lint` to check for l
 
 Source data is stored in the `collections` as a series of JSON files conforming to schemas. See [Collections](docs/collections.md) for more information.
 
-You can validate the collection data by running `npm run collections:validate`.
+You can validate the collection data by running `bun run collections:validate`.
 
 ## Commit Messages
 
