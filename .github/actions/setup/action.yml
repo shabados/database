@@ -7,5 +7,5 @@ runs:
     - uses: oven-sh/setup-bun@v2
       with:
         bun-version-file: .bun-version
-    - run: npm ci
+    - run: bun install
       shell: bash
