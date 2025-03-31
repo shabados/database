@@ -49,6 +49,7 @@
     "@libsql/client": "^0.15.1",
     "@types/bun": "^1.2.8",
     "ajv": "^8.17.1",
+    "consola": "^3.4.2",
     "dedent": "^1.5.3",
     "drizzle-kit": "^1.0.0-beta.1-8aabc28",
     "husky": "^9.1.7",

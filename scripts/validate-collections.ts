@@ -1,10 +1,9 @@
 import { readFile } from 'node:fs/promises'
 import Ajv from 'ajv/dist/2020.js'
 import { Glob } from 'bun'
-import chalk from 'chalk'
+import consola from 'consola'
 import dedent from 'dedent'
 import { parse } from 'smol-toml'
-import { log } from './helpers'
 const ajv = new Ajv({
   allErrors: true,
 })
@@ -15,7 +14,7 @@ const commonSchema = JSON.parse(await readFile(`${SCHEMA_PATH}/common.json`, 'ut
 ajv.addSchema(commonSchema, 'common.json')
 
 const validateCollection = async (schemaFile: string, collectionName: string) => {
-  log.stage(`Validating ${collectionName} collection using ${schemaFile} schema...`)
+  consola.start(`Validating ${collectionName} using ${schemaFile} schema`)
 
   const schemaContent = JSON.parse(await readFile(`${SCHEMA_PATH}/${schemaFile}`, 'utf-8'))
   const validate = ajv.compile(schemaContent)
@@ -34,18 +33,16 @@ const validateCollection = async (schemaFile: string, collectionName: string) =>
 
     if (!isValid) {
       hasErrors = true
-      console.error(
-        chalk.red(
-          dedent`Invalid ${collectionName} document: ${fileName}
+      consola.error(
+        dedent`Invalid ${collectionName} document: ${fileName}
           ${validate.errors?.map((error) => `- ${error.instancePath || '/'} ${error.message}`).join('\n')}
       `,
-        ),
       )
     }
   }
 
   if (!hasErrors) {
-    log.success(`All ${collectionName} documents are valid`)
+    consola.success(`Validated ${collectionName}\n`)
   }
 
   return !hasErrors
@@ -60,6 +57,8 @@ const validationConfigs = [
   { schemaFile: 'line-groups.json', collectionName: 'line-groups' },
   { schemaFile: 'lines.json', collectionName: 'lines' },
 ]
+
+consola.box('Validating collections')
 
 let allSuccess = true
 for (const config of validationConfigs) {
