@@ -11,6 +11,13 @@ jobs:
       - uses: ./.github/actions/setup
       - run: bun run lint
 
+  types:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+      - run: bun run types
+
   validate-collections:
     runs-on: ubuntu-latest
     steps:

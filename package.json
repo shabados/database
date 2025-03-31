@@ -34,6 +34,7 @@
     "prepare": "husky",
     "lint": "biome check .",
     "format": "biome check --write .",
+    "types": "tsc --noEmit",
     "collections:preview": "redocly preview-docs 'collections/$schemas/_preview.yml'",
     "collections:validate": "bun scripts/validate-collections.ts",
     "database:build": "bun scripts/build-database.ts",
