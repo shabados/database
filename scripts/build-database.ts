@@ -5,8 +5,13 @@ import { basename } from 'node:path'
 import { Glob } from 'bun'
 import { consola } from 'consola'
 import { drizzle } from 'drizzle-orm/bun-sqlite'
+import type { SQLiteTable, TableConfig } from 'drizzle-orm/sqlite-core'
 import { parse } from 'smol-toml'
 import * as schema from '#~/schema'
+
+import type { Asset } from '../collections/$schemas/.types/assets'
+import type { Author } from '../collections/$schemas/.types/authors'
+
 const require = createRequire(import.meta.url)
 
 type DrizzleKitApi = typeof import('drizzle-kit/api')
@@ -41,27 +46,43 @@ for (const stmt of createStatements) {
 
 consola.success('Database initialized\n')
 
-consola.start('Importing assets')
-
-import type { Asset } from '../collections/$schemas/.types/assets'
-
 const scan = (path: string) => new Glob(path).scan()
 
-const statements = []
+const importCollection = async <CollectionSchema, DatabaseSchema extends SQLiteTable<TableConfig>>(
+  name: string,
+  schema: DatabaseSchema,
+  mapper: (schema: CollectionSchema, id: string) => DatabaseSchema['$inferInsert'],
+) => {
+  consola.start(`Importing ${name}`)
 
-for await (const filePath of scan('./collections/assets/**/*.toml')) {
-  const id = basename(filePath, '.toml')
-  const data = parse(await readFile(filePath, 'utf-8')) as unknown as Asset
+  const statements = []
 
-  statements.push(
-    db.insert(schema.assets).values({
-      id,
-      name: data.name,
-      reference: data.reference,
-    }),
-  )
+  for await (const filePath of scan(`./collections/${name}/**/*.toml`)) {
+    const id = basename(filePath, '.toml')
+    const data = parse(await readFile(filePath, 'utf-8')) as unknown as CollectionSchema
+
+    statements.push(db.insert(schema).values(mapper(data, id)))
+  }
+
+  return Promise.all(statements).then(() => consola.success(`Imported ${name}\n`))
 }
 
-await Promise.all(statements)
+await importCollection<Asset, typeof schema.assets>(
+  'assets',
+  schema.assets,
+  ({ name, reference }, id) => ({
+    id,
+    name,
+    reference,
+  }),
+)
 
-consola.success('Imported assets\n')
+await importCollection<Author, typeof schema.authors>(
+  'authors',
+  schema.authors,
+  ({ name, otherNames }, id) => ({
+    id,
+    name,
+    otherNames,
+  }),
+)

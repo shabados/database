@@ -43,5 +43,25 @@ export default defineRelations(schema, (r) => ({
       from: r.lines.lineGroupId,
       to: r.lineGroups.id,
     }),
+    assetContent: r.many.assetLines({
+      from: r.lines.id,
+      to: r.assetLines.lineId,
+    }),
+  },
+  assetLines: {
+    line: r.one.lines({
+      from: r.assetLines.lineId,
+      to: r.lines.id,
+    }),
+    asset: r.one.assets({
+      from: r.assetLines.assetId,
+      to: r.assets.id,
+    }),
+  },
+  assets: {
+    lines: r.many.assetLines({
+      from: r.assets.id,
+      to: r.assetLines.assetId,
+    }),
   },
 }))

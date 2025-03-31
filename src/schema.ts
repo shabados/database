@@ -31,12 +31,20 @@ export const lineGroups = sqliteTable('line_groups', {
   id: text().primaryKey(),
   sectionId: text(),
   authorId: text(),
-  index: integer(),
+  order: integer(),
 })
 
 export const lines = sqliteTable('lines', {
   id: text().primaryKey(),
   lineGroupId: text(),
   content: json(),
-  index: integer(),
+  order: integer(),
+})
+
+export const assetLines = sqliteTable('asset_lines', {
+  assetId: text(),
+  lineId: text(),
+  type: text(),
+  language: text(),
+  data: text(),
 })
