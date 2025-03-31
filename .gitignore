@@ -71,3 +71,6 @@ typings/
 build/
 *.sqlite
 data.tmp/
+
+# Generated types
+.types/
