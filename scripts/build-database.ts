@@ -83,14 +83,14 @@ await importCollection<Asset, typeof schema.assets>(
 )
 
 await importCollection<Lines, typeof schema.lines>('lines', schema.lines, ({ content }, id) => {
-  for (const { asset, data, type, ...payload } of content) {
+  for (const { asset, data, ...additional } of content) {
     statements.push(
       db.insert(schema.assetLines).values({
         lineId: id,
         assetId: asset,
         data,
-        type,
-        payload,
+        type: additional.type,
+        additional,
       }),
     )
   }
