@@ -28,5 +28,6 @@ describe('Database', () => {
 
     const collectionDoc = await getCollectionDoc<LineGroups>(`line-groups/D/${id}`)
     expect(lineGroup?.lines.map((line) => line.id)).toEqual(collectionDoc.lines)
+    expect(lineGroup?.author.id).toEqual(collectionDoc.author)
   })
 })

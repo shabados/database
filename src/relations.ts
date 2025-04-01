@@ -11,6 +11,7 @@ export default defineRelations(schema, (r) => ({
   },
   sections: {
     source: r.one.sources({
+      optional: false,
       from: r.sections.sourceId,
       to: r.sources.id,
     }),
@@ -27,10 +28,12 @@ export default defineRelations(schema, (r) => ({
   },
   lineGroups: {
     section: r.one.sections({
+      optional: false,
       from: r.lineGroups.sectionId,
       to: r.sections.id,
     }),
     author: r.one.authors({
+      optional: false,
       from: r.lineGroups.authorId,
       to: r.authors.id,
     }),
@@ -41,6 +44,7 @@ export default defineRelations(schema, (r) => ({
   },
   lines: {
     lineGroup: r.one.lineGroups({
+      optional: false,
       from: r.lines.lineGroupId,
       to: r.lineGroups.id,
     }),
@@ -51,10 +55,12 @@ export default defineRelations(schema, (r) => ({
   },
   assetLines: {
     line: r.one.lines({
+      optional: false,
       from: r.assetLines.lineId,
       to: r.lines.id,
     }),
     asset: r.one.assets({
+      optional: false,
       from: r.assetLines.assetId,
       to: r.assets.id,
     }),
