@@ -1,5 +1,4 @@
 import conventional from '@commitlint/config-conventional'
-
 import { RuleConfigSeverity, type UserConfig } from '@commitlint/types'
 
 export default {

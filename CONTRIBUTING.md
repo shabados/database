@@ -17,7 +17,7 @@ You'll need Git + Bun installed on your machine. We recommend using [mise](https
 We use Biome for linting + formatting. You can run `bun run lint` to check for linting errors. If you'd like to fix linting errors automatically, you can run `bun run format` to format the code.
 
 > [!TIP]
-> Using VS Code, you can use the Biome extension to get linting + formatting suggestions. This is included in the recommended extensions.
+> Using VS Code, you can use the Biome extension to get linting + formatting suggestions. This is included in the recommended extensions. **You must use the pre-release version of the Biome extension!**
 
 ## Source Data
 

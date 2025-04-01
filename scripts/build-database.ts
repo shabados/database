@@ -1,7 +1,8 @@
+import { Glob } from 'bun'
 import { mkdir, readFile, rm } from 'node:fs/promises'
 import { createRequire } from 'node:module'
 import { basename } from 'node:path'
-import { Glob } from 'bun'
+
 import { consola } from 'consola'
 import { eq } from 'drizzle-orm'
 import type { BatchItem } from 'drizzle-orm/batch'
@@ -10,15 +11,13 @@ import type { SQLiteTable, TableConfig } from 'drizzle-orm/sqlite-core'
 import { parse } from 'smol-toml'
 
 import * as schema from '#~/schema'
-
-import type { Asset } from '../collections/$schemas/.types/assets'
-import type { Author } from '../collections/$schemas/.types/authors'
-import type { Banis } from '../collections/$schemas/.types/banis'
-import type { LanguageCode, ScriptCode } from '../collections/$schemas/.types/common'
-import type { LineGroups } from '../collections/$schemas/.types/line-groups'
-import type { Lines } from '../collections/$schemas/.types/lines'
-import type { Sections } from '../collections/$schemas/.types/sections'
-import type { Sources } from '../collections/$schemas/.types/sources'
+import type { Asset } from '#collections-types/assets'
+import type { Author } from '#collections-types/authors'
+import type { Banis } from '#collections-types/banis'
+import type { LineGroups } from '#collections-types/line-groups'
+import type { Lines } from '#collections-types/lines'
+import type { Sections } from '#collections-types/sections'
+import type { Sources } from '#collections-types/sources'
 
 const require = createRequire(import.meta.url)
 

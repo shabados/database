@@ -1,9 +1,11 @@
-import { readFile } from 'node:fs/promises'
-import Ajv from 'ajv/dist/2020.js'
 import { Glob } from 'bun'
+import { readFile } from 'node:fs/promises'
+
+import Ajv from 'ajv/dist/2020.js'
 import consola from 'consola'
 import dedent from 'dedent'
 import { parse } from 'smol-toml'
+
 const ajv = new Ajv({
   allErrors: true,
 })

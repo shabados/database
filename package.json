@@ -28,7 +28,8 @@
   },
   "type": "module",
   "imports": {
-    "#~/*": "./src/*.ts"
+    "#~/*": "./src/*.ts",
+    "#collections-types/*": "./collections/$schemas/.types/*.d.ts"
   },
   "scripts": {
     "prepare": "husky",
@@ -47,7 +48,7 @@
     "drizzle-orm": "^1.0.0-beta.1-8aabc28"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
+    "@biomejs/biome": "^2.0.0-beta.1",
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "@libsql/client": "^0.15.1",
