@@ -10,7 +10,6 @@ type Options = {
 const createDatabaseClient = ({ path = './dist/database.sqlite' }: Options = {}) =>
   drizzle({
     relations,
-    schema,
     casing: 'snake_case',
     connection: {
       url: `file:${path}`,
