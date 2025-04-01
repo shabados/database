@@ -1,6 +1,6 @@
 import { DistributedOmit } from 'bun'
 
-import { integer, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import { index, integer, primaryKey, sqliteTable, text } from 'drizzle-orm/sqlite-core'
 
 import type { LanguageField, ScriptField } from '#collections-types/common'
 import type { Lines } from '#collections-types/lines'
@@ -19,13 +19,17 @@ export const sources = sqliteTable('sources', {
   translation: json().$type<LanguageField>(),
 })
 
-export const sections = sqliteTable('sections', {
-  id: text().primaryKey(),
-  sourceId: text(),
-  name: json().$type<ScriptField>(),
-  description: json().$type<LanguageField>(),
-  orderIndex: integer(),
-})
+export const sections = sqliteTable(
+  'sections',
+  {
+    id: text().primaryKey(),
+    sourceId: text(),
+    sourceOrder: integer(),
+    name: json().$type<ScriptField>(),
+    description: json().$type<LanguageField>(),
+  },
+  (t) => [index('source_order_index').on(t.sourceOrder)],
+)
 
 export const authors = sqliteTable('authors', {
   id: text().primaryKey(),
@@ -33,25 +37,37 @@ export const authors = sqliteTable('authors', {
   otherNames: json().$type<ScriptField[]>(),
 })
 
-export const lineGroups = sqliteTable('line_groups', {
-  id: text().primaryKey(),
-  sectionId: text(),
-  authorId: text(),
-  orderIndex: integer(),
-})
+export const lineGroups = sqliteTable(
+  'line_groups',
+  {
+    id: text().primaryKey(),
+    authorId: text(),
+    sectionId: text(),
+    sectionOrder: integer(),
+  },
+  (t) => [index('section_order_index').on(t.sectionOrder)],
+)
 
-export const lines = sqliteTable('lines', {
-  id: text().primaryKey(),
-  lineGroupId: text(),
-  orderIndex: integer(),
-})
+export const lines = sqliteTable(
+  'lines',
+  {
+    id: text().primaryKey(),
+    lineGroupId: text(),
+    lineGroupOrder: integer(),
+  },
+  (t) => [index('line_group_order_index').on(t.lineGroupOrder)],
+)
 
 type LinePayload = DistributedOmit<Lines['content'][number], 'asset' | 'data'>
 
-export const assetLines = sqliteTable('asset_lines', {
-  assetId: text(),
-  lineId: text(),
-  type: text(),
-  data: text(),
-  additional: json().$type<LinePayload>(),
-})
+export const assetLines = sqliteTable(
+  'asset_lines',
+  {
+    assetId: text(),
+    lineId: text(),
+    type: text(),
+    data: text(),
+    additional: json().$type<LinePayload>(),
+  },
+  // (t) => [primaryKey({ columns: [t.lineId, t.assetId, t.type] })],
+)

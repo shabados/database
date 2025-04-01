@@ -116,7 +116,7 @@ await importCollection<LineGroups, typeof schema.lineGroups>(
       statements.push(
         db
           .update(schema.lines)
-          .set({ lineGroupId: id, orderIndex })
+          .set({ lineGroupId: id, lineGroupOrder: orderIndex })
           .where(eq(schema.lines.id, lineId)),
       )
     }
@@ -137,7 +137,7 @@ await importCollection<Sections, typeof schema.sections>(
       statements.push(
         db
           .update(schema.lineGroups)
-          .set({ sectionId: id, orderIndex })
+          .set({ sectionId: id, sectionOrder: orderIndex })
           .where(eq(schema.lineGroups.id, lineGroupId)),
       )
     }
@@ -154,7 +154,7 @@ await importCollection<Sources, typeof schema.sources>(
       statements.push(
         db
           .update(schema.sections)
-          .set({ sourceId: id, orderIndex })
+          .set({ sourceId: id, sourceOrder: orderIndex })
           .where(eq(schema.sections.id, sectionId)),
       )
     }
