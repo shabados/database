@@ -112,9 +112,12 @@ await importCollection<LineGroups, typeof schema.lineGroups>(
   'line-groups',
   schema.lineGroups,
   ({ author, lines, externalReferences }, id) => {
-    for (const [index, lineId] of lines.entries()) {
+    for (const [orderIndex, lineId] of lines.entries()) {
       statements.push(
-        db.update(schema.lines).set({ lineGroupId: id, index }).where(eq(schema.lines.id, lineId)),
+        db
+          .update(schema.lines)
+          .set({ lineGroupId: id, orderIndex })
+          .where(eq(schema.lines.id, lineId)),
       )
     }
 
@@ -130,11 +133,11 @@ await importCollection<Sections, typeof schema.sections>(
   'sections',
   schema.sections,
   ({ name, description, lineGroups }, id) => {
-    for (const [index, lineGroupId] of lineGroups.entries()) {
+    for (const [orderIndex, lineGroupId] of lineGroups.entries()) {
       statements.push(
         db
           .update(schema.lineGroups)
-          .set({ sectionId: id, index })
+          .set({ sectionId: id, orderIndex })
           .where(eq(schema.lineGroups.id, lineGroupId)),
       )
     }
@@ -147,11 +150,11 @@ await importCollection<Sources, typeof schema.sources>(
   'sources',
   schema.sources,
   ({ name, translation, sections }, id) => {
-    for (const [index, sectionId] of sections.entries()) {
+    for (const [orderIndex, sectionId] of sections.entries()) {
       statements.push(
         db
           .update(schema.sections)
-          .set({ sourceId: id, index })
+          .set({ sourceId: id, orderIndex })
           .where(eq(schema.sections.id, sectionId)),
       )
     }

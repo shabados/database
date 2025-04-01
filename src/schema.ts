@@ -24,7 +24,7 @@ export const sections = sqliteTable('sections', {
   sourceId: text(),
   name: json().$type<ScriptField>(),
   description: json().$type<LanguageField>(),
-  index: integer(),
+  orderIndex: integer(),
 })
 
 export const authors = sqliteTable('authors', {
@@ -37,13 +37,13 @@ export const lineGroups = sqliteTable('line_groups', {
   id: text().primaryKey(),
   sectionId: text(),
   authorId: text(),
-  index: integer(),
+  orderIndex: integer(),
 })
 
 export const lines = sqliteTable('lines', {
   id: text().primaryKey(),
   lineGroupId: text(),
-  index: integer(),
+  orderIndex: integer(),
 })
 
 type LinePayload = DistributedOmit<Lines['content'][number], 'asset' | 'data'>
