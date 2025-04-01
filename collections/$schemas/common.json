@@ -4,7 +4,7 @@
     "Identifier": {
       "description": "Identifier field represented by a string",
       "type": "string",
-      "pattern": "^[A-Z0-9]+$"
+      "pattern": "^[A-Z0-9]{3,4}$"
     },
     "ScriptCode": {
       "description": "Script code represented by ISO 15924 script code key-values",
