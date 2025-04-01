@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਰਵੇਸ਼ ਦੀਆਣ ਨਜ਼ਰਾਣ ਵਿਚ, ਜਿਸ ਦੀ ਨਿਜੀ ਕੋਈ ਗਰਜ਼ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹੀਇ ਜਹਾਣ ਜੁਜ਼ ਸ਼ੋਰੋ ਗ਼ੋਗ਼ਾ ਬੇਸ਼ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

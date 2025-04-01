@@ -30,6 +30,12 @@ language = "pa"
 data = "ਸਲੋਕੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਲੋਕੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

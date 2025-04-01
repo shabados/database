@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ ਸਾਰੇ ਜਗਤ ਨੂੰ ਵਿਆਪ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਾਇਆ = ਸਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ ਸਦਾ ਆਨੰਦ-ਭਰਪੂਰ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨੰਦ ਮੈ = ਆਨੰਦ ਮਯ, ਆਨੰਦ-ਸਰੂਪ, ਆਨੰਦ-ਭਰਪੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਪ੍ਰੀਤ ਦੀ ਗਲੀ ਵਿਚ ਪੁਜਨਾ ਔਖਾ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਕੂਚਾਇ ਇਸ਼ਕ ਅਰ ਚਿ ਮੁਹਾਲ ਅਸਤ ਰਸੀਦਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

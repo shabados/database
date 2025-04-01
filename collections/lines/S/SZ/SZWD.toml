@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀ!) ਹੋਰ ਸਾਰੀਆਂ ਜੂਨਾਂ ਤੇਰੀਆਂ ਸੇਵਕ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਨਿਹਾਰੀ = ਪਾਣੀ ਭਰਨ ਵਾਲੀ, ਸੇਵਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

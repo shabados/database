@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੂੰ ਦੁਨਿਆਵੀ ਫਿਕਰਾਂ ਤੋਾ ਛੁਟਕਾਰਾ ਪਾ ਸਕਦਾ ਹੈਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਕੈਦਿ ਗ਼ਮਿ ਜਹਾਂ, ਬ-ਸ਼ਵਦ ਜਾਨਿ ਤੋ ਖ਼ਲਾਸ ।੪੨।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

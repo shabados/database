@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਥੇਰੇ ਚਿਰ ਤੋਂ ਖੁੰਝੀ ਹੋਈ ਮੈਂ ਭਟਕ ਰਹੀ ਹਾਂ, ਮੈਨੂੰ ਕੋਈ ਪੱਧਰਾ ਰਾਹ ਨਹੀਂ ਦੱਸਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਲੀ ਭੂਲੀ = ਬਥੇਰਾ ਚਿਰ ਖੁੰਝੀ ਹੋਈ। ਪਾਧਰੁ = ਪੱਧਰਾ ਰਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

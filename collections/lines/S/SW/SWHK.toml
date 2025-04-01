@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੇਰੇ) ਹਿਰਦੇ ਵਿਚ ਭੀ ਤੇ ਬਾਹਰ ਹਰ ਥਾਂ ਭੀ ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਹੀ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰੇਕ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

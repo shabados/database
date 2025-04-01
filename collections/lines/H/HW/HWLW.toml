@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਰਨ ਦੇ ਕੰਨ ਘੰ​‍ਡੇਹੇੜੇ ਦੀ ਆਵਾਜ਼ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਰੰਕ = ਹਰਨ। ਕਰਨ = ਕੰਨ। ਕੁਰੰਕ ਕਰਨ = ਹਰਨ ਦੇ ਕੰਨ। ਨਾਦ = ਆਵਾਜ਼, ਘੰ​‍ਡੇਹੇੜੇ (ਖੱਲ ਨਾਲ ਮੜ੍ਹੇ ਹੋਏ ਘੜੇ) ਦੀ ਆਵਾਜ਼ ਵਿਚ। ਸਮਾਨੇ = ਲੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

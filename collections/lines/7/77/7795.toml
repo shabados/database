@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੁੰਦਰ ਨਾਰੀ ਬਹੁਤ ਸੋਹਣੇ ਰੂਪ ਵਾਲੀ ਤੇ ਸੋਭਾ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਲਿਓ = ਸੋਹਣੇ ਰੂਪ ਵਾਲੀ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਸੁਆਲਿਓ' ਦਾ ਅਰਥ ਹੈ 'ਸੋਹਣੇ ਰੂਪ ਵਾਲਾ'। ਦੋਹਾਂ ਦਾ ਫ਼ਰਕ ਚੇਤੇ ਰੱਖਣ ਵਾਲਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

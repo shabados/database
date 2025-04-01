@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ ਕਰ, ਜਿੱਥੋਣ ਤਕ ਤੇਰੇ ਪਾਸੋਣ ਹੋ ਸਕੇ ਉਸਨੂੰ ਯਾਦ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦ ਕੁਨ ਹਾਣ ਤਾਣ ਤਵਾਨੀ ਯਾਦ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

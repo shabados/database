@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਇਹ ਸਾਰਾ ਤੇਰਾ (ਬਣਾਇਆ ਹੋਇਆ ਜਗਤ-) ਖਿਲਾਰਾ ਸਚਮੁਚ ਹੋਂਦ ਵਾਲਾ ਹੈ, ਇਸ ਵਿਚ ਹਰ ਥਾਂ ਤੇਰਾ ਹੀ ਨੂਰ ਹੈ, ਤੇ ਉਸ ਨੂਰ ਵਿਚ ਤੂੰ ਆਪ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ਸਚੁ = ਹੋਂਦ ਵਾਲਾ। ਪਾਸਾਰਾ = ਜਗਤ-ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

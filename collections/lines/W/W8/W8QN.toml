@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਦੇ ਸੁਮੇਰ ਪਰਬਤ ਜੇਡੇ ਹੋ ਚੁਕੇ ਪਾਪ ਘਾਹ ਦੇ ਤੀਲਿਆਂ ਵਾਂਗ ਸੜ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਝਿ ਗਏ = ਸੜ ਗਏ। ਤ੍ਰਿਣ = ਘਾਹ ਦੇ ਤੀਲੇ। ਪਾਪ ਸੁਮੇਰ = ਸੁਮੇਰ ਪਰਬਤ ਜੇਡੇ ਵੱਡੇ ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

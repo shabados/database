@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਦੇ ਪਾਸ ਇਹ ਸੱਚਾ ਸੌਦਾ ਹੁੰਦਾ ਹੈ, ਇਸ ਵਸਤ ਦੀ ਕਦਰ ਭੀ ਉਹੀ ਜਾਣਦਾ ਹੈ ॥੪॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛਾਣਸੀ = ਪਛਾਣਦਾ ਹੈ, ਕਦਰ ਪਾਂਦਾ ਹੈ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

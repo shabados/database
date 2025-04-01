@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹੇ ਬੰਦੇ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਸੰਸਾਰ ਵਿਚ (ਵਿਅਰਥ ਹੀ) ਜੀਵਨ ਗੁਜ਼ਾਰ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਾਮੀ = ਹੁਕਮ ਵਿਚ, ਹੁਕਮ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

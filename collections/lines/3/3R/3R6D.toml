@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਪਰ) ਜੇ (ਮਨੁੱਖ ਦੀ) ਬੁੱਧੀ ਪਾਪਾਂ ਨਾਲ ਮਲੀਨ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰੀਐ = ਜੇ ਭਰ ਜਾਏ, ਜੇ ਮਲੀਨ ਹੋ ਜਾਏ। ਮਤਿ = ਬੁੱਧ। ਪਾਪਾ ਕੈ ਸੰਗਿ = ਪਾਪਾਂ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

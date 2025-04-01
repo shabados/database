@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਭਨਾਣ ਦੀ ਜੀਭਾ ਤੇ ਉਨ੍ਹਾਣ ਦਾ ਜਸ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਸਫ਼ਿ ਏਸ਼ਾਣ ਬਰ ਜ਼ੁਬਾਨਿ ਮਰਦੋ ਜ਼ਨ ।੧੮੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

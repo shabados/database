@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਤੈਨੂੰ ਮਿਲਣਾ ਚਾਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਰੈ = ਲੋੜਦਾ ਹੈ, ਮਿਲਣਾ ਚਾਹੁੰਦਾ ਹੈ। ਸਭ ਕੋਊ = ਹਰ ਕੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

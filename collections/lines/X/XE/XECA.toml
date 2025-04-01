@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੈਰ ਪਵਿੱਤ੍ਰ ਹਨ ਜੋ ਪ੍ਰਭੂ ਦੇ ਰਾਹ ਤੇ ਤੁਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨੀਤ = ਪਵਿਤ੍ਰ। ਪਥਾ = ਰਾਹ (ਸੰ: ਪਥਿਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

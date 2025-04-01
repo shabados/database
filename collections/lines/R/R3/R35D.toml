@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ ਕਰ, ਇਹ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੀ ਤੇਰਾ ਅਸਲੀ ਸਾਥੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਸੰਗੀ = ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

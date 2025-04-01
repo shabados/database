@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਮੇਰੇ ਉਤੇ ਦਇਆਵਾਨ ਹੋ ਗਿਆ ਹੈ। ਮੈਨੂੰ ਉਸ ਨੇ ਸਤਸੰਗ ਵਿਚ ਮਿਲਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤ ਸੰਗਿ = ਸਤ ਸੰਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

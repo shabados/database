@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਦਾ ਖਿਲਾਰਾ ਖਲੇਰ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਥਾਰੁ = ਪਸਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

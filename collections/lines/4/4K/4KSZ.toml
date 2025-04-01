@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਬਚਨ ਮੰਨ ਲੈ। ਉਮਰ ਦਾ ਸਮਾ ਲੰਘਦਾ ਜਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਸਰੁ = (ਜ਼ਿੰਦਗੀ ਦਾ) ਸਮਾ। ਬੀਤਿਓ ਜਾਤੁ ਹੈ = ਲੰਘਦਾ ਜਾ ਰਿਹਾ ਹੈ। ਮੇਰੋ ਕਹਿਓ = ਮੇਰਾ ਆਖਿਆ, ਮੇਰਾ ਬਚਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

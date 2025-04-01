@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰੇ ਗੁਰੂ ਪਾਸੋਂ ਇਹ ਸਮਝ ਆ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਪਾਸੋਂ। ਨਦਰੀ ਆਈ = ਦਿੱਸ ਪਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

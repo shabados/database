@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀ! ਆ, ਗੁਰੂ ਦੇ ਪਾਸ ਚੱਲੀਏ। (ਗੁਰੂ ਦੀ ਦੱਸੀ) ਸੇਵਾ ਵਿਚ ਲੱਗਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਖੀ! ਸੰਤ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

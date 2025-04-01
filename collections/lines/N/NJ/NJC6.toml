@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਹੀ ਜਾਂਞੀ ਹੈ ਉਹ ਆਪ ਹੀ ਮੇਲ ਹੈ ਉਹ ਆਪ ਹੀ ਮਾਲਕ ਹੈ ਉਹ ਆਪ ਹੀ ਇਸ਼ਟ-ਦੇਵ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਮਾਞੀ = (ਵਿਆਹ ਵਾਲੇ ਘਰ ਆਇਆ ਹੋਇਆ) ਮੇਲ। ਸੁਆਮੀ = ਖਸਮ। ਦੇਵਾ = ਇਸ਼ਟ = ਦੇਵ (ਜਿਸ ਦੇ ਸਾਹਮਣੇ ਵਿਆਹ ਹੁੰਦਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

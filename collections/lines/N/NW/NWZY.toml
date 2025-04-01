@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਤਕਰਾ ਮਿਟਾ ਦੇਂਦਾ ਹੈ, (ਸਭ ਨਾਲ) ਸਾਂਝ ਬਣਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜਾ = ਦੂਜਾਇਗੀ ਦਾ ਖ਼ਿਆਲ, ਮੇਰ-ਤੇਰ, ਵਿਤਕਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

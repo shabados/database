@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ ਵਿਚ) ਕਈ ਗਰਭ ਛਣ ਗਏ ਹਨ, ਇਹ (ਬੰਦਗੀ-ਹੀਣ ਚੰਦਰਾ) ਕਿਉਂ ਬਚ ਰਿਹਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਚੁ ਮੁਚੁ = ਬਹੁਤ ਸਾਰੇ। ਕੀਨ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

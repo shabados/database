@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ-ਥਿਰ ਹੈਂ, ਸੋਹਣਾ ਹੈਂ, ਤੇਰੇ ਮਨ ਵਿਚ ਸਦਾ ਖਿੜਾਉ ਹੈ, (ਤੂੰ ਹੀ ਜਗਤ ਰਚਣ ਵਾਲਾ ਹੈਂ, ਤੈਨੂੰ ਹੀ ਪਤਾ ਹੈ ਤੂੰ ਕਦੋਂ ਬਣਾਇਆ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸਦਾ-ਥਿਰ। ਸੁਹਾਣੁ = ਸੁਬਹਾਨ, ਸੋਹਣਾ। ਮਨਿ ਚਾਉ = ਮਨ ਵਿਚ ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

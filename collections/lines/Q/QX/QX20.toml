@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਲੇ ਮਨੁੱਖੋ! ਚਤੁਰਾਈ ਛੱਡੋ ਤੇ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਸਿਮਰੋ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਆਨਪ = ਚਤੁਰਾਈ, ਅਕਲ ਦਾ ਮਾਣ। ਸੁਰਿ ਜਨਹੁ = ਹੇ ਭਲੇ ਪੁਰਸ਼ੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦਾ ਇਹ ਦੁਰਲੱਭ ਮਨੁੱਖਾ ਜਨਮ ਸਫਲ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ = ਕਾਮਯਾਬ। ਦੁਰਲਭ = ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਣ ਵਾਲੀ। ਦੇਹੀ = ਕਾਂਇਆਂ, ਮਨੁੱਖਾ ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

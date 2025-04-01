@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਕੋਈ ਐਸਾ ਉਪਾਉ ਲੱਭੋ ਜਿਸ ਕਰ ਕੇ ਜਗਤ ਵਿਚ ਸਦਾ ਟਿਕੇ ਰਹਿ ਸਕੀਏ (ਭਾਵ, ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨਾਲ ਇਕ-ਸੁਰ ਹੋ ਸਕੀਏ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਕੋ ਉਪਾਇਆ = ਕੋਈ ਉਪਾਉ। ਕਢਹੁ = ਲੱਭੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਸਾਡਾ ਗੋਬਿੰਦ ਐਸਾ ਹੈ) ਕਿ ਕ੍ਰੋੜਾਂ ਹੀ ਪਵਿੱਤਰ ਜੀਵਨ ਵਾਲੇ ਜੀਵ ਉਸ ਦੀ ਮਹਿਮਾ ਕਰ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ ਹੰਸ = ਪਵਿੱਤਰ ਜੀਵਨ ਵਾਲੇ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

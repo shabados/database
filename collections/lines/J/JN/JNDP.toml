@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ (ਮਨੁੱਖ ਨੂੰ) ਵੈਰਾਗਵਾਨ ਕਰ ਦੇਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵ ਮੁਕੰਦ = ਮੁਕੰਦ ਦੀ ਸੇਵਾ। ਬੈਰਾਗੀ = ਵੈਰਾਗਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

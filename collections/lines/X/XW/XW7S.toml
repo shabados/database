@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਨ ਸਤਿਗੁਰੂ ਤੈਨੂੰ ਪਵਿੱਤ੍ਰਤਾ ਬਖਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਦਿਹਦ ਪਾਕੀ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

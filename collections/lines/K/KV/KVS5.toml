@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸੇ ਦਰ ਤੇ ਭੀ ਇਹ ਬਖ਼ਸ਼ੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤਹਿ = ਹੋਰ ਕਿੱਥੇ? ਸਮਾਹਿ = ਸਮਾ ਸਕਦੇ ਹਨ, ਮੁਆਫ਼ ਹੋ ਸਕਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

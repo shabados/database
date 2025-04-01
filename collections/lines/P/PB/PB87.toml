@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਦੇ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਚਿੱਟੇ ਵਿਛਾਉਣਿਆਂ ਵਾਲੇ ਪਲੰਘਾਂ ਉੱਤੇ ਸੁਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਟੁ = ਮੰਜਾ। ਸੁਪੇਦੀ = ਚਿੱਟੇ ਵਿਛਾਉਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

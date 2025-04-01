@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਾਰੇ ਖਿਲਾਰੇ ਕਿਸੇ ਦੇ ਨਾਲ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! ਕਿਸੇ ਚਲਾਕੀ ਨਾਲ ਜਾਂ ਕੋਈ ਹੱਕ ਜਤਾਣ ਨਾਲ ਪਰਮਾਤਮਾ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਕਮਤਿ = ਚਲਾਕੀ। ਹੁਕਮਿ = ਹੁਕਮ ਨਾਲ, ਧੱਕੇ ਨਾਲ, ਕੋਈ ਹੱਕ ਜਤਾਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

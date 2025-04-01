@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਤੂੰ ਕਦ ਤਕ ਇਸ ਨਾਸ਼ਮਾਨ ਸੰਸਾਰ ਵਿਚ ਰਹੇਣਗਾ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਤਾ ਕੈ ਦਰੀਣ ਸਰਾਏ ਮਾਦੂਅਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

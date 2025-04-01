@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚੰਨ ਅਤੇ ਸੂਰਜ ਵਾਂਗ ਚਮਕਾ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰਦ ਰੌਸ਼ਨ ਹਮਚੂ ਮਾਹੋ ਆਫ਼ਤਾਬ ।੪੩੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

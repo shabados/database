@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਗਇਆ ਤੀਰਥ ਤੇ ਜਾ ਕੇ ਪਿਤਰਾਂ ਨਿਮਿੱਤ ਪਿੰਡ ਭਰਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਇਆ = ਹਿੰਦੂ ਤੀਰਥ, ਜੋ ਹਿੰਦੂ ਦੀਵੇ-ਵੱਟੀ ਖੁਣੋਂ ਮਰ ਜਾਏ ਉਸ ਦੀ ਕਿਰਿਆ ਗਇਆ ਜਾ ਕੇ ਕਰਾਈ ਜਾਂਦੀ ਹੈ। ਪਿੰਡੁ = ਚਉਲਾਂ ਜਾਂ ਜੌਂ ਦੇ ਆਟੇ ਦੇ ਪੇੜੇ ਜੋ ਪਿਤਰਾਂ ਨਿਮਿਤ ਮਣਸੀਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

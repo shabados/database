@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸੰਤ-ਸਭਾ ਵਿਚ ਮਿਲ ਕੇ (ਧਰਮ ਸ਼ਾਸਤ੍ਰਾਂ ਦੀ ਬੇਸ਼ੱਕ) ਵਿਆਖਿਆ ਕਰ ਕੇ ਵੇਖ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਿਆਣ = ਵਿਚਾਰ, ਵਿਆਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

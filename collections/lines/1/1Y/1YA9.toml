@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਜੇਹੜੇ ਮਨੁੱਖ ਕੁਰਾਹੇ ਪੈ ਕੇ ਦੂਜਾ ਜਪ ਜਪਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਹਿ = ਜਪਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

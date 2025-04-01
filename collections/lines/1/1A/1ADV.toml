@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਤਰ੍ਹਾਂ (ਦੀ ਗੱਲ) ਸੁਣ ਕੇ ਗਰੀਬ ਧੰਨਾ ਜੱਟ ਭੀ ਉੱਠ ਕੇ ਭਗਤੀ ਕਰਨ ਲੱਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹ ਬਿਧਿ = ਇਸ ਤਰ੍ਹਾਂ (ਦੀ ਗੱਲ)। ਜਾਟਰੋ = ਗਰੀਬ ਜੱਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

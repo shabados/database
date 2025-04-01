@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੇ ਕੌਲ ਫੁੱਲ ਵਰਗੇ ਕੋਮਲ ਚਰਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦ = ਰਿਦੈ, ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

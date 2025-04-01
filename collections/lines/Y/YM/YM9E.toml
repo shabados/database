@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਚਿਤ ਵਿਚ ਆ ਵੱਸੇ ਤਾਂ ਚਿਤ ਵਿਚ ਠੰਢ ਪੈ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢਿ = ਠੰਢ, ਸ਼ਾਂਤੀ। ਚਿਤਿ = ਚਿਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

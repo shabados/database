@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਜਗਤ) ਪੈਦਾ ਕਰ ਕੇ (ਉਸ ਦੀ) ਸੰਭਾਲ (ਭੀ) ਕਰਦਾ ਹੈਂ, ਤੂੰ (ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ) ਜਾਣਦਾ ਭੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਖਹਿ = ਵੇਖਦਾ ਹੈਂ, ਸੰਭਾਲ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

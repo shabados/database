@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਬੀਰ ਇਹ ਗੱਲ ਵਿਚਾਰ ਕੇ ਆਖ ਰਿਹਾ ਹਾਂ। ਹੇ ਸੰਤ ਜਨੋ! ਧਿਆਨ ਲਾ ਕੇ ਸੁਣੋ ॥੧੮੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਹੁ ਮਨ ਮਾਹਿ = ਮਨ ਲਾ ਕੇ ਸੁਣੋ, ਧਿਆਨ ਨਾਲ ਸੁਣੋ ॥੧੮੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

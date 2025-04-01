@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ)-ਮੈਂ ਉਹਨਾਂ (ਭਗਤਾਂ) ਦੇ ਚਰਨਾਂ ਤੇ ਪੈਂਦਾ ਹਾਂ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨ ਜਨ ਚਰਨ = ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦੇ ਪੈਰਾਂ ਤੇ। ਪਰਾਤਾ = ਪੈਂਦਾ ਹੈ। ਮੁਖਹੁ = ਮੂੰਹੋਂ, ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

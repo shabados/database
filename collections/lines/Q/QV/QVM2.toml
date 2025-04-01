@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਕਿੰਨੇ ਹੀ ਕਹਾਰ (ਮਹਿਰੇ), ਲੱਖਾਂ ਗੁੱਜਰ ਤੇ ਅਹੀਰ ਗਿਣੀਂਦੇ ਹਨ।"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਗੁੱਜਰ ਤੇ ਅਹੀਰ=ਦੋਵੇਂ ਦੁੱਧ ਵੇਚਣ ਵਾਲੇ ਹਨ, ਪਹਿਲੇ ਅਕਸਰ ਮੁਸਲਮਾਨ ਦੂਸਰੇ ਹਿੰਦੂ ਹੁੰਦੇ ਹਨ।"

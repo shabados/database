@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸੇ ਬੰਦਗੀ ਕਾਰਨ ਤੇਰਾ ਮਰਤਬਾ ਹਮੇਸ਼ਾ ਉੱਚਾ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁਤਬਾ-ਅਤ ਗਰਦਦ ਅਜ਼ਾਂ ਹਰਦਮ ਬੁਲੰਦ ।੪੮੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

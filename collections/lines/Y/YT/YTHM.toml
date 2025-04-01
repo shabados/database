@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੋਲਾ ਮਨੁੱਖ (ਨਿਰੀ) ਸੈਨਤ ਨੂੰ ਕੀਹ ਸਮਝੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਝਾਰਤਿ = ਸੈਨਤ। ਡੋਰਾ = ਬੋਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

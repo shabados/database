@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਖ਼ੁਦਾਈ ਦੁਨੀਆ ਦੀ ਸ਼ਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਹੇ ਫ਼ਲਰਿ-ਗੀਹਾਂ ਖ਼ੁਦਾਈਇ ਊ ।੩੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

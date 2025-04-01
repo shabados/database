@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਓਥੇ ਇਹ ਖ਼ੁਰਾਕ ਬਣਾ ਦਿੱਤੀ ਹੈ ਕਿ ਜੀਵਾਂ ਦਾ ਖਾਣਾ ਜੀਵ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਹਾਰੁ = ਖ਼ੁਰਾਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

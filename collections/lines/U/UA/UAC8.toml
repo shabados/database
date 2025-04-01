@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘਰ ਦੇ ਅੰਦਰ ਤੇ ਬਾਹਰ (ਹਰ ਥਾਂ) ਸਭ ਥਾਵਾਂ ਵਿਚ (ਮੈਨੂੰ) ਪ੍ਰਭੂ ਹੀ (ਦਿੱਸਦਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ। ਥਾਈ = ਥਾਈਂ, ਥਾਵਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

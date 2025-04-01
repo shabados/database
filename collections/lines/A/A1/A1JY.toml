@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪੰਛੀਆਂ ਦਾ ਰੁੱਖਾਂ ਤੇ ਬਸੇਰਾ ਹੁੰਦਾ ਹੈ ਇਸੇ ਤਰ੍ਹਾਂ ਇਹ ਜਗਤ (ਦਾ ਵਾਸਾ) ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਖਿ = ਪੰਛੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

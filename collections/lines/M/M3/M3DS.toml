@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ) ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਊਪਰਿ = ਜਿਸ (ਮਨੁੱਖ) ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

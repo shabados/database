@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ, ਜਿਸ ਨੂੰ ਵੈਰੀ ਤੇ ਮਿੱਤਰ ਇਕੋ ਜਿਹੇ (ਮਿੱਤਰ ਹੀ) ਜਾਪਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖੁ = ਖ਼ੁਸ਼ੀ। ਸੋਗੁ = ਚਿੰਤਾ, ਗ਼ਮ। ਜਾ ਕੈ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਹਿਰਦੇ ਵਿਚ। ਸਮਾਨਿ = ਇਕੋ ਜਿਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

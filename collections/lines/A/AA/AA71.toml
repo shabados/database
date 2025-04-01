@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਕੀ ਹੈ# ਉਸ ਪਾਕ ਪਰਵਰਦਗਾਰ ਦੀ ਯਾਦ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਹ ਚਿਹ ਬਾਸ਼ਦ ਯਾਦਿ ਆਣ ਯਜ਼ਦਾਨਿ ਪਾਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

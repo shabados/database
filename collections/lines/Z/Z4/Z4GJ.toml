@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਸਿੱਧ ਅਤੇ ਕੀ ਨਾਥ, ਕੀ ਗੌਸ ਅਤੇ ਕੀ ਪੀਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਸ਼ਿੱਧੋ ਚਿ ਨਾਬੋ ਚਿ ਗ਼ੌਸੋ ਚਿ ਪੀਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

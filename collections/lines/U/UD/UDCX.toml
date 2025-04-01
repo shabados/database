@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਨਕ ਦਾ ਪਰਮਾਤਮਾ (ਆਪਣੇ ਵਰਗਾ) ਆਪ ਹੀ ਆਪ ਹੈ ॥੪॥੨੫॥੩੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ ਆਪਿ = ਆਪਣੇ ਵਰਗਾ ਆਪ ਹੀ ਆਪ ॥੪॥੨੫॥੩੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

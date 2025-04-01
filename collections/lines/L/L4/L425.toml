@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ ਵਿਕਾਰਾਂ ਵਲੋਂ) ਸਦਾ-ਬੇਦਾਗ਼ (ਰਹਿੰਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਲੇਪ = ਬੇਦਾਗ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

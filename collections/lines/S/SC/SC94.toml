@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਵਾਜੇ ਸਦਾ ਵੱਜਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਦਰ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਵਾਜਹਿ = ਵੱਜਦੇ ਹਨ। ਅਨਹਦ = ਇਕ-ਰਸ, ਲਗਾਤਾਰ, ਹਰ ਵੇਲੇ। ਵਾਜੇ = ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਵਾਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

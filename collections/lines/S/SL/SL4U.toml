@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਕਲ ਅਤੇ ਸੂਝ ਦਾ ਉਹ ਸ਼ਹਿਨਸ਼ਾਹ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਅਕਲੀਮ ਦਾਨਿਸ਼ ਸ਼ਹਿਨਸ਼ਾਹ ਤਰ ।੧੫੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

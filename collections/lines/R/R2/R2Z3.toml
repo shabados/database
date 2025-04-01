@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ (ਹੁਣ) ਅਹੰਕਾਰ ਨਾਲ ਲਿਬੜਿਆ ਪਿਆ ਹੈਂ, ਅਹੰਕਾਰ ਨਾਲ ਲੱਦਿਆ ਹੋਇਆ ਹੀ (ਜਗਤ ਤੋਂ) ਚਲਾ ਜਾਵੇਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਗਾਰਬਿ = ਅਹੰਕਾਰ ਨਾਲ। ਅਟਿਆ = ਲਿਬੜਿਆ ਹੋਇਆ। ਜਾਹਿ = ਜਾਏਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤ ਤੇ ਸੰਤੋਖ ਲੈ ਕੇ ਮੈਂ (ਉਸ ਫ਼ੌਜ ਦੇ ਟਾਕਰੇ ਤੇ) ਲੜਨ ਲੱਗ ਪਿਆ, ਦੋਵੇਂ ਦਰਵਾਜ਼ੇ ਮੈਂ ਭੰਨ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ = ਦੋਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

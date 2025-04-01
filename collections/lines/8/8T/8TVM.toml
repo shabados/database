@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੇਰੀਆਣ ਹੀ ਲੱਤਾਣ ਲੰਘੀਆਣ ਹਨ, ਰਾਹ ਵਖਾਉਣ ਵਾਲਾ ਕੀ ਕਰ ਸਕਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਰਾ ਕਿ ਪਾਏ ਬਵਦ ਲੰਗ ਰਹਿਨੁਮਾ ਚਿ ਕੁਨਦ ।੨੦।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

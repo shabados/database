@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਉਸੇ ਪ੍ਰਭੂ ਦਾ ਬਣਾਇਆ ਹੋਇਆ ਹੈ ਜਿਸ ਦਾ ਤੂੰ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

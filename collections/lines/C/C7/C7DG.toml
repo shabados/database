@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਨੇ) ਤੈਨੂੰ ਹੱਥ ਪੈਰ ਕੰਨ ਅੱਖਾਂ ਜੀਭ ਦਿੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ। ਪਾਵ = ਪੈਰ। ਕਰਨ = ਕੰਨ। ਨੇਤ੍ਰ = ਅੱਖਾਂ। ਰਸਨਾ = ਜੀਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

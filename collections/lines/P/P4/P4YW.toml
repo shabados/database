@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਓ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਆਪਣਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਮਿਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟਿਓ = ਮਿਲ ਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

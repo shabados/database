@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਭਿਖਾਰੀ ਉਸ ਦੀ ਯਾਦ ਨਾਲ ਬਾਦਸ਼ਾਹ ਦੇ ਬਰਾਬਰ ਹੋ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਗਦਾ ਅਜ਼ ਯਾਦਿ ਊ ਸੁਲਤਾਣ ਬਵਦ ।੪੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

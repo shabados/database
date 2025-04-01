@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰੁਪਏ ਆਦਿਕ ਵਾਂਗ) ਖਰੇ ਬੰਦੇ (ਪ੍ਰਭੂ ਦੇ) ਖ਼ਜ਼ਾਨੇ ਵਿਚ ਪਾਏ ਜਾਂਦੇ ਹਨ (ਭਾਵ, ਉਹਨਾਂ ਦਾ ਜੀਵਨ ਪ੍ਰਵਾਨ ਹੁੰਦਾ ਹੈ ਤੇ) ਖੋਟੇ ਬਾਹਰਲੇ ਪਾਸੇ ਸੁੱਟੇ ਜਾਂਦੇ ਹਨ (ਭਾਵ, ਇਹ ਜੀਵ ਭਲਿਆਂ ਵਿਚ ਰਲ ਨਹੀਂ ਸਕਦੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰਵਾਰਿ = ਬਾਹਰਲੇ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

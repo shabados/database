@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਹੇ ਪ੍ਰਭੂ! ਕੋਈ ਜੀਵ ਤੇਰੀ ਕੀਮਤ ਨਹੀਂ ਪਾ ਸਕਦਾ। ਤੇਰਾ ਅੰਤ ਤੇਰਾ ਉਰਲਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ਪਾਰਾਵਾਰੀ = ਪਾਰ-ਅਵਾਰ, ਪਾਰਲਾ ਉਰਲਾ ਬੰਨਾ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

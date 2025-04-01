@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦੀ ਸਦਾ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਲਾਗਉ = ਲਾਗਉਂ, ਮੈਂ ਲੱਗਦਾ ਹਾਂ। ਪਾਇ = ਪੈਰੀਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

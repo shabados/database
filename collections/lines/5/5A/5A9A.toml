@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਦੇ ਲੋਕ ਮਾਇਆ ਦੇ) ਤਿੰਨ ਗੁਣਾਂ ਨਾਲ ਇੱਕ-ਮਿਕ ਹੋ ਕੇ ਰਸ ਮਾਣ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਨਿ = ਤਿੰਨ। ਤੀਨਿ ਗੁਣਾ = (ਰਜੋ, ਸਤੋ, ਤਮੋ) ਤਿੰਨ ਗੁਣ। ਕੈ ਸੰਗਿ = ਦੇ ਨਾਲ। ਰਚਿ = ਇਕ-ਮਿਕ ਹੋ ਕੇ। ਰਸੇ = ਮਸਤ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਮੇਰੇ ਭਾ ਦਾ) ਭਲਾ ਹੈ ਭਾਗਾਂ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲ ਭਲਾ = ਭਲੇ ਭਾਲ ਵਾਲਾ, ਭਲੇ ਮਸਤਕ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

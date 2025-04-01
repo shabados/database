@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਬਖ਼ਸ਼ਸ਼ ਉਹੀ ਹੈ ਜੋ ਮਾਲਕ ਦੇ ਤ੍ਰੁੱਠਿਆਂ ਮਿਲੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਾਤਿ = (ਫ਼ਾ: ਕਰਾਮਾਤ) ਬਖ਼ਸ਼ਸ਼, ਦਾਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

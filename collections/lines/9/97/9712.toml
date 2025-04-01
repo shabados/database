@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੈਂ ਤੇਰੇ ਦਰਸ਼ਨ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਈ = ਜਾਈਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ। ਕਉ = ਨੂੰ, ਤੋਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

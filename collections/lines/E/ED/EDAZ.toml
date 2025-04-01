@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੋਰਨਾਂ ਨੂੰ ਤਾਂ (ਇਹ ਜਮ-ਦੂਤ) ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਦੁੱਖ ਦੇਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰਾ ਕਉ = ਹੋਰਨਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

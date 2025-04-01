@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਬਾਰ ਬਾਰ ਹਰਿ ਕੇ ਗੁਨ' ਗਾ ਕੇ, ਮਨੁੱਖ ਆਪਣੀ) ਸੂਝ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਚਾਨਣ ਪੈਦਾ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਧਿ = ਅਕਲ। ਪ੍ਰਗਾਸੁ = ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

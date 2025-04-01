@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਦਿਲ ਦੀ ਗੱਲ ਉਹ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀ ਕੀ = ਦਿਲ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

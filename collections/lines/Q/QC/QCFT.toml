@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ-ਸਿਮਰਨ ਛੱਡ ਕੇ ਜਿਹੜਾ ਮਨੁੱਖ ਆਪਣੇ ਸਰੀਰ ਉੱਤੇ) ਗਣੇਸ਼ ਆਦਿਕ ਦਾ ਨਿਸ਼ਾਨ ਬਣਾ ਕੇ ਆਪਣੇ ਧਰਮੀ ਹੋਣ ਦਾ ਵਿਖਾਵਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਕ੍ਰ = ਗਣੇਸ਼ ਆਦਿਕ ਦੇ ਨਿਸ਼ਾਨ। ਪਾਖੰਡ = ਧਰਮੀ ਹੋਣ ਦਾ ਵਿਖਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

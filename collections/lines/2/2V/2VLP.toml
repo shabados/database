@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਦੇ ਵਿਹਾਰ-ਕਾਰ ਲਈ) ਰਾਤ ਤੇ ਦਿਨ (-ਰੂਪ) ਅਚਰਜ ਤਮਾਸ਼ੇ ਬਣਾ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਜ = ਤਮਾਸ਼ੇ। ਵਿਡਾਣਿਆ = ਅਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

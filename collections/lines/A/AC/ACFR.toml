@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਹਾਨ ਵਿਚ ਤਾਣ ਅੰਨ੍ਹੇਰਾ ਹੈ । ਐ ਪਿਆਰੇ# ਆਪਣੀ ਸੁੰਦਰਤਾ ਨੂੰ ਹੋਰ ਚਮਕਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਣ ਤਾਰੀਕ ਸ਼ੁਦ ਜਾਨਾਣ ਬਰ ਅਫ਼ਰੂਜ਼ ਈਣ ਕੱਦਿ ਰਾਅਨਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

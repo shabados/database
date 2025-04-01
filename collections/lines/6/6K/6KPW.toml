@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਹ ਜੋ) ਦੁਖ ਛੱਡ ਕੇ ਸੁਖ ਪਏ ਮੰਗਦੇ ਹਨ, ਅਜੇਹਾ ਬੋਲਣਾ ਸਿਰ ਖਪਾਈ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝਖਣਾ = ਵਿਅਰਥ ਬੋਲਣਾ, ਸਿਰ-ਖਪਾਈ। ਮੰਗੀਅਹਿ = ਮੰਗੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

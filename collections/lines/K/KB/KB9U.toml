@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਉਹ ਮਨੁੱਖ ਭਰਾ ਹਨ ਸੱਜਣ ਹਨ, ਜੇਹੜੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਮਨੁੱਖ {ਬਹੁ-ਵਚਨ}। ਸੇਵੰਨਿ = ਸਿਮਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

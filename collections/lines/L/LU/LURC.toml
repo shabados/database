@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣਾ ਆਪ (ਜਿਸ ਨੇ) ਆਪ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁਨ ਆਪੁ = ਆਪਣਾ ਆਪ। ਉਪਾਯਉ = ਪੈਦਾ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

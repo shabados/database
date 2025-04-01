@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੰਗਾਲ ਤੇ ਸ਼ਹਨਸ਼ਾਹ ਭੀ ਉਸ ਦੀ ਨਜ਼ਰ ਵਿਚ ਬਰਾਬਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਕੁ = ਕੰਗਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

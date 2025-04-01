@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਜਿੰਦ ਪਾ ਕੇ (ਸਾਡਾ) ਸਰੀਰ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਜੇਹੜਾ (ਹਰ ਵੇਲੇ) ਸਾਨੂੰ ਖ਼ੁਰਾਕ ਤੇ ਪੁਸ਼ਾਕ ਦੇ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਾਇ = ਪਾ ਕੇ। ਪਿੰਡੁ = ਸਰੀਰ। ਜਿਨ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਸਜਾਇਆ = ਪੈਦਾ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

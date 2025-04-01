@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਭਾ ਦੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ (ਹੀ) ਚਾਰੇ ਵੇਦ ਮੁਕੰਮਲ ਤੌਰ ਤੇ ਆ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਤੁਰ = ਚਾਰ। ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

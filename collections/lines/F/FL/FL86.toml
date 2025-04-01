@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਜਿੱਥੇ ਜਾਇਂਗਾ ਓਥੇ ਹੀ ਉਹ ਪ੍ਰਭੂ ਹਾਜ਼ਰ (ਦਿੱਸੇਗਾ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਥਹੁ = ਜਿੱਥੇ। ਜਾਇ ਵੰਞੈ = ਜਾਇਂਗਾ। ਤਿਥਾਊ = ਓਥੇ ਹੀ। ਸੋਇ = ਉਹ ਪ੍ਰਭੂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

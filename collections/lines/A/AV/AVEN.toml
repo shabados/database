@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੱਚਾ ਮਾਂ ਦੇ ਪੇਟ ਦੇ ਦੁੱਖਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਟ = ਦੁੱਖ। ਤੇ = ਤੋਂ। ਛੂਟ = ਬਚਾਉ, ਖ਼ਲਾਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

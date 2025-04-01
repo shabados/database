@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਮਨੁੱਖ ਦਾ ਮਨ (ਸਦਾ) ਧਨ ਵਿਚ (ਰਹਿੰਦਾ) ਹੈ, (ਇਸ ਲਈ) ਜੇ ਧਨ ਚਲਾ ਜਾਏ ਤਾਂ ਬੈਠਾ ਝੁਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਿ ਗਇਐ = ਜੇ ਧਨ ਚਲਾ ਜਾਏ। ਚੀਤੁ ਗਵਾਰ = ਗਵਾਰ ਦਾ ਚਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

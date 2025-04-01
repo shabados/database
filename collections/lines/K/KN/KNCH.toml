@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨ ਅੰਨ, ਨਾਹ ਹਵਾ-ਕੋਈ ਭੀ ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਉਣ = ਹਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

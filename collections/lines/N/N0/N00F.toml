@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇ ਲੱਖਾਂ ਬੰਦਿਆਂ ਉਤੇ ਤੇਰੀ ਹਕੂਮਤ ਹੋਵੇ, ਲੱਖਾਂ ਬੰਦੇ ਉੱਠ ਕੇ ਤੇਰੀ ਇੱਜ਼ਤ ਕਰਦੇ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੁਰਮਾਇਸਿ = ਹਕੂਮਤ। ਮਾਨੁ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਵੀ ਤੂੰ ਚਾਹੇਣ, ਉਹ ਉਚਿਤ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਚਿਹ ਮੀਖ਼ਾਹੀ ਰਵਾ ਬਾਸ਼ਦ ਤੁਰਾ ।੧੬੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

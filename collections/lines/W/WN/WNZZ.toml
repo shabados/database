@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਕਨਿਕ ਕਾਮਨੀ ਹੇਤ' ਦੇ ਰੋਗ ਤੋਂ ਬਚਾਣ ਵਾਲਾ ਪ੍ਰਭੂ-ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੋਈ ਦਾਰੂ ਨਹੀਂ ਹੈ, ਕੋਈ ਮੰਤ੍ਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = ਕੋਈ ਹੋਰ। ਅਉਖਧੁ = ਦਾਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

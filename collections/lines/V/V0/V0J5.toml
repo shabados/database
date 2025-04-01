@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਛੀ, ਜੰਗਲ ਦੇ ਪਸ਼ੂ ਸਭ ਮਾਇਆ ਵਿਚ ਰੰਗੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮ੍ਰਿਗ = ਜੰਗਲ ਦੇ ਪਸ਼ੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

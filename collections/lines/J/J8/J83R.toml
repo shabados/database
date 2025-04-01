@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹੇ ਕ੍ਰਿਪਾਲ! ਹੇ ਦਮੋਦਰ! ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਭੈ-ਹਰਨ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਹਾਰੀ = ਡਰ ਨਾਸ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

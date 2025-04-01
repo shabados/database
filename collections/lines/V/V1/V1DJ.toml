@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਲਾ, ਤਿਲਕ, ਸੁੱਚੀ ਰਸੋਈ, ਹਵਨ ਕਰਨ ਵਾਲੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਚ ਪਾਕ = ਪਵਿਤ੍ਰ ਰਸੋਈ। ਪਾਕ = ਭੋਜਨ ਪਕਾਣਾ। ਹੋਤੀ = ਹੋਤ੍ਰੀ, ਹਵਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

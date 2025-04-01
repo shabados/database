@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਤਰਸ-ਸਰੂਪ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉਤੇ) ਮੇਹਰ ਕਰ, ਮੈਂ ਤੇਰੀ ਸਰਨ ਪਿਆ ਰਹਾਂ, ਤੇ (ਤੇਰਾ ਆਸਰਾ ਛੱਡ ਕੇ) ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਾਹ ਦੌੜਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਵਉ = ਮੈਂ ਦੌੜਾਂ। ਕਰੁਣਾ ਮੈ = ਹੇ ਤਰਸ-ਰਰੂਪ! ਮਇਆ = ਦਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਹਿਰਦੇ ਦੀ ਸੇਜ ਸੋਹਣੀ ਬਣ ਗਈ ਹੈ, ਮੇਰਾ ਇਹ ਮਨ ਖਿੜ ਪਿਆ ਹੈ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਜ = ਹਿਰਦਾ-ਸੇਜ। ਬਿਗਸੰਦਾ = ਖਿੜਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

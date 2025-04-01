@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਅੰਦਰੋਂ ਹਉਮੈ ਦਾ, ਅਪਣੱਤ ਦਾ, ਖੋਟੀ ਬੁੱਧੀ ਦਾ, ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਮਤਾ = ਅਪਣੱਤ। ਦੁਰਮਤਿ = ਖੋਟੀ ਬੁੱਧੀ। ਦੁਖ ਨਾਸੁ = ਦੁੱਖਾਂ ਦਾ ਨਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਸ ਨੇ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ) ਗੁਰੂ ਨੇ ਆਪ (ਉਸ ਦੀ ਹਰੇਕ) ਪੀੜਾ ਦੂਰ ਕਰ ਦਿੱਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਦਨ = ਪੀੜ। ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਦਾ ਇਹ ਮਨ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵੈ = ਗਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

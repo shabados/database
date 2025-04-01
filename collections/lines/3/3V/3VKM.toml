@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚੀ ਗੱਲ ਤਾਣ ਇਹ ਹੈ ਕਿ ਤੇਰੇ ਬਿਨਾਣ ਇੱਥੇ ਹੋਰ ਕੋਈ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਗੈਰਿ ਤੂ ਕਸ ਨੀਸਤ ਬਤਹਿਕੀਕ ਦਰੀਣਜ਼ਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

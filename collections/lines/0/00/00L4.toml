@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਅੱਠੇ ਪਹਰ ਕਿਸੇ (ਵੇਲੇ ਭੀ) ਤੂੰ ਨਹੀਂ ਵਿਸਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਸਰਹਿ ਨਾਹੀ = ਤੂੰ ਨਹੀਂ ਵਿਸਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

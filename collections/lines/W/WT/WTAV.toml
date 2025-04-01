@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਹੇ ਨਾਨਕ! ਉਹ ਥਾਂ ਉਜਾੜ ਸਮਝੋ, ਉਹ ਥਾਂ ਭਿਆਨਕ ਨਰਕ ਦੇ ਬਰਾਬਰ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋੜੀ ਨਰਕ = ਘੋਰ ਭਿਆਨਕ ਨਰਕ। ਉਜੜੁ = ਉਜੜਿਆ ਹੋਇਆ, ਉਜਾੜ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

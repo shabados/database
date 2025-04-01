@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਆਪਣੀ) ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ ਤੇ ਦਿਲ ਵਿਚ ਖਿੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਗਸੈ = ਖਿੜਦਾ ਹੈ, ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ। ਮਾਇ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

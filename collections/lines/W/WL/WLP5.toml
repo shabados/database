@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਨਾਦ ਵਜਾਂਦੇ ਹਨ, ਪੰਡਿਤ ਵੇਦ ਪੜ੍ਹਦੇ ਹਨ, ਕੋਈ ਪੁਰਾਣ ਪੜ੍ਹਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਦੀ = ਨਾਦ ਵਜਾਣ ਵਾਲੇ ਜੋਗੀ। ਬੇਦੀ = ਬੇਦ ਪੜ੍ਹਨ ਵਾਲੇ ਪੰਡਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

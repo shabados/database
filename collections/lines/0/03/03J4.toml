@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਤੇਰਾ ਤਨ ਇੱਕ ਬੱਦਲ ਹੈ, ਉਸ ਵਿਚ ਸੂਰਜ ਲੁਕਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਤਨਤ ਅਬਰੇਸਤ ਦਰ ਵੈ ਆਫਤਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

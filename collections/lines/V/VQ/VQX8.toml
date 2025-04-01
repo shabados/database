@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੀਵਾਂ ਨੂੰ) ਭਰਮ ਅਤੇ ਮੋਹ ਦੇ ਬੰਧਨ ਬੱਝੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧ = ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

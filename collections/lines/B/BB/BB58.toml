@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਸਾਕੀ # ਉੱਠ ਅਤੇ ਮੇਰੇ ਪਿਆਲੇ ਨੂੰ ਭਰ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਕੀਆ ਬਰਖ਼ੇਜ਼ ਵ ਹਾਣ ਪੁਰ ਕੁਨ ਅੱਯਾਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

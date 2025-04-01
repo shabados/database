@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਕਿ, ਹੇ ਸਦਾ-ਥਿਰ ਮਾਲਕ! ਮੈਂ ਤੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ਸਚੇ ਸਾਹਿਬ = ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ! ਤੇਰੈ ਮਨਿ = ਤੇਰੇ ਮਨ ਵਿਚ। ਭਾਵਾ = ਭਾਵਾਂ, ਮੈਂ ਭਾ ਜਾਵਾਂ, ਮੈਂ ਪਿਆਰਾ ਲੱਗਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

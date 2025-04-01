@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਤਨਾਂ ਦੀ ਖਾਣ ਹਰੀ! (ਤੇਰਾ ਨਾਮ) ਸਿਮਰ ਕੇ ਬਚ ਨਿਕਲਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਰੇ = ਬਚ ਜਾਂਦੇ ਹਨ। ਸਿਮਰਿ = ਸਿਮਰ ਕੇ। ਰਤਨਾਗਰ = (ਰਤਨ-ਆਕਰ) ਰਤਨਾਂ ਦੀ ਖਾਣ ਪ੍ਰਭੂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

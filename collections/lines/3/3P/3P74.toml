@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਦੇ ਇਸ ਦਾ ਤੌਖ਼ਲਾ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ, ਸਦਾ ਸੋਚਾਂ ਸੋਚਦਾ ਰਹਿੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤ ਚਿਤਵਦਾ = ਸੋਚਾਂ ਸੋਚਦਾ। ਸਹਸਾ = ਤੌਖ਼ਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

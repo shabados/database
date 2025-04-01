@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਆਪਣਾ ਨਾਮ ਆਸਰਾ ਦੇਂਦਾ ਹੈਂ, ਉਸ ਨੂੰ ਤੂੰ ਕੋਈ ਹੋਰ ਆਸਰਾ ਨਹੀਂ ਸੁਝਾਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ ਮਨੁੱਖ ਨੂੰ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

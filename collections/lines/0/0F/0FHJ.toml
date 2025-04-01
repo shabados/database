@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਮਾਂ! (ਪ੍ਰਭੂ ਦੇ ਕੌਤਕ) ਵੇਖ ਕੇ ਮੈਂ ਹੈਰਾਨ ਹੋ ਰਹੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀ ਮਾਈ = ਹੇ ਮਾਂ! ਪੇਖਿ = ਵੇਖ ਕੇ। ਬਿਸਮਾਦ = ਹੈਰਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

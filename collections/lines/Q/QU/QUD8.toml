@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਰਾਖੇ! ਹੇ ਦਇਆ ਦੇ ਘਰ! ਹੇ ਆਨੰਦ ਦੇ ਸੋਮੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ = ਹੇ ਲਾਲ! ਹੇ ਪਿਆਰੇ! ਰੰਗੀਲੇ = ਹੇ ਰੰਗੀਲੇ! {ਰੰਗ-ਆਲਯ} ਹੇ ਆਨੰਦ ਦੇ ਸੋਮੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

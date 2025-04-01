@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਗੁਰੂ-ਸੰਤ ਮਿਹਰਬਾਨ ਹੋ ਜਾਏ, (ਕਾਮਾਦਿਕ) ਪੰਜੇ (ਦੂਤ) ਉਸ ਦੇ ਵੱਸ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਵੱਸ ਵਿਚ। ਪੰਚਾ = (ਕਾਮਾਦਿਕ) ਪੰਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

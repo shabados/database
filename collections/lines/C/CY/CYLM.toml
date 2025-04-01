@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਬਿਨਾ ਸਾਰੇ ਲੋਕ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ; ਉਹਨਾਂ ਨੂੰ ਸੰਸਾਰ ਵਿਚ ਸਦਾ ਘਾਟਾ ਹੀ ਘਾਟਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਤੋਟਾ = ਘਾਟਾ। ਸੰਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ। ਸਭਿ = ਸਾਰੇ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

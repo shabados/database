@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਚਸਕੇ ਛੱਡ ਦੇ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਬਿਖਿਆ = ਮਾਇਆ। ਰਸੂਆ = ਚਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

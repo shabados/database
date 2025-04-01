@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣਕਿ ਅਖੀਰ ਪਤ ਝੜ ਨੇ ਹੀ ਇਸ ਉਮਰ ਦੀ ਬਹਾਰ ਲਿਆਣਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਖ਼ਿਰ ਖ਼ਿਜ਼ਾਣ ਬਰ ਆਵੁਰਦ ਈਣ ਨੌ ਬਹਾਰਿ ਉਮਰ ।੩੭।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

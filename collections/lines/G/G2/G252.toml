@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ! ਗੁਰੂ ਦਾ ਇਹ ਸ੍ਰੇਸ਼ਟ ਸ਼ਬਦ ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਵਸਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

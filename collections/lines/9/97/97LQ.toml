@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਿ = ਜਿਸ ਨੇ। ਜਿਹਿ ਜਿਹਿ = ਜਿਸ ਜਿਸ ਨੇ। ਸਮ੍ਹ੍ਹਾਰਿ = ਸੰਭਾਲਿਆ ਹੈ, ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

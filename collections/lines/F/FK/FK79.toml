@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੁੱਖ ਦੇ ਅਧੀਨ ਹੋਇਆਂ ਦੀ ਸਮਝਾਇਆਂ ਭੀ ਭੁੱਖ ਮਿਟ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਖਿਆ = ਭੁੱਖ ਦੇ ਅਧੀਨ ਹੋਇਆਂ ਦੀ। ਗਲੀ = ਗੱਲਾਂ ਕੀਤਿਆਂ (ਭਾਵ) ਸਮਝਾਇਆਂ, ਗੱਲੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

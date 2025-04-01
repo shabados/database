@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਤੇਰੇ ਦਰ ਤੋਂ) ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਦੀ ਦਾਤਿ) ਮੰਗਦਾ ਹਾਂ, ਤੇਰੇ ਨਾਮ (ਦਾ) ਸਰਮਾਇਆ ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਾ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

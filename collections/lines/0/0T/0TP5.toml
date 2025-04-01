@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਮੈਂ ਕਰਦਿਆਂ ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਵਿਕਾਰ ਵਧਦੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਹਉ = ਮੈਂ ਮੈਂ। ਕਰਤ = ਕਰਦਿਆਂ। ਬਧੇ = ਵਧਦੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

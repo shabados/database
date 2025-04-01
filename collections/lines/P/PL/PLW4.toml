@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗਰੀਬੀ ਵਿਚ) ਚੱਕੀ ਪੀਹ ਕੇ, ਕੰਬਲੀ ਪਹਿਨ ਕੇ ਆਨੰਦ (ਪ੍ਰਾਪਤ ਰਹਿੰਦਾ ਹੈ, ਕਿਉਂਕਿ) ਮਨ ਨੂੰ ਸੰਤੋਖ ਮਿਲਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀਸਨੁ = ਚੱਕੀ। ਪੀਸਿ = ਪੀਹ ਕੇ। ਓਢਿ = ਪਹਨ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਜਿਹਾ ਧਨ ਸੰਸਾਰੀ ਖਜ਼ਾਨਿਆਂ, ਮਾਲ ਅਤੇ ਚਾਂਦੀ, ਤੋਂ ਕਿਵੇਂ ਮਿਲ ਸਕਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਬਦਸਤ ਆਇਦ ਜ਼ਿ ਗੰਜੋ ਮਾਲੋ ਸੀਮ ।੨੦੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

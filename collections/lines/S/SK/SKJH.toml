@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਘਰ ਵਿਚ (ਜਗਤ ਦੀਆਂ) ਨੌ ਹੀ ਨਿਧੀਆਂ ਮੌਜੂਦ ਹਨ ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਮੌਜੂਦ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ = ਤੇਰੇ ਘਰ ਵਿਚ (ਹੇ ਪ੍ਰਭੂ!)। ਸਗਲ = ਸਾਰੇ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

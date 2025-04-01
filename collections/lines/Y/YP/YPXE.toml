@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸਦੇ ਮਨ ਵਿਚ ਹਰ ਵੇਲੇ) ਮਾਇਆ ਦਾ ਮੋਹ (ਪ੍ਰਬਲ ਹੈ। ਉਸ ਨੇ) ਨਿਰਾ (ਆਤਮਕ) ਰੋਗ ਹੀ ਖੱਟਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਰੋਗੁ = ਨਿਰਾ ਰੋਗ। ਕਮਾਇਆ = ਵਿਹਾਝਿਆ, ਖੱਟਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

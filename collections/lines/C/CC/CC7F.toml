@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਆਪਣਾ ਨੁਕਸਾਨ ਕਰ ਕੇ ਭੀ ਦੂਜਿਆਂ ਦੇ ਕੰਮ ਸਵਾਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਗਾਰਿ = ਵਿਗਾੜ ਕੇ। ਸਾਂਢੈ = ਸਵਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

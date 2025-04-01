@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਦਿਨ ਰਾਤ ਕੇਵਲ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਸੁਚੇਤ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਜੋ ਜਾਗੇ = ਜੋ ਮਨੁੱਖ ਜਾਗ ਪੈਂਦੇ ਹਨ (ਭਾਵ, ਮਾਇਆ ਦੀ ਨੀਂਦ ਵਿਚੋਂ ਉੱਠ ਖਲੋਂਦੇ ਹਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

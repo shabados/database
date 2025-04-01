@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ-ਪਰਮਾਤਮਾ (ਮਾਨੋ) ਇਕ ਸੋਹਣਾ ਮੰਦਰ ਹੈ, ਜਿਸ ਵਿਚ ਮਾਣਕ ਲਾਲ ਮੋਤੀ ਤੇ ਚਮਕਦੇ ਹੀਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਮਹਿ = ਉਸ (ਹਰਿਮੰਦਰ ਵਿਚ)। ਮਾਣਕ = ਮੋਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

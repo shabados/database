@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰ (ਮਾਨੋ) ਦਿਨ ਰਾਤ ਇੱਕ-ਰਸ ਵਾਜੇ ਵੱਜਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਬਾਜੇ = ਵੱਜਦੇ ਹਨ। ਅਨਹਦ = ਬਿਨਾ ਵਜਾਇਆਂ, ਇੱਕ-ਰਸ, ਸਦਾ। ਤੂਰ = ਵਾਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

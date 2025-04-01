@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਉਮੈ ਕਰਕੇ ਜਦ ਕਿ ਤੂੰ ਰੱਬ ਤੋਣ ਦੂਰ ਹੋ ਗਿਆ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ੁਦੀ ਤੂ ਦੂਰ ਗਸ਼ਤਾ ਚੂੰ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

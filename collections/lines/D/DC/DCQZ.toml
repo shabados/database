@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਤੈਨੂੰ ਮਿਲਣ ਦੀ ਤਾਂਘ ਹੈ, ਕਿਵੇਂ ਤੈਨੂੰ ਮਿਲਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਚਾ = ਤਾਂਘ। ਪਾਵਾ = ਪਾਵਾਂ, ਮਿਲਾਂ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਤੋਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

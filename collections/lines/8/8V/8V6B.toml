@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਿਨਾਣ ਰੱਬ ਦੇ ਜ਼ਿਕਰ ਤੋਣ ਸਭ ਨਾਲੋਣ ਟੁੱਟਨਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਜ਼ਿਕਰਸ਼ ਅਜ਼ ਹਮਾ ਵਾ ਰਿਸਤਨ ਅਸਤ ।੧੯੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

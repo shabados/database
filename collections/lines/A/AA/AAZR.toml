@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ, ਆਪਣੇ ਅੰਦਰ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਮਿਟਾ ਲਿਆ ਹੈ, ਮੇਰੀ ਭਟਕਣਾ ਮੁੱਕ ਗਈ ਹੈ, ਕੋਈ ਚਿੰਤਾ ਮੇਰੇ ਮਨ ਉਤੇ ਕਦੇ ਜੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤ = ਚਿੰਤਾ। ਚੂਕੀ = ਮੁੱਕ ਗਈ ਹੈ। ਧਾਈ = ਭਟਕਣਾ। ਨ ਵਿਆਪੈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ। ਚਿੰਦਾ = ਚਿੰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

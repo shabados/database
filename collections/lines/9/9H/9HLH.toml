@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਤੇਰੇ ਸਰੀਰ ਨੂੰ ਮੌਤ ਨੇ ਨਹੀਂ ਆ ਪਕੜਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲਿ = ਕਾਲ ਨੇ। ਗ੍ਰਸੀ = ਦਬੋਚ ਲਈ, ਪਕੜ ਲਈ। ਕਾਇਆ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

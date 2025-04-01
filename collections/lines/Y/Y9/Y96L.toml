@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਭੈੜੀ ਮਤਿ ਨਾਸ ਹੋ ਗਈ ਹੈ, ਮੇਰੀ ਕੋਝੀ ਅਕਲ ਦੂਰ ਹੋ ਚੁਕੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਭੈੜੀ ਮਤਿ। ਕੁਬੁਧਿ = ਕੋਝੀ ਅਕਲ। ਅਭਾਗੀ = ਭੱਜ ਗਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

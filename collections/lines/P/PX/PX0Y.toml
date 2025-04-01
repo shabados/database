@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਦਾਚਾਰ ਵਿਚ ਪਰੀਪੂਰਣ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਮਿਲਿ-ਲ-ਅਖ਼ਲਾਕ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੧।"
+page = 10
+line = 151
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

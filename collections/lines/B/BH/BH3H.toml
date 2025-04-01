@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਹੇ ਪ੍ਰਭੂ! ਜੀਵ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਤੇਰਾ ਨਾਮ ਸਿਮਰਨ (ਦਾ ਗੁਣ) ਤੇਰੀ ਮੇਹਰ ਨਾਲ ਹੀ ਮਿਲ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਿ = ਮੇਹਰ ਨਾਲ, ਬਖ਼ਸ਼ਸ਼ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

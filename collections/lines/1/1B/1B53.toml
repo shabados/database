@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਮ ਵਿਚ ਮਸਤ ਹੋਏ ਹੋਏ! ਹੇ ਪ੍ਰਬਲ ਮਾਇਆ ਵਿਚ ਭੁੱਲੇ ਹੋਏ! ਤੈਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ ਕਿ ਪਾਪ ਕੀਹ ਹੈ ਤੇ ਪੁੰਨ ਕੀਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨਮਤ ਕਾਮਿ = ਹੇ ਕਾਮ ਵਿਚ ਮਸਤ ਹੋਏ ਹੋਏ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

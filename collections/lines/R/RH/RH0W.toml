@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਜ਼ਾਰ ਫਣਾਂ ਵਾਲਾ ਸ਼ੇਸ਼ਨਾਗ (ਭੀ) (ਤੇਰੇ ਗੁਣਾਂ ਦਾ) ਅੰਤ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸ = ਹਜ਼ਾਰ। ਫਨੀ = ਫਣਾਂ ਵਾਲਾ। ਸੇਖ = ਸ਼ੇਸ਼ਨਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

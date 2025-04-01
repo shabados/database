@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਆਪਣੇ ਅਸਲੇ ਨੂੰ ਪਛਾਣ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਕੂ ਖ਼ੇਸ਼ ਰਾ ਬਿਸ਼ਨਾਖ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

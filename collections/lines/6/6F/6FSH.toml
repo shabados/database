@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਹੱਥ ਜਾਂ ਪੈਰ ਜਾਂ ਸਰੀਰ ਲਿੱਬੜ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰੀਐ = ਜੇ ਭਰ ਜਾਏ, ਜੇ ਗੰਦਾ ਹੋ ਜਾਏ, ਜੇ ਮੈਲਾ ਹੋ ਜਾਏ। ਤਨੁ = ਸਰੀਰ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

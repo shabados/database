@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੀੜੀ ਤੋਂ ਲੈ ਕੇ ਹਾਥੀ ਤੇ ਮਨੁੱਖ ਤਕ) ਤੁਰਨ ਵਾਲੇ ਨਾਲ ਤੁਰਨ ਵਾਲਾ ਸਾਥ ਕਰਦਾ ਹੈ ਤੇ ਉੱਡਣ ਵਾਲੇ (ਭਾਵ, ਪੰਛੀ) ਨਾਲ ਉੱਡਣ ਵਾਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਡਤਾ = ਉੱਡਣ ਵਾਲਾ, ਪੰਛੀ। ਮਿਲੈ = ਸਾਥ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਨਾਹ (ਹਿੰਦੂਆਂ ਵਾਂਗ ਵੇਦ-) ਪੂਜਾ ਕਰਦਾ ਹਾਂ, ਨਾਹ (ਮੁਸਲਮਾਨ ਵਾਂਗ) ਨਿਮਾਜ਼ ਪੜ੍ਹਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ ਨ = ਕਰਉਂ ਨ, ਮੈਂ ਨਹੀਂ ਕਰਦਾ। ਨਿਵਾਜ = ਨਿਮਾਜ਼। ਨ ਗੁਜਾਰਉ = ਨ ਗੁਜਾਰਉਂ, ਮੈਂ ਨਹੀਂ ਗੁਜ਼ਾਰਦਾ, ਮੈਂ (ਨਿਮਾਜ਼) ਨਹੀਂ ਪੜ੍ਹਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

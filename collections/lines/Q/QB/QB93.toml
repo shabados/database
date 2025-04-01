@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਦੀ ਉਸ ਦੇ ਸੁੰਦਰ ਕੱਦ ਨੇ ਸਾਡੀਆਣ ਅੱਖਾਣ ਵਿਚ ਥਾਣ ਬਣਾਈ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰਿ ਆਣ ਸਰਵਿ ਰਵਾਣ ਹਰਗਿਜ਼ ਨਿਆਇਦ ਦਰ ਨਜ਼ਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

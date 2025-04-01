@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਤੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ ਚੰਗੇ ਮੰਦੇ ਸਮੇ ਦਾ ਹਾਲਤ ਜਾਣ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਸਰ = ਮੰਦਾ ਸਮਾ। ਸਰ = ਚੰਗਾ ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

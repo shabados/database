@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ (ਵਿਆਪਕ ਹੁੰਦਿਆਂ ਭੀ) ਪ੍ਰਭੂ ਆਪ ਹੀ ਨਿਰਲੇਪ (ਭੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਵਰਤਦਾ = (ਹਰ ਥਾਂ) ਮੌਜੂਦ ਹੈ। ਅਪਾਹੁ = ਅ-ਪਾਹੁ, ਪਾਹ ਤੋਂ ਰਹਿਤ, ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

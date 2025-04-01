@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਪਪੀਹੇ ਦਾ ਚਿੱਤ (ਵਰਖਾ ਦੀ) ਬੂੰਦ ਵਲ (ਪਰਤਿਆ ਰਹਿੰਦਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ। ਓਰ = ਤਰਫ਼, ਪਾਸੇ, ਵਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

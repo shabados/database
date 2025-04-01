@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਸੰਤ-ਸਰਨ) ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਮੇਰੇ ਮਨੋਰਥਾਂ ਨੂੰ ਸਫਲ ਕਰਨ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹੀ = ਇਹ ਹੀ, ਇਹ (ਸੰਤ-ਸਰਨ) ਹੀ। ਹਮਾਰੈ = ਮੇਰੇ ਵਾਸਤੇ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ। ਸਫਲ = ਕਾਮਯਾਬ। ਕਾਜ = ਕੰਮ, ਮਨੋਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

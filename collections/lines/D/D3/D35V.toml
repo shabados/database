@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਮੈਂ ਆਪਣੇ ਦਿਲ ਦੀ ਪੀੜ ਕਿਵੇਂ ਬਿਆਨ ਕਰਾਂ? (ਬਿਆਨ ਕਰ ਨਹੀਂ ਸਕਦੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਬੇਦਨਾਈ = ਦਿਲ ਦੀ ਪੀੜ। ਮੋਹਿ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

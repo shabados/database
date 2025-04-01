@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ, ਮੇਰੇ ਚੰਨਾ # ਅੱਜ ਰਾਤ ਮੁਖ ਦਿਖਾ ਦੇਵੇਣ, ਤਾਣ ਭਲਾ ਕੀ ਹਰਜ ਹੋਵੇਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਇਮਸ਼ਬ ਮਹਿ ਮਨ ਅਗਰ ਬਿਆਈ ਚਿ ਸ਼ਵਦ ।੨੫।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

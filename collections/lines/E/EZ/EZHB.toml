@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਣਾਂ ਤੋਂ ਸੱਖਣੇ ਜੀਵਾਂ ਨੂੰ ਸਤਿਗੁਰੂ ਦੀ ਸੇਵਾ ਵਿਚ ਲਾ ਕੇ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਬਖ਼ਸ਼ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਗੁਣਿਆ ਨੋ = ਗੁਣ-ਹੀਨ ਮਨੁੱਖਾਂ ਨੂੰ। ਆਪੇ = ਆਪ ਹੀ। ਭਾਈ = ਹੇ ਭਾਈ! ਲਾਇ = ਲਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

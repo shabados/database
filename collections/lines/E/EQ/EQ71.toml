@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹੈ, ਉਹ ਕਿਤੇ ਭੀ ਨਹੀਂ ਡਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਕਿੱਥੇ? ਜਿ = ਜੇਹੜਾ। ਸਮ੍ਹ੍ਹਾਰੈ = ਹਿਰਦੈ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

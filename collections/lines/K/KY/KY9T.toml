@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੁਰੂ ਨਾਨਕ ਦੇ ਚਰਨਾਂ ਤੋਂ ਆਪਣੀ ਜਾਨ ਵਾਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਪੇਸ਼ਿ ਕਦਮਹਾਇ ਊ ਜਾਂ-ਸਿਪਾਰ ।੧੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਹਲਾਦ ਪੱਟੀ ਲੈ ਕੇ ਪਾਂਧੇ ਕੋਲ ਪਹੁੰਚਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੈ = ਲੈ ਕੇ। ਪਾਟੀ = ਪੱਟੀ। ਕੈ = ਦੇ ਪਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

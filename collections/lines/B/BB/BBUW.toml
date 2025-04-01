@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ (ਹੀ) ਭਗਤਾਂ ਨੇ (ਜਗਤ ਵਿਚ) ਨਾਮਣਾ ਪਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ = (ਭਗਤ) ਜਨਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

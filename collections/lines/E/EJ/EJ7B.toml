@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਜਿਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ ਉਸ ਨੂੰ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਹ ਜਨ ਕਉ = ਉਸ ਮਨੁੱਖ ਨੂੰ। ਜਾਨਹੁ = ਸਮਝੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

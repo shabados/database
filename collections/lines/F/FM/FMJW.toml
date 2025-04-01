@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ (ਕਿਸੇ ਉੱਤੇ) ਬਖ਼ਸ਼ਸ਼ (ਕਰਦਾ ਹੈ, ਕਿਸੇ ਨੂੰ) ਸਜ਼ਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਰਜ਼ਾ ਵਿਚ। ਬਖਸ = ਬਖ਼ਸ਼ਸ਼। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਰੱਬ ਦੇ ਉੱਚੇ ਧਿਆਨ ਤੋਂ ਬੇਪਰਵਾਹ ਰਿਹਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਤੂ ਗ਼ਾਫ਼ਿਲ-ਬਾਸ਼ੀ ਅਜ਼ ਫ਼ਿਕਰਿ ਬੁਲੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

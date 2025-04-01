@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਦਿਨੇ ਰਾਤ ਮੂੰਹੋਂ (ਦੂਜਿਆਂ ਦੀ) ਨਿੰਦਾ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

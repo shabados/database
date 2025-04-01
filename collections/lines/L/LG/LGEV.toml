@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਮੈਂ ਕੁਰਾਹੇ ਪਏ ਹੋਏ ਨੇ ਆਪਣੀ ਅਕਲ ਗੁਆ ਲਈ ਹੈ (ਤਾਂ ਲੋਕਾਂ ਨੂੰ ਭਲਾ ਕਿਉਂ ਮੇਰਾ ਇਤਨਾ ਫ਼ਿਕਰ ਹੈ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ = ਅਕਲ। ਖੋਈ = ਗੁਆ ਲਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

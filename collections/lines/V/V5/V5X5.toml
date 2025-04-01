@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਮਾਣੇ ਤੇ ਗਰੀਬ (ਇਕ ਤੇਰੀ ਹੀ ਸਹਾਇਤਾ ਦੀ) ਆਸ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਾਥ = ਨਿਮਾਣੇ। ਦੀਨ = ਗ਼ਰੀਬ। ਆਸਵੰਤ = (ਤੇਰੇ ਸਹਾਰੇ ਦੀ) ਆਸ ਰੱਖਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

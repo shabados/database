@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਨੂੰ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮੇਰਾ ਮਾਇਆ ਦੇ ਅੰਨ੍ਹੇ ਖੂਹ ਵਾਲਾ ਹਨੇਰਾ ਦੂਰ ਹੋ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧੇਰਾ = ਮਾਇਆ ਦੇ ਅੰਨ੍ਹੇ ਖੂਹ ਦਾ ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

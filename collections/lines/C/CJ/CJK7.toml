@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਵੱਸ ਵਿਚ ਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ ਨਾਲ। ਵਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

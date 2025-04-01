@@ -5,6 +5,13 @@ language = "pa"
 data = "ਕਿਉਂ ਜੋ ਮੇਰੇ ਬਿਨਾਂ ਇਸ ਜਹਾਨ ਦੀ ਜੌਂ ਭਰ ਵੀ ਕੀਮਤ ਨਹੀਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਜਹਾਂ ਗ਼ੈਰਿ ਮਨ ਨਿਯਰਜ਼ਦ ਜੌ ।੩੦।"
+page = 1
+line = 30
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਸੰਤਾਂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨੁ = ਮਨੁੱਖ। ਪਰੈ = ਪੈਂਦਾ ਹੈ। ਉਧਰਨਹਾਰੁ = (ਮਾਇਆ ਦੇ ਹੱਲੇ ਤੋਂ) ਬਚਣ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

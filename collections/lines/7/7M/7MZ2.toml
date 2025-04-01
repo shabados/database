@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖਾ) ਸਰੀਰ ਇਕ ਸੁੰਦਰ ਕਿਲ੍ਹਾ ਹੈ, ਜਿਸ ਵਿਚ (ਮਾਨੋ, ਸੁੰਦਰ) ਬਾਜ਼ਾਰ ਭੀ ਹਨ, (ਭਾਵ, ਗਿਆਨ-ਇੰਦਰੇ ਹੱਟੀਆਂ ਦੀਆਂ ਕਤਾਰਾਂ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟੁ = ਕਿਲ੍ਹਾ। ਹਟਨਾਲੇ = ਬਾਜ਼ਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

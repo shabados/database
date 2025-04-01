@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਇਸ ਦਾ ਨਾਮ ਜ਼ਿੰਦਗੀ ਨਾਮਾ ਹੋ ਗਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਨਾਮਾ ਸ਼ੁਦਾ ਜ਼ਾਂ ਨਾਮਿ ਊ ।੪੯੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

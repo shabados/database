@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਪਰਮਾਤਮਾ (ਸਭ ਜੀਵਾਂ ਦੇ) ਅੰਦਰ ਬੈਠਾ (ਹਰੇਕ ਦੀ) ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = (ਜੀਵਾਂ ਦੇ) ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

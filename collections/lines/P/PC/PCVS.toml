@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਅਸਲ ਸੁਖ ਦੇਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟਹਲ ਹਰਿ = ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ। ਸਾਰ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

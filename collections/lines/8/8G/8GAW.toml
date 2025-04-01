@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਫਿਰ ਦਿਲ ਦਾ ਘਰ ਉਸ ਦਾ ਟਿਕਾਣਾ ਅਤੇ ਪਨਾਹ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਨਾਇ ਦਿਲ ਮੰਜ਼ਲੋ ਮਾਵਾਇ ਊਸਤ ।੮੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

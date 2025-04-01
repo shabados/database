@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਇਸ ਜੀਵਨ ਦਾ ਸੱਚਾ ਫਲ ਪਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਿਲਿ ਈਂ ਉਮਰ ਰਾ ਹਾਸਿਲ ਬਵਦ ।੪੯੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

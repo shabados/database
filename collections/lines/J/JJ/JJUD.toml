@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਆਪਣੇ ਅਸਲ ਘਰ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਥਾਂ ਮਿਲ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਘਰਿ = ਆਪਣੇ (ਅਸਲ) ਘਰ ਵਿਚ। ਤਿਸਹਿ = ਉਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

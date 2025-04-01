@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਾਜੀ, ਜਿਹੜੇ ਜਨਮ ਮਰਨ ਤੋਣ ਰਹਿਤ ਹੋ ਗਏ ਹੋਣ, ਫਿਰਕੇ ਨੂੰ ਤੂੰ ਬਿਨਾਣ ਸ਼ੱਕ ਦੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਿਰਕਾਇ ਨਾਜੀ ਬਿਦਾਣ ਬੇ-ਇਸ਼ਤਬਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

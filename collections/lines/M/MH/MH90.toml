@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਭਾਵੇਣ ਸਿਰ ਤੋਣ ਪੈਰਾਣ ਤਕ ਦੁਨਿਆਵੀ ਭੇਸ ਵਿਚ ਦਿਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਲਿਬਾਸਿ ਦੁਨਯਵੀ ਸਰ ਤਾ ਕਦਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

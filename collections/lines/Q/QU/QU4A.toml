@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਬੈਠਣ ਲਈ ਥਾਂ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਬੈਸਣ ਕਉ = ਬੈਠਣ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

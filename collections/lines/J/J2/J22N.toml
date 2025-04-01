@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਕੁਮੰਦ ਨੇ ਜਾਨਵਰਾਂ ਅਤੇ ਦਰਿੰਦਿਆਂ ਨੂੰ ਆਪਣੇ ਫੰਦੇ ਵਿਚ ਫਸਾ ਲਿਆ ਹੈੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਮੰਦਸ਼ ਦਦੋ ਦਾਮ ਦਰ ਬੰਦ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

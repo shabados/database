@@ -42,6 +42,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਹੀ ਖ਼ੂਨੀ ਮਨੁੱਖ ਲੋਕਾਂ ਦੇ ਗਲ ਵੱਢ ਰਹੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਵਢ = ਗਲ ਵੱਢਣ ਵਾਲੇ, ਕਾਤਲ, ਖ਼ੂਨੀ ਮਨੁੱਖ। ਹਤਿਆ ਕਮਾਹਿ = ਦੂਜਿਆਂ ਦੇ ਗਲ ਵੱਢਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

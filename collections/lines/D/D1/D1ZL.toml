@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਭੀ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਆਪਣਾ ਦਰਸਨ ਦਿੱਤਾ ਹੈ, ਸਾਧ ਸੰਗਤਿ ਦੇ ਆਸਰੇ ਰੱਖ ਕੇ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੋ = ਨੂੰ। ਤੁਮਹਿ = ਤੂੰ ਹੀ। ਕੈ ਪਾਛੈ = ਦੇ ਆਸਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

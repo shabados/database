@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਆਪਣੇ ਜਤਨਾਂ ਨਾਲ) ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਰਤਾ ਭਰ ਭੀ ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕੁ ਤਿਲੁ = ਰਤਾ ਭਰ ਭੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

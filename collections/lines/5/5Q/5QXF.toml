@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਮੈਂ ਆਪਣੇ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਣ ਲੱਗ ਪਵਾਂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਜਿਉ = ਜਿਵੇਂ ਹੋ ਸਕੇ। ਪ੍ਰਭ ਭਾਵਉ = ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗ ਪਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਰੀਰ ਹਵਾ ਪਾਣੀ (ਆਦਿਕ ਤੱਤਾਂ) ਦਾ ਬਣਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਉਣ = ਹਵਾ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

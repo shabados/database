@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਘੁੰਘਰੂ ਬੰਨ੍ਹ ਕੇ (ਦੇਵਤਿਆਂ ਅੱਗੇ) ਨਾਚ ਸ਼ੁਰੂ ਕੀਤੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੂਘਰ ਨਿਰਤਿ = ਘੁੰਘਰੂ ਪਾ ਕੇ ਨਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

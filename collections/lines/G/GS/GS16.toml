@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੈੜੇ ਕੰਮ ਕਰਕੇ ਅੰਤ ਪਛਤਾਉਣਾ ਹੀ ਪੈਂਦਾ ਹੈ ॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "xxx ॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

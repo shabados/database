@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੋਈ ਚਤੁਰਾਈ ਦੀਆਂ ਗੱਲਾਂ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਉ ਨ = ਮੈਂ ਕਥਦਾ ਨਹੀਂ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

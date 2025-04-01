@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ (ਪਰਮਾਤਮਾ ਪਾਸੋਂ) ਬਹਿਸ਼ਤ ਮੰਗਦਾ ਹੈ, ਕੋਈ ਸੁਰਗ ਮੰਗਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਛੈ = ਮੰਗਦਾ ਹੈ, ਚਾਹੁੰਦਾ ਹੈ। ਭਿਸਤੁ = ਬਹਿਸ਼ਤ। ਸੁਰਗਿੰਦੂ = ਸੁਰਗ-ਇੰਦੂ, ਇੰਦਰ ਦੇਵਤੇ ਦਾ ਸੁਰਗ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

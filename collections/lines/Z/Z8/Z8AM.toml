@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਥੋਂ ਦੇ) ਹਾਕਮਾਂ ਨੇ ਐਸ਼ ਵਿਚ, ਤਮਾਸ਼ਿਆਂ ਦੇ ਚਾਅ ਵਿਚ ਆਪਣਾ ਫ਼ਰਜ਼ ਭੁਲਾ ਦਿੱਤਾ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਾਂ = ਸ਼ਾਹਾਂ ਨੇ, ਹਾਕਮਾਂ ਨੇ। ਰੰਗਿ = ਰੰਗ ਵਿਚ। ਚਾਇ = ਚਾਉ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

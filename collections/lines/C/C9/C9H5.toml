@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਠਾਕੁਰ-ਪ੍ਰਭੂ ਨੇ ਜਿਸ ਨੂੰ ਆਪਣੇ ਸੇਵਕ ਨਾਮ ਦੀ ਦਾਤਿ ਬਖ਼ਸ਼ੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰਿ = ਠਾਕੁਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

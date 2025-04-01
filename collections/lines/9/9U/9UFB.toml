@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੈਂ ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ ਵਲ) ਆਉਂਦਾ ਸੁਣਿਆ, ਤਾਂ ਮੇਰੇ ਮਨ ਵਿਚ ਆਨੰਦ ਪੈਦਾ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਆਵਤ = ਆਉਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਛੋਟੇ ਵੱਡੇ ਸਾਰੇ ਹੀ ਸੱਚ ਦੇ ਉਪਾਸ਼ਕ ਬਣ ਗਏ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਖ਼ੁਰਦੋ ਬਜ਼ੁਰਗ ਆਮਦਾ ਰਾਸਤ-ਬਾਜ਼ ।੭੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

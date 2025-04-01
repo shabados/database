@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਹਰਿ-ਨਾਮ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸਾਂਭ ਕੇ ਰੱਖਦਾ ਹੈ ਤੇ ਮੂੰਹ ਨਾਲ ਹਰਿ-ਹਰਿ ਨਾਮ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮ੍ਹ੍ਹਾਲੇ = ਸਾਂਭ ਕੇ ਰੱਖਦਾ ਹੈ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

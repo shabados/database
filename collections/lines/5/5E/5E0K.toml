@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਚੋਜ-ਤਮਾਸ਼ੇ ਵੇਖਦਿਆਂ ਹੀ (ਕੁਰਾਹੇ ਪਏ ਮਨੁੱਖ ਦੀ ਉਮਰ) ਬੀਤ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇਆ ਰੰਗ = ਮਾਇਆ ਦੇ ਚੋਜ-ਤਮਾਸ਼ੇ। ਬਿਹਾਇ = (ਉਮਰ) ਬੀਤਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

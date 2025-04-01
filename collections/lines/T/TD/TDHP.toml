@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਵੇਂ) ਸੂਰਜ ਦੀ ਕਿਰਣ ਨਾਲ ਮਿਲ ਕੇ (ਬਰਫ਼ ਤੋਂ) ਪਾਣੀ ਦਾ ਪਾਣੀ ਬਣ ਜਾਂਦਾ ਹੈ (ਸੂਰਜ ਦੇ ਨਿੱਘ ਨਾਲ ਬਰਫ਼-ਬਣੇ ਪਾਣੀ ਦੀ ਕਠੋਰਤਾ ਖ਼ਤਮ ਹੋ ਜਾਂਦੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲੇ = ਮਿਲਿ, ਮਿਲ ਕੇ। ਸੂਰਜ ਕਿਰਣਿ ਮਿਲੇ = ਸੂਰਜ ਦੀ ਕਿਰਣ ਨਾਲ ਮਿਲ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

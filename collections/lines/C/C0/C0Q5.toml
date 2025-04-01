@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਉਸੇ ਬੰਦਗੀ ਦੀ ਬਦੌਲਤ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਹਮਾ ਅਜ਼ ਦੌਲਤਿ ਈਂ ਬੰਦਗੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

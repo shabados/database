@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿਸ ਕਰਤਾਰ ਨੇ ਇਹ ਮਰਯਾਦਾ ਬਣਾਈ ਹੈ ਇਸ ਦੀ ਕਦਰ ਉਹ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਕਰਤਾਰ) ਨੇ। ਕੀਤੀ = ਇਹ (ਕਰਣੀ ਵਾਲੀ ਮਰਯਾਦਾ) ਬਣਾਈ ਹੈ। ਤਿਨਿ = ਉਸ (ਕਰਤਾਰ) ਨੇ। ਕੀਮਤਿ ਪਾਈ = (ਇਹ ਮਰਯਾਦਾ ਦੀ) ਕਦਰ ਜਾਣੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

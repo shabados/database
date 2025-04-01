@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਗੁਰੂ ਦੀ ਹਾਮੀ ਦੀ ਰਾਹੀਂ ਹੀ ਮਿਲਾਇਆ ਹੈ ॥੪॥੧੬॥੮੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਸਾਹਿ = ਇਤਬਾਰ ਨਾਲ, ਹਾਮੀ ਨਾਲ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

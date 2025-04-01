@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਤੀ ਦੀ ਉਡੀਕ ਵਿਚ ਉਹ) ਹਰ ਵੇਲੇ ਉਦਾਸ ਉਦਾਸ ਰਹਿੰਦੀ ਹੈ, (ਤੇ ਸਹੇਲੀ ਪਾਸੋਂ ਪੁੱਛਦੀ ਹੈ-)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਡੀਨੀ = ਉਦਾਸ, (ਉਡੀਕ ਵਿਚ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

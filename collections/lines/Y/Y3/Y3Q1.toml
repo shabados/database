@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਦਾ ਟਿਕਾਣਾ ਭਗਤਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਹੈ।ਰਹਾਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਭਗਤ ਜਨਾ ਕੈ ਮਨਿ = ਭਗਤ ਜਨਾਂ ਦੇ ਮਨ ਵਿਚ। ਬਿਸ੍ਰਾਮ = ਟਿਕਾਣਾ।ਰਹਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰੋ ਕਿਸੇ ਹੋਰ (ਦੇਵੀ ਦੇਵਤੇ ਆਦਿਕ) ਦੀ ਸੇਵਾ-ਪੂਜਾ ਨਾਹ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਾਹੇ ਧਰਤੀ ਵਿਚ ਰਹਾਂ, ਚਾਹੇ ਆਕਾਸ਼ ਵਿਚ ਪੁੱਠਾ ਸਿਰ ਭਾਰ ਖਲੋਤਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਧਿ = ਉੱਚਾ, ਉਲਟਾ, ਪੁੱਠਾ। ਸਿਰਿ ਭਾਰਿ = ਸਿਰ ਦੇ ਭਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

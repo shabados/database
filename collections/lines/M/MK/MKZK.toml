@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਅਪਹੁੰਚ ਅਤੇ ਬੇਅੰਤ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਪਾਰਾ = ਪਾਰ-ਰਹਿਤ, ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

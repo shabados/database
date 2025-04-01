@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਕ੍ਰੋੜਾਂ ਅਸੰਖਾਂ ਹੋਰ ਹੋਰ (ਦੇਵਤਿਆਂ ਦੀ) ਪੂਜਾ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ ਪੂਜਾ = ਹੋਰ ਹੋਰ (ਦੇਵਤਿਆਂ ਦੀ) ਪੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

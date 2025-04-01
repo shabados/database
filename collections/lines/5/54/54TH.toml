@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇ ਕੱਲ ਦੀ ਹੀ ਗੱਲ ਹੈ ਕਿ ਸੈਦਪੁਰ ਵਿਚ ਰੌਣਕ ਹੀ ਰੌਣਕ ਸੀ, ਪਰ ਹੁਣ) ਕਿੱਥੇ ਹਨ (ਫ਼ੌਜੀਆਂ ਦੇ) ਖੇਡ ਤਮਾਸ਼ੇ? ਕਿੱਥੇ ਹਨ ਘੋੜੇ ਤੇ (ਘੋੜਿਆਂ ਦੇ) ਤਬੇਲੇ? ਕਿੱਥੇ ਗਏ ਨਗਾਰੇ ਤੇ ਤੂਤੀਆਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਲ = ਖੇਡ ਤਮਾਸ਼ੇ। ਭੇਰੀ = ਨਗਾਰੇ। ਸਹਨਾਈ = ਤੂਤੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

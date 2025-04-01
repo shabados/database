@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕੋਈ ਦੇਵਤਾ ਸੀ ਤੇ ਨਾਹ ਦੇਵਤੇ ਦਾ ਮੰਦਰ ਸੀ। ਤਦੋਂ ਨਾਹ ਕੋਈ ਗਊ ਸੀ, ਨਾਹ ਕਿਤੇ ਗਾਇਤ੍ਰੀ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਉ = ਦੇਵਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਦੀ ਤਾਣ ਉਹ ਸੂਫੀ ਬਣ ਜਾਣਦਾ ਹੈ, ਕਦੀ ਭਜਨ ਬੰਦਗੀ ਵਾਲਾ ਅਤੇ ਕਦੀ ਮਸਤ ਕਲੰਦਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਾਹੇ ਸੂਫੀ ਗਾਹੇ ਜ਼ਾਹਿਦ ਗਹਿ ਕਲੰਦਰ ਮੀ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

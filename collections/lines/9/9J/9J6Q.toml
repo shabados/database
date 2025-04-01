@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਰੀਬਾਂ ਦੇ ਸਹਾਈ! ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਸਦਾ ਹੀ ਕਿਰਪਾਲ! ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਬਾਂਧਵ = ਗਰੀਬਾਂ ਦਾ ਸਹਾਈ। ਭਗਤਿ ਵਛਲ = ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

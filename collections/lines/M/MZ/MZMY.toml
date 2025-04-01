@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਆਖਦਾ ਹੈ (ਪਰਮਾਤਮਾ ਅਸਾਡੇ) ਨੇੜੇ (ਵੱਸਦਾ ਹੈ), ਕੋਈ ਆਖਦਾ ਹੈ (ਪ੍ਰਭੂ ਅਸਾਥੋਂ ਕਿਤੇ) ਦੂਰ (ਥਾਂ ਤੇ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲੈ = ਆਖਦਾ ਹੈ। ਨਿਰਵਾ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

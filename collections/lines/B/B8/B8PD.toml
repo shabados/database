@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਹਨਾਂ ਬੰਦਿਆਂ ਦਾ ਸਾਥ ਛੱਡ ਦੇਹ, ਜੋ ਪਰਮਾਤਮਾ ਵਲੋਂ ਬੇ-ਮੁਖ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕੋ = ਦਾ। ਸੰਗੁ = ਸਾਥ। ਹਰਿ ਬਿਮੁਖਨ ਕੋ ਸੰਗੁ = ਉਹਨਾਂ ਦਾ ਸਾਥ ਜੋ ਪਰਮਾਤਮਾ ਵਲੋਂ ਬੇਮੁਖ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਾ-ਭਾਵ ਛੱਡ ਕੇ ਉਹ ਸਦਾ ਅਰਦਾਸਾਂ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ-ਹੇ ਪ੍ਰਭੂ! ਸਾਨੂੰ ਆਪਣੇ ਲੜ ਲਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਲੜਿ = ਲੜ ਵਿਚ, ਪੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਸਭਨਾਂ ਦੇ ਪੈਰਾਂ ਦੀ ਧੂੜ ਬਣੇ ਰਹਿੰਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰ। ਛਾਰੁ = ਸੁਆਹ, ਧੂੜ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

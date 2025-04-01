@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਮੁਸ਼ਕਿਲ ਦਾ ਹੱਲ ਬੱਸ ਰੱਬ ਦੀ ਯਾਦ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਲਿ ਹਰ ਮੁਸ਼ਕਿਲ ਹਮੀਣ ਯਾਦਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

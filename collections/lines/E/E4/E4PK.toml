@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਦਾ ਮੁਰੀਦ (ਜੀਵ ਉਸ) ਖੋਟੀ ਚੰਦਰੇ ਲੱਛਣਾਂ ਵਾਲੀ ਤੇ ਮੈਲੀ ਇਸਤ੍ਰੀ (ਵਾਂਗ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਣੀ = ਜ਼ਨਾਨੀ। ਕੁਨਾਰਿ = ਭੈੜੀ ਨਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

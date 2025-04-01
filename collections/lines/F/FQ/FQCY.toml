@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਹੀ ਜੱਖ ਕਿੰਨਰ ਤੇ ਪਿਸ਼ਾਚ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਖ੍ਯ੍ਯ = {Skt. यक्ष} ਇਕ ਕਿਸਮ ਦੇ ਦੇਵਤੇ ਜੋ ਧਨ-ਦੇਵਤੇ ਦੇ ਅਧੀਨ ਹਨ। ਕਿੰਨਰ = {Skt. किन्नर} ਦੇਵਤਿਆਂ ਦੀ ਇਕ ਕਿਸਮ, ਜਿਨ੍ਹਾਂ ਦਾ ਧੜ ਮਨੁੱਖ ਦਾ ਤੇ ਸਿਰ ਘੋੜੇ ਦਾ ਹੈ। ਪਿਸਾਚ = {Skt. पिशाच} ਨੀਵੀਆਂ ਜਾਤਾਂ ਦੇ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

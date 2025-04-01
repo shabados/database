@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ ਕੰਗਾਲ ਨਹੀਂ ਹੈ, ਅਸੀਂ ਭੀ ਆਪਣੇ ਆਪ ਨੂੰ ਭੁੱਖੇ-ਗਰੀਬ ਨਾਹ ਸਮਝੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਧਨੁ = ਕੰਗਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

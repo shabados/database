@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਦਰਸਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਸਦਾ ਨਿਹਾਲ ਹੋ ਜਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ ਦਰਸਨਿ = ਉਸ ਦੇ ਦਰਸਨ ਨਾਲ। ਨਿਹਾਲ = ਪ੍ਰਸੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

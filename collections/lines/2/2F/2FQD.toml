@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਮੈਂ ਲੋਕਾਚਾਰੀ ਰਸਮਾਂ ਛੱਡੀਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਗਾ ਰੀਤਿ = ਲੋਕ ਲਾਜ, ਜਗਤ-ਚਾਲ, ਲੋਕਾਚਾਰੀ ਰਸਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਵੱਡਾ ਵਿਕਾਰੀ ਹਾਂ, ਮੂਰਖ ਹਾਂ, ਲਾਲਚੀ ਭੀ ਹਾਂ, ਪਾਪ ਕਰਦਾ ਕਰਦਾ ਹੁਣ ਮੈਂ ਥੱਕ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਤ = ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗਾ ਹੋਇਆ, ਪਾਪੀ। ਮੁਗਧ = ਮੂਰਖ। ਫੁਨਿ = ਅਤੇ {पुन: }, ਫਿਰ, ਭੀ। ਹਾਰਾ = ਥੱਕ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਤਨ ਵਿਚ ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ। ਸੋਈ = ਉਹ (ਪਰਮਾਤਮਾ) ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

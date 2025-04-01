@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ (ਜੀਵ ਦਾ) ਦੁਰਲੱਭ ਮਨੁੱਖਾ ਸਰੀਰ ਬਣਾ ਕੇ ਮਿੱਟੀ ਤੋਂ ਇਸ ਨੂੰ ਪੈਦਾ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਸਾਜਿਆ = ਬਣਾਇਆ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਦਲੇਰ, ਤਾਕਤਵਰ ਅਤੇ ਜੰਗ ਵਿਚ ਵਿਜੇਈ ਜੋਧਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਲੇੋਰੋ ਤਨੋਮੰਦੋ ਫ਼ੀਰੋਜ਼ ਜੰਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

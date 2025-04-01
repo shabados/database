@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਸਿਰਫ਼ ਤੇਰੀ (ਸਹਾਇਤਾ ਦੀ ਹੀ) ਆਸ ਹੈ (ਕਿ ਉਹ ਬਚਾ ਲਏ) ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਤੋਰੀ = ਤੇਰੀ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

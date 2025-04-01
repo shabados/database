@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਭਟਕਦੇ ਮਨ!) ਇਹ ਜਗਤ ਇਉਂ ਹੀ ਹੈ ਜਿਵੇਂ ਰਾਤ ਨੂੰ (ਸੁੱਤੇ ਪਿਆਂ ਆਇਆ ਹੋਇਆ) ਸੁਪਨਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਨਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

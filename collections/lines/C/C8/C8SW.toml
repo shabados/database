@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ, ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਬਲਿਹਾਰੈ = ਕੁਰਬਾਨ। ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ। ਵਸਾਏ = ਵਸਾਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

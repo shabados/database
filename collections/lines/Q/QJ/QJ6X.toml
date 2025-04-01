@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਮਨ ਵਿਚ (ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ) ਬਾਣੀ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ ਉਹਨਾਂ ਦਾ ਜੀਵਨ ਸੋਹਣਾ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਭਾਵੈ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ। ਸੁਹਾਇਆ = ਸੋਹਣਾ ਹੋ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

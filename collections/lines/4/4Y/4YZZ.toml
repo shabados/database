@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੋ ਕੇ ਭੀ ਮੌਤ-ਰਹਿਤ ਹੈਂ, ਤੇਰੇ ਸਿਰ ਉਤੇ ਮੌਤ ਸਵਾਰ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

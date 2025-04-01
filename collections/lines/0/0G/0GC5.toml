@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਦੇ ਗੇੜ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੇਰਿ = ਗੇੜ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

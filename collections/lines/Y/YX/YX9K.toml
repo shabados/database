@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਤੋਂ ਖੁੰਝ ਕੇ ਪੰਡਿਤ ਲੋਕ) ਵੇਦ ਪੁਰਾਣ ਆਦਿਕ (ਧਰਮ-) ਪੁਸਤਕਾਂ ਪੜ੍ਹਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਚਹਿ = ਪੜ੍ਹਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

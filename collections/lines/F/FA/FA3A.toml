@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਗੰਭੀਰ ਹੈਂ, ਤੇਰੀ ਹਾਥ ਨਹੀਂ ਪੈ ਸਕਦੀ, ਤੂੰ ਬੇਅੰਤ ਹੈਂ, ਤੇਰੇ ਗੁਣ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਣਤੁ = ਜਿਸ ਦੇ ਗੁਣ ਗਿਣੇ ਨ ਜਾ ਸਕਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

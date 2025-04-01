@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਕੋਈ ਉਹ ਵੱਡੀ ਦਾਤਿ ਦੇਹ, ਜਿਸ ਦਾ ਸਦਕਾ ਮੈਂ ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

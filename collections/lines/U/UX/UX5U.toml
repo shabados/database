@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਰਹਿਣ ਕਰਕੇ (ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕਾਂ ਨੂੰ) ਕੋਈ ਡਰ ਨਹੀਂ ਪੋਹ ਸਕਦਾ ਕੋਈ ਭਟਕਣਾ ਨਹੀਂ ਪੋਹ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਸਾਧ ਸੰਗਤਿ ਵਿਚ। ਭਰਾਤੀ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

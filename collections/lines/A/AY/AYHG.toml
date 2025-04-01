@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਉਹ ਬਿਨਾਂ ਮੇਰੇ ਦਰਵਾਜ਼ੇ ਦੇ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਹੀਂ ਜਾਂਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਜ਼ ਦਰਿ ਮਨ ਬਜਾਨਬੇ ਨ-ਰਵੰਦ ।੩੯।"
+page = 1
+line = 39
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

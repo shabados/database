@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਥੇ) ਕਈ ਆਪਣੇ ਆਪ ਨੂੰ ਰਾਜੇ ਖ਼ਾਨ ਤੇ ਮਲਕ ਆਖਦੇ ਹਨ ਤੇ ਅਖਵਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = (ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ) ਕਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

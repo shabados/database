@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਿਸੇ ਦੀ ਭੀ ਨਿੰਦਾ ਕਰਨੀ ਚੰਗਾ ਕੰਮ ਨਹੀਂ ਹੈ। ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮੂਰਖ ਮਨੁੱਖ ਹੀ ਨਿੰਦਾ ਕਰਿਆ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

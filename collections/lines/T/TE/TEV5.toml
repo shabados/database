@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੈਰੀ ਉਸ ਦੇ ਮਾਰੂ ਬਣ ਜਾਣ, ਉਸ ਦੇ ਸਾਕ-ਸਨਬੰਧੀ ਉਸ ਤੋਂ ਪਰੇ ਦੌੜ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਗੂ = ਮਾਰੂ। ਭਜਿ ਖਲੇ = ਦੌੜ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

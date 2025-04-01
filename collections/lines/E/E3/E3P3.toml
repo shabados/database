@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਗਉੜੀ-ਗੁਆਰੇਰੀ ਵਿੱਚ ਗੁਰੂ ਭਗਾ ਕਬੀਰ ਜੀ ਦੀ ਅੱਠ-ਪਦਿਆਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਟਪਦੀ = {ਅਸਟ = ਅੱਠ। ਪਦ = ਬੰਦ, Stanza} ਅੱਠ ਬੰਦਾਂ ਵਾਲਾ ਸ਼ਬਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

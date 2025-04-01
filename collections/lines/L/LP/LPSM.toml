@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਰਾਤ ਆ ਪੈਂਦੀ ਹੈ ਤਦੋਂ ਤਾਂ ਉਹ ਮੁੱਕਣ ਵਿਚ ਨਹੀਂ ਆਉਂਦੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਅੰਤੁ = (ਰਾਤ ਦਾ) ਅਖ਼ੀਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

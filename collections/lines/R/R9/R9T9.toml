@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਪ੍ਰਾਪਤ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਤੁ = ਨਾਮ-ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

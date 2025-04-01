@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਹ ਚੰਗਾ ਆਚਰਨ ਹੈ, ਨਾਹ ਜੁਗਤਿ ਵਾਲਾ ਜੀਵਨ ਹੈ, ਸਦਾ ਝੂਠ ਬੋਲਦੀ ਹੈ, ਆਪ-ਹੁਦਰੇ ਕੰਮਾਂ ਕਰਕੇ ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਲੁ = ਚੰਗਾ ਆਚਰਨ। ਸੰਜਮੁ = ਬੰਦਸ਼ ਵਿਚ ਤੁਰਨਾ, ਜੁਗਤਿ ਵਾਲਾ ਜੀਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

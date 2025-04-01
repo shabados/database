@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪਣੇ ਸੰਤਾਂ ਦੀ (ਉਹਨਾਂ ਦੇ) ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਰਾਖੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਪ੍ਰਤਿਪਾਲਿ = ਪ੍ਰਤਿਪਾਲੈ, ਰਾਖੀ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ-ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਉਸ ਦੇ ਹਿਰਦੇ ਦਾ ਕੌਲ-ਫੁੱਲ ਖਿੜ ਪਿਆ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ-ਸੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਕਮਲ = ਹਿਰਦੇ ਦਾ ਕੌਲ-ਫੁੱਲ। ਬਿਗਸਾਇਆ = ਖਿੜ ਪਿਆ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

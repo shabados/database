@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਉਹ ਮਨੁੱਖ ਆਪਣਾ ਜੀਵਨ ਵਿਅਰਥ ਗਵਾਂਦਾ ਹੈ, ਦੁਖੀ ਹੁੰਦਾ ਹੈ ਤੇ ਹੱਥ ਮਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਤ ਜਾਤ = ਆਉਂਦਿਆਂ ਜਾਂਦਿਆਂ, ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

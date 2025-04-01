@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਂ ਪਿਉ, ਇਸਤ੍ਰੀ, ਪੁੱਤਰ, ਰਿਸ਼ਤੇਦਾਰ, ਪਿਆਰੇ ਮਿੱਤਰ ਅਤੇ ਭਰਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਸੁਤ = ਪੁੱਤਰ। ਬੰਧਪ = ਰਿਸ਼ਤੇਦਾਰ। ਇਸਟ = ਪਿਆਰੇ, ਇਸ਼ਟ। ਅਰੁ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

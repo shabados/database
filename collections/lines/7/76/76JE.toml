@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਤੈਨੂੰ ਲੱਭ ਲਿਆ ਉਹ ਅਸਲ ਦੌਲਤਮੰਦ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ = ਤੈਨੂੰ। ਧਨੀ = ਧਨ ਵਾਲੇ, ਦੌਲਤਮੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

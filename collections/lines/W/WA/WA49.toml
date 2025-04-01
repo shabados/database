@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਬਾਨੀ ਆਖਣ ਨਾਲ ਗੱਲਾਂ ਕਰਨ ਨਾਲ ਪਰਮਾਤਮਾ ਮਿਲਦਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਣੈ = ਆਖਣ ਨਾਲ। ਕਥਨਿ = ਆਖਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

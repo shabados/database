@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਉਹਨਾਂ ਦੀ ਗੱਲ ਦਾ ਇਤਬਾਰ ਨਹੀਂ ਕਰਦਾ (ਇਸ ਕਰਕੇ) ਉਹ ਸਦਾ ਚਿੰਤਾ ਫ਼ਿਕਰ ਵਿਚ ਹੀ ਖਪਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉਲਿ = ਹਉਲ ਵਿਚ, ਧੁੜਕੂ ਵਿਚ। ਹਉਲੇ = ਹਉਲ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

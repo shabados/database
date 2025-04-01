@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਲਈ ਕੋਈ ਸ਼ਾਣਤ-ਥਾਣ ਜਾਣ ਕਿਸੇ ਹਵੇਲੀ ਦੀ ਸੁੰਦਰ ਨੁੱਕਰ ਕੀ ਕਰ ਸਕਦੀ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਕਾਮਿ ਅਮਨੋ ਖ਼ੁਸ਼ ਗੋਸ਼ਾ ਯਾਰ ਸਰਾ ਚਿ ਕੁਨਦ ।੨੦।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

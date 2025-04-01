@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਟਾਂ ਦਾ ਜੂੜਾ ਕਰ ਲਿਆ, ਪਿੰਡੇ ਤੇ ਸੁਆਹ ਮਲ ਲਈ, ਸਰੀਰ ਉਤੋਂ ਕੱਪੜੇ ਉਤਾਰ ਕੇ ਨੰਗਾ ਰਹਿਣ ਲੱਗ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਟਾ ਮੁਕਟੁ = ਜਟਾਂ ਦਾ ਜੂੜਾ। ਤਨਿ = ਸਰੀਰ ਉਤੇ। ਭਸਮ = ਸੁਆਹ। ਛੋਡਿ = ਛੱਡ ਕੇ। ਨਗਨੁ = ਨੰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ (ਦੇ ਬਿਰਾਜਣ) ਵਾਸਤੇ ਸੇਜ ਬਣਾ ਦਿੱਤਾ ਹੈ, ਆਪਣੀਆਂ ਅੱਖਾਂ ਨੂੰ (ਉਸ ਸੇਜ ਦਾ) ਵਿਛਾਉਣਾ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂ = ਮੈਂ, ਮੇਰਾ ਹਿਰਦਾ। ਥੀਆਊ = ਮੈਂ ਬਣ ਗਿਆ ਹਾਂ। ਪਿਰੀ = ਪ੍ਰਭੂ-ਪਤੀ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

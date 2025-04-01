@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਝੂਠੇ ਲਾਲਚ ਵਿਚ ਫਸ ਕੇ ਮਨੁੱਖ ਆਪਣਾ ਜੀਵਨ ਜ਼ਾਇਆ ਕਰ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਚਿ = ਲਾਲਚ ਦੇ ਕਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

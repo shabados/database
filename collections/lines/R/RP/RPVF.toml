@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਹੁਣ ਮੈਂ ਸੋਹਣਾ ਲਾਲ ਮੋਹਣ ਲੱਭ ਲਿਆ ਹੈ।ਰਹਾਉ ਦੂਜਾ ॥੧॥੧੨੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਾਉ ਦੂਜਾ ॥੧॥੧੨੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

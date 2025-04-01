@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਹੀ ਪ੍ਰਾਣੀ ਪੈਦਾ ਹੋ ਰਹੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਤਾਰ = ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਜੀਵ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

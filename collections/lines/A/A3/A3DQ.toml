@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ ਨਿਖ਼ਸਮਿਆਂ ਦਾ ਖ਼ਸਮ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਥੁ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

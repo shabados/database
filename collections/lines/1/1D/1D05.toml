@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੀ (ਮਨੁੱਖੀ ਜੀਵਨ ਨੂੰ) ਉੱਚਾ ਕਰਨ ਵਾਲੀ ਬਾਣੀ ਨੂੰ ਸਿਮਰ ਸਿਮਰ ਕੇ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਚੀ ਬਾਨੀ = ਉੱਚਾ ਜੀਵਨ ਬਣਾਣ ਵਾਲੀ ਬਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

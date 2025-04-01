@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਧਿਆਨ ਜੋੜ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਾ = ਹੇ ਮਨ! ਚਿਤਾਰੇ = ਚਿਤਾਰਿ, ਚਿਤਾਰ ਕੇ, ਧਿਆਨ ਜੋੜ ਕੇ। ਹ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਤਨਾ ਚਿਰ ਮੋਹ-ਚੋਰ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ ਆਤਮਕ ਆਨੰਦ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਦੁ = ਸੁਆਦ, ਆਨੰਦ, ਸੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

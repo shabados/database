@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਰੂਪ ਅਗੋਚਰ ਵਸਤ ਮਿਲ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਤੁ = ਚੀਜ਼, ਵਸਤ। ਅਗੋਚਰ = ਜਿਸ ਤਾਈਂ ਸਰੀਰਕ ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਨ ਹੋ ਸਕੇ। ਲਹੈ = ਲੱਭ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈ, ਗੁਰੂ ਸਦਾ ਹੀ ਦਇਆਵਾਨ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਰਥ = ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਭਵਨਾਂ ਵਿਚ ਮੌਜੂਦ ਹੈ ਤੇ ਸਭ ਦੀ ਪਾਲਨਾ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਲੋਕ = ਸਾਰੇ ਭਵਨਾਂ ਵਿਚ। ਬਨਿ = ਜੰਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

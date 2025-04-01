@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! (ਹੇ ਦਾਈ!) ਜਿਸ ਦਿਨ ਮੇਰਾ ਨਾੜੂ ਕੱਟਿਆ ਸੀ, ਜੇ ਰਤਾ ਕੁ ਮੇਰਾ ਗਲ ਵੱਢ ਦੇਂਦੀਓਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ ਦਿਨ = ਜਿਸ ਦਿਹਿ। ਨਾਲਾ = ਨਾੜੂ। ਕਪਹਿ = (ਤੂੰ) ਕੱਟ ਦੇਂਦੀਓਂ (ਹੇ ਦਾਈ!) ਚੁਖ = ਰਤਾ ਕੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

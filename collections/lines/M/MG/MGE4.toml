@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰਦਾਰ, ਬਾਦਸ਼ਾਹ, ਰਾਜਾ, ਰਾਉ ਜਾਂ ਖ਼ਾਨ ਅਖਵਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਰ = ਚੌਧਰੀ, ਸਰਦਾਰ। ਮਲੂਕ = ਬਾਦਸ਼ਾਹ। ਰਾਉ = ਰਾਜਾ। ਕਿ = ਜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਜਨੋ! ਸੇਵਾ ਤੇ ਸੰਤੋਖ ਵਿਚ ਜੀਵਨ ਬਿਤਾਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ ਭਾਈ = ਹੇ ਭਾਈ ਜਨੋ! ਸੰਤੋਖਿ = ਸੰਤੋਖ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

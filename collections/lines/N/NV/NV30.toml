@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮਾਇਆ ਇਕ ਛਲਾਵਾ ਹੈ (ਜੋ ਕਈ ਰੂਪ ਵਿਖਾ ਕੇ ਛੇਤੀ ਹੀ ਗੁੰਮ ਹੋ ਜਾਂਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਛਲੁ = ਧੋਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

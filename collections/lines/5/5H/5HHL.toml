@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਂਇਆਂ! ਜਿਤਨਾ ਚਿਰ ਤੇਰਾ ਖਸਮ (ਜੀਵਾਤਮਾ ਤੇਰੇ) ਘਰ ਵਿਚ ਵੱਸਦਾ ਹੈ, ਸਾਰੇ ਲੋਕ ਤੈਨੂੰ 'ਜੀ ਜੀ' ਆਖਦੇ ਹਨ (ਸਾਰੇ ਤੇਰਾ ਆਦਰ ਕਰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ। ਕੰਤੁ = ਖਸਮ, ਜੀਵਾਤਮਾ। ਜੀਉ ਜੀਉ = ਜੀ ਜੀ, ਆਦਰ ਦੇ ਬਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

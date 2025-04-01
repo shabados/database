@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੇਰੇ ਕੋਲ ਸਿਰ ਹੈ, ਤਾਣ ਜਾਕੇ ਉਸ ਦੇ ਚਰਨਾਣ ਤੇ ਰੱਖ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਅਗਰ ਦਾਰੀ ਬਿਰੌ ਸਰ ਰਾ ਬਿਨਿਹ ਬਰ ਪਾਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

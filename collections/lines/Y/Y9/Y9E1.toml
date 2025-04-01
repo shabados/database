@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰੇ ਤੋਣ ਬੇਗਾਨਿਆਣ ਵਾਣਗ ਮੂੰਹ ਫੇਰ ਕੇ ਦੁਸ਼ਮਨਾਣ ਵੱਲ ਕਿਉਣ ਦੇਖਦਾ ਹੈਣ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸੂਇ ਗ਼ੈਰ ਚੂ ਬੇਗ਼ਾਨਗਾਣ ਚਿਹ ਮੀ ਗਰਦੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

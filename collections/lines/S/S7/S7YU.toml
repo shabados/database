@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੇ ਪ੍ਰਭੂ ਸਹਾਇਤਾ ਨਾਹ ਕਰੇ ਤਾਂ) ਉਸ ਦੇ ਕੰਮ ਵਿਅਰਥ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਬ = ਕੰਮ। ਬਿਰਥੇ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

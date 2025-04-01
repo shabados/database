@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੀ ਸਾਰੀ ਬਨਸਪਤੀ (ਉਸ ਨੂੰ ਫੁੱਲ ਭੇਟ ਕਰਨ ਵਾਲੀ) ਮਾਲਣ ਹੈ, ਛਿਆਨਵੇ ਕਰੋੜ ਬੱਦਲ ਉਸ ਦਾ ਪਾਣੀ ਭਰਨ ਵਾਲੇ (ਨੌਕਰ) ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਣੀਹਾਰੀਆ = ਪਾਣੀ ਭਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

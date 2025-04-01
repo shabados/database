@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਵੋ-ਬ੍ਰਹਮਾ ਹੋਵੇ, ਵਿਸ਼ਨੂ ਹੋਵੇ, ਸ਼ਿਵ ਹੋਵੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹੇਸੁ = ਸ਼ਿਵ। ਵੀਚਾਰੀ = ਵੀਚਾਰਿ, ਵਿਚਾਰ ਕੇ ਵੇਖ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

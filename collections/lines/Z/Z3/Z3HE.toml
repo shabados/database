@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਕਿਉਂ ਵਿਸਾਰ ਦਿੱਤਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜੇ = ਹੇ ਮੂਰਖ! ਕਾਹੇ = ਕਾਹਦੇ ਵਾਸਤੇ? ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

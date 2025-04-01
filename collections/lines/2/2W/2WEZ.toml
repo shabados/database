@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ-ਅੰਮ੍ਰਿਤ ਲਗਾਤਾਰ ਪੀ ਰਹੇ ਹਨ ਤੇ ਉਹ ਅੰਮ੍ਰਿਤ ਮੁੱਕਦਾ ਨਹੀਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀਵਿ ਰਹੇ = ਲਗਾਤਾਰ ਪੀ ਰਹੇ ਹਨ। ਨਿਖੁਟਤ ਨਾਹੀ = ਮੁੱਕਦਾ ਨਹੀਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਤਾਣ ਹਰ ਥਾਣ ਤੇਰੇ ਬਿਨਾਣ ਹੋਰ ਕੋਈ ਨਹੀਣ ਦਿਸਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਗ਼ਰ ਨ-ਯਾਫ਼ਤਮ ਆਂ ਜਾ, ਹਮੀਂ ਤੁਰਾ ਦੀਦਮ ।੫੫।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

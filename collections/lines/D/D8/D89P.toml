@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਸਾਰੇ ਦੁਸ਼ਮਨਾਂ ਦੇ ਜਿਗਰ ਚੀਰ ਦਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਦੁਸ਼ਮਨਾਂ ਰਾ ਸ਼ਿਗਾਫ਼ਦ ਜਿਗਰ ।੧੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

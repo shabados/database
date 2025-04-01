@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਸਾਕੀ # ਦਿਲਾਣ ਨੂੰ ਰੰਗ ਦੇਣ ਵਾਲੇ ਨਸ਼ੇ ਵਿੱਚੋਣ ਮੈਨੂੰ ਇਕ ਪਿਆਲਾ ਬਖਸ਼ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਦਿਹ ਸਾਕੀ ਮਰਾ ਯੱਕ ਜਾਮ ਜ਼ਾਂ ਰੰਗੀਨੀਇ ਦਿਲਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

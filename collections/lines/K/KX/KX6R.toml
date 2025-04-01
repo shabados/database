@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹੀ ਸੇਵਕ ਇਹ ਬਾਣੀ ਉਚਾਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣੀ = ਉਚਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

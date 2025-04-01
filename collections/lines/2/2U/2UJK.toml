@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਾਣੀ ਦੀ ਬਰਕਤਿ ਨਾਲ ਹੀ) ਦੇਵਤਿਆ ਲਈ ਅਠਾਰਹ ਤੀਰਥ ਬਣਾਏ ਗਏ ਜਿੱਥੇ ਪੁਰਬ ਲੱਗਦੇ ਹਨ, ਕਥਾ-ਵਾਰਤਾ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵੀ = ਦੇਵਤਿਆਂ। ਪੁਰਬੀ = ਧਾਰਮਿਕ ਮੇਲੇ। ਬਾਣੀ = ਕਥਾ-ਵਾਰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

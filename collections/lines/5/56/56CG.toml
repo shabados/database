@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਗਲਾਂ ਵਿਚ ਮਾਲਾਂ ਹਨ ਤੇ ਹੱਥ ਵਿੱਚ ਲਿਸ਼ਕਾਏ ਹੋਏ ਲੋਟੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਮਾਲੀਆ = ਮਾਲਾ। ਹਥਿ = ਹੱਥ ਵਿਚ। ਨਿਬਗ = ਬਹੁਤ ਹੀ ਚਿੱਟੇ, ਲਿਸ਼ਕਾਏ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

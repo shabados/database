@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਗਤ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਤੇ ਸਾਰੇ ਭਵਨਾਂ ਦਾ ਤੂੰ ਹੀ ਮਾਲਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜਿਆ = ਪੈਦਾ ਕੀਤਾ। ਨਾਇਕੁ = ਮਾਲਕ। ਸਗਲ ਭਉਣ = ਸਾਰੇ ਭਵਨਾਂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਤੇਰੇ ਕਾਲੇ ਤਿਲ (ਦੇ ਬੁੱਤ) ਨੂੰ, ਜਿਹੜਾ ਤੇਰੇ ਮੁਖੜੇ ਦਾ ਸ਼ੁਦਾਈ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਿੰਦੂਇ ਖ਼ਾਲਤ ਕਿ ਬਰ-ਰੂਅਤ ਸ਼ੈਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

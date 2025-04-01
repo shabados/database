@@ -5,6 +5,11 @@ language = "pa"
 data = "ਫਿਰ ਵੀ ਇਹਨਾਂ ਵਿਚ ਬੜਾ ਫਰਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਅੰਦਰ ਈਨੋ ਆਂ ਫ਼ਰਕੇ ਬਸੇਸਤ ।੨੯੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

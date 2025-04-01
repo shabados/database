@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਸਿਮਰਿਆ ਕਰ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ! ਇਹ (ਸਿਮਰਨ) ਹੀ ਤੇਰੇ ਕੰਮ ਵਿਚ (ਆਉਣ ਵਾਲਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਿ = ਸਿਮਰਿਆ ਕਰ। ਇਹੈ = ਇਹ (ਸਿਮਰਨ) ਹੀ। ਤੇਰੈ ਕਾਜਿ = ਤੇਰੇ ਕੰਮ ਵਿਚ (ਆਉਣ ਵਾਲਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

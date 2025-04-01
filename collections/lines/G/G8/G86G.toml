@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਨੇਕਾਂ ਹੀ ਜੀਵ ਤੇਰੇ ਗੁਣ ਕਥਨ ਕਰਦੇ ਹਨ, ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਹਿ = ਕਥਦੇ ਹਨ। ਕਿਆ ਕਹੀਐ = ਕੁਝ ਕਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

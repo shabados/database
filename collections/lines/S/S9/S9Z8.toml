@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੂਪ ਦੀ ਕਾਮ (-ਵਾਸਨਾ) ਨਾਲ ਮਿੱਤ੍ਰਤਾ ਹੈ, ਭੁੱਖ ਦਾ ਸੁਆਦ ਨਾਲ ਸੰਬੰਧ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਦੈ = ਸੁਆਦ ਦਾ। ਗੰਢੁ = ਸੰਬੰਧ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

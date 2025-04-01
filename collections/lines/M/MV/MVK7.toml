@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਤਾਂ, ਦਿਹਾੜੇ, ਥਿੱਤਾਂ, ਵਾਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਹ = ਦਿਨ। ਥਿਤੀ = ਚੰਦ ਦੇ ਵਧਾ ਘਟਾ ਨਾਲ ਗਿਣੇ ਜਾਣ ਵਾਲੇ ਮਹੀਨਿਆਂ ਦੀਆਂ ਤਾਰੀਖ਼ਾਂ। ਵਾਰ = ਹਫ਼ਤੇ ਦੇ ਦਿਨਾਂ ਦੇ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

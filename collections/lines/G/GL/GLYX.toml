@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰੇ ਦਰ ਤੇ, ਤੇਰੇ ਬੂਹੇ ਤੇ (ਖਲੋਤੇ) ਤੇਰੇ ਪਿਆਰੇ ਭਗਤ ਸੋਹਣੇ ਲੱਗ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰੇ = ਦਰਿ, ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

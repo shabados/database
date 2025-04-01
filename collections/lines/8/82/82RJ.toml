@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਇਹ ਸੰਸਾਰ (ਇਹਨਾਂ ਅੱਖਾਂ ਨਾਲ) ਦਿੱਸ ਰਿਹਾ ਹੈ, ਇਹ ਸਾਰਾ ਨਾਸਵੰਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = {ਸੰ: ਦ੍ਰਿਸ਼੍ਯ} ਜੋ ਵੇਖਣ ਵਿਚ ਆ ਰਿਹਾ ਹੈ। ਜੁ = ਜੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

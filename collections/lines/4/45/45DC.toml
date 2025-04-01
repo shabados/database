@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ 'ਮੈਂ ਮੈਂ' ਕਰਨ ਵਾਲੀ ਮੱਤ ਛੱਡ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰਬੁਧਿ = 'ਮੈਂ ਮੈਂ' (ਆਖਣ) ਵਾਲੀ ਬੁਧਿ, ਅਹੰਕਾਰ ਵਾਲੀ ਮੱਤਿ। ਤਿਆਗਤ = ਛੱਡ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਹਿਰਦੇ-ਘਰ ਵਿਚ (ਮਾਨੋ) ਖ਼ੁਸੀ ਦੇ ਗੀਤ ਤੇ ਕੌਤਕ-ਤਮਾਸ਼ੇ ਆਨੰਦ ਹੋ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ = ਉਸ ਵਿਚ। ਗ੍ਰਿਹਿ = ਘਰ ਵਿਚ। ਤਿਤੁ ਗ੍ਰਿਹਿ = ਉਸ ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਸੋਹਿਲੜੇ = ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ। ਕੋਡ = ਕੌਤਕ, ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

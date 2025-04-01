@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਨੁੱਖ ਅਤੇੇ ਜਾਨਦਾਰਾਣ ਨੂੰ ਜ਼ਿੰਦਗੀ ਬਖ਼ਸ਼ਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਬਖ਼ਸ਼ਿ ਵਜੂਦਿ ਇਨਸੋ ਜਾਣ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

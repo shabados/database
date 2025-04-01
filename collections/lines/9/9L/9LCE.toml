@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖਸਮ-ਪ੍ਰਭੂ! ਮੇਰਾ ਤਾਂ ਤੂੰ ਹੀ ਸੱਜਣ ਹੈਂ, ਤੂੰ ਹੀ ਸਨਬੰਧੀ ਹੈਂ। ਮੈਨੂੰ ਤਾਂ ਤੇਰੇ ਉਤੇ ਹੀ ਮਾਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਣੁ = ਮਿੱਤਰ। ਸੈਣੁ = ਸਨਬੰਧੀ। ਮਾਣੀਆ = ਮਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਹੋਰ ਧਿਰ ਮੇਰੇ ਵਾਲੇ ਇਸ ਭੁਲੇਖੇ ਵਿਚ ਬੇਸ਼ਕ ਨਾਹ ਪਏ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ ਭੂਲਉ = ਕੋਈ ਨਾਹ ਭੁੱਲੇ (ਨੋਟ: ਲਫ਼ਜ਼ 'ਭੂਲਉ' ਵਿਆਕਰਣ ਅਨੁਸਾਰ 'ਹੁਕਮੀ ਭਵਿੱਖਤ, ਅੱਨ-ਪੁਰਖ, ਇਕ-ਵਚਨ' ਹੈ) ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

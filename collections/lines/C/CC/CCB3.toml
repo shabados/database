@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਪਰਵਾਰ ਵਿਚ (ਰਹਿੰਦਾ ਹੋਇਆ ਭੀ) ਉਹ ਅੰਦਰੋਂ ਨਿਰਮੋਹ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਤਮ ਉਦਾਸੁ = ਅੰਦਰੋਂ ਨਿਰਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

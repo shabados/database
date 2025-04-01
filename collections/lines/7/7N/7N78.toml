@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ (ਆਪਣੇ) ਇਸ ਮਨ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਡਰ-ਅਦਬ ਵਿਚ ਪਿਆਰ ਵਿਚ ਰੰਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ = ਅਦਬ ਵਿਚ। ਭਾਇ = ਪਿਆਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਿਚ ਉਸ ਨੇ) ਕੋਈ ਜੀਵ ਕਿਸੇ ਦੂਜੇ ਵਰਗਾ ਨਹੀਂ ਬਣਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਹੀ = {ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹੀ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਕਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਉਪਾਇਆ = ਪੈਦਾ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

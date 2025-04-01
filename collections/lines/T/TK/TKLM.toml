@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਬੱਦਲਾਂ ਦੀ ਛਾਂ (ਨੂੰ ਟਿਕਵੀਂ ਛਾਂ ਸਮਝ ਕੇ ਉਸ) ਨਾਲ ਵਰਤਣ ਕਰਨਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਘ = ਬੱਦਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

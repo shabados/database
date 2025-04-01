@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ, ਪਾਣੀ ਨਾਲ ਅੱਗ ਨੂੰ ਬੁਝਾਉਂਦੇ ਹਨ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਸਰੇ ਆਬ ਜ਼ਨੰਦ ਆਤਿਸ਼ ।੩੬।"
+page = 1
+line = 36
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

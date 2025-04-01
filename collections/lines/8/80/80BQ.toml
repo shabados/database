@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਆਂ ਜੰਤਾਂ ਦੇ ਪਾਲਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਸਭ ਥਾਈਂ ਵਰਤ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤਣਹਾਰ = ਸਭ ਥਾਈਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

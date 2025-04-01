@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਗੁਰੂ ਦੀ ਦੱਸੀ ਸਿੱਖਿਆ ਉਤੇ) ਸ਼ੱਕ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਸ਼ੱਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

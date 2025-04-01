@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਖਸਮ ਦੇ ਮਿਲਾਪ ਤੋਂ ਬਿਨਾ ਜਵਾਨ ਇਸਤ੍ਰੀ ਢੱਠੇ-ਦਿਲ ਹੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੀ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

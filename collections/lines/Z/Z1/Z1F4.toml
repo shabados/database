@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਸੰਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

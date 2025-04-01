@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਦਾ ਮੱਥਾ ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਪਿਆ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਚਰਨ = ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਉਤੇ। ਨਾਨਕ ਮਾਥਾ = ਨਾਨਕ ਦਾ ਮੱਥਾ ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

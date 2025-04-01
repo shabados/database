@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਲ, ਗਿਆਨ ਤੇ ਸਾਰੀਆਂ ਕਰਾਮਾਤਾਂ ਉਸ ਮਨੁੱਖ ਵਿਚ (ਆ ਜਾਂਦੀਆਂ ਹਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧਿ = ਕਰਾਮਾਤਾਂ। ਤਹ = ਓਥੇ, ਉਸ ਮਨੁੱਖ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

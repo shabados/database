@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਅੱਠੇ ਪਹਿਰ (ਹਰ ਵੇਲੇ) ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਈਐ = ਗਾਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

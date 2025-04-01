@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਤਾਕਤ ਹੈ, ਆਪ ਹੀ (ਤਾਕਤ ਵਰਤਣ ਵਾਲਾ) ਹਾਕਮ ਹੈ, (ਸਾਰੇ ਜਗਤ ਨੂੰ ਉਸ ਨੇ) ਆਪ ਹੀ ਕਾਰ ਵਿਚ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣੁ = ਤਾਕਤ। ਦੀਬਾਣੁ = ਦਰਬਾਰ ਲਾਣ ਵਾਲਾ, ਹਾਕਮ। ਕਾਰੈ = ਕਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

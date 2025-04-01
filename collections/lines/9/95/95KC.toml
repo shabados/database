@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰਹਿਮ ਕਰਮ ਵਿਚ ਉਹ ਸਰਾਸਰ ਬਖਸ਼ਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਫ਼ਜਲੋ ਤਰਾਹਮ ਸਰਾਸਰ ਫ਼ਜ਼ਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

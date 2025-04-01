@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨਾ ਤੇ ਮਿੱਟੀ (ਭੀ ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਬਰਾਬਰ ਹੈ (ਭਾਵ, ਸੋਨਾ ਵੇਖ ਕੇ ਉਹ ਲੋਭ ਵਿਚ ਨਹੀਂ ਫਸਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਵਰਨੁ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

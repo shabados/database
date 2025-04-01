@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਜ਼ਾਤ ਦੀ ਸਿਫਤ ਸ਼ਲਾਘਾ ਕਰਣ ਵਾਲੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਫ਼ਾਨਿ ਜ਼ਾਤਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 132
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

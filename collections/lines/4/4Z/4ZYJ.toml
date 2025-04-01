@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਨੁੱਖਾ ਜਨਮ ਪ੍ਰਾਪਤ ਕਰ ਕੇ ਮੈਂ ਕੋਈ ਭਲਾਈ ਨਹੀਂ ਕੀਤੀ, ਇਸ ਵਾਸਤੇ ਮੈਂ ਬਹੁਤ ਡਰਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਇ = ਹਾਸਲ ਕਰ ਕੇ। ਭਲੋ = ਭਲਾਈ। ਤਾ ਤੇ = ਇਸ ਤੋਂ, ਇਸ ਵਾਸਤੇ। ਅਧਿਕ = ਬਹੁਤ। ਡਰਉ = ਡਰਉਂ, ਮੈਂ ਡਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਬਾਣੀ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਹ ਮਨੁੱਖ ਅਦ੍ਰਿਸ਼ਟ ਪਰਮਾਤਮਾ ਦਾ ਦਰਸ਼ਨ ਕਰ ਲੈਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖੁ = ਅਦ੍ਰਿਸ਼ਟ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

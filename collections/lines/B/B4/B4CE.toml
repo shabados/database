@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾ ਦੇ ਬੰਦੇ! ਹੇ ਅਪਹੁੰਚ ਰੱਬ ਦੇ ਬੰਦੇ! ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ ਰੱਬ। ਖੁਦਾਈ ਬੰਦੇ = ਖ਼ੁਦਾਈ ਬੰਦੇ, ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

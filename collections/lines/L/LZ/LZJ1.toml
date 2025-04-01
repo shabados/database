@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਸਾਲਾਹਣ-ਜੋਗ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਉਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹੀ = ਸਾਲਾਹਣ-ਯੋਗ ਹਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

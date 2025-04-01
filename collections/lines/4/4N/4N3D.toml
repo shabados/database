@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਘਰ ਵਿਚ ਤਾਂ ਹਰੇਕ ਚੀਜ਼ ਮੌਜੂਦ ਹੈ, ਉਹੀ ਮਨੁੱਖ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਤੂੰ ਆਪ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ = ਤਾਂ। ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਚੀਜ਼। ਦੇਹਿ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ। ਸੁ = ਉਹ ਮਨੁੱਖ। ਪਾਵਏ = ਪਾਵੈ, ਪਾ ਲੈਂਦਾ ਹੈ, ਹਾਸਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

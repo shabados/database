@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ ਹੀ ਰਾਖਾ ਹੈਂ, ਮੈਂ ਤੈਨੂੰ ਸਿਮਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

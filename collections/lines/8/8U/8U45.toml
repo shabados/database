@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ (ਦਾ ਸਿਮਰਨ) ਭੁਲਾ ਕੇ ਹੋਰ ਜੇਹੜਾ ਭੀ ਕੰਮ ਕਰੀਦਾ ਹੈ ਉਹ ਨਾਸਵੰਤ ਹੈ ਅਤੇ ਕੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਛੱਡ ਕੇ। ਆਨ = {अन्य} ਹੋਰ ਹੋਰ। ਖਾਮ = ਖ਼ਾਮ, ਕੱਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

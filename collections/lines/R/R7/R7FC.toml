@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਬੰਦੇ (ਰਿਵਾਜੀ) ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਲੈ ਕੇ ਜਪ ਤਪ ਕਮਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਖਿਆ = ਸਿੱਖਿਆ। ਕਮਾਹਿ = ਲੋਕ ਕਮਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

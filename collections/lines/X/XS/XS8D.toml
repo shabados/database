@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਪ੍ਰਭੂ ਸੰਤ ਜਨਾਂ ਦੀ ਸਰਨ ਪਿਆਂ ਹੀ ਲੱਭਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਪ੍ਰਾਣ ਅਧਾਰ = ਜ਼ਿੰਦਗੀ ਦਾ ਆਸਰਾ ਪ੍ਰਭੂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

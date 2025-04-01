@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਤਿਗੁਰੂ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕੇ ਤਾਂ ਮੁੜ ਮੁੜ ਨਹੀਂ ਭਟਕੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁੜਿ = ਫਿਰ, ਮੁੜ। ਧਾਈਐ = ਭਟਕੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

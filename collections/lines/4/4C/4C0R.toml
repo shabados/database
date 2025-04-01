@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਇਹ ਵਡਿਆਈ ਬਖ਼ਸ਼ ਕਿ ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖੇ ਕੀ = ਵੇਖਣ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

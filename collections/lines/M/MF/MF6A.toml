@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਛੱਡ ਕੇ) ਸ਼ੋਨਕ ਦਾ ਜੋਤਿਸ਼ ਸ਼ਾਸਤ੍ਰ (ਆਦਿਕ) ਵਿਚਾਰਦੇ ਰਹਿਣਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉਣ = ਸ਼ੋਨਕ ਰਿਸ਼ੀ। ਸਉਣ ਸਾਸਤ = ਸ਼ੋਨਕ ਦਾ ਲਿਖਿਆ ਜੋਤਿਸ਼ ਸ਼ਾਸਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

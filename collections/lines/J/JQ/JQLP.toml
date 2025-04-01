@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੂੰ ਇਹ ਜਿਹੜਾ ਆਪਣਾ ਪਰਵਾਰ ਛੱਡ ਕੇ ਦੇਸ-ਰਟਨ ਕਰਦਾ ਫਿਰਦਾ ਹੈਂ, ਇਸ ਨੂੰ ਜੋਗ ਨਹੀਂ ਆਖੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗੀ = ਹੇ ਜੋਗੀ! ਜਿ = ਜਿਹੜਾ, ਕਿ। ਛੋਡਿ = ਛੱਡ ਕੇ। ਪਰਭਵਣੁ = ਦੇਸ-ਰਟਨ, ਥਾਂ ਥਾਂ ਭੌਂਦੇ ਫਿਰਨਾ। ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

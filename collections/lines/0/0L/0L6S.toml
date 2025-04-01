@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਮੌਜੂਦ ਹੈ, ਪਰ ਮਨੁੱਖ ਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

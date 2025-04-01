@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ (ਗੁਰੂ ਆਪਣਾ) ਹੱਥ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਮਸਤਕਿ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

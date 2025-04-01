@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ-ਧਾਰੀ ਰੰਗ-ਬਰੰਗੇ ਰੇਸ਼ਮੀ ਕੱਪੜੇ ਪਹਿਨਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ ਪਰੰਗ = ਰੰਗ-ਬਰੰਗੀ। ਕਤੀਫਿਆ = (ਅ: ਕਤਫ਼ਿਤ) ਰੇਸ਼ਮੀ ਕੱਪੜੇ। ਧਰ ਮਾਈ = ਮਾਇਆ-ਧਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

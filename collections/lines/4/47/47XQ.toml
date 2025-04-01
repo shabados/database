@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਨਿਆਂ ਦਾ ਬਚਨ ਉਸ ਪ੍ਰਭੂ ਨੇ ਆਪ ਆਖਿਆ ਹੈ ਜਿਸ ਨੇ ਸਾਰਾ ਸੰਸਾਰ ਪੈਦਾ ਕੀਤਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਰੁ = ਬਚਨ, ਨਿਆਂ ਦਾ ਬਚਨ। ਤਿਨਿ = ਉਸ ਪ੍ਰਭੂ ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

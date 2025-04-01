@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਤਰ੍ਹਾਂ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਕ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਪਦੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = ਤਰੀਕਾ। ਰਮਹੁ = ਸਿਮਰੋ। ਗਬਿੰਦ = {ਅੱਖਰ 'ਗ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਗੋਬਿੰਦੁ' ਹੈ, ਇਥੇ 'ਗੁਬਿੰਦੁ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਤੂੰ, ਹੇ ਮੇਰੀ ਜਾਨ # ਪੂਰਨ ਮਨੁੱਖ ਬਣ ਜਾਵੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ ਸ਼ਵੀ ਐ ਜਾਨਿ ਮਨ ਮਰਦਿ ਤਮਾਮ ।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

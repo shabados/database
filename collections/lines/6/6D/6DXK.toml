@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਰੇ) ਮਿੱਤਰ, ਸਾਥੀ, ਪੁੱਤਰ ਸਨਬੰਧੀ ਸਾਰੇ ਉਸ ਪ੍ਰਭੂ ਦੇ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਣਿਆ = ਜਣੇ ਹੋਏ, ਪੈਦਾ ਕੀਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ, ਤੇ, ਪਰਲੋਕ ਵਿਚ ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਉਸ ਲੋਕ ਵਿਚ। ਧੋਰਾ = ਆਸਰਾ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

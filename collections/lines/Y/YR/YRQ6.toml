@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਇਥੇ) ਰਸਤੇ ਦਾ ਮੁਸਾਫ਼ਿਰ (ਬਣ ਕੇ) ਆਇਆ ਹੈ, ਇਹ ਸਾਰਾ ਸਾਥ ਨਿੱਤ ਚਲਣ ਵਾਲਾ ਸਮਝ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟ = ਰਸਤਾ। ਵਟਾਊ = ਰਾਹੀ, ਮੁਸਾਫ਼ਿਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

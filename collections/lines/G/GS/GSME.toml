@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਉਹ ਪਰਮਾਤਮਾ ਕਦੇ ਮਰਦਾ ਹੈ, ਤੇ ਨਾਹ ਹੀ ਉਹ ਜੀਵਾਂ ਨੂੰ ਛੱਡ ਕੇ ਕਿਤੇ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡਿ = ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

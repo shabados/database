@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰ ਸਾਰੇ (ਆਸਰੇ) ਛੱਡ ਕੇ ਉਹ ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = ਹੋਰ। ਤਿਆਗਿ = ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

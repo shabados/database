@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਆਦ ਲਾ ਲਾ ਕੇ ਇਹ ਅਨੇਕਾਂ ਰੰਗਾਂ ਦੇ ਭੋਗ ਭੋਗਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਿ ਰਸਿ = ਸੁਆਦ ਲਾ ਲਾ ਕੇ। ਬਹੁ ਰੰਗੀ = ਅਨੇਕਾਂ ਰੰਗਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

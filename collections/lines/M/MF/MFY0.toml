@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੇ ਇਹ ਜਨੇਊ ਆਪਣੇ ਗਲੇ ਵਿਚ ਪਾ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲੇ ਪਾਇ = ਪਾ ਚੱਲੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੇ ਪਾ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

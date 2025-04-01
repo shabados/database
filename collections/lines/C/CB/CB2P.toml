@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਪਾਸੇ ਦੀਦਾਰੇ ਹੀ ਹਨ, ਪਰ ਵੇਖਣ ਵਾਲੀ ਅੱਖ ਕਿੱਥੇ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਤਰਫ ਦੀਦਾਰ ਅੱਮਾ ਦੀਦਾਇ ਬੀਨਾ ਕੁਜਾ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

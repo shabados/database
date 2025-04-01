@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਪਿਆਰਾ ਪ੍ਰਭੂ-ਪਤੀ (ਮੇਰੇ) ਹਿਰਦੇ ਵਿਚ (ਵੱਸਦਾ ਹੈ, ਪਰ ਉਸ ਦਾ) ਦੀਦਾਰ ਕਿਵੇਂ ਹੋਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਠ ਮਝਾਹੂ = ਹਿਰਦੇ ਵਿਚ। ਮਾਂ ਪਿਰੀ = ਮੇਰੇ ਪ੍ਰਭੂ-ਪਤੀ। ਪਸੇ = ਪੱਸੇ, ਦਿੱਸੇ। ਕਿਉਂ = ਕਿਵੇਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

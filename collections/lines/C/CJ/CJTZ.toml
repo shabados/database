@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਗਰੀਬਾਂ ਦੀ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ! ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! (ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ) ਆਪਣੇ ਸੇਵਕ ਦੀ ਲਾਜ ਰੱਖ ॥੪॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਸਾਗਰ = ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! ਅਪਨਾਇਆ = ਆਪਣੇ (ਸੇਵਕ) ਦੀ ॥੪॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

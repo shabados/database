@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੈਂ ਇਕ ਅਜੀਬ ਤਮਾਸ਼ਾ ਵੇਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜੁ = ਅਨੋਖਾ ਕੌਤਕ, ਅਜੀਬ ਤਮਾਸ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

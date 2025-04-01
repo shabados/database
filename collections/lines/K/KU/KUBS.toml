@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ (ਤੜਪ) ਮਰਦੀ ਹੈ, (ਤਿਵੇਂ) ਤੈਥੋਂ ਬਿਨਾ ਮੈਂ ਬਹੁਤ ਉਦਾਸ ਰਹਿੰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਖਰੀ = ਬਹੁਤ। ਉਡੀਣੀਆ = ਉਦਾਸ। ਮੀਨੁ = ਮੱਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

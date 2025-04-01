@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਭਗਤਾਂ ਦੀ ਅੱਖ ਰੱਬ ਦੇ ਨੂਰ ਨਾਲ ਮੋਤੀਆਂ ਭਰੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਸ਼ਾਂ ਅਜ਼ ਨੂਰਿ ਹੱਕ ਪੁਰ ਗੌਹਰ ਅਸਤ ।੨੭੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

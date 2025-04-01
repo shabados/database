@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਗੁਰੂ ਦੇ ਚਰਨ ਟਿਕ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

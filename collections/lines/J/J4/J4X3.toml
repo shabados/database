@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ! ਸਤਿਗੁਰੂ ਦੀ ਮਤਿ ਲੈ (ਭਾਵ, ਸਿੱਖਿਆ ਤੇ ਤੁਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆਨੇ = ਹੇ ਅੰਞਾਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ, ਪੁਰਾਣ ਤੇ ਕਤੇਬਾਂ, (ਹੋਰ ਭੀ) ਸਾਰੀ ਵਿਚਾਰ-ਸੱਤਾ ਤੇਰੀ ਹੀ ਕਲਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤੇਬਾਂ = ਮੁਸਲਮਾਨਾਂ ਅਤੇ ਈਸਾਈਆਂ ਦੀਆਂ ਧਰਮ = ਪੁਸਤਕਾਂ। ਸਰਬ ਵੀਚਾਰੁ = ਸਾਰਾ ਵਿਚਾਰ, ਸਾਰੀ ਵਿਚਾਰ-ਸੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

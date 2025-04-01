@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਉਹ ਬੰਦੇ ਬੜੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਬਣਾ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਧਨਿ ਧੰਨਿ = ਬੜੇ ਭਾਗਾਂ ਵਾਲੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

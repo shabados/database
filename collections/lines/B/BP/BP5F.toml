@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਖੋਟੇ ਜੀਵ ਤੇ ਖਰੇ ਜੀਵ ਤੂੰ ਆਪ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਏ = ਪੈਦਾ ਕੀਤੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਰਮਤਿ ਦੇ ਕਾਰਨ ਜਗਤ ਆਤਮਕ ਮੌਤੇ ਮਰ ਰਿਹਾ ਹੈ, (ਇਸ ਬਾਰੇ) ਕੀਹ ਆਖ ਕੇ ਕੋਈ ਰੋਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਕਹਿ = ਕੀਹ ਆਖ ਕੇ? ਰੋਤਿ = (ਕੋਈ) ਰੋਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

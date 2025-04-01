@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਰਤਾਰ! ਦੁਨੀਆ ਦੇ) ਸੁਖੀ ਲੋਕਾਂ ਵਿਚ ਤੂੰ (ਸ਼ਿਰੋਮਣੀ) ਸੁਖੀ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈਂ ਤੇ ਦਾਤਿਆਂ ਵਿਚ ਸਭ ਤੋਂ ਵਢਾ ਦਾਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਨ ਸਿਰਿ = ਦਾਤਿਆਂ ਦੇ ਸਿਰ ਉਤੇ, ਦਾਤਿਆਂ ਵਿਚ ਸ਼ਿਰੋਮਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

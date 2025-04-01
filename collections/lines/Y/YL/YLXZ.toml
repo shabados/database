@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ ਤੜਫ਼ਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਹੂਨ = ਬਿਨਾ। ਤੜਫੜਾਇ = ਤੜਫ਼ਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

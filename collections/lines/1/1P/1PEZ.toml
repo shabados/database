@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਿਸ ਦੇ ਮਨ ਦੀ ਵਾਸਨਾ ਮਨ ਤੋਂ ਟਲ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸਨਾ = ਵਾਸਨਾ, ਫੁਰਨਾ। ਟਰੈ = ਟਲ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

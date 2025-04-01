@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਗੁਰੂ ਦੇ ਸਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ (ਮੇਰੇ ਅੰਦਰੋਂ ਵਿਕਾਰਾਂ ਦੀ) ਸੜਨ ਮਿਟ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਤਿ = ਤਪਸ਼, ਸੜਨ। ਮਾਇ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

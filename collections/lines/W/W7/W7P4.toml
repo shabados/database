@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਭਾਈ! ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਇਹ ਜਗਤ ਫੁੱਲਾਂ ਦੀ ਬਗ਼ੀਚੀ ਦੇ (ਸਮਾਨ) ਹੈ, ਪ੍ਰਭੂ ਆਪ (ਇਸ ਬਗ਼ੀਚੀ ਦਾ) ਮਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾੜੀ = ਫੁੱਲਾਂ ਦੀ ਬਗ਼ੀਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

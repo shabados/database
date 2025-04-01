@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸ਼ਰਨ ਪਏ ਜੀਵ ਦੀ) ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਇੱਜ਼ਤ (ਸਦਾ) ਰਖਾਈ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਆਪੇ = ਆਪ ਹੀ। ਪੈਜ = ਇੱਜ਼ਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

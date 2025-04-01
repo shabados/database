@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਹੀਂ ਤਾਂ ਮੈਨੂੰ ਇਸ ਤਰਾਂ ਆਉਣ ਦਾ ਕੋਈ ਸ਼ੌਕ ਨਹੀਂ ਸੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਗਰਨਾ ਜ਼ੋਕਿ ਚੁਨੀਂ ਨ ਬੂਦ ਮਰਾ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

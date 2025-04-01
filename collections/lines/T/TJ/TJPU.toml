@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਾਸਤੇ (ਮਨੁੱਖ ਦਾ) ਚੰਚਲ ਮਨ ਕਾਬੂ ਵਿਚ ਨਹੀਂ ਆ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਯਾ ਤੇ = ਇਸ ਕਾਰਨ। ਗਹਿਓ ਨ ਜਾਇ = ਫੜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

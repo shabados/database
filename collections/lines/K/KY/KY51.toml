@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਾਇਆ ਦਾ ਮੋਹ ਤੇ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਭਟਕਣ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

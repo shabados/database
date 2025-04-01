@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਖੱਟਣ ਦੀ ਖ਼ਾਤਰ ਦਸੀਂ ਪਾਸੀਂ ਭਾਲ ਕਰਨ ਤੁਰਿਆ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਾ = ਲਾਭ। ਦਹਦਿਸਿ = ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

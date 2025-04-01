@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸੇਵਕ ਦੇ ਉਹ ਸਾਰੇ ਕੰਮ ਸਵਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਸਵਾਰਿ = ਸਵਾਰੇ, ਸਵਾਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

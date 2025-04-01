@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦੱਸੋ, ਨਰਕਾਂ ਤੇ ਸੁਰਗਾਂ ਵਿਚ ਆਉਣ ਵਾਲੇ ਕੇਹੜੇ ਜੀਵ ਸਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਤਾਰ = ਜਨਮ ਲੈਣ ਵਾਲੇ, ਉਤਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

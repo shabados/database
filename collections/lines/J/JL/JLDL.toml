@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨੁੱਖਾ ਸਰੀਰ ਬੜੀ ਕਿਸਮਤ ਨਾਲ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡੈ ਭਾਗਿ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

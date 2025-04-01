@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਤਾਂ ਇਹ ਹੈ, ਕਿ ਤੂੰ ਰੱਬ ਦਾ ਬੰਦਾ ਬਣਿਆ ਰਹੁ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਹਮਾਂ ਬਾਸ਼ਦ ਕਿ ਬਾਸ਼ੀ ਬੰਦਾਇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਿਮਰਨ ਤੋਂ ਖੁੰਝ ਕੇ ਉਹ ਖੋਤੇ ਵਾਂਗ ਹੀ (ਮਲੀਨ ਜੀਵਨ ਗੁਜ਼ਾਰਦੇ ਹਨ, ਜਿਵੇਂ ਖੋਤਾ ਸਦਾ ਸੁਆਹ ਮਿੱਟੀ ਵਿਚ ਲੇਟ ਕੇ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਧਭ = {गर्दभ} ਖੋਤਾ। ਨਿਆਈ = ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

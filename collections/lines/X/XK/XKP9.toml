@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਇੱਕ ਅੱਖ ਵਿਚ ਉਸਦੇ ਨੂਰ ਤੋਂ ਬਿਨਾਂ ਕੁਝ ਵੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਦਰ ਹਰ ਚਸ਼ਮ ਗ਼ੈਰ ਅਜ਼ ਨੂਰਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

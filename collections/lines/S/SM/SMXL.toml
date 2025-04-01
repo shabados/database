@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤੂੰ ਸੰਸਾਰ ਵਿਚ ਆ, ਅਤੇ ਰਾਹ ਵਿਖਾਉਣ ਵਾਲਾ ਬਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਿਰਦਿ ਆਲਮ ਬਰਆ ਵਾ ਹਾਦੀ ਸ਼ੌ ।"
+page = 1
+line = 30
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

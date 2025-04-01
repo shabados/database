@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਮੋਤੀ ਵਸਾਉਣ ਵਾਲੀ ਅੱਖ ਨੂੰ ਜਿਹੜੀ ਕਿ ਸਮੁੰਦਰ ਬਣ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਚਸ਼ਮਿ ਗੋਹਰ ਬਾਰ ਕਿ ਦਰਿਆ ਸ਼ੁਦਾ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

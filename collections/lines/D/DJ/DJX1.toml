@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਵਿੰਦ ਦਾ ਭਜਨ ਕਰੋ, ਗੋਵਿੰਦ ਦਾ ਧਿਆਨ ਧਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਉਹੀ ਗੋਵਿੰਦ ਸਭ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ = ਦੇਂਦਾ ਹੈ। ਓਹੈ = ਉਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

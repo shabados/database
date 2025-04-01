@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਉਸਨੂੰ ਹਰ ਉੱਚੇ ਅਸਥਾਨ ਤੋ ਉਚੇਰਾ ਬਿਠਾਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਸ਼ਾਂਦਸ਼ ਜ਼ਿ ਹਰ ਬਰ-ਤਰੀਂ ਬਰ-ਤਰੀਂ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

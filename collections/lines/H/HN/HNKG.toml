@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਉਸ ਪਰਉਪਕਾਰੀ ਸਤਿਗੁਰੂ ਦਾ ਮਾਂ ਪਿਉ, ਜਿਸ ਗੁਰੂ ਨੇ ਸਾਨੂੰ ਨਾਮ ਬਖ਼ਸ਼ਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

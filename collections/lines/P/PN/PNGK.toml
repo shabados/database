@@ -5,6 +5,11 @@ language = "pa"
 data = "ਖ਼ੁਸ਼ੀ ਕੀ ਹੈ # ਉਸ ਅਪਰਮ ਅਪਾਰ ਦੀ ਯਾਦ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੀਸਤ ਸ਼ਾਦੀ ਯਾਦਿ ਆਣ ਬੇ-ਮਿਨਤਹਾ ।੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

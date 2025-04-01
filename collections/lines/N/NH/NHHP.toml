@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ = ਸਰੀਰ, ਹਿਰਦਾ। ਅੰਤਰਜਾਮੀ = ਹੇ ਅੰਦਰ ਦੀ ਜਾਣਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

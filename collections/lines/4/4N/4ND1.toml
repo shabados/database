@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੋਹਾਣ ਜਹਾਨਾਣ ਨੂੰ ਉਹ ਇੱਕ ਜੌਣ ਦੇ ਬਦਲੇ ਲੈ ਲੈਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਦੋ ਜਹਾਣ ਰਾ ਬ-ਜੌਏ ਬਿ-ਸਤਾਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

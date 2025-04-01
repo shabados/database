@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਸਰੀਰ ਨੂੰ ਸੁਖ ਮਿਲਦਾ ਹੈ, ਸ਼ਾਂਤੀ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਤ = ਸਿਮਰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

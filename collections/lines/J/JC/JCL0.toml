@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀਏ! ਵੇਖ ਮੇਰੀ ਅਭਾਗਤਾ!) ਸੋਨਾ, ਚਾਂਦੀ, ਮੋਤੀ ਤੇ ਹੀਰਾ ਆਦਿਕ ਸੋਹਣੇ ਕੀਮਤੀ ਪਦਾਰਥ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਪਾ = ਚਾਂਦੀ। ਰੰਗੁਲਾ = ਸੋਹਣਾ। ਤੈ = ਤੇ, ਅਤੇ। ਮਾਣਿਕੁ = ਲਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

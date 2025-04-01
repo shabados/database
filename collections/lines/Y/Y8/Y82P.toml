@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ ਅਤੇ ਕ੍ਰੋਧ (ਮਨੁੱਖ ਦੇ) ਸਰੀਰ ਨੂੰ ਨਿਰਬਲ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਲੈ = ਨਿਰਬਲ ਕਰ ਦੇਂਦਾ ਹੈ। ਕਉ = ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

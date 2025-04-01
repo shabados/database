@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਰਾਜੇ ਬਣ ਜਾਂਦੇ ਹਨ ਤੇ ਕਈ ਸੁਆਦਾਂ ਦੇ ਭੋਜਨ ਵਰਤਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸ ਕਸ = ਕਈ ਕਿਸਮ ਦੇ ਸੁਆਦਲੇ ਭੋਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

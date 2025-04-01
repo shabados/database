@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਹ ਨਾਮ) ਉਸ ਮਨੁੱਖ ਨੂੰ ਮਿਲਦਾ ਹੈ ਜਿਸ (ਦੇ ਮੱਥੇ ਤੇ) ਧੁਰੋਂ (ਪ੍ਰਭੂ ਦੀ) ਮੇਹਰ ਅਨੁਸਾਰ ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਰਿ = ਧੁਰੋਂ, ਰੱਬ ਵਲੋਂ। ਕਰਮਿ = ਮੇਹਰ ਅਨੁਸਾਰ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

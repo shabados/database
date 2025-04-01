@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਂਦਰਾਂ ਦਾ ਅੱਭਿਆਸ) ਨਿਵਲੀ ਕਰਮ ਕਰਨਾ, ਹੋਰ ਅਜਿਹੇ ਕਈ ਖਿਲਾਰੇ ਖਿਲਾਰਨੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਲੀ ਕਰਮ = (ਕਬਜ਼ ਤੋਂ ਬਚਣ ਲਈ) ਪੇਟ ਦੀਆਂ ਆਂਦਰਾਂ ਨੂੰ ਚੱਕਰ ਦੇਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

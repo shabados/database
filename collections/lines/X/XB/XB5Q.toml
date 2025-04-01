@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਹੀ ਦਇਆ ਦੇ ਸੋਮੇ! ਆਪਣੇ ਦਾਸ (ਨਾਨਕ) ਦੀ ਆਪ ਰੱਖਿਆ ਕਰ (ਤੇ, ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾਲ = ਹੇ ਕਿਰਪਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

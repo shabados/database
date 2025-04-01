@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਜਾਣ ਦਾ) ਉੱਦਮ ਕਰਦਿਆਂ (ਮਨੁੱਖ) ਸ਼ਾਂਤ-ਚਿੱਤ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ ਮਨ = ਠੰਢੇ ਮਨ ਵਾਲੇ, ਸ਼ਾਂਤ-ਚਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

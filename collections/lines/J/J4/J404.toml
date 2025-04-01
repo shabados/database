@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਜਨ ਬੰਦਗੀ ਦੀ ਇੱਛਾ ਨੇ ਮੈਨੂੰ ਹੋਂਦ ਵਿਚ ਲਿਆਂਦਾ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਵਾਇ ਬੰਦਗੀ ਆਵੁਰਦ ਦਰ ਵਜੂਦ ਮਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

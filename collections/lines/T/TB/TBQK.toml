@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਅਰਜਨ ਬਖ਼ਸ਼ਿਸ਼ ਅਤੇ ਵਡਿਆਈ ਦਾ ਰੂਪ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਅਰਜਨ ਜੁਮਲਾ ਜੂਦੋ ਫ਼ਜ਼ਾਲ ।"
+page = 5
+line = 75
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

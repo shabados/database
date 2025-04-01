@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਅਲੱਖ ਤੇ ਅਚਰਜ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਜਿਸ ਦਾ ਬਿਆਨ ਨ ਹੋ ਸਕੇ। ਵਿਡਾਣੀ = ਅਚਰਜ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰੋਂ ਸਭ ਤਰ੍ਹਾਂ ਦੇ ਝਗੜੇ ਦੁੱਖ ਕਲੇਸ਼ ਕੂਚ ਕਰ ਜਾਂਦੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ = ਝਗੜੇ। ਕਲੇਸ = ਦੁੱਖ। ਪਇਆਣੇ = ਚਲੇ ਗਏ, ਕੂਚ ਕਰ ਗਏ {प्रया = ਕੂਚ ਕਰ ਜਾਣਾ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

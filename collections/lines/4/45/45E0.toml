@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ!) ਤੂੰ ਨਾਸਵੰਤ ਪਦਾਰਥ ਨਾਲ ਤੇ ਉਸ ਨੂੰ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਸਮਝ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਿਆ = ਨਾਸਵੰਤ। ਵਸਤੁ = ਚੀਜ਼। ਸਤਿ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

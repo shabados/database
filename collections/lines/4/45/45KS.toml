@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪਏ ਰਿਹਾਂ ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ (ਮਿਲ ਜਾਂਦੇ ਹਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ (ਬਹੁ-ਵਚਨ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

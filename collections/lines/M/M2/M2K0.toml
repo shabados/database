@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਸੁਹਣੇ ਰਾਮ! ਮੈਂ ਤੇਰਾ ਅੰਞਾਣ ਬੱਚਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਈਆ = ਹੇ ਸੁਹਣੇ ਰਾਮ! ਹਉ = ਮੈਂ। ਬਾਰਿਕੁ = ਬਾਲਕ, ਅੰਞਾਣ ਬੱਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਵਿਚ) ਕੋਈ ਭੀ ਮੇਰਾ ਸਦਾ ਦਾ ਸਾਥੀ ਨਹੀਂ ਹੈ, ਮੈਂ ਭੀ ਕਿਸੇ ਦਾ ਸਦਾ ਲਈ ਸਾਥੀ ਨਹੀਂ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸੁ ਕੇਰਾ = ਕਿਸ ਦਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਾ-ਭਾਵ ਤੋਂ ਮਰੇ ਹੋਏ ਨੂੰ ਸਚ ਮੁਚ ਉਸ ਦੇ (ਪਹਿਲੇ) ਮਿੱਤਰ  ਰੋਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਏ ਕਉ = (ਆਪਾ-ਭਾਵ ਤੋਂ) ਮਰੇ ਹੋਏ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

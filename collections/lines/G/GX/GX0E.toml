@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਅਉਣਾ ਜਾਣਾ ਇਕ ਦਮ ਭਰ ਤੋਣ ਵਧ ਨਹੀਣ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਆਮਦੋ ਰਫ਼ਤ ਜੁਜ਼ ਦਮੇ ਬੇਸ਼ ਨਬੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

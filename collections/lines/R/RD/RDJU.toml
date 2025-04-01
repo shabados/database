@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਭਗਵਾਨ ਸਭ ਜੀਵਾਂ ਦਾ ਖਸਮ ਹੈ ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੇ ਉਸ ਦਾ ਆਸਰਾ ਲਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖ ਪਤੇ = ਸਭ ਜੀਵਾਂ ਦਾ ਖਸਮ। ਤਾ ਕੀ = ਉਸ (ਭਗਵਾਨ) ਦੀ। ਗਹੀ = ਪਕੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

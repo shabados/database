@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੈਂ (ਤੁਹਾਥੋਂ) ਹਰਿ-ਸੱਜਣ ਹਰਿ-ਮਿੱਤਰ (ਦਾ ਪਤਾ) ਪੁੱਛਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਦਸਾਈ = ਦਸਾਈਂ, ਮੈਂ ਪੁੱਛਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

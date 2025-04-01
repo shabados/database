@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਸੱਚ ਦੀ ਗਲ ਬਾਤ ਅਤੇ ਚਰਚਾ ਕਰਨੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਲੋ ਕਾਲੇ ਗਰ ਬਰਾਇ ਹੱਕ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

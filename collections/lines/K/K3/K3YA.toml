@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਸਵੰਤ ਦੁਨੀਆ ਦੇ ਲੋਭ ਵਿਚ ਫਸ ਕੇ (ਹਰਿ-ਨਾਮ ਤੋਂ) ਕਿੱਥੇ ਖੁੰਝਿਆ ਫਿਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਭੂਲਿਓ = ਕਿੱਥੇ ਖੁੰਝਿਆ ਪਿਆ ਹੈਂ? ਰੇ = ਹੇ ਭਾਈ! ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਲਾਗਿ = ਲੱਗ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

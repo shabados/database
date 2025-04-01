@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਉੱਤੇ ਥੋੜੀ ਹੈ ਕਿਸੇ ਉੱਤੇ ਬਹੁਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਣੇਰੀ = ਬਹੁਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

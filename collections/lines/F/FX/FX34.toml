@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵਾਂ ਦੇ ਦਿਲ ਜਾਣਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਸਾਨੂੰ ਬਖ਼ਸ਼ ਲੈ ॥੪॥੭੬॥੧੪੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

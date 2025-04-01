@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਉਸ ਤੋਂ ਵਿਛੋੜੇ ਦਾ ਜੀਵਨ ਕਦੇ ਨਹੀਂ ਜੀਊ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = (ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ) ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

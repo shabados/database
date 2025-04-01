@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ (ਹਰ ਵੇਲੇ) ਯਾਦ ਕਰਦਿਆਂ ਸਾਰੇ ਪਾਪ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ, ਯਾਦ ਕਰਦਿਆਂ। ਸਭਿ = ਸਾਰੇ। ਕਿਲਵਿਖ = ਪਾਪ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

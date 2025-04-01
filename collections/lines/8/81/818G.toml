@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ! ਤੂੰ ਭੀ) ਇਹ ਅਸਲੀਅਤ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਤਤੁ = ਨਿਚੋੜ, ਅਸਲੀਅਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

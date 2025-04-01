@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਦਾ ਸਿਮਰਨ ਕਰਦਿਆਂ ਸਾਰੇ) ਕਲੇਸ਼ ਮਿਟ ਜਾਂਦੇ ਹਨ, ਸੁਖਾਂ ਵਿਚ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕਾਉ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟਹਿ = ਮਿਟ ਜਾਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਸੁਖ ਨਿਵਾਸੁ = ਸੁਖਾਂ ਵਿਚ ਨਿਵਾਸ। ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

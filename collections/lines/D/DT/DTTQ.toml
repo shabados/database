@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਮੌਜੂਦ ਹੈ, (ਪਰ ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਮਨ-) ਚੋਰ (ਉਸ ਅੰਮ੍ਰਿਤ ਨੂੰ) ਚੁਰਾਈ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰੁ = ਚੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਹੱਦੋਂ ਵੱਧ ਹੈਰਾਨੀ ਕਾਰਨ ਬਹੁਤ ਪਰੇਸ਼ਾਨ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸ ਜ਼ ਹੈਰਾਨੀ ਪ੍ਰੀਸ਼ਾਂ ਮਾਂਦਾ ਅੰਦ ।੨੭੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

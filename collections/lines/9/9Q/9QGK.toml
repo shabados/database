@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਸਦਾ) ਆਪਣੇ ਗੁਰੂ ਦੀ ਸੋਭਾ ਕਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਾਲਾਹਿ = ਵਡਿਆਇਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

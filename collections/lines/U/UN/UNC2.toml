@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਮੇਰੀ ਇੱਜ਼ਤ ਰੱਖ ਲਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜੂ = ਹੇ ਪ੍ਰਭੂ ਜੀ! ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

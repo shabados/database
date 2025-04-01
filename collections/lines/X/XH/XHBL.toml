@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ) ਨੇੜੇ ਵੱਸਦਾ ਵੇਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ। ਪੇਖੁ = ਵੇਖ। ਕਰਣਹਾਰ = ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

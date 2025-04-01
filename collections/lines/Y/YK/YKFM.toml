@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਤ ਨੂੰ ਰਾਸਾਂ ਵਿਚ (ਭਗਤੀ ਵਜੋਂ) ਜਾਗਦਾ ਭੀ ਹੈਂ, ਉਥੇ ਪੈਰਾਂ ਨਾਲ ਤੂੰ ਨੱਚਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ ਨੂੰ। ਭਗਤਿ = ਰਾਸਾਂ ਦੀ ਭਗਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

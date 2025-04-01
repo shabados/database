@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੋਰ ਸਾਰੀਆਂ ਫੋਕੀਆਂ ਗੱਲਾਂ ਛੱਡ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਚਨ ਰਚਨਾ = ਫੋਕੀਆਂ ਗੱਲਾਂ। ਤਿਆਗਿ = ਤਿਆਗ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

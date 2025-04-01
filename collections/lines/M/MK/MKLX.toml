@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਮੈਂ ਤਾਂ ਹਾਂ ਨਾ-ਚੀਜ਼। ਭਲਾ ਮੈਂ ਤੇਰਾ ਅੰਤ ਕਿਵੇਂ ਪਾ ਸਕਾਂ?) ਮੈਂ ਗੁਣ-ਹੀਣ ਵਿਚ ਕੋਈ ਭੀ ਗੁਣ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ ਨਿਰਗੁਣ = ਮੈਂ ਗੁਣ-ਹੀਣ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

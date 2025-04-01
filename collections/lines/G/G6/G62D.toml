@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਸੋਨੇ ਵਰਗਾ ਤੇਰਾ ਨਰੋਆ ਜਿਸਮ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰੋਗ = ਰੋਗ-ਰਹਿਤ, ਨਰੋਆ। ਕੰਚਨ ਦੇਹੀ = ਸੋਨੇ ਵਰਗਾ ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

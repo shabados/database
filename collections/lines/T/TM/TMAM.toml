@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ (ਸਫਲ ਜੀਵਨ ਵਾਲੇ ਸਿਰਫ਼ ਉਹੀ) ਵੇਖੇ ਜਾਂਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਤ = ਜੀਊਂਦੇ, ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ। ਪੇਖੇ = ਵੇਖੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

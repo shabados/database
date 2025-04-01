@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਉਸਨੂੰ ਆਪਣੀ ਬਖਸ਼ਿਸ਼ ਦੇ ਨੂਰ ਤੋਂ ਉਤਪੰਨ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕਸ਼ ਆਫ਼ਰੀਦਾ ਜ਼ਿ ਨੂਰਿ ਕਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

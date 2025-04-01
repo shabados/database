@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਸਾਰ ਵਿਚ ਜਿਸ ਥਾਂ ਭੀ ਜਾਈਏ, ਉਥੇ ਹੀ ਮਾਲਕ-ਪ੍ਰਭੂ ਹਾਜ਼ਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿ = ਵਿਚ। ਤਿਥੈ = ਉਥੇ ਹੀ। ਸਾਈ = ਸਾਈਂ, ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

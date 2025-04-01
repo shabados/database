@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਰੁਪਇਆਂ ਦੇ (ਭਾਵ, ਕੀਮਤੀ) ਵਾਲੇ ਤੇ ਹਾਰ ਪਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁੰਦੜੇ = ਸੋਹਣੇ ਸੋਹਣੇ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

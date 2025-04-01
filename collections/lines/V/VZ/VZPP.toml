@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਤੇਰੇ) ਭਗਤ ਤੇਰਾ ਜਸ (ਸਦਾ) ਗਾਂਦੇ ਰਹਿੰਦੇ ਹਨ। ਹੇ ਜਗਤ ਦੇ ਨਾਥ ਪ੍ਰਭੂ! (ਤੇਰੇ ਭਗਤਾਂ ਨੇ) ਸਦਾ ਤੇਰਾ ਨਾਮ ਜਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ। ਹਰਿ ਹਰਿ = ਹੇ ਹਰੀ! ਜਗੰਨਥਈ = ਜਗੰਨਾਥ, ਜਗਤ ਦਾ ਨਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

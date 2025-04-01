@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ਸੁਲਤਾਨ ਵੀ ਹਨ ਅਤੇ ਦਰਵੇਸ਼ ਵੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਲਤਾਨ ਹਮ ਦਰਵੇਸ਼ ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ।੮੭।"
+page = 7
+line = 87
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

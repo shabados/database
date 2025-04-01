@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੈਨੂੰ ਆਪਣੇ ਅੰਦਰ ਹੀ ਹਰ ਪ੍ਰਕਾਰ ਦਾ ਮਾਲ ਮਤਾਅ ਮਿਲ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੰਦਰੂੰ ਯਾਬੀ ਮਤਾਇ ਹਰ ਚਿ ਹਸਤ ।੩੯੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

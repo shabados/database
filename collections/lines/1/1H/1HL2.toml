@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਸੰਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਨੰਦ ਪੈਦਾ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਨ ਕੈ = ਸੰਤਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

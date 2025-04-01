@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭਗਤ ਦੇ ਵਾਸਤੇ ਮਾਲ ਧਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ ਕੈ = ਭਗਤ ਦੇ (ਹਿਰਦੇ ਵਿਚ), ਭਗਤ ਵਾਸਤੇ। ਖਜੀਨਾ = ਖ਼ਜ਼ਾਨਾ, ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਇਹ ਜਗਤ ਗੁਰੂ ਦੀ ਬਾਣੀ ਸੁਣਦਾ ਹੈ ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਸੁਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਬਾਣੀ = ਗੁਰੂ ਦੀ ਬਾਣੀ। ਸੁਣਾਏ = (ਆਪਣੇ ਆਪ ਨੂੰ) ਸੁਣਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

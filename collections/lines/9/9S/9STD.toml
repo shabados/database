@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਆਤਮਕ ਜੀਵਨ ਲੁਟਾ ਰਹੇ ਮਨੁੱਖ! (ਚੰਦ ਦੀ) ਚਾਨਣੀ ਸਾਰੇ ਆਕਾਸ਼ ਉਤੇ ਖਿਲਰੀ ਹੋਈ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਕਰ = ਚਾਂਦਨੀ (मस्करी = ਚੰਦ੍ਰਮਾ), ਚੰਦ ਦੀ ਚਾਨਣੀ। ਅੰਬਰੁ = ਆਕਾਸ਼। ਛਾਇ ਰਹੀ = ਛਾ ਰਹੀ ਹੈ, ਢਕ ਰਹੀ ਹੈ, ਖਿਲਰ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

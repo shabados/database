@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਭਜਨੀਕ ਮਹਾਤਮਾ # ਮੈਨੂੰ ਸੋਹਣਿਆਣ ਨੂੰ ਵੇਖਣ ਤੋਣ ਨ ਰੋਕ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਦ ਮਰਾ ਜ਼ਿ ਦੀਦਾਨਿ ਖ਼ੂਬਾਣ ਮਨਆ ਮਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

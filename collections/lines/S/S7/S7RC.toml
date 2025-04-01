@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਇਹਨਾਂ ਤੋਂ ਬਚਣ ਲਈ) ਮੈਂ ਕਦੀ ਜਤਨ ਕਰਦਾ ਹਾਂ, ਮੈਂ ਤੀਰਥਾਂ ਤੇ ਜਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਵਨੁ ਕਰਉ = (ਮੈਂ ਤੀਰਥਾਂ ਤੇ) ਗਵਨ ਕਰਦਾ ਹਾਂ। ਅਨਿਕ ਜਤਨ ਕਰਉ = ਮੈਂ ਕਈ ਜਤਨ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

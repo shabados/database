@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਕਿਨੇ ਕਰੂੰਜੜੇ, ਕਿਤਨੇ ਦਬਗਰ ਤੇ ਕਸਾਈ ਹਨ।"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਕਰੂੰਜੜੇ=ਸਬਜ਼ੀ ਵੇਚੂ। ਦਬਗਰ=ਕੁੱਪੇ ਬਨਾਉਣ ਵਾਲੇ।"

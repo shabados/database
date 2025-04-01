@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਇਹੋ ਜਿਹੀਆਂ ਬਾਹਰਲੀਆਂ ਗੱਲਾਂ ਮਾਲਕ ਦੇ ਸਾਮ੍ਹਣੇ ਕਰੇ, ਤਾਂ ਉਹ ਨੌਕਰ ਮਾਲਕ ਦੀ ਖ਼ੁਸ਼ੀ ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਦੁ = ਪ੍ਰਸੰਨਤਾ, ਖ਼ੁਸ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

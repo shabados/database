@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਇੱਕ ਗਿਆਨਵਾਨ ਹੀ ਸਿਦਕ ਈਮਾਨ ਦਾ ਬੰਦਾ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਆਰਿਫ਼ ਸਾਹਿਬਿ ਈਮਾਂ ਬਵਦ ।੨੫੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

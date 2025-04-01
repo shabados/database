@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਕੋਮਲ ਚਰਨਾਂ ਦੀ ਉਪਾਸਨਾ ਕਰਦਾ ਰਿਹਾ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਚਰਣਾਰਬਿੰਦ = ਚਰਣ-ਅਰਬਿੰਦ {ਅਰਬਿੰਦ = ਕਮਲ}, ਚਰਣ ਕਮਲ। ਉਪਾਸ = ਉਪਾਸਨਾ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

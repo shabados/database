@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਹੇ ਵੀਰ!) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਜਗਤ-ਖੇਡ ਖੇਡਦਾ ਹੈ, ਆਪ ਹੀ ਇਹ ਖੇਡ ਵੇਖਦਾ ਹੈ। ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਇਹ ਰਚਨਾ ਰਚੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਖੇਲੈ = ਜਗਤ-ਖੇਡ ਖੇਡਦਾ ਹੈ। ਰਚਨੁ ਰਚਾਇਆ = ਰਚਨਾ ਰਚੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਪਾਤਿਸ਼ਾਹ! ਮੇਹਰ ਕਰ, ਮੈਨੂੰ ਗੁਰੂ ਮਿਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਸਤਗੁਰ ਮੇਲਹੁ = ਗੁਰੂ ਮਿਲਾ। ਹਰਿ ਰਾਇਆ = ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

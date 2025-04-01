@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਸੈਣਕੜੇ ਸਾਲਾਣ ਦੀ ਉਮਰ ਵਿਚ ਕੁਝ ਪ੍ਰਾਪਤ ਨ ਹੋਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਚਿ ਦਰ ਸਦ-ਸਾਲਾ ਉਮਰਸ਼ ਨਭਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

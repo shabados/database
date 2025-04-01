@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਠੂਹਿਆਂ ਦਾ ਮਾਂਦਰੀ ਹੋ ਕੇ (ਜੋ ਮਨੁੱਖ) ਸੱਪਾਂ ਨੂੰ ਜਾ ਹੱਥ ਪਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰੀ = ਮਾਂਦਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

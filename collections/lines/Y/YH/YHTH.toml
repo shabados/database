@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਪਿਆਲਾ ਤਾਣ ਨੱਕਾ ਨੱਕ ਭਰਿਆ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਮਿ ਮੁਹੱਬਤ ਅਸਤ ਕਿ ਸਰਸ਼ਾਰ ਮੀ-ਰਵਦ ।੨੮।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

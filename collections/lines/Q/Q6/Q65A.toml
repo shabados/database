@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਤੇਰੇ ਵਣਜਾਰੇ ਹਾਂ, ਸਾਨੂੰ ਇਹ ਨਿਸਚੇ ਕਰਾ ਕਿ ਨਾਮ ਦੀ ਪੂੰਜੀ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿੜਾਇ = ਦ੍ਰਿੜ ਕਰਾ, ਨਿਸਚੇ ਕਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

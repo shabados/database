@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਉਸ ਮਾਲਕ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ = ਤੋਂ। ਹਉ = ਹਉਂ, ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

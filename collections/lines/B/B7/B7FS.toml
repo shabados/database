@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ (ਸਦਾ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੀ (ਫਸੇ ਰਹਿੰਦੇ ਹਨ) ਉਹਨਾਂ ਦੇ ਮਨ ਤੋਂ ਤੂੰ ਭੁੱਲ ਜਾਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ ਭਾਏ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

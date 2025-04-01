@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ, ਕ੍ਰੋਧ, ਮਾਇਆ ਦਾ ਮੋਹ, ਹੰਕਾਰ, ਈਰਖਾ-ਮੇਰੇ ਪੱਲੇ, ਬੱਸ! ਇਹੀ ਧਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਦ = ਅਹੰਕਾਰ। ਮਤਸਰ = ਈਰਖਾ। ਸੰਪੈ = ਧਨ। ਮੋ ਮਾਹੀ = ਮੇਰੇ ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

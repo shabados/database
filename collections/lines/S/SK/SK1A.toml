@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਤੋਂ ਵੱਡਾ ਧਰਮ ਤੇ ਦਾਨ ਹੈ ਨਾਮ-ਜਪਣ ਦਾ ਤੇ ਇਹੀ ਕੰਮ ਤੇਰੇ ਨਾਲ ਜਾ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾ ਧਰਮ = ਨਾਮ-ਧਰਮ। ਦਾਨ ਕਿਰਿਆ = ਨਾਮ-ਦਾਨ ਦੀ ਕਿਰਿਆ। ਸੇ = ਇਹੀ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

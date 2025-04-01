@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਉ = ਗਾਂਦਾ ਰਹੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

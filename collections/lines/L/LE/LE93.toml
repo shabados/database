@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸਾਰੇ (ਖ਼ਿਆਲ) ਧਰਮ ਦੇ ਹੀ (ਉਠਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਧਰਮ = ਧਰਮ ਦੇ ਖ਼ਿਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

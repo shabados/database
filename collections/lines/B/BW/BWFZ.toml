@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਉਸ ਨਾਲ ਸਾਂਝ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਕੈ ਸਬਦਿ = ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਪਛਾਤਾ = ਪਛਾਣਿਆ ਜਾ ਸਕਦਾ ਹੈ, ਸਾਂਝ ਪਾਈ ਜਾ ਸਕਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

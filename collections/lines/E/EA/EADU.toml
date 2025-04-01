@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਪ੍ਰਭੂ ਦੇ ਪੈਰ ਫੜੇ ਹਨ ਉਹ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਮੱਲੀ ਰੱਖਦਾ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ ਪ੍ਰਭੂ ਦੀ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

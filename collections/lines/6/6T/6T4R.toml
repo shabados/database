@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ! ਇਹ ਦਿੱਸਦਾ ਪਸਾਰਾ ਸਭ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਿਮਾਨ = ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ। ਮਿਥੇਨਾ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

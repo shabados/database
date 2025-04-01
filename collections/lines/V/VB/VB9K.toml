@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਜਿਸ ਨੂੰ ਹਰਿ-ਨਾਮ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ, ਉਸ ਦੀ ਸੋਭਾ ਖਿੱਲਰ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਇ = ਸੋਭਾ। ਪ੍ਰਗਟਿ = ਖਿੱਲਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

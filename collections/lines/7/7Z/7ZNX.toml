@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਗੁਰੂ ਰਾਮਦਾਸ) ਦੀ ਚਰਨੀਂ ਲੱਗਿਆਂ, ਦਲਿੱਦ੍ਰ ਨਹੀਂ ਚੰਬੜਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ (ਗੁਰੂ ਰਾਮਦਾਸ) ਨੂੰ। ਭੇਟੇ = ਭੇਟਿਆਂ, ਚਰਨੀਂ ਲੱਗਿਆਂ। ਚੰਪੈ = ਚੰਬੜਦਾ। ਦਾਰਿਦੁ = ਦਲਿਦ੍ਰ, ਗਰੀਬੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

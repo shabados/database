@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ (ਸਦਾ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਜੁ = ਭਜੁ, ਜਪਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾਣ ਲਈ ਜਹਾਜ਼ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰਣ = ਜਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

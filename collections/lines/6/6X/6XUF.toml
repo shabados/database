@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਇਹ ਸਮਝ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਆਉਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝ = ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

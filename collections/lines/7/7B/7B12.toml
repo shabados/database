@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਉਸ (ਦੀ ਯਾਦ) ਤੋਂ ਬਿਨਾ ਜੀਵਨ ਸੁਖੀ ਨਹੀਂ ਗੁਜ਼ਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਸਰੈ = ਚੰਗਾ ਨਹੀਂ ਲੰਘ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

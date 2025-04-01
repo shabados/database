@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਯਕੀਨ ਜਾਣੋ ਕਿ ਜਿਹੜਾ ਜੀਵ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਉਹ ਮਰਦਾ ਭੀ (ਜ਼ਰੂਰ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਹੁ = ਯਕੀਨ ਜਾਣੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

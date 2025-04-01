@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਭਾਗੇ ਹਨ ਉਹ ਪੈਰ, ਜਿਹੜੇ ਉਸ ਦੀ ਗਲੀ ਵਿੱਚੋਂ ਲੰਘੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਪਾਏ ਕੂ ਦਰ ਕੂਇਸ਼ ਗੁਜ਼ਸ਼ਤ ।੩੫੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

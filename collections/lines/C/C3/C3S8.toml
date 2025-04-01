@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! (ਅਸਾਂ ਜੀਵਾਂ ਉੱਤੇ) ਦਇਆ ਕਰੀ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁਗ੍ਰਹੁ = ਮਿਹਰ, ਕਿਰਪਾ {ਪੁਲਿੰਗ}। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

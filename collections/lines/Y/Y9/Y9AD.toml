@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਹੀ (ਮੇਰੇ ਸਿਰ ਉਤੇ ਉਹ) ਮਾਲਕ ਹੈ ਜਿਸ ਨੂੰ ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਪਰਵਾਹੁ = ਬੇ-ਮੁਥਾਜ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

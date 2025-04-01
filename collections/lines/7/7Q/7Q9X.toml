@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪੋ! (ਮੇਰੇ ਹਿਰਦੇ-) ਘਰ ਵਿਚ (ਮੇਰਾ) ਕਰਤਾਰ ਆ ਵੱਸਿਆ ਹੈ (ਹੁਣ ਤੁਸੀ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚੋਂ) ਚਲੇ ਜਾਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੰਞਹੁ = ਚਲੇ ਜਾਉ। ਕਿਲਵਿਖ = ਪਾਪ। ਕਿਲਵਿਖਹੁ = ਹੇ ਪਾਪੋ! ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

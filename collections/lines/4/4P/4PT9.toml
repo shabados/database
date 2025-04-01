@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਆਪਣੀ) ਅੱਖੀਂ (ਪਰਮਾਤਮਾ ਦਾ ਅਜਬ) ਕੌਤਕ ਵੇਖਿਆ ਹੈ (ਅਜਬ) ਤਮਾਸ਼ਾ ਵੇਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨਹੁ = ਅੱਖਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

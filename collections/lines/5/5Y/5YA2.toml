@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕੋਈ ਦੋਜ਼ਖ਼ ਸੀ ਨਾਹ ਬਹਿਸ਼ਤ ਸੀ, ਤੇ ਨਾਹ ਹੀ ਮੌਤ ਲਿਆਉਣ ਵਾਲਾ ਕਾਲ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੈ = ਨਾਸ ਕਰਨ ਵਾਲਾ। ਕਾਲਾ = ਕਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

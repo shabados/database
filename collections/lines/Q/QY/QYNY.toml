@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ ਦਾਸ) ਨਾਨਕ (ਤੈਥੋਂ ਤੇਰਾ) ਨਾਮ (ਹੀ ਜ਼ਿੰਦਗੀ ਦਾ) ਆਸਰਾ ਮੰਗਦਾ ਹੈ ॥੪॥੧॥੧੧੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਂਗਤੁ = ਮੰਗਦਾ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

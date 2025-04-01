@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਕੋਈ ਭੁੱਖ ਤ੍ਰੇਹ ਭੀ ਨਹੀਂ ਹੈ, ਰੱਜਿਆ ਪੁੱਜਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜਾ ਧਾਇਆ = ਰੱਜਿਆ-ਪੁੱਜਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

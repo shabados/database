@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਸਤਿਗੁਰੂ ਮਿਲਦਾ ਹੈ ਉਸ ਦੇ ਮਨ ਵਿਚ ਉਹ ਪ੍ਰਭੂ ਵੱਸ ਪੈਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟੈ = ਮਿਲਦਾ ਹੈ। ਸੋਇ = ਉਹ ਪ੍ਰਭੂ। ਤਿਸੁ ਮਨਿ = ਉਸ (ਮਨੁੱਖ) ਦੇ ਮਨ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

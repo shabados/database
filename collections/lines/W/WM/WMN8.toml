@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਜੇ ਕੋਈ ਗੁਰਮੁਖਿ ਮੈਨੂੰ ਤੇਰੀ ਕੋਈ ਗੱਲ ਸੁਣਾਵੇ ਤਾਂ ਮੈਂ ਉਸ ਅੱਗੇ ਕੇਹੜੀ ਭੇਟ ਧਰਾਂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੇਹੜਾ ਮਨੁੱਖ। ਦੀਜੈ = ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

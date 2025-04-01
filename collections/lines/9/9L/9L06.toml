@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦੇ ਭਜਨ ਤੋਂ ਬਿਨਾ ਕਦੇ ਸੁਪਨੇ ਵਿਚ ਭੀ ਸੁਖ ਨਹੀਂ ਮਿਲਦਾ ॥੨॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਪਨੈ = ਸੁਪਨੇ ਵਿਚ ॥੨॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

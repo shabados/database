@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਤੂੰ ਪ੍ਰਭੂ ਦਾ ਸੋਹਣਾ ਦਰਸਨ ਕਰ ਲਵੇਂਗਾ, ਤੈਨੂੰ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਨਹੀਂ ਵਿਆਪੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਉ = ਇਸ ਤਰ੍ਹਾਂ। ਦਰਸਾਵੜਾ = ਸੋਹਣਾ ਦੀਦਾਰ। ਵਾਉ = ਹਵਾ। ਤਤੀ ਵਾਉ = ਸੇਕ, ਦੁੱਖ-ਕਲੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਚਾਉ ਦੀ ਧੁਨ ਹਰ ਨਾਰੀ ਪੁਰਸ਼ ਦੇ ਸਿਰ ਵਿਚ ਸਮਾਈ ਹੋਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਊ ਅੰਦਰ ਸਰਿ ਮਰਦੋ ਜ਼ਨ ਅਸਤ ।੩੬੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੈਂ ਜਿਥੇ ਜਿਥੇ ਗਿਆ ਹਾਂ, ਥਾਂ ਥਾਂ 'ਦੁਨੀਆ' ਵਾਲੇ ਰੰਗ-ਤਮਾਸ਼ੇ ਹੀ (ਵੇਖੇ ਹਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ ਜਹ = ਜਿਥੇ ਜਿਥੇ। ਹਉ = ਮੈਂ। ਕਉਤਕ = ਤਮਾਸ਼ੇ, ਰੰਗ-ਤਮਾਸ਼ੇ। ਠਾਓ ਠਾਇ = ਥਾਂ ਥਾਂ ਤੇ, ਹਰੇਕ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਸ ਜਹਾਨ ਦੇ ਸਾਰੇ ਲੋਕ ਉਸ ਦੇ ਬਣਾਏ ਹੋਏ ਦੇਵਤੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਨਾਸੂਤੀਆਂ ਮਲਾਇਕਿ ਊ ।"
+page = 1
+line = 19
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ! ਹੇ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ! ਹੇ ਮਹਾ ਪੁਰਖ ਗੁਰੂ! ਮੈਂ ਤੇਰੇ ਪਾਸ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਕੇ ਜਨ = ਹੇ ਹਰੀ ਦੇ ਸੇਵਕ! ਸਤਪੁਰਖਾ = ਹੇ ਮਹਾ ਪੁਰਖ! ਹਉ = ਮੈਂ। ਬਿਨਉ = {विनय} ਬੇਨਤੀ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

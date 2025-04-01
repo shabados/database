@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਤੱਕੜ ਅਮੋਲਕ ਹਨ ਤੇ ਉਹ ਵੱਟਾ ਅਮੋਲਕ ਹੈ (ਜਿਸ ਨਾਲ ਜੀਵਾਂ ਦੇ ਚੰਗੇ-ਮੰਦੇ ਕੰਮਾਂ ਨੂੰ ਤੋਲਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਲੁ = ਤੋਲ, ਤੱਕੜ। ਪਰਵਾਣੁ = ਪ੍ਰਮਾਣ, ਤੋਲਣ ਵਾਲਾ ਵੱਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

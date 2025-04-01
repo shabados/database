@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਆਤਮਕ ਅਵਸਥਾ ਇਕ ਐਸੀ) ਪਾਤਸ਼ਾਹੀ (ਹੈ ਜੋ) ਸਦਾ ਹੀ ਟਿਕੀ ਰਹਿਣ ਵਾਲੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਮੁ = ਥਿਰ ਰਹਿਣ ਵਾਲੀ। ਦਾਇਮੁ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

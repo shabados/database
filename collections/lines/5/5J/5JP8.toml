@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਹ ਸੰਸਾਰ ਮੇਰੇ ਬਿਨਾਂ ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੁਦਾ ਗੁਮਰਾਹ ਆਲਮੇ ਬੇਮਨ ।"
+page = 1
+line = 34
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

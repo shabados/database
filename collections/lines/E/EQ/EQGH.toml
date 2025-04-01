@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ (ਆਪ ਹੀ) ਰੋਗੀ ਹੈ, ਮੈਂ ਕਿਸ ਨੂੰ ਲੱਭ ਕੇ ਆਪਣਾ ਰੋਗ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹ ਦੇਖਿ = ਕਿਸ ਨੂੰ ਲੱਭ ਕੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

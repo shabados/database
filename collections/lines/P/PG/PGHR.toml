@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਉੱਚੀ ਜ਼ਿੰਦਗੀ) ਦਾ ਅੰਦਾਜ਼ਾ ਕੌਣ ਲਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਤਿ = ਮਾਪ, ਮਰਯਾਦਾ, ਅੰਦਾਜ਼ਾ। ਬਖਾਨੈ = ਬਿਆਨ ਕਰੇ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੱਲਰ ਵਿਚ ਖੇਤੀ ਬੀਜੀ ਜਾਏ, ਤਾਂ (ਬੀਜਣ ਵਾਲਾ) ਉਸ ਵਿਚੋਂ ਲਾਭ ਨਹੀਂ ਖੱਟ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਰਿ = ਕੱਲਰ ਵਿਚ। ਲਾਹਾ = ਲਾਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

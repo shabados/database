@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ-ਵੇੜ੍ਹੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਲੇਖੇ) ਲਿਖਦੇ ਲਿਖਦੇ (ਅਨੇਕਾਂ) ਕਾਗ਼ਜ਼ ਤੇ (ਬੇਅੰਤ) ਸਿਆਹੀ ਮੁਕਾ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸੁ = ਸਿਆਹੀ। ਖੋਈ = ਮੁਕਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੁਰੂ ਅਰਜੁਨ!) ਕਲ੍ਯ੍ਯ ਕਵੀ ਹੱਥ ਜੋੜ ਕੇ (ਆਪ ਦੀ) ਸਿਫ਼ਤ ਉਚਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋੜਿ ਕਰ = ਹੱਥ ਜੋੜ ਕੇ। ਕਰ = ਹੱਥ (ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

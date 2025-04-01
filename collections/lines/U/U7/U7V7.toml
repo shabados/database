@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦੇ ਨਾਮ ਅਣਗਿਣਤ ਹਨ (ਪ੍ਰਭੂ ਦੇ ਨਾਮਾਂ ਦੀ ਗਿਣਤੀ ਤਕ) ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਸਕਦੀ, ਕਦੇ ਭੀ ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸੰਖ = (ਸੰਖਿਆ = ਗਿਣਤੀ) ਅਣਗਿਣਤ। ਅਗਮ = ਅਪਹੁੰਚ। ਹਹਿ = ਹਨ (ਬਹੁ-ਵਚਨ)। ਰਾਇਆ = ਰਾਜਾ, ਪਾਤਿਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

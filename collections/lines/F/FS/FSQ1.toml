@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੁੱਛ ਜਿਹਾ ਜੀਵ ਕੀਹ ਆਖ ਸਕਦਾ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਕਿਆ ਆਖਾ = ਕਿਆ ਆਖਾਂ, ਮੈਂ ਕੀਹ ਕਹਿ ਸਕਦਾ ਹਾਂ? ਕਿਰਮ = ਕੀੜਾ। ਕਿਰਮ ਜੰਤੁ = ਨਿੱਕਾ ਜਿਹਾ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

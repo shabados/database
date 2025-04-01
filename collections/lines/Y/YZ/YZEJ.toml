@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀਆਂ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣ ਸੁਣ ਕੇ ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ ਸੁਣ ਕੇ। ਸੋਇ = {श्रुति} ਖ਼ਬਰ, ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਾਇਆ ਇਕ ਐਸਾ ਮਹਾਨ ਔਖਾ (ਸਮੁੰਦਰ) ਹੈ (ਜਿਸ ਵਿਚੋਂ) ਤਰਨਾ ਬਹੁਤ ਹੀ ਕਠਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਤਰ = ਜਿਸ ਤੋਂ ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੋਵੇ। ਮਾਏ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

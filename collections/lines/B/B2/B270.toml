@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਇੱਕ-ਰਸ ਵਾਜੇ ਵੱਜ ਰਹੇ ਹਨ। ਉਹ ਅਵਸਥਾ ਅਚਰਜ ਤੇ ਹੈਰਾਨੀ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਦ = {अनहत} ਬਿਨਾ ਵਜਾਏ ਵੱਜ ਰਹੇ। ਬਿਸਮਾਦ = ਹੈਰਾਨੀ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

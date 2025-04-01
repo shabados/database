@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਾਇਆਂ!) ਤੈਨੂੰ ਕੁਝ ਭੀ ਸੁਰਤ ਨਹੀਂ ਰਹੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

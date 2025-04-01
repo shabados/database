@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ, ਹੇ ਭਾਈ!) ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਹੀ ਪ੍ਰੇਮ ਨਾਲ ਰਾਮ ਦਾ ਨਾਮ ਸਿਮਰੋ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਪ੍ਰੇਮ ਨਾਲ। ਆਤਮੈ = ਆਤਮਾ ਵਿਚ, ਆਪਣੇ ਅੰਦਰ। ਰਵਹੁ = ਸਿਮਰੋ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

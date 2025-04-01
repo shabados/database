@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ 'ਪਰਗਾਸ' ਦੀ ਰਾਹੀਂ ਮਾਇਆ ਵਿਚ ਵਰਤਦਾ ਹੋਇਆ ਭੀ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਤੇ = ਉਸ ('ਪਰਗਾਸ') ਦੀ ਰਾਹੀਂ। ਬਿਖਿਆ = ਮਾਇਆ। ਉਦਾਸੁ = ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

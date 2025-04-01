@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹੋਰ ਸਾਰੇ ਹੀਲੇ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵ = ਹੀਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

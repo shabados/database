@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਅਵਸਥਾ ਵਿਚ (ਮੇਰੇ ਅੰਦਰ, ਮਾਨੋ) ਇੱਕ-ਰਸ ਵੀਣਾ ਵੱਜ ਰਹੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਦ = ਇੱਕ-ਰਸ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

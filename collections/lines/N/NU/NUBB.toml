@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਧਰਤੀ ਦਾ ਰਾਖਾ ਅਤੇ ਅਬਿਨਾਸੀ ਪ੍ਰਭੂ ਹੀ ਪੂਜਾ ਦਾ ਹੱਕਦਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੁਤ = ਅੱਚੁਤ (अच्युत} ਕਦੇ ਨਾਸ ਨਾਹ ਹੋਣ ਵਾਲਾ। ਪੂਜਾ ਜੋਗ = ਪੂਜਾ ਦਾ ਹੱਕਦਾਰ। ਗੋਪਾਲ = ਧਰਤੀ ਦਾ ਰਾਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

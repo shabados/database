@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸੰਸਾਰ ਇਕ ਅੰਨ੍ਹਾ ਖੂਹ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹ = ਘਰ, ਸੰਸਾਰ। ਕੂਪ = ਖੂਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

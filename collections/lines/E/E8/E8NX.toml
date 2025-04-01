@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਜੀ! ਜਦੋਂ ਤੂੰ ਮੇਰਾ ਮਿਤ੍ਰ ਹੈਂ, ਤਾਂ ਮੈਨੂੰ ਕੋਈ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਨਹੀਂ ਰਹਿ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾੜਾ = ਧੋਖਾ, ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

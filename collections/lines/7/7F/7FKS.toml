@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਾਇਆ ਨੂੰ ਇਕੱਠੀ ਕਰਨ ਦਾ ਕੀ ਲਾਭ, ਜੋ (ਜਗਤ ਤੋਂ ਤੁਰਨ ਵੇਲੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੀਐ = ਇਕੱਠੀ ਕਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

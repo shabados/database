@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰੇ ਔਖੇ ਸਮੇਂ ਤੇ ਸਥਿਤੀ ਨੂੰ ਸੌਖਾ ਬਣਾ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐਹਦਿ ਮਨ ਸਖ਼ਤਗੀਰ ਬਰ ਕੁਨ ਸਾਜ਼ ।੨੯।"
+page = 1
+line = 29
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

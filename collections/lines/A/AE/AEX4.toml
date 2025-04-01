@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਹੇ ਕਿਰਪਾ ਕਰਨ ਵਾਲੇ! ਹੇ ਮੋਹਨ! ਹੇ ਸਾਡੇ ਦੁੱਖ-ਕਲੇਸ਼ ਦੂਰ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨ = ਹੇ ਮਨ ਨੂੰ ਖਿੱਚ ਪਾਣ ਵਾਲੇ! ਕਲਿ = ਝਗੜੇ। ਭੰਜਨਾ = ਨਾਸ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

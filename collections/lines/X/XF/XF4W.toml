@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਪਛਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪਰਸਾਦੀ = ਗੁਰ ਪਰਸਾਦਿ, ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਹੁਕਮੁ = (ਪਰਮਾਤਮਾ ਦੀ) ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

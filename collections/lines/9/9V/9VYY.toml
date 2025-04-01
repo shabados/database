@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਆਪਾ-ਭਾਵ ਛੱਡ ਕੇ, ਤੇ, ਮਨ ਲਾ ਕੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਕਾਰ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਛੋਡਿ = ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

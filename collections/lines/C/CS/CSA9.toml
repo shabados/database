@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੱਜਣ! ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਸੁਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਣ = ਹੇ ਸੱਜਣ! ਮੈਡੜੇ = ਮੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

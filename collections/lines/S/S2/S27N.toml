@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਸਿਰਫ਼ ਉਹ ਭਗਵਾਨ ਪੁਰਖ ਹੀ (ਸਲਾਹੁਣ-ਜੋਗ ਹੈ ਜੋ) ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ ॥੨॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨੁ = ਵਿਆਪਕ ॥੨॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

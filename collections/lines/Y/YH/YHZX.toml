@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਭਗਤਾਂ ਨੂੰ ਮੌਤ ਡਰਾ ਨਹੀਂ ਸਕਦੀ, ਮੌਤ ਦਾ ਡਰ ਭਗਤਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮੁ = ਮੌਤ, ਮੌਤ ਦਾ ਡਰ। ਜੋਹਿ ਨ ਸਾਕੈ = ਤੱਕ ਨਹੀਂ ਸਕਦਾ। ਕਾਲੁ = ਮੌਤ ਦਾ ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

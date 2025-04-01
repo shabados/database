@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਹੇ ਨਾਨਕ! ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰ ਕੇ ਮੈਂ ਉਸ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ ਕੇ। ਭਜਉ = ਭਜਉਂ, ਮੈਂ ਜਪਦਾ ਹਾਂ। ਭਰਪੂਰਿ = ਸਰਬ-ਵਿਆਪਕ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

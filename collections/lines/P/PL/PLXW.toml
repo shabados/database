@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪ੍ਰਹਲਾਦ ਦੀ ਇੱਜ਼ਤ ਪਰਮਾਤਮਾ ਨੇ ਆਪ ਰੱਖੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਜ = ਲਾਜ, ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

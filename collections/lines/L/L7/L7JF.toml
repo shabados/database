@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਆਖਦਾ ਹੈ (ਹਾਇ!) ਵਿਛੋੜਾ (ਬੁਰਾ) (ਹਾਇ!) ਵਿਛੋੜਾ (ਬੁਰਾ)। ਪਰ ਹੇ ਵਿਛੋੜੇ! ਤੂੰ ਪਾਤਸ਼ਾਹ ਹੈਂ (ਭਾਵ, ਤੈਨੂੰ ਮੈਂ ਸਲਾਮ ਕਰਦਾ ਹਾਂ, ਕਿਉਂਕਿ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਹਾ = ਵਿਛੋੜਾ। ਆਖੀਐ = ਆਖਿਆ ਜਾਂਦਾ ਹੈ। ਸੁਲਤਾਨੁ = ਰਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

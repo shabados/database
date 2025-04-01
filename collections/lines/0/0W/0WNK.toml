@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ, ਮੇਰਾ ਚਿੱਤ ਜੁੜਿਆ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਚਰਣਿ = ਦੇ ਚਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

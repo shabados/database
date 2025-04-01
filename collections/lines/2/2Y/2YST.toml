@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ ਤੋਣ ਛੁਟ ਬਾਕੀ ਸਭ ਕੁਝ ਬੇਸਮਝੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰਿ ਯਾਦਸ਼ ਜੁਮਲਾ ਨਾਦਾਨੀ ਬਵਦ ।੭੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

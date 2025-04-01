@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾਤਾਰ ਪ੍ਰਭੂ ਨੇ (ਮੇਰੀ) ਅਰਦਾਸ ਸੁਣ ਲਈ ਤੇ (ਮੈਨੂੰ) ਢਾਢੀ ਨੂੰ ਆਪਣੇ ਮਹਲ ਵਿਚ ਬੁਲਾ ਲਿਆ (ਬੁਲਾਉਂਦਾ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾਰਿ = ਦਾਤਾਰ ਨੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਮਹਲਿ = ਮਹਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

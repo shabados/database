@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨੁੱਖਾ-ਸਰੀਰ (ਮਾਨੋ,) ਕਿਲ੍ਹਾ ਹੈ ਜੋ ਸੱਚੇ ਪ੍ਰਭੂ ਨੇ ਆਪ ਬਣਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟੁ = ਕਿਲ੍ਹਾ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

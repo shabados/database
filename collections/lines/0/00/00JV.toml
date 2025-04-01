@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉੱਤੇ ਭਾਗ ਜਾਗ ਪੈਂਦਾ ਹੈ, ਉਸ ਦਾ ਆਪਣੇ ਗੁਰੂ ਨਾਲ ਪਿਆਰ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ। ਸਨੇਹਾ = ਪਿਆਰ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

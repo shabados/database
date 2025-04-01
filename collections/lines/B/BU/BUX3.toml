@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਜੋ ਮਨੁੱਖ਼ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਵੱਸਦੇ ਹਨ) ਉਹਨਾਂ ਦੀ ਸਰਣੀ ਪਉ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਕੀ = ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦੀ। ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

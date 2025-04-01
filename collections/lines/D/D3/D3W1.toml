@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਗੁਰੂ ਦੇ ਚਰਨ ਵਸਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਾਇ = ਟਿਕਾ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

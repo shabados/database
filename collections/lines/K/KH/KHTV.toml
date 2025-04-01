@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਨਾਹ ਮੌਤ ਆਉਂਦੀ ਹੈ, ਨਾਹ ਬੁਢਾਪਾ ਉਸ ਦੇ ਨੇੜੇ ਢੁੱਕਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰੀਆ = ਬੁਢੇਪਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

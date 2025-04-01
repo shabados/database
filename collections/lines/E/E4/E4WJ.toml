@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਅਸਲ) ਮਿੱਤਰ ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭ ਲਵੋ। (ਜਿਸ ਦੇ) ਮਨ ਵਿਚ ਉਹ ਆ ਵੱਸਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋੜਿ ਲਹੁ = ਲੱਭ ਲਵੋ। ਮਨਿ = ਮਨ ਵਿਚ। ਵਸੈ = ਆ ਵੱਸਦਾ ਹੈ। ਵਡਭਾਗੁ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

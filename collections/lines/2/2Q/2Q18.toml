@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਦਿਲ ਦਾ ਮੰਦਰ ਰੱਬ ਨਾਲ ਵਸ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਨਾਇ ਦਿਲ ਅਜ਼ ਖ਼ੁਦਾ ਮਾਮੂਰ ਸ਼ੁਦ ।੨੮੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

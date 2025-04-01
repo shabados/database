@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਸਤਸੰਗ ਵਿਚ (ਰਹਿ ਕੇ) ਇਸ ਹਉਮੈ ਦਾ ਤਿਆਗ ਕਰੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਭਲਿਆਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਰਹਿ ਕੇ)। ਛੋਰੈ = ਛੱਡ ਦੇਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

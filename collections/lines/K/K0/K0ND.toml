@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਮਿਹਰ ਨਾਲ (ਹੀ) ਮੇਰੇ ਹਰੇਕ ਦਰਦ ਦਾ ਨਾਸ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਦ ਬਿਨਾਸੁ = ਦਰਦ ਦਾ ਨਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

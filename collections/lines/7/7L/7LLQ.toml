@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੀ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਾਣ ਵਾਲੀ ਸੜਨ ਮਿਟ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੰਝਾ = ਸੜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

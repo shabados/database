@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਮਝ ਲੈ ਕਿ) ਧਨ, ਇਸਤ੍ਰੀ, ਜਾਇਦਾਦ, ਘਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰਾ = ਇਸਤ੍ਰੀ। ਸੰਪਤਿ = ਸੰਪੱਤੀ, ਧਨ-ਪਦਾਰਥ। ਗ੍ਰੇਹ = ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

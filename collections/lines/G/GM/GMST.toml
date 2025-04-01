@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਅਥਾਹ ਤੇ ਅਡੋਲ ਠਾਕੁਰ! ਸਾਰੇ ਸੁਖ ਮੈਂ ਤੈਥੋਂ ਹੀ ਲੱਭੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਪਾਸੋਂ। ਅਗਹ = ਹੇ ਅਗਾਹ! ਹੇ ਅਥਾਹ ਪ੍ਰਭੂ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

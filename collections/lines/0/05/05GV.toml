@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਗੁਰਸਿੱਖੋ! ਸਰਧਾ ਨਾਲ ਗੁਰੂ ਗੁਰੂ ਜਪੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ ਕਰਿ = ਸਰਧਾ ਨਾਲ, ਦ੍ਰਿੜ੍ਹ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

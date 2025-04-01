@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕੀ ਦੱਸਾਣ ਕਿ ਤੇਰੇ ਬਿਨਾਣ ਮੇਰੇ ਦਿਲ ਦੀ ਕੀ ਹਾਲਤ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਮਨ ਬੇ ਤੂ ਚੂਨਾਸਤ ਚਿਹ ਗੋਇਦਾ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

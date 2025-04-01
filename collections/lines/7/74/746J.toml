@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! (ਹੁਣ) ਕਿਸੇ ਦੀ ਕੀਤੀ ਉਸਤਤਿ ਜਾਂ ਨਿੰਦਾ ਦਾ ਹੁਣ ਮੇਰੇ ਉਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਸੋਭਾ। ਕਰੇ ਕਿਆ ਕੋਈ = ਕਿਸੇ ਦੀ ਕੀਤੀ ਦਾ ਮੇਰੇ ਉਤੇ ਅਸਰ ਨਹੀਂ ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

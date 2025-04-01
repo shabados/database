@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਦੋਂ ਬਸੰਤ ਦਾ ਸਮਾ ਆਉਂਦਾ ਹੈ, (ਤਦੋਂ ਰੁੱਖ ਤਰਾਵਤ ਨਾਲ) ਸੰਘਣੀ ਛਾਂ ਵਾਲੇ, ਸੁਗੰਧੀ ਵਾਲੇ ਅਤੇ ਨਰਮ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਘਨ = ਸੰਘਣੀ ਛਾਂ ਵਾਲੇ। ਬਾਸੁ = ਸੁਗੰਧੀ। ਕੂਲੇ = ਨਰਮ, ਕੋਮਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

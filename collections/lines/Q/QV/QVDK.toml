@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚੇ ਦਾ ਸਰੂਪ ਹੀ ਸੱਚੇ ਦੇ ਨਾਮ ਦਾ ਨਿਸ਼ਾਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਕਸ਼ਿ ਹੱਕ ਯਾਅਨੀ ਨਿਸ਼ਾਨਿ ਨਾਮਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਤੂੰ ਸਹਾਈ ਬਣਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ ਨੂੰ, ਜਿਸ ਉਤੇ! ਸਮਰਥ = ਹੇ ਸਮਰਥ ਪ੍ਰਭੂ! ਅੰਗਾ = ਪੱਖ, ਸਹਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

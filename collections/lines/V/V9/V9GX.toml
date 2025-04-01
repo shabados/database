@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਗ੍ਰਿਹਸਤ-ਪਰਵਾਰ ਵਿੱਚ ਰਹਿੰਦੇ ਹੋਏ ਭੀ ਅਡੋਲ ਅਵਸਥਾ ਵਿੱਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਹ = ਗ੍ਰਿਹਸਤ। ਸਹਜਿ = ਸਹਿਜ ਵਿਚ, ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਆਪਣੇ ਪਰਮਾਤਮਾ ਨਾਲ (ਪਰਮਾਤਮਾ ਦੀ ਯਾਦ ਵਿਚ) ਸੁਚੇਤ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਨਾਲ। ਸਾਵਧਾਨੁ = (स-अवधान) ਸੁਚੇਤ। ਸ = ਸਹਿਤ, ਸਮੇਤ। ਅਵਧਾਨ = ਧਿਆਨ (attention)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

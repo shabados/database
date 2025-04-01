@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਗਤ ਵਿਚ ਜੇਹੜਾ ਭੀ ਜੀਵ ਜਨਮ ਲੈ ਕੇ) ਆਇਆ ਹੈ ਉਸ ਨੇ (ਆਖ਼ਰ ਇਥੋਂ) ਕੂਚ ਕਰ ਜਾਣਾ ਹੈ, ਇਹ ਜਗਤ ਤਾਂ ਹੈ ਹੀ ਨਾਸਵੰਤ ਖਿਲਾਰਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਝੂਠੁ = ਨਾਸਵੰਤ। ਪਸਾਰੋਵਾ = ਪਸਾਰੁ, ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

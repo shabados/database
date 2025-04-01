@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਮੇਹਰ ਕਰ। (ਮੈਨੂੰ ਝੂਠੇ ਧੰਧਿਆਂ ਤੋਂ) ਬਚਾ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਰੁ = ਬਚਾ ਲੈ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਧਾਰੇ = ਧਾਰਿ, ਧਾਰ ਕੇ, ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਅਵਸਥਾ ਵਿਚ (ਨਵੀਂ) ਘਾੜਤ ਦੇ ਕਾਰਨ ਮਨ ਬਹੁਤ ਸੋਹਣਾ ਘੜਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਥੈ = ਇਸ ਮਿਹਨਤ ਵਾਲੀ ਅਵਸਥਾ ਵਿਚ। ਘਾੜਤਿ ਘੜੀਐ = ਘਾੜਤ ਵਿਚ ਘੜਿਆ ਜਾਂਦਾ ਹੈ। ਬਹੁਤੁ ਅਨੂਪੁ = (ਮਨ) ਬਹੁਤ ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

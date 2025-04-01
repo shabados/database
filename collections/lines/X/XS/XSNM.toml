@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਬੜੇ ਚਿਰਾਂ ਪਿੱਛੋਂ ਜੀਵ ਨੂੰ ਇਹ ਦੁਰਲੱਭ ਮਨੁੱਖਾ ਸਰੀਰ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਰੰਕਾਲ = ਚਿਰਾਂ ਪਿੱਛੋਂ। ਦ੍ਰੁਲਭ = ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਣ ਵਾਲੀ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

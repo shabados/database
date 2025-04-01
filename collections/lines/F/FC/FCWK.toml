@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਹੁਕਮ ਤੋਂ ਬਿਨਾ ਨਾਹ ਕੋਈ ਗ੍ਰਿਹਸਤੀ ਹੈ ਨਾਹ ਕੋਈ ਭਗਤ ਬਣ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੈਸਾਰੀ = ਗ੍ਰਿਹਸਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

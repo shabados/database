@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਵੇਲਾ ਉਹ ਘੜੀ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਉਹ ਮੁਹੂਰਤ ਮੁਬਾਰਿਕ ਹੈ, ਉਹ ਪਲ ਸੋਹਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਤੁ = ਮੁਹੂਰਤ। ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

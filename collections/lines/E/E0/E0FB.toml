@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਜਦੋਂ ਹਰ ਥਾਂ ਸੂਤਕ ਪੈ ਰਿਹਾ ਹੈ) ਸੁੱਚਾ ਕੌਣ (ਹੋ ਸਕਦਾ) ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਪੰਡੀਆ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

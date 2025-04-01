@@ -36,6 +36,12 @@ language = "pa"
 data = "ਛੇਤੀ ਚੱਲ, ਧਰਮਰਾਜ ਨੇ ਸੱਦਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਤਾਬ = ਛੇਤੀ। ਦੀਬਾਨਿ = ਦੀਵਾਨ ਨੇ, ਸਰਬ-ਰਾਜ ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ) ਜੇ ਬੂਹੇ ਉੱਤੇ ਹਾਥੀ ਬੱਝੇ ਹੋਏ ਹਨ, ਤਾਂ ਭੀ ਕੀਹ ਹੋਇਆ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਬੂਹੇ ਤੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

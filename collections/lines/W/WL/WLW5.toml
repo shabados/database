@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਸ਼ੇਸ਼ਨਾਗ ਜਿਸ ਦੀ ਸੇਜ ਵਿਛਾਉਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸਕ = ਸ਼ੇਸ਼ਨਾਗ। ਬਿਸਥਰਹਿ = ਵਿਛਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

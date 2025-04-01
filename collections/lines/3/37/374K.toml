@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੀ ਪ੍ਰਾਪਤੀ ਨਿਰੀ ਸਿਰਪੀੜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਿਲਿ ਦੁਨਿਆ ਹਮੀਣ ਦਰਦਿ-ਸਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

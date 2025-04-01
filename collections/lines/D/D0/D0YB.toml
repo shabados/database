@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸਿਫਤ ਸਲਾਹ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੀ ਜ਼ਬਾਨ ਵੀ ਨਹੀਂ ਕਰ ਸਕਦੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਵਸਫ਼ਸ਼ ਜ਼ਬਾਨਿ ਦੋ ਆਲਮ ਕਸੀਰ ।"
+page = 2
+line = 60
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

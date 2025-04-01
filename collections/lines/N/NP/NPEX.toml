@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਧਾਰਮਿਕ ਚਰਚਾ (ਦੇ ਪੁਸਤਕ) ਪੜ੍ਹਦਾ ਹੈ, ਦੁਨੀਆ ਦੇ ਰੰਗ-ਤਮਾਸ਼ਿਆਂ ਵਿਚ ਹੀ ਖ਼ੁਸ਼ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਦੁ = ਧਾਰਮਿਕ ਚਰਚਾ। ਰਾਗੀ = ਰਾਗਾਂ ਵਿਚ, ਰੰਗ ਤਮਾਸ਼ਿਆਂ ਵਿਚ। ਭੀਜੈ = ਖ਼ੁਸ਼ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸ਼ਾਸਤ੍ਰ ਦੇ ਦੱਸੇ ਹੋਏ) ਅਨੇਕਾਂ ਕਰਮ ਕਰ ਕੇ ਮਨੁੱਖ ਥੱਕ ਜਾਂਦਾ ਹੈ, (ਸਗੋਂ) ਮੁੜ ਮੁੜ ਬੰਧਨ ਹੀ ਸਹੇੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਇ = ਸਹੇੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

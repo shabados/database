@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਭੁੱਲੇ ਹੋਏ ਮਨ! (ਰੋਜ਼ੀ ਆਦਿਕ ਦੀ ਖ਼ਾਤਰ ਕਿਸੇ ਨਾਲ) ਧੋਖਾ ਫ਼ਰੇਬ ਨਾਹ ਕਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਟੁ = ਧੋਖਾ, ਠੱਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

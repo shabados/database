@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਤੋਂ ਜਾਣ-ਪਛਾਣ ਹੋਈ ਹੈ, ਮੇਰਾ ਮਨ ਉਸੇ ਵਿਚ ਹੀ ਪਰਚ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਿਆ = ਮੰਨ ਗਿਆ, ਪਤੀਜ ਗਿਆ ਹੈ, ਸੰਤੁਸ਼ਟ ਹੋ ਗਿਆ ਹੈ। ਤਉ = ਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

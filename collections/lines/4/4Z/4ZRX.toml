@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਦੀ  ਦਾਤ ਕਰਨ ਵਾਲਾ ਉਹ ਕੌਣ ਹੈ ਜੋ ਮੈਨੂੰ ਫੜ ਕੇ ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ ਅਪੜਾ ਦੇਵੇ? ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਾਰੇ = ਅਪੜਾਵੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

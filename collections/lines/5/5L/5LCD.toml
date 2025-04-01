@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਛੀ, ਭੰਭੀਰੀਆਂ ਜੋ ਇਕ-ਸਾਹੇ ਉਡਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ-ਇਹ ਸਭ ਭੌਂਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਉਦੀਆ = ਭੰਭੀਰੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

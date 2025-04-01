@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤਦ ਤਕ ਨੰਗੇ ਰਿਹਾਂ ਕੀਹ ਸੌਰ ਜਾਣਾ ਹੈ ਤੇ ਪਿੰਡੇ ਤੇ ਚੰਮ ਲਪੇਟਿਆਂ ਕੀਹ ਮਿਲ ਜਾਣਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਧੇ ਚਾਮ = (ਮ੍ਰਿਗ ਸ਼ਾਲਾ ਆਦਿਕ) ਚੰਮ (ਸਰੀਰ ਤੇ) ਪਹਿਨਿਆਂ। ਕਿਆ = ਕੀਹ ਲਾਭ ਹੋ ਸਕਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

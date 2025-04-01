@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਹਾਨ, ਇੱਕ ਸਿਰੇ ਤੋਂ ਲੈਕੇ ਦੂਜੇ ਸਿਰੇ ਤੱਕ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਫ਼ ਤਾ ਕਾਫ਼ ਆਲਮੇ ਜੁਮਲਾ ।"
+page = 1
+line = 41
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

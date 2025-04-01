@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੀ ਅੱਖ ਨੇ ਸਿਵਾਇ ਰੱਬ ਦੇ ਕਿਸੇ ਨੂੰ ਨਹੀਣ ਵੇਖਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਮਾ ਹਰਗਿਜ਼ ਬਗੈਰ ਅਜ਼ ਹੱਕ ਨਾ ਦੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ (ਦਾ ਮੂਲ) ਹੈਂ ਤੂੰ ਹੀ ਮੇਰਾ ਆਸਰਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

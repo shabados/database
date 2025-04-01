@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਹੰਕਾਰ ਵਿਚ) ਵਿੰਗੀ ਪੱਗ ਬੰਨ੍ਹਦਾ ਹੈ, ਆਕੜ ਕੇ ਤੁਰਦਾ ਹੈ, ਪਾਨ ਦੇ ਬੀੜੇ ਖਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਢੀ = ਵਿੰਗੀ। ਚਲੇ = ਤੁਰਦੇ ਹਨ। ਬੀਰੇ = ਪਾਨ ਦੇ ਬੀੜੇ। ਖਾਨ ਲਾਗੇ = ਖਾਣ ਲੱਗਦੇ ਹਨ, ਖਾਣ ਵਿਚ ਮਸਤ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

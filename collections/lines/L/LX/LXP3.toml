@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੇ ਜੇਹੜਾ ਸਭ ਦੀਆਂ ਆਸਾਂ ਪੂਰੀਆਂ ਕਰਨ ਵਾਲਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ ਆਸਨੀ = ਆਸਾਂ ਪੂਰੀਆਂ ਕਰਨ ਵਾਲਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

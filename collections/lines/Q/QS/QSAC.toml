@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਉਸ ਰੱਬ ਤੋਣ ਗ਼ਾਫ਼ਲ ਰਿਹਾ, ਸਮਝੋ, ਉਹ ਮੂਰਖ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿਹ ਗ਼ਾਫ਼ਿਲ ਸ਼ੁਦ ਅਜ਼ੂ ਨਾਦਾਣ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ-ਦਰ ਤੇ ਅਰਦਾਸ ਕਰ ਤੇ ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਉਹਨਾਂ ਦੇ ਦਰ ਤੇ (ਰੱਖ ਕੇ ਮੈਨੂੰ ਆਪਣੇ ਦਰਸਨ ਦਾ) ਖ਼ੈਰ ਪਾ ॥੩॥੧॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਦਰਿ = ਉਹਨਾਂ ਦੇ ਦਰ ਤੇ। ਭੀਖਿਆ = ਖ਼ੈਰ ॥੩॥੧॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਇਕ ਤਸੱਲੀ ਦਿਵਾ ਦੇਹ ॥੨੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤੀਆ = ਤਸੱਲੀ ॥੨੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

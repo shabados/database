@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੀਹ ਖੇਤੀ ਤੇ ਕੀਹ ਵਪਾਰ? ਜਗਤ ਦੇ ਇਸ ਪਸਾਰੇ ਦਾ ਮਾਣ ਕੂੜਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਵਾ ਦੇਈ = ਲੈਣ-ਦੇਣ, ਕਾਰ-ਵਿਹਾਰ, ਵਪਾਰ। ਪਰਪੰਚ ਗੁਮਾਨਾ = ਇਸ ਪਸਾਰੇ ਦਾ ਮਾਣ। ਝੂਠੁ = ਕੂੜ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

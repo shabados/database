@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੋਨਾ (ਧਨ-ਪਦਾਰਥ), ਇਸਤ੍ਰੀ ਦੀ ਸੋਹਣੀ ਸੇਜ-ਇਹ ਤਾਂ ਇਕ ਛਿਨ ਵਿਚ ਛੱਡ ਕੇ ਮਨੁੱਖ ਇਥੋਂ ਤੁਰ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਨਿਕ = ਸੋਨਾ। ਕਾਮਿਨੀ = ਇਸਤ੍ਰੀ। ਛੋਡਿ = ਛੱਡ ਕੇ। ਖਿਨੈ ਮਹਿ = ਖਿਨ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

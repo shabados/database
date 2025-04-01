@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੜ੍ਹੇ-ਲਿਖੇ ਮੂਰਖ ਨਿਰੀਆਂ ਚਲਾਕੀਆਂ ਕਰਨੀਆਂ ਤੇ ਦਲੀਲਾਂ ਦੇਣੀਆਂ ਹੀ ਜਾਣਦੇ ਹਨ, (ਪਰ) ਮਾਇਆ ਦੇ ਇਕੱਠਾ ਕਰਨ ਵਿਚ ਜੁੱਟੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਕਮਤਿ = ਚਲਾਕੀ। ਹੁਜਤਿ = ਦਲੀਲ। ਸੰਜੈ = ਮਾਇਆ ਦੇ ਇਕੱਠਾ ਕਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

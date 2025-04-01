@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਵਿੰਦ! ਹੇ ਗੋਸਾਈਂ! (ਮੇਹਰ ਕਰ, ਮੈਂ) ਸਦਾ ਤੇਰਾ ਦਾਸ ਬਣਿਆ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਰੇ = ਦਾਸ। ਗੋਵਿੰਦ = ਹੇ ਗੋਵਿੰਦ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

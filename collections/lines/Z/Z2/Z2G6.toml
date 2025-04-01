@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਚੰਗੇ ਮਾੜੇ ਕੰਮ ਕਰਨੇ ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਵਿਚ ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਰੈ ਵਸਿ = ਸਾਡੇ ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਤੂੰ ਐਸ ਵੇਲੇ ਭਜਨ ਨਹੀਂ ਕਰਦਾ, ਤਾਂ ਫਿਰ ਕਦੋਂ ਕਰੇਂਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬ = ਹੁਣ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

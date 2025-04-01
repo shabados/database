@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਸਭ ਤੋਂ ਵੱਡੀ ਸ਼ਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਤਰ ਆਮਦ ਸ਼ਾਨਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੮।"
+page = 10
+line = 148
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

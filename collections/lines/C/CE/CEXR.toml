@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਮੇਰਾ ਸੋਹਣਾ ਸੁਖ-ਸਰੂਪ ਰਾਮ ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ  ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਈਆ = ਸੋਹਣਾ ਰਾਮ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

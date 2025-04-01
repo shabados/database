@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੈਂ ਤੇਰਾ ਸੇਵਕ ਬਣਦਾ ਹਾਂ, ਤਾਂ ਤੂੰ ਮੈਨੂੰ ਸਭ ਕੁਝ ਦੇ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਦਾ = ਸੇਵਕ, ਗ਼ੁਲਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

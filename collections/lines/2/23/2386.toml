@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੈਥੋਂ (ਭਾਵ, ਤੇਰੇ ਹੁਕਮ ਤੋਂ) ਬਾਹਰ ਕੁਝ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

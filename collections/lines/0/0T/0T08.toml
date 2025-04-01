@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਵੇਂ ਬੜੇ ਚਾਉ ਨਾਲ ਉਸਾਰੇ ਹੋਏ ਚਿੱਤਰੇ ਹੋਏ ਮਹਲ-ਮਾੜੀਆਂ (ਸੁੰਦਰ) ਦਿੱਸਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ ਸਫ਼ੈਦ ਬਾਂਕੇ ਦਰਵਾਜ਼ੇ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤੇ = ਚਿੱਤ੍ਰੇ ਹੋਏ। ਧਉਲਹਰ = ਮਹਲ-ਮਾੜੀਆਂ। ਬਗੇ = ਬੱਗੇ, ਚਿੱਟੇ। ਬੰਕ = ਬਾਂਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

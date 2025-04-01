@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਮੈਨੂੰ ਸਦਾ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਰੱਖ, ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਹੀ ਦੇਹ (ਇਹ ਹੀ ਮੇਰੇ ਵਾਸਤੇ) ਇੱਜ਼ਤ (ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਨਾਮੋ = ਨਾਮ ਹੀ। ਵਡਿਆਈ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

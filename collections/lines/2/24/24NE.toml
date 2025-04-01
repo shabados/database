@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨੁੱਖਾ ਸਰੀਰ (ਮਾਨੋ) ਇਕ ਕਾਗ਼ਜ਼ ਹੈ, ਅਤੇ ਮਨੁੱਖ ਦਾ ਮਨ (ਸਰੀਰ-ਕਾਗ਼ਜ਼ ਉਤੇ ਲਿਖਿਆ ਹੋਇਆ) ਦਰਗਾਹੀ ਪਰਵਾਨਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ। ਕਾਗਦੁ = ਕਾਗ਼ਜ਼। ਪਰਵਾਣਾ = ਪਰਵਾਨਾ, ਲਿਖਿਆ ਹੋਇਆ ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਹਰੇਕ ਦੀ ਕਾਮਯਾਬੀ ਦਾ ਫ਼ੈਸਲਾ ਉਸ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਉਤੇ ਹੀ ਹੋਵੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ ਉਪਰਿ = ਹਰੇਕ ਦੀ ਕਰਣੀ ਅਨੁਸਾਰ, ਹਰੇਕ ਜੀਵ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ। ਹੋਵਗਿ = ਹੋਵੇਗੀ। ਸਾਰ = ਸੰਭਾਲ, ਫ਼ੈਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

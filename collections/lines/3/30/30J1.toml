@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਹੁਤਾ ਠੱਗੀ-ਫਰੇਬ ਦਾ ਬੋਲ ਕਿਉਂ ਬੋਲਦਾ ਹੈਂ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਟੁ = ਠੱਗੀ, ਝੂਠ-ਫ਼ਰੇਬ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

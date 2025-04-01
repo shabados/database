@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਉਮੈ ਨੂੰ (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਾਰਦਾ ਹੈ-ਇਹ ਹੈ ਉਸ ਜੋਗੀ ਦੀ ਸ੍ਰੇਸ਼ਟ ਕਰਣੀ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

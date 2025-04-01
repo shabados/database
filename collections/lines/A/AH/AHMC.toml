@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਰਸਾਂ ਨੂੰ ਭੋਗਣ ਵਾਲਾ ਹੈ ਤੇ ਆਪ ਹੀ ਨਿਰਲੇਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਜੋਗ = ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

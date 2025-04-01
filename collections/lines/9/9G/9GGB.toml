@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਿ-ਨਾਮ-ਸਿਮਰਨ ਹੀ ਸਾਡੇ ਵਾਸਤੇ ਸਾਲਗਿਰਾਮ ਦੀ) ਪੂਜਾ, ਸੁਗੰਧੀ-ਭੇਟ ਤੇ ਨਮਸਕਾਰ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਚਾ = ਚੰਦਨ ਆਦਿਕ ਸੁਗੰਧੀ ਦੀ ਭੇਟਾ। ਬੰਦਨ = ਨਮਸਕਾਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

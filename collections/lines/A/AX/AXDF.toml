@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਮੈਂ ਆਪ ਹੀ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਜੀਵਨ ਦੇ ਸਹੀ ਰਸਤੇ ਤੋਂ ਖੁੰਝੀ ਹੋਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਆਪੇ = ਆਪ ਹੀ। ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਣੀ = ਮੈਂ ਭੁੱਲੀ ਹੋਈ ਹਾਂ, ਮੈਂ ਕੁਰਾਹੇ ਪਈ ਹੋਈ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

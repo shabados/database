@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ! ਤੂੰ ਲੋਕਾਂ ਨੂੰ ਸੁਣਾਣ ਵਾਸਤੇ) ਭਜਨ ਗਾਉਂਦਾ ਹੈਂ ਪਰ ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਨਹੀਂ ਵੇਖਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਨ ਚੀਨਹਿ = ਤੂੰ ਨਹੀਂ ਪਛਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

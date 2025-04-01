@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਪਿਆਰਿਆਂ ਦੀ ਸੰਗਤ ਇੱਕ ਵੱਡੀ ਦੌਲਤ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਮਰਦਾਨਿ ਹੱਕ ਖ਼ੁਸ਼ ਦੌਲਤ ਅਸਤ ।੨੩੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

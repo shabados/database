@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਇਕ ਰੱਬ ਦੇ ਮਿਲਾਪ ਤੋਂ ਬਿਨਾ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਅਰਥ ਵਿਚਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰੀ = ਬਿਨਾ। ਨਿਕਾਮੀ = ਨਿਕੰਮੀ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਜਿਸ ਨੇ ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰ ਲਿਆ, ਉਸੇ ਨੂੰ ਹੀ ਇਸ ਨਾਮ ਫਲ ਦੀ ਪ੍ਰਾਪਤੀ ਹੋਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ = ਫਲ ਦੇਣ ਵਾਲਾ। ਦਰਸੁ = ਦਰਸ਼ਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

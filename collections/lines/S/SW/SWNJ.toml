@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਰਾਵੋ! ਉਸ ਇਕ ਨੂੰ ਸਿਮਰੋ, ਉਸ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ (ਸੰਭਾਲ ਕਰਨ ਵਾਲਾ) ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਇਰਹੁ = ਹੇ ਭਰਾਵੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

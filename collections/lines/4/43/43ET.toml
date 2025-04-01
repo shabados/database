@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਫਲ ਉਹ ਆਪ ਹੀ ਖਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਖਾਹਿ = ਖਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਲੰਦਰ-ਪ੍ਰਭੂ!) ਮੈਨੂੰ ਭਗਤੀ ਕਰਦੇ ਨੂੰ ਤੂੰ ਹੀ ਮੰਦਰ ਵਿਚੋਂ ਕਢਾਇਆ, (ਤੈਨੂੰ ਛੱਡ ਕੇ ਮੈਂ ਹੋਰ) ਕਿਸ ਅੱਗੇ ਦਿਲ ਦੀਆਂ ਗੱਲਾਂ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਿਨਾਏ = ਖੁਹਾਏ। ਕਿਹ ਪਹਿ = ਹੋਰ ਕਿਸ ਪਾਸ? ਪੁਕਾਰਾ = ਫ਼ਰਿਆਦ, ਸ਼ਿਕੈਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

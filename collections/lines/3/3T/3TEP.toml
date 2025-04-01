@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਚੇ ਪਾਤਿਸ਼ਾਹ! ਇਹ ਸਾਰੀ ਰਚਨਾ ਹੀ ਤੇਰਾ ਇਕ ਨਾ ਮੁੱਕਣ ਵਾਲਾ ਪਰਬੰਧ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੇ ਪਾਤਿਸਾਹ = ਹੇ ਸੱਚੇ ਪਾਤਸ਼ਾਹ! ਕੁਦਰਤਿ = ਰਚਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

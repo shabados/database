@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਨੇ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਨਾਹ ਕੀਤਾ, ਉਹਨਾਂ ਦੀ ਖੋਟੀ ਕਿਸਮਤ ਜਾਣੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦੇਰਾ = ਖੋਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਸਿੱਧ ਸਾਧਿਕ ਰਿਸ਼ੀ ਮੁਨੀ (ਹਠ ਨਿਗ੍ਰਹ ਆਦਿਕ ਕਰਦੇ ਹਨ ਪਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧ = ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ। ਸਾਧਿਕ = ਜੋਗ-ਸਾਧਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

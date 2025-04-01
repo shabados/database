@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਨ੍ਹਾਂ ਭਗਤ ਜਨਾਂ ਉਤੇ ਤੈਂ ਠਾਕੁਰ ਨੇ ਆਪ ਮਿਹਰ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ = ਜਿਨ੍ਹਾਂ ਉੱਤੇ। ਅਨੁਗ੍ਰਹੁ = ਕਿਰਪਾ। ਠਾਕੁਰਿ = ਤੈਂ ਠਾਕੁਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

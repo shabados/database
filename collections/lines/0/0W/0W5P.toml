@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਗੋਪਾਲ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਸਦਾ ਗਾਂਦੇ ਰਹੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਹਾ = ਗਾਵੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦੇ ਹੀ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਇਹ ਨਾਮ-ਧਨ ਇਕੱਠਾ ਹੁੰਦਾ ਹੈ ॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪੈ = ਧਨ-ਪਦਾਰਥ ॥੧੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

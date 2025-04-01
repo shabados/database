@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੱਲਰ ਦੀ ਛੱਪਰੀ ਵਿਚ ਹੰਸ ਆ ਉਤਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਰੀ = ਦੀ। ਆਇ ਉਲਥੇ = ਆ ਉਤਰੇ। ਹੰਝ = ਹੰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

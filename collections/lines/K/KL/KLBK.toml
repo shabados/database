@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕਦੇ ਕੋਈ ਗ਼ਰੀਬ ਬੰਦਾ ਕਿਸੇ ਧਨਵਾਨ ਦੇ ਘਰ ਚਲਾ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਧਨ = ਧਨੀ। ਸਰਧਨ ਕੈ = ਧਨੀ ਮਨੁੱਖ ਦੇ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

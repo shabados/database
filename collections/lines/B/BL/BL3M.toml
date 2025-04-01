@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਦਸ਼ਾਹਾਂ ਨੇ ਆਪਣਾ ਰਾਜ ਭਾਗ ਤਿਆਗ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹਾਂ ਸਲਤਨਤ ਬਿ-ਗੁਜ਼ਾਸ਼ਤਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

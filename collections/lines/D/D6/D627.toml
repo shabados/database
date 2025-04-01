@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾਂਦਾ ਹੈ। ਨਾਨਕ ਜਾਇ = ਨਾਨਕ ਜਾਂਦਾ ਹੈ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

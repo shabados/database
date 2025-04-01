@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਪਰਮਾਤਮਾ ਸਾਥੋਂ ਦੂਰ ਨਹੀਂ ਵੱਸਦਾ, ਕਿਤੇ (ਦੂਰ) ਲੱਭਣ ਜਾਣ ਦੀ ਲੋੜ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ ਹੂ = ਕਿੱਥੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

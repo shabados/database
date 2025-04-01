@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ (ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਦੀ ਆਸ ਨਹੀਂ ਰੱਖਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤ ਪਰਾਈ = ਕਿਸੇ ਹੋਰ ਦੀ ਆਸ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

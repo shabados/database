@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣੀ ਅੱਖੀਂ ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰ ਲਿਆ ਹੈ, ਉਸ ਨੇ ਆਪਣਾ ਜਨਮ ਸਫਲਾ ਕਰ ਲਿਆ ਹੈ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ ਨੇ ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

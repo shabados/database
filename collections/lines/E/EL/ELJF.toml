@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇਹਾ ਬੰਦਾ ਭੀ) ਜੇ ਸਤਿਗੁਰੂ ਦੀ ਸਰਨ ਵਿਚ ਆ ਜਾਏ ਤਾਂ ਸੜੇ ਹੋਏ ਲੋਹੇ ਤੋਂ ਸੋਨਾ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੂਰ = ਸੜਿਆ ਹੋਇਆ ਲੋਹਾ। ਕੰਚਨੁ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

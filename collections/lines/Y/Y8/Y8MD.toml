@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਬਖ਼ਸ਼ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਜਾ ਕਉ = ਜਿਸ ਨੂੰ। ਗੁਰਿ = ਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

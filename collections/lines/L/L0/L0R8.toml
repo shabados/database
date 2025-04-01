@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਜਿਵੇਂ ਜਿਵੇਂ ਮੈਨੂੰ ਉਹ ਆਪਣਾ ਦਰਸਨ ਕਰਾਂਦਾ ਹੈ, ਤਿਵੇਂ ਤਿਵੇਂ ਮੈਂ ਦਰਸਨ ਕਰਦੀ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਰ = ਹੇ ਵੀਰ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

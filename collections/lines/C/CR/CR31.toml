@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੇਸਰ ਭਰੀ ਪਿਚਕਾਰੀ ਦਾ ਕਿਆ ਕਹਿਣਾ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਹੇ ਪਿਚਕਾਰੀਏ ਪੁਰ ਜ਼ਾਅਫ਼ਰਾਨੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

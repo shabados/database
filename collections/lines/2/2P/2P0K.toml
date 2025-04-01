@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਹਿਰਦਾ ਰੂਪੀ ਘਰ ਰੱਬ ਦੇ ਨੂਰ ਨਾਲ ਰੌਸ਼ਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਨਾਅਤ ਅਜ਼ ਨੂਰਿ ਹੱਕ ਰੌਸ਼ਨ ਸ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

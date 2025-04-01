@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਉਸ ਦੀ ਦਰਗਾਹ ਦੀ ਮੁੱਠੀ ਭਰ ਖ਼ਾਕ ਰਸਾਇਣ ਬਣਾ ਦਿੰਦੀ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਸ਼ਤਿ ਖ਼ਾਕਿ ਦਰਗਹਿ ਊ ਕੀਮੀਆ ਗਰ ਮੀ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

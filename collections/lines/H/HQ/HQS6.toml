@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਧਨ ਨਾਲ ਸਦਾ ਦੁੱਖ (ਹੀ) ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ = ਮਾਇਆ। ਕੈ ਧਨਿ = ਦੇ ਧਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

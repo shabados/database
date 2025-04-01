@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਕਿਉਂ ਘਾਬਰਦਾ ਹੈਂ? (ਯਕੀਨ ਰੱਖ, ਤੇਰੇ ਸਿਰ ਉਤੇ ਉਹ) ਪਿਆਰਾ ਸਤਿਗੁਰੂ (ਰਾਖਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕਿਉ ਬੈਰਾਗੁ ਕਰਹਿਗਾ = ਕਿਉਂ ਘਾਬਰਦਾ ਹੈਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

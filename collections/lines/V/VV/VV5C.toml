@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੁਸਲਮਾਨਾਂ ਦੀਆਂ ਪੰਜ ਨਿਮਾਜ਼ਾਂ ਹਨ, (ਉਹਨਾਂ ਦੇ) ਪੰਜ ਵਕਤ ਹਨ ਤੇ ਪੰਜਾਂ ਹੀ ਨਿਮਾਜ਼ਾਂ ਦੇ (ਵਖੋ ਵਖਰੇ) ਪੰਜ ਨਾਮ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਤ = ਵਕਤ, ਸਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

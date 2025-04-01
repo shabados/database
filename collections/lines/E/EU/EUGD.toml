@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਸਦਾ ਦਇਆ ਦੇ ਘਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਿ ਵਛਲ = ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

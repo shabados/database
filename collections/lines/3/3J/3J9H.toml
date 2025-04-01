@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਪੈਦਾ ਕਰਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈ ਹਰੇਕ ਜੀਵ ਦੇ ਅੰਦਰ ਉਹੀ ਬੋਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ ਕਾਰਣ = ਜਗਤ ਦਾ ਬਣਾਉਣ ਵਾਲਾ, ਜਗਤ ਦਾ ਮੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

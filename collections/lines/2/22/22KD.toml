@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਪਰਮੇਸਰ ਆਪ ਹੀ ਹੈ ਜਿਸ ਨੇ ਤਮਾਸ਼ਾ ਵੇਖਣ ਵਾਸਤੇ ਇਹ ਜਗਤ ਰਚਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਸਦੇਉ = ਪਰਮਾਤਮਾ। ਜਿਨਿ = ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ। ਵੇਸੁ = ਆਕਾਰ, ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

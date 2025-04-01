@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਮਾਨੋ, ਇਕ) ਰੁੱਖ ਹੈਂ (ਇਹ ਸੰਸਾਰ ਤੈਂ-ਰੁੱਖ ਤੋਂ) ਫੁੱਟੀਆਂ ਹੋਈਆਂ ਤੇਰੀਆਂ ਟਾਹਣੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਡੁ = ਰੁੱਖ। ਸਾਖ = ਸਾਖਾਂ, ਟਾਹਣੀਆਂ। ਫੂਲੀ = ਫੁੱਟੀਆਂ ਹੋਈਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

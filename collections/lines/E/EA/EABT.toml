@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਮਨੁੱਖ) ਪਸ਼ੂ ਪੰਛੀ, ਪੱਥਰ, ਰੁੱਖ (ਆਦਿਕ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਪੈਂਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੀ) ਕੋਈ ਗਿਣਤੀ ਹੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੈਲ = ਪੱਥਰ। ਤਰਵਰ = ਰੁੱਖ। ਨ ਆਵਏ = ਨ ਆਵੈ, ਨਹੀਂ ਆਉਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

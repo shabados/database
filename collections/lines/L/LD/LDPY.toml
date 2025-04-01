@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਦਿਲ ਨੂੰ ਆਪਣੇ ਭੇਤਾਂ ਦਾ ਖਜ਼ਾਨਾ ਬਖਸ਼ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੀਨਾ-ਅਮ ਰਾ ਮਖ਼ਜ਼ਨਿ ਅਸਰਾਰ ਬਖ਼ਸ਼ ।੪੬੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

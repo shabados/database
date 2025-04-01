@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਸਾਰੀ ਹੀ ਆਸ ਪੂਰੀ ਹੋ ਜਾਇਗੀ (ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਸਤਾਣੋਂ ਹਟ ਜਾਣਗੀਆਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੀ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

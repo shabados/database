@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਸਾਰੇ ਗੁਣਾਂ ਦੇ ਮਾਲਕ ਠਾਕੁਰ! ਹੇ ਸਾਰੇ ਸੁਖਾਂ ਦੇ ਨਾਥ! ਹੇ ਸੁਆਮੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ ਨਿਧਾਨ = ਹੇ ਮਿਹਰ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਗੁਣ ਨਾਇਕ = ਹੇ ਸਾਰੇ ਗੁਣਾਂ ਦੇ ਮਾਲਕ! ਠਾਕੁਰ = ਹੇ ਮਾਲਕ! ਨਾਥੇ = ਹੇ ਨਾਥ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

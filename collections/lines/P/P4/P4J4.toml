@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਇਨਸਾਫ਼ ਅਟੱਲ ਹੈ ਜੋ ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਆਉ = ਇਨਸਾਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

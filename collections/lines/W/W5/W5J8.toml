@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਮੇਰੀ ਜਿੰਦੇ!) ਆਪਣੇ ਕੀਤੇ (ਮੰਦ-ਕਰਮ) ਅਨੁਸਾਰ (ਸਮੁੰਦਰ ਦਾ) ਖਾਰਾ-ਪਨ ਨਹੀਂ ਹਟ ਸਕਿਆ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਰੁ = ਖਾਰਾ-ਪਨ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

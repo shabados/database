@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸੱਚੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਅੰਨ੍ਹਾ ਮਨੁੱਖ (ਮਾਇਆ ਦੀ) ਵਰਤੋਂ ਹੀ ਵਰਤਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧੁ = ਅੰਨ੍ਹਾ ਮਨੁੱਖ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਸੁਆਮੀ! ਤੂੰ ਬੇਅੰਤ ਹੈਂ, ਤੂੰ ਬੇਅੰਤ ਹੈਂ, ਆਪਣੀ ਅਵਸਥਾ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਭਾਂਤਿ = ਕਿਸਮ, ਤਰੀਕਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

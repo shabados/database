@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰ ਕੇ ਵੇਖਦਾ ਹੈ, ਆਪ ਹੀ ਟਿਕਾਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਢਾਂਹਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਪਿ = ਥਾਪ ਕੇ, ਟਿਕਾ ਕੇ। ਉਥਾਪਿ = ਨਾਸ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

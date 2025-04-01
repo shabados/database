@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ! ਤੂੰ ਮੱਖੀ ਹੈਂ, ਪਰਮਾਤਮਾ ਦੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਮੱਖੀ (ਦੇ ਸੁਭਾਵ ਵਾਲੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਖੀ = ਮੱਖੀ। ਰਾਮ ਕੀ = ਪਰਮਾਤਮਾ ਦੀ (ਪੈਦਾ ਕੀਤੀ ਹੋਈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

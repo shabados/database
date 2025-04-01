@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਗਤ ਨੂੰ ਤਿੰਨ ਕਿਸਮਾਂ ਦੇ ਦੁੱਖ ਚੰਬੜੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਉਦਸੀ = {ਤ੍ਰਯ ਤੇ ਦਸ} ਤੇਰ੍ਹਵੀਂ ਥਿਤਿ। ਤੀਨਿ ਤਾਪ = ਤਿੰਨ ਕਿਸਮ ਦੇ ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

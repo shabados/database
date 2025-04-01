@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਜੇਹੜਾ ਮਨੁੱਖ ਸਦਾ ਹਰਿ-ਨਾਮ ਜਪਦਾ ਹੈ, ਮੈਂ ਉਸ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪੇਇ = ਜਪਦਾ ਹੈ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

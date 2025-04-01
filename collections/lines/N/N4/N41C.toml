@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਣ-ਹੀਨ ਵਿਚ ਕੋਈ ਗੁਣ ਨਹੀਂ ਹੈ। ਤੈਨੂੰ ਆਪ ਨੂੰ ਹੀ ਮੇਰੇ ਉਤੇ ਤਰਸ ਆ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣਿਆਰੇ = ਮੈਂ ਗੁਣ-ਹੀਨ ਵਿਚ। ਕੋ ਗੁਣੁ = ਕੋਈ ਗੁਣ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੇਸਰ ਚੰਦਨ ਤੇ ਫੁੱਲ (ਉਸ ਮੂਰਤੀ ਦੇ ਅੱਗੇ) ਭੇਟ ਧਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਗੂ = ਕੇਸਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

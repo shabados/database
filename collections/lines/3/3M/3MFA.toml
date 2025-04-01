@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਨੇ ਸਿਮਰਨ ਕੀਤਾ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਜਪ ਕੇ ਉਹਨਾਂ ਦੀਆਂ ਸਾਰੀਆਂ ਮੁਰਾਦਾਂ ਪੂਰੀਆਂ ਹੋ ਗਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੀਆਂ। ਜਪਿ = (ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਜਪ ਕੇ। ਪੁੰਨੀਆ = ਪੂਰੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

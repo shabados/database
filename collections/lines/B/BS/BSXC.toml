@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵੱਸਦਾ ਹੈ ॥੮॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਘਟਿ = ਜਿਸ ਘਟ ਵਿਚ, ਜਿਸ ਸਰੀਰ ਵਿਚ, ਜਿਸ ਹਿਰਦੇ ਵਿਚ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

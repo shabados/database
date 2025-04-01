@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਤੂੰ ਹੁਣ ਭੀ ਵਿਕਾਰਾਂ ਦੇ ਬੰਧਨਾਂ ਵਿਚ ਹੀ ਫਸਿਆ ਰਿਹਾ, ਤਾਂ) ਅਜੇਹਾ (ਸੋਹਣਾ) ਮੌਕਾ ਫਿਰ ਨਹੀਂ ਮਿਲੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆ ਅਉਸਰੁ = ਅਜੇਹਾ ਮੌਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

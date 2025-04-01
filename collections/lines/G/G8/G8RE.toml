@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਇਕ ਸੋਹਣਾ ਸਰ ਹੈ, ਮਾਨ-ਸਰੋਵਰ ਹੈ। ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਮਨੁੱਖ ਉਸ ਨੂੰ ਲੱਭ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਵਰੁ = ਸੋਹਣਾ ਤਾਲਾਬ, ਸੋਹਣਾ ਸਰ। ਲਹੰਨ੍ਹ੍ਹਿ = ਲੱਭ ਲੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

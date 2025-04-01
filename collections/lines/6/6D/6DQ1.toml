@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਰੇ) ਦੁਨੀਆ ਵਾਲੇ ਖ਼ਿਆਲ ਛੱਡ ਦੇਹ, (ਨਿਰੇ) ਦੁਨੀਆ ਦੇ ਝੰਬੇਲੇ ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਧੇ = ਝੰਬੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

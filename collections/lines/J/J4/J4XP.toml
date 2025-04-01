@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਾਇਆਂ!) ਜਿਵੇਂ ਹਰਨ ਨੂੰ ਇਹ ਭੇਤ ਨਹੀਂ ਮਿਲਦਾ ਕਿ ਕਸਤੂਰੀ ਦੀ ਸੁਗੰਧੀ ਉਸ ਦੇ ਆਪਣੇ ਸਰੀਰ ਵਿਚੋਂ (ਆਉਂਦੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਰੰਕ = ਹਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

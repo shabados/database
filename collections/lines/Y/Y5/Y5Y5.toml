@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਜਿਹੋ ਜਿਹੀ ਨਜ਼ਰ (ਬੰਦੇ ਵਲ) ਕਰਦਾ ਹੈ (ਬੰਦਾ) ਉਹੋ ਜਿਹਾ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਿ = ਨਜ਼ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਜਪਿਆ ਕਰ। ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਕੰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਰਾਮੈ ਨਾਮੁ = ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਜੀਵ ਨੂੰ ਆਪ ਹੀ (ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ) ਰਸਤਾ ਵਿਖਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਥੁ = (ਜ਼ਿੰਦਗੀ ਦਾ ਰਸਤਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

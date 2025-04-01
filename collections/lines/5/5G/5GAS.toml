@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੀਦਾਰ ਦੀ ਤਾਂਘ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਜਦੋਂ ਆਖ਼ਰ ਦੀਦਾਰ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ ਪਾਵਾ = ਜਾ ਕੇ ਪਾ ਲਿਆ, ਆਖ਼ਰ ਲੱਭ ਲਿਆ, ਦੀਦਾਰ ਕਰ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਤੇਰੇ ਮਾਲ ਖ਼ਜ਼ਾਨੇ ਵਿਚ ਅਨੇਕਾਂ ਸ਼ਾਹੀ ਮੋਤੀ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਮਤਾਇ ਲੁਲੂਏ ਸ਼ਹਿਵਾਰ ਹਸਤ ।੩੬੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲਾਲਚੀ ਮਨੁੱਖ) ਆਖ਼ਰ ਉਸ ਥਾਂ ਧੋਖਾ ਦੇ ਜਾਂਦਾ ਹੈ, ਜਿੱਥੇ ਕੋਈ ਮਦਦ ਨਾਹ ਕਰ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਿ ਕਾਲਿ = ਅਖ਼ੀਰਲੇ ਵੇਲੇ। ਧੁਹੈ = ਧੋਖਾ ਦੇ ਜਾਂਦਾ ਹੈ। ਹਥੁ ਨ ਪਾਇ = (ਕੋਈ ਹੋਰ) ਹੱਥ ਨਹੀਂ ਪਾ ਸਕਦਾ, ਮਦਦ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

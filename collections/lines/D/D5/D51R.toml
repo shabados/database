@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਦੇਖਿਆ ਹੈ ਕਿ ਹਰ ਬਹਾਰ ਪੱਤ ਝੜ ਨੂੰ ਲਿਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਕਬਤ ਦੀਦੀ ਖ਼ਿਜ਼ਾਂ ਆਵੁਰਦ ਬਹਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

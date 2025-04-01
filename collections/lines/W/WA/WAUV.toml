@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸਰੋਵਰ ਹੈ, ਗੁਰੂ ਸਮੁੰਦਰ ਹੈ, ਗੁਰੂ ਹੀ ਜਹਾਜ਼ ਹੈ, ਗੁਰੂ ਹੀ ਤੀਰਥ ਹੈ ਤੇ ਦਰੀਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੁ = ਤਾਲਾਬ। ਸਾਗਰੁ = ਸਮੁੰਦਰ। ਬੋਹਿਥੋ = ਜਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

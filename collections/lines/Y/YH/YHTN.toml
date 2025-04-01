@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਇਕ ਪ੍ਰਭੂ ਨਾਲ ਹੀ ਪ੍ਰੇਮ ਪਾ, ਉਸ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਥਾਂ ਟਿਕਾਣਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰਹੜੀ = ਪ੍ਰੇਮ। ਜਾਇ = ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਾਲਕ! ਮੇਰਾ ਮਨ ਮੇਰਾ ਸਰੀਰ ਮੇਰਾ ਧਨ-ਇਹ ਸਭ ਕੁਝ ਤੇਰਾ ਹੀ ਦਿੱਤਾ ਹੋਇਆ ਹੈ। (ਤੈਥੋਂ ਬਿਨਾ) ਮੇਰਾ ਕੋਈ ਹੋਰ ਆਸਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਆਨ = {अन्य} ਹੋਰ। ਜਾਇ = ਥਾਂ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

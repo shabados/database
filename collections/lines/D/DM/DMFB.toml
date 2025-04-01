@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਨਾਲ ਸਾਵਾਂ ਤੋਲ ਕੇ (ਸੋਨਾ ਚਾਂਦੀ ਆਦਿਕ) ਦਾਨ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਲਾ = ਤੁਲ ਕੇ ਬਰਾਬਰ ਦਾ, ਸਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

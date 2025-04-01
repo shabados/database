@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਕਰਤਾਰ ਨੇ ਇਹ ਇਕ (ਅਜੀਬ) ਵਿਓਂਤ ਬਣਾ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਕਰਤੈ = ਮੇਰੇ ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

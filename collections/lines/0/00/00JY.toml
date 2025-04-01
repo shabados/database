@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਾਇਆ ਦੇ) ਬੰਧਨਾਂ ਤੋਂ ਆਜ਼ਾਦ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਕਤਾ = ਆਜ਼ਾਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਉਹ ਸਿਮਰਨ ਜੋ ਸਾਡਾ ਅਸਲ ਕੰਮ ਹੈ) ਆਪਣੇ (ਇਸ ਅਸਲ) ਕੰਮ ਦੀ ਖ਼ਾਤਰ ਕਦੇ ਭੀ ਆਲਸ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਵਾਸਤੇ। ਅਲਕਾਈਐ = ਆਲਸ ਕੀਤਾ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

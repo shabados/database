@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਮਿਹਰ ਕਰਕੇ ਇਹ ਸਭ ਆਬਾਦੀ ਅਤੇ ਖੁਸ਼ਹਾਲੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਤਫ਼ੈਲਸ਼ ਜੁਮਲਾ ਆਬਾਦਾ ਬਵਦ ।੧੫੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

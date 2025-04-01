@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਵਣ ਲੰਕਾ ਗੁਆ ਕੇ ਰੋਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹਸਿਰੁ = (संः दशशिर) ਦਸ ਸਿਰਾਂ ਵਾਲਾ, ਰਾਵਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਹਾਲ ਦਾ ਗਿਆਨਵਾਨਾਂ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਕੋਈ ਵਾਕਿਫ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਆਰਿਫ਼ ਵਾਕਿਫ਼ਿ ਈਂ ਹਾਲ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

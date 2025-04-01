@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ! ਹੇ ਮੇਰੇ ਕਿਰਪਾਲ! ਹੇ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ ਮੇਰੇ ਕਿਰਪਾਲ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾਲਾ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

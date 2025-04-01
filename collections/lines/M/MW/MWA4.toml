@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨ ਦੀ ਜਾਚ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਾਧਿ ਨ ਜਾਨਾ = (ਮੈਂ) ਆਰਾਧਨਾ ਕਰਨੀ ਨਹੀਂ ਸਮਝੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

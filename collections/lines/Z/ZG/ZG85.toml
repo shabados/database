@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਤੀਆਂ ਦੇ ਮੰਡਲ ਤੇ ਹਿੱਸੇ; ਸਾਰੇ ਜਗਤ ਦੇ ਜੀਆ ਜੰਤ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਸ = ਮਨੁੱਖ। ਦੇਵ = ਦੇਵਤੇ। ਪੁਰੀਆ = ਧਰਤੀਆਂ। ਖੰਡ = ਬ੍ਰਹਮੰਡ ਦੇ ਹਿੱਸੇ। ਜੀਅ ਜਹਾਨ = ਜਗਤ ਦੇ ਜੀਅ-ਜੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

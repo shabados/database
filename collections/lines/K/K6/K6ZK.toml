@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਪ੍ਰਭਾਤੀ/ਬਿਭਾਗ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = ਇਸ ਸ਼ਬਦ ਨੂੰ ਗਾਵਣ ਵੇਲੇ ਤਾਲ ਮੁੜ ਮੁੜ ਪਰਤਣਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ (ਠਾਕੁਰ ਦੀ) ਖ਼ਬਰ ਦੱਸ, ਮੈਂ ਆਪਣਾ ਹਿਰਦਾ (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ) ਭੇਟਾ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਉ = ਹਿਰਦਾ, ਮਨ। ਅਰਾਪਉਂ = ਅਰਪਉਂ, ਮੈਂ ਭੇਟ ਕਰਦਾ ਹਾਂ। ਸਦੇਸਾ = ਸਨੇਹਾ, ਖ਼ਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

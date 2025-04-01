@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਉਸ ਦੀ ਮਹਿਮਾ ਹੋਣ ਲੱਗੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਜਹਾਨੋ ਆਂ ਜਹਾਂ ਤਹਿਸੀਂ ਕੁਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

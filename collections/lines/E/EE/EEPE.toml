@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਮਨ ਦੇ ਫੁਰਨੇ ਨੂੰ ਮਾਰ ਕੇ ਅੰਤਰ-ਆਤਮੇ ਹੀ ਲੀਨ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = {मनीषा} ਮਨ ਦਾ ਫੁਰਨਾ। ਮਾਰਿ = ਮਾਰ ਕੇ। ਮਨ ਮਾਹਿ = ਮਨ ਵਿਚ ਹੀ। ਸਮਾਇਆ = ਲੀਨ ਹੋ ਗਿਆ, ਭਟਕਣੋਂ ਹਟ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

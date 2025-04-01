@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹੇ ਠੱਗ ਨਾਲ ਇਕ ਹੋਰ ਇਹੋ ਜਿਹਾ ਹੀ ਠੱਗ ਰਲ ਪੈਂਦਾ ਹੈ, ਦੋਹਾਂ ਦਾ ਵਾਹ-ਵਾਹ ਮੇਲ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

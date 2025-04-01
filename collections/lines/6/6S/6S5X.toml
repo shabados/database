@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪਰਮਾਤਮਾ ਦੀ ਵਡਿਆਈ ਕਰ ॥੩੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈਕਾਰੁ = ਵਡਿਆਈ। ਕਰਿ = ਕਰ ਕੇ ॥੩੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

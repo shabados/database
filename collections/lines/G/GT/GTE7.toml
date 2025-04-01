@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਕੁਝ ਆਪ ਕਰ ਸਕਣ ਵਾਲੇ ਅਤੇ ਜੀਵਾਂ ਪਾਸੋਂ ਕਰਾ ਸਕਣ ਵਾਲੇ ਸੁਆਮੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਾਵਨਹਾਰ = (ਜੀਵਾਂ ਪਾਸੋਂ) ਕਰਾ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

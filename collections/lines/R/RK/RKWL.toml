@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਦੇਵਤੇ, ਨਾਹ ਦੈਂਤ, ਨਾਹ ਮਨੁੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਵਾ = ਦੈਂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

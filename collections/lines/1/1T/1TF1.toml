@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਸਾਰੇ ਖ਼ਾਸ ਅਤੇ ਪਰਵਾਨਤ ਨਿਕਟਵਰਤੀਆਂ ਨੂੰ ਉਸਦੇ ਚਰਨਾਂ ਨਾਲ ਲਗਾਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਖ਼ਾਸਗਾਂ ਰਾ ਬਪਾਇਸ਼ ਫ਼ਗੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ (ਜੀਵ-ਵਪਾਰੀ ਇਥੋਂ) ਨਫ਼ਾ ਖੱਟ ਕੇ ਜਾਂਦੇ ਹਨ, ਪਰ ਕਈ ਅਸਲ ਰਾਸਿ-ਪੂੰਜੀ ਭੀ ਗਵਾ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਕਈ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੋ) ਕਾਹਲੀ ਕਾਹਲੀ ਉੱਡਦੇ ਹਨ ਤੇ ਬਹੁਤੇ ਚੋਗੇ (ਭਾਵ, ਬਹੁਤੇ ਪਦਾਰਥ) ਤੱਕਦੇ ਫਿਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਗੁਲ ਬੇਗੁਲੇ = ਕਾਹਲੀ ਕਾਹਲੀ। ਚੋਗ ਘਣੀ = ਬਹੁਤੇ ਚੋਗੇ, ਕਈ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

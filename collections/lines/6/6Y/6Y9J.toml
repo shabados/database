@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਾਰੇ ਰੋਗਾਂ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨੁ = ਪ੍ਰਭੂ ਦਾ ਸੇਵਕ। ਸਰਬ ਰੋਗ ਤੇ ਰਹਤ = ਸਾਰੇ ਰੋਗਾਂ ਤੋਂ ਬਚਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

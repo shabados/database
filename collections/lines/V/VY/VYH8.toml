@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੇਰੇ ਮਨ ਦੇ ਤਾਂ ਇਤਨੇ ਮੰਦੇ ਕੰਮ ਹਨ ਕਿ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਟਿਆ = ਫਿਟਕਾਰ-ਯੋਗ, ਮੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

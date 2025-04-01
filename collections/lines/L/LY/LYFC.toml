@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਾਹ ਰੱਖਣ ਵਾਲੇ ਗੁਰੂ ਪੁਰਖ! ਹੇ ਦਾਤਾਰ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਵੈਰ = ਹੇ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਾਹ ਰੱਖਣ ਵਾਲੇ! ਦਾਤੇ = ਹੇ ਦਾਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

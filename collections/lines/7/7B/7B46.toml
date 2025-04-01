@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ ਉਹ ਸੰਸਾਰ ਵਿਚ ਕਾਹਦੇ ਲਈ ਆਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ = ਕਾਹਦੇ ਲਈ? ਸੰਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

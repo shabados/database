@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਕੇਹੜੇ ਬੋਲ ਬੋਲ ਕੇ ਮੈਂ ਤੈਨੂੰ ਪ੍ਰਸੰਨ ਕਰਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਾਰਬ੍ਰਹਮ! ਰੀਝਾਵਉ = ਮੈਂ (ਤੈਨੂੰ) ਪ੍ਰਸੰਨ ਕਰਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

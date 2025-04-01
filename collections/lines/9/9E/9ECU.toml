@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੱਥੇ ਜਿੱਥੇ (ਉਸ ਦੇ) ਸੰਤ (ਉਸ ਦਾ) ਆਰਾਧਨ ਕਰਦੇ ਹਨ ਉੱਥੇ ਉੱਥੇ ਉਹ ਜਾ ਦਰਸ਼ਨ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ ਜਹ = ਜਿੱਥੇ ਜਿੱਥੇ। ਅਰਾਧਹਿ = ਅਰਾਧਨ ਕਰਦੇ ਹਨ। ਪ੍ਰਗਟਾਇਆ = (ਆਪਣੇ ਆਪ ਨੂੰ) ਪਰਗਟ ਕਰ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

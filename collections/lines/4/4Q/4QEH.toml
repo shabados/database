@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਹੀਏਂ ਮੈਂ (ਰਸਤੇ ਤੋਂ) ਖੁੰਝਿਆ ਨਹੀਂ, ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਨਹੀਂ ਪਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ, ਇਹੀ ਅਟੱਲ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਬਾਣੁ = ਆਸਰਾ। ਭਜੁ = ਸਿਮਰ, ਉਚਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

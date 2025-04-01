@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਜ਼ਾਰਾਣ ਪਾਤਸ਼ਾਹੀਆਣ ਨਾਲੋਣ ਵੀ ਚੰਗੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਹਤਰ ਕਿ ਹਜ਼ਾਰ ਬਾਦਸ਼ਾਹੀ ਬਾਸ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

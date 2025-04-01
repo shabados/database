@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਆਪ ਸੱਚ ਹੈ ਅਤੇ ਸੱਚ ਦਾ ਸ਼ੀਸ਼ਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਹੱਕ ਆਈਨਾ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੪।"
+page = 10
+line = 124
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

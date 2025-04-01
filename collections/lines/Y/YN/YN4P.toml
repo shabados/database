@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਜੇ ਤੇਰੀ ਮਿਹਰ ਹੋਵੇ ਤਾਂ) ਮੈਂ ਤੇਰੇ ਨਾਮ ਦੀ ਵਣਜਾਰਨ ਬਣ ਜਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਜਾਰਨਿ = ਵਣਜ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

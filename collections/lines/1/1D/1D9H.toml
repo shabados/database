@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਸਾਰੇ ਕਰਮ ਧਰਮ ਕਰਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਛਿਤਾ = {Skt. अक्षर} ਸੰਯੁਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

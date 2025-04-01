@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ ਇਹ) ਮੋਈ ਹੋਈ ਗਾਂ ਜਿਵਾਲ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮਿਲਿ = ਮੋਈ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

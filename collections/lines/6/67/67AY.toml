@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਅਮੋਲਕ ਲਾਲ ਹਨ, ਅਮੋਲਕ ਰਤਨ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹਿ = ਲਫ਼ਜ਼ 'ਏਹ' ਤੋਂ 'ਬਹੁ-ਵਚਨ' ਹੈ। ਅਮੁਲੀਕ = ਅਮੋਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

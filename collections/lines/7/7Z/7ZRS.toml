@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਪ੍ਰਾਣੀ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰਦੇ ਹਨ, ਦਾਨ ਕਰਦੇ ਹਨ (ਪਰ ਇਹਨਾਂ ਕਰਮਾਂ ਨਾਲ ਉਹ ਸਹੀ ਜੀਵਨ-ਰਾਹ) ਨਹੀਂ ਸਮਝ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਬੂਝਹਿ = {ਬਹੁ-ਵਚਨ। 'ਬੂਝੈ' ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

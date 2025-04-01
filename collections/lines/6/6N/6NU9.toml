@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਮਿੱਟੀ ਦਾ ਬਣਿਆ ਸਰੀਰ ਉਸ ਦੀ ਯਾਦ ਨਾਲ ਪਵਿੱਤਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਵਜੂਦਿ ਖ਼ਾਕ ਪਾਕ ਅਜ਼ ਯਾਦਿ ਊ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

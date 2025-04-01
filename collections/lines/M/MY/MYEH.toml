@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਸਦਾ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਜੇਹੜਾ ਸਭ ਤੋਂ ਵੱਡਾ ਮਾਲਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵੀਐ = ਸੇਵਾ-ਭਗਤੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ। ਸਭ ਦੂ = ਸਭ ਤੋਂ। ਸਾਹਿਬੁ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

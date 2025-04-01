@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਹੇ ਬੇ-ਸਮਝ! ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਕਿਉਂ ਨਹੀਂ ਗਾਂਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹਿ = ਕਿਉਂ? ਗਾਵਹੀ = ਗਾਵਹਿ, ਤੂੰ ਗਾਂਦਾ। ਮੂਰਖ = ਹੇ ਮੂਰਖ! ਅਗਿਆਨਾ = ਹੇ ਗਿਆਨ-ਹੀਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

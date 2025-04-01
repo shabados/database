@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਤੇਰਾ ਮੂੰਹ ਹੇਠਾਂ ਨੂੰ ਸੀ, ਪੈਰ ਉਤਾਂਹ ਨੂੰ ਸਨ, ਬੜੇ ਔਖੇ ਥਾਂ ਤੂੰ ਵੱਸਦਾ ਸੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲੈ = ਹੇਠਾਂ ਨੂੰ। ਕੁਹਥੜੈ ਥਾਇ = ਔਖੇ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

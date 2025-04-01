@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਾਦਰ ਅਤੇ ਕੁਦਰਤ ਇੱਕ ਮਿੱਕ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਦਰੋ ਕੁਦਰਤ ਬਹਮ ਆਮੇਖ਼ਤੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

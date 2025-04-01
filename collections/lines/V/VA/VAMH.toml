@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਅੰਮ੍ਰਿਤ) ਚੱਖਣ ਨਾਲ ਮਨ ਤੁਰਤ ਸਾਰੇ ਵਿਕਾਰ ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਖਤ = ਚੱਖਦਿਆਂ। ਬੇਗਿ = ਤੁਰਤ, ਛੇਤੀ। ਸਗਲ = ਸਾਰੇ। ਬਿਖੁ = ਜ਼ਹਿਰ, ਵਿਕਾਰ। ਹਰੈ = ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

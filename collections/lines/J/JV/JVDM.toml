@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਮਨੁੱਖ ਧਨ-ਪਦਾਰਥ, ਰਥ, ਮਾਲ, ਰਾਜ ਨਾਲ ਬੜਾ ਮੋਹ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪਤਿ = ਧਨ-ਪਦਾਰਥ। ਸਿਉ = ਨਾਲ। ਨੇਹੁ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

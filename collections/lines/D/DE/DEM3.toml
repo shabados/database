@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਸਰੀਰ-ਘਰ ਵਿਚ ਇਹ ਸੂਝ ਨਹੀਂ ਰੱਖਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਤੀ = ਜਾਣੀ, ਸਮਝੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

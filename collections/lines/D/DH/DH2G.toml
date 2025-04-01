@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਜੀਵ-) ਵਹੁਟੀ ਤੇ ਖਸਮ (-ਪ੍ਰਭੂ) ਦਾ ਵਸੇਬਾ ਇੱਕੋ ਥਾਂ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨ = ਇਸਤ੍ਰੀ। ਪਿਰ = ਖਸਮ ਦਾ। ਬਸੇਰਾ = ਵਸੇਬਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

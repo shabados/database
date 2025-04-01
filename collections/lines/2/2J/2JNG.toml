@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਂਹ ਕਿਸੇ ਹੋਰ ਦਾ ਆਸਰਾ ਤੱਕਦੀ ਹੈ, ਤੇ ਨਾਹ ਕਿਸੇ ਦੀ ਮੰਦ ਪ੍ਰੇਰਨਾ ਸੁਣਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਾਖੈ = ਮੰਦੀ ਪ੍ਰੇਰਨਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

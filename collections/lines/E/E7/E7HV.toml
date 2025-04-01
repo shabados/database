@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ, ਤੇਰੇ ਨਾਮ ਦਾ ਸਰਮਾਇਆ ਇਕੱਠਾ ਕਰੀਏ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂੰਜੀ = ਸਰਮਾਇਆ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਵਿਸਾਹਾ = ਖ਼ਰੀਦੋ, ਇਕੱਠਾ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

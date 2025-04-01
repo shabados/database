@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਗਵਾਨ! ਮੈਂ ਨਾਨਕ ਉਤੇ ਕਿਰਪਾ ਕਰ ਕਿ ਮੈਂ ਇਕ ਘੜੀ ਭਰ ਭੀ ਤੇਰਾ ਨਾਮ ਨਾਹ ਭੁਲਾਵਾਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਵਿਸਰਉ = ਨਾਹ ਭੁਲਾਵਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

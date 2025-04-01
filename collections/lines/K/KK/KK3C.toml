@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਬੇਅੰਤ ਵੱਡਾ ਹੈਂ, ਤੂੰ ਬੇਅੰਤ ਉੱਚਾ ਹੈਂ। ਮੈਂ ਬਹੁਤ ਹੀ ਛੋਟੀ ਜਿਹੀ ਹਸਤੀ ਵਾਲੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਹੁਰੀਆ = ਛੋਟੀ। ਇਤਨੀਕ = ਬਹੁਤ ਹੀ ਛੋਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

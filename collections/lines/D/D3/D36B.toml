@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰੋਜ਼ੀ ਦੀ ਖ਼ਾਤਰ) ਚਿੰਤਾ-ਫ਼ਿਕਰ ਨਾਹ ਕਰ, ਇਹ ਫ਼ਿਕਰ ਕਰਤਾਰ ਨੂੰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤ = ਫ਼ਿਕਰ। ਕਰਤੇ = ਕਰਤਾਰ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

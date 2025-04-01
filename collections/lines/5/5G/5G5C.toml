@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਸਭ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ, ਜੋ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਵਿਆਪਕ। ਸਭ ਠਾਇ = ਹਰ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

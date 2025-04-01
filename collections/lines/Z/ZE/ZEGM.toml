@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਨਕ (ਤਾਂ ਉਸ ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਹਰ ਵੇਲੇ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹੈ ਜੋ ਜਿੰਦ ਦੇਣ ਵਾਲਾ ਹੈ ਜੋ ਸੁਆਸ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼ {अनुदिनां}, ਹਰ ਵੇਲੇ। ਨਾਨਕੁ ਧਿਆਏ = ਨਾਨਕ ਧਿਆਉਂਦਾ ਹੈ। ਜੀਅ ਕਾ ਦਾਤਾ = ਜਿੰਦ ਦਾ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

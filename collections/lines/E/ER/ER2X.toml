@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਕਿਰਪਾ ਨਾਲ ਦਿਲ ਦੀ ਮਾਲਕੀ ਪਰਾਪਤ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਤੁਫ਼ੈਲਸ਼ ਸਾਹਿਬਿ ਦਿਲ ਮੀ ਸ਼ਵਦ ।੪੫੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

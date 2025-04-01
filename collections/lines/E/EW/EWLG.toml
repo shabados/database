@@ -36,6 +36,12 @@ language = "pa"
 data = "ਡੂੰਘੀ ਗੰਭੀਰ ਗੰਗਾ ਮਾਤਾ ਵਿਚ (ਡੋਬਣ ਲਈ)-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਸਾਇਨਿ = ਜਗਤ ਦੀ ਮਾਤਾ। ਗੋਸਾਈ = ਜਗਤ ਦਾ ਮਾਲਕ। {ਨੋਟ: ਲਫ਼ਜ਼ 'ਗੋਸਾਈ' ਤੋਂ 'ਗੁਸਾਇਨ' ਇਸਤ੍ਰੀ-ਲਿੰਗ ਹੈ}। ਗਹਿਰ = ਡੂੰਘੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਤਾਰ! ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼। ਮੈਂ ਤੈਨੂੰ ਕਦੇ ਨਾਹ ਭੁਲਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾਰ = ਹੇ ਦਾਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

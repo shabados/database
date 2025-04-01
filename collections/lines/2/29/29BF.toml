@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਿਵ ਨੇ, ਬ੍ਰਹਮਾ ਨੇ, ਦੇਵਤਿਆਂ ਨੇ ਮੂੰਹੋਂ ਹਰੀ ਦਾ ਨਾਮ ਜਪਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਰਿ = ਸ਼ਿਵ ਨੇ। ਬ੍ਰਹਮੈ = ਬ੍ਰਹਮਾ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

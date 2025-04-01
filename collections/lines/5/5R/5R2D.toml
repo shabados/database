@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮੱਥੇ ਉਤੇ (ਚੰਗਾ ਭਾਗ) ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ ਉਹ ਸਤਸੰਗ ਵਿਚ ਮਿਲਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਤੇ = ਉਹ ਬੰਦੇ {ਬਹੁ-ਵਚਨ}। ਸੰਗਾਰ = ਸਤਸੰਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

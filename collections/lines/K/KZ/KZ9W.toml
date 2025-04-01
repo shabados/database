@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਪਿਆਰੀ ਜੀਭ! ਤੂੰ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਰਸ ਪੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਹੇ ਜੀਭ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

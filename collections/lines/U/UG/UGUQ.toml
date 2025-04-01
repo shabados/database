@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ, ਤਾਂ ਫਿਰ (ਹੇ ਪ੍ਰਭੂ!) ਮੇਰਾ ਕੀਹ ਹਾਲ ਹੁੰਦਾ? ॥੫॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੈ, ਆਖਦਾ ਹੈ। ਕਵਨ ਗਤਿ = ਕੀਹ ਹਾਲ? ॥੫॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

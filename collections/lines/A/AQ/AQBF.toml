@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤਾਂ ਇਸ ਦਾ ਇਹ ਫਲ ਹਾਸਲ ਕਰੇਂਗਾ ਕਿ ਤੇਰਾ ਆਤਮਕ ਮੌਤ ਦਾ ਖ਼ਤਰਾ ਮਿਟੇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਾਸ = ਡਰ। ਜਮ ਤ੍ਰਾਸ = ਮੌਤ ਦਾ ਡਰ, ਆਤਮਕ ਮੌਤ ਦਾ ਖ਼ਤਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

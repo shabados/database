@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਕਰਨ ਵਾਲਾ ਰੱਬ ਦੀ ਹੀ ਜ਼ਾਤ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਯਾਦਿ ਹੱਕ ਕੁਨਦ ਜ਼ਾਤਿ ਖ਼ੁਦਾ-ਸਤ ।੬੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

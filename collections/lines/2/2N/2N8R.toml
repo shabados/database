@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਰਾ ਜਗਤ ਹਉਮੈ ਦੇ ਰੋਗ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈ (ਤੇ, ਹਉਮੈ ਵਿਚ ਫਸੇ ਹੋਏ) ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਭਾਰਾ ਦੁੱਖ ਲੱਗਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਗਿ = ਰੋਗ ਵਿਚ। ਬਿਆਪਿਆ = ਫਸਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

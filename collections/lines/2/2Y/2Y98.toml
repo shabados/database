@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਅਪਣਾ ਮੁਖੜਾ ਖੂਬ ਦਰਸਾ, ਕਿਉਣ ਜੋ ਇੱਥੇ ਦੀਵੇ ਦੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੁਮਾ ਰੁਖ਼ਸਾਰਾਇ ਤਾਬਾਣ ਕਿ ਮੀ-ਬਾਇਦ ਚਰਾਗ਼ ਈਣ ਜਾ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

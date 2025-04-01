@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਉਸਨੇ ਆਪਣੀ ਵਿੱਤ ਤੋਂ ਬਾਹਰ ਮੈਨੂੰ ਆਪਣੇ ਨਾਲ ਮਿਲਾ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਿਲ ਖ਼ੁਦ ਕਰਦ ਅਜ਼ ਅੰਦਾਜ਼ਾ ਬੇਸ਼ ।੨੯੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

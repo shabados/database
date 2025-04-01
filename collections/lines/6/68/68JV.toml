@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਕੋਈ ਵਿਸ਼ਈ ਮਨੁੱਖ ਕਾਮ-ਵਾਸ਼ਨਾ ਵਿਚ ਹੀ ਮਗਨ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮੀ = ਵਿਸ਼ਈ ਮਨੁੱਖ। ਕਾਮਿ = ਕਾਮ-ਵਾਸ਼ਨਾ ਵਿਚ। ਲੁਭਾਵੈ = ਮਗਨ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

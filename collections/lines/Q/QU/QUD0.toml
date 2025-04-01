@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਵਣਜਿਆ ਹੈ) ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾ ਕੇ ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ ਤ੍ਰਿਸ਼ਨਾ ਮਰ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵੀਤਾ = ਗਾਂਵਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

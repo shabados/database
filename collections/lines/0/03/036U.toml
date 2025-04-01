@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਕਿਵੇਂ ਕੋਈ ਪਾਰ ਲੰਘ ਸਕਦਾ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈਸੇ = ਕਿਵੇਂ? ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

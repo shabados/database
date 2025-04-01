@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਮੇਰੇ ਮਨ ਦੀ ਹਰ ਵੇਲੇ ਦੀ ਮੰਗ ਹੋ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਉ = ਸੁਆਰਥ, ਮਨੋਰਥ, ਮੰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

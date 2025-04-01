@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ (ਮੁਸਲਮਾਨ ਹੋ ਕੇ) ਨੀਲੇ ਕੱਪੜੇ ਪਹਿਨਦਾ ਹੈ, ਕੋਈ (ਹਿੰਦੂ) ਚਿੱਟੇ ਬਸਤ੍ਰ ਪਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਢੈ = ਪਹਿਨਦਾ ਹੈ। ਨੀਲ = ਨੀਲੇ ਕੱਪੜੇ। ਸੁਪੇਦ = ਚਿੱਟੇ ਕੱਪੜੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

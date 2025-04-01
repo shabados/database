@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਬਰਕਤਿ ਨਾਲ (ਮੇਰੇ ਅੰਦਰੋਂ) ਮੇਰਾ ਆਪਾ-ਭਾਵ ਮਿਟ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ, ਹਉਮੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

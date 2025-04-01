@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦਾ ਮੋਹ ਛੱਡ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਮਿਲਿ = ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ। ਭਾਉ = ਪਿਆਰ। ਦੂਜਾ ਭਾਉ = (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਦਾ ਪਿਆਰ, ਮਾਇਆ ਦਾ ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

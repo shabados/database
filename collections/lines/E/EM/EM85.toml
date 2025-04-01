@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਵਿਚ) ਵੱਡੇ ਵੱਡੇ ਰਾਜੇ ਹਨ, ਵੱਡੇ ਵੱਡੇ ਜ਼ਿਮੀਦਾਰ ਹਨ, (ਮਾਇਆ ਵਲੋਂ) ਉਹਨਾਂ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਕਦੇ ਭੀ ਨਹੀਂ ਮੁੱਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜਨ = ਰਾਜੇ। ਭੂਮਨ = ਜ਼ਿਮੀਂ ਦੇ ਮਾਲਕ। ਤਾ ਕੀ = ਉਹਨਾਂ ਦੀ। ਤ੍ਰਿਸਨ = ਲਾਲਚ, ਤ੍ਰੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

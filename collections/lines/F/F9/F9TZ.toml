@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਦੋਵੇਣ ਜਹਾਨ ਤੇਰੇ ਹੁਕਮ ਹੇਠਾਣ ਹੋ ਜਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਜ਼ੇਰਿ ਫ਼ਰਮਾਨਤ ਬਵਦ ।੪੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

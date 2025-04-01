@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਦੇ ਮਨ ਵਿਚ ਇਹ ਤਾਂਘ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਅਨੁਰਾਉ = ਅਨੁਰਾਗ, ਤਾਂਘ, ਖਿੱਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

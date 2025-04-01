@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ) ਤੂੰ ਆਪ ਹੀ ਮਾਲਕ ਹੈਂ ਆਪ ਹੀ ਸੇਵਕ ਹੈਂ ਆਪ ਹੀ ਆਪਣੀ ਪੂਜਾ ਕਰ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜੰਤਾ = ਪੂਜਾ ਕਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

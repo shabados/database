@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਸ੍ਰਿਸ਼ਟੀ ਸਾਜੀ ਹੈ ਤੇ ਆਪ ਹੀ (ਉਸ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਉਸ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ) ਲੁਕਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜੀਅਨੁ = ਸਾਜੀ ਹੈ ਉਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

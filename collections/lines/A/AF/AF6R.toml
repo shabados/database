@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਸਾਰੀਆਂ ਕਰਤੂਤਾਂ ਨੂੰ ਜਮਰਾਜ ਡੰਨ ਲਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਾਨੈ = ਡੰਨਦਾ ਹੈ, ਡੰਨ ਲਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ) ਮੈਂ ਹੁਣ ਉਹ ਸੁਹਾਗ ਲੱਭ ਲਿਆ ਹੈ ॥੪॥੨॥੫੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਿਰੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ॥੪॥੨॥੫੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

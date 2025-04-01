@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਜਗਤ ਵਿਚ) ਬੇਅੰਤ ਜੀਵ ਇਹਨਾਂ ਥਾਵਾਂ ਤੇ ਬੈਠ ਗਏ ਹਨ ਤੇ ਬਹੁਤ ਵਾਜੇ ਵਜਾ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੀ = ਕਈ ਜੀਵ। ਬੈਹਨ੍ਹ੍ਹਿ = ਬੈਠਦੇ ਹਨ। ਬੈਹਣ = ਬੈਠਣ ਦੀ ਥਾਂ। ਬੈਹਣੇ = ਥਾਂ ਤੇ। ਮੁਚੁ = ਬਹੁਤ। ਵਜ = ਵਾਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

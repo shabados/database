@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰਮਾਤਮਾ ਦੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਧਿਆਨ ਨਾਲ ਸੁਣਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਕਾਨੀ = ਕੰਨਾਂ ਨਾਲ, ਧਿਆਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

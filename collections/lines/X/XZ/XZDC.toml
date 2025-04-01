@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਦੀ ਬਰਕਤਿ ਨਾਲ ਇਕ-ਰਸ ਨਾਮ ਅੰਮ੍ਰਿਤ ਦੀ ਵਰਖਾ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਦ ਬਾਣੀ = ਇਕ ਰਸ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਦੀ ਰਾਹੀਂ। ਅਨਹਦ = ਲਗਾਤਾਰ, ਇਕ-ਰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

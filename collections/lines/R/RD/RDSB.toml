@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਜਦੋਂ (ਨਿਮ੍ਰਤਾ-ਰੂਪ) ਗਿੱਦੜ (ਅਹੰਕਾਰ-) ਸ਼ੇਰ ਨੂੰ ਖਾ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਆਰੁ = ਨਿਮ੍ਰਤਾ-ਰੂਪ ਗਿੱਦੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

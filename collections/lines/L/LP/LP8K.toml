@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹੀ ਹਰਿਰਾਇ ਕਰਤਾ ਗੁਰੂ ਹੈ, ਜਿਸ ਨੂੰ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੂ ਹਸਤ ਹਰਿਰਾਇ ਕਰਤਾ ਗੁਰੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ ਨੇ (ਆਪਣੇ) ਪੁੱਤਰ ਪ੍ਰਹਲਾਦ ਨੂੰ ਆਖਿਆ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਨਾਲ, ਨੂੰ। ਮਾਇ = ਮਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

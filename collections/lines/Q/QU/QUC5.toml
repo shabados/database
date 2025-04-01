@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਮੇਰੇ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਕਿਸੇ ਨੂੰ ਮਿੱਤ੍ਰ ਨਾ ਸਮਝਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਨਦਾਰੰਦ ਦੋਸਤ ਜੁਜ਼ ਜ਼ਿਕਰਮ ।੪੬।"
+page = 1
+line = 46
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

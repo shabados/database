@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਕੌਣ ਅਜਿਹੀ ਪ੍ਰਭਾਤੀ ਸ਼ਰਾਬ ਦੀ ਤਾਬ ਲਿਆਵੇਗਾ# ਕਿੱਥੇ ਹੈ ਅਜਿਹਾ ਦਿਮਾਗ਼ ਦਾ ਪਿਆਲਾ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿਹ ਆਰਦ ਤਾਬਿ ਈਂ ਸਹਬਾ ਕੁਜਾ ਜਾਮਿ ਦਿਮਾਗ ਈਂਜਾ ।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

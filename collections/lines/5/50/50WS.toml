@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀਏ! ਮੈਨੂੰ ਹੁਣ ਸਦਾ ਖ਼ੁਸ਼ੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਹਨ, ਮੈਂ ਹੁਣ ਸਦਾ ਆਤਮਕ ਆਨੰਦ ਮਾਣ ਰਹੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

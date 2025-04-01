@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਉਸ ਦੀ ਮੇਹਰ ਨ ਹੋਵੇ ਤਾਂ) ਇਸ ਨਾਮ-ਵੱਖਰ ਨੂੰ ਨਾਹ ਕੋਈ ਪਰਖਣ ਲਈ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਰੁ = ਸੌਦਾ। ਕੋਈ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

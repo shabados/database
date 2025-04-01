@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਕਿੱਥੇ ਵੀ ਲੋਕਾਣ ਨੇ ਦੀਵਾ ਬਾਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕੁਜਾ ਰੌਸ਼ਨ ਚਰਾਗੇ ਕਰਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

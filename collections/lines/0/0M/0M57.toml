@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹੀ ਦਿਨ ਚੰਗਾ ਸੋਹਣਾ ਹੈ ਜਿਸ ਦਿਨ ਪਰਮਾਤਮਾ ਮਨ ਵਿਚ ਵੱਸੇ, ਜਿਸ ਦਿਨ ਪਰਮਾਤਮਾ ਵਿੱਸਰ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਚਿਤਿ = ਚਿਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿੰਦੂ ਸ਼ਾਸਤਰ ਦੁਆਰਾ ਹੀ ਸਾਲਾਹੁਣ-ਜੋਗ ਸੁੰਦਰ ਤੇ ਬੇਅੰਤ ਹਰੀ ਨੂੰ ਸਲਾਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹਨਿ = ਸਲਾਹ ਕਰਦੇ ਹਨ। ਦਰਸਨਿ = ਸ਼ਾਸਤਰ ਦੁਆਰਾ। ਸਾਲਾਹੀ = ਸਾਲਾਹੁਣ-ਯੋਗ ਹਰੀ ਨੂੰ। ਰੂਪਿ = ਸੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

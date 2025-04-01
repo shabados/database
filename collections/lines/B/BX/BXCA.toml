@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਪਾਰਸ ਹੈ, ਅਸੀਂ ਜੀਵ ਲੋਹਾ ਹਾਂ। ਪਰਮਾਤਮਾ ਚੰਦਨ ਹੈ, ਅਸੀਂ ਜੀਵ ਕਾਠ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀਂ ਜੀਵ। ਕਾਸਟ = ਕਾਠ। ਲੋਸਟ = ਲੋਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਭੈੜੀ ਮਤਿ ਦਾ ਦੁੱਖ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੇ ਮੱਥੇ ਉੱਤੇ ਭਾਗ ਜਾਗ ਪੈਂਦਾ ਹੈ ॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ ॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

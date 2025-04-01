@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਾ ਦੇ ਕੰਮ ਆਉਣ ਵਾਲੀ (ਪਰਮਾਤਮਾ ਦੀ) ਭਗਤੀ (ਮਾਨੋ) ਮਿੱਠੇ ਸੁਭਾਵ ਵਾਲੀ ਇਸਤ੍ਰੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ = ਆਪਣੀ, ਆਪਣੇ ਆਪ ਦੀ, ਆਤਮਾ ਦੇ ਕੰਮ ਆਉਣ ਵਾਲੀ। ਸੀਲ = ਮਿੱਠਾ ਸੁਭਾਉ। ਨਾਰਿ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

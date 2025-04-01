@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਮਾਨੋ, ਆਪਣੇ ਹੀ ਘਰ ਨੂੰ) ਅੱਗ ਲਾ ਕੇ ਘਰ ਵਿਚ ਸੌਂ ਰਹੇ ਹਨ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਰ = ਘਰ। ਮੈ = ਮਹਿ, ਵਿਚ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

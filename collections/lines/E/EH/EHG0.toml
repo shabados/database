@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਉਸ ਮਹਾਨ ਨੂਰ ਦੀ ਇੱਕ ਕਿਰਨ ਹੈਣ, ਸਿਰ ਤੋਣ ਪੈਰਾਣ ਤਕ ਨੂਰ ਹੋ ਜਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਤਰਾਇ ਨੂਰੀ ਸਰਾਪਾ ਨੂਰ ਬਾਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

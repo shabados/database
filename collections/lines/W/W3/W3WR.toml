@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਨੇ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ ਸਾਜਿਆ, ਅਤੇ ਆਪ ਹੀ ਆਪਣਾ ਨਾਮਣਾ ਬਣਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੀਨ੍ਹ੍ਹੈ = ਆਪ ਹੀ ਨੇ, (ਅਕਾਲ ਪੁਰਖ) ਨੇ ਆਪ ਹੀ। ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਨਾਉ = ਨਾਮਣਾ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

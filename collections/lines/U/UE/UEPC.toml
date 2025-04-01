@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹਨਾਂ ਦੇ ਪੈਰਾਂ ਨਾਲ) ਉੱਡ ਉੱਡ ਕੇ ਘੱਟਾ ਉਹਨਾਂ ਦੇ ਸਿਰ ਵਿਚ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਵਾ = ਘੱਟਾ। ਝਾਟੈ = ਝਾਟੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

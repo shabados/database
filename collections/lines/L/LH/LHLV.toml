@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੇ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਮੰਨ ਲਈਏ ਤਾਂ ਉਹ ਸੱਚੀ ਵਡਿਆਈ ਬਖ਼ਸ਼ਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮਿ ਮੰ​‍ਨਿਐ = {Locative Absolute} ਜੇ ਹੁਕਮ ਮੰਨ ਲਈਏ, ਹੁਕਮ ਮੰਨ ਲਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

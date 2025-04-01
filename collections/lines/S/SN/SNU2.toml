@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਭਲਿਆਂ ਨਾਲ ਗੱਲ ਕੀਤਿਆਂ ਕੋਈ ਭਲਾਈ ਦੀ ਗੱਲ ਨਿਕਲੇਗੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲੇ = ਬੋਲਿਆਂ। ਉਪਕਾਰੀ = ਭਲਾਈ ਦੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

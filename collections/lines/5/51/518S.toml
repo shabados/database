@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ ਕੇ (ਮੇਰੇ) ਹਿਰਦੇ ਵਿਚ (ਆਪਣਾ) ਟਿਕਾਣਾ ਬਣਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਬਸੇਰੋ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਮਹਿਰਮ ਸਿਵਾਇ ਰੱਬ ਦੇ ਨਾਮ ਦੇ ਹੋਰ ਕੋਈ ਸ਼ਬਦ ਮੂਹੋਣ ਨਹੀਣ ਕਢਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਹਾਲ ਬਜੁਜ਼ ਹਰਫ਼ਿ ਖ਼ੁਦਾ ਦਮ ਨ-ਜ਼ਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

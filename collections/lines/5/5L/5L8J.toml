@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੁਦਰਤਿ ਵਿਚ) ਤੇਰੀ ਕੈਸੀ ਸੁੰਦਰ ਆਰਤੀ ਹੋ ਰਹੀ ਹੈ! ਹੇ ਜੀਵਾਂ ਦੇ ਜਨਮ ਮਰਨ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਇਹ ਹੈ ਤੇਰੀ ਅਦਭੁਤ ਆਰਤੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵ ਖੰਡਨ = ਹੇ ਜਨਮ ਮਰਨ ਕੱਟਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ) ਮਨ ਵਿਚ (ਤੇਰੇ) ਦਰਸਨ ਦੀ ਤਾਂਘ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = (ਮੇਰੇ) ਮਨ ਵਿਚ। ਪਿਆਸ = ਤਾਂਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਵਾਰ ਸਵਾਰ ਕੇ ਪੱਟੀਆਂ ਗੁੰਦਾਂਦੀ ਹਾਂ, ਮੇਰੀਆਂ ਪੱਟੀਆਂ ਦੇ ਚੀਰ ਵਿਚ ਸੰਧੂਰ ਭੀ ਭਰਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਠਿ = ਸਵਾਰ ਕੇ। ਗੁੰਦਾਈ = ਮੈਂ ਗੁੰਦਾਂਦੀ ਹਾਂ। ਮਾਗ = ਪੱਟੀਆਂ ਵਿਚਲਾ ਚੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

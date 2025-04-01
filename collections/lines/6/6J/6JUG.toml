@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਜੀਵਨ ਦਾ ਮੰਤਵ ਹੀ ਰੱਬ ਦੀ ਯਾਦ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾਅਨੀਏ ਈਣ ਜ਼ਿੰਦਗੀ ਯਾਦਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

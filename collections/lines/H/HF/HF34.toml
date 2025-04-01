@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀ!) ਤੂੰ (ਸੋਹਣੇ) ਕੱਪੜੇ ਪਹਿਨਦੀ ਹੈਂ (ਦੁਨੀਆ ਦੇ ਸਾਰੇ) ਭੋਗ ਭੋਗਦੀ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿਰਹਿ = ਤੂੰ ਪਹਿਨਦੀ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

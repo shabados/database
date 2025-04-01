@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਿਰੰਕਾਰ! ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਤੂੰ ਹੀ ਮੌਲ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਤ = ਉਣਿਆ ਹੋਇਆ। ਪੋਤ = ਪ੍ਰੋਤਾ ਹੋਇਆ। ਓਤਿ ਪੋਤਿ = ਜਿਵੇਂ ਤਾਣਾ ਤੇ ਪੇਟਾ ਆਪੋ ਵਿਚ ਮਿਲੇ ਹੋਏ ਹਨ। ਮਉਲੀਏ = ਮੌਲ ਰਿਹਾ ਹੈ, ਪ੍ਰਫੁਲਤ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

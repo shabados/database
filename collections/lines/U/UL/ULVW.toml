@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਹੈ) ਝੂਠੇ ਮੂਰਖ ਮਨੁੱਖ ਦੇ ਹਠ ਦੀ ਗੱਲ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਠੀਸਾ = ਹਠ ਦੀਆਂ ਗੱਲਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

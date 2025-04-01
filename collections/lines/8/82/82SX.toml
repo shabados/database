@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਤੇ ਸਭ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਸਾਰੇ ਜੀਆ-ਜੰਤ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ ਜੀਵ। ਸਿਰਜਣਹਾਰਾ = ਹੇ ਕਰਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

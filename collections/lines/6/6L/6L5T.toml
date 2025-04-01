@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਗੁਰੂ ਨੂੰ ਮੈਂ ਪੱਖਾ ਝੱਲਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਲਾਵਉ = ਮੈਂ ਝੱਲਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

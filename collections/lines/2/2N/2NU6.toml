@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਪਾਸੋਂ ਇਕ ਦਾਨ ਮੰਗਦਾ ਹਾਂ। ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਖਿਣਾ = ਦੱਛਣਾ, ਬ੍ਰਾਹਮਣ ਨੂੰ ਮਾਇਆ ਦੀ ਭੇਟਾ, ਦਾਨ। ਤੈ ਪਹਿ = ਤੈਥੋਂ। ਮਾਗਉ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

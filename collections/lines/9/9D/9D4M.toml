@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ-ਪਿਆਰ (ਨਿਰਾ) ਹਨੇਰਾ ਹੈ, ਜਿਸ ਦਾ ਉਰਲਾ ਤੇ ਪਾਰਲਾ ਬੰਨਾ ਦਿੱਸਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਬਾਰੁ = ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

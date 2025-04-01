@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੂੰ ਕੀਹ ਦੋਸ਼? ਇਹ ਨਮਾਣੀ ਕੀਹ ਕਰ ਸਕਦੀ ਹੈ?  ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਸ ਨੋ = ਇਸ ਜੀਵ ਨੂੰ। ਵਿਚਾਰੀ = ਨਿਤਾਣੀ ਜੀਵ-ਇਸਤ੍ਰੀ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

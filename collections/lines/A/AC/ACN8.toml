@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਜਿਤਨੇ ਭੀ ਹੋਰ ਧਾਰਮਿਕ ਰਿਵਾਜ ਤੇ ਵਿਹਾਰ ਹਨ ਸਾਰੇ ਵਿਅਰਥ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = {अन्य} ਹੋਰ। ਅਚਾਰ = ਧਾਰਮਿਕ ਰਸਮਾਂ। ਬਿਉਹਾਰ = ਵਿਹਾਰ। ਜੇਤੇ = ਜਿਤਨੇ ਭੀ। ਫੋਕ = ਫੋਕੇ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

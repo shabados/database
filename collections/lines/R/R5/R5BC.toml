@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਦਰਬਾਰ ਸਭ (ਦਰਬਾਰਾਂ) ਨਾਲੋਂ ਉੱਚਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਊਚੇ ਤੇ ਊਚਾ = ਸਭ ਤੋਂ ਉੱਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

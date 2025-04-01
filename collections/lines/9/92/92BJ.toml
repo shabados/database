@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰੇਮ ਕੇਵਲ ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਹੀ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਮਨ ਵਿਚ ਰੱਬ ਦਾ ਡਰ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "xxx ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

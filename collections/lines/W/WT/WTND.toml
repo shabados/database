@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਿਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨੂੰ ਪਿਆਰੇ ਲੱਗਣ ਲੱਗ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਏ = ਪਿਆਰੇ ਲੱਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਅਮਰ ਦੌਲਤ ਆਪਣਾ ਮੁਖੜਾ ਦਿਖਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਨੁਮਾਇਦ ਦੌਲਤਿ ਜਾਵੀਦ ਰੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

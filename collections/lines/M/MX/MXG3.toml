@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਤਨੀ ਦਾਤ ਤੂੰ ਦੇ ਰਿਹਾ ਹੈਂ ਇਹ ਤੂੰ ਹੀ ਦੇ ਸਕਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝੈ ਤੇ = ਤੇਰੇ ਪਾਸੋਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

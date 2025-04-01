@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨਾਸਵੰਤ ਮੋਹ ਨੂੰ ਨਾਹ ਵੇਖ, ਇਹ ਤਾਂ ਜੋ ਕੁੱਝ ਦਿੱਸ ਰਿਹਾ ਹੈ ਸਭ ਨਾਸ ਹੋ ਜਾਏਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜਾ = ਝੂਠਾ, ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

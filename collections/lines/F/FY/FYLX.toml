@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ ਲੁਕਾਈ ਚੰਗੀ ਹੈ, (ਕਿਉਂਕਿ ਸਭ ਵਿਚ ਪਰਮਾਤਮਾ ਆਪ ਮੌਜੂਦ ਹੈ) ਮੈਂ ਕਿਸੇ ਨੂੰ ਮਾੜਾ ਨਹੀਂ ਆਖ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਲੁਕਾਈ। ਊਤਮ = (ਮੈਥੋਂ) ਚੰਗੀ। ਹੀਨਾ = ਮਾੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

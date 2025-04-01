@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਦੇ ਸਤਸੰਗੀਆਂ ਦੀ) ਆਵਾਜਾਈ ਨਾਲ ਮੇਰੀ ਨੱਕ-ਜਿੰਦ ਆਈ ਪਈ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਕ ਸਰ = ਨੱਕ-ਦਮ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

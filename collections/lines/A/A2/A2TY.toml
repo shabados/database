@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜ਼ਿੰਦਗੀ ਦੀਆਂ) ਲੋੜਾਂ ਪੂਰੀਆਂ ਕਰਨ ਲਈ ਕਿਸੇ ਦੀ ਜ਼ਿੰਦਗੀ ਨੌਕਰੀ ਕਰਦਿਆਂ ਗੁਜ਼ਰ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜ਼ਰੂਰਤਿ = ਲੋੜ। ਸੇਵਾ = ਨੌਕਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

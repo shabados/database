@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ) ਸੁਆਦ ਫਿੱਕੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੀਕੇ = ਫਿੱਕੇ, ਬੇ-ਸੁਆਦੇ। ਸਾਦ = (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ) ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

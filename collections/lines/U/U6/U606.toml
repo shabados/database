@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਤੇਰੀ ਉਮਰ ਦੀ ਨਦੀ) ਵਹਿੰਦੀ ਜਾ ਰਹੀ ਹੈ, ਪਰ ਤੂੰ ਇਧਰ ਧਿਆਨ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹਤੀ ਜਾਤ = (ਉਮਰ ਦੀ ਨਦੀ) ਵਹਿੰਦੀ ਜਾ ਰਹੀ ਹੈ। ਦ੍ਰਿਸਟਿ = ਨਿਗਾਹ, ਧਿਆਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗ-ਸਾਧਨ ਕਰਨ ਵਾਲੇ ਤੇ ਜੋਗ-ਸਾਧਨ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਅਨੇਕਾਂ ਜੋਗੀ ਤਰਲੇ ਲੈਂਦੇ ਰਹਿ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧ = ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ। ਸਾਧਿਕ = ਸਾਧਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

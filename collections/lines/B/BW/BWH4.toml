@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਭਗਤੀ ਦੇ ਬੇਅੰਤ ਖ਼ਜਾਨੇ ਭਰੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਿ ਭੰਡਾਰ = ਭਗਤੀ ਦੇ ਖ਼ਜ਼ਾਨੇ। ਭਗਤ = ਭਗਤੀ ਕਰਨ ਵਾਲੇ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਭਗਤਿ' ਅਤੇ 'ਭਗਤ' ਦਾ ਫ਼ਰਕ ਚੇਤੇ ਰੱਖਣ-ਯੋਗ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

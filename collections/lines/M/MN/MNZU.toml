@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹਨਾਂ ਨੇ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਆਤਮਕ ਆਨੰਦ ਹਾਸਲ ਕਰ ਲਿਆ ਹੈ ॥੪੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਹ = ਉਹਨਾਂ ਨੇ ॥੪੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

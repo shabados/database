@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਮੇਸ਼ਾ ਆਪਣੇ ਦਿਲ ਨੂੰ ਰੱਬ ਦੇ ਪਾਸੇ ਲਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਇਮਾ ਦਿਲ ਰਾ ਬਸੂਇ ਹੱਕ ਬਿਆਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

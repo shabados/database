@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੀ ਭੀ ਪ੍ਰਭੂ ਨੇ ਜਮ ਦੀ ਫਾਹੀ ਕੱਟ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਾਹਾ = ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

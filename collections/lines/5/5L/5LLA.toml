@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਸਾਡੀ (ਤੇਰੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਜੀਵਾਂ ਦੀ) ਕੀਹ ਪਾਇਆਂ ਹੈ? ਜਿਵੇਂ ਤੂੰ ਸਾਨੂੰ ਬੁਲਾਂਦਾ ਹੈਂ ਉਸੇ ਤਰ੍ਹਾਂ ਅਸੀਂ ਬੋਲਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲਾਵਹਿ = ਤੂੰ ਬੁਲਾਂਦਾ ਹੈਂ। ਬੋਲਹ = ਅਸੀਂ ਬੋਲਦੇ ਹਾਂ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਕੁਦਰਤਿ = ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! (ਮੇਰੀ ਇਹ) ਬੇਨਤੀ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤੀ {विनय}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

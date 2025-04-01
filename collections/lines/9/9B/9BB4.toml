@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਨੇ ਸੱਜਨ ਦੀ ਯਾਦ ਵਿਚ ਅਸਲ ਜੀਵਨ ਪਾ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਜ਼ਿ ਯਾਦਿ ਦੂਸਤ ਹਕੀਕੀ ਹੱਯਾਤ ਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

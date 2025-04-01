@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਜੀਵਨ ਦੀ ਅਗਵਾਈ ਵਾਸਤੇ) ਨਾਹ ਅਸੀਂ ਹਿੰਦੂ (ਦੇ ਮੁਥਾਜ) ਹਾਂ, ਨਾਹ ਅਸੀਂ ਮੁਸਲਮਾਨ (ਦੇ ਮੁਥਾਜ) ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

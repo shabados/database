@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁੱਲਾਂ! ਪੈਰ ਹੱਥ ਆਦਿਕ ਸਾਫ਼ ਕਰਨ ਦੀ ਰਸਮ ਦਾ ਕੀਹ ਲਾਭ? ਮੂੰਹ ਧੋਣ ਦਾ ਕੀਹ ਗੁਣ? ਮਸਜਦ ਵਿਚ ਜਾ ਕੇ ਸਜਦਾ ਕਰਨ ਦੀ ਕੀਹ ਲੋੜ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਜੂ = ਉਜ਼ੂ, ਨਮਾਜ਼ ਪੜ੍ਹਨ ਤੋਂ ਪਹਿਲਾਂ ਹੱਥ ਪੈਰ ਮੂੰਹ ਧੋਣ ਦੀ ਕ੍ਰਿਆ। ਪਾਕੁ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

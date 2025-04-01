@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਹਰੀ! ਅਸੀਂ ਜੀਵ ਗ਼ਰੀਬ ਹਾਂ, ਆਜਿਜ਼ ਹਾਂ, ਤੇਰੇ ਹਾਂ, ਤੂੰ ਸਾਡਾ ਸਭ ਤੋਂ ਵੱਡਾ ਆਸਰਾ ਹੈਂ, ਸਾਡੀ ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਕੀਨ = ਆਜਿਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

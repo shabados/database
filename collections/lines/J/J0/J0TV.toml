@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹਨਾਂ ਪਾਸੋਂ) ਕੀਰਤਨ ਸੁਣ ਕੇ ਹਰੀ ਦੇ ਗੁਣ ਗਾਵਾਂ ਤੇ ਹਰੀ-ਜਸ ਮਨ ਵਿਚ ਉੱਕਰ ਲਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਾ = ਉਚਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

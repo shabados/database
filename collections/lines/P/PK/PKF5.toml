@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਦਾਸ ਦੇ ਵਾਸਤੇ ਤੇਰਾ ਨਾਮ ਹੀ (ਲੋਕ-ਪਰਲੋਕ ਵਿਚ) ਇੱਜ਼ਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ, ਵਾਸਤੇ। ਤੁਹੀ = ਤੂੰ ਹੀ, ਤੇਰਾ ਨਾਮ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

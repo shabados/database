@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦੇ ਦੀ ਬੰਦਗੀ ਵੀ ਸਦਾ ਕਾਇਮ ਰਹਿੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਹਮ ਦਰ ਬੰਦਗੀ ਕਾਇਮ ਬਵਦ ।੨੪੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

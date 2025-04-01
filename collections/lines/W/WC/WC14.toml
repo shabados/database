@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੀਲੇ ਬਸਤ੍ਰਾਂ ਵਾਲੇ! ਹੇ ਤਿੰਨਾਂ ਭਵਨਾਂ ਦੇ ਮਾਲਕ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀਤ = ਪੀਲਾ। ਪੀਤੰਬਰ = {ਪੀਅੰਬਰ} ਪੀਲੇ ਬਸਤ੍ਰਾਂ ਵਾਲਾ (ਕ੍ਰਿਸ਼ਨ)। ਧਣੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

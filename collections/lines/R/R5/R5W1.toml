@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਹਰੇਕ ਕਿਸਮ ਦਾ ਸਿੰਗਾਰ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜਦੋਂ, ਜੇ। ਕੀਓ = ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

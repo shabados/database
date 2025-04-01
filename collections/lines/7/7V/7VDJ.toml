@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁਰਾਰੀ! (ਆਪਣੇ) ਦਾਸ ਨਾਨਕ ਨੂੰ (ਆਪਣਾ) ਦੀਦਾਰ ਬਖ਼ਸ਼ ॥੪॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਰਾਰਿ = ਹੇ ਮੁਰਾਰੀ! (ਮੁਰ-ਅਰਿ। ਅਰਿ = ਵੈਰੀ। ਮੁਰ ਦੈਂਤ ਦਾ ਵੈਰੀ) ॥੪॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

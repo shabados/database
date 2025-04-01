@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਮਨ ਦੇ) ਕਿਵਾੜ ਖੋਲ੍ਹ ਕੇ ਤੂੰ ਮੈਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਲਿ = ਖੋਲ੍ਹ ਕੇ। ਕਿਵਾਰਾ = ਕਿਵਾੜ, ਭਿੱਤ। ਮਹਲਿ = ਮਹਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

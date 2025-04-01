@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਤਿ ਗ੍ਰਹਿਣ ਕਰ, ਜਿਸ ਦੀ ਰਾਹੀਂ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਜਾ ਸਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸਾਂਭ, ਸੰਭਾਲ, ਗ੍ਰਹਿਣ ਕਰ। ਜਿਤੁ = ਜਿਸ (ਮਤਿ) ਦੀ ਰਾਹੀਂ। ਸਿਮਰੀਜੈ = ਸਿਮਰਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

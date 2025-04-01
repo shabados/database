@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਕੋਈ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਰਤਨ ਦਾ (ਅਸਲ) ਵਪਾਰੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਕੋ = ਜੇਹੜਾ ਕੋਈ। ਬਿਉਹਾਰੀ = ਵਪਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

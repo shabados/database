@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨਾਲ ਕੋਈ ਲੁਕਾ-ਛਿਪਾ ਨਹੀਂ ਚੱਲ ਸਕਦਾ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਨਾਮੀ = ਲੁਕਾ-ਛਿਪਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

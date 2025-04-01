@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਕੋਈ ਰੰਗ ਤੇਰਾ ਕੋਈ ਨਿਸ਼ਾਨ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਤੇਰਾ ਸਰੂਪ ਬਿਆਨ ਤੋਂ ਬਾਹਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨੁ = ਰੰਗ। ਚਿਹਨੁ = ਨਿਸ਼ਾਨ। ਕਥਨ ਤੇ = ਬਿਆਨ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

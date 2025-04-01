@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਭਲੇ ਪੁਰਖਾਣ ਦੀ ਸੰਗਤ ਨਸੀਬ ਹੇ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਨੇਕਾਣ ਅਗਰ ਬਾਸ਼ਦ ਨਸੀਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

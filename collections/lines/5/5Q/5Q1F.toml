@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰੇ ਬਿਨਾਂ ਉਹ ਸਾਰੇ ਹੈਰਾਨ ਪਰੇਸ਼ਾਨ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਅਜ਼ ਗ਼ੈਰਿ ਮਨ ਪਰੇਸ਼ਾਨੰਦ ।੪੨।"
+page = 1
+line = 42
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

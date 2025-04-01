@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਧਰ ਵੀ ਮੇਰੀ ਨਿਗਾਹ ਗਈ ਹੈ, ਮੈਣ ਆਪਣਾ ਸੱਜਨ ਹੀ ਵੇਖਿਆ ਹੈ ॥"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹਰ ਤਰਫ਼ ਕਿ ਨਜ਼ਰ ਕਰਦਮ ਆਸ਼ਨਾ ਦੀਦਮ ।੫੫।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

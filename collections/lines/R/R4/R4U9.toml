@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੋ ਜਿਹੀ ਅਕਲ ਦੇਂਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਜ਼ਹੂਰ (ਜੀਵ ਦੇ ਅੰਦਰ) ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਗਾਸ = ਚਾਨਣ, ਜ਼ਹੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

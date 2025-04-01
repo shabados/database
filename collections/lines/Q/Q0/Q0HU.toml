@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਇੰਦਰ ਦੇਵਤੇ, ਚੰਦ੍ਰਮਾ, ਬੇਅੰਤ ਸੂਰਜ ਅਤੇ ਬੇਅੰਤ ਭਵਨ-ਚੱਕਰ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ = ਇੰਦਰ ਦੇਵਤੇ। ਚੰਦ = ਚੰਦਰਮਾ। ਸੂਰ = ਸੂਰਜ। ਮੰਡਲ ਦੇਸ = ਭਵਣ-ਚਕੱਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

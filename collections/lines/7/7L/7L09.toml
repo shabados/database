@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਪੂਰਨ ਪੁਰਖ ਹੈ, ਉਸ ਦਾ ਉਪਦੇਸ਼ ਭੀ ਸਦਾ ਲਈ ਅਟੱਲ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖ੍ਯ੍ਯਉ = ਨਾਸ ਨਾਹ ਹੋਣ ਵਾਲਾ, ਸਦਾ ਕਾਇਮ। ਮੰਤ੍ਰ = ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

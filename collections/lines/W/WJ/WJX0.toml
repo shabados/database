@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਮਾਇਆ ਦੇ ਪਿਆਰ ਕਰ ਕੇ) ਹਨੇਰੇ ਭਿਆਨਕ ਖੂਹ ਵਿਚ ਡਿੱਗੇ ਪਏ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਪ = ਖੂਹ। ਪਤਿਤ = ਡਿੱਗਾ ਹੋਇਆ। ਬਿਕਰਾਲ = ਡਰਾਉਣਾ। ਬਿਕਰਾਲ ਕੂਪ ਮਹਿ = ਭਿਆਨਕ ਖੂਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

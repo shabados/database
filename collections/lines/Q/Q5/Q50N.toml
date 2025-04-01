@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਭੀ ਅੰਨ੍ਹਾ ਹੈ ਤੇ ਜੀਵਨ ਦੀ ਜਾਚ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਤਿ = ਜੀਵਨ ਦੀ ਜਾਚ। ਅੰਧੁ = ਅੰਨ੍ਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

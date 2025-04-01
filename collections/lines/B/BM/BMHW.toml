@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਇਥੇ ਸੁਖੀ ਰਹੋਗੇ ਤੇ ਪਰਲੋਕ ਵਿਚ (ਇਹ ਨਾਮ) ਤੁਹਾਡੇ ਨਾਲ ਜਾਏਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲਿਆ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

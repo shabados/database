@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦੀ ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਹਰੇਕ ਜੀਵ ਨਿਹਾਲ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲ = ਖ਼ੁਸ਼, ਪ੍ਰਸੰਨ, ਸੌਖਾ। ਦ੍ਰਿਸ਼ਟਿ = ਨਜ਼ਰ, ਨਿਗਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

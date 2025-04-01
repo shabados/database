@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਹਰੀ ਨੇ (ਜਗਤ ਵਿਚ) ਹਰੇਕ ਜੀਵ ਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਉਸ ਹਰੀ ਦਾ ਨਾਮ ਸ੍ਰੇਸ਼ਟ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਨਾਮੁ = ਹਰੀ ਦਾ ਨਾਮ। ਜਿਨਿ = ਜਿਸ (ਹਰੀ) ਨੇ। ਸਿਰਿਆ = {सृजे = ਪੈਦਾ ਕਰਨਾ} ਪੈਦਾ ਕੀਤਾ ਹੈ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

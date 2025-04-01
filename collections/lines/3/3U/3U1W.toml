@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਅਕਾਸ਼ ਤਕ (ਭਾਵ, ਸਾਰੀ ਦੁਨੀਆ) ਭਾਲ ਕਰ ਚੁਕਿਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਉ = ਮੈਂ ਖੋਜਦਾ ਹਾਂ, ਮੈਂ ਭਾਲ ਚੁਕਿਆ ਹਾਂ। ਅਸਮਾਨ = ਅਕਾਸ਼ ਤਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

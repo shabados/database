@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਦਾ ਸਿਮਰ, ਸਦਾ ਸਿਮਰ, ਜੋ ਹਰ ਥਾਂ ਰਮਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮੁ = ਸਿਮਰ। ਰਵਿ ਰਹੇ = ਜੋ (ਹਰ ਥਾਂ) ਵਿਆਪਕ ਹੈ। ਰਮੀਤਿ = ਜੋ ਰਮਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

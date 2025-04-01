@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੋਕੋ! ਸੁਣੋ, ਵੇਖੋ, ਇਹ ਅਚਰਜ ਤਮਾਸ਼ਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹੁ ਵਿਡਾਣੁ = ਇਹ ਅਚਰਜ ਕੌਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

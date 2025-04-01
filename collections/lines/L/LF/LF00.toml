@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਗ ਜੋ ਸੇਵਾ ਕਰ ਰਹੀ ਹੈ, ਇਹ ਭੀ ਰੱਬ ਦੇ ਭੈ ਵਿਚ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਢੈ ਵੇਗਾਰਿ = ਵਗਾਰ ਕੱਢਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

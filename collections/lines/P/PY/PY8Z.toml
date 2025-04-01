@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚਾਹੇ ਰਾਮ ਵਰਗੇ ਅਤੇ ਚਾਹੇ ਕ੍ਰਿਸ਼ਨ ਵਰਗੇ ਦੇਵਤੇ "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਰਾਮ-ਆਦਿਕਾਨੋ ਚਿਹ ਕ੍ਰਿਸ਼ਨ-ਆਦਕਾਂ ।੪੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

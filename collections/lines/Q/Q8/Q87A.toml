@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਾਧ ਸੰਗਤ ਦੇ ਮੇਲ ਵਿਚ ਟਿਕ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਲਿ = ਮੇਲ ਵਿਚ। ਹਰਿ ਗਾਇਣੁ = ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

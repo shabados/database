@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! (ਪਰਮਾਤਮਾ ਦੇ) ਸੰਤ ਦੀ ਜੀਵਨ-ਜੁਗਤੀ ਸੁਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਤ = ਜੀਵਨ-ਜੁਗਤਿ, ਰਹਿਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

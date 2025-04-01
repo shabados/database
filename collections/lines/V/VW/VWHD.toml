@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨ-ਮੰਗੀ ਮੁਰਾਦ ਪਾ ਲੈਂਦਾ ਹੈ ॥੨॥੧੦॥੭੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਚਿੰਦਿਆ = ਮਨ-ਇੱਛਤ। ਚਿੰਦਿਆ = ਚਿਤਵਿਆ ॥੨॥੧੦॥੭੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਪ੍ਰਭੂ ਪਾਸੋਂ) ਜਪ ਤਪ ਤੇ ਸੰਜਮ-ਰੂਪ ਖ਼ੈਰ ਮੰਗਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਖਿਆ ਕਰੈ = (ਪ੍ਰਭੂ ਤੋਂ) ਖ਼ੈਰ ਮੰਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

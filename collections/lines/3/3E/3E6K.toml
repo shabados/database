@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਚਾਰੇ ਵੇਦ ਸਾਰੇ ਸ਼ਾਸਤ੍ਰ ਤੇ ਸਾਰੀਆਂ ਸਿਮ੍ਰਿਤੀਆਂ ਨੂੰ ਮੂੰਹ-ਜ਼ਬਾਨੀ (ਉਚਾਰ ਕੇ) ਵਿਚਾਰ ਸਕਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਾਗਰ = {ਮੁਖ ਅੱਗ੍ਰ} ਜ਼ਬਾਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਦੇਣ ਵਾਲਾ) ਅਜੇਹਾ ਕੀਮਤੀ ਨਾਮ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਨਹੀਂ ਸਿਮਰਿਆ, ਉਹ ਜਗਤ ਵਿਚ ਕਾਹਦੇ ਲਈ ਜੰਮੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਸਾ = ਅਜੇਹਾ ਕੀਮਤੀ। ਸੇ = ਉਹ ਬੰਦੇ। ਕਾਹੇ = ਕਿਸ ਵਾਸਤੇ? ਜਗਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

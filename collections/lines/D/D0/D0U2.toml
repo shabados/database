@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧੂਆਂ ਦੀ ਸੰਗਤਿ ਕੀਤਿਆਂ (ਅਸੀ) ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਮੰਨਣ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆਕਾਰੀ = ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਮੰਨਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

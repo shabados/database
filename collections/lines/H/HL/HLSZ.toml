@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੁਸੀ ਇਕ ਰਾਤ (ਕਿਤੇ ਸਫ਼ਰ ਵਿਚ) ਗੁਜ਼ਾਰਨ ਵਾਲੇ ਪ੍ਰਾਹੁਣੇ ਵਾਂਗ (ਜਗਤ ਵਿਚ) ਆਏ ਹੋ ਪਰ ਇਥੇ ਕਈ ਜੁਗ ਜੀਊਂਦੇ ਰਹਿਣ ਦੀਆਂ ਆਸਾਂ ਬੰਨ੍ਹ ਰਹੇ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣ = ਰਾਤ। ਪਾਹੁਨ = ਪ੍ਰਾਹੁਣੇ। ਬਧਾਏ = ਬੰਨ੍ਹਦੇ ਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

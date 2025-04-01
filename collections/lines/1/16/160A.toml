@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਜੇਡਾ ਕੋਈ ਦਾਤਾ ਨਹੀਂ, ਕਿਸ ਦੀ ਬਾਬਤ ਆਖ ਕੇ ਦੱਸੀਏ (ਕਿ ਉਹ ਤੇਰੇ ਜੇਡਾ ਦਾਤਾ ਹੈ)? (ਭਾਵ, ਸਭ ਦਾਤਾਂ ਤੈਥੋਂ ਮਿਲਦੀਆਂ ਹਨ, ਨਾਮ-ਅੰਮ੍ਰਿਤ ਦਾ ਦਾਤਾ ਭੀ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸੁ = ਕਿਸ ਦੀ ਬਾਬਤ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

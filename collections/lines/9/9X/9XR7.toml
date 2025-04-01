@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਾਂ!) ਜੇ ਚੰਗੇ ਭਾਗਾਂ ਨੂੰ ਪ੍ਰਭੂ (ਆਪ) ਆ ਮਿਲੇ, ਤਾਂ ਵਿਛੋੜੇ ਤੋਂ ਪੈਦਾ ਹੋਏ ਸਾਰੇ ਦੁੱਖ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਬਿਓਗ = ਵਿਛੋੜੇ ਦੇ ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

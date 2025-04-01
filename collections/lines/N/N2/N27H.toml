@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਮੇਰਾ ਮਦਦਗਾਰ ਬਣੇਂ ਤੇ (ਮੇਰੇ ਉਤੇ) ਕਿਰਪਾ ਕਰਕੇ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸੇਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

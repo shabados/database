@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਖ਼ੁਸ਼ੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦ = ਅਨੰਦ, ਖੁਸ਼ੀਆਂ, ਸੁਖ। ਘਨੇਰੇ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

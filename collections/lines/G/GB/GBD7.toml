@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਤੁੱਛ ਜਿਹਾ ਆਦਮੀ ਪੂਰਾ ਗਿਆਨਵਾਨ ਬਣ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾ ਕਿਸ ਆਣ ਜਾ ਆਰਿਫ਼ ਕਾਮਿਲ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

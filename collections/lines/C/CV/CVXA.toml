@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਮੇਰੇ ਵੱਡੇ ਭਾਗ ਹੋ ਗਏ ਹਨ, ਗੁਰੂ ਦੀ ਰਾਹੀਂ, ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ ਮੈਂ ਆਪਣੇ ਗਲ ਵਿਚ ਪ੍ਰੋ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ ਰਾਮ! ਗੁਰਿ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ। ਕੰਠਿ = ਗਲੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

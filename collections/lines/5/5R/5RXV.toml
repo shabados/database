@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਵੇਂ) ਲੋਭੀ ਜੀਵ ਨੂੰ ਭੀ ਕੁਝ ਨਹੀਂ ਸੁੱਝਦਾ, ਚੰਗੀ ਮੰਦੀ ਹਰੇਕ ਚੀਜ਼ ਖਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਖੁ = ਜੋ ਚੀਜ਼ ਖਾਣ ਦੇ ਲਾਇਕ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

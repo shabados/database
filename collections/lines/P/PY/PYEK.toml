@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਕੋਈ ਮਨੁੱਖ ਮੈਨੂੰ ਪਰਮਾਤਮਾ (ਦੇ ਚਰਨਾਂ) ਨਾਲ ਜੋੜ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਨਾਲ। ਜੋਰਿ = ਜੋੜਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

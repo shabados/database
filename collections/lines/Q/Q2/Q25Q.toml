@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਗਿਆਨਵਾਨ ਲਈ ਏਹੀ ਇੱਕ ਅਮਰ ਪਰਾਪਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਜਾਵੀਦ ਪੇਸ਼ਿ ਆਰਿਫ਼ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਵਾ ਪਾਣੀ ਅੱਗ (ਆਦਿਕ ਸਭ ਤੱਤਾਂ ਤੋਂ ਸਰੀਰ ਰਚ ਕੇ ਸਭ ਦੇ ਅੰਦਰ) ਪਰਗਟ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਜੈ = ਗੱਜਦਾ ਹੈ। ਬੈਸੰਤਰੁ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

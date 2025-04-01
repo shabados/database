@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇ ਤੂੰ ਮੈਥੋਂ ਇਕ ਪਲ-ਭਰ ਜਾਂ ਇਕ ਛਿਨ-ਭਰ ਵੀ ਵਿੱਸਰਦਾ ਹੈਂ, ਮੈਂ ਉਹ ਵਕਤ ਪੰਜਾਹ ਸਾਲ ਬੀਤ ਗਏ ਸਮਝਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣਉ = ਜਾਣਉਂ, ਮੈਂ ਜਾਣਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

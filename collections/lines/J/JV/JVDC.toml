@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਨੁੱਖ ਨੂੰ ਕੋਈ ਭਟਕਣਾ ਨਹੀਂ ਰਹਿੰਦੀ, ਉਸ ਦੇ ਅੰਦਰ ਦੁਚਿੱਤਾ-ਪਨ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ, ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਮੇਰ-ਤੇਰ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭਟਕਣਾ। ਦੁਬਿਧਾ = ਦੁਚਿੱਤਾ-ਪਨ। ਦੂਜਾ = ਮੇਰ-ਤੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

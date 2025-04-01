@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਜੀਵ-ਪੰਛੀ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਟਿਕ ਕੇ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਨਾਮ-ਚੋਗ ਚੁਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤੁ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਨਾਮ-ਚੋਗ। ਚੁਗਹਿ = ਚੁਗਦੇ ਹਨ। ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

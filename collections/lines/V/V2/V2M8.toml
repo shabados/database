@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਲਾਲਚੀ ਬੰਦੇ ਸਦਾ ਇਸ ਨਾਲ ਹੀ ਚੰਬੜੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੇ ਲਪਟਾਇ = ਚੰਬੜ ਰਹੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਮੇਰੇ ਵਾਸਤੇ) ਮੋਤੀਆਂ ਦੇ ਮਹਲ-ਮਾੜੀਆਂ ਉਸਰ ਪੈਣ, ਜੇ (ਉਹ ਮਹਲ-ਮਾੜੀਆਂ) ਰਤਨਾਂ ਨਾਲ ਜੜਾਊ ਹੋ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ = ਜੇ। ਊਸਰਹਿ = ਉਸਰ ਪੈਣ, ਬਣ ਜਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

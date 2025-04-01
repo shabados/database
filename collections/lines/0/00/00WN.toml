@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਾਮ! ਮੇਰਾ ਮਾਣ ਤੇਰੇ ਉੱਤੇ ਹੀ ਹੈ, ਤੂੰ ਹੀ ਮੇਰਾ ਆਸਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਾ = ਫ਼ਖ਼ਰ। ਤਾਣਾ = ਤਾਣ, ਬਲ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

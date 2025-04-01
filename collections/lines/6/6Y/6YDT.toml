@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਭਰਾਵੋ! ਗੁਰੂ ਨੇ (ਆਪਣੀ) ਬਾਂਹ ਉੱਚੀ ਕੀਤੀ ਹੋਈ ਹੈ ਤੇ ਕੂਕ ਰਿਹਾ ਹੈ (ਉਸ ਦੀ ਗੱਲ) ਧਿਆਨ ਨਾਲ ਸੁਣੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ = ਹੇ ਜਨੋ! ਭਾਈ! ਹੇ ਭਰਾਵੋ! ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਕਾਢੀ = ਉੱਚੀ ਕੀਤੀ ਹੋਈ ਹੈ। ਕੁਕੀਜੈ = ਕੂਕ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

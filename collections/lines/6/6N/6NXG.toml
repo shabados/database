@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨੂੰ ਸਾਰੇ ਪਾਸੀਣ ਖਲੇਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂ ਬਾਰਾਨਿ ਬਾਰਿਸ਼ਿ ਅਜ਼ ਸੂ ਬਸੂ ਕਰਦ ।੩੩।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਤੇਰੀ ਮੇਹਰ ਹੋਵੇ ਜਿਸ ਉਤੇ ਤੂੰ ਬਖ਼ਸ਼ਸ਼ ਕਰੇਂ ਉਸ ਨੂੰ ਤੇਰੇ ਨਾਮ ਦਾ ਖ਼ਜ਼ਾਨਾ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਤਾ = ਖ਼ਜ਼ਾਨਾ। ਕਰਮੁ = ਬਖ਼ਸ਼ਸ਼। ਪਸਾਉ = ਪ੍ਰਸਾਦ, ਕਿਰਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

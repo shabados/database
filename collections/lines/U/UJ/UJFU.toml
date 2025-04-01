@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਤੇਰੇ ਸਾਰੇ ਆਮ ਅਤੇ ਖਾਸ ਬੰਦਿਆਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕਿ ਅਕਦਾਮਿ ਖ਼ਾਸੋ ਆਮਿ ਤੂ ਅਮ ।੨੩।"
+page = 1
+line = 23
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

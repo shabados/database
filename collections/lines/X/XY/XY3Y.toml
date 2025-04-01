@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ ਜਗਤ-ਪਦਾਰਥ ਉਸ ਅਭੁੱਲ ਪਰਮਾਤਮਾ ਦੇ ਹੀ ਬਣਾਏ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰ ਸਮਗ੍ਰੀ = ਸਾਰੇ ਜਗਤ ਦੇ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

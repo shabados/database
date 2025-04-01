@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ ਦੇ ਖਸਮ ਪ੍ਰਭੂ! (ਮੈਨੂੰ) ਦਾਸ ਨੂੰ ਗੁਰੂ ਮਿਲਾ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧੋ = ਹੇ ਮਾਇਆ ਦੇ ਖਸਮ! ਹੇ ਪ੍ਰਭੂ! ਸਾਧੂ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

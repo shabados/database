@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਮਨੁੱਖ ਇਹੀ ਆਖਦਾ ਹੈ ਕਿ (ਬ੍ਰਾਹਮਣ, ਖੱਤ੍ਰੀ, ਵੈਸ਼, ਸ਼ੂਦਰ, ਇਹ) ਚਾਰ ਹੀ (ਵਖ ਵਖ) ਵਰਨ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰੇ = ਚਾਰ ਹੀ। ਵਰਨ = ਬ੍ਰਾਹਮਣ, ਖੱਤ੍ਰੀ, ਵੈਸ਼, ਸ਼ੂਦਰ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

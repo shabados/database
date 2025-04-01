@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰ) ਆਤਮਕ ਅਡੋਲਤਾ ਦੇ ਬੜੇ ਸੁਖ ਆਨੰਦ ਬਣੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਘਨੇ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

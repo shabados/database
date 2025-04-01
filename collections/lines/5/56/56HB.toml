@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਪੁੱਤਰ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਛੱਡ ਦੇਹ, ਆਪਣੀ ਜਿੰਦ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਹੁ ਉਬਾਰੇ = ਬਚਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

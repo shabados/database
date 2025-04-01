@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਜੀ ਵਿਚ (ਅਕਾਲ ਪੁਰਖ ਅਪਨਾ ਨਾਮ) ਥੋੜਾ ਜਿਹਾ ਭੀ ਵਸਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਜੀਅ = ਜਿਸ ਦੇ ਜੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

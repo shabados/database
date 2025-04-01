@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰਮਾਤਮਾ ਦੇ ਪਿਆਰਿਓ! ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨ = ਹੇ ਹਰਿ ਜਨੋ! ਹਿਰਦੇ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

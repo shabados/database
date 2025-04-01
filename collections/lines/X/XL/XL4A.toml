@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਪਾਂਧਾ ਕੁਝ ਹੋਰ ਉਲਟ-ਪੁਲਟ ਪੜ੍ਹਾਣ ਲੱਗਾ, ਤਾਂ ਪ੍ਰਹਿਲਾਦ ਨੇ ਆਖਿਆ, ਹੇ ਬਾਬਾ!) ਮੈਨੂੰ ਊਲ-ਜਲੂਲ ਕਿਉਂ ਪੜ੍ਹਾਉਂਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਪੜ੍ਹ੍ਹਾਵਸਿ = ਤੂੰ ਕਿਉਂ ਪੜ੍ਹਾਉਂਦਾ ਹੈਂ? ਆਲ ਜਾਲ = ਘਰ ਦੇ ਧੰਧੇ {ਆਲ = ਘਰ। ਜਾਲ = ਧੰਧੇ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

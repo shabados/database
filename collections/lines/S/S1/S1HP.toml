@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਪਹੁੰਚ ਪ੍ਰਭੂ! (ਤੇਰੇ) ਹੱਥ ਵਿਚ ਕਲਮ ਹੈ (ਜੋ ਸਭ ਜੀਵਾਂ ਦੇ) ਮੱਥੇ ਉੱਤੇ (ਲੇਖ) ਲਿਖਦੀ ਜਾ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = (ਤੇਰੇ) ਹੱਥ ਵਿਚ। ਅਗੰਮ = ਹੇ ਅਪਹੁੰਚ ਹਰੀ! ਮਸਤਕਿ = (ਜੀਵਾਂ ਦੇ) ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

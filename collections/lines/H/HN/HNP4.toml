@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਉਹ ਸਦਾ ਸੱਚੇ ਬਚਨ ਬੋਲਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ ਸਤਿ ਬਚਨ = ਸਾਰੇ ਸੱਚੇ ਬਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

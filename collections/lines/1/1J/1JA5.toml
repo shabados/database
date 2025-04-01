@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਅਤੇ ਤੇਰੇ ਵਿਚ ਤਾਂ ਧਰਤ ਅਤੇ ਆਕਾਸ਼ ਵਾਲਾ ਫਰਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਰਕ ਬਾਸ਼ਦ ਅਜ਼ ਜ਼ਮੀਨੋ ਆਸਮਾਂ ।੨੯੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

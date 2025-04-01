@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਇਸ ਲੋਭ-ਕੁੱਤੇ ਤੋਂ) ਮੈਨੂੰ ਭੀ ਬਚਾ ਲੈ, ਬਚਾ ਲੈ, ਬਚਾ ਲੈ, ਕਿਰਪਾ ਕਰ ਕੇ ਮੈਨੂੰ ਭੀ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਮੈ = ਮੈਨੂੰ। ਰਾਖੁ = ਬਚਾ ਲੈ। ਰਾਖਹੁ = ਬਚਾ ਲਵੋ। ਧਾਰੇ = ਧਾਰਿ, ਧਾਰ ਕੇ, ਕਰਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

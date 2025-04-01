@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਸਾਡਾ ਅੰਨ ਖ਼ਰਾਬ ਨਾਹ ਹੋ ਜਾਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਟੈ = ਖ਼ਰਾਬ ਹੋ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ (ਮੇਰੇ ਵਾਸਤੇ ਉਹ) ਸ਼ਾਹ ਹੈ ਜਿਸ ਦੇ ਘਰ ਵਿਚ ਕੋਈ ਕਮੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਾ ਸਾਹੁ = ਉਹ ਸ਼ਾਹ ਜਿਸ ਦੇ ਘਰ ਵਿਚ ਕੋਈ ਕਿਸੇ ਤਰ੍ਹਾਂ ਦੀ ਕਮੀ ਨਾਹ ਹੋਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

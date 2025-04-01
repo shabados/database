@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਾਣੀ ਨੂੰ ਮਿਲ ਕੇ ਬੂਟੇ ਹਰੇ ਹੋ ਜਾਂਦੇ ਹਨ (ਤੇ, ਉਹਨਾਂ ਦਾ ਸੋਕਾ ਮੁੱਕ ਜਾਂਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਬੂਟ = ਬੂਟੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

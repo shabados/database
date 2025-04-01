@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੀ ਜਾਣ ਉਸ ਸੋਹਣੇ ਸਾਈਣ ਲਈ ਸੜ ਮੋਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਨਿ ਮਨ ਬਹਿਰਿਆਣ ਨਿਗਾਰ ਬਿਸੋਖ਼ਤ ।੧੪।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਹੀ, ਹੇ ਭਾਈ!) ਮੈਂ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਦਾ ਹਾਂ, ਹਰੀ ਦੇ ਨਾਮ ਵਿਚ ਟਿਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਮੈਂ ਕਰਦਾ ਹਾਂ। ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਲ ਉਮਰ ਤੋਂ ਲੈ ਕੇ ਬੁੱਢਾ ਹੋਣ ਤਕ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ (ਸ਼ੁਰੂ ਕਰ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਾਲਕ ਕ੍ਰੋੜਾਂ ਜੀਵਾਂ ਨੂੰ ਆਸਰਾ ਦੇ ਰਿਹਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜੀਵ {ਬਹੁ-ਵਚਨ}। ਆਧਾਰ = ਆਸਰਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

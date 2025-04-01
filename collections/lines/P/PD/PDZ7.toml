@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਵਕਤ ਉਸਦਾ ਗੁਰਜ ਹਾਥੀਆਂ ਦੇ ਸਿਰ ਤੇ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਮੂਦਸ਼ ਚੂੰ ਬਰ ਫ਼ਰਕਿ ਪੀਲਾਂ ਰਸਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

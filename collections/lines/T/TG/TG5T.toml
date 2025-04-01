@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਦਾਤਾ ਹੈਂ, ਤੂੰ ਅਟੱਲ ਹੈਂ, ਤੇਰਾ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਹੀਂ, ਤੇਰਾ ਦਰਬਾਰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

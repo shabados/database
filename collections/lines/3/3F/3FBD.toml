@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਆਉਣਾ ਵੀ ਮੁਬਾਰਕ ਹੋਇਆ ਤੇ ਜਾਨਾ ਵੀ ਸੁਭਾਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੁਦ ਆਮਦਨਸ਼ ਮੁਬਾਰਿਕ ਰਫ਼ਤਨ ਹਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੋਈ ਮਿੱਤਰ ਆਪਣੇ ਮਿੱਤਰ ਨੂੰ ਵੇਖ ਕੇ (ਉਸ ਨੂੰ) ਮਿਲ ਕੇ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮੁ = ਮਿੱਤਰ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਮਿਲਿ = ਮਿਲ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

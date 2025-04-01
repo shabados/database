@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਈ ਜਨਮਾਂ ਵਿਚ ਤੈਨੂੰ ਪੱਥਰ ਚਿਟਾਨਾਂ ਬਣਾਇਆ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੈਲ = ਪੱਥਰ। ਗਿਰਿ = ਪਹਾੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

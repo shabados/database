@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਤ ਜਿੱਥੇ (ਭੀ) ਇਕੱਠੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਇਕਤ੍ਰ = ਇਕੱਠੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

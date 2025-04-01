@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਕੋਈ ਐਸਾ ਇਲਾਜ ਦੱਸ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ = ਹੇ! ਉਪਾਇਆ = ਇਲਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

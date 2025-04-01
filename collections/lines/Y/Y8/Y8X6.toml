@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਹਿਰਦੇ ਰੂਪ ਸ਼ਹਿਰ ਵਿਚ ਟਿਕ ਕੇ (ਪ੍ਰਭੂ ਤੋਂ) ਖ਼ੈਰ ਮੰਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਹਠ = ਅਵਘੱਟ, ਹਿਰਦਾ। ਪਟਣ = ਸ਼ਹਿਰ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਗਤ ਦੇ ਮੂਲ-ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੀਤਿਆਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਆਦਿ ਗੁਣ = ਆਦਿ ਪ੍ਰਭੂ ਦੇ ਗੁਣ, ਜਗਤ ਦੇ ਮੂਲ ਪ੍ਰਭੂ ਦੇ ਗੁਣ। ਆਦਿ = ਆਦਿਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

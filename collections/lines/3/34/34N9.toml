@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਸਤਿਗੁਰੂ ਦੀ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਦੀ ਸਿੱਖਿਆ ਦੀ) ਜੋਤਿ ਜਗ ਪੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖੀ = ਸਿੱਖਿਆ। ਜਾਗੀ = ਜਗ ਪਈ, ਜੋਤਿ ਜਗ ਪਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

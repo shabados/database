@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਮਨੁੱਖ) ਨਾਮ ਰੂਪ ਅੰਮ੍ਰਿਤ ਦਾ ਰਸ ਚੱਖ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ ਰਸੁ = ਨਾਮ ਰੂਪ ਅੰਮ੍ਰਿਤ ਦਾ ਸੁਆਦ। ਭੁੰਚਾ = ਚੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

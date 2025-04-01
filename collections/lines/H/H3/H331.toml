@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਗੁਣਾਂ ਦੇ ਲਿਖਨਹਾਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਾਕਿਮਾਨਿ ਵਸਫ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 133
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

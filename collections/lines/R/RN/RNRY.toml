@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ ਜੰਮਦਾ ਹੈ, ਹੁਕਮ ਵਿਚ ਹੀ ਮਰਦਾ ਹੈ। ਕੋਈ ਜੀਵ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਤੋਂ ਆਕੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮਿ = ਹੁਕਮ ਅਨੁਸਾਰ। ਆਗਿਆ = ਹੁਕਮ। ਭਿੰਨ = ਵੱਖਰਾ, ਆਕੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

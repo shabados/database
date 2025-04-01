@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚਰਪਟ ਦਾ ਪ੍ਰਸ਼ਨ:) ਹੇ ਸੁਆਮੀ! ਮੇਰੀ ਬੇਨਤੀ ਸੁਣ, ਮੈਂ ਸਹੀ ਵਿਚਾਰ ਪੁੱਛਦਾ ਹਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੁ = ਸਹੀ, ਠੀਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

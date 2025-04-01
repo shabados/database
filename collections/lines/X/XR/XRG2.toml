@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਵੱਸ ਵਿਚ ਆਏ ਹੋਏ ਜੀਵ ਕਈ ਤਰ੍ਹਾਂ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ, ਅਨੇਕਾਂ ਤਰੀਕਿਆਂ ਨਾਲ ਡੋਲਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਵੰਤ = ਦੌੜਦੇ ਹਨ (धावन्ति)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

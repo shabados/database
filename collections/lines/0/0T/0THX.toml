@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ਆਪਣੇ ਭਗਤਾਂ ਨਾਲ ਰਚਿਆ-ਮਿਚਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਤਿ ਪੋਤਿ = ਤਾਣੇ ਪੇਟੇ ਵਿਚ {ਓਤ = ਉਣਿਆ ਹੋਇਆ। ਪੋਤ = ਪ੍ਰੋਤ, ਪ੍ਰੋਤਾ ਹੋਇਆ}। ਸੰਗਿ = ਨਾਲ। ਰਾਚਾ = ਰਚਿਆ-ਮਿਚਿਆ, ਮਿਲਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

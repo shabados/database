@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਅਜਿਹੀ ਹਿੰਮਤ ਬਖਸ਼, ਜੋ ਰੱਬ ਦੇ ਰਾਹ ਤੇ ਜਾਨ ਵਾਰਨ ਵਾਲੀ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਿੰਮਤੇ ਆਂ ਦਿਹ ਕਿ ਬਾਸ਼ਦ ਜਾਂ ਨਿਸਾਰ ।੪੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

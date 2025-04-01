@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਸਾਰੀ (ਉਤਪੱਤੀ) ਤੇਰੇ ਹੀ ਅਧੀਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰੈ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

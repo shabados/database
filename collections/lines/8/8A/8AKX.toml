@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਉਸ ਨੂੰ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਤਦੋਂ ਉਹ ਆਤਮਕ ਆਨੰਦ ਹਾਸਲ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟੇ = ਮਿਲਦਾ ਹੈ। ਤਾਂ = ਤਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

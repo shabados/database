@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਇਹ ਰਸਤਾ ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਲੱਭਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟ = ਰਸਤਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

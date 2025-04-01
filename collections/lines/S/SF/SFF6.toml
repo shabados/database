@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਧਿਆਨ ਮਾਰ ਕੇ ਵੇਖੋ) ਹਰੇਕ ਜੀਵ ਕਾਮ ਵਿਚ ਕ੍ਰੋਧ ਵਿਚ ਸੜ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ ਵਿਚ। ਕਰੋਧਿ = ਕ੍ਰੋਧ ਵਿਚ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

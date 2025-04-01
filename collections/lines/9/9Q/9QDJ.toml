@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਮਣ ਤੋਂ ਮਰਣ ਤਕ ਦੇ ਸਾਰੇ ਸਹਿਮ ਕੱਟੇ ਜਾਂਦੇ ਹਨ ਤੇ ਅਟੱਲ ਸੱਚੀ ਪਦਵੀ ਮਿਲ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਟੀਅਹਿ = ਕੱਟੇ ਜਾਂਦੇ ਹਨ। ਨਿਹਚਲ = ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

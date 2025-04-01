@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਤਕ ਜੰਮਦੇ ਮਰਦੇ ਤੇ (ਇਸੇ ਦੁੱਖ ਵਿਚ) ਰੋਂਦੇ ਰਹੋਗੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਜਤ = ਜੰਮਦੇ। ਬਿਨਸਤ = ਮਰਦੇ। ਰੋਵਤ = ਰੋਂਦੇ। ਰਹਿਬੋ = ਰਹੋਗੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

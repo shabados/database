@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਉਨ੍ਹਾਣ ਦੇ ਹੱਥੋਣ ਹੀ ਦੁਹਾਈ ਦੇ ਰਿਹਾ ਹਾਣ, ਕੋਈ ਬਚਾਏ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ ਕੁਨਮ ਅਜ਼ ਦਸਤਿ ਆਣਹਾ ਅਲਗ਼ਿਆਸ ।੧੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

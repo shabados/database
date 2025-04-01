@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਨੇ ਕਿਹਾ, ਕਿ ਮੈਂ ਤੇਰਾ ਬੰਦਾ ਹਾਂ, ਤੇਰਾ ਗੁਲਾਮ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਫ਼ਤ ਮਨ ਬੰਦਾ ਓ ਗੁਲਾਮਿ ਤੂ ਅਮ ।"
+page = 1
+line = 23
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਉੱਤੇ ਇਹ ਮਿਹਰ ਕਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਾਰੈ = ਸਾਡੇ ਉੱਤੇ, ਮੇਰੇ ਉੱਤੇ। ਕੀਜੈ = ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

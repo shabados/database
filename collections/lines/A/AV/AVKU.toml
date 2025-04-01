@@ -5,6 +5,11 @@ language = "pa"
 data = "ਲੋਕੀ ਅਠ੍ਹਾਰਾਣ ਹਜ਼ਾਰ ਸਿਜਦੇ ਤੇਰੇ ਪਾਸੇ ਵਲ ਮੂੰਹ ਕਰਕੇ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਯਦਾ ਹਜ਼ਾਰ ਸਿਜਦਾ ਬ-ਸੂਇ ਤੂ ਮੀਕੁਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

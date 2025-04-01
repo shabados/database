@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੜਾ ਸੋਹਣਾ ਤੇ ਕੀਮਤੀ ਘਰ (ਰਹਿਣ ਵਾਸਤੇ ਮਿਲਿਆ ਹੋਵੇ, ਤਾਂ ਭੀ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਦਰ = ਸੋਹਣਾ। ਲਾਲ = ਕੀਮਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਗੱਲ ਕੋਈ ਉਹ ਮਨੁੱਖ ਹੀ ਸਮਝਦਾ ਹੈ ਜਿਸ ਨੂੰ ਪਰਮਾਤਮਾ ਆਪ ਸਮਝਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਝਾਏ = ਸਮਝ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

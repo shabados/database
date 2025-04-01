@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਸਤਿਸੰਗਣ) ਸਹੇਲੀਹੋ! ਆਓ ਮਿਲ ਬੈਠੀਏ ਤੇ ਅਸੀਂ (ਮਿਲ ਕੇ) ਪਤੀ-ਪ੍ਰਭੂ ਦਾ ਭਜਨ ਕਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰੁ = ਪਤੀ-ਪ੍ਰਭੂ। ਰਾਵੇਹਾ = ਅਸੀਂ ਸਿਮਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

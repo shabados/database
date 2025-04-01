@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! (ਮੇਹਰ ਕਰ) ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਬਣਿਆ ਰਹਾਂ, ਸੰਤ ਜਨਾਂ ਦੀ ਸਰਨ ਪਿਆ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਨੁ = ਚਰਨ-ਧੂੜ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

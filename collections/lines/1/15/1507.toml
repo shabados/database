@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਨਿਭਾਗੇ ਬੰਦੇ ਭਟਕਣਾ ਪੈ ਕੇ ਚੋਟਾਂ ਖਾਂਦੇ ਹਨ (ਵਿਕਾਰਾਂ ਦੀਆਂ ਸੱਟਾਂ ਸਹਾਰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਿ = ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਤਨੀ ਦੁਖੀ ਹੋ ਰਹੀ ਹਾਂ (ਕਿ) ਸਾਰਾ ਜਗਤ ਮੇਰੇ ਉਤੇ ਤਰਸ ਕਰ ਰਿਹਾ ਹੈ, ਜੰਗਲ ਦੇ ਪੰਛੀ ਭੀ ਮੇਰੇ ਤੇ ਤਰਸ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁੰਨਾ = ਰੋ ਪਿਆ ਹੈ, ਤਰਸ ਕਰ ਰਿਹਾ ਹੈ। ਵਣਹੁ = ਜੰਗਲ ਵਿਚੋਂ। ਪੰਖੇਰੂ = ਪੰਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

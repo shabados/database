@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਜਗਤ ਵਿਚ) ਉਸੇ ਤਰ੍ਹਾਂ ਵਰਤਾਰਾ ਵਰਤਦਾ ਹੈ ਜਿਵੇਂ ਤੇਰਾ ਹੁਕਮ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਵੈ = ਉਸੇ ਤਰ੍ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

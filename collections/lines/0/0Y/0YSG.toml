@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਜ਼ੀ ਸ਼ੇਖ਼ ਆਦਿਕ ਭੀ ਸਾਰੇ ਹੀ ਕੂਚ ਕਰ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਾਇਕਾ = ਸ਼ੇਖ਼ ਅਖਵਾਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

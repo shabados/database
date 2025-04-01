@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੀ ਜੀਭ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਰਸਾਇਣ ਵਿਚ ਮਸਤ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਰਸਾਇਨ = {ਰਸ-ਅਯਨ। ਅਯਨ = ਘਰ} ਰਸਾਂ ਦਾ ਘਰ, ਰਸਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ। ਰਸਾਇਨਿ = ਰਸਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਵਿਚ। ਮਾਤੀ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

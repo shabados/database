@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਦਾ ਨਾਮ ਹੀ ਉਸ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਦਾ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਅਧਾਰੁ = ਜਿੰਦ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕਿਸੇ ਦੀ ਲੰਘਦੀ ਹੈ ਇਕੋ ਥਾਂ ਮੱਲ ਕੇ ਬੈਠੇ ਰਿਹਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ ਪਿੜੁ = ਉਹ ਇੱਕੋ ਟਿਕਾਣਾ। ਮਾਲਤ = ਮੱਲੀ ਰੱਖਿਆ। ਸੋ ਪਿੜੁ ਮਾਲਤ = ਇੱਕੋ ਟਿਕਾਣੇ ਤੇ ਬੈਠਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

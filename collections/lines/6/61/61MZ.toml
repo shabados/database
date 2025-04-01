@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਕੰਤ ਜੀਉ! ਸੁਣ, ਮੈਂ ਇਕ ਬੇਨਤੀ ਕਰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤੀ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦੀ ਹਾਂ। ਕੰਤ = ਹੇ ਕੰਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

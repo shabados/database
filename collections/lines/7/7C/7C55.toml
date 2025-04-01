@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਏਸ ਮਾਇਆ-ਕਾਂਗ ਤੋਂ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ ਕੇ ਮਨੁੱਖ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਤਰੈ = ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

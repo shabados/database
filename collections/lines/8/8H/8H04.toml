@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ ਕਰਨ ਵਾਲੇ ਦੀ ਜ਼ਿੰਦਗੀ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਸਦਾ ਸੁਖੀ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਪਰਲੋਕ ਵਿਚ। ਸੁਹੇਲੀ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

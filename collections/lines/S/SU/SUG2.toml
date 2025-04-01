@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅਪਹੁੰਚ ਹੈਂ, ਤੂੰ ਅਗੋਚਰ ਹੈਂ, ਤੂੰ ਅਲੱਖ ਹੈਂ, ਤੂੰ ਬੇਅੰਤ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਜਿਸ ਦਾ ਸਹੀ ਸਰੂਪ ਬਿਆਨ ਨ ਕੀਤਾ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

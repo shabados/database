@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਜੋ ਮਨੁੱਖ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ ਜੋ ਤੈਨੂੰ ਧਿਆਉਂਦੇ ਹਨ, ਉਹ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿਚ ਸੁਖੀ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ ਜਨ = ਉਹੀ ਮਨੁੱਖ {ਬਹੁ-ਵਚਨ}। ਜੁਗ ਮਹਿ = ਜ਼ਿੰਦਗੀ ਵਿਚ। ਸੁਖ ਵਾਸੀ = ਸੁਖ ਨਾਲ ਰਹਿਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

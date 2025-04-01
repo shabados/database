@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ! ਹੋਸ਼ ਕਰ! ਤੂੰ ਕਿਉਂ ਸੌਂ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ = ਕਿਉਂ? ਇਆਨਾ = ਹੇ ਅੰਞਾਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

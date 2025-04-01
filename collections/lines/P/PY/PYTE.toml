@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਖੂਹ ਵਿਚ ਲਮਕਿਆ ਪਿਆ ਹੈਂ, ਜਿਸ ਲੱਜ ਦੇ ਆਸਰੇ ਤੂੰ ਲਮਕਿਆ ਹੋਇਆ ਹੈਂ ਉਸ) ਲੱਜ ਨੂੰ ਹਰ ਰੋਜ਼ ਚੂਹਾ ਟੁੱਕ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਮੂਸਾ = ਚੂਹਾ। ਲਾਜੁ = ਲੱਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

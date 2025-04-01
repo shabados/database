@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਕੋਈ ਪਰਵਾਹ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ, ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ ਰਹਿੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤਦੋਂ। ਕਿਆ ਪਰਵਾਹ ਕੀਜੈ = ਕੋਈ ਪਰਵਾਹ ਨਹੀਂ ਕਰੀਦੀ, ਕੋਈ ਮੁਥਾਜੀ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

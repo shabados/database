@@ -5,6 +5,11 @@ language = "pa"
 data = "ਲਾਲ ਰੰਗ ਦੀ ਸ਼ਰਾਬ ਦਾ ਨਸ਼ਾ ਇੱਥੇ ਉਸ ਰੱਬ ਦੀ ਸੂਹ ਬਖਸ਼ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਸ਼ਾਇ ਲਾਅਲ ਮੈ-ਗੂਨਤ ਜ਼ਿ ਹੱਕ ਬਖ਼ਸ਼ਦ ਸੁਰਾਗ ਈਣਜਾ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

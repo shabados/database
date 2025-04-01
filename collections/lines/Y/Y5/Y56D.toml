@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਜਿਸ ਨੇ ਜਗਤ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਸਾਹਿਬ) ਨੇ। ਕਾਰਣੁ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

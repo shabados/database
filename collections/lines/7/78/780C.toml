@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਉਸ ਦਾ ਮਰਤਬਾ ਸੱਭ ਤੋਂ ਉਚੇਰਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਰ ਦੋ ਜਹਾਣ ਰੁਤਬਾ-ਅੰਸ਼ ਊਲਾ ਬਾਸ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

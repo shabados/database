@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਰਪਾ ਕਰ, ਮੈਂ ਤੇਰੀ ਸੇਵਾ-ਭਗਤੀ ਵਿਚ ਲੱਗਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਗਉ = ਲਾਗਉਂ, ਮੈਂ ਲੱਗਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

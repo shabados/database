@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ (ਧਰਤੀ ਦੇ ਸਾਰੇ) ਨੌ ਹੀ ਖ਼ਜ਼ਾਨੇ ਹਾਸਲ ਕਰ ਰਿਹਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਨਵੈ ਨਿਧਿ = ਨੌ ਹੀ ਖ਼ਜ਼ਾਨੇ। ਪਾਈ = ਪਾਈਂ, ਮੈਂ ਹਾਸਲ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

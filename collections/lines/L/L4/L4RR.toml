@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਵੇਂ ਕਿਸੇ ਨੇ) ਰੇਤ ਦੀ ਕੰਧ ਉਸਾਰ ਕੇ ਪੋਚ ਕੇ ਤਿਆਰ ਕੀਤੀ ਹੋਵੇ; ਪਰ ਉਹ ਕੰਧ ਚਾਰ ਦਿਨ ਭੀ (ਟਿਕੀ) ਨਹੀਂ ਰਹਿੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰੂ = ਰੇਤ। ਭੀਤਿ = ਕੰਧ। ਰਚਿ = ਰਚ ਕੇ, ਉਸਾਰ ਕੇ। ਪਚਿ = ਪੋਚ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

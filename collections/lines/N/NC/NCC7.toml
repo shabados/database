@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਗੋਯਾ # ਤੇਰੀ ਹਸਤੀ ਕੀ ਹੈ # ਇਕ ਮੁਠ ਮਿੱਟੀ ਤੋਣ ਵਧ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਗੋਯਾ ਮੁਸ਼ਤਿ ਖ਼ਾਕਿ ਬੇਸ਼ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

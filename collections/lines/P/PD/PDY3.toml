@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੋ ਸਭ ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ ਪੀੜ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਦਨ = {वेदना} ਦੁੱਖ, ਪੀੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

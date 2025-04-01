@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਅਡੋਲਤਾ ਤੇ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਅੰਮ੍ਰਿਤ ਦੇ ਚਸ਼ਮਿਆਂ ਦਾ ਆਨੰਦ -"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਕਥਾ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਕੁੰਟ = ਚਸ਼ਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

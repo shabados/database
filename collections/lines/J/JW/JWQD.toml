@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਨੇ ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਦਾ ਵੱਖ ਵੱਖ ਖਿਲਾਰਾ ਕਰ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿੰਨ = ਵੱਖ। ਬਿਸਥਾਰ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

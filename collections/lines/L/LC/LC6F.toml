@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਦਾਤਾਰ ਪ੍ਰਭੂ! (ਅਸੀਂ ਜੀਵ ਤੈਥੋਂ ਬਿਨਾ) ਤਿਹਾਏ ਪਪੀਹੇ ਵਾਂਗ (ਤੜਪ ਰਹੇ) ਹਾਂ, (ਦੱਸ) ਤੈਨੂੰ ਕਿਵੇਂ ਮਿਲੀਏ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰਿੰਗ = ਪਪੀਹਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

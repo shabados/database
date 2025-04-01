@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੇ ਗੁਆਚ ਜਾਏ ਤਾਂ ਰੋਂਦਾ ਹੈ, ਦੁੱਖੀ ਹੁੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਈ = ਗੁਆਚ ਜਾਣ ਤੇ। ਰੋਵਨੁ ਲਗਤੁ = ਰੋਂਦਾ ਹੈ, ਦੁੱਖੀ ਹੁੰਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

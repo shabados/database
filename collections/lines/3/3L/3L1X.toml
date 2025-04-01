@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਨ ਪਾਣੀ ਬਹੁਤਾ ਪੈਦਾ ਕਰ, ਜੀਵਾਂ ਦੇ ਦੁੱਖ-ਦਲਿੱਦਰ ਦੂਰ ਕਰ ਕੇ ਬਚਾ ਲੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਚੁ = ਬਹੁਤ। ਉਪਾਇ = ਪੈਦਾ ਕਰ। ਦਾਲਦੁ = ਗਰੀਬੀ, ਦਲਿੱਦਰ। ਤਰੁ = ਤਾਰ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

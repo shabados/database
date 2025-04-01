@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦਾ ਨਿੰਦਕ ਰਾਜ (ਭਾਵ, ਦੁਨੀਆ ਦੇ ਸੁਖਾਂ) ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਨੁ = ਵਾਂਜਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਨੂੰ ਤਾਰਣ ਦੀ ਸਮਰਥਾ ਵਾਲੇ ਹਰੀ ਨੇ ਮੈਂ ਮੂਰਖ ਉੱਤੇ ਭੀ ਕਿਰਪਾ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਮੂਰਖ ਕਉ = ਮੈਂ ਮੂਰਖ ਉੱਤੇ। ਕਰੀ = ਕੀਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

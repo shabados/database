@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨੇਕ ਆਦਤਾਂ ਕਰਕੇ ਸਤਿਕਾਰ ਯੋਗ ਅਤੇ ਰੂਪ ਵਿਚ ਸ਼ੋਭਨੀਕ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਕੱਰਮ ਖ਼ਸਾਇਲ ਮੁਨੱਵਰ ਜਮਾਲ ।੬੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ ਦਿੱਸ ਰਹੇ ਸਰੀਰ (ਮਿੱਠੀ ਸੁਰ) ਨਾਲ (ਮਾਨੋ) ਵਾਜੇ ਵੱਜ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਕਾਰਾ = ਸਾਰੇ (ਦਿੱਸ ਰਹੇ) ਸਰੀਰ। ਬਾਜਹਿ = ਵੱਜ ਰਹੇ ਹਨ। ਧੁਨਿ = ਸੁਰ (ਨਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

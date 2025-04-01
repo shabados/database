@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜੇ ਮਨੁੱਖ) ਘੁੰਘਰੂ ਬੰਨ੍ਹ ਕੇ (ਕਿਸੇ ਮੂਰਤੀ ਅੱਗੇ ਜਾਂ ਰਾਸਿ ਆਦਿਕ ਵਿਚ) ਤਾਲ ਵਜਾਂਦੇ ਹਨ (ਤਾਲ-ਸਿਰ ਨੱਚਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੂਘਰ = ਘੁੰਘਰੂ। ਬਜਾਵਹਿ = ਵਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

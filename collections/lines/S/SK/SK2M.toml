@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਰਾਹ ਦੀ ਧੂੜ ਸਾਡੇ ਨੇਤ੍ਰਾਣ ਦਾ ਸੁਰਮਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕਿ ਰਾਹਸ਼ ਤੂਤਿਆਇ ਚਸ਼ਮਿ ਮਾ-ਸਤ ।੫੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

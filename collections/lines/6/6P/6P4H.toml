@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰਾ ਹੀ ਤਾਣ ਹੈ, (ਸਾਡੇ) ਮਨ ਵਿਚ ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਰੁ = ਬਲ। ਮਨਿ = ਮਨ ਵਿਚ। ਟੇਕ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

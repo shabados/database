@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਜਨ = ਜਿਸ ਮਨੁੱਖ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

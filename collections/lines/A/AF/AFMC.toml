@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਖੋਟੇ ਮਨ ਨਾਲ ਤੀਰਥਾਂ ਤੇ ਨ੍ਹਾਉਣ ਤੁਰ ਪਏ ਤੇ ਸਰੀਰ ਵਿਚ ਕਾਮਾਦਿਕ ਚੋਰ ਭੀ ਟਿਕੇ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ ਖੋਟੈ = ਖੋਟੇ ਮਨ ਨਾਲ। ਤਨਿ = ਸਰੀਰ ਵਿਚ। ਚੋਰ = ਕਾਮਾਦਿਕ ਚੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

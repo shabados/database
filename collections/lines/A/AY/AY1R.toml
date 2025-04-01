@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਅਗਿਆਨੀ ਜੀਵ! ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਅੰਧਾ = ਹੇ ਅੰਨ੍ਹੇ ਮਨੁੱਖ! ਚੇਤਿ = ਯਾਦ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

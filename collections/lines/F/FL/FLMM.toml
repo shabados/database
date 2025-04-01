@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਧਰਤੀ ਦਿੱਤੀ, ਤੈਨੂੰ ਹੋਰ ਵਰਤਣ-ਵਲੇਵਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੁਧਾ = ਧਰਤੀ। ਬਲਨਾ = ਸਾਮਾਨ, ਵਲੇਵਾ, ਵਰਤਣ-ਵਲੇਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

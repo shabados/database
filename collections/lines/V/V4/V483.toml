@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਹ ਨਾਮ) ਅੰਮ੍ਰਿਤ (ਹਰੇਕ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਹੀ ਹੈ, ਪਰ ਮਿਲਦਾ ਹੈ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

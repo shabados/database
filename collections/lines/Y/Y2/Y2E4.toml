@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਾਮਾਦਿਕ) ਪੰਜੇ ਡਰਾਉਣੇ ਵੈਰੀ ਉਹਨਾਂ ਤੋਂ ਪਰੇ ਭੱਜ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਤ = ਵੈਰੀ। ਬਿਕਰਾਲ = ਡਰਾਉਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

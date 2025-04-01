@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਂਦਰ, ਚਿੱਤ੍ਰੇ, ਸ਼ੇਰ (ਸਭ ਮਾਇਆ ਵਿਚ ਉਲਝੇ ਪਏ ਹਨ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਤਰ = ਬਾਂਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

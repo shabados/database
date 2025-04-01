@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਆਪਣੀ ਮਾਲਾ ਮੈਥੋਂ ਲੈ ਲਉ। (ਪ੍ਰਭੂ! ਇੱਕ ਤਾਂ ਮੈਨੂੰ ਰੋਟੀ ਵਲੋਂ ਬੇ-ਫ਼ਿਕਰ ਕਰ, ਦੂਜੇ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਯਹ = ਇਹ। ਲੀਜੈ = ਕਿਰਪਾ ਕਰ ਕੇ ਲੈ ਲਉ। ਯਹ.........ਲੀਜੈ = ਹੇ ਪ੍ਰਭੂ! ਇਹ ਆਪਣੀ ਮਾਲਾ ਮੈਥੋਂ ਲੈ ਲਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

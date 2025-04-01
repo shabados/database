@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰਿ-ਨਾਮ ਇਕ ਐਸਾ ਰਤਨ ਹੈ ਜਿਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ, ਉਹ ਰਤਨ ਤੇਰੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ, ਉਸ ਨਾਲ ਸਾਂਝ ਪਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੋਲੁ = ਜਿਸ ਦਾ ਮੁੱਲ ਨਾਹ ਪਾਇਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

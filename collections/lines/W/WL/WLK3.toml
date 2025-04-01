@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜੀਵ ਆਪ ਨੂੰ ਬਚਨਾਂ ਦੁਆਰਾ (ਭਾਵ, ਜੀਭ ਨਾਲ) ਸਿਮਰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਦੁੱਖ ਤੇ ਦਰਿਦ੍ਰ ਖਿਨ ਵਿਚ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਚਾ = ਬਚਨ। ਖਿਣੰ = ਖਿਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

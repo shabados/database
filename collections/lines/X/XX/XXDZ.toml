@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਲੋਕ ਪਰਲੋਕ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਹਾ ਸਿਰਿਆ ਕਾ = ਲੋਕ ਪਰਲੋਕ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

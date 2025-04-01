@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਸਦਾ ਉਹੀ ਕਾਰ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ ਜੋ (ਆਖ਼ਰ ਇਸ ਦੇ) ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

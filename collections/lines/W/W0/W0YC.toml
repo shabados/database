@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਸੁਰਗ-ਲੋਕ ਸੀ, ਨਾਹ ਮਾਤ-ਲੋਕ ਸੀ ਤੇ ਨਾਹ ਹੀ ਪਤਾਲ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਦਿ = ਤਦੋਂ। ਮਛੁ = ਮਾਤ ਲੋਕ। ਪਇਆਲਾ = ਪਤਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

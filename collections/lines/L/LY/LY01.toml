@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ ਵਾਸਤੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੀ) (ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਛੁਟਕਾਰੇ ਦਾ ਵਸੀਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ ਕਉ = ਭਗਤ ਜਨਾਂ ਵਾਸਤੇ। ਮੁਕਤਿ = (ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਛੁਟਕਾਰਾ। ਜੁਗਤਿ = ਤਰੀਕਾ, ਵਸੀਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

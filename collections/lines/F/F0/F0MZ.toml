@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਕਦੇ ਭੀ ਪੋਹ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰੁ = {ਅ-ਮਰੁ} ਮੌਤ-ਰਹਿਤ, ਜਿਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਨਾਹ ਆਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

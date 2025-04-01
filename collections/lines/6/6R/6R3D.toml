@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਅੱਠੇ ਪਹਰ (ਹਰ ਵੇਲੇ) ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਗਾਉ = ਗਾਇਆ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

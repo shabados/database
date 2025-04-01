@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਜਤਨ ਕੀਤਿਆਂ ਜੇ ਹਿਰਦਾ ਨਰਮ ਨਹੀਂ ਹੁੰਦਾ ਤਾਂ ਦੱਸੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਵੈ = ਦ੍ਰਵਦਾ, ਨਰਮ ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

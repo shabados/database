@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਇਹ ਅਟੱਲ ਵਿਚਾਰ (ਆਪਣੇ ਅੰਦਰ) ਸਾਂਭ ਕੇ ਰੱਖ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ! ਸਾਚਾ = ਅਟੱਲ, ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਗਹੋ = ਗਹੁ, ਫੜ, ਹਿਰਦੇ ਵਿਚ ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

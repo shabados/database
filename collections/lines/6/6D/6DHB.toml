@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਮਨੁੱਖੋ! ਹੇ ਕਮਲੇ ਲੋਕੋ! ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ ਸਿਮਰੋ ॥੪॥੪॥੩੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੇ, ਆਖਦਾ ਹੈ। ਨਰ = ਹੇ ਮਨੁੱਖ! ॥੪॥੪॥੩੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

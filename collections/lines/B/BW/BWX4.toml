@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਬੇ-ਸ਼ੱਕ) ਕੋਈ ਧਿਰ ਸਿਮ੍ਰਿਤੀਆਂ ਸ਼ਾਸਤ੍ਰਾਂ ਨੂੰ ਭੀ ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਧਿ ਦੇਖਹੁ = ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

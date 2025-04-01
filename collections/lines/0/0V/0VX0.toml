@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕੀਹ ਆਖਿਆ ਜਾਏ? ਪ੍ਰਭੂ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਤੋਂ ਬਿਨਾ ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਬਖ਼ਸ਼ਸ਼ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਬੰਦਾ ਤੁਰਨੇ-ਸਿਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਤੇ ਸਾਰੇ ਜਗਤ ਵਿਚ ਉੱਘਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਧਾਨ = ਸਭ ਤੋਂ ਵੱਡਾ, ਤੁਰਨੇ-ਸਿਰ। ਲੋਇ = ਲੋਕਿ, ਲੋਕ ਵਿਚ, ਜਗਤ ਵਿਚ। ਪ੍ਰਗਟੁ = ਪ੍ਰਸਿੱਧ, ਉੱਘਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

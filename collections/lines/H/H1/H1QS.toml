@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ! ਹੇ ਸਰਬ-ਵਿਆਪਕ ਮਾਲਕ! ਬਿਨਾ ਸਾਡੇ ਬੋਲਣ ਦੇ ਹੀ ਤੂੰ ਸਾਡਾ ਹਾਲ ਜਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ! ਪੁਰਖ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਅਨਬੋਲਤ = ਬਿਨਾ ਬੋਲਣ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਉਹਨਾਂ ਵਿਚੋਂ ਕਿਸੇ ਨੇ ਉਸ (ਦੇ ਗੁਣਾਂ) ਦਾ ਅੰਤ ਨਹੀਂ ਲੱਭਾ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਹਿ = ਉਹਨਾਂ ਨੇ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

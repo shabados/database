@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਾਲਕ ਅਪਹੁੰਚ ਹੈ, ਜੀਵਾਂ ਦੇ ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਹੈ, ਸਭ ਜੀਵਾਂ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮੁ = ਪਹੁੰਚ ਤੋਂ ਪਰੇ। ਅਗੋਚਰੁ = ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ। ਪਰਣਾ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

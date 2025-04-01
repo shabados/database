@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਆਖਿਆ, ਤੇਰੀ ਇੱਕ ਨਿਗਾਹ ਬਦਲੇ ਅਸੀਣ ਜਾਨ ਹਾਜ਼ਰ ਕਰਦੇ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਫ਼ਤਮ ਕਿ ਜਾਣ-ਦਿਹੇਮ ਇਵਜ਼ਿ ਯੱਕ ਨਿਗਾਹਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

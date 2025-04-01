@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕਾਜ਼ੀ ਨੂੰ (ਤੁਅੱਸਬ ਦੇ) ਹਨੇਰੇ ਵਿਚ ਇਹ ਸਮਝ ਹੀ ਨਹੀਂ ਆਈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧਿਆਰੈ = ਹਨੇਰੇ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

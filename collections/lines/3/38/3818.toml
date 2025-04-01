@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਨਾਲ ਇਕ ਕੁੱਤਾ (ਲੋਭ) ਹੈ, ਦੋ ਕੁੱਤੀਆਂ (ਆਸਾ, ਤ੍ਰਿਸ਼ਨਾ) ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਨੁ = ਕੁੱਤਾ, ਲੋਭ। ਦੁਇ = ਦੇ। ਸੁਆਨੀ = ਕੁੱਤੀਆਂ (ਆਸਾ, ਤ੍ਰਿਸ਼ਨਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਸੁਖਦਾਤੇ ਹਰੀ! ਮੇਹਰ ਕਰ, ਮੈਨੂੰ ਪੂਰੇ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਹਰਿ = ਹੇ ਹਰੀ! ਹਮ = ਮੈਨੂੰ। ਧੂਰਾ = ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

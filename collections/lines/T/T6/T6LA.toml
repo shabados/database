@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਝੱਲੀ ਹੋ ਕੇ ਹੁਣ ਮੈਂ ਉਸ ਖਸਮ ਨੂੰ ਲੱਭਦੀ ਫਿਰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਲਿ = ਕਮਲੀ, ਝੱਲੀ। ਲੋਰਉ = ਮੈਂ ਲੱਭਦੀ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

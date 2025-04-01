@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਨੂੰ ਸਦਾ-ਥਿਰ ਪਾਤਿਸ਼ਾਹ ਸਦਾ ਟਿਕੀ ਰਹਿਣ ਵਾਲੀ ਇੱਜ਼ਤ ਬਖ਼ਸ਼ਦਾ ਹੈ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੀ = ਸਦਾ ਟਿਕੀ ਰਹਿਣ ਵਾਲੀ। ਪਤਿ = ਇੱਜ਼ਤ ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਹੁਣ) ਮੈਂ ਗੁਰੂ ਦੀ ਕਦਰ ਸਮਝ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਕੀ = ਗੁਰੂ ਦੀ। ਜਾਨੀ = ਮੈਂ ਇਉਂ ਸਮਝੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

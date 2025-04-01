@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪਣੀ ਰਚੀ ਸ੍ਰਿਸ਼ਟੀ ਬਾਰੇ ਆਪ ਹੀ ਸਭ ਕੁਝ ਜਾਣਨ ਵਾਲਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣੁ = ਜਾਣੂ, ਜਾਣਨ ਵਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

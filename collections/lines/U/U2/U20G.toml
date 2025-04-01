@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਫ਼ਨੇ ਵਿਚ ਭੀ ਵੀਰਜ ਨੂੰ ਡਿੱਗਣ ਨਹੀਂ ਦੇਂਦਾ (ਭਾਵ, ਸੁਫ਼ਨੇ ਵਿਚ ਭੀ ਆਪਣੇ ਆਪ ਨੂੰ ਕਾਮ-ਵੱਸ ਨਹੀਂ ਹੋਣ ਦੇਂਦਾ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਦੁ = ਵੀਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

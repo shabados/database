@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੋਹਣੀਆਂ ਅੱਖਾਂ ਵਾਲੀ ਸੁੰਦਰ ਮੇਰੀ ਇਸਤ੍ਰੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨ = ਅੱਖਾਂ। ਸਲੋਨੀ = ਸੋਹਣੇ ਲੋਇਣਾਂ ਵਾਲੀ, ਸੋਹਣੀਆਂ ਅੱਖਾਂ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

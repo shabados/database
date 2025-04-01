@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੁਗ਼ਲਾਂ ਤੇ ਪਠਾਣਾਂ ਦੀ ਲੜਾਈ ਹੋਈ, ਲੜਾਈ ਦੇ ਮੈਦਾਨ ਵਿਚ (ਦੋਹਾਂ ਧਿਰਾਂ ਨੇ) ਤਲਵਾਰ ਚਲਾਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਣ = ਜੰਗ। ਵਗਾਈ = ਚਲਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

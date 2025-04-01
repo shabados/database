@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ ਦੋਸਤ # ਤਾਂ ਤੇ ਤੈਨੂੰ ਵੀ ਇਹ ਨਿਰਨਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਸ ਤੁਰਾ ਹਮ ਬਾਇਦ ਐ ਯਾਰਿ ਅਜ਼ੀਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਲੋਕ ਸ਼ਾਸਤ੍ਰ ਵੇਦ ਜੋਤਿਸ਼ ਤੇ ਕਈ ਵਿਆਕਰਣ ਜਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਮ = ਸ਼ਾਸਤ੍ਰ। ਨਿਰਗਮ = ਨਿਗਮ, ਵੇਦ। ਜਾਨਹਿ = (ਜੋ ਲੋਕ) ਜਾਣਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਪੈਦਾ ਹੋਏ ਆਤਮਕ ਹਨੇਰੇ ਵਿਚੋਂ ਤੇਰੀ ਖ਼ਲਾਸੀ ਤਾਂ ਹੋਇਗੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝਿ ਲੇ = ਸਮਝ ਲੈ। ਤਉ = ਤਦੋਂ। ਨਿਬੇਰਾ = ਨਿਰਨਾ, ਖ਼ਲਾਸੀ, ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਹਨੇਰੇ ਤੋਂ ਖ਼ਲਾਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

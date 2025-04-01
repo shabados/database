@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕਿਸੇ ਵਿਗਾਰੀ ਦੇ ਸਿਰ ਉਤੇ ਪੈਸੇ-ਰੁਪਏ ਰੱਖੇ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਦੀਜਹਿ = ਧਰੇ ਹੋਏ ਹੋਣ। ਦਾਮ = ਪੈਸੇ ਰੁਪਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਇਹ ਜਾਣ ਲਵੇਂ, ਕਿ ਰੱਬ ਕੌਨ ਹੈ ਅਤੇ ਤੂ ਕੌਣ ਹੈਂ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਬਿਦਾਨੀ ਹੱਕ ਕੁਦਾਮੋ ਮਨ ਕੁਦਾਮ ।੪੨੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

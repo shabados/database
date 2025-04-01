@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਦੋਂ ਕਿਸੇ ਵਡ-ਭਾਗੀ ਨੂੰ) ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ ਗੁਰੂ ਮਿਲ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਸਾਗਰੁ = ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

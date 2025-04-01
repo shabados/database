@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਮੈਂ ਬੜਾ ਮੰਦ-ਕਰਮੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਨੀਚ ਕਰੰਮਾ = ਮੰਦ-ਕਰਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

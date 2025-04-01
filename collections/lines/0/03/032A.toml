@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇਹੜਾ ਮਨੁੱਖ) ਬੜੇ ਜਤਨ ਕਰ ਸਕਦਾ ਹੋਵੇ, ਬੜਾ ਬਲਵਾਨ ਹੋਵੇ, ਚੌਹਾਂ ਪਾਸਿਆਂ ਤੋਂ ਕਈ ਸੂਰਮੇ ਜਿਸ ਦੀ ਸੇਵਾ ਕਰਨ ਵਾਲੇ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾ = ਕਰਨ ਵਾਲਾ। ਸੂਰਾ = ਸੂਰਮੇ। ਚਤੁਰ = ਚਾਰ। ਦਿਸਹ = ਪਾਸੇ। ਚਤੁਰ ਦਿਸਹ = ਚੌਹਾਂ ਪਾਸਿਆਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

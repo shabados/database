@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! (ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਤੂੰ ਆਪ ਹੀ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜ ਲੈਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜੀਉ = ਹੇ ਪ੍ਰਭੂ ਜੀ! {ਸੰਬੋਧਨ}। ਆਪੇ = ਤੂੰ ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

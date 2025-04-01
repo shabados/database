@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਕਿਸਮਤ ਤੋਂ ਬਿਨਾ ਗੁਰੂ ਦੀ ਸਰਨ ਨਹੀਂ ਪਿਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗਾ = ਭਾਗਾਂ, ਕਿਸਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਮੈਣ ਕੀ ਕਰਾਣ ਮੇਰਾ ਦਿਲ ਤਾਣ ਯਾਰ ਵੱਲ ਦੌੜਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਚੂੰ ਕੁਨਮ ਕਿ ਦਿਲ ਬਸੂਇ ਯਾਰ ਮੀ ਰਵਦ ।੨੮।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

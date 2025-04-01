@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵੱਖਰਾ ਹੋ ਕੇ ਉਸ ਨੂੰ ਆਪਣੇ ਇੱਕ ਕਤਰਾ ਹੋਣ ਦਾ ਪਤਾ ਲੱਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਰਹਿ ਤਫ਼ਰੀਕ ਖ਼ੁਦ ਰਾ ਕਤਰਾ ਯਾਫ਼ਤ ।੨੯੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

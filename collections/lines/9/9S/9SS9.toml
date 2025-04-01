@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਰਨ ਵਾਲਾ ਤਾਂ) ਮਰ ਗਿਆ, (ਪਿਛਲੇ) ਰੋਂਦੇ ਹਨ ਤੇ ਰੋ ਰੋ ਕੇ ਖਪਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਂਹਿ = ਰੋਂਦੇ ਹਨ। ਮਰਿ ਜਾਂਹੀ = ਖਪਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

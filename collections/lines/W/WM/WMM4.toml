@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਜੀਵ ਨੇ) ਕਿਵੇਂ (ਆਪਣੇ ਜੀਵਨ ਦਾ ਲਾਭ) ਗੰਵਾ ਲਿਆ ਹੈ? ਕਿਵੇਂ (ਮੁੜ ਉਹ ਲਾਹਾ) ਲੱਭ ਸਕੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਕਰਿ = ਕਿਵੇਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

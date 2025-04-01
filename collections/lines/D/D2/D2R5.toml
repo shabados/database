@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿੰਦ ਤੇ ਰੋਜ਼ੀ ਦੇ ਦੇਣ ਵਾਲਾ ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਹੈ। ਤੂੰ ਉਸ ਨੂੰ ਆਪਣੇ ਮਨੋਂ ਕਿਉਂ ਭੁਲਾ ਦਿੱਤਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸ = ਸਾਹ, ਸੁਆਸ, ਜਿੰਦ। ਗ੍ਰਾਸ = ਗ੍ਰਾਹੀ, ਰੋਜ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

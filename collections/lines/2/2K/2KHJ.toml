@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਵੇਂ ਜੇਹੜੀ ਸਤ-ਸੰਗਣ) ਸਹੇਲੀ ਗੁਰੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਗਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਜੇਹੜੀ ਸਖੀ, ਜੇਹੜਾ ਸਤਸੰਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ ਹਿਰਦੈ = ਉਸ (ਮਨੁੱਖ) ਦੇ ਹਿਰਦੇ ਵਿਚ। ਪ੍ਰਗਾਸੁ = (ਆਤਮਕ ਜੀਵਨ ਦਾ) ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

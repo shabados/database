@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਇਹ ਧਰਮ ਸਾਰੇ ਧਰਮਾਂ ਨਾਲੋਂ ਚੰਗਾ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰੇਸਟ = ਸਭ ਤੋਂ ਚੰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਕੌਣ ਬੇ-ਫ਼ਿਕਰ ਸੀ ਤੇ ਕਿਸ ਨੂੰ ਕੋਈ ਚਿੰਤਾ ਲੱਗਦੀ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਿੰਤੁ = ਬੇ-ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

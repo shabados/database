@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦਾ ਪੰਥ ਗਰੀਬ ਨਿਮਾਣਿਆਣ ਦੀ ਕੌਮ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿੱਲਤਿ ਸ਼ਾਣ ਕੌਮਿ ਮਸਕੀਨਾਣ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

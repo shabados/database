@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਵਿਚ ਜੁੜ ਕੇ) ਮਾਇਆ ਦਾ ਮੋਹ (ਆਪਣੇ ਅੰਦਰੋਂ) ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਾੜ ਦੇ-ਇਹੀ ਹੈ ਦੇਵ-ਪੂਜਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਾ = ਮੂਰਤੀ ਅਗੇ ਧੂਪ ਧੁਖਾਣਾ। ਪ੍ਰੇਮ ਮਾਇਆ = ਮਾਇਆ ਦਾ ਮੋਹ। ਪਰਜਾਲਿ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਾੜ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

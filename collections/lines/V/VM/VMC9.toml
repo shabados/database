@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ ਘਰ ਤਦੋਂ ਹੀ ਬਣਾਏ ਜਾਂਦੇ ਹਨ ਜੇ ਇਥੇ ਸਦਾ ਟਿਕੇ ਰਹਿਣਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਤ ਨੀਤ = ਨਿੱਤ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ। ਬਾਂਧੀਅਹਿ = ਬੰਨ੍ਹੇ ਜਾਣ, ਬਣਾਏ ਜਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

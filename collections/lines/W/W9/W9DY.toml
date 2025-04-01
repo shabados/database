@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਾਗਦਿਆਂ, ਸੁੱਤਿਆਂ ਸਿਮਰਨ ਦਾ ਰਸ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਇ = ਸੌਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

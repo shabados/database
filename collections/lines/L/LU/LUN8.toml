@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਵੱਡੇ ਅਤੇ ਕੀ ਛੋਟੇ, ਸਾਰੇ ਹੀ ਉਸਦੇ ਪ੍ਰਬੰਧ ਵਿਚ ਹਨ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਬਾਲਾ ਓ ਚਿਹ ਪਸਤ ਮਨਜ਼ੂਮਿ ਊ ।੮੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

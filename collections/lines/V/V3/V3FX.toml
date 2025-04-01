@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਅਜਿਹੀ ਦੌਲਤ ਬਖਸ ਜੋ ਪੱਕੀ ਸਦੀਵੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤੇ ਆਂ ਦਿਹ ਕਿ ਬਾਸ਼ਦ ਪਾਇਦਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

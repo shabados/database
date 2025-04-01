@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਮ-ਬ-ਦਮ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨੂੰ ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ = ਸਾਹ ਦੇ ਨਾਲ। ਗ੍ਰਾਸਿ = ਗ੍ਰਾਹੀ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

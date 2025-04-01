@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖਸਮ-ਪ੍ਰਭੂ! ਤਾਹੀਏਂ ਤੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਮੇਰੇ ਨਾਲ ਰੋਸਾ ਕੀਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਿ = ਸਹ ਨੇ, ਖਸਮ ਨੇ। ਰੋਸੁ = ਗੁੱਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

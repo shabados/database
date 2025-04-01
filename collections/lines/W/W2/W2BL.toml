@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹਿਰਦੇ ਵਿਚ ਧਾਰ ਕੇ ਸਹਜ ਅਵਸਥਾ ਵਿਚ (ਟਿਕ ਕੇ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਖਸਮ ਨੂੰ ਮਾਣਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਸਹਜ ਅਵਸਥਾ ਵਿਚ। ਉਰ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

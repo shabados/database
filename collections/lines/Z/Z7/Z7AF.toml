@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹੀ ਕੰਮ ਕਰਿਆ ਕਰ ਜਿਸ ਕੰਮ ਦੀ ਰਾਹੀਂ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਤੇਰਾ ਮੂੰਹ ਰੋਸ਼ਨ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਇ = ਕਰ। ਜਿਤੁ = ਜਿਸ (ਕੰਮ) ਦੀ ਰਾਹੀਂ। ਉਜਲਾ = ਰੋਸ਼ਨ। ਸੋਈ = ਉਹੀ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

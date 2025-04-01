@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਆਕਾਸ਼ ਤਣੇ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਡਾਣੇ = ਖਿਲਾਰੇ ਹੋਏ ਹਨ, ਅੱਡੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

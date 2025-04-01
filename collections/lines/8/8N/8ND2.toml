@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖੋ, ਪ੍ਰਹਲਾਦ ਦੇ) ਪਿਉ ਨੇ ਪ੍ਰਹਲਾਦ ਨੂੰ ਪੜ੍ਹਨ ਵਾਸਤੇ (ਪਾਠਸ਼ਾਲਾ ਵਿਚ) ਘੱਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਠਾਇਆ = ਘੱਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

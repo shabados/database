@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਅਨੇਕਾਂ ਵਾਰੀ ਜਗਤ ਦਾ ਨਾਸ ਕਰਦਾ ਹੈ ਅਨੇਕਾਂ ਵਾਰੀ ਜਗਤ-ਉਤਪੱਤੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਲਉ = ਜਗਤ ਦਾ ਨਾਸ। ਉਤਪਾਤਿ = ਉਤਪੱਤੀ, ਪੈਦਾਇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

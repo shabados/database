@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੌਤ ਆਉਣ ਤੇ) ਉਸ ਸਿਰ ਨੂੰ ਕਾਂ ਆਪਣੀਆਂ ਚੁੰਝਾਂ ਨਾਲ ਸੰਵਾਰਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ ਸਿਰੁ = ਉਸ ਸਿਰ ਨੂੰ। ਚੁੰਚ = ਚੁੰਝ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

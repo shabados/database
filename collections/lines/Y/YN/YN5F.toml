@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! (ਉਸ ਕੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਦਾ) ਸੂਰਜ ਚੜ੍ਹ ਪਿਆ ਹੈ, (ਆਤਮਕ ਜੀਵਨ ਦੀ) ਜੋਤਿ ਜਗ ਪਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰੁ = ਸੂਰਜ। ਉਜੀਆਰਾ = ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪੂਰਨ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਉਹ ਪ੍ਰਭੂ ਹਰੇਕ ਥਾਂ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰੇਕ ਥਾਂ ਵਿਚ {ਅੰਤਰਿ = ਵਿਚ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

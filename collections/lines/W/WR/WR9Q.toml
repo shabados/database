@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਿਸੇ ਮੰਦੇ ਪਾਸੇ ਪੈਰ ਨਹੀਂ ਪੁੱਟੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਗਾ = ਵਿੰਗਾ। ਬੀਗਾ ਬੈਰੁ = ਵਿੰਗਾ ਪੈਰ, ਵਿੰਗੇ ਪਾਸੇ ਕਦਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

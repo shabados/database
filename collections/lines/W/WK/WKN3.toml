@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਭੀ ਮਨੁੱਖ ਨੇ) ਪੂਰੇ ਗੁਰੂ ਦਾ ਆਸਰਾ ਲਿਆ ਹੈ। ਉਸ ਦਾ (ਮਾਇਆ ਦੀ) ਮਮਤਾ ਵਾਲਾ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੀ ਪੀਰ = ਮਮਤਾ ਦਾ ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

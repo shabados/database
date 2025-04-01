@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੜ ਕੇ ਵਿਚਾਰੀ ਰੋਂਦੀ ਹੈ ਤੇ ਉਸ ਵਿਚੋਂ ਅੰਗਿਆਰੇ ਝੜ ਝੜ ਕੇ ਡਿਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ ਜਲਿ = ਸੜ ਸੜ ਕੇ। ਪਵਹਿ = (ਭੁੰਞੇ) ਡਿਗਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

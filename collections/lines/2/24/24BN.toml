@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣੀ ਜੋਤਿ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਜੋਤਿ ਵਿੱਚ ਮਿਲਾ ਲੈਂਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤੀ = ਪਰਮਾਤਮਾ ਦੀ ਜੋਤਿ ਵਿਚ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

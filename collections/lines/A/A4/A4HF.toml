@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਸ ਉਚੇ ਪ੍ਰਭੂ ਨੂੰ ਸ੍ਵਾਸ ਸ੍ਵਾਸ ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਦਮ-ਬ-ਦਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

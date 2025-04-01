@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਲੋਕ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦਾ ਪੱਲਾ ਫੜਨਹਾਰੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਅੰਦਰ ਜ਼ੈਲਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੯।"
+page = 10
+line = 149
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

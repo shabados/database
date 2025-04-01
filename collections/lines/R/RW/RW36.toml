@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਇਆ ਜਿਨ੍ਹਾਂ ਦਾ ਇਸ਼ਟ-ਦੇਵ ਹੈ, (ਦੂਜਿਆਂ ਦੀ ਵਧੀਕੀ) ਸਹਾਰਨ ਦੀ ਆਦਤਿ ਜਿਨ੍ਹਾਂ ਦੀ ਮਾਲਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਮਾਲੀ = ਮਾਲਾ। ਪਰਧਾਨ = ਮੰਨੇ-ਪ੍ਰਮੰਨੇ, ਪੈਂਚ, ਤੁਰਨੇ-ਸਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

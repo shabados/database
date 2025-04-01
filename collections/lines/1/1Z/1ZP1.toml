@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਇਹ ਸਾਰੇ ਹੀ ਉਸ ਦੇ ਇਹਸਾਨਾਣ ਹੇਠ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਅਜ਼ਾਣ ਸ਼ਰਮਿੰਦਾਇ ਇਹਸਾਨਿ ਊ ।੪੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

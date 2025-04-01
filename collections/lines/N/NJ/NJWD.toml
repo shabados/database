@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੀ ਮੱਤ ਜੈਦੇਵ ਨੇ ਸਿੱਖੀ, ਜਿਹੜੀ ਮੱਤ ਨਾਮਦੇਵ ਵਿਚ ਸਮਾਈ ਹੋਈ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜਿਹੜੀ। ਗਹੀ = ਲਈ, ਸਿੱਖੀ। ਜੈਦੇਵਿ = ਜੈਦੇਵ ਨੇ। ਨਾਮੈ = ਨਾਮਦੇਵ ਵਿਚ। ਸੰਮਾਣੀ = ਸਮਾਈ ਹੋਈ ਸੀ, ਰਚੀ ਹੋਈ ਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

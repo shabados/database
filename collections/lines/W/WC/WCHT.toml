@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੀ ਕੰਬਲੀ ਲੈ ਕੇ (ਉੱਥੋਂ) ਮੁੜ ਕੇ ਤੁਰ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲਟਾਇ = ਪਰਤ ਕੇ, ਮੁੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

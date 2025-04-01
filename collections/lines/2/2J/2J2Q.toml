@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ-ਵੇੜ੍ਹੇ ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ ਲਿਖਣ ਵਾਲੇ) ਚਿਤ੍ਰ ਗੁਪਤ ਸਭ ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਹਿਸਾਬ ਲਿਖਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤ੍ਰ ਗੁਪਤੁ = ਜੀਵਾਂ ਦੇ ਕਰਮਾਂ ਦੇ ਗੁਪਤ ਚਿਤ੍ਰ ਲਿਖਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

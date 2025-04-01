@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ ਸੁਣਨ ਨਾਲ (ਮਨੁੱਖ ਦੇ) ਦੁੱਖਾਂ ਤੇ ਪਾਪਾਂ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

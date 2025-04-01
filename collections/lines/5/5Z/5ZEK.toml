@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੋਬਿੰਦ ਰਾਇ! ਤੇਰੇ ਸੇਵਕ ਨਾਮੇ ਨੇ) ਗੜਵੇ ਵਿਚ ਪਾਣੀ ਪਾਇਆ ਹੈ ਤੇ ਕਟੋਰੇ ਵਿਚ ਦੁੱਧ ਪਾਇਆ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਟੋਰੈ = ਕਟੋਰੇ ਵਿਚ। ਗਡਵੈ = ਗਡਵੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

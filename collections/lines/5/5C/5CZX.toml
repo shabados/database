@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਵਿਕਾਰਾਂ ਦੀ) ਗਰਮੀ ਅਤੇ (ਨਾਮ ਦੀ) ਠੰਢਕ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਬਣਾਂਦਾ ਹੈ, ਉਹ (ਆਪ ਹੀ ਵਿਕਾਰਾਂ ਦੀ) ਤਪਸ਼ ਵਿਚੋਂ ਕੱਢਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਨ = ਗਰਮੀ। ਸੀਤ = ਠੰਡਕ। ਕਰਤਾ = ਕਰਤਾਰ। ਘਾਮ ਤੇ = ਤਪਸ਼ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

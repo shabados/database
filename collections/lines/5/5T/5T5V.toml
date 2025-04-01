@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ ਰਚਨਾ ਤੋਂ ਵੱਖਰਾ ਜਾਣਦਾ ਹੈਂ, ਤੇ ਆਪ ਹੀ ਹਰ ਥਾਂ ਹਾਜ਼ਰ-ਨਾਜ਼ਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣਹਿ = ਤੂੰ ਜਾਣਦਾ ਹੈਂ। ਦੂਰਿ = ਰਚੀ ਰਚਨਾ ਤੋਂ ਵੱਖਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

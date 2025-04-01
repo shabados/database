@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਆਪਣਾ ਦੀਵਾਨਾ ਦਿਲ ਉਸ ਮਿਹਰ ਦੀ ਆਸ ਵਿਚ ਵੇਚ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ ਫ਼ਰੋਸ਼ਦ ਦਿਲਿ ਦੀਵਾਨਾਇ ਖ਼ੁਦ ਰਾ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

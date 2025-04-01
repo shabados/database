@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਸਤਸੰਗ-) ਘਰ ਵਿਚ ਅਕਾਲ-ਪੁਰਖ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਘਰਿ = ਜਿਸ ਘਰ ਦੀ ਰਾਹੀਂ, ਜਿਸ ਸਤਸੰਗ-ਘਰ ਵਿਚ। ਕੀਰਤਿ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

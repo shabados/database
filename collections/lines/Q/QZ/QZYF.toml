@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਸੰਗੀਓ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹਰਿ-ਨਾਮ ਜਪੋ, (ਇਹੀ ਹੈ ਜੀਵਨ ਦਾ) ਲਾਭ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਲਾਹਾ = ਲਾਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

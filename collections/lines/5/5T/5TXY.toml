@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਮੋਹ ਅਹੰਕਾਰ-ਇਸ ਵਿਚ ਫਸੇ ਰਿਹਾਂ ਸੁਖ ਨਹੀਂ ਮਿਲਿਆ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਮਹਿ = ਇਹਨਾਂ ਵਿਚ ਫਸੇ ਰਿਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

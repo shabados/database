@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਾਰਸਾਈ ਉਹੀ ਹੀ ਕਿਸੇ ਕੰਮ ਦੀ ਹੈ, ਜਿਹੜੀ ਸੱਚ ਲਈ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਾਰਸਾਈ ਬਿਹ ਕਿ ਬਹਿਰਿ ਹੱਕ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

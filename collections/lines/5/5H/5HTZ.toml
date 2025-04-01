@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਜੀਵ ਪ੍ਰੀਤਮ-ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਜੁੜੇ ਹੋਏ ਹਨ ਉਹ ਪਰਲੋਕ ਦੀ ਖੱਟੀ ਖੱਟ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਿ = ਰਸ ਵਿਚ, ਆਨੰਦ ਵਿਚ। ਪਰਥਾਇ = ਪਰ ਥਾਂ ਦਾ। ਪਰਥਾਇ ਲਾਹਾ = ਪਰਲੋਕ ਦੀ ਖੱਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

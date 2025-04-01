@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਹਰੇਕ ਥਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਜੇਹੜਾ ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰੇਕ ਥਾਂ ਵਿਚ। ਪ੍ਰਤਿਪਾਲ = ਪਾਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

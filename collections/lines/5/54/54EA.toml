@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਬੰਦੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਹਨ, ਮੈਂ ਨਾਨਕ ਦਾ ਸਿਰ ਉਹਨਾਂ ਦੇ ਕਦਮਾਂ ਤੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰੁ ਨਾਨਕ = ਨਾਨਕ ਦਾ ਸਿਰ। ਲੋਕਾ ਪਾਵ = (ਉਹਨਾਂ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਵਾਲੇ) ਲੋਕਾਂ ਦੇ ਪੈਰਾਂ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

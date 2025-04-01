@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੇ ਸਤਿਗੁਰੂ ਅੱਗੇ ਸਿਰ ਨਿਵਾਉਂਦਾ ਹਾਂ, ਉਸੇ ਨੂੰ ਸਦਾ ਪ੍ਰਸੰਨ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਉ = ਪੂਜਉਂ, ਮੈਂ ਪੂਜਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

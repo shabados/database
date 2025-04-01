@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਦਰਸਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਕੱਜਲ ਹਾਰ ਪਾਨ ਦਾ ਰਸ-ਇਹ ਸਾਰੇ ਹੀ ਰਸ ਸੁਆਹ ਸਮਾਨ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਜਲੁ = ਕੱਜਲ, ਸੁਰਮਾ। ਤਮੋਲ = ਪਾਨ। ਹਭਿ = ਸਾਰੇ। ਛਾਰੁ = ਸੁਆਹ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਮਨ ਸਿਰਫ਼ ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਹੀ ਦਰਸਨ ਮੰਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ ਹੀ ਪ੍ਰਿਅ = ਏਕੈ ਪ੍ਰਿਅ ਹੀ, ਸਿਰਫ਼ ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ (ਦਰਸਨ) ਹੀ। ਮਾਂਗੈ = ਮੰਗਦਾ ਹੈ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

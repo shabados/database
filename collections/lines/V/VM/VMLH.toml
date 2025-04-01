@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਗਲ (ਜੂਹ) ਵਿਚ ਸਾਰਾ ਦਿਨ ਭਟਕਦਿਆਂ ਭੀ ਪੇਟ ਨਹੀਂ ਰੱਜੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹੀਆ = ਵਿਚ। ਅਜਹੁ = ਫਿਰ ਭੀ। ਅਘਈ ਹੈ = ਰੱਜੇਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

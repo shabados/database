@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸ਼ੀਸ਼ਾ ਜਿਸ ਵਿਚ ਕੋਈ ਤ੍ਰੇੜ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਈਨਾ ਕਿ ਦਰ ਵੈਨ ਬਵਦ ਹੀਚ ਕਸੂਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

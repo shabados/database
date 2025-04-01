@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਕਿਰਤ-ਕਾਰ ਕਰਦਾ ਹੋਇਆ ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ ਅਛੋਹ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ = ਜੇਹੜਾ ਮਨੁੱਖ। ਮਰੈ = (ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ) ਅਛੋਹ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

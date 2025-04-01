@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਪ੍ਰਭੂ ਜਗਤ ਦਾ ਮੂਲ ਸਭ ਕੁਝ ਕਰਨ-ਜੋਗ ਹੈ, ਉਸ ਦਾ ਧਿਆਨ ਧਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

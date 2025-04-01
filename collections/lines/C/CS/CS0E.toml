@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਹਰ ਵੇਲੇ ਦੀ ਵਿਅਰਥ ਦੌੜ-ਭੱਜ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਕਾਰੁ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

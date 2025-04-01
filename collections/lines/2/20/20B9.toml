@@ -36,6 +36,12 @@ language = "pa"
 data = "ਈਮਾਨਦਾਰੀ ਨਾਲ ਖੱਟਣ ਕਰਕੇ ਇਹ ਰਤਨ ਹਾਸਲ ਕਰਨ ਵਿਚ ਮੈਨੂੰ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਸਹਾਰਨਾ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤ ਕੈ ਖਟਿਐ = ਈਮਾਨਦਾਰੀ ਨਾਲ ਕਮਾਇਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

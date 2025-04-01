@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਪ੍ਰਭੂ ਦੀ ਯਾਦ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਸਾਰੇ ਵਿਚਾਰ (ਜਿਹੜੇ ਵਿਚਾਰ ਪ੍ਰਭੂ ਦੀ ਯਾਦ ਭੁਲਾਂਦੇ ਹਨ, ਉਹ) ਛੱਡ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ। ਮਨਾ = ਹੇ ਮਨ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

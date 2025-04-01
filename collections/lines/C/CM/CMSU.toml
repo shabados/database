@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਪਾਰ ਕਿਰਪਾ ਨਾਲ ਇਸ ਮੁੱਠੀ ਭਰ ਮਿੱਟੀ ਨੂੰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਕਰਮ ਬਖ਼ਸ਼ੀਦ ਮੁਸ਼ਤਿ ਖ਼ਾਕ ਰਾ ।੪੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

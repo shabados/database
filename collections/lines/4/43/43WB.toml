@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰੇ ਭਗਤ ਤੇਰੀ ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਤੇਰਾ ਨਾਮ ਜਪਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨ = ਹੇ ਹਰੀ! ਤੇਰੇ ਭਗਤ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਤੋਰ = ਤੇਰੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

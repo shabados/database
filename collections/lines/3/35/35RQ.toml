@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! (ਇਹ ਜੋ ਤੇਰੇ) ਘਰ ਤੇ ਮਹਲ-ਮਾੜੀਆਂ (ਹਨ, ਇਹਨਾਂ ਦੇ) ਇਸ (ਸਿਲਸਿਲੇ) ਵਿਚ ਚਿੱਤ ਨਾਹ ਜੋੜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪ = ਮਹਲ। ਏਤੁ = ਇਸ ਵਿਚ, ਇਸ (ਮਹਲ-ਮਾੜੀਆਂ ਦੇ ਸਿਲਸਿਲੇ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

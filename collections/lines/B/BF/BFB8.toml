@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਤੁਸੀਂ ਭੀ ਉਸ ਦੇਸ ਵਿਚ ਅੱਪੜ ਕੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਹੀ ਵਿਚਾਰ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹ = ਉਸ ਸ਼ਿਵ-ਪੁਰੀ ਵਿਚ। ਤੁਮ੍ਹ੍ਹ = (ਹੇ ਜੋਗੀ!) ਤੁਸੀਂ ਭੀ। ਮਿਲਿ = ਮਿਲ ਕੇ, ਅੱਪੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

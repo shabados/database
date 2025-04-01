@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਅਕਾਲ ਪੁਰਖ ਗੁਣ-ਹੀਨ ਮਨੁੱਖ ਵਿੱਚ ਗੁਣ ਪੈਦਾ ਕਰ ਦੇਂਦਾ ਹੈ ਤੇ ਗੁਣੀ ਮਨੁੱਖਾਂ ਨੂੰ ਭੀ ਗੁਣ ਉਹੀ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣਿ = ਗੁਣ-ਹੀਨ ਮਨੁੱਖ ਵਿਚ। ਗੁਣਵੰਤਿਆ = ਗੁਣੀ ਮਨੁੱਖਾਂ ਨੂੰ। ਕਰੇ = ਪੈਦਾ ਕਰਦਾ ਹੈ। ਦੇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

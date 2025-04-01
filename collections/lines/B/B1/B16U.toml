@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਆਪਣਾ ਇਕ 'ਨਾਮ' ਦੇਹ, ਹੋਰ ਚੀਜ਼ਾਂ ਜ਼ਹਰ (ਵਰਗੀਆਂ) ਹਨ, ਇਹ ਮੈਨੂੰ ਚੰਗੀਆਂ ਨਹੀਂ ਲੱਗਦੀਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੁ ਚੀਜੁ = ਇੱਕ ਚੀਜ਼, ਆਪਣਾ ਨਾਮ। ਅਵਰ = ਹੋਰ। ਨ ਭਾਇਆ = ਚੰਗੀਆਂ ਨਹੀਂ ਲੱਗਦੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

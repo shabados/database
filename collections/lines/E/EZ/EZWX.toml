@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੂੰ ਆਪ ਹੀ (ਸਰਨ ਆਏ ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਉਤੇ ਆਪਣੇ ਪਿਆਰ ਦਾ) ਰੰਗ ਚਾੜ੍ਹਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਚੜਾਇ = ਚੜਾਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

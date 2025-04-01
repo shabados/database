@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾਹ! ਹੇ ਅਲੱਖ! ਹੇ ਅਪਾਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਹ = ਰੱਬ {ਪ੍ਰਭੂ ਦਾ ਮੁਸਲਮਾਨੀ ਨਾਮ}। ਅਲਖ = ਅਲੱਖ, ਜਿਸ ਦਾ ਸਹੀ ਸਰੂਪ ਬਿਆਨ ਨ ਹੋ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

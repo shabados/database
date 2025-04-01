@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਵੇਂ) ਸਮੁੰਦਰ ਦੇ ਕੰਢੇ ਉੱਤੇ ਉੱਗੇ ਹੋਏ ਰੁੱਖ ਦੀ (ਪਾਂਇਆਂ ਹੈ, ਤਿਵੇਂ ਇਹ ਸਰੀਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰਸਿ = ਤੇਰ੍ਹਵੀਂ ਥਿਤਿ। ਕਨਾਰੈ = ਕੰਢੇ ਤੇ। ਤਰਵਰ = ਰੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

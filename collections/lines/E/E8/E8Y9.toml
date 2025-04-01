@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਚਾਹੁਨ ਵਾਲਿਆਣ ਲਈ ਤਾਣ ਉਸਦਾ ਇਕ ਇਕ ਵਾਲ ਵੀ ਸੁਹਾਵਣਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਾਣ ਰਾ ਮੂਏ ਊ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

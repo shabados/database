@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਦੀ ਇੱਜ਼ਤ ਮਾਲਕ ਆਪ ਰੱਖੇ, (ਉਸ ਦੀ ਇੱਜ਼ਤ ਨੂੰ ਹੋਰ) ਕੋਈ ਨਹੀਂ ਮਿਟਾ ਸਕਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ = ਜਿਸ ਦੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

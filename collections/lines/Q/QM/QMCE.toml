@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਕਦੀ ਆਪਣੀ ਭਗਤੀ ਅਤੇ ਪਾਖੰਡ ਦੀ ਡੀਣਗ ਨਹੀ ਮਾਰਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਨਮੀ ਲਾਫ਼ੇਮ ਅਜ਼ ਜ਼ੁਹਦੋ ਰਿਆ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

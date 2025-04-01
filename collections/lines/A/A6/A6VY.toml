@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਉਦਾਰ ਚਿੱਤ ਵਾਲਾ ਹੈ, ਜੋ ਗਰੀਬੀ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ, ਅਤੇ ਜਿਸ ਨੂੰ ਵੇਖ ਕੇ ਪਾਪ ਤ੍ਰਹਿ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਾਰਉ ਚਿਤ = ਉਦਾਰ ਚਿੱਤ ਵਾਲਾ। ਦਾਰਿਦ ਹਰਨ = ਗਰੀਬੀ ਦੂਰ ਕਰਨ ਵਾਲਾ। ਪਿਖੰਤਿਹ = ਵੇਖਦਿਆਂ ਹੀ। ਕਲਮਲ = ਪਾਪ। ਤ੍ਰਸਨ = ਡਰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

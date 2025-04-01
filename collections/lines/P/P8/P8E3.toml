@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਉਸ ਦੀ ਉਮੀਦ ਫਲ ਆਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਉਮੀਦਸ਼ ਸੂਰਤਿ ਹਾਸਲ ਗ੍ਰਿਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

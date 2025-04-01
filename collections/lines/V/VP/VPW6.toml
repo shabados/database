@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਵਿਚ ਫਸ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪਤ = ਜ਼ੋਰ ਪਾ ਲੈਂਦੇ ਹਨ। ਅੰਧ = ਸੂਝ-ਹੀਣ, ਜਿਨ੍ਹਾਂ ਦੇ ਗਿਆਨ = ਨੇਤ੍ਰ ਬੰਦ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨਾ ਚਾਂਦੀ (ਇਕੱਠਾ ਕਰਨ) ਦਾ ਚਸਕਾ, ਇਸਤ੍ਰੀ (ਭਾਵ, ਕਾਮ) ਦਾ ਚਸਕਾ, ਸੁਗੰਧੀਆਂ ਦੀ ਲਗਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸੁ = ਚਸਕਾ। ਰੁਪਾ = ਚਾਂਦੀ। ਕਾਮਣਿ = ਇਸਤ੍ਰੀ। ਪਰਮਲ = ਸੁਗੰਧੀ। ਪਰਮਲ ਕੀ ਵਾਸ = ਸੁਗੰਧੀ ਸੁੰਘਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

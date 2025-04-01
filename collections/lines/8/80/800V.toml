@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਪੂਰੇ ਸਤਿਗੁਰੂ ਬੰਦਗੀ ਕਰਣ ਵਾਸਤੇ ਹੁਕਮ ਦਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲਿ ਮਾ ਬੰਦਗੀਅਤ ਫ਼ਰਮਾਇਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

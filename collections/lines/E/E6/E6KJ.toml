@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਉਸਦੇ ਬਚਨ ਸੁਣ ਕੇ ਪ੍ਰਸੰਨ-ਚਿਤ ਹੋਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਖ਼ੁਸ਼ ਬਾਸ਼ਦ ਜ਼ਿ ਗੁਫ਼ਤੋ ਗੂਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

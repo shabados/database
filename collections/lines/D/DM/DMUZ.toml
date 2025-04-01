@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾ ਦੇ ਬੰਦੇ! ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਇਕੋ ਖ਼ੁਦਾ ਨੂੰ ਵੱਸਦਾ ਜਾਣ-ਇਸ ਨੂੰ ਤੂੰ ਆਪਣਾ ਹਰ ਵੇਲੇ ਦਾ ਰੱਬੀ ਸਲਾਮ ਦਾ ਪਾਠ ਬਣਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੀ = ਸਾਰੀ (ਸ੍ਰਿਸ਼ਟੀ) ਵਿਚ। ਮਉਦੀਫਾ = ਵਜ਼ੀਫ਼ਾ, ਇਸਲਾਮੀ ਸਰਧਾ ਅਨੁਸਾਰ ਸਦਾ ਜਾਰੀ ਰੱਖਣ ਵਾਲਾ ਇਕ ਪਾਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

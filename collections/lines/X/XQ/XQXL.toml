@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਸੱਜਣਾਂ ਮਿੱਤਰਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ਜਿਨ੍ਹਾਂ ਉਤੇ ਮਾਇਆ ਦਾ ਪਰਦਾ ਨਹੀਂ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਅਵਰੀਤਾ = {अवृत} ਜਿਨ੍ਹਾਂ ਉਤੇ ਮਾਇਆ ਦਾ ਪਰਦਾ ਨਹੀਂ ਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

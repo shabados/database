@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਮੇਰਾ) ਇਹ ਸਰੀਰ ਤੇਰਾ (ਦਿੱਤਾ ਹੋਇਆ ਹੈ), (ਮੇਰਾ) ਇਹ ਮਨ ਤੇਰਾ (ਬਖ਼ਸ਼ਿਆ ਹੋਇਆ ਹੈ), ਸਾਰੇ ਗੁਣ ਭੀ ਤੇਰੇ ਹੀ ਬਖ਼ਸ਼ੇ ਮਿਲਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ ਗੁਣ = ਸਾਰੇ ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

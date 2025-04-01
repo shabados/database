@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ-ਜਨ ਦੇ ਦਰ ਤੇ ਖਲੋਤੀ (ਪੁਕਾਰਦੀ ਹੈ ਕਿ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢੀ = ਖਲੋਤੀ। ਦਰਬਾਰਿ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

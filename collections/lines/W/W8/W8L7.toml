@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਪ੍ਰਭੂ-ਪਾਲਣਹਾਰ ਇੱਕ ਹੈ, ਤੇ ਸਾਰੇ ਜੀਵ ਉਸ ਦੀਆਂ ਨਾਰੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਾਈ = ਸਾਰੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

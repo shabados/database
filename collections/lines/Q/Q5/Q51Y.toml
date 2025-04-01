@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਅਕਾਲ ਪੁਰਖ # ਇਸ ਬਹਾਰ ਤੋਂ ਭੈੜੀ ਨਜ਼ਰ ਨੂੰ ਦੂਰ ਰੱਖ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾ ਇਲਾਹੀ ਦੂਰ ਦਾਰ ਅਜ਼ ਂਚਸ਼ਮਿ ਬਦ ।੪੮੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

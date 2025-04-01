@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਨ ਸੰਤ ਤੈਨੂੰ ਵੀ ਪੂਰਨ ਸੰਤ ਬਣਾ ਦਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਿ ਕਾਮਿਲ ਤੁਰਾ ਕਾਮਿਲ ਕੁਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

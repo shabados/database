@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਆਸਾ (ਤ੍ਰਿਸ਼ਨਾ) ਮੁੱਕ ਜਾਂਦੀ ਹੈ, ਉਹ ਭਟਕਣਾ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੂਕੈ = ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

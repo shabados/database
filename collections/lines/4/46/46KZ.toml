@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦੇ ਨੂੰ ਬੰਦਗੀ ਨਾਲ ਹੀ ਉਸ ਦਾ ਪਤਾ ਚਲਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਰਾ ਅਜ਼ ਬੰਦਗੀ ਬਾਸ਼ਦ ਖ਼ਬਰ ।੨੨੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

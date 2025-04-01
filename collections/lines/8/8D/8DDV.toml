@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕੱਠ ਸੁਭਾਗਾ ਹੈ ਜੋ ਮਨ ਦੀਆਣ ਬਲਾਵਾਣ ਦੂਰ ਕਰੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਹਜੂਮਿ ਖ਼ੁਸ਼ ਕਿ ਅਜ਼ ਦਫ਼ਾਇ ਬਲਾ-ਸਤ ।੨੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

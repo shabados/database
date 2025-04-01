@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਮੇਰਾ ਮਿੱਤਰ ਹੈ, ਮੈਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਆਸਰਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਬਾਣੁ = ਆਸਰਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

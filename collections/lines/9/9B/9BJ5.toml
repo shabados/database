@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ ਜਨਾਂ ਦੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਆਸਰਾ ਹੈ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਤਾਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰ = ਆਸਰਾ। ਤਿਸ ਕੀ = {ਸੰਬੰਧਕ 'ਕੀ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਮਨਿ = ਮਨ ਵਿਚ। ਜੋਰੁ = ਬਲ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

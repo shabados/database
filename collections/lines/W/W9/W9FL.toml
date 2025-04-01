@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਮੇਰੇ ਗ਼ਾਫ਼ਿਲ ਮੂਰਖ ਮਨ! ਚੇਤੇ ਰੱਖ, ਅਖ਼ੀਰ ਵੇਲੇ ਕੋਈ ਭੀ ਸ਼ੈ ਤੇਰੀ ਨਹੀਂ ਬਣੀ ਰਹੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੇਤ ਮੂੜ ਮਨ = ਹੇ ਗ਼ਾਫ਼ਿਲ ਮੂਰਖ ਮਨ! ਚੇਤਿ = ਚੇਤੇ ਰੱਖ। ਅੰਤਿ = ਆਖ਼ਿਰ ਸਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

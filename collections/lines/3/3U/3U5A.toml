@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਦੇ ਭਾਰ ਨਾਲ ਹੀ ਅਸਮਾਨ ਦੀ ਪਿੱਠ ਝੁਕ ਗਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਮ ਸ਼ੁਦਾ ਪੁਸ਼ਤਿ ਫ਼ਲਕ ਅਜ਼ ਬਾਰਿ ਇਸ਼ਕ ।੫੦।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

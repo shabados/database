@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਸਾਰੇ ਸਾਧੂ ਜਨਾਂ ਦੀ ਸਿੱਖਿਆ ਸੁਣਿਆ ਕਰ, (ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਤੇਰੇ ਸਾਰੇ ਪਾਪ ਮਿਟ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸੀਖ = ਸਿੱਖਿਆ। ਸਾਧੂ ਜਨ = ਗੁਰਮੁਖਿ ਸਤਸੰਗੀ। ਸਗਲੋ = ਸਾਰੇ। ਥਾਰੇ = ਤੇਰੇ। ਪ੍ਰਾਛਤ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

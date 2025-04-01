@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਿਸ (ਮਨੁੱਖ) ਨੂੰ ਧੀਰਜ ਬਖ਼ਸ਼ਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਲੂੰ-ਲੂੰ ਖ਼ੁਸ਼ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ ਨਿਹਾਲੁ = ਪੂਰਨ ਤੌਰ ਤੇ ਪ੍ਰਸੰਨ ਹੋ ਜਾਂਦਾ ਹੈ। ਦੇਇ = ਦੇਂਦਾ ਹੈ। ਧੀਰ = ਧੀਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

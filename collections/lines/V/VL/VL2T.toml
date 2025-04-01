@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਹਿਫਲ ਵਿਚ ਉਹ ਮੋਤੀ ਵਰਸਾਉਣ ਵਾਲਾ ਬੱਦਲ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਬਜ਼ਮ ਅੰਦਰੂੰ ਅਬਰਿ ਗਹੁਰ ਫ਼ਿਸ਼ਾਂ ।੧੨੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਜਪਣ ਦੀ) ਸ੍ਰੇਸ਼ਟ ਕਰਣੀ ਦੇ ਕੇ ਆਪ ਹੀ (ਜੀਵ ਨੂੰ ਆਪਣੇ ਨਾਲ) ਮਿਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੀ = ਸ੍ਰੇਸ਼ਟ। ਕਰਣੀ = ਕਰਨ-ਯੋਗ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

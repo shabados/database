@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਚਿੰਤਾ-ਰਹਿਤ ਪਰਮਾਤਮਾ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਿੰਤੁ = ਚਿੰਤਾ-ਰਹਿਤ ਪ੍ਰਭੂ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

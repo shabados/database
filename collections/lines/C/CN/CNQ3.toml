@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉਤੇ) ਕਿਰਪਾ ਕਰ ਤੇ (ਮੈਨੂੰ) ਮਿਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

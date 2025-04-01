@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਗੁਣ-ਹੀਣ ਹਾਂ, ਮੇਰੇ ਵਿਚ ਕੋਈ ਗੁਣ ਨਹੀਂ (ਜਿਸ ਦੇ ਆਸਰੇ ਮੈਂ ਤੈਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨ ਦੀ ਆਸ ਕਰ ਸਕਾਂ, ਪਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਨ = ਗੁਣ-ਹੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

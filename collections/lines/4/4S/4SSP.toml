@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਵੇਖ ਮੂਰਖ ਦੀ ਹਠ ਦੀ ਗੱਲ! ਇਹ ਆਪਣੇ ਆਪ ਨੂੰ) ਤਿਆਗੀ ਅਖਵਾਂਦਾ ਹੈ ਪਰ ਮਾਇਆ (ਦੀ ਲਾਲਸਾ) ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤੀਤੁ = ਵਿਰਕਤ, ਤਿਆਗੀ। ਸਦਾਏ = ਅਖਵਾਂਦਾ ਹੈ। ਮਾਤਾ = ਮੱਤਾ ਹੋਇਆ, ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

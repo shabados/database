@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮੂੰਹ ਉੱਜਲੇ ਹੁੰਦੇ ਹਨ, ਜੋ ਸਦਾ ਸੁਚੇਤ ਰਹਿ ਕੇ ਨਾਮ ਚੇਤੇ ਰੱਖਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਠਿ = ਉੱਠ ਕੇ, ਸੁਚੇਤ ਹੋ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

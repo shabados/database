@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੈਂ (ਤੇਰੇ ਗੁਣਾਂ ਦੀ) ਕਦਰ ਨਹੀਂ ਜਾਣਦੀ, ਤੂੰ ਵੱਡਾ ਸਿਆਣਾ ਹੈਂ (ਸਭ ਕੁਝ ਜਾਣਨ ਵਾਲਾ ਹੈਂ), (ਮੇਰੇ ਉੱਤੇ) ਮਿਹਰ ਕਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਕਦਰ। ਦਾਣਾ = ਸਿਆਣਾ। ਮਿਹਰੰਮਤਿ = ਮਿਹਰ। ਸਾਂਈ = ਹੇ ਸਾਈਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

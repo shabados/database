@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਵੱਡਾ ਪਾਤਿਸ਼ਾਹ ਹੈ, ਆਪ ਹੀ ਆਪਣਾ ਸਲਾਹਕਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਜੀਰਟਿਆ = ਵਜ਼ੀਰ, ਸਲਾਹ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

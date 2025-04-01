@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਨੇ ਤੇਰੇ ਪਾਸੋਂ ਹੀ ਆਪਣੇ ਭਲੇ ਦੀ ਮੰਗ ਮੰਗਣੀ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਕਾਹੂ = ਹਰ ਕਿਸੇ ਨੇ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

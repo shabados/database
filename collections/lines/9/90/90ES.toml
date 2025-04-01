@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਇਕ ਦਮ ਦੀ ਅਣਗਹਿਲੀ ਇੱਕ ਵੱਡੀ ਮੌਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦਮੇ ਗ਼ਫਲਤ ਬਵਦ ਮਰਗਿ ਅਜ਼ੀਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

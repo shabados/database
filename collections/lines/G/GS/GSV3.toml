@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਹ ਵੱਡੇ ਵੱਡੇ ਤਪੀਆਂ ਤੇ ਜੋਗੀਆਂ ਵਾਂਗ (ਹਰੇਕ) ਤੀਰਥ ਉਤੇ ਜਾਂਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਚਰੇ = ਵਿਚਾਰ ਸਕੇ। ਤੀਰਥਿ = ਤੀਰਥ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

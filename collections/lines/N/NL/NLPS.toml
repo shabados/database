@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਪ੍ਰਾਣੀ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੂ ਸੰਗੁ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

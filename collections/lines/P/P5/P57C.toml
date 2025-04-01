@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਨਾਮ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਮਿਲੇਇ = ਜੁੜ ਗਏ ਹਨ, ਲੀਨ ਹੋ ਗਏ ਹਨ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

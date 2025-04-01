@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਹਿਰਦਾ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਣ ਵਾਸਤੇ ਖ਼ੁਸ਼ੀ ਨਾਲ ਨੱਚ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਮਕਿਓ = ਖ਼ੁਸ਼ੀ ਨਾਲ ਉਛਲ ਪਿਆ ਹੈ। ਹੀਉ = ਹਿਰਦਾ। ਤਾਈ = ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

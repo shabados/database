@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਏ ਰਹੀਏ, ਤਾਂ (ਅੰਦਰੋਂ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਾਲੀ ਖੋਟੀ ਮਤਿ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ ਸੇਵਿਐ = ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ। ਦੁਰਮਤਿ = ਖੋਟੀ ਅਕਲ। ਜਾਈ = ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

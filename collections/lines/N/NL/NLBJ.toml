@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਮ ਮੂੰਹ ਵਿਚ ਆਇਆਣ ਕਿੰਨਾ ਸੁਆਦ ਦਿੰਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਊ ਅੰਦਰ ਦਹਾਣ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੪।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

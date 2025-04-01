@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸ੍ਰੇਸ਼ਟ ਸੂਝ ਉੱਘੜ ਪਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

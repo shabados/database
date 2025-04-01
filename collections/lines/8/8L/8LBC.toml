@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ ਭੀ) ਮਾਇਆ ਦੀ ਮਸਤੀ ਵਿਚ ਆਨੰਦ ਮੌਜਾਂ ਮਾਣ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਰੰਗ ਵਿਚ, ਮਸਤੀ ਵਿਚ। ਕੇਲ = ਚੋਜ-ਖੇਡਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

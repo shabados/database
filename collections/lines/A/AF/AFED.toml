@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਡੇ ਦਿਲ ਦਾ ਭਰਮ ਦੂਰ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਕਿ ਦੀਦਾ ਯਕ ਨਿਗਾਹ ਆਣ ਚਸ਼ਮਿ ਸ਼ੋਖ ।੧੮।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭੈਣੋ!) ਮੇਰੇ ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਵਾਸਤੇ ਪਿਆਰ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ ਪਰਮਾਤਮਾ ਵਾਸਤੇ ਬੜੀ ਲਗਨ ਪੈਦਾ ਹੋ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਮੈ ਤਨਿ = ਮੇਰੇ ਤਨ ਵਿਚ। ਬੈਰਾਗੁ = ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

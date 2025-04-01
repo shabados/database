@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਚੰਗਾ ਹੈ, ਉਸ ਦਾ ਕੰਮ ਭੀ ਚੰਗਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੂਤਿ = ਕੰਮ। ਨੀਕੀ = ਚੰਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

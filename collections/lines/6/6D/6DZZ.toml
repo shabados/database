@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੇ ਜਸ ਦੀ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਬਾਣੀ ਹੋਰ ਸਭ ਬਾਣੀਆਂ ਨਾਲੋਂ ਸੁੰਦਰ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ = ਅਮਰ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

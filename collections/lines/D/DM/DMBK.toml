@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਮਿਹਰ ਕਰ, ਮੇਰੀਆਂ ਅੱਖਾਂ ਤੇਰਾ ਦਰਸਨ ਕਰਦੀਆਂ ਰਹਿਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਦੇਖਹਿ = ਵੇਖਦੇ ਰਹਿਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

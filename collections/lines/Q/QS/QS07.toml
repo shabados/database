@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਰੱਬ ਵਲੋਂ ਫਿਟਕਾਰਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸੁਰਿ = ਰੱਬ ਵਲੋਂ। ਮਾਰਾ = ਫਿਟਕਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹਰ ਵੇਲੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਉਚਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੋ ਸਚੁ = ਸਦਾ-ਥਿਰ ਨਾਮ ਹੀ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਮੈਂ ਦਾਸ ਨੇ ਉਸ ਇੱਕ ਪ੍ਰਭੂ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ (ਪ੍ਰਭੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਿ = ਜਨ ਨੇ, ਦਾਸ ਨੇ। ਕਹੁ = ਆਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

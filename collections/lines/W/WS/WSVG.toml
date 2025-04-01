@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਅ ਜੰਤ ਤੈਥੋਂ ਪੈਦਾ ਹੁੰਦੇ ਹਨ ਤੇ ਤੇਰੇ ਵਿਚ ਹੀ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

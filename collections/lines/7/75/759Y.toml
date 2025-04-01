@@ -5,6 +5,11 @@ language = "pa"
 data = "ਏਹੀ ਤਾਣ ਬਸ ਇੱਕੋ ਦਰਦ ਇਸ ਕੁੱਠੇ ਦਿਲ ਦਾ ਇਲਾਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਇਲਾਜਿ ਦਰਦਿ ਹਰਮਾਨਸਤੋ ਬਸ ।੩੯।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

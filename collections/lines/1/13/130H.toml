@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮਨ ਨੂੰ, ਹੇ ਹਰੀ! ਤੇਰਾ ਪਿਆਰ ਮਿੱਠਾ ਲੱਗਦਾ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਸਟ = ਮਿੱਠਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

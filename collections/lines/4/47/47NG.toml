@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ) ਸੇਵਕਾਂ ਪਾਸੋਂ ਮੈਂ ਇਹ ਸਿੱਖਿਆ ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਖਿਆ = ਸਿੱਖਿਆ। ਜਨ ਸਿਉ = (ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ) ਜਨਾਂ ਪਾਸੋਂ। ਮੰਗਾ = ਮੰਗਾਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

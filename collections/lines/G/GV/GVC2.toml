@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੰਗਤਾ ਤੇਰੇ ਬੂਹੇ ਤੇ (ਆ ਕੇ) ਖ਼ੈਰ ਮੰਗਦਾ ਹਾਂ, ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਖ਼ੈਰ ਪਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਪ੍ਰਭੂ ਦੇ ਬੂਹੇ ਤੇ। ਜਾਚੈ = ਮੰਗਦਾ ਹੈ। ਹਰਿ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

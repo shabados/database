@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ, ਸਾਰੇ ਸੁਖ ਪ੍ਰਾਪਤ ਕਰੇਂਗਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਹਿ = ਤੂੰ ਪ੍ਰਾਪਤ ਕਰੇਂਗਾ। ਤਿਸ ਕੇ = {ਸਬੰਧਕ 'ਕੇ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਗਾਉ = ਗਾਇਆ ਕਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

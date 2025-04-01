@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰ ਥਾਂ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ ਵੱਸਦਾ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ = ਇਕ (ਪਰਮਾਤਮਾ) ਹੀ। ਰੇ = ਹੇ ਭਾਈ! ਜਾਨ = ਸਮਝ, ਨਿਸ਼ਚਾ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

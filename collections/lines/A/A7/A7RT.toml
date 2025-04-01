@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ (ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੇ) ਸ਼ਬਦ ਵਿਚ ਰੰਗੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਾਏ = ਰੰਗ ਚਾੜ੍ਹਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

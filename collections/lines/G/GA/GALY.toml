@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜੀਵਾਤਮਾ ਦੇ ਤੁਰ ਜਾਣ ਤੇ ਹੁਣ) ਮੈਂ ਕਾਂਇਆਂ ਬਹੁਤ ਦੁਖੀ ਹੋਈ ਹਾਂ। ਹੇ ਨਾਨਕ! ਮੇਰੀ ਹੁਣ ਕੋਈ ਵਾਤ ਨਹੀਂ ਪੁੱਛਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਰੀ ਦੁਹੇਲੀ = ਬਹੁਤ ਦੁਖੀ। ਬਾਬਾ = ਹੇ ਬਾਬਾ! ਬਾਤ = ਵਾਤ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

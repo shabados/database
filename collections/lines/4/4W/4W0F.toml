@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਭੁਲਾ ਕੇ ਮਨੁੱਖ) ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ ਬਹੁਤ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ (ਫਸ ਕੇ)। ਭਰਮਿਆ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

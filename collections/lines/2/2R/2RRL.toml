@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾ ਸਕਣ ਵਾਲਾ ਜਹਾਜ਼ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥੁ = ਜਹਾਜ਼। ਭਵਜਲ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਤਾਰਣਹਾਰੁ = ਪਾਰ ਲੰਘਾ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ) ਭਗਤ ਭੀ ਅਜੇਹਾ ਹੀ ਹੁੰਦਾ ਹੈ, ਭਾਵੇਂ ਉਹ ਕਿਸੇ ਹੀ ਜਾਤਿ ਵਿਚ (ਜੰਮਿਆ) ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨ ਮਹਿ = (ਭਾਵੇਂ ਕਿਸੇ ਹੀ) ਜਾਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

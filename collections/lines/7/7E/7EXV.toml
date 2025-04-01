@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇਣ ਵਾਲੇ ਹਰੀ! ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਕਰ, (ਤਾ ਕਿ ਕੋਈ ਗੁਰਮੁਖ ਮਨੁੱਖ ਮੈਨੂੰ ਤੇਰੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨੀਂ ਲਾ ਦੇਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗ ਜੀਵਨ = ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ! ਦਾਤੇ = ਹੇ ਦਾਤਾਰ! ਸੰਤ ਪਗੀ = ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗਿਆ ਰਹੁ, ਸਦਾ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਰੰਗ ਵਿਚ। ਰਾਤੇ = ਰੰਗੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

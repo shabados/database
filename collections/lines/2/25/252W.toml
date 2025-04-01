@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਵਿਆਪਕ ਪ੍ਰਭੂ ਦੇ ਪ੍ਰਤਾਪ ਦਾ ਭੇਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ, ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਜੋ ਬਿਆਨ ਨ ਹੋ ਸਕੇ। ਅਭੇਵ = ਜਿਸ ਦਾ ਭੇਤ ਨ ਪਾਇਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

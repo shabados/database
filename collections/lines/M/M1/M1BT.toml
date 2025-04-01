@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਕੁਰਾਹੇ ਪਾਂਦਾ ਹੈ ਆਪ ਹੀ ਸਹੀ ਰਸਤੇ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗਿ = ਰਸਤੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

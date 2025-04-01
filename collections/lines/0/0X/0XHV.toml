@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਪ੍ਰਭੂ ਆਪ ਤ੍ਰੁਠਦਾ ਹੈ, ਉਹ ਹੈ ਅਸਲੀ ਵੈਸ਼ਨੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸਨੋ = (Skt. वैष्णव) ਵਿਸ਼ਨੂ ਦਾ ਪੁਜਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

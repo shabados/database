@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ, ਇਸ ਹਾਲਤ ਨੂੰ) ਦਇਆਲ ਪ੍ਰਭੂ (ਆਪ) ਜਾਣਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਤੇ = ਜਾਣਦਾ ਹੈ। ਦਇਆਰ = ਦਇਆਲ ਪ੍ਰਭੂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

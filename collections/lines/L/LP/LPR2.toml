@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਨਿਰੰਕਾਰ ਸਦਾ ਆਪ ਹੀ ਆਪ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਕਾਰੁ = ਨਿਰ-ਆਕਾਰ, ਜਿਸ ਦਾ ਕੋਈ ਖ਼ਾਸ ਸਰੂਪ ਨਹੀਂ ਦੱਸਿਆ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

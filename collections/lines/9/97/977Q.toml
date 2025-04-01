@@ -5,6 +5,13 @@ language = "pa"
 data = "ਹਮ ਅਜ਼ ਫ਼ੁਕਰੋ ਹਮ ਸਲਤਨਤ ਨਾਮਵਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਅਜ਼ ਫ਼ੁਕਰੋ ਹਮ ਸਲਤਨਤ ਨਾਮਵਰ ।"
+page = 6
+line = 84
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

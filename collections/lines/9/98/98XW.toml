@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਨੂੰ ਵਿਕਾਰਾਂ ਵਿਚ) ਡਿੱਗੇ ਜੀਵਾਂ ਨੂੰ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਾ ਲੈ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਤ = ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਏ। ਉਧਾਰਿ ਲੇਹੁ = ਬਚਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

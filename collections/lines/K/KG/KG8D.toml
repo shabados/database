@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਥੇ ਸਦਾ ਸੁਖ ਹੀ ਸੁਖ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੈਰਿ = ਖ਼ੈਰੀਅਤ, ਸੁਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

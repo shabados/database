@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਅਮਰ ਦਾਸ ਉਸ ਮਹਾਨ ਘਰਾਣੇ ਵਿੱਚੋਂ ਸਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਅਮਰਦਾਸ ਆਂ ਗਰਾਮੀ ਨਜ਼ਾਦ ।"
+page = 3
+line = 64
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

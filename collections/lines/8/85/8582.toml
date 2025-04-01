@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਹਾਨ ਦੇ ਅਨ੍ਹੇਰੇ ਨੂੰ ਸਾਫ ਅਤੇ ਪਾਕ ਕਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਜ਼ੁਲਮਤ ਜਹਾਂ ਜੁਮਲਾ ਪਰਦਾਖਤਾ ।੯੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

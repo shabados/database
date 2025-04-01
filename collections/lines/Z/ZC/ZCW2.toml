@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਿੱਥੇ ਭੀ ਵੱਸਦਾ ਹੈ ਹਰ ਥਾਂ (ਵਿਕਾਰਾਂ ਦੀ) ਰੁਕਾਵਟ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ = ਹੋ ਕੇ। ਸਭ ਥਾਂਈ = ਹਰ ਥਾਂ (ਜਿੱਥੇ ਭੀ ਉਹ ਰਹਿੰਦਾ ਹੈ)। ਵੂਠੇ = ਵੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

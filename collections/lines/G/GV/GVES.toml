@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਜੰਗਲ ਦਾ ਉਹ ਟੋਟਾ, ਉਹ ਬਿੰਦ੍ਰਾਬਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਖੰਡ = ਜੰਗਲ ਦਾ ਹਿੱਸਾ, ਬਨ ਦਾ ਖੰਡ। ਬਿੰਦ੍ਰਾਬਨ = {Skt. वृन्दावन} ਤੁਲਸੀ ਦਾ ਜੰਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁਰਾਣ ਆਦਿਕ ਧਰਮ ਪੁਸਤਕਾਂ ਸੁਣ ਕੇ ਤੂੰ ਖੱਟਿਆ ਤਾਂ ਕੁਝ ਭੀ ਨਹੀਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰ = ਹੇ ਮਨੁੱਖ! ਤੈ ਕਿਆ ਕੀਨਾ = ਤੂੰ ਕੀਹ ਕੀਤਾ? ਤੂੰ ਕੀਹ ਖੱਟਿਆ? ਸੁਨਿ = ਸੁਣ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

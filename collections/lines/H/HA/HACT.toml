@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਦ ਰੱਬ ਆਪ ਉਸ ਦੀ ਉਸਤਤਿ ਕਰਦਾ ਹੈ, ਤਾਂ ਮੈਂ ਕੀ ਸਿਫਤ ਕਰਾਂ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਚੂ ਖ਼ੁੱਦ ਵਾਸਿਫ਼ਸ਼ ਚਿਗੋਇਮ ਮਨ ।"
+page = 1
+line = 16
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

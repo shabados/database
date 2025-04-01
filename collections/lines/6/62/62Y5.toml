@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਮਨਿ = ਮਨ ਵਿਚ। ਵਸਾਈ = ਵਸਾਈਂ, ਮੈਂ ਵਸਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

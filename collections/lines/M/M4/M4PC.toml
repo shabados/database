@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਹਾੜ, ਰੁੱਖ, ਧਰਤੀ, ਆਕਾਸ਼ ਅਤੇ ਤਾਰੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਿ = ਪਹਾੜ। ਤਰ = ਰੁੱਖ। ਧਰਣਿ = ਧਰਤੀ। ਗਗਨ = ਆਕਾਸ਼। ਅਰੁ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਭਲੇ ਬਚਨ ਹੀ ਸੁਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭ = ਚੰਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

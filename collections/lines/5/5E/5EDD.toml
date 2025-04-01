@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਨਾਲ ਅੱਠੇ ਪਹਰ ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ। ਰੰਗਿ = ਪ੍ਰੇਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

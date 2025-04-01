@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਸਤਿਕਾਰ-ਹੀਨ ਰੱਬ ਦੀ ਮਿਹਰ ਤੋਂ ਵਾਂਝਾ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਅਦਬ ਖ਼ਾਲੀ-ਸਤ ਅਜ਼ ਅਲਤਾਫ਼ਿ ਰੱਬ ।੩੧੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

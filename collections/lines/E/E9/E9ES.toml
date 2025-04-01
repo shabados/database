@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਦੋਂ ਜਮ ਨੇ ਆ ਕੇ ਕੇਸਾਂ ਤੋਂ ਫੜ ਕੇ ਤੈਨੂੰ ਭੁੰਞੇ ਪਟਕਾਇਆ, ਤਦੋਂ ਤੇਰੀ (ਉਸ ਅੱਗੇ) ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਿ = ਫੜ ਕੇ। ਨ ਬਸਾਹਿਗਾ = ਪੇਸ਼ ਨਹੀਂ ਜਾਇਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

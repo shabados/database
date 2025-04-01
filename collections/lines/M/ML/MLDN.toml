@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਦਾ (ਖਸਮ) ਹੈਂ। ਹਰੇਕ ਜੀਵ ਤੇਰਾ (ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿਲ ਸੱਜਨ ਦੇ ਚਰਨਾਣ ਦੀ ਧੂੜ ਹੋ ਜਾਵੇ ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕਿ ਪਾਇ ਦੋਸਤੀਏ ਦਿਲ ਬੁਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

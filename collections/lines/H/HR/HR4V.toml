@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਿਆਸੇ ਨੂੰ ਪਾਣੀ ਨਾਲ ਗ਼ਰਜ਼ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਖਾਵੰਤ = ਤਿਹਾਇਆ, ਪਿਆਸਾ। ਸੇਤੀ = ਨਾਲ। ਕਾਜ = ਲੋੜ, ਗ਼ਰਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

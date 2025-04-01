@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ (ਜਗਤ ਵਿਚ) ਭਰਾ ਮਿੱਤਰ ਦੋਸਤ (ਆਦਿਕ) ਬਣਾਂਦਾ ਹੈ, ਤੇ (ਇਹ) ਮਾਇਆ ਦਾ ਝਗੜਾ ਖੜਾ ਕਰੀ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਦਿ = {सुहृद} ਮਿੱਤਰ। ਬਿਖਿਆ = ਮਾਇਆ। ਬਾਦੁ = ਝਗੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

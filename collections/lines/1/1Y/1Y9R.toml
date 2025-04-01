@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ (ਕਾਮਾਦਿਕ) ਵੈਰੀ ਮੈਨੂੰ ਬਹੁਤ ਸਤਾਇਆ ਕਰਦੇ ਸਨ, ਉਹ ਹੁਣ (ਮੇਰੇ ਨੇੜੇ ਢੁਕਣੋਂ) ਡਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਇ ਦੂਤ = ਜੇਹੜੇ ਵੈਰੀ। ਮੋਹਿ = ਮੈਨੂੰ। ਤੇ = {ਬਹੁ-ਵਚਨ} ਉਹ। ਭਇਆਨਕ = ਭੈ-ਭੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

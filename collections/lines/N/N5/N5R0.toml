@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ, ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਗੁ = ਵੱਖਰਾ। ਨਿਰਬਾਨੁ = ਵਾਸਨਾ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

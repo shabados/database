@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਪੱਥਰ ਪਾਣੀ ਵਿਚ ਰੱਖਿਆ ਹੋਇਆ ਹੋਵੇ, ਉਸ ਨੂੰ ਪਾਣੀ ਵਿੰਨ੍ਹ ਨਹੀਂ ਸਕਦਾ। (ਪਾਣੀ ਉਸ ਉਤੇ ਅਸਰ ਨਹੀਂ ਕਰ ਸਕਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਨੁ = ਪੱਥਰ। ਮਹਿ = ਵਿਚ। ਭੇਦੈ = ਵਿੰਨ੍ਹਦਾ। ਤਿਹ = ਉਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

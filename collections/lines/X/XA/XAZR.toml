@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਜਿਸ ਕਾਰਣ ਦਿਲ ਹਮੇਸ਼ਾ ਦਿਲਦਾਰ ਵਲ ਦੌੜਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਣ ਦਿਲ ਹਮੇਸ਼ਾ ਜਾਨਬਿ ਦਿਲਦਾਰ ਮੀ-ਰਵਦ ।੨੮।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

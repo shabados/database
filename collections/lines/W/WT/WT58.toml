@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। ਕੋਈ ਨਹੀਂ ਦੱਸ ਸਕਦਾ ਕਿ ਤੂੰ ਕਦੋਂ ਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਵਡਿਆਈ। ਕਉਣੁ ਕਹੈ = ਕੌਣ ਦੱਸ ਸਕਦਾ ਹੈ? ਕੋਈ ਨਹੀਂ ਦੱਸ ਸਕਦਾ। ਕਦ ਕਾ = ਕਦੋਂ ਦਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਜਪਾਂ ਤਪਾਂ ਦੇ ਆਸਰੇ ਛੱਡ ਕੇ) ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮੇਰੀ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਬੇੜੀ ਕੱਟ ਦੇ, ਮੈਨੂੰ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਬੇਰੀ = ਬੇੜੀ। ਤਾਰੀਐ = ਪਾਰ ਲੰਘਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

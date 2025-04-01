@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪਣੇ ਸੇਵਕ ਦਾ ਇਹ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਸੋਹਣਾ ਬਣਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤੁ = {अत्र} ਇਹ ਲੋਕ। ਪਲਤੁ = {परत्र} ਪਰਲੋਕ। ਸਵਾਰੈ = ਸੰਵਾਰ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

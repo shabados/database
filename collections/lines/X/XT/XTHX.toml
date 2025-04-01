@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਤੇਰੇ ਬਰਾਬਰ ਦਾ ਦੂਜਾ ਕੋਈ ਹੈ ਹੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = ਹੋਰ। ਬੀਆ = ਦੂਜਾ। ਸਮਸਰਿ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

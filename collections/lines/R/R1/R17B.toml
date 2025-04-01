@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਦਿੱਤੀਆਂ ਦਾਤਾਂ ਤਾਂ ਕਦੇ ਮੁੱਕਣ ਵਾਲੀਆਂ ਹੀ ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ...ਬਾਰ = ਉਸ ਨੇ ਸਭ ਕੁਝ ਇਕੋ ਵਾਰੀ ਦੇ ਦਿੱਤਾ ਹੋਇਆ ਹੈ, ਉਸ ਦੀਆਂ ਦਿੱਤੀਆਂ ਦਾਤਾਂ ਕਦੇ ਮੁੱਕਣ ਵਾਲੀਆਂ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

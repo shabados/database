@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਇਸ ਤੋਂ ਭੀ ਵਧੀਕ ਪ੍ਰਤਾਪ ਹੋਇਆ ਤਾਂ ਸੌ ਪਿੰਡਾਂ ਦੀ ਮਾਲਕੀ ਹੋ ਗਈ ਜਾਂ (ਲੱਖ) ਦੋ ਲੱਖ ਟਕੇ ਦੀ ਜਾਗੀਰ ਮਿਲ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਂਉ = ਪਿੰਡ। ਬਰਾਤ = ਜਗੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

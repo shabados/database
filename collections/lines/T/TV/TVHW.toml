@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਪ੍ਰਭੂ ਬੜੇ ਗੂੜ੍ਹੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਾਲਾ ਹੈ ਬੜਾ ਸੋਹਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਂਗਿ = ਰੰਗ ਵਾਲਾ। ਰਾਂਗਿ ਘਣੌ = ਗੂੜ੍ਹੇ ਰੰਗ ਵਾਲਾ। ਰੂੜੌ = ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

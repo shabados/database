@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਉਹ ਸਤਿਗੁਰੂ ਜਿਸ ਨੇ (ਅਸਾਡਾ) ਭਰਮ ਦਾ ਕਿਲ੍ਹਾ ਤੋੜ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਗੁਰੂ) ਨੇ। ਭਰਮ ਗੜੁ = ਭਰਮ ਦਾ ਕਿਲ੍ਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

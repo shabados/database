@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੇ ਗੁਣ ਮੇਰੇ ਚਿੱਤ ਵਿਚ ਵੱਸੇ ਰਹਿਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਹਿ = ਵੱਸਦੇ ਰਹਿਣ। ਮੇਰੈ ਚੀਤਿ = ਮੇਰੇ ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

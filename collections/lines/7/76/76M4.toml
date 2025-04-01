@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਰਹਿੰਦਾ ਹੈ, ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਉਹ ਹਰਿ-ਨਾਮ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = {अनुदिनां} ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਸਹਜੇ = ਸਹਜਿ, ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

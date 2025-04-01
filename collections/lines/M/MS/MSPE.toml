@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖ-ਸਾਗਰ! ਤੂੰ ਆਪਣੇ ਸੇਵਕ ਨੂੰ ਆਪਣਾ ਪੱਲਾ ਆਪ ਫੜਾਇਆ ਹੈ, (ਤੇਰੇ ਸੇਵਕ ਦਾ) ਮਨ (ਤੇਰੇ) ਪਿਆਰ ਦੀ ਖ਼ੁਮਾਰੀ ਵਿਚ ਵਿੱਝ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਚਲਾ = ਪੱਲਾ। ਗਹਾਇਓ = ਫੜਾਇਆ ਹੈ। ਕਉ = ਨੂੰ। ਬੀਧੋ = ਵਿੱਝ ਗਿਆ ਹੈ। ਖੋਰੀ = ਖ਼ੁਮਾਰੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

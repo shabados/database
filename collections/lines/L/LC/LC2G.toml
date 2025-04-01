@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਮਨ! ਈਰਖਾ ਤੇ ਝਗੜਾ ਕਿਉਂ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿਰਖ = ਹਿਰਖ, ਈਰਖਾ, ਗਿਲਾ। ਵਾਦੁ = ਝਗੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

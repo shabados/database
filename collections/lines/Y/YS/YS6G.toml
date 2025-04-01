@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਵਿਚੋਂ ਕਾਲਖ਼ ਕੱਟ ਦੇਣੀ ਨੀਲੇ ਰੰਗ ਦੀ ਪੁਸ਼ਾਕ ਜਾਣੋ। ਪ੍ਰਭੂ-ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਚੋਗਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਲੀ = ਨੀਲੀ ਪੁਸ਼ਾਕ। ਸਿਆਹੀ = ਮਨ ਦੀ ਕਾਲਖ। ਕਦਾ ਕਰਣੀ = ਕੱਟ ਦੇਣੀ। ਪਹਿਰਣੁ = ਜਾਮਾ, ਚੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

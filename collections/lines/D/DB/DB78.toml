@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਆਪਣੇ ਮਨ ਦੀ ਭਟਕਣਾ ਦੂਰ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

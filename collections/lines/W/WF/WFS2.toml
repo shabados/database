@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਮਦਦਗਾਰ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਨ੍ਹਾਂ (ਮਨੁੱਖਾਂ) ਵਾਸਤੇ। ਸਹਾਈ = ਮਦਦਗਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

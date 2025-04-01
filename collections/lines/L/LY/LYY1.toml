@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੇ ਸ਼ਿਅਰ ਅੰਮ੍ਰਿਤ ਵਾਣਗ ਜ਼ਿੰਦਗੀ ਬਖਸ਼ਣ ਵਾਲੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਿਅਰਿ ਗੋਯਾ ਜ਼ਿੰਦਗੀ-ਬਖ਼ਸ਼ ਅਸਤ ਚੂੰ ਆਬਿ-ਹਯਾਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

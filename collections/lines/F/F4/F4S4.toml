@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਇਸ ਜਨਮ ਵਿਚ ਰੱਬ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ ਉਹ (ਪਰਲੋਕ ਵਿਚ) ਜਾ ਕੇ ਭੀ ਪਛਾਣ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਥੈ = ਇਸ ਜੀਵਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

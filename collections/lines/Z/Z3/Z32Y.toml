@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) (ਤੇਰੀ ਕਿਰਪਾ ਨਾਲ ਹੀ) (ਜੀਵਾਂ ਦੀ) ਹਉਮੈ ਦੂਰ ਹੋ ਸਕਦੀ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ ਤੇ = ਕਿਰਪਾ ਨਾਲ। ਅਹੰਮੇਵ = {अहं एव = ਮੈਂ ਹੀ ਹਾਂ} ਹਉਮੈ, ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

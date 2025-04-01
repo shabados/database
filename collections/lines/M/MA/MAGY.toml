@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਮੱਛੀ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸੇ ਭੀ ਜਤਨ ਨਾਲ ਜੀਊਂਦੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਉਪਾਇ = ਕਿਸੇ ਭੀ ਜਤਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

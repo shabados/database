@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਨੇ) ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਕੰਨਾਂ ਨਾਲ ਸੁਣਿਆ ਹੈ, ਉਹ (ਮਾਨੋ) ਕੱਚ ਤੋਂ ਸੋਨਾ ਹੋ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਚਹੁ = ਕੱਚ ਤੋਂ। ਸਬਦੁ ਗੁਰ = ਗੁਰੂ ਦਾ ਸ਼ਬਦ। ਸ੍ਰਵਣਹਿ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

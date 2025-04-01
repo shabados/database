@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਭੀ ਤੇਰੀ ਸਰਨ ਆ ਟਿਕਿਆ ਹਾਂ (ਤਾ ਕਿ ਤੇਰੇ ਚਰਨਾਂ ਦਾ) ਸ੍ਰੇਸ਼ਟ ਪ੍ਰੇਮ (ਮੈਂ ਹਾਸਲ ਕਰ ਸਕਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਉ = ਮੈਂ ਰਹਿੰਦਾ ਹਾਂ। ਸੁ ਭਾਉ = (ਤੇਰੇ ਚਰਨਾਂ ਦਾ) ਸ੍ਰੇਸ਼ਟ ਪ੍ਰੇਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

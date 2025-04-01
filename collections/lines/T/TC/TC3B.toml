@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਰਕਤਿ ਨਾਲ ਖ਼ਤਰੇ ਦੂਰ ਹੋ ਗਏ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਈ = ਸਿਫ਼ਤ-ਸਾਲਾਹ {स्ना = ਨਾਈ, ਸਿਫ਼ਤਿ ਸਾਲਾਹ} ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

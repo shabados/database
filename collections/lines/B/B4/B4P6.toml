@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ (ਗੁਰੂ) ਦੇ ਬਚਨ ਸਭ ਤੋਂ ਚੰਗੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਲੋਕ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੀ ਬਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ (ਮਾਇਆ) ਬਿਗਾਨੀ (ਬਣ ਜਾਣੀ) ਹੈ ਉਸ ਨੂੰ ਤੂੰ ਆਪਣੀ ਮੰਨ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੂਆ = ਮੰਨੀ ਹੋਈ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

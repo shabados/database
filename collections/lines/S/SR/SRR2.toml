@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਦੀਵੀ ਮੁਲਕ ਅਤੇ ਅਮਰ ਦੇਸ਼ ਦਾ ਨਿਗਾਹਬਾਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਹਾਂਬਾਨਿ ਮੁਲਕਿ ਦਵਾਮੋ ਅਬਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

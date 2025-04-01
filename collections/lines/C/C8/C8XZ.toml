@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ! ਆਪਣੇ ਮਨ ਵਿਚੋਂ) ਖ਼ੁਦ-ਗ਼ਰਜ਼ੀ ਦੂਰ ਕਰ (ਇਹ ਖ਼ੁਦ-ਗ਼ਰਜ਼ੀ ਕਲਿਜੁਗ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਨ ਤਲਬ = ਜੀਵਨ ਦੀ ਤਲਬ, ਸੁਆਰਥ। ਤਲਬ = ਲੋੜ, ਇੱਛਾ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

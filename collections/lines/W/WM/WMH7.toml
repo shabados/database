@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣਾ ਹੀ (ਜੋਗੀਆਂ ਦੇ) ਨਾਦ ਦਾ (ਅਤੇ ਪੰਡਿਤਾਂ ਦੇ) ਵੇਦ ਦਾ ਵਿਚਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣਾ (ਹੀ)। ਨਾਦ ਬੇਦ ਬੀਚਾਰੁ = ਨਾਦ ਦਾ ਅਤੇ ਵੇਦ ਦਾ ਵੀਚਾਰ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

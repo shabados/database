@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਛਿਣ ਲਈ ਵੀ ਉਸ ਦੀ ਯਾਦ ਬਿਨਾਣ ਨਹੀਣ ਰਹਿਣਾ ਚਾਹੀਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਨਫ਼ਸ ਖ਼ਾਲੀ ਨਮੀ ਬਾਸ਼ਦ ਅਜ਼ੂ ।੧੩੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

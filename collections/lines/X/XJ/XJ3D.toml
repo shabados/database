@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਹੋਏ ਬੰਦੇ ਝੂਠੇ ਹਨ ਗੰਦੇ ਹਨ ਤੇ ਭੈੜੀ ਛੂਤ ਵਾਲੇ ਹਨ, (ਭਾਵ, ਹੋਰਨਾਂ ਨੂੰ ਭੀ ਕੁਰਾਹੇ ਪਾ ਦੇਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚਲ = ਗੰਦੇ। ਕਛੋਤਿ = ਭੈੜੀ ਛੂਤ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਨੀਚ ਸਾਂ, ਅਨਾਥ ਸਾਂ, ਅੰਞਾਨ ਸਾਂ, ਮੇਰੇ ਅੰਦਰ ਕੋਈ ਗੁਣ ਨਹੀਂ ਸਨ, ਮੈਂ ਗੁਣਾਂ ਤੋਂ ਸੱਖਣਾ ਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਜਾਨੁ = ਅੰਞਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

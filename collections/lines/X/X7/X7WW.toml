@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਭੋਗਾਂ ਦੇ ਕਾਰਨ ਹੇ ਨਾਨਕ! ਆਖ਼ਰ ਬੰਦੇ ਖ਼ੁਆਰ ਹੀ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਗ = ਭੋਗਾਂ ਦੇ ਕਾਰਨ। ਵਿਗੁਤੇ = ਖ਼ੁਆਰ ਹੁੰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੀਵ) ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਹਿ = ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

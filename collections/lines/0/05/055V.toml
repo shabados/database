@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਰਾਜ ਹੈ, ਉਥੇ ਅਹੰਕਾਰ ਭੀ ਹੈ, ਜਿਥੇ ਅਹੰਕਾਰ ਹੈ, ਉਥੇ ਨਿਰਾਦਰੀ ਭੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ = ਤੇ, ਭੀ। ਹੀਨੰ = ਹੀਨਤਾ, ਨਿਰਾਦਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

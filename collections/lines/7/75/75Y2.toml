@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਿਗੁਰੂ-ਰੂਪ ਹੋ ਕੇ) ਪ੍ਰਭੂ ਆਪ ਹੀ ਗਿਆਨ ਉਚਾਰਦਾ ਹੈ, ਸਮਝਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਞਿਆਨੋ = ਞਿਆਨੁ, ਗਿਆਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

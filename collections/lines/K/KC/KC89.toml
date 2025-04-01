@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਵੇਰੇ ਉੱਠ ਕੇ ਕੋਈ (ਗੁਰਮੁਖ) ਪਰਾਹੁਣਾ ਮੇਰੇ ਘਰ ਆਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਹੁਣਾ = ਸੰਤ ਪਰਾਹੁਣਾ। ਮੇਰੈ ਘਰਿ = ਮੇਰੇ ਘਰ ਵਿਚ। ਆਵਉ = ਆਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

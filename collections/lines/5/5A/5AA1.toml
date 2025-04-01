@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਸਦਾ ਪ੍ਰਭੂ ਨੂੰ ਯਾਦ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਨ ਮੇਰੇ = ਹੇ ਮੇਰੇ ਮਨ! ਸਭਿ = ਸਾਰੇ। ਵਿਸਾਰਣਾ = ਦੂਰ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਆਖਿਆ ਕਿ ਮੈਂ ਉੱਚੇ ਖ਼ਾਨਦਾਨ ਦੀ ਇੱਜ਼ਤ ਵਾਲਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਲਹਿ = ਕੁਲ ਦੀ, ਚੰਗੇ ਖ਼ਾਨਦਾਨ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

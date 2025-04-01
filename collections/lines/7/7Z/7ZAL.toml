@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਉਂ ਜਿਉਂ ਮਨੁੱਖ ਧਨ ਜੋੜਦਾ ਹੈ ਮਨ ਵਿਚ ਵਿਕਾਰ ਪੈਦਾ ਹੁੰਦੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪਉ = ਧਨ। ਸੰਚੀ = ਇਕੱਠੀ ਕੀਤੀ, ਜੋੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

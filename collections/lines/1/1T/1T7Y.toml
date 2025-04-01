@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਖਸਮ-ਪ੍ਰਭੂ ਨੇ ਸਦਾ ਹੀ ਆਪਣੇ ਦਾਸਾਂ ਦੀ ਰੱਖਿਆ ਕੀਤੀ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਸਮਿ = ਖਸਮ ਨੇ। ਪ੍ਰਤਿਪਾਲੇ = ਰੱਖਿਆ ਕੀਤੀ ਹੈ।੪। (ਨੋਟ: ਭੂਤ ਕਾਲ ਦਾ ਅਰਥ ਵਰਤਮਾਨ ਕਾਲ ਵਿਚ ਕਰਨਾ ਹੈ) ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਾਨਾਂ ਦੀ ਕਿਆਰੀ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਲੱਗੀ ਹੋਈ ਹੈ, ਪਰ ਖੋਤਾ (ਮੂਰਖ ਮਨੁੱਖ ਇਸ ਦੀ) ਕਦਰ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਨਾ ਵਾੜੀ = ਪਾਨਾਂ ਦੀ ਕਿਆਰੀ। ਘਰਿ = ਘਰ ਵਿਚ। ਖਰੁ = ਖ਼ਰੁ, ਖੋਤਾ, ਮੂਰਖ ਮਨੁੱਖ। ਸਾਰ = ਕਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

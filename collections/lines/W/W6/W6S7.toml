@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ (ਸਰੀਰ) ਕਿਲ੍ਹੇ ਗੁਫ਼ਾ ਵਿਚ ਪਰਮਾਤਮਾ ਦੀ ਰਿਹੈਸ਼ ਦਾ ਥਾਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਜਾਈ = ਘਰ ਦੀ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

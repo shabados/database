@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਭਿਆਨਕ ਹਨੇਰੇ ਵਿਚ ਜੀਵ ਉਲਟੇ-ਮੂੰਹ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਰਧ = ਉਲਟਾ। ਊਰਧ ਮੁਖ = ਉਲਟੇ-ਮੂੰਹ। ਗੁਬਾਰੇ = ਘੁੱਪ ਹਨੇਰੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

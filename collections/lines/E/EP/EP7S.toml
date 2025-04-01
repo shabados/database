@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾਤਾਰ ਜੋ ਸਦਾ ਤੇਰੇ ਸਿਰ ਤੇ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੈਨਹਾਰੁ = ਦਾਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

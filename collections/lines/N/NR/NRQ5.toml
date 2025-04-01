@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਿਰਜਣਹਾਰ ਕਰਤਾਰ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੈਹਾਰੁ = ਸਿਰਜਣਹਾਰ ਕਰਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

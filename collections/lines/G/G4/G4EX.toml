@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਸ ਦੀ (ਫਿਰ ਭੀ) ਤਸੱਲੀ ਨਾਹ ਹੋਈ (ਕਿਉਂਕਿ ਉਹ) ਮਨ ਦਾ ਕਠੋਰ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤੀਨਾ = ਪਤੀਜਿਆ, ਤਸੱਲੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

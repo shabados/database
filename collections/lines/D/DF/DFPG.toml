@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਰਕ ਵਿਚ ਪੈਣੋਂ ਕਿਵੇਂ ਬਚੇ? ਤੇ ਜਮਕਾਲ (ਭਾਵ, ਮੌਤ ਦੇ ਡਰ) ਨੂੰ ਇਹ ਕਿਵੇਂ ਟਾਲ ਸਕੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕਿ = ਨਰਕ ਵਿਚ। ਬੰਚੈ = ਠੱਗੇ, ਟਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

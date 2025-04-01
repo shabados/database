@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! (ਜਗਤ ਦੇ) ਕੰਮ-ਧੰਧਿਆਂ ਦਾ ਸਾਰਾ ਮੋਹ ਛੱਡ ਕੇ ਮੈਂ ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਈ ਰਹਿੰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮ ਕਰੀ = ਕੰਮ-ਕਾਰ, ਕੰਮ-ਧੰਧੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

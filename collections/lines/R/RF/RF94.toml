@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਜੋਗੀ ਹੈ, ਆਪ ਹੀ ਸਭ ਜੁਗਾਂ ਵਿਚ ਜੋਗ ਦੀ ਜੁਗਤਿ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਜੁਗਾਹਾ = ਸਾਰੇ ਜੁਗਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

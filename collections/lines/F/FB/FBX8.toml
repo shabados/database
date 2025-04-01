@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਜਨ! ਹੇ ਮੇਰੇ ਸੋਹਣੇ ਰਾਮ! ਮੇਰੀ ਤਾਂ ਜਾਤਿ, ਕੁਲ ਤੇ ਜਨਮ ਸਭ ਕੁਝ ਨੀਵਾਂ ਹੀ ਨੀਵਾਂ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਂਤਿ = ਕੁਲ, ਗੋਤ। ਓਛਾ = ਨੀਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

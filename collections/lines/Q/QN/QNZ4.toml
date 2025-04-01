@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਮਸਤ-ਚਾਲ ਸਰੂ ਵਾਣਗ ਝੱਟ ਪਲਮ ਲਈ ਬਾਗ਼ ਦੀ ਸੈਰ ਨੂੰ ਆ ਜਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਆ ਚੂ ਸਰਵਿ ਖ਼ਰਾਮਾਣ ਦਮੇ ਬ-ਸੈਰਿ ਰਿਆਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

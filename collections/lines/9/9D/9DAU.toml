@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਮੇਰੀ ਜਿੰਦ ਵਿਆਕੁਲ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਕਿਉ ਜੀਵਾ = ਮੈਂ ਕਿਵੇਂ ਜੀ ਸਕਾਂ? ਮੇਰੀ ਜਿੰਦ ਵਿਆਕੁਲ ਹੁੰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

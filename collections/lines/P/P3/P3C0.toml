@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਲੀਆਂ ਕਰਤੂਤਾਂ ਵਾਲਾ ਮਨੁੱਖ ਮੁੜ ਮੁੜ ਫਾਹੀ ਵਿਚ ਫਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਊਆ = ਮੂਰਖ, ਕਾਲੀਆਂ ਕਰਤੂਤਾਂ ਵਾਲਾ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

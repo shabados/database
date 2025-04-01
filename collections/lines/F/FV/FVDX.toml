@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਮਨੁੱਖ ਹਰ ਕਿਸੇ ਨੂੰ ਭੈੜਾ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਕਉ = ਕਿਸੇ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

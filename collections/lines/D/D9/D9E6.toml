@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਵਰਤ ਨੇਮ ਸੁੱਚ ਸੰਜਮ ਦੇਵ-ਪੂਜਾ (ਆਦਿਕ ਕਰਮ ਕਰਦੀ ਹੈ, ਪਰ ਇਹ ਹਨ ਨਿਰਾ ਵਿਖਾਵਾ, ਤੇ) ਵਿਖਾਵੇ ਨਾਲ ਮਨ ਦੀ ਭਟਕਣਾ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਖੰਡਿ = ਪਾਖੰਡ ਨਾਲ, ਵਿਖਾਵੇ ਨਾਲ। ਭਰਮੁ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

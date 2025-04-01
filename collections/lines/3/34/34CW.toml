@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਹਰ ਥਾਂ ਸਿਰਜਣਹਾਰ ਨੂੰ ਵੱਸਦਾ ਸਮਝਦਾ ਹੈ ॥੪॥੧੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ (ਵੱਸਦਾ)। ਉਪਾਵਣਹਾਰਾ = ਸਿਰਜਣਹਾਰ ॥੪॥੧੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

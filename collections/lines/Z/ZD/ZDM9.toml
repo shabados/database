@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰਵਾਨੇ ਵਾਣਗ ਮੈਣ ਦੀਵੇ ਦੇ ਗਿਰਦ ਫਿਰ ਫਿਰ ਕੇ ਆਪਣੀ ਜਾਣ ਦੇ ਦਿੰਦਾ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਰਵਾਨਾ-ਵਾਰ ਗ਼ਿਰਦਿ ਰੁਖ਼ਿ ਸ਼ਮਆ ਜਾਣ ਦਿਹੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

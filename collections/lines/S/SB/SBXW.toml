@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਸ਼ਰਨ ਪਿਆਂ ਨੂੰ ਤੂੰ) ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਮਿਲਾ ਲੈਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ = ਆਪਿ ਹੀ {ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹਿ' ਹੀ ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਆਪਿ' ਦੀ 'ਿ' ਉੱਡ ਜਾਂਦੀ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

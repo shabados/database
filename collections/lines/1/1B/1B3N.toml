@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਾਲਕ ਕਿਸੇ ਤੋਂ ਭੀ ਦੂਰ ਨਹੀਂ ਹੈ, ਸਦਾ ਹਰੇਕ ਦੇ ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਹੈ, ਦਸੀਂ ਹੀ ਪਾਸੀਂ ਉਹ ਸਦਾ ਹੀ ਸਦਾ ਹੀ ਵਿਆਪਕ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਦੂਰਿ = ਅੰਗ-ਸੰਗ। ਦਹ ਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ, ਹਰ ਥਾਂ। ਪੂਰਨੁ = ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

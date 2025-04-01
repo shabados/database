@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮ ਵਿਚ ਟਿਕੇ ਰਹਿਣਾ ਹੀ ਉਸ ਮਨੁੱਖ ਦੇ ਵਾਸਤੇ ਬਖ਼ਸ਼ਸ਼ ਹੈ, ਇਹੀ (ਉਸ ਦੇ ਵਾਸਤੇ) ਵਡਿਆਈ ਹੈ, ਇਹੀ ਉਸ ਦੇ ਵਾਸਤੇ ਧਨ ਹੈ, ਇਹੀ ਉਸ ਦੇ ਵਾਸਤੇ ਵੱਡੀ ਕਿਸਮਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹੋ = ਇਹ ਹੀ। ਵਰੁ = ਬਖ਼ਸ਼ੀਸ਼। ਵਡ ਭਾਗਾ = ਵੱਡੀ ਕਿਸਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

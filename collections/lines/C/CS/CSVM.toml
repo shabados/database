@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਹੈ, ਉਹ ਘਰ ਵਿਚ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਹਸਤ ਆਂ ਅੰਦਰੂਨਿ ਖ਼ਾਨਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

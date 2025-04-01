@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਗੁਰੂ (ਨਾਨਕ)! ਧੰਨ ਹੈ ਗੁਰੂ (ਨਾਨਕ)! ਜਗਤ ਵਿਚ (ਉਸ ਦਾ) ਜਨਮ ਲੈਣਾ ਸਕਾਰਥਾ ਤੇ ਭਲਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਕਯਥੁ = ਸਕਾਰਥਾ, ਸਫਲ। ਭਲੌ = ਭਲਾ, ਚੰਗਾ। ਜਗਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

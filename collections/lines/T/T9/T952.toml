@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਿਆਰੇ ਰਾਮ ਨਾਲ ਲਿਵ ਜੋੜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਨੇਹੀ = ਪਿਆਰ ਕਰਨ ਵਾਲਾ, ਸਨੇਹ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

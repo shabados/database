@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ-ਵਾਸਨਾ ਦੇ ਰੋਗ ਨੇ ਹਾਥੀ ਨੂੰ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੀਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਗਿ = ਰੋਗ ਨੇ। ਮੈਗਲੁ = ਹਾਥੀ। ਬਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

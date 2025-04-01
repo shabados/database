@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੋਕੋ! (ਰੱਬ ਦੀ ਹਸਤੀ ਬਾਰੇ) ਕਿਸੇ ਭੁਲੇਖੇ ਵਿਚ ਪੈ ਕੇ ਖ਼ੁਆਰ ਨਾਹ ਹੋਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਗਾ = ਹੇ ਲੋਕੋ! ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਵੇਖ ਲਿਆ, ਉਸ ਨੂੰ ਮਾਲੀ ਦੀ ਕੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਦੀਦਸ਼ ਕੈ ਬ-ਗੁਲਚੀਂ ਇਹਤਿਆਜ ।੧੬।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

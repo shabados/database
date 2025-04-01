@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਰੂਪੀ (ਸੋਹਣਾ) ਪਦਾਰਥ ਪੱਕਾ ਕਰ ਕੇ ਸਾਂਭ ਲਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿੜੁ = ਪੱਕਾ। ਗਹਹੁ = ਫੜੋ। ਵਥੁ = ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਰਾਜਨ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲੁ = ਆਨੰਦ, ਸੁਖਦਾਈ ਸੁਲੱਖਣੀ ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

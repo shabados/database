@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਆਖ ਰਿਹਾ ਹੈ ਕਿ ਮੈਂ ਉਸ ਬੈਕੁੰਠ ਵਿਚ ਅੱਪੜਨਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋਈ = ਹਰ ਕੋਈ, ਹਰੇਕ ਬੰਦਾ। ਊਹਾਂ = ਉਸ ਬੈਕੁੰਠ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਜਗਤ ਤੇਰਾ (ਬਣਾਇਆ ਹੋਇਆ) ਹੈ, ਤੂੰ ਇਸ ਜਗਤ ਦਾ ਮਾਲਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਸਾਈ = ਧਰਤੀ ਦਾ ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

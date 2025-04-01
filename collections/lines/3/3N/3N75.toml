@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ (ਦੇ ਨਾਮ) ਨੂੰ ਭੁਲਾਇਆਂ ਸਦਾ (ਮਾਇਆ ਦੇ ਹੱਥੋਂ ਮਨੁੱਖ ਦੀ) ਬੇ-ਪਤੀ ਹੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਆਰੀ = ਬੇ-ਇੱਜ਼ਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਨੋ, ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ (ਹੀ) ਹੋ ਜਾਂਦਾ ਹੈ (ਭਾਵ, ਅਠਾਰਠ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਨਾਮ ਜਪਣ ਦੇ ਵਿਚ ਹੀ ਆ ਜਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠਸਠਿ = ਅਠਾਹਠ ਤੀਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

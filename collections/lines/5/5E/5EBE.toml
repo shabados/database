@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਮੈਂ (ਨਿਮਾਣੀ) ਤੇਰੇ ਪਾਸ ਅੱਪੜ ਨਹੀਂ ਸਕਦੀ, ਤੇ ਮੈਂ (ਗ਼ਰੀਬ) ਕਿਸੇ ਨੂੰ ਤੇਰੇ ਪਾਸ ਘੱਲ ਨਹੀਂ ਸਕਦੀ (ਜੋ ਮੇਰੀ ਹਾਲਤ ਤੈਨੂੰ ਦੱਸੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝ ਕਨਿ = ਤੇਰੇ ਪਾਸ। ਕੋਇ = ਕਿਸੇ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

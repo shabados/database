@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਧਨ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਲੱਭ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟੇ = ਮਿਲਦਾ ਹੈ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਪਏ = ਲੱਭ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

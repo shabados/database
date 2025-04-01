@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਮਨੁੱਖ ਕਿਸੇ ਨੂੰ ਵੈਰੀ ਤੇ ਕਿਸੇ ਨੂੰ ਮਿਤ੍ਰ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਰੈ = ਮਿਥਦਾ ਹੈ, ਖ਼ਿਆਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹੀ ਕਰਦਾ ਹਾਂ ਜੋ ਤੂੰ ਮੈਨੂੰ ਹੁਕਮ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ ਕਰਨਾ = ਮੈਨੂੰ ਕਰਨਾ ਪੈਂਦਾ ਹੈ। ਜਹ = ਜਿੱਥੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

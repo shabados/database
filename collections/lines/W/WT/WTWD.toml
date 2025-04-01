@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜੀਵ ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਮਨ = ਹੇ ਮਨ! ਦਹ ਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

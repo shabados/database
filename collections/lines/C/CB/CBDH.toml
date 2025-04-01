@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੋਲਾਂ ਕਿਸਮਾਂ ਦੇ ਹਾਰ-ਸ਼ਿੰਗਾਰ ਕਰਦੀ ਹੋਵੇ, ਤੇ ਮੈਨੂੰ ਬਹੁਤ ਪਿਆਰੀ ਲੱਗਦੀ ਹੋਵੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋੜ = ਸੋਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

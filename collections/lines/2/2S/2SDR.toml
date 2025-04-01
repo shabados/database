@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉੱਚੀ ਆਤਮਾ ਵਾਲੇ) ਮਹਾ ਪੁਰਖਾਂ ਦਾ ਬਚਨ ਕਿਸੇ ਪਰਸੰਗ ਅਨੁਸਾਰ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਪਰਥਾਇ = ਕਿਸੇ ਪਰਸੰਗ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

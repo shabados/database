@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ (ਨਾਮ ਦੇ) ਸਹਾਰੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਈਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰੀਐ = ਪਾਰ ਲੰਘ ਜਾਈਦਾ ਹੈ। ਭਉ ਸਾਗਰੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

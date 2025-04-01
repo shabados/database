@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਨਾਮ ਜਪਨਾ ਹੀ ਉਨ੍ਹਾਂ ਦੀ ਬੰਦਗੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀਇ ਸ਼ਾਂ ਬਵਦ ਜ਼ਿਕਰਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

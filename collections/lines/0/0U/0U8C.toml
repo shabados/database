@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਲੈ ਕੇ ਇੰਦ੍ਰੀਆਂ ਨੂੰ ਕਾਬੂ ਵਿਚ ਰੱਖਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿੜਤਾ = ਵੱਸ ਵਿਚ ਰੱਖੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

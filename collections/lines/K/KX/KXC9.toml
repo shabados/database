@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕੁਲ ਵਿਚ ਗਿਆਨ ਦੀ ਵਿਚਾਰ ਕਰਨ ਵਾਲਾ (ਕੋਈ) ਪੁੱਤਰ ਨਹੀਂ (ਜੰਮਿਆ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਕੁਲਿ = ਜਿਸ ਕੁਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਮੂਰਖ! ਵਧੀਆ ਘੋੜੇ, ਸੋਨਾ ਚਾਂਦੀ, ਕੱਪੜਿਆਂ ਦੇ ਲੱਦ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਜੀ = ਘੋੜੇ। ਕੇਰੇ = ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

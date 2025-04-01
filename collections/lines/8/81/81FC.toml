@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਿਰਦੇ ਵਿਚ) ਸਾਰੇ ਸੁਖ ਪਰਗਟ ਹੋ ਜਾਂਦੇ ਹਨ, ਤੇ, ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਜਾ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਦੂਰਿ ਪਰਾਇਆ = ਦੂਰ ਜਾ ਪੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਗੁਰੂ ਨੇ ਜਿਸ ਦਾ ਭੁਲੇਖਾ ਦੂਰ ਕਰ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਭਰਮੁ = ਭੁਲੇਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

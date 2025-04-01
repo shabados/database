@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਆਓ, ਅਸੀਂ ਰਲ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਾਹਾ = ਅਸੀਂ ਜਪੀਏ। ਮਿਲਿ = ਮਿਲ ਕੇ (ਨੋਟ: ਲਫ਼ਜ਼ 'ਮਿਲੁ' ਅਤੇ 'ਮਿਲਿ' ਦੇ ਅਰਥ ਵਿਚ ਫ਼ਰਕ ਚੇਤੇ ਰੱਖਣ ਦੀ ਲੋੜ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

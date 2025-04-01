@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਸੂਰ, ਕੁੱਤੇ, ਖੋਤੇ, ਬਿੱਲੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਕਰ = ਸੂਰ। ਸੁਆਨ = ਕੁੱਤੇ। ਗਰਧਭ = ਖੋਤੇ। ਮੰਜਾਰਾ = ਬਿੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

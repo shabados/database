@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿੰਨਾਂ ਗੁਣਾਂ ਵਾਲੀ ਇਹ ਮਾਇਆ ਉਸ ਮਨੁੱਖ ਉਤੇ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਸੁ = ਉਸ ਮਨੁੱਖ ਦੀ। ਉਤਰੀ = ਲਹਿ ਜਾਂਦੀ ਹੈ। ਤ੍ਰੈ ਗੁਣ ਕੀ ਮਾਇ = ਤਿੰਨ ਗੁਣਾਂ ਵਾਲੀ ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

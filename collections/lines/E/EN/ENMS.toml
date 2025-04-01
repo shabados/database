@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਨੂੰ ਦੁਨੀਆ ਦਾ ਵੀ ਪਤਾ ਹੈ ਅਤੇ ਦੁਨੀਆਦਾਰਾਣ ਦਾ ਵੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੁਨਿਆ ਮਾਲੂਅਮ ਅਹਿਲਿ ਦੁਨਿਆ ਮਾਲੂਅਮ ।੧੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਤੂੰ ਵੇਖਦਾ ਹੈਂ, ਇਹ ਸਭ ਉਨ੍ਹਾਂ ਤੇ ਹੈਰਾਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿ ਮੀ-ਬੀਨੀ ਹਮਾ ਹੈਰਾਨਿ ਸ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

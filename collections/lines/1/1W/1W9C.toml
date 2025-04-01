@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਰੱਬੀ ਗਿਆਨ ਦਾ ਸੂਰਜ ਆਪਣੇ ਨੂਰ ਦਾ ਇੱਕ ਜ਼ੱਰਾ ਵੀ ਬਖਸ਼ ਦੇਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿਹਰਿ ਇਰਫ਼ਾਨਸ਼ ਚੂ ਬਖ਼ਸ਼ਦ ਜ਼ੱਰਾਇ ।੩੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

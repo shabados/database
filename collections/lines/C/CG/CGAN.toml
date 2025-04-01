@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦਰਸਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਜਿਸ ਦੀਆਂ ਅੱਖਾਂ (ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ) ਰੱਜ ਗਈਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨ = ਅੱਖਾਂ। ਸੰਤੋਖੇ = ਰੱਜ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ-ਵੇੜ੍ਹੇ ਮਨੁੱਖ ਦੀ ਜੀਵਨ-ਮਰਯਾਦਾ ਹੀ ਐਸੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਕਤ = ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ, ਪ੍ਰਭੂ ਨਾਲੋਂ ਟੁੱਟਾ ਹੋਇਆ। ਰੀਤਿ = ਜੀਵਨ-ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

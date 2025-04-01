@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨੂੰ ਬਹੁਤ ਸਜ਼ਾ ਮਿਲਦੀ ਹੈ, ਇਹ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੇ) ਲੰਮੇ ਪੈਂਡੇ ਵਿਚ ਪੈ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਾਇ = ਸਜ਼ਾ, ਦੰਡ। ਦੇਸਿ ਲੰਮੈ = ਲੰਮੇ ਦੇਸ ਵਿਚ, (ਮਰਨ ਮਰਨ ਦੇ ਗੇੜ ਦੇ) ਲੰਮੇ ਪੈਂਡੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

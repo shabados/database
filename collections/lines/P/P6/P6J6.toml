@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਮਿਹਰ ਨਾਲ (ਹੀ) ਮੇਰੇ ਹਿਰਦੇ-ਕੌਲ ਦਾ ਖਿੜਾਉ ਹੁੰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਇਆ = ਕਿਰਪਾ। ਬਿਗਾਸੁ = ਖੇੜਾ, ਖਿੜਾਉ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਹਿਰਦੇ-ਖੇਤ ਵਿਚ ਭੀ ਉਹ ਨਾਮ-ਫ਼ਸਲ ਉੱਗ ਪਿਆ ਹੈ ਜੋ ਕਦੇ ਭੀ ਮੁੱਕਦਾ ਨਹੀਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਤਿ ਮੇਰੈ = ਮੇਰੇ ਹਿਰਦੇ-ਖੇਤ ਵਿਚ। ਜੰਮਿਆ = ਉੱਗ ਪਿਆ ਹੈ। ਨਿਖੁਟਿ ਨ ਜਾਇ = ਮੁੱਕਦਾ ਨਹੀਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਸੱਚੇ ਦਿਲ ਨਾਲ ਉਸ ਨੂੰ ਮੱਥਾ ਟੇਕਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਸਾਜਿਦਸ਼ ਦਾ ਬਸਿਦਕਿ ਜ਼ਮੀਰ ।"
+page = 4
+line = 73
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

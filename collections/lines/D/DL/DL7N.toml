@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰਿਆਂ ਦੇ ਵਿਚ ਰਹਿੰਦਿਆਂ ਸਭ ਤੋਂ ਉਪਰਾਮ ਰਹਿਣਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਕੈ...ਉਦਾਸ = ਸਭ ਦੇ ਵਿਚ ਰਹਿੰਦਾ ਹੋਇਆ ਸਭ ਤੋਂ ਉਪਰਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

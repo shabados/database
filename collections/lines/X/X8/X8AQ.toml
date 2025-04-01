@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਿਖਤ ਲਈ ਕਿਸੇ ਗਵਾਹੀ ਦੀ ਲੋੜ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਖ਼ਤ ਨ ਮੁਹਤਾਜਿ ਗਵਾਹੀ ਬਾਸ਼ਦ ।੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਤਰ੍ਹਾਂ ਦੀਆਂ ਠੱਗੀਆਂ ਕਰ ਕੇ ਤੂੰ ਪਰਾਇਆ ਮਾਲ ਲਿਆਉਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਪਰਪੰਚ = ਕਈ ਠੱਗੀਆਂ। ਕਰਿ = ਕਰ ਕੇ। ਪਰ = ਪਰਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

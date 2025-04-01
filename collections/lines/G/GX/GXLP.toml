@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਥਾਂ ਸੋਹਣਾ ਹੈ, ਤੇਰਾ ਰੂਪ ਸੋਹਣਾ ਹੈ। ਤੇਰੇ ਭਗਤ ਤੇਰੇ ਦਰਬਾਰ ਵਿਚ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਹਿ = ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

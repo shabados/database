@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਉਮਰ ਜੋਗ-ਸਾਧਨ ਕਰਦਿਆਂ, ਕਿਸੇ ਦੀ ਧੂਣੀਆਂ ਤਪਾਂਦਿਆਂ, ਕਿਸੇ ਦੀ ਦੇਵ-ਪੂਜਾ ਕਰਦਿਆਂ ਗੁਜ਼ਰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗ = ਜੋਗ ਦੇ ਸਾਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

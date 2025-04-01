@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸੁਖੀ ਜੀਵਨ ਵਾਲਾ ਹੈ ਜਿਸ (ਦੇ ਮਨ) ਦੀ ਭਟਕਣਾ ਦੂਰ ਹੋ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ = ਉਹ ਮਨੁੱਖ {ਇਕ-ਵਚਨ}। ਭ੍ਰਮੁ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਹਰੀ! ਤੇਰੀ ਵਡਿਆਈ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ, ਅਸੀਂ ਜੀਵ ਤੇਰੇ ਗੁਣ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਮਾ = ਵਡਿਆਈ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਗੁਨੇ = ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

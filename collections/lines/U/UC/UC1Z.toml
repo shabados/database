@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਕੀਕਤ ਦੇ ਸਜੇ ਸਜਾਏ ਹੁਸਨ ਜਮਾਲ ਨੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਮਾਲਿ ਹਕੀਕਤ ਬਰ ਆਰਾਸਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

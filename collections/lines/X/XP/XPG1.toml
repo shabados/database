@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਮਨੁੱਖ (ਆਪਣੇ) ਮਨ ਵਿਚ (ਵੱਡੇ ਹੋਣ ਦਾ) ਮਾਣ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ = ਜਦੋਂ। ਇਹੁ = ਇਹ ਜੀਵ। ਗੁਮਾਨਾ = ਮਾਣ, ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

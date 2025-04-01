@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਦਰਬਾਰ ਵੱਡਾ ਹੈ, ਤੇਰਾ ਤਖ਼ਤ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਾ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

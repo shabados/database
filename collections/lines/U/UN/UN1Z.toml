@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ ਘੁੱਪ ਹਨੇਰਾ ਹੈ ਜਿਸ ਕਾਰਨ ਲੋਕ ਮੌਤ ਨੂੰ ਮਨ ਤੋਂ ਭੁਲਾ ਦੇਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਣਾ = ਮੌਤ। ਗੁਬਾਰੁ = ਘੁੱਪ ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

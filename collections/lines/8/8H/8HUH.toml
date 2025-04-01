@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਸਮ ਨਾਲ ਹੁਕਮ ਕੀਤਾ ਹੋਇਆ ਕਾਮਯਾਬ ਨਹੀਂ ਹੋ ਸਕਦਾ, ਉਸ ਦੇ ਅੱਗੇ ਤਾਂ ਨਿਮ੍ਰਤਾ ਹੀ ਫਬਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ ਸੇਤੀ = ਮਾਲਕ ਦੇ ਨਾਲ। ਬਣੈ = ਫਬਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

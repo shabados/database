@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! (ਇਹ ਗੱਲ) ਵੇਖ ਵੇਖ ਕੇ ਮੈਂ ਹੈਰਾਨ ਹੋ ਰਹੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇਰਤ ਹੇਰਤ = ਵੇਖ ਵੇਖ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

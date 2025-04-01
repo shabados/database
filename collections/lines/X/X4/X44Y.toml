@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਸਮਾਨਾਂ ਦੀ ਜ਼ਾਤ ਦੇ ਤਾਂਬੇ ਲਈ ਉਹ, ਸੋਣਾ ਬਣਾਉਣ ਲਈ, ਰਸਾਇਣ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿਸੇ ਸ਼ਖ਼ਸਿ ਆਫ਼ਾਕ ਰਾ ਕੀਮੀਆ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

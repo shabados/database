@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਰਗਾਹ ਵਿਚ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੀ = ਮਾਨ ਵਾਲਾ, ਇੱਜ਼ਤ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

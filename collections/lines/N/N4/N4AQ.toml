@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਣ ਜਹਾਨਾਂ ਦੀ ਦੌਲਤ ਉਨ੍ਹਾਂ ਦੀ ਵਡਿਆਈ ਵਿਚ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਹਰ ਦੋ ਜਹਾਣ ਦਰ ਸ਼ਾਨਿ ਊਸਤ ।੧੯੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

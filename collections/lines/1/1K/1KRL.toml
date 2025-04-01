@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਸਮਝ ਰੱਖ ਕਿ (ਇਹ ਮੌਤ) ਤੈਨੂੰ ਭੀ ਛੇਤੀ ਹੀ ਹੜੱਪ ਕਰ ਲਏਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਜੁ ਕਾਲਿ = ਅੱਜ ਭਲਕ, ਛੇਤੀ ਹੀ। ਫੁਨਿ ਤੋਹਿ = ਤੈਨੂੰ ਭੀ। ਗ੍ਰਸਿ ਹੈ = ਗ੍ਰਸ ਲਏਗਾ, ਹੜੱਪ ਕਰ ਲਏਗਾ। ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

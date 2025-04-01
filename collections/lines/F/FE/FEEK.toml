@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਰੀ ਦੁਨੀਆ ਮੋਹ ਵਿਚ ਫਸੀ ਹੋਈ ਹੈ (ਇਸ ਦੇ ਕਾਰਨ) ਕਦੇ (ਜੀਵ) ਅਹੰਕਾਰ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ, ਕਦੇ ਘਬਰਾਹਟ ਵਿਚ ਪੈ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਗ੍ਰੀ = ਰਚਨਾ, ਦੁਨੀਆ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਵਿਆਪੀ = ਫਸੀ ਹੋਈ ਹੈ। ਕਬ = ਕਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

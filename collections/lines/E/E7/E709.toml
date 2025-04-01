@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਕ) ਪੈਰਾਂ ਤੋਂ ਨੰਗਾ ਫਿਰਦਾ ਹੈ, ਅਤੇ ਆਪਣੀ ਇਸ ਕੀਤੀ ਹੋਈ ਭੁੱਲ ਦਾ ਦੁੱਖ ਸਹਿ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰ, ਚਰਨ। ਉਪੇਤਾਣਾ = ਜੁੱਤੀ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

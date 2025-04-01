@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤਦੋਂ ਪਾਲਣ ਵਾਲਾ ਪਿਉ, ਭਰਾ, ਦਰਬਾਰ, ਜਾਇਦਾਦ, ਘਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਲੀ ਨਿਆਮਤਿ = ਨਿਆਮਤਾਂ ਦੇਣ ਵਾਲਾ ਪਿਤਾ। ਬਿਰਾਦਰਾ = ਭਰਾ। ਮਿਲਕ ਜਾਇਦਾਦ। ਖਾਨਾਇ = ਖ਼ਾਨਾਇ, ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

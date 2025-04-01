@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ, ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦਾ ਰਹਾਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਿਤ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

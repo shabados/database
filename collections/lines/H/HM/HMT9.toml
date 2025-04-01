@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ, ਅੱਗੇ ਹੀ) ਸੁੰਦਰ ਕਿੰਗ ਬੜੀ ਸੋਹਣੀ ਵੱਜ ਰਹੀ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿੰਕੁਰੀ = ਕਿੰਗਰੀ, ਸੋਹਣੇ ਕਿੰਗ। ਅਨੂਪ = ਉਪਮਾ-ਰਹਿਤ, ਬੇ-ਮਿਸਾਲ, ਬਹੁਤ ਸੋਹਣੀ। ਵਾਜੈ = (ਅੱਗੇ ਹੀ) ਵੱਜ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

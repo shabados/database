@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੋਹ-ਰੂਪ) ਉਥਾਰੇ ਦੇ ਦੱਬੇ ਹੋਏ ਹੇ ਭਾਈ! (ਤੇਰੀ ਉਮਰ) ਸੁੱਤਿਆਂ ਹੀ ਗੁਜ਼ਰ ਗਈ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਥਾਰੈ = (ਸਿੰਧੀ: ਉਥਾੜੋ) ਦਿਲ ਉਤੇ ਦਬਾਉ ਜੋ ਕਈ ਵਾਰੀ ਸੁੱਤੇ ਪਿਆਂ ਹੱਥ ਛਾਤੀ ਉਤੇ ਆਇਆਂ ਪੈ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

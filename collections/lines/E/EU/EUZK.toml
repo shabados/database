@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨ ਵਿਚ (ਪ੍ਰਭੂ ਦੇ ਮੇਲ ਦਾ) ਅਨੰਦ ਬਣ ਜਾਏ ਤੇ (ਦੁਨੀਆ ਵਾਲਾ) ਦੁੱਖ ਕਲੇਸ਼ ਨਾਸ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿਸ ਮਨ ਵਿਚ। ਪਇਆਨਾ = ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

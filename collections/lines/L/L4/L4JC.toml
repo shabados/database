@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨੀਵੀਂ ਜਾਤਿ ਦਾ ਗਰੀਬ ਜੁਲਾਹਾ ਸੀ, ਗੁਣਾਂ ਦਾ ਸਮੁੰਦਰ ਬਣ ਗਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਲਾਹਰਾ = ਗ਼ਰੀਬ ਜੁਲਾਹਾ। ਗਹੀਰਾ = ਗੰਭੀਰ, ਡੂੰਘਾ (ਸਮੁੰਦਰ ਵਤ)। ਗੁਨੀਯ ਗਹੀਰਾ = ਗੁਣਾਂ ਦਾ ਸਮੁੰਦਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

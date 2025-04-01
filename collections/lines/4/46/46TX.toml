@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸੇ ਪ੍ਰਭੂ ਦਾ ਬਖ਼ਸ਼ਿਆ ਹੋਇਆ ਅੰਨ ਹੀ ਖਾਂਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਨੁ = ਦਾਨ ਵਜੋਂ ਦਿੱਤਾ ਹੋਇਆ ਅੰਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

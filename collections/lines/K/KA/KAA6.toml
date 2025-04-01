@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ) ਸੁਣ ਸੁਣ ਕੇ ਇਹ ਮਨ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਅਤੇ (ਆਤਮਕ) ਮੌਤ ਦੀ ਫਾਹੀ ਕੱਟੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਨਿਰਮਲੁ = ਪਵਿੱਤਰ। ਕਟੀਐ = ਕੱਟੀ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਸਾਡਾ) ਜਨਮ ਸਫਲ (ਤਾਂ ਹੀ ਹੋ ਸਕਦਾ ਹੈ) ਜੇ ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹੀਏ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਕਾਰਥਾ = ਸਫਲ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

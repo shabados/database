@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤਾਂ ਪਹਿਲੇ ਜਨਮਾਂ ਵਿਚ ਭੀ ਤੇਰਾ ਹੀ ਸੇਵਕ ਰਿਹਾ ਹਾਂ, ਹੁਣ ਭੀ ਤੇਰੇ ਦਰ ਤੋਂ ਹਟਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟਿਆ = ਹਟਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

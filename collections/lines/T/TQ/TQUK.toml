@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਨਾਮ ਵਿਚ ਟਿਕਿਆਂ ਹੀ ਹਰ ਕੋਈ (ਨਾਮ ਸਿਮਰਨ ਵਾਲੇ ਦੀ) ਇੱਜ਼ਤ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਉ ਮੰਨੈ = ਨਾਮ ਮੰਨਦਾ ਹੈ, ਵਡਿਆਈ ਦੇਂਦਾ ਹੈ। ਸਭ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

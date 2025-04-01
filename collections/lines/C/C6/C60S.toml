@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਦਾ ਮਾਲਕ ਹੈਂ, ਸਾਰੇ ਜੀਵ ਤੈਨੂੰ ਹੀ ਸਿਮਰਦੇ ਹਨ; ਮੈਂ (ਤੇਰਾ) ਢਾਢੀ (ਤੇਰੇ ਅੱਗੇ) ਇਕ ਇਹੀ ਅਰਜ਼ੋਈ ਕਰਦਾ ਹਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਪੁਕਾਰ = ਇਕ ਇਹੀ ਅਰਜ਼ੋਈ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

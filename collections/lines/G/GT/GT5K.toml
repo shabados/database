@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ) ਕਿਸ ਕਿਸ ਨਾਲ ਮੋਹ ਕਰ ਰਿਹਾ ਹੈਂ? (ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਸਦਾ ਲਈ) ਤੇਰਾ ਆਪਣਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾ ਕਉ = ਕਿਸ ਨੂੰ? ਲਪਟਾਇਓ = ਚੰਬੜਿਆ ਹੋਇਆ, ਮੋਹ ਕਰ ਰਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

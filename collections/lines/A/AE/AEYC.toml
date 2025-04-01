@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸੰਤ-ਜਨਾਂ ਬਾਰੇ ਇਹ ਸੱਚੀ ਗੱਲ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੀ ਸਾਖੀ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

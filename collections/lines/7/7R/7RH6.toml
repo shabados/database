@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕੀ ਕਰਾਣ, ਕਿਉਣਕਿ ਤੇਰੇ ਬਿਨਾਣ ਮੇਰੀ ਢਾਰਸ ਨਹੀਣ ਹੋ ਸਕਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਚੂੰ ਕੁਨਮ ਕਿ ਬੇ ਤੂ ਦਿਲਾਸਾ ਨਮੀ ਸ਼ਵਦ ।੨੪।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

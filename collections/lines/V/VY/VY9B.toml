@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ! ਤੇਰੇ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਦੀ ਤ੍ਰੇਹ ਮਿਟਦੀ ਨਹੀਂ (ਭਾਵ, ਤੇਰਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਮੈਂ ਰੱਜਦਾ ਨਹੀਂ ਹਾਂ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧਉ = ਹੇ ਮਾਧਵ! ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ! {ਮਾ = ਮਾਇਆ; ਧਵ = ਪਤੀ}। ਪਿਆਸ = ਤ੍ਰੇਹ। ਨ ਜਾਇ = ਮੁੱਕਦੀ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

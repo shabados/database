@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣੇ ਪਰਮਾਤਮਾ ਨੂੰ ਕਿਉਂ ਯਾਦ ਨਹੀਂ ਕਰਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਕਉ = ਪ੍ਰਭੂ ਨੂੰ। ਨ ਸਮਾਰਸਿ = ਤੂੰ ਯਾਦ ਨਹੀਂ ਕਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

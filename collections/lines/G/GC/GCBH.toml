@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਤਸੰਗੀ ਮਿਤ੍ਰ! ਆਉ ਰਲ ਕੇ ਅਸੀ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਵਾਲੀ ਬਾਣੀ ਪੜ੍ਹੀਏ ਤੇ ਵਿਚਾਰੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜੀਐ = (ਆਉ, ਰਲ ਕੇ) ਪੜ੍ਹੀਏ। ਗੁਣੀਐ = (ਆਉ, ਰਲ ਕੇ) ਵਿਚਾਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

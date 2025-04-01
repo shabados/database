@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਵਾਸਤੇ ਤੂੰ ਰਾਖਾ ਬਣ ਜਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਾਈ = ਮਦਦਗਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

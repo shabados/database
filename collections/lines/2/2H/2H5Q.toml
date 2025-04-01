@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਨਵਾਰੀ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਨਾਮ ਜਪਣ ਦੀ ਤਾਂਘ ਲੱਗੀ ਹੋਈ ਹੈ। ਮੇਹਰ ਕਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਚਾਨੀ = {ਅਸਲ ਲਫ਼ਜ਼ 'ਲੋਚਾਨੀ' ਹੈ, ਇਥੇ 'ਲੁਚਾਨੀ' ਪੜ੍ਹਨਾ ਹੈ}। ਹਰਿ = ਹੇ ਹਰੀ! ਬਨਵਾਲੀ = ਹੇ ਬਨਵਾਲੀ, ਹੇ ਪਰਮਾਤਮਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

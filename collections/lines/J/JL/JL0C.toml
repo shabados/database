@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਜੋ ਬਹੁਤਾ ਵਿਅਰਥ ਨਹੀਂ ਬੋਲਦਾ ਤੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਕੈ ਨ ਬੋਲੈ = ਵਿਅਰਥ ਨਾਹ ਬੋਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

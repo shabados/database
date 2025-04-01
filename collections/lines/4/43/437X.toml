@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਪ੍ਰਭੂ ਮਿਲਦਾ ਹੈ, ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੁਕਤੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਮੁਕਤਿ = ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ ਖ਼ਲਾਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

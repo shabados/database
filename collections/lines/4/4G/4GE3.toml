@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ (-ਪ੍ਰਭੂ)! (ਮੈਂ ਤੇਰੇ ਦਰ ਤੋਂ ਮਨ ਦਾ ਆਨੰਦ ਮੰਗਦਾ ਹਾਂ, ਪਰ) ਤੇਰੇ ਘਰ ਵਿਚ ਕੇਹੜੀ ਚੀਜ਼ ਨਹੀਂ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਤੇਰੈ = ਤੇਰੇ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

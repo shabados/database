@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਤਿਕਾਰ-ਹੀਨ ਨੂੰ ਉਨ੍ਹਾਂ ਦੇ ਰਾਹ ਦਾ ਕੀ ਪਤਾ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇਅਦਬ ਰਾ ਕੈ ਜ਼ਿ ਰਾਹਿ ਸ਼ਾਂ ਖ਼ਬਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

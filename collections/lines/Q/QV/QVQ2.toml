@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗ਼ਾਫ਼ਿਲ ਜੀਵ! ਹੇ ਮੂਰਖ ਜੀਵ! (ਜਿਸ ਤੋਂ ਤੂੰ ਪੈਦਾ ਹੋਇਆ ਹੈਂ ਉਸ) ਮੁੱਢ (ਪ੍ਰਭੂ) ਨੂੰ (ਹਿਰਦੇ ਵਿਚ ਸਦਾ) ਸਾਂਭ ਕੇ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੁ = ਮੁੱਢ, ਜਿਸ ਤੋਂ ਪੈਦਾਇਸ਼ ਹੋਈ ਹੈ। ਅਚੇਤ = ਹੇ ਗ਼ਾਫ਼ਿਲ! ਗਵਾਰਾ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

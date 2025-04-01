@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ (ਸੋਹਣਾ ਸਰਬ-ਵਿਆਪਕ) ਰੂਪ ਵੇਖ ਕੇ ਸਾਰੀ ਲੁਕਾਈ ਮਸਤ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝ ਬਿਨੁ = ਤੈਥੋਂ ਬਿਨਾ, ਤੇਰੀ ਕਿਰਪਾ ਤੋਂ ਬਿਨਾ। ਰੀਝਾਵੈ = ਪ੍ਰਸੰਨ ਕਰੇ। ਤੋਹੀ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

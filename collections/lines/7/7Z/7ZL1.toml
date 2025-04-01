@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸਾਧੂ ਜਨਾਂ ਦੇ ਪਾਸ ਰਿਹਾਂ (ਵਿਕਾਰਾਂ ਦੀ) ਸਾਰੀ ਮੈਲ ਮਿਟ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੀ = ਸਾਰੀ। ਖੋਤ = ਨਾਸ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

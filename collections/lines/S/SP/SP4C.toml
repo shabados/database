@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸ਼ੇਖ਼ੀ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ ਤਾਂ (ਮਾਨੋ) ਅਸਮਾਨ ਨੂੰ ਢਾਹ ਲੈਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਤਨ ਹੀ = ਗੱਲਾਂ ਨਾਲ ਹੀ, ਨਿਰੀਆਂ ਸ਼ੇਖ਼ੀ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

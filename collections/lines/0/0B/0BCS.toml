@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਮਿਹਰ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਊਪਰ ਤੇ = ਉਸ ਦੇ ਸਿਰ ਉੱਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

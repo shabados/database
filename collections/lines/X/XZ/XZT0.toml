@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਨਿਮਾਣਿਆਂ ਦੀ ਆਜਜ਼ੀ ਪਰਵਾਨ ਕਰ ਲੈਣ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਜ਼ੀਰਿੰਦਾਇ ਇਜਜ਼ਿ ਹਰ ਖ਼ਾਕਸਾਰ ।੬੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

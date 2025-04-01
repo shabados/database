@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਭਗਤ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ, ਜੇਹੜਾ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ, ਤੇ, ਸਿਆਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੇਹੜਾ। ਅੰਤਰਜਾਮੀ = ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ। ਜਾਣੁ = ਸੁਜਾਨ, ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

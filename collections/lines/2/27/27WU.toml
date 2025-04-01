@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹਰ ਵੇਲੇ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = {अनुदिनं} ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

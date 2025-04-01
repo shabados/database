@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਵਾਸਤੇ ਭੀ ਸੰਤ ਜਨ ਹੀ ਮਾਪੇ ਹਨ, ਸੰਤ ਜਨ ਹੀ ਸੱਜਣ ਭਰਾ ਮਦਦਗਾਰ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਾਈ = ਮਦਦਗਾਰ। ਬੀਰ = ਵੀਰ, ਭਰਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

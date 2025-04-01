@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਮੇਰਾ ਮਨ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਦੇ) ਪਿਆਰ ਦੇ ਨਸ਼ੇ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਿਓ = ਅੜ ਗਿਆ ਹੈ, ਮਸਤ ਹੋ ਗਿਆ ਹੈ। ਖੋਰਿ = ਖ਼ੁਮਾਰੀ ਵਿਚ, ਮਸਤੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

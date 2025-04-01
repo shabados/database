@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਧਾਰਮਿਕ ਰਸਮਾਂ ਕਰ ਕੇ ਭੀ (ਮਨੁੱਖ ਪਾਪਾਂ ਤੋਂ) ਨਹੀਂ ਬਚਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਿਕ = ਅਨੇਕ, ਬਹੁਤ। ਪੁਨਹ ਚਰਨ {skt. पुनः आचरण। ਆਚਰਨ = ਧਾਰਮਿਕ ਰਸਮ} ਮੁੜ ਮੁੜ ਕੋਈ ਧਾਰਮਿਕ ਰਸਮਾਂ (ਕਰਨੀਆਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

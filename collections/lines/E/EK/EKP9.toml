@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੂੰ ਅਬਿਨਾਸੀ ਪ੍ਰਭੂ ਮਿਲ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਿਨਾਸ = ਨਾਸ-ਰਹਿਤ, ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

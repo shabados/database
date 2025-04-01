@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਰ ਤੋਣ ਪੈਰਾਣ ਤਕ ਉਹ ਨੂਰ ਨਾਲ ਭਰ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੁਰ ਗਸ਼ਤਾ ਜ਼ਿ ਸਰ ਤਾ ਬ-ਕਦਮ ਨੂਰ-ਉਲ-ਨੂਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

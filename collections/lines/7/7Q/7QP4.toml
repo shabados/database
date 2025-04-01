@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਸ ਦੇ ਜਨਮਾਂ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਲੇਖੇ ਮੁੱਕ ਗਏ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਰ = ਕਾਗ਼ਜ਼। ਜਨਮ ਕੇ ਕਾਗਰ = ਕਈ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਲੇਖੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

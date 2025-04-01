@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁਬਾਰਿਕ ਹੈ ਉਹ ਕਾਗ਼ਜ ਤੇ ਕਲਮ, ਮੁਬਾਰਿਕ ਹੈ ਉਹ ਦਵਾਤ ਤੇ ਸਿਆਹੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਂਡਾ = ਦਵਾਤ। ਮਸੁ = ਸਿਆਹੀ। ਧਨੁ = ਧੰਨ, ਭਾਗਾਂ ਵਾਲਾ, ਮੁਬਾਰਿਕ। ਸੁ = ਉਹ (ਇਕ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

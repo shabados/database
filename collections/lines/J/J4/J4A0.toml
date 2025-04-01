@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਲ ਵਿਚ ਰੱਬ ਤੋਣ ਬਿਨਾ ਕੋਈ ਭੀ ਹੋਰ ਚਂੀਜ਼ ਪ੍ਰਵਾਨ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਕੀਕਤ ਗ਼ੈਰ ਹੱਕ ਮਨਜ਼ੂਰ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

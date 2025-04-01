@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੋਣੀ ਅਤੇ ਪ੍ਰਕ੍ਰਿਤੀ ਦੋਵੇਂ ਉਸ ਦੀ ਤਾਬਿਆ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ਾ ਓ ਕਦਰ ਹਰ ਦੋ ਦਰ ਤਾਇਤਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

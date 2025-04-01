@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਿ-ਨਾਮ ਤੋਂ ਖੁੰਝਿਆ ਹੋਇਆ) ਇਹ ਮਨ ਅਨੇਕਾਂ ਲਾਲਚ ਕਰਦਾ ਫਿਰਦਾ ਹੈ, (ਮਾਇਆ ਦੇ) ਲਾਲਚ ਵਿਚ ਲੱਗ ਕੇ ਭਟਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਚ = ਅਨੇਕਾਂ ਲਾਲਚ {ਬਹੁ-ਵਚਨ}। ਲਾਲਚਿ = ਲਾਲਚ ਵਿਚ। ਜਾਇ = ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

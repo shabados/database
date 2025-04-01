@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਜ਼ੁਲਫ਼ ਦੇ ਫੰਦੇ ਵਰਗਾ ਹੋਰ ਕੋਈ ਜਾਲ ਨਹੀਣ ਰਖਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਚਲਕਾਇ ਜ਼ੁਲਫ਼ਿ ਤੂ ਦਿਗਰ ਦਾਮ ਨਦਾਰਦ ।੨੩।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

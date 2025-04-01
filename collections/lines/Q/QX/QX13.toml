@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ ਹਾਸਲ ਕਰੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਹਿ = ਤੂੰ ਹਾਸਲ ਕਰੇਂਗਾ। ਮਾਨ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

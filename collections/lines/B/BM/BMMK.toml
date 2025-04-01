@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਜਗਤ ਵਿਚ ਕਿਤੇ ਇਹਨਾਂ ਰਾਜਿਆਂ ਦੇ) ਸ਼ਾਮਿਆਨੇ ਤੇ ਮਹਲ ਮਾੜੀਆਂ (ਹਨ, ਇਹ) ਭੀ ਛਲ ਰੂਪ ਹਨ, ਤੇ ਇਹਨਾਂ ਵਿਚ ਵੱਸਣ ਵਾਲਾ (ਰਾਜਾ) ਭੀ ਛਲ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪ = ਸ਼ਾਮਿਆਨੇ। ਮਾੜੀ = ਮਹਲ। ਬੈਸਣਹਾਰੁ = (ਮਹਲ ਵਿਚ) ਵੱਸਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

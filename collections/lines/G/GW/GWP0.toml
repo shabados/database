@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰੋ, ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਦੇ ਰਹੁ, ਪ੍ਰਭੂ ਪਾਤਸ਼ਾਹ ਦੀ ਸਰਨ ਪਏ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

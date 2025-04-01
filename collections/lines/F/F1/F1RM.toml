@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ-ਵੱਸ ਹੋ ਕੇ, ਕ੍ਰੋਧ-ਅਧੀਨ ਹੋ ਕੇ, ਚਤਰਾਈਆ ਠੱਗੀਆਂ ਨਕਾਰੇ-ਪਨ ਵਿਚ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤੁਰੀ = ਚਤਰ, ਚਲਾਕ। ਬਾਜੀਗਰ = ਠੱਗੀ ਕਰਨ ਵਾਲੇ। ਬੇਕਾਮ = ਨਿਕੰਮੇ, ਨਕਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

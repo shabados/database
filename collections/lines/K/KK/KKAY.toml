@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਜੀਵ ਪ੍ਰਭੂ ਦੀ ਬਜ਼ੁਰਗੀ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾ ਸਕਦਾ, ਕੋਈ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਉਸ ਦਾ ਕੇਡਾ ਵੱਡਾ (ਉੱਚਾ) ਟਿਕਾਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਟਿਆ = ਮਟ, ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

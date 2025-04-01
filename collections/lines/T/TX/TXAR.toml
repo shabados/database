@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਕਿਸੇ ਬੰਦੇ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣਾ = ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

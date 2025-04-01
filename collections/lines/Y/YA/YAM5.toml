@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਧਨਖ ਹੈ (ਆਪ ਹੀ ਤੀਰ ਹੈ) ਆਪ ਹੀ ਤੀਰ-ਅੰਦਾਜ਼ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰ = ਤੀਰ। ਸਰਬਾਣਾ = {शरवाणि} ਤੀਰ ਚਲਾਣ ਵਾਲਾ, ਤੀਰ-ਅੰਦਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

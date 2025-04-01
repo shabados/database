@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! (ਜਿਉਂ ਜਿਉਂ) ਜਵਾਨੀ ਘਟਦੀ ਹੈ ਬੁਢੇਪਾ (ਸਰੀਰਕ ਤਾਕਤ ਨੂੰ) ਜਿੱਤਦਾ ਜਾਂਦਾ ਹੈ (ਉਮਰ ਦਾ) ਇਕ ਇਕ ਦਿਨ ਲੰਘਦਾ ਹੈ ਉਮਰ ਘਟਦੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰੂਆ = ਬੁਢੇਪਾ। ਜਿਣੈ = ਜਿੱਤ ਰਿਹਾ ਹੈ। ਆਵ = ਉਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰੇਕ ਵਿਚ) ਪ੍ਰਭੂ ਹੀ ਬੋਲਣ ਵਾਲਾ ਹੈ, ਪ੍ਰਭੂ ਹੀ ਸਮਝਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਕਤੋ = ਬੋਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

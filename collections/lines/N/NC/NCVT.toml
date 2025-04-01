@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਨੂੰ ਬਚਾ ਲੈ, ਸਾਨੂੰ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾ ਹਾ = ਹਾਏ! ਹਾਏ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਆਪਣੇ ਖਿੜੇ ਦਿਲ ਅਤੇ ਖੁਲ੍ਹੇ ਨੈਨਾਣ ਨੂੰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਰਸ਼ ਕਰਦਮ ਦਰ ਕਦੂਮਿ ਰਾਹਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

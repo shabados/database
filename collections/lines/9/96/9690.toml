@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਇਸਤ੍ਰੀ! ਜੇ ਖਸਮ ਦਾ ਮਨ ਮੰਨ ਜਾਏ ਤਾਂ ਹੀ ਸਿੰਗਾਰ ਬਣਿਆ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ ਮਨੁ = ਖਸਮ ਦਾ ਮਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

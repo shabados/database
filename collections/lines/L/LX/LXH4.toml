@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਮਿਹਰ ਕਰ) ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਰਹਾਂ, ਤੂੰ ਮੇਰਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਮੇਰਾ ਪਿਉ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਸਾਲਾਹੀ = ਸਾਲਾਹੀਂ, ਸਲਾਹੁੰਦਾ ਹਾਂ। ਪ੍ਰਭੂ-ਮਾਲਕ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

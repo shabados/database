@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ ਗਾਫ਼ਲ ਮਨ! ਪਰਮਾਤਮਾ ਨੂੰ ਚੇਤੇ ਕਰਦਾ ਰਹੁ, ਤੈਨੂੰ ਉਹੀ ਫਲ ਮਿਲ ਜਾਏਗਾ ਜੇਹੜਾ ਤੂੰ ਮੰਗੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਿ = ਚੇਤੇ ਕਰ, ਸਿਮਰ। ਅਚੇਤ = ਹੇ ਗ਼ਾਫ਼ਲ! ਇਛਹਿ = ਤੂੰ ਚਾਹੇਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

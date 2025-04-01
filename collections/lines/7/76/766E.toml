@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਇਹੋ ਜਿਹੀ ਹੀ) ਸੱਚੀ ਟਕਸਾਲ ਵਿਚ (ਗੁਰੂ ਦਾ) ਸ਼ਬਦ ਘੜਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੜੀਐ = ਘੜੀਦਾ ਹੈ, ਘੜਿਆ ਜਾਂਦਾ ਹੈ। ਘੜੀਐ ਸਬਦੁ = ਸ਼ਬਦ ਘੜਿਆ ਜਾਂਦਾ ਹੈ। ਸੱਚੀ ਟਕਸਾਲ = ਇਸ ਉੱਪਰ-ਦੱਸੀ ਹੋਈ ਸੱਚੀ ਟਕਸਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

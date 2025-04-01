@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਤੋਂ ਬਿਨਾ (ਉਸ ਵਰਗਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ; ਹੇ ਬੰਦਿਓ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਸਿਮਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੇਵਿਹੁ = ਸਿਮਰਦੇ ਰਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

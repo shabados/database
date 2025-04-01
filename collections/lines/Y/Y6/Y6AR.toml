@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੁਰੂ! ਤੇਰੇ ਦਰ ਤੋਂ ਮੈਨੂੰ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਜ਼ਿੰਦਗੀ ਲਈ) ਸਹਾਰਾ ਮਿਲ ਜਾਏ ਤੇ ਮੇਰਾ ਚਸਕਾ ਤੇ ਲੋਭ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੜ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਬੁ = ਚਸਕਾ। ਪਰਜਾਲੀਐ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੜ ਜਾਏ। ਆਧਾਰੁ = ਸਹਾਰਾ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

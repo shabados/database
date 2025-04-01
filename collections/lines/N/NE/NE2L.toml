@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਆਤਮਕ ਮੌਤ ਦੇ) ਕਰੜੇ ਰਸਤੇ ਤੇ (ਨਹੀਂ ਪੈਂਦੇ ਤੇ) ਦੁੱਖ ਨਹੀਂ ਵੇਖਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਥਿ ਕਰਾਰੈ = ਕਰੜੇ ਰਸਤੇ ਵਿਚ (ਪੈ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

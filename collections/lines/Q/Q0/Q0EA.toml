@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਗਰੀਬ ਦੀ ਬੇਨਤੀ ਸੁਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਦਇਆਰ = ਹੇ ਦਇਆਲ ਹਰੀ! ਦੀਨ ਬੇਨਤੀ = ਗਰੀਬ ਦੀ ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਿ = ਸਿਮਰ, ਯਾਦ ਕਰਦਾ ਰਹੁ। ਸਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਮਾਲਕ! ਹੇ ਨਰਹਰ! ਹੇ ਦੀਨਾਂ ਦੇ ਸਹਾਈ! ਹੇ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਚਾਨਣ-ਸਰੂਪ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਥ = ਹੇ ਜਗਤ ਦੇ ਮਾਲਕ! ਨਰਹਰ = {नरहरि ਨਰਸਿੰਘ} ਹੇ ਪਰਮਾਤਮਾ! ਦੇਵ = ਹੇ ਪ੍ਰਕਾਸ਼-ਰੂਪ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

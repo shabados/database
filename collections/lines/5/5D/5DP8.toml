@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਇਸ ਤੋਂ ਬਿਨਾਂ ਗੁਜ਼ਰੇ, ਬਿਅਰਥ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰਦ ਦੀਗਰ ਨਭਬਾਸ਼ਦ ਮੁਦਆ ।੨੫੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

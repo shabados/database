@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਆਪਣੀ ਭਗਤੀ ਦੀ ਜਾਚ ਤੂੰ ਮੈਨੂੰ ਆਪ ਸਿਖਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = ਜੁਗਤਿ। ਅਪੁਨੀ ਬਿਧਿ = ਆਪਣੀ ਭਗਤੀ ਦੀ ਜਾਚ। ਜਨਾਵਹੁ = ਸਿਖਾ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

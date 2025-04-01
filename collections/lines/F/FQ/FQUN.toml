@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ (ਧੁਰੋਂ) ਇਹ  ਦਾਤ ਮਿਲਦੀ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸਹਿ = ਜਿਸ ਨੂੰ। ਪਰਾਪਤਿ ਹੋਇ = ਮਿਲਦਾ ਹੈ, ਦਾਤਿ ਹੁੰਦੀ ਹੈ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

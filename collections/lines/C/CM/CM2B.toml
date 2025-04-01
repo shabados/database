@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਠਾਕੁਰ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਤ = ਅ-ਗਨਤ, ਜੋ ਗਿਣੇ ਨਾਹ ਜਾ ਸਕਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

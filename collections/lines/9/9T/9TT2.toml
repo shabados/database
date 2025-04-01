@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ਿੰਦਗੀ, ਏਹੀ ਜ਼ਿੰਦਗੀ ਹੈ, ਜਿਹੜੀ ਉਸ ਦੀ ਬੰਦਗੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਈਣ ਜ਼ਿੰਦਗੀ ਈਣ ਬੰਦਗੀ-ਸਤ ।੧੫੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

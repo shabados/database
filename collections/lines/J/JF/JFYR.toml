@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਬੈਠਾ ਪ੍ਰਭੂ ਹਰੇਕ ਦੀ ਸਾਰ ਲੈਂਦਾ ਹੈ, ਹਰੇਕ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲੇ = ਪਾਲਣਾ ਕਰਦਾ ਹੈ। ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਸਾਰੀਐ = ਸਾਰੇ, ਸਾਰ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

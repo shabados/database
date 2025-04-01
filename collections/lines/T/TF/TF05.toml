@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰਾ ਸਿਰ ਤੇ ਮੱਥਾ ਸਿਦਕ ਸਫ਼ਾਈ ਨਾਲ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰੋ ਫ਼ਰਕਮ ਜ਼ਿ ਰੂਇ ਸਿਦਕੋ ਸਫ਼ਾ ।੧।"
+page = 1
+line = 1
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

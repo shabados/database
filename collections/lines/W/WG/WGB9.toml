@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਜ਼ਿਕਰ ਹੀ ਉਸ ਦਾ ਸਹਾਈ ਹੋਇਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਸਤਿ ਊ ਰਾ ਜ਼ਿਕਰਿ ਮੌਲਾ ਬਰ-ਗ੍ਰਿਫ਼ਤ ।੨੦੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

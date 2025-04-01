@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸ੍ਰਿਸ਼ਟੀ ਦੇ) ਅਨੇਕਾਂ ਜੀਵ ਸੋਗ ਵਿਚ ਗ੍ਰਸੇ ਰਹਿੰਦੇ ਹਨ, ਅਨੇਕਾਂ ਜੀਵ ਰੋਗ ਹੇਠ ਦਬਾਏ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਅਨੇਕਾਂ ਜੀਵ। ਸੋਗੀ = ਸੋਗ ਵਿਚ ਗ੍ਰਸੇ ਹੋਏ। ਵਿਆਪੇ = ਦਬਾਏ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

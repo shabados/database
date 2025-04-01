@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਖਸਮ ਦੀ ਛੱਡੀ ਹੋਈ) ਮੰਦ-ਕਰਮਣ ਇਸਤ੍ਰੀ ਦਾ ਸਿੰਗਾਰ ਵੇਖ, ਨਿਰਾ ਪਖੰਡ ਹੈ ਨਿਰਾ ਵਿਕਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਹਾਗਣੀ = ਮੰਦ-ਭਾਗਣ, ਖਸਮ ਦੀ ਛੱਡੀ ਹੋਈ। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਕੋਈ ਪੁੱਛੇ ਕਿ) ਮੈਂ (ਕੰਗਾਲ ਕਬੀਰ) ਉਸ ਪਿਤਾ ਪਾਸ ਕਿਵੇਂ ਅੱਪੜ ਗਿਆ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿ = ਕੋਲ, ਪਾਸ। ਕਿਉ ਕਰਿ = ਕਿਸ ਤਰ੍ਹਾਂ? ਕਿਸ ਵਸੀਲੇ ਨਾਲ? ਜਾਈ = ਮੈਂ ਜਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

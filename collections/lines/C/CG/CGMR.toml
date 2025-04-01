@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:)-(ਜੀਵਨ ਦਾ) ਕੀਹ ਮੂਲ ਹੈ? ਕੇਹੜੀ ਸਿੱਖਿਆ ਲੈਣ ਦਾ (ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਦਾ) ਸਮਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੁ = ਮੁੱਢ। ਵੇਲਾ = ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

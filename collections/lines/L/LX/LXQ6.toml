@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਧਰੂ ਵਰਗੇ ਅਤੇ ਹਜ਼ਾਰਾਂ ਬਿਸ਼ਨ ਵਰਗੇ, ਅਤੇ ਇਸੇ ਤਰ੍ਹਾਂ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਧਰੂ ਹਜ਼ਾਰਾਂ ਚੂੰ ਬਿਸ਼ਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

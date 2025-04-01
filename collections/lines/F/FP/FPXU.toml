@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਮੇਰੇ ਉਤੇ ਮਿਹਰ ਕਰ) ਮੈਂ (ਸਦਾ) ਤੇਰਾ ਨਾਮ ਜਪਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਜਪਿ = ਜਪੀਂ, ਮੈਂ ਜਪਾਂ। ਮੁਰਾਰੀ ਨਾਮੁ = {ਮੁਰ-ਅਰਿ। ਅਰਿ = ਵੈਰੀ} ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

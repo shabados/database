@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਂ! ਜਵਾਨੀ ਤਾਂ ਲੰਘ ਗਈ ਹੈ, ਪਰ ਅਰਦਾਸ ਕਰ) ਅਜੇ ਭੀ ਮੈਂ ਮਾਇਆ ਦੀਆਂ ਆਸਾਂ ਦੀ ਪਿਆਸ ਵਲੋਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਜੈ = ਹੁਣ ਭੀ ਜਦੋਂ ਕਿ ਸਰੀਰ ਕਾਇਮ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

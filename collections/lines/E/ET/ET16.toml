@@ -5,6 +5,13 @@ language = "pa"
 data = "ਬ-ਫ਼ਰਮਾਨਿ ਊ ਜੁਮਲਾ ਜ਼ੇਰੋ ਜ਼ਬਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਫ਼ਰਮਾਨਿ ਊ ਜੁਮਲਾ ਜ਼ੇਰੋ ਜ਼ਬਰ ।੮੪।"
+page = 6
+line = 84
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

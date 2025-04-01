@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਤੋਂ ਸਦਾ ਹੀ ਸਦਕੇ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਰਬਾਨੁ = ਸਦਕੇ। ਜਾਈਐ = ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

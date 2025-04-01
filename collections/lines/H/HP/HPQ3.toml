@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨ ਨਾਮ ਵਿਚ ਗਿੱਝ ਜਾਏ ਤਾਂ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਆਖਣ ਲੱਗ ਪੈਂਦਾ ਹੈ ਤੇ ਨਾਮ ਵਿਚ ਹੀ ਸੁਖ ਆਨੰਦ ਨਾਲ ਟਿਕਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਿ = ਸੁਖ ਵਿਚ। ਸੋਈ = ਸੌਂਦਾ ਹੈ, ਟਿਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

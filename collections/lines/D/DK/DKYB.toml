@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਜੇਹੜਾ ਮਨੁੱਖ ਆਪਣੀ ਮਰਜ਼ੀ ਅਨੁਸਾਰ ਤੁਰਦਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਤੋਂ ਵਿੱਛੁੜ ਕੇ ਦੁਖ ਸਹਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਮਰਜ਼ੀ ਵਿਚ, ਮਰਜ਼ੀ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

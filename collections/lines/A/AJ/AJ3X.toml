@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ (ਦੇ ਸੰਸਕਾਰਾਂ) ਅਨੁਸਾਰ ਮਨੁੱਖ ਆਪ ਹੀ (ਮਾਇਆ ਦੇ) ਬੰਧਨਾਂ ਵਿਚ (ਜਕੜਿਆ ਰਹਿੰਦਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧ = ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਐਸੀ ਸੱਚੀ ਦੌਲਤ ਹੈ ਜਿਸ ਨੂੰ ਕੋਈ ਨੁਕਸਾਨ ਨਹੀਂ ਹੋ ਸਕਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤੇ ਕਾਂ ਰਾ ਨਮੀ ਆਯਦ ਜ਼ਿਆਂ ।੪੮੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

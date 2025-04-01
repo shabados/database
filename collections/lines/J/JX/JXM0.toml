@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਜਗਤ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਨੂੰ) ਤਰ ਜਾਂਦਾ ਹੈ ॥੮॥੧॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

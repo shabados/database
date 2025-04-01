@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਦੇ ਚਰਨ (ਸਦਾ) ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਸਮਾਣੇ = ਟਿਕ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

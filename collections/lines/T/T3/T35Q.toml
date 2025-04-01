@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਮੈਂ ਰਤਾ ਭਰ ਸਮੇ ਲਈ ਭੀ ਰਹਿ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਿ ਨ ਸਕਉ = ਰਹਿ ਨ ਸਕਉਂ, ਮੈਂ ਰਹਿ ਨਹੀਂ ਸਕਦਾ। ਰਾਤੀ = ਰੱਤੀ ਭਰ ਸਮੇ ਲਈ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

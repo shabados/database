@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿੱਚ ਅੰਨ੍ਹੇ ਹੋਏ ਜੀਵ! ਜਦੋਂ ਜਮ ਨੇ ਫੜ ਕੇ ਤੈਨੂੰ ਅੱਗੇ ਲਾ ਲਿਆ, ਤਦੋਂ ਅਖ਼ੀਰਲੇ ਵੇਲੇ ਤੂੰ ਪਛੁਤਾਏਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਿ = ਜਮ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

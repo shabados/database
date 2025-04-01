@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜੋ ਥਾਂ ਥਾਂ ਤੇ ਚਮਕ ਰਹੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਅਤ = ਚਮਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

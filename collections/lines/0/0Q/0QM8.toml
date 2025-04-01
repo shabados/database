@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਵਿਸਾਰ ਕੇ) ਸਾਰੇ ਦੁਨਿਆਵੀ ਸੌਦਿਆਂ ਵਿਚ ਘਾਟਾ ਹੀ ਘਾਟਾ ਹੈ (ਉਮਰ ਵਿਅਰਥ ਗੁਜ਼ਰਦੀ ਜਾਂਦੀ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉਦੀ = ਸੌਦਿਆਂ ਵਿਚ। ਤੋਟਾ = ਘਾਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

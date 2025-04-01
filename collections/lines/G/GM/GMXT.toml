@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਧੁਰੋਂ ਤੇਰੀ ਹਜ਼ੂਰੀ ਤੋਂ ਤੇਰੀ ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਰਿ = ਧੁਰ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

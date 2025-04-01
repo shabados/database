@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਤਾਰ! ਹੇ ਸਰਬ ਵਿਆਪਕ ਸਿਰਜਣਹਾਰ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ, ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਦਾ ਅਵਸਰ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤੇ = ਹੇ ਸਿਰਜਣ ਹਾਰ! ਦਾਤੇ = ਹੇ ਦਾਤਾਰ! ਕਮਾਇਣ = ਕਮਾਣ ਦਾ ਅਵਸਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

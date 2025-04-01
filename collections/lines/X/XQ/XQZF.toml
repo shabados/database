@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਘੋਰ ਦੁੱਖਾਂ ਦੇ ਟੋਏ ਵਿਚ ਨਹੀਂ ਪੈਂਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕਿ = ਨਰਕ ਵਿਚ, ਘੋਰ ਦੁੱਖ ਵਿਚ। ਤੇ = ਉਹ ਬੰਦੇ। ਪਰਹਿ = ਪੈਂਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

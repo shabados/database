@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਭ ਗੁਣਾਂ ਵਾਲੇ ਤੇ ਸਭ ਤੋਂ ਚੰਗੇ ਹਨ ਜੋ ਪ੍ਰਭੂ ਅੱਗੇ ਸਿਰ ਨਿਵਾਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਧਾਨ = ਸਭ ਤੋਂ ਚੰਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

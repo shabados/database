@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਦੇ ਅੰਦਰ ਚੰਗਾ ਬੋਲ ਸਕਣ ਦੇ ਅਹੰਕਾਰ ਦਾ ਤਾਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਹੀ = {ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹੀ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਕਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਜੋਰੁ = ਤਾਣ, ਮਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

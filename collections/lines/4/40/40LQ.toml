@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਠਾਕੁਰ! ਕਿਤਨੇ ਹੀ ਬੇਅੰਤ ਜੀਵ ਤੂੰ ਬਚਾ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਕੇਤੇ = ਕਿਤਨੇ ਹੀ, ਬੇਅੰਤ। ਉਧਾਰੇ = ਬਚਾ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਸਦਾ ਹੀ ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਸਿਰ ਨਿਵਾਇਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਨਮਸਕਾਰ = ਗੁਰੂ ਨੂੰ ਸਿਰ ਨਿਵਾਓ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

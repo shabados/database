@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਅਜੇਹਾ ਸੁਭਾਵ ਬਨਾਣ ਲਈ) ਨਿਰੀਆਂ ਗਿਆਨ ਦੀਆਂ ਗੱਲਾਂ ਤੇ ਸਿਆਣਪਾਂ ਦੀ ਪੇਸ਼ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੀ = ਰਹਿ ਜਾਂਦੀ ਹੈ, ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

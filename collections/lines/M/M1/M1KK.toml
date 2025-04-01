@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਮ-ਦੂਤ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦੇ ॥੩॥੧੯॥੩੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਨੇੜਿ = ਉਹਨਾਂ ਦੇ ਨੇੜੇ। ਜਮ = ਧਰਮਰਾਜ ਦੇ ਦੂਤ {ਬਹੁ-ਵਚਨ} ॥੩॥੧੯॥੩੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

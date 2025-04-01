@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਆਮ ਪ੍ਰਚਲਤ ਖ਼ਿਆਲ ਹੈ ਕਿ ਸਤਜੁਗ ਵਿਚ ਸੱਚ (ਬੋਲਣ ਦੇ ਕਰਮ ਨੂੰ ਪ੍ਰਧਾਨਤਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਜੁਗਿ = ਸਤਜੁਗ ਵਿਚ। ਕਹੈ = ਆਖਦਾ ਹੈ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ। ਕਹੈ ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ ਆਖਦਾ ਹੈ, ਇਹ ਆਮ ਪ੍ਰਚਲਤ ਖ਼ਿਆਲ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

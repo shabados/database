@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹਰ ਥਾਂ ਹਰ ਵੇਲੇ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ, ਤੂੰ ਹੀ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ ਹੈ = ਤੂੰ ਹੀ। ਹੋਵਨਹਾਰ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

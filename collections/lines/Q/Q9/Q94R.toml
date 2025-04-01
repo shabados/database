@@ -5,6 +5,13 @@ language = "pa"
 data = "ਆਕਾਸ਼ ਦੇ ਉਚੇਰਾ ਤਖ਼ਤ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਹੇਠ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਖ਼ਤਿ ਬਾਲਾ ਜ਼ੇਰਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 143
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

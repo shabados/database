@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਸਾਰੇ ਕੰਮ ਸਿਰੇ ਚਾੜ੍ਹ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

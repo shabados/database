@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਸ ਸੰਸਾਰ ਦੇ ਪਿਛੇ ਭਟਕਣ ਦੀ ਬਾਣ ਮਿਟਾ ਦਿਓ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਦੌੜ-ਭੱਜ, ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

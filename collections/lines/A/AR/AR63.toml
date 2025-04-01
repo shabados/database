@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਸਾਰੇ ਚੋਜ-ਤਮਾਸ਼ੇ ਕਰ ਕਰ ਕੇ ਉਹ ਆਪ ਹੀ ਵੇਖ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਕਰਿ = ਕਰ ਕੇ। ਚਲਤਾ = ਚੋਜ = ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

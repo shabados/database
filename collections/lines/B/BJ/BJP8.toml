@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈਂ, ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਘਟ ਘਟ ਅੰਤਰਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਸਰਬ ਸਮਾਹੀ = ਤੂੰ ਸਾਰਿਆਂ ਵਿਚ ਸਮਾਇਆ ਹੋਇਆ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

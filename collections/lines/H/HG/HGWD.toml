@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਸਹਮ ਵਿਚ ਜੰਮਦਾ ਹੈ, ਸਹਮ ਵਿਚ ਹੀ ਮਰਦਾ ਹੈ, ਸਦਾ ਹੀ ਸਹਮ ਇਸ ਦੇ ਮਨ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਵਿਚਿ = ਸਹਮ ਵਿਚ। ਭਉ = ਸਹਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

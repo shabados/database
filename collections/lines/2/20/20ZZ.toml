@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਹਾਂ ਉਹਨਾਂ ਤੋਂ ਜਿਨ੍ਹਾਂ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ ਬਲਿ = ਸਦਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

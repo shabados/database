@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਆਪ ਹੀ ਸਾਰੇ ਜਗਤ ਨੂੰ ਪੈਦਾ ਕਰਦਾ ਹੈ, ਸਾਰੀ ਲੁਕਾਈ ਉਸ ਪਾਸੋਂ ਮੰਗਦੀ ਰਹਿੰਦੀ ਹੈ, ਉਹ ਸਭਨਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਮੰਗੀ = ਸਾਰੀ ਲੁਕਾਈ ਮੰਗਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

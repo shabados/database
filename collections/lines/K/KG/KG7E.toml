@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਤ!) ਮੈਂ ਤਾਂ ਇੱਕ ਸੋਹਣੇ ਰਾਮ ਦਾ ਨਾਮ ਹੀ ਲਵਾਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤਾਂ। ਰਮਈਆ = ਸੋਹਣਾ ਰਾਮ। ਲੈ ਹਉ = ਲਵਾਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਦਾ ਦਰਸਨ ਕਰਨ ਵਾਸਤੇ ਅਨੇਕਾਂ ਜਪ ਕੀਤੇ, ਧੂਣੀਆਂ ਤਪਾਈਆਂ, ਵਰਤ ਰੱਖੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਨ ਕਉ = ਵੇਖਣ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

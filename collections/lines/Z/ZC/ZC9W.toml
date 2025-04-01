@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਕਮਜ਼ੋਰ ਦੀ ਸਰਨ ਪਿਆਂ ਇਹ ਮੈਥੋਂ ਪਰੇ ਨਹੀਂ ਹਟਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਛੀ = ਕਮਜ਼ੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ (ਰੂਪ) ਸੁੰਦਰ ਵਸਤ ਲੱਭ ਕੇ ਉਸ ਦੀ ਚਿੰਤਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਲਾਇ ਗਈ = ਦੂਰ ਹੋ ਗਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਾਹ ਬਾਦਸ਼ਾਹ ਅਮੀਰ ਜਾਗੀਰਦਾਰ (ਸਭ ਆਪਣੇ) ਮਹਲ-ਮਾੜੀਆਂ ਛੱਡ ਕੇ (ਇਥੋਂ) ਤੁਰ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਮਰਾਵ = ਅਮੀਰ ਬੰਦੇ। ਖਾਨ = ਖ਼ਾਨ, ਜਾਇਦਾਦਾਂ ਦੇ ਮਾਲਕ। ਢਾਹਿ = ਢਾਹ ਕੇ, ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

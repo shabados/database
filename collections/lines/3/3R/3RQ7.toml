@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਿਵ ਜੀ ਦੇ ਸੇਵਕ, ਦੇਵਤਿਆਂ ਦੇ ਰਾਗੀ, ਕਰਾਮਾਤੀ ਜੋਗੀ, ਜੋਗ-ਸਾਧਨਾਂ ਕਰਨ ਵਾਲੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣ = ਸ਼ਿਵ ਜੀ ਦੇ ਸੇਵਕ। ਗੰਧਰਬ = ਦੇਵਤਿਆਂ ਦੇ ਰਾਗੀ। ਸਿਧ = ਕਰਾਮਾਤੀ ਜੋਗੀ। ਅਰੁ = ਅਤੇ। ਸਾਧਿਕ = ਜੋਗ-ਸਾਧਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

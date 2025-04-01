@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਾ ਦੇ ਚਾਰੇ ਪੁੱਤਰ ਸਨਕ ਆਦਿਕ, ਨਾਰਦ ਮੁਨੀ ਅਤੇ ਸ਼ੇਸ਼ ਨਾਗ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਨਕਾਦਿਕ = ਸਨਕ ਆਦਿਕ, ਸਨਕ ਅਤੇ ਹੋਰ, ਬ੍ਰਹਮਾ ਦੇ ਚਾਰੇ ਪੁੱਤਰ (ਸਨਕ, ਸਨੰਦਨ, ਸਤਾਤਨ, ਸਨਤਕੁਮਾਰ)। ਸੇਖਾ = ਸ਼ੇਸ ਨਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

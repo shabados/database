@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਅਜੇਹੇ ਬੰਦੇ ਹੀ ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ ਰਸਤਾ ਪਛਾਣਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛਾਣਹਿ = ਪਛਾਣਦੇ ਹਨ। ਸੇਈ = ਉਹੀ ਬੰਦੇ (ਵਹੁ = ਵਚਨ) ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

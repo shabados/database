@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਪਾਇ = ਕਿਥੋਂ ਪਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

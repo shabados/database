@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੋਈ ਵੀ ਉਨ੍ਹਾਣ ਦੇ ਸਾਹਮਣੇ ਜ਼ੱਰੇ ਵਾਣਗ ਆਉਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਆਇਦ ਪੇਸ਼ਿ ਏਸ਼ਾਣ ਜ਼ੱਰਾ ਵਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

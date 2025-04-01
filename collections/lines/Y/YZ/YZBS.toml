@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਪਰਵਾਰ ਬਣ ਕੇ (ਮੇਰ-ਤੇਰ ਦੂਰ ਕਰ ਕੇ, ਪੂਰਨ ਪ੍ਰੇਮ ਨਾਲ) ਆਤਮਕ ਆਨੰਦ ਵਿਚ ਮਿਲ ਬੈਠੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਿ = ਸੁਖ ਵਿਚ। ਸੰਤ ਸਜਨ = ਹੇ ਸੰਤ ਸਜਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

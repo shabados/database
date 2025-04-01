@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਹਜ਼ਾਰਾਂ ਜ਼ਮੀਨਾਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਜ਼ਮਾਨਿਆਂ ਨੂੰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਜ਼ਮੀਨੋ ਹਜ਼ਾਰਾਂ ਜ਼ਮਾਂ ।੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਉਸ ਨੂੰ ਆਪਣੇ ਸੋਹਣੇ ਹੱਥਾਂ ਨਾਲ ਆਪਣੇ ਪੱਲੇ ਲਾ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ। ਲੜਿ = ਪੱਲੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

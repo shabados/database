@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਸ ਤਰ੍ਹਾਂ ਸਗੋਂ) ਹਉਮੈ ਦਾ ਰੋਗ (ਮਨੁੱਖ ਉਤੇ) ਜ਼ੋਰ ਪਾ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਰੋਗੁ = ਹਉਮੈ ਦਾ ਰੋਗ। ਬਿਆਪੈ = ਜ਼ੋਰ ਪਾ ਲੈਂਦਾ ਹੈ। ਚੁਕੈ ਨ = ਮੁੱਕਦਾ ਨਹੀਂ। ਭੰਗਾ = ਤੋਟ, ਵਿੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

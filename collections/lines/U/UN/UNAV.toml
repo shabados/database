@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਿਮਰਨ ਨਾਲ ਤੈਨੂੰ ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ ਰਹਿੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਨਿ = ਕਾਣ, ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

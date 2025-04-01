@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਧੁਰ ਦਰਗਾਹ ਤੋਂ (ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮੱਥੇ ਉੱਤੇ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਦਾ ਲਿਖਿਆ ਲੇਖ ਉੱਘੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਰਿ = ਧੁਰ ਦਰਗਾਹ ਤੋਂ। ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

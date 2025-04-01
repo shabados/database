@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ ਸੂਰਜ-ਦੇਵਤਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਇੰਦ੍ਰ ਹੈਂ, ਤੇ ਤੂੰ ਆਪ ਹੀ ਬ੍ਰਹਮਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਪਤਿ = {अश्वपति = Lord of horses} ਸੂਰਜ ਦੇਵਤਾ। ਗਜਪਤਿ = ਇੰਦ੍ਰ ਦੇਵਤਾ। ਨਰਹ ਮਰਿੰਦ = ਨਰਾਂ ਦਾ ਰਾਜਾ, ਬ੍ਰਹਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

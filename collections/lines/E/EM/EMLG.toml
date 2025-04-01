@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹੀ ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਸਹਜ ਵਿਚ, ਉਸ ਅਵਸਥਾ ਵਿਚ ਜਿਥੇ ਮਨ ਡੋਲਦਾ ਨਹੀਂ। ਸਮਾਤਿ = ਸਮਾ ਜਾਂਦਾ ਹੈ, ਟਿਕ ਜਾਂਦਾ ਹੈ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

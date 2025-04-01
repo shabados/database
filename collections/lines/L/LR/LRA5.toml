@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਬੁੱਢਾ ਹੋ ਜਾਂਦਾ ਹੈ, (ਉਸ ਦਾ) ਸਰੀਰ ਭੀ ਕਮਜ਼ੋਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੀਜੈ = ਕਮਜ਼ੋਰ ਹੋ ਜਾਂਦਾ ਹੈ। ਦੇਹੀ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

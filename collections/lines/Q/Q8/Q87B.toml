@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਸਾਰਾ ਜਗਤ-ਖਿਲਾਰਾ ਨਾਸਵੰਤ ਹੈ, ਇਸ ਰਚਨਾ ਵਿਚ (ਥਿਰਤਾ ਦਾ) ਕੋਈ ਬਰਨ ਚਿਹਨ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨੁ = ਰੰਗ। ਚਿਹਨੁ = ਨਿਸ਼ਾਨ। ਮਿਥਿਆ = ਨਾਸਵੰਤ। ਪਸਾਰਾ = ਜਗਤ ਦਾ ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

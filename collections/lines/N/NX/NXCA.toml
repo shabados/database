@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੁਠਾਲੀ ਵਿਚ ਪਿਆ ਹੋਇਆ ਸੋਨਾ (ਸੇਕ ਨਾਲ) ਕਮਲਾ ਹੋਇਆ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਨਿਕੋ = ਸੋਨਾ। ਕੋਠਾਰੀ ਚੜਿਓ = ਕੁਠਾਲੀ ਵਿਚ ਪੈਂਦਾ ਹੈ। ਕਬਰੋ = ਕਮਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

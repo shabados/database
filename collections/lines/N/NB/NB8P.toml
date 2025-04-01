@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਹੇ ਮਨ! ਸੰਤ ਜਨਾਂ ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ ਮੰਗ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

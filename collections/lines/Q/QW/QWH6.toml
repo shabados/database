@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਜਪ, ਤੇ ਇਕ ਪ੍ਰਭੂ ਦੀ ਹੀ ਸਿਫ਼ਤਿ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ = ਇਕ ਪ੍ਰਭੂ ਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

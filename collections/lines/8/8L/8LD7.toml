@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਬਖਸ਼ਿਸ਼ਾਂ ਕਰਨ ਵਾਲੇ ਸਖੀ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਹਿਬੋ ਵੱਹਾਬ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 150
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

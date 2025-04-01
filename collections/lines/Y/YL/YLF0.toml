@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਮੇਰੇ ਉਤੇ ਦਇਆ ਕਰ, ਮੇਰੀ ਉਮਰ ਸੰਤਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਹਿ ਕੇ ਬੀਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਹਾਵੇ = ਬੀਤ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਸ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗੀਜ ਕੇ (ਹੀ) ਆਦਰ-ਸਤਕਾਰ ਮਿਲਦਾ ਹੈ ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

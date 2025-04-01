@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਵਡਿਆਈ ਕਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਆਖ। ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਸਾਚੀ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

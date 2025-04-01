@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ, ਤੇਰੇ ਸਾਰੇ ਪਾਪ ਤੇ ਵਿਕਾਰ ਦੂਰ ਹੋ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕਿਲਵਿਖ = ਪਾਪ। ਜਾਹਿ = ਨਾਸ ਹੋ ਜਾਣਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

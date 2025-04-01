@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਹਾਂ ਰਾਮ ਜੀ ਦੀ ਬੰਸਰੀ ਤੋਂ ਜੋ ਵੱਜ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਸਦਕੇ ਹੋਣ = ਜੋਗ। ਰਾਮ ਬੇਨੁ = ਰਾਮ (ਜੀ) ਦੀ ਬੰਸਰੀ। ਬਾਜੈ = ਵੱਜ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

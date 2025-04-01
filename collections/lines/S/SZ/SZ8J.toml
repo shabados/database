@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਚੇ ਪ੍ਰਭੂ! ਜੋ ਜੀਵ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦੇ ਹਨ, ਜਮਦੂਤ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਕੰਕਰੁ = ਜਮ ਦਾ ਸੇਵਕ, ਜਮਦੂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

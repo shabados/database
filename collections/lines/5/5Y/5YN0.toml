@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕਾਰ ਵਿਚ ਜਿਸ ਕੰਮ ਵਿਚ, ਪਰਮਾਤਮਾ ਸਾਨੂੰ ਲਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਕਾਰੈ = ਜਿਸ ਕਾਰ ਵਿਚ। ਕੰਮਿ = ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

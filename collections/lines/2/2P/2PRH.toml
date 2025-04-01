@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਸਮਝੋ ਮੇਰੇ ਦੀਵਾਨੇ ਦਿਲ ਲਈ ਇੱਕ ਅਜੀਬ ਜ਼ੰਜੀਰ ਬਣਾਉਣਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜਿਬ ਜ਼ੰਜੀਰ ਅਜ਼ ਬਹਰਿ ਦਿਲਿ ਦੀਵਾਨਾ ਮੀ ਸਾਜ਼ਦ ।੨੧।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

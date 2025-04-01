@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਅੰਞਾਣ-ਪੁਣੇ ਵਿਚ) ਦੁਨੀਆ ਨੂੰ ਦੋਸ਼ ਦੇਂਦਾ ਹੈ, ਜਗਤ ਤੇ ਗੁੱਸਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਈ = ਜਗਤ। ਰੋਸੁ = ਗੁੱਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

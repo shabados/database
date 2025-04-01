@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਜੀਭ ਨਾਲ ਉਸ ਦਾ ਅਮਰ ਕਰਨ ਵਾਲਾ ਨਾਮ-ਰੂਪ ਜਾਪ ਜਪਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ (ਨਾਲ)। ਜਪਉ = ਮੈਂ ਜਪਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

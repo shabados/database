@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਣ ਜਹਾਨਾਣ ਵਿਚ ਇਹ ਸਭ ਉਸੇ ਦਾ ਹੀ ਰੌਲਾ ਰੱਪਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੋ ਆਲਮ ਸ਼ੋਰਸ਼ੇ ਗ਼ੌਗ਼ਾਇ ਊ-ਸਤ ।੬੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

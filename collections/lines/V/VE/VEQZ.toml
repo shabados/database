@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਸੂਰਮਾ ਹੈ ਬਹਾਦਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ ਬੀਰ = ਸੂਰਮਾ, ਬਹਾਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

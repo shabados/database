@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੇਵਤਿਆਂ ਦੇ ਮੰਦਰ, ਕੇਦਾਰ ਮਥੁਰਾ ਕਾਂਸ਼ੀ ਆਦਿਕ ਤੀਰਥ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਟ = ਨਦੀ ਦਾ ਕਿਨਾਰਾ। ਦੇਵਾਲਿਆ = ਦੇਵਤੇ ਦਾ ਘਰ, ਮੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

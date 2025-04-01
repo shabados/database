@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਥੇ ਉਥੇ (ਹਰ ਥਾਂ) ਕਿਸ ਨੂੰ ਪਛਾਣ ਕੇ (ਉਸ ਵਿਚ ਇਹ ਮਨ) ਲੀਨ ਰਹੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ ਉਤ = ਇਥੇ ਓਥੇ, ਲੋਕ ਪਰਲੋਕ ਵਿਚ, ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

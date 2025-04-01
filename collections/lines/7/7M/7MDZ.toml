@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਤੇ ਹਰ ਦਿਲ ਦੀ ਇੱਜ਼ਤ ਕਰਨਾ ਤੇਰਾ ਮਨੋਰਥ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਸ ਤੁਰਾ ਆਦਾਬਿ ਹਰ ਦਿਲ ਮੁਦਆ-ਸਤ ।੮੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

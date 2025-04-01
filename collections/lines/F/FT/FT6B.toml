@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਚੱਕਰ ਵਿਚ ਪੈਂਦੇ ਹਨ ਤੇ ਮੁੜ ਮੁੜ ਆਤਮਕ ਮੌਤੇ ਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਹਿ = ਆਤਮਕ ਮੌਤ ਸਹੇੜ ਲੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

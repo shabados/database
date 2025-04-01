@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਆਮਦ ਦੇ ਰਾਹ ਉੱਤੇ ਵਿਛਾ ਦਿੱਤਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਦਾ ਓ ਦਿਲ ਰਾ ਕਿ ਬੂਦਾ ਦਰ-ਬਸਾਤ ।੪੪।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

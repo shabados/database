@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ (ਮਾਨੋ) ਘੁੱਪ ਹਨੇਰਾ ਹੈ (ਇਸ ਹਨੇਰੇ ਵਿਚ ਤੁਰ ਕੇ ਜੀਵ ਜ਼ਿੰਦਗੀ ਦਾ ਅਸਲ ਰਾਹ ਭੁੱਲ ਕੇ) ਹੋਰ ਪਾਸੇ ਭਟਕਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਬਾਰੁ = ਘੁੱਪ ਹਨੇਰਾ। ਦੂਜੈ = ਹੋਰ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

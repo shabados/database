@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਤਾਂ ਖੋਟੀ ਪੂੰਜੀ ਹੈ, ਇਸ ਦਾ ਪਾਜ ਤਾਂ ਇਕ ਪਲਕ ਵਿਚ ਲਹਿ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਸਿ = ਪੂੰਜੀ। ਚਸਾ = ਪਹਰ ਦਾ ਵੀਹਵਾਂ ਹਿੱਸਾ। ਪਾਜੁ = ਵਿਖਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

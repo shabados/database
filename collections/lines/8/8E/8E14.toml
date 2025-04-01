@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪ੍ਰਭੂ ਸਾਰੇ ਖੰਡਾਂ ਦਾ, ਮੰਡਲਾਂ ਦਾ ਸਾਜਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਾ = ਬਣਾਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

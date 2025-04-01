@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਮਾਲੀ ਹੈ, ਆਪ ਹੀ ਪਾਣੀ ਦੇਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ (ਫਲ) ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿੰਚੈ = ਪਾਣੀ ਦੇਂਦਾ ਹੈ। ਮੁਹਿ = ਮੂੰਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

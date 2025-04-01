@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਗਤ ਵਿਚ ਰਹਿੰਦਿਆਂ) ਕਿਹੋ ਜਿਹੇ ਬੋਲ ਬੋਲੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਬੋਲਨਾ = ਕਿਹੋ ਜਿਹੀ ਗੱਲ-ਬਾਤ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

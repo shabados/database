@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਰੋਗ ਤੋਂ ਇਸ ਦੁੱਖ ਤੋਂ ਉਹੀ ਮਨੁੱਖ ਬਚਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੀ ਪ੍ਰਭੂ ਨੇ ਆਪ ਰਾਖੀ ਕੀਤੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਚੇ = ਬਚੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

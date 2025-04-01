@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਮੈਂ (ਤੈਨੂੰ) ਮੁੜ ਮੁੜ ਕੀਹ ਆਖਾਂ? ਤੂੰ ਕਿਉਂ ਨਹੀਂ ਸਮਝਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਉ = ਕਹਉਂ, ਮੈਂ ਆਖਾਂ। ਕਹਾ = ਕਹਾਂ? ਕੀਹ? ਬਾਰ ਬਾਰ = ਮੁੜ ਮੁੜ। ਗਵਾਰ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

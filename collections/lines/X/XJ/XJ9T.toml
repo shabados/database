@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਤੂੰ ਪੁੱਛੇਂ ਕਿ) ਮੈਂ ਕਿਸ ਦੀ ਸੇਵਾ ਕਰਦਾ ਹਾਂ ਅਤੇ ਕਿਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵੀ = ਸੇਵੀਂ, ਮੈਂ ਸੇਵਾਂ, ਮੈਂ ਸਰਨ ਪਵਾਂ। ਤੈ = ਅਤੇ। ਸਾਲਾਹੀ = ਸਾਲਾਹੀਂ, ਮੈਂ ਸਾਲਾਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

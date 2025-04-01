@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸੇ ਵੇਲੇ) ਥੰਮ੍ਹ੍ਹ ਪਾੜ ਕੇ ਪਰਮਾਤਮਾ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਪਰਗਟ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾੜਿ = ਪਾੜ ਕੇ। ਆਪੁ = ਆਪਣਾ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਦੇਵਤੇ ਮਨੁੱਖ ਤੇ ਸੱਤ ਸਮੁੰਦਰ ਪੈਦਾ ਕੀਤੇ ਹਨ ਅਤੇ ਤਿੰਨੇ ਭਵਣ ਟਿਕਾ ਰੱਖੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਿ = ਦੇਵਤੇ। ਨਰ = ਮਨੁੱਖ। ਸਪਤ = ਸੱਤ। ਕਿਅ = ਬਣਾਏ। ਧਾਰਿਓ = ਟਿਕਾਏ ਹਨ। ਜਾਸੁ = ਜਿਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

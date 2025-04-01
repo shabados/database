@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਹੇ ਹਰੀ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ, ਮਿਹਰ ਕਰ (ਮੇਰੇ) ਹਿਰਦੇ ਵਿਚ ਆਪਣਾ ਨਾਮ ਵਸਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਉਰ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿਹੜਾ ਮਨੁੱਖ (ਮਾਇਆ ਤੋਂ) ਭਾਂਜ ਖਾ ਜਾਂਦਾ ਹੈ ਉਸ ਨੂੰ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕਣਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗੈ = ਭਾਂਜ ਖਾ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

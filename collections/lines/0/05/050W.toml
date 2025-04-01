@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੱਡੇ ਮਾਲਕ! ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਮਾਲਕ! ਹੇ ਬੇਅੰਤ ਮਾਲਕ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = {अलक्ष्य} ਅਦ੍ਰਿਸ਼ਟ। ਅਪਾਰਾ = ਜਿਸ ਦੇ ਗੁਣਾਂ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਾਹ ਲੱਭ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

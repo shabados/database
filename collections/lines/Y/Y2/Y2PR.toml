@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਮੂਰਤ ਜਦ ਕਿਸੇ ਦੇ ਦਿਲ ਵਿਚ ਵੱਸ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਕਸ਼ਿ ਊ ਦਰ ਦਿਲਿ ਕਸ ਜਾ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

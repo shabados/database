@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਪਤੀ-ਪਰਮਾਤਮਾ ਵਲੋਂ ਹੁਕਮ ਆਉਂਦਾ ਹੈ, ਜਦੋਂ ਉਹ ਸੱਦਾ ਭੇਜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆ ਪਿਰਹੁ = ਪ੍ਰਭੂ-ਪਤੀ ਵਲੋਂ ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

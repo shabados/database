@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘਰ ਇਸਤ੍ਰੀ ਕੋਈ ਭੀ ਸ਼ੈ ਕੋਈ ਜੀਵ ਇਥੋਂ ਨਾਲ ਲੈ ਕੇ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਿਤਾ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

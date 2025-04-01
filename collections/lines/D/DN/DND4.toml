@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸਾਰਾ ਜੀਵਨ ਮਾਇਆ ਦੇ ਧੰਧੇ ਕਰਦਿਆਂ ਹੀ ਗੁਜ਼ਰ ਜਾਂਦਾ ਹੈ ਤੇ ਉਹ ਆਪਣੇ ਮਨ ਵਿਚ ਦੁੱਖ ਸਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਦਰਿ = ਮਨ ਵਿਚ। ਸਹਾਮੁ = ਸਹਿੰਦਾ ਹੈ, ਸਹਾਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

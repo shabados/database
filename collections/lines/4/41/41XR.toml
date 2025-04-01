@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਉਮੈ ਦੇ ਆਸਰੇ ਕੀਤੇ ਹੋਏ ਉਸ ਦੇ ਧਾਰਮਿਕ ਕੰਮ ਇਉਂ ਹਨ) ਜਿਵੇਂ ਹਾਥੀ ਨ੍ਹਾ ਕੇ ਆਪਣੇ ਸਿਰ ਤੇ ਮਿੱਟੀ ਪਾ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਚਰੁ = ਹਾਥੀ। ਨਾਈ = ਨ੍ਹਾ ਕੇ। ਸਿਰਿ = ਸਿਰ ਉਤੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

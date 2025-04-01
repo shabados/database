@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਹੇ ਠਾਕੁਰ! ਤੈਨੂੰ ਉਹੀ (ਦਾਸ) ਮਿਲ ਸਕਿਆ ਹੈ ਜੋ ਤੈਨੂੰ ਪਿਆਰਾ ਲੱਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵਤੋ = ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ। ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ। ਰਹਿਓ ਸਮਾਇ = ਵਿਆਪਕ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਹ ਮਾਲਕ ਦੀ ਰਜ਼ਾ ਹੈ) ਜੋ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ ਪ੍ਰਭੂ ਨੂੰ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਸੁਸਤ ਮਨ (ਮਾਇਆ ਦੀ ਨੀਂਦ ਵਿਚ) ਸੌਂ ਗਿਆ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਲਸੀਆ = ਸੁਸਤ। ਉਘਲਾਨਾ = ਸੌਂ ਗਿਆ ਸੀ, ਉਂਘਲਾ ਰਿਹਾ ਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

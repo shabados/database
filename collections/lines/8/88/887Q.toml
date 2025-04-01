@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜੋ ਕੁਝ ਕਰੀਦਾ ਹੈ (ਸਭ ਥਾਈਂ ਵਿਆਪਕ ਹੋਣ ਕਰਕੇ) ਉਹ ਹਰੀ ਜਾਣਦਾ ਹੈ, (ਤਾਂ ਤੇ) ਉਸ ਦਾ ਸਿਮਰਨ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

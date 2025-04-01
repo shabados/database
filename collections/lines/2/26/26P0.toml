@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ) ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਵਾਲੇ ਤੇ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਨ ਵਾਲੇ ਸਭੇ ਪਵਿੱਤ੍ਰ ਜੀਵਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨੀਤ = ਪਵਿੱਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

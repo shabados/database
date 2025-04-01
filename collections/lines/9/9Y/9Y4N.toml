@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ ਸਭਨਾਂ ਦਾ ਖਸਮ ਹੈਂ, ਤੂੰ ਬੜਾ ਬੇਅੰਤ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਦਿ = ਖ਼ੁਦਿ, ਆਪ ਹੀ। ਖੁਦਾਇ = ਮਾਲਕ। ਬੇਸੁਮਾਰ = ਗਿਣਤੀ-ਮਿਣਤੀ ਤੋਂ ਬਾਹਰਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਾਡਾ ਦੋਹਾਂ ਦਾ (ਹੁਣ) ਇੱਕੋ ਥਾਂ ਹੀ (ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ) ਨਿਵਾਸ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੇਰਾ = ਵਾਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

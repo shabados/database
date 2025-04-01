@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਨੇਕਾਂ ਤਰੀਕਿਆਂ ਨਾਲ (ਪਰਮਾਤਮਾ ਨੇ ਤੇਰੇ ਸਾਰੇ ਅੰਗ) ਮਣਕੇ ਬਣਾਏ ਹਨ; (ਪਰ ਸੁਆਸਾਂ ਦੇ) ਕੱਚੇ ਧਾਗੇ ਵਿਚ ਪਰੋਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਣੀਏ = (ਸਾਰੇ ਅੰਗ) ਮਣਕੇ। ਸਾਜੇ = ਬਣਾਏ। ਤਾਗਿ = ਧਾਗੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

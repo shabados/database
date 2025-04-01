@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਧਨ-ਪਦਾਰਥ ਲੋਭੀ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਦਾ ਸਹਾਰਾ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਣ ਅਧਾਰੁ = ਜ਼ਿੰਦਗੀ ਦਾ ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

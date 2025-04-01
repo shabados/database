@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ (ਪ੍ਰਭੂ) ਪਹੁੰਚਣ ਦਾ ਰਾਹ ਪੁਛਦੀ ਰਹਾਂ ਪਰ ਰਸਤੇ ਉਤੇ ਕਦੀ ਨਾਂ ਤੁਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸਾਈ = ਮੈਂ ਪੁੱਛਾਂ, ਮੈਂ ਪੁੱਛਦੀ ਰਹਾਂ। ਨ ਜੁਲਾਂ = (ਪਰ ਉਸ ਰਸਤੇ ਉਤੇ) ਮੈਂ ਤੁਰਾਂ ਨਾਹ। ਅੰਮੜੀਆਸੁ = ਮੈਂ ਅੱਪੜ ਗਈ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

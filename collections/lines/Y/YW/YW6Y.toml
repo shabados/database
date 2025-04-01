@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨਾਲ ਮਿਲੇ ਹੋਏ ਸੰਤਾਂ ਨੇ ਇਉਂ ਫਰਮਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਿਲਾਨਿ ਹੱਕ ਚੁਨੀਂ ਫ਼ਰਮੂਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

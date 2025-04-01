@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਤੂੰ ਸਦਾ ਆਪਣੇ ਅੰਦਰ ਵਸਾਈ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਸਮਾਲਿ = ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

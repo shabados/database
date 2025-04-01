@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਅਸੀਂ ਤਾਂ ਦਿਨੇ ਰਾਤ ਤੇਰੇ ਨਾਮ ਦੀ ਹੀ ਵਡਿਆਈ ਕਰਦੇ ਹਾਂ, ਸਾਡੇ ਜੀਵਨ ਦਾ ਇਹੀ ਸਹਾਰਾ ਹੈ ਇਹੀ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹਹ = ਅਸੀਂ ਸਲਾਹੁੰਦੇ ਹਾਂ। ਆਧਾਰੋ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

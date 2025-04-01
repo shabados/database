@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਤੋਂ ਹਰ ਸ਼ਰਧਾਲੂ ਦੀ ਕਾਮਨਾ ਪੂਰੀ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਮੁਰੀਦੇ ਸਾਹਿਬਿ ਕਾਮਸ਼ ਬਵਦ ।੪੩੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

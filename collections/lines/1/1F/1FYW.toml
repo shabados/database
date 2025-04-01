@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਸਮੁੰਦਰ ਦੇ ਦੇਵਤੇ ਵਰਣ ਹਨ ਅਤੇ ਅਨੇਕਾਂ ਹੀ ਸੋਨੇ ਦੇ ਸੁਮੇਰ ਪਰਬਤ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨ = ਵਰਣ, ਸਮੁੰਦਰ ਦਾ ਦੇਵਤਾ। ਕਨਿਕ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

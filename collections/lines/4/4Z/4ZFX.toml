@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਰੀਬਾਂ ਦੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ! (ਦਾਸ ਨਾਨਕ ਉੱਤੇ) ਦਇਆਵਾਨ ਹੋ, (ਤੇਰਾ ਦਾਸ) ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਣਿਆ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਦੁਖ ਭੰਜਨ = ਹੇ ਗਰੀਬਾਂ ਦੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਰਾਵਾਰ = ਰਵਾਰ, ਚਰਨ-ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਰਕਾਂ ਨੂੰ ਦੂਰ ਕਰ ਕੇ ਜਿੰਦ ਬਚਾ ਲੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰਿ = ਹਟਾ ਕੇ। ਉਧਾਰਹੁ = ਬਚਾ ਲੈ। ਜੀਉ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

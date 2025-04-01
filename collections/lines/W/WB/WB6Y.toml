@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਅਨਜਾਨ # ਤੂੰ (ਬਹੁ ਮੁੱਲੇ) ਖ਼ਜ਼ਾਨੇ ਦਾ ਮਾਲਕ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਗੰਜੀਨਾਈ ਅ ਬੇ-ਖ਼ਬਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

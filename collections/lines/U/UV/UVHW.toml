@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਦੇ ਸੁਆਦ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਨੂੰ ਭੀ ਰਤਾ ਭਰ ਸੁਖ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਲੁ = ਰਤਾ ਭਰ ਭੀ। ਲਾਧਾ = ਲੱਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

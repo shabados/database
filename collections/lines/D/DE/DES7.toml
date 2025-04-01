@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪਰਮਾਤਮਾ ਦੇ ਡਰ-ਅਦਬ ਦੀ ਬੇੜੀ ਤਿਆਰ ਕੀਤੀ ਜਾਏ, ਤੇ ਉਸ ਬੇੜੀ ਵਿਚ ਜੀਵ ਸਵਾਰ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਉ = ਪਰਮਾਤਮਾ ਦਾ ਡਰ-ਅਦਬ। ਚੜਾਊ = ਸਵਾਰ, ਬੇੜੀ ਦਾ ਮੁਸਾਫ਼ਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

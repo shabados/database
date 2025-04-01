@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ ਇਸ ਸਰੀਰ ਵਿਚ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪ੍ਰਭੂ ਪਰਗਟ ਹੋ ਪਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨ ਨਿਧਾਨੁ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪ੍ਰਭੂ। ਇਹ ਚੋਲੈ = ਇਸ ਸਰੀਰ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

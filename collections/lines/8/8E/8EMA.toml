@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਅਜੇਹਾ) ਕਮਜ਼ੋਰ ਹੋ ਜਾਏ (ਕਿ) ਭੁੱਖ ਨੰਗ ਦਾ ਦੁੱਖ (ਉਸ ਨੂੰ ਹਰ ਵੇਲੇ ਖਾਂਦਾ ਰਹੇ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਬਲਾ = ਕਮਜ਼ੋਰ। ਪੀਰ = ਪੀੜਾ, ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

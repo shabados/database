@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਹਉਮੈ (ਦੀ ਅੱਗ) ਵਿਚ ਸੜੇ ਪਏ ਹਨ ਜਿਵੇਂ ਦੀਵਿਆਂ ਨੂੰ ਵੇਖ ਕੇ ਪਤੰਗੇ ਸੜਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਚੇ = ਸੜੇ ਹੋਏ। ਦੀਪਕ = ਦੀਵੇ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਸ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

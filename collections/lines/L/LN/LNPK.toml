@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਮਿਹਰ ਅਤੇ ਬਖ਼ਸ਼ਿਸ਼ ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਹਮਾ ਫ਼ੈਜ ਅਜ਼ ਤੁਫ਼ੈਲਿ ਸੁਹਬਤ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

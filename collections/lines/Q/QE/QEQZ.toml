@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸੱਚਾ ਸਉਦਾ ਨਾਮ-ਧਨ ਖੱਟਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲੈ ਹੋਇ = ਹਾਸਲ ਕੀਤਾ ਹੋਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

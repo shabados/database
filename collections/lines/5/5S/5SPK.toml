@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ ਜ਼ਮੀਨ ਸ਼ਕਰ ਬਣ ਜਾਏ, (ਇਹਨਾਂ ਪਦਾਰਥਾਂ ਨੂੰ ਵੇਖ ਕੇ) ਮੇਰੀ ਜਿੰਦ ਨਿੱਤ ਖ਼ੁਸ਼ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ, ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਜਗਤ ਦੇ ਇਹ ਤੱਤ) ਹਵਾ ਪਾਣੀ ਅੱਗ (ਜਿਸ ਦਾ ਆਪਣਾ ਹੀ) ਸਰੂਪ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਰੂਪੁ = {ਸ੍ਵਰੂਪ} ਸਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭੋਜਨ) ਖਾਣ ਤੋਂ ਬਿਨਾ (ਪੇਟ ਦੀ) ਭੁੱਖ (ਦੀ ਅੱਗ) ਨਹੀਂ ਬੁੱਝਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝੈ ਨਹੀ = ਨਹੀਂ ਬੁੱਝਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

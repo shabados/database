@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਡੋਲਦੇ ਮਨ ਵਾਲੇ ਜੋਗੀ! ਤੇਰਾ ਆਸਣ (ਜਮਾਣਾ ਕਿਸੇ ਅਰਥ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲਚਿਤ ਜੋਗੀ = ਹੇ ਡੋਲਦੇ ਮਨ ਵਾਲੇ ਜੋਗੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

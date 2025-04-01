@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਜੇ ਉਸ ਲਾਸਾਨੀ ਪੂਰਨ ਪੁਰਖ ਦੇ ਨਾਲ ਮਿਲ ਗਿਆ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਿਲਿ ਬੇ-ਚੂਨਿ ਮੁਤਲਿਕ ਗਸ਼ਤਾਈ ।੩੦੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

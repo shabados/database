@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਨਾਲ (ਮਨੁੱਖ ਦੀ) ਮਤਿ ਮੈਲੀ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੀਨ = ਮੈਲੀ, ਭੈੜੀ। ਮਤਿ = ਅਕਲਿ, ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਥੋਂ ਹਰੇਕ ਨੇ) ਕੂਚ ਕਰ ਜਾਣਾ ਹੈ (ਕਿਸੇ ਦੀ ਭੀ ਇਥੇ) ਸਦਾ ਦੀ ਰਿਹੈਸ਼ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਨੁ = ਟਿਕਾਣਾ, ਟਿਕਣਾ। ਥਿਰੁ = ਸਦਾ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

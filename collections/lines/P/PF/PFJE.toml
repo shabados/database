@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਕਿਸੇ ਦੂਜੇ ਵਲ ਕਿਵੇਣ ਨਜ਼ਰ ਪੱਟ ਕੇ ਵੇਖ ਸਕਦੇ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾਣ ਜਾਨਿਬਿ ਗ਼ੈਰ ਚੂੰ ਂਨਿਗਾਹ ਬਿਕੁਨੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

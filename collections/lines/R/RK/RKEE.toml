@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੈਂ ਮਨੁੱਖਾ ਜੀਵਨ-ਰੂਪ ਕੀਮਤੀ ਚੀਜ਼ (ਦਾ ਲਾਭ) ਹਾਸਲ ਕਰ ਲਿਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਦਾਰਥੁ = ਕੀਮਤੀ ਚੀਜ਼ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਾਮ ਦਾ ਧਿਆਨ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਨੀ = ਗ਼ਨੀ, ਧਨਾਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

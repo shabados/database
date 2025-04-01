@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੂੰ ਸਾਹਮਣੇ (ਲਾ ਕੇ) ਗੱਲ ਆਖਿਆਂ ਪਿਆਰ ਟੁੱਟ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਹੁ = ਪਿਆਰ। ਕਿ = ਜੇ। ਸਹੀ = ਸਾਹਮਣੇ। ਕਿ ਬੋਲਹਿ = ਜੇ ਅਸੀਂ ਮੂੰਹ ਤੇ ਸੱਚੀ ਗੱਲ ਲਾ ਕੇ ਆਖੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

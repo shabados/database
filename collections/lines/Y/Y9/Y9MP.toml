@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਜੀਵ ਅਜੇਹੀ ਸਮਰੱਥਾ ਵਾਲੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਰਸ ਮਾਣੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਹੁ = ਮਾਣੋ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

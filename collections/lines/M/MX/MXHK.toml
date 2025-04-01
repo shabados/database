@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਨਾਨਕ! ਜਦੋਂ ਮਨ 'ਨਾਮ' ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

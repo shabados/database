@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਿੱਲੇ, ਭੇਡਾਂ, ਲੂੰਬੜ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਜਾਰ = ਬਿੱਲੇ। ਗਾਡਰ = ਭੇਡਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

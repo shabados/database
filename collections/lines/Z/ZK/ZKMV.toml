@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਰਹਿ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਨੀ ਚਾਹੀਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਦੁਆਰੈ = ਗੁਰੂ ਦੇ ਦਰ ਤੇ (ਰਹਿ ਕੇ)। ਸੁਣੀਐ = ਸੁਣਨਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

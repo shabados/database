@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਸੰਗ ਇਕ ਸਰੋਵਰ ਹੈ (ਜਿਸ ਵਿਚ) ਸੰਤ-ਜਨ ਸੋਹਣੇ ਕੌਲ-ਫੁੱਲ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਵਰੁ = ਸੋਹਣਾ ਸਰ, ਸੋਹਣਾ ਤਾਲਾਬ। ਅਨੂਪ = ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

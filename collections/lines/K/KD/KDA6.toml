@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗੋਵਿੰਦ! ਤੈਥੋਂ ਬਿਨਾ ਮੇਰਾ ਹੋਰ ਕੋਈ ਆਸਰਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਵਿੰਦ = ਹੇ ਗੋਵਿੰਦ! ਠਾਉ = ਥਾਂ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

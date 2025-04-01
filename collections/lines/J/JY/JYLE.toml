@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਅਕਾਲ ਪੁਰਖ ਅਪਹੁੰਚ ਹੈ, ਅਨੰਤ ਹੈ, ਅਨਾਦਿ ਹੈ, ਜਿਸ ਦਾ ਮੁੱਢ ਕੋਈ ਨਹੀਂ ਜਾਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮੁ = ਅਪਹੁੰਚ। ਅਨੰਤੁ = ਬੇਅੰਤ। ਅਨਾਦਿ = (ਅਨ-ਆਦਿ) ਜਿਸ ਦਾ ਮੁੱਢ ਲੱਭ ਨਹੀਂ ਸਕਦਾ। ਆਦਿ = ਮੁੱਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

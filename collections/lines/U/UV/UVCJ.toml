@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ! ਹੇ ਬੇਅੰਤ! ਹੇ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵੱਸ ਰਹੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਰ ਅਪਾਰਾ = ਹੇ ਬੇਅੰਤ! ਘਟ ਘਟ ਅੰਤਰਿ = ਹਰੇਕ ਘਟ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

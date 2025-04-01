@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਸੀਂ ਬੜੇ ਆਨੰਦ ਨਾਲ ਰਸੀਲੇ ਰਾਮ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਿ = ਆਨੰਦ ਨਾਲ। ਰਸਾਲੁ = (ਰਸ-ਆਲਯ) ਰਸਾਂ ਦਾ ਘਰ, ਰਸੀਲਾ। ਸਲਾਹਾ = ਅਸੀਂ ਸਲਾਹੁੰਦੇ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਕੇਵਲ ਉਸ ਗੋਪਾਲ ਦਾ ਜਾਚਕ ਹਾਂ) ਜਿਸ ਦੇ ਦਰ ਤੇ ਛਵੰਜਾ ਕਰੋੜ ਬੱਦਲ ਦਰਬਾਨ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਪਨ ਕੋਟਿ = ਛਵੰਜਾ ਕ੍ਰੋੜ ਮੇਘ ਮਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

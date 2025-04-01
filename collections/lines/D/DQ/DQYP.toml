@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਨੁੱਖ ਦਾ ਸਾਰਾ ਦੁੱਖ ਸਾਰਾ ਰੋਗ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਰੋਗੁ = ਸਾਰਾ ਰੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

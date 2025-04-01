@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਮਨ ਵਿਚੋਂ) ਸਾਰੇ ਡਰਾਣ ਵਾਲਿਆਂ ਦਾ ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਇਆਨ = ਡਰ ਦੇਣ ਵਾਲੇ, ਡਰਾਣ ਵਾਲੇ। ਭਉ = ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

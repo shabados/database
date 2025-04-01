@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਕ ਸੁਨੱਖਾ ਹੈ ਅਤੇ ਜਿਸ ਦੇ ਲੰਮੇ ਕੇਸ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਕ = {ਬਹੁ-ਵਚਨ}। ਜਿਨ = ਜਿਨ੍ਹਾਂ ਦੇ {ਜਿਸੁ = ਜਿਸ ਦਾ। ਜਿਨ = ਜਿਨ੍ਹਾਂ ਦਾ, ਜਿਨ੍ਹਾਂ ਦੇ}। ਲੰਮੜੇ = ਸੋਹਣੇ ਲੰਮੇ। ਵਾਲਾ = ਕੇਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

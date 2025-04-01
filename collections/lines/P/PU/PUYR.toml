@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਵਲੋਂ ਉਸ ਨੂੰ) ਕਿਤੇ ਭੀ ਘਾਟ ਮਹਿਸੂਸ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਟਿ = ਕਮੀ। ਕਤਹੂ = ਕਿਤੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

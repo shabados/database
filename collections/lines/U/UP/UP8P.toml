@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਜੀਭ! ਪਰਮਾਤਮਾ ਦੇ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਗੁਣ ਗਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਵੇ = ਹੇ (ਮੇਰੀ) ਜੀਭ! ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ। ਗਾਉ = ਗਾਇਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

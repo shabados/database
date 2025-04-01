@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਤਾਂ (ਦੂਜਿਆਂ ਪਾਸੋਂ) ਸੁਣ ਸੁਣ ਕੇ (ਫਿਰ) ਆਖ ਕੇ (ਹੋਰਨਾਂ ਨੂੰ) ਸੁਣਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਆਖਿ = ਆਖ ਕੇ। ਵਖਾਣੈ = ਬਿਆਨ ਕਰ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

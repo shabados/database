@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਜਿਸ ਮਾਲਕ ਦੀ ਦਿੱਤੀ ਹੋਈ ਜਿੰਦ ਹੈ ਉਸੇ ਦੇ ਅੱਗੇ ਇਸ ਨੂੰ ਭੇਟਾ ਦੇ ਦੇਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਜਿਸ ਕਾ = ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਦਿੱਤਾ ਹੋਇਆ {ਲਫ਼ਜ਼ 'ਜਿਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਾ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਕ ਪਾਸੇ) ਮਨ ਇਕੱਲਾ ਹੈ, (ਇਸ ਦੇ ਨਾਲ) ਦਸ ਇੰਦ੍ਰੀਆਂ ਹਨ, ਇਹ ਦਸੇ ਹੀ (ਮਾਇਆ ਦੇ) ਸੁਆਦ ਵਿਚ ਫਸੀਆਂ ਹੋਈਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰ ਨਾਰੀ = ਦਸ ਇੰਦ੍ਰੀਆਂ। ਪੁਰਖੁ = ਮਨ। ਸਾਦਿ = ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

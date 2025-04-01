@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕ ਦੇ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ) ਵਡਿਆਈ ਹੈ ਨਾਮ ਹੀ ਸੋਭਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ, ਵਾਸਤੇ। ਵਡਾਈ = ਵਡਿਆਈ। ਸੋਭ = ਸੋਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

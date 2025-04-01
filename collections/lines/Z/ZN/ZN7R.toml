@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚਲਾਕੀ ਜਾਂ ਧੱਕੇ ਨਾਲ) ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਫਿਰ ਮੈਂ ਕਿਵੇਂ ਉਸ ਦਾ ਸਿਮਰਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰੀ = ਮੈਂ ਸਿਮਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

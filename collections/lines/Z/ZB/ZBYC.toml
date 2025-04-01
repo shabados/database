@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਦੁਨੀਆ ਦੇ ਰੰਗ ਅਤੇ ਰਸ ਹੈਂ ਤੂੰ ਹੀ ਮੇਰੇ ਮਨ ਦਾ ਸਹਾਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹਿ = ਮਨ ਦਾ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

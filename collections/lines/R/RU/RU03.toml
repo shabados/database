@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਲੱਗਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਕੂ ਮਾਇਲਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

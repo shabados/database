@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਬਾਲਕ-ਰੂਪ ਕ੍ਰਿਸ਼ਨ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਤੇ, ਆਪ ਹੀ ਉਸ ਪਾਸੋਂ ਚੰਡੂਰ, ਕੇਸੀ ਅਤੇ ਕੰਸ ਨੂੰ ਮਰਵਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਡੂਰੁ = ਕੰਸ ਦੇ ਪਹਿਲਵਾਨ ਦਾ ਨਾਮ। ਕੰਸੁ = ਕੇਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

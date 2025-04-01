@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੇ ਇਸ ਗੁਲਸ਼ਨ ਵਿਚ ਤੂੰ ਸੈਰ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਸ ਦਰੂਨਿ ਗੁਲਸ਼ਨਿ ਖ਼ੁਦ ਸੈਰ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

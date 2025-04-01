@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ) ਗੁਰੂ ਦੀ ਸੰਗਤਿ-ਰੂਪ ਜਹਾਜ਼ ਦਾ ਆਸਰਾ ਲਿਆ, ਉਹ ਇਸ ਅਥਾਹ ਤੇ ਔਖੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਰੀਲੇ = ਤਰ ਲਿਆ। ਭਵਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਤਾਰੂ = ਡੂੰਘਾ, ਅਥਾਹ। ਬਿਖੜਾ = ਔਖਾ। ਬੋਹਿਥ = ਜਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

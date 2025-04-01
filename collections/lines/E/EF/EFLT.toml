@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖਾ ਜਨਮ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਹੀ ਲੱਭਦਾ ਹੈ, ਪਰ ਮਨੁੱਖ ਦੀ ਕਾਂਇਆਂ ਸੋਨੇ ਵਰਗੀ ਹੈ ਤੇ ਸੋਹਣੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡ ਪੁੰਨੇ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ। ਦੇਹ = ਕਾਂਇਆਂ। ਕੰਚਨ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

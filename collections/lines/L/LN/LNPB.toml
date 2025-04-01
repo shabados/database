@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਇਹ ਕਸੁੰਭਾ-ਰੰਗ ਝੂਠਾ ਹੈ ਪਲ ਵਿਚ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ਜਿਵੇਂ ਰੁੱਖ ਦੀ ਛਾਂ ਨਹੀਂ ਟਿਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਖ = ਰੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

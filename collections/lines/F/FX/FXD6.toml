@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਿਲਾਣ ਨੂੰ ਚੁਰਾਨ ਵਾਲੇ ਬਾਦਸ਼ਾਹ ਦੇ ਕੱਦ ਉਦਾਲੇ ਚੱਕਰ ਕਟ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਗਿਰਦਿ ਕਾਮਤਿ ਆਣ ਸ਼ਾਹਿ ਦਿਲਰੁਬਾ ਮੀ ਗਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

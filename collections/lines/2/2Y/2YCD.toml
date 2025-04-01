@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੁਦਰਤਿ ਵਿਚ) ਅਸੰਖਾਂ ਹੀ ਭਵਣ ਹਨ ਜਿਨ੍ਹਾਂ ਤਕ ਮਨੁੱਖ ਦੀ ਪਹੁੰਚ ਹੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗੰਮ = ਜਿਸ ਤਾਈਂ (ਕਿਸੇ ਦੀ) ਪਹੁੰਚ ਨ ਹੋ ਸਕੇ। ਲੋਅ = ਲੋਕ, ਭਵਣ। ਅਸੰਖ ਲੋਅ = ਅਨੇਕਾਂ ਹੀ ਭਵਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਅਨੇਕਾਂ ਜਤਨਾਂ ਦੀ ਰਾਹੀਂ ਭੀ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ ਪੈਦਾ ਹੋਏ ਦੁਖ ਕਲੇਸ਼ਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਹੋ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੁਟਾਰਾ = ਖ਼ਲਾਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

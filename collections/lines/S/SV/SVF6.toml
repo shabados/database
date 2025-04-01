@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਦੁਨੀਆ = ਪਰਲੋਕ ਵਿਚ ਤੇ ਇਸ ਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

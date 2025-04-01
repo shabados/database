@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾਰੇ ਮਨੋਰਥ ਪੂਰੇ ਹੋ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਭ = ਸਭ, ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

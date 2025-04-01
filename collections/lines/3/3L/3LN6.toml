@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਇਹ ਕੰਮ ਓਹੀ ਮਨੁੱਖ ਕਰਦਾ ਹੈ) ਜਿਸ ਦੇ ਮੱਥੇ ਤੇ ਭਾਗ ਹਨ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਮਸਤਕਿ = ਜਿਸ ਦੇ ਮੱਥੇ ਤੇ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

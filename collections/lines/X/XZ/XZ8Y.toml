@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ (-ਤੀਰਥ ਵਿਚ ਇਸ਼ਨਾਨ ਕਰ ਕੇ ਸੁੱਚੇ (ਜੀਵਨ ਵਾਲਾ ਬਣ ਜਾਈਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ, ਨਾਮ (-ਤੀਰਥ) ਵਿਚ। ਮਜਨੁ = ਇਸ਼ਨਾਨ। ਕਰਿ = ਕਰ ਕੇ। ਸੂਚੇ = ਸੁੱਚੇ, ਪਵਿਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

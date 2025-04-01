@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਫਿਰ ਮੰਦੇ ਚੰਗੇ ਭਾਗਾਂ ਨੂੰ ਪੱਤਰੀ ਵਿਚ ਲਿਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਨਿਗਾਰੰਦ ਨਹਿਸੋ ਸਾਅਦ ਹਮੇ ।"
+page = 1
+line = 44
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

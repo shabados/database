@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲ ਕੇ ਪ੍ਰਭੂ ਦੇ ਮਿਲਾਪ ਦਾ ਆਨੰਦ ਮਾਣੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਮਾਣਿਹ = ਅਸੀਂ ਮਾਣੀਏ। ਰਲੀਆ = ਆਤਮਕ ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

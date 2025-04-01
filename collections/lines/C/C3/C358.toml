@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਹਰਿ-ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਿਆਂ ਆਤਮਕ ਜੀਵਨ ਲੱਭ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੁ ਜੀਵੈ = ਮਨ ਜਿਊਂ ਪੈਂਦਾ ਹੈ, ਆਤਮਕ ਜੀਵਨ ਮਿਲ ਜਾਂਦਾ ਹੈ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

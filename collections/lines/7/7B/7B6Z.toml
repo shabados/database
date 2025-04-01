@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਤਦੋਂ ਤੋਂ ਮੇਰਾ ਹਰੇਕ ਕਿਸਮ ਦਾ ਡਰ ਦੂਰ ਹੋ ਗਿਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤ = ਹੇ ਮੀਤ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

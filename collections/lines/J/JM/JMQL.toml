@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਧਰਤ ਅਤੇ ਆਕਾਸ਼ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਖ਼ੁਦਾਵੰਦਿ ਜ਼ਮੀਨੋ ਆਸਮਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

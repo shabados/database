@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੁਨੀਆ ਵਾਲੀ ਮੰਗ ਕਿਤਨੀ ਹੀ ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ, ਮੰਗ ਮੰਗਣ ਵਿਚ ਕਮੀ ਹੁੰਦੀ ਹੀ ਨਹੀਂ (ਭਾਵ, ਦੁਨੀਆਵੀ ਮੰਗ ਮੁੱਕਦੀ ਹੀ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤਾ ਆਖਣੁ ਆਖੀਐ = (ਦੁਨੀਆ ਵਾਲੀ) ਮੰਗ ਕਿਤਨੀ ਹੀ ਮੰਗੀਦੀ ਹੈ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

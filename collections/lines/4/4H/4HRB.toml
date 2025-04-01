@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਇਉਂ ਹੈ) ਜਿਵੇਂ ਕਿਸੇ ਲੋਥ ਦਾ ਸਿੰਗਾਰ ਵਿਅਰਥ (ਉੱਦਮ) ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਰਤਕ = ਮੁਰਦਾ। ਮਿਥਿਆ = ਝੂਠਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

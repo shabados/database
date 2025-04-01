@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਰਜਨਹਾਰ ਆਪ ਆਪਣੀ ਕੁਦਰਤ ਵਿਚ ਹੀ ਵਸਦਾ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਮਿਆਨਿ ਕੁਦਰਤਿ ਖ਼ੁਦ ਕਾਦਰ ਅਸਤ ।੩੦੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

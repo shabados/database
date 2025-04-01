@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੀਆਣ ਆਹਾਣ ਦਾ ਧੂਆਣ ਇੱਨਾਣ ਜ਼ਿਆਦਾ ਆਸਮਾਨ ਤੋਣ ਲੰਘ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੋਗਸ਼ ਕਬੂਦ ਵ ਦਿਲਸ਼ ਪੁਰ ਸ਼ਰਾਰਾ ਸਾਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

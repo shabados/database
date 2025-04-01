@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੇ ਭੇਸ ਵਿਚ ਰਹਿੰਦੇ ਹੋਏ ਵੀ ਉਹ ਦੁਨੀਆ ਤੋਂ ਅਲੱਪ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਲਿਬਾਸਿ ਦੁਨਿਯਵੀ ਫ਼ਾਰਿਗ਼ ਅਜ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

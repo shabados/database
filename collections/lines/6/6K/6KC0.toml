@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਭੇਤ ਨੂੰ ਉਹ ਹੀ ਜਾਣ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੀਣ ਖ਼ਬਰ ਵਾਕਿਫ਼ ਕਸੇ ਬਾਸ਼ਦ ਕਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

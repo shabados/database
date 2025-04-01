@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਣਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡੈ ਭਾਗਿ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

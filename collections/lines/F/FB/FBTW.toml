@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ) ਸ਼ਬਦ ਸਦਾ ਕਾਇਮ ਹੈ, ਸ਼ਬਦ ਨੂੰ ਉੱਚਾਰਨ ਵਾਲਾ ਵੀ ਥਿਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਕਤਾ = ਉੱਚਾਰਨ ਵਾਲਾ, ਆਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

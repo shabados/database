@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੀ ਅਟੱਲ ਸੋਭਾ ਚੌਹਾਂ ਜੁਗਾਂ ਵਿਚ ਖਿਲਰੀ ਰਹਿੰਦੀ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਰੀ = ਖਿਲਰੀ ਹੋਈ ਹੈ। ਸੋਇ = ਸੋਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਹੁਣ ਕਿਸੇ (ਉੱਚੀ-ਨੀਵੀਂ) ਜ਼ਾਤ-ਗੋਤ ਦੀ ਪਰਵਾਹ ਨਹੀਂ ਰਹੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਕਰਉ = ਮੈਂ ਕੀਹ (ਪਰਵਾਹ) ਕਰਦਾ ਹਾਂ? ਮੈਨੂੰ ਪਰਵਾਹ ਨਹੀਂ। ਪਾਤੀ = ਗੋਤ। ਜਾਤੀ = (ਆਪਣੀ ਨੀਵੀਂ) ਜ਼ਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

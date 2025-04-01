@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਉਸਤੋਂ ਮੂੰਹ ਮੋੜਿਆ, ਉਹ ਰੱਦ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਬਰ-ਗਰਦਦ ਅਜ਼ਾਂ ਮੁਰਤਦ ਬਵਦ ।੪੪੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

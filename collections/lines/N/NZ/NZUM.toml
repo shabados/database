@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਸਾਰਾ ਪਾਕ ਤਨ ਅੱਖਾਂ ਹੀ ਅੱਖਾਂ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਦੀਦਾ ਆਮਦ ਤਨਿ ਕੁਦਸਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

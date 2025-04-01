@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਾਇਆਂ!) ਜੇ ਤੂੰ ਗੁਰੂ ਦਾ ਆਸਰਾ ਲਏਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੂ = ਗੁਰੂ। ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

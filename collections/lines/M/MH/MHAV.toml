@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਸਭ ਥਾਈਂ ਵਿਆਪਕ ਹੋ ਕੇ) ਆਪ ਹੀ ਸਾਰੇ ਰਸ ਭੋਗ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

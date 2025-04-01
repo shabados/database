@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ। ਜਗਤ ਵਿਚ ਇਹੀ ਕੰਮ ਸ੍ਰੇਸ਼ਟ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਰ = ਸ੍ਰੇਸ਼ਟ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

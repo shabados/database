@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਜੀਵ ਦਿਨ ਰਾਤ ਤੇਰੀਆਂ ਸਿਫ਼ਤਾਂ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੇ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

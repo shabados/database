@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਇਕ ਨੂੰ ਭੁਲ ਕੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਾਰਿ = ਭੁਲਾ ਕੇ। ਦੂਜੈ = ਤੈਥੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਵਿਚ, ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

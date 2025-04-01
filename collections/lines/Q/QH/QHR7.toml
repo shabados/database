@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਮਨੁੱਖ ਉਚੇ (ਆਤਮਕ) ਟਿਕਾਣੇ ਤੇ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨਿ ਊਚੈ = ਉੱਚੇ ਥਾਂ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

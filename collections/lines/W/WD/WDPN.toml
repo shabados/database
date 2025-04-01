@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਧਰਤੀ ਦੇ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਮੈਂ ਕਿਸ ਤਰ੍ਹਾਂ ਪਛਾਣਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਕਿਹਿ ਬਿਧਿ = ਕਿਸ ਤਰ੍ਹਾਂ? ਲਖਉ = ਲਖਉਂ, ਮੈਂ ਪਛਾਣਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

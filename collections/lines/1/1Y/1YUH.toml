@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਆਤਮਕ ਜੀਵਨ) ਤੋਂ ਬਿਨਾ ਜੀਵਿਆ ਹੀ ਨਹੀਂ ਜਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਬਾਝੁ = (ਉਹ \"ਜੀਵਨੁ ਮੂਏ ਬਿਨੁ ਨਾਹੀ\") ਜਿਸ ਆਤਮਕ ਜੀਵਨ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

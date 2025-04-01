@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਦਿਨ ਸੁਹਾਵਣੇ ਹੁੰਦੇ ਹਨ ਉਹ ਮਿਲਾਪ ਦੇ ਅਵਸਰ ਸੁਖਦਾਈ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਨਸ = ਦਿਹਾੜੇ। ਸੰਜੋਗ = ਮਿਲਾਪ ਦੇ ਅਵਸਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਹੇ ਮੇਰੇ ਹਰੀ! ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਤੈਨੂੰ ਮਿਲਣ ਦੀ (ਬੜੀ) ਤਾਂਘ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਰੀ = ਦੀ। ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

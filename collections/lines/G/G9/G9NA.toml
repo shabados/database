@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵਨ ਆਪਾ-ਭਾਵ ਤਿਆਗਣ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਮਿਲ ਸਕਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਏ ਬਿਨੁ = (ਚਸਕਿਆਂ ਵਲੋਂ) ਮਰਨ ਤੋਂ ਬਿਨਾ, ਆਪਾ-ਭਾਵ ਛੱਡਣ ਤੋਂ ਬਿਨਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

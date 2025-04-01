@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਉਹ ਮਾਲਕ ਹਰ ਥਾਂ ਵਿਚ ਮੌਜੂਦ ਦਿੱਸਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰ ਥਾਂ ਵਿਚ। ਬੀਰ = ਹੇ ਵੀਰ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮੱਖੀ ਬਹੁਤ ਸ਼ਹਿਦ ਇਕੱਠਾ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧੂ = ਸ਼ਹਿਦ। ਸੰਚੈ = ਇਕੱਠਾ ਕਰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

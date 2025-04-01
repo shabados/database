@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸ਼ਰਨ ਪੈ ਜਾਏਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਿ = ਜੇ ਤੂੰ ਪੈ ਜਾਏਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

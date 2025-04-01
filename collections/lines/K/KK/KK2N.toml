@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ ਉਪਰਾਮ ਹੋ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਆਰਾਧਨ ਕਿਉਂ ਨਹੀਂ ਕਰਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਬੈਰਾਗੀ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ ਉਪਰਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

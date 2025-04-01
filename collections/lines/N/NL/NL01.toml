@@ -36,6 +36,12 @@ language = "pa"
 data = "ਥਲਾਂ ਦੇ ਬੇਅੰਤ ਵਰੋਲੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਲ ਵਾਰੋਲੇ = ਥਲਾਂ ਦੇ ਵਾਰੋਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ ਦਰਗਾਹ ਦਾ ਟਿੱਕਾ ਲੱਗਦਾ ਹੈ ॥੪॥੫॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਸਿਰਿ = ਜਿਸ ਦੇ ਸਿਰ ਉਤੇ, ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ। ਨੀਸਾਣੁ = ਨਿਸ਼ਾਨ, ਟਿੱਕਾ ॥੪॥੫॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

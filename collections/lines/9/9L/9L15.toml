@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇਹੜਾ ਜੀਵ ਤੈਨੂੰ ਚੰਗਾ ਲਗਦਾ ਹੈ, ਉਸ ਨੂੰ ਤੇਰੀ ਰਜ਼ਾ ਮਿੱਠੀ ਲੱਗਣ ਲੱਗ ਪੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ ਭਾਵੈ = ਜੇਹੜਾ ਜੀਵ ਤੈਨੂੰ ਚੰਗਾ ਲਗਦਾ ਹੈ। ਭਲਾ = ਪਿਆਰਾ, ਸੁਖਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਦਰਸਨ ਤੋਂ ਬਿਨਾ) ਮੇਰਾ ਇਹ ਨਿਮਾਣਾ ਦਿਲ ਕਿਵੇਂ ਧੀਰਜ ਫੜੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨ ਬਿਧਿ = ਕਿਨ੍ਹਾਂ ਤਰੀਕਿਆਂ ਨਾਲ? ਹੀਅਰੋ ਨਿਮਾਨੋ = ਇਹ ਵਿਚਾਰਾ ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

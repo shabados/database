@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ੂਮ ਨੂੰ ਧਨ ਦਾ ਬਹੁਤ ਲੋਭ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਨ = ਕੰਜੂਸ, ਸ਼ੂਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

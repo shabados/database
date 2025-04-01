@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਸਹੀ-ਸਰੂਪ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਤੇ ਜਿਸ ਦਾ ਭੇਤ ਪਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਜਿਸ ਦਾ ਸਹੀ ਸਰੂਪ ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਅਭੇਵੀਐ = ਅਭੇਵ, ਜਿਸ ਦਾ ਭੇਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

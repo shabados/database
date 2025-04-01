@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਸਿਰਜਣਹਾਰ! ਤੂੰ (ਤੇਰਾ ਨਾਮ) ਤੇਰੇ ਭਗਤਾਂ ਦਾ ਸਹਾਰਾ ਹੈ, ਤੇਰਾ ਨਾਮ ਤੇਰੇ ਸੰਤਾਂ ਦਾ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਸਹਾਰਾ। ਓਟ = ਆਸਰਾ। ਸਿਰਜਨਹਾਰਾ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

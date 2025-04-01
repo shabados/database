@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਕੋਈ ਭਲਿਆਈ ਦੀ ਗੱਲ ਭੀ ਵਿਚਾਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੈ, ਆਖਦਾ ਹੈ। ਗੁਨੁ = ਭਲਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

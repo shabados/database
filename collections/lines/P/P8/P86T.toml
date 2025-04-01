@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੋ ਕੁਝ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੋ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ (ਪਰਮਾਤਮਾ) ਨੂੰ। ਭਾਵੈ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਪਸੰਦ ਆਉਂਦਾ ਹੈ। ਥੀਆ = ਹੋ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਘੜੇ ਤੋਂ ਬਿਨਾ ਪਾਣੀ ਨਹੀਂ ਟਿਕ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਭ = ਘੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

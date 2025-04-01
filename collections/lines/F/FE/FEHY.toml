@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕਾਈ ਰਿਵਾਜੀ ਤੌਰ ਤੇ ਹੀ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ) ਗੀਤ ਗਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਨਹਾਰੀ = ਰਿਵਾਜੀ ਤੌਰ ਤੇ ਗਾਵਣ ਵਾਲੀ ਦੁਨੀਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

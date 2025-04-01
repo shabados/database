@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਕੰਮ ਤੇ ਸਾਰੀਆਂ ਵਿਚਾਰਾਂ ਨਾਸ-ਰਹਿਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੇ = ਕੰਮ। ਸਰਬ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

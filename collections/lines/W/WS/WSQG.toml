@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਕਰਤਾਰ ਦੀ ਮੇਹਰ ਹੋਵੇ, ਤਾਂ) ਕੀੜੀ (ਭੀ) ਸਾਰੇ ਜਗਤ ਨੂੰ ਜਿੱਤ ਲੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰੀ = ਕੀੜੀ। ਭਵਨੁ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

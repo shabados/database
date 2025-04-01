@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਿ-ਨਾਮ ਨੂੰ ਵਿਸਾਰ ਕੇ ਜਿਹੜੇ ਮਨੁੱਖ) ਅਨੇਕਾਂ ਚੰਗੇ ਚੰਗੇ ਖਾਣੇ ਖਾਂਦੇ ਪੀਂਦੇ ਹਨ, (ਉਹ ਇਉਂ ਹੀ ਹਨ) ਜਿਵੇਂ ਭਾਰ ਢੋਣ ਵਾਲੇ ਖੋਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਜਨ = ਭੋਜਨ। ਬਾਹਕ = ਚੁੱਕਣ ਵਾਲੇ, ਢੋਣ ਵਾਲੇ। ਖੋਤ = ਖੋਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

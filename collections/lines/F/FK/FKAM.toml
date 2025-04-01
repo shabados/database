@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੀ ਸੁਭਾਗੀ ਆਮਦ ਨਾਲ ਜਹਾਨ ਨੂੰ ਰੋਸ਼ਨ ਕਰ ਦਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਬਰ-ਕਸ਼ਦ ਨਕਾਬ ਜ਼ਿ ਰੁਖ਼ਿ ਆਫ਼ਤਾਬਿ ਸੁਬਹਾ ।੧੭।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

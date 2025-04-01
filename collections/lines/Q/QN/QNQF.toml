@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਪੂਰੇ ਗੁਰੂ ਦੇ ਚਰਨ ਫੜ ਲਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹੇ = ਫੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

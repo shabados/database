@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਕਿ ਸੱਜਨ ਦੇ ਮੁਖੜੇ ਦੀ ਆਸ ਵਿਚ ਹੀ ਸੜ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਬ-ਉਮੀਦ ਰੂਇ ਯਾਰ ਬਿਸੋਖ਼ਤ ।੧੪।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

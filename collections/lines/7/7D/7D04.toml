@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਮਨ ਵਿਚ ਚਿਤ ਵਿਚ ਜੋ ਕੁਝ ਵਰਤਦੀ ਹੈ, ਉਹ ਹਾਲਤ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਚਿਤਿ = ਮਨ ਵਿਚ ਚਿਤ ਵਿਚ। ਬਿਧਿ = ਹਾਲਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਫੁਲਵਾੜੀ ਦਾ) ਫਲ ਜ਼ਹਰ ਹੈ, (ਭਾਵ, ਆਤਮਕ ਮੌਤ ਪੈਦਾ ਕਰਦਾ ਹੈ) ਇਹ ਥੋੜੇ ਦਿਨ ਹੀ ਸੁਆਦਲਾ ਲੱਗਦਾ ਹੈ, ਫਿਰ ਇਹ ਦੁਖਦਾਈ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਰ। ਤਾਤਾ = ਤੱਤਾ, ਦੁਖਦਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

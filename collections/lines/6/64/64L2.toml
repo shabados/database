@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਜੋਗੀ, ਨਾਹ ਜੋਗ-ਸਾਧਨ ਕਰਨ ਵਾਲੇ, ਕੋਈ ਭੀ ਧਰਤੀ ਤੇ ਨਾਹ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧ = ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ। ਧਰਾ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਦੇ ਸੁਆਦ ਦੀ ਮੌਜ ਵਿਚ ਉਹ ਨਕਾ-ਨਕ ਭਰੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭਰ = ਨਕਾ-ਨਕ। ਪ੍ਰੇਮ ਰਸ ਰੰਗਿ = ਪ੍ਰੇਮ ਦੇ ਸੁਆਦ ਦੀ ਮੌਜ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

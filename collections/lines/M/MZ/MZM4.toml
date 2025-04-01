@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੇਰਾ ਕੋਈ ਦੁਸ਼ਮਨ ਨਹੀਂ ਰਹਿ ਗਿਆ (ਮੈਨੂੰ ਕੋਈ ਵੈਰੀ ਨਹੀਂ ਦਿੱਸਦਾ), ਮੈਂ ਭੀ ਕਿਸੇ ਦਾ ਵੈਰੀ ਨਹੀਂ ਬਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਕੇ = ਕਿਸੇ ਦੇ। ਬੈਰਾਈ = ਵੈਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

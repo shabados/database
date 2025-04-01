@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਸੰਗ ਵਿਚ ਰਹਿ ਕੇ ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਇਹ ਯਕੀਨ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸ੍ਵਾਸ = ਯਕੀਨ, ਭਰੋਸਾ, ਸ਼ਰਧਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

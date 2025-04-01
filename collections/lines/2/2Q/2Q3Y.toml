@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਲੋਂ) ਫਿਟਕਾਰਾਂ ਹੀ ਫਿਟਕਾਰਾਂ, ਬਦੀਆਂ ਦਾ ਕੋਹੜ, ਹਰ ਵੇਲੇ ਦੀ ਆਕੜ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋੜੁ ਬਦੀਆ = ਪਾਪਾਂ ਦਾ ਕੋਹੜ। ਫਿਟਕ ਫਿਟਕਾ = (ਜਗਤ ਵਲੋਂ) ਫਿਟਕਾਰਾਂ ਹੀ ਫਿਟਕਾਰਾਂ। ਸਦਾ ਸਦਾ ਅਭਿਮਾਨੁ = ਹਰ ਵੇਲੇ ਦੀ ਆਕੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

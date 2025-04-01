@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੋਈ ਵੀ ਉਨ੍ਹਾਂ ਗੁਰਮੁਖਾਂ ਦੀ ਅਵਸਥਾ ਤੋਂ ਜਾਨੂ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੀਚ ਕਸ ਅਜ਼ ਹਾਲਿ ਸ਼ਾਂ ਆਗਾਹ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

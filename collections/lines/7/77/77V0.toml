@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਰੰਕਾਰ ਦੀ ਰਚੀ ਹੋਈ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ) ਅਨੇਕਾਂ ਹੀ ਮਹਾਂ ਮੂਰਖ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਖ ਅੰਧ ਘੋਰ = ਪਰਲੇ ਦਰਜੇ ਦੇ ਮੂਰਖ, ਮਹਾਂ ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਸਿਮਰਨ) ਦੀ ਬਰਕਤਿ ਨਾਲ ਮਨੁੱਖ ਦੀ ਮੇਹਨਤ ਵਿਅਰਥ ਨਹੀਂ ਜਾਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਤੇ = ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ। ਘਾਲ = ਮੇਹਨਤ। ਬਿਰਥੀ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

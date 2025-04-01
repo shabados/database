@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰ ਸਾਰੀ ਚੀਜ਼ ਤੇਰੇ ਪਾਸ ਅਮਾਨਤ (ਵਾਂਗ ਹੀ ਪਈ) ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰ = ਹੋਰ, ਬਾਕੀ ਦੀ। ਪਾਹਿ = ਪਾਸ। ਅਮਾਨ = ਅਮਾਨਤ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

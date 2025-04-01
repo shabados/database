@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੂਤਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ! ਹੇ ਮੇਰੀ ਜਿੰਦ (ਦੇ ਸਹਾਰੇ)!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧੁ ਸੂਦਨ = {ਮਧੁ ਰਾਖਸ਼ ਨੂੰ ਮਾਰਨ ਵਾਲਾ} ਹੇ ਪ੍ਰਭੂ! ਮਾਧੋ = {ਮਾ-ਧਵ = ਮਾਇਆ ਦਾ ਪਤੀ} ਹੇ ਹਰੀ! ਪ੍ਰਾਨਾ = ਹੇ ਮੇਰੀ ਜਿੰਦ (ਦੇ ਸਹਾਰੇ)!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

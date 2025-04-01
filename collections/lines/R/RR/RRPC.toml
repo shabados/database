@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਅਕਾਲ ਪੁਰਖ!) ਜੋ ਮਨੁੱਖ ਤੇਰੇ ਦੀਦਾਰ ਦੇ ਚਾਹਵਾਨ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਂਖੀ = ਚਾਹਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

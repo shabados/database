@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਮ ਰਿਗ ਜਜੁਰ ਅਥਰਬਣ-ਇਹ ਚਾਰੇ ਵੇਦ ਪ੍ਰਭੂ ਦੇ ਨਿਰੋਲ ਆਪਣੇ ਆਪੇ ਤੋਂ ਹੀ ਪ੍ਰਗਟੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਗੁ = ਰਿਗ ਵੇਦ। ਜੁਜਰੁ = ਜਜੁਰ ਵੇਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

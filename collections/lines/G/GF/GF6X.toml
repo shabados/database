@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿਤ੍ਰ! ਸੁਣ, ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ:"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤਾ = ਹੇ ਮਿਤ੍ਰ! ਨਾਨਕੁ = {Nominative Case, Singular Number, Subject to the verb ਬਿਨਵੰਤਾ, ਕਰਤਾ-ਕਾਰਕ, ਪੁਲਿੰਗ, ਇਕ-ਵਚਨ।} ਨਾਨਕੁ ਬਿਨਵੰਤਾ = ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

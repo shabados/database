@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਖ-ਜਦੋਂ ਭੀ ਸ਼ਾਹ-ਪ੍ਰਭੂ ਨੇ ਕਿਰਪਾ ਕਰ ਕੇ (ਕਿਸੇ ਜੀਵ-ਵਣਜਾਰੇ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿ = ਸ਼ਾਹ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

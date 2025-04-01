@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਹੀ ਇਹ ਮਨੁੱਖਾ-ਸਰੀਰ ਮਿਲਿਆ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ। ਪਾਈ = ਲੱਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

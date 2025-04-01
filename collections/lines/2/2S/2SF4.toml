@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰ ਹੋਰ ਪਿਆਰ ਵਿਚ ਲੱਗਾ ਹੋਇਆ ਮਨੁੱਖ ਦੁੱਖ (ਹੀ) ਸਹਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ ਭਾਇ = ਹੋਰ ਹੋਰ ਪਿਆਰ ਵਿਚ। ਲਗਾ = ਲੱਗਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

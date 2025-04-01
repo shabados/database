@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਸਰੀਰ ਦੇ) ਅੰਗਾਂ ਨੂੰ ਅਤਰ ਤੇ ਚੰਦਨ ਮਲੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਆ = ਅਤਰ। ਮਰਦਨ = ਮਾਲਸ਼। ਅੰਗਾ = ਸਰੀਰ ਦੇ ਅੰਗਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

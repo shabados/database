@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਕੀਤੀ ਕੋਈ ਸੇਵਾ ਨਹੀਂ ਵੇਖੀ ਕੋਈ ਮਿਹਨਤ ਨਹੀਂ ਵੇਖੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲ = ਮਿਹਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਉਸ ਨੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ ਕੱਢ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

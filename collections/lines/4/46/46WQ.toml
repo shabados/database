@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ (ਦੇ ਮੋਹ) ਦੀ ਜ਼ਹਰ (ਜਗਤ ਵਿਚ) ਬਹੁਤ ਸੰਘਣੀ ਖਿਲਰੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਰ। ਬਿਖਿਆ = ਮਾਇਆ। ਪਸਰੀ = ਖਿਲਰੀ ਹੋਈ। ਘਨੀ = ਸੰਘਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

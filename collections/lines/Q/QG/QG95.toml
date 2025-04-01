@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਹਿਰਦੇ-ਘਰ ਵਿਚ (ਪ੍ਰਭ-ਪਤੀ ਦੀ) ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀਏ = ਹੇ ਸਖੀ! ਗਾਇਆ = ਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

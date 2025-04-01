@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ ਭਾਗ ਜਾਗ ਪੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਮਥਾਣੈ = ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ। ਭਾਗੁ = ਚੰਗੀ ਕਿਸਮਤ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

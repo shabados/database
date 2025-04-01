@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ (ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ (ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ) ਨੂੰ ਜਪਦਾ ਹਾਂ (ਇਹੀ ਹੈ ਮੇਰੀ) ਮਾਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਜਪਨੀ = ਮਾਲਾ। ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਦਾ ਹਾਂ। ਗੁਣਤਾਸਾ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

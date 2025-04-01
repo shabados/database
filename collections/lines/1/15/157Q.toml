@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸ਼ਬਦ ਮਾਣਕ ਹੈ, ਜਿਸ ਨੂੰ ਸੱਚ ਦੀ ਚਮਕ ਬਖਸ਼ੀ ਗਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਮਾਨਕ ਚੁਨਾਂ ਮਾਨਕਿ ਹੱਕ ਜ਼ਿਆ ।੨੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

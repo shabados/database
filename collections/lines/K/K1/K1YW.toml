@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਜਿਵੇਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗੇ ਤਿਵੇਂ ਮੇਰੀ ਰੱਖਿਆ ਕਰ। ਤੈਥੋਂ ਬਿਨਾ ਮੇਰਾ ਹੋਰ ਕੋਈ (ਸਹਾਰਾ) ਨਹੀਂ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = ਹੋਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

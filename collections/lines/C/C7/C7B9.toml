@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ੇਖ ਪੀਰ ਆਦਿਕ ਭੀ ਰੋਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਾਇਕ = ਮਸ਼ਾਇਖ਼, ਲਫ਼ਜ਼ 'ਸ਼ੇਖ' ਦਾ ਬਹੁ-ਵਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

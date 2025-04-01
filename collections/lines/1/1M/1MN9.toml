@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀ! ਉਸ ਭਗਵਾਨ ਦੀ ਇਹ ਸੋਹਣੀ ਮਰਯਾਦਾ ਹੈ ਕਿ ਜੇ ਉਹ ਇਕ ਵਾਰੀ ਪ੍ਰੇਮ-ਵੱਸ ਹੋ ਜਾਵੇ ਤਾਂ ਫਿਰ ਕਦੇ ਛੱਡ ਕੇ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀ! ਵਸਿ = ਵੱਸ ਵਿਚ। ਭਗਵੰਤੈ = ਭਗਵਾਨ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

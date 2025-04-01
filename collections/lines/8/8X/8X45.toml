@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪਤੀ ਉਸ ਨੂੰ ਆਪਣੀ ਛਾਤੀ ਨਾਲ ਨਾਹ ਲਾਏ, ਤਾਂ ਉਸ ਨੂੰ ਸੁਖ ਪ੍ਰਤੀਤ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰ = ਛਾਤੀ, ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

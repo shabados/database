@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਿਲਾਂ ਮੈਨੂੰ ਸਲਾਹ ਦਿੱਤੀ ਗਈ ਕਿ (ਵੈਰੀ ਬਣ ਕੇ ਆ ਰਹੇ ਨੂੰ) ਚਿੱਠੀ ਲਿਖ ਭੇਜਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾ = ਸਲਾਹ। ਜਿ = ਕਿ। ਪਤ੍ਰੀ = ਚਿੱਠੀ। ਚਲਾਵਉ = ਮੈਂ ਭੇਜਾਂ, ਚਲਾਵਊਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

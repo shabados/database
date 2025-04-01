@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਦੀ ਮੈਂ ਆਪਣੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਦਾਸੀ ਬਣ ਗਈ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ ਕੀ = ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ। ਹਉ = ਮੈਂ। ਚੇਰੀ = ਦਾਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

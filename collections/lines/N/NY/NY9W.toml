@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਪਰਲੋਕ ਵਿਚ ਜਮ ਮੇਰਾ ਕੁਝ ਭੀ ਨਹੀਂ ਵਿਗਾੜ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਪਰਲੋਕ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

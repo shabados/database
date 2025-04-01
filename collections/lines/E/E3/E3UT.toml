@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ, ਜਿਸ ਨੇ ਰੱਬ ਦੇ ਰਾਹ ਨੂੰ ਪਹਿਚਾਨ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਆਣ ਕਸ ਕਿ ਰਾਹਿ ਹੱਕ ਰਾ ਬਿਸ਼ਨਾਖ਼ਤ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

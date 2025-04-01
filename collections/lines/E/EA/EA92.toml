@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੌਤ ਆਇਆਂ (ਇਹਨਾਂ ਵਿਚ) ਇਕ ਘੜੀ ਭੀ (ਵਧੀਕ) ਖਲੋਣਾ ਨਹੀਂ ਮਿਲਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੁਨਿ = ਮੁੜ (ਭਾਵ, ਮੌਤ ਆਇਆਂ) ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

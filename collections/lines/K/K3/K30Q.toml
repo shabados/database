@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਰ ਚਾਰ ਖਾਣੀਆਂ ਅਤੇ ਛੇ ਦਰਸ਼ਨਾਂ ਨਾਲੋਂ ਵੀ ਵਧੇਰੇ ਉਚੇਰਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹਰ ਰੁਬਾਅ ਸੁਦਸ ਆਮਦਾ ਸੁਬੁਸਤਰ ।੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

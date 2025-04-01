@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੂਰਨ ਪਾਰਬ੍ਰਹਮ! ਹੇ ਗੁਰਦੇਵ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਾਰਬ੍ਰਹਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

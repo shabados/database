@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰੇ ਗੁਰੂ ਨੇ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਇਹ ਨਿਸ਼ਚਾ ਕਰਾ ਦਿੱਤਾ ਕਿ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰੂ ਨੇ। ਬਿਸਾਸ = {विश्वास} ਭਰੋਸਾ, ਨਿਸ਼ਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

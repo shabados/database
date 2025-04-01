@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਾਨੋ ਉਸ ਨੂੰ ਛੁਪੇ ਖਜ਼ਾਨੇ ਦਾ ਟਿਕਾਣਾ ਲੱਭ ਪਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਫ਼ਤ ਊ ਆਣ ਗੰਜਿ ਮਖ਼ਫ਼ੀ ਰਾ ਮਕਾਮ ।੧੭੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

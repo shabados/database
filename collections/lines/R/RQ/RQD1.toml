@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿਰ ਪਿੱਛੋਂ ਤੈਨੂੰ ਇਹ (ਮਨੁੱਖਾ-) ਸਰੀਰ ਮਿਲਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ। ਸੰਜਰੀਆ = ਮਿਲੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

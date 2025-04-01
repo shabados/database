@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਦਰਵਾਜ਼ੇ ਦੀ ਖਾਕ ਉੱਤੇ ਨਿਮਰਤਾ ਸਹਿਤ ਸਿਰ ਝੁਕਾ ਰਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਖ਼ਾਕਿ ਦਰਸ਼ ਸਰ ਨਿਹਾਦਾ ਬ-ਇੱਜਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

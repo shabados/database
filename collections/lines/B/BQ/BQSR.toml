@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਾਰੇ ਦੇ ਸਾਰੇ ਵੇਦ ਪੜ੍ਹਦੇ ਹਨ, ਉਹ ਭੀ ਅਸਲੀਅਤ ਨਹੀਂ ਵੇਖ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਅਸਲੀਅਤ। ਨ ਪੇਖੰ = ਨਹੀਂ ਵੇਖਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

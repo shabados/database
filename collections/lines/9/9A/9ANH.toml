@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੁਰਗ ਦੇ ਬਾਗ ਲਈ ਸਵੇਰ ਦੀ ਸੁਗੰਧੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਿਆਜ਼ਿ ਜਿਨਾਂ ਰਾ ਨਸੀਮਿ ਸਹਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

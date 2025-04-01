@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਸਿਮਰਿਆਂ (ਨੀਵੀਂ ਉੱਚੀ) ਜਾਤ ਕੁਲ ਦਾ ਵਿਤਕਰਾ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰੀ = ਨਾਸ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

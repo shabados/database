@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਡਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਬੇ-ਮਿਸਾਲ ਹੈ, ਉਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

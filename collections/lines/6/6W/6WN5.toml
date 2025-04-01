@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਮਲੇ!) ਜਿਸ ਚੀਜ਼ ਨੂੰ ਤੂੰ ਆਪਣੇ ਕੰਮ ਆਉਣ ਵਾਲੀ ਸਮਝਦਾ ਹੈਂ, ਉਹ ਰਤਾ ਭਰ ਭੀ (ਅੰਤ ਵੇਲੇ) ਤੇਰੇ ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪੁਨੇ ਕਾਜੈ = ਆਪਣੇ ਕੰਮ ਵਿਚ ਆਉਣ ਵਾਲਾ। ਤਸੂਆ = ਤੱਸੂ ਭਰ, ਰਤਾ ਭੀ {ਤਸੂ = ਇਕ ਇੰਚ ਦਾ ਦਸਵਾਂ ਹਿੱਸਾ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਜੀਵ ਤੇਰੇ ਗੁਣ ਗਾਉਂਦੇ ਹਨ, ਪਰ ਤੇਰਾ ਅੰਤ ਰਤਾ ਭੀ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਅੰਤ = ਬੇਅੰਤ ਜੀਵ। ਇਕੁ ਤਿਲੁ = ਰਤਾ ਭੀ। ਨਹੀ ਪਾਸੀ = ਨਹੀਂ ਪੈਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

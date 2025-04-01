@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਵੱਸ ਵਿਚ ਹਰੇਕ ਚੀਜ਼ ਹੈ, ਉਹ ਸਭਨਾਂ ਵਾਲੋਂ ਵੱਡਾ ਹੈ, ਸਦਾ ਹੀ ਉਸ ਦਾ ਧਿਆਨ ਧਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੈ ਵਸਿ = ਦੇ ਵੱਸ ਵਿਚ। ਜਿਸ ਦੈ = {ਲਫ਼ਜ਼ 'ਜਿਸ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਦੈ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}। ਸਬਦੂ = ਸਭਨਾਂ ਨਾਲੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

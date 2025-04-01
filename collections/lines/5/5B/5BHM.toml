@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਬਚਨ ਵਿਚ (ਜੁੜ ਕੇ ਆਪਣੇ ਅੰਦਰੋਂ) ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਚਨਿ = ਬਚਨ ਦੀ ਰਾਹੀਂ। ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

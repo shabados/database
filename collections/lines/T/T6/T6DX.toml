@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਉਸ ਦੀ ਲੋੜ ਗ਼ਰਜ਼ ਪੂਰੀ ਨਾਹ ਕਰੇ, ਉਸ ਪਾਸੋਂ ਆਪਣਾ ਕੋਈ ਕੰਮ ਸਿਰੇ ਨਾਹ ਚੜ੍ਹ ਸਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਰਥੁ = ਆਪਣੀ ਗ਼ਰਜ਼। ਸੁਆਉ = ਸੁਆਰਥ, ਮਨੋਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

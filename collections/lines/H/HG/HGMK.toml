@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਖਾਧਿਆਂ ਤੇਰੇ ਮੰਦ ਕਰਮ (ਸਾਰੇ) ਨਾਸ ਹੋ ਜਾਣ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਖਾਧੈ = ਜਿਸ (ਦਾਰੂ) ਦੇ ਖਾਧਿਆਂ। ਵਿਕਾਰ = ਮੰਦੇ ਕਰਮ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

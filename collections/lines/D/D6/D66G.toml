@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹਾਂ। ਮੈਨੂੰ ਕਿਤੇ ਉਸ ਵਰਗਾ ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹੀ = ਸਾਲਾਹੀਂ, ਮੈਂ ਸਲਾਹੁੰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

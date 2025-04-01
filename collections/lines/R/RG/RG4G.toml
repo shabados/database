@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਨਿਰੰਕਾਰ!) ਹਵਾ, ਪਾਣੀ, ਅੱਗ ਤੇਰੇ ਗੁਣ ਗਾ ਰਹੇ ਹਨ। ਧਰਮਰਾਜ ਤੇਰੇ ਦਰ ਤੇ (ਖਲੋ ਕੇ) ਤੈਨੂੰ ਵਡਿਆਇ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸੰਤਰੁ = ਅੱਗ। ਰਾਜਾ ਧਰਮ = ਧਰਮ-ਰਾਜ। ਦੁਆਰੇ = ਤੇਰੇ ਦਰ ਤੇ (ਹੇ ਨਿਰੰਕਾਰ!)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

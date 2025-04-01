@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਭਲੀ ਸੁਹਬਤ ਨਹੀਂ ਮਿਲ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਝਹੁ = ਬਿਨਾ। ਸੰਗਤਿ = ਭਲੀ ਸੁਹਬਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

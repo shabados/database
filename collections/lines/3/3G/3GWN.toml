@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ ਆਪਣਾ ਹੱਥ (ਬਾਲਕ ਦੇ) ਸਿਰ ਉਤੇ ਰੱਖ ਕੇ ਬਾਲਕ ਨੂੰ (ਤਾਪ ਤੋਂ) ਬਚਾ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੁ = ਹੱਥ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਧਾਰਿ = ਰੱਖ ਕੇ। ਰਖਿ ਲੀਨ = (ਤਾਪ ਤੋਂ) ਬਚਾ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

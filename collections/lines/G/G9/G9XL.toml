@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਿੱਟੀ ਦਾ ਬਣਿਆ ਹੋਇਆ ਦੀਵਾ ਪਰਮਾਤਮਾ ਪਰਵਾਨ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੀ = ਉਸ (ਮਿੱਟੀ) ਦਾ ਬਣਾਇਆ ਹੋਇਆ (ਦੀਵਾ)। ਮਾਨੈ = ਪਰਵਾਨ ਕਰਦਾ ਹੈ। ਸੋਇ = ਉਹ ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

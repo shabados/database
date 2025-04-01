@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਤਨਾ ਭੀ ਇਹ ਦਿੱਸ ਰਿਹਾ ਸੰਸਾਰ ਹੈ, ਇਹ ਸਾਰਾ ਹੀ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਦਾ ਸਰਗੁਣ ਰੂਪ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਰ ਹੈ = ਅੱਖਰ ਦਾ (ਪਸਾਰਾ) ਹੈ, ਹੁਕਮ ਦਾ ਪਸਾਰਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

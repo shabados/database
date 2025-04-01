@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਸਰ ਵਿਚ ਸਦਾ ਹੀ ਇਸ਼ਨਾਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਤ ਪ੍ਰਤਿ = ਸਦਾ ਹੀ। ਨਾਵਣੁ = ਇਸ਼ਨਾਨ। ਸਰਿ = ਸਰ ਵਿਚ। ਰਾਮ ਸਰਿ = ਰਾਮ (ਦੇ ਨਾਮ-ਰੂਪ) ਸਰ ਵਿਚ। ਕੀਜੈ = ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

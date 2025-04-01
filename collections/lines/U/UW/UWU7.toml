@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਡੇ) ਇਸ ਸਰੀਰ-ਰੂਪ ਘਰ ਵਿਚ ਕੌਣ ਵੱਸਦਾ ਹੈ? ਉਸ ਦਾ ਕੀਹ ਅਸਲਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆ ਮੰਦਰਿ ਮਹਿ = ਇਸ ਸਰੀਰ-ਘਰ ਵਿਚ। ਬਸਾਈ = ਵੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

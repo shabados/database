@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ ਲਿਖ ਕੇ) ਉਸੇ ਵੇਲੇ ਤੇਰੇ ਹੱਥ ਪਵਿਤ੍ਰ ਹੋ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = {हस्त} ਹੱਥ। ਪੁਨੀਤ = ਪਵਿਤ੍ਰ। ਹੋਹਿ = ਹੋ ਜਾਂਦੇ ਹਨ। {ਹੋਇ = ਹੋ ਜਾਂਦਾ ਹੈ}। ਤਤਕਾਲ = ਤੁਰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

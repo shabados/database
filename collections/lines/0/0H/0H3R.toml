@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ ਪ੍ਰਭੂ! ਹੇ ਜੀਵਾਂ ਦੇ ਅੰਗ-ਸੰਗ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ! (ਤੇਰਾ ਨਾਮ) ਜਪ ਕੇ ਮਨੁੱਖਾ ਜਨਮ (ਕਿਸੇ ਜੁਆਰੀਏ ਵਾਂਗ) ਜੂਏ (ਦੀ ਬਾਜ਼ੀ) ਵਿਚ ਵਿਅਰਥ ਨਹੀਂ ਗਵਾਇਆ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਜੂਐ = ਜੂਏ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਭਗਤ (ਬੜੇ) ਚਾਉ ਨਾਲ ਤੇਰੇ ਨਾਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਏ = ਚਾਇ, ਚਾਉ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਜੀਵੰਦਿਆਂ ਨੂੰ ਮਾਰ ਦਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗਾਂ ਰਾ ਬਜਾਂ ਕੁਸ਼ੰਦਾ ਹਮੀ ।੩੫।"
+page = 1
+line = 35
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

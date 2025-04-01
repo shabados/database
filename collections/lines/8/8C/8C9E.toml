@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਰਾਇ! ਹੇ ਪ੍ਰੀਤਮ! ਹੁਣ ਤੂੰ ਮੇਰਾ ਹੱਥ ਫੜ ਲੈ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੁ = ਹੱਥ। ਗਹਿ ਲੇਹੁ = ਫੜ ਲਵੋ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

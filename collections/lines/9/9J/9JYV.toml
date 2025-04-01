@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਆਪਣੇ ਪੱਥਰ ਵਰਗੇ ਦਿਲ ਨੂੰ ਨਰਮ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਦਿਲਿ ਚੂੰ ਸੰਗਿ ਖ਼ੁਦ ਰਾ ਨਰਮ ਕੁਨ ।੪੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

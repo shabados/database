@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ ਰੱਬ ਦੇ ਬੰਦਿਆਂ ਨੁੰ ਦੋਸਤ ਬਣਾ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਮਰਦਾਨਿ ਹੱਕ ਰਾ ਦੂਸਤ ਦਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ ਲੱਭ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਲਬਧਿਓ ਹੈ = ਲੱਭ ਲਿਆ ਹੈ। ਟੇਕਾ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

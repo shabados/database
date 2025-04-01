@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ ਹਰੇਕ ਪਦਾਰਥ ਦਿੱਤਾ ਹੈ, ਉਸ ਨੂੰ ਰਤਾ ਭਰ ਸਮੇ ਲਈ ਭੀ ਭੁੱਲਣਾ ਨਹੀਂ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕੁ ਤਿਲੁ = ਰਤਾ ਭਰ ਸਮੇ ਲਈ ਭੀ। ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

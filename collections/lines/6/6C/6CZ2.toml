@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੁਸੀ ਕਿਸ ਸੌਦੇ ਦੇ ਵਪਾਰੀ ਹੋ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣਜਾਰੇ = ਵਪਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

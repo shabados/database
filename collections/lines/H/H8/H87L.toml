@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਿੱਖਿਆ ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੀ ਮੱਤ ਦੁਆਰਾ ਸਿੱਖ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਖੀ = ਸਿੱਖ ਲਈ। ਗੁਰ ਵੀਚਾਰਿ = ਗੁਰੂ ਦੀ ਵੀਚਾਰ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

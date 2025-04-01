@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਮਾਜ਼ੀਆਣ ਦੇ ਦਿਲਾਣ ਲਈ ਤੇਰੇ ਭਰਵੱਟੇ ਦਾ ਖਮ ਬੰਦਗੀ ਦਾ ਮਹਿਰਾਬ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਮਿ ਅਬਰੂਇ ਤੂ ਮਹਿਰਾਬਿ ਦਿਲ ਅਹਿਲਿ ਨਿਮਾਜ਼ ।੩੮।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

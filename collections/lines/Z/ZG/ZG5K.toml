@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਸ਼ਿਆਂ ਦਾ ਪ੍ਰੇਮੀ ਮਨੁੱਖ ਨਸ਼ਿਆਂ ਨਾਲ ਚੰਬੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਜ਼ਮੀਨ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜ਼ਮੀਨ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਲਨ ਸਿਉ = ਨਸ਼ਿਆਂ ਨਾਲ। ਅਮਲੀ = ਨਸ਼ਿਆਂ ਦਾ ਪ੍ਰੇਮੀ। ਭੂਮਨ = ਜ਼ਮੀਨ ਦੇ ਮਾਲਕ। ਭੂਮਿ = ਜ਼ਮੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

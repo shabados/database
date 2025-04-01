@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਦੱਸੋ, ਮੇਰਾ ਸੋਹਣਾ (ਪ੍ਰੀਤਮ) ਕਿਸ ਗਲੀ ਵਿਚ ਮਿਲੇਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਹੁ = ਦੱਸੋ। ਕਿਤੁ = ਕਿਸ ਵਿਚ? ਕਿਤੁ ਗਲੀ = ਕਿਸ ਗਲੀ ਵਿਚ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

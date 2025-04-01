@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਉਨ੍ਹਾਂ ਦੇ ਦੁਨਿਆਵੀ ਸਾਮਾਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿ ਸ਼ਾਂ ਅੰਦਰ ਖ਼ਿਲਾਫ਼ਤ ਦਾਸ਼ਤੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

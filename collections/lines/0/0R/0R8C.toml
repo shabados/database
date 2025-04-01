@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਵਿਚ ਕੁਝ ਨਹੀਂ ਕਿਉਂਕਿ ਇਹਨਾਂ ਨੇ ਤਾਂ ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਤੁਰਨਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਥਿ = ਹੱਥ ਵਿਚ, ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

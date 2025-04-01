@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪੋ ਆਪਣੇ (ਇਹਨਾਂ ਕੀਤੇ ਹੋਏ) ਕਰਮਾਂ ਦੇ ਅਨੁਸਾਰ ਕਈ ਜੀਵ ਅਕਾਲ ਪੁਰਖ ਦੇ ਨੇੜੇ ਹੋ ਜਾਂਦੇ ਹਨ ਅਤੇ ਅਕਾਲ ਪੁਰਖ ਤੋਂ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮੀ = ਕਰਮਾਂ ਅਨੁਸਾਰ। ਕੇ = ਕਈ ਜੀਵ। ਨੇੜੈ = ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਜ਼ਦੀਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਇਆ ਦੇ ਸੋਮੇ ਨਾਰਾਇਣ ਨੇ ਉਸ ਮਨੁੱਖ ਦੇ ਸਾਰੇ ਡਰ ਤੇ ਦੁੱਖ-ਕਲੇਸ਼ ਕੱਟ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ = {ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

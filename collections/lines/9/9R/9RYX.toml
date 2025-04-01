@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੀਵ ਤੇਰੇ (ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਹਨ, ਤੂੰ ਸਦਾ ਹੀ ਇਨ੍ਹਾਂ ਦਾ ਮਦਦਗਾਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜੀਵ {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

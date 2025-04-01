@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਿਮ੍ਰਤਾ-ਸੁਭਾਉ ਸਾਡੇ ਪਾਸ ਗੁਰਜ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰੀਬੀ = ਨਿਮ੍ਰਤਾ-ਸੁਭਾਉ। ਗਦਾ = ਗੁਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

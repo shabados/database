@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਤਾਂ ਸਗੋਂ) ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਿ = ਜੰਮ ਕੇ। ਆਵੈ ਜਾਇ = ਆਉਂਦਾ ਹੈ ਜਾਂਦਾ ਹੈ, ਜੰਮਦਾ ਮਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਦੇਵਤੇ ਭੀ) ਰਾਜਿਆਂ ਵਾਂਗ ਰਾਜ ਕਰਦੇ ਰਹੇ ਤੇ ਦੁੱਖਾਂ ਸੁਖਾਂ ਦੀ ਖ਼ਾਤਰ ਲੜਦੇ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਉ ਰਾਜੇ = ਰਾਜਿਆਂ ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

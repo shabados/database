@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਜਹਾਜ਼ ਤੋਂ ਬਿਨਾ ਸਮੁੰਦਰ ਦਾ ਸਫ਼ਰ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥ = ਜਹਾਜ਼। ਸਾਗਰ ਵਾਟ = ਸਮੁੰਦਰ ਦਾ ਸਫ਼ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

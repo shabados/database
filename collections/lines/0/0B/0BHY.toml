@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਉਹਨਾਂ ਕੁਚੱਜੀਆਂ ਜ਼ਨਾਨੀਆਂ ਵਾਂਗ ਹਨ ਜੋ) ਨਾਹ ਸੋਹਾਗਣਾਂ ਹਨ ਨਾਹ ਰੰਡੀਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਡ = ਰੰਡੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਸ਼ ਕਰ (ਵਿਚਾਰ ਕੇ ਵੇਖ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀ = ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

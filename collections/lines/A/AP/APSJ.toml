@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹੋ ਦਮ ਸੁਭਾਗਾ ਹੈ, ਜੋ ਉਸ ਦੀ ਯਾਦ ਵਿਚ ਗੁਜ਼ਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਜ਼ਹੇ ਦਮ ਕੁ ਬਯਾਦਸ਼ ਬਿਗੁਜ਼ਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

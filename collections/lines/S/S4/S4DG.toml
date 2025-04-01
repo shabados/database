@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੰਬੂ, ਛੱਤਰ, ਕਨਾਤਾਂ ਰਥ (ਉਹਨਾਂ ਦੇ ਦਰ ਤੇ ਹਰ ਵੇਲੇ) ਤਿਆਰ ਦਿੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਮੇ = ਖ਼ੈਮੇ, ਤੰਬੂ। ਸਰਾਇਚੇ = ਕਨਾਤਾਂ। ਦਿਸਨਿ = ਦਿੱਸਦੇ ਹਨ। ਰਥ ਪੀੜੇ = ਤਿਆਰ ਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

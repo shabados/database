@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਜੀਵਾਂ ਦਾ ਮੇਲ ਹੈ, ਕਿਤੇ ਵਿਛੋੜਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੋਗੁ = ਮੇਲ, ਜੀਵਾਂ ਦਾ ਮੇਲ। ਵਿਜੋਗੁ = ਵਿਛੋੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਅਸਲੋਣ ਤੁਛ ਸਮਝਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੇਸ਼ਤਨ ਰਾ ਹੀਚ ਮੀ ਦਾਨੰਦ ਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

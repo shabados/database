@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਸਾਈ ਰੱਖੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਫ਼ ਉਹ ਮਨੁੱਖ ਇਕਾਂਤ ਥਾਂ ਵਿਚ ਰਹਿੰਦਾ ਹੈ ਜਿਸ ਦਾ ਹਿਰਦਾ ਸ਼ਾਂਤ ਹੈ (ਇਕ ਥਾਂ ਟਿਕਿਆ ਹੋਇਆ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਾਂਤੀ = ਇਕਾਂਤ ਥਾਂ ਵਿਚ ਰਹਿਣ ਵਾਲਾ। ਰਿਦਾ = ਹਿਰਦਾ। ਥਾਇ = ਇਕ ਥਾਂ ਤੇ, ਸ਼ਾਂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੈਨੂੰ ਉਹ ਆਤਮਕ ਆਨੰਦ ਦੱਸੋ (ਜਿਸ ਨਾਲ ਮੇਰੀ ਮਾਇਆ ਦੀ) ਤ੍ਰਿਸ਼ਨਾ ਮਿਟ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋ ਕਉ = ਮੈਨੂੰ। ਸੰਤ = ਹੇ ਸੰਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

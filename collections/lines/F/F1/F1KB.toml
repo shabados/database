@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪਾਠ ਵਿਚ ਉਹ ਚਾਰੇ ਵੇਦ ਜ਼ਬਾਨੀ ਪੜ੍ਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਾਗਰ = ਮੂੰਹ-ਜ਼ਬਾਨੀ, ਮੂੰਹ ਅੱਗੇ {ਮੁਖ-ਅੱਗ੍ਰ}। ਪਾਠਿ = ਪਾਠ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

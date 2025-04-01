@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਕੋਈ) ਕੱਪੜਾ ਮੂਤਰ ਨਾਲ ਗੰਦਾ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲੀਤੀ = ਪਲੀਤ, ਗੰਦਾ। ਮੂਤ ਪਲੀਤੀ = ਮੂਤਰ ਨਾਲ ਪਲੀਤ। ਕਪੜੁ = ਕੱਪੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

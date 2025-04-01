@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਜਵੀਂ ਅਵਸਥਾ ਵਿਚ ਖਾਣ ਪੀਣ ਦੀ ਲਾਲਸਾ ਬਣਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਤੁ = ਧੌੜ, ਕਾਮਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

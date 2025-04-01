@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਗਾਂ ਵਾਲੇ! ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਸਦਾ ਸੁਣਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

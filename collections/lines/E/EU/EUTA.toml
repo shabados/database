@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਰਫ ਲੋਕ ਰੱਬ ਦੇ ਭੇਤ ਭਰੇ ਗਿਆਨ ਕਰਕੇ ਹੀ ਜ਼ਿੰਦਾ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਦਿ ਆਰਿਫ਼ ਜ਼ਿੰਦਾ ਅਜ਼ ਇਰਫ਼ਾਨਿ ਊ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

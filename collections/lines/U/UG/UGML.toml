@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲਾ ਪ੍ਰਭੂ ਜਦੋਂ (ਆਪਣੀ ਕਿਰਪਾ ਨਾਲ ਜੀਵ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣਹਾਰ ਪ੍ਰਭੁ = ਸਭ ਤਰ੍ਹਾਂ ਦੀ ਸਮਰੱਥਾ ਰੱਖਣ ਵਾਲਾ ਪ੍ਰਭੂ। ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਵੂਠਾ = ਆ ਵੱਸਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੂਰਖ (ਬਾਹਰ ਤਾਂ) ਰੋਜ਼ੀ ਕਮਾਣ ਦੀ ਖ਼ਾਤਰ (ਧਰਮ-ਪੁਸਤਕਾਂ ਦਾ) ਪਾਠ ਕਰਦੇ ਹਨ, ਪਰ (ਉਹਨਾਂ ਦੇ) ਮਨ ਵਿਚ ਖੋਟ ਹੀ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਟੁ = ਖੋਟ। ਉਦਰੁ = ਪੇਟ। ਕੈ ਤਾਈ = ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

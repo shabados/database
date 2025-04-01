@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੁਸੀ (ਆਪਣੇ ਮਨ ਨੂੰ) ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਦੀ ਅਕਲ ਸਿੱਖਿਆ ਦਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤੀ = ਮਤਿ, ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

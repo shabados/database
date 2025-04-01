@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਨਾਲ ਮਿੱਠਾ (ਨਾਮ-) ਅੰਮ੍ਰਿਤ ਪੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਦੁਨੀਆ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਤ ਨਿਸਤਾਰਾ = ਸੰਸਾਰ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

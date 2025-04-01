@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਜੇ ਮੈਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਾਂ (ਜੇ ਤੇਰੀ ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਹੋਵੇ) ਮੈਂ ਦਿਨ ਰਾਤ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਂਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

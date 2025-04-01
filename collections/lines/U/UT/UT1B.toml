@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ!) ਇਕ (ਪਰਮਾਤਮਾ ਦੇ ਮਿਲਾਪ) ਦੀ ਤਾਂਘ (ਆਪਣੇ ਅੰਦਰ) ਕਾਇਮ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = {मनीषा} ਇੱਛਾ। ਮਾਨਿ = ਮੰਨ, ਪੱਕੀ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

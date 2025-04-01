@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਭੀ ਤਰੀਕੇ ਨਾਲ ਇਹ ਬਚ ਸਕਦਾ ਹੋਵੇ ਉਸੇ ਤਰ੍ਹਾਂ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਦੁਆਰੈ = ਜਿਸ ਦਰ ਤੇ, ਜਿਸ ਤਰੀਕੇ ਨਾਲ। ਉਬਰੈ = ਬਚ ਸਕੇ। ਤਿਤੈ = ਉਸੇ ਤਰ੍ਹਾਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

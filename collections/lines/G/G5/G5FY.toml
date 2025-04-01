@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਸੰਸਾਰ ਦੇ) ਇਹ ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਹਨ, ਤੂੰ ਇਹਨਾਂ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹਿ = {ਲਫ਼ਜ਼ 'ਏਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

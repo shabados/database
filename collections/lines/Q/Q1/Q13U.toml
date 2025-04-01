@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਮਾਲਕ-ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਵਿਚ ਸਮਾ ਰਿਹਾ ਹੈ, ਉਹ (ਹਰ ਵੇਲੇ ਹਰ ਥਾਂ) ਆਪਣੀ ਮਰਜ਼ੀ ਕਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵਨ = ਮਰਜ਼ੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਲ ਬ੍ਰਾਹਮਣ ਉਹ ਹਨ ਜੋ ਬ੍ਰਹਮ (ਪਰਮਾਤਮਾ) ਨਾਲ ਸਾਂਝ ਪਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮਾ = ਬ੍ਰਾਹਮਣ। ਤੇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

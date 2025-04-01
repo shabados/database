@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰ ਜਿਸ ਦੀ (ਦਿੱਤੀ ਹੋਈ) ਇਹ ਜਿੰਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਕਉ = ਉਸ (ਪਰਮਾਤਮਾ) ਨੂੰ। ਜੀਉ = ਜੀਵਾਤਮਾ, ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

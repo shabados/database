@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਦਾ ਬਲਵਾਨ ਆਸਰਾ ਲੈ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ। ਸਤਾਣੀ = ਸ-ਤਾਣੀ, ਤਾਣ ਵਾਲੀ, ਤਕੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

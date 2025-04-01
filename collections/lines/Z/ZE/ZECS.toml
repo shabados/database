@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨ ਵਿਚ ਕ੍ਰੋਧ ਟਿਕਿਆ ਰਹੇ, ਬਲੀ ਅਹੰਕਾਰ ਵੱਸਿਆ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

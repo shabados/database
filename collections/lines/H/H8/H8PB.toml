@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਹਰੀ ਸਦਾ ਦਇਆਵਾਨ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋ = ਹੇ (ਮਨ)! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

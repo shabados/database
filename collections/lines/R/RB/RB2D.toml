@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਹੀ ਉਸ ਦੇ ਬਣਾਏ ਹੋਏ ਸ਼ੇਸ਼ਨਾਗ ਹਨ ਜੋ (ਹਰ ਰੋਜ਼ ਸਦਾ ਉਸ ਦਾ) ਨਵਾਂ ਹੀ ਨਾਮ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਖ = ਸ਼ੇਸ਼ਨਾਗ। ਨਵਤਨ = ਨਵਾਂ। ਲੇਹਿ = ਲੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

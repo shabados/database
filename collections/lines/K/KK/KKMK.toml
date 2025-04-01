@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਬਗਲੇ ਵਿਚਾਰੇ ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ ਡੁੱਬ ਕੇ ਮਰ ਗਏ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲਿ = ਹੇਠਾਂ। ਸਿਰੁ ਤਲਿ, ਉਪਰਿ ਪਾਉ = ਸਿਰ ਹੇਠਾਂ ਤੇ ਪੈਰ ਉਤਾਂਹ ਨੂੰ, ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

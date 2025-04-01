@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨ ਵਿਚ ਹੁਣ ਇੱਕ-ਰਸ ਸੂਰਜ ਦੇ ਚਾਨਣ ਵਰਗਾ ਚਾਨਣ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ (ਹੁਣ)। ਅਨਹਤ = ਇੱਕ-ਰਸ, ਲਗਾਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

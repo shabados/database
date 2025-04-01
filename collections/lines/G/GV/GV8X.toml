@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਗੁਰੂ ਨੇ (ਆਤਮਕ ਜੀਵਨ ਦਾ) ਸਿੱਧਾ ਰਸਤਾ ਦੱਸਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਜਿਨਿ ਗੁਰਿ = ਜਿਸ ਗੁਰੂ ਨੇ। ਮਾਰਗੁ = (ਜੀਵਨ-) ਰਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

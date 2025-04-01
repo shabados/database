@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਰਾਹ ਦੇ ਵਖਾਉਣ ਵਾਲੇ ਦੇ ਪਿੱਛੇ ਪਿੱਛੇ ਤੁਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੈਰਵੀ ਕੁਨ ਹਾਦੀਏ ਈਣ ਰਾਹ ਰਾ ।੧੦੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

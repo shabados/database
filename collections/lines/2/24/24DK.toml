@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਦੋਖੀ) ਸੜਦੇ ਤਾਂ ਅਹੰਕਾਰ ਵਿਚ ਹਨ, ਪਰ ਸੰਤ ਜਨਾਂ ਦੇ ਗੁਣਾਂ ਨੂੰ ਤਰਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = ਉਹ ਮੁਗਧ ਨਰ {ਬਹੁ-ਵਚਨ}। ਓਨਾ ਗੁਣੈ ਨੋ = ਉਹਨਾਂ ਸੰਤ-ਜਨਾਂ ਦੇ ਗੁਣਾਂ ਨੂੰ। ਅਹੰਕਾਰਿ = ਅਹੰਕਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

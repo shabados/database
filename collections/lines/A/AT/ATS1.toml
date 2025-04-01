@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਕਲੇਸ਼ ਮਿਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਮੁਰਾਰੇ ਨਾਮੁ = ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ ਕਰਤਾਰ! ਆਪਣੇ ਦਿਲ ਦੀ ਗੱਲ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਮੁ = ਭੇਤ, ਦਿਲ ਦੀ ਗੱਲ। ਤੁਮਾ ਹੀ = ਤੂੰ ਹੀ, ਤੁਮ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

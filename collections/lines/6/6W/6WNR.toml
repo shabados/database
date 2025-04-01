@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੋਈ ਭੀ ਸਦਾ ਉਸ ਦੀ ਯਾਦ ਵਿਚ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿਹ ਬਾਸ਼ਦ ਦਾਯਮਾ ਦਰ ਯਾਦਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

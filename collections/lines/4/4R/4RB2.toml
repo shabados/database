@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! (ਇਉਂ ਅਰਦਾਸ ਕਰ, ਕਿ) ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੈਨੂੰ ਉਸ ਪ੍ਰੇਮ ਤੇ ਸ਼ਰਧਾ ਨਾਲ ਸਿਮਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਾਂ। ਜੀਅ = ਹੇ ਜਿੰਦ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

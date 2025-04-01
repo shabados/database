@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਚਾਹੁੰਦਾ ਹੈਂ ਕਿ ਕਾਮਧੇਨ ਤੇਰੇ ਬੂਹੇ ਉਤੇ ਸੋਭ ਰਹੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਧੇਨੁ = {ਧੇਨੁ = ਗਾਂ} ਮਨ ਦੀ ਕਾਮਨਾ ਪੂਰੀ ਕਰਨ ਵਾਲੀ ਗਾਂ {ਇਹ ਭੀ ਸੁਰਗ ਵਿਚ ਹੀ ਰਹਿੰਦੀ ਮੰਨੀ ਗਈ ਹੈ}। ਸੋਹੀ = ਸੋਭਾ ਦੇਵੇ। ਦਰਬਾਰੇ = (ਤੇਰੇ) ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਜੋਗੀ ਹੈ, ਆਪ ਹੀ ਜੋਗ ਦੇ ਸਾਧਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗ = ਜੋਗੀ। ਜੁਗਤਾ = ਜੁਗਤਿ, ਜੋਗ ਦੀ ਜੁਗਤੀ, ਜੋਗ ਦੇ ਸਾਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

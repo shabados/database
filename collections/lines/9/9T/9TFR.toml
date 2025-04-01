@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜ-ਭੱਜ ਕਰਦਿਆਂ (ਮਾਇਆ-ਧਾਰੀ ਜੀਵ ਦਾ) ਹਰੇਕ ਦਿਨ ਬੀਤ ਰਿਹਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰੇਕ ਦਿਨ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

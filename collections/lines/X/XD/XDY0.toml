@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਕਿਸੇ ਉੱਚੀ ਨੀਵੀਂ ਜਾਤ ਦਾ ਵਿਤਕਰਾ ਨਹੀਂ ਰਹਿੰਦਾ, ਕੋਈ ਦੁੱਖ-ਸੁਖ ਉਸ ਨੂੰ ਨਹੀਂ ਵਿਆਪਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਮ = ਗਰਮੀ, ਧੁੱਪ। ਛਾਮ = ਛਾਂ। ਘਾਮ ਛਾਮ = ਦੁੱਖ-ਸੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ ਜੀਵ) ਗੁਣ ਛੱਡ ਕੇ ਅਉਗਣ ਕਮਾਂਦੇ ਹਨ ਤੇ (ਆਖ਼ਰ) ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਸ਼ਰਮਿੰਦੇ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡਿ = ਛੱਡ ਕੇ। ਹੋਹਿ = ਹੁੰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

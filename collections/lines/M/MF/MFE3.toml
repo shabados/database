@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੁਰੂ ਅਰਜੁਨ ਜੀ!) ਤੂੰ ਭੈ ਦੂਰ ਕਰਨ ਵਾਲਾ, ਪਰਾਈ ਪੀੜ ਹਰਨ ਵਾਲਾ ਹੈਂ, ਕਵੀ ਕਲ੍ਯ੍ਯਸਹਾਰ ਤੇਰਾ ਜਸ ਆਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਹਿ = ਤੇਰਾ। ਬਕਤਾ = ਆਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

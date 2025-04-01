@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਹ) ਮਨੁੱਖ ਠੱਗਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਲੁੱਟਿਆ ਜਾ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਠਾ = ਲੁੱਟਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

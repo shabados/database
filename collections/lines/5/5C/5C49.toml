@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੈਨੂੰ ਉਮਰਾਣ ਦੀ ਮੁਰਾਦ ਮਿਲ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਤੂ ਹਮ ਯਾਬੀ ਮੁਰਾਦਿ ਉਮਰ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

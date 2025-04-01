@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਸਭਨਾਂ ਨੇ ਆਤਮਕ ਆਨੰਦ ਪ੍ਰਾਪਤ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਗਲ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

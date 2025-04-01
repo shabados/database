@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਮਨੁੱਖ ਜਿਸ ਤਰ੍ਹਾਂ ਦੀ ਕਾਰ ਕਰਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਉਸ ਨੂੰ ਫਲ ਮਿਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਵੇਹੋ = ਤਿਹੋ ਜਿਹਾ ਹੀ। ਜੇਵੇਹੀ = ਜਿਹੋ ਜਿਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

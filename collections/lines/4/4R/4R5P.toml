@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਦਿਨ ਰਾਤ ਬੜੇ ਗੰਦੇ ਰਹਿੰਦੇ ਹਨ। ਮੱਥੇ ਉਤੇ ਤਿਲਕ ਨਹੀਂ ਲਾਉਂਦੇ (ਭਾਵ, ਨ੍ਹਾ ਧੋ ਕੇ ਸਰੀਰ ਨੂੰ ਸਾਫ਼-ਸੁਥਰਾ ਭੀ ਨਹੀਂ ਕਰਦੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚੀਲ = ਗੰਦੇ। ਟਿਕੇ = ਟਿੱਕੇ, ਤਿਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

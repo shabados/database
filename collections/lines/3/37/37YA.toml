@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਵਰਗਾ ਹੋਰ ਕੋਈ ਦੂਜਾ ਨਾਹ ਅਜੇ ਤਕ ਕੋਈ ਹੋਇਆ ਹੈ, ਨਾਹ ਹੀ (ਅਗਾਂਹ ਨੂੰ) ਹੋਵੇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ। ਹੋਈ = ਹੋਵੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

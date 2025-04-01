@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ ਮੁੜ ਮੁੜ ਜਗਤ ਵਿਚ) ਤੇਰਾ ਆਉਣ ਜਾਣ ਨਹੀਂ ਹੋਵੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਨੁ ਜਾਨੁ = ਜਨਮ ਤੇ ਮਰਨ। ਨਾ ਹੋਵੀ = ਨਹੀਂ ਹੋਵੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

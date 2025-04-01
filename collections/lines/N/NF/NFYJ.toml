@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ) ਇਹ ਜੀਵ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਸੁਰਤ ਜੋੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

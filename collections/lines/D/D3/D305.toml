@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ ਉਹ) ਸੁਪਨੇ ਵਾਂਗ ਹੋ ਗਏ ਹਨ (ਕੋਈ ਉਹਨਾਂ ਨੂੰ ਚੇਤੇ ਭੀ ਨਹੀਂ ਕਰਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਪਨਾ ਜਿਉ = ਸੁਪਨੇ ਵਰਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

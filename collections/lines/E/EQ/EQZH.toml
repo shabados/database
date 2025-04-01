@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸੁਖਾਂ ਦੀ ਖ਼ਾਤਰ ਮਨੁੱਖ ਅਨੇਕਾਂ) ਚਤੁਰਾਈਆਂ ਤੇ ਸਿਆਣਪਾਂ (ਕਰਦਾ ਹੈ, ਪਰ ਕੋਈ ਸਿਆਣਪ ਕੋਈ ਚਤੁਰਾਈ) ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਕਾਮਿ = ਕਿਸੇ ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

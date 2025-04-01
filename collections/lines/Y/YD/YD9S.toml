@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਰੇ ਜੀਵ ਪੈਦਾ ਕਰ ਕੇ ਸਭ ਦੇ ਸਿਰ ਤੇ ਸ਼ਿਰੋਮਣੀ ਹੈਂ, ਗੁਰੂ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿਮੋਰੁ = ਸ਼ਿਰੋਮਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

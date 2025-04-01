@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅਪਹੁੰਚ ਹੈਂ, ਤੂੰ ਅਪਹੁੰਚ ਹੈਂ, ਤੂੰ ਉੱਚਿਆਂ ਤੋਂ ਉੱਚਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

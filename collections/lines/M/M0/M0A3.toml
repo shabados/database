@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਖ਼ਰ) ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਮੈਂ ਆਪਣੇ ਮਨ ਦੀ) ਭਟਕਣਾ ਦੂਰ ਕੀਤੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਭਰਮੁ = ਭਟਕਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

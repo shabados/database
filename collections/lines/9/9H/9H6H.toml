@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਲੱਗ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਣੁ = ਧੂੜਿ। ਮੁਖਿ = ਮੂੰਹ ਉਤੇ, ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਮਹਿਫਲ ਦੇ ਮਹਿਲਾਂ ਦਾ ਚਮਕਦਾ ਸੂਰਜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਿਰੋਜ਼ਿੰਦਾ ਮਿਹਰੇ ਬ ਆਵਾਨਿ ਬਜ਼ਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

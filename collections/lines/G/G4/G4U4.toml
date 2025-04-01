@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਸੁਰਤ ਜੋੜ ਕੇ ਕਾਰ ਕਰਦੇ ਰਿਹਾ ਕਰੋ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਹੁ = ਸਿਮਰੋ। ਆਪੁ = ਆਪਾ-ਭਾਵ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

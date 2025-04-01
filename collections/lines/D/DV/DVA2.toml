@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮ ਸਿਮਰ, ਇਹੀ ਹੈ ਸਭ ਤੋਂ ਚੰਗਾ ਧਰਮ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੈ ਨਾਮੁ = ਨਾਮ ਸਿਮਰ। ਊਤਮ = ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

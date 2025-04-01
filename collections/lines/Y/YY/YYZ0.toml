@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ!) ਜਿਵੇਂ ਬੱਦਲ ਦੀ ਛਾਂ (ਸਦਾ ਇੱਕ ਥਾਂ ਟਿਕੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ, ਤਿਵੇਂ) ਜੋ ਕੁਝ (ਜਗਤ ਵਿਚ) ਦਿੱਸ ਰਿਹਾ ਹੈ ਇਹ ਸਭ ਕੁਝ (ਆਪਣੇ ਆਪਣੇ ਸਮੇ) ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰਾ। ਬਾਦਰ = ਬੱਦਲ। ਛਾਈ = ਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

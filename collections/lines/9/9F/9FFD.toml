@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਪਾਲਣ-ਪੋਸ਼ਣ ਕਰਦਾ ਹੈ, ਕੱਪੜਾ ਆਸਰਾ ਆਦਿਕ ਦਾਤਾਂ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਣ ਪੋਖਣ = ਪਾਲਣ-ਪੋਸਣ। ਬਿਸ੍ਰਾਮ = ਟਿਕਾਣਾ, ਸਹਾਰਾ। ਛਾਦਨ = ਕੱਪੜਾ (छादनं = clothing)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

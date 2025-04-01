@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਬੇ-ਮੁਹਾਰ ਮਨ! ਤੂੰ ਮੇਰਾ ਮਿੱਤਰ ਹੈਂ (ਮੈਂ ਤੈਨੂੰ ਸਮਝਾਂਦਾ ਹਾਂ) ਮਾਇਆ ਦਾ ਲਾਲਚ ਛੱਡ ਦੇ ਤੇ ਪਖੰਡ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਾਇ = ਤਜ, ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

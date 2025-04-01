@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਨਾਮ ਵਿਚ ਲੀਨ ਹੋਇਆਂ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਦੀ ਜੋਤਿ ਜਗ ਪੈਂਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰ = ਅੰਦਰਲੀ। ਨਾਮਿ = ਨਾਮ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

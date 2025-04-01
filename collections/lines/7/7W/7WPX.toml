@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਵੀ ਉਸ ਤੋਣ ਗ਼ਾਫਲ ਹੋਇਆ, ਸਮਝੋ ਉਹ ਮੂਰਖ ਅਤੇ ਉਜੱਡ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਗ਼ਾਫ਼ਿਲ ਗਸ਼ਤ ਊ ਜ਼ਾਹਿਲ ਬਵਦ ।੩੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

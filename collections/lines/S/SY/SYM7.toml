@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ ਸੁਆਮੀ! (ਜੀਵਾਂ ਨੂੰ ਮਿਲੇ ਹੋਏ) ਇਹ ਜਿੰਦ ਤੇ ਸਰੀਰ ਸਭ ਕੁਝ ਤੇਰਾ ਹੀ ਦਿੱਤਾ ਹੋਇਆ ਸਰਮਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ। ਸਭੁ = ਇਹ ਸਾਰਾ। ਮਾਲੁ = ਪੂੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

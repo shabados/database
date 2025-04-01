@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਪਦਿਆਂ (ਅਪਣੇ) ਸਾਰੇ ਕੰਮ ਸੰਵਾਰ ਲੈਂਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਤ = ਜਪਦਿਆਂ। ਸਭਿ = ਸਾਰੇ। ਸਾਰੇ = ਸੰਵਾਰ ਲੈਂਦਾ ਹੈ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

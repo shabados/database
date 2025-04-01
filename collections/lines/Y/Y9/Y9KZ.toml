@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮੱਥੇ ਉੱਤੇ ਪਰਮਾਤਮਾ ਨੇ ਇਸ ਨਾਮ-ਖ਼ਜ਼ਾਨੇ ਦੀ ਪ੍ਰਾਪਤੀ ਲਿਖੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

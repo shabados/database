@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ (ਸਰੀਰ-) ਕਿਲ੍ਹੇ ਦੇ ਅੰਦਰ ਹੀ, ਮਾਨੋ, ਛੱਜੇ ਤੇ ਬਾਜ਼ਾਰ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਟਨਾਲੇ = ਬਾਜ਼ਾਰ (ਜਿਥੇ ਨਾਲੋ ਨਾਲ ਹੱਟ ਹਨ)। ਛਜੇ = ਛੱਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

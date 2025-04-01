@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੋਈ ਵੀ ਉਸ ਦਾ ਬੰਦਾ ਹੋ ਗਿਆ, ਉਹ ਸੌਖਾ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਕੂ ਬੰਦਾ ਸ਼ੁਦ ਆਸੂਦਾ ਅਸਤ ।੩੦੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

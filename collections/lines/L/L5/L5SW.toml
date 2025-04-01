@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਬੜਾ ਬਿਖੜਾ ਹੈ ਬੜਾ ਡਰਾਉਣਾ ਹੈ, ਇਸ ਦਾ ਨਾਹ ਕੋਈ ਕੰਢਾ ਦਿੱਸਦਾ ਹੈ ਨਾਹ ਪਾਰਲਾ ਬੰਨਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਬਿਖਮੁ = ਔਖਾ। ਕੰਧੀ = ਕੰਢਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

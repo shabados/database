@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਮੰਦਰ ਹੈ, ਆਪ ਹੀ ਸੇਵਾ-ਭਗਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪ ਹੀ = ਆਪਿ ਹੀ {ਲਫ਼ਜ਼ 'ਆਪਿ' ਦੀ 'ਿ' ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹੀ' ਦੇ ਕਾਰਨ ਉੱਡ ਗਈ ਹੈ}। ਆਪਹਿ = ਆਪ ਹਿ; ਆਪਿ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਜੇਹੜੇ ਜੀਵ ਪਰਮਾਤਮਾ ਤੋਂ ਵਿੱਛੁੜੇ ਰਹਿੰਦੇ ਹਨ ਉਹ ਸੁਖ ਨਾਲ ਨਹੀਂ ਵੱਸ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਜੋ ਜੀਅ = ਜੇਹੜੇ ਜੀਵ। ਸੁਖਿ = ਸੁਖ ਨਾਲ। ਭੈਣ = ਹੇ ਭੈਣ! {\"ਡਣੁਹ}। ਚੈਨੁ = ਸ਼ਾਂਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

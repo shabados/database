@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਰਤਨ ਹੈ, ਆਪ ਹੀ ਹੀਰਾ ਹੈ, ਆਪ ਹੀ ਮੋਤੀ ਹੈ, ਉਹ ਆਪ ਹੀ ਇਸ ਦਾ ਹੱਟ ਚਲਾ ਰਿਹਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ = ਪ੍ਰਭੂ ਆਪ ਹੀ। ਪਾਸਾਰੀ = ਪਸਾਰੀ, ਸੌਦਾ ਵੇਚਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

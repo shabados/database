@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਖ਼ਿਆਲ ਰੱਖ ਕਿ) ਉਹ ਬੇਅੰਤ ਅਕਾਲ ਪੁਰਖ ਕਦੇ ਭੀ ਮਨ ਤੋਂ ਨਾਹ ਭੁੱਲੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਤੇ = ਮਨ ਤੋਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

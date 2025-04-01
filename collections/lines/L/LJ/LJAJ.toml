@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ਿੰਦਗੀ ਹੀ ਉਹ ਹੈ ਜਿਹੜੀ ਬਿਨਾਣ ਕਿਸੇ ਹੀਲ ਹੁੱਜਤ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਈਨਸਤ ਬੇ ਚੁਨੋ ਚਿਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

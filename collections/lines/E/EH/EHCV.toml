@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ (ਪ੍ਰਭੂ ਦੇ) ਹੀ (ਨਾਮ) ਨੂੰ ਕੰਨਾਂ ਨਾਲ ਸੁਣਨਾ ਚਾਹੀਦਾ ਹੈ, ਜੀਭ ਨਾਲ ਗਾਣਾ ਚਾਹੀਦਾ ਹੈ, ਹਿਰਦੇ ਵਿਚ ਆਰਾਧਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਣੀ = ਕੰਨਾਂ ਨਾਲ। ਰਸਨਾ = ਜੀਭ (ਨਾਲ)। ਸੋਈ = ਉਹ (ਪ੍ਰਭੂ) ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

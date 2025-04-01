@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸੇ ਤਰਾ੍ਹਣ ਸਾਡੇ ਧਰਮ ਵਿਚ ਸਾਧ ਸੰਗਤ ਵਿਚ (ਰੱਬ ਦੇ ਪਿਆਰੇ ਜੁੜਦੇ ਹਨ),"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੁਨਾਣ ਦਰ ਮਜ਼ਹਬਿ ਮਾ ਸਾਧ ਸੰਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

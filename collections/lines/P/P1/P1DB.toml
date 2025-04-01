@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਰਹਿਣ ਵਾਲੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਮੱਥੇ ਉਤੇ ਲਾਇਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਗੁਰੂ ਦੇ ਦਰ ਦੇ ਸਤਸੰਗੀ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

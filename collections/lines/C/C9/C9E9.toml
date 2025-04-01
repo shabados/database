@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਬਾਕੀ ਸਾਰਾ ਜੰਜਾਲ ਨਾਸ ਹੋ ਜਾਣ ਵਾਲਾ ਹੈ ॥੬॥੧੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲਾ। ਝੂਠਾ = ਨਾਸ ਹੋ ਜਾਣ ਵਾਲਾ, ਥਿਰ ਨਾਹ ਰਹਿਣ ਵਾਲਾ ॥੬॥੧੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

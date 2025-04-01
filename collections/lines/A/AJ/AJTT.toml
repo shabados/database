@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਵਕਤ ਲਹਿਰਾਣ ਦੇ ਸਰਾਸਰ ਕਾਫਲੇ ਵਾਕਣ ਉਮਰ ਦੀ ਨਦੀ ਵਗਦੀ ਰਹਿੰਦੀ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਸ਼ਦ ਰਵਾਣ ਚੂ ਕਾਫ਼ਲਾਇ ਮੌਜ ਪੈ ਬ ਪੈ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

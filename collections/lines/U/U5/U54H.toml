@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ ਸਾਨੂੰ ਮਾਰਨ ਦੀ ਤਾਕਤ ਨਹੀਂ ਰੱਖਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਨਵਾਰਾ = ਮਾਰਨ ਦੀ ਸਮਰੱਥਾ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

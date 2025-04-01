@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਪ੍ਰਭੂ) ਮੇਹਰ ਕਰ ਕੇ (ਉਸ ਦੇ) ਹਿਰਦੇ ਵਿਚ (ਨਾਮ) ਟਿਕਾ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ ਉਰ = ਉਰ ਅੰਤਰਿ, ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

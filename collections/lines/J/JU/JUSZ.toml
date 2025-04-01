@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੁਣ, ਨਿੰਦਕ ਭੀ ਇਸੇ ਤਰ੍ਹਾਂ ਆਤਮਕ ਉੱਚਤਾ ਤੋਂ ਡਿੱਗ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝਰਿ = ਝੜ ਕੇ, ਕਿਰ ਕੇ, ਡਿੱਗ ਕੇ। ਪਰੀਐ = ਹੇਠਾਂ ਡਿੱਗ ਪੈਂਦਾ ਹੈ, ਆਤਮਕ ਮੌਤ ਦੇ ਟੋਏ ਵਿਚ ਜਾ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

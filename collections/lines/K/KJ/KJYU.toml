@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਸੱਜਣ!) ਆਪਣੇ ਦਿਲ ਵਿਚ (ਰੱਬ ਨੂੰ) ਭਾਲ, ਸਿਰਫ਼ ਦਿਲ ਵਿਚ ਹੀ ਲੱਭ, ਇਹ ਦਿਲ ਹੀ ਉਸ ਦਾ ਨਿਵਾਸ ਥਾਂ ਹੈ, ਉਸ ਦਾ ਮੁਕਾਮ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਲਿ = ਦਿਲ ਵਿਚ। ਦਿਲੈ ਦਿਲਿ = ਦਿਲ ਹੀ ਦਿਲ ਵਿਚ। ਠਉਰ = ਥਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

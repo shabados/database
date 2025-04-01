@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਜੋ ਜੁਗਾਂ ਦੇ ਮੁੱਢ ਤੋਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਾਦਿ = (ਜੋ) ਜੁੱਗਾਂ ਦੇ ਮੁੱਢ ਤੋਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

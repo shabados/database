@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਧੋ! ਆਪਣੀ ਚੰਚਲ ਮੱਤ ਅੱਗੇ ਮੇਰੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰੁਨ = ਭਿਆਨਕ, ਡਰਾਉਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

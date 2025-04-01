@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਨੇਜ਼ੇ ਤੋਂ ਹਾਥੀ ਦੇ ਜਿਗਰ ਦਾ ਖੂਨ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਜ਼ੋਪੀਨਿ ਊ ਪੀਲ ਰਾ ਖ਼ੂੰ ਜਿਗਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

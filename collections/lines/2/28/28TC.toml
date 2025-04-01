@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਕਾਮਾਦਿਕ) ਪੰਜ ਡਾਕੂ ਹਨ, ਇਹਨਾਂ ਨੂੰ ਤੂੰ ਆਪਣੇ ਮਿੱਤਰ ਸਮਝ ਰਿਹਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ = ਪੰਜ (ਕਾਮਾਦਿਕ)। ਬਟਵਾਰੇ = ਰਾਹਜ਼ਨ, ਡਾਕੂ। ਸੇ = ਉਹਨਾਂ ਨੂੰ। ਮਾਨਹਿ = ਤੂੰ ਮੰਨਦਾ ਹੈਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

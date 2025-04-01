@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਯਕੀਨ ਰਹਿੰਦਾ ਹੈ ਕਿ ਜਗਤ ਤਾਂ ਪੈਦਾ ਹੁੰਦਾ ਤੇ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਜੈ = ਜੰਮਦਾ ਹੈ। ਜਾਇ = ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਗੈਰ ਵਲ ਅੱਖ ਚੁੱਕ ਕੇ ਵੀ ਨਾ ਵੇਖ, ਕਿਉਣਕਿ ਤੂੰ ਅੰਨ੍ਹਾ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸੂਇ ਗ਼ੈਰ ਮਿਅਫ਼ਗਨ ਨਜ਼ਰ ਕਿ ਬੇ-ਬਸਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

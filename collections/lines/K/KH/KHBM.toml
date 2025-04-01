@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਇਕ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਨਾਲ ਦਿਲੀ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨੈ = ਦਿਲੀ ਸਾਂਝ ਪਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

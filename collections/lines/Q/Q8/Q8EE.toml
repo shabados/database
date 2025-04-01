@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਵਾਇ ਰੱਬ ਦੇ ਤਾਲਬ ਦੇ ਹੋਰ ਕਿਸੇ ਦੀ ਕਿਸਮਤ ਵਿਚ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਜ਼ ਤਾਲਿਬਿ ਹੱਕ ਨਸੀਬਿ ਹਰ ਕਸ ਨ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

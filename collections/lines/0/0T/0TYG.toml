@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਕ-ਰਸ ਵਿਆਪਕ) ਅਖੰਡ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੀਤਿਆਂ ਜਮ ਤੋਂ ਡਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਲੁ = ਅਖੰਡ {ਕਲਾ = ਹਿੱਸਾ}। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

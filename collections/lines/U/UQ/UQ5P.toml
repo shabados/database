@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਨੁੱਖ ਨੂੰ ਜੇ ਸਵਾਰੀ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ) ਹੇਠ ਹਾਥੀ (ਭੀ ਮਿਲਿਆ ਹੋਇਆ ਹੈ, ਤੇ ਉਸ ਦੇ) ਸਿਰ ਉਤੇ ਸੋਨੇ ਦਾ ਛਤਰ ਝੁੱਲ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲੈ = ਹੇਠ। ਕੁੰਚਰੀਆ = ਹਾਥੀ। ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਕਨਿਕ ਛਤਰੀਆ = ਸੋਨੇ ਦਾ ਛਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਰਦਾਰਾਂ ਦੇ ਤਾਜ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰਵਰਾਂ ਰਾ ਤਾਜ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 138
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

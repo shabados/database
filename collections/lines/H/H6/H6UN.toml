@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਭਾਈ!) ਬੋਲਾ ਮਨੁੱਖ ਅਠਾਰਾਂ ਪੁਰਾਣ ਤੇ ਚਾਰ ਵੇਦ ਕਿਵੇਂ ਸੁਣ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠ ਦਸ = ਅੱਠ ਤੇ ਦਸ, ਅਠਾਰਾਂ (ਪੁਰਾਣ)। ਬੇਦ = ਚਾਰ ਵੇਦ। ਸੁਨੇ ਕਹ = ਕਿੱਥੇ ਸੁਣ ਸਕਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

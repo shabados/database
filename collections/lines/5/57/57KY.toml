@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਿਆਂ ਕੋਈ ਦੁੱਖ, ਕੋਈ ਭੁੱਖ, ਕੋਈ ਰੋਗ, ਕੋਈ ਭੀ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਿਆਪੈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ। ਸੁਖ ਸਾਗਰ ਸਰਣੀ = ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਪ੍ਰਭੂ ਦੀ ਸਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

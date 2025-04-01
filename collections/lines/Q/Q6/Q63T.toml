@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਾ ਕੁਰਬਾਨ ਹਾਂ ਉਸ ਪਰਮਾਤਮਾ ਤੋਂ ਜੋ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ ਤੇ ਜੋ ਸਚਾਈ ਦਾ ਸੋਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਿਆਰ = {सत्यालय} ਸੱਚ ਦਾ ਸੋਮਾ। ਵਿਟਹੁ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

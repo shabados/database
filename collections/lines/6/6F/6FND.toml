@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਨਾਮ-ਵਣਜਾਰਾ ਹੈ, ਜਿਸ ਦਾ ਉਸ ਸ਼ਾਹ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਇਤਬਾਰ ਬਣਿਆ ਹੋਇਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਪਾਰੀ = ਨਾਮ-ਪੂੰਜੀ ਦਾ ਵਣਜ ਕਰਨ ਵਾਲਾ। ਵਿਸਾਹੁ = ਇਤਬਾਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

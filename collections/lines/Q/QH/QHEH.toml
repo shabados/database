@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਤਰ੍ਹਾਂ ਤੇਰਾ (ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ) ਮਨੋਰਥ ਸਿਰੇ ਚੜ੍ਹ ਜਾਇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮੁ = ਕੰਮ, ਜੀਵਨ-ਮਨੋਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

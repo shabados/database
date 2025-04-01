@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਸੰਤ ਜਨ (ਕਿਸੇ ਭਾਗਾਂ ਵਾਲੇ ਉਤੇ) ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ ਕਿਰਪਾਲ ਹੁੰਦੇ ਹਨ, ਤਦੋਂ ਉਹ (ਉਸ ਮਨੁੱਖ ਨੂੰ) ਇਹ ਗੱਲ ਦੱਸਦੇ ਹਨ ਕਿ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਦਇਆਵਾਨ। ਬਾਤ = ਗੱਲ। ਬਤਾਈ = ਦੱਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

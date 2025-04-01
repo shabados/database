@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਹੇ ਅਕਾਲ ਪੁਰਖ #) ਮੇਰੀਆਂ ਅੱਖਾਂ ਨੂੰ ਰੱਬ ਦੇ ਦੀਦਾਰ ਨਾਲ ਨੂਰੋ ਨੂਰ ਕਰ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਦਾ ਅਜ਼ ਦੀਦਾਰਿ-ਹੱਕ ਪੁਰ-ਨੂਰ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

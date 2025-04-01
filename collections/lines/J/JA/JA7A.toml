@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੋਈ ਬੰਦਾ ਵੀ ਤੇਰੀ ਜ਼ੁਲਫ ਦੇ ਘੇਰੇ ਤੋਣ ਬਾਹਰ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੀਚ ਕਸ ਬੀਤੂੰ ਨ ਬਾਸ਼ਦ, ਅਜ਼ ਸਵਾਦਿ ਜ਼ੁਲਫ਼ਿ ਤੂ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

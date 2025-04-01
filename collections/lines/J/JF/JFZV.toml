@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਨੂੰ ਅਜੇਹਾ ਦਿਲ ਦਾ ਦਰਦ ਲੱਗਾ ਹੋਇਆ ਹੈ, ਕਿ ਜਿਸ ਦਾ ਕੋਈ ਇਲਾਜ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਰੇਮ ਦਰਦਿ ਦਿਲ ਕਿ ਮਰ ਊ ਰਾ ਇਲਾਜ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

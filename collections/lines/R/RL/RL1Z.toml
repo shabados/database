@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ (ਇਤਨੇ ਵੱਡੇ) ਪਰਤਾਪ ਤੋਂ ਮੈਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਂਈ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

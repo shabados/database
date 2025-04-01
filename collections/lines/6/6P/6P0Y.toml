@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਆਪਣਾ) ਹੱਥ ਦੇ ਕੇ (ਜੀਵਾਂ ਨੂੰ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ ਕੱਢ ਲੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਵਿਚੋਂ। ਦੇ = ਦੇ ਕੇ। ਹਾਥੀ = ਹੱਥ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

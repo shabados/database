@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲਾ ਇਹ) ਸ੍ਰੇਸ਼ਟ ਗੁਰ-ਸ਼ਬਦ ਹੀ ਅਸਲ ਜਪ ਹੈ ਅਸਲ ਤਪ ਹੈ ॥੫॥੨॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ ॥੫॥੨॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਹੋਰ) ਕਿਸੇ ਭੀ ਤਰੀਕੇ ਨਾਲ ਉਸ ਦਾ ਮਿਲਾਪ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਇ ਕਿਤੀ = (ਹੋਰ) ਕਿਸੇ ਭੀ ਉਪਾਉ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

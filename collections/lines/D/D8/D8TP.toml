@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ ਸਹੀ ਰਸਤੇ ਤੋਂ ਖੁੰਝ ਕੇ) ਉਹ ਅਨੇਕਾਂ ਕਸ਼ਟ ਸਹਾਰਦਾ ਹੈ, ਤੇ, ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਟ = ਕਸ਼ਟ। ਭਰਮਾਏ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਸਾਡੀ ਖੋਟੀ ਮਤਿ ਨਾਸ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਖੋਟੀ ਮਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

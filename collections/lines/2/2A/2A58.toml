@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਵਿਚ ਕੁਝ ਨਹੀਂ। ਜਦੋਂ ਤੂੰ (ਮੈਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾਂਦਾ ਹੈਂ, ਤਦੋਂ (ਹੀ) ਮੈਂ ਆ ਕੇ ਮਿਲਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = ਹੱਥ ਵਿਚ। ਜਾ = ਜਦੋਂ। ਆਇ = ਆ ਕੇ। ਮਿਲਾ = ਮਿਲਾਂ, ਮੈਂ ਮਿਲਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

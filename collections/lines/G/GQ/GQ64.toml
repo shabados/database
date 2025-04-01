@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਨਿਮਾਣੇ ਮੂਰਖ ਬੇ-ਸਮਝ ਹਾਂ, ਤੂੰ ਆਪ ਹੀ ਸਾਡਾ ਧਿਆਨ ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀਂ ਜੀਵ। ਦੀਨ = ਗ਼ਰੀਬ, ਨਿਮਾਣੇ। ਅਵੀਚਾਰੀ = ਵਿਚਾਰ ਤੋਂ ਸੱਖਣੇ, ਬੇ-ਸਮਝ। ਚਿੰਤਾ-ਫ਼ਿਕਰ, ਧਿਆਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

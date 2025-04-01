@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਆਹਰ ਨਾਲ ਸਭ ਰਸਾਂ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਨਾਮ-ਰਸ ਪੀਂਦੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਾਇਣੁ = ਰਸ-ਅਯਨ, ਰਸਾਂ ਦਾ ਘਰ, ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਰਸ। ਨਿਤ ਉਠਿ = ਸਦਾ ਉੱਠ ਕੇ, ਸਦਾ ਆਹਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

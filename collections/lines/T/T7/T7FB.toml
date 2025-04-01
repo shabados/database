@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਜਿਸ ਜਿਸ ਕੰਮ ਵਿਚ ਜੀਵਾਂ ਨੂੰ ਲਾਂਦਾ ਹੈਂ, ਉਸੇ ਉਸੇ ਕੰਮ ਵਿਚ ਜੀਵ ਲੱਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਜਿਤੁ = ਜਿਸ ਜਿਸ ਕੰਮ ਵਿਚ। ਲਾਵਹਿ = ਤੂੰ ਲਾਂਦਾ ਹੈਂ (ਹੇ ਪ੍ਰਭੂ!)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

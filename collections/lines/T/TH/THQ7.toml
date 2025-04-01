@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਗਤਾਂ ਵਿਚ ਬੈਠ ਕੇ) ਤੂੰ ਆਪ ਹੀ ਆਪਣੀ ਵਡਿਆਈ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ, ਸੋਭਾ। ਆਪੇ = ਆਪ ਹੀ। ਜਾਪਿ = (ਤੂੰ) ਜਪਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

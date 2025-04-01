@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰਾ ਪਿਆਰ (ਹੁਣ ਸਿਰਫ਼) ਤੇਰੇ ਨਾਲ ਹੈ, ਦੂਜੇ ਪਿਆਰ ਮੈਂ ਝੂਠੇ ਵੇਖ ਲਏ ਹਨ (ਮੈਂ ਵੇਖ ਲਿਆ ਹੈ ਕਿ ਦੂਜੇ ਪਿਆਰ ਝੂਠੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਹ = ਪ੍ਰੇਮ। ਤਊ ਨਾਲਿ = ਤੇਰੇ ਨਾਲ। ਬਿਆ = ਦੂਜੇ। ਕੂੜਾਵੇ = ਝੂਠੇ। ਡੇਖੁ = ਮੈਂ ਵੇਖ ਲਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

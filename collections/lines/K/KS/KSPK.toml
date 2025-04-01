@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੋਗ, ਚਿੰਤਾ-ਫ਼ਿਕਰ, ਬੁਢੇਪਾ, ਮੌਤ (-ਇਹਨਾਂ ਦੇ ਸਹਿਮ) ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕਾਂ ਦੇ ਨੇੜੇ ਭੀ ਨਹੀਂ ਢੁਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਗ = ਚਿੰਤਾ। ਜਰਾ = ਬੁਢੇਪਾ, ਬੁਢੇਪੇ ਦਾ ਡਰ। ਮਰਾ = ਮੌਤ, ਮੌਤ ਦਾ ਡਰ। ਨਿਕਟਾਨੀ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

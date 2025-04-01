@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਦੀ ਪਾਲਣਾ ਵਾਸਤੇ) ਮੈਲ ਨੂੰ (ਮਾਂ ਦੇ ਲਹੂ ਨੂੰ) ਸੁੱਧ ਸਾਬਣ ਵਰਗਾ ਚਿੱਟਾ ਦੁੱਧ ਬਣਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲੂ = ਮੈਲ ਨੂੰ, ਮਾਤਾ ਦੇ ਲਹੂ ਨੂੰ। ਸੂਧੁ = ਸੁੱਧ, ਚਿੱਟਾ (ਦੁੱਧ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਤਕ ਜੁਆਨੀ ਵਿਚ (ਹਾਂ ਤੇ) ਸਾਹ ਆ ਰਿਹਾ ਹੈ, ਤਦੋਂ ਤਕ ਹੀ ਇਹ ਸਰੀਰ ਕੰਮ ਦੇ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਬਨਿ = ਜੁਆਨੀ ਵਿਚ। ਜਬ ਲਗੁ = ਜਦੋਂ ਤਕ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗੁਰ-ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਸੱਚੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿੱਚ ਸੁਰਖ਼ਰੂ ਹੋ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਲਿ = ਹਜ਼ੂਰੀ ਵਿਚ। ਸਵਾਰਿਆ = ਸੁਰਖ਼ਰੂ ਹੋ ਗਏ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

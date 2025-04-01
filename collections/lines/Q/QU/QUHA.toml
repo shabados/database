@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਹੇ ਮਨ! ਤੇਰਾ ਕੰਮ ਤਾਂ ਹੀ ਸੰਵਰੇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਰਸੀ = ਸੰਵਰੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

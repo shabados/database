@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਅਨੁਭਵੀਆਂ ਦਾ ਵੀ ਅਨੁਭਵੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਾਹਮੁਲ-ਫ਼ੱਹਾਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੮।"
+page = 10
+line = 128
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

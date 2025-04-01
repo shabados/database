@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਸ਼ੂ (ਪੱਠਿਆਂ ਨਾਲ ਢਿੱਡ ਭਰ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਾ = ਸੁਆਦਲੇ ਪਦਾਰਥ। ਢੋਰ = ਪਸ਼ੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

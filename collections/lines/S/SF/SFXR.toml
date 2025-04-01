@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਉਨ੍ਹਾਂ ਪਾਸੋਂ ਅਜਿਹਾ ਸ਼ੌਕ ਹਾਸਲ ਕਰ ਸਕੇਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਜ਼ਿ ਹਾਸਿਲ ਕੁਨੀਂ ਈਂ ਜ਼ੌਕ ਰਾ ।੩੭੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

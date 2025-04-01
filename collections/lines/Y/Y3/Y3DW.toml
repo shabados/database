@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਗੁਣ ਦੇਣ ਵਾਲੇ ਮਾਲਕ! ਮੇਰੀ ਗਰੀਬ ਦੀ ਇਕ ਬੇਨਤੀ ਸੁਣ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੇ = ਹੇ ਦੇਣ ਵਾਲੇ! ਸੁਆਮੀ = ਹੇ ਮਾਲਕ! ਬਿਨਉ = {विनय} ਬੇਨਤੀ। ਬਿਨਉ ਦੀਨਾ = ਦੀਨ ਦੀ ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

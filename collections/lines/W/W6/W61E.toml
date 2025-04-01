@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਗੋਂ) ਚੰਗਾ ਆਦਰ ਮਿਲੇਗਾ (ਕਹਿਣਗੇ)-ਆਓ ਬੈਠੋ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭ = ਚੰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਆਪਣੇ ਮਿਲਾਪ ਨਾਲ ਉਸਦਾ ਮਾਨ ਸਤਿਕਾਰ ਵਧਾ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਵਸਲਿ ਖ਼ੁਦਸ਼ ਹੱਕ ਫ਼ਜ਼ੂਦ ਆਬਰੂ ।੧੪੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

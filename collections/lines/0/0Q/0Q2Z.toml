@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮੇਰੀ) ਇੱਕ ਜੀਭ ਹੈ (ਸੰਤ ਜਨ) ਅਨੇਕਾਂ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੁੰਦੇ ਹਨ, ਸੰਤ ਜਨਾਂ ਦੀ ਵਡਿਆਈ ਕਿਤਨੀ ਕੁ ਦੱਸੀ ਜਾਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਕੇਤਕ = ਕਿਤਨੀ ਕੁ? ਉਪਮਾ = ਵਡਿਆਈ, ਸੋਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

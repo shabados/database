@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਬੰਦਿਆਂ ਨਾਲ ਪਿਆਰ ਹੋਵੇ, ਲੱਖਾਂ ਸਾਲਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਹੋਵੇ, ਭਾਵੇਂ ਕਿਤਨੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਤੇ ਕਿਤਨੇ ਹੀ ਚਾਉ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਖ ਜੀਵਣੁ = ਲੱਖਾਂ ਵਰ੍ਹਿਆਂ ਦੀ ਜ਼ਿੰਦਗੀ। ਕਿਆ ਖੁਸੀਆ = ਭਾਵੇਂ ਕਿਤਨੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਹੋਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

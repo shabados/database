@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਸਾਰ ਵਿਚ ਜਦ ਰੱਬ ਦੇ ਭਗਤ ਆਉਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦਹਿਰ ਕਿ ਮਰਦਾਨਿ ਖ਼ੁਦਾ ਆਮਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

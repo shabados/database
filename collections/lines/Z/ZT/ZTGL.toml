@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਅੰਨ੍ਹਾ ਮਨਮੁਖ ਹਰੀ ਨੂੰ ਯਾਦ ਨਹੀਂ ਕਰਦਾ ਤਾਂ ਸੰਸਾਰ ਵਿਚ ਆਉਣ ਦਾ ਕੀਹ ਲਾਭ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ = ਕਾਹਦੇ ਲਈ। ਸੈਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

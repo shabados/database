@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਠਾਕੁਰ! ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਮੈਨੂੰ ਤਾਂ) ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ ਪ੍ਰਭ = ਹੇ ਠਾਕੁਰ! ਹੇ ਪ੍ਰਭੂ! ਟੇਕ = ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

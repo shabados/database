@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਉਹ ਰਾਸਧਾਰੀਏ) ਰੋਜ਼ੀ ਦੀ ਖ਼ਾਤਰ ਨੱਚਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਹਿ ਤਾਲ = ਤਾਲ ਪੂਰਦੇ ਹਨ, ਨੱਚਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੁਫ਼ਰ ਦੇ ਬਰਾਬਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਲਿਬਾਸਿ ਦੁਨਯਵੀ ਮਾਇਲ ਸ਼ੁਦਨ ।੩੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

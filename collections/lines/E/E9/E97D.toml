@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਫ਼ਤ-ਸਾਲਾਹ ਅਤੇ ਭਗਤੀ (ਦੀ ਦਾਤਿ) ਉਸ (ਪ੍ਰਭੂ) ਨੇ ਕਿਸੇ ਵਿਰਲੇ (ਭਾਗਾਂ ਵਾਲੇ) ਨੂੰ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਤੀਅਨੁ = ਉਸ (ਪ੍ਰਭੂ) ਨੇ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਜ਼ੁਲਫ ਦੇ ਕੁੰਡਲ ਨੇ ਸਾਡਾ ਦਿਲ ਉਡਾ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁੰਬਲੇ ਜ਼ੁਲਫ਼ਿ ਤੂ ਦਿਲਿ ਰਾ ਬੁਰਦ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

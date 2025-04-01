@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਕਿਸੇ ਕੋਲ ਰੱਬ ਦੇ ਸ਼ੌਕ ਲਈ ਅਜਿਹੇ ਇਕ ਛਿਨ ਪਲ ਦੀ ਵਿਹਲ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਗਰ ਯਕਦਮ ਕਸੇ ਬਾਇਦ ਬਸ਼ੌਕਿ ਹੱਕ ਫ਼ਰਾਗ ਈਂਜਾ ।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

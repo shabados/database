@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਬਹੁ ਮੁਲੱੀ ਆਯੂ ਦਾ ਨਫ਼ਾ ਉਸ ਨੇ ਪਰਾਪਤ ਕਰ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਲਿ ਉਮਰਿ ਗਿਰਾਮੀ ਰਾ ਅਜ਼ੀਣ ਦੁਨਿਆ ਗ੍ਰਿਫ਼ਤ ।੧੩।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

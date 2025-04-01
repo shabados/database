@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੇ ਪ੍ਰਭੂ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨਾ ਹੈ) ਤਾਂ ਸਿਰਫ਼ ਪ੍ਰਭੂ-ਨਾਮ ਹੀ ਜਪੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ ਨਾਮਾ = ਸਿਰਫ਼ ਪ੍ਰਭੂ-ਨਾਮ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

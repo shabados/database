@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਜਿਤਨੇ ਭੀ ਮੌਜ-ਮੇਲੇ ਹਨ ਉਹ ਸਾਰੇ (ਕਿਸੇ ਦੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤੇ = ਜਿਤਨੇ ਭੀ ਹਨ। ਸੰਗਿ = ਨਾਲ। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਨ ਜਾਹੀ = ਨ ਜਾਹਿ, ਨਹੀਂ ਜਾਂਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

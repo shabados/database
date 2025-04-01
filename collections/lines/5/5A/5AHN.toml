@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਭਗਤਾਂ ਦੀ ਇੱਜ਼ਤ) ਤੇਰੀ ਹੀ ਇੱਜ਼ਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਿਆਈ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

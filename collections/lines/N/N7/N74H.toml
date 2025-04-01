@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਮਝੋ ਰਸਾਇਨ ਹੈ, ਪਰ ਸਾਨੂੰ ਕਿਸਤਰ੍ਹਾਂ ਨਸੀਬ ਹੋ ਸਕਦੀ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਮੁਯੱਸਰ ਆਇਦਤ ਈਂ ਕੀਮੀਆ ।੨੭੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

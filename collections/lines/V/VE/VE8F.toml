@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! (ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ) ਤੇਰਾ ਕੌਣ ਸਾਥੀ (ਬਣ ਸਕਦਾ ਹੈ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ = ਹੇ ਮੂਰਖ! ਮੁਗਧ = ਹੇ ਮੂਰਖ! ਸੰਗੀ = (ਅਸਲ) ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

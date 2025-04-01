@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ ਦੁਨੀਆ ਦੇ ਰਸਤੇ ਵਿਚ ਹਰੇਕ ਚੀਜ਼ ਦਾ ਅੰਤ (ਭੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗੰ = ਰਸਤਾ (मार्ग)। ਪ੍ਰਵਿਰਤਿ ਮਾਰਗ = ਦੁਨੀਆ ਵਿਚ ਪਰਵਿਰਤ ਹੋਣ ਦਾ ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

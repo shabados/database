@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਮੁਆਮਲੇ ਵਿਚ ਭਲਾ ਸਾਡੇ ਵਸ ਹੈ ਕੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰੀਣ ਮੁਕੱਦਮਾ ਮਾ ਰਾ ਚਿਹ ਅਖ਼ਤਿਆਰ ਆਮਦ ।੧੯।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

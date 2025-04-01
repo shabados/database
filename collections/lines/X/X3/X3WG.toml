@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ) ਕੰਨ ਵਿਚ ਭੀ ਸੂਤਕ ਹੈ ਕਿ ਕੰਨ ਨਾਲ ਬੇਫ਼ਿਕਰ ਹੋ ਕੇ ਚੁਗ਼ਲੀ ਸੁਣਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਨਿ = ਕੰਨ ਨਾਲ। ਲਾਇਤਬਾਰੀ = ਚੁਗ਼ਲੀ। ਪੈ ਖਾਹਿ = ਪਏ ਖਾਹਿ, ਪਏ ਖਾਂਦੇ ਹਨ, ਬੇਪਰਵਾਹ ਹੋ ਕੇ (ਚੁਗ਼ਲੀ) ਸੁਣਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

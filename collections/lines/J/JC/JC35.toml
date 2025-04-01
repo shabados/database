@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ (ਭਾਉ ਦੂਜਾ) ਪੈਦਾ ਕੀਤਾ ਹੈ ਜੇ ਉਸ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਅਰਦਾਸ ਕਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

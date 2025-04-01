@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਿਥੇ ਜਾ ਕੇ ਤੇਰਾ ਵਾਹ ਪੈਣਾ ਹੈ ਉਸ ਦਾ ਤੈਨੂੰ (ਰਤਾ ਭੀ) ਫ਼ਿਕਰ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੂੰ। ਚਿੰਤਾ = ਖ਼ਿਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

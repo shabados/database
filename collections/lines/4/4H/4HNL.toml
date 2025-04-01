@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਮੌਤ ਦੀ ਫਾਹੀ (ਉਸ ਦੇ) ਗਲ ਵਿਚ ਪੈਂਦੀ ਹੈ, ਹਰੇਕ ਚੀਜ਼ ਬਿਗਾਨੀ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਾਸ = ਫਾਹੀ। ਜਬ = ਜਦੋਂ। ਗਲਿ = ਗਲ ਵਿਚ। ਪਰੀ = ਪੈਂਦੀ ਹੈ। ਸਭ = ਹਰੇਕ ਚੀਜ਼। ਪਰਾਇਓ = ਬਿਗਾਨੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

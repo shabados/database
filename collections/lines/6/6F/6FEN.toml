@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਜੋਗੀ ਹੈ, ਨਾਹ ਤਿਆਗੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਧੂਤਾ = ਤਿਆਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! ਮੇਰੇ ਸਰੀਰ ਵਿਚ ਉਪਜਿਆ ਹੋਇਆ ਵਿਛੋੜੇ ਦਾ ਦਰਦ ਮੈਨੂੰ ਜਗਾਈ ਰੱਖਦਾ ਹੈ, ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ ਮੈਨੂੰ ਨੀਂਦ ਨਹੀਂ ਪੈਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਸਰੀਰ ਵਿਚ (ਉਪਜਿਆ ਹੋਇਆ)। ਬਿਰਹੁ = ਵਿਛੋੜੇ ਦਾ ਦਰਦ। ਕਿਵੈ = ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

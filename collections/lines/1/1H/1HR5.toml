@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਜਨ ਬੰਦਗੀ ਅਤੇ ਪਾਖੰਡ ਦੇ ਅਸੂਲਾਣ ਦਾ ਸਾਨੂੰ ਕੁਝ ਪਤਾ ਹੀ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਕਾਇਦਾਇ ਜ਼ੁਹਦੋ ਰਿਆ ਰਾ ਨਾ-ਸ਼ਨਾਸੇਮ ।੫੮।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

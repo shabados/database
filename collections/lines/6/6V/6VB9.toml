@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਰੀਬਾਂ ਤੇ ਅਨਾਥ ਜੀਵਾਂ ਨੂੰ ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਾ = ਮਾਣ, ਆਸਰਾ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

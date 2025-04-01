@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ! ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕ ਭਟਕ ਕੇ (ਜੂਨਾਂ ਤੋਂ ਬਚਣ ਦਾ ਹੋਰ ਕੋਈ) ਟਿਕਾਉ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਿ = ਭਟਕ ਕੇ। ਥਿਤਿ = {स्थिति} ਟਿਕਾਉ। ਪਾਈ = ਲੱਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

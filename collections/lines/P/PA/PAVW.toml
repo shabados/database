@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਤੇਰੀ ਕੁਦਰਤਿ ਨੂੰ ਵੇਖ ਕੇ ਮੈਂ ਤੇਰੇ ਦਰਸਨ ਦਾ ਚਾਹਵਾਨ ਹੋ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ਕੁਦਰਤੀ = ਕੁਦਰਤਿ ਦੀ ਰਾਹੀਂ, ਤੇਰੀ ਕੁਦਰਤਿ ਵੇਖ ਕੇ। ਮੁਸਤਾਕੁ = ਮੁਸ਼ਤਾਕ, (ਤੇਰੇ ਦਰਸਨ ਦਾ) ਚਾਹਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

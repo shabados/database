@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ (ਧਿਰ ਧਿਰ ਦੀ) ਮੁਥਾਜੀ ਕਰਨ ਤੋਂ ਮੈਂ ਬਚ ਗਈ ਹਾਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਣਿ = ਮੁਥਾਜੀ। ਤੇ = ਤੋਂ। ਛੂਟਿ ਪਰੀ = ਬਚ ਗਈ ਹਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਸਿਫਤ ਸਲਾਹ ਕਹਿਣ ਸੁਣਨ ਤੋਂ ਬਾਹਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਸਫ਼ਿ ਹੱਕ ਬੀਰੰ ਬਵਦ ਅਜ਼ ਗੁਫ਼ਤਗੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

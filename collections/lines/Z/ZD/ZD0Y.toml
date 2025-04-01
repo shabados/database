@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਰਾਮਾਤ ਅਤੇ ਸਖੀਪਨ ਦੇ ਆਸਮਾਨ ਦਾ ਉਹ ਸੂਰਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਮਾਇ ਕਰਾਮਾਤ ਰਾ ਆਫਤਾਬ ।੯੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

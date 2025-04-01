@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਦਾ) ਦੁਖੀ ਤੇ ਆਤੁਰ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨੁ = ਕੰਗਾਲ, ਆਤੁਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

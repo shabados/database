@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਜਨੋਂ! ਹਰੀ ਦੇ ਨਾਮ ਦਾ ਸਿੰਗਾਰ ਬਣਾਵੋ, ਤੇ ਖਿਮਾ ਦੀ ਪੁਸ਼ਾਕ ਪਹਿਨੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਪੜੁ = ਕੱਪੜਾ, ਪੁਸ਼ਾਕ। ਖਿਮ = ਖਿਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

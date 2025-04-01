@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹੀ ਰੱਬ ਦੀ ਯਾਦ ਹੈ, ਹੋਰ ਕੋਈ ਯਾਦ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਹੱਕ ਈਨਸਤੋ ਦੀਗਰ ਯਾਦ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਹਰੋਂ ਭਾਵੇਂ ਉਹ ਮੁੱਠੀ ਭਰ ਮਿੱਟੀ ਦੀ ਕੈਦ ਵਿਚ ਦਿਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰਿਸ਼ ਦਰ ਕੈਦਿ ਮੁਸ਼ਤਿ ਖ਼ਾਕ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

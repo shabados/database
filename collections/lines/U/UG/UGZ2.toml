@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਉਂ ਜਿਉਂ) ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਗੁਰਮੁਖਿ) ਨਾਮ ਸਿਮਰਦਾ ਹੈ, ਪੰਛੀ (ਵਾਂਗ ਉਡਾਰੂ ਇਹ) ਮੱਤ (ਉਸ ਦੇ) ਵੱਸ ਵਿਚ ਆ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਖੇਰੂ = ਪੰਛੀ। ਵਸਿ = ਵੱਸ ਵਿਚ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

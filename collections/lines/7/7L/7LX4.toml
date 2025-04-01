@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਅਦ੍ਰਿਸ਼ਟ ਹੈਂ, ਤੂੰ (ਮਾਨੁਖੀ) ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਹੈਂ, ਤੂੰ ਅਪਹੁੰਚ ਹੈਂ, ਗੁਰੂ ਦੀ ਮੱਤ ਤੇਰਾ ਦੀਦਾਰ ਕਰਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗੋਚਰੁ = ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

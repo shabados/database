@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਰੱਬ ਦੀ ਯਾਦ ਦਾ ਸੁਆਦ ਆ ਜਾਵੇ, ਓ ਜੀਵ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਬਯਾਬੀ ਲੱਜ਼ਤੇ ਅਜ਼ ਯਾਦਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

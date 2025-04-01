@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਦਰ ਦਾ) ਮੰਗਤਾ (ਦਾਸ) ਤੈਥੋਂ ਹੀ ਮੰਗਦਾ ਹੈ ਤੈਨੂੰ ਹੀ ਆਰਾਧਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਕੁ = ਮੰਗਤਾ। ਜਾਚੈ = ਮੰਗਦਾ ਹੈ {ਇਕ-ਵਚਨ}। ਅਰਾਧੈ = ਆਰਾਧਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

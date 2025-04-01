@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਨੇ ਹੀ ਸੂਰਜ ਤੇ ਚੰਦ੍ਰਮਾ ਬਣਾ ਕੇ ਇਹ ਦਿਨ ਤੇ ਰਾਤ ਦਾ ਜਗਤ-ਤਮਾਸ਼ਾ ਬਣਾਇਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜਿਅਨੁ = ਉਸ ਨੇ ਪੈਦਾ ਕੀਤੇ ਹਨ। ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਚਲਤੁ = (ਜਗਤ-) ਤਮਾਸ਼ਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

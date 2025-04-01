@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਇਹੋ ਜਿਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

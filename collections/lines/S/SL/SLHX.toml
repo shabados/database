@@ -42,6 +42,12 @@ language = "pa"
 data = "ਕਈ ਇੰਦਰ ਆਪਣੇ ਤਖ਼ਤ 'ਤੇ ਬੈਠੇ ਹੋਏ ਦੇਵਤਿਆਂ ਸਮੇਤ ਤੇਰੇ ਦਰ 'ਤੇ ਤੈਨੂੰ ਸਲਾਹ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ = ਇੰਦਰ ਦੇਵਤੇ। ਇਦਾਸਣਿ = (ਇਦ-ਆਸਣਿ), ਇੰਦਰ ਦੇ ਆਸਣ ਉੱਤੇ। ਦਰਿ = ਤੇਰੇ ਦਰਵਾਜ਼ੇ ਉੱਤੇ। ਦੇਵਤਿਆਂ ਨਾਲੇ = ਦੇਵਤਿਆਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

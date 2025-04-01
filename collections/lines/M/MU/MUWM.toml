@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਤੇ ਹੇ ਭਾਈ!) ਜਗਤ ਦੇ ਕਰਤਾ ਪ੍ਰਭੂ ਨੂੰ ਸਦਾ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਨ ਕਰਨ = ਜਗਤ ਦਾ ਕਾਰਨ, ਜਗਤ ਦਾ ਮੂਲ, ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਕਰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

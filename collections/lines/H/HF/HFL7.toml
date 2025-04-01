@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਦਾ ਹੀ ਆਪਣੀ ਜ਼ੁਬਾਨ ਨਾਲ ਉਸੇ ਦਾ ਹੀ ਨਾਮ ਜਪਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਊ ਦਾਰਦ ਦਾਇਮ ਬਰ ਜ਼ੁਬਾਂ ।੨੮੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

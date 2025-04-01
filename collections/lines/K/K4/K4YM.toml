@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਿੱਤਰ, ਹਿਤੂ, ਧਨ-ਇਹ (ਮਨੁੱਖ ਦੀ ਜਿੰਦ ਦਾ) ਸਹਾਰਾ ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਤ = ਹਿਤੂ, ਸਨੇਹੀ। ਪਾਰਣਾ = ਪਰਨਾ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

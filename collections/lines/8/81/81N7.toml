@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ (ਦੁਨੀਆ ਦੇ) ਸ਼ਾਹ ਦੇ ਸਿਰ ਉੱਤੇ ਪਾਤਿਸ਼ਾਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

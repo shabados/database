@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਜੀ ਦਾ ਨਾਮ (ਹੀ) ਮਨ ਨੂੰ ਆਸਰਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਮਨਹਿ = ਮਨ ਨੂੰ। ਸਾਧਾਰੈ = ਆਧਾਰ-ਸਹਿਤ ਕਰਦਾ ਹੈ, ਆਸਰਾ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

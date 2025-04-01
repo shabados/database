@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਇਕੋ ਹੀ ਮਿੱਟੀ ਤੋਂ ਕਈ ਕਿਸਮਾਂ ਦੇ ਭਾਂਡੇ ਬਣਾਏ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕਲ ਮਾਟੀ = ਇੱਕੋ ਹੀ ਮਿੱਟੀ ਤੋਂ। ਕੁੰਜਰ = ਕੁੰਚਰ, ਹਾਥੀ। ਚੀਟੀ = ਕੀੜੀ। ਭਾਜਨ = ਭਾਂਡੇ। ਨਾਨ੍ਹ੍ਹਾ = ਕਈ ਕਿਸਮਾਂ ਦੇ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਰੁੱਖ ਦਾ) ਬੀ ਬੀਜ ਕੇ (ਸ਼ਾਖ਼ਾਂ ਪੱਤੇ ਆਦਿਕ ਉਸ ਦਾ) ਕਈ ਕਿਸਮਾਂ ਦਾ ਸਰੂਪ ਵੇਖਣ ਵਿਚ ਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜਿ = ਬੀਜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

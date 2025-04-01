@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣੇ ਨਾਮ ਦੀ ਕਦਰ ਭੀ ਉਹ ਆਪ ਹੀ ਟਿਕਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਮਤਿ = ਕਦਰ। ਧਰੈ = (ਜੀਵ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਟਿਕਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਿਵ, ਬ੍ਰਹਮਾ, ਅਨੇਕਾਂ ਦੇਵੀਆਂ ਤੇ ਦੇਵਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਸਰੁ = ਸ਼ਿਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

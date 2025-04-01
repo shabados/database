@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਮੁਬਾਰਿਕ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਮੁਬਾਰਕ। ਜਿਹ ਘਟਿ = ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

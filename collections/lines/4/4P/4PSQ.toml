@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਈ ਰੰਗਾਂ ਵਾਲੀ ਅਤੇ ਮਨ ਨੂੰ ਮੋਹਣ ਵਾਲੀ ਚੰਚਲ ਮਾਇਆ (ਜੀਵਾਂ ਨੂੰ) ਅਨੇਕਾਂ ਨਖ਼ਰੇ ਵਿਖਾਂਦੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਚਿਤ੍ਰਿ = {ਇਸਤ੍ਰੀ-ਲਿੰਗ} ਕਈ ਰੰਗਾਂ ਵਾਲੀ। ਭਾਵ = ਨਖ਼ਰੇ। ਦਿਖਾਵਏ = {ਵਰਤਮਾਨ ਕਾਲ} ਵਿਖਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

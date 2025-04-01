@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਛੱਡ ਕੇ ਹੋਰ ਜਾਈਏ ਭੀ ਕਿਹੜੇ ਪਾਸੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੋ = ਨੂੰ। ਕੈਂ ਧਰਿ = ਕੇਹੜੇ ਪਾਸੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

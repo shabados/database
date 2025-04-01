@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਜੋਤਿ ਤੂੰ (ਸਰੀਰਾਂ ਵਿਚ) ਟਿਕਾ ਕੇ ਮੂਰਖਾਂ ਨੂੰ ਸੋਹਣੇ ਬਣਾ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ। ਧਾਰਿ = ਧਾਰ ਕੇ, ਟਿਕਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

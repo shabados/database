@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਵਾਲੀ ਮੱਤ ਦੀ ਰਾਹੀਂ ਜਿਸ ਹਿਰਦੇ-ਕੰਵਲ ਦਾ ਖਿੜਾਉ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ। ਗਿਆਨ ਮਤੀ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਵਾਲੀ ਮੱਤ ਦੀ ਰਾਹੀਂ। ਪਰਗਾਸੁ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

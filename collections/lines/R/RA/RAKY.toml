@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਹ ਨਾਮ-ਹੀਰਾ ਅਮੋਲਕ ਹੈ ਉਹ (ਬਾਹਰਲੇ ਭੇਖ ਆਦਿਕ) ਉਪਾਵਾਂ ਨਾਲ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਇਆ = ਉਪਾਵਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

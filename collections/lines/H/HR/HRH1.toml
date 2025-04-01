@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਹੀ ਵੇਖ ਕੇ ਮੇਰਾ ਮਨ ਧੀਰਜ ਫੜਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਿ = ਵੇਖ ਕੇ। ਸਾਧਾਰਾ = ਆਸਰਾ ਫੜਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

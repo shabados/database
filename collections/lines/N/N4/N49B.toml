@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸੱਜਣ ਪ੍ਰਭੂ ਜੀ ਆ ਵੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨ = ਸੱਜਣ ਪ੍ਰਭੂ ਜੀ। ਵੁਠੇ = ਵੱਸ ਪਏ। ਘਰ = ਹਿਰਦਾ-ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸਿਫਤ ਸਾਲਾਹ ਕਹੇ, ਹੋਰ ਕੁਝ ਨ ਕਹੋ । ਇਹੀ ਜੀਵਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਦ ਗੋ ਦੀਗਰ ਮਗੋ ਈਨਸਤ ਜ਼ੀਸਤ ।੪੭੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

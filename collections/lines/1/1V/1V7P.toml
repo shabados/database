@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਾਡੇ ਵੇਖਦਿਆਂ ਵੇਖਦਿਆਂ ਜਿਸ (ਸਿੰਮ੍ਰਿਤੀ) ਨੇ ਸਾਰੇ ਸੰਸਾਰ ਨੂੰ ਠੱਗ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਦੇਖਤ = ਅਸਾਡੇ ਵੇਖਦਿਆਂ। ਜਿਨਿ = ਜਿਸ (ਸਿੰਮ੍ਰਿਤੀ) ਨੇ। ਸਭੁ ਜਗੁ = ਸਾਰੇ ਸੰਸਾਰ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

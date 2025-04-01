@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਫਸੋਸ ਹੈ ਤੇਰੀ ਇਸ ਅਣਗਹਿਲੀ ਉੱਤੇ ਅਤੇ ਤੇਰੀ ਚਾਲ ਉੱਤੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਇ ਬਰ ਈਣ ਗ਼ਫਲਤੋ ਅਫ਼ਆਲਿ ਤੂ ।੭੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

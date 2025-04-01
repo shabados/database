@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਹੀ) ਪਰਮਾਤਮਾ (ਦੇ ਮਿਲਾਪ) ਦਾ ਰਸਤਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ। ਹੇ ਭਾਈ! ਦੱਸ, ਕਿਸ ਤਰੀਕੇ ਨਾਲ (ਇਸ ਰਸਤੇ ਉੱਤੇ) ਤੁਰ ਸਕੀਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗੁ = ਰਸਤਾ। ਕਹੁ = ਦੱਸੋ। ਕਿਤੁ ਬਿਧਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

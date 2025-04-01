@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਜੇਹੜਾ ਮਨੁੱਖ ਆਪਣੇ ਗੁਰੂ ਦਾ ਧਿਆਨ ਧਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਏ = ਧਿਆਨ ਧਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

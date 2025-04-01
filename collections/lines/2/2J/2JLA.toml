@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਰਨ ਦਾ ਘੰਡੇਹੇੜੇ ਦੀ ਆਵਾਜ਼ ਨਾਲ ਪਿਆਰ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਰੰਕ = ਹਰਨ। ਨਾਦੈ ਨੇਹੁ = ਨਾਦ ਦਾ ਪਿਆਰ। ਨਾਦ = ਖੱਲ ਨਾਲ ਮੜ੍ਹੇ ਹੋਏ ਘੜੇ ਦੀ ਆਵਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੋਂ ਤਨੋਂ ਮੂੰਹੋਂ ਸਦਾ (ਤੈਨੂੰ ਹੀ) ਜਪਦਾ ਹੈ, ਉਸ ਦੇ ਅੰਦਰ (ਤੇਰੇ) ਗੁਣ ਪੈਦਾ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਧੀਰਜ ਆ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੈ = ਜਪਦਾ ਹੈ। ਅੰਤਰਿ = (ਉਸ ਦੇ) ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਅੱਖ ਫਰਕਣ ਦਾ ਸਮਾ (ਜਗਤ ਦੇ) ਪਾਲਣ ਤੇ ਨਾਸ ਲਈ (ਕਾਫ਼ੀ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਤ੍ਰ ਫੋਰੁ = ਅੱਖ ਦਾ ਫਰਕਣਾ। ਹਰਨ = ਨਾਸ ਕਰਨਾ। ਭਰਨ = ਪਾਲਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

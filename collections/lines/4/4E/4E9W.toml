@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਤੋਣ ਅੱਗੇ ਲਈ ਪਛਤਾਵਾ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਕਬਤ ਅਜ਼ ਵੈ ਪਸ਼ੇਮਾਨੀ ਬਵਦ ।੨੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਭਗਤੀ ਜ਼ਿੰਦਗੀ ਦੇ ਰਾਹ ਵਿਚ (ਵਿਕਾਰਾਂ ਦੀ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਣ ਦੇਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਬਿਘਨ = ਵਿਘਨਾਂ ਤੋਂ ਬਚਾਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

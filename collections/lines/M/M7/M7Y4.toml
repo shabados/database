@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਹੁਣ ਮੈਂ ਵੱਸਣ ਲਈ ਸੋਹਣੀ ਥਾਂ ਲੱਭ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਵਤਨ ਗਹ = ਵਤਨ ਗਾਹ, ਵਤਨ ਦੀ ਥਾਂ, ਰਹਿਣ ਦੀ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

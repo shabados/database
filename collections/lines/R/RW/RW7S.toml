@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰਨਾਂ ਅੱਗੇ (ਖਾਣੇ) ਧਰਨ ਵਾਲੇ ਨੇ (ਤਾਂ ਸਦਾ) ਸੁਆਦਲੇ ਖਾਣੇ ਵੇਖੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਜਨ = ਸੁਆਦਲੇ ਖਾਣੇ। ਪਰੋਸਨਹਾਰੈ = ਪਰੋਸਣ ਵਾਲੇ ਨੇ, ਹੋਰਨਾਂ ਅੱਗੇ ਧਰਨ ਵਾਲੇ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੂੰਜ ਦੇ ਚੇਤੇ ਵਿਚ ਟਿਕੇ ਹੋਏ ਉਸ ਦੇ ਆਂਡੇ (ਖ਼ਰਾਬ ਨਹੀਂ ਹੁੰਦੇ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਂਡੋ = (ਕੂੰਜ ਦਾ) ਅੰਡਾ। ਹਿਰਦੇ ਮਾਹਿ = ਚੇਤੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

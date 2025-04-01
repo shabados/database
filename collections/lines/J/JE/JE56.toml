@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਨ ਵਿਚ ਗੁਰੂ ਦੇ ਚਰਣ ਵੱਸ ਪਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹੀ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

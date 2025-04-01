@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬੀ ਗਿਆਨਵਾਨ ਭਾਵੇਂ ਇਸ ਦੁਨੀਆ ਵਿਚ ਹੀ ਵਿਚਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਿ ਅੱਲਾਹ ਦਰ ਦੁਨੀਆਂ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

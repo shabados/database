@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਨੇਕਾਂ ਜਤਨਾਂ ਅਤੇ ਅਨੇਕਾਂ ਹੀਲਿਆਂ ਨਾਲ ਪਰਮਾਤਮਾ ਨਹੀਂ ਮਿਲਦਾ। ਉਹ ਤਦੋਂ ਹੀ ਮਿਲਦਾ ਹੈ ਜਦੋਂ ਉਸ ਦੀ ਆਪਣੀ ਕਿਰਪਾ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵ = (ਲਫ਼ਜ਼ 'ਉਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ) ਹੀਲੇ। ਰੇ = ਹੇ ਭਾਈ! ਤਉ = ਤਦੋਂ। ਜਉ = ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

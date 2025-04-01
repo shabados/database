@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਨਾਮ ਵਸਤ ਬੜੀ ਸੁੰਦਰ ਹੈ ਤੇ ਲਾਭ ਦੇਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੂਪ = ਜਿਸ ਵਰਗੀ ਹੋਰ ਕੋਈ ਨ ਹੋਵੇ, ਅਤਿ ਸੁੰਦਰ। ਲਾਭਾਇਆ = ਲਾਹੇਵੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

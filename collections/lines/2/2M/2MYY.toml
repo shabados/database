@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਤੀ ਆਕਾਸ਼ ਪਾਤਾਲ ਚੰਦ ਅਤੇ ਸੂਰਜ-ਇਹ ਸਭ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਾਸੀ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

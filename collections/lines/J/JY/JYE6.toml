@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰ-ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਸੱਚੇ ਪ੍ਰਭੂ ਨੇ ਆਪ ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ ਹੈ, ਕੋਈ ਮਨਮੁਖ ਉਹਨਾਂ ਦੀ ਕੀਹ ਨਿੰਦਾ ਕਰ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖੀਲੀ = ਚੁਗਲ਼ੀ। ਸਚੈ = ਸੱਚੇ ਪ੍ਰਭੂ ਨੇ। ਸਬਦਿ = ਗੁਰ-ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

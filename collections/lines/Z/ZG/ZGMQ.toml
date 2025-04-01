@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਨੇ ਪ੍ਰਭੂ ਨਾਮ ਦਿੱਤਾ ਹੈ ਤੇ ਸੇਵਕ ਨੇ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਚੱਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

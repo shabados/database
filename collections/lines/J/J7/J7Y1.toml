@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੁਆਨੀ, ਤਾਕਤ, ਸੋਨੇ ਦੇ ਕੁੰਡਲ (ਆਦਿਕ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੌਬਨ = ਜੁਆਨੀ (यौवनं)। ਬਹਿਕ੍ਰਮ = ਬਲ (बहिष्त्रत्र्म)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

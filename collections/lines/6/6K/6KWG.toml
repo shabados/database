@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਅਪਹੁੰਚ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਮੇਰੇ ਉਤੇ ਮਿਹਰ ਕਰ! ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮ੍ਰਥ = ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਅਗਮ = ਹੇ ਅਪਹੁੰਚ! ਪੂਰਨ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਮੋਹਿ = ਮੇਰੇ ਉੱਤੇ। ਮਇਆ ਧਾਰਿ = ਦਇਆ ਕਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

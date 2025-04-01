@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸਰਨ ਪਏ ਦੀ ਸਹਾਇਤਾ ਕਰਨ ਜੋਗਾ ਹੈ, ਗੁਰੂ ਸੂਰਮਿਆਂ ਵਾਂਗ ਬਚਨ ਪਾਲਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰੇ = ਸੂਰਮੇ। ਬਚਨ ਕੇ ਸੂਰੇ = ਸੂਰਮਿਆਂ ਵਾਂਗ ਆਪਣੇ ਬਚਨ ਉੱਤੇ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

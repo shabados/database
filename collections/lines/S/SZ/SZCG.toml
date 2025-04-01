@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗੁਣ ਅਲੱਖ ਤੇ ਅਗੰਮ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਹ ਗੁਣ ਅੰਤੁ = ਉਹਨਾਂ ਗੁਣਾਂ ਦਾ ਅੰਤ। ਨ ਜਾਣਉ = ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ। ਅਲਖ = ਅਲੱਖ, ਬਿਆਨ ਤੋਂ ਪਰੇ। ਅਗੰਮ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

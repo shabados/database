@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਸ਼ੌਕ ਦੇ ਜਜ਼ਬੇ ਤੋਣ ਬਿਨਾਣ ਭਲਾ ਰਾਹ ਵਖਾਉਣ ਵਾਲਾ ਕੀ ਕਰਦਾ ਸਕਦਾ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਗ਼ੈਰਿ ਜਜ਼ਬਾਇ ਸ਼ੌਕਿ ਤੂ ਰਹਿਨੁਮਾ ਚਿ ਕੁਨਦ ।੨੦।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੇ ਧੰਧੇ ਵਿਚ ਭਟਕਦੇ ਦੀ ਸਾਰੀ ਹੀ ਉਮਰ ਬੀਤ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਜਾ = ਉਮਰ। ਧੰਧੈ = ਧੰਧੇ ਵਿਚ। ਧਾਇਆ = ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

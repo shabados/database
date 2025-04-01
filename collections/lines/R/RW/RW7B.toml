@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਵਾਹਿਗੁਰੂ # ਤੂੰ ਹਰ ਬੇਅਦਬ ਨੂੰ ਅਦਬ ਗਖਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਖ਼ੁਦਾ ਹਰ ਬੇ ਅਦਬ ਰਾ ਦਿਹ ਅਦਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

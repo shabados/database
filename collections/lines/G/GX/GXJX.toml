@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਆਪਣੇ ਆਪ ਨੂੰ ਪਤਿਆਉਣ ਵਾਲਾ ਪ੍ਰਭੂ ਆਪ ਹੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਨ ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਪਤੀਆਰਾ = ਪਤਿਆਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਵੇਰ ਦੇ ਚਉਥੇ ਪਹਰ (ਭਾਵ, ਅੰਮ੍ਰਿਤ ਵੇਲੇ) ਉੱਚੀ ਸੁਰਤ ਵਾਲੇ ਬੰਦਿਆਂ ਦੇ ਮਨ ਵਿਚ (ਇਸ ਨਉਨਿਧਿ ਨਾਮ ਲਈ) ਚਾਉ ਪੈਦਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਿਆ = ਉੱਕੀ ਸੁਰਤਿ ਵਾਲਿਆਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

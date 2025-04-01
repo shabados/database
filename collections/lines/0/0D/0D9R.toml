@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਿੱਟੀ ਹਵਾ ਆਦਿਕ) ਪੰਜ ਤੱਤਾਂ ਦਾ ਪੁਤਲਾ ਬਣਾ ਕੇ (ਉਸ ਨੂੰ ਆਪਣੀ) ਜੋਤਿ ਨਾਲ ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਚਿ = ਬਣਾ ਕੇ। ਨਿਵਾਜਿਆ = ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

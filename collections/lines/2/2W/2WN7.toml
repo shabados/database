@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਤਿ = ਸਦਾ। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

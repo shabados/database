@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸੰਗਤ ਕਰਣ ਵਾਲੇ ਸਭ ਗਿਆਨਵਾਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾ-ਨਸ਼ੀਨਾਨਿ ਊ ਅਜ਼ ਊ ਲਾਇਕ ।"
+page = 1
+line = 20
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

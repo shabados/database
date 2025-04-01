@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਤਿਕਾਰ ਹੀ ਰੱਬ ਦਾ ਰਸਤਾ ਵਿਖਾਉਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਦੀਏ ਰਾਹਿ ਖ਼ੁਦਾ ਆਮਦ ਅਦਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

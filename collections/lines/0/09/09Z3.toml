@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਂਝ ਤਾਂ ਆਪਣੇ ਆਪ ਨੂੰ) ਗੁਰੂ ਪੀਰ ਅਖਵਾਂਦਾ ਹੈ (ਪਰ ਰੋਟੀ ਦਰ ਦਰ) ਮੰਗਦਾ ਫਿਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦਾਏ = ਅਖਵਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

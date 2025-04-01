@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋ ਜਹਾਨਾਂ ਦੀ ਕੀ ਗਲ ਹੈ # ਉਸ ਦੀਆਂ ਬਖਸ਼ਿਸ਼ਾਂ ਨਾਲ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੋ ਆਲਮ ਚਿਹ ਬਾਸ਼ਦ ਹਜ਼ਾਰਾਂ ਜਹਾਂ ।"
+page = 2
+line = 56
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪਰਮਾਤਮਾ ਜਲ ਵਿਚ, ਧਰਤੀ ਉੱਤੇ (ਹਰ ਥਾਂ) ਆਪ ਹੀ ਆਪ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹੇ = ਵਿਚ। ਆਪਹਿ ਆਪ = ਆਪ ਹੀ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

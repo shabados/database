@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਮੇ, ਮਾਮੀਆਂ, ਭਰਾ, ਪਿਉ, ਤੇ ਮਾਂ-(ਕਿਸੇ ਨਾਲ ਭੀ ਸੱਚਾ ਸਾਕ) ਨਹੀਂ ਬਣ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਮਾਣੀਆਂ = ਮਾਮੀਆਂ। ਤੈ = ਅਤੇ। ਭਾਇਰ = ਭਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

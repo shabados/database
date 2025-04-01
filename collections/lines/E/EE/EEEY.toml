@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੱਤ, ਦਾਲ, ਲੱਪੀ ਅਤੇ ਮੁਰਕਣੀ ਪੰਜੀਰੀ ਤਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਤੁ = ਭੱਤ, ਚੌਲ। ਪਹਿਤਿ = ਦਾਲ। ਲਾਪਸੀ = ਲੱਪੀ, ਪਤਲਾ ਕੜਾਹ। ਕਰਕਰਾ ਕਾਸਾਰੁ = ਖ਼ਸਤਾ ਪੰਜੀਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਜਿਸ ਪਾਸੇ ਉਸ ਨੇ ਲਾਇਆ ਹੈ, ਮੈਂ ਓਧਰ ਲੱਗੀ ਹੋਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

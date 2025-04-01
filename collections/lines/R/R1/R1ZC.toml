@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਦੂਤਾਂ ਅਤੇ ਕਾਲ ਨੂੰ ਨਾਸ ਕਰਨ ਵਾਲਾ ਨਾਮ ਦੇਹਿ, ਜੋ ਅਖ਼ੀਰ ਚੱਲਣ ਵੇਲੇ ਸਾਥੀ ਬਣੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਿ = ਅੰਤ ਵੇਲੇ, ਅਖ਼ੀਰ ਦੇ ਸਮੇ। ਨਿਖੰਜਨੋ = ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

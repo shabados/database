@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਹੋਰ ਧੰਧੇ ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ = ਮਾਇਆ। ਜੰਜਾਲ = ਧੰਧੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

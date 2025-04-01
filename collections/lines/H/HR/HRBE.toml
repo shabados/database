@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਮੇਰੇ ਮਾਲਕ ਦੀ ਮੇਰੇ ਉਤੇ ਮਿਹਰ ਹੋਵੇ ਤਾਂ) ਮੈਂ ਉਸ ਮਾਲਕ ਪਾਸੋਂ ਇਹ ਦਾਤ ਹਾਸਿਲ ਕਰਾਂ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸੀਸ = ਬਖ਼ਸ਼ਸ਼, ਦਾਤਿ। ਤੇ = ਤੋਂ। ਪਾਵਾ = ਪਾਵਾਂ, ਮੈਂ ਹਾਸਲ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

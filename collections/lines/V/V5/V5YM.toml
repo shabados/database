@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਰਾਮ ਦੇ, ਮੇਰੇ ਹਰੀ ਦੇ, ਦਾਸ (ਹਉਮੈ ਆਦਿਕ ਤੋਂ) ਨਰੋਏ ਹੋ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੇ ਰਾਮ ਹਰਿ ਜਨ = ਮੇਰੇ ਰਾਮ ਦੇ ਹਰੀ ਦੇ ਜਨ। ਆਰੋਗ = ਰੋਗ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

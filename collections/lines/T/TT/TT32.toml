@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ ਹੀ ਉਸਦੀ ਚਾਕਰੀ ਲਈ ਸਿਰ ਨਿਵਾਇ ਖੜੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਖ਼ਿਦਮਤ-ਗੁਜ਼ਾਰੀ ਸਰ ਅਫ਼ਗਦਾ-ਅਸ਼ ।੮੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

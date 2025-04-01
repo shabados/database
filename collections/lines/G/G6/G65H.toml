@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੇ ਦਰਦਾਂ ਦੀ ਦਵਾਈ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਦਰਦਿ ਦੋ ਆਲਮ ਰਾ ਦਵਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

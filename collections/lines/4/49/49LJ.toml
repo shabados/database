@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਦੇ ਅਧੀਨ ਹੋਇਆ ਮਨੁੱਖ ਸਾਰਾ ਦਿਨ ਲਾਲਚ ਵਿਚ ਲਿੱਬੜਿਆ ਹੋਇਆ (ਨਾਮ ਤੋਂ ਛੁਟ) ਹੋਰ ਹੋਰ ਗੱਲਾਂ ਕਰਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਚਿ = ਲਾਲਚ ਵਿਚ। ਅਟਿਆ = ਅੱਟਿਆ, ਲਿਬੜਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

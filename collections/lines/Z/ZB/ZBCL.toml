@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਬਿਨਾਸ਼ੀ ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲਾ ਹੈ ਅਤੇ ਕੰਗਾਲਾਂ ਦਾ ਬੰਧੂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਤ = ਜੀਵ (भुतं)।ਅਚੁਤ = ਅਬਿਨਾਸ਼ੀ ਪ੍ਰ੍ਰਭੂ (अच्युत)।ਦੀਨ = ਕੰਗਾਲ। ਬਾਂਧਵ = ਬੰਧੂ, ਰਿਸ਼ਤੇਦਾਰ। ਦਾਮੋਦਰਹ = ਪਰਮਾਤਮਾ (दामन् = a string) दामन्-उदर)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

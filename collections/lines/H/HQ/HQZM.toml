@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਹਰੀ ਦੇ ਘਰ ਵਿਚ ਨੌ ਹੀ ਖ਼ਜ਼ਾਨੇ ਮੌਜੂਦ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਗ੍ਰਿਹਿ = ਜਿਸ ਹਰੀ ਦੇ ਘਰ ਵਿਚ। ਨਵ ਨਿਧਿ = ਨੌ ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

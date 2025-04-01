@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰੀਰ (ਮਾਨੋ) (ਸ਼ਰਾਬ ਕੱਢਣ ਵਾਲੀ ਸਮਗਰੀ ਸਮੇਤ) ਮੱਟੀ ਹੈ, ਅਹੰਕਾਰ ਸ਼ਰਾਬ, ਤੇ ਤ੍ਰਿਸ਼ਨਾ ਵਿਚ ਭਟਕਣਾ (ਮਾਨੋ) ਮਹਿਫ਼ਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ, ਅਹੰਕਾਰ। ਧਾਤੁ = ਦੌੜ-ਭੱਜ, ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

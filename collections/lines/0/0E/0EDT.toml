@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਵਿਚ ਨਾਹ ਕੋਈ ਦੁਕਾਨ ਚੱਲਦੀ ਹੈ ਨਾਹ ਓਥੇ ਕੋਈ ਵਾਹੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਥੈ = ਪਾਣੀ ਵਿਚ। ਕਿਰਸ = ਖੇਤੀ, ਵਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

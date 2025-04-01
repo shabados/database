@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮੌਤ ਨੇ ਸਾਰਾ ਸੰਸਾਰ ਡਰਾ ਦਿੱਤਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਮਰਨੈ = ਜਿਸ ਮੌਤ ਨੇ। ਤਰਾਸਿਆ = ਡਰਾ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

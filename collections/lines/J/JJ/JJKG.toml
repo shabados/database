@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰੋਗ ਤੋਂ ਪੈਦਾ ਹੋਏ) ਸਰੀਰਕ ਦੁੱਖ ਤਦੋਂ ਹੀ ਦੂਰ ਹੁੰਦੇ ਹਨ, ਜੇ (ਅੰਦਰੋਂ) ਰੋਗ ਦੂਰ ਹੋ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜੇ ਦੂਰ ਹੋ ਜਾਏ। ਉਤਰਹਿ = ਲਹਿ ਜਾਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

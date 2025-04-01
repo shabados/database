@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੂੰ ਛੱਡ ਕੇ ਜੇ ਮਨ ਹੋਰ ਪਾਸੇ ਲਗਾਇਆਂ ਨਰਕ ਵਿੱਚ ਸਮਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = ਹੋਰ ਪਾਸੇ। ਨਰਕਿ = ਨਰਕ ਵਿਚ। ਸਮੰਜੀਐ = ਸਮਾਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

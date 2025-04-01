@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਆਪੋ ਆਪਣੇ ਮਨ-ਭਾਉਂਦੇ ਸੁਆਦ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਨੈ ਰੰਗਿ = ਆਪਣੇ ਮਨ-ਭਾਉਂਦੇ ਸੁਆਦ ਵਿਚ। ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਰਚੈ = ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

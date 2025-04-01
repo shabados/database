@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਥੇ ਨਾਹ ਮਾਂ, ਨਾਹ ਕੋਈ ਸੰਬੰਧੀ, ਨਾਹ ਕੋਈ ਮਿੱਤਰ, ਨਾਹ ਇਸਤ੍ਰੀ-(ਕੋਈ ਭੀ ਸਹਾਇਤਾ ਨਹੀਂ ਕਰ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹ = ਉਥੇ ਨਰਕ ਵਿਚ। ਜਾਇਆ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

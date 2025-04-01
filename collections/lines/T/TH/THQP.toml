@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜ਼ਹਿਰ ਰੂਪ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਹੈ ਇਸ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

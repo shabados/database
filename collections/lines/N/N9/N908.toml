@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਤਾ ਨਹੀਂ ਜੀਵ) ਕਿਉਂ ਇਸ ਤਰ੍ਹਾਂ ਕੁਰਾਹੇ ਪਏ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਸੇ = ਇਸ ਤਰ੍ਹਾਂ। ਕਾਹੇ = ਕਿਉਂ? ਭੂਲਿ ਪਰੇ = (ਜੀਵ) ਭੁੱਲੇ ਪਏ ਹਨ, ਕੁਰਾਹੇ ਪਏ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

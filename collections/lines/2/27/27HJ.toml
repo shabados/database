@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਦੇ ਦਰ) ਤੋਂ ਕੋਈ ਭੀ ਜੀਵ ਖ਼ਾਲੀ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਤੇ = ਜਿਸ (ਦੇ ਦਰ) ਤੋਂ। ਬਿਰਥਾ = ਖ਼ਾਲੀ। ਜਾਤ = ਜਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

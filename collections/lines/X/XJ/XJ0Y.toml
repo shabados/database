@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ) ਗੁਰੂ ਦੀ ਜੀਭ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਿਆ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨ = ਜੀਭ। ਸੰਤ ਰਸਨ = ਗੁਰੂ ਦੀ ਜੀਭ ਨੇ। ਵਖਾਨਾ = ਉਚਾਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

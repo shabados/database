@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਉਹ ਨਾਮ-ਫਲ ਮਿਲ ਗਿਆ ਹੈ, ਜਿਸ ਦੀ ਮੈਂ ਸਦਾ ਆਪਣੇ ਜੀ ਵਿਚ ਇੱਛਾ ਕਰਿਆ ਕਰਦਾ ਸਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਇ = ਜੀ ਵਿਚ। ਜੀਇ ਇਛਿਅੜਾ = ਜਿਸ ਦੀ ਜੀ ਵਿਚ ਇੱਛਾ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

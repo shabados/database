@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਇੱਕੋ ਹੀ ਕਰਨ-ਜੋਗ ਕੰਮ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨਾ = ਕਰਨ-ਯੋਗ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

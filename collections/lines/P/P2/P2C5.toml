@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਾਂਧੇ ਨੇ ਪ੍ਰਹਿਲਾਦ ਨੂੰ ਸਮਝਾਇਆ) ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਦੀ ਆਦਤ ਛੱਡ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਨਿ = ਆਦਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

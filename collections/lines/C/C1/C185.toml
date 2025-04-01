@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਤਾਂ ਸ੍ਰਿਸ਼ਟੀ ਰਚ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਏ = ਪੈਦਾ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

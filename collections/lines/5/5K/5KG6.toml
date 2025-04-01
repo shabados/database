@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੀ ਜੀਭ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੀ ਲੇ = ਮੈਂ ਰੰਗ ਲਈ ਹੈ। ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ! ਉਸ ਗੋਪਾਲ ਦਾ ਨਾਮ ਮਨ ਦੀ ਪੱਟੀ ਉਤੇ ਲਿਖ, ਜੋ) ਆਪ ਸਾਰੇ ਜਗਤ ਵਿਚ ਪਰਗਟ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੈ = ਜਾਪਦਾ ਹੈ, ਪਰਗਟ ਹੈ। ਤਿਹੁ ਲੋਇ = ਤਿੰਨਾਂ ਲੋਕਾਂ ਵਿਚ, ਸਾਰੇ ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

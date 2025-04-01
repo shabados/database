@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਇਸ ਹਿੰਦੂ ਨੇ ਮੇਰਾ ਮਾਣ ਤੋੜ ਦਿੱਤਾ ਹੈ ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਿ = ਇਸ ਨੇ। ਮਲਿਆ = ਤੋੜ ਦਿੱਤਾ ਹੈ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

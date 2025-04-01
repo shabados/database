@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੇਵਕ ਨੇ ਆਪਣੀ (ਵੱਖਰੀ) ਹਸਤੀ ਮਿਟਾ ਲਈ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲੈ = ਗ਼ੁਲਾਮ ਨੇ, ਦਾਸ ਨੇ,। ਜਾਤਿ = ਹਸਤੀ, ਹੋਂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

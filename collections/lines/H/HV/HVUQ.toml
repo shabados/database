@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਆਮਦ ਕਰਕੇ ਸਾਰੀ ਦੁਨੀਆ ਵਿਚ ਖੁਸ਼ੀ ਹੀ ਖੁਸ਼ੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਕਦੂਮਿ ਤੁਸਤ ਦਰ ਆਲਮ ਨਿਸ਼ਾਤ ।੪੪।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

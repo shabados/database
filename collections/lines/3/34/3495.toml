@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਘਰ (ਦੇ ਠੰਢੇ-ਮਿੱਠੇ) ਮਹੀਨੇ ਵਿਚ ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਸੋਹਣੀਆਂ ਲੱਗਦੀਆਂ ਹਨ ਜੋ ਹਰੀ-ਪਤੀ ਦੇ ਨਾਲ ਬੈਠੀਆਂ ਹੁੰਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਘਿਰਿ = ਮੰਘਰ ਵਿਚ। ਮਾਹਿ = ਮਹੀਨੇ ਵਿਚ। ਪਿਰ ਸੰਗਿ = ਪਤੀ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

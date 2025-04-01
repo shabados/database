@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਚਿੱਤ ਵਿਚ ਪ੍ਰਭੂ ਟਿਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

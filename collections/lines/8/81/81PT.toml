@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਲੋਕ ਕਹਿੰਦੇ ਹਨ-) ਤੂੰ ਕਾਂਸ਼ੀ ਵਿਚ ਰਹਿ ਕੇ ਕਈ ਸਾਲ ਤਪ ਕੀਤਾ (ਪਰ ਉਸ ਤਪ ਦਾ ਕੀਹ ਲਾਭ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁਤੁ ਬਰਸ = ਕਈ ਸਾਲਾਂ ਤਕ। ਕਾਸ਼ੀ = ਕਾਂਸ਼ੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

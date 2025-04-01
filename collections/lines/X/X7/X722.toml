@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਹ ਮਾਲਕ-ਪ੍ਰਭੂ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਹ ਨਾਹ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇ ਨ = ਜੰਮਦਾ ਨਹੀਂ। ਨ ਜਾਵੈ = ਨਹੀਂ ਮਰਦਾ। ਨਿਹਚਲੁ = ਸਦਾ ਅਟੱਲ। ਧਨੀ = ਮਾਲਕ-ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

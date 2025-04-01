@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਂ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੀ ਫਤਹ ਲਈ ਉਸਨੂੰ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਗਰਚਿ ਬ-ਤਸਖ਼ੀਰਿ ਹਰ ਦੋ ਜਹਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

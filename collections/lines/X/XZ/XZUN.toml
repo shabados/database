@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਹ ਆਪ ਹੀ ਜੀਵਾਤਮਾ ਤੇ ਪ੍ਰਕ੍ਰਿਤੀ ਨੂੰ ਜੋੜਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਵ = ਸ਼ਿਵ, ਆਤਮਾ। ਸਕਤੀ = ਸ਼ਕਤੀ, ਮਾਇਆ, ਪ੍ਰਕ੍ਰਿਤੀ। ਸੰਜੋਗੀ = ਮਿਲਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

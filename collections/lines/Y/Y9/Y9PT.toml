@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਨਾਮ-ਵਸਤੂ ਦਾ ਮੁੱਲ ਕੋਈ ਭੀ ਜੀਵ ਨਹੀਂ ਪਾ ਸਕਦਾ। ਕੋਈ ਭੀ ਜੀਵ ਉਸ ਦਾ ਮੁੱਲ ਕਹਿ ਨਹੀਂ ਸਕਦਾ, ਦੱਸ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗਾ = ਸਮਰਥ। ਕੋ = ਕੋਈ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

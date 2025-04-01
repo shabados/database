@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਾਤਮਾ (ਆਪਣੇ ਸਰੀਰ ਨੂੰ ਛੱਡ ਕੇ) ਸਰੀਰ ਨੂੰ ਮਿੱਟੀ ਵਿਚ ਰੁਲਾ ਕੇ, ਪਤਾ ਨਹੀਂ ਲੱਗਦਾ, ਕਿੱਥੇ ਚਲਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ। ਭਸਮ = ਸੁਆਹ, ਮਿੱਟੀ। ਰੁਲਾਇ = ਰੁਲਾ ਕੇ, ਮਿਲਾ ਕੇ। ਕਹ = ਕਿਥੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

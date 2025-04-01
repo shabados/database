@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਸੰਸਾਰ ਵਿਚ ਖਚਿਤ ਹੋ ਰਿਹਾ ਹੈ ਤੇ ਆਪ ਹੀ ਏਸ ਤੋਂ ਕਿਨਾਰਾ ਕਰੀ ਬੈਠਾ ਹੈ ਤੇ ਕਥਨ ਤੋਂ ਪਰੇ ਆਪਣਾ ਆਪਾ ਆਪ ਹੀ ਬਿਆਨ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਿਰਤਿ = ਜਗਤ-ਪਸਾਰੇ ਵਿਚ ਰੁੱਝਾ ਰਹਿਣ ਵਾਲਾ। ਨਿਰਵਿਰਤੀ = ਵੱਖਰਾ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

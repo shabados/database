@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੈਂ (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਪਾਸੋਂ ਮੰਗਦਾ ਹਾਂ ਤਾਂ ਸ਼ਰਮਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਮਾਗਉ = ਮਾਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਆਨ = {अन्य} ਕੋਈ ਹੋਰ। ਲਜਾਵਉ = ਲਜਾਵਉਂ, ਮੈਂ ਸ਼ਰਮਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

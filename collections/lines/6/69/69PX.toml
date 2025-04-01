@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦਾ ਵਰਤਾਰਾ ਉਸੇ ਤਰ੍ਹਾਂ ਦਾ ਹੈ (ਜਿਵੇਂ) ਬਿਜਲੀ ਦੀ ਲਿਸ਼ਕ (ਥੋੜੇ ਚਿਰ ਲਈ ਹੀ ਹੁੰਦੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਮਨੀ = ਬਿਜਲੀ। ਖੇ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

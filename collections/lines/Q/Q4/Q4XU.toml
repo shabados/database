@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਹੀ) ਨਾਮ ਦੇ ਰਸ ਵਿਚ ਲੱਗ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਨਾਮਿ ਸੁਆਦਿ = ਨਾਮ ਦੇ ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

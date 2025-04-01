@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਤੋਂ ਸੱਖਣਾ ਮੂਰਖ ਮਨੁੱਖ (ਆਪਣੇ ਅਸਲ ਭਲੇ ਦੀ ਗੱਲ) ਕਦੇ ਭੀ ਨਹੀਂ ਸਮਝਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਤੋਂ ਸੱਖਣਾ। ਗਵਾਰਾ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! (ਤੂੰ ਭੀ ਉਸ ਦੇ ਦਰ ਤੋਂ ਨਾਮ ਦੀ  ਦਾਤ ਮੰਗ, ਤੇ) ਅੱਠੇ ਪਹਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹੁ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਣੀ = ਹੇ ਪ੍ਰਾਣੀ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

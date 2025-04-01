@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਭਾਈ # ਕੀ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ ਰੱਬ ਦੀ ਯਾਦ ਕੀ ਹੁੰਦੀ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਬਰਾਦਰ ਯਾਦਿ ਹੱਕ ਦਾਨੀ ਕਿ ਚੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

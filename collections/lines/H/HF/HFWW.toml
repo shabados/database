@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਰੀਬਾਂ ਦੇ ਖਸਮ! ਹੇ ਭਗਤਾਂ ਦੇ ਆਸਰੇ! (ਸਾਨੂੰ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਾਈ ਰੱਖ) ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਇਣ = ਆਸਰਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

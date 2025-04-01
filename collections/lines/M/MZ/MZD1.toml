@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਜਗਤ ਦੇ ਮਾਲਕ ਹਰੀ ਦਾ ਨਾਮ ਮਨ ਵਿਚ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਜਪੀਐ = ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ। ਜਗਦੀਸ = ਜਗਤ ਦਾ ਈਸ਼੍ਵਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

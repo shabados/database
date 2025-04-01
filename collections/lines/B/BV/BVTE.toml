@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! (ਆ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰੀਏ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਇਨ ਕਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਗੁਨ = ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

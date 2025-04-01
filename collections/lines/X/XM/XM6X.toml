@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਦਿਨ ਰਾਤ ਆਪਣੇ ਅੰਦਰ ਹੀ (ਭਾਵ, ਹਿਰਦੇ ਵਿਚ ਹੀ) ਪ੍ਰਭੂ ਦੀ ਯਾਦ ਵਿਚ ਜੁੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਧਿਆਨਿ = ਧਿਆਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

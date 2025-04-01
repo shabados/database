@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ-ਪ੍ਰਭੂ! ਆ, ਮੈਂ ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਹੁ = ਆਓ। ਸਜਣਾ = ਹੇ ਸੱਜਣ-ਪ੍ਰਭੂ! ਹਉ = ਮੈਂ। ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਉਚਿਆਈ ਦਾ ਆਸਮਾਨ ਅਤੇ ਚੁਣਿਆਂ ਹੋਇਆਂ ਦਾ ਸਰਦਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਪਹਿਰਿ ਅਲਾ ਸਾਹਿਬ ਅਜਤਬਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

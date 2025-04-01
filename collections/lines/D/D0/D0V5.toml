@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵਿਸਾਰ ਕੇ ਤੂੰ ਮਨੁੱਖਾ ਜਨਮ ਦੀ ਖੇਡ ਹਾਰ ਰਿਹਾ ਹੈਂ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੀ = ਜ਼ਿੰਦਗੀ ਦੀ ਖੇਡ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

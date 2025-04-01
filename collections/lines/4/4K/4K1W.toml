@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ! ਗੁਰੂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਡੁਬਦਿਆਂ ਨੂੰ ਬਚਾ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਜਲਿ = ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ। ਕਾਢੈ = ਕੱਢ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

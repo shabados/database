@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਨਾਲ ਚੰਬੜਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਗੇ = ਚੰਬੜਿਆ ਰਹੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

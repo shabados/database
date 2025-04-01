@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਤੇ (ਪੂਰਬਲੇ ਜਨਮਾਂ ਦੇ ਕਰਮਾਂ ਦਾ) ਲਿਖਿਆ ਲੇਖ ਜਾਗ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

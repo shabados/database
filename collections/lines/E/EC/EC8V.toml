@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਾਵ, ਇਸ ਨਾਲ ਪਿਆਰ ਕਰਦਾ ਹੈ, ਤੇ) ਇਸ ਵਿਚ ਹਰ ਥਾਂ ਮੌਜੂਦ (ਇਸ ਦੀ ਸੰਭਾਲ ਕਰਦਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਮਤਿ = ਕਦਰ, ਮੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

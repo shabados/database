@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਅਪਣਾ ਸਰੀਰ ਭੀ) ਜੋ ਜਨਮ ਵੇਲੇ ਨਾਲ ਆਉਂਦਾ ਹੈ (ਤੁਰਨ ਵੇਲੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਾਤੀ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

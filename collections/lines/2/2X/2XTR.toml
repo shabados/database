@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਿਰਫ਼) ਉਸ ਮਨੁੱਖ ਦੀ ਮਿਹਨਤ ਸਫਲ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲ = ਮਿਹਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

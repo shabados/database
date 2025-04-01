@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੇਹਰ ਕਰ, ਮੈਨੂੰ ਆਪਣਾ ਦਰਸਨ ਦੇਹ, ਮੈਂ ਦਿਨ ਰਾਤ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਜੈ = ਦੇਹ। ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ। ਗਾਵਉ = ਗਾਵਉਂ, ਮੈਂ ਗਾਵਾਂ। ਨਿਸਿ = ਰਾਤ। ਅਰੁ = ਅਤੇ। ਭੋਰ = ਸਵੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੂਰਖ ਕੁੱਤੇ ਸੂਰ ਖੋਤੇ ਕਾਂ ਸੱਪ ਦੇ ਬਰਾਬਰ (ਜਾਣੋ) ॥੩੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਕਰਹ = ਕੁੱਤਾ (कूक्करः)। ਸੂਕਰਹ = ਸੂਰ (सुकरः)। ਗਰਧਭਹ = ਖੋਤਾ (गर्दभः)। ਕਾਕਹ = ਕਾਂ (काकः)। ਤੁਲਿ = ਬਰਾਬਰ (तुलय)। ਖਲਹ = ਮੂਰਖ (खलः) ॥੩੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

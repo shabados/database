@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਕੇਵਲ ਉਨ੍ਹਾਣ (ਗੁਰਮੁਖਾਣ) ਦੀ ਸੰਗਤ ਦਾ ਸਦਕਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਬਰਾਇ ਸੁਹਬਤਿ ਸ਼ਾਣ ਆਮਦੰਦ ।੧੬੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

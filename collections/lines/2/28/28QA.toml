@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਨਿਮਾਜ਼ ਲਈ ਇਕੱਠੇ ਹੁੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਿਰਦ ਮੀ ਆਇੰਦ ਅਜ਼ ਬਹਿਰਿ ਨਿਮਾਜ਼ ।੧੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

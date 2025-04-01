@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ) ਕਿਸ ਮੁੱਢ ਤੋਂ (ਤੈਨੂੰ) ਕੇਹਾ (ਸੋਹਣਾ ਬਣਾ ਕੇ ਉਸ ਨੇ) ਵਿਖਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਾਨੀ = ਵਿਖਾ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

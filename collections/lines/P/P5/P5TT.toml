@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਸਦਾ ਆਨੰਦ ਤੇ ਰੰਗ ਮਾਣ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸਬਦ ਦੀ ਰਾਹੀਂ। ਸਦ = ਸਦਾ। ਕੇਲ = {केलि:} ਖੇਲ, ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

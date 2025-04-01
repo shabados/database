@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੀ ਅੱਖ ਉਸਦੇ ਜਮਾਲ ਤਂਣ ਬਿਨਾ ਅਸਲੋਂ ਨ ਖੁੱਲ੍ਹੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ-ਮਾ ਗ਼ੈਰ ਅਜ਼ ਜਮਾਲਸ਼ ਵਾ ਨਾ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

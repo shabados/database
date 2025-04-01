@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸਿੱਖਾਂ ਦੇ ਮਨ ਵਿਚ ਇਹ ਬਾਣੀ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਮਨਿ = ਦੇ ਮਨ ਵਿਚ। ਭਾਣੀ = ਪਸੰਦ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

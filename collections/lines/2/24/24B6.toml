@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੀ ਇਹ ਜਿੰਦ ਉਸ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਤੋਂ ਸਦਕੇ ਕਰਾਂ, ਤੇ, ਉਸ ਤੋਂ ਕੁਰਬਾਨ ਹੋ ਹੋ ਜਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਵਤਾਈ = ਵਤਾਈਂ, ਮੈਂ ਸਦਕੇ ਕਰਾਂ। ਬਲਿ ਜਾਈ = ਬਲਿ ਜਾਈਂ, ਮੈਂ ਕੁਰਬਾਨ ਜਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

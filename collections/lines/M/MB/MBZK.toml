@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਵਿਚ ਧਨ ਪ੍ਰਭੁਤਾ ਆਦਿਕ ਨਾਲ) ਜੇਹੜੇ ਬੰਦੇ ਵੱਡੇ ਵੱਡੇ ਦਿੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਸਹਿ = ਦਿੱਸਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

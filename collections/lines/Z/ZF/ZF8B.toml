@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ (ਮੰਦੇ) ਕੀਤੇ (ਕੰਮਾਂ) ਦਾ ਫਲ ਪਾਂਦੇ ਹਨ, ਦੁੱਖਾਂ ਨਾਲ ਜੁੱਟ ਕੀਤੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਇਨਿ = ਪਾਂਦੇ ਹਨ। ਜੁਤੇ = ਜੁੱਟ ਕੀਤੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

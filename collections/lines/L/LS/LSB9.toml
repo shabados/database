@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਗ੍ਰਿਹਸਤ ਜੀਵਨ ਫਿਟਕਾਰ-ਜੋਗ ਹੈ, ਉਹ ਪਰਿਵਾਰ (ਵਾਲਾ ਜੀਵਨ) ਫਿਟਕਾਰ-ਜੋਗ ਹੈ, ਜਿਸ ਦੀ ਰਾਹੀਂ ਪਰਮਾਤਮਾ ਨਾਲ ਪ੍ਰੀਤਿ ਨਹੀਂ ਬਣਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹੁ = ਗ੍ਰਿਹਸਤ ਜੀਵਨ, ਘਰ। ਕੁਟੰਬੁ = ਪਰਿਵਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

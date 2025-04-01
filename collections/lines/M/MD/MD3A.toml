@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪ੍ਰਭੂ) ਆਪ ਹੀ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ, (ਉਸ ਨੂੰ ਆਪਣੇ) ਪਿਆਰ (ਦੀ ਦਾਤ) ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਬਖਸੇ = ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਉਸ ਦੇ ਚਰਨਾਣ ਦੀ ਧੂੜ ਦਾ ਇਕ ਕਿਣਕਾ ਹੋ ਗਿਆ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਚੂ ਜ਼ੱਰਾਇ ਖ਼ਾਕਿ ਪਾਇ ਊ ਸ਼ੁਦੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

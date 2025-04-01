@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪੱਥਰ ਬੇੜੀ ਵਿਚ ਚੜ੍ਹ ਕੇ (ਨਦੀ ਆਦਿਕ ਤੋਂ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਖਾਣੁ = ਪੱਥਰ। ਨਾਵ = ਬੇੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

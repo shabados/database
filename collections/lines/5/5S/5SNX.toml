@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਰਚਨਹਾਰ! ਹੇ ਸਿਰਜਣਹਾਰ! ਮਿਹਰ ਕਰ ਕੇ ਦਇਆ ਕਰ ਕੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨੈਹਾਰ = ਹੇ ਪੈਦਾ ਕਰਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

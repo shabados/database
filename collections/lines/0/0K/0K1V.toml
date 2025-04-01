@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਪ੍ਰਭੂ ਵਲੋਂ ਹੁੰਦਾ ਹੈ (ਜੀਆਂ ਲਈ) ਮਾੜਾ ਨਹੀਂ ਹੁੰਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸ ਤੇ = ਇਸ (ਪ੍ਰਭੂ) ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

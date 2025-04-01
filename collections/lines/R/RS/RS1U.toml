@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਸੰਤਾਂ ਨੂੰ ਕੋਈ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹੀ ਮਿਲ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਾਹੀ = ਮਿਲਹਿ, ਮਿਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

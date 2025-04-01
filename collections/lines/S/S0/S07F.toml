@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ ਪੂਰਨ ਪੁਰਖ ਦਾ ਨਾਮ ਮਨ ਵਿਚ ਵਸਾ ਲਈਏ, ਤਾਂ ਮਨ ਵਿਚ ਚਿਤਵਿਆ ਹੋਇਆ ਹਰੇਕ ਮਨੋਰਥ ਪਾ ਲਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹਿ = ਮਨ ਵਿਚ। ਚਿੰਦਿਆ = ਚਿਤਵਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

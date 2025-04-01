@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਭਵਨਾਂ ਦੇ ਸਰਦਾਰ! ਮੈਨੂੰ ਇਕ ਖਿਨ ਭਰ ਲਈ (ਹੀ) ਦੀਦਾਰ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇਕਾ = ਹੇ ਮਾਲਕਾ! ਦਰਸੁ = ਦੀਦਾਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

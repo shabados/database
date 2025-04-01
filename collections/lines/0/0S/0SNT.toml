@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਉਸ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

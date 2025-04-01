@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਉੱਚਾ ਤੇ ਸਿਰਕਢ ਬਣਾ ਦਿੰਦਾ ਹੈ ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੋ ਆਲਮ ਮਿਹਤਰੋ ਔਲਾ ਕੁਨਦ ।੪੬੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

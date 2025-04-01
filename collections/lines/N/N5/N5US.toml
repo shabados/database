@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਦੀ) ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੇਰੇ ਮੱਥੇ ਤੇ ਲੱਗੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਨੁ = ਚਰਨ-ਧੂੜ। ਮੁਖਿ = ਮੂੰਹ ਉੱਤੇ, ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤਕ ਕਿ ਤੇਰੀਆਣ ਆਸਾਣ ਦੀ ਜੇਬ ਮੋਤੀਆਣ ਨਾਲ ਨਾ ਭਰ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਜੇਬਿ ਆਰਜ਼ੂਹਾ ਪੁਰ ਅਜ਼ ਗੁਹਰ ਨ ਬਾਸ਼ਦ ।੩੨।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

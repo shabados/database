@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਾਜ ਦੇ ਮਦ ਵਿਚ) ਮੱਤੇ ਹੋਏ (ਹਰਨਾਖਸ਼) ਦੈਂਤ ਨੂੰ ਮਾਰ ਮੁਕਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਿ = ਮਾਰ ਕੇ। ਪਚਾਇਆ = ਖ਼ੁਆਰ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

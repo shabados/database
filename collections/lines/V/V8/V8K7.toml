@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇ-ਮੁਹਾਰ ਮਨ! ਤੂੰ (ਅਸਲੇ ਵਲੋਂ) ਬਹੁਤ ਪਵਿਤ੍ਰ ਸੀ, ਪਰ ਤੈਨੂੰ ਹਉਮੈ ਦੀ ਮੈਲ ਆ ਚੰਬੜੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤਿ = ਬਹੁਤ। ਮਲੁ = ਮੈਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

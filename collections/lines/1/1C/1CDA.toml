@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਸਾਰੇ ਖੇਡ ਤਮਾਸ਼ੇ) ਉਹ ਪ੍ਰਭੂ ਆਪ ਹੀ ਕਰ ਰਿਹਾ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਦੂਜਾ ਨਹੀਂ ਹੈ) ਮੈਂ ਕਿਸ ਦੇ ਅੱਗੇ (ਇਸ ਦੀ) ਫ਼ਰਿਆਦ ਕਰ ਸਕਦਾ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਕੈ ਸਿਉ = ਕਿਸ ਦੇ ਅਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਿਸੇ ਨਾਲ (ਇਸੇ ਕਰਕੇ) ਕੋਈ ਮੇਲ-ਮੁਲਾਕਾਤ ਭੀ ਨਹੀਂ ਰੱਖੀ ਹੋਈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਝ ਪਾਤਿ = ਭਾਈਚਾਰਾ, ਮੇਲ-ਮੁਲਾਕਾਤ। ਕਾਹੂ ਸਿਉ = ਕਿਸੇ ਨਾਲ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

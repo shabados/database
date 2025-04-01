@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ ਮਿਤ੍ਰ ਪ੍ਰਭੂ! ਸੱਜਣ-ਪ੍ਰਭੂ! (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨ = ਹੇ ਸੱਜਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

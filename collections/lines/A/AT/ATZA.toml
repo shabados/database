@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਹੇ ਮੇਰੇ ਰਾਮ! ਹੇ ਧਰਤੀ ਦੇ ਸਾਈਂ! ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਆਸਰੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਸਈਆ = ਹੇ ਗੋਸਾਈਂ! ਹੇ ਧਰਤੀ ਦੇ ਸਾਈਂ। ਜੀਅ ਕੇ = ਜਿੰਦ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

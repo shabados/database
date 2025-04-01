@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਦੋਂ ਭੀ ਮੰਗਦਾ ਹਾਂ, ਸਿਰਫ਼ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੋਂ ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜਦੋਂ। ਜਾਚਉ = ਜਾਚਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

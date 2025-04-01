@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਿ-ਨਾਮ ਵਿਚ ਹੀ) ਸਾਰੀਆਂ ਸਿਧੀਆਂ ਹਨ ਸਾਰੇ ਸੁਖ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਸਿਧਿ = ਸਾਰੀਆਂ ਸਿਧੀਆਂ। ਸਰਬ ਕਲਿਆਨ = ਸਾਰੇ ਸੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

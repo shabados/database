@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਸਭਨਾਂ ਉੱਤੇ ਹੀ (ਮਾਇਆ ਨੇ ਕਾਮ-ਵਾਸ਼ਨਾ ਦੀ) ਇਹ ਫਾਹੀ ਸੁੱਟੀ ਹੋਈ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਿ = ਉਤੇ। ਡਾਰੀ = ਸੁੱਟੀ ਹੋਈ ਹੈ। ਫਾਸ = ਫਾਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

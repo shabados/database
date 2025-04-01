@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ (ਇਹ) ਬਚਨ ਆਖਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕੁ ਬੋਲੈ = ਨਾਨਕ ਬੋਲਦਾ ਹੈ। ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

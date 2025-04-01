@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ) ਕੋਈ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਤੋਂ ਬਚਾ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣੁ ਜਾਣਾ = ਜੰਮਣ ਮਰਨ ਦਾ ਗੇੜ। ਰਖੈ = ਰੋਕ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

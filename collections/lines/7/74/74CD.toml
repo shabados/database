@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ (ਸਦਾ) ਜਪਿਆ ਕਰ (ਇਹੀ ਇਥੋਂ ਜੀਵਾਂ ਦੇ) ਨਾਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ। ਜਪਿ = ਜਪਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

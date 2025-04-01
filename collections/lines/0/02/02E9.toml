@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਨਿੱਤ ਨਾਹ ਰਹਿਣ ਵਾਲੀਆਂ (ਚੀਜ਼ਾਂ ਦੀਆਂ) ਆਸਾਂ ਦੀਆਂ ਲਹਰਾਂ ਛੱਡ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਿਤ = ਨਾਹ ਨਿੱਤ ਰਹਿਣ ਵਾਲੀਆਂ। ਤਰੰਗ = ਲਹਿਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

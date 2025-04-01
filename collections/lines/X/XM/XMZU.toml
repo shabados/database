@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਛ ਤੇ ਕੱਛੂਕੁੰਮਾ (ਆਦਿਕ) ਤੇਰੀ ਹੀ ਆਗਿਆ ਵਿਚ ਅਵਤਾਰ ਹੋਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਰਮੁ = ਕਛੂਕੁੰਮਾ। ਆਗਿਆ = ਤੇਰੇ ਹੁਕਮ ਵਿਚ। ਅਉਤਰਾਸੀ = ਉਤਰਿਆ, ਅਵਤਾਰ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

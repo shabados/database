@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਹੀਰੇ ਤੇ ਲਾਲਾਂ ਨਾਲ ਜੜਿਆ ਹੋਇਆ ਸੋਨੇ ਤੇ ਚਾਂਦੀ ਦਾ ਪਹਾੜ ਬਣ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਪਾ = ਰੁੱਪਾ, ਚਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

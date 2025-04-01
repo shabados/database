@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ ਕਿਨ੍ਹਾਂ ਤੋਂ ਨੇੜੇ, ਤੇ ਕਿਨ੍ਹਾਂ ਤੋਂ ਦੂਰ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

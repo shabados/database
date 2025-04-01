@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋ ਜਹਾਨ ਕੀ, ਲੱਖਾਂ ਹੀ ਉਸ ਦੇ ਮੁਰੀਦ ਹਨ,   "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰੀਦਸ਼ ਦੋ ਆਲਮ ਚਿਹ ਬਲ ਸਦ ਹਜ਼ਾਰ ।"
+page = 5
+line = 77
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

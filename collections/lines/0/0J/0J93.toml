@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! (ਮੈਂ) ਗੁਣ-ਹੀਨ ਨੂੰ ਬਖ਼ਸ਼ ਲੈ, ਤੂੰ ਆਪ ਹੀ (ਮੈਨੂੰ ਆਪਣੇ) ਚਰਨਾਂ ਵਿਚ ਜੋੜੀ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਆਪੇ = (ਤੂੰ) ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

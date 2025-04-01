@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਖਤ੍ਰੀ ਹੋਵੇ, ਬ੍ਰਾਹਮਣ ਹੋਵੇ, ਸ਼ੂਦਰ ਹੋਵੇ, ਚਾਹੇ ਵੈਸ਼ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿ = ਭਾਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

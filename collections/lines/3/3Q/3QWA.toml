@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਬੱਸ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਦਿਨ ਰਾਤ ਯਾਦ ਕਰਦੀ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਊ = ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

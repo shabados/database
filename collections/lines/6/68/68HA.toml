@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦੇ ਰੋਮ ਰੋਮ ਵਿੱਚੋਂ ਸੱਚ ਦੀ ਸੁਗੰਦੀ ਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੂਇ ਹੱਕ ਮੀਆਇਦ ਅਜ਼ ਹਰ ਮੁਇ ਸ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

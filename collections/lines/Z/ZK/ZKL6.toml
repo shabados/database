@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਚੁੰਚ-ਗਿਆਨਤਾ ਦੀਆਂ ਗੱਲਾਂ) ਕਹਿਣ ਬੋਲਣ ਵਲੋਂ ਰੁਕ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਨੀ ਬਦਨੀ = ਕਹਿਣ ਬੋਲਣ ਵਲੋਂ (वद् = ਬੋਲਣਾ। वक्ता = ਬੋਲਣ ਵਾਲਾ)। ਰਹੈ ਨਿਭਰਾਂਤਿ = ਸ਼ਾਂਤੀ ਬਣੀ ਰਹੇ, ਰੋਕ ਪਈ ਰਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

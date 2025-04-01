@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ ਆ ਕੇ) ਹਰੇਕ ਜੀਵ ਵਣਜ ਵਾਪਾਰ (ਆਦਿਕ ਕੋਈ ਨਾ ਕੋਈ ਕਾਰ-ਵਿਹਾਰ) ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

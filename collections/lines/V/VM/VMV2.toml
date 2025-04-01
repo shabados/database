@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਦੀ ਦਿੱਤੀ ਹੋਈ ਦਾਤਿ ਕਦੇ ਮੁੱਕਦੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨੁ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

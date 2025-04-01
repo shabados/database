@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ) ਨੂੰ ਸਦਾ ਹੀ ਸਦਾ ਨਮਸਕਾਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ ਨੂੰ। ਜੋਹਾਰੁ = ਨਮਸਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

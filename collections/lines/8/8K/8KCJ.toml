@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਦੇ) ਪੈਰ ਰੱਬ ਦੇ ਰਾਹ ਵਲ ਤੁਰਦੇ ਹਨ, ਉਸ ਨੂੰ ਪਾਣੀ ਡੋਬ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਰੁ = ਪਾਣੀ। ਬੋਰਿ = ਡੋਬ। ਪੰਥ = ਰਸਤਾ। ਪਗ = ਪੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

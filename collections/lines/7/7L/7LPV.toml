@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੁੱਤੀ ਤੇ ਸੋਹਣਾ ਕੱਪੜਾ ਭੀ ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਨ੍ਹ੍ਹੀਆ = ਜੁੱਤੀ {Skt. उपानह् }। ਛਾਦਨੁ = ਕਪੜਾ। ਨੀਕਾ = ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

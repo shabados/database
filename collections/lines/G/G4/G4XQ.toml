@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਨ੍ਹਾਣ ਦਾ ਹਰ ਇਕ ਬੰਦਾ ਪਵਿੱਤਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਦਮਾਨਸ਼ ਹਰ ਯਕੇ ਪਾਕੀਜ਼ਾ ਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

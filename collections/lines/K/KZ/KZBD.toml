@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਜਿਸ ਸੇਵਕ ਨੇ ਤੇਰਾ ਨਾਮ (-ਰੂਪ) ਦਵਾਈ ਲੱਭ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਖਧੁ = ਦਵਾਈ। ਜਿਨਿ = ਜਿਸ ਨੇ। ਜਨਿ = ਜਨ ਨੇ। ਜਿਨਿ ਜਨਿ ਤੇਰੈ = ਤੇਰੇ ਜਿਸ ਦਾਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

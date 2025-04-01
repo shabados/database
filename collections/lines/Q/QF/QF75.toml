@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਉਹੀ ਸੋਹਣਾ ਤਲਾਬ ਲੱਭ, ਜਿਸ ਵਿਚੋਂ (ਅਸਲ) ਚੀਜ਼ (ਨਾਮ-ਰੂਪ ਮੋਤੀ) ਮਿਲ ਪਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਵਰੁ = ਸੋਹਣਾ ਤਲਾਬ; (ਸਰ = ਤਲਾਬ। ਵਰ = ਸ੍ਰੇਸ਼ਟ)। ਵਥੁ = (ਅਸਲ) ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

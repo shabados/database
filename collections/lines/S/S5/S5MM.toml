@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ) ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਤਨ ਵਿਚ ਅਨੇਕਾਂ ਵਾਸਨਾਂ ਦਾ ਖਿਲਾਰਾ ਖਿਲਰਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ। ਬਾਸਨਾ = ਮਨੋ-ਕਾਮਨਾ। ਬਿਸਥਾਰਾ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

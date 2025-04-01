@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਹਰ ਅੱਖ ਵਿਚਲਾ ਨੂਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੂਰ ਦਰ ਹਰ ਚਸ਼ਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੨।"
+page = 10
+line = 152
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

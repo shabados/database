@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਹਰ ਕਰ) ਅੱਠੇ ਪਹਿਰ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ ਕੇ ਮੈਂ ਆਪਣੇ ਮਨ ਦੀ ਚਾਹ ਪੂਰੀ ਕਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਇਛ = ਮਨ ਦੀ ਇੱਛਾ। ਪੁਜਾਈ = ਪੂਰੀ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

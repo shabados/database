@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇ ਤੂੰ (ਕਾਮ-ਵਾਸਨਾ ਪੂਰੀ ਕਰਨ ਲਈ) ਲੱਖ ਇਸਤ੍ਰੀਆਂ ਭੀ ਭੋਗ ਲਏਂ, ਜੇ ਤੂੰ ਸਾਰੀ ਧਰਤੀ ਦਾ ਰਾਜ ਭੀ ਕਰ ਲਏਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਵਖੰਡ ਰਾਜੁ = ਸਾਰੀ ਧਰਤੀ ਦਾ ਰਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

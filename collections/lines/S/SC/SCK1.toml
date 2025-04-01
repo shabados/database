@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦੇ ਬਚਨ ਰੱਬੀ ਹੁਕਮ ਦਾ ਦਰਜਾ ਰਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਮੀਗੋਇੰਦ ਅਰਸ਼ਾਦਸਤੋ ਬਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

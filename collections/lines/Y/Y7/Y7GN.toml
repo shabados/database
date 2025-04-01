@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਕਿਉਂ ਡੋਲਦਾ ਹੈਂ? ਪਰਮਾਤਮਾ ਤੇਰੀ ਕਾਮਨਾ ਪੂਰੀ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਮਨ ਦੀ ਕਾਮਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਲਾਜ ਰੱਖ ਲੈ। ਮੈਥੋਂ ਬੜਾ ਮਾੜਾ ਕੰਮ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਤੇ = ਅਸਾਂ ਜੀਵਾਂ ਤੋਂ, ਮੈਥੋਂ। ਬਿਗਰੀ = ਵਿਗੜੀ ਹੈ, ਵਿਗਾੜ ਹੋਇਆ ਹੈ, ਮਾੜਾ ਕੰਮ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

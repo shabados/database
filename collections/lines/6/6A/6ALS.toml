@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਨ ਦਾ ਸਿੱਧਾ) ਰਾਹ ਛੱਡ ਕੇ (ਵਿਕਾਰਾਂ ਦੇ) ਉਲਟੇ ਰਸਤੇ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਾਰਗਿ = ਕੁਰਾਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

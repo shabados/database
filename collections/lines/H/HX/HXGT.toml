@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਤ ਹਰ ਰੋਜ਼ ਉਸ ਦੀ ਬੇਇੱਜ਼ਤੀ ਹੁੰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲਕੇ = ਨਿੱਤ, ਹਰ ਰੋਜ਼। ਦਾੜੀ ਥੁਕ ਪਵੈ = ਬੇਇੱਜ਼ਤੀ ਹੁੰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

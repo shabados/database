@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਘੜੇ ਟੁੱਟ ਜਾਂਦੇ ਹਨ, ਤਾਂ ਉਹ (ਆਕਾਸ਼) ਹੀ ਦਿੱਸਦਾ ਰਹਿ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ = ਘੜਾ। ਘਟ ਫੂਟੇ ਤੇ = ਘੜੇ ਟੁੱਟਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

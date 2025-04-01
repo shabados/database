@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੀ ਭਟਕਣ ਮਨ ਦੇ ਮੁਰੀਦ ਮਨੁੱਖ ਦੇ ਸਰੀਰ ਦੀ ਅਗਵਾਈ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ ਦੇਹੀ = ਮਨ ਦੇ ਮੁਰੀਦ ਮਨੁੱਖ ਦੀ ਕਾਇਆਂ। ਭਰਮੁ = ਭਟਕਣਾ। ਭਤਾਰੋ = ਖਸਮ, ਅਗਵਾਈ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

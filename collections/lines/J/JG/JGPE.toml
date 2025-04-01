@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਸੇਵਕ ਦੇ ਅਨੇਕਾਂ ਵਿੰਗ ਦੂਰ ਕਰ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਂਗ = ਵਿੰਗ, ਵਲ-ਛਲ, ਉਕਾਈਆਂ। ਪਰਹਰਿਆ = ਦੂਰ ਕਰ ਦਿੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

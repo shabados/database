@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਲਾਲਾਣ ਵਰਗੇ ਹੋਠਾਣ ਦੀ ਭਲਾ ਕਦਰ ਬਿਨਾਣ ਪ੍ਰੇਮੀ ਦੇ ਕੌਣ ਜਾਣੇ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਦਰਿ ਲਾਅਲਿ ਊ ਬਜੁਜ਼ ਆਸ਼ਿਕ ਨਾਂ ਦਾਨਦ ਹੀਚ ਕਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

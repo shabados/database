@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਸ਼ੌਕ ਨਾਲ ਆਪਣਾ ਮਨ ਸਾਫ ਕਰ ਲਵੇਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਜ਼ਿ ਰਾਹਿ ਸਾਜ਼ੀ ਸੀਨਾ ਸਾਫ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

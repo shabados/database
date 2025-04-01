@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚੰਨ ਤੋਣ ਲੈਕੇ ਸੂਰਜ ਤਕ ਉਸੇਦਾ ਹੀ ਰਾਜ (ਖ਼ਜ਼ਾਨਾ) ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤੇ ਅਜ਼ ਮਾਹ ਤਾ ਮਾਹੀ ਤੁਰਾਹਸਤ ।੧੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

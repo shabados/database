@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਭੁਇਂ ਦੀ ਮਾਲਕੀ ਹੈ, ਕਿਤੇ ਕੰਗਾਲ ਹਨ, ਕਿਤੇ ਅਮੀਰ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਮਿ = ਧਰਤੀ। ਰੰਕ = ਕੰਗਾਲ। ਰੰਗ = ਅਮੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

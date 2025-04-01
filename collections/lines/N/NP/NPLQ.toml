@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਦਿਨ ਰਾਤ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਚੇਤੇ ਕਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ ਨਿਸਿ = ਦਿਨ ਰਾਤ। ਸਾਰਿ = ਸੰਭਾਲ, ਚੇਤੇ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

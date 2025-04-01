@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਹੀ ਸੇਵਾ ਭਗਤੀ ਕਰਦਾ ਰਹਾਂ, ਤੇਰੇ ਹੀ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਗਾ = ਅੰਗ, ਨਾਲ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

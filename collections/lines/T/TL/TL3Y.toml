@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਦੀਆਂ ਔਖਿਆਈਆਂ ਦੇ ਕਾਰਨ) ਕਿਸੇ ਦੀ ਉਮਰ ਗਿਣਤੀਆਂ ਗਿਣਦਿਆਂ ਲੰਘ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾ = ਸਲਾਹ। ਮਸੂਰਤਿ = ਮਸ਼ਵਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

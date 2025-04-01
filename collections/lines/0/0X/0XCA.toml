@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕਿਸੇ ਵਿਸ਼ਈ ਬੰਦੇ ਨੂੰ ਇਸਤ੍ਰੀ ਚੰਗੀ ਲੱਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮੀ = ਵਿਸ਼ਈ। ਕਾਮਨੀ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

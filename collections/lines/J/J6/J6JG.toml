@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਗਾਂਹ ਪਰਲੋਕ ਵਿਚ ਤੈਨੂੰ ਜਮਾਂ ਨਾਲ ਵਾਹ ਨਹੀਂ ਪਏਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਸਿਉ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

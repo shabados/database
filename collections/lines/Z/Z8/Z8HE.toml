@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦੀ ਮਤਿ ਤੇ ਤੁਰ ਕੇ ਸਾਰੇ ਸਰੀਰਾਂ ਵਿਚ ਵਿਆਪਕ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਸਾ ਹਰਿ = ਅਜੇਹਾ ਪਰਮਾਤਮਾ। ਰਮਤੁ ਸਰੀਰਾ = ਜੋ ਸਭ ਸਰੀਰਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ। ਰਮਤੁ = ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

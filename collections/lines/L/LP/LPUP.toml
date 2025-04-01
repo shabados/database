@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ) ਉਹ ਬਹੁਤ ਉੱਚਾ ਹੈ, ਅਪਹੁੰਚ ਹੈ, ਅਥਾਹ ਹੈ, ਬੇਅੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮੁ = ਅਪਹੁੰਚ। ਅਪਾਰਾ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

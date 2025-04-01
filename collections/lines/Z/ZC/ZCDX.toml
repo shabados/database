@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਉਹਨਾਂ ਦੀ ਗ਼ਰਜ਼ ਪੂਰੀ ਨਾਹ ਹੋ ਸਕੇ, ਤਦੋਂ ਉਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਨੇੜੇ ਨਹੀਂ ਛੁੰਹਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਦਿਨਿ = ਦਿਨ ਵਿਚ। ਜਿਤੁ ਦਿਨਿ = ਜਿਸ ਦਿਨ ਵਿਚ। ਸੁਆਉ = ਮਨੋਰਥ, ਗ਼ਰਜ਼। ਹੋਇ ਨ ਆਵੈ = ਪੂਰਾ ਨਾਹ ਹੋ ਸਕੇ। ਤਿਤੁ = ਉਸ ਵਿਚ। ਤਿਤੁ ਦਿਨਿ = ਉਸ ਦਿਨ ਵਿਚ (on that day)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

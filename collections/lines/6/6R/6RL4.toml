@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬਾਹਰਲੇ ਭੇਖ ਨਾਲ) ਛਪਾਉਣ ਦਾ ਜਤਨ ਕੀਤਿਆਂ (ਮਨ ਦੀ ਮੈਲ) ਲੁਕਦੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਛੁ ਕਰੈ = (ਭਾਵੇਂ) ਕੋਈ (ਜਤਨ) ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

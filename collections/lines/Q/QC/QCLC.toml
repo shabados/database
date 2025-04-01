@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਜੋ ਕੁਝ ਵੀ ਉਨ੍ਹਾਣ ਦੀ ਸਿਫਤ ਸ਼ਾਨ ਵਿਚ ਆਖਾਣ, ਥੋੜਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਬ ਚਿ ਗੋਇਮ ਕਮ ਬਵਦ ਦਰ ਸ਼ਾਨਿ ਸ਼ਾਣ ।੧੦੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

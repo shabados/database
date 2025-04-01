@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕਾਮਾਦਿਕ ਵਿਕਾਰਾਂ ਦੀ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਬੜੀ ਤਪਸ਼ ਪੈ ਰਹੀ ਹੈ। (ਇਸ ਤਪਸ਼ ਤੋਂ ਬਚਣ ਲਈ ਪ੍ਰਭੂ ਦਾ ਹੀ ਆਸਰਾ ਲਵੋ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਤਿ = ਤਪਸ਼, ਸੜਨ। ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

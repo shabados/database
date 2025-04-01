@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਤਾਣ ਹੈ (ਸੋ, ਤੇਰੀ ਬਰਕਤਿ ਨਾਲ ਮੈਨੂੰ ਕੋਈ ਫ਼ਿਕਰ ਨਹੀਂ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਹਿ = ਹੈ। ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਜੋਰੁ = ਤਾਣ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

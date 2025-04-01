@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਿਰਸੰਦੇਹ ਉਹ ਦੌਲਤ ਵੀ ਬਖਸ਼ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਬੇ-ਇਸ਼ਤਬਾਹੀ ਮੀਦਿਹੰਦ ।੧੩੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

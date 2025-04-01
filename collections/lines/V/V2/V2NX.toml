@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਸ੍ਰੇਸ਼ਟ ਗਿਆਨ ਪਰਗਟ ਹੁੰਦਾ ਹੈ (ਭਾਵ, ਚੰਗੀ ਮਤਿ ਆਉਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ ਗਿਆਨੁ = ਸ੍ਰੇਸ਼ਟ ਗਿਆਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

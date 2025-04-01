@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਜ਼ਾਂ ਤੋਂ ਬਿਨਾ ਜਿਵੇਂ ਨਾਚ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਹੀ ਲੀਜੈ ਫੇਰੀ = ਨਾਚ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

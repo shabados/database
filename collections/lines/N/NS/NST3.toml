@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਤੂੰ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਸੋਹਣੇ ਲਾਲ ਦਾ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਕੀਤਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਨੁ = ਸੋਹਣਾ ਲਾਲ। ਰਾਵਿਆ = ਮਿਲਾਪ ਦਾ ਆਨੰਦ ਮਾਣਿਆ। ਕਵਨ ਗਤੀ = ਕਵਨ ਗਤਿ, ਕਿਸ ਤਰੀਕੇ ਨਾਲ? ਰੀ = ਹੇ ਸਖੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

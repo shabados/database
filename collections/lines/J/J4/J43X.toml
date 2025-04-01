@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਹੁਣ ਤੈਨੂੰ) ਮਨੁੱਖਾ ਜਨਮ ਮਿਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ (ਆ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

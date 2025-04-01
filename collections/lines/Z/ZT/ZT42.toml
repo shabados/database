@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨਾਲ ਛੁਹਣ ਤੋਂ ਬਿਨਾ ਆਪਣੀ ਰਸੋਈ ਤਿਆਰ ਕਰਨੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਕਸਾਰ = ਪਾਕਸਾਲ, ਰਸੋਈ। ਅਪਰਸ = ਅ-ਪਰਸ, ਕਿਸੇ ਨਾਲ ਨਾਹ ਛੁਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

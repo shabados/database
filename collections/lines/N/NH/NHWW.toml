@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ! ਆਪਣੇ ਦਸ ਹੀ ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਭੈੜੇ ਰਸਤੇ ਤੋਂ ਰੋਕ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਦ ਰਾਹੀ = ਭੈੜੇ ਰਾਹ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

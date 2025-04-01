@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਹੇ ਹਰੀ! (ਮਿਹਰ ਕਰ) ਮੇਰੀ ਜੀਭ ਤੇਰੇ ਗੁਣ ਗਾਂਦੀ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

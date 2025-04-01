@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ) ਨਿੱਕੀ ਜਿਹੀ ਕੀੜੀ ਵਿਚ (ਪ੍ਰਭੂ) ਤਾਕਤ ਭਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਕੀ = ਨਿੱਕੀ, ਛੋਟੀ। ਕੀਰੀ = ਕੀੜੀ। ਕਲ = ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਅੱਠੇ ਪਹਰ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਵੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਹਿ = ਵੱਸਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

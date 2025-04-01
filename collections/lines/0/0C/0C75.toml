@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਨਕੋ-ਨੱਕ ਭਰਿਆ ਪਿਆਲਾ ਭਲਾ ਸਾਨੂੰ ਕਿੱਥੋਣ ਪਰਾਪਤ ਹੋਇਆ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜਾਮਿ ਲਬਾ-ਲਬ ਅਜ਼ ਕੁਜਾ ਯਾਫ਼ਤਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

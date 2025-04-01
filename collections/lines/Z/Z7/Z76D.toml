@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸੱਤੇ ਅਸਮਾਨ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਚਰਨਾ ਦੀ ਧੂੜ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਿੱਸਅ ਉਲਵੀ ਖ਼ਾਕਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 142
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

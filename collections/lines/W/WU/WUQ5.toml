@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ, ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਬਹੁਤ ਹੀ ਵਿਚਾਰੀ ਸਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

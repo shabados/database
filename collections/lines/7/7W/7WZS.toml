@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪਣੀ ਆਯੂ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਹੀ ਗੁਜ਼ਾਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਉਮਰ ਗੁਜ਼ਰਾਨੰਦ ਅੰਦਰ ਯਾਦਿ ਰੱਬ ।੨੩੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

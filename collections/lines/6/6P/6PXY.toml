@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਕਰਤਾਰ ਨੇ ਹੁਕਮ ਦਿੱਤਾ, ਸੋਹਣੇ ਬੱਦਲ ਆ ਕੇ ਵਰ੍ਹ ਪਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਘ = ਬੱਦਲ। ਵੁਠੇ = ਵੱਸੇ, ਵਰਖਾ ਕੀਤੀ। ਕਰਤਾਰਿ = ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

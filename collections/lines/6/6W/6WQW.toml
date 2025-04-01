@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਰਤ ਆਦਿਕ ਵਖ ਵਖ ਕਿਸਮ ਦੀਆਂ ਮਰਯਾਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਭੇਦਾ = ਵਖ ਵਖ ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਭਲਾ ਮੇਰੇ ਦਿਲ ਦਾ ਭੇਤ ਕੀਹ ਜਾਣ ਸਕਦੀ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਮੁ = ਭੇਤ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖਾ-ਜਨਮ ਪਾ ਕੇ) ਕੋਈ ਨਫ਼ੇ ਵਾਲੀ ਘਾਲ ਕਮਾਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ॥੨੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲੀਐ = ਘਾਲ ਘਾਲਣੀ ਚਾਹੀਦੀ ਹੈ, ਕਮਾਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ॥੨੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

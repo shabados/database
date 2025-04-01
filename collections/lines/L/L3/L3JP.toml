@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮੇਹਰ ਕਰ) ਮੈਂ ਨੀਵੇਂ ਤੋਂ ਨੀਵਾਂ ਹੋ ਕੇ ਬਹੁਤ ਨੀਵਾਂ ਹੋ ਕੇ (ਸੰਤਾਂ ਅੱਗੇ) ਬੇਨਤੀ ਕਰ ਕੇ ਉਹਨਾਂ ਨੂੰ ਬੁਲਾਂਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਨੀਚ ਤੇ ਨੀਚੁ = ਨੀਵੇਂ ਤੋਂ ਨੀਵਾਂ। ਹੋਇ = ਹੋ ਕੇ। ਕਰਿ = ਕਰ ਕੇ। ਬਿਨਉ = ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

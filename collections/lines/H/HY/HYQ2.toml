@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਗਰੀਬਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾ ਨਿਧਿ = ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

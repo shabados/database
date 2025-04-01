@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਗੁਰੂ ਨਾਲ ਮਿਲਾਪ ਹੋਇਆ ਤਾਂ ਮੇਰੀ ਹਰੇਕ) ਪੁੱਠੀ ਗੱਲ ਸੋਹਣੀ ਸਿੱਧੀ ਹੋ ਗਈ (ਮੇਰੇ ਪਹਿਲੇ) ਚੰਦਰੇ ਵੈਰੀ (ਹੁਣ) ਸੱਜਣ-ਮਿੱਤਰ ਬਣ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪੁਸਟ = ਪੁੱਠੀ। ਬਾਤ ਤੇ = ਗੱਲ ਤੋਂ। ਸੀਧਰੀ = ਚੰਗੀ ਸਿੱਧੀ। ਦੂਤ = ਵੈਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

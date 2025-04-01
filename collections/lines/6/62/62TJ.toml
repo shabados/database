@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਛੀ ਸ਼ਾਮ ਵੇਲੇ ਰੁੱਖਾਂ ਤੇ ਆ ਟਿਕਦੇ ਹਨ, ਸਵੇਰੇ ਅਕਾਸ਼ ਨੂੰ ਤੱਕਦੇ ਹਨ (ਚਾਨਣ ਵੇਖ ਕੇ) ਦਸੀਂ ਪਾਸੀਂ ਉੱਡ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਝ = ਸ਼ਾਮ। ਬਿਹਾਗ = ਸਵੇਰ। ਤਕਹਿ = ਤੱਕਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

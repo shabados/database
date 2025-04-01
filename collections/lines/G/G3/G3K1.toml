@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਉਸ ਪ੍ਰਭੂ ਤੋਂ ਹੀ ਮੰਗਦਾ ਹਾਂ) ਜਿਸ ਦੇ ਖ਼ਜ਼ਾਨੇ ਕ੍ਰੋੜਾਂ ਹੀ ਕੁਬੇਰ ਦੇਵਤੇ ਭਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮੇਰ = ਧਨ ਦਾ ਦੇਵਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

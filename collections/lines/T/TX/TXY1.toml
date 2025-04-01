@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਅਗਾਂਹ ਪਰਲੋਕ ਵਿਚ ਭੀ) ਨਿੰਦਕ ਨੂੰ ਜਮਰਾਜ ਸਜ਼ਾ ਦੇਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਾਨੁ = ਡੰਨ, ਸਜ਼ਾ। ਜਾਮ = ਜਮਰਾਜ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

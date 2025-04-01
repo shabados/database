@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੀਰਥ ਜਾਤ੍ਰਾ, ਤਪਾਂ ਦੀ ਸਾਧਨਾ, (ਜੀਆਂ ਤੇ) ਦਇਆ ਕਰਨੀ, ਦਿੱਤਾ ਹੋਇਆ ਦਾਨ (ਇਹਨਾਂ ਕਰਮਾਂ ਦੇ ਵੱਟੇ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਤੁ = ਦਿੱਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪਦਿਆਂ ਕ੍ਰੋੜਾਂ ਪਾਪ ਮਿਟ ਜਾਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟਹਿ = ਮਿਟ ਜਾਂਦੇ ਹਨ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

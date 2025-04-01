@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਹੀ ਹੁਕਮ ਵਿਚ ਕੋਈ ਗ੍ਰਿਹਸਤੀ ਹੈ ਤੇ ਕੋਈ ਭਗਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮਿ = ਹੁਕਮ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

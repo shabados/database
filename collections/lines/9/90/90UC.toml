@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ (ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ) ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਮਰਜ਼ੀ ਨਾਲ, ਰਜ਼ਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

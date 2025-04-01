@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਹੀ ਹਰੇਕ ਜੀਵ ਨੂੰ ਧੰਧੇ ਵਿਚ ਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਸਿਰਿ ਸਿਰਿ = ਹਰੇਕ (ਜੀਵ) ਦੇ ਸਿਰ ਉੱਤੇ। ਧੰਧੈ = ਧੰਧੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਬਾਹਰ (ਜੰਗਲਾਂ ਵਿਚ) ਸੁੰਨ-ਮੁੰਨ ਬੈਠਿਆਂ ਭੀ ਨਹੀਂ ਪਸੀਜਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਨਿ = ਸੁੰਨ-ਅਵਸਥਾ ਵਿਚ, ਚੁੱਪ-ਚਾਪ ਰਹਿ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

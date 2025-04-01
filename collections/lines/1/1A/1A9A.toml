@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵ-ਜੰਤਾਂ ਨੂੰ ਆਪਣੇ ਇਕੋ ਹੀ ਹੁਕਮ-ਧਾਗੇ ਵਿਚ ਪ੍ਰੋ ਰੱਖਣ ਦੇ ਸਮਰੱਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਤਿ = ਸੂਤਰ ਵਿਚ, ਹੁਕਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

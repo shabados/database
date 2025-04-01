@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਉਹੋ (ਜੀਵ-) ਇਸਤ੍ਰੀ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ॥੩॥੨੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹਾਗਨਿ = ਸੁਹਾਗ ਵਾਲੀ, ਭਾਗਾਂ ਵਾਲੀ ॥੩॥੨੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

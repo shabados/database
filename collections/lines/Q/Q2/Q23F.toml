@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰੀ ਪ੍ਰਭੂ ਨੇ (ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਵਿਆਹ ਦਾ) ਕੰਮ ਰਚ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਕਾਜੁ = ਵਿਆਹ ਦਾ ਕਾਰਜ। ਰਚਾਇਆ = ਰਚਾ ਦਿੱਤਾ, ਆਰੰਭ ਕਰ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

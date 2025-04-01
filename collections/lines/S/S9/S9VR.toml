@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਿਲਾਂ ਪੁਰਸ਼ (ਅਕਾਲ ਪੁਰਖ) ਪਰਗਟ ਹੋਇਆ {\"ਆਪੀਨ੍ਹ੍ਹੈ ਆਪੁ ਸਾਜਿਓ, ਆਪੀਨ੍ਹ੍ਹੈ ਰਚਿਓ ਨਾਉ\"}।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਸਾਬਿਰਾ = ਪੁਰਸ-ਆਬਿਰਾ। ਪੁਰਸ = ਪਰਮਾਤਮਾ। ਆਬਿਰਾ = ਪਰਗਟ (ਹੋਇਆ)। ਆਬਿਰ ਭੂ = {आविर भु } ਪਰਗਟ ਹੋਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

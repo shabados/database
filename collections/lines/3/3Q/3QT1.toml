@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉੱਚੇ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ ਗੁਣ, ਮਾਨੋ) ਹੀਰੇ ਜਵਾਹਰ ਹਨ, ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਇਹਨਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਭਰ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ = ਹੀਰੇ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

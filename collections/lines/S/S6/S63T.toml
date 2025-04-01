@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਕੋਈ ਮਾਇਕ ਦੌੜ-ਭੱਜ ਗ੍ਰਸ ਨਹੀਂ ਸਕਦੀ, ਅਸੀਂ ਭੀ ਧੰਧਿਆਂ ਵਿਚ ਗ੍ਰਸੇ ਹੋਏ ਨਹੀਂ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਧੇ = ਧੰਧਿਆਂ ਵਿਚ ਗ੍ਰਸੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਦੁਨੀਆ ਦੀ ਮਦਦ ਦੀ ਆਸ ਰੱਖਣੀ ਵਿਅਰਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = {वृथा} ਬਿਅਰਥ। ਭਰਵਾਸਾ = ਭਰੋਸਾ, ਸਹਾਇਤਾ ਦੀ ਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

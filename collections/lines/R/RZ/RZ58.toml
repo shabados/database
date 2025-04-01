@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਦਾ ਹੀ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ, ਉਸ ਦਾ ਦੁੱਖ-ਦਲਿੱਦ੍ਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਲਦੁ = ਦਲਿੱਦ੍ਰ। ਬਿਲਾਇ ਗਇਆ = ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

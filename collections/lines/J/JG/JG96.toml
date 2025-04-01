@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ ਆਪ ਤੋਂ) ਦੂਰ ਵੱਸਦਾ ਨਾਹ ਸਮਝ (ਸੱਚਾ ਮਾਲਕ ਤੇਰੇ ਆਪਣੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਸਾਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਦੂਰਿ = ਆਪਣੇ ਆਪ ਤੋਂ ਦੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

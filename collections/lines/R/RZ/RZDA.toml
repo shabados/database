@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਦਮ ਅਤੇ ਉੱਚੀ ਸੁਰਤ ਇਹ ਦੋਵੇਂ ਉਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਸੱਸ ਸੁਹਰਾ ਬਣਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਮ = ਮਿਹਨਤ, ਉੱਦਮ। ਦੁਇ = ਦੋਵੇਂ (ਉੱਦਮ ਅਤੇ ਉੱਚੀ ਸੁਰਤਿ)। ਸਸੁਰ = ਸਹੁਰਾ ਅਤੇ ਸੱਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

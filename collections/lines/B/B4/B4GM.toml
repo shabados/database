@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਗਿਆਨ ਵਾਲਿਆਣ ਲਈ ਤਾਣ ਉਸ ਦੀ ਯਾਦ ਹੀ ਅਸਲ ਜ਼ਿੰਦਗੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਯਾਦ ਅਸਤ ਨਿਜ਼ਦਿ ਆਰਿਫ਼ਾਣ ।੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

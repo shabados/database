@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੇ ਕੰਮਾਂ ਦਾ ਪ੍ਰਬੰਧ-ਕਰਤਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਹਿੱਮਾਤਿ ਦਾਰੈਨ ਰਾ ਇੰਤਜ਼ਾਮ ।੧੦੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਉਸ ਗੋਪਾਲ ਨੂੰ ਚੇਤੇ ਰੱਖ ਜਿਸ ਨੇ ਮੋਹਣੀ ਮਾਇਆ ਦੀ ਮਮਤਾ (ਜੀਵਾਂ ਨੂੰ) ਲਾ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਗੋਪਾਲ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਖਸ਼ਿਸ਼ ਅਤੇ ਵੱਡੀ ਵਡਿਆਈ ਦਾ ਮਾਲਕ ਅਮਰ ਦਾਸ ਵੀ ਉਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੂ ਅਮਰਦਾਸ ਅਫ਼ਜ਼ਲੋ ਅਮਜਦ ਅਸਤ ।੨੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

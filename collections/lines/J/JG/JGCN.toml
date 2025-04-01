@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਨਾਮ ਦੀ ਕੁੰਜੀ ਉਨ੍ਹਾਣ ਸੰਤਾਣ ਕੋਲ ਹੀ ਹੂੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਕੁਲੀਦਿ ਨਾਮ ਪੇਸ਼ਿ ਸ਼ਾਣ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਹੱਤਰਾਣ ਫ਼ਿਰਕਿਆਣ ਦੀ ਪਨਾਹ ਸਮਝ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਸਤ ਹਫ਼ਤਾਦੋ ਦੋ ਮਿੱਲਤ ਰਾ ਪਨਾਹ ।੮੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

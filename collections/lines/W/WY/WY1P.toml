@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਤੂੰ ਆਪਣੇ (ਅੰਦਰਲੇ) ਹਾਲ ਤੋਂ ਵਾਕਿਫ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਵਾਕਿਫ਼ ਨੀਸਤੀ ਅਜ਼ ਹਾਲਿ ਖ਼ੇਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

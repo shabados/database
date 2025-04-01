@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਜੀਵਾਂ ਨੂੰ ਜਨਮ ਤੇ ਮਰਨ, ਸੁਖ ਤੇ ਦੁਖ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਪਤਿ = ਉਤਪੱਤੀ। ਖਪਤਿ = ਨਾਸ, ਪਰਲੌ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

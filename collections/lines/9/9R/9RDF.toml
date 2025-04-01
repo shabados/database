@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫ਼ਕੀਰ ਬਣ ਜਾਂਦਾ ਹੈ, ਕੁਲ ਦੀ ਅਣਖ ਗਵਾ ਬੈਠਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਕਰੁ ਕਰੇ = ਫ਼ਕੀਰ ਬਣ ਜਾਂਦਾ ਹੈ। ਜਾਤਿ ਗਵਾਏ = ਕੁਲ ਦੀ ਅਣਖ ਛੱਡ ਬੈਠਦਾ ਹੈ। ਹੋਰੁ = ਇਕ ਹੋਰ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

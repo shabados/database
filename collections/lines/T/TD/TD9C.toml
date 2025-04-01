@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਬੰਦਗੀ ਕਰ, ਤਾਂ ਜੋ (ਉਸ ਦੀ ਦਰਗਾਹ ਵਿਚ) ਕਬੂਲ ਹੋ ਜਾਵੇਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਕੁਨ ਜ਼ਾਂ ਕਿ ਊ ਬਾਸ਼ਦ ਕਬੂਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

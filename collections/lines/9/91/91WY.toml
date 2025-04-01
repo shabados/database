@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਉਹਨਾਂ ਸੇਵਕਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਦਾ ਹੈ ॥੪॥੩॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਗੈ = ਲੱਗਦਾ ਹੈ। ਤਿਨ ਪਾਇ = ਉਹਨਾਂ ਦੀ ਪੈਰੀਂ ॥੪॥੩॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

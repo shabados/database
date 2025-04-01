@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸੰਤ ਉਹ ਹੈ) ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਮਿੱਤਰ ਤੇ ਵੈਰੀ ਇਕੋ ਜਿਹੇ (ਮਿੱਤਰ ਹੀ) ਲੱਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤ੍ਰੁ = ਵੈਰੀ। ਸਮਾਨ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

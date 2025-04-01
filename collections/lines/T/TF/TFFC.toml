@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਥੇ ਆਕੇ ਬੁਝਿਆ ਹੋਇਆ ਦੀਵਾ ਵੀ ਜਹਾਨ ਨੂੰ ਰੋਸ਼ਨ ਕਰਨ ਲਗ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਚਰਾਗ਼ਿ ਗੁਲ ਜਹਾਂ ਅਫ਼ਰੋਜ਼ ਸ਼ੁਦ ।੩੧੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

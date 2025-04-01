@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ) ਹੇ ਨਾਨਕ! ਉਹੀ ਕੰਮ ਚੰਗਾ (ਮੰਨਣਾ ਚਾਹੀਦਾ) ਹੈ ਜੋ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰ = ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

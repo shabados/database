@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਵੇਲੇ) ਹੇ ਕਮਲੇ! ਤੈਨੂੰ ਕਿਸੇ ਨੇ ਇਕ ਘੜੀ ਭੀ ਘਰ ਵਿਚ ਰਹਿਣ ਨਹੀਂ ਦੇਣਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਬਉਰੇ = ਹੇ ਕਮਲੇ ਜੀਵ! ਤੁਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

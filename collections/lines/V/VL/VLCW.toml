@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਥਾਂ ਭਾਗਾਂ ਵਾਲਾ ਹੈ, ਉਹ ਘਰ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਵਿਚ ਸੰਤ ਜਨ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਭਾਗਾਂ ਵਾਲਾ। ਸੁ = ਉਹ। ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਭਵਨਾ = ਘਰ। ਜਾ ਮਹਿ = ਜਿਨ੍ਹਾਂ ਵਿਚ। ਬਸਾਰੇ = ਵੱਸਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

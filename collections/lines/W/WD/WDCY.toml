@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਅੰਞਾਣਾ ਬਾਲ (ਆਪਣੀ ਮਾਂ ਦਾ) ਦੁੱਧ ਪੀ ਕੇ ਰੱਜ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀ = ਪੀ ਕੇ। ਖੀਰੁ = {क्षीर} ਦੁੱਧ। ਅਘਾਵੇ = ਰੱਜ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

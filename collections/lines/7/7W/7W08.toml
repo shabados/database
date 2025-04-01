@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਜ ਤੱਤ ਮਿਲ ਕੇ ਸਰੀਰ ਦੀ ਸ਼ਕਲ ਬਣਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਦੇਹੀ = ਸਰੀਰ। ਆਕਾਰਾ = ਸ਼ਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

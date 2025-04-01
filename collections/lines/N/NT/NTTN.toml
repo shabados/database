@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣੇ ਮਨ ਵਿਚ ਟਿਕਾ ਕੇ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਉਰ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਮਿਹਰ ਅਤੇ ਕਰਮ ਦੇ ਮੁਲਕ ਦਾ ਨਿਗਾਹਬਾਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂਬਾਨਿ ਮੁਲਕਿ ਫ਼ਜ਼ਾਲੋ ਕਰਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

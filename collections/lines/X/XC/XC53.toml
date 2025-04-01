@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਪਾਣੀ ਨਾਲ ਮਲ ਮਲ ਕੇ ਸਰੀਰ ਨੂੰ ਮਾਂਜੀਏ ਤਾਂ ਭੀ ਸਰੀਰ ਮੈਲਾ ਹੀ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਨਾਲ। ਮਲਿ = ਮਲ ਕੇ। ਕਾਇਆ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

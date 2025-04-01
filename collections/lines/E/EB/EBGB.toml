@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ (ਕਿਸ ਨੇ) ਕਿਸੇ ਨਾਲ ਵੈਰ-ਵਿਰੋਧ ਕਮਾਉਣਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸੁ ਸੰਗਿ = ਕਿਸ ਦੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

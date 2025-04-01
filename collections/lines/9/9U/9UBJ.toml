@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦ ਦੇਣ ਵਾਲੇ! ਹੇ ਪ੍ਰਾਣ ਦਾਤੇ! ਹੇ ਸਭ ਪਦਾਰਥ ਦੇਣ ਵਾਲੇ! ਤੇਰੇ ਗੁਣ ਬੇਅੰਤ ਹਨ, ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜਿੰਦ। ਦਾਤੇ = ਹੇ ਦੇਣ ਵਾਲੇ! ਅਪਾਰਾ = ਅ-ਪਾਰ, ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

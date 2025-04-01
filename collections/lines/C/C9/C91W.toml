@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਬਾਣੀ ਮਨ ਵਿਚੋਂ) ਝੂਠ ਫ਼ਰੇਬ ਮੁਕਾ ਦੇਂਦੀ ਹੈ, ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ ਬੁਝਾ ਦੇਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੁ ਕੁਸਤੁ = ਝੂਠ ਫ਼ਰੇਬ। ਅਗਨਿ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

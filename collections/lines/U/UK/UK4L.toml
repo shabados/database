@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਰਤੀ ਦੇ ਸਰਦਾਰ ਮਨੁੱਖ! ਤੂੰ ਕਿਉਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਗੂੜ੍ਹੀ ਨੀਂਦ ਵਿਚ ਸੌਂ ਰਿਹਾ ਹੈਂ? ਤੂੰ ਕਿਉਂ ਸੁਚੇਤ ਨਹੀਂ ਹੁੰਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜਨ = ਹੇ ਧਰਤੀ ਦੇ ਸਰਦਾਰ! ਭਰੇ = ਭਰਿ, ਭਰ ਕੇ। ਨੀਦ ਭਰੇ = ਗੂੜ੍ਹੀ ਨੀਂਦ ਵਿਚ। ਕਤ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

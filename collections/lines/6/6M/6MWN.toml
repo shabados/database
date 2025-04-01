@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਚਾਈ ਦੀ ਬੁਨਿਆਦ ਉਸਦੇ ਸਦਕਾ ਹੀ ਪਕੇਰੀ ਹੋ ਗਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਸ਼ਈਅੱਦ ਅਜ਼ੋ ਰਾਸਤੀ ਰਾ ਅਸਾਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

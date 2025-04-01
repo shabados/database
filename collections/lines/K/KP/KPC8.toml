@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਕੁਜਾਤੀ ਲੋਕ ਮਨੋਂ ਭੀ ਜੂਠੇ ਹਨ ਤੇ ਜੂਠਾ ਭੋਜਨ ਹੀ ਖਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਜਾਤਿ = ਕੁਜਾਤਿ ਮਨੁੱਖ। ਮਨਿ ਜੂਠੈ = ਜੂਠੇ ਮਨ ਦੇ ਕਾਰਨ, ਨਾਮ-ਹੀਣ ਮਨ ਦੇ ਕਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

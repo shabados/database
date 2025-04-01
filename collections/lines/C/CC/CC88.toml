@@ -36,6 +36,12 @@ language = "pa"
 data = "(\"ਅਸੀਂ ਵੱਡੇ ਰਾਜੇ ਹਾਂ,\" ਇਸੇ) ਹਉਮੈ ਦੇ ਕਾਰਨ ਹੀ ਰਾਜੇ ਇਕ ਦੂਜੇ ਦੇ ਦੇਸਾਂ ਉਤੇ, ਕਈ ਵਾਰੀ ਹੱਲੇ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ, ਦੇ ਕਾਰਨ। ਧਾਵਹਿ = (ਇਕ ਦੂਜੇ ਉਤੇ) ਹੱਲੇ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

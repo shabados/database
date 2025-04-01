@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਅੰਤਰਜਾਮੀ ਦਾ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਹੀ ਹੱਟ ਹੈ, ਮਨ ਵਿਚ ਹੀ ਸ਼ਹਿਰ ਹੈ, ਤੇ ਮਨ ਵਿਚ ਹੀ ਉਹ ਹੱਟ ਚਲਾ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੈ = ਮਨ ਵਿਚ ਹੀ। ਪਾਟੁ = ਪਟਣ ਸ਼ਹਰ। ਪਾਸਾਰੀ = ਪਸਾਰੀ, ਹੱਟ ਚਲਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨੁੱਖਾ ਸਰੀਰ-ਘੋੜੀ ਪਰਮਾਤਮਾ ਨੇ ਪੈਦਾ ਕੀਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਜਣਿ = ਘੋੜੀ। ਦੇਹ = ਸਰੀਰ, ਕਾਂਇਆਂ। ਰਾਮਿ = ਰਾਮ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

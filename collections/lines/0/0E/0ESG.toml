@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਮੰਗਤਾ ਅਤੇ ਬਾਦਸ਼ਾਹ ਉਸ ਤੋਣ ਕੁਰਬਾਨ ਜਾਣਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਿ ਗਦਾ ਓ ਪਾਦਸ਼ਾਹ ਕੁਰਬਾਨਿ ਉਸਤ ।੧੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

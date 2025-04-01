@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਉਣ, ਪਾਣੀ, ਅੱਗ, ਧਰਤੀ ਦੀ ਖ਼ਾਕ (ਆਦਿਕ ਤੱਤ), ਇਹ ਸਾਰੇ ਤੇਰਾ ਹੀ ਤਮਾਸ਼ਾ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸੰਤਰੁ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

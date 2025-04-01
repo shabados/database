@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਗਿਆਨੀ ਮੂਰਖ ਨੇ (ਇਸ ਤਰ੍ਹਾਂ) ਆਪਣੀ ਪੱਤ ਗਵਾ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਖਿ = ਮੂਰਖ ਨੇ। ਪਤਿ = ਇੱਜ਼ਤ। ਥਾਇ ਨ ਪਾਈ = ਥਾਂ ਤੇ ਨਹੀਂ ਪੈਂਦਾ, ਕਬੂਲ ਨਹੀਂ ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

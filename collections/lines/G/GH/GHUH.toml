@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਓਟ ਤੋਂ ਬਿਨਾ) ਮੈਂ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ, ਕੁਰਾਹੇ ਹੀ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾ ਪਾਵਉ = ਮੈਨੂੰ ਨਹੀਂ ਲੱਭਦਾ। ਵਾਟ = ਰਸਤਾ। ਵੀਗਾ = ਵਿੰਗਾ, ਕੁਰਾਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਛੋਟੇ ਮੋਟੇ ਦੀ ਉੱਥੋਂ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਓ ਮਿਹ ਰਾ ਦਰਾਂਜਾ ਰਾਹ ਨੀਸਤ ।੨੩੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

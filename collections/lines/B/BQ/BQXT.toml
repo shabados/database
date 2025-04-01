@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮਨ ਵਿਚ ਲੋਭ (-ਰੂਪ) ਕੁੱਤਾ ਜ਼ੋਰ ਪਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪੈ = ਜ਼ੋਰ ਪਾ ਰਿਹਾ ਹੈ। ਸੁਆਨੁ = ਕੁੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

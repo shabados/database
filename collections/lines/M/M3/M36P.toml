@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਉਲੀ ਕਰਮ ਆਦਿਕ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਭੁੱਲੇ ਹੋਏ ਹੇ ਬੰਦਿਓ! (ਇਸ ਰਾਹੇ ਪੈ ਕੇ) ਆਤਮਕ ਮੌਤ ਨਾਹ ਸਹੇੜੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ = ਹੇ! ਭ੍ਰਮਿ = ਭਟਕਣਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

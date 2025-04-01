@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਉਹ ਸਾਰੇ ਰੋਗ ਮਿਟਾ ਦੇਂਦਾ ਹੈ, ਉਸ ਨੂੰ ਨਵਾਂ ਨਿਰੋਆ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੋਆ = ਨਿ-ਰੋਗ, ਰੋਗ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

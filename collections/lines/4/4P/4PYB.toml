@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਹੀ (ਜੀਵ ਨੂੰ) ਮਾਰਦਾ ਹੈ ਆਪ ਹੀ ਪੈਦਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ = ਆਪ ਹੀ। ਮਾਰਿ = ਮਾਰੇ, ਮਾਰਦਾ ਹੈ। ਜੀਵਾਲੈ = ਜਿੰਦ ਪਾ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

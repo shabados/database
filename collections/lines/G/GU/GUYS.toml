@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰੀ-ਨਾਮ ਦਵਾਈ ਹਰੇਕ ਹਿਰਦੇ ਵਿਚ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖਧੁ = ਦਵਾਈ। ਸਭ ਘਟ = ਸਾਰੇ ਸਰੀਰਾਂ ਵਿਚ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

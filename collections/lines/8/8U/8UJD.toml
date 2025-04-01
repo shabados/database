@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ ਲੈ, ਉਸ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ (ਦੀ ਸਹਾਇਤਾ) ਦੀ ਆਸ ਲਾਹ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅਰੇ = ਹੇ ਜਿੰਦੇ! ਲਾਹਿ = ਦੂਰ ਕਰ। ਬਿਡਾਨੀ = ਬਿਗਾਨੀ["
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

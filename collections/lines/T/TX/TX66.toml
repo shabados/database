@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰੇਸ਼ਟ ਵਧੀਆ ਰਾਗ ਤੇ ਉਹਨਾਂ ਦੀਆਂ ਰਾਗਣੀਆਂ ਆਦਿਕ ਦਾ ਇਹ ਸਾਰਾ ਪਰਵਾਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਨ ਰਾਗ = ਸ੍ਰੇਸ਼ਟ ਵਧੀਆ ਰਾਗ। ਪਰੀਆ = ਰਾਗਾਂ ਦੀਆਂ ਪਰੀਆਂ, ਰਾਗਣੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

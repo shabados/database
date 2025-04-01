@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ। (ਨਾਮ ਹੀ ਜੀਵਨ-ਸਫ਼ਰ ਵਾਸਤੇ) ਰਾਹਦਾਰੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਸਾਣੁ = ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ ਰਾਹਦਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

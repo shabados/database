@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਦਾਸ ਮੁੜ ਮੁੜ ਸੁਆਦ ਨਾਲ ਤੇਰੇ ਗੁਣ ਗਾਂਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਕਿ = ਰਸ ਲੈ ਲੈ ਕੇ, ਸੁਆਦ ਨਾਲ। ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

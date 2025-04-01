@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ!) ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਪ੍ਰੋ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰੁ = ਉਪਦੇਸ਼। ਚਿਤਾਰਿ = ਚੇਤੇ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

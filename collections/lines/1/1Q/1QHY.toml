@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਹੋਸ਼ ਕਰ, ਅਵੈੜਾ-ਪਨ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਮਝੁ = ਹੋਸ਼ ਕਰ। ਆਵਾਇਲੇ = ਅਵੈੜਾ-ਪਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਪ ਕਰ ਕਰ ਕੇ ਧਨ ਇਕੱਠਾ ਕਰਦਾ ਰਿਹਾ, ਪਰ ਉਸ ਜਿੰਦ ਦੇ ਕਿਸੇ ਕੰਮ ਨਾਹ ਆਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਰਥ = ਮੰਦੇ ਕੰਮ। ਦਰਬੁ = ਧਨ। ਸੰਚਿਆ = ਇਕੱਠਾ ਕੀਤਾ। ਕਰਿ = ਕਰ ਕੇ। ਕੇਤੁ ਕਾਰਜਿ = (ਉਸ ਜਿੰਦ ਦੇ) ਕਿਸ ਕੰਮ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

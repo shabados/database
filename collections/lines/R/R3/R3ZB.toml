@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੂੰ) ਲੱਭਦਾ ਲੱਭਦਾ ਮੈਂ (ਹਰ ਪਾਸੇ) ਫਿਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਮੈਂ ਕਈ ਜੰਗਲ ਅਨੇਕਾਂ ਥਾਂ ਖੋਜਦਾ ਫਿਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਾ = ਫਿਰਾਂ, ਮੈਂ ਫਿਰਦਾ ਹਾਂ। ਖੋਜਉ = ਖੋਜਉਂ, ਮੈਂ ਖੋਜਦਾ ਹਾਂ। ਥਾਨ = (ਅਨੇਕਾਂ) ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

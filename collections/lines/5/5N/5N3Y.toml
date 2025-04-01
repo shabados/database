@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨਮੁਖ ਆਪਣੇ ਮਤਲਬ ਦੇ ਪਿਆਰੇ (ਹੋਣ ਕਰ ਕੇ) ਕਿਸੇ ਦਾ ਕੰਮ ਨਹੀਂ ਸਵਾਰ ਸਕਦੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਰਥੀ = ਖ਼ੁਦ-ਗ਼ਰਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

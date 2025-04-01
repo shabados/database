@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਗ ਜੂਠੀ, ਪਾਣੀ ਜੂਠਾ, ਪਕਾਣ ਵਾਲੀ ਭੀ ਜੂਠੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸਿ = ਬੈਠ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

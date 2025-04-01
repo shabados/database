@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਉਸ ਬੰਦੇ ਨੇ ਜਿਸਨੇ ਉਸ ਦਾ ਨਾਮ ਸੱਚੇ ਦਿਲੋਂ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਆਂ ਕਸ ਕਿ ਊ ਖ਼ਾਂਦ ਨਾਮਸ਼ ਬਸਿਦਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

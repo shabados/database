@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਨਾਲ ਹਰਿ-ਨਾਮ-ਸਿਮਰਨ ਦੀ ਪ੍ਰੇਮ ਰੱਖਣ ਵਾਲੇ ਸਦਾ ਲਈ ਅਟੱਲ ਜੀਵਨ ਵਾਲੇ ਹੋ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਿਨਾਸੀ = ਅਟੱਲ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

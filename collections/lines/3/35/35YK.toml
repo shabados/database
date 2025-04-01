@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਕੋਈ ਮਾਰ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਕਸਿ ਮਾਰਾ = ਮਾਰ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕਾਂ ਪਾਸੋਂ) ਕੱਪੜੇ ਤੇ ਭੋਜਨ ਦੀ ਆਸ ਬਣਾਈ ਨਹੀਂ ਰੱਖਦਾ, ਸਹਿਜ ਸੁਭਾਇ ਜੋ ਮਿਲ ਜਾਂਦਾ ਹੈ ਉਹ ਲੈ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਦਨ = ਕੱਪੜਾ। ਅਚਿੰਤੁ = ਸਹਜ ਸੁਭਾਇ, ਸੋਚਾਂ ਕਰਨ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

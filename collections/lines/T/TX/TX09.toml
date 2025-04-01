@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਤ੍ਰਿਸ਼ਨਾ ਵਿਚ ਫਸਿਆ) ਮਨ ਗ਼ਾਫ਼ਿਲ ਹੋ ਰਿਹਾ ਹੈ, ਸਦਾ ਚਿੰਤਾ ਵਿਚ ਜਕੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੇਤੁ = ਗਾਫ਼ਲ, ਬੇਪਰਵਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

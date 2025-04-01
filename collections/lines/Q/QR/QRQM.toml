@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਲੋਕ ਰਾਗ ਰਾਗਣੀਆਂ ਗਾਂਦੇ ਹਨ, ਪਰ ਪ੍ਰਭੂ ਰਾਗ ਨਾਲ ਭੀ ਨਹੀਂ ਪ੍ਰਸੰਨ ਹੁੰਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਕਈ (ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ)। ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ। ਪਰੀਆ = ਰਾਗਣੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

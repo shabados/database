@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਰ-ਜੁਆਨੀ ਵਿਚ ਭੋਜਨ ਤੇ ਸੁਖਾਂ ਦੀ ਸੂਝ (ਦੇਂਦਾ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਿ ਜੋਬਨ = ਜੁਆਨੀ ਦੇ ਭਰ ਵਿਚ, ਭਰ-ਜੁਆਨੀ ਵਿਚ। ਸੂਧ = ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਨਾਮ ਜਹਾਨ ਵਿਚ ਉੱਚਾ ਤੇ ਰੋਸ਼ਨ ਹੋ ਜਾਵੇਗਾ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਤੂ ਅੰਦਰ ਜਹਾਂ ਗਰਦਦ ਬੁਲੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਧ ਜਨੋ! (ਮੇਰੀ ਤਾਂ ਇਹੀ ਅਰਦਾਸ ਹੈ ਕਿ) ਮੈਂ ਆਪਣੀਆਂ ਅੱਖਾਂ ਨਾਲ (ਉਹਨਾਂ ਦਾ) ਦਰਸਨ ਕਰਦਾ ਰਹਾਂ (ਜੋ ਨਾਮ ਜਪਦੇ ਹਨ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲੋਵਉ = ਮੈਂ ਵੇਖਦਾ ਹਾਂ, ਅਲੋਵਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

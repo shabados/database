@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਮਨਮੁਖਾਂ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਕਰਤਾਰ ਨੇ ਆਪ ਹੀ ਉਹਨਾਂ ਪਾਸੋਂ (ਇਹ ਨਿੰਦਾ ਦੀ) ਕਾਰ ਸਦਾ ਕਰਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਕਰਤੈ = ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

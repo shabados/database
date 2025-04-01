@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਹੀ ਜਜਮਾਨਾਂ ਦੀਆਂ ਧੀਆਂ ਦੇ ਵਿਆਹ ਦੱਛਣਾ ਲੈ ਲੈ ਕੇ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾੜਿ = ਭਾੜਾ, ਮਜੂਰੀ, ਲਾਗ, ਦੱਛਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

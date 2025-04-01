@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਰਾਮ ਸਭਨਾਂ ਵਿਚ ਰਮਿਆ ਹੋਇਆ ਹੈ, ਹਰੇਕ ਹਿਰਦੇ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਤ = ਸਭ ਵਿਚ ਰਮਿਆ ਹੋਇਆ। ਘਟ ਘਟ ਆਧਾਰ = ਹਰੇਕ ਹਿਰਦੇ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

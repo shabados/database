@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਤੇ ਪ੍ਰਭੂ ਇਕ-ਰੂਪ ਹਨ, ਇਸ ਵਿਚ ਭੁਲੇਖੇ ਵਾਲੀ ਗੱਲ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭੁਲੇਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

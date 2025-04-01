@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਵਡੇਰੀ ਅਤੇ ਕੀਮਤੀ ਸੰਜੋਗੀ ਰਾਤ ਦਾ ਚਮਕਦਾ ਦੀਵਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਂਰਾਗ਼ਿ ਸ਼ਬਿਸ਼ਤਾਨੀ ਮਜਦੋ ਬਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

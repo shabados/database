@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਣ ਸੁਣ ਕੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਦਾ ਕਥਨ ਕਰ ਲਈਦਾ ਹੈ, ਪਰ ਕੋਈ ਜੀਵ ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਕੋ = ਕੋਈ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਉਸ ਨੂੰ ਲੱਭਦਾ ਹੈ, ਉਹ ਲਿਆ ਕੇ (ਆਪਣੀ ਕਾਇਆਂ-ਇਸਤ੍ਰੀ ਨੂੰ) ਵਿਖਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵੈ = ਹਾਸਲ ਕਰਦਾ ਹੈ। ਜੋ = ਜੋ ਕੁਝ। ਆਣਿ = ਲਿਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

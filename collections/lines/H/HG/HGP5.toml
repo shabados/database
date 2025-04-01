@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਾ ਡਰਾਉਣੇ ਵਿਗੜੇ ਰੂਪ ਵਾਲਾ ਬਣਿਆ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਰਾਲ = ਡਰਾਉਣਾ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਪ੍ਰਭੂ ਤੋਂ) ਦਸ ਚੀਜ਼ਾਂ ਲੈ ਕੇ ਸਾਂਭ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਤੂ = ਚੀਜ਼ਾਂ। ਲੇ = ਲੈ ਕੇ। ਪਾਛੈ ਪਾਵੈ = ਸਾਂਭ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

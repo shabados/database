@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ ਝੂਠੇ ਮਨੁੱਖ ਦੇ ਮੂੰਹ ਵਿਚ ਸਦਾ ਝੂਠ ਹੀ ਰਹਿੰਦਾ ਹੈ ਤੇ ਇਸ ਕਰਕੇ ਉਹ ਸਦਾ ਦੁੱਖੀ ਹੀ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੂਠੇ = ਝੂਠੇ ਮਨੁੱਖ ਦੇ। ਜੂਠਾ = ਝੂਠਾ। ਏਹਿ = ਅਜੇਹੇ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

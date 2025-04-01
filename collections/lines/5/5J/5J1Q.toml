@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮਨ ਵਿਚ ਧੁਰ ਅੰਦਰ ਪੰਜ ਕਾਮਾਦਿਕ ਲੁਕੇ ਪਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਤਰਿ = ਮਨ ਦੇ ਧੁਰ ਅੰਦਰ। ਪੰਚ = ਪੰਜ ਕਾਮਾਦਿਕ। ਗੁਪਤ = ਲੁਕੇ ਹੋਏ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

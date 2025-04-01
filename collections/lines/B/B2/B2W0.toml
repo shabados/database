@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ ਤਾਂ ਥਲ ਉੱਤੇ ਸਰੋਵਰ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਲ ਸਿਰਿ = ਥਲ ਦੇ ਸਿਰ ਉੱਤੇ। ਸਰਿਆ = ਸਰ, ਸਰੋਵਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ਥਿੱਤਾਂ ਦਾ ਲੇਖਾ ਗਿਣ ਕੇ ਕਿਸੇ ਨੇ ਭੀ ਤੈਨੂੰ ਨਹੀਂ ਲੱਭਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰ = ਤੈਨੂੰ। ਗਣਤੈ = (ਥਿੱਤਾਂ ਦੇ) ਲੇਖੇ ਕਰਨ ਨਾਲ। ਅਲਖ = ਅਦ੍ਰਿਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

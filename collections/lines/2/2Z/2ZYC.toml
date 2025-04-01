@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਜਾਪ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਕੋਈ ਸ਼ਬਦ ਆਪਣੀ ਜੀਭ ਤੇ ਨਾ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਜ਼ਿਕਰਸ਼ ਬਰ ਜ਼ੁਬਾਂ ਹਰਫ਼ੇ ਮਯਾਰ ।੪੫੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

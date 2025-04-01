@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਨੂੰ ਕਿਸ ਗੁਫ਼ਾ ਵਿਚ ਰੱਖੀਏ ਕਿ ਟਿਕਿਆ ਰਹੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਗੁਫਾ = ਜਿਸ ਗੁਫਾ ਵਿਚ। ਅਵਾਹਨੁ = ਅਡੋਲ, ਅਹਿੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

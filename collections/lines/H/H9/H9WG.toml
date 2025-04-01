@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਪ੍ਰਭੂ ਸੁਖ ਦੁਖ ਦੇਂਦਾ ਹੈ ਅਤੇ ਆਪ ਹੀ ਮੇਹਰ ਕਰਦਾ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸ = ਕਿਰਪਾ, ਬਖ਼ਸ਼ਸ਼ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਕੰਮ ਕਾਜ ਕਰਦਿਆਂ, ਰਾਹੇ ਤੁਰਦਿਆਂ, ਪੱਤਣ ਲੰਘਦਿਆਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਜਿ = ਹਰੇਕ ਕਾਜ ਵਿਚ। ਕਾਮਿ = ਹਰੇਕ ਕੰਮ ਵਿਚ। ਬਾਟ = ਰਾਹੇ ਤੁਰਦਿਆਂ। ਘਾਟ = ਪੱਤਣ (ਲੰਘਦਿਆਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

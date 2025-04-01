@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਣ ਜ਼ੁਲਫ਼ਾਣ ਦਾ ਕੁਫਰ ਈਮਾਨ ਲਈ ਬਸ ਇਕ ਜਾਲ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਫ਼ਰਿ ਜ਼ੁਲਫ਼ਸ਼ ਦਾਮਿ ਈਮਾਨਸਤੋ ਬਸ ।੩੯।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

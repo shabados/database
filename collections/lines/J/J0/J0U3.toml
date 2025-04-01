@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦੀ ਲੋੜੀਂਦੀ ਖ਼ੁਰਾਕ ਕੋਈ ਵਿਰਲਾ ਬੰਦਾ ਦੇਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਏ = ਦੇਂਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

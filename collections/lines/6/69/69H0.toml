@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਜੋਗੀ ਹਨ ਜਤੀ ਹਨ ਸਿਆਣੇ ਪੰਡਿਤ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਚਾਰੀ = ਵਿਚਾਰਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

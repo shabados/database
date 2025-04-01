@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ ਪੀੜਾ ਜਾਣਦਾ ਹੈ, ਜਾਣੀ-ਜਾਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ ਜੀਅ ਕੀ = ਦਿਲ ਦੀ ਪੀੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

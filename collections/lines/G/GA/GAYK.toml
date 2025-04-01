@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਰਾ ਮੈਂ ਨਾਨਕ ਹੀ ਨਹੀਂ ਆਖ ਰਿਹਾ ਕਿ ਤੂੰ ਬੇਅੰਤ ਹੈਂ) ਗ਼ਰੀਬ ਨਾਨਕ ਕੀਹ ਆਖ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਚਾਰਾ = ਗਰੀਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਵਿਚ ਵੱਸਦੇ ਸਾਰੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ ਨੂੰ ਲੱਭ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹਿ = ਮਨ ਵਿਚ। ਨਿਧਾਨੁ = (ਸਾਰੇ ਪਦਾਰਥਾਂ ਦਾ) ਖ਼ਜ਼ਾਨਾ। ਲਹੁ = ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

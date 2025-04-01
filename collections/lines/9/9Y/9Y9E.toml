@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਤੁਸੀ ਭਾਗਾਂ ਵਾਲੇ ਹੋ ਕਿ) ਤੁਸੀ ਪਰਮਾਤਮਾ ਨਾਲ ਰੱਤੇ ਹੋਏ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹੁ = ਹੇ ਸੰਤ ਜਨੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਮੂਲ ਪ੍ਰਭੂ ਤੋਂ ਖੁੰਝ ਕੇ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪੈ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲਹੁ = ਜਗਤ ਦੇ ਮੂਲ ਪ੍ਰਭੂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

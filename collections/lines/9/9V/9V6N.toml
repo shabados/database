@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਨਾਖਸ਼) ਖਿੱਝ ਕੇ ਕ੍ਰੋਧ ਵਿਚ ਆਇਆ, ਤਲਵਾਰ (ਮਿਆਨੋਂ) ਕੱਢ ਕੇ (ਆਖਣ ਲੱਗਾ-)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੜਗੁ = ਤਲਵਾਰ। ਰਿਸਾਇ = ਖਿੱਝ ਕੇ। ਕੋਪਿਓ = ਕ੍ਰੋਧ ਵਿਚ ਆਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

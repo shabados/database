@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! ਜੇ ਤੂੰ ਚਾਰੇ ਕੂੰਟਾਂ ਭਾਲਦੀ ਫਿਰੇਂ ਤਾਂ ਭੀ ਚੰਗੇ ਭਾਗਾਂ ਤੋਂ ਬਿਨਾ ਨਾਮ-ਧਨ ਨਹੀਂ ਲੱਭਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਡਾ = ਕੁੰਡਾਂ, ਪਾਸੇ, ਕੂੰਟਾਂ। ਭਵਹਿ = ਤੂੰ ਭਵੇਂ। ਧਨੁ = ਨਾਮ-ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

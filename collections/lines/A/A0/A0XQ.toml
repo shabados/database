@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ (ਸਭ ਤੋਂ) ਵੱਡਾ ਮਾਲਕ ਹੈ; ਆਪ ਹੀ (ਮਾਇਆ ਦੀ ਫਾਹੀ ਤੋਂ) ਬਚਾਏ ਤਾਂ ਬਚ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਣੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

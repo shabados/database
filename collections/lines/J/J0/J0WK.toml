@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੰਸਾਰ ਵਿਚ ਕੇਵਲ ਉਹੀ ਮਨੁੱਖ ਗੁਣਾਂ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਭਰਿਆ ਹੋਇਆ, ਸਭ ਗੁਣਾਂ ਵਾਲਾ, ਜਿਸ ਵਿਚ ਕੋਈ ਊਣਤਾ ਨਾਹ ਹੋਵੇ। ਸੋਈ = ਉਹੀ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

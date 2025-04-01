@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੀ ਖ਼ਿਦਮਤ ਬਹੁਤ ਦੁਖਦਾਈ ਹੋਇਆ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਰੀ = ਬਹੁਤ। ਦੁਹੇਲੀ = ਦੁਖਦਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

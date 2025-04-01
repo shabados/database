@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿੱਤ੍ਰ ਗੁਪਤ (ਮੇਰੇ) ਕਰਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤ ਗੁਪਤ = ਚਿੱਤ੍ਰ ਗੁਪਤ। ਕਰਮਹਿ = (ਮੇਰੇ) ਕਰਮਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

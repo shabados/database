@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਨਕ (ਦੋਵੇਂ) ਹੱਥ ਜੋੜ ਕੇ ਅਰਜ਼ੋਈ ਕਰਦਾ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = (ਦੋਵੇਂ) ਹੱਥ। ਜੋੜਿ = ਜੋੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

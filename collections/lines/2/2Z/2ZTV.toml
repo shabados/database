@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਵੀਰ ਪ੍ਰਭੂ ਦੇ ਸੁਹਣੇ (ਨਿਰਮਲ) ਗੁਣ ਗਾਂਦਾ ਹੈ, ਉਹ ਪਵਿੱਤਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲੁ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

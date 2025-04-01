@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ ਗੱਲ ਇਹ ਹੈ ਕਿ) ਜੋ ਕੁਝ ਮੈਂ ਕਰਦਾ ਹਾਂ, ਉਹ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਹੀ ਕਰ ਰਿਹਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਕਰੀਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ। ਤੇਰੈ ਹਦੂਰਿ = ਤੇਰੀ ਹਾਜ਼ਰੀ ਵਿਚ, ਤੂੰ ਵੇਖ ਲੈਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

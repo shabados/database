@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਦਾ ਡਰ ਪੈਲੀ ਬਣੇ, ਸੁੱਧ ਆਚਰਨ (ਉਸ ਪੈਲੀ ਲਈ) ਪਾਣੀ ਹੋਵੇ, ਸਤ ਤੇ ਸੰਤੋਖ (ਉਸ ਪੈਲੀ ਨੂੰ ਵਾਹੁਣ ਲਈ) ਬਲਦ ਹੋਣ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਇ = ਪੈਲੀ। ਪਵਿਤੁ = ਸੁੱਧ ਆਚਰਨ। ਬਲੇਦ = ਬਲਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

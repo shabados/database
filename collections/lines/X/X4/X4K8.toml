@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਅਦ੍ਰਿਸ਼ਟ ਹੈ ਅਪਹੁੰਚ ਹੈ, (ਫਿਰ) ਉਸ ਨੂੰ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਮਿਲਿਆ ਜਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਖਮੁ = {सुक्ष्म} ਬਹੁਤ ਬਾਰੀਕ, ਅਦ੍ਰਿਸ਼ਟ। ਅਗਮ = {अगम्य} ਅਪਹੁੰਚ। ਕਿਤੁ ਬਿਧਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

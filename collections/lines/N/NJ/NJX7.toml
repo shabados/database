@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਜਗਤ ਦਾ ਨਾਥ ਹੈਂ। ਤੂੰ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤਹਿ = ਵਿਆਪਕ ਹੈਂ। ਜਗੰਨਾਥੁ = ਜਗਤ ਦਾ ਨਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

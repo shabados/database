@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਨੇ ਪ੍ਰਭੂ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਹਿ = ਤਿਨਿ ਹੀ, ਉਸੇ ਨੇ। ਜਾਨਿਆ = ਸਮਝਿਆ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

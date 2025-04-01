@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਵਿਚ ਕਿਤੇ ਕੋਈ ਮਨੁੱਖ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ (ਇਹ ਗੱਲ) ਨਾਹ ਭੁੱਲ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤ = ਮਤਾਂ। ਮਤ ਕੋ ਭੁਲੈ = ਮਤਾਂ ਕੋਈ ਭੁੱਲ ਜਾਏ, ਕਿਤੇ ਕੋਈ ਭੁੱਲ ਨਾਹ ਜਾਏ। ਸੰਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

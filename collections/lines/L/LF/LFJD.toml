@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਭਟਕਣਾ ਵਿਚ ਕੁਰਾਹੇ ਪਏ ਜੀਵ ਨੂੰ ਸਹੀ ਜੀਵਨ-ਰਾਹ ਤੇ ਪਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਭ੍ਰਮਿ = ਭਟਕਣਾ ਵਿਚ (ਪੈ ਕੇ)। ਭੁਲਾ = ਭੁੱਲਾ, ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ। ਮਾਰਗਿ = ਰਸਤੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

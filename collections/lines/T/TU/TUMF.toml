@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ ਤੇ ਕੇਡਾ ਵੱਡਾ ਹੈਂ, ਹੇ ਪ੍ਰਭੂ! ਇਹ ਗੱਲ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ। ਕੋਈ ਹੋਰ ਕੀਹ ਕਹਿ ਕੇ ਦੱਸ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਹਾਲਤ। ਮਿਤਿ = ਮਿਣਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

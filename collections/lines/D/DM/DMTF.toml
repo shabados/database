@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸਹੇਲੀਹੋ! (ਹੇ ਮੇਰੇ ਸਤਸੰਗੀਓ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ ਸਖੈਨੀ = ਹੇ ਸਹੇਲੀਹੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

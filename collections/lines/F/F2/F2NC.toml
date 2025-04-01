@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ ਭੀ) ਆਪਣੀਆਂ ਅੱਖਾਂ ਨਾਲ ਗੁਰਮੁਖਾਂ ਦਾ ਦਰਸਨ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਤ੍ਰ = ਅੱਖਾਂ ਨਾਲ। ਪੇਖੁ = ਵੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

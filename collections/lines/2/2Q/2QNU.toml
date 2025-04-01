@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਿਰ (ਬੰਦਗੀ ਵਿਚ) ਮਾਲਕ-ਰੱਬ ਅੱਗੇ ਨਹੀਂ ਨਿਊਂਦਾ, ਉਸ ਸਿਰ ਦਾ ਕੋਈ ਲਾਭ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਜੈ ਕਾਂਇ = ਕੀਹ ਕਰੀਏ? ਕੀਹ ਬਣਾਈਏ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਮੈਂ ਤੇਰੀਆਂ ਦਾਤਾਂ ਦੀ ਕਦਰ ਨਹੀਂ ਪਛਾਣੀ, ਮੈਂ ਪਰਾਇਆ ਹੱਕ ਖਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਾਮਖੋਰੁ = ਪਰਾਇਆ ਹੱਕ ਖਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

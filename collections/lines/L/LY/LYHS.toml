@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਤਾਣ ਦਿਲ ਅਤੇ ਦੀਨ ਦੀ ਕੇਵਲ ਤੇਰੇ ਲਈ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਤੂ ਦਾਰਮ ਅਜ਼ ਦਿਲੋ ਦੀਣ ਇਹਤਿਆਜ ।੧੬।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

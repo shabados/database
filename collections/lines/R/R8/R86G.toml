@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪ ਕਮਾਣ ਵਾਲੇ ਕੋਈ ਭੀ ਤੇਰਾ (ਸਦਾ ਦਾ) ਸਾਥੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਵਦਿਆ = ਹੇ ਕਮਾਣ ਵਾਲੇ! ਬੇਲੀ = ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

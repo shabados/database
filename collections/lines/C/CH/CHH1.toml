@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਜੀਵਾਂ ਦੇ) ਕ੍ਰੋੜਾਂ ਪਾਪ ਇਕ ਖਿਨ ਵਿਚ ਬਖ਼ਸ਼ ਸਕਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਖਤੇ = ਪਾਪ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

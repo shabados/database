@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਕੋਈ ਪੁੱਤਰ ਇਸਤ੍ਰੀ ਦੇ ਮੋਹ ਵਿਚ ਰੱਤਾ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

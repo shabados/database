@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗੁਰਮੁਖ ਮਨੁੱਖ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜਿਹੜੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੁ ਧਨੁ = ਭਾਗਾਂ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

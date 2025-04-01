@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਾਇਆ ਦੇ ਨਾਸ ਹੁੰਦਿਆਂ ਰਤਾ ਚਿਰ ਨਹੀਂ ਲੱਗਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਜਿਸ (ਮਾਇਆ) ਨੂੰ। ਬਾਰ = ਦੇਰ। ਕਾਈ ਬਾਰ = ਕੋਈ ਭੀ ਦੇਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

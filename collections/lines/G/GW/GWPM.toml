@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਹਰਿ-ਨਾਮ ਧਨ ਖੱਟ ਕੇ ਖ਼ਜ਼ਾਨੇ ਭਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਟਿ = ਖੱਟ ਕੇ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

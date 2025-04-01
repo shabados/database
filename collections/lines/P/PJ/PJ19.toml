@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਮਨੁੱਖ ਬਣਦਾ ਹੈ) ਉਹ ਸ੍ਰੇਸ਼ਟ ਆਤਮਕ ਦਰਜਾ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਦਵੀ = ਆਤਮਕ ਦਰਜਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

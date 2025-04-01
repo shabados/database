@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਉਸ ਦੇ ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ। ਨਰਹਰੀ = ਪਰਮਾਤਮਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

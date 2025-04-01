@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਧਰਮ ਪੁਸਤਕਾਂ ਦੇ ਉਪਦੇਸ਼ ਦਾ) ਭੇਤ ਪਾ ਲੈਂਦਾ ਹੈ ਤਦੋਂ (ਇਸ ਨੂੰ ਹਰ ਥਾਂ) ਪ੍ਰਭੂ ਹੀ ਦਿੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਂ = ਜਦੋਂ। ਸੋਈ = ਉਹ ਪ੍ਰਭੂ ਹੀ। ਸੂਝੈ = ਦਿੱਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇਹੜਾ ਹਉਮੈ ਦਾ) ਰੋਗ ਅਨੇਕਾਂ ਹੀਲਿਆਂ ਨਾਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵੀ = ਉਪਾਵਾਂ ਨਾਲ, ਹੀਲਿਆਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

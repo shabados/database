@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਦਾ) ਮਨ ਤੇਰੇ ਨਾਮ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

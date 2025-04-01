@@ -30,6 +30,12 @@ language = "pa"
 data = "ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਗਾਥਾ' (ਕਥਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਥਾ = ਇਕ ਪ੍ਰਾਚੀਨ ਪ੍ਰਾਕ੍ਰਿਤ ਭਾਸ਼ਾ ਜਿਸ ਵਿਚ ਸੰਸਕ੍ਰਿਤ ਪਾਲੀ ਅਤੇ ਹੋਰ ਬੋਲੀਆਂ ਦੇ ਸ਼ਬਦ ਲਿਖੇ ਹੋਏ ਮਿਲਦੇ ਹਨ। 'ਲਲਿਤ ਵਿਸਤਰ' ਆਦਿਕ ਬੋਧ ਧਰਮ-ਗ੍ਰੰਥ ਇਸੇ ਭਾਸ਼ਾ ਵਿਚ ਹਨ। ਗਾਥਾ = ਉਸਤਤ, ਸਿਫ਼ਤ-ਸਾਲਾਹ (गाथा = a religious verse. गै = to sing)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

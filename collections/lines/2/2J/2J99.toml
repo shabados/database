@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਵਿਗਾੜ ਦਾ) ਦੋਸ ਇਹ ਅੰਨ੍ਹਾ ਮਨੁੱਖ ਹੋਰਨਾਂ ਤੇ ਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਹ ਕਉ = ਹੋਰਨਾਂ ਨੂੰ, ਅਗਲਿਆਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਬੰਦੇ (ਹੀ) ਸੰਤ ਜਨਾਂ ਦੀ ਸਰਨ ਪੈਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਬੰਦੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

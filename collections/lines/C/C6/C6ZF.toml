@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬੀ ਹੁਸਨ ਨੂੰ ਉਸੇ ਤੋਂ ਹੀ ਨਿਖਾਰ ਅਤੇ ਖੇੜਾ ਆਉਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਰੋਗ਼ਿ ਜਮਾਲਿ ਹੱਕ ਆਮਦ ਅਜ਼ੋ ।੭੯।"
+page = 5
+line = 79
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

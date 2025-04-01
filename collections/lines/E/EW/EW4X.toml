@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਓਹੀ ਮਨੁੱਖ ਨਾਮ ਸਿਮਰਦਾ ਹੈ, ਜਿਸ ਦੇ ਮੱਥੇ ਤੇ ਭਾਗ ਹੋਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਤੇ। ਸਿਮਰਿ = ਸਿਮਰੇ, ਸਿਮਰਦਾ ਹੈ। ਪਰਾਣੀ = ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਤੂੰ ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਬਲ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਆਸਰਾ ਹੈਂ। ਮੈਂ ਤੇਰੇ ਅੱਗੇ ਹੀ ਅਰਜ਼ੋਈ ਕਰ ਸਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣੁ = ਬਲ। ਦੀਬਾਣੁ = ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

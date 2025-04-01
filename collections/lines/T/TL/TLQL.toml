@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਹੇ ਮਾਛਿੰਦ੍ਰ! ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਛਿੰਦ੍ਰਾ = ਹੇ ਮਾਛਿੰਦ੍ਰ ਜੋਗੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

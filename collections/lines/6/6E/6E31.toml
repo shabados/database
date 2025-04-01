@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉੱਤੇ (ਮਨੁੱਖ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਪਰਮਾਤਮਾ ਵਲੋਂ) ਲੇਖ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ। ਕੈ ਮਸਤਕਿ = ਦੇ ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

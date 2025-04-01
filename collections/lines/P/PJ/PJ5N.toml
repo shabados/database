@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਬੰਦੇ ਨੇ (ਉਸ ਪਰਮਾਤਮਾ) ਨੂੰ ਸੁਰਗ, ਮਾਤਲੋਕ, ਪਾਤਾਲ ਲੋਕ-ਹਰ ਥਾਂ ਵੇਖ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤਹ = ਜਿਥੇ ਕਿਥੇ। ਤਤਹ = ਉਥੇ। ਜਤ ਕਤਹ ਤਤਹ = ਹਰ ਥਾਂ। ਮਰਤ = (र्मत्त) ਮਾਤਲੋਕ, ਧਰਤੀ। ਪਯਾਲ = ਪਤਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

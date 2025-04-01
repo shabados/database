@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸਲਈ ਮੈਨੂੰ ਸਮਝ ਨਹੀਣ ਆਉਣਦੀ ਕਿ ਮੇਰ ਤੇਰ ਦਾ ਫ਼ਰਕ ਕੈਸਾ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਤੱਫ਼ਰਕਾਇ ਮਾ ਓ ਸ਼ੁਮਾ ਰਾ ਨਾ-ਸ਼ਨਾਸੇਮ ।੫੮।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮਾਹੀਗੀਰ ਮੱਛੀਆਂ ਵਲ ਤੱਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨਾ = ਮੱਛੀਆਂ। ਪਸੂਆਰਾ = {पशुहारिन्} ਮਾਹੀਗੀਰ, ਝੀਵਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

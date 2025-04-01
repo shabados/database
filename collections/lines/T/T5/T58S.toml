@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਟੇ-ਮੂੰਹ ਅਜੇਹੇ ਜੀਊਣ ਨੂੰ ਜਿਸ ਵਿਚ ਸਿਰਫ਼ ਖਾ ਖਾ ਕੇ ਹੀ ਢਿੱਡ ਵਧਾ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤਿ ਤੋਂ ਬਿਨਾ ਸਾਰੇ ਮਨੁੱਖ ਪਸ਼ੂਆਂ ਵਾਂਗ ਤੁਰੇ ਫਿਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਢੋਰ = ਡੰਗਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

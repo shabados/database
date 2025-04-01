@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਸ਼ਈ ਮਨੁੱਖ ਇਸੇ ਤਰ੍ਹਾਂ (ਵਿਕਾਰਾਂ ਵਿਚ) ਹੀ ਦਿਨ ਰਾਤ (ਆਪਣੀ ਉਮਰ) ਗੁਜ਼ਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਈ = ਵਿਸ਼ਈ ਵਿਕਾਰੀ ਮਨੁੱਖ। ਰੈਨਿ = ਰਾਤ। ਇਵ ਹੀ = ਇਸੇ ਤਰ੍ਹਾਂ (ਵਿਕਾਰਾਂ ਵਿਚ) ਹੀ। ਗੁਦਾਰੈ = ਗੁਜ਼ਾਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਨੇ ਤਾਂ ਸਿਰਫ਼ ਆਪਣਾ ਮੁੱਢ-ਕਦੀਮਾਂ ਦਾ ਸੁਭਾਉ ਹੀ ਚੇਤੇ ਰੱਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਰਿਆ = ਚੇਤੇ ਰੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

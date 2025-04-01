@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੇਵਾ ਰੱਬ ਦੀ ਬੰਦਗੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਿਦਮਤਿ ਸ਼ਾਣ ਬੰਦਗੀਇ ਹੱਕ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

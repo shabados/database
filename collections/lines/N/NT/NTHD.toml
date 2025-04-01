@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਣ ਦੋ ਮਸਤ ਅੱਖਾਣ ਤੋਣ ਕੋਈ ਬਚਾਏ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਦੇ ਚਸ਼ਮਿ ਮਸਤੋ ਸ਼ੈਦਾ ਅਲਗ਼ਿਆਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

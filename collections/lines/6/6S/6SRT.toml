@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ ਮਨ ਦੀ) ਖੋਟੀ ਮਤਿ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਖੋਟੀ ਮਤਿ। ਖੋਈਐ = ਦੂਰ ਕਰ ਲਈਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

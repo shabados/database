@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਕੋਈ ਕਥਨ ਕਰ ਵੇਖੇ ਤੇ ਵਿਚਾਰ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੈ = ਬਿਆਨ ਕਰੇ, ਕਥਨ ਕਰੇ। ਵੀਚਾਰੁ = ਕੁਦਰਤ ਦੇ ਲੇਖੇ ਦੀ ਵੀਚਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

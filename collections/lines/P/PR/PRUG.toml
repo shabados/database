@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੇ ਸੱਜਨ ਦੇ ਨਾਲ ਹੁੰਦਿਆਂ ਅਸੀਂ ਹੋਰ ਕਿਸੇ ਨੂੰ ਨਹੀਂ ਦੇਖਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਯਾਰ ਹਮਦਮੇਮ ਨ ਬੀਨੇਮ ਗ਼ੈਰ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

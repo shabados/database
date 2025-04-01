@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚੋਂ ਦੁਖ ਤੇ ਹਨੇਰਾ ਮਿਟ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਤੇ = ਹਿਰਦੇ-ਘਰ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

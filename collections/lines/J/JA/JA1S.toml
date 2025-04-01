@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਬਿਨਾਣ ਮੇਰੀ ਅੱਖ ਹਮੇਸ਼ਾ ਇਉਣ ਮੋਤੀ ਕੇਰਦੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਮ ਹਮੇਸ਼ਾ ਬੇ ਤੂ ਗੁਹਰ ਬਾਰ ਮੀ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

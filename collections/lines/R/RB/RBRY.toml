@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਬੇਅੰਤ ਪਾਰਬ੍ਰਹਮ ਹੈਂ। ਮੈਂ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਗਾ ਕੇ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਿ = ਆਖ ਕੇ। ਵਖਾਣਾ = ਮੈਂ ਬਿਆਨ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

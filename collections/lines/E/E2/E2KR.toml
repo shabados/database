@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਸਦਾ ਇਸ ਨਾਮ ਨੂੰ ਸਿਮਰਿਆ ਕਰ, ਤੈਨੂੰ ਕਦੇ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਆਵੇਗੀ ॥੧੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਾਧਿ = ਸਿਮਰਿਆ ਕਰ ॥੧੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ (ਨਿੰਦਿਆ ਦੀ) ਕਮਾਈ ਕਰ ਕੇ ਆਪ ਹੀ (ਉਸ ਦਾ ਮੰਦਾ ਫਲ) ਖਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜਿ = ਬੀਜ ਕੇ, ਕਮਾਈ ਕਰ ਕੇ। ਖਾਹਿ = ਖਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

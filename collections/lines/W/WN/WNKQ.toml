@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਜਿਸ ਪਾਸੇ ਵੇਖੀਏ, ਉਸ ਪਾਸੇ ਰੱਬ ਹਾਜ਼ਰ ਦਿੱਸਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਧਿਰਿ = ਜਿਸ ਪਾਸੇ। ਮਉਜੂਦੁ = ਹਾਜ਼ਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

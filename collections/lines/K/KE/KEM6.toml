@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਇਸ ਨੇ (ਹਰ ਥਾਂ) ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ ਵੱਸਦਾ ਸਮਝ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ ਏਕੀ = ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

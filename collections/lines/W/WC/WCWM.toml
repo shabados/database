@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਮੇਰੇ ਪੰਜੇ ਹੀ ਇੰਦ੍ਰਿਆਂ ਦੇ ਭਾਂਡੇ ਭੱਜ ਗਏ ਹਨ (ਭਾਵ, ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਉੱਤੇ ਇਸ ਮਾਇਆ ਦਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪੈਂਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟਵੇ = ਮਿੱਟੀ ਦੇ ਭਾਂਡੇ। ਫੂਟੇ = ਟੁੱਟ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਇਸ ਦਾ ਕੋਈ ਸਰੀਰ ਹੈ ਨਾਹ ਇਸ ਵਿਚ ਰਤਾ ਭਰ ਭੀ ਲਹੂ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿੰਡੁ = ਸਰੀਰ। ਰਕਤੂ = ਲਹੂ। ਰਾਤੀ = ਰਤਾ ਭਰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਲੋਕ ਸਮਾਧੀ ਲਾ ਕੇ ਕਰਤਾਰ ਨੂੰ ਧਿਆਉਂਦੇ ਹਨ ਅਤੇ 'ਅਲਖ, ਅਲਖ' ਉਸ ਦਾ ਨਾਮ ਉਚਾਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਨਿ = ਸੁੰਨ ਵਿਚ, ਅਫੁਰ ਅਵਸਥਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

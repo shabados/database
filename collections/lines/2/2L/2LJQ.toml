@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਂ!) ਮੈਂ ਦਿਨ ਰਾਤ ਉਹਨਾਂ ਦੀ ਸੇਵਾ ਦਾ ਸਾਧਨ ਕਰਦੀ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

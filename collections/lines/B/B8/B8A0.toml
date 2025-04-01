@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਹੋਰ ਪਦਾਰਥਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਲਭੁ = ਦੁਰਲੱਭ, ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਣ ਵਾਲਾ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

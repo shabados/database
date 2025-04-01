@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਣ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਮੱਥੇ ਉਤੇ ਭਾਗ ਨਹੀਂ ਖੁਲ੍ਹਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੱਥੇ ਉਤੇ। ਭਾਗੁ = ਚੰਗੀ ਕਿਸਮਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

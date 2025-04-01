@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਉੱਠ ਕੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ (ਇਤਨਾ ਹੀ ਨਹੀਂ) ਦਿਨ ਰਾਤ (ਹਰ ਵੇਲੇ) ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝਾਲਾਘੇ = ਸਵੇਰੇ, ਅੰਮ੍ਰਿਤ ਵੇਲੇ। ਉਠਿ = ਉਠ ਕੇ। ਨਿਸਿ = ਰਾਤ। ਬਾਸੁਰ = ਦਿਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

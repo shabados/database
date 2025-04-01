@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਕਿਰਪਾ ਕਰ ਕੇ (ਮਾਇਆ ਦੇ) ਇਹਨਾਂ ਬੰਧਨਾਂ ਤੋਂ ਛੁਡਾਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਰਮਾਤਮਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

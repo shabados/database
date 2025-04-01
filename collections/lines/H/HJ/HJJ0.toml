@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਨੂੰ ਨਿਸ਼ਚਾ ਹੋਵੇ ਉਸ) ਤੇਰੇ ਸੇਵਕ ਨੂੰ ਹੋਰ ਕਿਸ ਦੀ ਮੁਥਾਜੀ ਹੋ ਸਕਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਣਿ = ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

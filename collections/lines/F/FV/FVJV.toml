@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਮੈਂ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਵਾਂ, ਕੁਰਬਾਨ ਜਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ, ਤੋਂ। ਹਉ = ਮੈਂ। ਬਾਲ = ਬਲਿਹਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਭੱਠੀ ਵਿਚ ਲੋਹਾ ਪਾ ਕੇ (ਤੇ) ਗਾਲ ਕੇ (ਨਵੇਂ ਸਿਰੇ) ਘੜਿਆ ਜਾਂਦਾ ਹੈ (ਲੋਹੇ ਤੋਂ ਕੰਮ ਆਉਣ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ ਬਣਾਈਆਂ ਜਾਂਦੀਆਂ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਣਿ = ਭੱਠੀ ਵਿਚ। ਭੰਨਿ = ਭੰਨ ਕੇ, ਗਾਲ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

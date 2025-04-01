@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਨਹੀਂ ਉਚਾਰਦਾ, (ਨਿਰਾ) ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਖਿਲਾਰਾ ਹੀ (ਬਣਾਈ ਬੈਠਾ) ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ ਸਬਦੁ = ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ। ਪਸਾਰੀ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

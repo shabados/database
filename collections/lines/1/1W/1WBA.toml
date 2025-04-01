@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹਿਰਦਾ) ਸਦਾ ਬਹੁਤ ਬਹੁਤ (ਮਾਇਆ) ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ, ਪਰ ਭਾਗਾਂ ਤੋਂ ਬਿਨਾ ਕਿਥੋਂ ਪ੍ਰਾਪਤ ਕਰੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਣੋ = ਬਹੁਤ। ਸਦ = ਸਦਾ। ਲੋੜੈ = ਮੰਗਦਾ ਹੈ। ਬਿਨੁ ਲਹਣੇ = ਭਾਗਾਂ ਤੋਂ ਬਿਨਾ। ਕੈਠੇ = ਕਿਸ ਥਾਂ ਤੋਂ, ਕਿਥੋਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

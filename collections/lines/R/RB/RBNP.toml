@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਇਸ ਕਰ ਕੇ ਇਹ ਜਗਤ) ਕੂੜ-ਰੂਪ ਠੱਗ ਦਾ ਠੱਗਿਆ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਗਿ = ਠੱਗ ਨੇ, ਕੂੜ-ਰੂਪ ਠੱਗ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

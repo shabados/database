@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਹੇ ਮੂਰਖ ਮਨ! ਤੂੰ ਇੱਕ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਮੂੜ ਮਨਾ = ਹੇ ਮੂਰਖ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

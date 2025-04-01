@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੇ ਆਪਣੇ ਖਸਮ-ਪ੍ਰਭੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ ਹੈ, ਮੈਂ ਜਾ ਕੇ ਉਹਨਾਂ ਨੂੰ ਪੁੱਛਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨੀ = ਜਿਨ੍ਹਾਂ ਨੇ। ਕੰਤੁ = ਖਮਸ = ਪ੍ਰਭੂ। ਹਉ = ਮੈਂ। ਪੂਛਉ = ਪੂਛਉਂ, ਮੈਂ ਪੁੱਛਦਾ ਹਾਂ। ਜਾਏ = ਜਾਇ, ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

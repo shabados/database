@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੌਯਾ, ਮੈਣ ਤਾਣ ਪਿਆਰੇ ਦੀ ਨਸ਼ੀਲੀ ਤਕਣੀ ਨਾਲ ਹੀ ਮਸਤ ਹੋ ਗਿਆ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਜ਼ਿ ਚਸ਼ਮਿ ਯਾਰ ਕਿ ਮਖ਼ਮੂਰ ਗਸ਼ਤਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਵਰਤ, ਸੰਧਿਆ, ਸਰੀਰਕ ਪਵਿੱਤ੍ਰਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਧਿ = ਸੰਧਿਆ। ਸੋਚ ਚਾਰ = ਪਵਿਤ੍ਰਤਾ (ਸਰੀਰਕ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

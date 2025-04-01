@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਅਜੇਹਾ ਅਚਰਜ ਇਕ-ਰਸ ਰਾਗ (-ਰੂਪ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ) ਜਿਸ ਦਾ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮਾਦ = ਅਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

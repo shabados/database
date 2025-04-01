@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਵੇਣ ਕਿਧਰੇ ਸਵੇਰ ਦਾ ਸੂਰਜ ਕਾਲੇ ਬਦਲ ਹੇਠ ਲੁਕ ਗਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਿਨਹਾਣ ਚੂ ਜ਼ੇਰ ਅਬਰਿ ਸਿਆਹ ਆਫਤਾਬਿ ਸੁਬਹਾ ।੧੭।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

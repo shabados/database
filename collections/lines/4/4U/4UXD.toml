@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਪਰਮਾਤਮਾ ਨੂੰ) ਅੱਖ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਲਈ ਭੀ ਭੁੱਲਣਾ ਨਹੀਂ ਚਾਹੀਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

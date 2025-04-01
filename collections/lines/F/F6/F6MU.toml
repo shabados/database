@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਕਰਤਾਰ ਦੀ ਬੇਅੰਤ ਵਡਿਆਈ ਹੈ। ਕਿਤਨੀ ਕੁ ਬਿਆਨ ਕੀਤੀ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ। ਕੇਤਕ = ਕਿਤਨੀ ਕੁ? ਬਰਨ = ਬਿਆਨ ਕੀਤੀ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

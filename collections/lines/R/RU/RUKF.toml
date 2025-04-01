@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਆਪਣੇ ਕੰਨਾਂ ਵਿਚ ਕੁੰਡਲ ਪਾ ਲਵਾਂ, ਗਲ ਵਿਚ ਮੋਤੀਆਂ ਦੀ ਮਾਲਾ ਪਾ ਲਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਨੀ = ਕੰਨਾਂ ਵਿਚ। ਗਲਿ = ਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

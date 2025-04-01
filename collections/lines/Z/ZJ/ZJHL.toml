@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤ ਵਿਚ ਉਸ ਮਨੁੱਖ ਦਾ ਬਹਿਣ-ਖਲੋਣ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਉਹਾਰੁ = ਵਰਤਣ-ਵਿਹਾਰ, ਮੇਲ-ਜੋਲ, ਬਹਿਣ-ਖਲੋਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

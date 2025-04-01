@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੰਗਤ ਵਿਚ ਵੀ ਇਕਾਣਤ ਵਿਚ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਲਵਤਿ ਏਸ਼ਾਣ ਬਵਦ ਦਰ ਅੰਜੁਮਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

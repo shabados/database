@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਹ ਇਕ ਕਦਮ ਅਗਾਹਾਂ ਨੂੰ ਪੁੱਟਦਾ ਹੈ ਤਾਂ ਦਸ ਕਦਮ ਪਿਛਾਂਹ ਜਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਖ = ਕਦਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

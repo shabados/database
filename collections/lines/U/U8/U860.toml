@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਬਿਲਾਵਲੁ, ਘਰ ੧੩ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = ਪਟਹ ਤਾਲ {ਪਟਨ = ਢੋਲ} ਢੋਲ ਦੇ ਵੱਜਣ ਵਾਂਗ ਖੜਕਵਾਂ ਤਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

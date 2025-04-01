@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਉਜਾੜ ਘਰ ਕਿਵੇਂ ਆਬਾਦ ਹੋ ਸਕਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਖ਼ਾਨਾਇ ਵੀਰਾਣ ਬ-ਚਿਹ ਆਬਾਦ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

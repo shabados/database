@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਐਸੇ ਹਨ ਜੋ ਸਾਧੂਆਂ ਵਾਲਾ ਬਾਣਾ ਪਾ ਕੇ (ਪਿੰਡੇ ਉਤੇ) ਸੁਆਹ ਮਲ ਕੇ ਤੁਰੇ ਫਿਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਲਗਾਇ = ਲਾ ਕੇ। ਭੇਖ ਧਾਰੀ = ਸਾਧੂਆਂ ਵਾਲਾ ਪਹਿਰਾਵਾ ਵਰਤਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

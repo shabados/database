@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੁਰੋਂ ਆਪਣੇ ਹੁਕਮ ਵਿਚ ਹੀ ਕਈ ਜੀਵਾਂ ਨੂੰ ਲੇਖੇ ਵਿਚ ਬਖ਼ਸ਼ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੈ ਬਖਸਿ ਲਏ = ਲੇਖੇ ਵਿਚ ਬਖ਼ਸ਼ ਲੈਂਦਾ ਹੈ, ਲੇਖਾ ਨਹੀਂ ਪੁੱਛਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

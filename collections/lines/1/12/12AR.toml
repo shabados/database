@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਟੱਬਰ-ਟੋਰ (ਦਾ ਮੋਹ) ਸਭ ਫਾਹੀਆਂ (ਵਿਚ ਫਸਾਣ ਵਾਲਾ ਹੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਾਦਰ = ਹੇ ਭਾਈ! ਖਿਲਖਾਨਾ = ਟੱਬਰ = ਟੋਰ। ਹਮੂ = ਸਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

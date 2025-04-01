@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜੇ ਪ੍ਰਭੂ ਵਿੱਸਰੇ ਤਾਂ) ਦੁਨੀਆ ਦੀਆਂ ਸਾਰੀਆਂ ਵਡਿਆਈਆਂ ਸਾਰੇ ਖੋਟੇ ਮਿੱਤਰ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਮਿਤ = ਖੋਟੇ ਮਿੱਤਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

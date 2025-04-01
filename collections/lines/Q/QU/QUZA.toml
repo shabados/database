@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਮੈਂ (ਤਾਂ ਸਦਾ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਲਗਨ ਲਾਈ ਰੱਖਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਰਹਉ = ਰਹਉਂ, ਮੈਂ ਰਹਿੰਦਾ ਹਾਂ। ਲਿਵ = ਸੁਰਤ। ਰਹਉ ਲਾਈ = ਰਹਉ ਲਾਇ, ਲਾਇ ਰਹਉ, ਮੈਂ ਲਾਈ ਰੱਖਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੱਚੇ ਸਾਹਿਬ! ਤੇਰੀ ਵਡਿਆਈ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇਆ = ਨਾਈ, ਵਡਿਆਈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

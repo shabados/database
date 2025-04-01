@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਾਸ਼ ਤੂੰ ਗੋਯਾ ਦਾ ਹਾਲ ਪਲ ਭਰ ਲਈ ਪੁਛਦੋਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਬਿ-ਪੁਰਸੀ ਹਾਲਿ ਗੋਯਾ ਯੱਕ ਨਫ਼ਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

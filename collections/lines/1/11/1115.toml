@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗ਼ਰੀਬ ਚਮਿਆਰ (ਸਰੀਰ-ਜੁੱਤੀ ਨੂੰ) ਗੰਢਣਾ ਨਹੀਂ ਜਾਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਮਰਟਾ = ਗ਼ਰੀਬ ਚਮਿਆਰ। ਗਾਂਠਿ ਨ ਜਨਈ = ਗੰਢਣਾ ਨਹੀਂ ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਰੋੜਾਂ (ਐਸੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ) ਮਾਇਆ ਦਾ ਫ਼ਿਕਰ ਲੱਗਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤ = ਚਿੰਤਾ, ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

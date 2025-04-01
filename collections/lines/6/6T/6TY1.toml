@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੂੰ ਹੀ ਜੀਵਾਂ ਦੇ ਅੰਦਰ) ਹਉਮੈ ਅਹੰਕਾਰ ਪੈਦਾ ਕਰ ਕੇ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਲੋਭ (ਭੀ) ਪਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੁ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਹਣ-ਮਾਤ੍ਰ ਜੇ ਕੋਈ ਪੁੱਛੇ ਕਿ) ਅਫੁਰ ਅਵਸਥਾ ਵਿਚ ਜੁੜੇ ਹੋਏ ਬੰਦੇ ਕਿਹੋ ਜਿਹੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਨਿ = ਅਫੁਰ ਅਵਸਥਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

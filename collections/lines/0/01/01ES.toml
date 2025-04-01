@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਿਕਾਰਾਂ ਦੀ ਦਾਸੀ (ਹੋ ਚੁਕੀ ਜੀਵ-ਇਸਤ੍ਰੀ)!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿੰਕਰੀ = ਦਾਸੀ {ਕਿੰਕਰ = ਦਾਸ}। ਕਿੰਕਰੀ ਬਿਕਾਰ = ਹੇ ਵਿਕਾਰਾਂ ਦੀ ਦਾਸੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

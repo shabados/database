@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਦਿਲ# ਜਦ ਤੂੰ ਰੱਬ ਦੇ ਭੇਤਾਣ ਤੋਣ ਵਾਕਿਫ ਹੋ ਗਿਆ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਦਿਲ ਚੂ ਸ਼ੁਦੀ ਵਾਕਿਫ਼ਿ ਅਸਰਾਰਿ ਇਲਾਹੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਚਾਹੁੰਦਾ ਹੈਂ, ਕਿ ਰੱਬੀ ਗਿਆਨ ਦਾ ਮਾਲਕ ਹੋ ਜਾਵੇਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਤੂ ਖ਼ਾਹੀ ਸਾਹਿਬਿ ਇਰਫ਼ਾਂ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

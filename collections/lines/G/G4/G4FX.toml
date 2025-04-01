@@ -42,6 +42,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਜੀਵ ਵੇਦਾਂ ਅਤੇ ਹੋਰ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ ਮੂੰਹ ਨਾਲ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਗਰੰਥ ਵੇਦ ਪਾਠ = ਵੇਦਾਂ ਅਤੇ ਹੋਰ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਦੇ ਪਾਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਦੋਸਤ # ਉਹ ਰੱਬ ਦੇ ਪਿਆਰਿਆਣ ਵਿਚ ਸ਼ਾਮਲ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਹਮ ਅਜ਼ ਮਰਦਾਨਿ ਹੱਕ ਸ਼ੁਦ ਐ ਸ਼ਫ਼ੀਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

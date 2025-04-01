@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੀ ਦੁਨੀਆ ਦੀ ਦੌਲਤ ਉਸ ਦੇ ਦਰ ਦੀ ਖ਼ਾਕ ਤੋਣ ਵਾਰ ਸੁੱਟਾਣ, ਇਹ ਇੱਕ ਐਸੀ ਚੀਜ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਮਾਮ ਦੌਲਤਿ ਗੀਤੀ ਫ਼ਿਦਾਇ ਖ਼ਾਕਿ ਦਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

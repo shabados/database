@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਾਲੀ ਵਿਛੋੜੇ ਨੇ ਤੇਰੇ ਮਿਲਾਪ ਨੂੰ ਨਹੀਣ ਛੋਹਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਨੂਜ਼ ਹਿਜਰ ਨਿਆਲੂਦਾ ਬੂਦ ਵਸਲਿ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

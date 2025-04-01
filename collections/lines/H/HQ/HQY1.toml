@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਨਾਮ ਦੇ ਟਾਕਰੇ ਤੇ ਹੋਰ) ਸਾਰੇ ਦਾਰੂ ਸਾਰੇ ਮੰਤਰ ਤੇ ਟੂਣੇ ਤੁੱਛ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖਧ = ਦਵਾਈਆਂ। ਤੰਤ = ਟੂਣੇ। ਸਭਿ = ਸਾਰੇ। ਛਾਰੁ = ਸੁਆਹ, ਤੁੱਛ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

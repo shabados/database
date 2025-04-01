@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨਮੁਖ ਮਨੁੱਖ ਮੂਰਖ ਹੈ, ਨਾਮ ਤੋਂ ਸੱਖਣਾ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧੁ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

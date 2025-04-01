@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਭਾਈ! ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਆਤਮਕ ਖ਼ੁਸ਼ੀਆਂ ਪ੍ਰਾਪਤ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਿਜ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ (ਟਿਕ ਕੇ)। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

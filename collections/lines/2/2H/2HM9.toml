@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ਬਾਗ਼ੀਆਂ ਅਤੇ ਸਿਰਫਿਰਿਆਂ ਦਾ ਸਿਰ ਕਲਮ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰਦਨ-ਜ਼ਨਿ ਸਰਕਸ਼ਾਂ ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ।"
+page = 7
+line = 91
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

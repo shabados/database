@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਭਾਈ! ਤੂੰ (ਸਦਾ) ਉਸ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ ॥੩॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੇ = ਉਸ (ਪ੍ਰਭੂ) ਦੇ ॥੩॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਉਸ ਦੀ ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਬੀਤ ਜਾਂਦੀ ਹੈ ਤਦੋਂ ਉਹ ਆਪਣੇ ਹੱਥ ਮਲਦੀ ਹੈ, ਸਿਰ ਮਾਰਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥ ਪਛੋੜੈ = ਹੱਥ ਮਲਦੀ ਹੈ। ਸਿਰੁ ਧੁਣੈ = ਸਿਰ ਮਾਰਦੀ ਹੈ। ਰੈਣਿ = ਰਾਤ। ਵਿਹਾਣੀ = ਬੀਤ ਜਾਂਦੀ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

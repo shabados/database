@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਧਰਤੀ ਦੇ ਰੱਖਿਅਕ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਨਿਧੇ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਗੋਪਾਲ = ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

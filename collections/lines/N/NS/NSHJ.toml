@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗ ਦੇ ਸਾਧਨ ਕਰੇ, ਕਰਮ ਕਾਂਡੀ ਧਰਮ ਦੀ ਕ੍ਰਿਆ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ ਧ੍ਰਮ ਕਿਰਿਆ = ਕਰਮ-ਕਾਂਡ ਦੇ ਧਰਮ ਦੇ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

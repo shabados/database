@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖ ਦੇ ਫੋਰ ਵਿਚ ਚਹੁੰ ਕੂਟਾਂ ਵਿਚ ਭੱਜ ਦੌੜ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = ਅੱਖ ਦੇ ਫਰਕਣ ਜਿਤਨਾ ਸਮਾ। ਕੁੰਟ = ਕੂਟ {Skt. कूट = end, corner} ਨੁੱਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

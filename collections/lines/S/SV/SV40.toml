@@ -36,6 +36,12 @@ language = "pa"
 data = "ਔਗੁਣਾਂ-ਭਰੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਚੰਗੀ ਨਹੀਂ ਲੱਗਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਤ ਨ ਭਾਵੈ = ਕੰਤ ਨੂੰ ਪਸੰਦ ਨਹੀਂ ਆਉਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

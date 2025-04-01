@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ, ਅਹੰਕਾਰ-ਇਹ) ਪੰਜ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਚੌਧਰੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੀ। ਸਿਕਦਾਰ = ਸਰਦਾਰ, ਚੌਧਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

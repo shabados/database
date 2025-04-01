@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਤੇਰੇ ਦਰ ਤੇ) ਕਿਵੇਂ ਬੇਨਤੀ ਕਰਾਂ? ਮੈਨੂੰ ਤਾਂ ਬੇਨਤੀ ਕਰਨੀ ਭੀ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਕਰਿ = ਕਿਵੇਂ? ਕਰਉ = ਮੈਂ ਕਰਾਂ। ਹਉ = ਮੈਂ। ਆਖਿ ਨਾ ਜਾਣਾ = ਮੈਂ ਆਖਣੀ ਜਾਣਦਾ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

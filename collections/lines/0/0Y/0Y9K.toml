@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਅਸੀਂ ਜੀਵ ਨੀਚ ਹਾਂ, ਅਸੀਂ ਮੂਰਖ ਹਾਂ, ਅਸੀਂ ਪਾਪਾਂ ਦੇ ਭਾਰ ਨਾਲ ਦੱਬੇ ਪਏ ਹਾਂ। ਹੇ ਹਰੀ! ਮਿਹਰ ਕਰ, ਸਾਨੂੰ ਮਿਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢੀਂਢ = ਨੀਚ। ਢੀਮ = ਮਿੱਟੀ ਦਾ ਢੇਲਾ। ਮਿਲਛੇ = ਮਿਲ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

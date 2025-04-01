@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਇਸ ਸਰੀਰ ਨੂੰ (ਸਾਧਨ ਦੀ ਖ਼ਾਤਰ) ਕਈ ਜਤਨ ਭੀ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ ਕਉ = ਸਰੀਰ ਦੀ ਖ਼ਾਤਰ। ਸਾਧਨਾ = ਉੱਦਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

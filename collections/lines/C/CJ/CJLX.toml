@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਆਪ ਬੜੀਆਂ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮ੍ਰਥੁ = ਸਮਰਥਾ ਵਾਲਾ, ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

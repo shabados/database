@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਹਰ ਖ਼ਜ਼ਾਨੇ ਦਾ ਖ਼ਜ਼ਾਨਚੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਜ਼ਨਿ ਹਰ ਗੰਜ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 116
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

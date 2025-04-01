@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੋ ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਦਿਲਾਂ ਵਿਚ ਹੁੰਦਾ ਹੈ, ਉਸ ਨੂੰ ਦੱਸਣ ਤੋਂ ਬਿਨਾ ਤੂੰ ਆਪ ਹੀ (ਪਹਿਲਾਂ ਹੀ) ਪਛਾਣ ਲੈਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਬੋਲੇ = ਨਾਹ ਬੋਲੇ ਹੋਏ ਬੋਲ ਨੂੰ। ਜੀਅਨ = ਦਿਲਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

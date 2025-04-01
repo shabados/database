@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਤੈਨੂੰ ਜੀਊਣ ਦੇ ਅਰਥਾਣ ਦਾ ਪਤਾ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੀਸਤਨ ਰਾ ਮਾਅਨੀ ਦਾਨੀ ਕਿਹ ਚੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

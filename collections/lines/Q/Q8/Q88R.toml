@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਸਿੰਮ੍ਰਿਤੀ ਨੇ) ਆਪਣੇ ਸਾਰੇ ਸ਼ਰਧਾਲੂ ਆਪ ਹੀ ਜਕੜੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਨ ਨਗਰੁ = ਆਪਣਾ ਸ਼ਹਿਰ, ਆਪਣੇ ਸ਼ਰਧਾਲੂਆਂ ਦੀ ਵਸਤੀ, ਆਪਣੇ ਸਾਰੇ ਸ਼ਰਧਾਲੂ। ਆਪ ਤੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

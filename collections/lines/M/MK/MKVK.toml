@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਪਾਸੇ ਮਾਇਆ ਦਾ ਖਿਲਾਰਾ ਵੇਖ ਕੇ ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਮਸਤ ਹੋ ਰਿਹਾ ਹੈਂ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ ਉਤ = ਇਧਰ ਉਧਰ, ਹਰ ਪਾਸੇ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

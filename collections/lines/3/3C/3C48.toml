@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮਦੇਵ, ਜੈਦੇਓ, ਕਬੀਰ, ਤ੍ਰਿਲੋਚਨ, ਨੀਵੀਂ ਜਾਤਿ ਵਾਲਾ ਰਵਿਦਾਸ ਚਮਾਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੳਜਾਤਿ = ਨੀਵੀਂ ਜਾਤਿ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

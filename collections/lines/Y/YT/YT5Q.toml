@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਵੇਖੀਂ, (ਮਾਇਆ ਦੀ) ਭੱਜ-ਦੌੜ ਵਿਚ ਪੈ ਕੇ ਕਿਤੇ ਕੁਰਾਹੇ ਨਾਹ ਪੈ ਜਾਈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤੁ = ਮਤਾਂ। ਭਰਮਿ = (ਮਾਇਆ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ। ਮਤੁ ਭੂਲਹੁ = ਮਤਾਂ ਕੁਰਾਹੇ ਪੈ ਜਾਓ, ਕੁਰਾਹੇ ਨਾਹ ਪੈ ਜਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਸਾਰ ਲੈਣ ਵਾਲੇ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਜਿਸ ਦੇ ਅੰਦਰ ਪਰਖ ਕਰਨ ਦੀ ਤਾਕਤ ਸਦਾ ਕਾਇਮ ਹੈ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨਾ। ਬਿਬੇਕ = ਪਰਖ ਦੀ ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

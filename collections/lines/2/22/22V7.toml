@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਪਾਣੀ ਨਾਲ ਧੋਤਿਆਂ ਉਹ ਮੈਲ ਉਤਰ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਣੀ ਧੋਤੈ = ਪਾਣੀ ਨਾਲ ਧੋਤਿਆਂ। ਉਤਰਸੁ = ਉਤਰ ਜਾਂਦੀ ਹੈ। ਖੇਹ = ਮਿੱਟੀ, ਧੂੜ, ਮੈਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸਾਡਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ, ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਸਾਹਿਬੁ = ਮਾਲਕ। ਭਰਪੁਰਿ = ਭਰਪੂਰ, ਹਰ ਥਾਂ ਮੌਜੂਦ। ਲੀਨ = ਵਿਆਪਕ ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

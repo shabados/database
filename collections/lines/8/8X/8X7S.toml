@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਰੇ ਦੇਸਾਂ ਵਿਚ ਸਾਰੇ ਭਵਨਾਂ ਵਿਚ ਤੇ ਪਾਤਾਲਾਂ ਵਿਚ ਵੱਸਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪ = ਦੀਪਾਂ ਵਿਚ, ਦੇਸਾਂ ਵਿਚ। ਲੋਅ = (ਚੌਦਾਂ) ਲੋਕਾਂ ਵਿਚ। ਥਾਨਿ = ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

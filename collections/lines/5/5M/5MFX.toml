@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਸਦਾ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, ਪ੍ਰਭੂ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਧਿਆਇ = ਧਿਆਨ ਧਰਿਆ ਕਰ। ਨਿਤ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

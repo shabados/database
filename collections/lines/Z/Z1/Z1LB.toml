@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ ਜੀ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ (ਮੈਨੂੰ ਸਾਧ-) ਸੰਗਤ ਵਿਚ ਮਿਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਲਿ = ਮਿਲਾ। ਕ੍ਰਿਪਛੇ = ਕਿਰਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਦੁਨੀਆ ਦੇ) ਹੋਰ ਹੋਰ (ਪਦਾਰਥਾਂ ਦੇ) ਸੁਆਦਾਂ ਨਾਲ ਨਹੀਂ ਚੰਬੜਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = ਹੋਰ ਹੋਰ {अन्य}। ਲਪਟਾਇਓ = ਚੰਬੜਦਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

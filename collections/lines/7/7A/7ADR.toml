@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਸੰਗਣ ਭੈਣੋ ਤੇ ਸਹੇਲੀਹੋ! ਆਓ, ਪਿਆਰ ਨਾਲ (ਸਤ-ਸੰਗ ਵਿਚ) ਇਕੱਠੀਆਂ ਹੋਵੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਿ = ਗਲ ਨਾਲ। ਅੰਕਿ = ਅੰਕ ਵਿਚ, ਜੱਫੀ ਵਿਚ। ਭੈਣੇ ਸਹੇਲੜੀਆਹ = ਹੇ ਭੈਣੋ! ਹੇ ਸਹੇਲੀਹੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

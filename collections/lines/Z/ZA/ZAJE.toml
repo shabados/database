@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮੂਰਖ ਨਾਲ (ਆਪਣੇ ਦੁੱਖ-ਦਰਦ ਦੀ) ਕੋਈ ਗੱਲ ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਨਾਲ। ਅਜਾਣ = ਅੰਞਾਣ, ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਅਸੀਂ ਜੀਵ ਪਾਪੀ ਹਾਂ, ਵਲ-ਛਲ ਕਰਨ ਵਾਲੇ ਹਾਂ, ਦੂਜਿਆਂ ਨਾਲ ਦਗ਼ਾ-ਫ਼ਰੇਬ ਕਰਨ ਵਾਲੇ ਹਾਂ, ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਠੱਗੀਆਂ ਕਰਨ ਵਾਲੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਵੰਚੀਆ = ਵਲ-ਛਲ ਕਰਨ ਵਾਲੇ। ਪਰਦ੍ਰੋਹੀ = ਦੂਜਿਆਂ ਨਾਲ ਦਗ਼ਾ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

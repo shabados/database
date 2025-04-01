@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਵੇਦ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਦੇ ਉਪਦੇਸ਼) ਨੂੰ (ਆਪਣੇ) ਮਨ ਵਿਚ ਵਸਾਈ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ! ਬੀਚਾਰਿ = ਸੋਚ = ਮੰਡਲ ਵਿਚ ਟਿਕਾਈ ਰੱਖ, ਮਨ ਵਿਚ ਵਸਾਈ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

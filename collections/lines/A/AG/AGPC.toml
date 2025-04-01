@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਘਰ ਬੈਠ ਕੇ) ਮਾਲਾ ਫੇਰਦਾ ਹੈ, (ਫਿਰ ਉਸ ਧਨਾਢ ਪਾਸੋਂ) ਧਨ-ਪਦਾਰਥ ਮੰਗਦਾ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਭੂਤ = ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

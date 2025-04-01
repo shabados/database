@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ) ਸੁਣਦਿਆਂ, ਉੱਚਾਰਦਿਆਂ ਤੇ ਨਿਰਮਲ ਰਹਿਣੀ ਰਹਿੰਦਿਆਂ ਉੱਚੀ ਅਵਸਥਾ ਬਣ ਜਾਏਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਤ = ਸੁਣਦਿਆਂ। ਰਹਤ = ਰਹਿੰਦਿਆਂ, ਭਾਵ ਉੱਤਮ ਜ਼ਿੰਦਗੀ ਬਣਾ ਕੇ। ਗਤਿ = ਉੱਚੀ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

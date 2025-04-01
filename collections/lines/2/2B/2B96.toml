@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆ ਮੇਰੇ ਜਾਨੀ # ਕਿ ਮੇਰੀ ਦਰਦ-ਭਰੀ ਜਾਨ ਤੈਥੋਣ ਕੁਰਬਾਨ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਆ ਜਾਨਾਣ ਕਿ ਕੁਰਬਾਨਿ ਤੂ ਜਾਨਿ ਦਰਦ-ਮੰਦ ਮਨ ।੬੦।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

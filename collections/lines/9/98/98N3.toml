@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਹੜੇ ਮਨੁੱਖ ਕਾਮਾਦਿਕ) ਪੰਜਾਂ ਦੇ ਵੱਸ ਵਿਚ (ਰਹਿ ਕੇ) ਪਾਪ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਕਰਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)। ਬਾਸਿ = ਵੱਸ ਵਿਚ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

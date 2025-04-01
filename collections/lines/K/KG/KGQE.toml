@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਪਾਂ ਤੇ ਮੰਦੇ ਕਰਮਾਂ ਦੇ ਵਿਅਰਥ ਤੇ ਬੋਝਲ ਭਾਰ ਨਾਲ ਲੱਦੇ ਹੋਏ ਜੀਵਾਂ ਲਈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੂਰ = ਸੜਿਆ ਹੋਇਆ ਲੋਹਾ (ਭਾਵ, ਵਿਅਰਥ ਭਾਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

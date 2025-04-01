@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਸੋਰਠਿ, ਘਰ ੨ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਦੋ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਪਦੇ = ਦੋ ਪਦਾਂ ਵਾਲੇ, ਦੋ ਬੰਦਾਂ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! ਗੁਰੂ ਮੇਰਾ (ਅਜੇਹਾ) ਮਿਤ੍ਰ ਹੈ (ਜਿਵੇਂ) ਬਚਪਨ ਦਾ ਸਾਥੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲ ਸਖਾਈ = ਬਾਲ-ਉਮਰ ਦਾ ਸਾਥੀ, ਬਚਪਨ ਦਾ ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

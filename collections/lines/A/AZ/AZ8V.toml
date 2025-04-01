@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਸੂਝ, ਨਾਹ ਬੁੱਧੀ, ਨਾਹ ਅਕਲ ਦੀ ਸਾਰ, ਤੇ ਇਕ ਅੱਖਰ ਭੀ ਪੜ੍ਹਨਾ ਨਹੀਂ ਜਾਣਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਧਿ = ਸੂਝ। ਬੁਧਿ = ਅਕਲ। ਸਰ = ਸਾਰ, ਸਮਝ। ਭੇਉ = ਭੇਤ। ਅਖਰ ਕਾ ਭੇਉ = ਪੜ੍ਹਨ ਦੀ ਜਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

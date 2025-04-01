@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰਾ ਮਜ਼ਲੂਮ ਦਿਲ ਰੱਬ ਵਲ ਆਸ ਲਾਈ ਬੈਠਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਮਜ਼ਲੂਮਿ ਮਨ ਬਸੂਇ ਖ਼ੁਦਾ ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਪਵਣ' ਕਿੱਡੀ ਕੁ ਦੱਸੀਏ, ਪਾਣੀ ਦੇ ਵਿਸਤਾਰ ਨੂੰ ਤੋਲਕੇ (ਕਿੰਨਾ ਕੁ ਵਜ਼ਨ) ਆਖੀਏ?"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਵਿਥਾਰਾ=ਵਿਸਤਾਰ।"

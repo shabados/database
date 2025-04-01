@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਸੱਦੀ ਹੋਈਏ! ਢਿੱਲ ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਲਿ = ਮਹਲ ਵਿਚ, ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ। ਬੁਲਾਇੜੀਏ = ਹੇ ਸੱਦੀਏ ਹੋਈਏ! ਬਿਲਮੁ = {विलम्ब} ਦੇਰ, ਢਿੱਲ। ਨ ਕੀਜੈ = ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

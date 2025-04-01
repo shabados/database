@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਤਾ = ਪਛਾਣਿਆ, ਸਾਂਝ ਪਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

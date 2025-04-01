@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਔਖੇ ਥਾਂ ਤੋਂ ਬਚਾਇਆ, ਉਸ ਨੂੰ ਰਤਾ ਭੀ ਨਾਹ ਭੁਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਮ = ਔਖਾ। ਥਾਨਹੁ = ਥਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

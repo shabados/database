@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੈ ਦਰਦਾਣ ਦੀ ਦਵਾ ਵੀ ਪੈਦਾ ਨਹੀਣ ਹੋ ਸਕਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਮਾਨਿ ਦਰਦਿ ਮਾਸਤ ਕਿ ਪੈਦਾ ਨਮੀ ਸ਼ਵਦ ।੨੪।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

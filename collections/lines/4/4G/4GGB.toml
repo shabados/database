@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਸਾਰਾ) ਸੰਸਾਰ ਮੈਲਾ ਹੈ, ਮਲੀਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲਤਾ = ਮਲੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

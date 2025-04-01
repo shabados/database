@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਦੇਹ ਤਾਂ ਜੁ ਮੈਨੂੰ ਸੰਤੋਖ ਆ ਜਾਏ ਤੇ ਮੇਰੇ ਮਨ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤੋਖੀਆ = ਮੈਨੂੰ ਸੰਤੋਖ ਆ ਜਾਏ। ਭੁਖ = ਤ੍ਰਿਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

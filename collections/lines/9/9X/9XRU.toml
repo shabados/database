@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਗਤ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ, ਮਾਇਆ ਦੀ ਭੁੱਖ ਤੇ ਸੜਨ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਖਾ = ਮਾਇਆ ਦੀ ਤ੍ਰੇਹ। ਤਪਤਿ = ਤਪਸ਼, ਸੜਨ, ਖਿੱਝ। ਵਿਆਪਿਆ = ਫਸਿਆ ਹੋਇਆ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਿਗੁਰੂ) ਸਾਰੇ ਖ਼ਜ਼ਾਨਿਆਂ ਦਾ ਤੇ ਆਤਮਕ ਜ਼ਿੰਦਗੀ ਦਾ ਦੇਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ। ਜੀਅ = ਜਿੰਦ, ਆਤਮਕ ਜੀਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

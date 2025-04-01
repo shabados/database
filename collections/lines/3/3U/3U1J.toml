@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਤੀਆਂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਧਿਆਨ ਧਰਿਆ, ਸਤੀਆਂ ਨੇ ਸੰਤੋਖੀਆਂ ਨੇ ਧਿਆਨ ਧਰਿਆ, ਇੰਦ੍ਰ ਆਦਿਕ ਦੇਵਤਿਆਂ ਨੇ ਮੂੰਹੋਂ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹੋਂ। ਇੰਦ੍ਰਾਦਿਕ = ਇੰਦ੍ਰ ਆਦਿਕਾਂ ਨੇ। ਰਵਿਆ = ਜਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

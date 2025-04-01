@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮਿਹਰ ਕਰ ਕੇ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਨਾਲ ਜੋੜਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਸੰਗਿ = ਉਸ (ਪਰਮਾਤਮਾ) ਦੇ ਨਾਲ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

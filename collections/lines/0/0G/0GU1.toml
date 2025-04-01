@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਪ੍ਰੇਮ ਦੇ ਬੱਝੇ) ਭੰਬਟ ਦੀਵੇ ਉਤੇ ਡਿੱਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪ = ਦੀਵਾ। ਪਤਨ = ਡਿੱਗਣਾ {पत् = to fall}। ਪਤੰਗ = ਭੰਬਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਕਿ ਸ਼ੌਕ ਦੇ ਕਾਰਣ ਦਿਲ ਭਟਕਦਾ ਪਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੀਣ ਸਬੱਬ ਕਿ ਦਿਲ ਅਜ਼ ਸ਼ੌਕ ਬੇ-ਕਰਾਰ ਆਮਦ ।੧੯।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਦੂਜਿਆਂ ਨਾਲ ਭਲਾਈ ਕਰਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਕਾਰ = ਭਲਾਈ, ਨੇਕੀ। ਉਪਕਾਰੀ = ਭਲਾਈ ਕਰਨ ਵਾਲਾ। ਪਰਉਪਕਾਰੀ = ਦੂਜਿਆਂ ਨਾਲ ਭਲਾਈ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

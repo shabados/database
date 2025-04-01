@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖਾਂ ਨਾਲ ਗੁਰੂ ਨੂੰ ਵੇਖਣਾ, ਕੰਨਾਂ ਨਾਲ ਗੁਰੂ ਦਾ ਨਾਮ ਸੁਣਨਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਣੀ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

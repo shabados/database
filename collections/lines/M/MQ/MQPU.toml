@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਚੌਧਵੀਣ ਦਾ ਚੰਨ ਮੁਖੜਾ ਦਿਖਾ ਦੇਵੇਣ ਤਾਣ ਕੀ ਹਰਜ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਮਾਹਿ ਦੋ ਹਫ਼ਤਾ ਰੂ ਨਮਾਈ ਚਿ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

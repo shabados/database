@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਮਨ! ਜਦੋਂ ਤੂੰ ਅਹੰਕਾਰ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੀ (ਇਥੋਂ) ਤੁਰੇਂਗਾ ਤਾਂ ਤੁਰਨ ਵੇਲੇ ਹੱਥ ਮਲੇਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ। ਪਛੁਤਾਵਹੇ = ਪਛੁਤਾਵਹਿ, ਪਛੁਤਾਹਿਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

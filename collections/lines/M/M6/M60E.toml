@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਬੰਦੇ ਤੇਰੇ ਨਾਮ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ ਲਿਵ ਲਾਈ ਰੱਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ ਨਾਮਿ = ਤੇਰੇ ਨਾਮ ਵਿਚ। ਨਿਵੇ = ਨਿਵੇਂ ਹੋਏ, ਨਿਮ੍ਰਤਾ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

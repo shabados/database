@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਨੂੰ ਛੱਡ ਕੇ ਹੋਰ ਪਾਸੇ ਲੱਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ = ਹੋਰ ਵਿਚ, ਮਾਇਆ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

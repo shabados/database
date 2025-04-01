@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਤੂੰ ਜਿਗਰੇ ਵਾਲਾ ਹੈਂ, ਧੀਰਜ ਵਾਲਾ ਹੈਂ, ਉਪਕਾਰ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਅਸਾਂ ਨਿਮਾਣੇ ਜੀਵਾਂ ਦੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੀਰ = ਧੀਰਜ ਵਾਲੇ। ਬਪੁਰੇ = ਨਿਮਾਣੇ, ਵਿਚਾਰੇ। ਜੰਤਰੀਆ = ਜੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

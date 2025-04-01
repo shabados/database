@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅਦ੍ਰਿਸ਼ਟ ਹੈਂ (ਆਪਣੇ ਅਦ੍ਰਿਸ਼ਟ ਰੂਪ ਤੋਂ) ਦਿੱਸਦਾ ਜਗਤ ਬਣਿਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਖਮੁ = {सुक्ष्म subtle, minute} ਅਦ੍ਰਿਸ਼ਟ। ਅਸਥੂਲ {स्थुल = gross, coarse} ਦ੍ਰਿਸ਼ਟਮਾਨ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

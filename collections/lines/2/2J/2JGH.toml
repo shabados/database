@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਬੇਸ਼ੱਕ ਮੇਰੀ ਨਿੰਦਾ ਕਰੇ, ਬੇਸ਼ੱਕ ਮੇਰੇ ਔਗੁਣ ਭੰਡੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿੰਦਉ = {ਹੁਕਮੀ ਭਵਿੱਖਤ, Imperative mood, ਅੱਨ ਪੁਰਖ, ਇਕ-ਵਚਨ}। ਲੋਗੁ ਨਿੰਦਉ = ਬੇਸ਼ੱਕ ਜਗਤ ਨਿੰਦਿਆ ਕਰੇ। ਮੋ ਕਉ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

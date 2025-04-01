@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਸੇਵਕ ਦਾ ਇਕ ਗੁਣ ਬਿਆਨ ਕਰਨਾ ਭੀ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ ਨ ਜਾਨਉ = ਆਖਣਾ ਨਹੀਂ ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

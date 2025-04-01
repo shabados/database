@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜਿਹੜਾ) ਪੂਰਨ ਪ੍ਰਭੂ ਬਖ਼ਸ਼ਣਹਾਰ ਹੈ ॥੪॥੩੮॥੪੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸਿੰਦ = ਬਖ਼ਸ਼ਸ਼ਾਂ ਕਰਨ ਵਾਲਾ ॥੪॥੩੮॥੪੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

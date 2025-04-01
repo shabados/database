@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਸਾਨੂੰ ਰੱਬ ਦੀ ਯਾਦ ਤੋਣ ਉਸ ਦੀ ਸੋ ਮਿਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਖ਼ਬਰ ਅਜ਼ ਯਾਦਿ ਖ਼ੁਦਾ ਯਾਫ਼ਤਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

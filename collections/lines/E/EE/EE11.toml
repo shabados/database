@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਤੇਰਾ ਨਾਮ ਸੁਣਿਆ ਹੈ (ਜੋ ਸਦਾ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਦਾ ਹੈ), ਮੈਂ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਤੂੰ = ਤੈਨੂੰ, ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ, ਤੇਰਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

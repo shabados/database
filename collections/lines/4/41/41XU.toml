@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਜ਼ੀ! ਤੇਰੀਆਂ (ਜ਼ਬਾਨੀ) ਗੱਲਾਂ ਫਬਦੀਆਂ ਨਹੀਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਜੀ = ਹੇ ਕਾਜ਼ੀ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

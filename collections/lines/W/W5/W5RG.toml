@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁੱਠਾ ਸਿਰ ਭਾਰ ਰਹਿ ਕੇ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਅਨੁਸਾਰ ਹੀ (ਫਿਰ) ਜਨਮ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਧਉ = ਪੁੱਠਾ, ਉਲਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

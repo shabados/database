@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਗਰੀਬ (ਜੀਵ) ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ, ਕਿਰਪਾ ਕਰ ਕੇ (ਸਾਨੂੰ ਆਪਣੀ) ਸਰਨ ਵਿਚ ਰੱਖੀ ਰੱਖੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ = ਗ਼ਰੀਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

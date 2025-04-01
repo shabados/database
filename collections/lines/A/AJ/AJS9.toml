@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਇੱਕ ਹੈ ਤੇ ਇੱਕ ਪਾਸੇ ਹੀ ਲੱਗ ਸਕਦਾ ਹੈ, ਜਿਥੇ ਜੁੜਦਾ ਹੈ, ਓਥੇ ਸਫਲਤਾ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਥੇ। ਥਾਇ ਪਾਇ = ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

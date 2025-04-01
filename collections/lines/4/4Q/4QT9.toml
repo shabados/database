@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਦੱਸੋ ਕਿਸੇ ਨੇ ਕੁਝ ਕਰ ਦਿਖਾਇਆ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਰੈ = (ਰੱਬ ਤੋਂ) ਉਰੇ, ਰੱਬ ਤੋਂ ਬਿਨਾ। ਕਿਨੈ = ਕਿਸੇ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

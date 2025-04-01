@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਹੁਤਾ ਧਨ ਖੱਟਣ ਨਾਲ (ਆਤਮਕ) ਆਨੰਦ ਨਹੀਂ ਮਿਲਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਿ ਖਾਟੇ = ਜੇ ਧਨ ਖੱਟਿਆ ਜਾਏ। ਬਹੁਤੈ ਧਨਿ ਖਾਟੇ = ਬਹੁਤਾ ਧਨ ਖੱਟਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

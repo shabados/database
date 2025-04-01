@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਉਸਦੀ ਤਲਵਾਰ ਦਾ ਜੌਹਰ ਜਦ ਰੌਸ਼ਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਲੇ ਜੌਹਰਿ ਤੇਗ਼ ਅਫ਼ਰੋਖ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

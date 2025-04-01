@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਦਿਲ ਦੀ ਘਬਰਾਹਟ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸਾ = ਦਿਲ ਦੀ ਘਬਰਾਹਟ। ਜਾਈ = ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

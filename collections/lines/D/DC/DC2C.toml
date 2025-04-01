@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਅਥਾਹ ਹੈਂ, ਉੱਚਾ ਹੈਂ, ਸਭ ਦਾ ਜਾਣਨ ਵਾਲਾ ਹੈਂ, ਅਤੇ ਬੇਅੰਤ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬਗਿ = ਸਭ ਦਾ ਜਾਣਨ ਵਾਲਾ (सर्वज्ञ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

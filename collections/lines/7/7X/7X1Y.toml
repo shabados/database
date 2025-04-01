@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਹੀ (ਜੀਵਾਂ ਦਾ) ਜਨਮ ਹੁੰਦਾ ਹੈ, ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਹੀ ਮੌਤ ਆਉਂਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮੇ = ਹੁਕਮ ਵਿਚ ਹੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

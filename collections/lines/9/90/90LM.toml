@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੇਤ-ਥਲਾ ਮੀਂਹ ਨਾਲ (ਕਦੇ) ਰੱਜਦਾ ਨਹੀਂ, ਅੱਗ ਦੀ (ਸਾੜਨ ਦੀ) ਭੁੱਖ (ਕਦੇ ਬਾਲਣ ਨਾਲ) ਨਹੀਂ ਮਿਟਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰੂ = ਰੇਤ-ਥਲਾ। ਮੀਹਿ = ਮੀਂਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

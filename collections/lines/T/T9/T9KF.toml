@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਿਸ ਮਨੁਖ ਨੇ ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਤੇ ਤੁਰ ਕੇ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ) ਖ਼ਜ਼ਾਨਾ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਬਚਨੀ = ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਖ਼ਜ਼ਾਨਾ। ਪਾਈ = (ਜਿਸ ਨੇ) ਪਾ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

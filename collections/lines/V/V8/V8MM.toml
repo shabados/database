@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਅਹੰਕਾਰ ਰੂਪੀ ਰੋਗ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਦੂਰ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਰੋਗੁ = ਅਹੰਕਾਰੀ-ਰੂਪੀ ਬੀਮਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

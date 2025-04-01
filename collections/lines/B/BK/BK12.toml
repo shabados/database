@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿ) ਭਗਤ ਜਨ ਜੋ ਬਚਨ ਮੂੰਹੋਂ ਬੋਲਦੇ ਹਨ ਉਹ ਸਹੀ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖੈ ਤੇ = ਮੂੰਹ ਤੋਂ। ਹੋਵੰਦੇ = ਵਰਤ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

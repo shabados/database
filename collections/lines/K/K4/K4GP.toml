@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਸਾਰੇ ਹੀ ਹੀਲੇ (ਮਨੁੱਖ ਦੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦੇ (ਸਹਾਇਤਾ ਨਹੀਂ ਕਰਦੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵ = {ਲਫ਼ਜ਼ 'ਉਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਗਲ = ਸਾਰੇ। ਸੰਗਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

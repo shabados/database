@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਸੁਰਤ (ਜੋੜ ਕੇ) ਨਾਮ ਜਪਿਆਂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤਰ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ। ਵਖਾਣੇ = ਵਖਾਣਿ, ਵਖਾਣ ਕੇ, ਜਪ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

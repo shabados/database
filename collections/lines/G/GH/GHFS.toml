@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਕੀੜੀ ਸਮਾਨ ਸਮਝਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੇਸ਼ ਰਾ ਚੂੰ ਮੂਰ ਬਿਸ਼ਨਾਸੰਦ ਸ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

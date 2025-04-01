@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਹਿਰਦੇ-ਕਮਲ ਦੀ ਕੋਠੜੀ ਵਿਚ ਰਤਨ ਸਨ (ਪਰ ਲੁਕੇ ਹੋਏ ਸਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਲ ਕੋਠਰੀ = (ਹਿਰਦਾ-) ਕਮਲ-ਕੋਠੜੀ ਵਿਚ। ਰਤਨ = (ਰੱਬੀ ਗੁਣਾਂ ਦੇ) ਰਤਨ (ਪਏ ਹੋਏ ਸਨ, ਪਰ ਮੈਨੂੰ ਪਤਾ ਨਹੀਂ ਸੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

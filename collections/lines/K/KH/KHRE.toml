@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਪਰਮਾਤਮਾ (ਸਭ ਦਾ) ਮੁੱਢ ਹੈ ਜੋ ਸਰਬ-ਵਿਆਪਕ ਹੈ, ਜਿਸ (ਦੀ ਹਸਤੀ) ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ, ਜੋ (ਆਪਣੇ ਵਰਗਾ) ਆਪ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਸਭ ਦਾ ਮੁੱਢ। ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ। ਅਪਰੰਪਰੁ = ਜਿਸ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

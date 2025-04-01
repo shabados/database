@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੋਲੇ ਮਨੁੱਖ ਨੂੰ ਜੇ ਮੱਤਾਂ ਦੇਈਏ ਤੇ ਸਿੰਮ੍ਰਿਤੀਆਂ ਦੇ ਪਾਠ ਉਸ ਦੇ ਕੋਲ ਕਰੀਏ (ਉਹ ਤਾਂ ਸੁਣ ਹੀ ਨਹੀਂ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਿਅਹਿ = ਪੜ੍ਹੇ ਜਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

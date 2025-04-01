@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਜਮ ਦਾ ਡਰ ਨਹੀਂ, ਗੁਰੂ ਨੂੰ ਦੁਨੀਆ ਦੇ ਬੰਦਿਆਂ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਣਿ = ਮੁਥਾਜੀ। ਛੰਦਾ ਬੰਦਾ = ਬੰਦਿਆਂ ਦੀ ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

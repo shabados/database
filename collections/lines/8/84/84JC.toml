@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖਤਾ ਦੇ ਕਾਰਣ ਮਨੁੱਖ ਮਾਇਆ ਵਿਚ ਰੁੱਝ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਜਾਨਤ = ਨਾਹ ਜਾਣਦਾ ਹੋਇਆ, ਮੂਰਖ ਹੋਣ ਕਰਕੇ। ਬਿਖਿਆ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

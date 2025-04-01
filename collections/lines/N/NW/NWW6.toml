@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਗਰੀਬਾਣ ਦਾ ਦਰਦਨਾਕ ਹਾਲ ਸਿਵਾਏ ਰੱਬ ਦੇ ਕੋਈ ਨਹੀਣਣ ਸੁਣਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹਾਲਿ ਦਰਦਿ ਗ਼ਰੀਬਾਣ ਬਜੁਜ਼ ਖ਼ੁਦਾ ਨ ਰਸਦ ।੩੦।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

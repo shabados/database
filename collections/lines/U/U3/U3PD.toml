@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਆਪ ਮਿਹਰ ਕਰੇਂ, ਤਾਂ ਹੀ ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰ ਸਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਤੂੰ ਕਰੇਂ। ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਂਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

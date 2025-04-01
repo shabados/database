@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਪੱਖ ਤੇ ਨਿਰੰਕਾਰ ਹੋ ਜਾਏ, ਉਸ ਤੇ ਕੋਈ ਦਬਾ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਹੇ = ਦਬਾ ਪਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

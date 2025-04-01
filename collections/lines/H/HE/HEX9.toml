@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਸਰਨ ਪਉ, ਕਰਤਾਰ ਦਾ ਨਾਮ ਸਤਿਗੁਰੂ ਤੋਂ ਹੀ ਮਿਲਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਲੈ = ਪੱਲੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

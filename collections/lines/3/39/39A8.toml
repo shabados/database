@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾ ਸਕੀਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟਤ = ਮਿਲਿਆਂ। ਰਵੇ = ਗਾਏ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਖ਼ਜ਼ਾਨਾ (ਐਸਾ ਹੈ ਕਿ ਉਸ ਨੂੰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਭੰਡਾਰੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

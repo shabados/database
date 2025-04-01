@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਤੇਰਾ ਨਾਮ ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਪ ਖੰਡਨ = ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

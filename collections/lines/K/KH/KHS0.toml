@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬ ਆਾਪ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦਾ ਢਾਡੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਖ਼ੁਦ ਵੱਸਾਫ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 118
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

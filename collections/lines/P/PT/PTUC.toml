@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਭਨਾਂ ਜੀਵਾਂ ਦੇ ਨਾਲ ਵੱਸਦਾ ਹੈ, ਕਿਸੇ ਤੋਂ ਭੀ ਦੂਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੀ = ਸੰਗੀ, ਨਾਲ। ਸਭ ਕੈ ਸੰਗੀ = ਸਭ ਕੈ ਸੰਗਿ, ਸਭ ਜੀਵਾਂ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

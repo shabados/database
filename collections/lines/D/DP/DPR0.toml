@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਅੰਦਰ (ਅਨੇਕਾਂ) ਐਬ ਹਨ, ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਕਿਵੇਂ ਮਿਲ ਪਾਵਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਵਿਚਿ = ਮੇਰੇ ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

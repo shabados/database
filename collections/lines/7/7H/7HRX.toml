@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਝੱਲੀ ਹੋਈ ਭਟਕਦੀ ਫਿਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ ਭਾਇ = ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ। ਦੇਵਾਨੀ = ਝੱਲੀ ਹੋਈ ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

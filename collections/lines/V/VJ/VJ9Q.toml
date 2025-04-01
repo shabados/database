@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗ਼ਾਫ਼ਿਲ ਜੀਵ-ਇਸਤ੍ਰੀ! (ਹੁਣ ਤਾਂ ਤੇਰੀ ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਦਾ) ਦੂਜਾ ਪਹਰ ਲੰਘ ਰਿਹਾ ਹੈ (ਹੁਣ ਤਾਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚੋਂ) ਸੁਚੇਤ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਗੁ = ਸੁਚੇਤ ਹੋ। ਅਚੇਤੀ = ਹੇ ਅਚੇਤ ਜੀਵ-ਇਸਤ੍ਰੀਏ! ਹੇ ਗ਼ਾਫ਼ਿਲ ਜੀਵ-ਇਸਤ੍ਰੀਏ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

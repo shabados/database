@@ -30,6 +30,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! (ਮੈਨੂੰ ਛੱਡ ਕੇ) ਕਿਸੇ ਹੋਰ ਦੇਸ ਵਿਚ ਨਾਹ ਤੁਰ ਜਾਈਂ, ਮੇਰੇ ਹੀ ਇਸ ਘਰ ਵਿਚ ਟਿਕਿਆ ਰਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਿਅ = ਹੇ ਪਿਆਰੇ! ਪਰਦੇਸਿ = ਪਰਾਏ ਦੇਸ ਵਿਚ। ਘਰਿ ਮੋਰੈ = ਮੇਰੇ ਘਰ ਵਿਚ, ਮੇਰੇ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

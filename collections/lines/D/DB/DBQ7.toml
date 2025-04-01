@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਤੇਰਾ ਹੋ ਕੇ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੁ ਆਧੁ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

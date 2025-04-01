@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਪੂਰੀਆਂ ਮੁਰਾਦਾਂ ਵਾਲੀ ਹੁੰਦੀ ਹੈ, ਉਸ ਦੀ ਸੰਗਤਿ ਹੋਰਨਾਂ ਦੀਆਂ ਮੁਰਾਦਾਂ ਪੂਰੀਆਂ ਕਰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ = ਪੂਰੀਆਂ ਮੁਰਾਦਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

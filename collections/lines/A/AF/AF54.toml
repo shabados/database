@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਚੰਨ ਅਤੇ ਸੂਰਜ ਦੋਵੇਣ ਉਸ ਦੀ ਚਾਕਰੀ ਵਿਚ ਮਸ਼ਾਲਚੀ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿਹਰੋ ਮਾਹ ਮਸ਼ਅਲ-ਕਸ਼ਿ ਮਜ਼ਦੂਰਿ ਊਸਤ ।੨੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

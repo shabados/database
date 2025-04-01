@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਦੇਸ ਵਿਚ) ਜਿਸ (ਬਾਦਸ਼ਾਹ) ਦੀ ਹਕੂਮਤ ਹੋਵੇ (ਉਸ ਦੇਸ ਦਾ) ਹਰੇਕ ਜੀਵ ਉਸੇ (ਬਾਦਸ਼ਾਹ) ਦਾ ਹੋ ਕੇ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਕਾਰ = ਰਾਜ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

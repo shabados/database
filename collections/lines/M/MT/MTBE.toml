@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਹਉਮੈ ਦਾ ਵੱਡਾ ਰੋਗ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ, ਆਤਮਕ ਮੌਤ ਨੇ ਉਹਨਾਂ ਨੂੰ ਸਿਰ-ਪਰਨੇ ਸੁੱਟਿਆ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ-ਭਾਰ, ਸਿਰ-ਪਰਨੇ। ਜਮਕਾਲਿ = ਜਮਕਾਲ ਨੇ, ਆਤਮਕ ਮੌਤ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

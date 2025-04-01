@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੰਡਤ ਵੇਦ ਆਦਿਕ ਧਾਰਮਿਕ) ਪੁਸਤਕਾਂ ਪੜ੍ਹ ਕੇ ਸੰਧਿਆ ਕਰਦਾ ਹੈ ਅਤੇ (ਹੋਰਨਾਂ ਨਾਲ) ਚਰਚਾ ਛੇੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਸਤਕ = (ਵੇਦ ਸ਼ਾਸਤਰ ਆਦਿਕ ਧਰਮ) ਪੁਸਤਕਾਂ। ਬਾਦੰ = ਚਰਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

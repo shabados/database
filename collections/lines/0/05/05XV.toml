@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਤੂੰ ਕੱਚ ਦੀ ਮੁੰਦ੍ਰਾ ਬਣਾਈ ਹੋਈ ਹੈ ਤੇ ਹਰੇਕ ਕੰਨ ਵਿਚ ਪਾਈ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਟਕ = ਕੱਚ। ਕਾਨਿ = ਕੰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

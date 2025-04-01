@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਜਗਤ ਵਿਚ ਮਰਜਾਦਾ-ਰਹਿਤ ਨੰਗਾ ਹੀ ਆਉਂਦਾ ਹੈ ਤੇ ਨੰਗਾ ਹੀ ਬੰਨ੍ਹ ਕੇ ਅੱਗੇ ਲਾ ਲਿਆ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਰਜਾਦੁ = {ਨਾ-ਮਰਜਾਦੁ} ਮਰਜਾਦਾ-ਰਹਿਤ, ਨੰਗਾ। ਕਲਿ = ਜਗਤ। ਬੰਧਿ = ਬੰਨ੍ਹ ਕੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

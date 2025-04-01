@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਰੰਗ ਭੇਖ ਤੇ ਸਰੂਪ ਨਹੀਂ ਦਿੱਸਦਾ, ਉਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ ਕਿਵੇਂ ਲਖਿਆ ਜਾਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਰੂਪੁ = ਸ੍ਵਰੂਪੁ, ਸਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

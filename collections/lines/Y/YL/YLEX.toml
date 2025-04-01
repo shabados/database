@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦਾ ਵਿਚਲਾ ਹਿੱਸਾ ਦੁੱਖਾਂ ਨਾਲ ਹੀ ਭਰਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਝ = ਵਿਚਲਾ ਹਿੱਸਾ, (ਭਾਵ,) ਸਾਰਾ। ਭਰਿ = ਭਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਗੋਯਾ # ਸਾਨੂੰ ਮੁਲਕ ਅਤੇ ਮਾਲ ਦੀ ਕੋਈ ਚਾਹ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਨਮੀ ਖ਼ਾਹੇਮ ਮੁਲਕੋ ਮਾਲ ਰਾ ਗੋਯਾ ਅਜ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

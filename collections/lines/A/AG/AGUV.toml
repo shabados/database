@@ -42,6 +42,12 @@ language = "pa"
 data = "ਜਿਸ ਕਰਕੇ ਮੈਨੂੰ ਉਹ ਅਕਾਲ ਪੁਰਖ ਨਾ ਵਿਸਰ ਜਾਏ, ਜੋ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਕਦੇ) ਮੈਨੂੰ ਮੇਰਾ ਪ੍ਰਭੂ ਵਿੱਸਰ ਜਾਏ ਤਾਂ ਮੈਂ ਦੁੱਖੀ ਹੋ ਕੇ ਮਰਨ ਵਾਲੀ ਹੋ ਜਾਂਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਮਰਉ = ਮੈਂ ਮਰਦੀ ਹਾਂ, ਮੇਰੀ ਜਿੰਦ ਵਿਆਕਲ ਹੋ ਜਾਂਦੀ ਹੈ। ਦੁਖਾਲੀ = ਦੁੱਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

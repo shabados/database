@@ -42,6 +42,12 @@ language = "pa"
 data = "ਹੁਕਮ ਵਾਲੇ ਰੱਬ ਦਾ ਹੁਕਮ ਹੀ (ਸੰਸਾਰ ਦੀ ਕਾਰ ਵਾਲਾ) ਰਸਤਾ ਚਲਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮੀ = ਹੁਕਮ ਦਾ ਮਾਲਕ ਅਕਾਲ ਪੁਰਖ। ਹੁਕਮੀ ਹੁਕਮੁ = ਹੁਕਮ ਵਾਲੇ ਹਰੀ ਦਾ ਹੁਕਮ। ਰਾਹੁ = ਰਸਤਾ, ਸੰਸਾਰ ਦੀ ਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

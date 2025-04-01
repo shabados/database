@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਦਿਲ ਦੇ ਸ਼ੀਸ਼ੇ ਤੋਂ ਗਮਾਂ ਦੀ ਗੰਦਗੀ ਨੂੰ ਸਾਫ ਕਰ ਦਿਉ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਸਾਫ਼ ਗਸ਼ਤ ਆਈਨਾ-ਇ ਦਿਲ ਅਜ਼ ਸਵਾਦਿ ਗ਼ਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

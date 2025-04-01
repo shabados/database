@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕਾਂ ਦੇ ਭਾਣੇ) ਪਰਲੋ ਲਿਆਉਣ ਵਾਲਾ ਧਰਮਰਾਜ ਉਸ ਪ੍ਰਭੂ ਦੇ ਮਹਲ ਦਾ ਇਕ (ਮਮੂਲੀ) ਦਰਬਾਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਹਾਰੁ = ਦਰਬਾਨ। ਪਰੁਲੀ = ਪਰਲੋ ਲਿਆਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

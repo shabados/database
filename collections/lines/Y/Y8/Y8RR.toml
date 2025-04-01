@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! (ਮੇਰੀ) ਬੇਨਤੀ ਸੁਣ, (ਮੇਰੇ ਉਤੇ) ਆਪਣੀ ਮਿਹਰ ਕਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

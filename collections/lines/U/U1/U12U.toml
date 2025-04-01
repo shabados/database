@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ) ਅਜੇਹਾ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਹੈ, ਜੇਹੜਾ ਆਪਣੇ ਅੰਦਰੋਂ ਮੇਰ-ਤੇਰ ਨੂੰ ਮਾਰ ਮੁਕਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਇ = ਕੋਈ ਵਿਰਲਾ। ਦੁਬਿਧਾ = ਮੇਰ-ਤੇਰ। ਮਾਰਿ = ਮਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

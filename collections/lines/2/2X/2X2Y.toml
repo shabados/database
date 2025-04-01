@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਰਤਾਰ ਨੇ ਆਪ ਹੀ ਮਾਇਆ ਪੈਦਾ ਕੀਤੀ ਹੈ, ਉਸ ਨੇ ਆਪ ਹੀ ਮਾਇਆ ਦਾ ਪ੍ਰਭਾਵ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਇਆ = ਪ੍ਰਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

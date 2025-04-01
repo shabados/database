@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਰਥਾਤ, ਤੂੰ ਆਪਣੇ ਬੋਲ ਰੱਬ ਦੀ ਜ਼ਬਾਨ ਰਾਹੀਣ ਹੀ ਬੋਲਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਅਨੀ ਸੁਖ਼ਨ ਅਜ਼ ਜ਼ਬਾਨਿ ਹੱਕ ਮੀ ਗੋਈ ।੧੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਚਮਕਦਾ ਹੋਇਆ ਸੂਰਜ, ਅਤੇ ਕੀ ਚਾਨਣੀ ਭਰਿਆ ਚੰਦਰਮਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਖ਼ੁਰਸ਼ੀਦਿ ਰਖ਼ਸ਼ਿੰਦਾ ਓ ਮਾਹਤਾਬ ।੮੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਇਹ) ਅਰਦਾਸ ਦਾਤਾਰ ਨੇ ਸੁਣੀ ਤੇ ਸ੍ਰਿਸ਼ਟੀ ਸ਼ਾਂਤ ਹੋ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾਰਿ = ਦਾਤਾਰ ਨੇ। ਸਿਸਟਿ = ਸ੍ਰਿਸ਼ਟੀ। ਠਰੁ = ਠੰਢੀ, ਸ਼ਾਂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਬਹਿਸ਼ਤ ਦੇ ਬਾਗ ਨੂੰ ਉਸ ਤੋਣ ਕੁਰਬਾਨ ਕਰ ਦਿਆਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੌਜ਼ਾਇ ਬਾਗ਼ਿ ਇਰਮ ਕੁਰਬਾਣ ਕੁਨਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਜੀਵਨ ਦੇ ਸਹੀ ਮਨੋਰਥ ਨੂੰ) ਸਮਝਣ ਤੋਂ ਬਿਨਾ (ਜੀਵਨ ਦਾ) ਪਾਰਲਾ ਕੰਢਾ ਕਿਵੇਂ ਲੱਭ ਸਕਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰੁ = ਅੰਤ, ਪਾਰਲਾ ਬੰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

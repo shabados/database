@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉੱਚੇ ਜੀਵਨ ਵਾਲੇ ਸੰਤ ਜੇਹੜੇ ਇਸ ਸੰਸਾਰ (ਦੇ ਵਿਕਾਰਾਂ) ਵਿਚ ਭੀ ਪਵਿਤ੍ਰ ਹੀ ਰਹਿੰਦੇ ਹਨ, ਭਲੇ ਸੰਜੋਗਾਂ ਨਾਲ ਹੀ ਮਿਲਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੇ ਸੰਜੋਗੀ = ਭਲੇ ਸੰਜੋਗਾਂ ਨਾਲ (ਮਿਲਦੇ ਹਨ)। ਜੁਗ = ਜਗਤ, ਸੰਸਾਰ। ਪੁਨੀਤ = ਪਵਿਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

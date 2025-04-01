@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰੇਸ਼ਟ ਸ਼ਬਦ ਵਾਲਾ ਹੈ, ਹਰੀ ਵਰਗਾ ਉਦਾਰ-ਚਿੱਤ ਹੈ, ਅਤੇ ਹਉਮੈ ਨੂੰ ਦੂਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ। ਉਦਾਰੁ = ਖੁਲ੍ਹੇ ਦਿਲ ਵਾਲਾ। ਅਹੰਮੇਵ = ਹਉਮੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

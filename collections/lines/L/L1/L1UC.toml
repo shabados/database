@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਤੈਨੂੰ (ਆਪਣੇ ਆਪ ਦਾ) ਅਹੰਕਾਰ ਤਾਂ ਬਹੁਤ ਹੈ, ਪਰ (ਇਸ ਅਹੰਕਾਰ ਦਾ) ਮੂਲ (ਤੇਰਾ ਆਪਣਾ ਵਿਤ) ਥੋੜਾ ਜਿਹਾ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੁ = {गर्व} ਅਹੰਕਾਰ। ਮੂਲੁ = ਪਾਂਇਆਂ, ਵਿਤ। ਇਤਨੋ = ਥੋੜਾ ਜਿਹਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

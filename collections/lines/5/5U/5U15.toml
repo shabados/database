@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਵਿਤ੍ਰ ਸਤ-ਸੰਗ ਕਰਾਂ, ਗੋਬਿੰਦ ਦਾ ਸਿਮਰਨ ਕਰਾਂ ਤੇ ਭਲੀਆਂ ਸੋਚਾਂ ਸੋਚਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭ = ਭਲੀ। ਚਿੰਤਨ = ਸੋਚ। ਰਮਣ = ਸਿਮਰਨ। ਨਿਰਮਲੁ = ਪਵਿਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

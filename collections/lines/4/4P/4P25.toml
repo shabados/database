@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ! ਜਿਸ ਪਾਪੀ ਨੂੰ ਹੋਰ ਕਿਤੇ ਆਸਰਾ ਨਹੀਂ ਮਿਲਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਢੋਈ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

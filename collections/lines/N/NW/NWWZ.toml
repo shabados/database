@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਗੰਧੀ ਦੇ ਰੋਗ ਦੇ ਕਾਰਨ (ਫੁੱਲ ਦੀ ਸੁਗੰਧੀ ਲੈਣ ਦੇ ਰਸ ਦੇ ਕਾਰਨ) ਭੌਰਾ (ਫੁੱਲ ਵਿਚ ਮੀਟਿਆ ਜਾ ਕੇ) ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸਨ = ਸੁਗੰਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

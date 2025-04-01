@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦਾ) ਚੁਹਚੁਹਾ ਰੰਗ (ਮਾਨੋ) ਰਾਤ ਦਾ ਸੁਫ਼ਨਾ ਹੈ, (ਮਾਨੋ) ਧਾਗੇ ਤੋਂ ਬਿਨਾ ਹਾਰ ਗਲ ਵਿਚ ਪਾਇਆ ਹੋਇਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸੀ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

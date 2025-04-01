@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਜੇ ਤੂੰ ਗੰਗਾ ਦੇ ਕੰਢੇ ਉਤੇ (ਰਹਿਣ ਲਈ) ਆਪਣਾ ਘਰ ਬਣਾ ਲਏਂ, ਤੇ (ਗੰਗਾ ਦਾ) ਸਾਫ਼ ਪਾਣੀ ਪੀਂਦਾ ਰਹੇਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰ = ਕੰਢਾ। ਜੁ = ਜੇ। ਕਰਹਿ = ਤੂੰ ਬਣਾ ਲਏਂ। ਨਿਰਮਲ = ਸਾਫ਼। ਨੀਰੁ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

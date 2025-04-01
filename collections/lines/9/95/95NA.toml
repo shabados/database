@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਅੱਖਾਂ ਭਲੀਆਂ ਹਨ ਸਫਲ ਹਨ ਜੋ ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ ਨੇਤ੍ਰ = ਉਹ ਅੱਖਾਂ। ਪਰਵਾਣੁ = ਕਬੂਲ, ਸਫਲ। ਹਹਿ = ਹਨ {ਬਹੁ-ਵਚਨ}। ਸਾਧੂ = ਗੁਰੂ। ਦੇਖਹਿ = ਵੇਖਦੀਆਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

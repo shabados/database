@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਏਡੀ ਵੱਡੀ ਹੈ ਕਿ ਲਿਖਣ ਵਿਚ ਲਿਆਂਦੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮੁ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

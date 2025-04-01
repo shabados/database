@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੋਹਣੇ ਰਾਗ ਮੁਬਾਰਿਕ ਹਨ ਜਿਨ੍ਹਾਂ ਦੇ ਗਾਂਵਿਆਂ (ਮਨ ਦੀ) ਤ੍ਰਿਸ਼ਨਾ ਨਾਸ ਹੋ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰੰਗੜੇ = ਸੋਹਣੇ। ਆਲਾਪਤ = ਅਲਾਪਦਿਆਂ, ਉਚਾਰਦਿਆਂ। ਤਿਖ = ਤ੍ਰਿਸ਼ਨਾ, ਪਿਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

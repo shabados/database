@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਟਿਕਾਈ ਰੱਖ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਤਿ = ਚਿੱਤ ਵਿਚ। ਧਾਰਿ = ਟਿਕਾਈ ਰੱਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

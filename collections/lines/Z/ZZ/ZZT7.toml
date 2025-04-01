@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਬਿਆਨ ਕਰੇ ਭੀ, ਤਾਂ ਉਹ ਪਿਛੋਂ ਪਛਤਾਉਂਦਾ ਹੈ (ਕਿ ਮੈਂ ਹੋਛਾ ਜਤਨ ਕੀਤਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੈ = ਦੱਸੇ, ਬਿਆਨ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

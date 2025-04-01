@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਨੂੰ ਮਿਲਣ ਤੋਂ ਬਿਨਾ ਸੰਸਾਰ ਅੰਨ੍ਹਾ ਹੈ ਤੇ ਅੰਨ੍ਹੇ ਹੀ ਕੰਮ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨੁ ਭੇਟੇ = ਮਿਲਣ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

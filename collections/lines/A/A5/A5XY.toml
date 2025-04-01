@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਸ ਮਨੁੱਖ ਨੇ ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਮਿਲਿ = ਮਿਲ ਕੇ। ਗਾਇਓ = ਗਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

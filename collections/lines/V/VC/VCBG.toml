@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਧੋ! ਜੇ ਤੂੰ (ਮੇਰੇ ਨਾਲੋਂ) ਪਿਆਰ ਨਾਹ ਤੋੜੇਂ, ਤਾਂ ਮੈਂ ਭੀ ਨਹੀਂ ਤੋੜਾਂਗਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਤੋਰਹੁ = ਨਾਹ ਤੋੜ। ਹਮ ਨਹੀ ਤੋਰਹਿ = ਅਸੀਂ ਨਹੀਂ ਤੋੜਾਂਗੇ, ਮੈਂ ਨਹੀਂ ਤੋੜਾਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

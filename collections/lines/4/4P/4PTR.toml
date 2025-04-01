@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਈ ਜੁਗ (ਜੂਨਾਂ ਵਿਚ) ਭਟਕ ਭਟਕ ਕੇ ਤੂੰ ਥੱਕ ਗਿਆ ਸੀ। (ਹੁਣ) ਤੈਨੂੰ ਮਨੁੱਖਾ ਸਰੀਰ ਲੱਭਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ = ਜੁਗਾਂ ਵਿਚ। ਹਾਰਿਓ = ਥੱਕ ਗਿਆ। ਮਾਨਸ ਦੇਹ = ਮਨੁੱਖਾ ਸਰੀਰ। ਲਹੀ = ਲੱਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

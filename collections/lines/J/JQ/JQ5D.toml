@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਵਿਰਲੇ ਜੋਗੀਰਾਜ ਹੀ ਉਹ ਸੰਤ ਜਨ ਹੀ (ਉਸ ਪ੍ਰਭੂ ਦਾ) ਉਹ ਸਰੂਪ ਬਿਆਨ ਕਰਦੇ ਹਨ (ਕਿ ਉਸ ਦਾ ਕੋਈ ਰੂਪ ਰੇਖ ਨਹੀਂ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਹਿ = ਦੱਸਦੇ ਹਨ। ਜੋਗੀਸੁਰ = {ਜੋਗੀ-ਈਸੁਰ} ਜੋਗੀਰਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

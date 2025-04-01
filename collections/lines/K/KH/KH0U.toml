@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਤ੍ਰ, ਇਸਤ੍ਰੀ, ਘਰ ਦੇ ਹੋਰ ਬੰਦੇ ਤੇ ਜ਼ਨਾਨੀਆਂ (ਸਾਰੇ) ਮਾਇਆ ਦੇ ਹੀ ਸਾਕ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ। ਲੋਕ ਗ੍ਰਿਹ = ਘਰ ਦੇ ਲੋਕ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਸਨਬੰਧੇਹੀ = ਸਨਬੰਧੀ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

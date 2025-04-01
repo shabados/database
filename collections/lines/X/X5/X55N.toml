@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! (ਮੇਰੇ ਉਤੇ) ਦਇਆਵਾਨ ਹੋ, ਮਿਹਰ ਕਰ। ਮੈਂ (ਤੇਰੇ ਦਰ ਤੋਂ) ਸਤ-ਸੰਗੀਆਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਦਇਆਵਾਨ। ਮਾਗਉ = ਮਾਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਪਗ ਧੂਰਿ = ਚਰਨਾਂ ਦੀ ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

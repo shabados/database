@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਿਰਜਣਹਾਰ! ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ (ਕਿ ਉਹ ਹਾਲਤ ਕੀਹ ਸੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜਣਹਾਰਾ = ਹੇ ਸਿਰਜਣਹਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

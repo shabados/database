@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਭੀ ਤੇਰਾ ਨਾਹ ਮੁੱਢ ਲੱਭਾ ਹੈ ਨਾਹ ਅਖ਼ੀਰ ਲੱਭਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨੈ = ਕਿਸੇ ਨੇ ਭੀ। ਨ ਪਾਇਆ = ਨਹੀਂ ਲੱਭਾ। ਆਦਿ = ਮੁੱਢ। ਅੰਤੁ = ਅਖ਼ੀਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

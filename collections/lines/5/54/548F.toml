@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਨਾਹ ਉਸ ਦਾ ਕੋਈ ਰੰਗ ਹੈ ਨਾਹ ਨਿਸ਼ਾਨ, ਉਸ ਤਕ ਪਹੁੰਚਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਉਸ ਨੂੰ ਜਿੱਤਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨ = ਰੰਗ। ਚਿਹਨ = ਨਿਸਾਨ। ਅਗਮ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

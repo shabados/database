@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਆਉਂਦਾ ਭੀ ਉਹੀ ਹੈ, ਇਥੋਂ ਜਾਂਦਾ ਭੀ ਉਹ ਪ੍ਰਭੂ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਤੁ = ਜੰਮਦਾ। ਜਾਤੁ = ਜਾਂਦਾ (ਇਹ ਸਰੀਰ ਛੱਡ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

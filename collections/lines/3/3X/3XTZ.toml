@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਦੀ ਵੱਡੀ ਖ਼ੂਬੀ ਇਹ ਹੈ ਕਿ ਕੋਈ ਹੋਰ ਉਸ ਵਰਗਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣੁ ਏਹੋ = ਇਹ ਹੀ (ਉਸ ਦੀ) ਖ਼ੂਬੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

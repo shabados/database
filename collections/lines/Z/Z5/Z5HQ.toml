@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਰ ਝੁਕਾਇ ਗ਼ੁਲਾਮ ਅਤੇ ਨੌਕਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਅਫ਼ਗੰਦਾ ਵ ਬੰਦਾ ਓ ਚਾਕਰਸ਼ ।੭੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

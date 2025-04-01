@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਗ੍ਰਹਿਣ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਿਓ = ਫੜਿਆ, ਗ੍ਰਹਿਣ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

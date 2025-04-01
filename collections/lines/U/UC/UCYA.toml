@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਮਾਨੋ, ਇਕ) ਰਤਨ ਹੈ (ਇਕ ਐਸਾ) ਹੀਰਾ ਹੈ ਜਿਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮੋਲਕੁ = ਜਿਸ ਦਾ ਮੁੱਲ ਨ ਪਾਇਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਗੋਂ) ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ ਉਹ ਆਪ ਕਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ = ਆਪਿ ਹੀ, ਆਪ ਹੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

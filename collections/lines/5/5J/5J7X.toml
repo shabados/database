@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੇ ਵੱਸ ਵਿਚ ਹੈ, (ਤੈਥੋਂ ਬਿਨਾ ਤੇਰੇ ਵਰਗਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਵੱਸ ਵਿਚ। ਅਵਰੁ = ਹੋਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

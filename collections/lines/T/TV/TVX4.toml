@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਹੀ, ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਆਨੰਦ ਮਾਣ ਸਕੇਂਗਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੁ = ਆਤਮਕ ਅਨੰਦ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

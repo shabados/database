@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ (ਹਰਿ-ਨਾਮ ਜਪ ਕੇ ਆਪਣੇ) ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਕਰ ਲੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ। ਸਭਿ ਦੁਖ = ਸਾਰੇ ਦੁਖ। ਪਰਹਰੀ = ਪਰਹਰਿ, ਦੂਰ ਕਰ ਲੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

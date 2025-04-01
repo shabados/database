@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਆਨੰਦ ਨਾਲ ਤੇ ਆਤਮਕ ਅਡੋਲਤਾ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਸੇਤੀ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

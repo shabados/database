@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਆਪਣੇ ਆਪ ਵਿਚ ਯਕੀਨ ਹੈ, ਤਾਂ ਫਿਰ ਕੋਈ ਵੀ ਬੇਵਫਾ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇਵਫ਼ਾ ਨੇਸਤ ਕਸੇ, ਗਰ ਤੂ ਵਫ਼ਾਦਾਰ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

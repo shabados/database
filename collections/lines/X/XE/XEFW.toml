@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾਹ! ਹੇ ਕਰੀਮ! ਹੇ ਰਹੀਮ! ਤੂੰ (ਹੀ) ਅਮੀਰ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀਮਾਂ = ਹੇ ਕਰੀਮ! ਹੇ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲੇ! ਰਹੀਮਾਂ = ਹੇ ਰਹੀਮ! ਹੇ ਰਹਿਮ ਕਰਨ ਵਾਲੇ! ਗਨੀ = ਅਮੀਰ, ਰੱਜਿਆ-ਪੁੱਜਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

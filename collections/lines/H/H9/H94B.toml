@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਮਨੁੱਖ ਦੇ) ਸਰੀਰ ਵਿਚ ਉਸ ਨਾਮ ਦਾ ਟਿਕਾਣਾ (ਹੋ ਜਾਂਦਾ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸ੍ਰਾਮੁ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

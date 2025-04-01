@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਇਹ ਤਾਂਘ ਹੈ ਕਿ ਮੈਂ ਤੇਰੀ ਭਗਤੀ ਕਰਾਂ, ਮੈਂ ਤੇਰੇ ਚਰਨੀਂ ਲੱਗਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਮੈਂ ਕਰਾਂ। ਪਗ ਤੋਰ = ਤੇਰੀ ਚਰਨੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

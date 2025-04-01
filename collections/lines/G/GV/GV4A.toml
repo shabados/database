@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਿਕਾਰ ਖੇਡਣ ਵਾਲੀ ਰੁਚੀ, ਰਾਜਿਆਂ ਦੀਆਂ ਖੇਡਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖੇੜ = ਸ਼ਿਕਾਰ। ਬਿਰਤਿ = ਰੁਚੀ। ਲੀਲਾ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

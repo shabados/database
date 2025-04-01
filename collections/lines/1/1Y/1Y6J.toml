@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਹੜੀ ਹੈ ਉਹ ਅੱਖ, ਜਿਸ ਵਿਚ ਤੇਰੇ ਨੂਰ ਦੀ ਚਮਕ ਨਹੀਣ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਦਾਮ ਦੀਦਾ ਕਿ ਦਰ ਵੈ ਸਵਾਦਿ ਨੂਰਿ ਤੂ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

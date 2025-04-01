@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਧੋ! ਜੇ ਤੂੰ ਸੋਹਣਾ ਦੀਵਾ ਬਣੇਂ, ਮੈਂ (ਤੇਰੀ) ਵੱਟੀ ਬਣ ਜਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਵਰਾ = ਸੋਹਣਾ ਜਿਹਾ ਦੀਵਾ। ਬਾਤੀ = ਵੱਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

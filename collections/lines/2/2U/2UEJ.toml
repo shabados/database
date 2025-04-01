@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੌਤ ਆਉਣ ਤੇ ਉਹਨਾਂ ਪਾਸੋਂ ਕੌਣ ਕੋਈ ਲਾਭ ਉਠਾ ਸਕਦਾ ਹੈ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨ ਤੇ = ਉਹਨਾਂ ਤੋਂ। ਕੋ ਵਰਸਾਂਨੇ = ਕੌਣ ਲਾਭ ਉਠਾ ਸਕਦੇ ਹਨ? ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਠਦਿਆਂ ਬੈਠਦਿਆਂ ਸੁੱਤਿਆਂ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਯਾਦ ਕਰਿਆ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤ = ਚੇਤੇ ਕਰ, ਸਿਮਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

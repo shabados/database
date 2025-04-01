@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਦਾ ਜਪਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

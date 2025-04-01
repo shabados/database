@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਦਿਲ ਫੇਰ ਮੋਤੀਆਣ ਦੀ ਦੁਕਾਨ ਦੇ ਲਾਲਾਣ ਦੀ ਕਦ ਪਰਵਾਹ ਕਰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਦਿਲਸ਼ ਪਰਵਾਏ ਲਾਅਲਿ ਦੁਕਾਨਿ ਗੌਹਰ ਮੀ ਕੁਨਦ ।੩੧।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

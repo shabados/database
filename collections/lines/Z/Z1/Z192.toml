@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਦੇਵੀ ਦੇਵਤਿਆਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਗੋਰਖਾਂ ਵਰਗੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਦੇਵੀ ਚੂੰ ਗੋਰਖ ਹਜ਼ਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

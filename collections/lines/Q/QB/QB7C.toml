@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਕਰਤਾਰ! ਤੂੰ ਸਭ ਕੁਝ ਕਰਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ = ਜਗਤ। ਕਾਰਣ = ਮੂਲ, ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

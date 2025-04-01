@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ) ਕਈ ਜ਼ਾਤਾਂ ਦੇ, ਕਈ ਕਿਸਮਾਂ ਦੇ ਅਤੇ ਕਈ ਨਾਵਾਂ ਦੇ ਜੀਵ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜੀਵ ਜੰਤ। ਕੇ ਨਾਵ = ਕਈ ਨਾਵਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

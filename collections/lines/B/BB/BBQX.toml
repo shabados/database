@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਸੰਗੀ ਜੀਵ-ਇਸਤ੍ਰੀਓ! ਆਓ, ਮੈਨੂੰ ਮਿਲੋ, ਤੇ ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਮਿਲਾ ਦਿਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹੇਲੀਹੋ = ਹੇ ਸਤਸੰਗੀ ਜੀਵ-ਇਸਤ੍ਰੀਓ! ਮੈ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮੇਹਰ ਨਾਲ ਘੋੜੇ ਤੇ ਹਾਥੀਆਂ ਦੀ ਸਵਾਰੀ ਕਰਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸ੍ਵ = ਘੋੜੇ। ਹਸਤਿ = ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

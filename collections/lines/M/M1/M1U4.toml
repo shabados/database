@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ, ਉਸ ਨੂੰ ਆਪਣੇ ਨਾਮ ਵਿਚ ਜੋੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਨ ਨਾਇ = ਆਪਣੇ ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

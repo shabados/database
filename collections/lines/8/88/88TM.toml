@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਮੈਂ ਉਸ ਦੇ ਅੱਗੇ ਬਹੁਤ ਤਰਲਾ ਕਰਾਂਗੀ, ਬੇਨਤੀ ਕਰਾਂਗੀ, ਮੈਂ ਦਿਨ ਰਾਤ ਉਸ ਦੀ ਸੇਵਾ ਕਰਾਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹੋਰਾ = ਤਰਲਾ, ਮਿੰਨਤ। ਸੇਵਉ = ਸੇਵਉਂ, ਮੈਂ ਸੇਵਾ ਕਰਾਂਗੀ। ਰੈਨਾਈ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

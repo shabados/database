@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ (ਸਦਾ ਹੀ) ਆਪਣੇ ਮੁੱਢ-ਕਦੀਮਾਂ ਦੇ (ਪਿਆਰ ਵਾਲੇ) ਸੁਭਾਵ ਨੂੰ ਚੇਤੇ ਰੱਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਬਿਰਦੁ = ਮੁੱਢ-ਕਦੀਮਾਂ ਦਾ (ਪਿਆਰ ਵਾਲਾ) ਸੁਭਾਉ। ਸਮਾਰਿਆ = ਚੇਤੇ ਰੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

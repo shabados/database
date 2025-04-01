@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਖ਼ਜ਼ਾਨੇ ਦਾ ਤੈਨੂੰ ਕਿਵੇਣ ਪਤਾ ਲਗੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਅਜ਼ਾਣ ਗੰਜੇ ਬ-ਯਾਬੀ ਇਤਲਾਅ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

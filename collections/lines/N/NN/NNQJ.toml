@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣੀ ਰੋਸ਼ਨੀ ਆਪਣੀ ਹੀ ਮੋਮ ਬੱਤੀ ਨਾਲ ਭੇਜ ਸਕਦਾ ਹੈਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਡਰ ਵਜੂਦੇ ਖ਼ੇਸ਼ਤਨ ਹਰ ਚਾਰ ਬਾਗ਼ ।੪੭।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

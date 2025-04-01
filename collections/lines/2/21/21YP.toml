@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਬਿਲਾਵਲੁ, ਘਰ ੫ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਦੋ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਪਦੇ = ਦੋ ਬੰਦਾਂ ਵਾਲੇ ਸ਼ਬਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਉਤੇ ਪੂਰੇ ਤੌਰ ਤੇ ਤੁਰਨਾ-ਇਹ ਹੈ ਬਹਿਸ਼ਤ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿਸਤੁ = ਬਹਿਸ਼ਤ। ਪੀਰ ਲਫਜ = ਗੁਰੂ ਦੇ ਬਚਨ। ਅੰਦਾਜਾ = ਅੰਦਾਜ਼ੇ ਨਾਲ, ਪੂਰੇ ਤੌਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

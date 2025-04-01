@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਤੇਰੀ ਹਰੇਕ ਆਸ ਪੂਰੀ ਕਰਦਾ ਹੈ, ਤੇਰਾ ਹਰੇਕ ਫੁਰਨਾ ਪੂਰਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = {मनीषा} ਮਨ ਦਾ ਫੁਰਨਾ। ਪੂਰੈ = ਪੂਰੀ ਕਰਦਾ ਹੈ। ਥਾਰੀ = ਤੇਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਭ ਤੋਂ ਉੱਚੇ (ਆਤਮਕ) ਟਿਕਾਣੇ ਉੱਤੇ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਊਚ = ਸਭਨਾਂ ਤੋਂ ਉੱਚਾ। ਬਿਰਾਜੇ = ਟਿਕਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

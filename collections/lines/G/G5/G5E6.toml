@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ (ਦੇਣ ਵਾਲਾ) ਹੈ, ਗੁਰੂ (ਪਰਮਾਤਮਾ ਦੀ) ਭਗਤੀ (ਸਿਖਾਣ ਵਾਲਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

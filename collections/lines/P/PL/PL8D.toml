@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੱਪੜੇ ਨਹੀਂ ਪਾਂਦਾ, ਤੇ ਦਿਨ ਰਾਤ ਔਖਾ ਹੋ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਕਹਰੈ = ਦੁੱਖ ਸਹਾਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਰੇ ਜਗਤ ਵਿਚ ਪਰਮਾਤਮਾ) ਆਪ ਹੀ ਵਿਆਪਕ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ = ਸਿਰਫ਼ ਆਪ ਹੀ। ਵਰਤੈ = ਵਿਆਪਕ ਹੈ। ਬੀਆ = ਦੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

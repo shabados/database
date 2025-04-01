@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਵਾਈ ਨਾਲ (ਸਾਰੇ) ਰੋਗ ਉਠਾਏ ਜਾ ਸਕਣ ਤੇ ਸਰੀਰ ਵਿਚ ਸੁਖ ਆ ਵੱਸੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਦਾਰੂ = ਜਿਸ ਦਵਾਈ ਨਾਲ। ਉਠਿਅਹਿ = ਉਡਾਏ ਜਾ ਸਕਣ। ਤਨਿ = ਸਰੀਰ ਵਿਚ। ਆਇ = ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! \"ਕੂੜ\" (ਦਾ ਸੂਤਰ) ਕੱਤਣ ਨਾਲ \"ਕੂੜ\" ਦਾ ਹੀ ਤਾਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੈ ਕਤਿਐ = ਕੂੜ-ਰੂਪ ਸੂਤ ਕੱਤਣ ਨਾਲ। ਤਾਣੁ = ਤਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

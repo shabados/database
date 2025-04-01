@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਰਦ, ਧ੍ਰੂ ਪ੍ਰਹਲਾਦ, ਸੁਦਾਮਾ- ਜੋ ਹਰੀ ਦੇ ਪੂਰਬਲੇ ਜੁਗਾਂ ਦੇ ਭਗਤ ਗਿਣੇ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਬ = ਪੂਰਬਲੇ (ਜੁਗਾਂ ਦੇ)। ਗਣੰ = ਗਿਣੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

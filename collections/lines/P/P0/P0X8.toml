@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਤੇ) ਹੇ ਨਾਨਕ! ਨਾਮ ਜਪਹੁ, (ਨਾਮ ਹੀ) ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ (ਹੈ) ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਤਾਸੁ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਪਰਮਾਤਮਾ (ਹੀ) ਜਗਤ ਦਾ ਆਸਰਾ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ (ਆਸਰਾ) ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗ ਜੀਵਨ = ਜਗਤ ਦਾ ਜੀਵਨ, ਜਗਤ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

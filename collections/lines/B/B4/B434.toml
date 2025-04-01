@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦੋਂ ਮੈਂ ਹਰ ਪਲ ਛਿਨ ਉਸ ਦੀ ਯਾਦ ਵਿਚ ਗੁਜ਼ਾਰਦਾ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦਮੇ ਕੂ ਬਿਗੁਜ਼ਰਦ ਦਰ ਯਾਦਿ ਆਂ ।੨੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

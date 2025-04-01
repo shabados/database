@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਨ ਵਿਚ ਤੇ ਮਰਨ ਵਿਚ ਭੀ ਸਾਡੀ ਕੋਈ ਸਮਰਥਾ (ਕੰਮ ਨਹੀਂ ਦੇਂਦੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਣਿ = ਜੀਵਣ ਵਿਚ। ਮਰਣਿ = ਮਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

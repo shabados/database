@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਸੰਗਤ ਦੇ ਆਸਰੇ ਹੀ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਹਮਾ ਮੌਕੂਫ਼ ਬਰ ਸੁਹਬਤ ਬਵਦ ।੪੫੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

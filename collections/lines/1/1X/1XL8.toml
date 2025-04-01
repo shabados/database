@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ) ਜਮਦੂਤ ਬੜੇ ਡਰਾਉਣੇ (ਲੱਗ ਰਹੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਇਆਨ = ਭਿਆਨਕ, ਡਰਾਵਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

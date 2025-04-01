@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਠਦਿਆਂ ਬੈਠਦਿਆਂ, ਖਾਂਦਿਆਂ, ਸਾਹ ਲੈਂਦਿਆਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ = ਸਾਹ ਦੇ ਨਾਲ। ਗਿਰਾਸਿ = ਗਿਰਾਹੀ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

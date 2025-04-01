@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਉਮੈ ਇਸ ਵਿਚਾਰੇ ਦੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਲੁੱਟ ਲੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰਮੇਵ = {अहं एव = ਮੈਂ ਹੀ ਮੈਂ ਹੀ} ਹਉਮੈ। ਮੂਠੋ = ਠੱਗਿਆ ਹੋਇਆ। ਬੇਚਾਰਾ = ਨਿਮਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਓ! ਅਬਿਨਾਸੀ ਕੰਤ-ਪ੍ਰਭੂ ਦੇ ਗੁਣ (ਉਪਕਾਰ) ਵੇਖ ਵੇਖ ਕੇ ਮੈਂ ਤਾਂ ਹੈਰਾਨ ਹੀ ਹੋ ਗਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮ = ਹੈਰਾਨ। ਬਿਸਮਨ ਬਿਸਮ = ਬਹੁਤ ਹੀ ਹੈਰਾਨ। ਪੇਖਿ = ਵੇਖ ਕੇ। ਅਬਿਨਾਸੀ = ਨਾਸ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

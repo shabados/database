@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ) ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਸੰਬੰਧ ਨਾਲ ਜਗਤ (ਦਾ ਵਿਹਾਰ) ਚੱਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਤੁ ਗੰਢਿ = ਇਸ ਗਾਂਢੇ ਨਾਲ, ਇਸ ਸੰਬੰਧ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

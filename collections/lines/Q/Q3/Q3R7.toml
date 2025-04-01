@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਮਝਿਆ ਕਿ ਇਹ ਕੋਈ ਵੱਡਾ ਹੰਸ ਹੈ, ਇਸੇ ਕਰ ਕੇ ਮੈਂ ਉਸ ਦੀ ਸੰਗਤ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਹੰਸੁ = ਵੱਡਾ ਹੰਸ। ਸੰਗੁ = ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ?) ਜਦੋਂ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਇਸ ਨੂੰ ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ, ਤਾਂ ਇਹ ਜੀਵ ਭੀ ਕੁਰਾਹੇ ਪੈ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਸਮਿ = ਖਸਮ ਨੇ। ਭੂਲਾ = ਕੁਰਾਹੇ ਪੈ ਗਿਆ। ਭੁਲਾਇਆ = ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ। ਜਾ = ਜਾਂ, ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

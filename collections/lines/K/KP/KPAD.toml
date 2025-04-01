@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਖਾਸ ਬੰਦੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਚਰਨਾਂ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਸਗਾਂ ਦਰ ਪਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 119
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਇਉਂ ਸਹਾਈ ਹੁੰਦਾ ਹੈ) ਜਿਵੇਂ ਜੁੱਧ ਵਿਚ ਭਰਾ ਸਹਾਈ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਣ = ਲੜਾਈ, ਜੁੱਧ। ਸਖਾ = ਸਹਾਈ। ਭ੍ਰਾਤ = ਭਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

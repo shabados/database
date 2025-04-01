@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਮੇਰੇ) ਦਿਲ ਵਿੱਚੋਂ ਰੱਬ ਤੋਂ ਬਿਨਾਂ ਸਭ ਕੁਝ ਦੂਰ ਕਰ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਹੱਕ ਅਜ਼ ਖ਼ਾਤਰਿ ਦਿਲਿ ਦੂਰ ਕੁਨ ।੫੧੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰੋਂ) ਕਾਮ ਕ੍ਰੋਧ (ਆਦਿਕ) ਝੱਲ-ਪੁਣੇ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟਹਿ = ਮਿਟ ਜਾਂਦੇ ਹਨ {ਮਿਟੈ = ਇਕ-ਵਚਨ}। ਉਨਮਾਦ = {उन्माद = madness, insanity} ਝੱਲ-ਪੁਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

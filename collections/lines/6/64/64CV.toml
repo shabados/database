@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਕਰਤਾਰ ਆਪ ਹੀ (ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨੂੰ) ਪੈਦਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜੇ = ਪੈਦਾ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

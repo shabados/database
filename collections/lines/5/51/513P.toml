@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! (ਜੇ) ਕੱਜਲ, ਹਾਰ, ਪਾਨ-ਇਹ ਸਭ ਕੁਝ ਤਿਆਰ ਭੀ ਕਰ ਲਿਆ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀਏ! ਕਾਜਲ = ਕੱਜਲ, ਸੁਰਮਾ। ਤੰਬੋਲ = ਪਾਨ। ਸਾਜਿਆ = ਤਿਆਰ ਕਰ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

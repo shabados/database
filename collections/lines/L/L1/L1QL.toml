@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਸਾਰੀ ਰੰਗ ਰਸ ਭੋਗਨ ਵਾਲਾ ਜੀਵਨ ਨਾਸ਼ਵਾਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਲਿਬਾਸਿ ਦੁਨਯਵੀ ਫ਼ਾਨੀ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

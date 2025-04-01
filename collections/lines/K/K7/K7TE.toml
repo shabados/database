@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ ਲਿਆਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

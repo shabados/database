@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਇਹਨਾਂ ਰੰਗਾਂ ਦੇ) ਮੋਹ ਵਿਚ ਕਿਉਂ ਮਸਤ ਹੋ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਮਗਨੇਰੈ = ਮਗਨ, ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

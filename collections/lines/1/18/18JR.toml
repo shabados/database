@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਜੀਵਾਂ ਦੇ ਮਨ ਵਿਚ) ਮੇਰ-ਤੇਰ ਤੂੰ ਆਪ ਹੀ ਪੈਦਾ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰਾ ਤੇਰਾ = ਮੇਰ-ਤੇਰ, ਵਿਤਕਰਾ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

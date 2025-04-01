@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਇੰਦ੍ਰ ਉਸ ਦੇ ਦਰ ਤੇ ਖੜੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢੇ = ਖਲੋਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

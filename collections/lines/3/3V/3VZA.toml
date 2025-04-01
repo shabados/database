@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਮਿਹਰ ਸਦਕਾ ਇਸ ਜਹਾਨ ਦੀ ਕਾਮਨਾ ਪੂਰੀ ਹੁੰਦੀ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਨਿ ਜ਼ਿ ਫ਼ੈਜ਼ਸ਼ ਹਮ ਆਗੋਸ਼ਿ ਕਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

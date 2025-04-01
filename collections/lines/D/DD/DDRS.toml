@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪਰਮਾਤਮਾ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈ ਅਤੇ ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਥ ਕਥ = ਜਿਥੇ ਕਿਥੇ, ਹਰ ਥਾਂ। ਰਮਣੰ = ਵਿਆਪਕ। ਸਰਣੰ = ਓਟ, ਆਸਰਾ (शरणं)। ਸਰਬਤ੍ਰ = ਸਾਰੇ (सर्वत्र = in all places)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

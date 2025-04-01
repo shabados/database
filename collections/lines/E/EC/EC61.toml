@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਦੇ) ਚਸਕੇ, ਝਗੜੇ, ਸਾੜਾ, ਮਾਇਆ ਦਾ ਮਾਣ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦ = ਝਗੜੇ। ਈਰਖ = ਸਾੜਾ। ਮਦ = ਅਹੰਕਾਰ, ਨਸ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

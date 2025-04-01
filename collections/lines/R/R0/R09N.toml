@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਣ-ਹੀਨ ਸਾਂ, ਮੈਂ ਨਿਆਸਰਾ ਸਾਂ (ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ ਪ੍ਰਭੂ ਦੀ) ਸਰਨ ਆ ਪਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਨ। ਅਨਾਥੁ = ਨਿਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

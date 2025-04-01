@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ) ਭੈੜੇ ਜੀਵ ਨੇ (ਤੇਰਾ) ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ ਹੈ, ਮੋਹ ਵਿਚ ਡੁੱਬੇ ਹੋਏ ਦੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਡੜੈ = ਭੈੜੇ ਨੇ। ਬੂਡੜੈ = ਡੁੱਬੇ ਹੋਏ ਦਾ। ਚਾਰੋ = ਚਾਰਾ, ਜ਼ੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

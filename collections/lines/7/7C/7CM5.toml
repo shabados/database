@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲਾਪਤੀ! ਹੇ ਨਿਰੰਜਨ! ਮੇਰੇ ਲਈ ਤੂੰ ਹੀ  ਹੈਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਜਨੁ = ਮਾਇਆ ਤੋਂ ਰਹਿਤ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

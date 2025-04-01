@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਸਦਾ ਹੀ ਹਰ ਵੇਲੇ ਮਨੁੱਖ ਨਾਲ ਸਾਥ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਸ਼ੁਰੂ ਵਿਚ। ਮਧਿ = (ਜ਼ਿੰਦਗੀ ਦੇ) ਵਿਚਕਾਰ। ਅੰਤਿ = (ਜੀਵਨ ਦੇ) ਅਖ਼ੀਰ ਵਿਚ। ਨਿਬਾਹੈ = ਸਾਥ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

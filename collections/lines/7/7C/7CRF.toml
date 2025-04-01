@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਦੇ ਦਰ ਤੋਂ) ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਮੰਗਣਾ ਸਭ ਤੋਂ ਚੰਗਾ ਕੰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ = ਹੇ ਲਾਲ! ਹੇ ਪਿਆਰੇ! ਭਲੋ = ਚੰਗਾ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

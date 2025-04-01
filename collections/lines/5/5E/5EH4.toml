@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਉਧਰ ਇਹ ਵੱਡੇ ਚੰਡਾਲ (ਆਪਣਾ ਜ਼ੋਰ ਪਾ ਰਹੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਦੇਖਉ = ਦੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਮਹਾ = ਵੱਡੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

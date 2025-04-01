@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਮੂਰਖ ਵੀ ਉਥੇ ਦਿਲ ਵਾਲਾ ਹੋ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਹਿਲ ਆਣ-ਜਾ ਸਾਹਿਬਿ-ਦਿਲ ਮੀਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

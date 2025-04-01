@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ (ਆਪਣੇ ਅੰਦਰ) ਇਕੱਠੇ ਕਰਦਾ ਹੈ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਉ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

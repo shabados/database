@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਹੋ ਜਿਹੀ ਰੀਤ ਨੂੰ ਸਾੜ ਦਿਆਂ ਜਿਸ ਕਰਕੇ ਪਿਆਰਾ ਪ੍ਰਭੂ ਮੈਨੂੰ ਵਿਸਰ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਲਉ = ਮੈਂ ਸਾੜ ਦਿਆਂ। ਮੈ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

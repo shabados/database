@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਸੱਚੇ ਪਾਤਸ਼ਾਹ ਦੀ ਮਾਲਕੀ ਅਤੇ ਵਡਿਆਈ ਮੰਨੀ ਪ੍ਰਮੰਨੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬੀ ਬਾਸ਼ਦ ਮੁਸੱਲਮ ਸ਼ਾਹ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

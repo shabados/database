@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਦਯ! ਹੇ ਗੋਸਾਈਂ!) ਹੇ ਮੇਰੇ ਪ੍ਰਾਣਾਂ ਦੇ ਆਸਰੇ ਪ੍ਰਭੂ! ਮਾਂ, ਪਿਉ, ਪੁੱਤਰ, ਰਿਸ਼ਤੇਦਾਰ (ਸਭ ਕੁਝ ਮੇਰਾ) ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਪੋ = ਬੰਧਪੁ, ਰਿਸ਼ਤੇਦਾਰ। ਅਧਾਰ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

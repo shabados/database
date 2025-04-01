@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਨ ਵਾਲੀ ਅਕਲ ਹੋਰ ਕਿਸਮ ਦੀ ਹੁੰਦੀ ਹੈ (ਉਸ ਵਿਚ ਵਿਖਾਵਾ ਨਹੀਂ ਹੁੰਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ = ਅਕਲ। ਹੋਰਾ = ਹੋਰ ਕਿਸਮ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

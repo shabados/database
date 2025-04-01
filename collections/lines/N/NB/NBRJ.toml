@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ (ਜੀਵਾਂ ਦੀ) ਸਾਰ ਲੈ ਕੇ ਸੰਭਾਲ ਕਰ ਕੇ ਰੱਖਿਆ ਕਰਦਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰਿ = ਸਾਂਭ ਕੇ, ਸਾਰ ਲੈ ਕੇ। ਸਮਾਲਿ = ਸੰਭਾਲ ਕਰ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

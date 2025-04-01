@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ) ਜੋ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਕਰ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਣ ਭਾਣਿਆ = ਆਪਣੀ ਰਜ਼ਾ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਸ਼ਾਹਾਣ ਵਰਗੇ ਰੰਗੀਨ ਕਪੜੇ ਮੇਰੇ ਗਲ ਵਿਚ ਪਾ ਦਿੱਤੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂ ਸ਼ਾਹਮ ਜਾਮਾ ਰੰਗੀਨ ਦਰ ਗੁਲੂ ਕਰਦ ।੩੩।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

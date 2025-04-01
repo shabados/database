@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਪੜ੍ਹਿਆ ਕਰ, (ਇਹੀ) ਸ੍ਰੇਸ਼ਟ (ਕੰਮ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ (ਕੰਮ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇ ਉਹ ਸਾਗਰ ਦੀ ਚੌੜਿੱਤਣ ਵਿੱਚੋਂ ਇੱਕ ਲਹਿਰ ਵਾਂਗ ਉਠਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੂ ਮੌਜ ਅਜ਼ ਪੈਹਨਿ ਦਰਿਆ ਰੂ ਨਮੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

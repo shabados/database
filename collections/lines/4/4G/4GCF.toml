@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ (ਮਨੁੱਖ) ਨੂੰ। ਸੰਤਾਪ = ਕਲੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

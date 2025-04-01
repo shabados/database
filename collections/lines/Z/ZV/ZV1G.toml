@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਵੇਖ, (ਜਦੋਂ) ਗਿਆਨ ਦੀ ਹਨੇਰੀ ਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਯ੍ਯਾਨ = ਸਮਝ {ਨੋਟ: ਅੱਖਰ 'ਗ' ਦੇ ਹੇਠਾਂ ਅੱਧਾ ਅੱਖਰ 'ਯ' ਹੈ}। ਆਂਧੀ = ਹਨੇਰੀ, ਝੱਖੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

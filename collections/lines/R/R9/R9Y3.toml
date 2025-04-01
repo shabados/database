@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸੱਚੇ ਗਿਆਨ ਦੀ ਜੇ ਤੈਨੂੰ ਪੂਰੀ ਪੂਰੀ ਚਾਹ ਹੋ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਇਰਫ਼ਾਨਸ਼ ਅਗਰ ਕਾਮਿਲ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

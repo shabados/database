@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ)ਕਬੀਰ ਆਖਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ ਤੇ ਹੁਣ ਆਪਣਾ ਗਿਆਨ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

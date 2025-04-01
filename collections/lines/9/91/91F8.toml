@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਰਚਨਹਾਰ! ਤੂੰ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈਂ ਤੇ ਸਭ ਜੀਵਾਂ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਹੇ ਅਦ੍ਰਿਸ਼ਟ! ਸਿਰੰਦਿਆ = ਹੇ ਸਿਰੰਦੇ! ਹੇ ਪੈਦਾ ਕਰਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

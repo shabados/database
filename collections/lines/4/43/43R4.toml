@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਦੇ ਇਹ ਕਦੇ ਨਾਹ ਮੁੱਕ ਸਕਣ ਵਾਲੇ ਕੰਮ ਕਦੇ ਸਿਰੇ ਨਹੀਂ ਚੜ੍ਹਦੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਨੇ = ਅਧੂਰੇ, ਕਦੇ ਸਿਰੇ ਨਾਹ ਚੜ੍ਹਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਦੇ ਪੂਰੇ ਭਾਗ ਜਾਗ ਪੈਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗ = ਕਿਸਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

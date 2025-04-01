@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਇਕ ਸ਼ੋਖ ਅੱਖ ਦੁਨੀਆ ਨੂੰ ਰੌਣਕਾਣ ਬਖਸ਼ਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੌਣਕ ਅਫ਼ਜ਼ਾਇ ਜਹਾਣ ਈਣ ਚਸ਼ਮਿ ਸ਼ੋਖ ।੧੮।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

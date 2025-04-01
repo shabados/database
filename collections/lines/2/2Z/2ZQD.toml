@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ ਭੀ ਤੇਰੀ ਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਉਚਾਰੀ ਜਾ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਥੇ, ਇਸ ਲੋਕ ਵਿਚ। ਭਣੀਐ = ਉਚਾਰਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਹੁੰ ਪਾਸੀਂ ਹੀ ਜਲਾਂ ਵਿਚ ਥਲਾਂ ਵਿਚ ਵਰਖਾ ਹੋ ਰਹੀ ਹੈ ਕੋਈ ਥਾਂ ਐਸਾ ਨਹੀਂ ਜਿਥੇ ਵਰਖਾ ਨਹੀਂ ਹੁੰਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਹੁ ਦਿਸਿ = ਚਹੁ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

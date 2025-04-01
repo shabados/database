@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਡਾ ਸਿਰ ਸਦਾ ਉਸ ਦੇ ਚਰਨਾਂ ਤੇ ਰਹੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰਿ ਮਾ ਬਪਾਇਸ਼ ਬਵਦ ਬਰ ਦਵਾਮ ।"
+page = 2
+line = 62
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

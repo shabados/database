@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਪੰਛੀ ਬਣ ਕੇ ਉੱਡ ਸਕਾਂ ਤੇ ਸੈਂਕੜੇ ਅਸਮਾਨਾਂ ਤਕ ਪਹੁੰਚ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੈ = ਸੈਂਕੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

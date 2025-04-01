@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪ੍ਰਭੂ ਦੀ ਕਦੇ ਨਾਹ ਮੁੱਕ ਸਕਣ ਵਾਲੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਦੀ ਦਾਤਿ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਅਕਥ = ਬਿਆਨ ਕੀਤਿਆਂ ਕਦੇ ਨਾਹ ਮੁੱਕਣ ਵਾਲੀ। ਕਹਾਣੀ = ਗੁਣਾਂ ਦਾ ਵਰਣਨ, ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਪ੍ਰੇਮ ਦੀ ਸ਼ਾਨ ਵਾਲੀ ਪੁਸਤਕ ਪੜ੍ਹ ਲਵੇਂ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਰ ਤੂ ਖ਼ਾਨੀ ਨੁਸਖ਼ਾ ਅਜ਼ ਸ਼ਾਨਿ ਇਸ਼ਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

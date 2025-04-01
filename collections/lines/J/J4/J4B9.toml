@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸਖੀਓ! ਹੇ ਮੇਰੀ ਸਹੇਲੀਓ! ਮੇਰੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਆਤਮਕ ਆਨੰਦ ਬਣ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਖੀਓ! ਸਹੇਰੀ = ਹੇ ਸਹੇਲੀਹੋ! ਮੇਰੈ ਗ੍ਰਸਤਿ = ਮੇਰੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਰਤੀ ਦੇ ਖਸਮ! ਮੈਂ ਆਸਵੰਤ ਦੀ ਆਸ ਪੂਰੀ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਾਵੰਤੀ = ਆਸਵੰਤ, ਜਿਸ ਨੇ ਆਸ ਲਾਈ ਹੋਈ ਹੈ। ਗੁਸਾਈ = ਹੇ (ਗੋ-ਸਾਂਈ) ਧਰਤੀ ਦੇ ਮਾਲਕ! ਪੂਰੀਐ = ਪੂਰੀ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

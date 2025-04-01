@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਤਿਗੁਰੂ-ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਮੇਰਾ ਮਨ ਤੇਰੀ ਸਰਨ ਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੇ ਸਤਿਗੁਰ = ਹੇ ਮੇਰੇ ਗੁਰੂ-ਪਰਮਾਤਮਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

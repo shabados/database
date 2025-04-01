@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਇਹ ਯਕੀਨ ਬਣ ਜਾਏ ਕਿ) ਉਹ ਪ੍ਰਭੂ ਹੀ ਜਲ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ ਵਿਆਪਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ = ਜਦੋਂ। ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀ ਤਲਿ, ਧਰਤੀ ਦੀ ਸਤਹ ਉੱਤੇ, ਪੁਲਾੜ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

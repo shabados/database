@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਭਾਈ!) ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਸਾਂਭ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਮਨਹਿ = ਮਨ ਵਿਚ। ਸਮਾਲੇ = ਸਮਾਲਿ, ਸਾਂਭ ਕੇ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

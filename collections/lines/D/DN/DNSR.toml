@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ! ਹੇ ਅਪਹੁੰਚ! ਹੇ ਮੁਰਾਰਿ! ਤੇਰਾ ਦਾਸ (ਨਾਨਕ) ਤੇਰੀ ਸਰਨ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਊਚ = ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ! ਅਗਮ = ਹੇ ਅਪਹੁੰਚ! ਮੁਰਾਰ = ਹੇ ਮੁਰਾਰਿ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ ਅਪਵਿੱਤਰ, ਪਿਉ ਅਪਵਿੱਤਰ, ਇਹਨਾਂ ਤੋਂ ਜੰਮੇ ਹੋਏ ਬਾਲ-ਬੱਚੇ ਭੀ ਅਪਵਿੱਤਰ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੂਠੀ = ਅਪਵਿੱਤਰ। ਫਲ ਲਾਗੇ = ਲੱਗੇ ਹੋਏ ਫਲ, ਬਾਲ-ਬੱਚੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

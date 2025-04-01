@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਾ-ਭਾਵ ਦੇ ਖ਼ਤਮ ਹੋਣ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਪੂਰਨ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਉਕਾਈਆਂ ਤੋਂ ਬਚ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਾ = ਪੂਰਨ, ਮੁਕੰਮਲ ਉਕਾਈ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

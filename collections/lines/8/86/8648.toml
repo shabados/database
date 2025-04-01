@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਵਿਚ) ਕਿਵੇਂ ਬੱਝ ਜਾਂਦਾ ਹੈ ਤੇ ਕਿਵੇਂ (ਉਹਨਾਂ ਬੰਧਨਾਂ ਤੋਂ) ਸੁਤੰਤਰ ਹੁੰਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ ਬਿਧਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

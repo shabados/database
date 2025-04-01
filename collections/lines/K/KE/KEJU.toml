@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੱਤਕ ਦੇ ਮਹੀਨੇ ਕੂੰਜਾਂ (ਆਉਂਦੀਆਂ ਹਨ); ਚੇਤਰ ਵਿਚ ਜੰਗਲਾਂ ਨੂੰ ਅੱਗ (ਲੱਗ ਪੈਂਦੀ ਹੈ), ਸਾਉਣ ਵਿਚ ਬਿਜਲੀਆਂ (ਚਮਕਦੀਆਂ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਿ = ਚੇਤਰ (ਦੇ ਮਹੀਨੇ) ਵਿਚ। ਡਉ = ਜੰਗਲ ਦੀ ਅੱਗ। ਸਾਵਣਿ = ਸਾਵਣ ਦੇ ਮਹੀਨੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

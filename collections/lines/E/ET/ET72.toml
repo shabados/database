@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਵਾਲੀ ਸੜਨ ਮਿਟ ਗਈ ਹੈ। ਮਾਇਆ ਦਾ ਬਦਲਾ ਭਾਂਬੜ ਬੁੱਝ ਗਿਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਤਿ = ਤਪਸ਼, ਸੜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

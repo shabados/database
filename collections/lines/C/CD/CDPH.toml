@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਕੋਈ ਜੀਵ ਮੂਰਖ ਹੈ, ਨਾਹ ਕੋਈ ਸਿਆਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ ਮਨੁੱਖ। ਮੂੜੁ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

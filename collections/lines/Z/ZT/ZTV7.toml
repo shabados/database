@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਨੂੰ (ਸਦਾ) ਚੇਤੇ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤ ਭੂਲਹਿ = ਕਿਤੇ ਭੁਲਾ ਨਾਹ ਦੇਈਂ। ਚੇਤਿ = ਯਾਦ ਕਰ, ਸਿਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

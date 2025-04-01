@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਤੂੰ 'ਨਾਮ' ਸਿਮਰ, (ਇਸ ਤੋਂ ਛੁਟ) ਹੋਰ ਦੂਜਾ ਕੋਈ (ਸਹੀ ਰਸਤਾ) ਨਹੀਂ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜਉ = ਦੂਜਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

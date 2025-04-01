@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨ ਦੇ ਚਿਤਵੇ ਹੋਏ ਫਲ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਚਿੰਦੇ = ਮਨ ਦੇ ਚਿਤਵੇ ਹੋਏ। ਪਾਇ = ਪਾਂਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

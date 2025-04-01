@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਨਾਨਕ! (ਸੰਤਾਂ ਦੀ ਸੰਗਤ) ਭਾਗਾਂ ਨਾਲ ਲੱਭਦੀ ਹੈ ॥੧੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਬਧ = (लब्ध) ਲੱਭਦਾ। ਕਰਮਣਹ = ਭਾਗਾਂ ਨਾਲ ॥੧੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

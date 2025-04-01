@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਬੇੜੀ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਨਦੀ ਦੇ ਪਾਰਲੇ ਪਾਸੇ ਨਹੀਂ ਅੱਪੜ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਅੰਬੜੈ = ਨਹੀਂ ਅੱਪੜ ਸਕਦਾ। ਪਾਰਿ = (ਦਰੀਆ ਦੇ) ਪਾਰਲੇ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

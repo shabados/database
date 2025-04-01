@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਦਿਨ ਹੈ ਆਪ ਹੀ ਰਾਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਨਸੁ = ਦਿਨ। ਰੈਣੀ = {रजनि} ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

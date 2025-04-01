@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਥੇ ਕਿਸੇ ਦਾ ਦੂਜਾ ਤੀਜਾ ਦਰਜਾ ਨਹੀਂ, ਸਭ ਇਕੋ ਜਿਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਮ ਸੇਮ = ਦੂਜਾ ਤੀਜਾ (ਦਰਜਾ)। ਏਕ ਸੋ = ਇਕੋ ਜੈਸੇ। ਆਹੀ = ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

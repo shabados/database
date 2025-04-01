@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਸਾਰੇ ਡਰ-ਸਹਿਮ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੀ = ਜਿਸ (ਗੁਰੂ) ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

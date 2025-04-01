@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿ) ਜਿੱਥੇ ਸੰਤ ਜਨ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਂਦੇ ਹੋਣ, ਉੱਥੇ ਮੇਰਾ ਮਨ ਪਰਚਿਆ ਰਹੇ ॥੪॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਗਾਵਹਿ = ਗਾਉਂਦੇ ਹਨ। ਲਾਗੈ = ਪਰਚਿਆ ਰਹੇ ॥੪॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

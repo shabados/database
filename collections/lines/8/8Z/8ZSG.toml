@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ-ਜਨ ਅਜਿੱਤ ਸੂਰਮਿਆਂ ਦੀ ਸੈਨਾ ਹੈ। ਗ਼ਰੀਬੀ ਸੁਭਾਉ ਉਹਨਾਂ ਦੇ ਸਰੀਰ ਉਤੇ ਸੰਜੋਅ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੈਨਾ = ਫ਼ੌਜ (सेना)।ਸਾਧ ਸਮੂਹ = ਸਾਰੇ ਸਾਧ, ਸੰਤ ਜਨ। ਸੂਰ = ਸੂਰਮੇ। ਸੰਨਾਹੰ = ਸੰਜੋਅ (संनाह = armour)। ਤਨਿ = ਤਨ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

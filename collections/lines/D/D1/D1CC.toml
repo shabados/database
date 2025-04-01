@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਹੀ ਇਸ ਜ਼ਿੰਦਗੀ ਦੀ ਪਰਾਪਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਲਿ ਈਂ ਜ਼ਿੰਦਗੀ ਯਾਦਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

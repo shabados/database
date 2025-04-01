@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਜਗਤ ਵਿਚ (ਹੀ) ਇਕ ਰਤਨ (ਭੀ ਹੈ, ਉਹ ਹੈ) ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਦਾ ਰਤਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਵਿਚਿ = ਇਸ ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

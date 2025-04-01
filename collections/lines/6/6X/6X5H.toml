@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ,) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਮੇਰਾ ਧਨ ਹੈ, ਇਹ ਧਨ ਮੇਰੇ ਨਾਲ ਸਾਥ ਕਰਦਾ ਹੈ, ਮੈਂ ਜਿਥੇ ਭੀ ਜਾਂਦਾ ਹਾਂ ਇਹ ਧਨ ਮੇਰੇ ਨਾਲ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

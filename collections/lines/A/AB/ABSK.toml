@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਨਾਨਕ (ਭੀ) ਤੇਰਾ ਨਾਮ ਮੰਗਦਾ ਹੈ, ਮਿਹਰ ਕਰ ਤੇ ਮਿਲਾਪ ਬਖ਼ਸ਼ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੋਗੁ = ਮਿਲਾਪ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

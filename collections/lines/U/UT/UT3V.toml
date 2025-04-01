@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਡੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ? ਅਸੀਂ ਬਹੁਤ ਛੋਟੇ ਕਿਰਮ ਹਾਂ, ਨਿੱਕੇ ਨਿੱਕੇ ਕੀੜੇ ਹਾਂ, ਤੂੰ ਵੱਡਾ ਪੁਰਖ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਹਮ = ਸਾਡੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ? ਕਿਰਮ = ਕੀੜੇ। ਨਾਨ੍ਹ੍ਹ = ਨੰਨ੍ਹੇ, ਬਹੁਤ ਛੋਟੇ। ਨਿਕ = ਨਿੱਕੇ ਨਿੱਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

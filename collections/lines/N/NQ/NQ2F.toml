@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਚੰਗੇ ਸੰਤ ਜਨ ਮਿਲਾ, ਮੈਨੂੰ ਗੁਰੂ ਦੀ ਸਰਨ ਵਿਚ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਨੀਕੇ ਸਾਧ = ਚੰਗੇ ਸੰਤ ਜਨ। ਸਾਧੂ = ਗੁਰੂ। ਰਾਖਾ = ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

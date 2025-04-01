@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਦੇ ਕੀੜੇ ਹਾਥੀ ਭੰਬਟ (ਆਦਿਕ) ਜੀਵ ਬਣਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਟ = ਕੀੜਾ। ਹਸਤਿ = ਹਾਥੀ। ਪਤੰਗ = ਭੰਬਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

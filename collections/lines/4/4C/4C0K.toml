@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਹਰ ਰੋਜ਼ ਪ੍ਰਭੂ ਦਾ ਕੀਰਤਨ ਹੀ ਉੱਚਾਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਬਖ੍ਯ੍ਯਾਨੁ = ਉੱਚਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

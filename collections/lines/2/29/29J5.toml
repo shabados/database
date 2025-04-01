@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੈਰਾਂ ਨਾਲ ਰੱਬ ਦੇ ਰਾਹ ਤੇ ਤੁਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲਉ = ਚਲੋ। ਮਾਰਗਿ = ਰਸਤੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

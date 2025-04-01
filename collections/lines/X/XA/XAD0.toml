@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀਓ! ਹੇ ਸਹੇਲੀਓ! ਸੁਣੋ, ਆਓ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਵੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀਅ = ਹੇ ਸਖੀਓ! ਮਿਲਿ = ਮਿਲ ਕੇ। ਮੰਗਲੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ। ਗਾਵਹ = ਆਓ ਅਸੀਂ ਗਾਵੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

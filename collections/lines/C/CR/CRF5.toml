@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਹੜਾ ਉਪਦੇਸ਼ ਹੈ ਜਿਸ ਉੱਤੇ ਤੁਰ ਕੇ ਮਨੁੱਖ ਦੁੱਖ ਸੁਖ ਇਕੋ ਜਿਹੇ ਸਹਾਰ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮ = ਇਕੋ ਜਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

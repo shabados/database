@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਗੁਰਮੁਖ ਉਤੇ) ਪ੍ਰਭੂ ਆਪ ਦਿਆਲ ਹੁੰਦਾ ਹੈ ਤੇ ਉਹ ਨਾਮ ਵਿਚ ਹੀ ਲਿਵ ਲਾਈ ਰੱਖਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੇ = ਨਾਮ ਵਿਚ ਹੀ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

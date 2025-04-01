@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਮੇਰੇ ਮਨ ਵਿਚ ਇਹ ਸ਼ੱਕ ਉੱਠ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੈ, ਆਖਦਾ ਹੈ। ਹਉ = ਮੈਂ। ਉਦਾਸੁ = ਦੁਚਿੱਤਾ (undecided)। ਕਿ = ਜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

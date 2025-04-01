@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਠਾਰਾਂ ਪੁਰਾਣ ਅਤੇ ਛੇ ਸਾਸਤ੍ਰ ਕੰਨਾਂ ਨਾਲ ਸੁਣਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸ ਅਸਟ = ਅਠਾਰਾਂ ਪੁਰਾਣ। ਖਸਟ = ਛੇ ਸਾਸਤ੍ਰ। ਸ੍ਰਵਨ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

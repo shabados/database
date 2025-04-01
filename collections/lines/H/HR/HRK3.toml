@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਾਈ ਸਿਮ੍ਰਿਤੀਆਂ, ਅਠਾਰਾਂ ਪੁਰਾਣ, ਚਾਰ ਵੇਦ, ਛੇ ਸ਼ਾਸਤ੍ਰ ਜਿਸ ਪਰਮਾਤਮਾ ਨੂੰ ਜਪਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਤੁਰ = ਚਾਰ। ਖਟੁ = ਛੇ। ਜਪਾਤਿ = ਜਪਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

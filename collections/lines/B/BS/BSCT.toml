@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨ ਨੂੰ ਚੰਚਲਤਾ ਦੇ ਰੋਗ ਤੋਂ ਬਚਾਣ ਲਈ) ਮੈਂ ਅਨੇਕਾਂ ਦਵਾਈਆਂ (ਭਾਵ, ਉੱਦਮ) ਕਰ ਕੇ ਹਾਰ ਗਈ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖਧ = ਦਵਾਈਆਂ, ਇਲਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

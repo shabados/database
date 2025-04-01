@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਤਰਾ ਜਦ ਦਰੀਆ ਵਲ ਨੂੰ ਵੱਗ ਦੌੜਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਤਰਾ ਚੂੰ ਜਾਨਿਬਿ ਦਰਿਆ ਸ਼ਤਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

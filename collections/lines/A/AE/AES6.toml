@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਕਰਤਾਰ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ) ਤੇਰੇ ਮਾਂ ਪਿਉ ਨੇ ਮਿਲ ਕੇ ਤੇਰਾ ਸਰੀਰ ਬਣਾਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਪਿੰਡੁ = ਸਰੀਰ। ਕਮਾਇਆ = ਬਣਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

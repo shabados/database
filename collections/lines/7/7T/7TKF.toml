@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਦੇ ਸੰਤ ਜਨ ਪਿਆਰਿਓ! ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਸੁਣੋ (ਭਾਵ, ਸਿੱਖਿਆ ਤੇ ਤੁਰੋ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖੀ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

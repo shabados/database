@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੂੰ ਆਪ ਹੀ ਪੈਦਾ ਕੀਤੀ ਹੈ, ਤੇ ਭਰਮਾਂ ਵਿਚ ਕੁਰਾਹੇ ਪਾਈ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = (ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ। ਉਪਾਈ = ਪੈਦਾ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

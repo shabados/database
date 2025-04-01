@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਖ) ਹੇ ਨਾਨਕ! ਮੈਂ ਸਦਕੇ ਹਾਂ, ਉਹਨਾਂ ਹਰੀ ਦੇ ਦਾਸਾਂ ਤੋਂ ਜਿਨ੍ਹਾਂ ਨੇ ਸਿਰਜਣਹਾਰ ਨੂੰ ਆਰਾਧਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਿਆ = ਸਦਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ, ਕਿ) ਕੋਈ ਹੋਰ ਤੇਰੀ ਵਡਿਆਈ ਨਹੀਂ ਜਾਣਦਾ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਇ = ਕੋਈ ਹੋਰ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

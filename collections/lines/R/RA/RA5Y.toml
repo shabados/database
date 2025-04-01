@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਦਾ ਰੌਲਾ ਮੁੱਕ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਰੋ = ਸ਼ੋਰ, ਰੌਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

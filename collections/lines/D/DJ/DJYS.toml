@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦੇ ਸੇਵਕਾਂ ਨੇ ਇਹ ਵੇਖ ਲਿਆ ਹੈ (ਇਹ ਨਿਸਚਾ ਕਰ ਲਿਆ ਹੈ) ਕਿ ਹਰੇਕ  ਦਾਤ ਪ੍ਰਭੂ ਆਪ ਹੀ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਹਿ = ਦਾਸਾਂ ਨੇ। ਨਿਹਾਰਿਆ = ਵੇਖਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

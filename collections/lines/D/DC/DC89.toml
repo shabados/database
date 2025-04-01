@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਸਾਰੇ ਲਸ਼ਕਰ ਰੱਬ ਦੇ ਤਾਲਬ ਹੋ ਜਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਲਸ਼ਕਰ ਤਾਲਿਬਾਨਿ ਹੱਕ ਸ਼ੁਦੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

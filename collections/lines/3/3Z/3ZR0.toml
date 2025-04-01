@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਦੇ ਪੈਰੀਂ, ਮਾਨੋ, ਝਾਂਜਰਾਂ ਛਣ-ਛਣ ਕਰ ਰਹੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰਾਂ ਵਿਚ। ਨੇਵਰ = ਝਾਂਜਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

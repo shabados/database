@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੁੱਲ ਖ਼ਰੀਦਿਆ ਹੋਇਆ ਤੇਰਾ ਨਿਮਾਣਾ ਜਿਹਾ ਸੇਵਕ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈ ਖਰੀਦੁ = ਮੁੱਲ ਲਿਆ ਹੋਇਆ। ਹਉ = ਮੈਂ। ਦਾਸਰੋ = ਨਿਮਾਣਾ ਦਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

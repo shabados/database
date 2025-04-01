@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ ਆਪ ਹੀ (ਜੀਵਾਂ ਪਾਸੋਂ ਭਗਤੀ ਕਰਾਣ ਦਾ) ਸਬੱਬ ਪੈਦਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਣੁ = (ਭਗਤੀ ਕਰਨ ਦਾ) ਸਬੱਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

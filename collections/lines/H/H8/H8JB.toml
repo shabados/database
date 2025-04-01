@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਸ ਨੇ ਭੀ ਨਾਮ ਜਪਿਆ ਉਸ ਨੇ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਇਉਂ ਤਰ ਲਿਆ ਜਿਵੇਂ (ਪਾਣੀ ਨਾਲ ਭਰਿਆ ਹੋਇਆ) ਵੱਛੇ ਦੇ ਖੁਰ ਦਾ ਨਿਸ਼ਾਨ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰੁ = {ਸੰਸਾਰ-) ਸਮੁੰਦਰ। ਬਾਛਰ = ਵੱਛਾ। ਖੋਜ = ਖੁਰ ਦਾ ਨਿਸ਼ਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

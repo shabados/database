@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਿਰਪਾ ਦਾ ਸੋਮਾ ਪ੍ਰਭੂ ਨਾਹ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇ ਨ ਜਾਈ = ਨਾਹ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

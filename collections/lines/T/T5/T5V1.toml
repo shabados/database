@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਪੰਡਿਤ ਲੋਕ ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ ਤੇ ਸਿੱਧ ਸਮਾਧੀਆਂ ਲਾ ਲਾ ਕੇ ਥੱਕ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਘਰਿ = ਘਰ ਘਰ ਵਿਚ। ਘਰਿ ਘਰਿ ਪੰਡਿਤ = ਘਰ ਘਰ ਵਿਚ ਪੰਡਿਤ, (ਭਾਵ), ਅਨੇਕਾਂ ਪੰਡਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

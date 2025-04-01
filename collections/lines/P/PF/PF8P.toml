@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪੰਡਿਤ ਦੇ ਉਪਦੇਸ਼ ਨਾਲ (ਸਾਰਾ) ਸੰਸਾਰ ਰੂਹਾਨੀ ਜ਼ਿੰਦਗੀ ਹਾਸਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ ਨਾਲ। ਜੀਵੈ = ਜੀਊਂਦਾ ਹੈ, ਰੂਹਾਨੀ ਜ਼ਿੰਦਗੀ ਹਾਸਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

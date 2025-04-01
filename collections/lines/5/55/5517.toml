@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜਿਹੇ ਮਨੁੱਖ) ਜੋ ਭੀ ਵਿਆਖਿਆ ਕਰਦੇ ਹਨ ਮਨ ਦੀਆਂ ਤਿੰਨਾਂ ਅਵਸਥਾ ਦਾ ਹੀ ਜ਼ਿਕਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਨਿ ਅਵਸਥਾ = (ਮਨ ਦੀਆਂ) ਤਿੰਨ ਹਾਲਤਾਂ। ਕਹਹਿ ਵਖਿਆਨੁ = ਵਖਿਆਨ ਕਹਿੰਦੇ ਹਨ, ਜ਼ਿਕਰ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

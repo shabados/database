@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਵਿਕਾਰਾਂ ਦੀ) ਅੱਗ ਦੇ ਖ਼ਤਰੇ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕ = ਅੱਗ। ਪਾਰਿ ਪਰਾਨਿ = ਪਾਰ ਪੈ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

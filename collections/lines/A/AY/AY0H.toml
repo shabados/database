@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਜੀਵ ਉਸ ਪਾਸੋਂ ਦਾਤਾਂ ਮੰਗਦੇ ਹਾਂ ਤੇ ਆਖਦੇ ਹਾਂ,'(ਹੇ ਹਰੀ! ਸਾਨੂੰ ਦਾਤਾਂ) ਦੇਹ'। ਉਹ ਦਾਤਾਰ ਬਖ਼ਸ਼ਸ਼ਾਂ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਹਿ = ਅਸੀਂ ਆਖਦੇ ਹਾਂ। ਮੰਗਹਿ = ਅਸੀਂ ਮੰਗਦੇ ਹਾਂ। ਦੇਹਿ ਦੇਹਿ = (ਹੇ ਹਰੀ!) ਸਾਨੂੰ ਦੇਹ, ਸਾਡੇ ਤੇ ਬਖਸ਼ਸ਼ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

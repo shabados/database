@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਸਦਾ ਹੀ ਉਸ ਦੀ ਯਾਦ ਵਿਚ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਬਸਰ ਕਰਦਾ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਬਾ-ਯਾਦਿ ਹੱਕ ਹਮੇਸ਼ਾ ਜ਼ਿੰਦਾ-ਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

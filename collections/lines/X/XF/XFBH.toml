@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮੰਦ-ਭਾਗੀ ਜੀਵ) ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ, ਵਹਿਮ, ਵਿਕਾਰ, ਮਾਇਆ ਦਾ ਮੋਹ-ਇਹਨਾਂ ਵਿਚ ਹੀ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ੍ਹ੍ਹ ਮਹਿ = ਇਹਨਾਂ ਵਿਚ {ਨੋਟ: ਅੱਖਰ 'ਨ' ਦੇ ਹੇਠ ਅੱਧਾ 'ਹ' ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

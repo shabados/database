@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ-ਜਨਾਂ ਦੀ ਸਰਨੀਂ ਪਿਆ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੁ = ਪਉ। ਸਰਨਿ ਪਰੁ = ਆਸਰਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

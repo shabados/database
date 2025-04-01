@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਅਕਾਲਪੁਰਖ ਦੀ ਪ੍ਰੇਮਾਰੀਤੀ ਅਜਬ ਰੰਗ ਲਿਆਉਂੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਰਜ਼ਿ ਯੱਕ-ਰੰਗੀ ਅਜਬ ਰੰਗ ਆਰਦਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

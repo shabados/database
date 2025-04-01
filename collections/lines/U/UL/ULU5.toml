@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਹੀਂ ਤਾਂ) ਝੂਠ ਵਿਚ ਗ਼ਲਤਾਨ ਹੋਇਆ ਹੋਇਆ ਹੀ ਸੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਫਰ = ਝੂਠ। ਕੁਫਰ ਗੋਅ = ਝੂਠ ਬੋਲਣ ਵਾਲਾ। ਦਝਸੀ = ਸੜੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

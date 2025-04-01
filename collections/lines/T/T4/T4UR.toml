@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੋਪਾਲ!) ਤੂੰ (ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ) ਜਾਣਨ ਵਾਲਾ ਹੈਂ ਤੇ ਪਰਖਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਦਾਨਿਆਂ ਦਾ ਦਾਨਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਾ = ਜਾਣਨ ਵਾਲਾ। ਬੀਨਾ = ਪਛਾਣਨ ਵਾਲਾ। ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਦਾਨੁ = ਦਾਨਾ, ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

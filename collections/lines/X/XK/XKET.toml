@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕਿਸੇ ਭੁੱਖੇ ਨੂੰ ਭੋਜਨ ਹੀ ਸਹਾਈ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਜਨ ਮਾਤ = ਭੋਜਨ ਮਾਤ੍ਰ, ਸਿਰਫ਼ ਭੋਜਨ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

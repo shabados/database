@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਮਾਇਆ-ਜੰਗਲ ਵਿਚ ਕਿਉਂ ਜਾ ਫਸਿਆ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ! ਕਾਏਂ = ਕਿਉਂ? ਬਿਖਿਆ = ਮਾਇਆ। ਬਨ = ਜੰਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

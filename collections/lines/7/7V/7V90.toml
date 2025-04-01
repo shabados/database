@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ (ਕਿਸੇ ਮਨੁੱਖ ਉਤੇ) ਪੂਰੇ ਸਤਿਗੁਰੂ ਜੀ ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਦਇਆਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

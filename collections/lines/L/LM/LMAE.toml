@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਜਪਿਆ ਕਰ, ਪਰਮਾਤਮਾ ਦੇ) ਗੁਣ ਗਾਇਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

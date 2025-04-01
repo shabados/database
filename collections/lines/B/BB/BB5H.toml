@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ ਪੁਰਾਣ ਸਿੰਮ੍ਰਿਤੀਆਂ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਦਾ ਪਾਠ) ਸੰਤ ਜਨ, ਆਪਣੀ ਜੀਭ ਨਾਲ ਇਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਹੀ ਉਚਾਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ ਨਾਲ। ਭਾਖੀ = ਉਚਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

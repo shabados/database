@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਪ੍ਰਭੂ ਮਨ ਵਿਚ ਆ ਵੱਸੇ, ਤਾਂ ਕੋਈ ਭੀ ਬਿਪਤਾ ਪੋਹ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਭੀੜ = ਬਿਪਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

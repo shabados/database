@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਗਾ ਹੀ ਹੋਇਆ ਹੈ ਕਿ ਮੇਰੀ ਉਹ ਮਾਨੋ-ਬਿਰਤੀ ਖ਼ਤਮ ਹੋ ਗਈ ਹੈ ਜੋ ਮੈਨੂੰ ਪਹਿਲਾਂ ਚੰਗੀ ਲੱਗਿਆ ਕਰਦੀ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੀ ਸਰੀ = ਭਲਾ ਹੋਇਆ, ਚੰਗੀ ਗੱਲ ਹੋਈ। ਬਰੀ = ਵਰੀ ਹੋਈ, ਵਿਆਹੀ ਹੋਈ, ਸ੍ਵੀਕਾਰ ਕੀਤੀ ਹੋਈ, ਚੁਣੀ ਹੋਈ, ਪਸੰਦ ਕੀਤੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

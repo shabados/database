@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਬਿਨਾ ਮਨ ਇੱਕ ਟਿਕਾਣੇ ਉਤੇ ਆ ਹੀ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਠਾਉ = ਆਪਣਾ ਅਸਲ ਟਿਕਾਣਾ, ਸ਼ਾਂਤੀ, ਅਡੋਲਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

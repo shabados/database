@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਹਰੀ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ ਜਿਸ ਨੂੰ ਗਾਵਣ ਲਈ ਪ੍ਰੇਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਾਏ = ਗਾਵਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ, ਗਾਵਣ ਲਈ ਪ੍ਰੇਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

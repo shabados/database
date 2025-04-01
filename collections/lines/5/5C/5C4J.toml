@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤਕ ਸਾਨੂੰ ਤੇਰੀ ਛਤਰ-ਛਾਇਆ ਨਸੀਬ ਹੈ, ਸਾਨਿੂੰ ਕੋਈ ਡਰ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਸਾਇਆ ਤੂ ਹਸਤ ਨਦਾਰੇਮ ਹੀਚ ਬਾਕ ।੫੧।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

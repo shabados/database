@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਦੀ ਕਾਰ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰੇ ਭਾਗਿ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ। ਸਚੁ ਕਾਰ = ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ (ਸਿਮਰਨ ਦੀ) ਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

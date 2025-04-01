@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਾਥੀ ਆਪਣੀ ਸੁੰਡ ਦੀ ਚੋਟ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਜਿੰਦੁ = ਹਾਥੀ, ਵੱਡਾ ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

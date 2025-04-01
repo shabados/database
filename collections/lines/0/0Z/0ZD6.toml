@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੇਰਾ ਇਤਬਾਰ ਕਰ ਕੇ ਕਿਸ ਕਿਸ ਨੇ ਧੋਖਾ ਨਹੀਂ ਖਾਧਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਰਿਆ = {प्रतारय = to deceive, to cheat. ਪਤਾਰਨਾ = ਬਦਨਾਮ ਕਰਨਾ} ਧੋਖਾ ਖਾ ਗਿਆ, ਬਦਨਾਮ ਹੋਇਆ। ਪਰਤੀਤਿ = ਇਤਬਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

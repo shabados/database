@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਹਉਮੈ ਦੇ ਦਿਖਾਵੇ ਤੋਣ ਤਾਣ ਰੱਬ ਕੋਹਾਣ ਦੂਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ੁਦ-ਨਮਾਈਏ ਤੂ ਖ਼ੁਦਾ ਹਸਤ ਦੂਰ ਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

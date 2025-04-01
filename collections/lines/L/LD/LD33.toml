@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗਾਣ ਵਾਸਤੇ ਕਿਉਂ ਕੋਈ ਪੰਜ ਤਾਰਾਂ ਤੇ ਸੱਤ ਸੁਰਾਂ ਮਿਲਾਂਦਾ ਫਿਰੇ? ਕਿਉਂ ਕੋਈ ਰਾਗ ਦੀ ਸੁਰ ਚੁੱਕਦਾ ਫਿਰੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ = ਪੰਜ ਤਾਰਾਂ। ਸਤ = ਸੱਤ ਸੁਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਫਿਰ ਉਹ ਇਸ ਕਿਤਾਬ ਦੇ ਪਰਦੇ ਵਿਚ ਕਿਵੇਂ ਸਮਾ ਸਕਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਜਾ ਗੁੰਜਦ ਅੰਦਰ ਹਜਾਬਿ ਕਿਤਾਬ ।੧੭੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

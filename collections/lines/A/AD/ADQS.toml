@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਜਾ ਹੋਵੇ ਚਾਹੇ ਕੰਗਾਲ, ਦੋਵੇਂ ਹੀ ਦੁਖੀ ਹੁੰਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਕੁ = ਕੰਗਾਲ। ਦੋਊ = ਦੋਵੇਂ। ਰੋਈ ਹੈ = ਰੋਂਦੇ ਹਨ, ਦੁਖੀ ਹੁੰਦੇ ਹਨ। ਮਿਲਿ = ਮਿਲ ਕੇ, ਰਲ ਕੇ। ਦੋਊ ਮਿਲਿ = ਦੋਵੇਂ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

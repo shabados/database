@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਕੋਈ ਭੀ ਜੀਵ ਆਪਣਾ ਦੁਸ਼ਮਨ ਵੈਰੀ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਤੁ = ਦੋਖੀ, ਦੁਸ਼ਮਨ। ਬੈਰਾਈ = ਵੈਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

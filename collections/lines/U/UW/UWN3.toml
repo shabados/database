@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਹੀ ਮੇਰੀ ਓਟ ਹੈ, ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਸਹਾਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣੁ = ਬਲ, ਜ਼ੋਰ। ਮੈ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

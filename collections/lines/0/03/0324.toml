@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖ ਕੇ ਸੁਣਾਂਦਾ ਹੈ ਕਿ ਅਕਲ ਦੀ ਮੰਨੀ-ਪ੍ਰਮੰਨੀ ਸਿਰੇ ਦੀ ਗੱਲ ਇਹੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੁ = ਜੜ੍ਹ, ਤੱਤ। ਮੂਲੁ ਮਤਿ = ਮੱਤ ਕਾ ਮੂਲ। ਪਰਵਾਣਾ = ਮੰਨਿਆ-ਪ੍ਰਮੰਨਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

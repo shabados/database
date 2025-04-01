@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੇ ਸ਼ਬਦਾਣ ਵਿਚੋਣ ਖੰਡ ਅਤੇ ਮਿਸ਼ਰੀ ਝੜਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀਚਕਦ ਅਜ਼ ਹਰਫ਼ਿ ਸ਼ਾਣ ਕੰਦੋ ਨਬਾਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

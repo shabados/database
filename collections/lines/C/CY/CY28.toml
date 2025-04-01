@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੇ ਜਿਸ ਮਨੁੱਖ ਦਾ ਟਿਕਾਣਾ ਸਾਧ ਸੰਗਤ ਵਿਚ ਬਣਾ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਹ ਜਗਤ) ਪਰਮਾਤਮਾ ਦਾ (ਬੀਜਿਆ ਹੋਇਆ) ਫ਼ਸਲ ਹੈ, ਆਪ ਹੀ ਇਸ ਫ਼ਸਲ ਦਾ ਉਹ ਰਾਖਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਖ = ਰਾਖਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਉਹ ਭਿਖਾਰੀਆਂ ਵਾਂਗ ਗਲੀ ਗਲੀ ਘੁੰਮਦੇ ਫਿਰਦੇ ਰਹੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂ ਗਦਾਯਾਂ ਕੂ ਬਕੂ ਬਿਸ਼ਤਾਫ਼ਤੰਦ ।੩੭੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

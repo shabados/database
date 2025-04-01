@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਮੈਂ ਜਿਧਰ ਜਿਧਰ ਵੇਖਦਾ ਹਾਂ ਉਧਰ ਉਧਰ ਹੀ ਤੂੰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ ਜਹ = ਜਿਥੇ ਜਿਥੇ। ਤਹ ਤਹ = ਉਥੇ ਉਥੇ। ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਦੇਖਦਾ ਹਾਂ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

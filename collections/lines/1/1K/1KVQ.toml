@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਜਿਸ ਸੇਵਕ ਦੀ ਅਰਦਾਸ ਪ੍ਰਭੂ ਨੇ ਸੁਣ ਲਈ, ਜਿਸ ਸੇਵਕ ਉੱਤੇ ਪ੍ਰਭੂ ਜੀ ਦਇਆਵਾਨ ਹੋ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾਰਿ = ਦਾਤਾਰ ਨੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

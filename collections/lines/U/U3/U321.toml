@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੋ ਜੰਮ ਕੇ (ਨਿਰਾ) ਮਰ ਜਾਂਦਾ ਹੈ (ਤੇ ਬੰਦਗੀ ਨਹੀਂ ਕਰਦਾ) ਉਹ ਨਿਰੋਲ ਕੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਿ ਮਰੈ = ਜੋ ਜੰਮ ਕੇ (ਸਿਰਫ਼) ਮਰ ਜਾਂਦਾ ਹੈ। ਕਾਚੋ ਕਾਚਾ = ਕੱਚਾ ਹੀ ਕੱਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

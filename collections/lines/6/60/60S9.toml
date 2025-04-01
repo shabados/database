@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਖ! (ਤੇਰੇ ਅੰਦਰ) ਫੁੱਲ ਹੀ ਫੁੱਲ ਖਿੜੇ ਹੋਏ ਹਨ (ਤੇਰੇ ਅੰਦਰ ਆਤਮਕ ਖਿੜਾਉ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖੁ = (ਅੰਦਰ ਝਾਤੀ ਮਾਰ ਕੇ) ਵੇਖ। ਫੂਲ ਫੂਲ ਫੂਲੇ = ਫੁੱਲ ਹੀ ਫੁੱਲ ਖਿੜੇ ਹੋਏ ਹਨ, ਖਿੜਾਉ ਹੀ ਖਿੜਾਉ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

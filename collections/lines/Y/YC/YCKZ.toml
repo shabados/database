@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਨਮ ਮਰਨ (ਦਾ ਚੱਕਰ) ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਹੀ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੈ ਤੇ = ਉਸ (ਪਰਮਾਤਮਾ) ਤੋਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਸਾਹਮਣੇ ਕੁਦਰਤ ਦੀ ਕੀ ਕਦਰ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਦਰ ਕੁਦਰਤ ਪੇਸ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 141
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਇਹ ਜਿੰਦ ਮੇਰੇ ਇਹ ਪ੍ਰਾਣ-ਸਭ ਕੁਝ ਤੇਰਾ ਹੀ ਦਿੱਤਾ ਹੋਇਆ ਸਰਮਾਇਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

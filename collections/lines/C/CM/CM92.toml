@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਾਹਿਗੁਰੂ ਆਪ ਹੀ ਸ਼ਾਹੂਕਾਰ ਹੈ, ਆਪ ਹੀ ਵਾਪਾਰੀ ਅਤੇ ਆਪ ਹੀ ਹੱਟੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣਜਾਰਾ = ਵਾਪਾਰੀ। ਹਾਟੁ = ਹੱਟ (ਜਿਥੇ ਸੌਦਾ ਹੋ ਰਿਹਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

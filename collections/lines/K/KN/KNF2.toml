@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਹੰਕਾਰ ਮੋਹ ਵਿਕਾਰ ਝੂਠ ਤਿਆਗ ਦੇਹ, ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਤਿਆਗ ਦੇ। ਮਿਥਿਆ = ਝੂਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

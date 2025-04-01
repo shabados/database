@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੋਟੀ ਦੀ ਖ਼ਾਤਰ ਹੀ ਚੇਲਾ ਆ ਬਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਮਿ = ਤੁਆਮ, ਰੋਟੀ। ਘਰਿ = ਘਰ ਵਿਚ, ਗੁਰੂ ਦੇ ਘਰ ਵਿਚ। ਵਸੈ ਘਰਿ ਆਇ = (ਗੁਰੂ ਦੇ) ਘਰ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ, ਗੁਰੂ ਦਾ ਚੇਲਾ ਆ ਬਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

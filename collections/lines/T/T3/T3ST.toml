@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਥਾਂ ਤੇਰਾ ਹੀ ਹੁਕਮ ਚੱਲ ਰਿਹਾ ਹੈ, ਹਰ ਥਾਂ ਤੂੰ ਹੀ ਤੂੰ ਮੌਜੂਦ ਹੈਂ, ਜਗਤ ਵਿਚ ਉਹੀ ਹੁੰਦਾ ਹੈ ਜੋ ਤੂੰ ਆਪ ਹੀ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੁ = ਹੁਕਮੁ। ਸਭੁ = ਹਰ ਥਾਂ। ਤੂੰ ਹੈ = ਤੂੰ ਹੀ। ਵਰਤਹਿ = ਮੌਜੂਦ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

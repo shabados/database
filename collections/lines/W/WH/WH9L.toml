@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਜਗਤ ਵਿੱਚ ਬੇ-ਸ਼ੱਕ ਕਈ ਤਰ੍ਹਾਂ ਦੀ ਕਿਰਤ-ਕਾਰ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰਿ = ਜਗਤ ਵਿਚ। ਅਨੇਕ ਧਰਿ = ਅਨੇਕਾਂ ਕਿਰਤ-ਕਾਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

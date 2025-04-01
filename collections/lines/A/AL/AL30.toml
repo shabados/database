@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਚਿੱਟੇ ਖੰਭਾਂ ਵਾਲੀ (ਕੂੰਜ) ਆਸਮਾਨ ਵਿਚ ਉੱਡਦੀ ਫਿਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਗਨਿ = ਆਕਾਸ਼ ਵਿਚ। ਬਾਗੇ = ਬੱਗੇ, ਚਿੱਟੇ। ਕਪਰੇ ਵਾਲੀ = ਕੱਪੜਿਆਂ ਵਾਲੀ, ਖੰਭਾਂ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹੀ ਮਨੁੱਖ ਰੂਪ ਵਾਲਾ ਹੈ ਉਹੀ ਤੀਖਣ ਬੁੱਧਿ ਵਾਲਾ ਹੈ ਉਹੀ ਸਿਆਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪਵੰਤੁ = ਰੂਪ ਵਾਲਾ। ਚਤੁਰੁ = ਤੀਛਣ ਬੁੱਧਿ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

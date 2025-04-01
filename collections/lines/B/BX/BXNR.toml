@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਜੇਹੜੀ ਗੱਲ ਤੈਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਚੰਗੀ ਲੱਗਦੀ ਹੈ ਉਹੀ ਮੇਰੇ ਵਾਸਤੇ ਸੁਖ ਹੈ, ਉਹੀ ਮੇਰੇ ਵਾਸਤੇ ਆਦਰ ਸਤਕਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹੋ = ਉਹ ਹੀ। ਓਹਾ = ਉਹ ਹੀ {ਇਸਤ੍ਰੀਲਿੰਗ ਲਫ਼ਜ਼ \"ਓਹੋ\" ਦਾ}। ਮਨਿ = ਮਨ ਵਿਚ। ਭਾਣੀ = ਪਸੰਦ ਆਉਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

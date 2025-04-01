@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਉਧਰ ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਪਰਮਾਤਮਾ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਦੇਖਉ = ਦੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਤਹ = ਉਥੇ। ਏਕੋ ਏਕਾ = ਇਕ ਪਰਮਾਤਮਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

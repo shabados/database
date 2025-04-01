@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਕ ਪਦਾਰਥਾਂ ਦਾ ਝੰਬੇਲਾ ਭੀ ਤੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਵਿਚ ਲਾਭ ਨਹੀਂ ਦੇ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੈ ਜੰਜਾਲੁ = ਮਾਇਕ ਪਦਾਰਥਾਂ ਦਾ ਝੰਬੇਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

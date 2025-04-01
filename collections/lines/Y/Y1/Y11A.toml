@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਇਹੋ ਜਿਹੀ ਬਣੀ ਪਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

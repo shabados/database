@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਭ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ, ਅਸੀਂ ਜੀਵ (ਤੇਰੇ ਦਰ ਦੇ) ਮੰਗਤੇ ਹਾਂ, (ਸਾਨੂੰ) ਦਰਸਨ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੌ = ਦਾਤਾ। ਜਾਚਿਕ = ਮੰਗਤੇ। ਹਰਿ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਦਾਰ! ਹੇ ਸਿਆਣੇ! ਹੇ (ਜੀਵਾਂ ਦੇ) ਦਿਲਾਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਰਾਂ = ਹੇ ਸਰਦਾਰ! ਦਾਨਾਂ = ਹੇ ਸਿਆਣੇ! ਦਿਲ ਸੋਚ = ਹੇ (ਜੀਵਾਂ ਦੇ) ਦਿਲਾਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲੇ! ਸੋਚ = ਪਵਿਤ੍ਰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

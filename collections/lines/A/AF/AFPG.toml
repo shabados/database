@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਦਾ ਬਿਆਨ ਕਥਨ ਤੋਂ ਪਰੇ ਹੈ। ਉਹ ਮੈਂ ਆਖ ਕੇ ਕੀਹ ਸਮਝਾ ਸਕਦਾ ਹਾਂ? ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਹ = {ਅ-ਕਹ} ਬਿਆਨ ਤੋਂ ਬਾਹਰ। ਅਕਹ ਕਹਾ = ਉਸ ਦਾ ਬਿਆਨ ਕਥਨ ਤੋਂ ਪਰੇ। ਕਹਿ = ਕਹਿ ਕੇ। ਕਾ = ਕੀਹ? ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

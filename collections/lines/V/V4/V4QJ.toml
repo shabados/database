@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਲਕ-ਪ੍ਰਭੂ ਆਪਣੇ ਭਗਤ ਜਨਾਂ ਦੇ ਨਾਲ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

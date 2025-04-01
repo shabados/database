@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ-ਪਰਮਾਤਮਾ ਸਭ ਜੀਵਾਂ ਵਿਚ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਭ ਜੀਵਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

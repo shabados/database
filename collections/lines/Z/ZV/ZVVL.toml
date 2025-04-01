@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ) ਕੋਈ ਭੀ ਕੰਮ ਤੇਰੀ ਮਰਜ਼ੀ ਦੇ ਵਿਰੁੱਧ ਨਹੀਂ ਹੋ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝ ਤੇ ਬਾਹਰਿ = ਤੇਰੀ ਮਰਜ਼ੀ ਦੇ ਉਲਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

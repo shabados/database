@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ੁਬਾਨ ਆਪਣੀ ਜਗ੍ਹਾ ਸ਼ਰਮ ਨਾਲ ਗੂੰਗੀ ਹੋ ਗਈ ਹੈ ਅਤੇ ਦਿਲ ਆਪਣੀ ਜਗ੍ਹਾ ਹੈਰਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਬਾਣ ਬ-ਮਾਣਦ ਜ਼ਿ ਗ਼ੈਰਤ ਜੁਦਾ ਵ ਮਨ ਹੈਰਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਕ੍ਰੋੜਾਂ ਸ਼ਿਵ ਪੈਦਾ ਕਰ ਕੇ (ਆਪਣੇ ਵਿਚ ਹੀ) ਲੀਨ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹੇਸ = ਸ਼ਿਵ। ਉਪਾਇ = ਪੈਦਾ ਕਰ ਕੇ। ਸਮਾਏ = ਲੀਨ ਕਰ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

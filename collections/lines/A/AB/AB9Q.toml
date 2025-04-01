@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦੇ ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ! ਹੇ ਕਿਰਪਾਲ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਕਿਹੜੇ ਕਿਹੜੇ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਤਿਪਾਲ = ਹੇ ਪ੍ਰਤਿਪਾਲ! ਹੇ ਪਾਲਣਹਾਰ! ਕਵਨ ਗੁਨ = ਕਿਹੜੇ ਕਿਹੜੇ ਗੁਣ? ਗਨੀ = ਗਨੀਂ, ਮੈਂ ਗਿਣਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

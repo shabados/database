@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਨਾਸਵੰਤ ਸਮਝੋ। ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ (ਹੀ) ਅਸਲ (ਸਾਥੀ) ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰ = ਹੋਰ। ਸਗਲ = ਸਾਰਾ। ਮਿਥਿਆ = ਨਾਸਵੰਤ। ਜਾਨਹੁ = ਸਮਝੋ। ਕੋ = ਦਾ। ਸਹੀ = ਠੀਕ, ਸਾਥ ਨਿਬਾਹੁਣ ਵਾਲਾ, ਅਸਲ (ਸਾਥੀ) ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

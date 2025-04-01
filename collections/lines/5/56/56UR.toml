@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਵਲੋਂ ਮਨਮੁਖ ਹਨ, ਉਹ (ਅੰਤ ਨੂੰ) ਬੱਧੇ ਦੁਖ ਸਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹ ਫਿਰੇ = {ਮੁਹਫਿਰਾ = ਉਹ ਮਨੁੱਖ ਜਿਸ ਨੇ ਮੂੰਹ ਮੋੜਿਆ ਹੋਇਆ ਹੋਵੇ} ਮਨਮੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਨਮ ਜਨਮਾਂਤਰਾਂ ਤੋਂ) ਜੀਵ ਹਉਮੈ ਤੇ ਮਮਤਾ ਅਹੰਕਾਰ-ਭਰੀਆਂ ਗੱਲਾਂ ਕਰਦਾ ਆ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਮਤਾ = ਅਪਣੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

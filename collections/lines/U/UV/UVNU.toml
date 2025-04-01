@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਜੇ ਮੈਂ (ਕਿਸੇ) ਤੀਰਥ ਉਥੇ ਜਾਂਦਾ ਹਾਂ ਤਾਂ ਉਥੇ ਮੈਂ 'ਮੈਂ (ਧਰਮੀ) ਮੈਂ (ਧਰਮੀ)' ਆਖਦੇ ਵੇਖਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰਥਿ = (ਕਿਸੇ) ਤੀਰਥ ਉੱਤੇ। ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ। ਹਉ ਹਉ = ਮੈਂ (ਧਰਮੀ) ਮੈਂ (ਧਰਮੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

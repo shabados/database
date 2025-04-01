@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਚਾਕਰ ਚੁਸਤ ਚਾਲਾਕ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਾਕਰਿ ਚਾਲਾਕਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੨।"
+page = 10
+line = 142
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

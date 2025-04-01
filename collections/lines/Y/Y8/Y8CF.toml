@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਸਾਰੀਆਂ ਮੰਗਾਂ ਪੂਰੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, ਉਸ ਦੇ ਸਾਰੇ ਕੰਮ ਸਿਰੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਰਥ = ਲੋੜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

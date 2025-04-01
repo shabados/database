@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਸ਼ੌਕ ਦੇ ਖ਼ਜ਼ਾਨੇ ਨੂੰ ਰੱਬ ਦੇ ਪਿਆਰਿਆਣ ਪਾਸੋਣ ਮੰਗ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਮਤਾਇ ਸ਼ੌਕ ਰਾ ਅਜ਼ ਆਸ਼ਕਾਨਿ ਹੱਕ ਬਖ਼ਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

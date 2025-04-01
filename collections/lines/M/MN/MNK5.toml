@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਸਦਾ ਮਨ ਵਿਚ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸਹਿ = ਉਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

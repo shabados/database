@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦਾ ਆਸਰਾ ਬਣਾਣਾ ਅਤੇ ਮਾਇਆ ਤੋਂ ਇਉਂ ਨਿਰਲੇਪ ਰਹਿਣਾ ਜਿਵੇਂ ਕਉਲ ਫੁੱਲ ਪਾਣੀ ਤੋਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਪ = ਅਲਿਪ, ਅਲੇਪ, ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

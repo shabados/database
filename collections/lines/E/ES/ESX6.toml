@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੜਾ ਕੰਮ ਤੂੰ ਕਰਨਾ (ਚਾਹੁੰਦਾ) ਹੈਂ, ਉਹ ਕੰਮ ਤੂੰ ਜ਼ਰੂਰ ਕਰ ਦੇਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ = ਜੋ ਕੁਝ, ਜਿਹੜਾ ਕੰਮ। ਸੋ = ਉਹ ਕੰਮ। ਕਰਿ ਪਾਇਆ = ਜ਼ਰੂਰ ਕਰ ਦੇਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

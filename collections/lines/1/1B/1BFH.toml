@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਸਾਰੇ ਜਗਤ ਵਿਚ ਸਭ ਜੀਵਾਂ ਦੇ) ਅੰਦਰ ਬਾਹਰ ਤੂੰ ਵੱਸ ਰਿਹਾ ਹੈਂ। ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ। ਮੇਰੇ ਵਾਸਤੇ ਤੂੰ ਹੀ ਸਭ ਤੋਂ ਵੱਡਾ ਮਾਲਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਸਰਣਾਗਤਿ = ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ। ਵਡੋਲੀ = ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਭ ਕੁਝ ਕਰਨ ਦੇ ਸਮਰੱਥ ਪ੍ਰਭੂ ਜੋ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ ਉਹੀ ਜੀਵਾਂ ਦੀ ਭਲਾਈ ਵਾਸਤੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣਹਾਰੁ = ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲਾ। ਸਾਈ = ਉਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

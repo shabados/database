@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸ਼ਰਾਫ਼ਤਾਂ ਵਿਚ ਵਡੇਰਾ, ਖ਼ਸਲਿਤਾਂ ਵਿਚ ਸਭਨਾਂ ਵੱਲੋਂ ਸ਼ਲਾਘਾ ਯੋਗ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਅੱਜ਼ਮ ਸ਼ਰਾਫ਼ਿ ਸਤੂਦਾ ਖ਼ਸਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

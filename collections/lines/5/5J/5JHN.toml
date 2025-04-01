@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਨਾਮ-ਰੂਪ ਸਉਦਾ ਹੈ ਤਾਂ ਸਾਰਾ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਹੀ, ਪਰ ਵਣਜਿਆ ਹੈ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਆਂ ਨੇ ਹੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਆਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

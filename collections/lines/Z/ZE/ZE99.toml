@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੇ ਉਪਦੇਸ਼-ਮਈ ਬਚਨ ਸੁਖ ਵਿਖਾਲਣ ਵਾਲਾ ਰਸਤਾ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥੜੀਆ = ਕਥਾ-ਕਹਾਣੀਆਂ, ਉਪਦੇਸ਼ ਦੇ ਬਚਨ। ਪੰਧੀਆ = ਰਸਤਾ। ਸੁਖਾਊ = ਸੁਖ ਦੇਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

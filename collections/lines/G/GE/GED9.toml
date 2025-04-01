@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦੀ ਦੱਸੀ ਕਰਣੀ ਤੋਂ ਪਰੇ ਨਾਹ ਦੌੜੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਧਾਵਹੁ = ਕਿਉਂ ਦੌੜਦੇ ਹਉ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

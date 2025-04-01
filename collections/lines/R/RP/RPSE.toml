@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਭੀ) ਹੇ ਮਨ! ਅਜੇਹੀ ਸੁੱਚ ਦੇ ਕੋਈ ਭੀ ਅਡੰਬਰ ਪਰਵਾਨ ਨਹੀਂ ਹੁੰਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੈ ਨ ਪਾਇ = ਕਬੂਲ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਇਹੋ ਜਿਹਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚੀਐ = ਇਕੱਠਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

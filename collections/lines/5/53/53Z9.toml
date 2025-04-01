@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕਦੇ ਸਤਸੰਗ ਵਿਚ ਨਹੀਂ ਗਿਆ, ਜਗਤ ਦੇ ਝੂਠੇ ਧੰਧਿਆਂ ਵਿਚ ਹੀ ਮਸਤ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਚਿਓ = ਰੁੱਝਾ ਪਿਆ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੰਗਲਾਂ ਦੇ ਵਾਸੀ ਸਿੱਧ ਤੇ ਸਾਧਿਕ (ਤੇਰੇ ਦਰ ਤੋਂ ਹੀ) ਮੰਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਹਿ = ਮੰਗਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਸਿਧ = ਸਿੱਧ, ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ। ਸਾਧਿਕ = ਜੋਗ-ਸਾਧਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

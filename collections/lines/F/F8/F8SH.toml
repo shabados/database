@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰਕਾਸ਼-ਰੂਪ ਗੋਬਿੰਦ! ਦੁੱਧ ਪੀ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਿੰਦੇ ਰਾਇ = ਹੇ ਪਰਕਾਸ਼-ਰੂਪ ਗੋਬਿੰਦ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

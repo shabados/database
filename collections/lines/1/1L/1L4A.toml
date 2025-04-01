@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਇਸਤ੍ਰੀ ਨੂੰ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ ਜਦੋਂ ਉਸ ਦਾ ਪਤੀ ਘਰ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਨਿ = ਇਸਤ੍ਰੀ। ਪਿਰੁ = ਪਤੀ। ਘਰਿ = ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

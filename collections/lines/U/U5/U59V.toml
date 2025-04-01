@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਦੇ ਰੋਗ ਦੇ ਕਾਰਨ ਮੱਛੀ ਫੜੀ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨੁ = ਮੱਛ {ਪੁਲਿੰਗ}। ਗ੍ਰਸਿਆਨੋ = ਪਕੜਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

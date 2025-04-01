@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਹਰ ਕਰ ਕਿ ਮੈਂ ਤੇਰਾ ਨਾਮ ਸਿਮਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣਾ = ਮੈਂ ਉਚਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੂਰਨ ਪ੍ਰਭੂ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨ ਤਾਸ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

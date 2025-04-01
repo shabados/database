@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ (ਇਹੀ ਹੈ ਅਸਲ) ਖ਼ਜ਼ਾਨਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪਿਆ ਕਰ। ਮਨ = ਹੇ ਮਨ! ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

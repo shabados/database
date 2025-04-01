@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਵੀ ਤਾਂ ਤੇਰੀ ਪਵਿੱਤ੍ਰ ਪ੍ਰਕਿਰਤੀ ਦੀ ਹੀ ਇੱਕ ਲਹਿਰ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਯੱਕ ਮੌਜਮ ਜ਼ ਤਬਆਇ ਸਾਫ਼ਿ ਤੂ ।੨੯੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

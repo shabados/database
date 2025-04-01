@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਆਲ ਪ੍ਰਭੂ ਨੇ ਵਿਚ ਖਲੋ ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣੇ ਚਰਨ ਟਿਕਾਏ ਭਾਵ ਆਪ ਨਾਮ ਜਪਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਾਇਅਨੁ = ਉਸ ਨੇ ਜਪਾਏ। ਵਿਚਿ = ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ। ਦਯੁ = ਦਿਆਲ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

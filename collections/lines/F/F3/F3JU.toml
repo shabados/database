@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਿਆ ਕਰ (ਇਹੀ ਹੈ) ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਅਠਸਠਿ = ਅਠਾਹਠ ਤੀਰਥ। ਮਜਾਨੁ = ਮੱਜਨ, ਇਸ਼ਨਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

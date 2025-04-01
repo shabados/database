@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਿੱਤਰ! ਨਾਮ ਜਪਿਆਂ) ਮਨ ਦੀ ਸਰੀਰ ਦੀ ਹਰੇਕ ਬਿਪਤਾ ਮਿਟ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟੈ = ਮਿਟ ਜਾਂਦੀ ਹੈ। ਬਲਾਇ = ਬਿਪਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

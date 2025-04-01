@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲਾਲਚ, ਝੂਠ, ਵਿਕਾਰ ਤੇ ਮਾਇਆ ਦਾ ਮੋਹ-ਬੱਸ! ਇਹੀ ਧਨ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਵਿਚ ਸਾਂਭੀ ਬੈਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪੈ = ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

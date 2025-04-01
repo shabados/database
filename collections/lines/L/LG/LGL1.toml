@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਵਿਛੋੜੇ ਨੂੰ ਮਿਲਾਪ ਦੀ ਆਰਜ਼ੂ ਬਖਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਿਜਰਿ ਮਾ ਰਾ ਆਰਜ਼ੂਇ ਵਸਲ ਬਖ਼ਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

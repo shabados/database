@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਲੋਕ) ਭਾਂਡੇ ਮਾਂਜ ਕੇ (ਚੁੱਲ੍ਹਿਆਂ) ਉੱਤੇ ਰੱਖਦੇ ਹਨ, (ਹੇਠਾਂ) ਲੱਕੜੀਆਂ ਧੋ ਕੇ ਬਾਲਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸਨ = ਭਾਂਡੇ। ਕਾਠੀ = ਲੱਕੜੀਆਂ, ਬਾਲਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

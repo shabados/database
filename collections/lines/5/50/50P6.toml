@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ) ਉਹ ਇਸਤ੍ਰੀ ਦਲੀਜਾਂ ਵਿਚ ਬੈਠੀ ਰੋਂਦੀ ਹੈ (ਤੇ ਆਖਦੀ ਹੈ-) ਹੇ ਮਾਏ! ਇਸ ਮੌਤ (ਨੂੰ ਵੇਖ ਕੇ) ਮੇਰੀ ਅਕਲ ਟਿਕਾਣੇ ਨਹੀਂ ਰਹਿ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈਏ = ਹੇ ਮਾਏ! ਮਰੁ = ਮੌਤ। ਮਹਲ = ਇਸਤ੍ਰੀ। ਦਰ-ਬਾਰੇ = ਦਲੀਜਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

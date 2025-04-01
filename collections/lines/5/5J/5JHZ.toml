@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਸਾਰਾ ਦਿਨ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਨੁ = (ਸਾਰਾ) ਦਿਨ। ਹਰਿ ਹਰਿ ਸਿਮਰਨੁ = ਸਦਾ ਹਰੀ ਦਾ ਸਿਮਰਨ (ਕਰ)। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

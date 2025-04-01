@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਲਾ ਸਤਿ-ਧਰਮ ਤੋਂ ਬਿਨਾ ਕੋਈ ਇਸਤ੍ਰੀ ਸਤੀ ਕਿਵੇਂ ਬਣ ਸਕਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ ਕੈਸੇ = ਕਿਵੇਂ ਹੋ ਸਕਦੀ ਹੈ? ਕਿਵੇਂ ਅਖਵਾ ਸਕਦੀ ਹੈ? ਸਤ = ਸੁੱਚਾ ਆਚਰਨ। ਨਾਰਿ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

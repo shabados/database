@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧਰਮੀ ਤੇ ਈਮਾਨਦਾਰ ਬਸ ਉਹੀ ਆਦਮੀ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਈਮਾਣ ਹਮਾਣ ਬਾਸ਼ਦ ਹਮਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

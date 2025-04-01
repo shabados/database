@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਤੂੰ ਉਮਰਾਂ ਭਰ ਉਸਦੀ ਤਲਾਸ਼ ਵਿਚ ਹੈਰਾਨ ਹੁੰਦਾ ਰਿਹਾ ਹੈਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਉਮਰ ਹਾ ਅੰਦਰ ਤਲਬ ਹੈਰਾਂ ਸ਼ਵੀ ।੪੦੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

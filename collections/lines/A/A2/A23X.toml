@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਨੂੰ ਵਿਸਾਰ ਕੇ) ਮੁੜ ਮੁੜ ਹੋਰ ਸੋਚਾਂ ਸੋਚਣ ਦਾ ਤੈਨੂੰ ਕੀਹ ਲਾਭ ਹੋਵੇਗਾ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰੰ ਬਾਰਾ = ਮੁੜ ਮੁੜ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

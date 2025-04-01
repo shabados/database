@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਵੀ ਇਸ ਪੂਰਨ ਅੱਖਰ ਨੂੰ ਸਮਝ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਊ ਦਾਨਿਸਤ ਈਣ ਹਰਫ਼ਿ ਤਮਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

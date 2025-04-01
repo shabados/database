@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਫਿਰ ਸਦੀਵੀ ਦੌਲਤ, ਸਮਝੋ, ਤੇਰੇ ਹੱਥ ਤੇਰੇ ਕਬਜ਼ੇ ਵਿਚ ਆ ਗਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਦਾਇਮ ਬਦਸਤਤ ਦਰ-ਫ਼ਤਾਦ ।੩੨੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

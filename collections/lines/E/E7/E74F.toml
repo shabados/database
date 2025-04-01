@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਗਲ ਅਤੇ ਅਡੋਲ ਟਿਕੇ ਹੋਏ ਪਹਾੜ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿੱਚ ਟਿਕੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਬਤ ਅਉਧੂਤਾ = ਨਾਂਗੇ ਸਾਧੂਆਂ ਵਾਂਗ ਅਡੋਲ ਟਿਕੇ ਹੋਏ ਪਰਬਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

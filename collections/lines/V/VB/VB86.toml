@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮੇਰੇ ਪਾਸ ਤਾਂ) 'ਹਰਿ ਹਰਿ'-ਇਹ ਦੋ ਲਫ਼ਜ਼ਾਂ ਦੀ ਮਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਰ ਦੁਇ = ਦੋਵੇਂ ਲਫ਼ਜ਼ (ਹਰਿ ਹਰਿ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

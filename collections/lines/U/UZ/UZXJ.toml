@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਪ੍ਰਭੂ ਦਾ) ਅਜੇਹਾ ਨਾਮ ਪਿਆਰ ਨਾਲ ਜਪ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਰੰਗਿ = ਰੰਗ ਵਿਚ, ਪਿਆਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

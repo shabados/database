@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ ਅਰਦਾਸਿ ਹੈ ਕਿ) ਮੈਂ ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਗਾਵਾਂ, ਮੈਂ ਹਰੀ ਦਾ ਨਾਮ ਸਿਮਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

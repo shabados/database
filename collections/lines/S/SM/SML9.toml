@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾਸ ਨਾਨਕ (ਤੈਨੂੰ) ਪੁਕਾਰ ਕੇ ਆਖਦਾ ਹੈ ਕਿ ਇਹ ਜਗਤ ਦਾ ਖਿਲਾਰਾ ਸੁਪਨੇ ਵਰਗਾ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੈ, ਆਖਦਾ ਹੈ। ਪੁਕਾਰਿ = ਪੁਕਾਰ ਕੇ। ਜਗ ਪਸਾਰੁ = ਜਗਤ ਦਾ ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

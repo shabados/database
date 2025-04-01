@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੀਵੇ ਦੀ ਲਾਟ ਨੂੰ) ਵੇਖਣ ਦੇ ਰੋਗ ਦੇ ਕਾਰਨ ਪਤੰਗੇ (ਦੀਵੇ ਦੀ ਲਾਟ ਉਤੇ) ਸੜ ਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਗਿ = ਰੋਗ ਵਿਚ। ਪਚਿ ਮੁਏ = ਸੜ ਮੁਏ। ਦ੍ਰਿਸਟਿ ਰੋਗਿ = ਵੇਖਣ ਦੇ ਰੋਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

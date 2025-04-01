@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ ਵਿਚ ਉਸ ਦਾ ਅੰਦਰਲਾ ਮਨ ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰੁ ਮਨੁ = ਅੰਦਰਲਾ ਮਨ। ਮੋਹੈ = ਮਸਤ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

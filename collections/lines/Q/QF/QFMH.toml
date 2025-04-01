@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰੋ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਪਰਾਤੇ = ਪਰੋਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

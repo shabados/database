@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾਹ! ਹੇ ਰਾਮ! (ਮੈਂ ਤੈਨੂੰ ਇਕ ਹੀ ਜਾਣ ਕੇ) ਤੇਰਾ ਨਾਮ ਸਿਮਰ ਕੇ ਜੀਵਾਂ (ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਾਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਉ = ਜੀਵਉਂ, ਮੈਂ ਜੀਵਾਂ। ਨਾਈ = ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ, ਨਾਮ ਸਿਮਰ ਕੇ, ਨਾਮ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

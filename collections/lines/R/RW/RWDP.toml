@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀਆਣ ਲਿਟਾਣ ਨੇ ਸਾਰੀ ਦੁਨੀਆ ਦੇ ਦਿਲਾਣ ਨੂੰ ਮੋਹ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਕਲਿ ਊ ਦਿਲ ਫ਼ਰੇਬਿ ਆਲਮ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦਾ ਨਾਥ, ਜਗਤ ਦਾ ਮਾਲਕ, ਜਗਤ ਦਾ ਖਸਮ ਮਿਹਰ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਮਿਲਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗੰਨਾਥ = ਜਗਤ ਦਾ ਨਾਥ। ਜਗਦੀਸ = ਜਗਤ ਦਾ ਈਸ਼੍ਵਰ। ਗੁਸਾਈ = ਧਰਤੀ ਦਾ ਖਸਮ। ਸਾਧੁ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

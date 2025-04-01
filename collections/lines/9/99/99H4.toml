@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੋਈ ਵੀ ਗਰੀਬ ਪਰਦੇਸੀਆਣ ਦੇ ਹਾਲ ਦੀ ਸ਼ੁਣਵਾਈ ਨਹੀਣ ਕਰਦਾ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਸੇ ਬਹਾਲਿ ਗ਼ਰੀਬਾਨਿ ਬੇ-ਨਵਾ ਨ-ਰਸਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

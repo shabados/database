@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਇਹਨਾਂ ਨੂੰ ਜਿਸ ਪਾਸੇ ਲਾਈਦਾ ਹੈ ਉਧਰ ਹੀ ਲੱਗਦੀਆਂ ਹਨ, ਕੋਈ ਖਿੱਚੋਤਾਣ ਨਹੀਂ (ਕਰਦੀਆਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਪਾਸੇ। ਲਾਈਅਨਿ = ਲਾਈ ਦੀਆਂ ਹਨ। ਖਿੰਜੋਤਾੜਾ = ਖਿੱਚੋਤਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

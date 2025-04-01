@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣਨ ਵਿਚ ਕ੍ਰੋੜਾਂ ਤੀਰਥ-ਇਸ਼ਨਾਨ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਮਜਨ = ਤੀਰਥ-ਇਸ਼ਨਾਨ। ਜਾ ਕੈ ਸੁਣਿ ਨਾਮ = ਜਿਸ ਦਾ ਨਾਮ ਸੁਣਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

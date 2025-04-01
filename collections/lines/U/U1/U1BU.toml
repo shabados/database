@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੀ) ਇਕ ਜੀਭ ਨਾਲ ਤੇਰਾ ਕੇਹੜਾ ਕੇਹੜਾ ਗੁਣ ਦੱਸਿਆ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਵਾ = ਜੀਭ। ਕਹੀਐ = ਬਿਆਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

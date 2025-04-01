@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੀ ਮਾਂ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ਜੋ ਗੁਰ-ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਮਨ ਨੂੰ ਵੱਸ ਵਿਚ ਲਿਆ ਕੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ, ਮਾਨੋ) ਮਰ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਮਾਰਿ = ਮਾਰ ਕੇ, ਵੱਸ ਵਿਚ ਲਿਆ ਕੇ। ਜਣੇਦੀ = ਜੰਮਣ ਵਾਲੀ। ਮਾਇਆ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

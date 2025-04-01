@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ, ਜਿਵੇਂ ਤੇਰੀ ਉਮਰ ਦਾ) ਕੱਲ (ਦਾ ਦਿਨ) ਛਿਨ ਛਿਨ ਕਰ ਕੇ ਬੀਤ ਗਿਆ ਹੈ, ਤਿਵੇਂ ਅੱਜ (ਦਾ ਦਿਨ ਭੀ) ਲੰਘਦਾ ਜਾ ਰਿਹਾ ਹੈ ॥੨॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲੁ = ਕੱਲ (ਦਾ ਦਿਨ)। ਆਜੁ = ਅੱਜ ਦਾ ਦਿਨ ॥੨॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

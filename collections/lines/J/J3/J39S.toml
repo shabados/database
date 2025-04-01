@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਦਾ ਬੱਧਾ ਜਗਤ ਵਿਚ ਆਉਂਦਾ ਹੈ, ਮਨ ਦੇ ਅਨੇਕਾਂ ਫੁਰਨੇ ਲੈ ਕੇ ਇਥੋਂ ਤੁਰ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਮਨ ਦੇ ਫੁਰਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

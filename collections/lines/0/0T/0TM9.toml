@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦੱਸ (ਪਰਮਾਤਮਾ ਨੂੰ ਭੁਲਾ ਕੇ) ਹੋਰ ਹੋਰ ਉੱਦਮ ਕਿਸ ਕੰਮ ਆ ਸਕਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰਿ = (ਲਫ਼ਜ਼ 'ਅਵਰ' ਤੋਂ ਬਹੁ-ਵਚਨ) ਹੋਰ। ਕਹਹੁ = ਦੱਸੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

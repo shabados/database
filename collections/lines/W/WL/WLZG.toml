@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਰਫ਼) ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ (ਦੇ ਮਿਲਾਪ) ਦਾ ਆਨੰਦ ਮਾਣਦਾ ਹੈ ਜੋ ਸਤਸੰਗ ਵਿਚ ਜਾ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁ = ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

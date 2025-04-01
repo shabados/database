@@ -5,6 +5,13 @@ language = "pa"
 data = "ਫਿਰ ਜਦ ਉਸ ਨੂੰ ਇਸੇ ਤਰ੍ਹਾਂ ਸੰਬੋਧਨ ਕੀਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਜ਼ ਚੂੰ ਹਮਚੂਨੀਂ ਖ਼ਿਤਾਬ ਆਮਦ ।"
+page = 1
+line = 24
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

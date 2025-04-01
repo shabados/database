@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਮੱਛੀ (ਪਾਣੀ ਦਾ) ਵਿਛੋੜਾ ਸਹਾਰ ਨਹੀਂ ਸਕਦੀ, ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀਆਂ ਮਰ ਜਾਂਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨੁ = ਮੱਛੀ। ਬਿਛੋਹਾ = (ਪਾਣੀ ਦਾ) ਵਿਛੋੜਾ। ਮਰਿ ਪਾਹੀ = ਮਰਿ ਪਾਹਿ, (ਮੱਛੀਆਂ) ਮਰ ਜਾਂਦੀਆਂ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

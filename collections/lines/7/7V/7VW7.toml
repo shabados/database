@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ!) ਤੂੰ ਆਪਣਾ (ਅਸਲ) ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਤੇ ਜਗਤ ਵਿਚ ਆਪ-ਹੁਦਰਾ ਫਿਰ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਕਰਹੀ = ਤੂੰ ਨਹੀਂ ਕਰਦਾ। ਅਵਤਾ = ਅਵੈੜਾ, ਆਪ-ਹੁਦਰਾ। ਲੋਇ = ਲੋਕ ਵਿਚ, ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਤੈਨੂੰ ਪਛਾਣਿਆ ਹੈ (ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਹੈ) ਜੇਹੜੇ ਤੈਨੂੰ ਤੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰ = ਤੈਨੂੰ। ਜਾਤਾ = ਪਛਾਣਿਆ ਹੈ। ਤੁਧੁ ਮਨਿ = ਤੇਰੇ ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

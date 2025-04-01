@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਸਿਰਫ਼ ਤੇਰਾ ਨਾਮ ਬਖ਼ਸ਼ੀਸ਼ ਦੇ ਤੌਰ ਤੇ ਮਿਲ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸੀਸ = ਦਾਨ। ਵਜਹੁ = ਦੇ ਤੌਰ ਤੇ। ਮਿਲਿ = ਮਿਲੈ, ਮਿਲ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

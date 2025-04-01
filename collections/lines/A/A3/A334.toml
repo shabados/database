@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਜੋ ਕੁਝ (ਪਰਮਾਤਮਾ ਪਾਸੋਂ) ਮੰਗਦਾ ਹੈ ਉਹੀ ਫਲ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਛੈ = ਇੱਛਾ ਕਰਦਾ ਹੈ, ਲੋੜਦਾ ਹੈ, ਮੰਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

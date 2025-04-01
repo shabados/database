@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਉਚਿਆਈ ਅਤੇ ਮਾਨ ਅਬਰੂ ਦੇ ਬਾਗ ਦੀ ਬਹਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹਾਰਿ ਗੁਲਿਸਤਾਨਿ ਇੱਜ਼ੋ ਅਲਾ ।੧੧੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

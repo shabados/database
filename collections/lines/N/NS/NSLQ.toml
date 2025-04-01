@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਲਈ ਤੇਰਾ ਨਾਮ ਹੀ ਜ਼ਿੰਦਗੀ ਦਾ ਆਸਰਾ ਬਣ ਗਿਆ ਹੈ, ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਉਹਨਾਂ ਨੂੰ ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਧਾਰੁ = ਆਸਰਾ। ਈਤ = ਇਸ ਲੋਕ ਵਿਚ। ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਟੇਕ = ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

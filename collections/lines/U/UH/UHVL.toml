@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਦਾ) ਮਨ ਰਤਾ ਭਰ ਭੀ ਨਹੀਂ ਟਿਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਈ = ਰਤਾ ਭਰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

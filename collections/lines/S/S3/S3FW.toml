@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਉਸੇ ਦੀ ਕਿਰਪਾ ਨਾਲ ਐਸੇ ਪੁਰਸ਼ ਪਰਗਟ ਹੁੰਦੇ ਹਨ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਨਸੀਬਿ ਕਸ ਸ਼ਵਦ ਈਣ ਰੂ-ਨਮਾ ।੧੫੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

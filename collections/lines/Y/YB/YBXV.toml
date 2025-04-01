@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੇਰਾ ਨਾਮ ਹੀ (ਸਾਡੇ ਵਾਸਤੇ) ਜਪ ਹੈ ਤਪ ਹੈ ਸੰਜਮ ਹੈ, ਤੇਰਾ ਨਾਮ ਹੀ (ਸਾਡੇ ਵਾਸਤੇ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐ ਜੀ = ਹੇ ਪ੍ਰਭੂ ਜੀ! ਸਚੁ ਅਧਾਰੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਚਾਰ ਪਦਾਰਥ ਲੋੜਦਾ ਹੈਂ, ਜੇ ਤੂੰ ਆਠਾਰਾਂ ਸਿੱਧੀਆਂ ਲੋੜਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰਿ ਪਦਾਰਥ = ਧਰਮ, ਅਰਥ, ਕਾਮ, ਮੋਖ। ਅਸਟ ਦਸਾ = ਅਠ ਤੇ ਦਸ, ਅਠਾਰਾਂ। ਸਿਧਿ = ਸਿੱਧੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

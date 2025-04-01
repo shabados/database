@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਥਾਂ ਚਾਨਣ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ ਜੀ ਹੁਣ ਮੇਰੇ ਮਦਦਗਾਰ ਬਣ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋ ਕਉ = ਮੈਨੂੰ, ਮੇਰੇ ਵਾਸਤੇ। ਰਾਜਾ = ਪ੍ਰਕਾਸ਼ ਰੂਪ, ਹਰ ਥਾਂ ਚਾਨਣ ਕਰਨ ਵਾਲਾ। ਸਹਾਈ = ਮਦਦਗਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

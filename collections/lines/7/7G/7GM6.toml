@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਮਿਲਦਾ ਹੈ ਗੁਰੂ ਉਸ ਨੂੰ ਸੰਗਤ ਵਿਚ ਮਿਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟੈ = ਮਿਲਦਾ ਹੈ। ਮੇਲਿ = ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

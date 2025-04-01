@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਕੀਹ ਬਣ ਗਿਆ ਜੇ ਫ਼ੌਜ, ਚੋਬਦਾਰ, ਚੋਰੀ-ਬਰਦਾਰ ਮਿਲ ਗਏ ਤੇ ਮਹਲਾਂ ਵਿਚ ਵੱਸਣਾ ਨਸੀਬ ਹੋਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਬ = ਚੋਬਦਾਰ। ਖਵਾਸੀ = ਚੌਰੀ-ਬਰਦਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

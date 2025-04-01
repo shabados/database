@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਬਾਦਸ਼ਾਹ ਨੂੰ ਨਹੀਣ ਜਾਣਦਾ, ਫਕੀਰ ਨੂੰ ਨਹੀਣ ਪਛਾਣਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਸ਼ਾਹ ਨ ਦਾਨੇਮ ਓ ਗਦਾ ਰਾ ਨਾ-ਸ਼ਨਾਸੇਮ ।੫੮।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

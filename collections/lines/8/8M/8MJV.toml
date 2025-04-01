@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਨੂਰਾਨੀ ਆਤਮਾ ਇਕ ਚਮਕਦਾ ਸੂਰਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਮੀਰਿ ਮੁਨੀਰਸ਼ ਦਰਖ਼ਸ਼ਿੰਦਾ ਹੂਰ ।੧੫੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

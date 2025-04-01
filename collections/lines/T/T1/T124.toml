@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਪੱਕਾ ਸਥਿਰ ਹੋ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਦਰ ਯਾਦਿ ਖ਼ੁਦਾ ਕਾਇਮ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

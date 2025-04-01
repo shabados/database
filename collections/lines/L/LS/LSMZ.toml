@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ! ਤੂੰ ਅਸਾਂ ਜੀਵਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਹੈਂ, ਪ੍ਰਾਨ ਹੈਂ, ਧਨ ਹੈਂ, ਸੁਹਜ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਿੰਦ = ਹੇ ਗੋਬਿੰਦ! ਜੀਵਨ = ਜ਼ਿੰਦਗੀ। ਰੂਪ = ਸੁਹਣੱਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

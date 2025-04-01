@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਉਸ ਬੰਦੇ ਨੇ ਜਿਸ ਨੇ ਉਸਦਾ ਪਵਿੱਤਰ ਨਾਮ ਸੁਣਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਆਂ ਕਸ ਕਿ ਊ ਨਾਮਿ ਊ ਰਾ ਸ਼ਨੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

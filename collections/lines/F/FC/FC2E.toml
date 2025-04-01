@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਨਾਮ' ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਕੰਮ (ਜ਼ਿੰਦਗੀ ਦੀ ਬਾਜ਼ੀ ਜਿੱਤਣ ਲਈ) ਸਫਲ ਨਹੀਂ ਹੁੰਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਰੀ = ਹੋਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

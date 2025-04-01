@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਆਨੰਦ ਆਪਣੇ ਅੰਦਰ ਮਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸੁ = ਆਨੰਦ, ਸੁਆਦ। ਮਾਨਾ = ਮਾਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

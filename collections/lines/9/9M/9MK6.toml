@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਬ੍ਰਾਹਮਣ! ਪਰਮਾਤਮਾ ਨੂੰ (ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ) ਯਾਦ ਕਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਮਣ = ਹੇ ਬ੍ਰਾਹਮਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

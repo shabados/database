@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੰਦੇ ਕੰਮਾਂ ਦੇ ਬੀਜ) ਆਪ ਬੀਜ ਕੇ (ਫਿਰ) ਆਪ ਹੀ (ਉਹਨਾਂ ਦਾ ਦੁੱਖ-ਫਲ) ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜਿ = ਬੀਜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

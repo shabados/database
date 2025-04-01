@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਦਰਸਨ ਕਰ ਕੇ ਨਿਹਾਲ ਹੋ ਜਾਂਦੇ ਹਨ ॥੪॥੧੦॥੨੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਨਿਹਾਲਾ = ਪ੍ਰਸੰਨ ॥੪॥੧੦॥੨੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

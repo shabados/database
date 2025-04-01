@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ, ਕਾਮ, ਕ੍ਰੋਧ ਤੇ ਅਹੰਕਾਰ ਸਭ ਇਕ ਤਰ੍ਹਾਂ ਦੇ ਭੂਤ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੇਤੁ = ਭੂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

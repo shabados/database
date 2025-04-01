@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰ ਥਾਂ) ਪਰਮਾਤਮਾ ਦਾ ਦਰਸਨ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਖਿੜਾਉ ਪੈਦਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਮਨਿ = ਮਨ ਵਿਚ। ਵਿਗਾਸਾ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

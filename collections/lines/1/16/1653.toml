@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਨਿਮਰ ਉਸ ਦੇ ਚਰਨਾਂ ਉੱਤੇ ਡਿਗੇ ਹੋਏ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਪਾ ਅੰਦਰਸ਼ ਓਫ਼ਤਾਦਾ ਬ-ਇਜਜ਼ ।੧੨੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

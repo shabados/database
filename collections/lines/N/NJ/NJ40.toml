@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੇ ਮੇਹਰ ਕਰ ਕੇ (ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੂੰ) ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ਿਆ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

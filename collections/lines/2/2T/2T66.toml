@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਹ ਮੇਰੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਣ ਅਧਾਰਾ = ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

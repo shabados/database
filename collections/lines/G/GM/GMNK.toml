@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਤੈਥੋਂ ਪਹਿਲਾਂ ਹੋ ਚੁਕੇ ਸਭ ਬੰਦੇ ਮਾਇਆ ਦੇ ਧੰਧੇ ਕਰ ਕਰ ਕੇ ਥੱਕਦੇ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

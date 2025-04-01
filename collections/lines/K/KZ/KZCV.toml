@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇੱਕ ਗ੍ਰਿਹਸਤੀ ਹੋ ਕੇ (ਮਾਇਆ) ਇਕੱਠੀ ਕਰਦੇ ਹਨ, ਪਰ (ਇਹ ਮਾਇਆ) ਉਨ੍ਹਾਂ ਦੀ ਆਪਣੀ ਨਹੀਂ ਬਣਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਹਿ = ਇਕੱਠੀ ਕਰਦੇ ਹਨ। ਆਪੈ = ਆਪਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

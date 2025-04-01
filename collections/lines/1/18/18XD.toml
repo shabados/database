@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰਿਆਂ ਖਾਸ ਪਿਆਰਿਆਂ ਲਈ ਉਸਦੀ ਰੱਖਿਆ ਵੱਡੀ ਨਿਆਮਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਖ਼ਾਸਗਾਂ ਰਾ ਕਫ਼ਿ ਇਸਮਤਸ਼ ।"
+page = 8
+line = 97
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

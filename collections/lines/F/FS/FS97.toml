@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਸੇ ਤਰ੍ਹਾਂ ਦੇ ਕਰਮ ਜੀਵ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ ਭਾਣਾ = ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਾ। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

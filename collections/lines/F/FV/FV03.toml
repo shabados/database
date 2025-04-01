@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਖ਼ਸ਼ਿਸ਼ ਅਤੇ ਸਖ਼ਾਵਤ ਦੇ ਬਾਗਾਂ ਲਈ ਉਹ ਘਨਘੋਰ ਘਟਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਾਤੀਨਿ ਫ਼ੈਜ਼ੋ ਸਖ਼ਾ ਰਾ ਗ਼ਨਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

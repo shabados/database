@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅਸਚਰਜ-ਸਰੂਪ ਹੈਂ। ਤੇਰੀ ਬਖ਼ਸ਼ਸ਼ ਭੀ ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜੁ = ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲਾ। ਵਡਿਆਈ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

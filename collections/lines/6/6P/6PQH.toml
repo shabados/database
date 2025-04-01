@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ ਮਨ! ਪਰਮਾਤਮਾ ਵਰਗਾ ਪ੍ਰੀਤਮ ਬਣਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ = ਵਰਗਾ। ਕਰਿ = ਬਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

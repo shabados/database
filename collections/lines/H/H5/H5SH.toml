@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸੀਂ ਹੁਣ) ਘਰ ਦੇ ਧੰਧਿਆਂ ਤੇ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚ ਗਏ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਲ ਜੰਜਾਲ = ਘਰ ਦੇ ਧੰਧੇ। ਬਿਕਾਰ ਤੇ = ਵਿਕਾਰਾਂ ਤੋਂ। ਰਹਤੇ = ਬਚ ਗਏ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

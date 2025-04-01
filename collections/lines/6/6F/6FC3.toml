@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਵਿਛੋੜੇ ਨਾਲ ਮੇਰੇ ਦਿਲ ਨੂੰ ਅਜਹਿੀ ਅੱਗ ਲੱਗੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੁਨਾਣ ਜ਼ਿ ਹਿਜਰਤ ਆਤਿਸ਼ ਫ਼ਿਤਾਦਾ ਦਰ ਦਿਲਿ ਮਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

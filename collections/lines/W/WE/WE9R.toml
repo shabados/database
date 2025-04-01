@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੂੰ ਅਜਿਹੀ ਵੀਣਾ ਵਜਾਇਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿੰਗੁਰੀ = ਵੀਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

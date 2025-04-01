@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਾਮ! ਜੇ ਤੂੰ ਮੈਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਤੋਂ ਵਿਛੋੜ ਦੇਵੇਂ, ਤਾਂ ਦੱਸ ਹੋਰ ਮੁਕਤੀ ਕੀਹ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜੇ। ਮੋ ਕਉ = ਮੈਨੂੰ। ਦੂਰ ਕਰਤ ਹਉ = ਤੂੰ (ਮੈਨੂੰ) ਆਪਣੇ ਚਰਨਾਂ ਤੋਂ ਵਿਛੋੜ ਦੇਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

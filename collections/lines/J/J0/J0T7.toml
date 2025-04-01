@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇਕ ਸਿਤਾਰੇ ਵਾਲੇ ਦੇ ਹੁਕਮ ਨੂੰ ਮੰਨਣ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਜ਼ੀਰਾਇ ਹੁਕਮਸ਼ ਬ-ਨੇਕ ਅਖ਼ਤਰੀ ।੯੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

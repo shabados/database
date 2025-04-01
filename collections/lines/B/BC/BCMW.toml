@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਅਨੇਕਾਂ ਤੇ ਬੇਅੰਤ ਤੇਰੇ ਭਗਤ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤ = ਬੰਦਗੀ ਕਰਨ ਵਾਲੇ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਭਗਤਿ' ਤੇ 'ਭਗਤ' ਦਾ ਫ਼ਰਕ ਚੇਤੇ ਰੱਖਣ-ਯੋਗ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

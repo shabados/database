@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੈਰਾਨ ਹੋਇਆ) ਇਹ ਮਨ ਕਦੇ ਰਣ-ਭੂਮੀ ਵਿਚ ਰਾਜਾ ਤੇ ਸੂਰਮਾ ਬਣਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਮਾ। ਸੰਗ੍ਰਾਮਿ = ਰਣ-ਭੂਮੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

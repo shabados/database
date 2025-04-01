@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਰਾਰਿ = ਪਰਮਾਤਮਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਵਿਚ ਜੁੜਿਆਂ ਸਰੋਪਾ ਮਿਲਦਾ ਹੈ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਝੈ = ਸਰੋਪਾ ਮਿਲਿਆ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

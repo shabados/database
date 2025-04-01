@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਤੋਂ ਛੁੱਟ ਹੋਰ ਕੋਈ ਦੂਜਾ ਹਰਫ ਨ ਪੜ੍ਹ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਫ਼ਿ ਦੀਗਰ ਨੀਸਤ ਗ਼ੈਰ ਅਜ਼ ਯਾਦਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

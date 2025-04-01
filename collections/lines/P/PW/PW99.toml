@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਹੁਤ ਅੰਞਾਣ ਜਿੰਦੇ! ਇਤਨਾ ਕੋਝਾ ਮਾਣ ਤੂੰ ਕਿਉਂ ਕਰਦੀ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆਨੀ = ਅੰਞਾਣ ਕੁੜੀ। ਇਆਨੜੀ = ਬਹੁਤ ਅੰਞਾਣ ਕੁੜੀ। ਇਆਨੜੀਏ = ਹੇ ਬਹੁਤ ਅੰਞਾਣ ਜਿੰਦੇ! ਮਾਨੜਾ = ਕੋਝਾ ਮਾਣ। ਕਾਇ = ਕਿਉਂ? ਕਰੇਹਿ = ਤੂੰ ਕਰਦੀ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

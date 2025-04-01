@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵ ਜੰਤ ਤੇਰੇ ਹੀ ਆਸਰੇ ਹਨ, ਤੈਨੂੰ ਹੀ ਸਭ ਦੀ ਸੰਭਾਲ ਦਾ ਫ਼ਿਕਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਚਿੰਤ = ਫ਼ਿਕਰ, ਸੰਭਾਲ। ਤੁਧੁ ਪਾਸੇ = ਤੇਰੇ ਪਾਸ, ਤੈਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

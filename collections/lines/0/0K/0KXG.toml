@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਾਮ ਪੈ ਰਹੀ ਹੈ, ਦਸੀਂ ਪਾਸੀਂ ਹਨੇਰਾ ਹੀ ਹਨੇਰਾ ਹੋਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਂਝ = ਸ਼ਾਮ। ਦਹਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਉਸ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਦੇ ਰਾਹ ਵਿਚ ਆਉਣ ਵਾਲੀਆਂ) ਕ੍ਰੋੜਾਂ ਰੁਕਾਵਟਾਂ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦੀਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਬਿਘਨ = ਰੁਕਾਵਟਾਂ। ਨੇਰਿ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

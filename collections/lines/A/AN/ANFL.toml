@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਨੁੱਖ ਉਤਨਾ ਚਿਰ ਹੀ ਕਿਸੇ ਹੋਰ ਨੂੰ ਚੰਗਾ ਜਾਂ ਮੰਦਾ ਆਖਦਾ ਹੈ ਜਿਤਨਾ ਚਿਰ ਉਹ ਆਪ ਮੇਰ-ਤੇਰ ਵਿਚ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਚਰੁ = ਉਤਨਾ ਚਿਰ। ਦੁਹੁ ਮਾਹਿ = ਮੇਰ-ਤੇਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

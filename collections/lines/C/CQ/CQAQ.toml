@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਦੀਵਾ ਹਨੇਰਾ (ਦੂਰ ਕਰ ਕੇ) ਚਾਨਣ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧਕਾਰ = ਹਨੇਰਾ। ਦੀਪਕ = ਦੀਵਾ। ਪਰਗਾਸੁ = ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

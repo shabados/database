@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸਾਰਾ ਜਗਤ ਤੇਰਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਸਾਰੀ ਲੁਕਾਈ ਤੇਰਾ ਹੀ ਧਿਆਨ ਧਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

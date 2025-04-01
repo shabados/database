@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਰੀਰ ਸੋਹਣੇ ਚਿੱਟੇ ਦੰਦਾਂ ਨਾਲ ਤੇ ਸੋਹਣੇ ਨੈਣਾਂ ਨਾਲ ਸੋਭ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਜਲ = ਚਿੱਟੇ, ਸਾਫ਼। ਮੋਤੀ = ਭਾਵ, ਦੰਦ। ਰਤਨੁ = ਭਾਵ, ਅੱਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

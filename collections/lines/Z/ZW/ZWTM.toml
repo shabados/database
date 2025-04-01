@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਲੇ-ਸਿਰ (ਭਾਵ, ਅੰਮ੍ਰਿਤ ਵੇਲੇ) ਮਨ ਨਾਲ ਜੰਗ ਕਰਦੇ ਹਨ (ਭਾਵ, ਆਲਸ ਵਿਚੋਂ ਨਿਕਲ ਕੇ ਬੰਦਗੀ ਦਾ ਆਹਰ ਕਰਦੇ ਹਨ), ਉਹੀ ਪੂਰੇ ਸ਼ਾਹ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਤੈ ਉਪਰਿ = ਵੇਲੇ ਸਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੇ) ਜੂਏ ਵਿਚ ਆਪਣਾ ਜੀਵਨ ਕਦੇ ਭੀ ਨਹੀਂ ਗਵਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੂਐ = ਜੂਏ ਵਿਚ। ਹਾਰਿ = ਹਾਰੇ, ਹਾਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

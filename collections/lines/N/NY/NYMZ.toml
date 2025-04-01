@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਦਰ ਤੇ) ਅਨੇਕਾਂ ਸੁਰੀਲੇ ਰਾਗਾਂ ਦੀ ਧੁਨੀ ਹੋ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਲਿਤ = ਸੁੰਦਰ। ਧੁਨਿਤ = ਧੁਨੀਆਂ ਹੋ ਰਹੀਆਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਵਾਲੀ) ਭਟਕਣਾ ਛੱਡ, ਧਨ, ਘਰ ਜੁਆਨੀ, ਰਾਜ ਕਿਸੇ ਚੀਜ਼ ਨੇ ਭੀ ਤੇਰੇ ਨਾਲ ਨਹੀਂ ਜਾਣਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਹ ਸੰਗਿ = ਤੇਰੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

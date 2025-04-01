@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਇਕੱਠੀ ਹੋਈ ਮੈਲ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ ਹੀ ਮਿਟ ਸਕਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ = ਨਾਮ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

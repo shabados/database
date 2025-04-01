@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰੇ ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈਂ, ਤੂੰ (ਮੇਰੀ ਹਾਲਤ) ਵੇਖਦਾ ਹੈਂ, ਤੂੰ ਮੇਰੇ ਸਿਰ ਉੱਤੇ (ਰਾਖਾ) ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਾ = (ਮੇਰੇ ਦਿਲ ਦੀ) ਜਾਣਨ ਵਾਲਾ। ਬੀਨਾ = (ਮੇਰੇ ਕੰਮਾਂ ਨੂੰ) ਵੇਖਣ ਵਾਲਾ। ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

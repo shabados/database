@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਗਲਿਆਂ ਦੇ ਚਿੱਟੇ ਖੰਭ ਹੁੰਦੇ ਹਨ, ਵੱਸਦੇ ਭੀ ਉਹ ਤੀਰਥਾਂ ਉਤੇ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਗਾ ਕਪੜੇ = ਬਗਲਿਆਂ ਦੇ ਖੰਭ। ਬਗੇ = ਚਿੱਟੇ। ਮੰਝਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

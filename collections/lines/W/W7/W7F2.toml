@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ-ਪਿਤਾ)! ਤੇਰੇ ਪਿਆਰ ਦੇ ਭਰੋਸੇ ਤੇ ਮੈਂ ਲਾਡਾਂ ਵਿਚ ਹੀ ਦਿਨ ਗੁਜ਼ਾਰ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਡ ਲਡਾਇਆ = ਲਾਡ ਕਰਦਾ ਰਿਹਾ, ਲਾਡਾਂ ਵਿਚ ਦਿਨ ਕੱਟਦਾ ਰਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

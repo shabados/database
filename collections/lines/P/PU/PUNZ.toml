@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਮਨੁੱਖ) ਦੇ ਮਨ ਵਿਚ ਇਕ ਪਰਮਾਤਮਾ (ਹੀ) ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ ਮਨਿ = ਉਸ ਦੇ ਮਨ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

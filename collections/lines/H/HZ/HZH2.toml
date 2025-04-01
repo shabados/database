@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਧਰਮ ਦੀ ਇਕ ਤਾਕਤ ਮੁੱਕ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰੇਤੈ = ਤ੍ਰੇਤੇ ਵਿਚ, ਤ੍ਰੇਤੇ ਦੇ ਪ੍ਰਭਾਵ ਵਿਚ। ਧਰਮ ਕਲਾ = ਧਰਮ ਦੀ ਇਕ ਤਾਕਤ। ਚੂਕੀ = ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

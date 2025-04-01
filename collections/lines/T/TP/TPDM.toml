@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਉਸ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਸਿਮਰਿਆ ਹੈ, ਉਸ ਨੇ ਹੀ ਵਡਿਆਈ ਪਾ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਮਨੁੱਖ ਨੇ। ਤਿਨਿ = ਉਸ ਮਨੁੱਖ ਨੇ। ਮਾਨੁ = ਆਦਰ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

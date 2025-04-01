@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਗੋਰਖ ਸੀ ਨਾਹ ਮਾਛਿੰਦ੍ਰ ਨਾਥ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਛਿੰਦੋ = ਮਾਛਿੰਦ੍ਰ ਨਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

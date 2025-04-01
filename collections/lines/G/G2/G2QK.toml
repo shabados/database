@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਤੋਂ ਆਖ਼ਰ ਵਿਛੁੜ ਹੀ ਜਾਣਾ ਹੈ, ਉਸ ਦੀ ਖ਼ਾਤਰ ਦੱਸੋ ਕੀਹ ਜਤਨ ਕਰਨਾ ਹੋਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਕਾ = ਉਸ ਦੀ ਖ਼ਾਤਰ। ਜਿਸ ਤੇ = ਜਿਸ ਤੋਂ। ਵੰਜੀਐ = ਵਾਂਜੇ ਜਾਣਾ ਹੈ, ਵਿਛੁੜ ਜਾਣਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

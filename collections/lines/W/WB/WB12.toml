@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਕਿਤੇ ਪੁਰਾਣਾਂ ਦੇ ਪਾਠ ਭੀ ਨਹੀਂ ਸਨ। ਤਦੋਂ ਨਾਹ ਕਿਤੇ ਸੂਰਜ ਦਾ ਚੜ੍ਹਨਾ ਸੀ ਨਾਹ ਡੁੱਬਣਾ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦੈ = ਸੂਰਜ ਦਾ ਚੜ੍ਹਨਾ। ਆਸਤ = ਸੂਰਤ ਦਾ ਡੁੱਬਣਾ, ਅਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

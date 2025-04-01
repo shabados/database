@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਢੂੰਡ ਕੇ ਗੁਰੂ ਦੀ ਸਰਨ ਆ ਪਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰੇ ਕੁੰਡਾ = ਚਾਰੇ ਪਾਸੇ, ਸਾਰੀ ਦੁਨੀਆ (ਕੁੰਡਾਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

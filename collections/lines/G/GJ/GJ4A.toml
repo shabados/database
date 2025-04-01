@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਜਤਨ ਕਰ ਕੇ ਇਹ ਸਰੀਰ ਪਾਲੀਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

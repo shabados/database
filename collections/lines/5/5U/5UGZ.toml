@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ) ਕਾਮਯਾਬ (ਹੋ ਕੇ) ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਪਹੁੰਚਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਝਈ = ਕਾਮਯਾਬ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

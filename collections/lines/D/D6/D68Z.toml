@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਜੀਵ ਥੋੜ-ਵਿਤੇ ਹਾਂ, ਤੂੰ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲਾ ਹੈਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥੋਰੇ = ਥੋੜੇ ਵਿਤ ਵਾਲੇ, ਥੋੜ-ਵਿਤੇ। ਮੂਚ = ਵੱਡਾ, ਵੱਡੇ ਜਿਗਰੇ ਵਾਲਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

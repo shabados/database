@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਇਕ ਝੂਠੀ ਕਹਾਨੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜਹਾਨੋ ਆਣ ਜਹਾਣ ਅਫ਼ਸਾਨਾ ਈਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

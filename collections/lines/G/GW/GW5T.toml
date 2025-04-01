@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਨੂੰ ਪਰਮਾਤਮਾ ਆਪ ਕਿਰਪਾ ਕਰ ਕੇ (ਇਹ ਦਾਤਿ) ਦੇਂਦਾ ਹੈ ॥੮॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ = ਦੇਂਦਾ ਹੈ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

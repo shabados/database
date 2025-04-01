@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਗ-ਹੀਣ ਬੰਦੇ! ਤੂੰ ਮਰਨ ਦੇ ਵੇਲੇ ਲਈ ਕੀਹ ਤਿਆਰੀ ਕਰ ਰਿਹਾ ਹੈਂ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ ਜਇਬੇ ਕਉ = ਮਰਨ ਵੇਲੇ ਲਈ। ਕਰਹੁ = ਤੁਸੀ ਕਰ ਰਹੇ ਹੋ। ਅਭਾਗੇ = ਹੇ ਭਾਗ-ਹੀਣ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

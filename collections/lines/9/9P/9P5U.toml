@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਮਨ ਵਿਚ) ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਬੇਅੰਤ ਅੱਗ ਇਕੋ ਥਾਂ ਤੇ ਪਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਲ ਅਨੀਲ = ਗਿਣਤੀ ਤੋਂ ਪਰੇ। ਅਗਨਿ = ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ। ਇਕ ਠਾਈ = ਇੱਕ ਥਾਂ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

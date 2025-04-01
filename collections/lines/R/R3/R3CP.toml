@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਫਸੋਸ ਤੇਰੇ ਉੱਤੇ # ਤੇਰੀ ਜਾਨ ਉੱਤੇ ਅਤੇ ਤੇਰੇ ਹਾਲ ਉੱਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਇ ਤੂ ਬਰ ਜਾਨਿ ਤੂ ਅਹਿਵਾਲਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

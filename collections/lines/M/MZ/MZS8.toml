@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਲਕਾਇਆ ਕੁੱਤਾ ਦੌੜਦਾ ਹੈ ਤੇ ਹਰ ਪਾਸੇ ਵਲ ਭੱਜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਕਰੁ = ਕੁੱਤਾ। ਹਰਕਾਇਆ = ਹਲਕਾ ਹੋਇਆ ਹੋਇਆ। ਦਹ = ਦਸ। ਦਿਸ = ਪਾਸੇ। ਜਾਇ = ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

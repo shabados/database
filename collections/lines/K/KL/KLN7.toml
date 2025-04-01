@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਾਲੇ ਦਿਲਾਣ ਵਾਲੇ, ਜਿਨ੍ਹਾਣ ਦੀਆਣ ਅੱਖਾਣ ਨਹੀਣ, ਇਸ ਗਲ ਲਈ ਆਜ਼ਾਦ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੀਰਾ ਦਿਲਾਣ ਕਿ ਚਸ਼ਮ ਨਦਾਰੰਦ ਮੁਤਲਿਕ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

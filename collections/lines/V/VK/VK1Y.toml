@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਹਾਨ ਉਸ ਦੀ ਸੁਗੰਦੀ ਨਾਲ ਜੀਊਂਦਾ ਹੋ ਉਠਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਾ ਮੀਗਰਦਦ ਜਹਾਂ ਅਜ਼ ਬੂਇ ਊ ।੩੩੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

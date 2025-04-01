@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਤੇਰੇ ਇਕ ਉਪਕਾਰ ਨੂੰ ਭੀ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਕਉ = ਸਾਕਉਂ। ਬਰਨਿ ਨ ਸਾਕਉ = ਮੈਂ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਟੁਲੇਰੈ = ਟੋਲ, (ਦਿੱਤਾ ਹੋਇਆ) ਪਦਾਰਥ, ਕੀਤਾ ਹੋਇਆ ਉਪਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

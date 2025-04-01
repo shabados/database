@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਘਰ ਵਿਚ (ਉਸ ਦੇ) ਅਨੇਕਾਂ ਉੱਦਮ ਸਫਲ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਆ ਕੈ = ਉਸ ਦੇ ਘਰ ਵਿਚ। ਸਰੰਜਾਮ = ਸਫਲ {ਫ਼: } ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

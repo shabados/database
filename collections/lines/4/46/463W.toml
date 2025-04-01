@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀਆਂ ਨਿਆਮਤਾਂ ਕਾਰਨ ਪਰਵਾਨ ਹੋ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਕਬਲ ਅਜ਼ ਆਲਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੫।"
+page = 10
+line = 135
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

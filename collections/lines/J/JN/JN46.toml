@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਚੰਚਲ ਮਨ! ਚਲਾਕੀਆਂ ਨਾਲ ਕਿਸੇ ਨੇ ਭੀ (ਆਤਮਕ ਆਨੰਦ) ਹਾਸਲ ਨਹੀਂ ਕੀਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨੈ = ਕਿਸੇ ਮਨੁੱਖ ਨੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

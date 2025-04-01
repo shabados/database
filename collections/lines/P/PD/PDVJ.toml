@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਦਰਬਾਰ ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜ = ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲੀ। ਸਭਾ = ਕਚਹਿਰੀ, ਦਰਬਾਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

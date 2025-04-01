@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਇਹ ਖਿਲਾਰਾ (ਤਾਂ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਾਣ ਲਈ ਫਾਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਟੰਬੁ = ਪਰਵਾਰ, ਢੇਰ, ਖਿਲਾਰਾ। ਭਾਇ ਦੂਜੈ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ, ਹੋਰ ਹੋਰ ਪਿਆਰ ਵਿਚ। ਫਾਸ = ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

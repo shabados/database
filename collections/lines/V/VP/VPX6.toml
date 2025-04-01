@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਨਾਨਕ ਆਖਦਾ ਹੈ, ਜਿਸ ਮਨੁੱਖ ਦੇ ਪੂਰੇ ਭਾਗ ਜਾਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਭਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

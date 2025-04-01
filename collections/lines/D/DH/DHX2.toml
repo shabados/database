@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹਰੇਕ ਦੇ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਹੈ। ਸੰਤ ਜਨ (ਉਸ ਦਾ ਨਾਮ) ਜਪ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਹਿ = {ਬਹੁ-ਵਚਨ} ਜੀਊਂਦੇ ਹਨ। ਜਪਿ = ਜਪ ਕੇ। ਪ੍ਰਾਨ ਅਧਾਰਾ = ਜਿੰਦ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

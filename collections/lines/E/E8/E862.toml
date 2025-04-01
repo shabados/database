@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਆਪਣੇ ਪਰਵਾਰ ਨੂੰ ਵੇਖ ਕੇ ਇਸ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਜਾਂਦਾ ਹੈ। (ਪਰ ਪਰਵਾਰ ਦਾ ਕੋਈ ਸਾਥੀ) ਜਗਤ ਤੋਂ ਤੁਰਨ ਵੇਲੇ ਜੀਵ ਦੇ ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਦੇਖ ਕੇ। ਮੋਹਿ = ਮੋਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

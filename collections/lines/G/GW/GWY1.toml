@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੁਇਂ ਮਣਸ ਕੇ ਦਾਨ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਮਿ = ਜ਼ਮੀਨ, ਭੁਇਂ। ਅਰਪਿ = ਅਰਪ ਕੇ, ਮਣਸ ਕੇ। ਧਰਾ = ਧਰ ਦਿੱਤੀ, ਦੇ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

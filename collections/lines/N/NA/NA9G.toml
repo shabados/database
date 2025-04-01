@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਤੇਰੇ ਸ਼ਿਅਰਾਣ ਤੋਣ ਲੋਕਾਣ ਨੂੰ ਹਿੰਦੁਸਤਾਨ ਵਿਚ ਮਿਲਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੂ ਸ਼ਿਅਰੇ ਤੂ ਬ-ਹਿੰਦੁਸਤਾਣ ਲਜ਼ੀਜ਼ ।੩੪।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

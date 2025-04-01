@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਉਸ ਨੇ ਹੀ ਤੇਰਾ ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਿ = ਸਿਮਰ ਕੇ। ਸੁਖੁ = ਆਤਮਕ ਆਨੰਦ। ਨਾਨਕ = ਹੇ ਨਾਨਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

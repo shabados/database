@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਕੋਈ) ਬੱਚਾ ਦੁੱਧ ਦੇ ਆਸਰੇ ਹੀ ਹੁੰਦਾ ਹੈ (ਤਦੋਂ ਉਹ) ਦੁੱਧ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਰਹਿ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੀਰ = ਦੁੱਧ। ਖੀਰ ਅਧਾਰਿ = ਦੁੱਧ ਦੇ ਆਸਰੇ ਨਾਲ। ਹੋਤਾ = ਹੁੰਦਾ ਹੈ, ਰਹਿੰਦਾ ਹੈ। ਬਿਨੁ ਖੀਰੈ = ਦੁੱਧ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਤੂੰ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈਂ, ਉਹ ਤੇਰਾ ਧਿਆਨ ਧਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਠਾ = ਪ੍ਰਸੰਨ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

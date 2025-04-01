@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਘਰੋਂ) ਬਾਹਰ ਮੜ੍ਹੀਆਂ ਵਿਚ ਮਸਾਣਾਂ ਵਿਚ ਰਿਹਾਂ ਪ੍ਰਭੂ-ਮੇਲ ਨਹੀਂ ਹੁੰਦਾ, ਸਮਾਧੀਆਂ ਲਾਇਆਂ ਭੀ ਰੱਬ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੜੀ = ਮੜ੍ਹੀਆਂ ਵਿਚ। ਮਸਾਣੀ = ਮਸਾਣਾਂ ਵਿਚ। ਤਾੜੀ = ਸਮਾਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

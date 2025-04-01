@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਵਲ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ ਸਿਮਰ ਕੇ ਸੁਖ ਮਾਣਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮੈ ਰਾਮ = ਕੇਵਲ ਰਾਮ ਨੂੰ। ਰਮਤ = ਸਿਮਰ ਸਿਮਰ ਕੇ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

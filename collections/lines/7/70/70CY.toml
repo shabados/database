@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਕੰਨੀ, ਗੋਯਾ, ਪਹਿਲੇ ਦਿਨ ਤੋਣ ਹੀ ਇਹ ਆਵਾਜ਼ ਪਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਾ ਜ਼ਿ ਰੂਜ਼ਿ ਅਜ਼ਲ ਆਮਦ ਈਣ ਨਿਦਾ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

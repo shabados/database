@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਹਰ ਕਰ ਕੇ ਪ੍ਰਭੂ ਮੇਰੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਆ ਵੱਸਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਮਹਿ = ਹਿਰਦੇ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

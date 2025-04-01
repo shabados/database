@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸਰਨ ਪਿਆਂ (ਮੇਰੇ ਅੰਦਰੋਂ) ਝਗੜੇ ਕਲੇਸ਼ ਸਹਮ ਭਟਕਣਾ ਤੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ = ਝਗੜੇ। ਭੈ = {'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

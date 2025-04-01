@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੇ ਮਨ ਵਿਚ ਚਿੱਤ ਵਿਚ ਸਦਾ ਇਹ ਆਸ ਰਹਿੰਦੀ ਹੈ ਕਿ ਮੈਂ ਕਿਸੇ ਤਰ੍ਹਾਂ ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਚਿਤਿ = ਚਿਤ ਵਿਚ। ਹਰਿ = ਹੇ ਹਰੀ! ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

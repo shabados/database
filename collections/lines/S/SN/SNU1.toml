@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੋਵੇਣ ਲੋਕ ਉਸ ਰੱਬ ਦੇ ਬੋਹਲ ਵਿੱਚੋਣ ੋਇੱਕ ਦਾਣਾ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਨੋ ਆਣ ਅਜ਼ ਖ਼ਿਰਮਨਸ਼ ਯੱਕ ਦਾਨਾ ਈਸਤ ।੨੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

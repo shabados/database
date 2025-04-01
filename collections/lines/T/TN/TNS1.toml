@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨੂੰ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਪੋਹ ਸਕਦਾ, ਜਮਾਂ ਦਾ ਜਾਲ ਫਸਾ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਜਾਲਾ = ਜਮਾਂ ਦਾ ਜਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

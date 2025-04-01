@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਗਰ ਦੇ ਖ਼ੂਨ ਨੇ ਮੇਰੀ ਅੱਖ ਦੇ ਪੱਲੇ ਨੂੰ ਲਾਲ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਮਨਿ ਚਸ਼ਮਿ ਮਰਾ ਖ਼ੂਨਿ ਜਿਗਰ ਰੰਗੀਣ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

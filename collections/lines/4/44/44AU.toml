@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾ ਕਿ ਮੈਂ ਉਨ੍ਹਾਂ ਦੇ ਕੰਮ, ਜੀਵਨ ਵਿਹਾਰ, ਠੀਕ ਕਰ ਦਿਆਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਹਮਾ ਕਾਰਿ ਸ਼ਾਂ ਨਿਕੋ ਸਾਜ਼ਮ ।"
+page = 1
+line = 47
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

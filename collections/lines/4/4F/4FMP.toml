@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ (ਧਰਤੀ) ਹਰੀ ਹੀ ਹਰੀ ਦਿੱਸਦੀ ਹੈ ਸਰੋਵਰ ਤੇ ਤਲਾਬ ਨਕਾ ਨਕ ਪਾਣੀ ਨਾਲ ਭਰ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰ = ਸਰੋਵਰ। ਸੁਭਰ = ਸੁ-ਭਰ ਨਕਾ-ਨਕ ਭਰੇ ਹੋਏ। ਤਾਲ = ਤਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

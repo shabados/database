@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਭਾਵੇਂ ਲੱਖਾਂ ਹਾਰ ਸਿੰਗਾਰ ਕਰੇ, (ਉਸ ਦੇ) ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੁ ਕਾਰਜਿ = ਕਿਸੇ ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

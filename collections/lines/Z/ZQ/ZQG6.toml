@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਆਪਣਾ ਭਲਾ ਚਾਹੁੰਦਾ ਹੈ (ਤਾਂ ਉਸ ਨੂੰ ਚਾਹੀਦਾ ਹੈ ਕਿ ਉਹ) ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਆਪਾ-ਭਾਵ ਗਵਾ ਕੇ ਪਿਆ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ ਮਨੁੱਖ। ਭਲ = ਭਲਾ। ਲੋੜੈ = ਚਾਹੁੰਦਾ ਹੈ। ਢਹਿ = ਢਹਿ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

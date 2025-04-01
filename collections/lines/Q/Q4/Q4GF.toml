@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੁਆਰਾ ਵਿਚਾਰ ਕਰ ਕੇ ਹਰ ਰੋਜ਼ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

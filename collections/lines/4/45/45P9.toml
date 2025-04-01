@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਸੰਤ ਹੋਰਨਾਂ ਦੇ) ਕ੍ਰੋੜਾਂ ਹੀ ਪਾਪ ਦੂਰ ਕਰਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਘ = ਪਾਪ। ਕਾਟਨਹਾਰਾ = ਕੱਟਣ ਦੀ ਤਾਕਤ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

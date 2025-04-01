@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮੇਰਾ ਮਨ ਮੇਰੇ ਕਾਬੂ ਵਿਚ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਮੇਰੋ = ਮੇਰਾ। ਬਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

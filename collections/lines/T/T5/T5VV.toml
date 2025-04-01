@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਤਾਂ ਆਪਣਾ ਖਸਮ ਵਿਸਾਰ ਰੱਖਿਆ ਹੈ ਤੇ ਉਹ ਪਰਾਏ ਮਰਦ ਨਾਲ ਰੰਗ-ਰਲੀਆਂ ਮਾਣਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

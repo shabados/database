@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਵਿਆਹ ਸ਼ਾਦੀਆਂ ਵਿਚ ਹਰ ਥਾਂ ਸੋਹਣੀ ਲੱਗਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਜਿ = ਜੱਗ ਵਿਚ। ਕਾਜਿ = ਵਿਆਹ ਵਿਚ। ਪਰਥਾਇ = ਹਰ ਥਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

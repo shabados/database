@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਇਸ ਨੂੰ ਸੱਚ ਆਖੇ, ਉਹ ਇਸ ਨੂੰ ਜ਼ਹਰ ਵਰਗਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੈ = ਜ਼ਹਰ। ਸਮਾਨੈ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

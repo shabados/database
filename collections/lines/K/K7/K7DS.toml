@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਮੇਰੇ ਗੋਬਿੰਦ! ਜਿਸ ਥਾਂ ਤੇਰਾ ਨਾਮ ਨਾਹ ਜਪਿਆ ਜਾਏ, ਉਹ (ਵੱਸਦੇ) ਸ਼ਹਿਰ ਭੀ ਉਜਾੜ (ਸਮਾਨ) ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਇਦਾ = ਹੇ ਗੋਬਿੰਦ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

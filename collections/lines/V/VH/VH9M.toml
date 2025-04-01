@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਧਾਰੁ = ਸਹਾਰਾ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰੇਕ) ਮਾਂ ਖ਼ੁਸ਼ੀ ਮਨਾਂਦੀ ਹੈ ਜਦੋਂ ਉਸ ਦਾ ਪੁੱਤਰ (ਕੋਈ ਚੰਗੀ ਸ਼ੈ) ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਿ = ਖ਼ੁਸ਼ੀ (प्राति = pleasure प्री = to take delight)। ਪ੍ਰੀਤਿ ਕਰੇ = ਖ਼ੁਸ਼ੀ ਮਨਾਂਦੀ ਹੈ, ਖ਼ੁਸ਼ ਹੁੰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

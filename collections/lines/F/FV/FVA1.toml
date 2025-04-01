@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ!) ਇਕ ਪਰਮਾਤਮਾ ਸਭ ਥਾਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਿ ਰਹਿਆ = ਵਿਆਪਕ ਹੈ। ਠਾਈ = ਥਾਂਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

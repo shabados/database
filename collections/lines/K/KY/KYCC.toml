@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵਾਰੇ ਵਾਰੇ ਜਾਈਏ ਰੱਬ ਦੀ ਅਜਿਹੀ ਮਿਹਰ ਅਤੇ ਬਖਸ਼ਿਸ਼ ਤੋਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਹੇ ਫ਼ਜਲੋ ਬਖ਼ਸ਼ਾਇਸ਼ਿ ਕਿਰਦਗਾਰ ।੧੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

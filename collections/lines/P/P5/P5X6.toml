@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਪਾਣੀ ਹੈਂ, ਤੇਰੇ ਸੇਵਕ (ਪਾਣੀ ਦੀਆਂ) ਮੱਛੀਆਂ ਹਨ (ਤੈਥੋਂ ਵਿਛੁੜ ਕੇ ਜੀਉ ਨਹੀਂ ਸਕਦੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਮੀਨਾ = ਮੱਛੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

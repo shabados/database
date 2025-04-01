@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਿਆਨਵਾਨ! ਅਕੱਥ ਪ੍ਰਭੂ ਦੀ ਇਹ ਡੂੰਘੀ ਰਾਜ਼ ਵਾਲੀ ਗੱਲ ਆਪਣੇ ਮਨ ਵਿਚ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੀ = ਹੇ ਗਿਆਨਵਾਨ! ਬੂਝਣਾ = ਬੁਝਾਰਤ, ਡੂੰਘੀ ਗੱਲ। ਅਕਥ ਕਥਾ = ਉਸ ਪ੍ਰਭੂ ਦੀ ਗੱਲ ਜਿਸ ਦਾ ਸਰੂਪ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

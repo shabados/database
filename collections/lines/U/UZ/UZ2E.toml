@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਭਟਕਣਾ ਵਿਚ ਪਿਆ ਹੋਇਆ ਜੀਵ) ਉਸ ਚੀਜ਼ ਲਈ ਦੌੜ ਦੌੜ ਤਰਲੇ ਲੈਂਦਾ ਹੈ ਜੋ ਆਖ਼ਰ ਬਿਗਾਨੀ ਹੋ ਜਾਣੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਤੁ = ਚੀਜ਼। ਕਉ = ਦੀ ਖ਼ਾਤਰ। ਉਠਿ = ਉੱਠ ਕੇ। ਰੋਵੈ = ਤਰਲੇ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

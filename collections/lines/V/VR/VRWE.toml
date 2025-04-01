@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਸਦਾ ਰਾਮ ਦਾ ਨਾਮ ਜਪ, ਪਰ ਜਪਣ ਵੇਲੇ ਇਹ ਗੱਲ ਚੇਤੇ ਰੱਖਣੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮੈ ਰਾਮ ਕਹੁ = ਹਰ ਵੇਲੇ ਰਾਮ ਦਾ ਨਾਮ ਸਿਮਰ। ਬਿਬੇਕ = ਪਰਖ, ਪਛਾਣ। ਕਹਿਬੇ ਮਾਹਿ = ਆਖਣ ਵਿਚ, ਸਿਮਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੀ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ) ਭਗਤ ਉਸ ਪ੍ਰਭੂ ਦੀ ਬੰਦਗੀ ਕਰ ਰਹੇ ਹਨ, ਉਹ ਹਰ ਵੇਲੇ ਨਾਮ ਸਿਮਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

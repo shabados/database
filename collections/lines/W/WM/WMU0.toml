@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਲਾ ਜੇ) ਮੈਂ ਆਪਣੇ ਪਿਆਰੇ ਪ੍ਰਭੂ ਨੂੰ ਛੇਤੀ ਮਿਲ ਪਵਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਗਿ = ਛੇਤੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

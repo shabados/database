@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਉਹੀ ਇਕੱਠ) ਤੇਰੀ ਸਾਧ ਸੰਗਤ (ਅਖਵਾ ਸਕਦਾ) ਹੈ, ਜਿਸ ਵਿਚ, ਹੇ ਹਰੀ! ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਈ = ਉਹੀ {ਇਸਤ੍ਰੀ ਲਿੰਗ}। ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਸੁਨਣੇ = ਸੁਣੀ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

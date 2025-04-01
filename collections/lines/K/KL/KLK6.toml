@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਗਗਨਾਂ ਦੀ ਕੁਰਸੀ ਅਤੇ ਹਜ਼ਾਰਾਂ ਤਖਤ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਕੁਰਸੀ ਹਜ਼ਾਰਾਂ ਚੂੰ ਅਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

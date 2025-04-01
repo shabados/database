@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂੰਹ ਬੋਲ ਬੋਲ ਕੇ ਰੱਜਦਾ ਨਹੀਂ (ਭਾਵ, ਗੱਲਾਂ ਕਰਨ ਦਾ ਚਸਕਾ ਮੁੱਕਦਾ ਨਹੀਂ), ਕੰਨ (ਗੱਲਾਂ) ਸੁਣਨ ਨਾਲ ਨਹੀਂ ਰੱਜਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਣੁ = ਮੂੰਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

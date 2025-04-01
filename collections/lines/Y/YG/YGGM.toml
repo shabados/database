@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਆ ਵੱਸਦਾ ਹੈ ਤਦੋਂ ਉਸ ਦੇ ਸਾਰੇ ਕੰਮ ਸਿਰੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰੇ = ਸਿਰੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

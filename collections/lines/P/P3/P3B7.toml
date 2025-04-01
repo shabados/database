@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਤਰਸ ਕਰਨ ਵਾਲੇ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਖਸਮ! ਤੂੰ ਮੇਰਾ ਪਿਆਰਾ ਮਿੱਤਰ ਹੈਂ, ਸਦਾ ਮੇਰੇ ਨਾਲ ਵੱਸਦਾ ਰਹੁ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਯ = ਹੇ ਤਰਸ ਕਰਨ ਵਾਲੇ! {दय् = to feel pity}। ਮੀਤੁਲਾ = ਪਿਆਰਾ ਮਿੱਤਰ। ਬਾਸੁ = ਵੱਸ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਗੁਣਾਂ ਦੇ (ਮਾਨੋ) ਖ਼ਜ਼ਾਨੇ ਭਰੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਫਤੀ = ਸਿਫ਼ਤਾਂ ਨਲ, ਗੁਣਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

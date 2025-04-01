@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਬਹੁਤੇ ਵਿਖਾਵੇ ਦੇ ਤਰਲੇ ਲਿਆਂ ਤੂੰ ਕਿਸੇ ਜੀਵ ਦੇ ਵੱਸ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਿਣਾਵਣੇ = ਘਿਘਿਆਉਣ ਨਾਲ, ਵਿਖਾਵੇ ਦੇ ਤਰਲੇ ਲਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

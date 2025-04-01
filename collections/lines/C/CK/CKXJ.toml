@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ (ਇਕੱਠੀ ਕਰਨ) ਦੀ ਖ਼ਾਤਰ ਮਨੁੱਖ ਸਦਾ ਰਾਤ ਦਿਨ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ। ਕਾਰਨੇ = ਦੀ ਖ਼ਾਤਰ। ਡੋਲਤ = ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ। ਨੀਤ = ਨਿੱਤ, ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

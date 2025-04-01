@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੇ ਮੀਤ = ਹੇ ਮੇਰੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

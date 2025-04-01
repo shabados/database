@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਗੋਬਿੰਦ! (ਤੇਰੇ) ਭਗਤ (ਤੇਰਾ) ਸਿਮਰਨ (ਕਰਦੇ ਹਨ), ਤੇਰੇ ਗੁਣ ਗਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਸਾਗਰ = ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

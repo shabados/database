@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰੇਮ ਉਹੋ ਹੀ ਚੰਗਾ ਹੈ ਜਿਸ ਦੀ ਰਾਹੀਂ ਖਸਮ ਨਾਲ ਇੱਜ਼ਤ ਬਣੀ ਰਹੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

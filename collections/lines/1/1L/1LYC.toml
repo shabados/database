@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਠਾਕੁਰ! ਮੈਨੂੰ ਤੇਰੀ ਟੇਕ ਹੈ, ਮੈਨੂੰ ਤੇਰਾ (ਹੀ) ਭਰੋਸਾ ਹੈ, ਮੈਂ (ਸਦਾ) ਤੇਰੀ ਹੀ ਸਰਨ ਲੋੜਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਆਹਿਓ = ਚਾਹੁੰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਾਮ! ਸਾਨੂੰ (ਆਪਣੇ) ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਾ = ਹੇ ਰਾਮ! ਹਮ = ਅਸਾ (ਜੀਵਾਂ) ਨੂੰ। ਕਰੀਜੈ = ਬਣਾਈ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣਾ ਇਤਬਾਰ ਜਮਾਣ ਲਈ ਚਲਾਕ ਬਣ ਕੇ) ਝੂਠੀਆਂ ਗੱਪਾਂ ਅਤੇ ਝੂਠ ਕਬਾੜ ਦੀਆਂ ਗੱਲਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੀਆ = ਝੂਠੀਆਂ ਗੱਲਾਂ। ਕੂੜੁ = ਝੂਠ। ਕਬਾੜੁ = ਕੂੜਾ ਕਰਕਟ, ਟੁੱਟਾ-ਭੱਜਾ ਮਾਲ, ਵਿਅਰਥ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜਗਤ ਦਾ ਜੀਵਨ ਹੈ ਤੇ ਸਭ ਦੇ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਾਰਾ = ਆਸਰਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

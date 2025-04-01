@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਨੇ ਗਹੁ ਨਾਲ ਸੁਣ ਕੇ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਤੈ = ਸੁਣਨ ਵਾਲੇ ਨੇ। ਸੁਨਿ = ਸੁਣ ਕੇ। ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

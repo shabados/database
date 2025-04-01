@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਅੰਦਰ ਕੋਈ ਸਿਆਣਪ ਨਹੀਂ ਕਿ ਮੈਂ (ਕੁਝ) ਮੂੰਹੋਂ ਆਖ ਕੇ ਤੈਨੂੰ ਪ੍ਰਸੰਨ ਕਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ ਵਿਚ। ਰੀਝਾਵਉ = ਰੀਝਾਵਉਂ, ਮੈਂ (ਤੈਨੂੰ) ਪ੍ਰਸੰਨ ਕਰ ਸਕਾਂ। ਕਹਿ = (ਕੁਝ) ਆਖ ਕੇ। ਮੁਖਹੁ = ਮੂੰਹ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

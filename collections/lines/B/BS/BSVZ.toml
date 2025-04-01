@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜਾ ਮਨੁੱਖ ਤੇਰੀ ਭਗਤੀ ਕਰਦਾ ਹੈ, ਉਸ ਨੂੰ ਕੋਈ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਅੰਦੇਸਾ = ਚਿੰਤਾ-ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨ ਦਾ) ਹਾਥੀ (ਵਾਲਾ ਸੁਭਾਉ) ਰਬਾਬੀ (ਬਣ ਗਿਆ ਹੈ), ਬਲਦ (ਵਾਲਾ ਸੁਭਾਉ) ਜੋੜੀ ਵਜਾਣ ਵਾਲਾ (ਹੋ ਗਿਆ ਹੈ) ਅਤੇ ਕਾਂ (ਵਾਲਾ ਸੁਭਾਉ) ਤਾਲ ਵਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੀਲੁ = ਹਾਥੀ। ਪਖਾਵਜ = ਜੋੜੀ ਵਜਾਣ ਵਾਲਾ। ਕਊਆ = ਕਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

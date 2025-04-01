@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ (ਪਿੰਡੇ ਉਤੇ) ਸੁਆਹ ਮਲਦੇ ਹਨ ਤੇ ਸਿੰਙੀ ਦਾ ਨਾਦ ਵਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਭੂਤਾ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

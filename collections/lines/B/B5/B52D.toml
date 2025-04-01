@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਕਾਮਾਦਿਕ ਵਿਕਾਰ) ਸਭ ਨੂੰ ਜਿੱਤ ਜਿੱਤ ਕੇ ਆਪਣੇ ਅਨੁਸਾਰੀ ਕਰੀ ਜਾਂਦੇ ਹਨ, ਬੱਸ! ਇਹੀ ਗੱਲ ਇਹ ਲੋੜਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਣਿ = ਜਿੱਤ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

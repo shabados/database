@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਹੇ ਮੇਰੇ ਸਾਥੀ! ਹੇ ਹਰੀ! ਹੇ ਸਭ ਤੋਂ ਵੱਡੇ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸਿਰਜਣਹਾਰ ਜੀਉ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖਾ = ਸਾਥੀ। ਬਿਧਾਤੇ = ਹੇ ਸਿਰਜਣਹਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

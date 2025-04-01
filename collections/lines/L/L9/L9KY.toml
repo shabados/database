@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਉਸ ਇਸਤ੍ਰੀ ਦੀ ਬਰਾਬਰੀ ਉਸ ਛਤਰ-ਪਤੀ ਰਾਜੇ ਦੀ ਰਾਣੀ ਭੀ ਨਹੀਂ ਕਰ ਸਕਦੀ ਜਿਸ ਦੇ ਪਾਸ ਸਵਾਰੀ ਲਈ ਬੇਅੰਤ ਘੋੜੇ ਹਾਥੀ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈ = ਹਯ, ਘੋੜੇ। ਗੈ = ਗਯ, ਗਜ, ਹਾਥੀ। ਬਾਹਨ = ਸਵਾਰੀ। ਸਘਨ ਘਨ = ਬਹੁਤ ਸਾਰੇ। ਛਤ੍ਰ ਪਤੀ = ਛਤਰ ਦਾ ਮਾਲਕ ਰਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

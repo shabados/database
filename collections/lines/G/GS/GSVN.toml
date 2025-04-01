@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਵਿਚ ਅਤੇ ਮੂੰਹ ਨਾਲ ਆਖਦੇ ਹਨ ਉਹ ਬੜੇ ਚਾਉ ਤੇ ਰਲੀਆਂ ਮਾਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਗੋਈਆ = ਆਖੀਆਂ। ਰਲੀ = ਰਲੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

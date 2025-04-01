@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਐਸੇ ਹਨ ਜੋ 'ਅਲੱਖ ਅਲੱਖ' ਪੁਕਾਰਦੇ ਹਨ, ਕੋਈ ਬਹੂ-ਰੂਪੀਏ ਹਨ, ਕੋਈ ਨਾਂਗੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਸਬਦੀ = ਜੋ ਇਕੋ ਲਫ਼ਜ਼ ਬੋਲਦੇ ਹਨ, 'ਅਲੱਖ' 'ਅਲੱਖ' ਆਖਣ ਵਾਲੇ। ਬਹੁਰੂਪਿ = ਬਹੁ-ਰੂਪੀਏ। ਅਵਧੂਤਾ = ਨਾਂਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

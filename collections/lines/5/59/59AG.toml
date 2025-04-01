@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਿਆਰੇ ਰਾਮ ਦਾ) ਦਰਸ਼ਨ ਕਰਦਿਆਂ ਮੇਰਾ ਸਾਰਾ ਦੁੱਖ ਦੂਰ ਹੋ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਹਰਿਆ = ਦੂਰ ਹੋ ਗਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

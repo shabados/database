@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਇਹ ਭੀ ਵਿਚਾਰਿਆ ਕਰ ਕਿ) ਇਸ ਮਨ ਨੂੰ ਮਮਤਾ ਕਿਥੋਂ ਆ ਚੰਬੜਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਮਤਾ = ਅਪਣੱਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

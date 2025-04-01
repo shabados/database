@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਰਾ! (ਮੈਂ ਆਪਣਾ) ਇਹ ਮਨ ਤੇਰਾ (ਆਗਿਆਕਾਰ ਬਣਾਣ ਨੂੰ ਤਿਆਰ ਹਾਂ) ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ = ਹੇ ਭਾਈ! ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

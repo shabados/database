@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਦੋ ਜਹਾਨਾਣ ਦੀ ਨਾਇਬੀ ਆਪਣੇ ਨਿਜੀ ਸੁਆਰਥ ਨੂੰ ਛੱਡਣ ਵਿਚ ਵੇਖੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਿਲਾਫ਼ਤਿ ਦੋ ਜਹਾਣ ਤਰਕਿ ਮੁਦਆ ਦੀਦਮ ।੫੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

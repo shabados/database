@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਮੁੜ ਕਿਸੇ ਭੀ ਹੋਰ ਪਾਸੇ ਭਟਕਦਾ ਨਹੀਂ ਫਿਰਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁਰਿ = ਮੁੜ। ਕਤ ਹੀ = ਕਿਸੇ ਹੋਰ ਪਾਸੇ। ਧਾਇਆ = ਭਟਕਦਾ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

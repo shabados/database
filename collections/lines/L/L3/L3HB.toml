@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਅਪਰਾਧੀ ਜੰਮਦਾ ਹੀ ਕਿਉਂ ਨਹੀਂ ਮਰ ਗਿਆ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਤ = ਜੰਮਦਾ ਹੀ। ਅਪਰਾਧੀ = ਪਾਪੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

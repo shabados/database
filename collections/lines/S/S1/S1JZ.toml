@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੜੇ ਮਨੁੱਖ ਤੈਨੂੰ ਚੰਗੇ ਲੱਗੇ ਉਹਨਾਂ ਨੇ ਹੀ ਆਤਮਕ ਆਨੰਦ ਮਾਣਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ। ਭਾਏ = ਚੰਗੇ ਲੱਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਦਰਸਨ ਕਰਨ ਲਈ) ਕੋਈ ਵਰਤ ਨੇਮ ਰੱਖ ਰਿਹਾ ਹੈ, ਕੋਈ ਗੰਗਾ ਸਮੇਤ ਸਾਰੇ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਿਤ = ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

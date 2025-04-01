@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਉਸ ਨੂੰ ਕੋਈ ਨੀਵਾਂ ਦਿੱਸਦਾ ਹੈ, ਨਾਹ ਉੱਚਾ; ਕਿਸੇ ਵਲੋਂ ਆਦਰ ਹੋਵੇ ਜਾਂ ਨਿਰਾਦਰੀ, ਉਸ ਲਈ ਇੱਕੋ ਜਿਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨ = ਆਦਰ। ਅਮਾਨ = ਅ-ਮਾਨ, ਨਿਰਾਦਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

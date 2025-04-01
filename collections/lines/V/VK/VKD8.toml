@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਚਨਾ ਤੇ ਦਾਤਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੈ = ਬਣਾਈ ਹੋਈ ਕੁਦਰਤ ਦਾ। ਦੇਣਿ = ਦੇਣ ਵਿਚ, ਦਾਤਾਂ ਦੇਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਮਿੱਤਰਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ (ਤੋੜ ਤਕ ਸਾਥ ਨਿਬਾਹੁਣ ਵਾਲਾ) ਸਾਥੀ ਨਹੀਂ ਬਣ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਠ = ਇਸ਼ਟ, ਪਿਆਰੇ। ਸਖਾ = ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

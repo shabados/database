@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੇਰੀ (ਸਰਨ ਪਏ ਦੀ) ਇੱਜ਼ਤ ਰੱਖ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਬਨਵਾਰੀਆ = ਹੇ ਜਗਤ ਦੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

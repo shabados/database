@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੰਦ-ਭਾਗੀ (ਹੀ ਰਿਹਾ), ਮੈਂ ਕੂੜੇ ਪਦਾਰਥਾਂ ਦੇ ਵਣਜ ਹੀ ਕਰਦਾ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਪ੍ਰਭੂ! ਕਰਮਹੀਣ = ਭਾਗ-ਹੀਣ, ਮੰਦ-ਭਾਗੀ। ਕੂੜਿਆਰ = ਕੂੜੇ ਪਦਾਰਥਾਂ ਦਾ ਹੀ ਵਣਜ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

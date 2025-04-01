@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਛੱਡ ਕੇ ਮੈਂ ਹੋਰ ਕਿਸ ਨੂੰ ਧੂਪ ਦਿਆਂ? ਤੈਨੂੰ ਛੱਡ ਕੇ ਮੈਂ ਹੋਰ ਕਿਸ ਦੀ ਪੂਜਾ ਵਾਸਤੇ (ਫੁੱਲ ਆਦਿਕ) ਭੇਟਾ ਧਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਉ = ਮੈਂ ਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬਾਬਰ ਨੇ) ਜ਼ਾਲਮ ਸਿਪਾਹੀਆਂ ਨੂੰ ਹੁਕਮ ਦੇ ਰੱਖਿਆ ਹੈ, ਉਹ ਉਹਨਾਂ ਦੀ ਇੱਜ਼ਤ ਗਵਾ ਕੇ ਉਹਨਾਂ ਨੂੰ ਲੈ ਜਾ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਤ = ਜ਼ਾਲਮ ਸਿਪਾਹੀ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

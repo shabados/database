@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇੇਰੇ ਸਰੀਰ ਤੋਂ ਬਾਹਰ ਹੋਰ ਕੋਈ ਵਸਤੂ ਹੁੰਦੀ ਹੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੀਰੂੰ ਅਜ਼ ਜਿਸਮਿ ਤੂ ਨਭਬਵਦ ਹੀਚ ਚੀਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

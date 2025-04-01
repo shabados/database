@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਜਲ ਵਿਚ ਹੈਂ, ਤੂੰ ਆਕਾਸ਼ ਵਿਚ ਹੈਂ ਤੂੰ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਥਲ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀ ਤਲਿ, ਧਰਤੀ ਦੇ ਤਲ ਉਪਰ, ਪੁਲਾੜ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ। ਸਭਤੈ = ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

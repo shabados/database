@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁਕਤੀ-ਦਾਤੇ! ਤੂੰ ਸਭਨੀਂ ਥਾਈਂ ਵਿਆਪਕ ਹੈਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬਤ੍ਰ = ਸਭ ਥਾਈਂ {सर्वत्र}। ਮੁਕੰਦ = ਮੁਕਤੀ-ਦਾਤਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

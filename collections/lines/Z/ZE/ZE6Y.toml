@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਆਪਣੇ ਨਾਮ ਦੀ ਦਾਤ ਕਿਸ ਨੂੰ ਦੇਣੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣੈ = ਜਾਣਦਾ ਹੈ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

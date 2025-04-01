@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੜਾ (ਇਹ ਪਰਪੰਚ) ਤੂੰ ਬਣਾਇਆ ਹੈ ਇਸ ਨੂੰ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ, ਅਸੀਂ ਜੀਵ ਤੇਰੀ ਡੂੰਘਾਈ ਨਹੀਂ ਸਮਝ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਗਹਣੇ = ਡੂੰਘੀ ਅਵਸਥਾ, ਡੂੰਘਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

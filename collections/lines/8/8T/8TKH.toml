@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਨੂੰ ਮਾਰਦਾ ਹੈ ਉਹ ਜਮਾਂ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੂਟੈ = ਬਚ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

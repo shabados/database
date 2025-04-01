@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅੰਤ ਨੂੰ) ਉਸ ਦੇ ਹੱਥ ਪੱਲੇ ਕੁਝ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ ਨੂੰ। ਹਾਥਿ = ਹੱਥ ਵਿਚ। ਨ ਕੇਹ = ਕੁਝ ਭੀ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

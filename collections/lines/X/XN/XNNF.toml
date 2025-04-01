@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਆਖਣ ਲੱਗਾ-ਦੱਸ) ਕਿੱਥੇ ਹੈ ਤੇਰਾ ਜਗਦੀਸ਼? ਕਿੱਥੇ ਹੈ ਤੇਰਾ ਗੁਸਾਈਂ? (ਜਿਹੜਾ ਤੈਨੂੰ ਹੁਣ ਬਚਾਏ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦੀਸ = ਜਗਤ ਦਾ ਮਾਲਕ। ਗੁਸਾਈ = ਧਰਤੀ ਦਾ ਸਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

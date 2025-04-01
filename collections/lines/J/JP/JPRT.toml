@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੀ (ਜਿੰਦ ਦੀ) ਖ਼ੁਰਾਕ ਤੇ ਪੁਸ਼ਾਕ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੋ ਜਾਂਦਾ ਹੈ, ਨਾਮ ਹੀ ਉਸ ਦਾ ਆਸਰਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਣਾ = ਖ਼ੁਰਾਕ। ਪੈਨਣਾ = ਪੁਸ਼ਾਕ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

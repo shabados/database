@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਵੇਂ ਡਰਾਵਣੇ ਸਮੁੰਦਰ ਵਿਚ ਜਹਾਜ਼ (ਮਨੁੱਖ ਨੂੰ ਡੁੱਬਣੋਂ ਬਚਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥੁ = ਜਹਾਜ਼। ਭੈ ਸਾਗਰ = ਡਰਾਵਣਾ ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

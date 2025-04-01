@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਰੂਪ ਸੱਚੇ ਵਣਜ ਨਾਲ) ਤੁਹਾਡਾ ਸੌਦਾ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਮੁੱਲ ਪਾਏਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਬਹੈ = ਸਿਰੇ ਚੜ੍ਹ ਜਾਏ। ਖੇਪ = ਸੌਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

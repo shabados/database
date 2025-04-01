@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੀ ਉਤਪੱਤੀ ਤੇ ਪਰਲੋ ਕਰਨ ਵਾਲਾ ਆਪ ਹੀ ਹੈ, ਪਰ ਆਪ ਇਸ ਉਤਪੱਤੀ ਪਰਲੋ ਤੋਂ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਤਪਤਿ = ਪੈਦਾਇਸ਼। ਪਰਲਉ = ਨਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਉਸ ਦੇ ਦਰਵਾਜ਼ੇ ਦੀ ਖ਼ਾਕ ਤੋਣ ਵਾਰੀ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਿਦਾਇ ਖ਼ਾਕਿ ਦਰਸ਼ ਮੀ ਸ਼ਵਦ ਅਜ਼ਾਣ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

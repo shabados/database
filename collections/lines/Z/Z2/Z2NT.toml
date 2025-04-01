@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਗੁਪਾਲ ਦੀ ਜੋਤਿ ਹੀ ਸਾਰੇ ਜਗਤ ਵਿਚ ਪਸਰ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ ਭਵਰੁ = ਇਕੋ ਹੀ ਆਤਮਾ, ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਹੀ ਜੋਤਿ। ਭਵੈ = ਪਸਰ ਰਹੀ ਹੈ, ਵਿਆਪਕ ਹੈ। ਤਿਹ ਲੋਇ = ਤਿੰਨਾਂ ਲੋਕਾਂ ਵਿਚ, ਸਾਰੇ ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

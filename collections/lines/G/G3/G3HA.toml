@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਆਪਣੀ ਜਾਣ ਤੇਰੇ ਸੁੰਦਰ ਕੱਦ ਤੋਣ ਵਾਰ ਦਿੱਤੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਣ ਰਾ ਨਿਸਾਰਿ ਕਾਮਤਿ ਰਾਅਨਾਤ ਕਰਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

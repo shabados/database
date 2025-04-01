@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਗੁਰੂ ਦੇ ਸਬਦ ਦੀ ਰਾਹੀਂ ਹਿਰਦਾ-ਕੌਲ ਖਿੜਦਾ ਹੈ ਤੇ ਇਸ ਤਰ੍ਹਾਂ ਨਾਮ-ਰਸ ਪੀਵੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਵ = ਇਸ ਤਰ੍ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

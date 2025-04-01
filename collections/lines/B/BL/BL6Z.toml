@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਨਾਸਵੰਤ ਕੌਤਕ ਉਸ ਨੂੰ ਸਾਰੇ ਸੁਆਹ (ਨਿਕੰਮੇ) ਦਿਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ ਰੰਗ = ਮਾਇਆ ਦੇ ਰੰਗ। ਦਿਸਨਿ = ਦਿੱਸਦੇ ਹਨ। ਛਾਰੁ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

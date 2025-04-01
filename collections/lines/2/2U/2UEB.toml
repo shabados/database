@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਮਾਂ! (ਮੇਰੇ ਅੰਦਰ) ਪੂਰਨ ਖਿੜਾਉ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ (ਕਿਉਂਕਿ) ਮੈਨੂੰ ਗੁਰੂ ਮਿਲ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੰਦੁ = ਪੂਰਨ ਖਿੜਾਉ। ਪਾਇਆ = ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਮਨ ਦੇ ਸਾਰੇ ਕਲੇਸ਼ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਮਿਟਹਿ = ਮਿਟ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

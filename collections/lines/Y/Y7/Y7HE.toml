@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਇਹ ਰਾਜਾ ਹੈ ਨਾਹ ਮੰਗਤਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਖ ਮੰਗਾਸੀ = ਮੰਗਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

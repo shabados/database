@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੋਹਣੇ ਕੰਤ! ਸਵੇਰੇ ਉੱਠਾਂ ਤੇ (ਪਹਿਲਾਂ) ਤੇਰਾ ਦਰਸਨ ਕਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਠੀ = ਉੱਠੀਂ, ਮੈਂ ਉੱਠਾਂ। ਝਾਲੂ = ਝਲਾਂਗੇ, ਸਵੇਰੇ। ਕੰਤੜੇ = ਹੇ ਸੋਹਣੇ ਕੰਤ! ਹਉ = ਮੈਂ। ਪਸੀ = ਪੱਸੀਂ, ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

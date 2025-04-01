@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਸਭ ਜੀਵਾਂ ਦਾ ਖਸਮ ਹੈ, (ਆਪ ਹੀ ਜੀਵਾਂ ਨੂੰ) ਧੰਧੇ ਵਿਚ ਜੋੜ ਕੇ (ਆਪ ਹੀ) ਵੇਖ ਰਿਹਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਧੈ = ਧੰਧੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

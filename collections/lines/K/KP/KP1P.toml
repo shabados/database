@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਇਆਵਾਨ ਹੋਇਆ ਹੈ, ਸਾਰੇ ਪਰਵਾਰ ਦਾ ਦੁੱਖ ਮਿਟ ਗਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਾਰੀ = ਪਰਵਾਰ ਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੁੜ ਮੁੜ ਜਨਮਾਂ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ, ਕਿਤੇ ਉਸ ਨੂੰ ਟਿਕਾਣਾ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਉਰ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

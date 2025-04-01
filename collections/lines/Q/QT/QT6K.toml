@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਪਿਆਰ ਸਭ ਨਾਲੋਣ ਉਚੇਰੀ ਵਸਤੂ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਮੌਲਾ ਅਜ਼ ਹਮਾ ਬਾਲਾ ਤਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

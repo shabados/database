@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਕੀਤੀ ਦੌੜ-ਭੱਜ ਦੀ ਕੀਹ ਪਛਾਣ ਹੈ? (ਪਛਾਣ ਇਹ ਹੈ ਕਿ ਇਹ ਦੌੜ-ਭੱਜ ਕਰਨ ਵਾਲੇ ਨੂੰ) ਅੰਨ-ਧਨ ਦੀ ਘਾਟ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦੋਸਾਹੈ ਨੀਸਾਨੀ = (ਮਾਇਆ ਕਮਾਣ ਵਾਸਤੇ) ਉਤਸ਼ਾਹ ਦੀ ਨਿਸ਼ਾਨੀ। ਤੋਟਿ = ਘਾਟ। ਅੰਨ = ਅੰਨ-ਧਨ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

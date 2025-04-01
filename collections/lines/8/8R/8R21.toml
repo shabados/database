@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬੀ ਨੂਰ ਦੀ ਬਖਸ਼ਿਸ਼ ਕਰਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਾਇਜ਼ੁਲ ਅਨਵਾਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 109
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

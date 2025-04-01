@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇੱਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੰਕਾਰ ਨਾਮ = ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ। ਉਰ = ਹਿਰਦਾ (उरस = heart)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

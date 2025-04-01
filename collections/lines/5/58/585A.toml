@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰੋ ਕੇ ਰੱਖ ॥੪॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰ = ਹਿਰਦਾ। ਧਾਰਿ = ਧਾਰ ਕੇ, ਟਿਕਾ ਕੇ ॥੪॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

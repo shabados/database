@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਜੇ ਇਕ ਬਹੁਤ ਹੀ ਪੁਰਾਣਾ ਜਹਾਜ਼ ਹੋਵੇ, ਜਿਸ ਵਿਚ ਹਜ਼ਾਰਾਂ ਹੀ ਛੇਕ ਫੁੱਟ ਪਏ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇੜਾ = ਜਹਾਜ਼। ਜਰਜਰਾ = ਬਹੁਤ ਪੁਰਾਣਾ, ਖੱਦਾ, ਭੁੱਗਾ। ਫੂਟੇ = ਫੁੱਟੇ ਹੋਏ ਹੋਣ, ਪਏ ਹੋਏ ਹੋਣ। ਛੇਂਕ ਹਜ਼ਾਰ = ਹਜ਼ਾਰਾਂ ਛੇਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

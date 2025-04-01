@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸਰੀਰ ਦੇ ਸੰਜੋਗ ਕਰਕੇ ਜੀਵ ਕਰਮਾਂ ਵਿਚ ਰੁੱਝ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ। ਸੰਜੋਗੀ = ਸੰਜੋਗ ਦੀ ਰਾਹੀਂ, ਸੰਬੰਧ ਬਣਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

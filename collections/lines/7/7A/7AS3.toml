@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਇਸ ਲਈ ਉਸ (ਵਾਹਿਗੁਰੂ) ਤੋਂ ਮੂੰਹ ਫੇਰ ਲਿਆ ਹੈ, ਕੁਰਾਹੇ ਪੈ ਗਿਆ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਬਰਾਇ ਆਂ ਕਿ ਤੂ ਸਰ-ਗਸ਼ਤਾਈ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

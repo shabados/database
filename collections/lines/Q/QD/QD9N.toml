@@ -30,6 +30,12 @@ language = "pa"
 data = "ਛੰਤੁ:"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੰਤੁ = {ਨੋਟ: ਸਿਰਲੇਖ ਦਾ ਲਫ਼ਜ਼ 'ਛੰਤ' ਬਹੁ-ਵਚਨ ਹੈ। ਇਹ ਲਫ਼ਜ਼ 'ਛੰਤੁ' ਇਕ-ਵਚਨ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

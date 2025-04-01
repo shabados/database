@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਦਾ ਖਿਲਾਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪਤ = ਪ੍ਰਭਾਵ ਪਾਈ ਰੱਖਦੀ ਹੈ {व्याप् = to pervade}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

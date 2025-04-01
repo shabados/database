@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾ ਜਹਾਨਾਣ ਵਿਚ ਉਸ ਨੇ ਸੂਰਜ ਅਤੇ ਚੰਦ ਵਰਗੀ ਰੋਸ਼ਨੀ ਪ੍ਰਾਪਤ ਕਰ ਲਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੋ ਆਲਮ ਹਮ ਚੂ ਮਿਹਰੋ ਬਦਰ ਤਾਫ਼ਤ ।੧੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

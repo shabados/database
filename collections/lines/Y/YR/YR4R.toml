@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਗੁਰੂ ਨੇ ਮੇਰੀ ਭਟਕਣਾ ਦੂਰ ਕਰ ਦਿੱਤੀ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਚੁਕਾਇਆ = ਦੂਰ ਕਰ ਦਿੱਤਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

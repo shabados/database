@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਣ ਦਾ) ਇਹ ਮਨੁੱਖਾ-ਜਨਮ ਹੀ ਮੌਕਾ ਹੈ, ਇਹੀ ਵਾਰੀ ਹੈ (ਇੱਥੋਂ ਖੁੰਝ ਕੇ ਸਮਾ ਨਹੀਂ ਮਿਲਣਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਸਰੁ = ਸਮਾ, ਮੌਕਾ। ਬਾਰ = ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

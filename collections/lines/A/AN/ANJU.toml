@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੋਈ ਖੁਸਰਾ ਇਸਤ੍ਰੀ ਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹੋਵੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਪੁਰਖੁ = ਖੁਸਰਾ, ਹੀਜੜਾ। ਪੁਚਾਰੈ = ਪਿਆਰ ਕਰਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

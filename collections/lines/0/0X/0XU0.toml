@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਸਰੂਪ ਦੀ ਗੱਲ-ਬਾਤ ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਥ: ਬਿਆਨ ਨਾਹ ਹੋ ਸਕਣ ਵਾਲੀ। ਕਹਾਣੀ = ਸਰੂਪ ਦਾ ਵਰਣਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

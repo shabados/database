@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਮਨੁਖ ਇਸ ਜਹਾਨ ਵਿਚ ਵਧਣਾ ਫੁਲਣਾ ਚਾਹੂੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸ ਬ-ਜਹਾ ਨਸ਼ਵੋ ਨੁਮਾ ਮੀ ਖ਼ਾਹਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

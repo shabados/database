@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਜ਼ਿੰਦਗੀ ਰੂਪ) ਰਾਹ ਵਿਚ (ਵਿਕਾਰਾਂ ਦਾ) ਬੜਾ ਘੁੱਪ ਹਨੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਪੈਡੈ = ਜਿਸ ਰਾਹ ਵਿਚ। ਗੁਬਾਰਾ = ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

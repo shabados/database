@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ! ਤੂੰ ਹੀ ਕਿਰਪਾ ਕਰ ਕੇ (ਅਸਾਂ ਜੀਵਾਂ ਦੀ) ਪਾਲਣਾ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

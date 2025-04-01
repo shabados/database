@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਸ਼ੁਮਾਰ ਪ੍ਰਭੂ! ਹੇ ਬੇਅੰਤ! ਹੇ ਮੇਰੇ ਮਾਲਕ! ਤੂੰ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਡੂੰਘਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਮਾਲਕ! ਗੁਨੀ = ਗੁਣਾਂ ਦਾ ਮਾਲਕ। ਗਹੇਰੋ = ਡੂੰਘਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

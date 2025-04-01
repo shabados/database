@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੈ, ਉਹਨਾਂ ਦਾ (ਹਰੇਕ ਕਿਸਮ ਦਾ) ਦੁੱਖ ਭਰਮ ਤੇ ਡਰ ਦੂਰ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨੀ = ਜਿਨ੍ਹਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਉਸ ਤਰਖਾਣ ਦੀ (ਇਸ ਤਰ੍ਹਾਂ) ਦੱਸ ਨਹੀਂ ਪਾਈ ਜਾ ਸਕਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀ ਬਾਈ = ਹੇ ਭੈਣ! {ਨੋਟ: ਲਫ਼ਜ਼ 'ਰੀ' ਇਸਤ੍ਰੀ ਲਿੰਗ ਹੈ ਅਤੇ 'ਰੇ' ਪੁਲਿੰਗ ਹੈ; ਜਿੱਥੇ, 'ਰੇ ਲੋਈ' ਆਇਆ ਹੈ ਉੱਥੇ ਲਫ਼ਜ਼ 'ਲੋਈ' ਪੁਲਿੰਗ ਹੈ।} ਦੇਨੁ ਨ ਜਾਈ = ਦਿੱਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

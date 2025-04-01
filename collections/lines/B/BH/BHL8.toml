@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਇਹ ਘਰ, ਇਹ ਹਕੂਮਤ, ਇਹ ਧਨ (ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ) ਤੇਰੇ (ਆਤਮਕ ਜੀਵਨ ਦੇ) ਕੰਮ ਨਹੀਂ ਆ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ ਕਾਜਿ = ਤੇਰੇ ਕੰਮ ਵਿਚ। ਗ੍ਰਿਹੁ = ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

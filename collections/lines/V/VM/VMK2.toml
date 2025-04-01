@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੇਰੀ ਜੀਭ ਉਤੇ ਰਾਮ (ਦਾ ਨਾਮ) ਵੱਸ ਰਿਹਾ ਹੈ-ਇਹੀ ਮੇਰੀ ਮਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਨੀ = ਮਾਲਾ। ਰਸਨਾ = ਜੀਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

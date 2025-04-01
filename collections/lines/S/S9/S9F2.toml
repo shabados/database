@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ-ਰੱਖਿਅਕ ਪ੍ਰਭੂ! ਤੂੰ ਸੋਹਣਾ ਹੈਂ, ਤੂੰ ਸੋਹਣਾ ਹੈਂ, ਤੂੰ ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ = ਸੋਹਣਾ। ਮੋਹਨ = ਮੋਹ ਲੈਣ ਵਾਲਾ। ਗੋਪਾਲ = ਹੇ ਜਗਤ-ਰੱਖਿਅਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੌਰਾ, ਪਤੰਗ, ਹਾਥੀ ਅਤੇ ਮੱਛੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਿੰਗ = ਭੌਰਾ। ਕੁੰਚਰੁ = ਹਾਥੀ। ਅਰੁ = ਅਤੇ। ਮੀਨਾ = ਮੱਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

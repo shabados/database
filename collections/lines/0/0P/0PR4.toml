@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਇਸ ਮਨੁੱਖ ਨੇ (ਦੂਜਿਆਂ ਨਾਲੋਂ) ਕੋਈ ਵਿਤਕਰੇ ਮਿਥ ਰੱਖੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਦਾ = ਵਿੱਥਾਂ, ਵਖੇਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

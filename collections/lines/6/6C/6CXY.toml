@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! (ਮਿਹਰ ਕਰ, ਮੈਨੂੰ) ਅੱਖ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਲਈ ਭੀ ਨਾਹ ਵਿਸਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = {निमेश} ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਸ ਪਾਣੀ ਦੀ ਤੈਨੂੰ ਕਦਰ ਨਹੀਂ, ਇਸ ਵਾਸਤੇ ਤੂੰ ਵਿਲਕ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਕਣ ਪਾਹਿ = ਤੂੰ ਵਿਲਕ ਰਿਹਾ ਹੈਂ। ਸਾਰ = ਕਦਰ। ਨ ਜਾਣਹੀ = ਨ ਜਾਣਹਿ, ਤੂੰ ਨਹੀਂ ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

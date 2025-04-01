@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੋਪਾਲ-ਪ੍ਰਭੂ ਨੇ ਮੇਰਾ ਮਨ ਅਤੇ ਮੇਰਾ ਸਰੀਰ ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪਾਲਿ = ਗੋਪਾਲ ਨੇ। ਸੁਹਾਇਆ = ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

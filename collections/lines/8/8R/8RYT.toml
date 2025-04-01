@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ, ਉਸ ਨੇ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ (ਇਉਂ) ਪਛਾਣ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੰਦ-ਭਾਗੀ ਪਾਂਡੇ! ਤੁਸੀਂ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ, ਸਾਰੇ ਪਰਵਾਰ ਸਮੇਤ ਹੀ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ) ਡੁੱਬ ਜਾਉਗੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਸਮੇਤ। ਅਭਾਗੇ = ਹੇ ਮੰਦ ਭਾਗੀ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

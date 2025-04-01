@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰੀਰ (ਮਾਨੋ, ਇਕ) ਕਿਲ੍ਹਾ ਹੈ, ਇਸ ਦੇ ਨੌ ਗੋਲਕਾਂ-ਰੂਪ ਦਰਵਾਜ਼ੇ (ਪਰਗਟ) ਹਨ, ਤੇ ਦਸਵਾਂ ਦਰਵਾਜ਼ਾ ਗੁਪਤ ਰੱਖਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਵਾਜੇ = ਗੋਲਕਾਂ-ਰੂਪ ਦਰਵਾਜ਼ੇ। ਕੋਟੁ = ਕਿਲ੍ਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

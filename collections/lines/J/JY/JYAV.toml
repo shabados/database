@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੀ (ਉੱਚੀ) ਜਾਤਿ ਹੈ, ਮੇਰੀ ਇੱਜ਼ਤ ਹੈ, ਮੇਰਾ ਧਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤਿ = ਜਾਤਿ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

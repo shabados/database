@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆਂ ਦਾ ਜਿਧਰ ਕਿਧਰ ਭੀ ਹਾਲ ਵੇਖੋ) ਝਗੜਿਆਂ ਤੋਂ ਵਿਰੋਧ ਤੋਂ ਕੋਈ ਭੀ ਖ਼ਾਲੀ ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦ = ਝਗੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

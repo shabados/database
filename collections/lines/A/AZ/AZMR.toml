@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਹੇ ਗੋਬਿੰਦ! (ਮੇਰੇ ਉਤੇ) ਦਇਆ ਕਰ, ਤਰਸ ਕਰ, ਤੈਥੋਂ ਬਿਨਾ ਮੇਰਾ ਹੋਰ ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਇਆ = ਕਿਰਪਾ। ਗੋਪਾਲ = ਹੇ ਗੋਪਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

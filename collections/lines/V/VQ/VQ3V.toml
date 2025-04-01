@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਸ਼ਬਦ ਹੈ ਆਪ ਹੀ ਸੁਰਤ ਹੈ ਆਪ ਹੀ ਲਗਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਨਿ = ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

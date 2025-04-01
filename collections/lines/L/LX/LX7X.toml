@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਦਾ ਸਿਮਰ ਸਿਮਰ ਕੇ ਸਾਰੇ ਰੋਗ ਕੱਟੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰ = ਸਿਮਰ ਕੇ। ਕਾਟੇ = ਕੱਟੇ ਜਾਂਦੇ ਹਨ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

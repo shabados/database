@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ ਜੀਵਾਂ ਨੂੰ ਆਪਣੀ ਭਗਤੀ ਦੇਂਦਾ ਹੈਂ ਆਪਣੀ ਬੰਦਗੀ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜਣਹਾਰ = ਹੇ ਸਿਰਜਣਹਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

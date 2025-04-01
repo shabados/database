@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੰਡਿਤ (ਆਪਣੇ) ਅੰਦਰ ਵੱਸਦੇ ਨਾਮ-ਪਦਾਰਥ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਤਰਿ = ਹਿਰਦੇ ਵਿਚ ਹੀ, ਅੰਦਰ ਹੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

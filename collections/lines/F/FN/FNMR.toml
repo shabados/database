@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਪ੍ਰੇਮ ਤੈਨੂੰ ਰੱਬ ਦਾ ਹੀ ਰੂਪ ਬਣਾ ਦਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਇਸ਼ਕਿ ਮੌਲਾ ਮਰ ਤੁਰਾ ਮੌਲਾ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

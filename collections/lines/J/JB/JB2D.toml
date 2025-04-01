@@ -5,6 +5,11 @@ language = "pa"
 data = "ਯਕੀਨ ਜਾਨ, ਕਿ ਉਹ ਅਣਗਹਿਲਾਣ ਤੋਣ ਦੂਰ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਹਿਕੀਕ ਬਿਦਾਣ ਜ਼ਿ ਗ਼ਾਫ਼ਿਲਾਣ ਦੂਰ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

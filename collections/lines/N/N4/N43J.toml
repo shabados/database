@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਰਾਮ ਦਾਸ) ਸੱਚ ਖੰਡ ਵਿਚ ਗਿਆ ਹੈ ਹਰੀ ਨੂੰ ਇਹੀ ਰਜ਼ਾ ਚੰਗੀ ਲੱਗੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵ ਪੁਰੀ = ਹਰੀ ਦਾ ਦੇਸ, ਸੱਚ ਖੰਡ। ਭਾਯਉ = ਚੰਗਾ ਲੱਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

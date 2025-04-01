@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਦਾ ਕੌਲ-ਫੁੱਲ ਖਿੜ ਪਿਆ ਹੈ। ਉਹਨਾਂ ਦੀ ਸੁਰਤ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਲੱਗ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ ਕਮਲੁ = ਹਿਰਦੇ ਦਾ ਕੌਲ ਫੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

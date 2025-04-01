@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀਹੋ! ਹਰੀ-ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਹਿ ਕੇ ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਵਿਚ ਜੁੜ ਕੇ (ਇਹ ਪੱਕੀ ਗੱਲ) ਸਮਝ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨ = ਹੇ ਹਰੀ-ਜਨੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਗੁਰ-ਸ਼ਬਦ ਵਿਚ ਜੁੜਿਆ ਹੈ ਉਹ ਮਨ ਤੇ ਤਨ ਕਰ ਕੇ (ਪ੍ਰਭੂ ਵਿਚ) ਜੁੜਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ (ਜੁੜਿਆ ਹੋਇਆ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

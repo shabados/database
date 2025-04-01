@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਤੇਰੇ ਹਿਰਦੇ ਵਿਚ (ਇਉਂ ਕੁਝ ਹੋ ਰਿਹਾ ਹੈ ਜਿਵੇਂ) ਤੇਰੇ ਹੱਥਾਂ ਵਿਚ ਕੈਂਚੀ ਫੜੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦ = ਹਿਰਦਾ। ਕਰ ਤਲ = ਹੱਥਾਂ ਦੀਆਂ ਤਲੀਆਂ ਉੱਤੇ, ਹੱਥਾਂ ਵਿਚ। ਕਾਤੀ = ਕੈਂਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ (ਪ੍ਰਭੂ) ਨਾ-ਸ਼ੁਕਰਿਆਂ ਦਾ (ਵੀ) ਪਾਰ-ਉਤਾਰਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਿਰਤਘਣ = {कृतध्न} ਕੀਤੇ ਉਪਕਾਰ ਨੂੰ ਭੁਲਾਣ ਵਾਲਾ, ਨਾ-ਸ਼ੁਕਰਾ। ਉਧਾਰੁ = ਪਾਰ-ਉਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

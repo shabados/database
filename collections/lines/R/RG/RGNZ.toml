@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ-ਪੁੱਤਰ ਨੇ ਪਿਉ-ਜੀਵਾਤਮਾ ਨੂੰ ਖੇਡੇ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਤਿ = ਪੁੱਤਰ (ਮਨ) ਨੇ। ਖੇਲਾਇਆ = ਖੇਡੇ ਲਾਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

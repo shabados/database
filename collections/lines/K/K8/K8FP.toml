@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤਕ ਅਸੀਣ ਜਾਨ ਨਹੀਣ ਦੇ ਦਿੰਦੇ ਆਰਾਮ ਨਹੀਣ ਹੋ ਸਕਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਜਾਣ ਨਮੀ ਦਿਹੇਮ ਮਦਾਵਾ ਨਮੀ ਸ਼ਵਦ ।੨੪।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਦਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਡੂੰਘੇ ਜਿਗਰੇ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨੀ = ਗੁਣਾਂ ਦਾ ਮਾਲਕ। ਗਹੇਰਾ = ਗਹਿਰਾ, ਡੂੰਘਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

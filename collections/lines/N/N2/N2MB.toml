@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ (ਧਰਮ-ਪੁਸਤਕਾਂ ਦਾ) ਵਿਦਵਾਨ ਬਣ ਜਾਵਾਂ, ਜੋਤਸ਼ੀ ਬਣ ਜਾਵਾਂ, ਚਾਰੇ ਵੇਦ ਮੂੰਹ-ਜ਼ਬਾਨੀ ਪੜ੍ਹ ਸਕਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤਕੀ = ਜੋਤਸ਼ੀ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ, ਮੂੰਹੋਂ, (ਭਾਵ,) ਜ਼ਬਾਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

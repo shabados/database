@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਵਾਸਤੇ) ਹਨੇਰੇ ਤੋਂ ਕ੍ਰੋੜਾਂ ਸੂਰਜਾਂ ਦਾ ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = (कोटि) ਕ੍ਰੋੜ। ਸੂਰ = (सुर्य) ਸੂਰਜ। ਉਜਾਰੰ = ਚਾਨਣ (उज्वला)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

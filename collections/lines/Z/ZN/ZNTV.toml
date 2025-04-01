@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ!) ਜੇ ਘੋੜੇ ਦਾਨ ਕਰੀਏ, ਹਾਥੀ ਦਾਨ ਕਰੀਏ, ਸੇਜ ਦਾਨ ਕਰੀਏ, ਵਹੁਟੀ ਦਾਨ ਕਰ ਦੇਈਏ, ਆਪਣੀ ਜ਼ਿਮੀਂ ਦਾਨ ਕਰ ਦੇਈਏ; ਜੇ ਸਦਾ ਹੀ ਅਜਿਹਾ (ਕੋਈ ਨ ਕੋਈ) ਦਾਨ ਕਰਦੇ ਹੀ ਰਹੀਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸੁ = ਘੋੜੇ। ਸਿਹਜਾ = ਸੇਜ। ਭੂਮਿ = ਜ਼ਮੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਦੂਜੇ ਪੱਥਰਾਂ ਉੱਤੇ ਪੈਰ ਧਰਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਉ = ਪੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

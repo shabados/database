@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪਰਾਈ ਇਸਤ੍ਰੀ ਦੇ ਹੁਸਨ ਨੂੰ ਆਪਣੀਆਂ ਅੱਖਾਂ ਨਾਲ ਨਹੀਂ ਤੱਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਅ ਰੂਪੁ = ਇਸਤ੍ਰੀ ਦਾ ਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

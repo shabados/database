@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਭਗਤੀ-ਰੂਪ ਇਸਤ੍ਰੀ) ਜਿਤਨਾ ਚਿਰ ਗੁਰੂ ਦੇ ਪਾਸ ਹੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਚਰੁ = ਜਿਤਨਾ ਚਿਰ। ਪਿਤਾ = (ਭਾਵ) ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

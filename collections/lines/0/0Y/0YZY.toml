@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਜਿੱਥੇ ਇਹ ਸੁਣੀਦਾ ਹੈ ਕਿ ਜਮਾਂ ਦੇ ਬੜੇ ਹੀ ਭਿਆਨਕ ਦੁੱਖ ਮਿਲਦੇ ਹਨ, ਉਥੇ ਤੂੰ ਹੀ (ਬਚਾਣ ਵਾਸਤੇ) ਮਦਦਗਾਰ ਬਣਦਾ ਹੈਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਭਇਆਨ = ਭਿਆਨਕ। ਦੂਖ ਜਮ = ਜਮ ਦੂਖ, ਜਮਾਂ ਦੇ ਦੁੱਖ। ਤਹ = ਉੱਥੇ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

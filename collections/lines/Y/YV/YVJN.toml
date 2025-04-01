@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਸਿਰਫ਼) ਅਜੇਹਾ ਲੇਖਾ ਪੜ੍ਹਨ ਦਾ ਤੈਨੂੰ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕੀ ਪੜਿਆ = ਪੜ੍ਹਨ ਦਾ ਕੀਹ ਲਾਭ? ਪੜ੍ਹਨ ਦਾ ਕੋਈ ਲਾਭ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

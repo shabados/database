@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਬੰਦੇ ਹਰੀ-ਨਾਮ ਕੰਨਾਂ ਨਾਲ (ਧਿਆਨ ਨਾਲ) ਸੁਣਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਨ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

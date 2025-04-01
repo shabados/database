@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪਰਮਾਤਮਾ ਆ ਵੱਸਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਚਿਤਿ = ਚਿੱਤ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਜਿਤੁ ਚਿਤਿ = ਜਿਸ ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

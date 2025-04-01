@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿੰਦਿਆ ਆਦਿਕ ਦੇ ਕਾਰਨ) ਜੀਭ ਦੀ ਰਾਹੀਂ, (ਪਰਾਇਆ ਰੂਪ ਤੱਕਣ ਦੇ ਕਾਰਨ) ਅੱਖਾਂ ਦੀ ਰਾਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਵਾ = ਜੀਭ ਦੀ ਰਾਹੀਂ। ਨੈਣੀ = ਅੱਖਾਂ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

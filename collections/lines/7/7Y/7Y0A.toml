@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਦਿਲ # ਪਹਿਲਾਂ ਤਾਂ ਤੂੰ ਆਪਣੇ ਆਪੇ ਨੂੰ ਮਿਟਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੱਵਲਨ ਐ ਦਿਲ ਫ਼ਨਾਇ ਖ਼ੇਸ਼ ਸ਼ੌ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

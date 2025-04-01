@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ-ਮੋਹ ਵਿਚ ਅੰਨ੍ਹੇ ਹੋਏ ਜੀਵੋ! ਮਾਇਆ ਦਾ ਲਾਲਚ ਛੱਡ ਦੇਵਹੁ! ਲਾਲਚ ਵਿਚ (ਫਸਿਆਂ) ਭਾਰੀ ਦੁੱਖ ਸਹਿਣਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧਿਹੋ = ਹੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅੰਨ੍ਹੇ ਹੋਏ ਜੀਵੋ! ਲਾਲਚਿ = ਲਾਲਚ ਵਿਚ (ਫਸਿਆ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

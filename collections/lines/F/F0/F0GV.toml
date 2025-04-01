@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਰਫ਼) ਸੰਤ ਦੀ ਉਮਰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ ਆਸਰੇ ਬੀਤਦੀ ਗੁਜ਼ਰਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਬਿਹਾਵੈ = ਸੰਤ ਦੀ (ਉਮਰ) ਲੰਘਦੀ ਹੈ। ਅਧਾਰਾ = ਆਸਰਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਉਹ (ਮੇਰੇ ਜਾਦੂ) ਚਾਹੁੰਦੇ ਹਨ, ਉਹੀ ਕਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਖ਼ਾਹੰਦ ਮੀ-ਕੁਨੰਦ ਹਮਾਂ ।"
+page = 1
+line = 37
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

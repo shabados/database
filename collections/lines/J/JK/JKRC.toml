@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਜਮ ਦੀ ਫਾਹੀ ਕੱਟੀ ਗਈ ਹੈ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਟੀਐ = ਕੱਟੀ ਜਾਂਦੀ ਹੈ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

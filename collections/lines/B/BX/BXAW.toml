@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ (ਮੈਨੂੰ) ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਉਪਦੇਸ਼ ਦੇ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਜੇ ਤੂੰ ਆਪਣੀ ਭਲਿਆਈ ਲੋੜਦਾ ਹੈਂ, ਤਾਂ ਚੰਗਾ ਕੰਮ ਕਰ ਕੇ ਭੀ ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਅਖਵਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋੜਹਿ = ਤੂੰ ਲੋੜਦਾ ਹੈਂ, ਤੂੰ ਚਾਹੁੰਦਾ ਹੈਂ। ਕਰਿ ਪੁੰਨਹੁ = ਭਲਿਆਈ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਇਸ ਸਰੀਰ ਨੂੰ (ਭਾਵ, ਮੈਨੂੰ) ਸਦਾ ਕੋਈ ਸੁਹਣੀ ਮੱਤ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਮਲ ਮਤਿ = ਨਿਰਮਲ ਬੁੱਧ, ਸੁਹਣੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

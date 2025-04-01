@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੇਵਲ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਹੀ ਹੈ ਜੋ ਸੰਸਾਰ ਦੀ ਹੋਂਦ ਤੇ ਅਣਹੋਂਦ ਦੋਹਾਂ ਵੇਲੇ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਤਿ = ਮੌਜੂਦ ਹੈ। ਨਾਸਤਿ = ਨਹੀਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

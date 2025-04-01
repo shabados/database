@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਸਦਾ ਪਰਮਾਤਮਾ (ਦੀ ਯਾਦ) ਵਿਚ ਲੀਨ ਰਹਿੰਦਾ ਹੈ ॥੬॥੨੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੈ ਸਮਾਇ = ਲੀਨ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ ॥੬॥੨੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

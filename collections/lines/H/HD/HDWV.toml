@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਦੇ ਪਾਸ (ਭਾਵ, ਹਿਰਦੇ ਵਿਚ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੁਣ ਮੌਜੂਦ ਹੈ ਉਹ ਮਨੁੱਖ ਹੀ ਨਾਮ-ਰਤਨ ਵਿਹਾਝਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਕ = ਰਤਨ, ਨਾਮ। ਸੇਇ = ਉਹੀ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

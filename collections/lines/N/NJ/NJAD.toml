@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਅਣਗਿਣਤ ਕਿਸਰਾ (ਨੌਸ਼ੀਰਵਾਨ) ਤੇ ਕੀ ਬੇਸ਼ੁਮਾਰ ਕਾਊਸ "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਕਿਸਰਾ ਚਿ ਕਾਊਸ ਬੇਸ਼ ਅਜ਼ ਸ਼ੁਮਾਰ ।੩੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

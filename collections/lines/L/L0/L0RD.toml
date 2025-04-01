@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕਦੀ ਵੀ ਮੰਦਾ ਕੰਮ ਨਹੀਣ ਕਰਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਨਮੀ-ਆਇਦ ਅਜ਼ ਏਸ਼ਾਣ ਫ਼ਿਅਲਿ ਬਦ ।੯੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

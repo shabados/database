@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੀਵ ਪਹਿਲਾਂ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਵੱਸਣ ਤੋਂ ਖ਼ਲਾਸੀ ਹਾਸਲ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੇ = ਪਹਿਲਾਂ। ਗਰਭ ਵਾਸ ਤੇ = ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਵੱਸਣ ਤੋਂ। ਟਰਿਆ = ਟਲਿਆ, ਖ਼ਲਾਸੀ ਹਾਸਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

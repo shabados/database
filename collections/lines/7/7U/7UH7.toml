@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! ਜਦੋਂ ਜਮ ਨੇ (ਆ ਕੇ ਜੀਵਾਤਮਾ ਨੂੰ) ਫੜ ਕੇ ਅੱਗੇ ਲਾ ਲਿਆ ਤਾਂ ਕਿਸੇ (ਸਬੰਧੀ) ਨੂੰ ਸਮਝ ਨਾਹ ਪਈ ਕਿ ਇਹ ਕੀਹ ਹੋਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਿ = ਜਮ ਨੇ। ਨ ਮਿਲਿਆ ਭੇਤੁ = ਸਮਝ ਨ ਪਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

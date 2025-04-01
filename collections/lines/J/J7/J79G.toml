@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹੀ ਉਸ ਉੱਚੇ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਸਮਝ ਸਕਦਾ ਹੈ (ਕਿ ਉਹ ਕੇਡਾ ਵੱਡਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਊਚੇ ਕਉ = ਉਸ ਉੱਚੇ ਅਕਾਲ ਪੁਰਖ ਨੂੰ। ਸੋਇ = ਉਹ ਮਨੁੱਖ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

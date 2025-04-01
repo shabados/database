@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ (ਜੀਊਣਦੇ ਜਾਗਦਿਆਣ) ਦੀ ਜ਼ਿੰਦਗੀ ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਦਾ ਸਦਕਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀਏ ਸ਼ਾਣ ਜ਼ਿਫ਼ੈਜ਼ਿ ਸਹੁਬਤ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

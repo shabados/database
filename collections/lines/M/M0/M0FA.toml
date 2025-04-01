@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਉਂ ਕੀਤਿਆਂ) ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਤੋਂ ਖ਼ਲਾਸੀ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਟ = ਖ਼ਲਾਸੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

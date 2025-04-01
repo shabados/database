@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਨਾਮ ਦੇ ਆਸਰੇ ਨਾਲ ਮੈਂ ਉਸੇ ਹਾਲਤ ਵਿਚ ਹੀ ਰਹਿ ਸਕਦਾ ਹਾ, ਜਿਸ ਹਾਲਤ ਵਿਚ ਤੂੰ ਮੈਨੂੰ ਰੱਖੇਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮ ਆਧਾਰਾ = ਨਾਮ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

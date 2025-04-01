@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਸਤਿ-(ਕਰਮ) ਹੈ, ਦੀਦਾਰ ਕਰਨ ਵਾਲੇ ਭੀ ਜਨਮ ਮਰਨ ਤੋਂ ਰਹਿਤ ਹੋ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਨਹਾਰ = ਵੇਖਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

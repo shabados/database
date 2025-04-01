@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹਰ ਵੇਲੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦਾ ਹੈ, ਉਸ ਦੀ ਆਮਤਕ ਅਡੋਲਤਾ ਵਾਲੀ ਸਮਾਧੀ ਬਣੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਸਹਜ ਸਮਾਧੀ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਾਲੀ ਸਮਾਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

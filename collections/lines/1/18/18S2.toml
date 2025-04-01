@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸ਼ੋਕ!) ਮੈਨੂੰ ਕਿਉਂ ਗ਼ਫ਼ਲਤ ਦੀ ਨੀਂਦ ਆ ਗਈ? ਮੈਂ ਕਿਉਂ ਸੋਹਣੇ ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾ ਦਿੱਤਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਆਮ = ਸਾਉਲੇ ਰੰਗ ਵਾਲਾ। ਸਿਆਮ ਸੁੰਦਰ = ਸੋਹਣਾ ਪ੍ਰਭੂ। ਤਜਿ = ਵਿਸਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

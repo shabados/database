@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਸੰਤ ਜਨ ਮੇਰੇ ਮਿੱਤਰ ਹਨ ਮੇਰੇ ਸੱਜਣ ਹਨ ਮੇਰੇ ਸਾਥੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਾਈ = ਸਾਥੀ, ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੇਰੇ ਮਨ ਵਿਚੋਂ ਸਾਰੇ ਪਾਪ ਵਿਕਾਰ ਝੜ ਜਾਣਗੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਸੰਮਲ = ਪਾਪ, ਕਸਮਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

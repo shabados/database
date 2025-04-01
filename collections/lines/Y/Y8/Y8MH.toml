@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਦਿਨ ਰਾਤ ਉਸ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ ॥੪॥੮॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ। ਬਾਸੁਰ = ਦਿਨ ॥੪॥੮॥੧੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

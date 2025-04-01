@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਮਨੁੱਖ ਮਰ ਜਾਂਦਾ ਹੈ ਤਾਂ) ਰਿਸ਼ਤੇਦਾਰ, ਪਰਵਾਰ, ਸੱਜਣ ਸਾਥੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ ਬੰਧ = ਰਿਸ਼ਤੇਦਾਰ। ਸਹੇਰਾ = ਸਾਥੀ, ਯਾਰ ਮਿੱਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

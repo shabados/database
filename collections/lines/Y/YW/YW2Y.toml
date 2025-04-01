@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸੱਦਾ ਦੇ ਰਿਹਾ ਹੈ ਕਿ ਸਾਰਾ ਸੰਸਾਰ ਹੀ ਜ਼ੁਲਮ ਕਰ ਰਿਹਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਅਵਤ ਆਮੋਜ਼ੋ ਜ਼ਾਲਮੇ ਜੁਮਲਾ ।੪੧।"
+page = 1
+line = 41
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

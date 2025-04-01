@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਏਸੇ ਤਰ੍ਹਾਂ) ਜੋ ਮਨੁੱਖ ਅੰਨ੍ਹੇ ਮੂਰਖ ਅਕਲ-ਹੀਣ ਹਨ ਉਹਨਾਂ ਦੀ ਅੰਨ੍ਹੀ ਹੀ ਮਤਿ ਰਹਿੰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧ ਗਿਆਨੁ = ਅੰਨ੍ਹੀ ਮਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

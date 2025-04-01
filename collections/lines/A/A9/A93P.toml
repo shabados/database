@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸੇ ਸਿਰਜਣਹਾਰ ਨੂੰ ਹਰੇਕ ਖਿਨ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤਾ = ਸਿਰਜਣਹਾਰ। ਜਪੀਐ = ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

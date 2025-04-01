@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ (ਜੀਵ ਨੂੰ) ਹਉਮੈ ਵਿਚ ਮੋਹ ਦੇ ਰਸ ਵਿਚ ਲਾਈ ਰੱਖਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਤੁ = ਮਾਇਆ। ਮੋਹ ਰਸਿ = ਮੋਹ ਦੇ ਰਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

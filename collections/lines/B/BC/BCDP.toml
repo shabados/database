@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮੈਂ ਦਿਨ ਰਾਤ ਆਪਣੇ ਕਮਾਏ ਦਾ ਫਲ ਭੋਗ ਰਿਹਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਨਿ = ਰਾਤ। ਪਾਈ = ਮੈਂ ਪਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

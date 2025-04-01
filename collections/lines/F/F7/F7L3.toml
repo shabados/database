@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੱਗ ਵਿਚ, ਵਿਆਹ ਆਦਿਕ ਕਾਜ ਵਿਚ (ਮਾਸ ਦੀ ਵਰਤੋਂ) ਪ੍ਰਧਾਨ ਹੈ, ਉਹਨੀਂ ਥਾਈਂ ਮਾਸ ਵਰਤੀਂਦਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਜਿ = ਜੱਗ ਵਿਚ। ਕਾਜਿ = ਵਿਆਹ ਵਿਚ। ਸੁਹਾਵੈ = ਸੋਭਦਾ ਹੈ, ਚੰਗਾ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

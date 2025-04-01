@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾ ਕੇ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਦਾ ਸੁਆਦ ਮਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ ਰਸੁ = ਨਾਮ ਅੰਮ੍ਰਿਤ ਦਾ ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

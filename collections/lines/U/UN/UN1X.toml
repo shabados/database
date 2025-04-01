@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪਰਮਾਤਮਾ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਿਚ ਜੋੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਫਤੀ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

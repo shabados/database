@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਗ੍ਰਸੇ ਹੋਏ ਮਨਮੁਖਾਂ ਦਾ ਮਨ ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ ਇਕ ਥਾਂ ਨਹੀਂ ਟਿਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਆਪੇ = ਗ੍ਰਸੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੁਸੀਂ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ ਸੁਆਮੀ ਹੋ। ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰੇ ਪਾਸੋਂ ਇਕ ਖ਼ੈਰ ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਸਮਰਥ = ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਮਾਗਉ = ਮਾਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

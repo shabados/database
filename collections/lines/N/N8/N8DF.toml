@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਅਕਾਲ ਪੁਰਖ ਦੇ ਮਨ ਵਿਚ ਕਿਹੜੀ ਸਲਾਹ ਹੈ, ਇਸ ਗੱਲ ਦਾ ਭੀ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਾਪੈ = ਨਹੀਂ ਜਾਪਦਾ, ਨਹੀਂ ਦਿੱਸਦਾ। ਮਨਿ = (ਅਕਾਲ ਪੁਰਖ ਦੇ) ਮਨ ਵਿਚ। ਮੰਤੁ = ਸਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

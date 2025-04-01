@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਅਸੀਂ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਸੇਵਾ ਕਰਦੇ ਹਾਂ ਅਸੀਂ ਉਹਨਾਂ ਦੇ ਹਰ ਵੇਲੇ ਪੈਰ ਧੋਂਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੇਵਹ = ਅਸੀਂ ਸੇਵਾ ਕਰਦੇ ਹਾਂ। ਧੋਵਹ = ਅਸੀਂ ਧੋਂਦੇ ਹਾਂ। ਪਗ = ਪੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

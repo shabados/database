@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ 'ਗੁਰੂ' 'ਗੁਰੂ' ਕਰੋ, ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹੀ ਹਰੀ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰੂ ਹਰਿ ਪਾਈਐ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹੀ ਹਰੀ ਮਿਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

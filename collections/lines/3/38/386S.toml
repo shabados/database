@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ ਹੇ ਭਾਈ!) ਉਹ ਅਨਾਥਾਂ ਦਾ ਨਾਥ ਪ੍ਰਭੂ ਕਦੇ ਮਨ ਤੋਂ ਭੁੱਲਣਾ ਨਹੀਂ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਕੋ = ਦਾ। ਅਨਾਥ ਕੋ ਨਾਥ = ਨਿਖਸਮਿਆਂ ਦਾ ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

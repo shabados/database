@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮਨੁੱਖ ਦਾ) ਇਹ ਮਨ ਕ੍ਰੋੜਾਂ ਪਾਪਾਂ ਹੇਠ ਦਬਿਆ ਰਹਿੰਦਾ ਹੈ (ਇਸ ਮਨ ਦੀ ਮੰਦ-ਭਾਗਤਾ ਬਾਬਤ) ਕੁਝ ਕਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਅਛਾਦਿਓ = ਢਕਿਆ ਹੋਇਆ, ਦਬਾਇਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਤੋਂ ਬਿਨਾ (ਹੋਰ ਕਿਸੇ ਤਰੀਕੇ ਨਾਲ) ਸੁਖ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

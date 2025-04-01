@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੰਗ ਦੇ ਮੈਦਾਨ ਵਿਚ ਉਹ ਚੰਘਾੜਦਾ ਹੋਇਆ ਬੱਬਰ ਸ਼ੇਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਰਜ਼ਮ ਅੰਦਰੂੰ ਨੱਰਾਇ ਸ਼ੇਰਿ ਦਮਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

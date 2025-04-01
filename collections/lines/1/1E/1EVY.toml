@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਵਰਖਾ ਵੇਲੇ ਬੁਲਬੁਲਾ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਖਸਿ = ਵਰਖਾ ਹੋਣ ਤੇ। ਬਾਣੀ = ਬਨਾਵਟ। ਹੇਰਿ = ਵੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

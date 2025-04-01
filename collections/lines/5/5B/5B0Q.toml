@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦੀ ਸ਼ਾਨ ਇਮਤਿਹਾਨਾਂ ਦੀ ਸ਼ਾਨ ਤੋਂ ਕਿਧਰੇ ਵਡੇਰੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਾਨਿ ਸ਼ਾਂ ਬਿਹਤਰ ਬਵਦ ਅਜ਼ ਇਮਤਿਹਾਂ ।੨੩੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

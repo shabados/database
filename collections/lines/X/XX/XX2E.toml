@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ ਅਰਦਾਸ ਕਰਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਤੇਰੇ ਦਰ ਤੇ ਖਲੋਤੇ (ਬੇਨਤੀ ਕਰਦੇ ਹਾਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢੇ = ਖਲੋਤੇ ਹੋਏ। ਦੁਆਰਿ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਸਰੀਰ ਵਿਚ ਆਸਰਾ (ਦੇਣ ਵਾਲਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਤਨ ਵਿਚ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

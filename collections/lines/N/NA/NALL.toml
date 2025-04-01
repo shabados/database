@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸਦਾ ਸੋਭਾ ਖੱਟਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਦਰ ਤੇ। ਦਰਿ ਸਚੈ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

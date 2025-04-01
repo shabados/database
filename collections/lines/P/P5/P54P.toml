@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਾਇਆ ਦੇ ਕਾਰਨ ਮਿਲੀ ਵਡਿਆਈ ਭੀ ਕਿਸੇ ਕੰਮ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨ ਕਾਜ = ਕਿਸ ਕੰਮ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

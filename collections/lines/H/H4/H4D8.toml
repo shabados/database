@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਆਓ, ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣ) ਗਾਵੀਏ ਤੇ ਸੁਣੀਏ ਅਤੇ ਆਪਣੇ ਮਨ ਵਿਚ ਉਸਦਾ ਪ੍ਰੇਮ ਟਿਕਾਈਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿੱਚ। ਰਖੀਐ = ਟਿਕਾਈਏ। ਭਾਉ = ਰੱਬ ਦਾ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

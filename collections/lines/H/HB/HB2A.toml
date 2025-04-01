@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਜਗਤ) ਉਸ ਕਰਤਾਰ ਨੇ ਇਕ ਤਮਾਸ਼ਾ ਰਚਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ ਨੇ। ਤਿਨਿ ਕਰਤੈ = ਉਸ ਕਰਤਾਰ ਨੇ। ਚਲਤੁ = ਜਗਤ-ਤਮਾਸ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

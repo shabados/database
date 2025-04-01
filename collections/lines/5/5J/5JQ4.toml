@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਪ੍ਰੇਰਨਾ ਦੇਹ ਕਿ ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲ ਕੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਇਆ ਕਰਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹੁ = ਗਵਾਵਹੁ, ਪ੍ਰੇਰਨਾ ਦੇਹ ਕਿ ਮੈਂ ਗਾ ਸਕਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

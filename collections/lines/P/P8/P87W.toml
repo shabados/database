@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ (ਤੈਨੂੰ) ਅਟੱਲ (ਨਿਯਮ ਦੀ) ਵਿਚਾਰ ਦੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕੁ ਕਹੈ = ਨਾਨਕ ਆਖਦਾ ਹੈ। ਸਾਚੁ = ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

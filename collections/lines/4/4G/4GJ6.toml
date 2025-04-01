@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਆਸਾ ਧਾਰ ਕੇ ਮੈਂ (ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੇ ਨਾਮ ਦੀ ਦਾਤਿ) ਮੰਗਣ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ, ਧਾਰ ਕੇ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਮਾਗਨਿ = ਮੰਗਣ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

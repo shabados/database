@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਕਵੀ ਨੂੰ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ ਜਦੋਂ ਉਸ ਨੂੰ ਸੂਰਜ ਦਿੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ ਲਾਗੈ = ਮੂੰਹ ਲੱਗਦਾ ਹੈ, ਦਿੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

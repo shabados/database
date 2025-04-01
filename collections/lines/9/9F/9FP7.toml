@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਛੱਡ ਕੇ) ਤੂੰ ਹੋਰ ਕੀਹ ਸੋਚਾਂ ਸੋਚਦਾਂ ਹੈਂ? ਤੂੰ ਹੋਰ ਕੀਹ ਉਪਾਵ ਚਿਤਵਦਾ ਹੈਂ? ਤੂੰ ਹੋਰ ਕਿਹੜੇ ਹੀਲੇ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਏ = ਅਨੇਕਾਂ ਉਪਾਵ (ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਉਸ ਸਭ ਤੋਂ ਵੱਡੇ ਪਰਮਾਤਮਾ ਨੂੰ ਵੱਡੀ ਕਿਸਮਤਿ ਨਾਲ ਮਿਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗ ਕਰਿ = ਕਿਸਮਤਿ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਤਨੇ ਦੁੱਖ ਵਾਪਰਦੇ ਹਨ, ਇਤਨੀ ਸਜ਼ਾ ਮਿਲਦੀ ਹੈ ਕਿ ਲੇਖਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਮਨਮੁਖ ਆਪਣਾ ਕੀਤਾ ਭੁਗਤਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਾਈ ਗਣਤ = ਸਜ਼ਾਵਾਂ ਦੀ ਗਿਣਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

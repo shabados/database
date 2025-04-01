@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਵੀ ਆਪਣੇ ਮੂਹੋਂ ਕਿਹਾ ਕਿ ਮੈਂ ਰੱਬ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਅਨਅਲਹੱਕ ਬਰ ਜ਼ੁਬਾਂ ਇਜ਼ਹਾਰ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

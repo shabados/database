@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੋਹਣੇ ਹਰੀ! ਕਿਰਪਾ ਕਰ ਕੇ (ਸਾਨੂੰ) ਬਚਾ ਲੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਉਧਰੁ = ਬਚਾ ਲੈ। ਹਰਿ ਨਾਗਰ = ਹੇ ਸੋਹਣੇ ਹਰੀ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

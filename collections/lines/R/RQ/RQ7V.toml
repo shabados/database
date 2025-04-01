@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਕਮਾ ਕੇ ਧਰਤੀ ਵਿਚ ਨੱਪ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਡੈ = (ਧਰਤੀ ਵਿਚ) ਦੱਬ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

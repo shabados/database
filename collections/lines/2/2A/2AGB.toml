@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ! ਜਿਹੜੇ ਮਨੁੱਖ ਤੇਰੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ ਕੀ = ਤੇਰੀ। ਸਾਹਿਬ ਕੀ = ਮਾਲਕ ਦੀ। ਕਰਹਿ = ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

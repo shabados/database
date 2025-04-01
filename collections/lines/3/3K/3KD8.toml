@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁੜ ਮੁੜ ਇਹ ਸੁਣ ਕੇ ਕਿ ਜਗਤ-ਜੀਵਨ ਦਾ ਰਸਤਾ ਡਰਾਉਣਾ ਹੈ ਮੈਂ ਬਹੁਤ ਸਹਮਿਆ ਹੋਇਆ ਸਾਂ (ਕਿ ਮੈਂ ਕਿਵੇਂ ਇਹ ਸਫ਼ਰ ਤੈ ਕਰਾਂਗਾ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਪੰਥੁ = ਰਸਤਾ। ਡਰਾਉ = ਡਰਾਉਣਾ। ਭੈਹਾਰੀਆ = ਭੈ-ਭੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

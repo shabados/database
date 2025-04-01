@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਾ ਦੀ ਪੁਰੀ ਭੀ ਸਦਾ ਅਟੱਲ ਨਹੀਂ ਰਹਿ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮਪੁਰੀ = ਬ੍ਰਹਮਾ ਦੀ ਪੁਰੀ। ਮਰਣਾ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

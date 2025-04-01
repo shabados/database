@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਕਦੇ ਸੁਪਨੇ ਵਿਚ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਿਆ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਪਨੈ = ਸੁਪਨੇ ਵਿਚ, ਕਦੇ ਭੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

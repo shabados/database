@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ ਦਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਾਮ (ਸਦਾ) ਸਿਮਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

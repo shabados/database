@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸ਼ਿਕੋਹਿਸ਼ ਹਮਾ ਫ਼ਰ੍ਹਾਇ ਕਿਬਰੀਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਿਕੋਹਿਸ਼ ਹਮਾ ਫ਼ਰ੍ਹਾਇ ਕਿਬਰੀਆ ।੮੨।"
+page = 6
+line = 82
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

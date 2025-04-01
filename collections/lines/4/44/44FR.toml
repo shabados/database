@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣਾ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਰੋਕ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕਿ ਰਹਾਏ = ਰੋਕ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

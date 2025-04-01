@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਖ਼ੁਸ਼ਖ਼ਬਰੀ ਜਿਹੜੀ ਉਸ ਗਾਉਣਦੀ ਬੁਲਬੁਲ ਵੱਲੋਣ ਆਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੀਣ ਨਵੇਦ ਕਿ ਜ਼ਾਣ ਬੁਲਬੁਲ ਹਜ਼ਾਰ ਆਮਦ ।੧੯।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

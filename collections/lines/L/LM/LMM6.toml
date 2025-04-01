@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਆਪਣੇ ਸਤਿਗੁਰੂ ਦਾ ਬੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ-ਸਤ ਗ਼ੁਲਾਮਿ ਮੁਰਸ਼ਦਿ ਖ਼ੇਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਜੀ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਸਦਾ ਹਰੀ ਦੇ ਗੁਣ ਗਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਗੁਣ = ਹਰੀ ਦੇ ਗੁਣ। ਗਾਵਉ = ਮੈਂ ਗਾਵਾਂ। ਗਾਵਤ = ਗਾਉਂਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

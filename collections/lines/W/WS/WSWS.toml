@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਰੀਰ ਮੇਰਾ ਹੈ, ਇਹ ਧਨ-ਪਦਾਰਥ ਸਾਰਾ ਮੇਰਾ ਹੈ, ਇਹ ਬਾਗ਼ ਮੇਰੇ ਹਨ, ਇਹ ਜ਼ਮੀਨਾਂ ਮੇਰੀਆਂ ਹਨ, ਇਹ ਸਾਰੇ ਥਾਂ ਮੇਰੇ ਹਨ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਖ = ਜ਼ਮੀਨ। ਜਾਏ = ਥਾਂਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

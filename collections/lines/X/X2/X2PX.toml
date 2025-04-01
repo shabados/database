@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਸਤਿਗੁਰੂ! (ਮੈਨੂੰ) ਚੰਗੀ ਅਕਲ ਬਖ਼ਸ਼,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ ਗੁਰੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

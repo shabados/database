@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਹੱਥ ਦੇ ਕੇ ਜਮਾਂ ਤੋਂ ਭੀ ਬਚਾ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਤੇ = ਜਮਾਂ ਤੋਂ। ਦੇ ਕਰਿ = ਦੇ ਕੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

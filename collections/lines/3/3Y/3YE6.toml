@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਅੱਖਾਂ ਹੀ ਸੋਹਣੀਆਂ ਹਨ, ਜਿਹੜੀਆਂ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਰਸ ਨਾਲ ਭਿੱਜੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿੰਨਿਅੜੇ = ਭਿੱਜੇ ਹੋਏ। ਸੰਗੇ = ਨਾਲ। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਲੋਇਣ = ਅੱਖਾਂ। ਨੀਕੇ = ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

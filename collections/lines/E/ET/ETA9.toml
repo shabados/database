@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਵਾ, ਅੱਗ ਤੇ ਪਾਣੀ ਭੀ ਮੈਲੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕੁ = ਅੱਗ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

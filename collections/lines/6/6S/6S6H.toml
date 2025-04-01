@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਰਾਇਣ ਸਦਾ ਹੀ ਬਖ਼ਸ਼ਣਹਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ ਸਦ = ਸਦਾ ਸਦਾ। ਬਖਸਿੰਦ = ਬਖ਼ਸ਼ਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

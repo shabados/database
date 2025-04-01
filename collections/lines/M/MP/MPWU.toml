@@ -36,6 +36,12 @@ language = "pa"
 data = "ਡਰਾਉਣਾ ਧਰਮ ਰਾਜ (ਇਸ ਦੀ ਉਮਰ ਦੇ) ਸਾਹ ਗਿਣਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਨੰਤ = ਗਿਣਦਾ ਹੈ। ਭੈਯਾਨ = ਭਿਆਨਕ, ਡਰਾਉਣਾ। ਧਰਮੰ = ਧਰਮ ਰਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

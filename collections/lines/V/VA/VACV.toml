@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ- ਇਹ ਗੱਲ ਸਮਝੀ ਨਹੀਂ ਜਾ ਸਕਦੀ, ਜਾਣੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਹਾਲਤ। ਤੇਰੀ ਗਤਿ = ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ, ਇਹ ਗੱਲ। ਅਵਿਗਤਿ = ਜਾਣਨ ਤੋਂ ਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

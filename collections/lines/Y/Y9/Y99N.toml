@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਮਾਲਿਕ ਹੈਂ (ਸਾਡੀ ਜੀਵਾਂ ਦੀ) ਅਰਜ਼ ਤੇਰੇ ਅੱਗੇ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਪਹਿ = ਤੇਰੇ ਪਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

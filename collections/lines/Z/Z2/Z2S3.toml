@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਇੱਕ ਪੁਭੂ ਦਾ ਧਿਆਨ ਚਿੱਤ ਵਿਚ ਧਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿਤ ਵਿਚ। ਚਿਤਵਹੁ = ਸੋਚੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

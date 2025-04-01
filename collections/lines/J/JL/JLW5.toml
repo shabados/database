@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦਾ ਦਰ) ਛੱਡ ਕੇ ਕਿਸੇ ਭੀ ਹੋਰ ਥਾਂ ਨਹੀਂ ਜਾਂਦੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ ਕਤਹਿ = ਕਿਸੇ ਭੀ ਹੋਰ ਥਾਂ। ਜਾਹਿ = ਜਾਹਿਂ, ਜਾਂਦੇ {ਬਹੁ-ਵਚਨ} ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

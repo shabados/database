@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਗ ਨੂੰ ਪਾਲਾ ਕੀਹ ਕਰ ਸਕਦਾ ਹੈ? (ਭਾਵ, ਪਾਲਾ ਅੱਗ ਦਾ ਕੋਈ ਵਿਗਾੜ ਨਹੀਂ ਕਰ ਸਕਦਾ) ਰਾਤ ਸੂਰਜ ਦਾ ਕੋਈ ਵਿਗਾੜ ਨਹੀਂ ਕਰ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿ = ਕੀਹ? ਕਿ ਕਰੇ = ਕੀਹ ਵਿਗਾੜ ਸਕਦਾ ਹੈ? ਸੂਰਜ = ਸੂਰਜ ਨੂੰ (ਸੰਪ੍ਰਦਾਨ ਕਾਰਕ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

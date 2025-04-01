@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਜਤਨ ਨਾਲ ਕਿਸੇ ਨੇ ਭੀ ਕੁਝ ਨਹੀਂ ਲੱਭਾ (ਭਾਵ, ਜੀਵ ਦਾ ਉੱਦਮ ਤਦੋਂ ਹੀ ਸਫਲ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਤੂੰ ਸਵੱਲੀ ਨਜ਼ਰ ਕਰਦਾ ਹੈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹੁ = ਆਪਣੇ ਆਪ ਤੋਂ, ਆਪਣੇ ਉੱਦਮ ਨਾਲ। ਕਿਨਹੂ = ਕਿਸੇ ਨੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

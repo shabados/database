@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਗੁਣ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ ਨ ਸਕਉ = ਕਹਿ ਨ ਸਕਉਂ, ਮੈਂ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਬਨਵਾਰੀ = {वनमालिन् = ਜੰਗਲੀ ਫੁੱਲਾਂ ਦੀ ਮਾਲਾ ਪਹਿਨੀ ਰੱਖਣ ਵਾਲਾ, ਕ੍ਰਿਸ਼ਨ} ਹੇ ਪਰਮਾਤਮਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

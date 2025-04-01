@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਦੇ ਕਾਮ ਕ੍ਰੋਧ ਦੀ ਸੰਗਤਿ ਵਿਚ ਨਾਹ ਬੈਠੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਨਾਲ। ਬਹਹੁ = ਬੈਠੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

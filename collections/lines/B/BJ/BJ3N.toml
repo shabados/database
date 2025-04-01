@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਸਾਨੂੰ ਉਸ ਦੀ ਸੁਗੰਧੀ ਬੜੀ ਸੁਆਦਲੀ ਲਗਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਕਿ ਮਾ ਰਾ ਬੂਇ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

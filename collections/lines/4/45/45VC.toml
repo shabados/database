@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੈਂ ਕਿੱਥੇ ਤੇ ਅਜਿਹਾ ਕਮਾਲ ਕਿੱਥੇ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਕੁਜਾ ਵ ਚੁਨੀਂ ਕਮਾਲ ਕੁਜਾ ।"
+page = 1
+line = 51
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

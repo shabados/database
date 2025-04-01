@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੱਤਿਆ ਵਾਲੇ ਗੁਰਦੇਵ ਦੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ। ਸਮਰਥ = ਤਾਕਤ ਵਾਲਾ, ਸੱਤਿਆ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

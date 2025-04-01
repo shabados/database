@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸ, (ਹੇ ਭਾਈ!) ਇਹਨਾਂ ਤੋਂ ਭੀ ਕਿਸੇ ਨੇ ਕਦੇ ਸੁਖ ਲੱਭਾ ਹੈ? ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਦੱਸ। ਕਵਨੈ = ਕਿਸ ਨੇ? ਤੇ = ਤੋਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

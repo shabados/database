@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੇ (ਕਾਮਾਦਿਕ) ਸਾਰੇ ਵੈਰੀ ਮੁਕਾ ਲਏ, ਉਹ (ਅਸਲ) ਤਿਆਗੀ ਬਣ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤੀਤ = ਵਿਰਕਤ। ਬੈਰਾਈ = (ਕਾਮਾਦਿਕ) ਵੈਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

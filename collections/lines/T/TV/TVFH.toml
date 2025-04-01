@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦੇ ਹਠ ਦੇ ਆਸਰੇ (ਹੋਰ ਹੋਰ) ਕਰਮ ਕਰਦੇ ਰਹਿਣ ਕਰਕੇ ਉਹ ਮਨੁੱਖ ਮੁੜ ਮੁੜ ਜੂਨਾਂ (ਦੇ ਗੇੜ) ਵਿਚ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਠਿ = ਹਠ ਦੀ ਰਾਹੀਂ। ਪਾਇ = ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

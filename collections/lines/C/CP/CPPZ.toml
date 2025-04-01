@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਬਿਨਾਣ ਸਾਰਾ ਜਹਾਨ ਹੈਰਾਨ ਹੌਇਆ ਪਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ ਤੂ ਆਲਮ ਜੁਮਲਾ ਹੈਰਾਨਸਤੋ ਬਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

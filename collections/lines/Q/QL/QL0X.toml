@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਪੈਦਾ ਕਰ ਕੇ ਇਕ ਛਿਨ ਵਿਚ ਨਾਸ ਕਰਨ ਦੀ ਸਮਰਥਾ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਪਿ = ਪੈਦਾ ਕਰ ਕੇ। ਉਥਾਪਨਹਾਰਾ = ਨਾਸ ਕਰ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

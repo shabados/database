@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਤ ਪਾਵਨ = ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਇਆਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

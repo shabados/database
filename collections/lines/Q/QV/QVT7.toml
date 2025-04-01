@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦਾ ਪਿਆਰ ਗੋਬਿੰਦ ਦੇ ਸੁਹਣੇ ਚਰਨਾਂ ਨਾਲ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

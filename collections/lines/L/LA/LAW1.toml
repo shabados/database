@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਸਿਮਰਨ ਨੇ ਜਿਸ ਕਿਸੇ ਦੀ ਵੀ ਸਹਾਇਤਾ ਕੀਤੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਮੌਲਾ ਆਂ ਕਿ ਯਾਰੀ ਦਾਦਾ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

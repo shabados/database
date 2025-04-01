@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਤੇਰੇ (ਸੰਗੀਤਕ) ਸਾਜ਼ ਹਾਂ, ਤੂੰ (ਇਹਨਾਂ ਸਾਜ਼ਾਂ ਨੂੰ) ਵਜਾਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੰਤ = ਜੰਤ੍ਰ, ਸਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

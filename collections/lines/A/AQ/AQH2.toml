@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਬੇਅੰਤ ਹੀ ਵੱਡਾ ਰੁਤਬਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਾਰੁ = ਅ-ਪਾਰੁ, ਜਿਸ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਾਹ ਲੱਭ ਸਕੇ। ਮਰਤਬਾ = ਰੁਤਬਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

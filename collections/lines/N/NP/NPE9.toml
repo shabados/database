@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਜਨਮ ਲੈਣ ਦਾ ਉਹਨਾਂ ਨੂੰ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਆਇਆ = ਕਿਉਂ ਆਏ, ਆਉਣ ਦਾ ਕੋਈ ਲਾਭ ਨਾਹ ਹੋਇਆ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਕੋਈ ਸੱਚ ਦਾ ਇੱਕ ਹਰਫ਼ ਵੀ ਦਿਲ ਵਿਚ ਘਰ ਕਰ ਲੇਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਫ਼ਿ ਹੱਕ ਦਰ ਦਿਲ ਅਗਰ ਮਾਵਾ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

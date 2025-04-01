@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ, (ਇਸ ਨਾਮ ਤੋਂ) ਮੁੜ ਮੁੜ ਕੁਰਬਾਨ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਤ = (ਵਿਕਾਰਾਂ ਵਿਚ) ਡਿੱਗੇ ਹੋਏ। ਅਸੰਖ = ਅਣਗਿਣਤ {ਸੰਖਿਆ = ਗਿਣਤੀ}। ਕਰਿ = ਕਰੇ, ਕਰਦਾ ਹੈ। ਪੁਨਹ ਪੁਨਹ = {पुनः पुनः} ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

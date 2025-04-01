@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨ ਤੋਂ ਬਿਨਾ) ਸੰਸਾਰ ਵਿਚ ਮਾਂ, ਪਿਉ, ਬੰਧਨਾਂ ਦਾ ਕਾਰਣ ਬਣ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

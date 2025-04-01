@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ-ਪਤੀ ਜੇਹੜਾ ਜੇਹੜਾ ਹੁਕਮ ਕਰਦਾ ਹੈ, ਮੈਂ ਉਸੇ ਨੂੰ ਭਲਾ ਮੰਨਦੀ ਹਾਂ ਤੇ ਮੈਂ ਉਸ ਦੀ ਰਜ਼ਾ ਦੇ ਉਲਟ ਬੋਲ ਨਹੀਂ ਬੋਲਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲ = ਭਲਾ। ਮਾਨਉ = ਮਾਨਉਂ, ਮੰਨਦੀ ਹਾਂ। ਨਾਹਿਨ = ਨਾਹੀਂ। ਕਾ ਬੋਲ = ਕਬੋਲ, ਉਲਟਾ ਬੋਲ, ਖਰ੍ਹ੍ਹਵਾ ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

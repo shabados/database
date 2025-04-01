@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਮਾਰੂ, ਘਰ ੭ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਅੰਜੁਲੀ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਜੁਲੀ = ਬੁੱਕ, (ਆਪਣੇ ਇਸ਼ਟ ਪਾਸੋਂ ਖ਼ੈਰ ਮੰਗਣ ਲਈ ਅੱਡਿਆ ਹੋਇਆ ਬੁੱਕ), ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ ਕੀਤੀ ਹੋਈ ਅਰਜ਼ੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

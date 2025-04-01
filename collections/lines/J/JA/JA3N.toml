@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁਲਾ ਕੇ ਹੋਰ ਹੋਰ ਸੁਆਦ ਵਿਚ ਰੁੱਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਾਰਿ = ਭੁਲਾ ਕੇ। ਅਨ = {अन्य} ਹੋਰ। ਸੁਆਇ = ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

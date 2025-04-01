@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਹੇ ਦਇਆਲ! ਹੇ ਗੋਬਿੰਦ! ਹੇ ਦਮੋਦਰ! ਮੈਨੂੰ ਆਪਣੀ ਪਵਿੱਤਰ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਸੂਝ (ਬਖ਼ਸ਼)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪਾਲ = ਹੇ ਗੋਪਾਲ! ਦਮੋਦਰ = ਹੇ ਦਮੋਦਰ! ਕਥਾ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਗਿਆਨ = ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

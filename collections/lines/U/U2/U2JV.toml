@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਕਿਵੇਂ ਉਸ ਪ੍ਰਭੂ-ਪ੍ਰੀਤਮ ਦਾ ਦਰਸਨ ਕਰਾਂ? ਉਹ ਕੇਹੜੀ ਸ੍ਰੇਸ਼ਟ ਕਰਨੀ ਹੈ (ਜਿਸ ਨਾਲ ਮੈਂ ਉਸ ਨੂੰ ਵੇਖਾਂ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ = ਕਿਵੇਂ? ਪੇਖਾ = ਪੇਖਾਂ, ਮੈਂ ਵੇਖਾਂ। ਸੁਕਰਣੀ = ਸ੍ਰੇਸ਼ਟ ਕਰਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

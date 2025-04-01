@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮਨ ਲਾ ਕੇ ਕਦੇ ਭੀ ਤੇਰੇ ਗੁਣ ਨਹੀਂ ਗਾਂਦਾ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਕਰਿ = ਮਨ ਦੀ ਰਾਹੀਂ, ਮਨ ਲਾ ਕੇ। ਕਬਹੂ = ਕਦੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

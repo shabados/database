@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ! ਇਹਨਾਂ ਤਰੀਕਿਆਂ ਨਾਲ ਧਰਤੀ ਦਾ ਖਸਮ-ਪਰਮਾਤਮਾ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ ਬਿਧਿ = ਇਹਨਾਂ ਤਰੀਕਿਆਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

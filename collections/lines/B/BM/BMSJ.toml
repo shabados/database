@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਕੂੜ ਦਾ ਵਪਾਰ ਕਰਨ ਵਾਲਿਆਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਕੂੜ ਤੇ ਕਪਟ ਹੋਣ ਕਰਕੇ ਉਹ ਪਿਛੇ ਸਿੱਟੇ ਜਾਂਦੇ ਹਨ ਤੇ ਬੜਾ ਕਲੇਸ਼ ਉਠਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਟੀਅਨਿ = ਸੱਟੇ ਜਾਂਦੇ ਹਨ। ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

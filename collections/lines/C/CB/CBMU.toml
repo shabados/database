@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਕ ਦੁਆਲੇ ਸੋਹਣੀ ਜਿਹੀ ਕਟਾਰ ਹੋਵੇ ਤੇ ਸੋਹਣੇ ਘੋੜੇ ਦਾ ਸੁਆਰ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਰਿ = ਲੱਕ ਤੇ, ਲੱਕ ਦੁਆਲੇ। ਬੰਕੁੜਾ = ਬਾਂਕਾ ਜਿਹਾ, ਸੋਹਣਾ ਜਿਹਾ। ਕਟਾਰਾ = ਖ਼ੰਜਰ। ਬੰਕੇ ਕਾ = ਸੋਹਣੇ ਘੋੜੇ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

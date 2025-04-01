@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਨੇ ਆਪ ਹੀ ਮਨੁੱਖਾਂ ਨੂੰ ਸੇਵਾ ਵਿਚ ਲਾਇਆ ਹੈ, ਆਪ ਹੀ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਇਅਨ = ਲਾਏ ਹਨ ਉਸ (ਹਰੀ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

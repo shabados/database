@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਮੇਰਾ ਇਕ ਸੁਆਸ ਭੀ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਤੋਂ ਬਿਨਾ ਲੰਘੇ ਤਾਂ) ਮੈਂ (ਆਪਣੇ ਆਪ ਨੂੰ) ਮੰਦੇ ਭਾਗਾਂ ਵਾਲੀ (ਸਮਝਦੀ ਹਾਂ), ਮੈਂ ਬੜੀ ਦੁਖੀ (ਹੁੰਦੀ ਹਾਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਹਾਗਣਿ = ਮੰਦੇ ਭਾਗਾਂ ਵਾਲੀ। ਖਰੀ = ਬਹੁਤ। ਰੰਞਾਣੀ = ਦੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

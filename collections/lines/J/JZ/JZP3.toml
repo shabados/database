@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਜੋ ਕਰਮ ਕਮਾਂਦਾ ਹੈ, ਉਸੇ ਦਾ ਹੀ ਫਲ ਭੋਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਗ = ਫਲ ਮਿਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

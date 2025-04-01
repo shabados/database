@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਆਪਣਾ ਗੁਰੂ ਸੁਚੇਤ ਦਿੱਸ ਰਿਹਾ ਹੈ (ਮੈਨੂੰ ਨਿਸ਼ਚਾ ਹੈ ਕਿ ਗੁਰੂ ਮੈਨੂੰ) ਉਸ (ਪ੍ਰਭੂ ਦੇ) ਦਰ ਤੇ ਜਾ ਉਤਾਰੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਵਧਾਨੁ = ਸੁਚੇਤ, ਤਤਪਰ {ਸ-ਅਵਧਾਨ=ਧਿਆਨ ਸਹਿਤ, ਗਹੁ ਕਰਨ ਵਾਲਾ}"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

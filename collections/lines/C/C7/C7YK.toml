@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿਰਦੇ-ਕਮਲ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਿਵਾਸ ਬਣਾ ਲੈਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸੁ = ਨਿਵਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

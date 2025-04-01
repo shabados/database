@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਣ, ਇਹੀ ਹੈ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਣ ਦਾ ਤਰੀਕਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = ਢੰਗ। ਸੁਨੀ = ਸੁਣਿ, ਸੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

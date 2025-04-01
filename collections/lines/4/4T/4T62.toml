@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਮੁਖੜੇ ਦੇ ਸਾ੍ਹਮਨੇ ਚੰਨ ਵੀ ਸ਼ਰਮਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਦਰ ਪੇਸ਼ਿ ਰੂਇ ਤੂ ਸ਼ਰਮਿੰਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

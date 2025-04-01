@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੂੰ ਸਹਿਜੇ ਹੀ ਇਸ ਪੁਲ-ਸਰਾਤ (ਭਉਜਲ) ਤੋਣ ਲੰਘ ਜਾਵੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬ-ਆਸਾਣ ਬਿਗੁਜ਼ਰੀ ਜ਼ੀਣ ਪੁਲਿ ਸਰਾਤ ।੪੪।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

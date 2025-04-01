@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਬਖਸ਼ਿਸ਼ਾਂ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਕਰਮੁਲ-ਫੱਜ਼ਾਲ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 126
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

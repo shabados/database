@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਤਿ-ਪ੍ਰਭੂ! ਨਾਹ ਮੈਂ ਤੇਰੀ ਨਸੀਹਤ ਤੇ ਤੁਰਦਾ ਹਾਂ, ਨਾਹ ਮੇਰੀ ਕਰਣੀ ਚੰਗੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਦਿ = ਨਸੀਹਤ, ਸਿੱਖਿਆ। ਕਰਣੀ ਕੀ ਕਾਰ = ਜੇਹੜੀ ਕਾਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਚੰਗੀ ਕਰਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

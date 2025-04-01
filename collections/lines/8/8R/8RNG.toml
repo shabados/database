@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭੀ ਜੀਵ (ਹਰਿ-ਨਾਮ ਦਾ) ਮੁੱਲ ਪਾਣ-ਜੋਗਾ ਨਹੀਂ ਹੋ ਸਕਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ ਭੀ ਮਨੁੱਖ। ਤੋਲਣਹਾਰਾ = ਮੁੱਲ ਪਾਣ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

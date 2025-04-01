@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਸਮਝੋ ਉਮਰ ਦੀ ਮੁਰਾਦ ਪਾ ਲਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਾਦਿ ਉਮਰ ਰਾ ਹਾਸਿਲ ਨਿਕੋ ਦਰਦ ।੩੩।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਮੇਰੇ ਰਹਣ ਵਾਸਤੇ) ਧਰਤੀ ਹੀਰੇ ਲਾਲਾਂ ਨਾਲ ਜੜੀ ਜਾਏ, ਜੇ (ਮੇਰੇ ਸੌਣ ਵਾਲੇ) ਪਲੰਘ ਉੱਤੇ ਲਾਲ ਜੜੇ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲਘਿ = ਪਲੰਘ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

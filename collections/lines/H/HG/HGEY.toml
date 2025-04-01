@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਸਾਰੇ ਸੁਖਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਤੇ ਆਤਮਕ ਅਡੋਲਤਾ ਦੇ ਆਨੰਦ ਮਿਲ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

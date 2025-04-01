@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਮੋ ਗੁਣ ਵਿਚ ਮਸਤ ਹੋਇਆ ਹੋਇਆ ਸਦਾ ਭਟਕਦਾ ਹੈ ਤੇ ਦਿਨ ਰਾਤ (ਤਮੋ ਗੁਣ ਵਿਚ) ਸੜਦਿਆਂ (ਉਸ ਦੀ ਉਮਰ) ਗੁਜ਼ਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਮਸਿ = ਤਮੋਗੁਣੀ ਭਾਵ ਵਿਚ। ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

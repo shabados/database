@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਆਪਣੀ ਰਚੀ ਹੋਈ ਰਚਨਾ ਵਿਚ) ਹਰ ਥਾਂ ਪ੍ਰਭੂ ਆਪ ਹੀ ਆਪ ਮੌਜੂਦ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ। ਆਪੇ = ਆਪ ਹੀ। ਵਰਤਦਾ = ਮੌਜੂਦ ਹੈ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

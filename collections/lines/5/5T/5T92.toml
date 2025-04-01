@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਦਾ ਉਰਲਾ ਤੇ ਪਾਰਲਾ ਬੰਨਾ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਾਵਾਰੁ = ਪਾਰਲਾ ਤੇ ਉਰਲਾ ਬੰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

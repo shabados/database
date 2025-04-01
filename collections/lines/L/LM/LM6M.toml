@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਥਾਂ ਸੰਤਾਂ ਦੀ ਮਹਿਮਾ ਵਾਸਤੇ ਪ੍ਰਭੂ ਜਗਤ ਦਾ ਖਿਲਾਰਾ ਖਿਲਾਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪਰਤਾਪਿ = ਸੰਤਾਂ ਦੇ ਪਰਤਾਪ ਵਾਸਤੇ, ਸੰਤਾਂ ਦੀ ਮਹਿਮਾ ਵਧਾਉਣ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

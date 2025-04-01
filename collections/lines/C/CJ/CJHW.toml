@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਹਿਰਦਾ ਰੱਬ ਦਾ ਹੀ ਘਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਦਿਲਿ ਤੂ ਖ਼ਾਨਾਇ ਹੱਕ ਬੂਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

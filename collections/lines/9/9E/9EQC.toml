@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ (ਇਸ ਮਾਇਆ ਨੂੰ) ਚੰਬੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਨੂੰ (ਅਨੇਕਾਂ) ਕਲੇਸ਼ ਵਿਆਪਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਪਟਾਨੋ = ਚੰਬੜਦਾ ਹੈ। ਸੰਤਾਪ = (ਅਨੇਕਾਂ) ਕਲੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

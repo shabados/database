@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਉਹਨਾਂ ਗੁਰਮੁਖਾਂ ਦਾ ਸਾਥ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਹੋਵੇ, ਜਿਨ੍ਹਾਂ ਦਾ ਦਰਸਨ ਕੀਤਿਆਂ ਮਨ ਖਿੜ ਆਉਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਸੀਐ = ਖਿੜ ਪੈਂਦਾ ਹੈ। ਕਿਉ = ਕਿਉਂ? ਕਿਵੇਂ? ਸੰਗੁ = ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

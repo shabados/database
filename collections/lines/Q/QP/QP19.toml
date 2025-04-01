@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਕੌਤਕ ਸੁਣ ਵੇਖ ਕੇ) ਘਰ ਘਰ ਵਿਚ ਨਾਮਦੇਵ ਦੀਆਂ ਗੱਲਾਂ ਹੋਣ ਲੱਗ ਪਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ, ਘਰ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

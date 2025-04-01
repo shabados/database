@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ ਹੀ (ਤੇਰੇ ਭਗਤਾਂ ਵਾਸਤੇ) ਤਾਣ ਹੈ, ਸਹਾਰਾ ਹੈ, ਪਰਵਾਰ ਹੈ ਅਤੇ ਧਨ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣ = ਬਲ। ਦੀਬਾਣੁ = ਆਸਰਾ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

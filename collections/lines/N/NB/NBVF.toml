@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਆਪਣੇ) ਮਨ ਵਿਚ (ਵਸਾਣੀ) ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

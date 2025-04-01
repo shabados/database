@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਉਸ ਦਾ ਦਾਸ ਹੈ, ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦਾ ਰੂਪ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਉਹੀ ਮਨੁੱਖ। ਨਿਰੰਜਨ ਦੇਉ = ਪ੍ਰਭੂ (ਦਾ ਰੂਪ) ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

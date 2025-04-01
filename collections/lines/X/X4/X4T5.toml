@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨਵਾਨਾਂ ਲਈ ਨੀਂਦ ਵੀ ਜਾਗਰਤਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਾਂ ਰਾ ਖ਼ਾਬ ਹਮ ਬੇਦਾਰੀ ਅਸਤ ।੩੦੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

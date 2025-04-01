@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਸਭਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਨ = ਚਰਨਾਂ ਦੀ ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣ) ਰਾਜਸ ਤਾਮਸ ਸਾਤਕ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜ, ਤਾਮ, ਸਾਤਕੁ = ਰਾਜਸ, ਤਾਮਸ, ਸਾਤਕ (ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣ), ਇਹਨਾਂ ਗੁਣਾਂ ਦੇ ਪ੍ਰਭਾਵ ਵਿਚ ਰਹਿਣ ਵਾਲੇ ਸਾਰੇ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

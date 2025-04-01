@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ!) ਤੂੰ (ਧੱਕੇ ਧੋੜੇ ਕਰ ਕੇ) ਮਾਇਆ ਇਕੱਠੀ ਕਰਦਾ ਹੈਂ (ਜਿਸ ਕਰਕੇ ਲੋਕਾਂ ਦੀਆਂ) ਬਦ-ਅਸੀਸਾਂ ਲੈਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਦ ਦੁਆਇ = ਬਦ ਅਸੀਸਾਂ। ਇਕਤ = ਇਕਤ੍ਰ, ਇਕੱਠੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

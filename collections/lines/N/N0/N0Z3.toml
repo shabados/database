@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨਾ ਮੋਤੀ ਮਾਇਆ ਦੇ ਸਾਰੇ ਸਰੂਪ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟੰਤ = ਘਟਦੇ ਹਨ, ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ। ਕਨਿਕ = ਸੋਨਾ। ਮਾਨਿਕ = ਮੋਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

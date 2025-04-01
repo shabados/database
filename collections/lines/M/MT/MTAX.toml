@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮਨ ਵਿਚ (ਗੁਰੂ ਪਰਮੇਸਰ ਵਾਸਤੇ) ਅਟੱਲ ਸਰਧਾ (ਬਣ ਜਾਂਦੀ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਮਨਿ = ਦੇ ਮਨ ਵਿਚ। ਸਾਚਾ = ਅਟੱਲ। ਬਿਸ੍ਵਾਸੁ = ਸਰਧਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਦਾਤਾਂ ਦੇਣ-ਜੋਗ ਹੈਂ, ਮੈਂ ਤੈਨੂੰ ਸਦਾ ਚੇਤੇ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਾਰਿਆ = ਚੇਤੇ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

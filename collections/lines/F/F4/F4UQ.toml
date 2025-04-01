@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਨਕ ਦਾ ਖਸਮ-ਪ੍ਰਭੂ ਉਹ ਹੈ ਜਿਸ ਦਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹਰੇਕ ਜੀਵ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਕਾ = {ਲਫ਼ਜ਼ 'ਜਿਸ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਾ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਜੇਹੀ ਸੰਗਤ ਤੈਨੂੰ ਮਨੁਖਤਾ ਬਖਸ਼ੇਗੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਬਰਾਏ ਮਰਦਮੀ ਮੀ-ਸ਼ਾਇਦਤ ।੧੯੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਕਮਾਲ ਕਮਾਲਾਂ ਦਾ ਕਮਾਲ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਕਮਾਲਿ ਤੋ ਕਮਾਲਸਤੋ ਕਮਾਲਸਤੋ ਕਮਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

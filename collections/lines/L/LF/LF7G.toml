@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਮੋਨੀ ਹਨ, ਜੋ ਇਕ-ਰਸ ਬ੍ਰਿਤੀ ਜੋੜ ਕੇ ਬੈਠ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਨਿ = ਚੁੱਪ ਰਹਿਣ ਵਾਲੇ। ਲਿਵ ਲਾਇ ਤਾਰ = ਲਿਵ ਦੀ ਤਾਰ ਲਾ ਕੇ, ਇਕ-ਰਸ ਲਿਵ ਲਾ ਕੇ, ਇਕ-ਰਸ ਬ੍ਰਿਤੀ ਜੋੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

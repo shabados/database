@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੂੰ ਹਰ ਵੇਲੇ ਰਿਜ਼ਕ ਦੇ ਹੀ ਫ਼ਿਕਰ ਵਿਚ ਰਹਿੰਦਾ ਹੈਂ, ਵੇਖ) ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਜਿੰਦ ਦਿੱਤੀ ਹੈ, ਉਹ ਰਿਜ਼ਕ ਭੀ ਅਪੜਾਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਜੀਉ = ਜਿੰਦ। ਅੰਬਰਾਵੈ = ਅਪੜਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਸਾਰਾ ਦੁਖ-ਸੁਖ ਇਕ-ਸਮਾਨ ਪ੍ਰਤੀਤ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਨ = ਗਰਮੀ, ਦੁੱਖ। ਸੀਤ = ਸਰਦੀ, ਸੁਖ। ਸਮਸਰਿ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

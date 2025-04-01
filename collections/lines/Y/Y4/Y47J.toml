@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਵਾਸਤੇ (ਤਾਂ) ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਦੀ ਸਰਨ ਅਨੇਕਾਂ ਕਿਲ੍ਹੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੜ = ਕਿਲ੍ਹੇ। ਕੋਟ = ਕਿਲ੍ਹੇ। ਹਮਾਰੈ = ਮੇਰੇ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਨਿਰੰਕਾਰ ਸਦਾ ਵੇਪਰਵਾਹ ਹੈ ਤੇ ਪਰਸੰਨ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਵਿਗਸੈ = ਖਿੜ ਰਿਹਾ ਹੈ, ਪਰਸੰਨ ਹੈ। ਵੇਪਰਵਾਹੁ = ਬੇਫਿਕਰ, ਚਿੰਤਾ ਤੋਂ ਰਹਿਤ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

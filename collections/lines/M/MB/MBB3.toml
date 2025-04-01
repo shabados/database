@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਤੋਂ) ਬਚ ਨਹੀਂ ਸਕਦਾ, (ਸਗੋਂ) ਜੀਵ ਮਾਇਆ ਦੇ ਜਾਲ ਵਿਚ ਤੇ ਮੋਹ ਵਿਚ ਫਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਬਿਆਪਹਿ = ਫਸ ਜਾਂਦੇ ਹਨ। ਜਾਲਿ = ਜਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

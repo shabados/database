@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਹਵਾ ਪਾਣੀ ਤੇ ਅੱਗਾਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸੰਤਰ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

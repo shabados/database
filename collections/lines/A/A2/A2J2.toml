@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਧਿਆਨ ਤੋਂ ਬਿਨਾਂ ਹਰ ਦੂਜੀ ਦੁਨਿਆਵੀ ਚੀਜ਼ ਦੇ ਬੰਧਨਾਂ ਵਿਚ ਪੈਣਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ਿਆਲਿ ਗ਼ੈਰਿ ਹੱਕ ਵਾਰੁਸਤਨ ਅਸਤ ।੨੭੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਸ) ਇੱਕ ਗੋਬਿੰਦ ਨੂੰ ਆਪਣਾ ਸੱਜਣ ਮਿੱਤਰ ਸਾਥੀ ਬਣਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖਾ = ਮਿੱਤਰ। ਕਰਿ = ਬਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

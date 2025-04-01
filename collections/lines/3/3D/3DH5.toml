@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਰੀ) ਧਰਤੀ ਦਾ ਰਾਜ (ਭੀ) ਰੇਤ ਦੀ ਕੰਧ ਵਰਗਾ ਹੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰੂ = ਰੇਤ। ਭੀਤਿ = ਕੰਧ। ਬਸੁਧਾ = ਧਰਤੀ। ਕੋ = ਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

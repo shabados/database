@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਾਲਕ ਨੇ ਇਹ ਬੱਦਲ ਘੱਲਿਆ ਹੈ ਉਸ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਚੇਤੇ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਠਾਇਆ = ਭੇਜਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

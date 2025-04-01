@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਹੜਾ ਵੇਸ ਮੈਂ ਕਰਾਂ ਜਿਸ ਨਾਲ (ਮੇਰਾ) ਖਸਮ (ਮੇਰੇ) ਵੱਸ ਵਿਚ ਆ ਜਾਏ? ॥੧੨੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਜਿਤੁ = ਜਿਸ (ਵੇਸ) ਨਾਲ। ਵਸਿ = ਵੱਸ ਵਿਚ ॥੧੨੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

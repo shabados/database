@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਉਸ ਨੇ ਆਸਮਾਨ ਦਾ ਰੰਗ ਨੀਲਾ ਕਰ ਦਿੱਤਾ ਅਤੇ ਉਸ ਦਾ ਦਿਲ ਸਾੜ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਬਸਕਿ ਦੂਦਿ ਆਹਿ ਮਨ ਅਜ਼ ਆਸਮਾਂ ਗੁਜ਼ਸ਼ਤ ।੮।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

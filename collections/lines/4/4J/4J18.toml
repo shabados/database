@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ ਮੂਰਖ ਮਨ! ਅਡੋਲਤਾ ਵਿਚ ਟਿਕਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ, ਆਪਣੇ ਆਪ ਵਿਚ, ਅਡੋਲਤਾ ਵਿਚ। ਮੁਗਧ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

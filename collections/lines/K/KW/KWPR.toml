@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਪਿਆਰ ਨੇ ਹਰ ਕਿਸੇ ਨੂੰ ਢਾਹ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਇਸ਼ਕਿ ਮੌਲਾ ਹਰ ਕਿ ਰਾ ਮਿਸਮਾਰ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

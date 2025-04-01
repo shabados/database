@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰ ਰੋਜ਼) ਤਿੰਨ ਵੇਲੇ ਗਾਯਤ੍ਰੀ ਮੰਤ੍ਰ ਨੂੰ ਵਿਚਾਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰੈਪਾਲ = ਤਿੰਨ ਪਾਲਾਂ ਵਾਲੀ, ਗਾਯਤ੍ਰੀ ਮੰਤ੍ਰ। ਤਿਹਾਲ = ਤ੍ਰਿਹ ਕਾਲ, ਤਿੰਨ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

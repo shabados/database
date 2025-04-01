@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਵੀਰ! ਹੇ ਮੇਰੇ ਮਿੱਤਰ!) ਇਸ ਕੰਮ ਦੇ ਕਰਨ ਨਾਲ ਤੇਰੇ (ਅੰਦਰੋਂ) ਵਿਕਾਰ ਨੱਸ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹ ਕਾਰਜਿ = ਇਸ ਕੰਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

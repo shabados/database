@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬੀ ਗਿਆਨ ਗੋਸ਼ਟ ਨੂੰ ਉਸੇ ਤੋਂ ਹੀ ਚਮਕ ਦਮਕ ਪ੍ਰਾਪਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਲਾਇ ਮਕਾਲਿ ਹੱਕ ਆਮਦ ਅਜ਼ੋ ।"
+page = 5
+line = 79
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

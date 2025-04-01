@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਤੁਸੀਂ ਹੀ) ਮੈਨੂੰ ਰਾਹ ਦੱਸੋ ਕਿ ਮੈਂ ਪ੍ਰਭੂ ਨੂੰ ਕਿਵੇਂ ਮਿਲਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹੋ = ਹੇ ਸੰਤ ਜਨੋ! ਕਿਉ = ਕਿਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -42,6 +42,12 @@ language = "pa"
 data = "ਤਾਂ ਉਹ ਮਨੁੱਖ ਮੂਰਖਾਂ-ਸਿਰ-ਮੂਰਖ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ ॥੨੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਿਖੀਐ = (ਉਹ ਬੜਬੋਲਾ) ਲਿਖਿਆ ਜ਼ਾਂਦਾ ਹੈ। ਸਿਰਿ ਗਾਵਾਰਾ ਗਾਵਾਰੁ = ਗਾਵਾਰਾਂ ਦੇ ਸਿਰ ਤੇ ਗਾਵਾਰ, ਮੂਰਖਾਂ ਸਿਰ ਮੂਰਖ, ਮਹਾਂ ਮੂਰਖ ॥੨੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

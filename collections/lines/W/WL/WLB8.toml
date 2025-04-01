@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਦਿਆਂ ਚਿਰ ਨਹੀਂ ਲਾਂਦਾ ॥੪੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਜਲ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਬਾਰ = ਦੇਰ ॥੪੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

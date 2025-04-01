@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਥਾਂ ਚਾਨਣ ਦੇਣ ਵਾਲਾ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਸੂਰਜ ਹੈ ਆਪ ਹੀ ਚੰਦ੍ਰਮਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਸਿ = {शशि} ਚੰਦ੍ਰਮਾ। ਸੂਰਾ = ਸੂਰਜ। ਪੂਰੋ ਪੂਰਾ = ਹਰ ਥਾਂ ਪੂਰਨ, ਹਰ ਥਾਂ ਆਪਣਾ ਚਾਨਣ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

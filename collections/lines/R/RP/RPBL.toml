@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਬੇਅੰਤ ਹੈ ਤੇ ਜਿਸ ਦਾ ਅੰਤ ਕਿਸੇ ਜੀਵ ਨੇ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ = ਕਿਸ ਨੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

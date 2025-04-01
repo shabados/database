@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਹੀ ਇਸ ਮਨ ਦੇ ਵਾਸਤੇ ਜਿੰਦ-ਜਾਨ ਹੈ, ਤੇ, ਸੁਖ ਹੈ। ਮੇਰੇ ਵਾਸਤੇ ਤਾਂ ਹਰਿ-ਨਾਮ ਹੀ ਹਰ ਵੇਲੇ ਕੰਮ ਆਉਣ ਵਾਲੀ ਚੀਜ਼ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜਿੰਦ। ਕਉ = ਦੇ ਵਾਸਤੇ। ਬਰਤਨਿ = ਹਰ ਵੇਲੇ ਕੰਮ ਆਉਣ ਵਾਲੀ ਚੀਜ਼। ਹਮਾਰੈ = ਮੇਰੇ ਵਾਸਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

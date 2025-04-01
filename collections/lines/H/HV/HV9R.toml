@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾ੍ਹਮਣੇ ਆਤਮਾਂ ਦਾ ਵਿਹੜਾ ਵੀ ਤੰਗ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਵਦ ਤੰਗ ਪੇਸ਼ਸ਼ ਫ਼ਜ਼ਾਇ ਜ਼ਮੀਰ ।੬੦।"
+page = 2
+line = 60
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

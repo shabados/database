@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੀ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮਿੱਠਾ ਹੈ (ਪਰ ਇਹ ਤੈਨੂੰ ਤਦੋਂ ਹੀ ਸਮਝ ਆਵੇਗੀ) ਜਦੋਂ ਤੂੰ ਚਿੱਤ ਜੋੜ ਕੇ (ਇਹ ਨਾਮ-ਰਸ) ਚੱਖੇਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ = ਜਦੋਂ। ਚਾਖਹਿ = ਤੂੰ ਚੱਖੇਂਗੀ। ਲਾਏ = ਲਾਇ, ਲਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

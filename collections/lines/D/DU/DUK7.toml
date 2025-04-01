@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਵੇਲੇ ਖ਼ੁਦਾ ਨੂੰ ਯਾਦ ਕਰਦੇ ਰਹੋ-ਇਹੀ ਹੈ ਤਸਬੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਲਕੁ = ਖ਼ਲਕਤ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

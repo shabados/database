@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਬੰਦਗੀ ਦੀ ਘਾਲ ਘਾਲ ਕੇ, ਹੇ ਖਸਮ! ਤੇਰੇ ਦਰ ਤੋਂ ਮੰਗ ਮੰਗ ਕੇ ਮਜੂਰੀ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਕਤਿ = ਮੁਸ਼ੱਕਤਿ, ਮਿਹਨਤ ਕਰ ਕੇ। ਦਰਾਹੁ = ਦਰ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

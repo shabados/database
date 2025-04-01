@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ) ਰੂਪ ਵਿਚ ਬੇਮਿਸਾਲ ਹੈ (ਜੋ) ਆਚਰਣ ਵਿਚ ਮੁਕੰਮਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪਿ = ਰੂਪ ਵਿਚ। ਅਨੂਪ = ਉਪਮਾ-ਰਹਿਤ, ਬੇਮਿਸਾਲ। ਆਚਾਰਿ = ਆਚਾਰ ਵਿਚ, ਆਚਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

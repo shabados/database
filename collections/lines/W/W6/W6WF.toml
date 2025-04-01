@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਤਾਂ ਜਿਤਨਾ ਸੁਣਦੇ ਹਨ, ਉਤਨਾ ਹੀ ਬਿਆਨ ਕਰਦੇ ਹਨ (ਪਰ ਸਾਧ ਦੀ ਮਹਿਮਾ ਬਿਆਨ ਤੋਂ ਪਰੇ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤਾ = ਜਿਤਨਾ। ਤੇਤਾ = ਉਤਨਾ। ਬਖਿਆਨਹਿ = ਬਿਆਨ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

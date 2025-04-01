@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਾਤਿਸ਼ਾਹ! (ਮਿਹਰ ਕਰ) ਮੈਂ ਮੂੰਹੋਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਕਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਸਾਲਾਹੀ = ਸਾਲਾਹੀਂ, ਮੈਂ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਾਂ। ਸਚੇ ਸਾਹਾ = ਹੇ ਸਦਾ-ਥਿਰ ਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

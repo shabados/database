@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਤੇਜ-ਪਰਤਾਪ ਸ਼ੁਰੂ ਤੋਂ ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਹੀ ਬੜਾ ਚਲਿਆ ਆ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਸ਼ੁਰੂ ਤੋਂ। ਜੁਗਾਦਿ = ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

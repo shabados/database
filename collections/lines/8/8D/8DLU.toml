@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਅਨੇਕਾਂ ਹੀ ਰਤਨਾਂ ਦੇ, ਦਹੀਂ ਦੇ, ਦੁੱਧ ਦੇ ਸਮੁੰਦਰ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = ਸਮੁੰਦਰ। ਦਧਿ = ਦਹੀਂ। ਖੀਰ = ਦੁੱਧ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੜੀ ਮਿੱਠੀ ਸੁਰ ਨਾਲ ਇੱਕ-ਰਸ ਗੁੰਜਾਰ ਪਾ ਰਹੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧੁਰ = ਮਿੱਠੀ। ਧੁਨਿ = ਸੁਰ। ਅਨਹਤ = ਇੱਕ-ਰਸ। ਗਾਜੈ = ਗੱਜ ਰਹੀ ਹੈ, ਗੁੰਜਾਰ ਪਾ ਰਹੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

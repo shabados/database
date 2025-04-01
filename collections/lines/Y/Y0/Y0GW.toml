@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਮਾਇਆ) ਭੱਜ ਕੇ ਸੰਤਾਂ ਦੇ ਲੜ ਲੱਗਣ ਦੀ ਕੋਸ਼ਸ਼ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹ = ਉਹ ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਚਾਰੇ ਕੁੱਚ ਤੀਲਾ ਤੀਲਾ ਹੋ ਰਹੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੂਏ ਫਾਲ = ਤੀਲਾ ਤੀਲਾ ਹੋ ਗਏ ਹਨ, ਖਿਲਰੇ ਰਹਿੰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

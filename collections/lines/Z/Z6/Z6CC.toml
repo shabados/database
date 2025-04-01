@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਾਮ (ਮਿਹਰ ਕਰ) ਮੇਰਾ ਮਨ ਤੇਰੇ (ਨਾਮ) ਵਿਚ ਰੰਗਿਆ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ = ਨਾਲ। ਰਾਤੇ = ਰੰਗਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

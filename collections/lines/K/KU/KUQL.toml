@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਜੀਵਾਂ ਨੇ ਪੰਜ ਪੰਜ ਲੱਖ ਦੀ ਜਾਇਦਾਦ ਜੋੜ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਹੂ = ਕਈ ਜੀਵਾਂ ਨੇ, ਜਿਨ੍ਹਾਂ ਜੀਵਾਂ ਨੇ। ਜੋਰੀ = ਇਕੱਠੀ ਕਰ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

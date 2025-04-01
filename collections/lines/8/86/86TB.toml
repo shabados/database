@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਅਵਸਥਾ ਨੂੰ ਜਨਮ ਮਰਨ ਤੇ ਬੁਢੇਪਾ ਪੋਹ ਨਹੀਂ ਸਕਦੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਰਤੁ = ਮੌਤ। ਜਰਾ = ਬੁਢੇਪਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

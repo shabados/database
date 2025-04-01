@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦ ਤਕ ਗਾਵਣ ਦੀ ਸਮਰਥਾ ਹੈ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਿ ਲੇਹਿ = ਗਾ ਲੈ, ਗਾਇਆ ਕਰ। ਗਾਵਨਹਾਰੇ = ਹੇ ਗਾਉਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

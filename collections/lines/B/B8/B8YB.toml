@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨਵਾਨ ਦੀ ਅੱਖ ਹੀ ਰੱਬ ਦੇ ਦੀਦਾਰ ਯੋਗ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਆਰਿਫ਼ ਕਾਬਲਿ ਦੀਦਾਰ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

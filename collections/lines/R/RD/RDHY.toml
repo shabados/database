@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਪ੍ਰਭੂ ਨਿਖਸਮਿਆਂ ਦਾ ਖਸਮ ਹੈ, ਇਕ ਖਿਨ ਵਿਚ ਕੰਗਾਲ ਨੂੰ ਰਾਜਾ ਬਣਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਕ = ਕੰਗਾਲ। ਤੇ = ਤੋਂ। ਰਾਉ = ਰਾਜਾ। ਭੀਤਰਿ = ਵਿਚ। ਕੋ = ਦਾ। ਨਾਥ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

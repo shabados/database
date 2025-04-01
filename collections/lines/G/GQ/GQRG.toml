@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮੂੰਹ ਨਾਲ ਮਨੁੱਖ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ, ਤੇ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਸੁਆਦਲੇ ਪਦਾਰਥ ਖਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਮੁਖਿ = ਜਿਸ ਮੂੰਹ ਨਾਲ। ਰਸ ਖਾਹਿ = ਸੁਆਦਲੇ ਪਦਾਰਥ ਖਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

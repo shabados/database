@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਆਪਣੇ ਹੀ ਅਹੰਕਾਰ ਵਿਚ ਸੜ ਰਿਹਾ ਹੈ, ਵੇਖੀਂ ਕਿਤੇ ਤੂੰ ਭੀ (ਅਹੰਕਾਰ ਵਿਚ ਪੈ ਕੇ) ਆਪਣੇ ਆਪ ਦਾ ਨਾਸ ਨਾ ਕਰ ਲਈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰਕਾਰਿ = ਅਹੰਕਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

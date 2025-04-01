@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਗ਼ਰੀਬੀ (ਸਹਾਰਦਿਆਂ ਭੀ) ਆਨੰਦ ਹੈ ਕਿਉਂਕਿ ਉਸ (ਸਾਧ ਸੰਗਤਿ) ਵਿਚ ਪਰਮਾਤਮਾ ਚਿੱਤ ਵਿਚ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ। ਚਿਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

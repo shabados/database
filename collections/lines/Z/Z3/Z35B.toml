@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਫਿਰ ਮਨ) ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

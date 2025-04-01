@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੂੰ ਡੰਡਾ, ਮੁੰਦ੍ਰਾ, ਖ਼ਫ਼ਨੀ ਤੇ ਝੋਲੀ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿੰਥਾ = ਗੋਦੜੀ, ਖ਼ਫ਼ਨੀ। ਆਧਾਰੀ = ਝੋਲੀ ਜਿਸ ਵਿਚ ਜੋਗੀ ਭਿੱਛਿਆ ਮੰਗ ਕੇ ਪਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

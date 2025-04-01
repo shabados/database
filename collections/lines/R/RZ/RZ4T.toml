@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਇਹੀ ਆਖਦਾ ਹੈ 'ਇਹ ਮੇਰਾ ਹੈ, ਇਹ ਮੇਰਾ ਹੈ', ਕਿਉਂ ਕਿ ਚਿੱਤ ਮੋਹ ਨਾਲ ਬੱਝਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰਉ = ਮੇਰਾ। ਹਿਤ = ਮੋਹ। ਸਿਉ = ਨਾਲ। ਬਾਧਿਓ = ਬੱਝਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

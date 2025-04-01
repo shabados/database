@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਾਰੀ ਉਮਰ) ਪਾਪ ਕਰ ਕਰ ਕੇ ਹੀ ਮਨੁੱਖ ਆਪਣੇ ਵਰਤਣ ਲਈ ਧਨ ਇਕੱਠਾ ਕਰਦਾ ਰਿਹਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬੁ = {द्रव्य} ਧਨ। ਕੀਆ = ਇਕੱਠਾ ਕੀਤਾ। ਕੈ ਤਾਈ = ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

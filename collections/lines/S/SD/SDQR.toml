@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਰਾਜ ਭੀ ਕਰ ਤੇ ਜੋਗ ਭੀ ਕਮਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜਨ ਜੋਗੁ = ਰਾਜ-ਜੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

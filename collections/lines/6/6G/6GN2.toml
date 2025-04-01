@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਨਾਖਸ਼) ਹੱਥ ਵਿਚ ਤਲਵਾਰ ਫੜ ਕੇ ਬੜੇ ਅਹੰਕਾਰ ਨਾਲ (ਪ੍ਰਹਿਲਾਦ ਉੱਤੇ) ਟੁੱਟ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = ਹੱਥ ਵਿਚ। ਖੜਗੁ = ਤਲਵਾਰ। ਕਰਿ = ਕਰ ਕੇ, ਲੈ ਕੇ। ਅਤਿ ਅਹੰਕਾਰਿ = ਬੜੇ ਹੀ ਅਹੰਕਾਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਦਕਾ ਜਾਨ ਅਤੇ ਦਿਲ ਗੁਲਜ਼ਾਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਨੋ ਦਿਲ ਗੁਲਸ਼ਨ ਜ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੫।"
+page = 10
+line = 145
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

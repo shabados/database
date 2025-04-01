@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਖ਼ਾਨਦਾਨ ਦੇ ਨੀਚ ਲੋਕ ਬਨਾਰਸ ਦੇ ਆਸੇ-ਪਾਸੇ (ਵੱਸਦੇ ਹਨ ਤੇ) ਅਜੇ ਤਕ ਮੋਏ ਹੋਏ ਪਸ਼ੂ ਢੋਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢੇਢ = ਨੀਚ ਜਾਤ ਦੇ ਬੰਦੇ। ਅਜਹੁ = ਅਜੇ ਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

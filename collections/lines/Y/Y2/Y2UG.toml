@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੱਚੇ ਦਿਲੋਂ ਗੁਰੂ ਦਾ ਹੁਕਮ ਮੰਨੀਏ, ਤਾਂ ਭਟਕਣਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸੰਗੁ = ਝਾਕਾ ਉਤਾਰ ਕੇ, ਸੱਚੇ ਦਿਲੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

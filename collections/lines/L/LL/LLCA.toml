@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਹੇ ਮੇਰੇ ਭਾਈ! ਤੁਸੀਂ ਵੀ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਰੀਰ-ਪੈਲੀ ਵਿੱਚ ਬੀਜਿਆ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਤੀ = ਸਰੀਰ ਪੈਲੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

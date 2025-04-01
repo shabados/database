@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਰਾਮ ਇਹੋ ਜਿਹਾ ਹੈ ਕਿ ਉਹ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਪੂਰਿ = ਵਿਆਪਕ, ਹਰ ਥਾਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

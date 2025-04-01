@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ ਗੁਣ (ਇਸ ਵੇਲੇ) ਗਾ ਲੈ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਹੀ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਤੇਰੀ ਇੱਜ਼ਤ ਰਹਿ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤਾ = ਹੇ ਮਿੱਤਰ! ਲਾਜ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

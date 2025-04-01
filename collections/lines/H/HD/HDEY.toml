@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੇ ਇਹ ਪੰਡਤ ਰੱਬ (ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ) ਦਾ ਕੰਮ ਜਾਣਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੰ ਕਰਮੰ = ਬ੍ਰਹਮ ਦੇ ਕੰਮ, ਰੱਬ ਦੀ (ਬੰਦਗੀ) ਦੇ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

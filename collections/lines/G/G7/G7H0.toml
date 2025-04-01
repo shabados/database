@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਹੇ ਮਿੱਤਰ! ਕਦੇ ਕਿਸੇ ਦਾ ਬੁਰਾ ਨਾਹ ਚਿਤਵਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਕਾ = ਕਿਸੇ ਹੋਰ ਦਾ। ਨ ਰਾਖਹੁ ਚੀਤ = ਨਾਹ ਚਿਤਵਿਆ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

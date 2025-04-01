@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਜਗਤ ਜਾਣਦਾ ਹੈ ਕਿ) ਤੁਹਮਤਾਂ ਲਾਣ ਦਾ ਇਹ ਕਸਬ ਝੂਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਉਹਾਰ = (ਤੁਹਮਤਾਂ ਲਾਣ ਵਾਲਾ) ਕਸਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

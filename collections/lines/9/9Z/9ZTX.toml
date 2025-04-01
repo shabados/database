@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ (ਵਡ-ਭਾਗੀ) ਮਨੁੱਖਾਂ ਨੇ ਗੁਰੂ ਨਾਲ ਪਿਆਰ ਪਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ = ਜਿਨ੍ਹਾਂ ਨੇ {ਨੋਟ: 'ਜਿਨ' ਬਹੁ-ਵਚਨ ਹੈ। 'ਜਿਨਿ' ਇਕ-ਵਚਨ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

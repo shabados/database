@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ) ਬਾਂਹ ਫੜ ਕੇ (ਮੈਨੂੰ) ਬਚਾ ਲੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਿ = ਫੜ ਕੇ। ਭੁਜਾ = ਬਾਂਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਵੀਰ!) ਨਾਹ ਇਹ ਸਰੀਰ ਸਦਾ ਨਾਲ ਨਿਭੇਗਾ, ਨਾਹ ਇਹ ਸੋਹਣੇ ਅੰਗ ਹੀ ਸਦਾ ਕਾਇਮ ਰਹਿਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਾਇਗਾ = ਸਦਾ ਨਹੀਂ ਨਿਭੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

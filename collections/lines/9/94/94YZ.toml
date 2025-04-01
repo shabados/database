@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾ (ਜੀਵਨ-ਰਾਹ ਦੱਸਣ ਵਾਲਾ) ਕੋਈ ਮਦਦਗਾਰ ਨਹੀਂ ਬਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਲੀ = ਮਦਦ ਕਰਨ ਵਾਲਾ, ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

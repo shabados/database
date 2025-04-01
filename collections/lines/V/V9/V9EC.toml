@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰ, ਤੇਰੀ ਕਿਸਮਤ ਜਾਗ ਪਏਗੀ ॥੨॥੪॥੧੫੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗੁ = ਕਿਸਮਤ ॥੨॥੪॥੧੫੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

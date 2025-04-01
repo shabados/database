@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਪਾਸੋਂ) ਮੈਂ ਪੁੱਛਦਾ ਹਾਂ-ਹੇ ਗੁਰੂ! ਮੇਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਕਿਹੋ ਜਿਹਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਛਉ = ਪੂਛਉਂ, ਮੈਂ ਪੁੱਛਦਾ ਹਾਂ। ਸੰਤ = ਹੇ ਸੰਤ! ਹੇ ਗੁਰੂ! ਕੈਸਾ = ਕਿਹੋ ਜਿਹਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

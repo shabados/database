@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਗਤ ਦੇ ਮਾਲਕ (ਪ੍ਰਭੂ) ਦੀ ਸਦਾ ਜੈ ਜੈਕਾਰ ਆਖਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦੀਸ ਜੈ ਜੈਕਾਰੁ = ਜਗਤ ਦੇ ਮਾਲਕ ਦੀ ਜੈ ਜੈਕਾਰ। ਜੈ = ਜਿੱਤ। ਜੈਕਾਰੁ = ਸਦਾ ਦੀ ਜਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

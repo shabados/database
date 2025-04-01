@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੰਪਟ! ਇਹ ਨਾਚ ਕੋਈ ਧਰਮ (ਦਾ ਕੰਮ) ਨਹੀਂ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ ਲੰਪਟ = ਹੇ ਵਿਸ਼ਈ! ਅਧਰਮੰ = ਧਰਮ ਲਈ ਨਹੀਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

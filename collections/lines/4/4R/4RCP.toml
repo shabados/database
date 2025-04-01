@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਪ੍ਰਭੂ ਨੇ ਜਿਨ੍ਹਾਂ ਉਤੇ ਮੇਹਰ ਕੀਤੀ, ਉਹਨਾਂ ਨੂੰ ਗੁਰੂ ਦੀ ਸੇਵਾ ਵਿਚ ਜੋੜ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਤੇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

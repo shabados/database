@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਰਮ-ਕਾਂਡ ਵਿਚ ਹੀ ਫਸਿਆ) ਅੰਨ੍ਹਾ ਮੂਰਖ ਮਨੁੱਖ ਅਸਲੀਅਤ ਨਹੀਂ ਸਮਝ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੁ = ਅਸਲੀਅਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

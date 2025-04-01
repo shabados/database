@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਪਏਂ ਉਸ ਨੂੰ ਮੌਤ ਦੇ ਡਰ-ਸਹਿਮ ਨਹੀਂ ਰਹਿ ਜਾਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਦੁਖ = ਜਮਾਂ ਦੇ ਦੁੱਖ-ਸਹਿਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

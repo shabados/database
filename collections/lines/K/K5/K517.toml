@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ) ਸਦਾ ਯਾਦ ਕਰਦਾ ਹਾਂ, ਮੈਂ ਕਿਸੇ ਹੋਰ ਦੀ ਪੂਜਾ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਾ = ਚੇਤਾਂ, ਮੈਂ ਚੇਤੇ ਕਰਦਾ ਹਾਂ। ਪੂਜਾ = ਪੂਜਾਂ, ਮੈਂ ਪੂਜਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

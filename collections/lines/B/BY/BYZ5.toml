@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਰੌਲਾ ਪਾਣ ਵਾਲੇ ਤੇ ਡਰਾਉਣੇ ਭੂਤਾਂ ਵਰਗੇ ਕਾਮਾਦਿਕ ਵੈਰੀ ਵੱਸਦੇ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁੰਦਰ = ਰੌਲਾ ਪਾਣ ਵਾਲੇ। ਦੂਤ = ਕਾਮਾਦਿਕ ਵੈਰੀ। ਭੀਹਾਲੇ = ਭਿਆਨਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

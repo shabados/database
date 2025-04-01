@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲੇ ਮਨੁੱਖ! ਤੂੰ (ਪਰਮਾਤਮਾ ਨਾਲ) ਜਾਣ-ਪਛਾਣ (ਕਰਨ) ਦੀ ਸੂਝ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਰੇ = ਹੇ ਕਮਲੇ! ਤੈ = ਤੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

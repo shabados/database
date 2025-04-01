@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਮੁਰਾਰੀ-ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਿਆਂ ਸਾਰੇ ਰੋਗ ਫ਼ਿਕਰ ਸਾਰੇ ਐਬ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹਰੇਕ ਜੁਗ ਵਿਚ ਤੇਰੇ ਸੰਤ ਨੇਕ ਬੰਦੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਿ ਜੁਗਿ = ਹਰੇਕ ਜੁਗ ਵਿਚ। ਪ੍ਰਭੂ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

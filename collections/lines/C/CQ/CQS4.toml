@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਤਾ ਨਹੀਂ ਮਨੁੱਖ ਕਿਉਂ ਆਪਣਾ ਜੀਵਨ ਅਜਾਈਂ ਬਰਬਾਦ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਿਉਂ? ਗਵਾਵੈ = ਗਵਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

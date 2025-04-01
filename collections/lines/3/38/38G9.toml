@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਤੀਰਥਾਂ ਉੱਤੇ) ਇਸ਼ਨਾਨ (ਭੀ) ਕਰਦਾ ਹੈ ਪਰ (ਇਸ ਤਰ੍ਹਾਂ ਉਸ ਦੀ) ਹਉਮੈ ਦੀ ਮੈਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੁ = ਪਰੰਤੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

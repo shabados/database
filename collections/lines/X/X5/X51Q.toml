@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਰਾਮ! ਮੈਨੂੰ ਲੋਕ ਆਖਦੇ ਹਨ-) ਤੂੰ ਸਾਰੀ ਉਮਰ ਕਾਂਸ਼ੀ ਵਿਚ ਵਿਅਰਥ ਗੁਜ਼ਾਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਜਨਮੁ = ਸਾਰੀ ਉਮਰ। ਸਿਵਪੁਰੀ = ਸ਼ਿਵ ਦੀ ਨਗਰੀ ਕਾਂਸ਼ੀ ਵਿਚ। ਗਵਾਇਆ = ਵਿਅਰਥ ਗੁਜ਼ਾਰ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

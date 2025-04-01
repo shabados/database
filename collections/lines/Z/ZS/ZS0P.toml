@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ) ਅੱਖਾਂ ਨਾਲ (ਦਰਸਨ ਕਰ ਕੇ) ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਕਰਦਾ ਰਹਾਂ, ਉਹਨਾਂ ਦੇ ਚਰਨ ਆਪਣੇ ਕੇਸਾਂ ਨਾਲ ਝਾੜਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨਹੁ ਸੰਗਿ = ਅੱਖਾਂ ਨਾਲ। ਝਾਰੀ = ਝਾਰੀਂ, ਮੈਂ ਝਾੜਦਾ ਹਾਂ। ਕੇਸਾਇਓ = ਕੇਸਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

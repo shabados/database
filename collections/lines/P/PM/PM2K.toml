@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਹੀ ਮਨੁੱਖ ਅਡੋਲ-ਚਿੱਤ ਹੋ ਕੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੀ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਅਸਥਿਰੁ = ਅਡੋਲ-ਚਿੱਤ (ਹੋ ਕੇ)। ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

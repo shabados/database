@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਨਾਥ ਪ੍ਰਭੂ! ਮੈਂ ਹੋਰ ਕਿਸ ਅੱਗੇ ਅਰਜ਼ੋਈ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਉ ਕਾਹਿ = ਕਿਸ ਨੂੰ ਦੱਸਾਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

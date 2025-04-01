@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦਾ ਸਹਾਰਾ ਦਾਤਾਰ ਜੋ ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮ ਅਨੁਸਾਰ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈ ਉਹ ਆਪ ਹੀ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਿ = (ਜੀਵ ਦੇ ਕੀਤੇ) ਕਰਮ ਅਨੁਸਾਰ। ਬਿਧਾਤਾ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

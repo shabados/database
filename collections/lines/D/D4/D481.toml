@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਆਖ਼ਰ ਰੱਖਿਆ ਕਰਨ ਜੋਗਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਦਾਨ = ਆਖ਼ਰ ਨੂੰ, ਜਦੋਂ ਹੋਰ ਸਾਰੀਆਂ ਆਸਾਂ ਮੁੱਕ ਜਾਣ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

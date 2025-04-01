@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਪਰਪੱਕ ਅਤੇ ਪਰਬੀਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਚੁਨਾਣ ਦਰ ਯਾਦਿ ਹੱਕ ਦਾਰੰਦ ਦਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

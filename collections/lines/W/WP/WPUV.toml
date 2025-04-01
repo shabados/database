@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਜ਼ਾ ਨੂੰ) ਮੰਨਣ ਤੋਂ ਬਿਨਾ (ਮਿੱਟੀ ਵਿਚ) ਮਿਲ ਕੇ ਮਿੱਟੀ ਹੋ ਜਾਏਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਲਿ = ਮਿਲ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

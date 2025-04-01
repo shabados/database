@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਇਕ ਪ੍ਰਭੂ ਦਾ ਹੀ ਆਸਰਾ-ਪਰਨਾ ਲੈਂਦਾ ਹੈ, ਕਿਸੇ ਹੋਰ ਨੂੰ ਆਪਣਾ ਆਸਰਾ ਨਹੀਂ ਸਮਝਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਓਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

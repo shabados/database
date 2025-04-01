@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਸਿਦਕ ਸਫਾਈ ਦੇ ਰਾਜ ਦਾ ਰਖਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂਬਾਨਿ ਇਕਲੀਮ ਸਿਦਕੋ ਸਫ਼ਾ ।੬੯।"
+page = 4
+line = 69
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

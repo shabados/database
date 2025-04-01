@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਘੜੀਆਲ ਨੂੰ) ਹਰੇਕ ਘੜੀ ਪਿਛੋਂ ਮਾਰ ਪੈਂਦੀ ਹੈ, ਹਰੇਕ ਪਹਿਰ ਮਗਰੋਂ (ਇਹ) ਕੁੱਟ ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੜੀਏ ਘੜੀਏ = ਘੜੀ ਘੜੀ ਪਿੱਛੋਂ। ਪਹਰੀ = ਹਰੇਕ ਪਹਿਰ ਮਗਰੋਂ। ਸਜਾਇ = ਦੰਡ, ਕੁੱਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

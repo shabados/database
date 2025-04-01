@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਨੇ (ਮਾਨੋ) ਸਿਮ੍ਰਿਤੀਆਂ ਸ਼ਾਸਤ੍ਰਾਂ ਵੇਦਾਂ ਦੇ ਉਚਾਰਨ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਾਨੇ = ਉਚਾਰੇ, ਪੜ੍ਹ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੇਰੀ ਓਟ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਹੈ, ਨਾਹ ਉਹ ਘਟਦੀ ਹੈ ਨਾਹ ਉਹ ਖ਼ਤਮ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੀ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ। ਨ ਜਾਇ = ਮੁੱਕਦੀ ਨਹੀਂ, ਨਾਸ ਨਹੀਂ ਹੁੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

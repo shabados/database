@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਬੜਾ ਸਿਆਣਾ ਵੱਡਾ ਸ਼ਾਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਣਾ = ਦਾਨਾ, ਸਿਆਣਾ। ਸਾਹਾ = ਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

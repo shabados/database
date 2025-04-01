@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦਾ ਦਰਸਨ ਕਰ ਕੇ ਮੇਰੀਆਂ ਅੱਖਾਂ ਵਿਚ (ਅਜਿਹਾ) ਪ੍ਰੇਮ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਨੈਨ = ਅੱਖਾਂ ਵਿਚ। ਰੰਗਾ = ਪ੍ਰੇਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

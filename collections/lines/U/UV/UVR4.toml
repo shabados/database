@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਸਾਡਾ ਇਹ ਜੀਵਨ-ਪੰਧ ਬੜਾ ਭਿਆਨਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟ = ਜੀਵਨ-ਸਫ਼ਰ। ਉਡੀਣੀ = ਦੁਖਦਾਈ, ਚਿੰਤਾਤੁਰ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

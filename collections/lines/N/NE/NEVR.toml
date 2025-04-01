@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੌਤ ਨੇ (ਕਦੇ) ਮੁਹੂਰਤ ਨਹੀਂ ਪੁੱਛਿਆ, ਕਦੇ ਇਹ ਗੱਲ ਨਹੀਂ ਪੁੱਛੀ ਕਿ ਅੱਜ ਕੇਹੜੀ ਥਿੱਤ ਹੈ ਕੇਹੜਾ ਵਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਣਿ = ਮਰਨ ਨੇ, ਮੌਤ ਨੇ। ਮੂਰਤੁ = ਮੁਹੂਰਤ। ਵਾਰੁ = ਦਿਨ (ਹਫ਼ਤੇ ਦਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

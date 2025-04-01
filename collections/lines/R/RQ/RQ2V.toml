@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਸਾਰੀ ਲੁਕਾਈ ਤੇਰੀ (ਰਚੀ ਹੋਈ) ਹੈ, ਸਭ ਜੀਵਾਂ ਨੇ (ਔਖੇ ਸੌਖੇ ਵੇਲੇ) ਤੈਨੂੰ ਹੀ ਸਿਮਰਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਲੁਕਾਈ। ਤੂੰ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

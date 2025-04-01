@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਭ ਜੀਵਾਂ ਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਸਭ ਦੇ ਮਨ ਵਿਚ ਤੇਰੇ ਨਾਮ ਦਾ ਹੀ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਾਣੁ = ਬਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

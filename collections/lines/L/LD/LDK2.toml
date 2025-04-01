@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਗੱਲ ਕਹੀ ਨਹੀਂ ਜਾ ਸਕਦੀ ਕਿ ਕਰਤਾਰ ਕਿਸ ਨੂੰ ਮਾਣ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਨੋ ਕਹੀਐ = ਕਿਸੇ ਨੂੰ ਕਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

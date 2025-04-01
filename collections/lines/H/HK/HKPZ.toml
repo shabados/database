@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਆਖਣਾ ਅਖਵਾਣਾ ਸੌਖਾ ਹੈ (ਕਿ ਅਸੀਂ ਤੇਰਾ ਭਾਣਾ ਮੰਨਦੇ ਹਾਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲਾ = ਸੌਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

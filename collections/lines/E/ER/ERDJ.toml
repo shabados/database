@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਕਦੇ ਨਾਹ ਨਾਸ ਹੋਣ ਵਾਲਾ ਤੇਰਾ ਨਾਮ-ਮੰਤ੍ਰ ਮੈਂ ਜਪਣਾ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਨਿਧਾਨ = ਹੇ ਸੁਖਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਅਬਿਨਾਸੀ = ਕਦੇ ਨਾਸ ਨਾਹ ਹੋਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

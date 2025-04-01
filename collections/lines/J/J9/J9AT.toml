@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਚਤੁਰ ਤੇ ਸਿਆਣਾ ਹੈ, ਉਹੀ ਮਨੁੱਖ ਪੰਡਿਤ ਸੂਰਮਾ ਤੇ ਦਾਨਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਾ = ਸੂਰਮਾ। ਦਾਨਾਂ = ਸਿਆਣਾ (wise)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

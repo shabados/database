@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਇਸ ਆਤਮਕ ਅਟੱਲ ਜੀਵਨ ਦੀ ਖ਼ਾਤਰ ਆਪਾ-ਭਾਵ ਮਿਟਾਉਣ ਦੀ ਜਾਚ ਸਿੱਖ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ = ਜੋ ਮਨੁੱਖ। ਜੀਵਨ ਮਰਨਾ = (ਇਸ ਸਦ-) ਜੀਵਨ ਲਈ ਆਪਾ-ਭਾਵ ਮਿਟਾਉਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

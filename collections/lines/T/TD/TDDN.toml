@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਸਾਰਿਆਂ ਨੂੰ ਸੱਚਾ ਮਾਰਗ ਵਿਖਾ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਗਨਾਂ ਰਾ ਤੂ ਰਾਹਿ ਰਾਸਤ ਨੁਮਾਇ ।੪੯।"
+page = 1
+line = 49
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

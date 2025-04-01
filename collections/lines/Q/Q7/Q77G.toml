@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਹਿੰਦੇ ਹਨ ਕਿ) ਬ੍ਰਹਮਾ ਨੇ ਵੇਦਾਂ ਦੀ ਬਾਣੀ ਪਰਗਟ ਕੀਤੀ ਪਰ ਉਸ ਨੇ ਭੀ ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਖਿਲਾਰਾ ਹੀ ਖਿਲਾਰਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੈ = ਬ੍ਰਹਮਾ ਨੇ। ਪਸਾਰਾ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

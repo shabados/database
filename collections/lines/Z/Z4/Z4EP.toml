@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਇਸ ਨੇ (ਆਪਣੇ ਅੰਦਰੋਂ) ਵਿਤਕਰਾ ਦੂਰ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਹਿ = ਇਸ ਨੇ। ਚੁਕਾਈ = ਮੁਕਾ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

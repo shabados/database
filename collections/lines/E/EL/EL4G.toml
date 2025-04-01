@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ) ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਉੱਤੇ ਤੁਰ ਕੇ ਪ੍ਰਹਿਲਾਦ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ ਨਾਲ। ਉਚਰੈ = ਉਚਾਰਦਾ ਹੈ, ਜਪਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

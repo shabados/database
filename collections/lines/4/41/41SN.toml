@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਦੇ ਸਰੀਰ ਵਿਚ ਬੀਮਾਰੀਆਂ ਪੈਦਾ ਹੋਣ ਲਗ ਪਈਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਠਿ ਖਲੋਏ = ਪੈਦਾ ਹੋ ਗਏ। ਰੋਗ = ਕਈ ਰੋਗ (ਨੋਟ: ਲਫ਼ਜ਼ 'ਰੋਗੁ' ਇਕ-ਵਚਨ ਹੈ, ਲਫ਼ਜ਼ 'ਰੋਗ' ਬਹੁ-ਵਚਨ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਮੁਖੜਾ ਰੱਬ ਦਾ ਦਰਸ਼ਨ ਕਰਾਉਣ ਵਾਲਾ ਸ਼ੀਸ਼ਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਈਨਾਇ ਖ਼ੁਦਾਇ-ਨੁਮਾ ਹਸਤ ਰੂਇ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਰੱਬ ਦੇ ਸੋਹਣੇ ਗੁਣ ਤੇ ਸੋਹਣੀਆਂ ਵਡਿਆਈਆਂ ਵਰਣਨ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰ = ਸੁੰਦਰ, ਸੋਹਣੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

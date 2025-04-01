@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁਕਤੀ ਦਾਤੇ! ਹੇ ਸੋਹਣੇ ਪ੍ਰਭੂ! ਹੇ ਲੱਛਮੀ ਦੇ ਪਤੀ ਨਾਰਾਇਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਕੰਦ = {मुकुंदाति इति} ਮੁਕਤੀ ਦੇਣ ਵਾਲਾ। ਲਖਮੀ ਨਾਰਾਇਣ = ਲੱਛਮੀ ਦਾ ਪਤੀ ਨਾਰਾਇਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

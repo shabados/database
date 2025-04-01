@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਹਰੇਕ ਕਿਸਮ ਦਾ ਆਸਰਾ ਖ਼ਤਮ ਹੋ ਜਾਏ, ਹਰੇਕ ਤਰ੍ਹਾਂ ਦਾ ਸਹਾਰਾ ਮੁੱਕ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੁਕੈ = ਮੁੱਕ ਜਾਏ। ਅਸਰਾਉ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

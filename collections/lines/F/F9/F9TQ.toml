@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਸਿਮਰਨ ਨਾਲ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ ਟੁੱਟ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧ = ਬੰਧਨ, ਫਾਹੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

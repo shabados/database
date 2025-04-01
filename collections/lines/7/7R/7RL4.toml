@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਾਇਆ ਦਾ ਅਤੇ ਉਸ ਅਕਾਲ ਪੁਰਖ ਦਾ (ਮੇਲ ਹੋਇਆ) (\"ਕਰਿ ਆਸਣੁ ਡਿਠੋ ਚਾਉ\")।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸ ਗਾ = ਇਸ ਦਾ। ਅਸ = ਅਤੇ। ਉਸ ਗਾ = ਉਸ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

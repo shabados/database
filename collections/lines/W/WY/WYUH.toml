@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਹਰ ਸਰੀਰ ਵਿਚ ਦੀ ਰੂਹ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੂਹ ਦਰ ਹਰ ਜਿਸਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 152
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

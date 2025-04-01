@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਮਾਣੇ ਵਾਸਤੇ ਤੇਰਾ (ਨਾਮ), ਹੇ ਪ੍ਰਭੂ! ਆਦਰ ਮਾਣ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਾਨਾ = ਜਿਸ ਨੂੰ ਕਿਤੇ ਮਾਣ ਆਦਰ ਨਾਹ ਮਿਲੇ, ਦੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

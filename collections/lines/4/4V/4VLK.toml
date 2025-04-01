@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੱਚਾ ਮਨੁੱਖ ਬਿਨਾ ਬੋਲਿਆਂ ਹੀ ਪਛਾਣਿਆ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝੀਐ = ਪਛਾਣਿਆ ਜਾਂਦਾ ਹੈ। ਸਚਿਆਰ = ਸੱਚਾ ਮਨੁੱਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

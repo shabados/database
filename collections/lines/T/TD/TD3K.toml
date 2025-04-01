@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਨ ਵਾਲੇ ਬੰਦੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਬੰਦੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹਰ ਵੇਲੇ) ਸਿਮਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ। ਹਰੇ = ਹਰੀ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰ ਕੇ (ਮਨੁੱਖ) ਆਤਮਕ ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਏ = ਹਾਸਲ ਕਰ ਲਏ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

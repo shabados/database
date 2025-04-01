@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਕਿਸਤਰ੍ਹਾਣ ਚੁੱਪ ਰਹਿ ਸਕਦਾ ਹੈ# ਦੁਹਾਈ ਹੈ - ਕੋਈ ਬਚਾਏ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ ਸ਼ਵਦ ਖ਼ਾਮੋਸ਼ ਗੋਯਾ ਅਲਗ਼ਿਆਸ ।੧੫।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਵਿਦਵਾਨ ਪੰਡਿਤ ਲੋਕ ਲੋਭ ਵਿਚ ਫਸ ਕੇ (ਮਾਇਆ ਦੀ ਹੱਥੀਂ) ਠੱਗੇ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਸਬਾਏ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

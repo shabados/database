@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰਮੁਖਾਂ ਦੇ ਪੈਰ ਪੂਜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ = ਗੁਰਮੁਖਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

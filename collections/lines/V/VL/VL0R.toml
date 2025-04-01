@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮ-ਪੁਸਤਕਾਂ (ਦਾ ਉਪਦੇਸ਼) ਸੁਣਿਆ ਕਰ, ਇਹ ਹਰੀ-ਨਾਮ ਦੀ ਸੌਦਾਗਰੀ ਹੈ, (ਸੌਦਾਗਰੀ ਦਾ ਮਾਲ ਲੱਦਣ ਵਾਸਤੇ) ਉੱਚੇ ਆਚਰਨ ਨੂੰ ਘੋੜੇ ਬਣਾ ਕੇ ਲੈ ਤੁਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਤ = ਧਰਮ-ਪੁਸਤਕ। ਸਤੁ = ਉੱਚਾ ਆਚਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਮੂਹ ਨੂਰ ਦੀ ਮਿਹਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਫ਼ੈਜ਼ਿ ਨੂਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੦੬।"
+page = 10
+line = 106
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

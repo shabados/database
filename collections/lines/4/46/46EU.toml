@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਹੇ ਨਿਰੰਕਾਰ! ਤੈਨੂੰ ਸਿਮਰ ਸਿਮਰ ਕੇ ਭਟਕਣਾ ਤੇ ਡਰ ਦੂਰ ਕਰ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਕਾਰ = ਹੇ ਨਿਰੰਕਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਇਹ (ਸਰੀਰ) ਮਿੱਟੀ ਪਾਣੀ ਨਾਲ ਲਿਬੜਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੈਕਨ ਈਂ ਆਗ਼ਿਸ਼ਤਾਇ ਆਬੋ ਗਿੱਲ ਅਸਤ ।੪੧੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

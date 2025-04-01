@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਮੰਡਲੀਆਂ ਵਿਚ ਗੀਤ ਨਾਦ ਸੁਣ ਕੇ (ਖ਼ੁਸ਼ ਹੋ ਰਹੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਾ = ਟੋਲਾ, ਮੰਡਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

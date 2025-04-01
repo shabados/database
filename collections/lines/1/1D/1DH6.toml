@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਠਾਕਰਾਂ ਨੂੰ ਕਈ ਤਰ੍ਹਾਂ ਦੇ ਭੋਗ ਲਵਾਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਸਾਦ = ਭੋਜਨ, ਠਾਕਰਾਂ ਨੂੰ ਭੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗ-ਸਾਧਨਾਂ ਕਰਨ ਵਾਲੇ ਜੋਗੀ, ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ, ਗਿਆਨ-ਵਾਨ ਬੰਦੇ ਸਮਾਧੀਆਂ ਲਾਂਦੇ ਹਨ (ਪਰ ਉਸ ਦਾ ਅੰਤ ਨਹੀਂ ਜਾਣਦੇ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧਿਕ = ਸਾਧਨਾ ਕਰਨ ਵਾਲੇ। ਸਿਧ = ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

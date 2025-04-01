@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ (ਹੇ ਸਖੀ!) ਕੋਈ ਭੀ ਹੋਰ ਜੀਵ ਉਸ ਦਾ ਕੁਝ ਵਿਗਾੜ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਨਤਿ = ਆਖਦਾ ਹੈ। ਕਰੇ ਕਿਆ ਕੋਇ = ਕੋਇ ਕਿਆ ਕਰੇ? ਕੋਈ ਕੀਹ ਵਿਗਾੜ ਸਕਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

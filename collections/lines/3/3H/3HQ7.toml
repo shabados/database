@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਉਹ ਦਵਾਈ ਜਾਣਦਾ ਹੈ, ਜਿਸ ਦੇ ਵਰਤਣ ਨਾਲ ਇਹ ਮਨ ਵਿਕਾਰਾਂ ਦਾ ਅਸਰ ਕਬੂਲਣੋਂ ਹਟ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਇ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

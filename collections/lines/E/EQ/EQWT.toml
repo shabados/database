@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਸਿੱਖ ਉਸ ਥਾਂ ਨੂੰ ਲੱਭ ਲੈਂਦੇ ਹਨ, ਤੇ ਉਸ ਦੀ ਧੂੜ ਲੈ ਕੇ ਆਪਣੇ ਮੱਥੇ ਉਤੇ ਲਾ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਸਿਖੀ = ਗੁਰ-ਸਿੱਖਾਂ ਨੇ। ਭਾਲਿਆ = ਲੱਭ ਲਿਆ। ਧੂਰਿ = ਧੂੜ। ਮੁਖਿ = ਮੂੰਹ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

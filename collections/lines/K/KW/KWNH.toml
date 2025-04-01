@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣ, ਜੋ ਤੇਰਾ ਘਰ ਮੇਰੀਆਣ ਰੋਣਦੀਆਣ ਅੱਖਾਣ ਵਿਚ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰੂਨਿ ਦੀਦਾਇ ਗਿਰੀਆਨਿ ਮਨ ਖ਼ੁਦਾ ਹਾਫ਼ਿਜ ।੪੫।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

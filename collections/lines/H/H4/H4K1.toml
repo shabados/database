@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ) ਜ਼ਰੂਰ ਉਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਉਸ ਕਰਤਾਰ ਨੂੰ ਚੰਗਾ ਲਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਉ = ਜ਼ਰੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

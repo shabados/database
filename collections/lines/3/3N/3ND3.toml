@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਿਤਾਂ ਦੀਆਂ ਪੁਰਾਣ ਆਦਿਕ ਪੁਸਤਕਾਂ ਰਹਿ ਗਈਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੇ = ਰਹਿ ਗਏ ਹਨ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

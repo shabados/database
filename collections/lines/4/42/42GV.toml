@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਭ ਜੀਵਾਂ ਵਿਚ ਤੂੰ ਹੀ ਬੋਲ ਰਿਹਾ ਹੈਂ) ਤੇਰਾ ਹੀ ਬੋਲ ਕੰਨੀਂ ਸੁਣਿਆ ਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੀ = ਆਵਾਜ਼। ਸ੍ਰਵਣਿ = ਕੰਨ ਨਾਲ। ਸੁਣੀਐ = ਸੁਣੀ ਜਾ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

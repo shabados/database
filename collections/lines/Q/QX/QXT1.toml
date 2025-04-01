@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ (ਨਾਮ-ਰਸ) ਚੱਖਿਆ ਹੈ, ਉਹ ਮਨੁੱਖ (ਮਾਇਆ ਵਲੋਂ) ਰੱਜ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਨੇ = ਰੱਜੇ ਹੋਏ, ਮਾਇਆ ਵਲੋਂ ਬੇ-ਪਰਵਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

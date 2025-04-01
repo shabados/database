@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਰੱਖਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੈਂ ਅਨੇਕਾਂ ਵਾਰੀ ਤੈਨੂੰ ਨਮਸਕਾਰ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

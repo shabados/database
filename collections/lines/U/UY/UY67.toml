@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਦਾ ਰਹੁ, (ਇਹੀ ਹੈ) ਅਸਲ ਖ਼ਜ਼ਾਨਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸੇਵਿ = ਸੇਵਾ ਕਰ, ਸਰਨ ਪਿਆ ਰਹੁ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

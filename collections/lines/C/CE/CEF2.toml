@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੱਜਣ, ਸਾਥੀ, ਮਿੱਤ੍ਰ, ਪੁੱਤ੍ਰ, ਭਰਾ-ਇਹਨਾਂ ਸਭਨਾਂ ਤੋਂ ਉਹਲੇ ਲੁਕਾ ਕੇ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਹੂ ਤੇ = ਉਹਨਾਂ ਤੋਂ। ਨਿਰਾਰੀ = ਵੱਖਰੀ, ਲੁਕਾ ਕੇ, ਉਹਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! ਤੇਰੇ ਗਲ ਵਿਚ ਮੋਹ ਦਾ ਪਟਾ ਤੇ ਤੇਰੇ ਪੈਰਾਂ ਵਿਚ ਆਸਾਂ ਦੀਆਂ ਬੇੜੀਆਂ ਹੋਣ ਕਰਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਹਿ = ਗਲ ਵਿਚ। ਤਉਕੁ = ਲੋਹੇ ਦਾ ਕੜਾ ਜੋ ਗ਼ੁਲਾਮਾਂ ਦੇ ਗਲ ਵਿਚ ਪਾਇਆ ਜਾਂਦਾ ਸੀ, ਮੋਹ ਦਾ ਪਟਾ। ਪਗ = ਪੈਰਾਂ ਵਿਚ। ਬੇਰੀ = ਆਸਾਂ ਦੀ ਬੇੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

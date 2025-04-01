@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਅੰਦਰ ਅਚਿੰਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਸਦਾ ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਾਰੈ = ਮੇਰੇ ਵਾਸਤੇ। ਲੀਚੈ = ਲਈਦਾ ਹੈ। ਅਚਿੰਤ ਨਾਉ = ਅਚਿੰਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

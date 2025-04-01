@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਉਸ ਦੇ ਨਾਮ ਦੀ ਮੌਜ ਵਿਚ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਪਿਆਰ ਵਿਚ, ਮੌਜ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਨੇ ਹੁਕਮ ਦਿੱਤਾ ਹੈ (ਭਰਮ ਦਾ ਛਉੜ ਕੱਟਣ ਲਈ) ਇਹ ਕਾਰ (ਭਾਵ, ਇਲਾਜ) ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰੀ = ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

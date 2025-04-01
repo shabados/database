@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਾਤਸ਼ਾਹ (ਪ੍ਰਭੂ!) ਮੈਂ (ਤੇਰੀ ਯਾਦ ਦੀ) ਲਗਨ ਵਾਲਾ ਜੋਗੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗੀ = ਵੈਰਾਗਵਾਨ, ਲਗਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਮਾਇਆ ਦੇ ਅਸਚਰਜ ਤਮਾਸ਼ੇ ਵਿਚ ਸੁੱਤਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮਾਦਿ = ਅਸਚਰਜ ਤਮਾਸ਼ੇ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

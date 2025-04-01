@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ਾਹਰਾ ਤਾਂ ਭਾਵੇਂ ਉਹ ਸੋਨੇ ਚਾਂਦੀ ਵਲ ਝੁਕਿਆ ਦਿਸੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰ ਅੰਦਰ ਮਾਇਲਿ ਸੀਮੋ ਜ਼ਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

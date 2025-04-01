@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਸ਼ਬਦ ਉਸ ਦੇ ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਆਏ = ਆਇ, ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

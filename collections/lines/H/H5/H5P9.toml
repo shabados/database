@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਜਹਾਨ ਦੇ ਵੱਡੇ ਤੋਣ ਵੱਡੇ ਪਤਵੰਤਿਆਣ ਨਾਲੋਣ ਚੰਗੇਰਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਹਤਰ ਅਸਤ ਅਜ਼ ਮਿਹਤਰਾਨਿ ਈਣ ਜਹਾਣ ।੧੨੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

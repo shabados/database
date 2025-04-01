@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੌਤ-ਰਹਿਤ ਸਰੂਪ ਵਾਲੇ! ਹੇ (ਅਜਿਹੇ) ਪ੍ਰਭੂ ਜਿਸ ਦਾ ਕਦੇ ਨਾਸ ਨਹੀਂ ਹੋ ਸਕਦਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਾਲ ਮੂਰਤਿ = ਜਿਸ ਦੀ ਹਸਤੀ ਕਾਲ ਤੋਂ ਰਹਿਤ ਹੈ। ਖਉ = ਨਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

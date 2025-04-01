@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਪਾਲਣ ਵਾਲਾ ਦਇਆ ਦਾ ਸਮੁੰਦਰ ਇਕ ਭਗਵਾਨ ਅਕਾਲ ਪੁਰਖ ਹੀ ਹੈ ॥੧੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲਕਹ = ਪਾਲਣ ਵਾਲਾ ॥੧੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

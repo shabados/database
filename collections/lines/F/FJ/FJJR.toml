@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਇਸ ਕੀਮਤੀ ਆਯੂ ਨੂੰ ਅਣਗਹਿਲੀ ਵਿਚ ਹੀ ਗਵਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਉਮਰਿ ਗਿਰਾਣ ਮਾਯਾ ਬ-ਗ਼ਫ਼ਲਤ ਦਰਬਾਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

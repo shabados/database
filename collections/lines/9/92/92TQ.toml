@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮ ਖ਼ੁਸ਼ੀਆਂ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਗੁਨ = ਪ੍ਰਭੂ ਦੇ ਗੁਣ। ਪਰਮਾਨੰਦ = ਸਭ ਤੋਂ ਉਚੀ ਖ਼ੁਸ਼ੀ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਸੰਤ ਜਨ ਮਾਇਆ ਦੇ ਹੱਲਿਆਂ ਵਲੋਂ ਸਦਾ) ਸੁਚੇਤ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਗ਼ਫ਼ਲਤ ਦੀ ਨੀਂਦ ਵਿਚ ਕਦੇ ਭੀ ਸੁੱਤੇ ਨਹੀਂ ਦਿੱਸਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹੁ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

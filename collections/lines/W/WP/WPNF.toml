@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਅਰਸ਼ ਅਤੇ ਕੀ ਫ਼ਰਸ਼, ਸਾਰੇ ਹੀ ਉਸਦੇ ਗ਼ੁਲਾਮ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਅਰਸ਼ੋ ਚਿਹ ਕੁਰਸੀ ਹਮਾ ਬੰਦਾ-ਅਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਇਹ ਆਤਮਕ ਹਾਲਤ ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਪਿਆਂ ਮਿਲਦੀ ਹੈ, ਕਿਸੇ ਹੋਰ ਥਾਂ ਤੋਂ ਨਹੀਂ ਮਿਲਦੀ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਮ = ਸ਼ਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

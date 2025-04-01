@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਂ ਰੱਬ ਤੋਂ ਸਿਵਾ ਸਾਰੇ ਦਿਲਾਂ ਵਿਚ ਹੋਰ ਕੁਝ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਚਿਹ ਬਾਸ਼ਦ ਦਿਲਹਾ ਨਭਬਾਸ਼ਦ ਜੁਜ਼ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

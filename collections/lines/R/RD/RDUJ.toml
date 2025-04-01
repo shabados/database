@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਹਰੀ ਦੇ ਸੰਤ ਗੁਰਦੇਵ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਸ ਦੇ ਸਾਰੇ ਦੁੱਖ ਸਾਰੇ ਰੋਗ ਸਾਰੇ ਡਰ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਸਗਲ = ਸਾਰੇ ਡਰ {ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ 'ਭੈ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

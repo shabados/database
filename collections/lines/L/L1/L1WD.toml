@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਬਾਰਾਂ ਹੀ ਸ਼ਿਵ-ਲਿੰਗਾਂ ਦੀ ਪੂਜਾ ਹੋ ਗਈ ਜਾਣੋ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਦਸ ਸੇਵਾ = ਬਾਰਾਂ ਸਿਵ-ਲਿੰਗਾਂ ਦੀ ਪੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

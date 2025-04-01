@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਨਾਮ ਤੋਂ ਸੱਖਣਿਆਂ ਨੂੰ ਨਾਹ ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਨਾਹ ਪਰਲੋਕ ਵਿਚ (ਢੋਈ ਮਿਲਦੀ ਹੈ) ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਵਾਰਿ = ਉਰਲੇ ਪਾਸੇ, ਇਸ ਲੋਕ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

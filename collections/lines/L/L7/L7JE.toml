@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ, ਗ੍ਰਿਹਸਤੀ, ਪੰਡਿਤ, ਭੇਖਾਂ ਦੇ ਸਾਧੂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹੀ = ਗ੍ਰਿਹਸਤੀ। ਪੰਡਿਤ = {ਬਹੁ-ਵਚਨ}। ਭੇਖਧਾਰੀ = ਛੇ ਭੇਖਾਂ ਦੇ ਸਾਧੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

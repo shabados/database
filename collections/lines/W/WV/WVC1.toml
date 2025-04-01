@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਤਾਰ! ਹਰੇਕ ਜੀਵ ਤੇਰੀ! (ਬਖ਼ਸ਼ਸ਼ ਦੀ) ਆਸ ਰੱਖੀ ਬੈਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

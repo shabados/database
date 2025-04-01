@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ ਉਹੀ ਇੱਜ਼ਤ ਵਾਲੇ ਹਨ, ਉਹੀ ਪੂਰੇ ਸ਼ਾਹ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ ਪਤਿਵੰਤੇ = ਉਹ ਹਨ ਇੱਜ਼ਤ ਵਾਲੇ। ਸਾਹਾ = ਸਾਹੂਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

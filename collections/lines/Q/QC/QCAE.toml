@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਜੀਵ ਤੇ ਜੀਵਾਂ ਦੇ ਕਈ ਭੇਦ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਦ = ਜੀਵਾਂ ਦੇ ਭੇਦ, ਜੀਵਾਂ ਦੀਆਂ ਬੇਅੰਤ ਕਿਸਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

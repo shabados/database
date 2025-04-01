@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ (ਆਮ ਤੌਰ ਤੇ) ਅਗਿਆਨ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ, ਸੁਆਦਾਂ ਵਿਚ ਮੋਹ ਲੈਣ ਵਾਲੇ ਰਸਾਂ ਵਿਚ ਵਿੱਝਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਧਿਓ = ਵਿੱਝਿਆ ਹੋਇਆ। ਅਗਿਆਨਿ = ਅਗਿਆਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

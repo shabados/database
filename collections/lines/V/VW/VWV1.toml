@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਗੁੱਝਾ ਭੇਤ ਕੋਈ ਹੋਰ ਜੀਵ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰ = ਗੁੱਝਾ ਭੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

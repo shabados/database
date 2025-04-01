@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰ ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ ਭੜ ਭੜ ਕਰ ਕੇ ਬਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਿ = ਤ੍ਰਿਸ਼ਨਾ-ਅੱਗ। ਭੜਕਾਰੇ = ਭੜ ਭੜ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

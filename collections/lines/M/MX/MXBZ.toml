@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਬੋਲ ਅਰਬ ਅਤੇ ਈਰਾਨ ਲਈ ਸੁਗੰਧ ਭਰਪੂਰ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਕਾਲਿਸ਼ ਰਿਆਹੁਲ-ਅਜ਼ਮ ਵਲ-ਅਰਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

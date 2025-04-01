@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਤੋਂ ਮੈਂ ਹਰਿ-ਨਾਮ ਦੀ ਸ੍ਰੋਤ ਸੁਣੀ ਹੈ (ਤਦੋਂ ਤੋਂ ਮੇਰੇ) ਮਨ ਵਿਚ ਪਿਆਰੀ ਲੱਗ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੈ ਸੁਰਤਿ = ਨਾਮ ਦੀ ਹੀ ਸ੍ਰੋਤ। ਭਾਈ = ਪਿਆਰੀ ਲੱਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

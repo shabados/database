@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਤਾਂ ਤੇਰੇ) ਨੇੜੇ ਹੀ ਹੈ, ਤੂੰ (ਉਸ ਨੂੰ ਬਾਹਰ) ਹੋਰ ਕਿਥੇ ਢੂੰਡਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢਿਗ = ਨੇੜੇ (ਹੀ)। ਕਤ ਆਨਾ = ਕਿਥੇ, ਹੋਰ ਥਾਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

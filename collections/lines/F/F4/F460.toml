@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਬੇਅੰਤ ਸਾਹਿਬ ਚਿੱਤ ਵਿਚ ਆ ਵੱਸੇ ਤਾਂ ਨਿਹਾਲ ਹੋ ਜਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇਐ ਚਿਤਿ = (ਪੂਰਬ ਪੂਰਨ ਕਾਰਦੰਤਕ; Locative Absolute) ਜੇ ਚਿੱਤ ਵਿਚ ਆ ਜਾਏ। ਬੇਸੁਮਾਰ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

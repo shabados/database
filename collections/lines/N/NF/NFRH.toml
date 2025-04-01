@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਤਾ! (ਮੈਂ ਤੈਥੋਂ ਦਾਜ ਮੰਗਦੀ ਹਾਂ) ਮੈਨੂੰ ਹਰੀ-ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਦਾਨ ਦੇਹ, ਮੈਨੂੰ ਇਹੀ ਦਾਜ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਪ੍ਰਭ ਦਾਨੁ = ਹਰਿ ਪ੍ਰਭੂ (ਦੇ ਨਾਮ) ਦਾ ਦਾਨ। ਮੈ = ਮੈਨੂੰ। ਦਾਜੋ = ਦਾਜੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

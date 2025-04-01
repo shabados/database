@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਭੇਦ ਅਠਾਰਾਂ ਪੁਰਾਣਾਂ ਤੇ ਚਾਰ ਵੇਦਾਂ ਨੇ ਨਾਹ ਲੱਭਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਟਦਸੀ = ਅਠਾਰਾਂ (ਪੁਰਾਣਾਂ) ਨੇ। ਚਹੁ = ਚਾਰ ਵੇਦਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ (ਤੇਰੇ ਵਾਸਤੇ) ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਰਹੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਮਾਰ = ਜਮਾਂ ਦੀ ਮਾਰ, ਆਤਮਕ ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

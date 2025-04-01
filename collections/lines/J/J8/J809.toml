@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਮਨ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਣਿਆ ਰਹੇ ॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਾਲਾ = ਚਰਨ-ਧੂੜ। ਰਹਾਉ = ਕੇਂਦਰੀ ਭਾਵ।ਰਹਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

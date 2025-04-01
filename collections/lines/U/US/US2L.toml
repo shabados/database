@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਸੁਆਮੀ! ਜੋ ਕੁਝ ਤੂੰ (ਆਪ) ਦੇਂਦਾ ਹੈਂ, ਉਹੀ ਕੁਝ ਅਸੀਂ ਲੈ ਸਕਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਸੁਆਮੀ = ਹੇ ਹਰੀ! ਹੇ ਸੁਆਮੀ! ਹਮ ਪਾਵਹਗੇ = ਅਸੀਂ ਜੀਵ ਲੈ ਸਕਦੇ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਰੱਬ ਵਲੋਂ ਮੋਏ ਹੋਏ ਹਨ, ਉਹ ਕਿਸੇ ਦੇ (ਸੱਕੇ) ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ ਪਾਰਬ੍ਰਹਮਿ = ਉਸ ਪਾਰਬ੍ਰਹਮ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਮੰਤ੍ਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਮੰਤ੍ਰ = ਉਪਦੇਸ਼। ਦੇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

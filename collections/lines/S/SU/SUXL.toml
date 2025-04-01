@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਦੀ ਰਾਹੀਂ (ਉਸ ਨਾਲ) ਸਾਂਝ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੀ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

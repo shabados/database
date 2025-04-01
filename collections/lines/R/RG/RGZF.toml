@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਅਕਾਲ ਪੁਰਖ ਤੋਂ ਮਾਇਆ (ਬਣੀ) (\"ਦੁਯੀ ਕੁਦਰਤਿ ਸਾਜੀਐ\")।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਥੋਨ = ਉਸ ਤੋਂ ਪਿਛੋਂ, ਫਿਰ। ਪੁਰਸਾਦਮਰਾ = ਪੁਰਸ਼ਾਤ-ਅਮਰਾ {पुरूषात् = अमरा} ਪੁਰਸ਼ ਤੋਂ ਮਾਇਆ। ਅਮਰਾ = ਮਾਇਆ, ਕੁਦਰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

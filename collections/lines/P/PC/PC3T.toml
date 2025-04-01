@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪੀ! ਹੇ ਅਕਿਰਤਘਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨਹਗਾਰ = ਹੇ ਗੁਨਹਗਾਰ! ਹੇ ਪਾਪੀ! ਲੂਣ ਹਰਾਮੀ = ਹੇ ਅਕਿਰਤਘਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

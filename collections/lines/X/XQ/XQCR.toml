@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਅਸੀਂ ਜੀਵ ਗੰਦੇ ਆਚਰਨ ਵਾਲੇ ਤੇ ਨਿਰਦਈ ਰਹਿੰਦੇ ਹਾਂ, ਠੱਗੀਆਂ ਕਰਨ ਵਾਲੇ ਹਾਂ, ਵਿਸ਼ਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚਿਲ = ਗੰਦੇ ਆਚਰਨ ਵਾਲੇ। ਕਠੋਰ = ਨਿਰਦਈ। ਕਪਟ = ਠੱਗੀ ਕਰਨ ਵਾਲੇ। ਕਾਮੀ = ਵਿਸ਼ਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

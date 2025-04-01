@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੋਹਣੇ ਰਾਮ! ਮੈਂ ਤੈਥੋਂ ਸਦਾ ਸਦਕੇ ਹਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਈਆ ਕਾਰਨੇ = ਸੋਹਣੇ ਰਾਮ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

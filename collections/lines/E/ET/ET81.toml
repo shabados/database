@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਤਾਂ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹਾਂ (ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ) ਹਉਮੈ ਤੇ ਮਮਤਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਉ = ਪਰਾਉਂ, ਮੈਂ ਪੈਂਦਾ ਹਾਂ। ਮੈ = ਹਉਮੈ। ਮੋਰ = ਮੇਰੀ, ਮਮਤਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

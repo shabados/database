@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਦਰਬਾਰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਤੇਰੇ ਖ਼ਜ਼ਾਨੇ ਸਦਾ ਭਰਪੂਰ ਰਹਿਣ ਵਾਲੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ-ਥਿਰ। ਸਾਮਗਰੀ = ਸਾਮਾਨ, ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ) ਸਾਰੇ ਜੁਗਾਂ ਦੇ ਸਾਰੇ ਕਰਮ ਧਰਮ ਪਰਖ ਵੇਖੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ। ਸੋਧੇ = ਪਰਖੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੀਜੀ ਸਲਾਹ ਮਿਲੀ ਕਿ ਮੈਂ ਕੋਈ ਨ ਕੋਈ ਉਪਾਉ ਜ਼ਰੂਰ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਮੈਂ ਕਰਾਂ। ਉਪਾਇਆ = ਉਪਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

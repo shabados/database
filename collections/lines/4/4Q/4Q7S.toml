@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਮੂਰਖ ਹਾਂ, ਸਾਨੂੰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਹੈ, ਅਸੀਂ ਤੇਰਾ ਅੰਤ ਕਿਵੇਂ ਪਾ ਸਕਦੇ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਛੂਅ = ਕੁਝ ਭੀ। ਨ ਜਾਣਹਾ = ਅਸੀਂ ਨਹੀਂ ਜਾਣਦੇ। ਕਿਵ = ਕਿਵੇਂ? ਪਾਵਹ = ਅਸੀਂ ਪਾਈਏ। ਪਾਰੋ = ਪਾਰ, ਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

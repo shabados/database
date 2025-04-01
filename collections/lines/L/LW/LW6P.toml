@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਕਲਮ ਹੈ, ਆਪ ਹੀ ਕਲਮ ਚਲਾਣ ਵਾਲਾ ਹੈ, ਤੇ, ਆਪ ਹੀ (ਜੀਵਾਂ ਦੇ ਮੱਥੇ ਉੱਤੇ ਭਗਤੀ ਦਾ) ਲੇਖ ਲਿਖਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖਣਿ = ਕਲਮ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਸੱਚ ਦੇ ਆਸਨ ਤੇ ਚੌਕੜੀ ਮਾਰੀ ਬੈਠਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਸਦਰਿ ਹਕੀਕਤ ਮੁਰੱਬਅ ਨਸ਼ੀਂ ।੬੫।"
+page = 3
+line = 65
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

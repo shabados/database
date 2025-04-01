@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਕਦੇ ਨਹੀਂ ਉਤਰਦੀ, ਤੇ ਸਦਾ ਭੁੱਖ ਭੁੱਖ ਕੂਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਖ = ਤ੍ਰਿਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

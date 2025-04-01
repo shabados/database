@@ -36,6 +36,12 @@ language = "pa"
 data = "ਝੂਠ ਨੂੰ ਠੱਗੀ ਨੂੰ ਮਿੱਠਾ ਜਾਣ ਕੇ ਇਹਨਾਂ ਨਾਲ ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੋਹ = ਠੱਗੀ। ਸਿਉ = ਨਾਲ। ਮੀਠਾ = ਮਿੱਠਾ (ਜਾਣ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

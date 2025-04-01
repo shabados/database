@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਂ, ਕੁੱਤੇ, ਸੂਰ ਵਾਂਗ ਭਟਕਦਾ ਹੀ (ਜਗਤ ਤੋਂ) ਤੁਰ ਜਾਏਂਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਨ = ਕੁੱਤਾ। ਸੂਕਰ = ਸੂਰ। ਬਾਇਸ = ਕਾਂ। ਭਟਕਤੁ = ਭਟਕਦਾ ਹੀ, ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੁਢੇਪਾ ਆ ਗਿਆ ਹੈ, ਜੁਆਨੀ ਦੀ ਉਮਰ ਲੰਘ ਗਈ ਹੈ, ਪਰ ਮੈਂ ਹੁਣ ਤਕ ਕੋਈ ਚੰਗਾ ਕੰਮ ਨਹੀਂ ਕੀਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰਾ = ਬੁਢੇਪਾ। ਜੀਵਨ ਜੋਬਨੁ = ਜ਼ਿੰਦਗੀ ਦਾ ਜੋਬਨ, ਜੁਆਨੀ ਦੀ ਉਮਰ। ਨੀਕਾ = ਭਲਾ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

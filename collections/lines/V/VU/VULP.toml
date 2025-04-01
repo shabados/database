@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੀ ਖੇਡ (ਜੀਵਾਂ ਲਈ) ਚਾਰ ਦਿਨ ਦੀ ਹੀ ਖੇਡ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਰਚਨਾ = ਖੇਡ। ਧੋਹੁ = ਠੱਗੀ, ਚਾਰ ਦਿਨ ਦੀ ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

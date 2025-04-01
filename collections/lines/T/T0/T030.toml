@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਯਕੀਨ ਹੈ ਕਿ) ਤੂੰ ਸਾਡਾ ਮਾਂ ਪਿਉ ਹੈਂ, ਤੇ ਬੱਚੇ ਭੁੱਲਾਂ ਤੇ ਉਕਾਈਆਂ ਕਰਿਆ ਹੀ ਕਰਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੂਕਹਿ = ਉਕਾਈ ਕਰਦੇ ਹਨ। ਮਾਇਆ = ਮਾਂ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

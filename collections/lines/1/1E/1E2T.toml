@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਆ ਡਿੱਗਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇ = ਆ ਕੇ। ਹਰਿ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

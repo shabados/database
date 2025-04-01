@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੇ ਵਲੀਆਂ ਅਤੇ ਸਾਰੇ ਨਬੀਆਂ ਨੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਔਲੀਆ ਓ ਹਮਾ ਅੰਬੀਆ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

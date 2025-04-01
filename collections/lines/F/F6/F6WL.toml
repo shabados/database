@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਫਿਰ ਵੀ ਮੈਨੂੰ ਉਸੇ ਦੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਜ਼ ਮੀ-ਦਾਰਮ ਅਜ਼ਾਣ ਈਣ ਇਹਤਿਆਜ ।੧੬।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

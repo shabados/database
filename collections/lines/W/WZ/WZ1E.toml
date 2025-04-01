@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਾਰ ਪਾਸੇ ਤੇ ਚੌਦਾਂ ਲੋਕ-ਸਭਨਾਂ ਵਿਚ ਹੀ ਪਰਮਾਤਮਾ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਟ = ਕੂਟ, ਪਾਸੇ। ਚਉਦਹ ਭਵਨ = ਸੱਤ ਆਕਾਸ਼ ਤੇ ਸੱਤ ਪਾਤਾਲ। ਸਗਲ = ਸਭਨਾਂ ਵਿਚ। ਬਿਆਪਤ = ਮੌਜੂਦ ਹੈ, ਵੱਸ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

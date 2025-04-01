@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸਾਯਾ ਸਾਡੇ ਸਿਰਾਣ ਤੇ ਮਾਨੋ ਤਾਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਯਾਇ ਊ ਬਰ ਸਰਿ ਮਾ ਅਫ਼ਸਰ ਅਸਤ ।੧੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

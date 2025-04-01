@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੂਰਖ ਜੀਵ-ਇਸਤ੍ਰੀ ਉਜਾੜ ਦੇ ਰਸਤੇ ਵਿਚ (ਜਿਥੇ ਕਾਮਾਦਿਕ ਲੁਟੇਰੇ ਲੁੱਟ ਲੈਂਦੇ ਹਨ) ਭਟਕਦੀ ਫਿਰਦੀ ਹੈ, ਤੇ ਹਰ ਵੇਲੇ ਧੱਕੇ ਖਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਝੜ ਪੰਥਿ = ਉਜਾੜ ਦੇ ਰਸਤੇ ਉਤੇ। ਭ੍ਰਮੈ = ਭਟਕਦੀ ਫਿਰਦੀ ਹੈ। ਗਾਵਾਰੀ = ਮੂਰਖ ਜੀਵ-ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

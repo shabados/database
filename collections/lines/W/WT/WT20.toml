@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਮਨੁੱਖ) ਨੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਦੀ ਮਿਹਨਤ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਸੇਵਾ ਘਾਲ ਘਾਲੀ = ਸੇਵਾ-ਭਗਤੀ ਦੀ ਮਿਹਨਤ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮਨਮੁਖ ਮਨੁੱਖ ਸਦਾ ਆਪ ਹੀ (ਆਪਣੀ ਹੀ ਮਨਮੁਖਤਾ ਦੇ ਕਾਰਨ) ਪਰਮਾਤਮਾ ਤੋਂ ਵਿੱਛੁੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

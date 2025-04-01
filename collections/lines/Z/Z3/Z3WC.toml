@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਆਪਾ ਭਾਵ ਗਵਾ ਦੇਈਏ ਤਾਂ (ਜ਼ਿੰਦਗੀ ਦੇ ਰਾਹ ਵਿਚ) ਕੋਈ ਔਕੜ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

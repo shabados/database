@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾਂ ਬਾਰ ਬਾਰ ਏਹੀ ਜੁਆਬ ਆਇਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਤਵਾਤਰ ਚੁਨੀਂ ਜਵਾਬ ਆਮਦ ।੨੪।"
+page = 1
+line = 24
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

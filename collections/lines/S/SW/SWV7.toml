@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ ਉਹੀ ਉੱਦਮ ਕਰਦੀ ਹੈ ਜੋ ਭਗਤ-ਜਨ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਾਗਣੀ = ਸੁਹਾਗ-ਭਾਗ ਵਾਲੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ, ਭਗਤ ਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

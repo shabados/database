@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਤਕ ਇਸ ਦਾ ਮਨ ਟਿਕਾਣੇ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਡੋਲ, ਟਿਕਾਣੇ, ਥਾਂ ਸਿਰ। ਚੀਤੁ = ਚਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

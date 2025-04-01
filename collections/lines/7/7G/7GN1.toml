@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ, ਹੇ ਭਾਈ!) ਹੋਰ ਦੇਸ ਮੱਲਣ ਤੇ ਧਨ ਇਕੱਠਾ ਕਰਨ ਦੀ ਲਾਲਸਾ ਦੇ ਵਿੱਚ ਹੀ ਮਨੁੱਖ ਦੇ ਪ੍ਰਾਣ ਨਿਕਲ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਕਾਮਨਾ, ਇੱਛਾ। ਬੀਚੇ = ਵਿੱਚੇ ਹੀ। ਨਿਕਸੇ = ਨਿਕਲ ਜਾਂਦੇ ਹਨ। ਸਾਸ = ਸਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

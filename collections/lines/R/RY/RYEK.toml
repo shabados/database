@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਨੇ) ਬਵੰਜਾ ਅੱਖਰ ਵਰਤ ਕੇ ਪੁਸਤਕਾਂ ਤਾਂ ਲਿਖ ਦਿੱਤੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਨ = ਬਵੰਜਾ। ਜੋਰੇ ਆਨਿ = ਲਿਆ ਕੇ ਜੋੜ ਦਿੱਤੇ, (ਅੱਖਰ) ਵਰਤ ਕੇ ਪੁਸਤਕਾਂ ਲਿਖ ਦਿੱਤੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

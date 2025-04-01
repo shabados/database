@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਜਦ ਤਕ ਇਹ ਸਮਝਦਾ ਹੈ ਕਿ ਮੈਥੋਂ ਕੁਝ ਹੋ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਲਗੁ = ਜਦੋਂ ਤਕ। ਮੁਝ ਤੇ = ਮੇਰੇ ਪਾਸੋਂ। ਕਛੁ = ਕੁਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

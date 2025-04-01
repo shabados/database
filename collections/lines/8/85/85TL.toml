@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਤੂੰ ਉਸ ਦੀ ਰਸਨਾ ਤੋਂ ਰੱਬ ਦੇ ਭੇਤ ਸੁਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਜ਼ੁਬਾਨਿਸ਼ ਬਿਸ਼ਨਵੀ ਅਸਰਾਰਿ ਹੱਕ ।੪੯੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

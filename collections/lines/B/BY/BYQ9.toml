@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਈਸ਼ਰ ਅਤੇ ਇੰਦਰ ਗੁਰੂ ਨਾਨਕ ਦੇ ਚਰਨਾਂ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰ ਈਸ਼ਰ ਇੰਦਰ ਦਰ ਪਾਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਜਹਾਨ ਨੇ ਉਸ ਦੇ ਨੂਰ ਤੋਂ ਹੀ ਰੌਸ਼ਨੀ ਪਾਈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਨੂਰਸ਼ ਜਹਾਂ ਯਾਫ਼ਤਾ ਇਕਤਬਾਸ ।੯੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

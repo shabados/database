@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੈਥੋਂ ਲੱਖਾਂ ਵਾਰੀ ਸਦਕੇ ਜਾਂਦੀ ਹਾਂ, ਜਿਸ ਨੇ (ਮੇਰੇ ਅੰਦਰੋਂ) ਭਟਕਣਾ ਵਾਲੀ ਵਿੱਥ ਮਿਟਾ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ ਜਾਈ = ਬਲਿ ਜਾਈਂ, ਮੈਂ ਸਦਕੇ ਜਾਂਦੀ ਹਾਂ। ਬਰੀਆ = ਵਾਰੀ। ਜਿਨਿ = ਜਿਸ ਨੇ। ਭ੍ਰਮੁ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

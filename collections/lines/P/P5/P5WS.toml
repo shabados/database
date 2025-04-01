@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਤਨ ਕਰਦਾ ਹਾਂ ਕਿ ਉਹ (ਗੁਰਮੁਖ) ਮੇਰੇ ਉਤੇ ਦਇਆਵਾਨ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

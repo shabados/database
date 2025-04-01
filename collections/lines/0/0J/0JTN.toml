@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਨਾਮ ਹੀ ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਤੇਰੇ ਨਾਲ ਨਿਭ ਸਕਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ। ਨਿਬਹੀ = ਪੱਕਾ ਸਾਥ ਨਿਬਾਹੇਗਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਗਾ ਕੇ ਮੇਰੇ ਦਿਲ ਵਿਚ ਠੰਡ ਪੈ ਜਾਏ, ਮੇਰਾ ਮਨ ਸੁਖੀ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ = ਠੰਡੀ। ਛੰਤ = ਛੰਦ, ਗੀਤ। ਗਾਇ = ਗਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

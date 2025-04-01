@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਉੱਠ, ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਚੱਲੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀਏ = ਹੇ ਸਹੇਲੀਏ! ਰਾਵਣ ਜਾਹਾ = ਸਿਮਰਨ ਵਾਸਤੇ ਚੱਲੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

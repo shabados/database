@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਮਨੁੱਖ ਇਹੋ ਜਿਹਾ (ਇਹੋ ਜਿਹੇ ਪ੍ਰਭੂ ਨੂੰ) ਮਿੱਤਰ ਬਣਾਓ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

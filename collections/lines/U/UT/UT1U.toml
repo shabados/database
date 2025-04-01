@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਮੁਖ ਮਨੁੱਖ ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ ਵਿਚ ਇਸ਼ਨਾਨ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਰਿ = ਚਰਨ-ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

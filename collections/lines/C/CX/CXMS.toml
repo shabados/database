@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਆਮ ਤੌਰ ਤੇ ਲੋਕ ਇਹੀ ਮੰਨਦੇ ਹਨ ਕਿ) ਕਲਜੁਗ ਵਿਚ ਧਰਮ ਦੀ ਇਕੋ ਕਲਾ ਰਹਿ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਜੁਗਿ = ਕਲਜੁਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

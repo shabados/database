@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹ ਨਾਮ-ਜਲ) ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਿਹਾਂ ਮਿਲਦਾ ਹੈ। ਇਹ ਹਰਿ-ਨਾਮ ਜਪ ਕੇ ਸਾਰੇ ਕਾਰਜ ਸਿਰੇ ਚੜ੍ਹ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤ ਵਿਚ। ਮਿਲੈ = ਮਿਲਦਾ ਹੈ। ਜਪਿ = ਜਪ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

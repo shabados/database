@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਕਿਸਮਾਂ ਦੇ ਫਲ, ਸੁੰਦਰ ਫੁਲਵਾੜੀਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

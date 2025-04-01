@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਜਿਸ ਮਨੁੱਖ ਦੇ) ਸਾਰੇ ਵਹਿਮ ਸਾਰੇ ਡਰ ਮੁੱਕ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ = {ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਸਾਰੇ ਡਰ। ਭ੍ਰਮ = {ਬਹੁ-ਵਚਨ} ਸਾਰੇ ਵਹਿਮ। ਪਰਸਾਦ = ਕਿਰਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

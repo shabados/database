@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਭੀ ਜੇ ਖਸਮ ਹੀ ਘਰ ਵਿਚ ਆ ਪਹੁੰਚੇ, ਤਦੋਂ ਹੀ ਸਭ ਕੁਝ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ। ਕੰਤੁ = ਖਸਮ। ਪਾਈਐ = ਪ੍ਰਾਪਤ ਕਰ ਲਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ) ਮੰਦ-ਭਾਗੀ ਨੂੰ (ਅਜੇ ਤਕ) ਤੇਰਾ ਦਰਸ਼ਨ ਨਸੀਬ ਨਹੀਂ ਹੋਇਆ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦ ਭਾਗੀ = ਮੰਦੇ ਭਾਗਾਂ ਵਾਲੇ ਨੂੰ। ਨਾਹਿ = ਨਹੀਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

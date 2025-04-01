@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਮੇਰੇ ਹਿਰਦੇ ਦੀ ਸੋਹਣੀ ਸੇਜ ਉੱਤੇ ਸਜਾਵਟ ਬਣ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਜੜੀਐ = (ਹਿਰਦੇ ਦੀ) ਸੋਹਣੀ ਸੇਜ ਉੱਤੇ। ਆਡੰਬਰੁ = ਸਜਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

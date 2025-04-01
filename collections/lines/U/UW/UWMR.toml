@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਬਚਨ (ਮਾਨੋ) ਰਤਨ ਹਨ, ਜਵਾਹਰ ਹਨ, ਮੋਤੀ ਹਨ, ਲਾਲ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਕ = ਮੋਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

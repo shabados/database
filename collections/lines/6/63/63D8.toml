@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਉਸ ਦਾ ਹਿਰਦਾ-ਘਰ ਸੁੰਞਾ ਹੀ ਰਹਿੰਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰੁ ਬਾਰੁ = ਹਿਰਦਾ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

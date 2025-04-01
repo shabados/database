@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਲ ਤੇ ਜੂਆਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਨੀਲਾ ਤੇ ਕਾਲਾ ਜੁੱਲਾ ਉਸ ਬੇ-ਮੁਖ ਨੇ ਬੇ-ਮੁਖ ਨੂੰ ਪਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਧੋਲੜਾ = ਜੁੱਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

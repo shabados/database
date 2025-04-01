@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮੱਤ ਤ੍ਰਿਲੋਚਨ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸੀ, ਜਿਹੜੀ ਮੱਤ ਕਬੀਰ ਭਗਤ ਨੇ ਸਮਝੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਲੋਚਨ ਚਿਤਿ = ਤ੍ਰਿਲੋਚਨ ਦੇ ਚਿੱਤ ਵਿਚ। ਕੰਬੀਰਹਿ = ਕਬੀਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁੰਦਰੀ! ਤੂੰ ਉਹ ਸੋਹਣੇ ਬਚਨ ਸੁਣ-ਤੇਰਾ ਪਤੀ-ਪ੍ਰਭੂ ਮਨ ਨੂੰ ਆਸਰਾ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਬੀਲੀ = ਹੇ ਸੁੰਦਰੀ! ਮਨ ਸਾਧਾਰਣੁ = ਮਨ ਨੂੰ ਆਸਰਾ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਿਨਾਣ ਰੱਬ ਦੇ ਜਾਨਣ ਵਾਲਿਆਣ ਤੋਣ ਕਿਸੇ ਹੋਰ ਨੂੰ ਮੁਕਤੀ ਨਹੀਣ ਮਿਲੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਗ਼ੈਰ ਆਰਫ਼ਿ ਮੌਲਾ ਕਸੇ ਨਜਾਤ ਨ-ਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

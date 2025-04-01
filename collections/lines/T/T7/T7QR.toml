@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਿੱਠਾ ਬੋਲ, ਨਿਮ੍ਰਤਾ, ਸੇਵਾ, ਦਾਨ, ਦਇਆ) ਸਾਰੇ (ਆਤਮਕ) ਪਰਵਾਰ ਵਿਚ (ਭਗਤੀ) ਸਭ ਤੋਂ ਉੱਤਮ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੇਸਟ = ਉੱਤਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

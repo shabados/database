@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਕੌਣ ਹੁੰਦਾ ਹਾਂ# ਕੇਵਲ ਓਪਰੀ ਮਿੱਟੀ ਦੀ ਇੱਕ ਮੁਠ ਦਾ ਇੱਕ ਕਿਣਕਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਚਿਹ ਜ਼ੱਰਾ ਮੁਸ਼ਤੇ ਅਜ਼ ਖ਼ਾਕਿ ਗ਼ਰੀਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

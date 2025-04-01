@@ -42,6 +42,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਬੜਬੋਲਾ ਮਨੁੱਖ ਦੱਸਣ ਲੱਗੇ (ਕਿ ਅਕਾਲ ਪੁਰਖ ਕਿਤਨਾ ਵੱਡਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲੁ ਵਿਗਾੜੁ = ਬੋਲੀ-ਬਾਜ਼, ਬੜਬੋਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

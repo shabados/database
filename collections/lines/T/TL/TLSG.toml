@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਬੜੀ ਕਿਸਮਤਿ ਨਾਲ ਮੈਂ ਆਪਣਾ ਗੁਰੂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗਿ = ਕਿਸਮਤ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

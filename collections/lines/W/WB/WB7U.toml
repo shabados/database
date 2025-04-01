@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਦੇ ਡੇਰੇ ਤੇ (ਮਨੁੱਖ ਜੋਗ ਦੀ) ਜੁਗਤਿ ਪੁੱਛਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸਾਈ = ਪੁੱਛਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

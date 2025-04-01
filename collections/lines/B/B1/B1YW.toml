@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਮੇਰੇ ਵਲ ਇਕ ਨਿਗਾਹ ਕਰਕੇ, ਨਾਲ ਹੀ, ਮੇਰੇ ਦਿਲ ਦੀ ਰਾਸ ਲੁਟ ਲਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਿਗਾਹ ਕਰਦ ਵਾ ਮਤਾਇ ਦਿਲਮ ਬ-ਗ਼ਾਰਤ ਬੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

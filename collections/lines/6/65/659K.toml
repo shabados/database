@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਵੇਂ (ਹਉਮੈ) ਵੈਰੀ ਦਾ ਨਾਸ ਹੋਵੇ ਜਿਸ ਕਰਕੇ ਸਹਜ ਤੇ ਸੰਤੋਖ ਦਾ ਆਸਣ ਪਛਾਣ ਲਿਆ ਜਾਏ (ਭਾਵ, ਜਿਸ ਕਰਕੇ ਸਹਜ ਤੇ ਸੰਤੋਖ ਪ੍ਰਾਪਤ ਹੋਵੇ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਈਐ = ਵੈਰੀ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

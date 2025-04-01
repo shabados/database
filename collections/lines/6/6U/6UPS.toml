@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੰਮ ਦੁਨੀਆ ਵਾਲੇ ਵਿਖਾਵੇ ਹਨ। ਇਹ ਤਾਂ ਤੁਸੀ ਕੂੜੇ ਕੰਮ ਹੀ ਕਰਦੇ ਹੋ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਵਾਜੇ = ਦਿਖਾਵੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

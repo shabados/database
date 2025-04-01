@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਤੀ! ਮੈਂ ਤੇਰੇ ਨਾਲੋਂ ਵਿਛੁੜੀ ਹੋਈ ਹਾਂ, ਮੈਂ ਨਿਰੇ ਦੁੱਖ ਹੀ ਦੁੱਖ ਸਹੇੜੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹ = ਹੇ ਪਤੀ! ਤੇ ਨਾਲਹੁ = ਤੇਰੇ ਨਾਲੋਂ। ਮੁਤੀਅਸੁ = ਮੈਂ ਵਿਛੁੜ ਗਈ ਹਾਂ। ਕੂੰ = ਨੂੰ। ਧਰੀਆਸੁ = ਧਾਰਨ ਕਰ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

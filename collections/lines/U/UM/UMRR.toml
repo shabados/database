@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਵਡਿਆਈ ਅਤੇ ਮਿਹਰ ਗਿਣਤੀ ਤੋਂ ਬਾਹਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਜ਼ਾਲੋ ਕਰਾਮਸ਼ ਫਜ਼ੂੰ ਅਜ਼ ਸ਼ੁਮਾਰ ।੬੭।"
+page = 3
+line = 67
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

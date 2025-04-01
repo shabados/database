@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਰੀਰ (ਲਹੂ ਆਦਿਕ) ਅੱਠ ਧਾਤਾਂ ਦਾ ਬਣਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਟ = ਅੱਠ। ਅਸਟ ਧਾਤੁ = ਅੱਠ ਧਾਤਾਂ (ਰਸ, ਰੁਧਿਰ, ਮਾਸ, ਮੇਧਾ, ਅਸਥੀ, ਮਿੱਝ, ਵੀਰਜ, ਨਾੜੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

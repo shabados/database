@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨ ਅਤੇ ਵਿਸ਼ਵਾਸ਼ ਰਾਹੀਂ ਉਹ ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਇੱਕੋ ਹੀ ਵਿਅਕਤੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਇਲਮੁਲ ਯਕੀਂ ਦਰ ਦੋ ਆਲਮ ਅਹਦ ।੧੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

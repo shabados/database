@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਸੁਆਮੀ! ਹੇ ਜਗਤ ਦੇ ਮੂਲ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਰਥ = ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਸੁਆਮੀ = ਹੇ ਮਾਲਕ! ਕਾਰਣ ਕਰਣ = ਹੇ ਕਰਣ ਦੇ ਕਾਰਨ! ਹੇ ਜਗਤ ਦੇ ਮੂਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

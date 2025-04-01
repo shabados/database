@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਭੀ ਜਿੱਧਰ ਤੱਕਦਾ ਹਾਂ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਵੇਖਦਾ ਹਾਂ (ਮੇਰੀ ਸੁਰਤ ਸਦਾ ਪ੍ਰਭੂ ਵਿਚ ਹੀ ਰਹਿੰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ ਜਹ = ਜਿੱਧਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

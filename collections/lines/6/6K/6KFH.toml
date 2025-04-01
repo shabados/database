@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਾਇਆਂ! ਜਿੰਦ ਦੇ ਨਿਕਲ ਜਾਣ ਪਿੱਛੋਂ) ਤੂੰ ਕਿਸ ਨੂੰ 'ਪਿਆਰਾ, ਪਿਆਰਾ' ਆਖ ਕੇ ਵਾਜਾਂ ਮਾਰੇਂਗੀ? ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਛੇ = (ਜਿੰਦ ਦੇ ਨਿਕਲ ਜਾਣ) ਪਿਛੋਂ। ਪੀਉ = ਪਿਆਰਾ। ਪੁਕਾਰਹਿ = ਤੂੰ ਵਾਜਾਂ ਮਾਰੇਂਗੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

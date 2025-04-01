@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਅੰਦਰ ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਵੱਸਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹਨਾਂ ਦੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿਆ = ਪਰਗਟ ਹੋਇਆ, ਵੱਸਿਆ। ਨਿਵਾਰੇ = ਦੂਰ ਕੀਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

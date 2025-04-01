@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਜੀਵ ਇਸਤ੍ਰੀ! ਜੇ ਪਤੀ ਨ ਮਿਲੇ ਤਾਂ ਸ਼ਿੰਗਾਰ ਕਰਨ ਦਾ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁੰਧੇ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

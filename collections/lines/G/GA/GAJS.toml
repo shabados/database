@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ ਜੀ! ਤੇਰੀ ਸੰਗਤ ਵਿਚ (ਰਹਿ ਕੇ) ਇਹ ਸਮਝ ਆਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ = ਹੇ ਗੁਰੂ! ਸੰਗਿ ਤੁਹਾਰੈ = ਤੇਰੀ ਸੰਗਤ ਵਿਚ। ਜਾਨਿਓ = ਸਮਝ ਆਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

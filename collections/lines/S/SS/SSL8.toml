@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਨੂੰ ਤੇਰੀ (ਮੇਹਰ ਦੀ) ਨਜ਼ਰ ਨਸੀਬ ਹੋਈ ਹੈ ਉਸ ਨੂੰ (ਜ਼ਿੰਦਗੀ ਵਿਚ ਕੀਤੇ ਕੰਮਾਂ ਦਾ) ਹਿਸਾਬ ਨਹੀਂ ਪੁੱਛਿਆ ਜਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖਾ = ਜ਼ਿੰਦਗੀ ਵਿਚ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਹਿਸਾਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੂੰ ਭੀ ਇਹ ਕਾਮਯਾਬੀ ਤੇਰੀ ਸਹਾਇਤਾ ਤੋਂ ਬਿਨਾ ਹਾਸਲ ਨਹੀਂ ਹੋਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧੀ = ਸਫਲਤਾ, ਕਾਮਯਾਬੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

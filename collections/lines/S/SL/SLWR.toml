@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਇਥੋਂ ਆਤਮਕ) ਲਾਭ ਖੱਟ ਕੇ (ਆਪਣੇ ਪਰਲੋਕ) ਘਰ ਵਿਚ ਜਾਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਾ = ਲਾਭ। ਲੈ = ਲੈ ਕੇ। ਘਰਿ = (ਆਪਣੇ) ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਹੋਏ ਮੂਰਖ ਮਨੁੱਖ (ਇਥੋਂ) ਖ਼ਾਲੀ ਹੱਥ ਚਲੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ = ਮੂਰਖ। ਨੰਗਾ = ਨੰਗੇ, ਕੰਗਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

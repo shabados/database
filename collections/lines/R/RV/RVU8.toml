@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਮਨ ਵਿਚ ਹੀ ਚੁੱਭੀ ਲਾਉ ਤੇ ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਧੇ = {मध्य} ਵਿਚਿ। ਅਵਗਾਹੀਆ = {अवगाह, to bathe one self into, to plunge} ਚੁੱਭੀ ਲਾਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

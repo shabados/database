@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਭਗਤਾਂ ਨਾਲ ਇਉਂ ਮਿਲਿਆ ਰਹਿੰਦਾ ਹੈ ਜਿਵੇਂ ਤਾਣਾ ਪੇਟਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਤ = ਉਣਿਆ ਹੋਇਆ। ਪ੍ਰੋਤ = ਪ੍ਰੋਤਾ ਹੋਇਆ। ਓਤਿ ਪੋਤਿ = ਜਿਵੇਂ ਉਣਿਆ ਹੋਇਆ ਪ੍ਰੋਤਾ ਹੋਇਆ ਹੋਵੇ, ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ। ਸੰਗਾਨਿ = ਸੰਗਿ, ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

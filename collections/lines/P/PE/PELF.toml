@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਲਿਆਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਟਿਕਿਆਂ) ਹੋਰ (ਕੁਟੰਬ ਆਦਿਕ ਦਾ) ਮੋਹ ਮਿਟ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਸਾਧਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ। ਸਭ ਸੰਗੁ = ਹੋਰ ਸਭ ਸੰਗ, ਹੋਰ ਸਭ ਦਾ ਸੰਗ, ਹੋਰ ਸਭ ਦਾ ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

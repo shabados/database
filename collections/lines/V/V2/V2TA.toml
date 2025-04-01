@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਪਿਤਾ! ਮੈਂ ਤੇਰੀ ਓਟ ਲਈ ਹੈ, ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹੀ = ਫੜੀ। ਜਗਤ ਪਿਤਾ = ਹੇ ਜਗਤ ਦੇ ਪਿਤਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

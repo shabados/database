@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੁਹੰਮਦ-ਬਿਨ-ਤੁਗ਼ਲਕ) ਬਾਦਸ਼ਾਹ ਪੁੱਛਦਾ ਹੈ-ਹੇ ਨਾਮੇ! ਸੁਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇ-ਹੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

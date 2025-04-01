@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਦੱਖਣ ਦੇ ਹਾਕਮ ਅਤੇ ਕੀ ਵਡਭਾਗੇ ਰਾਉ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਹੁੱਕਾਮਿ ਦੱਕਨ ਚਿ ਰਾਇ ਖ਼ਜ਼ੰਦ ।੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

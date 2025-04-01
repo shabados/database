@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਡਾ ਬੋਲ-ਚਾਲ, ਸਾਡਾ ਖਾਣ-ਪੀਣ ਥੋੜੇ ਹੀ ਸਮੇਂ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੈ = ਲੇਖੇ ਵਿਚ, ਗਿਣਤੀ-ਮਿਣਤੀ ਵਿਚ, ਥੋੜੇ ਹੀ ਸਮੇਂ ਲਈ। ਬੋਲਣੁ ਬੋਲਣਾ = ਬੋਲ-ਚਾਲ। ਖਾਣਾ ਖਾਉ = ਖਾਣ-ਪੀਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

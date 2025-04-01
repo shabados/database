@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਹੀ ਪਸਾਰਾ (ਅੰਤ) ਖ਼ਾਕ ਵਿਚ ਹੀ ਰਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਕੂ = ਖ਼ਾਕ ਵਿਚ। ਫੈਲੁ = ਪਸਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

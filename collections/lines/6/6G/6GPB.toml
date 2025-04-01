@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ। ਉਮਰ ਲੰਘਦੀ ਜਾ ਰਹੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਧ = ਉਮਰ। ਜਾਤ ਹੈ ਬੀਤਿ = ਗੁਜ਼ਰਦੀ ਜਾ ਰਹੀ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

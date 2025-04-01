@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਵਾਲੇ ਚਾਉ ਮਲ੍ਹਾਰ ਤੇ ਹਕੂਮਤਾਂ, (ਇਹਨਾਂ ਵਿਚੋਂ) ਕੁਝ ਭੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਸ = ਅਨੰਦ, ਚਾਉ। ਫੁਰਮਾਇਸਿ = ਹਕੂਮਤ। ਕਾਈ = ਕੋਈ ਭੀ ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

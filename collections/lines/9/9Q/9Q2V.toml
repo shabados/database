@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰੰਤੂ ਗੋਯਾ ਤਾਣ ਰੱਬ ਪਾਸੋਣ ਕੇਵਲ ਰੱਬ ਦੀ ਯਾਦ ਹੀ ਲੋਚਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਜ਼ਿ ਖ਼ੁਦਾ ਯਾਦਿ ਖ਼ੁਦਾ ਮੀ ਖ਼ਾਹਦ ।੧੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

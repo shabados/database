@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸਦਾ ਉਸ ਦੀ ਪੂਜਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਾਰੀ = ਪੂਜਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

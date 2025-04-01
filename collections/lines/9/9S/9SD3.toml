@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਜਗਤ ਇਕ ਖੇਡ ਹੈ (ਖੇਡ ਬਣਦੀ ਢਹਿੰਦੀ ਹੀ ਰਹਿੰਦੀ ਹੈ) ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣਾ ਵਿਅਰਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੀ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

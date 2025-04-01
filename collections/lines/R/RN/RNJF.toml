@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਮਿੱਤਰ-ਪ੍ਰਭੂ ਬੇ-ਮੁਥਾਜ ਹੈ (ਉਸ ਨੂੰ ਕਿਸੇ ਦੀ ਕੋਈ ਗ਼ਰਜ਼ ਨਹੀਂ ਕਾਣ ਨਹੀਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਪਰਵਾਹਾ = ਬੇ-ਮੁਥਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

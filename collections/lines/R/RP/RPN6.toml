@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਮਸਤ ਹਾਥੀ (ਵਰਗਾ) ਇਹ ਮਨ ਕਿਥੇ ਵੱਸਦਾ ਹੈ? ਇਹ ਪ੍ਰਾਣ ਕਿਥੇ ਵੱਸਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਗਲੁ = (ਸੰ: ਮਦਕਲ; मदकल) ਮਸਤ ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

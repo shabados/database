@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਆਪਣੇ) ਕਿਤਨੇ ਕੁ ਔਗੁਣ ਗਿਣਾਂ? ਮੇਰੇ ਅੰਦਰ ਅਣਗਿਣਤ ਔਗੁਣ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਨਉ = ਮੈਂ ਗਿਣਾਂ, ਗਨਉਂ। ਅਸੰਖ = ਗਿਣਤੀ ਤੋਂ ਪਰੇ, ਅਣਗਿਣਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

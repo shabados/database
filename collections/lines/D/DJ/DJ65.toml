@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਾ ਦੀ ਰਾਹੀਂ (ਵੇਦ ਬਣੇ),  ਮਾਇਆ ਦੇ ਤਿੰਨੇ ਗੁਣ ਭੀ ਉਸ ਦੇ ਆਪੇ ਤੋਂ ਹੀ ਪੈਦਾ ਹੋਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੇ ਮੁਖਿ = ਬ੍ਰਹਮਾ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

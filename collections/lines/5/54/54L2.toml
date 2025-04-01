@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਬਹੁ-ਮੁੱਲੀ ਉਮਰ ਜਿਹੜੀ ਜ਼ਾਇਆ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਉਮਰਿ ਗਿਰਾਣ-ਮਾਯਾ ਕਿ ਬਰਬਾਦ ਸ਼ਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

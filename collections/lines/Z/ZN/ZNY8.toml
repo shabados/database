@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦਾ, ਕਿਹੜੀ (ਕੋਝੀ) ਮੱਤੇ ਲੱਗਾ ਹੋਇਆ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਪਹੁ = ਤੂੰ ਨਹੀਂ ਸਿਮਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

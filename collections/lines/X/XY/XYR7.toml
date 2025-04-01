@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦਾ ਮੁਰੀਦ ਮਨੁੱਖ ਪਰਾਏ ਘਰ ਵਿਚ ਆਪਣੇ ਚਿਤ ਨੂੰ ਡੁਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਘਰਿ = ਪਰਾਏ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

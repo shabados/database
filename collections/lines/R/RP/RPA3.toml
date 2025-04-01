@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਮਨੁੱਖ ਔਖੀਆਂ ਡਰਾਉਣੀਆਂ ਜਟਾਂ ਵਧਾ ਲੈਂਦੇ ਹਨ (ਫ਼ਕੀਰ ਬਣ ਕੇ ਆਪਣੀ) ਕੁਲ ਤੇ ਆਪਣਾ ਘਰ ਗਵਾ ਲੈਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਟ = ਔਖੀਆਂ। ਬਿਕਰਾਲ = ਡਰਾਉਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

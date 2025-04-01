@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਇਹ ਕੰਮ ਇਸ ਦਾ ਆਪਣਾ ਕੁਝ ਨਹੀਂ ਸਵਾਰਦੇ) ਜਿਵੇਂ ਕੰਜੂਸ ਦਾ ਧਨ ਉਸ ਦੇ ਆਪਣੇ ਕਿਸੇ ਕੰਮ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਨ = ਕੰਜੂਸ। ਨਿਰਾਰਥ = ਵਿਅਰਥ। ਦਾਮ = ਪੈਸੇ, ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

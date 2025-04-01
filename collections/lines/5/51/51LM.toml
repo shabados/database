@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਦੀ ਇਸ ਆਤਮਕ ਉੱਚਤਾ ਨੂੰ ਕਦੇ ਬੁਢੇਪਾ ਨਹੀਂ ਆਉਂਦਾ, ਕਦੇ ਮੌਤ ਨਹੀਂ ਆਉਂਦੀ, ਉਸ ਨੂੰ ਫਿਰ ਕਦੇ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰਾ = ਬੁਢੇਪਾ। ਮਰਾ = ਮੌਤ, ਆਤਮਕ ਮੌਤ। ਨਹ ਵਿਆਪਈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

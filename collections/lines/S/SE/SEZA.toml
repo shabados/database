@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮਦੇਵ ਨਾਲ ਸਾਵਾਂ ਤੋਲ ਕੇ ਸੋਨਾ ਲੈ ਲੈ (ਤੇ ਇਸ ਨੂੰ ਛੱਡ ਦੇ) ॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰ ਭਰਿ = ਤੋਲ ਬਰਾਬਰ ॥੧੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

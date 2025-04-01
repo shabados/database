@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਖ, ਜਿਵੇਂ ਘੁੰਮਣ-ਘੇਰੀ ਵਿਚ ਰੇਤ ਦਾ ਘਰ ਬਣਿਆ ਹੋਇਆ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲੂ = ਰੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

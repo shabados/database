@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸੱਚਾ ਪ੍ਰਭੂ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਦਰਗਾਹ ਵਿਚ ਉੱਜਲੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਜਲੇ = ਖਿੜੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਤੋਂ ਹਰ ਹਾਜਤਮੰਦ ਦੀ ਮੁਰਾਦ ਪੂਰੀ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਹਾਸਿਲ ਉਮੀਦਿ ਹਰ ਮੁਸਤਮੰਦ ।੨੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

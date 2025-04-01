@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਇਕੱਲਾ ਹੀ ਪ੍ਰੀਤ ਦੀ ਅੱਗ ਵਿਚ ਨਹੀਣ ਸੜਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਨ ਤਿਨਹਾ ਬਿਸੋਖ਼ਤਮ ਅਜ਼ ਇਸ਼ਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

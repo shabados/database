@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਤ੍ਰੈ-ਗੁਣੀ ਜੀਵ ਠੱਗੇ ਜਾ ਰਹੇ ਹਨ, ਦੇਵਤੇ ਭੀ ਠੱਗੇ ਜਾ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਕਾਸੁ = (ਭਾਵ), ਆਕਾਸ਼-ਵਾਸੀ, ਦੇਵਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

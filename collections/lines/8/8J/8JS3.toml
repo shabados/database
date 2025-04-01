@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਉਹ ਪੰਛੀ ਜੋ (ਫਲ ਖਾਣ ਦੀ) ਆਸ ਰੱਖ ਕੇ (ਇਸ ਉਤੇ) ਆ ਬੈਠਦੇ ਹਨ, ਉਹ ਨਿਰਾਸ ਹੋ ਕੇ ਕਿਉਂ ਜਾਂਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ = ਕਿਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

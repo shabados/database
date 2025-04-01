@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਵਰਨੇ ਜਾਂਦਾ ਹਾਂ ਉਹਨਾਂ ਤੋਂ ਜੋ ਤੇਰਾ ਨਾਮ ਸਿਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਾ ਕੈ = ਉਹਨਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

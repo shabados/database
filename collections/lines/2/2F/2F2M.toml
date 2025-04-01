@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਗੋਯਾ ਦੀ ਮੰਦੀ ਹਾਲਤ ਵਲ ਕਿਉਣ ਨਹੀਣ ਇੱਕ ਨਜ਼ਰ ਕਰਦਾ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਰਾ ਬਹਾਲਤਿ ਗੋਯਾ ਨਜ਼ਰ ਨਮੀ ਫ਼ਿਗਨੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

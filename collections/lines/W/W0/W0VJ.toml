@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ (ਸ਼ਰਨ ਪਿਆਂ ਦੇ) ਸਾਰੇ ਰੋਗ ਦੂਰ ਕਰ ਦਿੱਤੇ ॥੨॥੨੪॥੮੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਪ੍ਰਭੂ ਨੇ ॥੨॥੨੪॥੮੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

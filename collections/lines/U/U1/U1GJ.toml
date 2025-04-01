@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਸੱਪ ਹੈ ਵੱਡਾ ਸੱਪ। ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ ਜ਼ਹਰ ਦਾ ਭਰਿਆ ਇਹ ਮਾਇਆ-ਸੱਪ ਜਗਤ ਨੂੰ ਘੇਰੀ ਬੈਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਇਅੰਗਮੁ = ਸੱਪ। ਸਰਪੁ = ਸੱਪ। ਬਿਖੁ = ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ ਜ਼ਹਰ। ਮਾਇ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

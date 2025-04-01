@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਪਿਆਰ-ਰੰਗ ਵਿਚ (ਟਿਕ ਕੇ) ਉਸ ਦੇ ਗੁਣ ਗਾਏ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ। ਗਾਈਅਹਿ = ਗਾਏ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ। ਕੈ ਰੰਗੇ = ਦੇ ਪਿਆਰ-ਰੰਗ ਵਿਚ (ਟਿਕ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜ਼ਮਾਨੇ ਨੂੰ ਜਾਨ ਬਖਸ਼ਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਂ-ਫ਼ਰੋਜ਼ਿ ਦਹਿਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 112
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

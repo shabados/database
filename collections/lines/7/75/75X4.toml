@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ (ਭੀ ਉਸ ਦਾ) ਮੂੰਹ ਰੌਸ਼ਨ ਰਹਿੰਦਾ ਹੈ (ਕਿਉਂਕਿ) ਮਾਇਆ ਉਸ ਉਤੇ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ। ਊਜਲ = ਰੌਸ਼ਨ। ਪੋਹੈ = ਆਪਣਾ ਜ਼ੋਰ ਪਾ ਸਕਦੀ। ਮਾਇ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

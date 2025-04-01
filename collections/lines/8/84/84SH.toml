@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਧਰ ਕਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਕੇਵਲ ਗੁਰੂ ਦੀ ਸਰਨ ਦੀ ਰਾਹੀਂ ਹੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤ = ਜਿਧਰ ਕਿਧਰ। ਪੇਖਉ = ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਸਾਧੂ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ) ਮਨੁੱਖ ਸਾਰੇ ਮਨੁੱਖਾਂ ਵਿਚੋਂ ਵੱਡਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਪੁਰਖ = ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

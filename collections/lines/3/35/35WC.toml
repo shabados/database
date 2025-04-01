@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਮਨ (ਕਿਸੇ ਕਸ਼ਟ ਵੇਲੇ) ਡੋਲਦਾ ਨਹੀਂ, ਉਸ ਦੇ ਸਰੀਰ ਨੂੰ (ਕਸ਼ਟ ਦੇ ਦੇ ਕੇ) ਡਰਾਉਣ ਤੋਂ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਿਗੈ = ਡੋਲਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

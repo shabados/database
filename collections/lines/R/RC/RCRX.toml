@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਾਲਕ ਆਪਣੇ ਨੌਕਰ ਨੂੰ ਕੋਈ ਕਸ਼ਟ ਦੇਵੇ, ਤੇ ਨੌਕਰ (ਉਸ ਕਸ਼ਟ ਤੋਂ ਡਰਦਾ) ਨੱਠ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਟਵੈ = ਸੰਕਟ ਦੇਵੇ। ਭਜੈ = ਨੱਠ ਜਾਏ, ਛੱਡ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

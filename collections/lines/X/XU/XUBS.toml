@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਸ ਪ੍ਰਭੂ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ) ਜਿਸ (ਦੀ ਹਸਤੀ) ਦਾ ਅੰਤ ਕੋਈ ਭੀ ਜੀਵ ਜਾਣ ਨਹੀਂ ਸਕੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਸਿ = ਜਣ ਸਕੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

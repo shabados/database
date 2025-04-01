@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਦਲਾਣ ਦੇ ਪਿੱਛੋਣ ਆਪਣਾ ਪੂਰਨ ਚੰਦਰਮਾ ਵਰਗਾ ਮੁਖੜਾ ਵਿਖਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰ ਅਜ਼ ਅਬਰੋ ਨੁਮਾ ਰੁਖਿ ਹਮਚੂ ਬਦਰ ।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

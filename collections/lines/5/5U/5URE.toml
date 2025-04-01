@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ ਕਿ ਕੁਝ ਪਿੰਡ ਦਾ ਹਿਸਾਬ-ਕਿਤਾਬ ਰਹਿ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ। ਗਾਵ = ਪਿੰਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

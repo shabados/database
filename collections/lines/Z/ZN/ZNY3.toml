@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਆਖਦਾ ਰਹੁ- ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਮਾਲਕ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਅਕਾਲ ਪੁਰਖ! ਮਿਹਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖ ਗੁਣਤਾਸਿ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਅਕਾਲ ਪੁਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

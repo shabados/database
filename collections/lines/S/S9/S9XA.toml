@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਦੀ ਖ਼ਾਤਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਨ = ਚਰਨ-ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

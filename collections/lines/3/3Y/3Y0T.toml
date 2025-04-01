@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਨੂੰ ਕੋਈ ਅਕਲ-ਸ਼ਊਰ ਨਹੀਂ ਹੁੰਦੀ, ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਤਾਂ ਚੰਗਾ ਸਮਝਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਸ ਕਉ = ਆਪਣੇ ਆਪ ਨੂੰ। ਮਨਮੁਖਿ = ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

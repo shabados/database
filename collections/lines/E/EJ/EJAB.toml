@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਦਿਲ ਰੱਬ ਦੇ ਨੂਰ ਨਾਲ ਚਮਕਦਾ ਪਿਆ ਸੂਰਜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਸ਼ ਮਿਹਰਿ ਰਖ਼ਸ਼ਾਂ ਜ਼ਿ ਅਤਵਾਰਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

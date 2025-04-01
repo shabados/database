@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਵੀ ਗੋਯਾ ਵਾਣਗ ਆਦਿ ਦਿਨ ਤੋਣ ਹੀ ਮਸਤ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਨੀਜ਼ ਚੂ ਗੋਯਾ ਜ਼ਿ ਅਜ਼ਲ ਮਸਤ ਈਸਤਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

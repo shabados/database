@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਇਸ ਸੋਹਣੇ ਰੰਗ ਵਾਲੇ ਸਰੀਰ ਨੂੰ ਵੇਖ ਕੇ ਭੀ ਅਹੰਕਾਰ ਨਾਹ ਕਰੀਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ, ਕਾਂਇਆਂ। ਸੁਰੰਗ = ਸੋਹਣੇ ਰੰਗ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

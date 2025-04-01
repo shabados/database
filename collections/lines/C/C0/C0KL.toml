@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਤਕ ਮੈਂ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਪੋਟਲੀ (ਸਿਰ ਤੇ) ਚੁੱਕ ਕੇ ਤੁਰਦਾ ਰਿਹਾ, ਤਦ ਤਕ ਮੈਂ (ਦੁਨੀਆ ਦੇ ਡਰਾਂ-ਸਹਮਾਂ ਦਾ) ਡੰਨ ਭਰਦਾ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਟ = (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਪੋਟਲੀ। ਡਾਨ = ਡੰਨ, ਸਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

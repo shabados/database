@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰ) ਆਨੰਦ ਦੇ ਵਾਜੇ ਇੱਕ-ਰਸ ਵੱਜਦੇ ਹਨ, ਅਕਾਲ ਪੁਰਖ ਉਸ ਨੂੰ ਆਪ ਆਪਣੇ ਗਲ ਲਾਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨੰਦ ਵਾਜੇ = ਆਨੰਦ ਦੇ ਵਾਜੇ। ਅਨਹਦ = ਇੱਕ-ਰਸ, ਲਗਾਤਾਰ। ਗਲਿ = ਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

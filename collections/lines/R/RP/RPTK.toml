@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਓ! ਜਿਸ (ਸੁਭਾਗੀ) ਦੇ ਅੰਦਰ ਗੋਪਾਲ-ਪ੍ਰਭੂ ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ ਨੂੰ, ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

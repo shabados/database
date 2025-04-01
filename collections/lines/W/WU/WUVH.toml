@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਬੀਤ ਜਾਂਦੀ ਹੈ, ਤਦੋਂ ਉਹ ਪਛੁਤਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

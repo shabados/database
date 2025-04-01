@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ ਦੇ (ਮਾਲਕ) ਪ੍ਰਭੂ! (ਸਾਨੂੰ) ਆ ਮਿਲ, (ਮਿਹਰ ਕਰ) ਅਸੀਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦੇ ਰਹੀਏ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹ = ਅਸੀਂ ਗਾਂਦੇ ਹਾਂ। ਛੰਤ = ਗੀਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਹੀ) ਮੇਰਾ ਸਭ ਤੋਂ ਵੱਡਾ ਆਸਰਾ ਹੈਂ। ਮੈਂ ਤੇਰੀ ਹੀ ਓਟ ਫੜੀ ਹੈ (ਕਿਸੇ ਤੀਰਥ ਉੱਤੇ ਵੱਸਣ ਦਾ ਤਕੀਆ ਮੈਂ ਨਹੀਂ ਤੱਕਿਆ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੁ ਪਰਬਤੁ = ਸਭ ਤੋਂ ਉੱਚਾ ਪਰਬਤ, ਸਭ ਤੋਂ ਵੱਡਾ ਆਸਰਾ। ਓਟ = ਆਸਰਾ। ਗਹੀ = ਫੜੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

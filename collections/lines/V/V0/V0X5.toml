@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇਹੜਾ ਮਨੁੱਖ ਹਰਿ-ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰਦਾ ਹੈ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਉਸ ਦੇ ਕੰਮ ਆਉਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = {अत्र} ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = {परत्र} ਪਰਲੋਕ ਵਿਚ। ਤਾ ਕੈ ਕਾਮ = ਉਸ ਮਨੁੱਖ ਦੇ ਕੰਮ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

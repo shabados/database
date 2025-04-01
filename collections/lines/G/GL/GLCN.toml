@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅੱਖਾਂ ਦੀਆਂ ਪੁਤਲੀਆਂ ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਕਾਰਨ ਪੂਰੀ ਤਰ੍ਹਾਂ ਰੋਸ਼ਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਦੁਮਾਨਿ ਦੀਦਾ ਰੋਸ਼ਨ ਸ਼ੁਦ ਅਜ਼ੋ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

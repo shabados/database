@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜਿੰਦੇ!) ਤੂੰ ਉਸ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਿੜਕਣ ਵਾਲੀ ਬਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਹੁ = ਬਣ। ਤਾ ਕੀ = ਉਸ ਪ੍ਰਭੂ ਦੀ (ਜਾ ਕੇ = ਜਿਸ ਪ੍ਰਭੂ ਦੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

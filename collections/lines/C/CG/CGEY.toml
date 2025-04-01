@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਹੀਏਂ ਸੰਤ ਜਨਾਂ ਨੇ ਹੀ ਅਮੋਲਕ ਮਨੁੱਖਾ ਜੀਵਨ ਦੀ ਬਾਜ਼ੀ ਜਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤੀ = ਸੰਤੀਂ, ਸੰਤਾਂ ਨੇ। ਅਪਾਰੁ = ਅਮੋਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

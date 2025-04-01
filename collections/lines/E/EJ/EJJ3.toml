@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਮੇਰਾ ਪਿਆਰਾ ਪ੍ਰਭੂ ਆਪ ਹੀ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਚੋਜ ਤਮਾਸ਼ੇ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਬਿਧਿ = ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ। ਰੰਗੁਲਾ = ਚੋਜ ਕਰਨ ਵਾਲਾ। ਲਾਲੁ = ਪਿਆਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

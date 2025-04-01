@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਨਿਰੀ ਸ਼ਰ੍ਹਾ ਆਦਿ (ਭਾਵ, ਬਾਹਰਲੀਆਂ ਧਾਰਮਿਕ ਰਸਮਾਂ) ਦੀ ਹੀ ਵਿਚਾਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੈ = ਸ਼ਰ੍ਹਾ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਵੀ ਬੰਦਗੀ ਕਰ ਤਾਣ ਜੋ ਉਸ (ਰੱਬ) ਅੱਗੇ ਪਰਵਾਨ ਹੋ ਜਾਵੇਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਕੁਨ ਜਾਣ ਕਿ ਊ ਬਾਸ਼ਦ ਕਬੂਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੇ ਅੰਦਰ ਬੇਅੰਤ ਅਉਗਣ ਹਨ, ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ, ਮੈਂ ਮੁੜ ਮੁੜ ਔਗਣ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤ ਨ ਆਵੈ = ਗਿਣਤੀ ਕੀਤੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

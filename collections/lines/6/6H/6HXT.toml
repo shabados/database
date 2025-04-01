@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਰਾਤ ਵੇਲੇ ਬਿਜਲੀ ਦੀ ਚਮਕ ਨਾਲ ਮਨੁੱਖ (ਹਨੇਰੇ ਵਿਚ) ਚਾਨਣ ਵੇਖ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ ਵੇਲੇ। ਦਾਮਨਿ = ਬਿਜਲੀ। ਚੰਦਾਇਣੁ = ਚਾਨਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

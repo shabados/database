@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣਕਿ ਇਹ ਰਸਤਾ ਤਾਣ ਰੱਬ ਦੇ ਸੂਰਮੇ ਭਗਤਾਣ ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਈਣ ਰਾਹ ਤਅੱਲਕਿ ਮੰਜ਼ਲਿ ਮਰਦਾਨਸਤ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

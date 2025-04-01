@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੇਰੇ ਮਨ ਨੇ ਸਾਰੇ ਹੀ ਸੁਖ ਪ੍ਰਾਪਤ ਕਰ ਲਏ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਨੇ। ਸਭਿ = ਸਾਰੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

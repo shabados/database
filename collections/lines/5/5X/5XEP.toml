@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਮਾਂ! ਮੈਂ ਕਿਸ ਨੂੰ ਦੱਸਾਂ ਆਪਣੇ ਦਿਲ ਦੀ ਪੀੜ? (ਬਿਗਾਨੀ ਪੀੜ ਦੀ ਸਾਰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਬੇਦਨ = ਮੇਰੇ (ਦਿਲ ਦੀ) ਪੀੜ। ਆਖਾ = ਮੈਂ ਆਖਾਂ। ਮਾਈ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

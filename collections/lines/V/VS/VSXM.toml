@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਮੇਹਰ ਕਰ ਕੇ ਆਪਣੇ ਨਾਲ ਮਿਲਾ ਲਿਆ ਹੈ, ਆਪਣੇ ਗਲ ਨਾਲ ਲਾ ਲਿਆ ਹੈ ॥੨੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸਿ = ਬਖ਼ਸ਼ ਕੇ, ਮੇਹਰ ਕਰ ਕੇ। ਮਿਲਾਇਅਨੁ = ਉਸ ਨੇ ਮਿਲਾ ਲਏ। ਗਲਿ = ਗਲ ਨਾਲ ॥੨੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

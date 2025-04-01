@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਆਪਣਾ ਸਰੀਰ) ਪਾਲਣ ਪੋਸਣ ਵਿਚ ਹੀ ਤੇਰੀ ਉਮਰ ਲੰਘਦੀ ਜਾ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਣ ਪੋਖਣ = ਪਾਲਣ ਪੋਸਣ। ਸੰਗਿ = ਨਾਲ। ਅਉਧ = ਉਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

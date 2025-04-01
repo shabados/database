@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਨ, ਦੌਲਤ ਤੇ ਮਾਇਆ ਇਕੱਠੀ ਕਰੀਦੀ ਹੈ, ਪਰ ਅਖ਼ੀਰ ਨੂੰ ਦੁਖਦਾਈ ਹੁੰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪੈ = ਦੌਲਤ। ਸੰਚੀਐ = ਇਕੱਠਾ ਕਰੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

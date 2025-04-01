@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਉਸ ਨੇ ਬਣਾਇਆ ਹੈ ਉਹ ਭੀ ਮੁਕੰਮਲ ਹੈ (ਭਾਵ, ਅਧੂਰਾ ਨਹੀਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ ਟਿਕਿਆ ਰਹਿਣ ਵਾਲਾ, ਮੁਕੰਮਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

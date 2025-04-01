@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਇਕ ਐਸਾ ਲਾਲ ਹੈ ਜਿਹੜਾ ਕਿਸੇ (ਦੁਨੀਆਵੀ) ਕੀਮਤ ਤੋਂ ਨਹੀਂ ਮਿਲਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੋਲਾ = ਜਿਹੜਾ ਕਿਸੇ ਭੀ ਕੀਮਤ ਤੋਂ ਨਾਹ ਮਿਲ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

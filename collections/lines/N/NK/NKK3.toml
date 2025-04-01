@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਮੇਰੇ ਸੱਜਨ ਵਲ ਜਾਣ ਲਈ ਛੇਤੀ ਹੀ ਰਿਹਾਈ ਮਿਲ ਜਾਵੇਗੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸੂਇ ਦੋਸਤ ਰਹਾਈ ਦਿਹੰਦ ਜ਼ੂਦ ਮਰਾ ।੬।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

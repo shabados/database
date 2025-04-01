@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਗਤ ਵਿਚ (ਸਭ ਰੋਗਾਂ ਦੀ) ਦਵਾਈ ਹੈ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਆਤਮਕ) ਸ਼ਾਂਤੀ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਅਵਖਧੁ = ਦਵਾਈ। ਸਾਤਿ = ਸ਼ਾਂਤਿ (ਦੇਣ ਵਾਲਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

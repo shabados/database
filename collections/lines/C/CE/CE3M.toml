@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮੈਨੂੰ (ਭੀ) ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਮਿਲਾ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਮੋਹਿ = ਮੈਨੂੰ। ਦੇਹੁ ਮਿਲਾਈ = ਮਿਲਾਇ ਦੇਹੁ, ਮਿਲਾ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

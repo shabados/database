@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਚੀ ਜਾਤਿ ਦੇ ਹੋਣ ਚਾਹੇ ਨੀਵੀਂ ਜਾਤਿ ਦੇ, ਜਿਨ੍ਹਾਂ ਨੇ ਹਰੀ-ਨਾਮ ਸਿਮਰਿਆ ਹੈ ਉਹਨਾਂ ਨੇ ਇਹ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ (ਨਾਮ-) ਪਦਾਰਥ ਹਾਸਲ ਕਰ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਜਾਤਿ = ਨੀਵੀਂ ਜਾਤਿ। ਪਰਮ = ਸਭ ਤੋਂ ਉੱਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

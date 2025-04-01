@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਇਸ ਵਿਛੋੜੇ ਦੀ ਪੀੜ ਅਤੇ ਇਸ ਬੰਧਣ ਤੋਂ ਛੁਤਕਾਰਾ ਪਾ ਲਵਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਦਿਲਿ ਮਰਾ ਖ਼ਲਾਸੀਏ, ਅਜ਼ ਦਰਦਨਾਕ ਦੇਹ ।੬੨।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

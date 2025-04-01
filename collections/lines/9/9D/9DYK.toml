@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਇਹ ਫਾਹੀਆਂ ਕੱਟ ਸਕਣ ਵਾਲਾ ਪਰਮਾਤਮਾ (ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਟਨਹਾਰੁ = ਕੱਟ ਸਕਣ ਵਾਲਾ ਪ੍ਰਭੂ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

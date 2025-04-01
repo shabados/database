@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ) ਜਿੰਦ ਪ੍ਰਾਣ ਸਰੀਰ ਤੇ ਧਨ ਦਿੱਤਾ ਤੇ ਸੁਆਦਲੇ ਪਦਾਰਥ ਭੋਗਣ ਨੂੰ ਦਿੱਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਰਸੁ = ਸੁਆਦਲੇ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

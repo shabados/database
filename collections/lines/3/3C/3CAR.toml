@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ (ਪਰਮਾਤਮਾ ਦੇ ਦਰ ਤੇ) ਇਕ (ਇਹ) ਅਰਦਾਸ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ ਕਰ = ਦੋਵੇਂ ਹੱਥ। ਬਿਨਉ = ਬੇਨਤੀ {विनय। ਪੁਲਿੰਗ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

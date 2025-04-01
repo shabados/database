@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੇਵਲ ਬਾਣੀ ਹੀ ਪ੍ਰਮਾਣੀਕ ਗੁਰੂ ਹੈ, ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਹੀ ਵਿਚਾਰੋ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਾ, ਇਕੁ, ਇਕੋ = ਕੇਵਲ, ਸਿਰਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

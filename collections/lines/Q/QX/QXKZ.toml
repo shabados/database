@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਉਂ ਜਿਉਂ ਰਾਤਿ ਦਿਨ ਬੀਤਦੇ ਹਨ ਉਮਰ ਦਾ ਸਮਾ ਘਟਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਤੀ ਦਿਨਿ = ਰਾਤਿ ਤੇ ਦਿਨ ਦੀ ਰਾਹੀਂ; (ਭਾਵ) ਜਿਉਂ ਜਿਉਂ ਦਿਨ ਰਾਤਿ ਬੀਤਦੇ ਹਨ। ਕਾਲੁ = ਜ਼ਿੰਦਗੀ ਦਾ ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

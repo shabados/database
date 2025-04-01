@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਬੇਅੰਤ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦੀ ਜਿੰਦ ਦੇ) ਕਈ ਮਾਂ ਪਿਉ ਪੁੱਤਰ ਧੀਆਂ ਬਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੇ = ਕਈ। ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

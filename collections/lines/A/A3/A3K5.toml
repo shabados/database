@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਭਗਤ ਤੇਰੇ ਨਾਮ ਦੀ ਰਸਾਇਣ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨੁ = ਸੇਵਕ, ਭਗਤ। ਰਸਾਇਣਿ = ਰਸਾਇਣ ਵਿਚ। ਰਸਾਇਣ = {रस = अयन = ਰਸਾਂ ਦਾ ਘਰ} ਉਹ ਦਵਾਈ ਜੋ ਉਮਰ ਲੰਮੀ ਕਰੇ ਤੇ ਬੁਢੇਪਾ ਨਾਹ ਆਉਣ ਦੇਵੇ। ਮਾਤਾ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

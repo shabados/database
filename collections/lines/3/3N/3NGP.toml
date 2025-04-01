@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਇਹੋ ਜਿਹਾ ਮਨੁੱਖ ਅਸਲ) ਜੋਗੀ ਹੈ, ਅਤੇ ਉਹ ਕਦੇ ਡੋਲਦਾ ਨਹੀਂ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਿਰੁ = ਅਡੋਲ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

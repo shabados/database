@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਉੱਪਰ ਤਣੇ ਹੋਏ ਅਕਾਸ਼ (ਜੋ ਦਿੱਸਦੇ ਹਨ, ਇਹ ਭੀ) ਭੈ ਵਿਚ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਡਾਣੇ = ਤਣੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮ ਨੂੰ ਧਰਤੀ ਬਣਾਵੋ, ਉਸ ਵਿਚ ਸੁੱਚਾ ਆਚਰਨ ਬੀ ਬੀਜੋ। ਬੱਸ! ਇਹੋ ਜਿਹੀ (ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਪ੍ਰਫੁਲਤ ਕਰਨ ਵਾਲੀ) ਖੇਤੀ-ਵਾਹੀ ਕਰੋ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤੁ = ਉੱਚਾ ਆਚਰਨ। ਕਿਰਸ = ਕਿਰਸਾਣੀ, ਵਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

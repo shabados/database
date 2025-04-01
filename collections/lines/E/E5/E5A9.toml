@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰਾ ਸੰਸਾਰ ਉਸ ਦੇ ਵੱਸ ਵਿਚ ਹੈ, ਸਾਰਾ ਜਗਤ ਉਸੇ ਦੇ ਆਸਰੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਰਾ = ਪੱਲਾ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

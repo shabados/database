@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ (ਮਨ ਵਿਚ) ਰਤਾ ਭਰ ਭੀ ਕੋਈ ਹੋਰ ਝਾਕ ਹੈ ਕਿਸੇ ਹੋਰ ਆਸਰੇ ਦੀ ਭਾਲ ਹੈ ਤਦ ਤਕ ਬਿਰਹੋਂ-ਅਵਸਥਾ ਪੈਦਾ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੀ = ਕੋਈ ਹੋਰ ਝਾਕ। ਰਾਈ = ਰਤਾ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

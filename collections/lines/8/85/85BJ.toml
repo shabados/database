@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਦੇ ਭਾ ਦੇ, ਮਾਨੋ, ਸਾਰੇ ਵਰਤ ਨੇਮ, ਸਾਰੇ ਤੀਰਥ ਇਸ਼ਨਾਨ ਅਤੇ ਸਾਰੀਆਂ ਪੂਜਾ ਹੋ ਗਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਜਨ = ਇਸ਼ਨਾਨ {ਬਹੁ-ਵਚਨ}। ਤਿਸੁ = ਉਸ (ਮਨੁੱਖ) ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

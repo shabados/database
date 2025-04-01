@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੇ ਰਾਹਾਣ ਤੋਣ ਕਈ ਸਿਆਣੇ ਕੁਰਬਾਨ ਜਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸ ਬਜ਼ੁਰਗ਼ਾਣ ਕੂ ਫ਼ਿਦਾਇ ਰਾਹਿ ਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

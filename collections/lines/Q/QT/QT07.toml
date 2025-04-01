@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੌਤ ਆਇਆਂ) ਸਿਮਰਨ ਦਾ ਸਮਾ ਮਿਲ ਨਹੀਂ ਸਕਦਾ। ਆਖ਼ਰ (ਮੂਰਖ ਜੀਵ) ਪਛੁਤਾਂਦਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਥਿ = ਹੱਥ ਵਿਚ। ਆਵਈ = ਆਵਏ, ਆਵੈ, ਆਉਂਦਾ। ਅੰਤਿ = ਆਖ਼ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

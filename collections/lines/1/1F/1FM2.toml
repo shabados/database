@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਸੱਚੇ ਗਿਆਨਵਾਨਾਂ ਦੀ ਰੀਤੀ ਅਨੁਸਾਰ, ਤੂੰ ਮੰਨ ਲੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਤਰੀਕਿ ਆਰਿਫ਼ਾਨਿ ਹੱਕ ਗੁਜ਼ਾਰ ।੩੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

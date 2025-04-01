@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜਿੰਦੇ! ਤੂੰ ਉਸ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਚਿੱਤ ਜੋੜ) ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਜਿਸ ਦੇ (ਨਾਮ-ਅੰਮ੍ਰਿਤ) ਦੁੱਧ ਦੇ ਸੋਮੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਗਮ = ਵੇਦ ਆਦਿਕ ਧਰਮ = ਪੁਸਤਕ। ਠਾਟਾ = ਠਣ, {Skt. स्तन}। ਦੂਧ ਕੇ ਠਾਟਾ = ਦੁੱਧ ਦੇ ਥਣ, ਦੁੱਧ ਦਾ ਸੋਮਾ, ਅੰਮ੍ਰਿਤ ਦਾ ਸੋਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

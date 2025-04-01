@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ-ਵੇੜ੍ਹੇ ਮਨੁੱਖ ਦੀ ਇਕੱਲੀ ਆਪਣੀ ਜਿੰਦ ਉਸ (ਮੌਤ ਦੀ) ਫਾਹੀ ਵਿਚ ਫਸੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜੈ = ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

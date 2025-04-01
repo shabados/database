@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਅਜਿਹੀ ਸੰਗਤ ਬਖਸ਼ ਜੋ ਗ਼ਮਾਂ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲੀ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤੇ ਆਂ ਦਿਹ ਕਿ ਬਾਸ਼ਦ ਗ਼ਮਗ਼ੁਸਾਰ ।੪੬੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

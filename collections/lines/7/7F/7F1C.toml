@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਦੁਨੀਆ ਅੱਗ (ਵਾਂਗ) ਹੈ ਤੇ ਤੇਰਾ ਨਾਮ ਠੰਢ ਪਾਣ ਵਾਲਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਤਸ = ਆਤਸ਼, ਅੱਗ। ਖੁਨਕ = ਖ਼ੁਨਕ, ਠੰਢਾ।॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

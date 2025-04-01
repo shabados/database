@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਕੋਈ ਬੱਚਾ ਆਪਣੀ ਲਗਨ ਅਨੁਸਾਰ ਸੁਭਾਵ ਅਨੁਸਾਰ ਲੱਖਾਂ ਗ਼ਲਤੀਆਂ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਇ = ਪ੍ਰੇਮ ਨਾਲ, ਆਪਣੀ ਲਗਨ ਨਾਲ। ਸੁਭਾਈ = ਆਪਣੇ ਸੁਭਾਵ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

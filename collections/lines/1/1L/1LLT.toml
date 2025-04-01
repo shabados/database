@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸਤ੍ਰੀ ਦਾ) ਪਤੀ ਪਰਦੇਸ ਵਿਚ ਹੋਵੇ ਤੇ ਉਹ (ਆਪਣੇ ਸਰੀਰ ਦਾ) ਸ਼ਿੰਗਾਰ ਕਰਦੀ ਰਹੇ (ਅਜੇਹੀ ਇਸਤ੍ਰੀ ਨੂੰ ਸੁਖ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਦੇਸਿ = ਪਰਦੇਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

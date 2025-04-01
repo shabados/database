@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ (ਹੀ) ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਹੈ, ਗੁਰੂ ਮੇਰਾ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਨਿ = ਜ਼ਿੰਦਗੀ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

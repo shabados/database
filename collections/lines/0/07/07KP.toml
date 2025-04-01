@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਪਹੁੰਚ ਪ੍ਰਭੂ! ਹੇ ਅਥਾਹ ਪ੍ਰਭੂ! ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਗਾਧਿ = ਅਥਾਹ। ਆਪਾਰ = ਅਪਾਰ, ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

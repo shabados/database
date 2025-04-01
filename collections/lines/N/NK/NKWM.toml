@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੁਆਨੀ ਦਾ ਵੇਲਾ ਗਵਾ ਕੇ ਹੁਣ ਪਿਛੋਂ ਮੈਂ ਝੁਰ ਰਹੀ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਇ = ਗਵਾ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸਦੇ ਭਗਤ ਉਸ ਦਾ ਤੇਜ-ਪਰਤਾਪ ਜਾਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣਹਿ = ਜਾਣਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

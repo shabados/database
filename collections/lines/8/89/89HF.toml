@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਕੀ ਤਾਣ ਸਾਰੇ ਮੋਇਆਣ ਬਰਾਬਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਗਰਾਣ ਮੁਰਦੰਦ ਈਹਾਣ ਜ਼ੀਸਤੰਦ ।੧੪੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

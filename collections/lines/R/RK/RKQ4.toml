@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ, ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਸਾਰੇ ਦੁੱਖ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

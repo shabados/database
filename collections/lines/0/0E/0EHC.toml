@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦਾ ਇਹ ਮਨ ਖਿੜ ਪੈਣ ਨਾਲ ਉਸ ਦੇ ਅੰਦਰ ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੁ = ਇਸ ਦੀ ਰਾਹੀਂ। ਇਤੁ ਮਨਿ = ਇਸ ਮਨ ਦੀ ਰਾਹੀਂ। ਇਤੁ ਮਨਿ ਮਉਲਿਐ = ਜੇ ਇਹ ਮਨ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ ਹੋ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

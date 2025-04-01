@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਰੱਬ ਮਿਲ ਜਾਵੇ, ਤਾਂ ਤੂੰ ਇਸਨੂੰ ਇੱਕ ਚਮਤਕਾਰ ਸਮਝ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਆਰਫ਼ ਮੁਯੱਸਰ ਗਰ ਸ਼ਵਦ ਈਂ ਅਜਬ ਦਾਂਅ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

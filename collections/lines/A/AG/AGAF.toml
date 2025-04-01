@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਬ੍ਰਹਮੇ ਵਿਸ਼ਨੂ ਅਤੇ ਸ਼ਿਵ ਪ੍ਰਭੂ ਨੂੰ ਯਾਦ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੇ = {ਬਹੁ-ਵਚਨ} ਅਨੇਕਾਂ ਬ੍ਰਹਮੇ। ਬਿਸਨ = {ਬਹੁ-ਵਚਨ}। ਮਹੇਸਾ = ਸ਼ਿਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮੂਰਖ ਮਨ! ਮੈਂ ਤੈਨੂੰ ਕਿਤਨਾ ਕੁ ਸਮਝਾ ਸਮਝਾ ਕੇ ਦੱਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਆਖਉ = ਮੈਂ ਆਖਾਂ। ਕੇਤੜਾ = ਕਿਤਨਾ ਕੁ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

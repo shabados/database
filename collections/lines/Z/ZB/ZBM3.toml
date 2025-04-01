@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ੋਰ ਹੁੰਦਿਆਂ ਕਮਜ਼ੋਰਾਂ ਵਾਂਗ ਜੀਵੇ (ਭਾਵ, ਕਿਸੇ ਉਤੇ ਧੱਕਾ ਨਾ ਕਰੇ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣੁ = ਜ਼ੋਰ, ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

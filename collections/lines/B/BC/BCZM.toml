@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! ਤੂੰ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਕਿਉਂ ਆਪਣਾ ਖਸਮ ਨਹੀਂ ਬਣਾਉਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਰੀ = ਹੇ ਦਾਸੀ! ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀ! ਹੇ ਜਿੰਦੇ! ਨ ਕਰਸਿ = ਤੂੰ (ਕਿਉਂ) ਨਹੀਂ ਕਰਦੀ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

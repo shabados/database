@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ-ਮੇਰੇ ਮਨ! ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਧਿਆਨ ਧਰ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਰਹੁ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

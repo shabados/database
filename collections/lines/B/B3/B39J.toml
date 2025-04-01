@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੇ ਜਗਤ ਦੇ ਜੀਵਨ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ। ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

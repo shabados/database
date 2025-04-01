@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਮ ਧਰਤੀ ਅਤੇ ਆਕਾਸ਼ ਵਿਚ ਸਮਾਇਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਜ਼ਮੀਨੋ ਆਸਮਾਂ ਨਾਮਸ਼ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

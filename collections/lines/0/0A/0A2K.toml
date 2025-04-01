@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਅੰਮ੍ਰਿਤ ਵੇਲੇ) ਇਸ਼ਨਾਨ ਕਰ ਕੇ, ਆਪਣੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ ਮਨ ਅਤੇ ਸਰੀਰ ਨਰੋਏ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਸਿਮਰਿ = ਸਿਮਰ ਕੇ। ਅਰੋਗਾ = ਨਰੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

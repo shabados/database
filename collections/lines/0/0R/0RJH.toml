@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ (ਜਿਸ ਘੜੀ ਨਾਮ ਜਪੀਦਾ ਹੈ) ਉਹ ਘੜੀ ਸੁਲੱਖਣੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲਿ = ਬੋਲਿਆ ਕਰ, ਜਪਿਆ ਕਰ। ਸਾ ਘਰੀ = ਉਹ ਘੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

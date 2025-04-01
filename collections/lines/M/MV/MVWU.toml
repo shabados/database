@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੂੰ ਇਕ ਐਸਾ ਬੇਅੰਤ ਸਮੁੰਦਰ ਹੈਂ ਕਿ) ਤੇਰਾ ਖਿਲਾਰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਰਾ = ਪੱਲਾ, ਪਾਟ, ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

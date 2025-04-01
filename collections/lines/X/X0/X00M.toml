@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦਾ ਤਾਲਬ ਹੈ ਅਤੇ ਲੋਕਾਂ ਦਾ ਚਹੇਤਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬੋ ਮਤਲੂਬ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੩।"
+page = 10
+line = 113
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

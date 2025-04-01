@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਉਹ ਆਪਣੇ ਅਸਲੇ ਨੂੰ ਪਛਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੇ = ਸ਼ਬਦ ਵਿਚ (ਜੁੜ ਕੇ)। ਆਪੁ = ਆਪਣੇ ਅਸਲੇ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਉਸ ਦੀ ਮਿਹਰ ਨਾਲ) ਪੂਰੇ ਗੁਰੂ ਦੇ ਚਰਨ ਮਨ ਵਿਚ ਆ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਵੁਠੇ = ਵੁਠੇ, ਵੱਸ ਪਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਿਤੇ ਕੋਈ ਅਜੇਹਾ ਮਨੁੱਖ ਭੀ ਮਿਲ ਜਾਇਗਾ, ਜੋ ਮੇਰੀ ਹਉਮੈ ਦਾ ਨਾਸ਼ ਕਰ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈ ਕੋਈ ਐਸਾ = ਕੀ ਕੋਈ ਇਹੋ ਜਿਹਾ ਹੈ? ਤੋਰੈ = ਤੋੜ ਦੇਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

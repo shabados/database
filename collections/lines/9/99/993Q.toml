@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਤਕ ਸਮਾਧੀ ਲਾਣ ਜਾਂ ਜਾਪ ਕਰਨ ਦਾ ਕੀਹ ਲਾਭ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪੰਨਾ ਕੀਜੈ = ਜਾਪ ਕਰੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਮਨੁੱਖ ਦਾ ਅਸਲ ਧਨ ਹੈ, ਨਾਮ ਹੀ ਸੁਖਦਾਤਾ ਹੈ, ਨਾਮ ਹੀ ਪਰਵਾਰ ਹੈ, ਨਾਮ ਹੀ ਸਾਥੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਰਾਜਾ = ਸੁਖਾਂ ਦਾ ਰਾਜਾ, ਸੁਖਦਾਤਾ। ਕੁਟੰਬ = ਪਰਵਾਰ। ਸਹਾਈ = ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

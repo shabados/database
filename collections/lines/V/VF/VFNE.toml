@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਭਾਈ! (ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਦੁਨੀਆ ਵਾਲੇ) ਸਾਰੇ ਡਰ-ਖ਼ਤਰੇ ਮਨ ਤੋਂ ਲਹਿ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਭਾਈ = ਹੇ ਭਾਈ! ਭੈ = ਡਰ-ਖ਼ਤਰੇ {'ਭਉ' ਤੋਂ ਬਹੁ-ਬਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

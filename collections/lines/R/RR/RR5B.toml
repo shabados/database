@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ, ਹੁਣ ਜਿਵੇਂ ਤੇਰੀ ਮਰਜ਼ੀ ਹੋਵੇ ਤਿਵੇਂ ਸਾਨੂੰ (ਮੰਦੇ ਕੰਮਾਂ ਤੋਂ) ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵੈ = (ਤੈਨੂੰ) ਚੰਗਾ ਲੱਗੇ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

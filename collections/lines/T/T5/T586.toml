@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੋ ਕੁਝ ਤੂੰ ਹੁਕਮ ਕਰਦਾ ਹੈਂ ਉਹੀ ਜੀਵ ਕਰਦੇ ਹਨ, ਜੋ ਕੁਝ ਤੂੰ ਦੇਂਦਾ ਹੈਂ, ਉਹੀ ਜੀਵ ਹਾਸਲ ਕਰ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿਆ = ਆਖਿਆ ਹੋਇਆ ਬਚਨ, ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

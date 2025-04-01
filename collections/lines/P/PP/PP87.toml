@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਮਿੱਟੀ ਦੇ ਸਰੀਰ ਨੂੰ ਇਸ ਲਈ ਸਥਿਰ ਜਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਵਜੂਦਿ ਖ਼ਾਕ ਰਾ ਕਾਇਮ ਬਦਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

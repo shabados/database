@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ (ਹੁਕਮ) ਤੇਰੇ ਤਾਂਬੇ ਦੇ ਸਰੀਰ ਨੂੰ ਕੁੰਦਨ ਬਣਾ ਦਿੰਦਾ ਹੈ ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਵਜੂਦਿ ਮਿਸ ਤੁਰਾ ਸਾਜ਼ਦ ਤਿਲਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਜ਼ੁਰਗੀ ਦੇ ਦੀਵਾਨ ਦਾ ਮਾਲਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦਾਵੰਦਿ ਦੀਵਾਨਿ ਤਜਜ਼ੀਲ ਰਾ ।੧੦੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

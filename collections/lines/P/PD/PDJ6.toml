@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਹਉਮੈ ਤੇਰੀ ਮੂਰਖਤਾ ਦਾ ਖ਼ਾਸਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦ-ਪ੍ਰਸਤੀ ਖ਼ਾਸਾਇ ਨਾਦਾਨਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

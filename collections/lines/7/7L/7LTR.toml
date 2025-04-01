@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਕੋਹਾਂ ਚਲਦਿਆਂ ਦੇ ਪੈਂਡੇ ਦਾ ਓੜਕ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਹ ਕਰੋੜੀ = ਕਰੋੜਾਂ ਕੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

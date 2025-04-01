@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਗੋਦੜੀ ਆਦਿਕ ਦਾ ਬਹੁਤ ਅਡੰਬਰ ਰਚਾ ਕੇ ਤੂੰ (ਵਿਖਾਵੇ ਲਈ) ਧਾਰਮਿਕ ਪਹਿਰਾਵਾ ਕਰ ਰਿਹਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿੰਥਾ = ਗੋਦੜੀ। ਥਟੂਆ = ਥਾਟ, ਬਨਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

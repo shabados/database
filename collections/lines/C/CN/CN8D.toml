@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮਛਲੀ ਦਾ ਪਾਣੀ ਨਾਲ ਪਿਆਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨ = ਮੱਛੀ। ਸਿਉ = ਨਾਲ। ਹੇਤੁ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

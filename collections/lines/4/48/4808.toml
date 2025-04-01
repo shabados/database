@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਨਾਚੀਜ਼ ਵੀ ਸਿਆਣਾ ਤੇ ਮੁਦੱਬਰ ਬਣ ਜਾਣਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਕਸੇ ਹਮ ਸਾਹਿਬਿ ਤਦਬੀਰ ਸ਼ੁਦ ।੧੮੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

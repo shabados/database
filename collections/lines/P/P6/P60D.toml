@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਭਾਵੇਣ ਭਿਖਾਰੀ ਦੇ ਭੇਖ ਵਿਚ ਹੋਣ, ਪਰ ਉਹ ਬਾਦਸ਼ਾਹ ਹੁੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਲਿਬਾਸ ਅੰਦਰ-ਗਦਾ ਓ ਬਾਦਸ਼ਾਹ ।੧੩੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

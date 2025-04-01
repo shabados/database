@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ (ਆਪਣੇ) ਕੰਨਾਂ ਨਾਲ ਆਵਾਜ਼ ਸੁਣਦਾ ਹੈਂ (ਭਾਵ, ਤੈਨੂੰ ਸੁਣਨ ਦੀ ਤਾਕਤ ਮਿਲੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਹਿ = ਤੂੰ ਸੁਣਦਾ ਹੈਂ। ਕਰਨ = ਕੰਨਾਂ (ਨਾਲ)। ਨਾਦ = (ਰਸੀਲੀ) ਆਵਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

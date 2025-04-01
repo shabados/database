@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਮੌਤ ਤੋਂ ਨਿਡਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਾਣੇ = ਨਿਡਰ, ਬੇ-ਮੁਥਾਜ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

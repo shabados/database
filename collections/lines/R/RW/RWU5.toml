@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜੋ ਜੀਵਾਂ ਦਾ ਆਸਰਾ ਹੈ, ਉਸੇ ਨੂੰ ਸਦਾ ਸਿਮਰਦਾ ਰਹੁ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਆਧਾਰੁ = ਆਸਰਾ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

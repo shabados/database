@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਥੇ ਲਾਲਚੀ ਮਸੂਲੀਆਂ ਦਾ ਪੱਤਣ ਹੈ (ਜਿਥੇ ਜਮ-ਮਸੂਲੀਏ ਕੀਤੇ ਮੰਦ-ਕਰਮਾਂ ਬਾਰੇ ਤਾੜਨਾ ਕਰਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿਥੇ। ਜਾਗਾਤੀ = ਮਸੂਲੀਆ। ਘਾਟ = ਪੱਤਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

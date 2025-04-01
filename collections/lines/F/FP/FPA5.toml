@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਖਵਾਂਦੀ ਪਤਿਬ੍ਰਤਾ ਹੈ ਪਰ) ਇਸਤ੍ਰੀ ਦਾ ਆਪਣੇ ਪਤੀ ਨਾਲ ਪਿਆਰ ਤਾਂ ਹੀ ਹੈ ਜੇ ਉਹ ਖੱਟ ਕੇ ਲਿਆਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੈ ਭਾਉ = ਪਤੀ ਦਾ ਪਿਆਰ, ਪਤੀ ਨਾਲ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

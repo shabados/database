@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸੰਸਾਰੀ ਲਾਲ ਜਵਾਹਰ ਤਾਂ ਸਭ ਨਾਸ਼ਵਾਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਜਵਾਹਰ-ਹਾ ਹਮਾ ਫ਼ਾਨੀ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

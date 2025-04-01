@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹਰੀ ਨਾਰਾਇਣ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਜਪੁ = ਨਾਮ ਦਾ ਜਾਪ। ਜਪਿ = ਜਪਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

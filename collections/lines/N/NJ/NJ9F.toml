@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਜੋਗ (ਦੇ ਦੱਸੇ ਹੋਏ) ਧਿਆਨ (ਭਾਵ, ਸਮਾਧੀਆਂ) ਦਾ ਗਹੁ ਨਹੀਂ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤੁ ਲਾਇਆ = ਮਨ ਜੋੜਿਆ, ਖ਼ਿਆਲ ਕੀਤਾ, ਗਹੁ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

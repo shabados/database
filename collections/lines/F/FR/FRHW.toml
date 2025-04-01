@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਹਰੀ!) ਤੂੰ ਆਪੇ (ਸਾਰਾ) ਸੰਸਾਰ ਰਚਿਆ ਹੈ, ਅਤੇ (ਸਭ ਨੂੰ) ਰਿਜ਼ਕ ਅਪੜਾ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਬਾਹਿਆ = ਅਪੜਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

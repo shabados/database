@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕਿਤੇ ਕੋਈ ਸੱਜਣ ਸੀ ਨਾਹ ਮਿੱਤਰ ਸੀ, ਨਾਹ ਕਿਤੇ ਪਿਤਾ ਦਾ ਵੀਰਜ ਸੀ ਨਾਹ ਮਾਂ ਦੀ ਰੱਤ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਦੁ = ਵੀਰਜ। ਰਕਤੀ = ਰੱਤ, ਲਹੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

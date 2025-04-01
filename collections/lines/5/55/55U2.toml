@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਫੁਟਦੇ ਵਾਲਾਂ ਦੇ ਕੈਦੀ ਨੂੰ ਛੁਟਕਾਰੇ ਦੀ ਲੋੜ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਸੀਰਿ ਖ਼ਤਿ ਤੁਰਾ ਹਾਜਤਿ ਗਵਾਹੀ ਨੀਸਤ ।੭।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿੰਦ ਦਾ ਆਸਰਾ ਇਹ ਨਾਮ ਹੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕਾ = ਜਿੰਦ ਦਾ। ਅਧਾਰ = ਆਸਰਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

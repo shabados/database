@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਸਰਬ-ਵਿਆਪਕ ਹੈ, ਸਭ ਤੋਂ ਉੱਚਾ ਮਾਲਕ ਹੈ, ਅਪਹੁੰਚ ਹੈ, ਬੇਅੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਪਾਰ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

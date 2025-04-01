@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੈਥੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ, ਮੈਂ ਤੇਰੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਹਾਂ ॥੮॥੧॥੩੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੰਞਾ = ਵੰਞਾਂ, ਜਾਂਦਾ ਹਾਂ। ਦਾਸ ਦਸਾਵਣਿਆ = ਦਾਸਾਂ ਦਾ ਦਾਸ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

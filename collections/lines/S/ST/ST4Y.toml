@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਉਂ ਤੁਰਤ ਮੁੱਕਦਾ ਹੈ, ਜਿਵੇਂ) ਕੱਚੇ ਧਾਗੇ ਨੂੰ ਟੁੱਟਦਿਆਂ ਚਿਰ ਨਹੀਂ ਲੱਗਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਲਮੁ = ਦੇਰ, ਢਿੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸਦਾ ਮੰਦੇ ਕੰਮ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਾਰੀ = ਮੰਦ-ਕਰਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

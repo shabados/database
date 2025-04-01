@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਵੱਸਦੀ ਜੋਤਿ ਨੂੰ ਤਾਂ ਕੋਈ ਪ੍ਰਾਣੀ ਜਾਣਦਾ ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੀ ਜੋਤਿ = ਹਰੇਕ ਜੀਵ ਦੇ ਅੰਦਰ ਵੱਸਦੀ ਜੋਤਿ। ਕੋਈ = ਕੋਈ ਪ੍ਰਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

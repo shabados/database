@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ (-ਬੈਠ), ਝਾਕਾ ਲਾਹ ਕੇ ਉਸ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ, (ਭਜਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਆਪਣੀਆਂ) ਸਾਰੀਆਂ ਕੁਲਾਂ ਤਾਰ ਲਈਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੇ = ਸੰਗਤਿ ਵਿਚ। ਨਿਸੰਗੇ = ਸੰਗ ਲਾਹ ਕੇ, ਝਾਕਾ ਲਾਹ ਕੇ। ਸਮੂਹ = ਢੇਰ। ਕੁਲ ਸਮੂਹ = ਸਾਰੀਆਂ ਕੁਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

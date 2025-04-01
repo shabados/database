@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਮਾ ਭਾਗਾਂ ਵਾਲਾ ਹੁੰਦਾ ਹੈ ਜਿਸ ਵੇਲੇ ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੁ = ਭਾਗਾਂ ਵਾਲਾ। ਸੁ = ਉਹ। ਜਿਤੁ = ਜਿਸ (ਵੇਲੇ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

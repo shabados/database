@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰਿਆਣ ਮੇਵਿਆਣ ਨਾਲੋਣ ਇਹ ਵਧੇਰੇ ਸੁਆਦਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਹਮਾ ਮੇਵਾ ਕਿ ਊ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

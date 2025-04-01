@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ,) ਹੇ ਨਾਨਕ! ਅਜੇਹਾ ਪ੍ਰਭੂ-ਨਾਮ ਦਾ ਵਪਾਰੀ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਹੀ ਕਿਤੇ ਮੈਨੂੰ ਮਿਲ ਸਕਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਉ = ਮੈਂ ਪਾਵਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਿਤੇ ਭਟਕਦਾ ਨਹੀਂ, ਕਿਤੇ ਡੋਲਦਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਕਿਤੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

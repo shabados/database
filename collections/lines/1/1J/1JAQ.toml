@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ ਦਾ ਪ੍ਰਕਾਸ਼ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨਤਾਸ = ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ ਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਪਾਪੀ ਹਾਂ, ਗੁਣ-ਹੀਣ ਹਾਂ। ਹੇ ਪ੍ਰਭੂ! (ਪਵਿਤ੍ਰਤਾ ਦਾ) ਉਹ ਗੁਣ ਤੇਰੇ ਪਾਸੋਂ ਹੀ ਮਿਲ ਸਕਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣੇ = ਗੁਣ-ਹੀਨ। ਤੇ = ਤੋਂ। ਸੋਇ ਗੁਣੁ = ਉਹ (ਨਿਰਮਲਤਾ ਦਾ) ਗੁਣ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

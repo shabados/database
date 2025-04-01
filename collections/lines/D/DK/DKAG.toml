@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਗੁ = ਹੋਵੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

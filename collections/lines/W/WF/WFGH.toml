@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਰਾਤ ਦਿਨ (ਹਰ ਵੇਲੇ) ਤੇਰਾ ਨਾਮ ਮਨ ਵਿਚ ਵਸਾਇਆ ਜਾ ਸਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਹੈ = ਦਿਨੇ। ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

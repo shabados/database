@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਿੱਤਰ!) ਸੁਆਸ ਸੁਆਸ ਸਦਾ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਪੋ, ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਚੇਤੇ ਕਰਦੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਹੁ = ਚੇਤੇ ਕਰੋ। ਨੀਤ = ਨਿੱਤ। ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਠੱਗੀਆਂ ਤੇ ਹੋਰ ਕਈ ਹੀਲੇ ਕਰ ਕੇ (ਦੂਜਿਆਂ ਦਾ) ਮਾਲ ਠੱਗ ਕੇ ਲੈ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਲਵੰਚ = ਠੱਗੀਆਂ। ਉਪਾਵ = ਹੀਲੇ। ਹਿਰਿ = ਚੁਰਾ ਕੇ। ਆਣਿਆ = ਲਿਆਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

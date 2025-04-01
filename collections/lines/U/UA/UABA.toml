@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਾਲਕ ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ (ਸਭ ਨੂੰ) ਆਸਰਾ ਦੇ ਰਿਹਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਰਿ ਰਹਿਓ = ਆਸਰਾ ਦੇ ਰਿਹਾ ਹੈ। ਓਤਿ ਪੋਤਿ = ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

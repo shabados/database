@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਆਪ ਇੱਕ ਹੈ ਤੇ ਸਾਰੇ ਸਰੀਰਾਂ ਵਿਚ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ ਏਕੁ = ਇੱਕ ਆਤਮਾ, ਇੱਕ ਰੱਬੀ ਜੋਤਿ। ਸਗਲ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

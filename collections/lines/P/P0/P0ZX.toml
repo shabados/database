@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰੋਂ ਹਉਮੈ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ, ਉਸ ਦੀ ਮਮਤਾ ਵਾਲੀ ਬੁੱਧੀ ਨਾਸ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ ਮੇਰੀ = 'ਮੇਰੀ ਮੇਰੀ' ਕਰਨ ਵਾਲੀ ਮੱਤ, ਮਮਤਾ ਵਾਲੀ ਮੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

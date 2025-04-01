@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦਾ ਕੋਈ ਦੂਜਾ ਜੀਵ (ਜਿਸ ਨੇ) ਆਪਣੇ ਵਰਗਾ ਪੈਦਾ ਨਹੀਂ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਸੁ = ਸਦਰਸ਼, ਵਰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

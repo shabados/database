@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਰੀ-ਛੁਹਾਰੇ ਖਾਂਦੀਆਂ ਸਨ, ਤੇ ਸੋਹਣੀਆਂ ਸੇਜਾਂ ਮਾਣਦੀਆਂ ਸਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਨਿ = ਮਾਣਦੀਆਂ ਹਨ (ਸਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

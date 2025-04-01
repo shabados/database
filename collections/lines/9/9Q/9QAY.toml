@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਨਾਲੋਂ ਹੋਰ ਕੋਈ ਮਨੋਰਥ ਚੰਗੇਰਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਦਆ ਬਿਹਤਰ ਜੁਜ਼ ਯਾਦ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

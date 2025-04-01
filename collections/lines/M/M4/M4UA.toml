@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਈਆਂ ਮੁਰਦਿਆਂ ਦੀਆਂ ਦੁਨੀਆਂ ਨੂੰ ਉਸ ਨੇ ਸੁਰਜੀਤ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂ ਦਰ ਜਹਾਂ ਮੁਰਦਾ ਰਾ ਜ਼ਿੰਦਾ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

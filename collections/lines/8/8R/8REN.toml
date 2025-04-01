@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੋਈ ਫੁਲਵਾੜੀ ਕਿਤੇ ਉਜਾੜ ਵਿਚ (ਨਿਖਸਮੀ ਹੋਣ ਕਰਕੇ) ਉੱਜੜ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਜਾੜਿ = ਉਜਾੜ ਵਿਚ, ਨਿਖਸਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

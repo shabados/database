@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਮੈਂ ਸੋਹਣਾ ਰਸਤਾ ਵਿਖਾ ਦੇਂਦਾ ਹਾਂ ਉਸ ਨੂੰ ਕੌਣ ਭੁਲਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟੜੀ = ਸੋਹਣੀ ਵਾਟ, ਸੋਹਣਾ ਰਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੰਗਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਉ = ਜਾਚਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਰਵਾਲ = ਚਰਨ-ਧੂੜ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

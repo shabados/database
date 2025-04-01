@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਸ ਮਾਯਾ ਦਾ ਸਾਹਿਬ ਹੈ, ਇਹ ਉਸੇ ਦਾ ਹੀ ਰੂਪ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਬਰੰਗਿ ਸਾਹਿਬੀ ਈਂ ਹਸਤੋ ਬੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

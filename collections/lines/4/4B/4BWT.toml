@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ) ਉਸ ਸੁਆਦ ਵਿਚ ਵਿੱਝ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਆ ਰਸ = ਉਸ ਸੁਆਦ ਵਿਚ। ਬਿਧੇ = ਵਿੱਝ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਖਸ਼ਿਸ਼ ਦਾ ਬੱਦਲ ਅਤੇ ਸਿਖਿਆ ਦਾ ਸੂਰਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਬਿ ਕਰਮ ਆਫਤਾਬਿ ਹੁਦਾ ।੧੧੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

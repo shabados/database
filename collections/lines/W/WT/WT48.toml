@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਗਿਆਨਵਾਨ ਕੋਈ ਵਿਰਲਾ ਉਹੀ ਹੈ, ਜਿਸ ਦਾ ਨਿੱਤ-ਆਚਰਨ ਉਸ ਗਿਆਨ ਦੇ ਅਨੁਸਾਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਆਚਾਰੀ = ਗਿਆਨ ਅਨੁਸਾਰ ਕਰਣੀ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

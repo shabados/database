@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਤੂੰ (ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਦੀ) ਬੇੜੀ ਕਿਉਂ ਰੜੇ ਥਾਂ ਤੇ ਹੀ ਡੋਬ ਲਈ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਵ = ਬੇੜੀ। ਚਉੜਿ = ਖੁਲ੍ਹੇ ਥਾਂ, ਰੜੇ ਵਿਚ ਹੀ। ਬੋੜੀ = ਡੋਬੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

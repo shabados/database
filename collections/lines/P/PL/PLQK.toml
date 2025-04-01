@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੰਜ ਅਤੇ ਗ਼ਮਾਂ ਤੋਂ ਮੁਕਤ ਕਰਵਾ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰਦ ਫ਼ਾਰਿਗ਼ ਅਜ਼ ਗ਼ਮਿ ਰੰਜੋ ਬਲਾ ।੪੩੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੂੰ ਰੱਬੀ ਗਿਆਨ ਦਾ ਚਾਉ ਪੈਦਾ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਇਰਫ਼ਾਨਿਸ਼ ਕਸੇ ਰਾ ਦਸਤਬਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

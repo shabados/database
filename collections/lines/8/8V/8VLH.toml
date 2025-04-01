@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਮਝੋ ਕਿ ਉਨ੍ਹਾਂ ਨੇ ਆਪਣੀ ਜਾਨ ਅਤੇ ਦਿਲ ਦਾ ਫਲ ਅਜਾਈਂ ਗਵਾ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਮਰਾ-ਏ ਜਾਨੋ ਦਿਲ ਬਬਾਦ ਆਰੰਦ ।੭।"
+page = 1
+line = 7
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

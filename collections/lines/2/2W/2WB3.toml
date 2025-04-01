@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਤੋਂ ਬਿਨਾ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਦਾਤਿ ਦੇਣ ਵਾਲਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾ = (ਨਾਮ ਦੀ) ਦਾਤਿ ਦੇਣ ਵਾਲਾ। ਬੀਆ = ਦੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੈਂ ਤਾਂਘ ਕਰ ਕੇ (ਤੇਰੀ ਸਰਨ) ਆਇਆ ਹਾਂ੧ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਆਹਿ = ਤਾਂਘ ਕਰ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

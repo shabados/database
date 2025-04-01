@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਐਸੇ ਹਨ ਜੋ ਤਿਆਗੀ ਬਣ ਕੇ ਸਮਾਧੀ ਲਾ ਕੇ ਬੈਠਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਧੂਤ = ਤਿਆਗੀ। ਤਾਰੀ = ਤਾੜੀ, ਸਮਾਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

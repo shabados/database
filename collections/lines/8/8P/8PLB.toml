@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰਮਾਤਮਾ! ਮੈਂ ਇਹ ਤਾਂ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਤੈਨੂੰ ਕੀਹ ਚੰਗਾ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਜਾਨਾ = ਜਾਨਾਂ, (ਮੈਂ) ਜਾਣਦਾ। ਕਿਆ ਭਾਵੈ = (ਤੈਨੂੰ) ਕੀਹ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

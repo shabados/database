@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਿਗਾਨੀ ਅਮਾਨਤ ਸਾਂਭ ਨਹੀਂ ਲੈਣੀ ਚਾਹੀਦੀ, ਇਸ ਦੇ ਦਿੱਤਿਆਂ ਹੀ ਸੁਖ ਮਿਲਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਾਣ = ਅਮਾਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

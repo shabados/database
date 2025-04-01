@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਨਾਮ ਉਨ੍ਹਾਂ ਦੇ ਸਰੀਰਾਂ ਤੋਂ ਬਾਹਰ ਨ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਹੱਕ ਬੀਰੂੰ ਨ ਬੂਦ ਅਜ਼ ਜਿਸਮਿ ਸ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

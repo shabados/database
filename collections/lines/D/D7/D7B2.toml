@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਨਾਨਕ ਨੂੰ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜੀ ਰੱਖ, ਨਾਨਕ ਤੇਰਾ ਦਾਸ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਜਨੁ = ਦਾਸ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

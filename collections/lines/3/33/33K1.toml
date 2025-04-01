@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਿਰੰਕਾਰ! ਤੂੰ ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲਾ ਹੈਂ ॥੧੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਲਾਮਤਿ = ਥਿਰ, ਅਟੱਲ। ਨਿਰੰਕਾਰ = ਹੇ ਹਰੀ! ॥੧੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਅਕਾਲ ਪੁਰਖ # ਹਰ ਮੁਰਝਾਏ ਹੋਏ ਦਿਲ ਨੂੰ ਹਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾ ਇਲਾਹੀ ਹਰ ਦਿਲਿ ਪਜ਼ਮੁਰਦਾ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

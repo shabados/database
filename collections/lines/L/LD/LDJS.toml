@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀ! ਜਦੋਂ ਜੰਗਲ ਨੂੰ ਅੱਗ ਲੱਗਦੀ ਹੈ ਤਾਂ ਬਹੁਤ ਸਾਰਾ ਘਾਹ-ਬੂਟ ਸੜ ਜਾਂਦਾ ਹੈ, ਕੋਈ ਵਿਰਲਾ ਹਰਾ ਰੁੱਖ ਬਚਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਵਾ ਅਗਨਿ = ਜੰਗਲ ਦੀ ਅੱਗ। ਤ੍ਰਿਣ = ਘਾਹ, ਬਨਸਪਤੀ। ਬੂਟ = ਬੂਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

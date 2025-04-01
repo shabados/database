@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਗੋਯਾ # ਰੱਬ ਦਾ ਬੰਦਾ ਅਮਰ ਹੋ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੇਸ਼ਾ ਜ਼ਿੰਦਾ ਬਵਦ ਬੰਦਾਇ ਖ਼ੁਦਾ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

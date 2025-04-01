@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ) ਝਾਕਾ ਲਾਹ ਕੇ ਮੁੜ ਮੁੜ (ਉਹੀ ਪਾਪ) ਕਰੀ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹੁਰਿ = ਮੁੜ, ਫਿਰ। ਨਿਸੰਕ = ਝਾਕਾ ਲਾਹ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

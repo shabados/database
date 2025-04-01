@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਪਿਛਲੇ) ਸੰਜੋਗ ਨੇ (ਮੈਨੂੰ) ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੋਗਿ = ਸੰਜੋਗ ਨੇ। ਸਾਧ ਸੰਗਾਏ = ਸਾਧ ਸੰਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

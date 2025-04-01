@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਦੋਹਾਂ ਨੇ ਹੀ ਮਿਲ ਕੇ ਜਗਤ-ਰਚਨਾ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਹੀ = ਦੁਹਾਂ ਨੇ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

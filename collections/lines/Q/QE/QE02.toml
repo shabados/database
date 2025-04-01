@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋਵੇਂ ਜਹਾਨ ਉਸ ਦੀ ਮਿਹਰ ਬਖਸ਼ਿਸ਼ ਨਾਲ ਰੋਸ਼ਨ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਜ਼ਿ ਫ਼ੈਜ਼ਿ ਫ਼ਜ਼ਲਸ਼ ਰੌਸ਼ਨ ।੧੦੦।"
+page = 9
+line = 100
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

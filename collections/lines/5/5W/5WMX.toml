@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾ! ਹੇ ਮਿਹਰਬਾਨ ਖ਼ੁਦਾਇ! ਸਾਰੀ ਖ਼ਲਕਤ ਦਾ ਸਾਰੇ ਜਹਾਨ ਦਾ ਤੂੰ ਆਪ ਹੀ ਮਾਲਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਦਿ = ਖ਼ੁਦਿ, ਆਪ। ਅਲਹ = ਹੇ ਅੱਲਾ! ਹੇ ਪਰਮਾਤਮਾ! ਜਹਾਨ = ਦੁਨੀਆ। ਖੁਦਾਇ = ਖ਼ੁਦਾਇ, ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

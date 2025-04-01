@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਜੈਕਾਰੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਜਗਦੀਸੈ = ਜਗਦੀਸ ਦੀ, ਜਗਤ ਦੇ ਮਾਲਕ ਦੀ (ਜਗਤ-ਈਸ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

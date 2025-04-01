@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਘਰ ਆਏ ਪਾਂਧੀ ਭੁੱਖੇ ਚਲੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹੀਆ = ਰਾਹੀ, ਪਾਂਧੀ, ਅੱਭਿਆਗਤ। ਖੂਧੇ = ਭੁੱਖੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

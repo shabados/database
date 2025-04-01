@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੋਝੇ ਧੰਧੇ ਘਾਟੇ ਵਾਲੇ ਹਨ ਜਿਨ੍ਹਾਂ ਦੇ ਕਾਰਨ ਇੱਕ ਪਰਮਾਤਮਾ ਚਿੱਤ ਵਿਚ ਨਾ ਆਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਧੜੇ = ਕੋਝੇ ਧੰਧੇ। ਕੁਲਾਹ = (ਕੁ-ਲਾਹ) ਘਾਟੇ ਵਾਲੇ। ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਹੇਕੜੋ = ਇੱਕ ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

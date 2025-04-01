@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਸਾਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

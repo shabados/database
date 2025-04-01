@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਲੋਕ ਕੈਂਹ ਤਾਂਬੇ ਆਦਿਕ ਦਾ ਵਣਜ ਕਰਦੇ ਹਨ, ਕਈ ਲੌਂਗ ਸੁਪਾਰੀ ਆਦਿਕ ਵਣਜਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਜਿਆ = ਵਣਜ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

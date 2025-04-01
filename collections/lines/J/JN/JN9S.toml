@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਕਠੋਰ ਚਿੱਤ ਦੇ ਕਾਰਨ (ਆਪਣੀ ਸਾਰੀ) ਮਿਹਨਤ ਵਿਅਰਥ ਗਵਾ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ੲੈਨੇ = ਏਸ ਨੇ। ਚਿਤਿ ਕਠੋਰਿ = ਕਠੋਰ ਚਿੱਤ ਦੇ ਕਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

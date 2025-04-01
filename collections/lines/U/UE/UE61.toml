@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਤੈਨੂੰ ਚਾਹੀਦਾ ਹੈ ਕਿ ਉਨ੍ਹਾਣ ਦਾ ਸੇਵਕ ਬਣ ਜਾਵੇਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਸ ਤੁਰਾ ਬਾਇਦ ਕਿ ਖ਼ਿਦਮਤਗਾਰਿ ਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

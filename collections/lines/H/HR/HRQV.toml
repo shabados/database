@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੋਰ ਦੂਜਾ ਕੌਣ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਤਿ = ਹੈ, ਕਾਇਮ ਹੈ। ਦਿਗਰਿ = ਦੀਗਰੇ, ਦੂਜਾ। ਕੁਈ = ਕੌਣ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

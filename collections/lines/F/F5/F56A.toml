@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਮੈਥੋਂ ਤਾਂ ਇਹ ਮਾਇਆ (ਹੁਣ) ਪਰੇ ਹਟ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰਿ ਪਰੀ = ਮਨ ਵਿਚੋਂ ਨਿਕਲ ਗਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਸੰਗ ਵਿਚ ਮਿਲ ਕੇ ਉਸ ਖਸਮ-ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ ਕਰੀਏ ਜੋ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹ = ਆਓ ਅਸੀਂ ਕਰੀਏ। ਸੰਮ੍ਰਥ = ਸਭ ਤਾਕਤਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

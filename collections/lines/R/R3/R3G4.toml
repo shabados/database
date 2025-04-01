@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੀ (ਉਮਰ) ਸੁਖ ਵਿਚ ਗੁਜ਼ਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ = ਉਹਨਾਂ ਦੀ। ਸੂਖਿ = ਸੁਖ ਵਿਚ। ਬਿਹਾਵੈ = ਬੀਤਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

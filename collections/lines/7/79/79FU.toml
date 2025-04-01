@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! (ਮੈਨੂੰ) ਆਪਣੇ ਸੇਵਕ ਨੂੰ ਕਦੇ ਭੀ ਨਾਹ ਭੁਲਾਈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਕਬਹੁ = ਕਦੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

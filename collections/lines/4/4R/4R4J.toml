@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਚਿੱਟਾ ਹੁੰਦਾ ਹੈ, ਚੰਗਾ ਤਕੜਾ ਚਮਕਦਾ ਹੈ, ਪਰ ਕਾਲੇ ਪਦਾਰਥਾਂ ਦੇ ਰੰਗ ਕਾਲੇ ਹੀ ਰਹਿੰਦੇ ਹਨ (ਦਿਨ ਦੀ ਰੌਸ਼ਨੀ ਦਾ ਅਸਰ ਇਹਨਾਂ ਕਾਲੀਆਂ ਚੀਜ਼ਾਂ ਤੇ ਨਹੀਂ ਪੈਂਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਹੁ = ਦਿਨ। ਬਗਾ = ਚਿੱਟਾ। ਘਣਾ = ਬਹੁਤ। ਵੰਨ = ਰੰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

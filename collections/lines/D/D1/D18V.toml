@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ ਪਿਉ ਪੁੱਤਰ ਤੇ ਹੋਰ ਸੰਬੰਧੀ-ਇਹ ਸਾਰੇ ਸਾਕ ਭੀ ਸਾਥ ਛੱਡ ਜਾਣ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਬੰਧਪਾ = ਰਿਸ਼ਤੇਦਾਰ। ਕੂੜੇ = ਝੂਠੇ, ਸਾਥ ਛੱਡ ਜਾਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ! (ਤੇਰੇ ਬੇਅੰਤ ਗੁਣ ਹਨ, ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਆਉਂਦੀ ਕਿ) ਮੈਂ ਤੇਰਾ ਕੇਹੜਾ ਗੁਣ ਲੈ ਕੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝੁ = ਤੈਨੂੰ। ਤੁਝੁ ਗਾਵਉ = ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

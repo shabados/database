@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਉਹ ਸੁਣਾਂਦੇ ਹਨ ਉਸ ਨੂੰ ਅਨੇਕਾਂ ਬੰਦੇ ਬਹਿ ਕੇ ਧਿਆਨ ਨਾਲ ਸੁਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਕਈ, ਅਨੇਕਾਂ। ਬਹਿ = ਬੈਠ ਕੇ। ਕਾਨਾਂ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

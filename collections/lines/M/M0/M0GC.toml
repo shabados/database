@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! ਕਿ ਤੇਰਾ ਨਾਮ ਸੁਣ ਸੁਣ ਕੇ ਮੇਰੇ ਅੰਦਰ ਤੇਰੇ ਦਰਸਨ ਦਾ ਚਾਉ ਬਣਿਆ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਪੇਖਨ ਕਾ = ਵੇਖਣ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

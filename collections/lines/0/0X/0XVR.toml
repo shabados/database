@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਧਨ ਵਲ ਕੋਈ ਚੋਰ ਅੱਖ ਚੁੱਕ ਕੇ ਨਹੀਂ ਵੇਖ ਸਕਦਾ, ਕੋਈ ਗੰਢ-ਕੱਪ ਇਸ ਨੂੰ ਖੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰੁ = ਚੋਰ। ਜੋਹਿ ਨ ਸਕਈ = ਤੱਕ ਨਹੀਂ ਸਕਦਾ। ਓਚਕਾ = ਗੰਢ-ਕੱਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

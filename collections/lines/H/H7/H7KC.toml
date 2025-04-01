@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਤੂੰ ਇਹਨਾਂ ਅੱਖਾਂ ਨਾਲ ਦਿੱਸਦਾ ਨਹੀਂ) ਤੈਨੂੰ ਮੈਂ ਕਿਸ ਤਰ੍ਹਾਂ ਮਿਲਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਤੋਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

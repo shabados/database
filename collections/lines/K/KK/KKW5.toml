@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਸਮ ਤੋਂ ਬਿਨਾ (ਇਸਤ੍ਰੀ ਦਾ) ਸੁਹਾਗ ਨਹੀਂ ਹੋ ਸਕਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਤ = ਪਤੀ, ਭਰਤਾ। ਸੋਹਾਗੁ = {सौभाग्य} ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

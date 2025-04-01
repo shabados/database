@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਸਦਾ ਸੁਖ ਮਾਣਦਾ ਹੈ, ਉਸ ਦੀ ਹਉਮੈ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਹੀ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

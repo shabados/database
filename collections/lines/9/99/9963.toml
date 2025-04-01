@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਨਾਮ ਜਪਿਆਂ ਹਰ ਥਾਂ ਤੂੰ ਉੱਜਲ-ਮੁਖ ਰਹੇਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ = ਸਾਫ਼, ਰੌਸ਼ਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

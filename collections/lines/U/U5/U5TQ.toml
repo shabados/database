@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਿੱਠੇ ਸੁਭਾਅ ਅਤੇ ਸੰਤੋਖ ਦਾ ਫ਼ਰਜ਼ ਨਿਬਾਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਲ = ਚੰਗਾ ਮਿੱਠਾ ਸੁਭਾਉ। ਸੰਤੋਖ = ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ ਤ੍ਰਿਪਤੀ। ਰਖੈ = ਰੱਖਦਾ ਹੈ, ਨਿਬਾਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

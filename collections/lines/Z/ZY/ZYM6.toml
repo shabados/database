@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਹ ਦੁਨੀਆ ਦੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਰੰਗ-ਤਮਾਸ਼ਿਆਂ ਵਿਚ ਚਾ-ਮਲਾਰ ਵਿਚ ਰੁੱਝਾ ਰਹਿੰਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਇ = ਚਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

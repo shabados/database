@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਜਨਮਾਂ ਵਿਚ ਤੂੰ ਘੋੜੇ ਬਲਦ ਬਣ ਕੇ ਜੋਇਆ ਗਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈਵਰ = {हय-वर} ਵਧੀਆ ਘੋੜੇ। ਬ੍ਰਿਖ = {वृष} ਬਲਦ। ਜੋਇਓ = ਜੋਇਆ ਗਿਆ, ਜੋਤਿਆ ਗਿਆ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

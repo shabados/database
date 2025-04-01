@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਾਸਾਂ ਵਿਚ) ਚੇਲੇ ਸਾਜ ਵਜਾਉਂਦੇ ਹਨ, ਅਤੇ ਉਹਨਾਂ ਚੇਲਿਆਂ ਦੇ ਗੁਰੂ ਨੱਚਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਇਨਿ = (ਸਾਜ) ਵਜਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

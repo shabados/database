@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸੰਸਾਰ ਵਿਚ ਪਤੀ ਇੱਕੋ ਪਰਮਾਤਮਾ ਹੀ ਹੈ, ਹੋਰ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ (ਉਸ ਦੀਆਂ) ਇਸਤ੍ਰੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੁ = ਪਤੀ, ਮਰਦ। ਸਗਲੀ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ। ਸਬਾਈ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

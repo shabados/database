@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਾਇਆ ਕਰੇ, ਤਾਂ ਮੈਂ ਆਪਣਾ ਮਨ ਉਸ ਦੇ ਹਵਾਲੇ ਕਰ ਦਿਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਦੇਵਉ = ਦੇਵਉਂ, ਮੈਂ ਦੇ ਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

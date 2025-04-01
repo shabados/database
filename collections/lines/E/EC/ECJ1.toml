@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੈਥੋਂ ਬਿਨਾ ਮੈਨੂੰ (ਆਪਣਾ) ਕੋਈ ਹੋਰ (ਸਹਾਰਾ) ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੈ = ਤੈਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

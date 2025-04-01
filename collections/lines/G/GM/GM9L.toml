@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਜਿਸ (ਜਗਿਆਸੂ) ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਮੱਥੇ ਤੇ ਚੰਗੇ ਲੇਖ ਹਨ (ਜਿਸ ਦੇ ਭਾਗ ਚੰਗੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਮਸਤਕਿ = ਜਿਸ ਦੇ ਮੱਥੇ ਉੱਤੇ। ਭਾਗੁ = ਚੰਗੇ ਲੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

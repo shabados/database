@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਛੁਪੇ ਹੋਏ ਖ਼ਜ਼ਾਨੇ ਦੀ ਪੋਥੀ ਵਿੱਚੋਣ ਸਬਕ ਪੜ੍ਹ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਕਿਤਾਬਿ ਗੰਜ ਮਖ਼ਫ਼ੀ ਖ਼ਾਣ ਸਬਕ ।੧੬੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

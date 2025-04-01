@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ ਸਰਬ-ਵਿਆਪਕ ਸਿਰਜਨਹਾਰ! ਮੇਰੇ ਮਨ ਦੀ ਇੱਛਾ ਪੂਰੀ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹੇ ਦਿਲਾਂ ਦੀ ਜਾਣਨ ਵਾਲੇ! ਪੁਰਖ = ਹੇ ਸਭ ਵਿਚ ਵਿਆਪਕ! ਬਿਧਾਤੇ = ਹੇ ਸਿਰਜਣਹਾਰ! ਪੂਰੇ = ਪੂਰਿ, ਪੂਰੀ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

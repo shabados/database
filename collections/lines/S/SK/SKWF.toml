@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਆਪਣਾ ਸਿਰ ਨਿਵਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਮਸਕਾਰਿ = ਸਿਰ ਨਿਵਾਇਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

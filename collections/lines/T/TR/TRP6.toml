@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਪਰਮਾਤਮਾ ਸਦਾ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਣਹਾਰੁ = ਜਾਣ ਸਕਣ ਵਾਲਾ। ਜਾਨਿ ਰਹਿਆ = ਹਰ ਵੇਲੇ ਜਾਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

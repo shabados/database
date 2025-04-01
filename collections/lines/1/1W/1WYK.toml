@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਇਸ ਦੇ ਨਾਲ ਸੁਖ ਦੇਣ ਵਾਲਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲਾ = ਸੁਖ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

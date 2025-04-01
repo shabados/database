@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਰਾਜ-ਦਰਬਾਰ ਵਿਚ (ਰਹਿ ਕੇ) ਥਰ-ਥਰ ਕੰਬਦਿਆਂ ਹੀ ਗੁਜ਼ਰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜ ਮਹਿ = ਰਾਜ ਆਦਿਕ ਦੇ ਕੰਮਾਂ ਵਿਚ। ਡਰਤੇ = ਡਰਦਿਆਂ, ਥਰ-ਥਰ ਕੰਬਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

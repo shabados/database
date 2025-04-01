@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਤੇ ਸੁਖ-ਰਹਿਣੇ ਲਾਡੁਲੇ ਪਤੀ! (ਕਿਤੇ ਮੈਨੂੰ ਛੱਡ ਨਾ ਜਾਈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਿਅ ਸੁਖਵਾਸੀ = ਹੇ ਸੁਖ = ਰਹਿਣੇ ਪਿਆਰੇ। ਬਾਲ ਗੁਪਾਲੇ = ਹੇ ਲਾਡੁਲੇ ਸੱਜਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

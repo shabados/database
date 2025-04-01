@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਸਭ ਦੇ) ਮਾਲਕ ਅਕਾਲ ਪੁਰਖ! ਤੂੰ ਸਾਰੇ ਜਗਤ ਵਿਚ ਪਸਰਿਆ ਹੋਇਆ ਦਿੱਸ ਰਿਹਾ ਹੈਂ। ਕੌਣ ਜਾਣਦਾ ਹੈ ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ? ਤੂੰ ਆਪ ਹੀ ਸਭ (ਜੀਆਂ) ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖੀਐ = ਦੇਖੀਦਾ ਹੈਂ। ਜਗਤਿ = ਜਗਤ ਵਿਚ। ਪਤਿ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

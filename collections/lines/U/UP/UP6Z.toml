@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਥ! (ਤੈਥੋਂ ਬਿਨਾ) ਅਸੀਂ ਨਿਆਸਰੇ ਸਾਂ। ਆਪਣੀ ਮੇਹਰ ਕਰ, ਤੇ, ਸਾਨੂੰ ਆਪਣੀ ਸਰਨ ਵਿਚ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਥ = ਹੇ ਨਾਥ! ਕਰੇਂਹ = ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

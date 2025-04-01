@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ ਭੀ ਜੀਵ ਉਸ (ਪਰਮਾਤਮਾ) ਦੇ ਬਰਾਬਰ ਦਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਤਿਸਹਿ ਸਰੀਕੁ = ਉਸ (ਪ੍ਰਭੂ) ਦਾ ਸ਼ਰੀਕ (ਬਰਾਬਰ ਦਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

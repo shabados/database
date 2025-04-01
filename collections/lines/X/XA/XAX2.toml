@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਨਾਲ ਚਿੱਤ ਨਾਹ ਲਾਇਆ ਤੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮਨ ਵਿਚ ਨਾਹ ਵੱਸਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

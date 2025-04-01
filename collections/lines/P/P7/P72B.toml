@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮਾਇਆ ਵਲ) ਉਲਟਿਆ ਹੋਇਆ ਹਿਰਦਾ-ਕੌਲ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਪਰਤ ਕੇ) ਖਿੜ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਊਰਧ = ਉਲਟਿਆ ਹੋਇਆ। ਬਿਗਾਸ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

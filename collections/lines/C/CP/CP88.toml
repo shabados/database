@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹੀ ਹੈ ਸਭ ਤੋਂ ਚੰਗਾ ਰਾਸਧਾਰੀਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਭਲੋ ਕੀਰਤਨੀਆ = ਚੰਗਾ ਕੀਰਤਨੀ। ਕੀਰਤਨੀਆ = ਕੀਰਤਨ ਕਰਨ ਵਾਲਾ ਰਾਸਧਾਰੀਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

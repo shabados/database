@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਡੇ ਤੇ ਪਰਮਾਤਮਾ ਦੇ ਵਿਚਕਾਰ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿੱਥ ਪਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨ ਬਿਧਿ = ਕਿਨ੍ਹਾਂ ਤਰੀਕਿਆਂ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

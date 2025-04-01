@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹੀ ਹੈ ਧਾਰਮਿਕ ਕਰਮ ਅਤੇ ਇਹੀ ਹੈ ਅਸਲ ਗਿਆਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ ਧਰਮ = (ਤੀਰਥ, ਵਰਤ, ਮੂਰਤੀ-ਪੂਜਾ ਆਦਿਕ) ਕਰਮ ਜਿਨ੍ਹਾਂ ਨੂੰ ਧਰਮ ਸਮਝਿਆ ਗਿਆ ਹੈ। ਤਤੁ ਗਿਆਨੁ = ਅਸਲ ਗਿਆਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

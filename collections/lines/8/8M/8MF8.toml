@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਸਤਿਗੁਰੂ ਦਾ ਨਾਮ ਮੂੰਹੋਂ ਉਚਾਰਿਆ ਹੈ, ਉਹ ਵਿਹੁ ਤੋਂ ਅੰਮ੍ਰਿਤ ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਵਿਹੁ, ਜ਼ਹਰ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਭਣਿਅਉ = ਉਚਾਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

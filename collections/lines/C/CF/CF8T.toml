@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਿੱਟੀ ਦੀ ਹਰ ਮੁੱਠ ਭਲਾ ਉਸ ਦੀ ਕਦਰ ਕੀ ਜਾਣ ਸਕਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਬਿਦਾਨਦ ਕਦਰਿ ਊ ਹਰ ਮੁਸ਼ਤਿ ਖ਼ਾਕ ।੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

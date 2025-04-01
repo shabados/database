@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਬਾਨੀ ਜ਼ਬਾਨੀ ਤਾਂ ਹਰ ਕੋਈ ਆਖਦਾ ਹੈ ਪਰ ਕੋਈ ਵਿਰਲਾ ਹੀ ਯਕੀਨ ਲਿਆਉਂਦਾ ਹੈ (ਕਿ ਹਰੇਕ ਜੀਵ ਨੇ ਇਥੋਂ ਚਲੇ ਜਾਣਾ ਹੈ ਤੇ ਇਥੇ ਸਿਰਫ਼)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਾਹ ਮਾਹਿ = ਲਫ਼ਜ਼ਾਂ ਵਿਚ, ਜ਼ਬਾਨੀ ਜ਼ਬਾਨੀ, ਗੱਲਾਂ ਨਾਲ। ਵਖਾਣੈ = ਆਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

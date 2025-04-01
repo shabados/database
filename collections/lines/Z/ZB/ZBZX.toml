@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ) ਗੁਰੂ ਮਿਲਾਂਦਾ ਹੈ, (ਉਸ ਨੂੰ ਲੋਕ ਪਰਲੋਕ ਦੀ) ਇੱਜ਼ਤ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਲੇ = ਮਿਲਾਂਦਾ ਹੈ। ਦੇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

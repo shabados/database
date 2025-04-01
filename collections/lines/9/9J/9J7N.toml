@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹ ਨਹੀਂ ਜਾਣਦਾ ਕਿ) ਧਨ ਨਾਲ ਭਰੇ ਹੋਏ ਖ਼ਜ਼ਾਨੇ ਇਕ ਪਲਕ ਵਿਚ ਖ਼ਾਲੀ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬਿ = ਧਨ ਨਾਲ। ਰੀਤੇ = ਸੱਖਣੇ। ਇਕਿ = ਇਕ ਵਿਚ। ਇਕਿ ਖਣੇ = ਇਕ ਖਿਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

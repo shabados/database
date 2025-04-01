@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਸੇਵਕ ਨਰਕ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕਿ = ਨਰਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

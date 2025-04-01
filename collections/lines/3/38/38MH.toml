@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਰਾਏ ਘਰੀਂ ਜਾਂਦਾ ਚੰਗਾ ਨਹੀਂ ਲੱਗਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਘਰ = ਪਰਾਏ ਘਰਾਂ ਵਿਚ। ਜਾਤ = ਜਾਂਦਾ। ਨ ਸੋਹੀ = ਨਹੀਂ ਸੋਭਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

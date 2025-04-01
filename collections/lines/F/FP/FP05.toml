@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਤੈਨੂੰ ਜਿੰਦ ਦਿੱਤੀ ਹੈ ਸਰੀਰ ਦਿੱਤਾ ਹੈ ਉਸ ਨੂੰ ਤੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

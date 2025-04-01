@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਪਿਉ ਨੇ ਇਤਨਾ ਸੁਖ ਦਿੱਤਾ ਹੈ) ਉਸ ਪਿਉ ਨੂੰ ਮੈਂ (ਕਦੇ) ਮਨ ਤੋਂ ਨਹੀਂ ਭੁਲਾਵਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਵਿਸਾਰੀ = ਮੈਂ ਵਿਸਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

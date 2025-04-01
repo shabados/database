@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਜੇ ਤੂੰ ਗੁੱਸੇ ਵਿਚ ਆਵੇਂ (ਤਾਂ ਕਿਸ ਉੱਤੇ ਆਵੇਂ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ਰੋਹਿ = ਰੋਹ ਵਿਚ, ਗੁੱਸੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

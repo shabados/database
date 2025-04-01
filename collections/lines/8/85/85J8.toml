@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਜੁਆਨੀ (ਦਾ ਮਦ) ਸਾੜ ਕੇ ਜੀਊਣ ਦੀ (ਸਹੀ) ਜਾਚ ਸਿੱਖ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰਿ = ਜਾਲਿ, ਜਲਾ ਕੇ, ਸਾੜ ਕੇ। ਜੁਗਤਿ = ਜੀਊਣ ਦੀ ਜਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

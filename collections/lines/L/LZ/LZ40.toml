@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਧਰਤੀ ਉਤੇ ਤੇਰੀ ਹੀ ਸਰਦਾਰੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਕਦਾਰੀ = ਸਰਦਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

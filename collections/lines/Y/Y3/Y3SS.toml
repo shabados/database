@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ (ਉਹੀ) ਤੇਰੀ ਲਾਜ ਰੱਖਣ ਵਾਲਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਥੇ, ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਓਥੇ, ਪਰਲੋਕ ਵਿਚ। ਰਖੈ = ਤੇਰੀ ਲਾਜ ਰੱਖਦਾ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

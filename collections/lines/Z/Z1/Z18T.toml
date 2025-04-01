@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿੰਦਕ (ਬਾਬਤ) ਅਸਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਧਿ ਸਾਧਿ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਿਚਾਰ ਕੇ। \"ਕਹੁ, ਰਵਿਦਾਸ! ਸੋਧਿ ਸਾਧਿ ਬੀਚਾਰਿਆ,"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

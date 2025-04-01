@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਸੰਤ-ਸਭਾ ਅੱਗੇ ਸਿਰ ਕੱਟ ਕੇ ਧਰ ਦਿਆਂ, ਤਨ ਤੇ ਮਨ ਭੇਟਾ ਰੱਖ ਦਿਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕੁ = ਮੱਥਾ, ਸਿਰ। ਧਰੀ = ਮੈਂ ਧਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

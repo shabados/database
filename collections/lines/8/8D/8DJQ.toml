@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਜੀਵਾਂ ਦਾ) ਜੰਮਣਾ ਤੇ ਮਰਨਾ-ਇਹ ਸਾਰਾ ਤੇਰਾ (ਰਚਿਆ) ਖੇਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣੁ ਜਾਣਾ = (ਜੀਵਾਂ ਦਾ) ਜੰਮਣਾ ਤੇ ਮਰਨਾ। ਚਲਤੁ = ਤਮਾਸ਼ਾ, ਖੇਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

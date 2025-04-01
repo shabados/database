@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਅਜਿਹੀ ਨੀਅਤ ਬਖਸ਼ ਜੋ ਸੱਚ ਦੀ ਪੁਜਾਰੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਅਤੇ ਆਂ ਦਿਹ ਕਿ ਬਾਸ਼ਦ ਹੱਕ ਗੁਜ਼ਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

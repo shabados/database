@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜਿੰਦੇ! ਜੇ ਆਪਣੇ ਵਲੋਂ ਧਾਰਮਿਕ) ਕੰਮ (ਭੀ) ਕੀਤੇ ਜਾਣ (ਪਰ ਉਹ) ਹਉਮੈ ਵਾਲੀ ਅਕਲ ਵਧਾਣ ਵਾਲੇ ਹੀ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰਬੁਧਿ = ਅਹੰਕਾਰ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

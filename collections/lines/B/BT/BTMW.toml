@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਹੇ ਬਾਦਸ਼ਾਹ! ਤੂੰ (ਅਗਾਂਹ ਨੂੰ) ਸੱਚ ਵਿਚ ਤੁਰੇਂ, ਚੰਗੇ ਸੁਭਾਉ ਵਿਚ ਰਹੇਂ ॥੨੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚਿ = ਸੱਚ ਵਿਚ। ਸੀਲਿ = ਚੰਗੇ ਸੁਭਾਉ ਵਿਚ ॥੨੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

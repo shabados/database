@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ (ਧੁਰੋਂ ਨਾਮ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ) ਲੇਖ ਉੱਘੜਦਾ ਹੈ (ਉਸ ਨੂੰ ਨਾਮ ਦੀ ਦਾਤ ਮਿਲਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਮਸਤਕਿ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਮੱਥੇ ਉੱਤੇ। ਲੇਖਾ = (ਨਾਮ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ) ਲੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

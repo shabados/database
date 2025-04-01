@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨਾਲ ਰਚ ਮਿਚ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਿਆ = ਪਤੀਜਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

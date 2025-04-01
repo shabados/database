@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਾਜਿਆਂ ਦੇ) ਹੁਕਮ ਤੋਂ ਬਿਨਾ ਰਾਜ ਦੀਆਂ ਸਜਾਵਟਾਂ ਕਿਸੇ ਕੰਮ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰ = ਹੁਕਮ। ਰਾਜ ਮੰਡਿਤ = ਰਾਜ ਦੀ ਸਜਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

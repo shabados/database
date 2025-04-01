@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਹੀਏਂ) ਉਸ ਦੀ ਜ਼ਿੰਦਗੀ ਦੀ ਸੁੱਚੀ ਮਰਯਾਦਾ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀਤਿ = ਰਹੁ-ਰੀਤ, ਜ਼ਿੰਦਗੀ ਨਿਬਾਹੁਣ ਦਾ ਤਰੀਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

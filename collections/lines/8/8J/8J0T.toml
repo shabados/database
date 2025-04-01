@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਪਰਤਾਪ ਦਾ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲਾਇਆ ਜਾ ਸਕਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ ਪਰਤਾਪੈ = ਠਾਕੁਰ ਦੇ ਪਰਤਾਪ ਦੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

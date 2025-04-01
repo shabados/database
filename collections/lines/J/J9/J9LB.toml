@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! (ਆਪਣੇ ਹੱਥਾਂ ਦੀ ਕਮਾਈ ਹੋਈ) ਮੇਰੀ ਰੁੱਖੀ-ਮਿੱਸੀ (ਭਾਵ, ਸਾਦਾ) ਰੋਟੀ ਹੈ, ਮੇਰੀ ਭੁੱਖ ਹੀ (ਇਸ ਰੋਟੀ ਦੇ ਨਾਲ) ਸਲੂਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਠ ਕੀ ਰੋਟੀ = ਕਾਠ ਵਾਂਗ ਸੁੱਕੀ ਰੋਟੀ, ਰੁੱਖੀ-ਮਿੱਸੀ ਰੋਟੀ। ਲਾਵਣੁ = ਭਾਜੀ, ਸਲੂਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

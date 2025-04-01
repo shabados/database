@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਕਮਾਉਂਦਾ ਹੈ) ਉਹ ਆਪ ਤਰਦਾ ਹੈ ਤੇ ਲੋਕਾਂ ਦਾ ਭੀ ਨਿਸਤਾਰਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਕਹ ਨਿਸਤਾਰ = ਲੋਕਾਂ ਦਾ ਨਿਸਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

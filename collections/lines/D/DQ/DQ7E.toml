@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜਾਮਲ ਪਾਪੀ ਨੂੰ ਬੈਕੁੰਠ ਵਿਚ ਥਾਂ ਦਿੱਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ = ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

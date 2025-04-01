@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਹੀ (ਮਾਨੋ, ਇਕ) ਬੇਅੰਤ ਡੂੰਘਾ (ਸਮੁੰਦਰ) ਹੈ। ਉਸ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਭੀਰੁ = ਡੂੰਘੇ ਜਿਗਰੇ ਵਾਲਾ। ਤਿਸੁ ਜੇਵਡੁ = ਉਸ ਜਿਤਨਾ ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

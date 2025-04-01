@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਭਗਤ ਜਨਾਂ ਦੀ ਹਰ ਵੇਲੇ (ਨਾਮ ਜਪਣ ਦੀ) ਤਾਂਘ ਬਣੀ ਰਹਿੰਦੀ ਹੈ, (ਪਰਮਾਤਮਾ ਦਾ ਭਗਤ) ਹਰਿ-ਨਾਮ ਜਪਦਿਆਂ ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਨੁ ਖਿਨੁ = ਹਰ ਵੇਲੇ। ਲੋਚਾ = ਤਾਂਘ। ਜਪਤ = ਜਪਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

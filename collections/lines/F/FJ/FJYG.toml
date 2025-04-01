@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਕੁਲਖੇਤ੍ਰ ਤੇ (ਜਾ ਕੇ) ਗ੍ਰਹਿਣ (ਦਾ ਇਸ਼ਨਾਨ) ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਲਖੇਤਿ = ਕੁਲਖੇਤ੍ਰ (ਤੀਰਥ) ਉੱਤੇ (ਜਾ ਕੇ)। ਗ੍ਰਹਨ ਕਰੈ = ਗ੍ਰਹਿਣ (ਸਮੇਂ ਦਾ ਇਸ਼ਨਾਨ) ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

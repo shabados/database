@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਕ ਛਿਨ ਲਈ ਜੇਕਰ ਤੂੰ ਇਸ ਦੀ ਗੰਢ ਖੋਲ੍ਹ ਦੇਵੇਣ ਤਾਣ ਕੀ ਹਰਜ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਲਹਿਜ਼ਾ ਅਗਰ ਗਿਰਹਾ ਕੁਸ਼ਾਈ ਚਿ ਸ਼ਵਦ ।੨੫।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

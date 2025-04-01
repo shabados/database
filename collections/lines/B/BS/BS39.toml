@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈ, ਉਸ ਦੇ ਪਾਸ ਕਿਸੇ ਚੀਜ਼ ਦੀ ਕਮੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੂਨਾ = ਘਾਟ, ਕਮੀ। ਪਾਹਿ = ਪਾਸ। ਭਾਵੈ = ਜਿਵੇਂ ਪ੍ਰਭੂ ਨੂੰ ਭਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

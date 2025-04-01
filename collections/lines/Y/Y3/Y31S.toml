@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ ਮੁੱਢ ਤੋਂ ਹੈ, ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਹੀ ਹੈ, ਹੁਣ ਭੀ ਹੈ ਤੇ ਸਦਾ ਲਈ ਮੌਜੂਦ ਰਹੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਾਦੀ = ਜੁਗਾਂ ਦੇ ਮੁੱਢ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

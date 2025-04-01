@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕੇਵਲ ਇੱਕੋ ਹੀ ਇਕ ਹੈਂ, ਤੇਰੇ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = ਕੋਈ ਹੋਰ (अन्य)। ਤੁਮ ਭਤਿ = ਤੁਮ ਭਾਂਤਿ, ਤੇਰੇ ਵਰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

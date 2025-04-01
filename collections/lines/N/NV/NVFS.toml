@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਗੁਰਮੁਖਿ ਮੈਨੂੰ ਮੇਰੇ ਪ੍ਰੀਤਮ-ਪ੍ਰਭੂ ਦਾ ਸੁਨੇਹਾ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੈਨੂੰ। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

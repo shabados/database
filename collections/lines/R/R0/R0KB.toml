@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ, ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ) ਸੋਹਣੇ ਚਰਨ ਮੈਂ ਆਪਣੇ ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰ = {उरस्} ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

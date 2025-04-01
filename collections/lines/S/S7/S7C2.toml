@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ ਮਨੁੱਖ ਆਖਦਾ ਹੈ 'ਮੈਂ ਮੁਸਲਮਾਨ ਹਾਂ', ਕੋਈ ਆਖਦਾ ਹੈ 'ਮੈਂ ਹਿੰਦੂ ਹਾਂ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਰਕੁ = ਮੁਸਲਮਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

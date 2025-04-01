@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਫਿਰ ਹੋਰ ਕਿਸੇ ਭੀ ਥਾਂ ਤੋਂ ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਦਾ ਰਸਤਾ ਨਹੀਂ ਲੱਭ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹੁ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਪਾਇਨਿ = ਪਾਂਦੇ ਹਨ, ਪਾ ਸਕਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

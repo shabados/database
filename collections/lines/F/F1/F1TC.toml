@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ ਆਪ ਨੂੰ) ਅਮਰ ਸਮਝੀ ਬੈਠਾ ਹੈ, ਮਨ ਵਿਚ (ਇਹੀ) ਯਕੀਨ ਬਣਿਆ ਹੋਇਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿੜੁ = ਪੱਕਾ। ਮਨਹਿ = ਮਨ ਵਿਚ। ਪ੍ਰਤੀਤਿ = ਯਕੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

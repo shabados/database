@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੌਤ ਦੇ ਹੇੜੀ ਆਸ਼ਕ ਦੇ ਦਿਲ ਨੂੰ ਫੜਨ ਲਈ "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੱਯਾਦ ਕਜ਼ਾ ਅਜ਼ ਪਏ ਦਿਲ ਬੁਰਦਨਿ ਆਸ਼ਿਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

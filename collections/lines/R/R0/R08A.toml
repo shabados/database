@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਚੇਤੇ ਕਰ ਕਰ ਕੇ ਥੱਕ ਗਈ ਹਾਂ (ਕਿ ਉਸ ਦਾ ਕਦੇ ਕੌੜਾ ਬੋਲ ਬੋਲਿਆ ਯਾਦ ਆ ਜਾਏ, ਪਰ) ਉਹ ਕਦੇ ਭੀ ਕੌੜਾ ਬੋਲ ਨਹੀਂ ਬੋਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਸੰਮਲਿ = ਚੇਤਾ ਕਰ ਕਰ ਕੇ। ਕਉਰਾ = ਕੌੜਾ (ਬੋਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਤੋਂ ਬਿਨਾ ਸੁਖ ਨਹੀਂ ਮਿਲਦਾ, ਅੰਦਰੋਂ ਦੁੱਖ-ਕਲੇਸ਼ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਚਹੁ = ਅੰਦਰੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

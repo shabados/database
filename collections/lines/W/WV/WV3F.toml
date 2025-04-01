@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਮੇਰੇ ਸਾਰੇ ਔਖੇ ਭੁਲੇਖੇ ਦੂਰ ਕਰ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਬਿਕਲ = ਕਠਨ। ਭ੍ਰਮ = ਵਹਿਮ, ਭੁਲੇਖੇ। ਮੋਰ = ਮੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

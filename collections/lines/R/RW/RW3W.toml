@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਤੀਜ ਕੇ) ਸਤਿਗੁਰੂ ਜੋ ਉਪਦੇਸ਼ ਸਿੱਖਾਂ ਨੂੰ ਦੇਂਦਾ ਹੈ ਉਹ ਗਹੁ ਨਾਲ ਉਸ ਨੂੰ ਸੁਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਨੀ ਸੁਣਿਆ = ਗਹੁ ਨਾਲ ਸੁਣਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

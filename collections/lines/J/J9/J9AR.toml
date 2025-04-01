@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਤਾਂ ਹਰੇਕ ਥਾਂ ਵਿਚ ਪੂਰੇ ਤੌਰ ਤੇ ਵਿਆਪਕ ਹੈ ॥੩॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰ ਥਾਂ ਵਿਚ। ਭਰਪੂਰਿ = ਪੂਰੇ ਤੌਰ ਤੇ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

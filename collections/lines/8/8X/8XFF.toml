@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੁਹਾਥੋਂ ਸਦਕੇ ਕੁਰਬਾਨ ਵਾਰਨੇ ਜਾਵਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲੇ ਬਲਿ = ਬਲਿ ਬਲਿ। ਕਿਤਾ = ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

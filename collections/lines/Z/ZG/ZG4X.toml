@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਰਸਾਂ ਵਿਚ ਸ੍ਰੇਸ਼ਟ ਰਸ ਹਰਿ ਨਾਮ ਰਸ ਨੂੰ ਸਦਾ ਮਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਹਿ = ਰਸ ਨੂੰ। ਮਾਨਿ = ਮਾਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

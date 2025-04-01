@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਤਾਣ ਕੁਝ ਵੀ ਨਹੀਣ, ਇਹ ਸਭ ਕੁਝ ਉਸ ਦੀ ਸੂਖਮ ਜ਼ਾਤਿ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਨਿ-ਅਮ ਈਣ ਜੁਮਲਾ ਆਣ ਜ਼ਾਤਿ ਲਤੀਫ ।੧੭੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

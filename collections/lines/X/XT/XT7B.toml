@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਪਣੇ) ਸੰਤ ਜਨਾਂ ਨੂੰ ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੧੦॥੨੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲ = ਪ੍ਰਸੰਨ, ਖ਼ੁਸ਼ ॥੪॥੧੦॥੨੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

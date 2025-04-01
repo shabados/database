@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਐਸੇ) ਪ੍ਰਭੂ ਨੂੰ ਦਮ-ਬ-ਦਮ ਯਾਦ ਕਰ ॥੮॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ ਨਿਮਖ = ਅੱਖ ਦੇ ਫਰਕਣ ਦੇ ਸਮੇ ਵਿਚ ਭੀ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

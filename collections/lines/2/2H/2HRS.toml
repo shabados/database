@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਤੂੰ ਆਪਣੇ ਕਰਮਾ ਕਰਕੇ ਹੀ ਹੈਰਾਨ ਰਹਿੰਦਾ ਹੈਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੂਜ਼ੋ ਸ਼ਬ ਹੈਰਾਨੀ ਅਜ਼ ਅਫ਼ਆਲਿ ਖ਼ੇਸ਼ ।੪੦੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਮਾਇਆ-ਰਹਿਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਾਂ ਤੇ ਇੱਜ਼ਤ ਨਾਲ (ਆਪਣੇ) ਘਰ ਵਿਚ ਜਾਵਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

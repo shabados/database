@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਆਪਣੇ ਆਪ ਨੂੰ ਖ਼ਾਨ ਅਖਵਾ ਲਵਾਂ, ਬਾਦਸ਼ਾਹ ਕਹਾ ਲਵਾਂ, ਰਾਜਾ ਸਦਵਾ ਲਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੂਕੁ = ਬਾਦਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

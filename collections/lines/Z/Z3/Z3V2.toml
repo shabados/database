@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਗਏ, ਉਸ ਦੇ ਅੰਦਰ (ਸਾਰੇ) ਸੁਖ ਆ ਕੇ ਟਿਕ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇ = ਆ ਕੇ। ਸਮਾਇ = ਰਚ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

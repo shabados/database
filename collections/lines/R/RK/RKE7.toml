@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਰਿਆ ਵਿਚ ਡੁਬਿਆ ਹੋਇਆ ਵੀ ਕੰਢੇ ਤੇ ਪੁਜ ਜਾਣਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਰਕਿ ਦਰਅਿਾਓ ਬਸਾਹਿਲ ਮੀਸ਼ਵਦ ।੧੦੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

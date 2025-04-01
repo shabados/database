@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਜੇਹੜੇ ਸਿੱਖ ਗੁਰੂ ਦੀ (ਦੱਸੀ) ਸੇਵਾ ਕਰਦੇ ਹਨ, ਉਹ ਭਾਗਾਂ ਵਾਲੇ ਹੋ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਸਿਖ = ਗੁਰੂ ਦੇ ਸਿੱਖ। ਪੁੰਨ = {ਵਿਸ਼ੇਸ਼ਣ} ਪਵਿਤ੍ਰ, ਭਾਗਾਂ ਵਾਲੇ। ਸੇ ਪਰਾਣੀ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

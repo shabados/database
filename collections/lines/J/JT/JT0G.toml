@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਰੂਪ ਗੁਰੂ ਦਾ ਹੀ ਆਸਰਾ-ਪਰਨਾ ਫੜ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਆਸਰਾ। ਟੇਕ ਟਿਕਾਇ = ਆਸਰਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਦਿਨ ਪਰਮਾਤਮਾ ਭੁੱਲ ਜਾਏ, ਉਸ ਦਿਨ ਦੁੱਖੀ ਹੋ ਹੋ ਕੇ ਆਤਮਕ ਮੌਤ ਸਹੇੜ ਲਈਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਦਿਨਿ = ਦਿਨ ਵਿਚ। ਜਿਤੁ ਦਿਨਿ = ਜਿਸ ਦਿਨ ਵਿਚ। ਤਿਤੁ ਦਿਨਿ = ਉਸ ਦਿਨ ਵਿਚ। ਮਰੀਐ = ਮਰੀਦਾ ਹੈ। ਝੂਰਿ = ਪਛੁਤਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

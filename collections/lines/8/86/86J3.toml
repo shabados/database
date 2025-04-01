@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਡਾ ਦਿਲ ਅਤੇ ਜਾਨ ਉਸ ਤੋਂ ਸਦਾ ਕੁਰਬਾਨ ਹੁੰਦਾ ਰਹੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਿਸ਼ਾਰਸ਼ ਦਿਲੋ ਜਾਨਿ ਮਾ ਮੁਸਤਦਾਮ ।੬੨।"
+page = 2
+line = 62
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

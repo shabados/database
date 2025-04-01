@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿਲ ਦੀ ਇਹ ਮੁਰਾਦ ਬਿਨਾਂ ਉਸ ਤੋਂ ਕਿਸੇ ਦੀ ਪੂਰੀ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਮੁਰਾਦਿ ਦਿਲ ਕਸੇ ਬੇ ਆਂ ਨ ਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

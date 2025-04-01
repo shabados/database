@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖਾਂ ਨਾਲ ਮੈਂ ਦਿਨ ਰਾਤ ਸੰਤਾਂ ਦਾ ਦਰਸ਼ਨ ਕਰਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨੀ = ਨੈਨੀਂ, ਅੱਖਾਂ ਨਾਲ। ਪੇਖਉ = ਪੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਰਹਾਂ। ਨਿਸਿ = ਰਾਤ। ਭੋਰ = ਦਿਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

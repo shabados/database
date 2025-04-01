@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਘਰ ਵਿਚ ਥੋੜੀ ਮਾਇਆ ਹੈ ਉਹ ਮਨੁੱਖ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਹ ਮਨੁੱਖ। ਭ੍ਰਮੰਤਾ = ਭਟਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

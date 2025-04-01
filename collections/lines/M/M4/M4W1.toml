@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਦਿਲ ਦੀ ਹਾਲਤ ਤੇਰੇ ਅੱਗੇ ਖੋਲ੍ਹ ਕੇ ਰੱਖ ਦਿੱਤੀ ਹੈ। ਮੈਨੂੰ ਤੇਰੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਹਾਲਤ, ਅਵਸਥਾ। ਸਾਰੀ = ਖੋਲ੍ਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

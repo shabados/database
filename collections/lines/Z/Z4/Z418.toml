@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਣਗਿਣਤ ਜੀਵ ਢੂੰਢਦੇ ਫਿਰੇ ਹਨ, ਪਰ ਕਿਸੇ ਨੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਤ = ਢੂੰਢਤੇ। ਅਸੰਖ = ਅਣਗਿਣਤ, ਜਿਨ੍ਹਾਂ ਦੀ ਸੰਖਿਆ (ਗਿਣਤੀ) ਨਾਹ ਹੋ ਸਕੇ। ਪਾਰੀਆ = ਪਾਇਆ, ਲੱਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

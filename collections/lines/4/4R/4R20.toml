@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ ਅੱਗੇ ਅਰਦਾਸ ਕਰ, ਤੇ ਆਖ-) ਹੇ ਗੋਪਾਲ! ਅਸੀਂ ਤੇਰੇ ਬੱਚੇ ਹਾਂ ॥੪੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਾਲਾ = ਹੇ ਗੋਪਾਲ! ਹੇ ਧਰਤੀ ਦੇ ਸਾਈਂ! ॥੪੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

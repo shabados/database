@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਭਟਕਣਾ ਮਿਟਾ ਕੇ ਜਿਰਾਂਦ ਧਾਰਨ ਕਰੋ ਤੇ ਛੱਡੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਬਿਧਾ = ਦੁਚਿੱਤਾ-ਪਨ, ਭਟਕਣਾ। ਖਿਮਾ = ਧੀਰਜ, ਜਿਰਾਂਦ। ਗਹਿ ਰਹਹੁ = ਧਾਰਨ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

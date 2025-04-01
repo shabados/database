@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਘਰ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਲ = {आलय} ਘਰ। ਆਲ ਜੰਜਾਲਾ = ਘਰ ਦੇ ਜੰਜਾਲ, ਘਰ ਦੀਆਂ ਫਾਹੀਆਂ, ਘਰ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

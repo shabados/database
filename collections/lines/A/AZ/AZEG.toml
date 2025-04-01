@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਮੰਗਤਾ ਬਣ ਕੇ ਖੜਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਮਾਦੇ = {ਫ਼ਾਰਸੀ: ਦਰਮਾਂਦਾ} ਆਜਿਜ਼, ਮੰਗਤਾ। ਠਾਢੇ = ਖਲੋਤਾ ਹਾਂ। ਦਰਬਾਰਿ = (ਤੇਰੇ) ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

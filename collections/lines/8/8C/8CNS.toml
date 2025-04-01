@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਹੁੰਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਵਲ = ਸਿਰਫ਼। ਗੁਣ ਗਾਉ = ਗੁਣਾਂ ਦਾ ਗਾਇਨ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

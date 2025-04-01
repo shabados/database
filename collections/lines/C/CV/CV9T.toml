@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੋਈ ਵੀ ਇਸ ਆਸਮਾਨ ਦੇ ਹੇਠ ਸੌਖਾ ਅਤੇ ਖੁਸ਼ਹਾਲ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਆਸੂਦਾ ਕਸੇ ਦਰ ਜ਼ੇਰਿ ਚਰਖ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

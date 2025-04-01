@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ) ਗੁਰਸਿੱਖਾਂ ਨੇ (ਗੁਰੂ ਦਾ) ਹੁਕਮ ਮੰਨ ਲਿਆ, ਪੂਰਾ ਗੁਰੂ (ਉਹਨਾਂ ਨੂੰ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਸਿਖੀ = ਗੁਰੂ ਦੇ ਸਿੱਖਾਂ ਨੇ। ਭਾਣਾ = ਰਜ਼ਾ, ਮਰਜ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਵਿਛੜ ਕੇ (ਕਲਿਜੁਗੀ ਸੁਭਾਵ ਵਿਚ ਫਸ ਕੇ) ਮਨੁੱਖਾਂ ਦੇ ਧੜੇ ਬਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿਜੁਗ ਮਹਿ = ਪਰਮਾਤਮਾ ਤੋਂ ਵਿਛੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

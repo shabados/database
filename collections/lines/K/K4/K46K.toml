@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਪਸ਼, ਠੰਢ (ਭਾਵ, ਕਿਸੇ ਵਲੋਂ ਖਰ੍ਹਵਾ ਸਲੂਕ ਤੇ ਕਿਸੇ ਵਲੋਂ ਨਿੱਘਾ ਸਲੂਕ) ਘਰ, ਜੰਗਲ (ਭਾਵ, ਘਰ ਵਿਚ ਰਹਿੰਦਿਆਂ ਨਿਰਮੋਹ ਰਵਈਆ) ਉਸ ਨੂੰ ਇਕ-ਸਮਾਨ ਦਿੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ = ਸੂਰਜ, ਤਪਸ਼। ਸਸਿ = ਚੰਦ੍ਰਮਾ, ਠੰਢ। ਉਦਿਆਨੈ = ਜੰਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

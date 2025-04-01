@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਸਿਰ ਉਤੇ ਤਾਜ ਦੀ ਟੋਪੀ ਹੋਵੇ, ਮੈਂ ਆਪਣੇ ਸਿਰ ਉਤੇ (ਸ਼ਾਹੀ) ਛਤਰ ਝੁਲਾ ਸਕਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਲਹ = ਟੋਪੀ। ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

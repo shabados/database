@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਕਿਰਪਾ ਕਰ ਕੇ ਮੈਨੂੰ (ਜੀਵਨ ਦੇ ਸਹੀ) ਰਸਤੇ ਉਤੇ ਤੋਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਮੋਹਿ = ਮੈਨੂੰ। ਮਾਰਗਿ = (ਸਹੀ ਜੀਵਨ-) ਰਾਹ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

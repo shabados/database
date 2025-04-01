@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦਾਤਾਰ ਨੇ (ਨਾਮ ਦੀ ਇਹ) ਦਾਤਿ ਆਪਣੇ ਹੱਥ ਵਿਚ ਰੱਖੀ ਹੋਈ ਹੈ, ਜਿਸ ਨੂੰ ਚਾਹੁੰਦਾ ਹੈ ਉਸ ਨੂੰ ਦੇ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੈ = ਦਾਤੇ ਨੇ। ਹਥਿ = ਹੱਥ ਵਿਚ। ਦੇਈ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

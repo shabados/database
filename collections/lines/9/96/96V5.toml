@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਹਨੇਰਾ ਅਤੇ (ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਦਾ) ਚਾਨਣ ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧੇਰਾ = ਮਾਇਆ ਦਾ ਮੋਹ। ਚਾਨਣੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

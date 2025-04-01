@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਇਕ ਤੋਂ ਇਕ ਸੋਹਣੀਆਂ (ਸੋਹਣੇ ਆਤਮਕ ਜੀਵਨ ਵਾਲੀਆਂ) ਹਨ, ਮੈਂ ਕਿਸ ਗਿਣਤੀ ਵਿਚ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੂੰ = ਤੋਂ। ਹਿਕਿ = ਇਕਿ {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਚਾੜੈ = ਚੜ੍ਹਦੀਆਂ; ਵਧੀਆ, ਸੋਹਣੀਆਂ। ਹਉ = ਮੈਂ। ਕਿਸੁ ਚਿਤੇਹੀਆ = ਕਿਸ ਨੂੰ ਚੇਤੇ ਹਾਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਲੈ ਕੇ ਆਪਣੇ ਗਲ ਵਿਚ ਲਟਕਾਈ ਫਿਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਣੁ = ਪੱਥਰ, ਪੱਥਰ ਦੀ ਮੂਰਤੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

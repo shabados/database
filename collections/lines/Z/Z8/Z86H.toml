@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਰਾਮ (ਸਭ ਥਾਈਂ) ਆਪ ਹੀ ਆਪ ਹੈ, ਆਪ ਹੀ ਸਭ ਕੁਝ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਜਗਤ ਵਿਚ ਸਭਨੀਂ ਥਾਈਂ ਆਪ ਹੀ ਆਪ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਕਰਤਾ = ਕਰਨ ਵਾਲਾ। ਸਭਤੁ = ਸਭ ਥਾਈਂ। ਜਗੇ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

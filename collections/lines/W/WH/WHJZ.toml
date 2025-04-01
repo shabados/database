@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮ ਦੀ ਨਗਰੀ ਵਿਚ ਜਮ ਦੇ ਜਾਲ ਵਿਚ ਫਸੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਜਾਲੀ = ਜਮ ਦੇ ਜਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

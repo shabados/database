@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਇਸ) ਪਖੰਡ ਨਾਲ (ਮਨ ਦੀ) ਮੈਲ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦੀ, ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਮਨ ਦੇ ਅੰਦਰ ਟਿਕੀ ਹੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਖੰਡਿ = ਪਾਖੰਡ ਨਾਲ। ਵਿਕਾਰੀ = ਵਿਕਾਰਾਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

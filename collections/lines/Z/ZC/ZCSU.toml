@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਇਹ ਭੇਤ) ਸਮਝ ਲਿਆ ਹੈ ਉਹ 'ਅੰਮ੍ਰਿਤ' ਹਿਰਦੇ ਵਿਚ ਸਾਂਭ ਰੱਖਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਿ = ਹਿਰਦੇ ਵਿਚ। ਧਾਰਿ = ਸਾਂਭ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

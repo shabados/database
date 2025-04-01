@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਧਾਰਨ) ਰੁੱਖ ਭੀ ਚੰਦਨ ਦੇ ਨਾਲ (ਲੱਗ ਕੇ) ਵਿਗੜ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰਵਰੁ = ਰੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

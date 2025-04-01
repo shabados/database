@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਆਪ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ ਕਉ = ਹੇ ਨਾਨਕ! ਜਿਸ ਕਉ, ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ। ਖੁਦਿ = ਖ਼ੁਦਿ, ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

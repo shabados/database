@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਨੇ) ਇਸ ਜਗਤ ਨੂੰ (ਆਪਣੇ ਮੋਹ ਦੀ) ਭਟਕਣਾ ਵਿਚ (ਪਾ ਕੇ) ਮੋਹ ਦੀ ਠਗ-ਬੂਟੀ ਖੁਆ ਕੇ ਗ਼ਲਤ ਜੀਵਨ-ਰਾਹ ਤੇ ਪਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਇਆ = ਕੁਰਾਹੇ ਪਾਇਆ ਹੈ। ਠਗਉਲੀ = ਠਗ-ਬੂਟੀ, ਠਗ-ਮੂਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

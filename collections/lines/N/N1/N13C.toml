@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਜਦੋਂ ਕੋਈ ਖੋਟਾ ਰੁਪਇਆ ਸਰਾਫ਼ਾਂ ਦੀ ਨਜ਼ਰੇ ਪੈਂਦਾ ਹੈ ਤਾਂ ਉਸ ਦਾ ਖੋਟ ਪਰਤੱਖ ਦਿੱਸ ਪੈਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢਬੂਆ = ਚਾਂਦੀ ਦਾ ਰੁਪਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

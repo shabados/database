@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਹੁਣ ਮੈਂ ਕਾਮਾਦਿਕ) ਪੰਜੇ ਝਗੜਾਲੂ ਵੈਰੀ ਮਾਰ ਮੁਕਾਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਾਦੀ = ਝਗੜਾਲੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣ) ਰਜੋ ਤਮੋ ਤੇ ਸਤੋ (ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੀ ਹੀ ਤਾਕਤ ਦੇ ਆਸਰੇ ਬਣੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜ ਤਮ ਸਤ = ਮਾਇਆ ਦੇ ਤਿੰਨੇ ਗੁਣ। ਕਲ = ਸੱਤਿਆ। ਛਾਇਆ = ਆਸਰਾ, ਸਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

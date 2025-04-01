@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੋ ਕੁਝ ਤੂੰ ਮੈਨੂੰ (ਪਹਿਨਣ ਨੂੰ, ਖਾਣ ਨੂੰ,) ਦੇਂਦਾ ਹੈਂ ਉਹੀ ਮੈਂ (ਸੰਤੋਖ ਨਾਲ) ਪਹਿਨਦਾ ਤੇ ਖਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਨ੍ਹ੍ਹਉ = ਮੈਂ ਪਹਿਨਦਾ ਹਾਂ, ਪੈਨ੍ਹ੍ਹਉਂ। ਖਾਈ = ਮੈਂ ਖਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

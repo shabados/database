@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਅੱਠੇ ਪਹਰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦਾ ਗਾਇਨ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਗਾਉ = ਗੁਣਾਂ ਦਾ ਗਾਇਨ (ਕਰਦੇ ਹਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

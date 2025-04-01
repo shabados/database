@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਫਿਰ) ਤਿੰਨਾਂ ਭਵਨਾਂ ਦਾ, ਤਿੰਨਾਂ ਗੁਣਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਭੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਅ ਅਸਥਾਨ = ਤਿੰਨੇ ਭਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

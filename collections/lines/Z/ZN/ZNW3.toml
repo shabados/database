@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਤਿਲਕ ਤੋਂ ਬਿਨਾ ਬ੍ਰਾਹਮਣ, ਜਿਵੇਂ ਹੁਕਮ (ਦੀ ਸਮਰਥਾ) ਤੋਂ ਬਿਨਾ ਰਾਜਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਥਾ = ਜਿਵੇਂ (यथा)। ਬਿਪ੍ਰਾ = ਬ੍ਰਾਹਮਣ (विप्रः)। ਅਮਰ = ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

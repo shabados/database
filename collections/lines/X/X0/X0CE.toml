@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਦੇ ਕਾਰਨ) ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਮਨ ਭੌਰੇ ਵਾਂਗ ਭਟਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਰ ਤਾਰ = ਭੌਰੇ ਦੀ ਤਰ੍ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਨੂੰ 'ਮੇਰੇ, ਮੇਰੇ' ਰਟਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ ਕਉ = ਹੋਰਨਾਂ (ਪਦਾਰਥਾਂ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਧਨ ਵਾਲਾ ਹੋ ਕੇ ਮਾਣ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਵੰਤਾ = ਧਨ ਵਾਲਾ, ਧਨਾਢ। ਗਰਬਾਵੈ = ਗਰਬ (ਮਾਣ) ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

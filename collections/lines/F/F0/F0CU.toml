@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਅਟੱਲ ਹੈ, ਬੇ-ਮੁਥਾਜ, ਉਸ ਨਾਲ ਕੋਈ ਚਲਾਕੀ ਨਹੀਂ ਚੱਲ ਸਕਦੀ, ਨਾਹ ਹੀ (ਉਸ ਦੇ ਹੁਕਮ ਅੱਗੇ) ਕੋਈ ਦਲੀਲ ਪੇਸ਼ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰੁ = ਅ-ਮਰੁ, ਅਟੱਲ। ਵੇਪਰਵਾਹੁ = ਬੇ-ਮੁਥਾਜ। ਹੁਜਤਿ = ਦਲੀਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

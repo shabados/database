@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਉਹੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਹੀ ਜਾ ਸਕਦੀ ਹੈ ਜੇਹੜੀ ਤੈਨੂੰ ਪਸੰਦ ਆ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ = ਉਹ {ਇਸਤ੍ਰੀ ਲਿੰਗ}। ਹਰਿ ਪ੍ਰਭ = ਹੇ ਹਰੀ ਪ੍ਰਭੂ! ਭਾਵੈ = (ਤੈਨੂੰ) ਚੰਗੀ ਲੱਗਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

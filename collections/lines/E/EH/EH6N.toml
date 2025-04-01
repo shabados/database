@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਹਰਿ-ਨਾਮ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਸਦਾ ਹਰਿ-ਗੁਣ ਗਾਂਦੇ ਰਹੀਏ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹ = ਅਸੀਂ ਗਾਵੀਏ। ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਸਮਾਇ = ਲੀਨ ਹੋ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

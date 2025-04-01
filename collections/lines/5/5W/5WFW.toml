@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪ ਬੁਹਤ ਉਚੇਰੇ ਅਤੇ ਵਡੇਰੇ ਹਨ, ਜਿਸ ਨੇ ਵੀ ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਕੀਤੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦ ਬਜ਼ੁਰਗੋ ਹਰ ਕਸੇ ਸ਼ਾਂ ਨਿਸ਼ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

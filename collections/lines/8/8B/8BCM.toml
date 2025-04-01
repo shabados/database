@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਅਤੇ ਸਭ ਦੇ ਪੈਦਾ ਕਰਨ ਵਾਲੇ! ਤੇਰਾ ਆਸਰਾ ਮਿਲਦਾ ਭੀ ਤੇਰੇ ਹੀ ਪਾਸੋਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝੈ ਤੇ = ਤੁਝ ਤੇ ਹੀ, ਤੇਰੇ ਪਾਸੋਂ ਹੀ। ਪਾਈ = ਮਿਲਦੀ ਹੈ। ਸਾਚੇ = ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

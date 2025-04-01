@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੁਨੀਆ ਵਿਚ ਹਰ ਚੀਜ਼ ਫ਼ਨਾਹ ਹੋ ਜਾਣ ਵਾਲੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਨਾਹ ਪਜ਼ੀਰ ਬਵਦ ਹਰ ਚਿ ਹਸਤ ਦਰ ਆਲਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

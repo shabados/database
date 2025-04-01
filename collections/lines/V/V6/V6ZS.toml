@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਬਾਣੀ ਸੁਣਿਆ ਕਰ, (ਇਹ ਬਾਣੀ ਮਨ ਵਿਚੋਂ ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਦੂਰ ਕਰ ਦੇਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = (ਹੇ ਭਾਈ!) ਸੁਣਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

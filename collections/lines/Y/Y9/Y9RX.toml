@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਸੰਤ ਜਨਾਂ ਨੇ) ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਿਓ = ਫੜ ਲਿਆ, ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲਿਆ। ਸਾਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

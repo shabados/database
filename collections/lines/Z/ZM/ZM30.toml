@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਬੈਠ ਕੇ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ। ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

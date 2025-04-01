@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਵਿਚ ਰੁੱਝਣ ਨਾਲ ਕੀਤੇ ਅਮਲਾਂ ਦਾ ਹਿਸਾਬ ਦੇਣਾ ਤੇਰੇ ਸਿਰ ਉਤੇ ਟਿਕਿਆ ਹੀ ਰਿਹਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

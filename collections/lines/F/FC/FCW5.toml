@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋਂ! ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦੀ (ਮਾਇਆ-ਰੂਪ) ਜ਼ਹਿਰ ਤੋਂ ਪਾਰ ਲੰਘਾਉਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਰੋਜ਼ ਜਪ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਉਜਲ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਬਿਖੁ = ਜ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

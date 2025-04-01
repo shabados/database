@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭੀ ਮਨੁੱਖ ਕਿਸੇ ਚੋਰ ਦੇ ਚੰਗੇ ਹੋਣ ਦੀ ਗਵਾਹੀ ਨਹੀਂ ਦੇ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਮਾ = ਹਮਾਇਤ, ਜ਼ਾਮਨੀ {ਹਾਮਾ ਭਰਨੀ = ਜ਼ਾਮਨ ਬਣਨਾ, ਕਿਸੇ ਦੇ ਚੰਗੇ ਹੋਣ ਬਾਰੇ ਤਸੱਲੀ ਭਰਿਆ ਬਚਨ ਆਖਣਾ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

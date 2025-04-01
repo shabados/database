@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਬਿਣਾਂ ਹਰ ਚੀਜ਼ ਫ਼ਜ਼ੂਲ ਹੈ ਅਤੇ ਹਰ ਥਾਂ ਖਾਲੀ ਖਾਲੀ ਹੈ, ਇਹੀ ਹਰ ਜਗ੍ਹਾ ਤੇ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਬੇ ਤੋ ਹੇਚ ਨੇਸਤ ਚੂੰ ਬੀਨੇਮ ਬ-ਹਰ ਕੁਜਾਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

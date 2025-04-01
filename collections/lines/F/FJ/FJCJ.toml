@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਜੀਵ ਉਹੀ ਕੁਝ ਕਰ ਸਕਦੇ ਹਾਂ ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਸਾਥੋਂ ਕਰਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਾਵੈ = ਕਰਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

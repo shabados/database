@@ -42,6 +42,12 @@ language = "pa"
 data = "ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਹ ਕੰਮ ਭਲਾ ਹੈ (ਭਾਵ, ਤੇਰੀ ਰਜ਼ਾ ਵਿਚ ਰਹਿਣਾ ਹੀ ਠੀਕ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਈ ਕਾਰ = ਉਹੋ ਕਾਰ, ਉਹੋ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

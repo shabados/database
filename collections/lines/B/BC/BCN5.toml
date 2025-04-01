@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕੱਠ ਸੁਭਾਗਾ ਹੈ ਜੋ ਰੱਬ ਲਈ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਹਜੂਮਿ ਖ਼ੁਸ਼ ਕਿ ਅਜ਼ ਬਹਿਰਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

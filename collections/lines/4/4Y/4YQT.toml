@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜੇ ਪ੍ਰਭੂ ਕਿਰਪਾ ਕਰੇ, ਤਾਂ) ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨ ਧੋ ਧੋ ਕੇ ਪੀਂਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੋਇ = ਧੋ ਕੇ। ਪੀਵਾ = ਪੀਵਾਂ, ਮੈਂ ਪੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

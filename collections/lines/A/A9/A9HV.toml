@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਆਪਣੀ (ਇਸ) ਬਜ਼ੁਰਗੀ ਨੂੰ ਆਪ ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੋ ਰਿਹਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵੈ = ਜੀਊਂ ਰਿਹਾ ਹੈ, ਪ੍ਰਸੰਨ ਹੋ ਰਿਹਾ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

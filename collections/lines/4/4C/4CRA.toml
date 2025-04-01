@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੇ ਮੌਜ-ਮੇਲੇ ਮਾਣਦਿਆਂ ਤੇਰੀ ਤ੍ਰਿਸ਼ਨਾ ਨਹੀਂ ਮਿਟਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਸਨਾ = ਤ੍ਰਿਸ਼ਨਾ। ਕਲੋਲ = ਖੇਲ-ਤਮਾਸ਼ੇ। ਕਰਤ = ਕਰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

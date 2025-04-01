@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਗਤ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਜੀਵ-ਇਸਤ੍ਰੀ ਬਹੁਤ ਮੂਰਖ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਵਕੜੈ = ਪੇਕੇ ਘਰ ਵਿਚ, ਜਗਤ ਦੇ ਮੋਹ ਵਿਚ। ਧਨ = ਇਸਤ੍ਰੀ, ਜੀਵ-ਇਸਤ੍ਰੀ। ਖਰੀ = ਬਹੁਤ। ਇਆਣੀ = ਅੰਞਾਣ, ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! (ਇਸ ਕੰਮ ਵਿਚ ਆਲਸ ਨਾਹ ਕਰ, ਵੇਖ) ਮੌਤ ਸੱਪ ਵਾਂਗ ਮੂੰਹ ਖੋਲ੍ਹ ਕੇ ਪਈ ਫਿਰਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਲ = {व्याल} ਸੱਪ। ਜਿਉ = ਵਾਂਗ। ਪਰਿਓ ਡੋਲੈ = ਫਿਰ ਰਿਹਾ ਹੈ। ਪਸਾਰੇ = ਪਸਾਰਿ, ਪਸਾਰ ਕੇ, ਖਿਲਾਰ ਕੇ, ਖੋਲ੍ਹ ਕੇ। ਮੀਤ = ਹੇ ਮਿੱਤਰ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

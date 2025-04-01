@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਖੀਆਂ ਇਸ ਮਿਠਾਸ ਉਤੇ ਮਰਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਖੀ = ਮੱਖੀਆਂ ਨੇ। ਮਿਠੈ = ਮਿਠਾਸ ਵਿਚ। ਕਿਸ ਨੋ = (ਸੰਬੰਧਕ 'ਨੋ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਕਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

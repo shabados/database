@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਉਸ ਨੇ) ਫ਼ੌਜਾਂ ਜਮ੍ਹਾਂ ਕਰ ਕਰ ਕੇ ਬੜਾ ਲਸ਼ਕਰ ਬਣਾ ਲਿਆ (ਤਾਂ ਭੀ ਕੀਹ ਹੋਇਆ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋੜੇ = ਜਮ੍ਹਾ ਕੀਤੇ। ਸੰਬਾਹਾ = ਇਕੱਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

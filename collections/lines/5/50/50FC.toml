@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੌਤ ਦਾ ਡੰਡਾ ਇਸ ਦੇ ਸਿਰ ਉੱਤੇ ਆ ਵੱਜਦਾ ਹੈ ॥੩॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੰਡੁ = ਡੰਡਾ। ਮੂੰਡ ਮਹਿ = ਸਿਰ ਉੱਤੇ ॥੩॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

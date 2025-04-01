@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਵਰਤ ਰੱਖਣਾ, ਕਰਮ ਕਾਂਡ ਦਾ ਹਰੇਕ ਨੇਮ ਨਿਬਾਹੁਣਾ, ਰੋਜ਼ਾਨਾ ਦੇਵ-ਪੂਜਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਤਾਪ੍ਰਤਿ = ਸਦਾ ਹੀ, ਰੋਜ਼ਾਨਾ। ਪੂਜਾ = ਦੇਵ-ਪੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

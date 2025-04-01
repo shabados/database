@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਮੁੜ ਮੁੜ ਜਨਮ ਮਰਨ ਵਿਚ ਨਹੀਂ ਆਵਾਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਛੈ = ਮੁੜ। ਬਹੁਰਿ = ਫਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੇ ਪੰਡਿਤ) ਚਾਰੇ ਵੇਦ ਜ਼ਬਾਨੀ ਉਚਾਰ ਸਕਦਾ ਹੈ (ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਭੀ) ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਟਿਕਾਣਾ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਤੁਰ = ਚਾਰ। ਮੁਖ ਬਚਨੀ = ਮੂੰਹ ਦੇ ਬਚਨਾਂ ਨਾਲ, ਜ਼ਬਾਨੀ। ਮਹਲੁ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

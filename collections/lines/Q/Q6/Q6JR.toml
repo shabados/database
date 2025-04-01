@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਪਾਪੀ ਹਾਂ, ਅਸੀਂ ਪਾਪੀ ਹਾਂ, ਗੁਣ-ਹੀਨ ਹਾਂ, ਆਜਿਜ਼ ਹਾਂ, (ਪਰ ਫਿਰ ਭੀ) ਤੇਰੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਨ। ਦੀਨ = ਆਜਿਜ਼, ਅਨਾਥ, ਗਰੀਬ, ਨਿਮਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

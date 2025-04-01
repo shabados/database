@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਹੀ ਸੰਤ ਦੀ ਵਡਿਆਈ (ਦਾ ਕਾਰਨ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਨੀ = ਪਛਾਣੀ। ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

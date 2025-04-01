@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਤਿਗੁਰੂ! ਹੇ ਮੇਰੇ ਹਰੀ! ਜੇਹੜੀ ਮੇਰੀ ਹਾਲਤ ਹੁੰਦੀ ਸੀ ਉਹ ਹਾਲਤ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = ਹਾਲਤ। ਸਾ ਬਿਧਿ = ਉਹ ਹਾਲਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

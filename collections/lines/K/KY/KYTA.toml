@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਪਾਲਦਾ ਹੈ, ਸਭ ਨੂੰ ਰੋਜ਼ੀ ਅਪੜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅਨ = ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ। ਪ੍ਰਤਿਪਾਲਿ = ਪ੍ਰਤਿ ਪਾਲੈ, ਪਾਲਦਾ ਹੈ। ਸਮਾਹੈ = ਸੰਬਾਹੈ, ਰਿਜ਼ਕ ਪੁਚਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

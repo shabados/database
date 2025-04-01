@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਪ੍ਰਭਾਤੀ/ਬਿਭਾਗ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = ਤਾਲ ਮੁੜ ਮੁੜ ਪਰਤਾਣਾ ਹੈ ਗਾਵਣ ਸਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

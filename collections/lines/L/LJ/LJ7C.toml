@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਹਉਮੈ ਦੇ ਰਾਹ ਵਿਚ ਬੰਨ੍ਹ ਮਾਰਨ ਦੀ ਸਮਰਥਾ ਰੱਖਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧੁ = ਰੋਕ, ਬੰਨ੍ਹ। ਦੇਵਣਹਾਰਾ = ਦੇਣ-ਯੋਗਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

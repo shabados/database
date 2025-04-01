@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ, ਮੇਰੀ ਜਾਨ # ਤੂੰ ਵੀ ਇੱਕ ਬਿਬੇਕੀ ਪੁਰਸ਼ ਬਣ ਜਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਸ਼ਵੀ ਐ ਜਾਨਿ ਮਨ ਮਰਦਿ ਤਮੀਜ਼ ।੧੨੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

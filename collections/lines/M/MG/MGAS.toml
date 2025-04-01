@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੇ ਧਨ ਪਦਾਰਥ ਦੀ ਖ਼ਾਤਰ ਜੋ ਰੋਵੀਦਾ ਹੈ ਉਹ ਰੋਣਾ ਸਾਰਾ ਹੀ ਵਿਅਰਥ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਲੇਵੇ ਕਾਰਣਿ = ਧਨ-ਪਦਾਰਥ ਦੀ ਖ਼ਾਤਰ। ਬਿਕਾਰੋ = ਬੇ-ਕਾਰ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

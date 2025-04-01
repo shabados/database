@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮੇਰੀ ਜਿੰਦ ਹੈ, 'ਨਾਮ' ਤੋਂ ਬਿਨਾ ਮੈਂ ਜੀਊ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੀ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਆਪੁ = ਆਪਾ-ਭਾਵ। ਗਵਾਇ = ਦੂਰ ਕਰ ਕੇ। ਜੀਉ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

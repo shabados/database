@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਪ੍ਰਾਪਤ ਹੋਈ, ਉਹਨਾਂ ਦੇ) ਕ੍ਰੋੜਾਂ ਜਨਮਾਂ ਦੇ ਗੇੜ ਮੁੱਕ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਰਹੇ = ਮੁੱਕ ਗਏ। ਭਵਾਰੇ = ਭੌਣੇ, ਗੇੜ, ਭਟਕਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

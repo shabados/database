@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹੇ ਸਦਾ ਹੀ ਕਿਰਪਾ ਦੇ ਸੋਮੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

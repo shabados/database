@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ-ਸਿਮਰਨ ਹੀ ਸਾਰੇ ਸ਼ਾਸਤ੍ਰ ਆਦਿਕਾਂ ਦੇ ਦਿੱਤੇ ਗਿਆਨਾਂ ਨਾਲੋਂ) ਸਭ ਤੋਂ ਉੱਚਾ ਤੇ ਸ੍ਰੇਸ਼ਟ ਗਿਆਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸੇਖ = ਵਿਸ਼ੇਸ਼, ਉਚੇਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

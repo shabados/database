@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਸ ਤਸਵੀਰ (ਦੇ ਮੋਹ) ਨੂੰ ਛੱਡ ਕੇ ਤਸਵੀਰ ਬਣਾਉਣ ਵਾਲੇ ਨੂੰ ਚੇਤੇ ਰੱਖ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਛੱਡ ਕੇ। ਚੇਤਹੁ = ਚੇਤੇ ਰੱਖੋ, ਯਾਦ ਕਰੋ। ਚਿਤਕਾਰੀ = ਚਿਤ੍ਰਕਾਰ, ਤਸਵੀਰ ਨੂੰ ਬਣਾਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

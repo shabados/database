@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਾ ਤੇਰੇ ਹੀ ਇਕ ਨਾਮ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਵਾ = ਮੈਂ ਹੋਵਾਂ। ਤੇਰੇ ਨਾਵਏ = ਤੇਰੇ ਨਾਵੈ, ਤੇਰੇ ਨਾਮ ਤੋਂ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

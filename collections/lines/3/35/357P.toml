@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਲਕ ਹਰੀ ਪ੍ਰਭੂ ਸਭ ਥਾਵਾਂ ਵਿਚ ਭਰਪੂਰ ਹੈ, ਦਾਸੀ ਵਾਂਗ ਸਾਰੇ ਜਗਤ ਨੂੰ ਸੰਭਾਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿਆ = ਵਿਆਪਕ ਹੈ। ਠਾਈ = ਥਾਵਾਂ ਵਿਚ। ਸਭੁ ਜਗਤੁ = ਸਾਰਾ ਸੰਸਾਰ। ਚੇਰੀ = ਦਾਸੀ (ਵਾਂਗ)। ਸਮਾਰੇ = ਸੰਭਾਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

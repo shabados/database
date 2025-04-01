@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੂਜੇ ਪਾਸੇ ਜੇ ਕੋਈ ਮਨੁੱਖ) ਅਤਰ ਚੰਦਨ ਅਗਰ ਕਪੂਰ (ਆਦਿਕ ਸੁਗੰਧੀਆਂ ਦੇ ਵਰਤਣ) ਵਿਚ ਮਸਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਆ = ਅਤਰ। ਕਪੂਰਿ = ਕਪੂਰ (ਆਦਿਕ ਦੇ ਵਰਤਣ) ਵਿਚ (ਮਗਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

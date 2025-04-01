@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮੇਰਾ ਆਪਣੇ ਗੁਰੂ ਨਾਲ ਡੂੰਘਾ ਪਿਆਰ ਹੈ। ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਂ ਕਿਵੇਂ ਜੀਊ ਸਕਦਾ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ = ਨਾਲ। ਪਿਰਹੜੀ = ਪਿਆਰ। ਕਿਉ ਜੀਵਾ = ਕਿਉਂ ਜੀਵਾਂ? ਕਿਵੇਂ ਜੀ ਸਕਦਾ ਹਾਂ? ਮਾਉ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

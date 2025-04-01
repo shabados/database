@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸ੍ਰੀ) ਰਾਮ (ਜੀ) ਦਾ ਨਾਮ ਦੇਵਤਿਆਂ ਵਿਚ ਸੂਰਜ ਵਾਂਗ ਚਮਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਨਾਮੁ = (ਸ੍ਰੀ) ਰਾਮ (ਜੀ) ਦਾ ਨਾਮ। ਦੇਵਾ ਮਹਿ = ਦੇਵਤਿਆਂ ਵਿਚ। ਸੂਰੁ = ਸੂਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

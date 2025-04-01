@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਜਦ ਕਤਰੇ ਨੂੰ ਇਹ ਅਮਰ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਤਰਾ ਰਾ ਈਂ ਦੌਲਤਿ ਚੂੰ ਦਸਤਦਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

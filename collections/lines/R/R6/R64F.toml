@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਤੇਰੇ ਆਪਣੇ ਹੀ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਹੈ, ਤੂੰ ਉਸ (ਦੇ ਮਿਲਾਪ) ਦਾ ਆਨੰਦ ਕਿਉਂ ਨਹੀਂ ਮਾਣਦੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਰੰਗੋ = ਰੰਗੁ, ਆਨੰਦ। ਕੀ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

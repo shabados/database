@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਸਤ ਸੰਗਤਿ ਨਾਲ ਝਗੜਾ ਪਾਈ ਰੱਖਦਾ ਹੈ, (ਭਾਵ, ਜਿਸ ਨੂੰ ਸਤ ਸੰਗ ਨਹੀਂ ਭਾਉਂਦਾ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦੁ = ਝਗੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

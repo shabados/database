@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਲੋਕ ਅਨੇਕਾਂ ਸਾਲ ਜਪ ਕਰਦੇ ਹਨ, ਤਪ ਸਾਧਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਖ = ਬਰਸ, ਵਰ੍ਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

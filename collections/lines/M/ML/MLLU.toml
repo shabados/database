@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਤੂੰ ਹੀ ਜਿੰਦ-ਰੂਪ ਹੈਂ, ਤੂੰ (ਜੀਵਾਂ ਦੀ) ਹਰੇਕ ਗੱਲ ਜਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ, ਸਹਾਰਾ। ਜਾਣਲਾ = ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਣਹਾਰ ਕਰਤਾਰ! (ਜੀਵਾਂ ਵਾਸਤੇ) ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਪਰ ਤੂੰ ਆਪ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾਗਵਣੁ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ। ਥਿਰੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

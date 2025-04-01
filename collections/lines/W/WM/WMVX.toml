@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰਬਲੇ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮ ਅਨੁਸਾਰ ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਸਤਕ ਉਤੇ ਲਿਖਿਆ ਲੇਖ ਉੱਘੜਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬ ਕਰਮਿ = ਪੂਰਬਲੇ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮ ਅਨੁਸਾਰ। ਧੁਰਿ = ਧੁਰ ਦਰਗਾਹ ਤੋਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਨਾਖਸ਼ ਨੇ) ਪ੍ਰਹਲਾਦ ਨੂੰ ਕੋਠੇ ਵਿਚ ਬੰਦ ਕਰਾ ਦਿੱਤਾ, ਤੇ ਦਰਵਾਜ਼ੇ ਨੂੰ ਜੰਦਰਾ ਲਵਾ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰਿ = ਦਰਵਾਜ਼ੇ ਉਤੇ। ਤਾਲਾ = ਜੰਦਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

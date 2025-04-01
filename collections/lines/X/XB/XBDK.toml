@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਜਦ ਤਕ ਨਵੀਂ ਜੁਆਨੀ ਹੈ ਤਦ ਤਕ ਆਤਮਕ ਅਨੰਦ ਲੈ ਲੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ = ਆਤਮਕ ਆਨੰਦ। ਜਾ = ਜਦ ਤਕ। ਨਉਹੁਲਾ = ਨਵਾਂ, ਨਵੇਂ ਹੁਲਾਰੇ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

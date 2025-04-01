@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਦੇ ਦਿਲਾਂ ਦੀ ਜਾਣਨ ਵਾਲਾ ਪ੍ਰਭੂ ਜਲ ਵਿਚ ਧਰਤੀ ਵਿਚ ਸਭ ਥਾਂ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਪੂਰਨ = ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

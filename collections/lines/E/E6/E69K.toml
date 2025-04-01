@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਮੇਰੇ ਮਨ ਵਿਚ (ਗੁਰੂ ਨੂੰ) ਮਿਲਣ ਦੀ ਤਾਂਘ ਹੈ, ਮੈਂ ਕਿਸ ਤਰ੍ਹਾਂ ਪੂਰੇ ਗੁਰੂ ਨੂੰ ਲੱਭਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਲੋਚਾ = ਤਾਂਘ। ਹਉ = ਮੈਂ। ਕਿਉ = ਕਿਵੇਂ? ਪਾਈ = ਪਾਈਂ, ਮੈਂ ਲੱਭਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

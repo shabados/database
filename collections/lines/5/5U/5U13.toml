@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਮਨ! ਹੇ ਮਿਤ੍ਰ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਦਰਵਾਜ਼ਾ ਮੱਲੀ ਰੱਖ, ਇਹੀ ਦਰਵਾਜ਼ਾ ਅਟੱਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਟੱਲ, ਕਦੇ ਨਾਹ ਹਿਲਣ ਵਾਲਾ। ਮਲੀ = ਮੱਲੀਂ, ਮੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

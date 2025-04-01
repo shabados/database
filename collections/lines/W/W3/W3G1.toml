@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਜਗਤ (ਪਰਮਾਤਮਾ ਦੀ ਰਚੀ ਹੋਈ ਇਕ) ਖੇਡ ਹੈ (ਇਸ ਵਿਚ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ ਭੀ। ਥਿਰੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਬਾਜੀ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

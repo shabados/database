@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਜਿਹੜਾ ਮਨੁੱਖ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਣ ਲੱਗ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

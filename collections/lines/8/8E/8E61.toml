@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਬਰੀਕ, ਜੈਦੇਵ, ਤ੍ਰਿਲੋਚਨ, ਨਾਮਾ ਅਤੇ ਕਬੀਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = ਅਤੇ ਹੋਰ। ਭਣੰ = ਆਖੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਕੀਮੀਆਗਰ ਤਾਣਬੇ ਤੋਣ ਸੋਨਾ ਬਣਾ ਸਕਦਾ ਹੈ, ਫਿਰ ਇਹ ਅਸੰਭ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਮੀਆਗਰ ਗਰ ਜ਼ਿ ਮਿਸ ਸਾਜ਼ਦ ਤੀਲਾਇ ਦੂਰ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

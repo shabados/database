@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਤੇਰੇ ਦਾਸਾਂ ਦੀ ਸਰਨ ਪਿਆ ਰਹਾਂ ॥੪॥੨੦॥੨੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਹਾ = ਲੀਨ ਹੋ ਜਾਈਏ ॥੪॥੨੦॥੨੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

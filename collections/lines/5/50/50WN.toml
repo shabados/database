@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੂੰ ਇਸ (ਨਾਮ ਸਿਮਰਨ) ਤੋਂ ਵੱਡਾ ਹੋਰ ਕੋਈ ਵਿਚਾਰ ਨਹੀਂ ਸੁੱਝਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸ ਤੇ ਊਪਰਿ = ਇਸ ਤੋਂ ਉਤਾਂਹ, ਇਸ ਤੋਂ ਚੰਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

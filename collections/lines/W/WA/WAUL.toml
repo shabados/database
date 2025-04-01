@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹ ਨਾਮ) ਉਹਨਾਂ (ਮਨੁੱਖਾਂ) ਦੇ ਮਨ ਵਿਚ ਆ ਕੇ ਵੱਸਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਭਾਗਾਂ ਵਿਚ ਮੁੱਢ ਤੋਂ (ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਨਾਮ ਜਪਣ ਦੇ ਸੰਸਕਾਰਾਂ ਦਾ ਲੇਖਾ) ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਪਹਿਲੇ ਜਨਮ ਵਿਚ। ਮਨਿ = ਮਨ ਵਿਚ। ਆਇ = ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

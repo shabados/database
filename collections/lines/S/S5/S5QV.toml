@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰ ਸੱਚੇ ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਰਹਿ ਕੇ ਕਿਸੇ ਦੀ ਭੀ ਇੱਜ਼ਤ ਨਹੀਂ ਰਹੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਜ = ਇੱਜ਼ਤ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਸਾਹਿਬ!) ਜਿਵੇਂ (ਅਮਿਣਵੇਂ) ਪਾਣੀ ਨਾਲ ਸਮੁੰਦਰ ਭਰਿਆ ਹੋਇਆ ਹੈ, ਤਿਵੇਂ ਹੀ ਸਾਡੇ ਜੀਵਾਂ ਦੇ ਅਣਗਿਣਤ ਹੀ ਔਗੁਣ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰੁ = ਸਮੁੰਦਰ। ਨੀਰਿ = ਨੀਰ ਨਾਲ, ਪਾਣੀ ਨਾਲ। ਤੇਤੇ = ਉਤਨੇ, ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

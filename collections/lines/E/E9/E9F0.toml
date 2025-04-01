@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨਾਮ-ਮੰਤ੍ਰ ਦੇ ਆਸਰੇ ਉਸ ਦੇ ਸਾਰੇ ਮਨੋਰਥ ਪੂਰੇ ਹੋ ਗਏ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਰ = ਆਸਰੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

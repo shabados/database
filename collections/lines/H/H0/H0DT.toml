@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਦਰਵਾਜ਼ੇ ਦੀ ਧੂੜ ਤੋਣ ਸਾਨੂੰ ਸੁਰਮਾ ਪ੍ਰਾਪਤ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ਾਕਿ ਦਰਿ ਤੂ ਤੂਤੀਆ ਯਾਫ਼ਤਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

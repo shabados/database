@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ) ਆਪ ਹੀ ਜਗਤ ਬਣਾ ਕੇ (ਜੀਵਾਂ ਦੇ) ਗੁਣਾਂ ਤੇ ਔਗੁਣਾਂ ਦਾ ਲੇਖਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਇ ਕੈ = ਪੈਦਾ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

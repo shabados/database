@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਹੇਲੀਆਂ ਮਿਲ ਕੇ (ਮੈਨੂੰ) ਪੁੱਛਦੀਆਂ ਹਨ ਕਿ ਖਸਮ-ਪ੍ਰਭੂ ਦੀ ਕੋਈ ਨਿਸ਼ਾਨੀ ਦੱਸ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਖੀਆ = ਸਹੇਲੀਆਂ, ਸਤਸੰਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

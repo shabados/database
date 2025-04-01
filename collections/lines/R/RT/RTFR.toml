@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਇਸ ਜਗਤ ਵਿਚ ਸਦਾ ਰਹਿਣਾ ਹੀ ਨਹੀਂ ਹੈ, ਤਾਂ ਕਿਉਂ ਅਹੰਕਾਰ ਵਿਚ (ਪੈ ਕੇ) ਖਪੀਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਤੁ ਜਗਿ = ਇਸ ਜਗਤ ਵਿਚ। ਕਾਇਤੁ = ਕਿਉ। ਗਾਰਬਿ = ਅਹੰਕਾਰ ਵਿਚ। ਹੰਢੀਐ = ਖਪੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

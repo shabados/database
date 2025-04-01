@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਨੁੱਖ ਦੇ ਅੱਗੇ ਸਾਰੇ ਆਪਣਾ ਸਿਰ ਨਿਵਾਇਆ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਸਗਲ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

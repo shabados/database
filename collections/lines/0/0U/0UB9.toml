@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਫਿਰ, ਇਹਨਾਂ ਵਿਤਕਰਿਆਂ ਤੇ ਵੰਡਾਂ ਦਾ ਕੀਹ ਲਾਭ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨੀ = ਹੇ ਬੰਦੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

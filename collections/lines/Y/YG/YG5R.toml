@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਹੁਕਮ ਨਾਲ (ਹੀ ਜ਼ਿੰਦਗੀ ਦੇ) ਲੱਖਾਂ ਦਰੀਆ ਬਣ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਤੇ = ਉਸ ਹੁਕਮ ਤੋਂ। ਹੋਏ = ਬਣ ਗਏ। ਲਖ ਦਰੀਆਉ = ਲੱਖਾਂ ਦਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

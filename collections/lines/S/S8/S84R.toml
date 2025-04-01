@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਲਣਹਾਰ! ਹੇ ਬੇਅੰਤ! ਹੇ ਅਪਹੁੰਚ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਦਗਾਰ = ਹੇ ਪਾਲਣਹਾਰ! ਅਗਮ = ਹੇ ਅਪਹੁੰਚ! ਤੂ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

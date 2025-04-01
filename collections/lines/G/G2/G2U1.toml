@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਫ਼ ਉਹੀ ਅਸਲ ਜੋਗੀ ਹੈ ਤੇ ਉਹ ਕਾਮਨਾ-ਰਹਿਤ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਕਾਮੁ = ਕਾਮਨਾ-ਰਹਿਤ, ਵਾਸ਼ਨਾ-ਰਹਿਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

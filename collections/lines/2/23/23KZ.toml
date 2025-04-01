@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਤਾਂ ਗੁਰੂ ਰਾਖਾ ਹੈ, ਪਰਮਾਤਮਾ ਰਾਖਾ ਹੈ (ਉਹੀ ਮੈਨੂੰ ਕਾਮਾਦਿਕ ਵੈਰੀਆਂ ਤੋਂ ਬਚਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰਾ = ਮੇਰਾ (ਰਾਖਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

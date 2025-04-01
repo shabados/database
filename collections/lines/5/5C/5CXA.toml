@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਜਗਤ ਦੇ ਜੀਆਂ ਦੀ ਅਜੇ) ਕੋਈ ਸ਼ਕਲ ਹੀ ਨਹੀਂ ਦਿੱਸਦੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਾਰੁ = ਸਰੂਪ, ਸ਼ਕਲ। ਦ੍ਰਿਸਟੇਤਾ = ਦਿੱਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

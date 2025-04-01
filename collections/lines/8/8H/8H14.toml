@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਤਾਂ ਐਸਾ ਹੈ ਜੋ ਬੜੀ ਮਿਹਨਤ ਨਾਲ ਕਮਾ ਕੇ ਧਰਤੀ ਵਿਚ ਦੱਬ ਰੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ = ਇਕ (ਜੀਵ) ਨੇ। ਸ੍ਰਮੁ = ਮਿਹਨਤ। ਗਾਡੀ = ਦੱਬ ਦਿੱਤੀ। ਗਡਹੈ = ਗੜ੍ਹੇ ਵਿਚ, ਟੋਏ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

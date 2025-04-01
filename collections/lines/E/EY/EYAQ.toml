@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਜੀਵ) ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਉਸ ਨੂੰ ਆਪਣੇ ਲੜ ਲਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਭਾਵੈ = ਜੋ ਤਿਸੁ ਭਾਵੈ, ਜੋ ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ। ਤਿਸੁ = ਉਸ ਨੂੰ। ਥਾਨ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

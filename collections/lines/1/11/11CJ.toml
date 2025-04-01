@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ ਮੈਂ (ਇਹਨਾਂ ਪੰਜਾਂ ਦੀ) ਫ਼ੌਜ ਕਾਬੂ ਕਰ ਲਈ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਲੁ = ਫ਼ੌਜ। ਸਾਧਿਆ = ਕਾਬੂ ਕਰ ਲਿਆ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

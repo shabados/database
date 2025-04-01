@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣੇ ਪਿਆਰੇ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੀ ਹੋਈ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਰੰਗਿ = ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ। ਰਤੀ = ਰੰਗੀ ਹੋਈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

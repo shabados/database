@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ, ਇਹ ਸਮਝ ਕੇ ਕਿ ਇਹ ਮੇਰੀ ਇਸਤ੍ਰੀ ਹੈ ਇਹ ਮੇਰਾ ਪੁਤ੍ਰ ਹੈ, ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ। ਜਾਨਿ = ਸਮਝ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

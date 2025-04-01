@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਜੇਕਰ ਤੇਰੀ ਇਹ ਅੱਖ ਰੱਬ ਦੀ ਤਾਣਘ ਵਾਲੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਅਗਰ ਈਂ ਚਸ਼ਮਿ ਤੂ ਮੁਸ਼ਤਾਕਿ ਖ਼ੁਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

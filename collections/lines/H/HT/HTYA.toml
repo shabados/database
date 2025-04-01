@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰਦਾ ਹੈ ਤੇ ਆਪੇ ਹੀ ਪਾਲਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲਿਓਨੁ = ਉਸ ਨੇ (ਹਰੇਕ ਜੀਵ ਨੂੰ) ਪਾਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਇਹ ਸਰੀਰ ਕੱਚਾ ਲੋਟਾ (ਸਮਝ ਲੈ), ਇਸ ਦਾ ਅਸਲਾ ਨਿਰੋਲ ਕੱਚੀ ਮਿੱਟੀ (ਮਿਥ ਲੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਵੀ = ਕਰਵਾ, ਛੋਟਾ ਜਿਹਾ ਲੋਟਾ, ਕੁੱਜਾ। ਕੇਵਲ = ਨਿਰੋਲ। ਧਾਤੁ = ਅਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

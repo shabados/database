@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਗੁਰੂ ਦੀ ਬਾਣੀ ਨੂੰ ਵਿਚਾਰ ਕੇ ਚੰਗਾ ਆਚਰਨ ਬਣਾਣਾ ਸਮਝ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਆਚਾਰੁ = ਸ਼ੁਭ ਆਚਰਨ। ਪਰਾਤਾ = ਪਛਾਣਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

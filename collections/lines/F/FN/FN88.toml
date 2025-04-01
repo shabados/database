@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵੱਖ ਵੱਖ ਖੰਡਾਂ ਨੂੰ ਪਵਿੱਤ੍ਰ ਕਰਣ ਵਾਲਾ ਅਤੇ ਬਖਸ਼ਿਸ਼ਾਂ ਦਾ ਦਾਤਾ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਕੱਦੁਸ ਮਦਾਰਿਜ ਫ਼ਖ਼ੀਮੁਲ ਨਵਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

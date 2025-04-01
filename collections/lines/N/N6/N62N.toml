@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਹੇ ਨਰ ਨਾਰੀਓ! ਸੁਣੋ, ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਸ਼ਰਨ ਪਵੋ (ਉਹੀ ਅੱਲਾਹ ਹੈ, ਉਹੀ ਰਾਮ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਵੈ = ਹੇ ਨਾਰੀਓ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

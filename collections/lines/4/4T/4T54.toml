@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਜੇ ਕੋਈ ਬੰਦਾ ਬੰਦਗੀ ਕਰੇ, ਤਾਂ ਜੁਆਨੀ ਵਿਚ ਭੀ ਤੇ ਬੁਢੇਪੇ ਵਿਚ ਭੀ ਮਾਲਿਕ (ਮਿਲ ਸਕਦਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਚਿਤਿ ਕਰੇ = ਚਿੱਤ ਵਿਚ ਟਿਕਾਏ, ਬੰਦਗੀ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

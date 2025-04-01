@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੂੰ ਦਿੱਸ ਪੈਂਦਾ ਹੈ ਕਿ) ਦੁਨੀਆ ਦਾ ਰਾਜ ਮਾਲ ਤੇ ਸਾਰੀ ਮਾਇਆ-ਇਹ ਸਭ ਕੁਝ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

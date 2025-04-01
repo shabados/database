@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਹਉਮੈ ਇੱਕ ਗੰਦਾ ਕਤਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦ-ਪ੍ਰਸਤੀ ਕਤਰਾਇ ਨਾਪਾਕਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

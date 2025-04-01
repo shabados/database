@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ('ਜੁਗਤਿ') ਦੀ ਖ਼ਾਤਰ ਕੰਨ ਵਿਚ ਮੁੰਦ੍ਰਾਂ ਪਾ ਲੈਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਕਾਰਣਿ = ਉਸ ('ਜੁਗਤਿ') ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

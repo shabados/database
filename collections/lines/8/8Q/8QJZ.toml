@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੀ ਹੈ ਦੁਨੀਆ ਦੇ ਸਾਰੇ ਰਸਾਂ ਦੇ ਭੋਗ ਇਹੀ ਹੈ ਦੁਨੀਆ ਦੀਆਂ ਬਾਦਸ਼ਾਹੀਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹਿ = {ਲਫ਼ਜ਼ 'ਏਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

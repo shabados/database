@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ (ਮਾਨੋ) ਇਕ ਹਰਾ ਤੇ ਫਲਦਾਰ ਰੁੱਖ ਹੈ, ਜਿਸ ਦੀ ਗੂੜ੍ਹੀ ਸੰਘਣੀ ਛਾਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲਿਓ = ਫਲ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

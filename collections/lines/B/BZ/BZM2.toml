@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸਤਿਗੁਰੂ ਨੇ (ਮੈਨੂੰ ਮੇਰੀ ਉਹ) ਕਮਜ਼ੋਰੀ ਵਿਖਾ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਮੋਰੀ = ਕਮਜ਼ੋਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

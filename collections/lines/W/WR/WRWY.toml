@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਕਰੜਾ ਹੁਕਮ ਜਗਤ ਦੀ ਕਾਰ ਚਲਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਵਿਚਿ = ਇਸ ਸਾਰੇ ਦਿੱਸਦੇ ਜਗਤ ਵਿਚ {ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਇਕ-ਵਚਨ}। ਵਰਤੈ = ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ। ਕਰਾਰਾ = ਸਖ਼ਤ, ਕਰੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਸੱਤੇ ਸਮੁੰਦਰ ਉਸ ਦੀ ਘੜਵੰਜੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਪਤ = ਸੱਤ। ਘੜਥਲੀ = ਘੜਵੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

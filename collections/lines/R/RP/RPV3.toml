@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਤਾਜਾਂ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਅਕਲੀਲ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 115
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

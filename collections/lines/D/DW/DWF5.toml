@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਡ ਅਮਰਕ ਤੇ ਹੋਰ ਸਾਰਿਆਂ ਨੇ ਜਾ ਕੇ (ਹਰਨਾਖਸ਼ ਕੋਲ) ਪੁਕਾਰ ਕੀਤੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਡਾ ਮਰਕਾ = ਸੰਡ ਅਤੇ ਅਮਰਕ। ਸਭਿ = ਸਾਰੇ। ਜਾਇ = ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

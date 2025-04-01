@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਰੱਬ ਦੇ ਭੇਤਾਣ ਤੋਣ ਵਾਕਫ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਕਿ ਵਾਕਿਫ਼ ਸ਼ੁਦ ਅਜ਼ ਅਸਰਾਰਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

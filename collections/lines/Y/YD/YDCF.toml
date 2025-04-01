@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਸੇ ਕਾਰਣ ਉਹ ਮੇਰੇ ਦਿਲ ਵਿਚ ਵਸ ਗਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਂ ਸਬੱਬ ਦਰ ਦਿਲਮ ਸਬਕ ਆਮਦ ।੬।"
+page = 1
+line = 6
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

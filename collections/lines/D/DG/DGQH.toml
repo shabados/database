@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਨੁਖ-ਧਾਰੀ! ਤੇਰੇ ਦਰਸਨ ਕੀਤਿਆਂ ਚਿਰ ਹੋ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰਿੰਗ ਪਾਣੀ = ਹੇ ਸਾਰਿੰਗ ਪਾਣੀ! ਹੇ ਪਰਮਾਤਮਾ! {ਸਾਰਿੰਗ = ਧਨੁਖ। ਪਾਣੀ = ਹੱਥ। ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ ਧਨੁਖ ਹੈ, ਧਨੁਖ-ਧਾਰੀ ਪ੍ਰਭੂ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਕਰਤਾਰ ਦੇ ਦਰ) ਤੋਂ ਕਦੇ ਕੋਈ ਖ਼ਾਲੀ ਨਹੀਂ ਮੁੜਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਤੇ = ਇਸ (ਪਰਮਾਤਮਾ ਦੇ ਦਰ) ਤੋਂ। ਬਿਰਥਾ = ਖ਼ਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਵਾਣਗ ਜਿਸ ਨੂੰ ਵੀ ਪ੍ਰੇਮ ਦੀ ਬੀਮਾਰੀ ਲੱਗੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਹਮੇ ਜੁਜ਼ ਬੰਦਗੀ ਦੀਗਰ ਨ ਦੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

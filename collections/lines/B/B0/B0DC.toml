@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਭਗਤਾਂ ਦੇ ਅੰਦਰ ਚੰਗੇ ਮੰਦੇ ਦੀ ਪਰਖ ਕਰਨ ਵਾਲਾ ਸੁਭਾਉ ਬਣ ਜਾਂਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਤਿ = ਸੁਭਾਉ, ਰੁਚੀ। ਬਿਬੇਕੈ = ਪਰਖ, ਵਿਚਾਰ। ਬਿਰਤਿ ਬਿਬੇਕੈ = ਚੰਗੇ ਮੰਦੇ ਦੀ ਪਰਖ ਕਰਨ ਦਾ ਸੁਭਾਉ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

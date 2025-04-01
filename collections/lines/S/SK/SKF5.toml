@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਹ ਬਦ-ਨਸੀਬ ਜੰਮਦਾ ਹੀ ਕਿਉਂ ਨ ਮਰ ਗਿਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਤ = ਜੰਮਦਾ ਹੀ। ਕੀ ਨ = ਕਿਉਂ ਨਾਹ? ਆਭਾਗਾ = ਬਦ-ਨਸੀਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

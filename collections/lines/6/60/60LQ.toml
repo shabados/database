@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣਾ ਹਿਰਦਾ ਭੇਟ ਕਰ ਦੇਈਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਪਿ ਦੇਨ = ਭੇਟ ਕਰ ਦਿੱਤਾ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

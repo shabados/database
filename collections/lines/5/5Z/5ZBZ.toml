@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਭਾਗਾਂ ਵਾਲਾ ਮਨੁੱਖ) ਸੇਵਾ ਸੰਤੋਖ ਦੇ ਦਇਆ (ਦੀ ਕਮਾਈ) ਕਮਾਂਦਾ ਹੈ, ਇਹੋ ਹੀ ਸ੍ਰੇਸ਼ਟ ਕਰਣੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤੁ = ਦਾਨ, ਸੇਵਾ। ਸਾਰ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

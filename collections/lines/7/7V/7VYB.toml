@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੌਤ ਆਉਣ ਤੇ ਇਹ ਧਨ) ਤੇਰੇ ਕੰਮ ਨਹੀਂ ਆਵੇਗਾ, ਹੋਰਨਾਂ (ਦੇ ਵਰਤਣ) ਜੋਗਾ ਰਹਿ ਜਾਇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ ਕਾਜਿ = ਤੇਰੇ ਕੰਮ ਵਿਚ। ਅਵਰਾ ਜੋਗ = ਹੋਰਨਾਂ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

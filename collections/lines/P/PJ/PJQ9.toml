@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਤਾਂ ਸਾਰੇ ਲੋਕਾਂ ਵਿਚ ਸਭ ਜੀਵਾਂ ਨੂੰ ਦਾਨ ਦੇ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹਿ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ। ਲੋਐ = ਲੋਕਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

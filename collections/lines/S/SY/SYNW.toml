@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖੰਡਾਂ ਬ੍ਰਹਮੰਡਾਂ ਦੇ ਬੇਅੰਤ ਜੀਵਾਂ ਨੂੰ ਤਾਰਨ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਾਰਣਹਾਰਿਆ = ਹੇ ਤਾਰਨਹਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

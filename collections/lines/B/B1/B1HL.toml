@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਅੱਗ ਨਾਲ ਠੰਢ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕ = ਅੱਗ। ਪਾਵਕ ਸੰਗਿ = ਅੱਗ ਨਾਲ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

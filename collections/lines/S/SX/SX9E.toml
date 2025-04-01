@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋੜਦਿਆਂ ਜੋੜਦਿਆਂ (ਜੇ ਉਸ ਨੇ) ਖ਼ਜ਼ਾਨਾ (ਭੀ) ਬਣਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਤ = ਇਕੱਠੀ ਕਰਦਿਆਂ। ਕੀਨ੍ਹ੍ਹੀ = ਬਣਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

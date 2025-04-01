@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਕੌਲ ਫੁੱਲ ਨਹੀਂ ਰਹਿ ਸਕਦਾ, ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ ਮਰ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾ ਥੀਐ = ਨਹੀਂ ਰਹਿ ਸਕਦਾ। ਮੀਨੁ = ਮੱਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

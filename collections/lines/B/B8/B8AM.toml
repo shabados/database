@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਕਾਗ੍ਰ-ਮਨ ਹੋ ਕੇ ਮਾਇਆ ਤੋਂ ਰਹਿਤ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਸਿਮਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਮਨਿ = ਇਕਾਗ੍ਰ ਮਨ ਦੀ ਰਾਹੀਂ। ਨਿਰੰਜਨੁ = ਅੰਜਨੁ (ਮਾਇਆ) ਤੋਂ ਰਹਤ। ਧਿਆਵਉ = ਮੈਂ ਧਿਆਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਾਡੀ ਸਮਝ ਅਤੇ ਅਕਲ ਤੋਂ ਬਹੁਤ ਉਚੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ਾਂ ਬਰਤਰੀਂ ਤਰ ਕਿ ਆਇਦ ਗੁਮਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

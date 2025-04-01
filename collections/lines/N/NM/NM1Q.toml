@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਹਉਮੈ ਰੂਪੀ ਵਿਹੁ ਦਾ ਖਿਲਾਰਾ ਭੀ ਮਿਟ ਜਾਏਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਰ, ਵਿਹੁ। ਫੈਲੁ = ਖਿਲਾਰਾ, ਫੈਲਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ! (ਜਗਤ ਦੇ ਸਾਰੇ ਹੀ) ਜੀਵ ਤੂੰ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੀਤੇ ਹੋਏ ਹਨ, ਸੰਤਾਂ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਭੀ ਹੋਰ ਨੇ ਇਹ ਗੱਲ ਨਹੀਂ ਸਮਝੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ ਮੋਹੇ = ਤੂੰ ਆਪਣੇ ਵਸ ਵਿਚ ਕੀਤੇ ਹੋਏ ਹਨ। ਕਿਨੈ = ਕਿਸੇ ਨੇ ਭੀ। ਨ ਲਾਖੀ = ਨ ਲਖੀ, ਨਹੀਂ ਸਮਝੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

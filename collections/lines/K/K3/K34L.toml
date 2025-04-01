@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਪੂਰੇ ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਮਸਕਾਰੇ = ਸਿਰ ਨਿਵਾਂਦਾ ਹੈ, ਸ਼ਰਨ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

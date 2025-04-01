@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੋਂ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪਿਆਂ (ਜੀਵ) ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਹੀ = ਪਰਹਿ, ਪੈਂਦੇ ਹਨ। ਪਾਰਿ ਪਰਾਹੀ = ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

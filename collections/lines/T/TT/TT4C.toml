@@ -5,6 +5,13 @@ language = "pa"
 data = "(ਨੰਦ ਲਾਲ) ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਕੁੱਤਿਆਂ ਤੋਂ ਵੀ ਨੀਵਾਂ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਮਤਰੀਂ ਜ਼ਿ ਸਗਾਨਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 158
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

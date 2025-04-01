@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਹੱਥ ਸੰਤਾਂ ਦੀ ਟਹਿਲ ਕਰਦੇ ਰਹਿਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ {ਬਹੁ-ਵਚਨ}। ਸੰਤ ਬਹਲ = ਸੰਤਾਂ ਦੀ ਟਹਿਲ, ਸੰਤਾਂ ਦੇ ਅਰਪਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

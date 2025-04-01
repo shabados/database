@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਸਾਰੇ ਭੁੱਖਿਆਂ ਨੂੰ ਰੋਜ਼ੀ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਕਰਤਾ ਦਾਨੁ = ਦਾਨ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੇ ਸੂਫੀਆਂ ਅਤੇ ਸਾਰੇ ਪਰਹੇਜ਼ਗਾਰਾਂ ਨੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਅਸਫ਼ੀਆ ਓ ਹਮਾ ਅਤਕੀਆ ।੧੨੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

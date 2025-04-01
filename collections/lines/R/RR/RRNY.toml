@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਨਾਹ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਸਮਝਦਾ ਹੈ, ਨਾਹ ਗੁਰੂ ਦੀ ਬਾਣੀ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝੈ = ਸਮਝਦਾ। ਜਾਣੈ = ਸਾਂਝ ਪਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

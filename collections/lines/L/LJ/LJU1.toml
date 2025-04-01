@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੁੱਚਾ ਚੰਗਾ ਭੋਜਨ ਛੱਡ ਕੇ) ਜੂਠਾ ਮਿੱਠਾ ਖਾਂਦਾ ਹੈ ਅਤੇ ਸਿਰ ਵਿਚ ਸੁਆਹ ਪਾ ਰੱਖੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲੁ ਮਲੁ = ਗੰਦੀਆਂ ਚੀਜ਼ਾਂ। ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਛਾਈ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

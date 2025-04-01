@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਜਗਤ ਵਿਚ) ਉਹੀ ਕੁਝ ਵਰਤ ਰਿਹਾ ਹੈ ਜੋ (ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ) ਜ਼ਰੂਰ ਵਾਪਰਨਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਹੋਨਹਾਰ = ਜੋ (ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ) ਜ਼ਰੂਰ ਵਾਪਰਨੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

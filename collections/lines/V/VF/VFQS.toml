@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੀਆਂ ਬਾਦਸ਼ਾਹੀਆਂ, ਰੰਗ-ਤਮਾਸ਼ੇ ਅਤੇ ਸੁੰਦਰ ਨੁਹਾਰਾਂ-ਇਹ ਭੀ ਸਾਰੇ ਕੂੜੇ ਪਸਾਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਕੂਰ = ਕੂੜ, ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

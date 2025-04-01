@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਦੁਨੀਆ ਵਾਲੇ) ਹਕੀਮ (ਪਖੰਡੀ ਧਰਮ-ਆਗੂ) ਆਤਮਾ ਨੂੰ ਸਗੋਂ ਦੁੱਖ ਚੰਬੋੜਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਹਿ ਵੈਦ = ਇਹ (ਦੁਨੀਆ ਵਾਲੇ) ਹਕੀਮ, ਪਖੰਡੀ ਧਰਮ = ਆਗੂ। ਜੀਅ ਕਾ = ਜਿੰਦ ਦਾ, ਆਤਮਾ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

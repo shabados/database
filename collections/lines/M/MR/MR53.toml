@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਰਾ ਜਗਤ ਢੂੰਢ ਕੇ ਵੇਖ ਲਿਆ ਹੈ (ਭਟਕਣਾ ਨੂੰ ਦੂਰ ਕਰਨ ਲਈ) ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਥਾਂ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

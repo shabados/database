@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੀਆਂ (ਵਡਿਆਈਆਂ ਦੀਆਂ) ਗੱਲਾਂ ਹਰੇਕ ਜੀਵ ਕਰ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋਊ = ਹਰੇਕ ਜੀਵ। ਜਾਸੁ ਕੀ = ਜਿਸ (ਪ੍ਰਭੂ) ਦੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

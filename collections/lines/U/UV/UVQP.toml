@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਹਾ ਜੂਠਾ, ਚੌਕਾ ਜੂਠਾ, ਜੂਠੀਆਂ ਹੀ ਉਸ ਚੌਕੇ ਦੇ ਦੁਆਲੇ ਪਾਈਆਂ ਲਕੀਰਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਰ = ਗੋਹਾ (ਜਿਸ ਨਾਲ ਚੌਕੇ ਵਿਚ ਪੋਚਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ)। ਕਾਰਾ = ਚੌਕੇ ਦੀਆਂ ਬਾਹਰਲੀਆਂ ਲਕੀਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

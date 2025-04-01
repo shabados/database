@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਅਦ੍ਰਿਸ਼ਟ ਪ੍ਰਭੂ ਹੈ ਓਥੇ ਉਸ ਦਾ ਭਗਤ ਹੈ, ਜਿਥੇ ਭਗਤ ਹੈ ਓਥੇ ਉਹ ਪ੍ਰਭੂ ਆਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਿਗਤੁ = {Skt. अव्यक्त} ਅਦ੍ਰਿਸ਼ਟ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

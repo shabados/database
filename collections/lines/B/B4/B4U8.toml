@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਉਸ ਨੂੰ) ਹਰ ਵੇਲੇ ਨਾਲ-ਵੱਸਦਾ ਕਰਤਾਰ ਕਦੇ ਯਾਦ ਨਾਹ ਆਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਤਿ = ਚਿੱਤ ਵਿਚ। ਕਰਤਾ = ਕਰਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

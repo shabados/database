@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਇਹ ਸਾਰਾ ਸੰਸਾਰ ਆਪਣੇ ਨੂਰ ਵਿਚੋਂ ਪੈਦਾ ਕੀਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਿਆ = ਬਣਾਇਆ। ਪਸਾਰੁ = ਜਗਤ-ਰਚਨਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

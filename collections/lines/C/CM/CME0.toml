@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਕਦਰ ਕੀਮਤ ਸਭ ਨਾਲੋਂ ਉਚੇਰੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਤਰ ਅਜ਼ ਹਰ ਕਦਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 144
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੈਥੋਂ ਵਿਛੁੜ ਕੇ ਜੀਵ) ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕ ਭਟਕ ਕੇ ਥੱਕ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਿ = ਭਟਕ ਕੇ। ਹਾਰੇ = ਥੱਕ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

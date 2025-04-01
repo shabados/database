@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਤੂੰ ਆਪਣੇ ਸੰਤ ਜਨਾਂ ਦੀ ਅਰਜ਼ੋਈ ਸੁਣ ਲੈਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਮਾਲਕ-ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

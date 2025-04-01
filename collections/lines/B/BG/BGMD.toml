@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਿਰਫ਼ ਤੂੰ ਆਪ ਹੀ ਸਭ ਤੋਂ ਵੱਡਾ ਰਾਜਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡ = ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

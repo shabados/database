@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਨਾਲ ਮਿਲਾਪ-ਅਵਸਥਾ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦੀ, ਰਤਾ-ਮਾਤ੍ਰ ਦੱਸੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਣਾ ਹੈ = (ਰਤਾ-ਮਾਤ੍ਰ) ਬਿਆਨ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਾਥੀ ਦਾ ਕਾਮ-ਵਾਸਨਾ ਨਾਲ ਜੋੜ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਗਲ = ਹਾਥੀ। ਕਾਮੈ ਬੰਦੁ = ਕਾਮ-ਵਾਸ਼ਨਾ ਦਾ ਮੇਲ। ਬੰਧੁ = ਸਨਬੰਧ, ਮੇਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

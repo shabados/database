@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਜੀ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ ਹਨ ਅਤੇ ਸੁਜਾਨ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ। ਜਾਨ = ਸੁਜਾਨ, ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

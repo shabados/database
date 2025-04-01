@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕ੍ਰੋੜਾਂ ਅਣਗਿਣਤ, ਬੇਅੰਤ, ਅਨੇਕਾਂ ਹੀ ਪ੍ਰਾਣੀ (ਪਰਮਾਤਮਾ ਦੀ) ਭਾਲ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਹਿ = ਖੋਜਦੇ ਹਨ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਅਸੰਖ = ਅਣਗਿਣਤ। ਅਨੰਤ = ਬੇਅੰਤ। ਕੇ = ਕਈ, ਅਨੇਕਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

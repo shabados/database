@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉੱਤਰ:) ਪ੍ਰਾਣ ਹੀ ਹਸਤੀ ਦਾ ਮੁੱਢ ਹਨ। (ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਦਾ) ਸਮਾ ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਲੈਣ ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਨ = ਪ੍ਰਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

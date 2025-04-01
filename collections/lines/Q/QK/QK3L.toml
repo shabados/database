@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣਾ ਵਤਨ ਛੱਡ ਕੇ ਹੋਰ ਹੋਰ ਦੇਸਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡਿ = ਛੱਡ ਕੇ। ਧਾਇਆ = ਦੌੜਦਾ ਫਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇੱਥੇ ਇਸ ਨੂੰ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ ਭੁੱਲ ਜਾਂਦਾ ਹੈ, ਤੇ, ਇਸ ਨੂੰ ਬੜੀ ਸਜ਼ਾ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

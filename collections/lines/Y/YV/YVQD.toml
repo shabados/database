@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਦਿਲ! ਤੂੰ ਸੱਚ ਜਾਣ ਕਿ ਇਹ ਦੁਨੀਆ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਕਾਮ = ਥਾਂ। ਫਾਨੀ = ਫ਼ਾਨੀ, ਫ਼ਨਾਹ ਹੋਣ ਵਾਲਾ, ਨਾਸਵੰਤ। ਮੁਕਾਮੇ ਫਾਨੀ = ਫ਼ਨਾਹ ਦਾ ਥਾਂ। ਤਹਕੀਕ = ਸੱਚ। ਦਿਲ = ਹੇ ਦਿਲ! ਦਾਨੀ = ਤੂੰ ਜਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਹਣਾ ਹੈ ਤੇਰਾ ਟਿਕਾਣਾ, ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੇ ਹੀ ਵੱਸ ਵਿਚ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਵੱਸ ਵਿਚ। ਭਲਾ = ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

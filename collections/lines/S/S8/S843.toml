@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਤਿਗੁਰੂ! ਮੈਂ ਤੇਰੇ ਗੁਣ ਕੀਹ ਕੀਹ ਦੱਸਾਂ? ਜਦੋਂ ਮੈਂ 'ਗੁਰੂ ਗੁਰੂ' ਜਪਦਾ ਹਾਂ, ਮੇਰੀ ਅਸਚਰਜ ਆਤਮਕ ਹਾਲਤ ਬਣ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਹਾਂ, ਮੈਂ ਆਖਾਂ। ਗੁਰੁ ਬੋਲਹ = ਅਸੀਂ 'ਗੁਰੂ ਗੁਰੂ' ਬੋਲਦੇ ਹਾਂ। ਬਿਸਮੁ = ਅਸਚਰਜ ਆਤਮਕ ਹਾਲਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

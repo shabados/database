@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸਤ੍ਰੀਆਂ ਮਰਦ ਸਭ ਨੱਚ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪੀ ਜੰਨਾ = ਇਸਤ੍ਰੀਆਂ ਅਤੇ ਮਰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਟਹਿਲਣ ਤੇ ਸੇਵਾਦਰਿ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਾਸ਼ੀਆ ਬਰਦਾਰਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੦।"
+page = 10
+line = 140
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

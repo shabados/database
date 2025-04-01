@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੇ ਦਿਲ ਨੂੰ ਸ਼ਾਬਾਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਫਰੀਣ ਬਾਦ ਬਰ ਦਿਲਿ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

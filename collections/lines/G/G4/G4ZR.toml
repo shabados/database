@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਹਰੋਂ ਉਹ ਭਾਵੇਂ ਲਬ ਲੋਭ ਵੱਲ ਝੁਕਿਆ ਦਿਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰ ਅੰਦਰ ਮਾਇਲਿ ਹਿਰਸੋ ਹਵਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

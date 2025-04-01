@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ (ਉਸ ਨੂੰ) ਪੈਦਾ ਕੀਤਾ ਸੀ ਉਸੇ ਨੇ ਉਸ ਨੂੰ ਨਾਸ ਭੀ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਹਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਉਪਾਹਾ = ਪੈਦਾ ਕੀਤਾ। ਬਿਨਾਹਾ = ਨਾਸ ਕਰ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

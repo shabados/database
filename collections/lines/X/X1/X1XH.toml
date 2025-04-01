@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ ਨੂੰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

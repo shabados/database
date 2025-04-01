@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਵਾਸਤੇ, ਹੇ ਪ੍ਰਭੂ! ਸਿਰਫ਼ ਤੂੰ ਹੀ ਸਿਰਫ਼ ਤੂੰ ਹੀ ਸਹਾਰਾ ਹੁੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

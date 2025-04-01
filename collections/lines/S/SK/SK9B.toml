@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਦਿਨ ਰਾਤ ਰੱਬ ਦਾ ਨਾਮ ਧਿਆਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਹੱਕ ਅਜ਼ ਬਸਕਿ ਰੂਜ਼ੋ ਸ਼ਬ ਗ੍ਰਿਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰੀ ਹੀ ਟੇਕ ਹੈ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਵਾਸਾ = ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

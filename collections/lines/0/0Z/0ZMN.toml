@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਨਾਥ! ਹੇ ਜਗਤ ਦੇ ਈਸ਼ਵਰ! ਹੇ ਕਰਤਾਰ! ਇਹ ਸਾਰੀ (ਜਗਤ-ਖੇਡ) ਤੇਰੇ ਵੱਸ ਵਿਚ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗੰਨਾਥ = ਹੇ ਜਗਤ ਦੇ ਨਾਥ! ਜਗਦੀਸੁਰ = ਹੇ ਜਗਤ ਦੇ ਈਸ਼ਵਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

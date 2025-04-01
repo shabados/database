@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਿਆ ਹੈ ਉਸ ਨੇ ਸਾਰੇ ਸੁਖ ਮਾਣ ਲਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਜਨਿ = ਜਨ ਨੇ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ। ਤਿਨਿ = ਉਸ ਨੇ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

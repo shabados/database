@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਨ ਵਿਚ ਗਿਆਨ ਹੋ ਜਾਂਦਾ ਹੈ, ਜਿਵੇਂ ਘਰ ਵਿਚ ਦੀਵਾ ਜਗ ਪੈਂਦਾ ਹੈ (ਤੇ ਘਰ ਦੀ ਹਰੇਕ ਚੀਜ਼ ਦਿੱਸ ਪੈਂਦੀ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪਕੁ = ਦੀਵਾ। ਜਲਿਓ = ਬਲ ਪਿਆ, ਜਗ ਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

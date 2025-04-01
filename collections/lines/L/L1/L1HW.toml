@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਵਡਿਆਈ ਸਾਡੀ ਜੇਭਾ ਦੇ ਕਥਨ ਤੋਂ ਬਾਹਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ਾਂ ਬਰਤਰੀਂ ਤਰ ਕਿ ਗੋਇਦ ਜ਼ੁਬਾਂ ।੧੬੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਰੱਬ ਕਰੇ), #ਨੰਦ॥ ਲਾਲ ਦੇ ਦਿਲ ਅਤੇ ਜਾਨ ਉਸਦੀ ਭੇਟਾ ਹੋ ਜਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਬਾਦ ਜਾਨੋ ਦਿਲਸ਼ ਰਾ ਨਵਾ ।੧੭੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

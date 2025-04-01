@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਹੁਕਮ ਤੋਂ ਬਾਹਰ ਨਾਹ ਕੋਈ ਮੁਕਤੀ ਹੈ ਨਾਹ ਕੋਈ ਨਰਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨ = ਕੌਣ? ਕਿਹੜੀ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

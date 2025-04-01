@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਗਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

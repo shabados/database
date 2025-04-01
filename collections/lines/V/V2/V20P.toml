@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਜਦੋਂ ਜ਼ਿੰਦਗੀ ਦੀ ਸਾਰੀ ਰਾਤ ਮੁੱਕ ਜਾਏਗੀ, ਤਦੋਂ ਪਛੁਤਾਵਾ ਕੀਤਿਆਂ ਕੁਝ ਹਾਸਲ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੂਕੈਗੀ = ਮੁੱਕ ਜਾਇਗੀ, ਮੁੱਕ ਜਾਂਦੀ ਹੈ। ਸਾਰੀ = ਸਾਰੀ ਉਮਰ-ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

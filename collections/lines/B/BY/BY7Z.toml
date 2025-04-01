@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਅੱਗੇ) ਨਾਨਕ ਦੀ ਬੇਨਤੀ ਹੈ-ਆਪਣੀ ਮਿਹਰ ਕਰ, (ਮੇਰੇ ਮਨ ਵਿਚ) ਤੇਰੇ ਦਰਸਨ ਦੀ ਤਾਂਘ ਬਣੀ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਹੋਇ = ਬਣੀ ਰਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

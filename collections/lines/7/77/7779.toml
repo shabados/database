@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੁਰਲਭ ਦੌਲਤ ਨਹੀਣ ਹੁੰਦੀ, ਜਿਹੜੀ ਸਾਨੂੰ ਪਰਾਪਤ ਹੋਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਦੌਲਤਿ ਨਾਯਾਬ ਕਿ ਮਾ ਯਾਫ਼ਤਾਏਮ ।੧੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

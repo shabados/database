@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਫੁੱਲ ਵਿਚ ਸੁਗੰਧੀ ਵੱਸਦੀ ਹੈ, ਜਿਵੇਂ ਸ਼ੀਸ਼ੇ ਵਿਚ (ਸ਼ੀਸ਼ਾ ਵੇਖਣ ਵਾਲੇ ਦਾ) ਅਕਸ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਹਪ = ਫੁੱਲ। ਮਧਿ = ਵਿਚ। ਬਾਸੁ = ਸੁਗੰਧੀ। ਮੁਕਰ = ਸ਼ੀਸ਼ਾ। ਛਾਈ = ਛਾਇਆ, ਅਕਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

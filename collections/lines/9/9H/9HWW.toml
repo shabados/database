@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪਣਾ ਕਾਰ ਵਿਹਾਰ ਕਰਦੇ ਹੋਏ ਵੀ ਕਿਰਤ ਤੋਂ ਆਜ਼ਾਦ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਕਸਬ ਬਾਸ਼ੰਦ ਆਜ਼ਾਦ ਅਜ਼ ਕਸਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

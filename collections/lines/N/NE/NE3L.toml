@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਆਪਣੇ ਉਹ ਸੇਵਕ ਮਿਲਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਹਮ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

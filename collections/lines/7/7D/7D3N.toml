@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਾਜ਼ੀ ਤੇ ਮੁਸਲਮਾਨ ਹਾਕਮ) ਹਨ ਤਾਂ ਵੱਢੀ-ਖ਼ੋਰੇ, ਪਰ ਪੜ੍ਹਦੇ ਹਨ ਨਮਾਜ਼ਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਸ ਖਾਣੇ = ਮਨੁੱਖਾਂ ਨੂੰ ਖਾਣ ਵਾਲੇ, ਵੱਢੀਖ਼ੋਰ। ਕਰਹਿ ਨਿਵਾਜ = ਨਮਾਜ਼ ਪੜ੍ਹਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

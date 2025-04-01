@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਵੱਡਾ ਪੁਰਖ ਹੈਂ, ਤੂੰ ਅਪਹੁੰਚ ਹੈਂ, ਅਸੀਂ ਆਪਣੀ ਜੀਭ ਨਾਲ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਆਖ ਕੇ ਦੱਸ ਸਕਦੇ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣਹ = ਅਸੀਂ ਬਿਆਨ ਕਰੀਏ। ਅਗਮ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

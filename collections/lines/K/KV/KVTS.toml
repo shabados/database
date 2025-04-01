@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਜਿਸ ਜਿਸ ਨੇ ਵਾਸਨਾ-ਰਹਿਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਹੈ ॥੨॥੧੦੪॥੧੭੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਜਿਨ' ਬਹੁ-ਵਚਨ ਹੈ। ਲਫ਼ਜ਼ 'ਜਿਨਿ' ਇਕ-ਵਚਨ ਹੈ}। ਨਿਰਬਾਣੁ = ਵਾਸਨਾ-ਰਹਿਤ, ਜਿਸ ਨੂੰ ਕੋਈ ਵਾਸਨਾ ਪੋਹ ਨ ਸਕੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

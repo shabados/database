@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਮੈਨੂੰ ਸਾਗਰ ਨੇ ਅਤਿ ਕਿਰਪਾ ਸਹਿਤ ਆਪਣੇ ਨਾਲ ਲੈ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਮਰਾ ਦਰ ਬਾਜ਼ ਰਾਹਿ ਲੁਤਫ਼ਿ ਖ਼ੇਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

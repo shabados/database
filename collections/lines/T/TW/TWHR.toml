@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਆਪਣਾ ਆਪ ਸੁੱਝ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਝੈ = ਸੁੱਝ ਜਾਏ, ਸਮਝ ਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

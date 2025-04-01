@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇੱਜ਼ਤ ਅਤੇ ਸਤਿਕਾਰ ਦੇ ਮੋਤੀਆਂ ਦੀ ਚਮਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਿਲਾ ਲੂਲੂਇ ਇੱਜ਼ੋ ਤਾਅਜ਼ੀਮ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

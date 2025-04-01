@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਮੁਖੜੇ ਦੀ ਇਕ ਨਜ਼ਰ ਦੋ ਜਹਾਨਾਣ ਦੀ ਬਾਦਸ਼ਲਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹੀ ਬਰ ਦੋ ਆਲਮ, ਯੱਕ ਨਿਗਾਹਿ ਰੂਇ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

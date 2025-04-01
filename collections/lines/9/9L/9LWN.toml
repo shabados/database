@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਟੁੱਟੇ ਹੋਏ ਦਿਲ ਨੂੰ ਆਰਾਮ ਬਖਸ਼ਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਦਿਲਿ ਬਿਸ਼ਕਸਤਾ ਰਾ ਆਰਾਮ ਦਾਦ ।੪੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

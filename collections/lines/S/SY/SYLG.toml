@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਾ ਤੇਰਾ ਹੀ ਸਿਮਰਨ ਕਰਦਾ ਹਾਂ, ਮੈਨੂੰ ਤੇਰੇ ਦਰ ਤੋਂ ਹੀ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵੀ = ਸੇਵੀਂ, ਮੈਂ ਸਿਮਰਦਾ ਹਾਂ। ਤੇ = ਤੋਂ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

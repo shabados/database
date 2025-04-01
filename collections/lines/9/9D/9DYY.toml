@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਉਸ ਹੱਟ (ਸਾਧ ਸੰਗਤ) ਵਿਚ ਆ ਬੈਠਾ ਹਾਂ, (ਜਿੱਥੇ ਹਰਿ-ਨਾਮ ਮਿਲਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਜੁ = ਅੱਜ, ਹੁਣ। ਬੈਸਿਓ = ਬੈਠਾ ਹਾਂ। ਹਾਟ = ਹੱਟ। ਹਰਿ ਹਾਟ = ਉਸ ਹੱਟ ਤੇ ਜਿੱਥੇ ਹਰਿ-ਨਾਮ ਮਿਲਦਾ ਹੈ, ਸਾਧ ਸੰਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੀ ਦੇ ਮਿਲਾਪ ਦੀ ਖ਼ਾਤਰ ਮੈਂ ਆਪਣਾ ਸਰੀਰ ਪੂਰੇ ਗੁਰੂ ਅੱਗੇ ਵੇਚ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਅਰਥਿ = ਹਰੀ (ਦੇ ਮਿਲਾਪ) ਦੀ ਖ਼ਾਤਰ। ਹਮ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦਾ) ਦਰਸ਼ਨ ਕਰਦਿਆਂ (ਮਨੁੱਖ ਤਨੋ ਮਨੋ) ਖਿੜ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਤ = ਵੇਖਦਿਆਂ। ਨਿਹਾਲੁ = ਪ੍ਰਸੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

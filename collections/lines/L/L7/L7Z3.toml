@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! (ਪਰਮਾਤਮਾ ਦੇ ਟਾਕਰੇ ਤੇ) ਸਾਡਾ ਕੋਈ ਜ਼ੋਰ ਚੱਲ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਸਾਰਾ। ਰਹਿਓ = ਕੰਮ ਨਹੀਂ ਕਰਦਾ, ਨਹੀਂ ਚੱਲਦਾ। ਬੀਰ = ਹੇ ਵੀਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

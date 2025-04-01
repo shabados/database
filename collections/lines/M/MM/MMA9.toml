@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਅਕਾਲ ਪੁਰਖ # ਇਸ ਬੰਦੇ ਨੂੰ ਅਜਿਹੀ ਹਿੰਮਤ ਬਖਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾ ਇਲਾਹੀ ਬੰਦਾ ਰਾ ਤੌਫ਼ੀਕ ਦਿਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

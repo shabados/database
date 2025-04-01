@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ ਰੱਬ ਲਈ ਪਰੇਸ਼ਾਨ ਹੁੰਦਾ ਰਿਹਾ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਬਰਾਇ ਆਂ ਕਿ ਸਰ-ਗਰਦਾਂ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

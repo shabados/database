@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਇਸ ਦੇ) ਜਨਮ ਤੋਂ ਲੈ ਕੇ ਮਰਨ ਸਮੇਂ ਤਕ (ਇਸ ਦੀ) ਰਾਖੀ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਮੁੱਢ ਤੋਂ (ਭਾਵ, ਜਨਮ ਸਮੇ ਤੋਂ)। ਅੰਤਿ = ਅਖ਼ੀਰ ਤਕ (ਭਾਵ, ਮਰਨ ਤਕ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

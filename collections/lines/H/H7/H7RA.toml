@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦੀ ਮਿਹਰ ਦੇ ਬੱਦਲ ਵਰਸਾਉਣ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੈਜ਼ਿ ਹੱਕ ਇਮਤਾਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੩।"
+page = 10
+line = 153
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

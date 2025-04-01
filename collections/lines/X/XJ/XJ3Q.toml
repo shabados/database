@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇ-ਮੁਹਾਰ ਮਨ! ਵਿਚਾਰਵਾਨ ਬਣ, ਤੇ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੀਚਾਰੀਆ = ਵੀਚਾਰਵਾਨ (ਬਣ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

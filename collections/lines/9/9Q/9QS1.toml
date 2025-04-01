@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੀ ਭੀ ਇਹ ਤਾਂਘ ਪੂਰੀ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਪੂਰੀ ਕਰ। ਲੋਚਾ = ਤਾਂਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

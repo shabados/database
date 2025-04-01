@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਗਤ) ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਪ੍ਰਤੱਖ ਪਰਸਿੱਧ ਹੁੰਦੇ ਹਨ ਤੇ (ਉਹਨਾਂ ਦੀ ਸੋਭਾ) ਸਾਰੇ ਲੋਕ ਸੁਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਾਰੈ = ਸੰਸਾਰ ਵਿਚ, ਪਸਾਰੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

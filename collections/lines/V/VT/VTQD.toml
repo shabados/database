@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨਾਲ ਦਿਲ-ਜੁੜੇ ਅਜਿਹੇ ਭਗਤਾਂ ਦੀ ਸੰਗਤ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਦਿਲ-ਬਸਤਗਾਨਿ ਬਾ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

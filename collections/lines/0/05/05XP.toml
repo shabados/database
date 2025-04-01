@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਦਾ ਕੀਤਾ ਹੋਇਆ ਕੰਮ ਉਸ ਲਈ ਜੰਜਾਲ ਹੋ ਢੁਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਨੁ = ਜੰਜਾਲ। ਕਰਮੁ = ਕੀਤਾ ਹੋਇਆ ਕੰਮ। ਬਿਆਪੈ = ਪ੍ਰਭਾਵ ਪਾ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

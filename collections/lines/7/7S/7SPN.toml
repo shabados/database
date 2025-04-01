@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦੇ ਭਗਤਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸਦਾ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ ॥੪॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ ॥੪॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

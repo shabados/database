@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸੁਖ ਦੇਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਬੇਅੰਤ ਹੈਂ, ਤੂੰ ਗੁਣ ਬਖ਼ਸ਼ਣ ਵਾਲਾ ਹੈ; ਤੇ ਤੂੰ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਧਾਨੁ = ਨਿਧਾਨ, ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

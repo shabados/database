@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਇਹ ਸਾਰਾ ਅਡੰਬਰ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਸਾਰਾ (ਅਡੰਬਰ)। ਝੂਠੁ = ਨਾਸਵੰਤ। ਪਰਾਨੀ = ਹੇ ਪ੍ਰਾਣੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

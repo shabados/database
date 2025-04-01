@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਰਚੀ ਕੁਦਰਤਿ ਇਕ ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਤਮਾਸ਼ਾ ਹੈ, ਤੇਰੇ ਚਰਨ ਸਲਾਹੁਣ-ਜੋਗ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜੁ = ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਕੰਮ। ਕਦਮ = ਚਰਨ। ਸਲਾਹ = ਸਲਾਹੁਣ-ਯੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

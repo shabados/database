@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਠਾਕੁਰ! ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹਰੇਕ ਦਾਤ (ਅਸੀਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰੀ ਹੀ ਬਖ਼ਸ਼ੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਦੀਨ ਦਇਆਲਾ = ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

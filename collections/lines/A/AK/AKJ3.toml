@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ! ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਦੋਂ ਤੋਂ) ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਰਜ਼ਾ ਮਿੱਠੀ ਲੱਗ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ ਕੀ = ਪ੍ਰਭੂ-ਪਤੀ ਦੀ। ਆਗਿਆ = ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

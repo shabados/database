@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੇਵਾਂ ਦੇ ਦੇਵ ਪ੍ਰਭੂ! ਸੰਤ ਤੇਰਾ ਹੀ ਰੂਪ ਹਨ, ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਤੇਰੀ ਜਿੰਦ-ਜਾਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝੀ = ਤੇਰਾ ਹੀ। ਤਨੁ = ਸਰੀਰ, ਸਰੂਪ। ਪ੍ਰਾਨ = ਜਿੰਦ-ਜਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

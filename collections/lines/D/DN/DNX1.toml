@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਸੋਰਠਿ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਤਿਨ-ਤੁਕੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁਕੇ = ਤਿ-ਤੁਕੇ, ਤਿੰਨ ਤਿੰਨ ਤੁਕਾਂ ਵਾਲੇ ਬੰਦ (ਇਸ ਸ਼ਬਦ ਦੇ ਹਰੇਕ 'ਬੰਦ' ਵਿਚ ਤਿੰਨ ਤਿੰਨ ਤੁਕਾਂ ਹਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫੇਰ ਭੀ) ਮਨ ਦੀ ਮੈਲ ਸਰੀਰ ਧੋਤਿਆਂ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨ ਤੇ = ਸਰੀਰ ਤੋਂ, ਸਰੀਰ ਧੋਤਿਆਂ। ਨ ਜਾਤਿ = ਨਹੀਂ ਜਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

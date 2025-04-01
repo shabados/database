@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਸਾਡਾ ਗੋਬਿੰਦ ਐਸਾ ਹੈ ਕਿ ਉਸ ਦਾ ਦਰਸਨ ਸਾਰੇ ਫਲ ਦੇਂਦਾ ਹੈ ॥੪॥੭੯॥੧੪੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ ਦਰਸਨੁ = ਜਿਸ ਦਾ ਦਰਸਨ ਸਾਰੇ ਫਲ ਦੇਂਦਾ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

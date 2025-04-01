@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਕੋਈ ਭੈਣ ਨਾਹ ਭਾਈ ਤੇ ਨਾਹ ਕੋਈ ਸੇਵਕ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਾਉ = ਭਰਾ, ਭਾਈ। ਕਮਾਇਆ = ਕਾਮਾ, ਨੌਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

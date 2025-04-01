@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਬਾਹਰਲਾ ਜਨੇਊ ਉਤਨਾ ਚਿਰ ਹੀ ਹੈ, ਜਿਤਨਾ ਚਿਰ ਜੋਤਿ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈ (ਫਿਰ ਇਹ ਕਿਸ ਕੰਮ?)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰਿ = ਸਰੀਰ ਉਤੇ ਪਾਇਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

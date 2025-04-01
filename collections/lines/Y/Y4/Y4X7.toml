@@ -36,6 +36,12 @@ language = "pa"
 data = "??? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਟਣ = ਸ਼ਹਰ। ਗੜ = ਕਿਲ੍ਹੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

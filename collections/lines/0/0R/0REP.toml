@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਸਰੀਰ ਦੀ ਖ਼ਾਤਰ) ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਦੀ ਠੱਗੀ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਬਿਆਪਿਆ = ਫਸਿਆ ਹੋਇਆ। ਧੋਹਿ = ਠੱਗੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

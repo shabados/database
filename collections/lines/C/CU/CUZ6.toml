@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਰਤਾਰ!) ਮੈਂ (ਤੇਰਾ ਦਾਸ) ਕਿਸ ਤਰ੍ਹਾਂ ਤੇਰਾ ਦਰਸਨ ਕਰਾਂ? ਕਿਸ ਤਰ੍ਹਾਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਕਰਿ = ਕਿਸ ਤਰ੍ਹਾਂ? ਵੇਖਾ = ਵੇਖਾਂ, ਮੈਂ ਦਰਸਨ ਕਰਾਂ। ਕਿਉ = ਕਿਵੇਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

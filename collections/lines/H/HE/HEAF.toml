@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ (ਤੈਨੂੰ) ਜਿੰਦ ਦੇਣ ਵਾਲਾ ਹੈ, ਪ੍ਰਾਣ ਦੇਣ ਵਾਲਾ ਹੈ, ਇੱਜ਼ਤ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਦਾਤਾ = ਜਿੰਦ ਦੇਣ ਵਾਲਾ। ਪ੍ਰਾਨ ਦਾਤਾ = ਪ੍ਰਾਨ ਦੇਣ ਵਾਲਾ। ਮਾਨ ਦਾਤਾ = ਇੱਜ਼ਤ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

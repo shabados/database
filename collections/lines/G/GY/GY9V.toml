@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੋਲ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਕੋਈ ਮਨੁੱਖ ਕਿਸੇ ਰਾਜੇ-ਪਾਤਿਸ਼ਾਹ ਦੀ ਨੌਕਰੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਪਤਿ = ਰਾਜਾ। ਅਰਥਿ = ਖ਼ਾਤਰ, ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

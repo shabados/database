@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੀ ਜਿੰਦ ਅਤੇ ਪ੍ਰਾਣਾਂ ਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਜਿਸ ਦਾ ਹੋਰ ਕੋਈ ਸਹਾਰਾ ਨਾਹ ਹੋਵੇ, ਤੂੰ ਉਸ ਦਾ ਸਹਾਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਅਧਾਰੁ = ਆਸਰਾ। ਥਾਉ = ਥਾਂ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

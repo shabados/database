@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦੇ ਕਾਰਨ ਪੈਦਾ ਹੋਈ ਹਉਮੈ ਸਾੜ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਜੋ ਆਪਣੇ ਦਿਲ ਤੋਂ ਅੰਦਰਲੀ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਧੋ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰ ਕੀ = ਅੰਦਰ ਦੀ, ਅੰਦਰਲੀ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

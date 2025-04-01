@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ ਮਿਲਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਉ = ਥਾਂ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

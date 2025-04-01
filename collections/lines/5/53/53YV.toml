@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! (ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ) ਜਿਥੇ ਭੀ ਕੋਈ ਔਖਿਆਈ ਆ ਬਣਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਘਟੁ = ਔਖਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

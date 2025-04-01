@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਹੀ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹ = ਗਾਵਹਿ, ਗਾਂਦੇ ਹਨ। ਨੀਤਾ ਨੀਤ = ਨਿੱਤ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

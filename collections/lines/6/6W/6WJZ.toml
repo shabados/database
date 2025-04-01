@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਭਾਵੇਂ) ਉਹ ਇੱਕ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਸਭ ਵਿਚ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਮਹਿ = ਸਭ ਜੀਵਾਂ ਵਿਚ। ਸੋਇ = ਉਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

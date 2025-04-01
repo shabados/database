@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਦਾਸ ਨੂੰ ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਵੇਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਨਦਰਿ = ਮਿਹਰ ਦੀ ਨਿਗਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

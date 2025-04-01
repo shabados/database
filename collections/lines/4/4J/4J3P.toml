@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਪਸੰਦ ਆਵੇ ਤਾਂ ਮੈਂ ਤੇਰਾ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਉਚਾਰ ਸਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ। ਵਖਾਣੀ = ਮੈਂ ਉਚਾਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

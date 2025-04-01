@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅੱਗ ਵਿਚ) ਸੜਨ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲਾ ਪਤੀ ਨਹੀਂ ਮਿਲ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲੈ = ਅੱਗ ਵਿਚ ਸੜਿਆਂ। ਸਨੇਹੀ = ਪਿਆਰਾ, ਪਿਆਰ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

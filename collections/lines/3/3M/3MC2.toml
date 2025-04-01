@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦਾ ਹਾਕਮ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਵਰਿ ਆਫ਼ਾਕ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 117
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

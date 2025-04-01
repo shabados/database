@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਗਰੀਬ ਤੇ ਅਨਾਥ ਭਗਤਾਂ ਨੂੰ ਆਦਰ ਬਖ਼ਸ਼ਦਾ ਹੈ ॥੧੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਾਥ = ਜਿਨ੍ਹਾਂ ਦਾ ਕੋਈ ਹੋਰ ਸਹਾਰਾ ਨਹੀਂ ਹੈ ॥੧੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

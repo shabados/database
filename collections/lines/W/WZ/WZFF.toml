@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ) ਆਪ ਹੀ (ਮਨੁੱਖ ਨੂੰ) ਸ੍ਰੇਸ਼ਟ ਬੁੱਧੀ (ਬਖ਼ਸ਼ਦਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ (ਦੇਂਦਾ ਹੈ)। ਬੁਧਿ ਸਾਰੁ = ਬੁੱਧੀ ਦਾ ਸਾਰ, ਸ੍ਰੇਸ਼ਟ ਬੁੱਧੀ {ਸਾਰੁ = ਤੱਤ, ਨਚੋੜ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

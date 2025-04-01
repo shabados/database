@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਅੰਤ ਵੇਲੇ) ਇਕ ਖਿਣ ਵਿਚ (ਸੜ ਕੇ) ਸੁਆਹ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਸਮੰਤੁ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

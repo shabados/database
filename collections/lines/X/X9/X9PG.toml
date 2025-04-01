@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ! ਹੱਕ ਦੀ ਕਮਾਈ ਕਰਿਆ ਕਰ-ਇਹ ਹੈ 'ਹਲਾਲ', ਇਹ, ਖਾਣਾ ਖਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਕੁ = ਹੱਕ ਦੀ ਕਮਾਈ, ਆਪਣੀ ਨੇਕ ਮਿਹਨਤ ਨਾਲ ਖੱਟੀ ਹੋਈ ਮਾਇਆ। ਬਖੋਰਹੁ = ਖਾਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

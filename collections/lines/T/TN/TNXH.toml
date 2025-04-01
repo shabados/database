@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖ (ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਨਾਹ ਇਸ ਲੋਕ ਵਿਚ ਨਾਹ ਪਰਲੋਕ ਵਿਚ ਕਿਤੇ ਭੀ ਨਹੀਂ ਡੋਲੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਤ = ਇਸ ਲੋਕ ਵਿਚ। ਊਤ = ਉਸ ਲੋਕ ਵਿਚ। ਕਤਹੂ = ਕਿਤੇ ਭੀ। ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

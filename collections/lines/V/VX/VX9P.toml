@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਹੇ ਮੇਰੇ ਮਿੱਤਰ # ਤੈਨੂੰ ਅਮਰ ਦੌਲਤ ਪ੍ਰਾਪਤ ਹੋ ਜਾਵੇਗੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਜਾਵੀਦ ਯਾਬੀ ਐ ਹਬੀਬ ।੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੁਰਬਾਨ ਹਾਂ, ਹਰੀ ਤੋਂ ਕੁਰਬਾਨ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰੀਆ = ਕੁਰਬਾਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

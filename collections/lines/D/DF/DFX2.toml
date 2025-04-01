@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਬਿਨਾਂ ਰੱਬ ਦੇ ਸਿਮਰਨ ਦੇ ਹੋਰ ਦੂਜਾ ਕੋਈ ਨਾਮ ਨ ਲਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਨ ਗੀਰਦ ਗ਼ੈਰ ਨਾਮਿ ਜ਼ਿਕਰਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

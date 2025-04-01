@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੋਹ ਦੀ ਮਗਨਤਾ ਵਿਚ ਦਬਾਇਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਗਨ = ਮਗਨਤਾ, ਮਸਤੀ। ਬਿਆਪੇ = ਫਸਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

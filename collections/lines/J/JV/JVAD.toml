@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਸ਼ਰਮ ਭੰਡ! ਤੂੰ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੇ ਦੁੱਖ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਿ ਨਾਹੀ = ਤੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ, ਤੈਨੂੰ ਭੁੱਲ ਗਏ ਹਨ। ਨਿਰਲਜ = ਬੇਸ਼ਰਮ। ਭਾਂਡ = ਹੇ ਭੰਡ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲੇ ਪਿਆਰੇ ਲਾਲ ਨੂੰ ਲੱਭਦੀ ਫਿਰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਫਿਰਉ = ਹਉ ਫਿਰਉਂ, ਮੈਂ ਫਿਰਦੀ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

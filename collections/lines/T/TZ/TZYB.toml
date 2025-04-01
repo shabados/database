@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਨਕ ਦੀ ਅਰਜ਼ੋਈ ਤਾਂ ਪ੍ਰਭੂ ਪਾਸ ਹੀ ਹੈ (ਨਾਨਕ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਆਖਦਾ ਹੈ-ਹੇ ਪ੍ਰਭੂ!) ਮੇਰੇ ਔਗੁਣ ਕੱਟ ਦੇਹ ॥੪॥੧੧॥੨੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਿ = ਪਾਸਿ, ਪਾਸ ॥੪॥੧੧॥੨੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

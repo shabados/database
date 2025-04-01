@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਤਾਂ ਤੇਰੇ ਦਿਲ ਅੰਦਰ ਵਸਦਾ ਹੈ, ਪਰ ਤੂੰ ਬਾਹਰ ਨਸਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਦਰੂਨਿ ਦਿਲ ਤੂ ਬੀਰੂੰ ਮੀ-ਰਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੂੰ ਜਗਤ ਵਿਚ ਮਾਇਆ ਦਾ ਵਿਪਾਰ ਪਿਆਰਾ ਹੈ ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਦੁੱਖ ਪਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਤਿ = ਜਗਤ ਵਿਚ। ਆਵਣਿ = ਆਉਣ ਵਿਚ। ਜਾਣਿ = ਜਾਣ ਵਿਚ। ਆਵਣਿ ਜਾਣਿ = ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

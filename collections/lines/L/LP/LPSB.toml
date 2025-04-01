@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਤੂੰ ਉਸ ਪ੍ਰਭੂ (ਦੇ ਚਰਨਾਂ) ਨਾਲ ਲਿਵ ਜੋੜ, ਜਿਸ ਨੇ ਇਹ ਸਰੀਰ ਤੇ ਮਨ ਪੈਦਾ ਕਰ ਕੇ ਇਹਨਾਂ ਨੂੰ ਸੋਹਣਾ ਬਣਾਇਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

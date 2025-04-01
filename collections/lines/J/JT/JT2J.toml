@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਪਾਖੰਡ ਤੂੰ ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡੀਲੇ = ਛੱਡ ਦੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

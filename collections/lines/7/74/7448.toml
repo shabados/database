@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੀਨ ਅਤੇ ਦੁਨੀਆ ਸਾਡੇ ਉਸ ਪਰੀ-ਚਿਹਰਾ ਦੋਸਤ ਦੀ ਫਾਹੀ ਵਿਚ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਨੋ ਦੁਨੀਆ ਦਰ ਕਮੰਦਿ ਆਂ ਪਰੀ ਰੁਖ਼ਸਾਰਿ ਮਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

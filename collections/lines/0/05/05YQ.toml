@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਕੋਈ ਉਪਮਾ ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ (ਤੇਰੇ ਵਰਗਾ ਕੋਈ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਮਾ = ਵਡਿਆਈ, ਸਿਫ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

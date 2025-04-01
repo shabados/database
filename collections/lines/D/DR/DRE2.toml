@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਕੋਈ ਰੰਗ ਨਹੀਂ ਦਿੱਸਦਾ; ਤੇਰੀ ਕੋਈ ਸ਼ਕਲ ਨਹੀਂ ਦਿੱਸਦੀ। ਕੋਈ ਮਨੁੱਖ ਨਹੀਂ ਸੋਚ ਸਕਦਾ ਕਿ ਤੇਰੀ ਕਿਤਨੀ ਕੁ ਤਾਕਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨੁ = ਰੰਗ। ਰੂਪੁ = ਸ਼ਕਲ। ਕੁਦਰਤਿ = ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

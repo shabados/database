@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੋਗ ਦੇ ਬੰਧਨਾਂ ਦੇ ਕਾਰਨ (ਜੂਨਾਂ ਵਿਚ) ਭਟਕਣ ਤੋਂ ਰਤਾ ਭਰ ਭੀ ਖ਼ਲਾਸੀ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧੁ = ਬੰਧਨ। ਰਹਨੁ = ਭਟਕਣਾ ਤੋਂ ਖ਼ਲਾਸੀ, ਸ਼ਾਂਤੀ, ਟਿਕਾਉ। ਰਤੀ = ਰਤਾ ਭਰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

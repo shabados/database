@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰੋਂ (ਖੋਟਾ ਸੁਭਾਉ-ਰੂਪ) ਵੱਡਾ ਪ੍ਰੇਤ ਇਕ ਖਿਨ ਵਿਚ ਮੁੱਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੇਤੁ = ਅਸੁੱਧ ਸੁਭਾਉ, ਖੋਟਾ ਸੁਭਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

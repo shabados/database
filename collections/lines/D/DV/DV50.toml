@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦੱਸੋ, ਕਿਸ ਨੂੰ ਬੰਧਨਾਂ ਵਿਚ ਫਸਿਆ ਹੋਇਆ, ਤੇ ਕਿਸ ਨੂੰ ਮੁਕਤਿ ਸਮਝੀਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧ = (ਮਾਇਆ ਦੇ) ਬੰਧਨ। ਮੁਕਤਿ = ਮਾਇਆ ਤੋਂ ਖ਼ਲਾਸੀ। ਗਨੀ = ਸਮਝੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

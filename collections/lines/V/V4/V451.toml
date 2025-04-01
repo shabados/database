@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪੀ ਅਹੰਕਾਰ! ਤੂੰ ਜੀਵਾਂ ਦੇ ਜਨਮ ਮਰਨ ਦਾ ਕਾਰਨ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਪਾਤਮਾ = ਦੁਸ਼ਟਾਤਮਾ, ਜਿਸ ਦਾ ਮਨ ਸਦਾ ਪਾਪ ਵਿਚ ਰਹੇ (पापत्मन्)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

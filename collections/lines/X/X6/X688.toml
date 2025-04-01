@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ, ਉਹ ਅਟੱਲ ਜੀਵਨ ਵਾਲੇ ਹੋ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੇ = ਅਟੱਲ ਜੀਵਨ ਵਾਲੇ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਰੂਪ। ਸਾਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਪਛਾਣਿਆ = ਸਾਂਝ ਪਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

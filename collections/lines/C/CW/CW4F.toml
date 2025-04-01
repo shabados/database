@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ (ਪ੍ਰਾਣਾਯਾਮ ਦੇ) ਭੁਲੇਖੇ ਵਿਚ ਪੈ ਕੇ ਕਿਉਂ (ਜੀਵਨ ਦੇ ਅਸਲੀ ਤੋਂ) ਲਾਂਭੇ ਜਾ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜੇ = ਹੇ ਮੂਰਖ! ਕਾਇਚੇ = ਕਾਹਦੇ ਵਾਸਤੇ? ਕਿਉਂ? ਭਰਮਿ = ਭੁਲੇਖੇ ਵਿਚ (ਪੈ ਕੇ)। ਭੁਲਾ = ਖੁੰਝ ਰਿਹਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

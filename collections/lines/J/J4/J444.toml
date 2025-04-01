@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ-) ਪਤੀ! ਮੇਰੀ ਇਕ ਬੇਨਤੀ ਸੁਣ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਹ = ਹੇ ਨਾਹ! ਹੇ ਨਾਥ! ਹੇ ਖਸਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

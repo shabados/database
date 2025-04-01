@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਜੇ ਮਨੁੱਖ (ਇਸ ਜੀਵਨ ਵਿਚ ਵਾਪਰਦੇ) ਦੁੱਖਾਂ ਸੁਖਾਂ ਨੂੰ ਇਕੋ ਜਿਹਾ ਕਰ ਕੇ ਸਮਝ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਪ ਛਾਵ = ਦੁਖ ਸੁਖ। ਸਮ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਰਤੀ ਕਰਨ ਲਈ) ਸੋਹਣਾ ਚੰਗਾ ਦੀਵਾ ਤੇ ਸਾਫ਼ ਸੁਥਰੀ ਵੱਟੀ ਵੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਅਰਾ = ਸੋਹਣਾ ਜਿਹਾ ਦੀਵਾ। ਨਿਰਮਲ = ਸਾਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

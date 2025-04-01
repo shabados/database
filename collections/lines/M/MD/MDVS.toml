@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਦਲਾਣ ਹੇਠ ਸੂਰਜ (ਦੀ ਤਰਾ੍ਹਣ) ਲੁਕਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਫਤਾਬਿ ਹਸਤ ਪਿਨਹਾਣ ਜ਼ੇਰਿ ਅਬਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

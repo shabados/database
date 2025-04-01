@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਤਕ ਇਹ ਤ੍ਰਿਪਤ ਨਹੀਂ ਹੁੰਦਾ। ਇਸ ਦੀ ਮਾਇਆ ਵਾਲੀ ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕਦੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ = ਤ੍ਰਿਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

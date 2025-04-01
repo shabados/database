@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਮੁੱਢ ਤੋਂ ਹੀ ਹੋਂਦ ਵਾਲਾ ਹੈ, ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ, ਹਸਤੀ ਵਾਲਾ। ਆਦਿ = ਮੁੱਢ ਤੋਂ। ਜੁਗਾਦਿ = ਜੁਗਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

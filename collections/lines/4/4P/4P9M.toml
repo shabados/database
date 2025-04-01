@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਨੇ ਉਹ ਆਤਮਕ ਟਿਕਾਣਾ (ਮੈਨੂੰ) ਨਾਨਕ ਨੂੰ (ਭੀ) ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੪॥੩੫॥੧੦੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ (ਉਹ) ਰਸਤਾ ਲੱਭ (ਜਿਸ ਉਤੇ ਤੁਰਿਆਂ ਪ੍ਰਭੂ ਪ੍ਰਸੰਨ ਹੋ ਜਾਏ) ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਮਾਰਗੁ = ਰਸਤਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

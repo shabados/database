@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਰਾਵੋ! (ਤੁਸੀਂ ਭੀ) ਅਕੱਥ ਪ੍ਰਭੂ ਦੇ ਨਾਮ-ਖ਼ਜ਼ਾਨੇ ਨੂੰ (ਖੁਲ੍ਹੇ ਦਿਲ) ਵਰਤੋ, ਤੇ ਇਕੱਠਾ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈਹੋ = ਹੇ ਭਰਾਵੋ! ਭੁੰਚਹੁ = ਖਾਵਹੁ। ਅਗਥਾ = ਅਕੱਥ ਪ੍ਰਭੂ ਦਾ। ਪਲੈ = ਪੱਲੇ (ਬੰਨ੍ਹੋ), ਇਕੱਠਾ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

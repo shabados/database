@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਕਿਸੇ ਵਿਰਲੇ ਭਾਗਾਂ ਵਾਲੇ ਨੂੰ ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਨਸੀਬ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੁ = ਸੰਗਤਿ, ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

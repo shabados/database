@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ ਪਿਆਰੇ ਹਰਿ-ਪ੍ਰਭੂ ਦੀ ਭਾਲ ਕਰਦਾ ਹਾਂ, (ਸਤਸੰਗੀਆਂ ਪਾਸੋਂ) ਭਾਲ ਕਰਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਢੂਢਾਈ = ਭਾਲ ਕਰਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਚਾਲ ਹੈ ਮਸਤ ਹਾਥੀ ਵਾਂਗ ਬੜੀ ਮਟਕ ਨਾਲ ਤੁਰਨ ਵਾਲੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੰਗ = ਹਾਥੀ। ਪਗੁ = ਪੈਰ। ਠਿਮਿ ਠਿਮਿ = ਮਟਕ ਨਾਲ। ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਸੰਧੂਰਏ = ਮਸਤ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

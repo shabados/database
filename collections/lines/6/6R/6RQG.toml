@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਸੁਆਦ ਵਿਚ (ਇਸ ਦੀ ਕਦੇ) ਤਸੱਲੀ ਨਹੀਂ ਹੁੰਦੀ (ਕਦੇ ਰੱਜਦਾ ਹੀ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਿ = ਤਸੱਲੀ, ਰੱਜ। ਬਿਖਿਆ = ਮਾਇਆ। ਸਾਦਿ = ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਵੇਂ) ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ (ਸਾਕਤ ਦੇ) ਦਿਨ ਰਾਤ ਅੱਫਲ ਚਲੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਘ = ਬੱਦਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਮਹਿਲਾਂ ਦੇ ਝਾੜੂ-ਬਰਦਾਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੱਮਸ ਵਸਫ਼ ਪੈਰਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੫।"
+page = 10
+line = 155
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਗਤ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ ਨੂੰ (ਹੁਣ) ਮਿਲ, (ਇਹੀ ਮਨੁੱਖਾ ਜਨਮ ਪ੍ਰਭੂ ਨੂੰ) ਮਿਲਣ ਦਾ ਸਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦੀਸ = ਜਗਤ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ ਨੂੰ। ਬਰੀਆ = ਵਾਰੀ, ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

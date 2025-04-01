@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਨਿਊਣਾ ਅੱਖਰ ਹੈ, ਸਹਾਰਨਾ ਗੁਣ ਹੈ, ਮਿੱਠਾ ਬੋਲਣਾ ਸ਼ਿਰੋਮਣੀ ਮੰਤਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਵਣੁ = ਸਹਾਰਨਾ। ਜਿਹਬਾ = ਮਿੱਠੀ ਜੀਭ, ਮਿੱਠਾ ਬੋਲਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

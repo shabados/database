@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਦੋਂ ਤੂੰ ਮੇਰੀ ਸਹਾਇਤਾ ਤੇ ਹੋਵੇਂ, ਤਾਂ ਮੈਨੂੰ ਕਿਸੇ ਹੋਰ ਦੀ ਕੋਈ ਮੁਥਾਜੀ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹਛੰਦਾ = ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

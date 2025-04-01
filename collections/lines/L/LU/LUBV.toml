@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਉਸ ਸ਼ੋਖ ਅੱਖ ਦਾ ਸੁਆਦ ਇਕ ਵਾਰੀ ਚੱਖ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਕੁਨਦ ਊ ਸੂਇ ਗੁਲਿ ਨਰਗਸ ਨਿਗਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

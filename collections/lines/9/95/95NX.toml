@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਾਇਆ (ਮਾਨੋ, ਇਕ ਸਮੁੰਦਰ ਹੈ ਜਿਸ ਵਿਚੋਂ) ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੈ ਜਿਸ ਵਿਚ ਘੁੱਪ ਹਨੇਰਾ ਹੀ ਹਨੇਰਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਤਰ = ਦੁੱਤਰ, {दुस्तर} ਜਿਸ ਤੋਂ ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੈ। ਬਿਖਮ = ਔਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

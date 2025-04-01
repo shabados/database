@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦਾ ਰੱਬ ਨਾਲ ਦਿਲੋਂ ਪਿਆਰ ਹੈ, ਉਹੀ ਸੱਚੇ (ਆਸ਼ਕ) ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ੍ਹ੍ਹ ਮੁਹਬਤਿ = ਜਿਨ੍ਹਾਂ ਦੀ ਮੁਹੱਬਤਿ। ਸਚਿਆ = ਸੱਚੇ ਆਸ਼ਕ, ਸੱਚੀ ਮੁਹੱਬਤਿ ਕਰਨ ਵਾਲੇ। ਸੇਈ = ਉਹੀ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

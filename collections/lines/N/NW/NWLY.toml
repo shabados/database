@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦਾ ਬਚਨ ਗੁਰੂ ਦਾ ਸ਼ਬਦ-ਮੰਤ੍ਰ (ਸਦਾ) ਜਪਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤੁ = ਮੰਤਰ, ਉਪਦੇਸ਼। ਜਪਿ = ਜਪਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਉਹ ਪਰਮਾਤਮਾ ਅਥਾਹ ਹੈ ਬੇਅੰਤ ਡੂੰਘਾ ਹੈ, ਬਹੁਤ ਉੱਚਾ ਹੈ, ਕਦੇ ਨਹੀਂ ਮਰਦਾ, ਉਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਹ = ਅਥਾਹ। ਅਗਾਧਿ = ਬੇਅੰਤ ਡੂੰਘਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

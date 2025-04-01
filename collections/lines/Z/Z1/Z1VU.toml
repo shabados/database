@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਪ੍ਰਭੂ ਦਾਤੇ ਪਾਸੋਂ ਹੀ ਮੰਗਣਾ ਚਾਹੀਦਾ ਹੈ, ਹਰੇਕ ਚੀਜ਼ ਉਸੇ ਪਾਸੋਂ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲੈ ਪਾਇ = ਮਿਲਦਾ ਹੈ। ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

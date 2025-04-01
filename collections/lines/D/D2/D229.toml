@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਭਗਤ ਤੇਰੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ, (ਤੇਰੇ ਦਰ ਤੇ) ਅਰਦਾਸ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਹਿ = ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ। ਕਰਹਿ = ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਾਸ਼ਨਾ (ਇਹ ਸਰੀਰ ਦੀ ਤਾਣੀ) ਉਣਾਉਣ ਤੁਰ ਪੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਨਾਵਨ = (ਤਾਣੀ) ਉਣਾਉਣ ਲਈ। ਮਾਹੋ = ਵਾਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

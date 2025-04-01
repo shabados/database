@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਅੰਦਰ ਦੇ) ਵਿਸ਼ਟਾ ਹੱਡੀਆਂ ਤੇ ਲਹੂ (ਆਦਿਕ ਬਾਹਰਲੇ) ਚੰਮ ਨਾਲ ਲਪੇਟੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਟਾ = ਵਿਸ਼ਟਾ, ਗੰਦ। ਅਸਤ = ਹੱਡੀਆਂ {अस्थि}। ਰਕਤੁ = ਰੋਤ, ਲਹੂ। ਪਰੇਟੇ = ਲਪੇਟੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

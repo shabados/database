@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਭ ਕੁਝ ਆਪ ਹੀ ਕਰ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ, ਕਰਹਿਂ। ਕਰਣੈਹਾਰੇ = ਹੇ ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

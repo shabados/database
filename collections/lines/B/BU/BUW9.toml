@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਜਾਪ ਉਸਦੀ ਰਸਨਾ ਉੱਤੇ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਹੱਕ ਚੂੰ ਬਰ ਜ਼ੁਬਾਨਸ਼ ਵਾਰਿਦ ਅਸਤ ।੪੯੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

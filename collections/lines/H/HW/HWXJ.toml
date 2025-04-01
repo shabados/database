@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਣ ਪਲਕਾਣ ਦੇ ਖ਼ੰਜਰ ਹੱਥੋਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਜ਼ਿ ਦਸਤਿ ਖ਼ੰਜਰਿ ਮਿਜ਼ਗ਼ਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

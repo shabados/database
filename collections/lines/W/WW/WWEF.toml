@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੇਵਕ ਨੂੰ ਆਪਣੀ ਸੇਵਾ ਵਿਚ ਜੋੜ ਲਿਆ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵ = ਸੇਵਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

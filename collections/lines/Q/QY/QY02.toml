@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਤਨੇ ਕੀਮਤੀ ਹੁੰਦੇ ਹੋਏ ਭੀ) ਮੋਤੀ ਤੇ ਹੀਰੇ ਭੀ ਮੈਲੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਰੁ = ਹੀਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

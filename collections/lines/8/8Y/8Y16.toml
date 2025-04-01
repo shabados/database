@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨਵਾਨਾਂ ਲਈ ਇਹ ਧੂੜ ਤਾਜ ਤਖ਼ਤ ਨਾਲੋਂ ਵਧੇਰੇ ਮੁੱਲ ਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਾਂ ਰਾ ਬਿਹ ਜ਼ ਤਾਜ਼ੋ ਅਫ਼ਸਰ ਅਸਤ ।੩੨੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

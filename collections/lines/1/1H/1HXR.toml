@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਡਰ-ਇਹ ਸਰੀਰ (-ਦੀਵੇ) ਵਿਚ ਵੱਟੀ ਪਾ ਦੇਈਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੁ = ਇਸ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ। ਇਤੁ ਤਨਿ = ਇਸ ਤਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

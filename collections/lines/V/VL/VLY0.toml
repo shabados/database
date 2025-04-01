@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਠਾਰਾਂ ਪੁਰਾਣਾਂ ਨੇ ਮਿਲ ਕੇ ਭੀ ਇਹੋ ਬਚਨ ਆਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸ ਅਸਟੀ = ਅਠਾਰਾਂ ਪੁਰਾਨ {ਅਸਟੀ = ਅੱਠ}। ਮਿਲਿ = ਮਿਲ ਕੇ। ਏਕੋ = ਇਕ ਬਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

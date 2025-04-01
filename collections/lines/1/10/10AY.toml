@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਜਗਤ-ਵਾਸਾ, ਮਾਨੋ,) ਰੇਤ ਦਾ ਕੰਢਾ (ਦਰਿਆ ਦੀਆਂ) ਲਹਰਾਂ ਦੇ ਮੂੰਹ ਵਿਚ ਆਇਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲੂ = ਰੇਤ। ਤਰੰਗ = ਲਹਰਾਂ। ਮੁਖਿ = ਮੂੰਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

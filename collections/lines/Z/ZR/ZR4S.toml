@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਰਚਨਹਾਰ ਪ੍ਰਭੂ! ਹੇ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! (ਤੇਰਾ ਦਾਸ ਨਾਨਕ) ਤੇਰੀ ਸਰਣ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ ਕਾਰਣ = ਹੇ ਜਗਤ ਦੇ ਰਚਨਹਾਰ! ਕਰਣ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹੀ ਕੰਮ ਸਿਰੇ ਚੜ੍ਹਿਆ ਜਾਣੋ ਜੋ ਖ਼ੁਸ਼ੀ ਨਾਲ ਕੀਤਾ ਜਾਏ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ ਖੁਸੀ = ਖ਼ੁਸ਼ੀ ਨਾਲ। ਸਾਰੁ = ਚੰਗਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਜਦੋਂ ਗੁਰੂ ਮਿਲ ਪਏ ਤਦੋਂ ਹੀ ਇਹ ਸੂਝ ਪੈਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ = ਤਾਂ, ਤਦੋਂ। ਸੂਝੈ = ਸਮਝ ਪੈਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

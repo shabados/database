@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ) ਉਸ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ ਹੋਵੇ) ਪੂਰੇ ਵੱਟੇ ਨਾਲ ਤੋਲ ਵਿਚ ਕਿਵੇਂ ਪੂਰਾ ਉਤਰੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰੈ ਵਟਿ = ਪੂਰੇ ਵੱਟੇ ਨਾਲ। ਤੁਲਾਈਐ = ਤੁਲ ਸਕੇ, ਪੂਰਾ ਉਤਰ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

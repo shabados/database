@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਰੱਬ ਦੇ ਰੂਪ ਦੇ ਦੇਸ਼ਾਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਸੱਚਖੰਡਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਜਬਰੂਤੋ ਲਾਹੂਤ ਹਮ ।੧੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਸੁਖ-ਸਾਂਦ ਬਣੀ ਰਹਿੰਦੀ ਹੈ ਤੇ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿਆਣ = ਸੁਖ-ਸਾਂਦ, ਖੈਰੀਅਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਵਿਅਰਥ ਹੈ (ਜੇ ਇਹ) ਖਾਣੇ ਤੇ ਹੋਰ ਸੁਆਦਾਂ ਵਿਚ (ਲੱਗੀ ਹੋਈ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਅਨ ਸ੍ਵਾਦ = ਹੋਰ ਸੁਆਦਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

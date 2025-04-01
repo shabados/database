@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆਲ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਰਤਾ ਭਰ ਭੀ ਕਦਰ ਨਹੀਂ ਜਾਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਨ ਜਾਨਉ = ਨ ਜਾਨਉਂ, ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ। ਸਾਰ = ਕਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

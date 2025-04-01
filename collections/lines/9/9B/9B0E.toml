@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰਨ ਪਿਆਂ ਦੀ ਲਾਜ ਰੱਖ ॥੨॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਮਾ = ਸਰਮ, ਲਾਜ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

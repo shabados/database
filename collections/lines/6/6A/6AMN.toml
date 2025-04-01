@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਦਰ ਉਸ ਦਾ ਘਰ ਮਹਲ ਪਿਆਰ ਦੀ ਰਾਹੀਂ ਲੱਭਦਾ ਹੈ, ਟਿਕਵਾਂ (ਚੰਗਾ) ਆਚਰਣ ਦੇ ਕੇ ਲੱਭੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ = ਆਚਰਨ। ਦਰੁ ਘਰੁ = ਪ੍ਰਭੂ ਦਾ ਦਰ, ਪ੍ਰਭੂ ਦਾ ਘਰ। ਪਿਆਰਿ = ਪਿਆਰ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

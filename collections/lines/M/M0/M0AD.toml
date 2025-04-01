@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ (ਦਾ ਗੀਤ) ਗਾਇਆ ਕਰੋ (ਪਰਮਾਤਮਾ ਨੂੰ ਵੱਸ ਕਰਨ ਦਾ) ਇਹ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਮੰਤ੍ਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜ ਮੰਤ੍ਰੁ = ਮੂਲ ਮੰਤ੍ਰ, ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਮੰਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

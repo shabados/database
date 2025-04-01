@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਮੈਂ ਉਹ ਥਾਂ ਲੱਭਣ ਤੁਰ ਪਿਆ (ਜਿੱਥੇ ਮੈਂ ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

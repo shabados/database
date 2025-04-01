@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਨਿਆਮਤਾਂ ਅਤੇ ਅਹਿਸਾਨਾਂ ਨੂੰ ਬਖਸ਼ਣ ਵਾਲੀ ਰੋਸ਼ਨੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਆ ਬਖ਼ਸ਼ਿ ਇਹਸਾਨੋ ਇਨਆਮ ਰਾ ।੧੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਸੀਂ ਪਾਸੀਂ ਦਰਿਆਵਾਂ, ਪਹਾੜਾਂ ਅਤੇ ਰੁੱਖਾਂ-ਬਿਰਖਾਂ ਤੇ ਉੱਡਦੀ ਉੱਡਦੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹ = ਦਸ। ਦਿਸਾ = ਪਾਸੇ। ਦਹਦਿਸਾ = ਦਸੀਂ ਪਾਸੀਂ, ਹਰ ਪਾਸੇ। ਬਨਰਾਇ = ਬਨਸਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

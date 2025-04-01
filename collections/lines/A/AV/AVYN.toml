@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੇਰੀ ਜਿੰਦ ਸੱਚੇ ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਤੋਂ ਵਾਰਨੇ ਸਦਕੇ ਪਈ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਚਉਖੰਨੀਐ = ਚਾਰ ਖੰਨ। ਚਉਖੰਨੀਐ ਵੰਞੈ = ਚਾਰ ਟੋਟੇ ਹੋ ਜਾਏ। ਨੇਹਿ = ਪਿਆਰ ਦੀ ਖ਼ਾਤਰ। ਸੰਦੜੈ = ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

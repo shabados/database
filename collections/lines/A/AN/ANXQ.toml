@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਚਾਰ ਦਿਨਾਂ ਲਈ ਆਏ ਹੇ ਜੀਵ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ ਪਰਦੇਸੀਆ = ਹੇ ਪਰਦੇਸੀ! ਹੇ ਜਗਤ ਵਿਚ ਚਾਰ ਦਿਨ ਲਈ ਆਏ ਜੀਵ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

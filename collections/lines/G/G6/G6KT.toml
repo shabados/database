@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿੰਦਾ ਹੈ, ਪ੍ਰਭੂ ਉਸ ਉਤੇ ਕਿਰਪਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹ ਸੰਗਿ = ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

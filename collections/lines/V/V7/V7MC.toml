@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ (ਪਿਛਲੇ) ਕੀਤੇ ਹੋਏ ਸਾਰੇ ਪਾਪ ਲਹਿ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਕਮਾਤੇ = ਕਮਾਏ ਹੋਏ, ਕੀਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

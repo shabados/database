@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਕਤ ਨੂੰ ਆਪਣੇ) ਹਿਰਦੇ-ਘਰ ਵਿਚ ਮਾਲਕ-ਪ੍ਰਭੂ (ਵੱਸਦਾ) ਨਹੀਂ ਦਿੱਸਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਮਹਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

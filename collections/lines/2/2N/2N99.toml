@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਸੋਭਾ ਖੱਟਣ ਲਈ ਤੂੰ ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ ਕਰਮ ਵੀ ਕਰਦੀ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰ = (ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ) ਕਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

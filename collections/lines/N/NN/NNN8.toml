@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੇ (ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਦਾ ਖੋਟ (ਮਾਨੋ) ਕੁਹਾੜੇ ਨਾਲ ਕੱਟ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਟਿਲ = ਵਿੰਗੀਆਂ ਚਾਲਾਂ ਚੱਲਣ ਵਾਲਾ, ਖੋਟਾ। ਕੁਟਿਲਤਾ = ਮਨ ਦਾ ਵਿੰਗ, ਖੋਟ। ਕੁਠਾਰਿ = ਕੁਹਾੜੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

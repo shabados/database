@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਧਰਮ ਤੋਂ ਵਾਂਜਿਆਂ ਦੀ ਆਪੋ ਵਿਚ ਮਿਤ੍ਰਤਾ ਤੇ ਆਪੋ ਵਿਚ ਖਾਣ ਪੀਣ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਦੀਨ = ਅਧਰਮੀ। ਖਾਣੁ = ਖਾਣ ਪੀਣ ਦੀ ਸਾਂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

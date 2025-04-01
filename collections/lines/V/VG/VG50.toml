@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਦਾ ਰੰਗ (ਆਨੰਦ) ਥੋੜੇ ਦਿਨ ਹੀ ਰਹਿੰਦਾ ਹੈ, ਤੇ ਇਸ ਦਾ ਮੁੱਲ ਭੀ ਤੁੱਛ ਜਿਹਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਛਾ = ਤੁੱਛ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

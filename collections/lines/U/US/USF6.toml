@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਾਂ) ਉਸ ਮਨੁੱਖ ਦਾ ਨਾਮ ਸਿਆਣਾ ਪੰਡਿਤ (ਰੱਖਿਆ ਜਾ ਸਕਦਾ) ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਾ = ਚੰਗੀ ਸੁਰਤ ਵਾਲਾ, ਸਿਆਣਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

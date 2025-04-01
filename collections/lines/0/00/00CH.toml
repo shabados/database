@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੁੱਤਰ! ਜਿਸ ਧਨ ਦਾ ਤੁਸੀਂ ਮਾਣ ਕਰਦੇ ਹੋ, ਉਹ ਧਨ (ਕਦੇ ਭੀ) ਕਿਸੇ ਦਾ ਆਪਣਾ ਨਹੀਂ ਬਣਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੁ = ਮਾਣ, ਅਹੰਕਾਰ। ਕਿਸਹਿ ਨ ਆਪ = ਕਿਸੇ ਦਾ ਭੀ ਆਪਣਾ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

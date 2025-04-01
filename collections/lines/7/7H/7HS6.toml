@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਕਦੇ ਸੁਖ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈਸੇ ਲਹੀਐ = ਕਿਵੇਂ ਲੱਭ ਸਕਦਾ ਹੈ? ਕਦੇ ਨਹੀਂ ਲੱਭ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

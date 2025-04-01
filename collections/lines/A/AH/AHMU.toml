@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨ ਵਿਚ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਮੈਲ ਟਿਕੀ ਰਹੇ, ਤੀਰਥਾਂ ਤੇ (ਇਸ਼ਨਾਨ ਲਈ) ਭੌਂਦੇ ਫਿਰੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੀਜੈ = ਭਟਕਦੇ ਫਿਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

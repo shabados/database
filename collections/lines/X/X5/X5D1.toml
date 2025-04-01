@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਿਉਂ ਵਿਅਰਥ ਫ਼ਜ਼ੂਲ ਬੋਲ ਬੋਲਦੀ ਹੈ ਜੋ ਪਤੀ-ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾਪ ਵਾਸਤੇ ਕੰਮ ਨਹੀਂ ਦੇ ਸਕਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਾਦਿਲੁ = ਫ਼ਜ਼ੂਲ ਬੋਲ। ਬਾਦਿ = ਵਿਅਰਥ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

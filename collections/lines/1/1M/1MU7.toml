@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ! ਹੇ ਸੰਤਾਂ ਦੇ ਸਹਾਰੇ! ਹੇ (ਜੀਵਾਂ ਦੇ) ਕ੍ਰੋੜਾਂ ਪਾਪ ਨਾਸ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਾਥ ਨਾਥ = ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ! ਸਨਾਥ ਸੰਤਨ = ਹੇ ਸੰਤਾਂ ਦੇ ਸਹਾਰੇ! ਕੋਟਿ = ਕ੍ਰੋੜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

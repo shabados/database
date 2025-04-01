@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਦਰਦ ਦਾ ਦਾਰੂ ਰੱਬ ਦੀ ਯਾਦ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਰੂਇ ਹਰ ਦਰਦ ਰਾ ਯਾਦਿ ਖ਼ੁਦਾਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

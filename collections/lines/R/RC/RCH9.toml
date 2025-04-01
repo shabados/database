@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸਿਮਰਨ (ਦੀ ਦਾਤਿ) ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ (ਮਿਲਦੀ ਹੈ) ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਪੂਰੈ ਭਾਗਿ = ਪੂਰੀ ਕਿਸਮਤ ਨਾਲ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ!) ਤੂੰ ਇਸ ਸਰੀਰ ਨੂੰ, ਇਸ ਧਨ ਨੂੰ ਆਪਣਾ ਮੰਨੀ ਬੈਠਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਕਰਿ ਥਾਪਿਆ = ਮੰਨ ਰੱਖਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

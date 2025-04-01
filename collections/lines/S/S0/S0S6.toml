@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਧੋ! ਜੇ ਤੂੰ ਸੋਹਣਾ ਜਿਹਾ ਪਹਾੜ ਬਣੇਂ, ਤਾਂ ਮੈਂ (ਤੇਰਾ) ਮੋਰ ਬਣਾਂਗਾ (ਤੈਨੂੰ ਵੇਖ ਵੇਖ ਕੇ ਪੈਲਾਂ ਪਾਵਾਂਗਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜੇ। ਗਿਰਿ = ਪਹਾੜ। ਗਿਰਿਵਰ = ਸੋਹਣਾ ਪਹਾੜ। ਤਉ = ਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰਾ ਮੱਥਾ (ਤੇਰੇ) ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਟਿਕਿਆ ਰਹੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ ਸੰਤਨ ਕੈ = ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਉੱਤੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

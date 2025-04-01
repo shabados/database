@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਵੀ ਕਲ੍ਯ੍ਯਸਹਾਰ ਆਖਦਾ ਹੈ ਕਿ 'ਹੇ ਗੁਰੂ ਰਾਮਦਾਸ! ਤੂੰ ਸ਼ਬਦ ਦਾ ਨਗਾਰਾ ਵਜਾਇਆ ਹੈ' ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦ ਨੀਸਾਨੁ = ਸ਼ਬਦ ਦਾ ਨਗਾਰਾ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

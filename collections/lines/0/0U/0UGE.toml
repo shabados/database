@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਠਾਕੁਰ! ਹੇ ਕਿਰਪਾ ਦੇ ਘਰ ਪ੍ਰਭੂ! ਤੇਰੇ ਭਗਤਾਂ ਨੂੰ ਤੇਰੇ ਨਾਮ ਦਾ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤ = ਭਗਤਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

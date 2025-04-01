@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਹੇ ਮਿੱਤਰ! ਦੱਸ, (ਇਸ ਮਾਇਆ ਤੋਂ ਖਹਿੜਾ ਛੁਡਾਣ ਲਈ) ਮੈਂ ਕਿਸ ਦੇ ਜਾਵਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਪਹਿ = ਕਿਸ ਦੇ ਪਾਸ? ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

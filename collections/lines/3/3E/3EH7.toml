@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੇਰੀ ਤਬੀਆਤ ਗੋਯਾ ਵਾਣਗ ਮੋਤੀ ਵਰ੍ਹਾਉਣ ਵਾਲੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿ ਦਾਰੀ ਦਰ ਬਜਾਤਿ ਖ਼ੁਦ ਨਿਸਾਰਿ ਯਾਰ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

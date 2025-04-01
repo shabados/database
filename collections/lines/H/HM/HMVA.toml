@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦੀ ਕੀਹ ਗੱਲ ਸੁਨਣੀ, ਇਹ ਤਾਂ ਹਵਾ ਦੇ ਬੁੱਲਿਆਂ ਵਾਂਗ ਚਲੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੁ = ਝੂਠ, ਝੂਠੇ ਪਦਾਰਥਾਂ ਦੀ ਗੱਲ। ਵੰਞਨਿ = ਚਲੇ ਜਾਂਦੇ ਹਨ। ਝੁਲਾਰਿਆ = ਬੁੱਲਿਆਂ ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

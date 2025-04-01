@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮਾਂ ਪਿਉ ਆਪਣੇ ਬੱਚੇ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਨ, ਤਿਵੇਂ ਉਹ ਸਾਡੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਆਈ = ਵਾਂਗ। ਪਿਤਾਈ = ਪਿਤਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

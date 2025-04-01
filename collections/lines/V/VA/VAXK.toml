@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਹਿਲਾਦ ਨੂੰ ਉਸ ਦੀ) ਮਾਂ ਸਮਝਾਂਦੀ ਹੈ-ਹੇ ਪਿਆਰੇ ਪ੍ਰਹਿਲਾਦ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸੈ = ਸਮਝਾਂਦੀ ਹੈ। ਪ੍ਰਹਿਲਾਦ = ਹੇ ਪ੍ਰਹਿਲਾਦ! ਪੁਤ੍ਰ = ਹੇ ਪੁੱਤਰ! ਜੀਉ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪੀ! ਖਾਂਦਾ ਪੀਂਦਾ ਸੌਂਦਾ ਤਾਂ ਤੂੰ ਖ਼ੁਸ਼ ਰਹਿੰਦਾ ਹੈਂ, ਪਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਤੂੰ ਆਲਸੀ ਹੋ ਜਾਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਵੰਤ = ਸੌਂਦਾ। ਖੀਨ = ਕਮਜ਼ੋਰ, ਆਲਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

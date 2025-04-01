@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਨਿਗਾਹ ਠੱਗਾਂ ਵਾਲੀ ਹੈ, ਪਰ ਬਗਲੇ ਵਾਂਗ ਤੂੰ ਸਮਾਧੀ ਲਾਈ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਸਟਿ = ਨਜ਼ਰ, ਤੱਕ। ਬਗਾ = ਬਗਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

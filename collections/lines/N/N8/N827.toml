@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅਪਹੁੰਚ ਤੇ ਦਿਆਲ ਮਾਲਕ ਹੈਂ ਵੱਡਾ ਦਾਤਾ ਤੇ ਸਿਆਣਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮੁ = ਅ-ਗਮੁ, ਜਿਸ ਤਕ ਪਹੁੰਚ ਨਾ ਹੋ ਸਕੇ। ਦਾਣਾ = ਦਾਨਾ, ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

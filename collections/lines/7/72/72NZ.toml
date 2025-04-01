@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਜਿਸ ਨੇ ਰੱਬ ਤੋਂ ਬਿਨਾਂ ਹਰ ਚੀਜ਼ ਤੋਂ ਮੂੰਹ ਮੋੜ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੂ ਜ਼ ਯਾਦਿ ਗੈਰਿ ਹੱਕ ਬਰ-ਤਾਫ਼ਤਾ ।੩੩੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

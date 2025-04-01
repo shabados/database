@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਵਿਚ ਉਹ 'ਨਾਮ' ਦੀ ਖ਼ੁਸ਼ਬੋ ਦਾ ਵਾਸ ਕਰਾ ਦੇਂਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਹਰਿ ਸੁਗੰਧ = ਹਰੀ ਦੇ ਨਾਮ ਦੀ ਖ਼ੁਸ਼ਬੋ। ਬਸਾਈ = ਵਸਾਉਂਦਾ ਹੈ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

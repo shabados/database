@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਣ ਇਲਾਹੀ ਬਾਗ ਵਿਚੋਣ ਫੁਲ ਚੁਨਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਲ ਜ਼ ਬਾਗ਼ਿ ਮਾਅਰਫ਼ਤ ਬਰ ਚੀਦਾ-ਅਮ ।੧੭੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਸ ਵਿਹੁ ਤੋਂ ਬਚਣ ਲਈ) ਉਸ ਅਕਾਲ ਪੁਰਖ ਦੀ ਸ਼ਰਨ ਪਉ ਜੋ ਅਲੱਖ ਹੈ ॥੨੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖੈ = ਅਲੱਖ, ਅਦ੍ਰਿਸ਼ਟ ॥੨੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

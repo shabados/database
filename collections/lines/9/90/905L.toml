@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਇਹ ਕੁਦਰਤਿ ਰਚਦਾ ਹੈ ਆਪ ਹੀ ਇਸ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੇ = ਕਰਿ, ਰਚ ਕੇ। ਵੀਚਾਰਾ = ਖ਼ਿਆਲ, ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਲ ਵਿਚ ਤੂੰ ਰੁਦ੍ਰਾਖ ਦੀ ਮਾਲਾ ਪਾਈ ਹੋਈ ਹੈ, ਪਰ ਤੇਰੇ ਹਿਰਦੇ ਵਿਚ ਠੱਗੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਠਿ = ਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

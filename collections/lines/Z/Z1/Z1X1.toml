@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਵਕਤ ਉਹ ਤੇਰੀ ਗਲੀ ਦੇ ਕਾਅਬੇ ਦੀ ਪਰਕਰਮਾ ਕਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਦਮ ਤਵਾਫ਼ਿ ਕਾਅਬਾ ਕੂਇ ਤੂ ਮੀਕੁਨੰਦ ।੨੨।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

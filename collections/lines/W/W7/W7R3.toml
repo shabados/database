@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ ਨਿਧਾਨ = ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

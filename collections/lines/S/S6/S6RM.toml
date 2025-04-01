@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਸਵਾ ਨੱਚਦੀ ਹੈ, ਤੇ ਬੜੇ ਗਹੁ ਨਾਲ ਆਪਣੀ ਸੁਰ ਨੂੰ ਤੋਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰੇ ਤਾਲ = ਨੱਚਦੀ ਹੈ। ਨਿਹਾਲੇ = ਤੱਕਦੀ ਹੈ, ਗਹੁ ਨਾਲ ਜਾਚਦੀ ਹੈ। ਸਾਸ = ਸੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

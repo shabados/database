@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਤਾਂ ਮੇਰੇ ਪਿਛੋਂ ਕੋਈ ਰੋਵੇ, ਮੈਨੂੰ ਉਹ (ਰੋਣ ਵਾਲਾ) ਉੱਕਾ ਹੀ ਚੰਗਾ ਨਹੀਂ ਲੱਗਣਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਪਿਛੈ = ਮੇਰੇ ਪਿਛੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

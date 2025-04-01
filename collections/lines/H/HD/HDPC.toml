@@ -36,6 +36,12 @@ language = "pa"
 data = "'ਅੰਮ੍ਰਿਤ' ਦੀ ਵਰਖਾ ਸਦਾ ਹੋ ਰਹੀ ਹੈ (ਪਰ ਇਸ ਭੇਤ ਨੂੰ) ਉਹੀ ਸਮਝਦੇ ਹਨ ਜੋ ਸਮਝਣ-ਜੋਗੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝਣਹਾਰ = ਸਮਝਣ-ਜੋਗੇ; ਉਹ ਮਨੁੱਖ ਜੋ ਇਹ ਸਮਝਣ ਦੇ ਸਮਰਥ ਹਨ। ਬੂਝਨਿ = ਸਮਝਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

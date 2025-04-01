@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਚਮਿਆਰ ਆਖਦਾ ਹੈ-(ਲੋਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ) ਮੇਰੀ ਜਾਤਿ ਨੀਵੀਂ, ਮੇਰੀ ਕੁਲ ਨੀਵੀਂ, ਮੇਰਾ ਜਨਮ ਨੀਵਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਛਾ = ਨੀਵਾਂ, ਹੌਲਾ। ਪਾਤੀ = ਪਾਤ, ਕੁਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

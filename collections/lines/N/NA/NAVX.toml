@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ-ਰੂਪ ਸ਼ਹਰ ਵਿਚ ਚੰਦ ਤੇ ਸੂਰਜ, ਮਾਨੋ, ਦੋ ਲੈਂਪ ਜਗ ਰਹੇ ਹਨ, ਤੇ ਚੌਦਾਂ ਲੋਕ (ਇਹ ਜਗਤ-ਸ਼ਹਰ ਦੇ, ਮਾਨੋ) ਬਜ਼ਾਰ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ = ਦੋਵੇਂ, ਚੰਦ ਤੇ ਸੂਰਜ। ਚਉਦਹ = ਚੌਦਾਂ ਲੋਕ। ਹਟਨਾਲੇ = ਬਾਜ਼ਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

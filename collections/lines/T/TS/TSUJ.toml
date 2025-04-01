@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਮਾਇਆ-ਰਹਿਤ, ਆਕਾਰ-ਰਹਿਤ ਤੇ ਵਾਸ਼ਨਾ-ਰਹਿਤ ਪ੍ਰਭੂ ਹੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਬਾਨ = ਵਾਸ਼ਨਾ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

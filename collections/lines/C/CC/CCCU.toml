@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਰੱਬ ਦੇ ਨਾਮ ਦੀ ਕੁੰਜੀ ਨਾਲ ਇਸ ਜੰਦਰੇ ਨੂੰ ਖੋਲ੍ਹ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਫ਼ਲ ਬਿਕੁਸ਼ਾ ਅਜ਼ ਕੁਲੀਦਿ ਨਾਮਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

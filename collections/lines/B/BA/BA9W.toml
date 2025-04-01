@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਹੇ ਪਿਆਰੀ ਜਿੰਦ! ਪੁੱਤਰ, ਵਹੁਟੀ, ਧਨ-ਪਦਾਰਥ-ਇਹਨਾਂ ਦਾ ਮੋਹ ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਵਹੁਟੀ। ਇਹੈ = ਇਹ ਹੀ, ਇਹਨਾਂ ਦਾ ਮੋਹ ਹੀ। ਤਜਹੁ = ਛੱਡ ਦੇਹੁ। ਜੀਅ ਰੇ = ਹੇ ਜਿੰਦੇ! ਜੀਅ ਜਾਨੀ ਰੇ = ਹੇ ਜਾਨੀ ਜੀਅ! ਹੇ ਪਿਆਰੀ ਜਿੰਦੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

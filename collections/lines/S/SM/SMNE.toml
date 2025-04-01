@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਜੰਮਦਾ ਮਰਦਾ ਹੈ, ਕਈ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਿ = ਜਨਮ ਲੈ ਕੇ, ਜੰਮ ਕੇ। ਭ੍ਰਮਾਵੈ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

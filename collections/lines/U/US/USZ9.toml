@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੁਭਾਉ ਕਰਕੇ ਸਖ਼ੀ ਹੈ, ਸੁਹੱਪਣ ਉਸ ਦੀ ਖ਼ਸਲਤ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰੀਮੁਲ-ਸਜਾਇਆ ਜ਼ਮੀਲੁਲ ਖ਼ਸਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

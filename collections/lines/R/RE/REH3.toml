@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਪਾ ਲਈ ਹੈ ਉਸ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਹਰਿ ਜਾਤੇ = ਹਰੀ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

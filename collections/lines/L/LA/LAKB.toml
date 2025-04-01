@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਆਪਣੀ ਆਜੀਵਕਾ ਦੀ ਖ਼ਾਤਰ ਜਜਮਾਨਾਂ ਨੂੰ ਪਤਿ-ਆਉਣ ਵਾਸਤੇ ਵਿਆਹ ਆਦਿਕ ਸਮਿਆਂ ਦੇ ਸ਼ੁਭ ਮੁਹੂਰਤ ਲੱਭਣ ਦਾ) ਝੂਠ ਨਾਹ ਬੋਲ। ਸੱਚ ਬੋਲਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਡੇ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

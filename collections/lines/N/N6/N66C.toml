@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਖਿਨ ਵਿਚ ਪੈਦਾ ਕਰ ਕੇ ਨਾਸ ਭੀ ਕਰ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਪਿ = ਪੈਦਾ ਕਰ ਕੇ। ਉਥਾਪਨਹਾਰਾ = ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

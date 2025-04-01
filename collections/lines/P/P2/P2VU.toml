@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਸੱਪਣੀ ਬਣੀ ਹੋਈ ਹੈ ਜਗਤ ਵਿਚ (ਹਰੇਕ ਜੀਵ ਨੂੰ) ਚੰਬੜੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਗਨੀ = ਸੱਪਣੀ। ਰਹੀ ਲਪਟਾਇ = ਚੰਬੜ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

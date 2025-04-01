@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਕਿਸੇ ਨੂੰ ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਦੀ ਲੋੜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਰਾ ਸੁਹਬਤਿ ਸ਼ਾਣ ਬਾਇਦਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

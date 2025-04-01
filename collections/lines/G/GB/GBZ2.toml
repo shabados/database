@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ! ਗੁਪਾਲ ਨੂੰ ਵਿਸਾਰ ਕੇ) ਜਗਤ ਇਸ ਥੋਥੀ (ਭਾਵ, ਜੋ ਸਾਥ ਤੋੜ ਨਹੀਂ ਨਿਬਾਹੁੰਦੀ) ਮਾਇਆ (ਦੇ ਪਿਆਰ) ਵਿਚ ਕੁਰਾਹੇ ਪੈ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੂਛੀ = ਥੋਥੀ, ਅੰਦਰੋਂ ਕੋਰੀ। ਛਾਇਆ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

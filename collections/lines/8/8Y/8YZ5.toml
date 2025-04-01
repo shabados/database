@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਵੇਖ ਉਸ ਦਾ ਨਿਆਂ!) ਜੇਹੜੀ ਦਾੜ੍ਹੀ ਗਰੀਬਾਂ ਉਤੇ ਖਿੱਝਦੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ ਦਾੜੀ = ਜੇਹੜੀ ਦਾੜ੍ਹੀ। ਖਿੰਜੈ = ਖਿੱਝਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

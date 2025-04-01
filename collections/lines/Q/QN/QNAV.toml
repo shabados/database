@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ!) ਉਸੇ ਹਰੀ ਦੀ ਉਸਤਤਿ ਕਰ ਜੋ ਤੇਰੀ ਸਭ ਥਾਈਂ ਰਾਖੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੋ। ਘਰਿ = ਘਰ ਵਿਚ। ਘਰਿ ਬਾਹਰਿ = ਘਰ ਵਿਚ ਤੇ ਘਰੋਂ ਬਾਹਰ, (ਭਾਵ,) ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

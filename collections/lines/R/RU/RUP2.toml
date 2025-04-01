@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਰਤ ਰੱਖਣ ਨਾਲ, ਤਪ ਤਪਣ ਨਾਲ (ਇਹਨਾਂ ਕਸ਼ਟਾਂ ਦਾ) ਮਨ ਉਤੇ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ, ਕਰਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

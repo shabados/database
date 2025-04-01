@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ ਇਕ ਅਕਾਲ ਪੁਰਖ ਉਤੇ ਆਸ ਰੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸ = ਟੇਕ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

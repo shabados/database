@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿਰਦੇ-ਘਰ ਵਿਚ ਇਹ ਮੈਨੂੰ ਟਿਕਣ ਨਹੀਂ ਦੇਂਦੀ, ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਭਟਕਾਂਦੀ ਫਿਰਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

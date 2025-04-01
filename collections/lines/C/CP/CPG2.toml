@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਗ ਨਾਲ ਲੋਹਾਰ (ਆਦਿਕ) ਗਾਂਢਾ ਲਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਢੁ = ਗਾਂਢਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

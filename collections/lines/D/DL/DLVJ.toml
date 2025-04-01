@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪਿਆਰੇ ਸੱਜਣ ਕਬਰਿਸਤਾਨ ਵਿਚ ਜਾ ਸੁੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁਲੇ = ਪਿਆਰੇ। ਜੀਰਾਣਿ = ਜੀਰਾਣ ਵਿਚ, ਕਬਰਿਸਤਾਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

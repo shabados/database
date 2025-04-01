@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਸ ਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਕੌੜਾ ਲੱਗਦਾ ਹੈ ਤੇ ਮਾਇਆ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉਰਾ = ਕੌੜਾ। ਬਿਖਿਆ = ਮਾਇਆ। ਅੰਮ੍ਰਿਤੁ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

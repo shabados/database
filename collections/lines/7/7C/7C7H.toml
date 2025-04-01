@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜਾਨ ਅਤੇ ਦਿਲ ਲਈ ਅੰਮ੍ਰਿਤ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਨੋ ਦਿਲ ਰਾ ਰਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੪।"
+page = 10
+line = 114
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

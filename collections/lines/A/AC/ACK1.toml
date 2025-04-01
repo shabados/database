@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਉਹਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ ॥੫॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਗਉ = ਲਾਗਉਂ, ਮੈਂ ਲੱਗਦਾ ਹਾਂ। ਪਾਇ = ਪੈਰੀਂ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

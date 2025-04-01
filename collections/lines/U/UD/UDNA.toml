@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਜੇ ਤੂੰ ਹੁਣ ਮਾਇਆ ਦੀ ਮਮਤਾ ਦੇ ਖ਼ਿਆਲਾਂ ਵਿਚ ਹੀ ਪਿਆ ਰਹੇਂਗਾ (ਜੇ ਤੂੰ ਸਾਰੀ ਉਮਰ ਮਾਇਆ ਜੋੜਨ ਦੇ ਆਹਰਾਂ ਵਿਚ ਹੀ ਰਹੇਂਗਾ, ਤਾਂ ਆਖ਼ਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਹਿ = ਤੂੰ ਪੈਂਦਾ ਹੈਂ। ਖਿਆਲੀ = ਖ਼ਿਆਲਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

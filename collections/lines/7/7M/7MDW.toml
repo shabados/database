@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ) ਵਿਚ ਉਸ ਨੂੰ ਚੱਕਰ ਕੱਟਣਾ ਪੈਂਦਾ ਹੈ, ਮੁੜ ਮੁੜ ਜੰਮਦਾ ਮਰਦਾ ਤੇ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੇਰੁ = ਫੇਰਾ, ਚੱਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

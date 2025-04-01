@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਆਪਣੀ ਨੀਚਤਾ ਕਿਤਨੀ ਕੁ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਉ = ਕਹਉਂ, ਮੈਂ ਆਖਾਂ। ਕਹਾ = ਕਹਾਂ ਤਕ, ਕਿਥੋਂ ਤਕ, ਕਿਤਨੀ ਕੁ? ਅਧਮਾਈ = ਨੀਚਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

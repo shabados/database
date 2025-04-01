@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਦਰ ਤੋਂ ਤੇਰੇ ਸੰਤ ਜਨ) ਜੋ ਕੁਝ ਮੰਗਦੇ ਹਨ, ਉਹ ਹਾਸਲ ਕਰ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਹਿ = ਮੰਗਦੇ ਹਨ। ਲੇਵਹਿ = ਹਾਸਲ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

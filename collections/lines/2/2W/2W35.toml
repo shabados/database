@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਨੂੰ ਜੀਵਾਂ ਨੂੰ) ਇਹੀ ਫਬਦਾ ਹੈ ਕਿ ਅਸੀਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਹੀ ਕਰੀਏ ਤੇ ਸੁਣੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੀ = ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

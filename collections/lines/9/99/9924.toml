@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਤੋਂ ਗੁਰੂ ਦੇ ਦਰਸਨ ਪ੍ਰਾਪਤ ਹੋਏ ਹਨ, ਮੇਰੇ ਇਹੋ ਜਿਹੇ ਚੰਗੇ ਦਿਨ ਆ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਤੇ = ਜਦੋਂ ਤੋਂ। ਭੇਟੇ = ਮਿਲੇ, ਪ੍ਰਾਪਤ ਕੀਤੇ। ਸਾਧੂ ਦਰਸਨ = ਗੁਰੂ ਦੇ ਦਰਸਣ। ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

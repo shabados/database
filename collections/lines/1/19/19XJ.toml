@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹੱਥ ਚੰਗੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਲਿਖੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = ਹੱਥ {ਬਹੁ-ਵਚਨ}। ਕਰੁ = ਹੱਥ (ਇਕ-ਵਚਨ)। ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਲੇਖਾ = ਲਿਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵਿਤਕਰਾ ਜ਼ੋਰ ਪਾ ਗਿਆ, ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਲੋਕ ਕੁਰਾਹੇ ਪੈ ਗਏ, ਮੇਰ-ਤੇਰ ਨੂੰ ਹੀ (ਚੰਗੀ) ਜਾਣਨ ਲੱਗ ਪਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਨੇ = ਕੁਰਾਹੇ ਪੈ ਗਏ। ਜਾਣਹਿ = ਜਾਣਦੇ ਹਨ। ਦੋਇ = ਮੇਰ-ਤੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

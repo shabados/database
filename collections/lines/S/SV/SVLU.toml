@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰਾ ਚੋਰ ਹਾਂ, ਮੈਂ ਭਲਾ ਨਹੀਂ ਅਖਵਾ ਸਕਦਾ। ਫਿਰ ਭੀ (ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰੇ ਚਰਨਾਂ ਦੀ ਸ਼ਰਨ ਆ ਪਿਆ ਹਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਧਿਕ = ਚੋਰ। ਤੋਹਿ = ਤੇਰਾ। ਕਹੀਅਉ = ਮੈਂ ਅਖਵਾ ਸਕਦਾ ਹਾਂ। ਤੁਮਰੀ ਪਗਰੀ = ਤੇਰੇ ਚਰਨਾਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

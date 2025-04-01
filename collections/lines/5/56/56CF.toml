@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਿਸ ਮਨੁੱਖ ਦੇ ਚੰਗੇ ਭਾਗ (ਜਾਗਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਜਾ ਕੇ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

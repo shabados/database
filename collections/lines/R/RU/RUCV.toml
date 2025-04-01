@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਨੂਰ ਤੋਂ ਗੋਬਿੰਦ ਸਿੰਘ ਪ੍ਰਗਟ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਗੋਬਿੰਦ ਸਿੰਘ ਆਮਦ ਅਜ਼ ਨੂਰਿ ਊ ।੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

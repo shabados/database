@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਨਿਸ਼ਚਾ ਕਰ ਕੇ ਜਾਣ ਲਵੋ ਕਿ ਉਸ ਦੇ ਵਾਸਤੇ ਇਹ ਸਾਰੇ ਕੰਮ ਫੋਕੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਚੈ = ਜ਼ਰੂਰ, ਯਕੀਨਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

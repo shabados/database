@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਤਰ੍ਹਾਂ ਗੁਰੂ ਨੇ (ਮੈਨੂੰ) ਉਪਦੇਸ਼ ਦਿੱਤਾ ਹੈ, ਮੈਂ ਉਸੇ ਤਰ੍ਹਾਂ ਉੱਚੀ ਬੋਲ ਕੇ ਦੱਸ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਤੈਸੋ = ਉਹੋ ਜਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

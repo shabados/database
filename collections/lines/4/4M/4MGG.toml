@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਸੋਹਣੀ ਜਿੰਦੇ! ਤੂੰ ਆਪਣੇ ਇਸ ਮਨ ਨੂੰ ਮਜੀਠ (ਵਰਗੇ ਪੱਕੇ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਰੰਗ ਨਾਲ ਰੰਗ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਦਰਿ = ਹੇ ਸੁੰਦਰੀ! ਹੇ ਸੋਹਣੀ ਜਿੰਦੇ! ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਮਜੀਠੈ = ਮਜੀਠ ਨਾਲ, ਮਜੀਠ ਵਰਗੇ ਪੱਕੇ ਰੰਗ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

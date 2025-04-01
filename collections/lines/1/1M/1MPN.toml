@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਅਕਲ ਅਤੇ ਇਨਸਾਫ ਦੇ ਝੰਡੇ ਨੂੰ ਝੁਲਾਉਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਰਾਜ਼ਿੰਦਾਇ ਰਾਇਤਿ ਅਦਲੋ ਦਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਪਣੇ ਮਨ ਵਿਚ ਮੈਂ ਜੋ ਇੱਛਾ ਧਾਰੀ ਬੈਠਾ ਸਾਂ, ਉਹ ਨਾਮ-ਫਲ ਹੁਣ ਮੈਂ ਪਾ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਚਿੰਦੀ = ਚਿੰਦੀਂ, ਚਿਤਵਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

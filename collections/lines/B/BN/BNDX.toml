@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਜਨ ਬੰਦਗੀ ਹੀ ਅਮਰ ਖ਼ਜ਼ਾਨਾ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਜਾਵੀਦ ਬਾਸ਼ਦ ਬੰਦਗੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

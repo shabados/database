@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਾੜ ਤੋਂ ਡਿੱਗ ਕੇ ਪਾਤਾਲ ਵਿਚ ਜਾ ਪੈਣਾ, ਭੜਕਦੀ ਅੱਗ ਵਿਚ ਸੜਨਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰੰਤ = ਡਿੱਗ ਕੇ। ਗਿਰਿ = ਪਹਾੜ (गिरि)। ਦੇਦੀਪ੍ਯ੍ਯ = ਬਲਦੀ, ਭੜਕਦੀ। ਬੈਸ੍ਵਾਂਤਰਹ = ਅੱਗ (वैश्वानर)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

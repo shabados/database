@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਧਰਤ ਦੇ ਅਨ੍ਹੇਰੇ ਵਿਹੜੇ ਨੂੰ ਰੋਸ਼ਨ ਕਰਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਨੱਵਰ-ਕੁਨਿ ਜ਼ੁਲਮਤ ਆਬਾਦ ਫ਼ਰਸ਼ ।੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

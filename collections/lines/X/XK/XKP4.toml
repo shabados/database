@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣਾ ਅਟੱਲ ਹੁਕਮ ਵਰਤਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਸਚੁ = ਅਟੱਲ ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

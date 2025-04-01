@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਭਗਤੀ (ਕਰਨ ਦਾ ਢੰਗ) ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਹੁ = ਤੂੰ ਜਾਣਦਾ ਹੈਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

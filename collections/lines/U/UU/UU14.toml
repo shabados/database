@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟੇ ਹੋਏ ਮਨੁੱਖ ਦੀ ਉਮਰ ਵਿਅਰਥ ਗੁਜ਼ਰ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਕਤ = ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟਾ ਹੋਇਆ ਮਨੁੱਖ, ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ। ਆਵਰਦਾ = ਆਰਜਾ, ਉਮਰ। ਬ੍ਰਿਥਾਰੀ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -34,3 +34,9 @@ asset = "PSST"
 type = "translation"
 language = "pa"
 data = "ਤਾਂ ਫਿਟੇ-ਮੂੰਹ ਇਸ ਜੀਊਣ ਨੂੰ! ਮਨੁੱਖਾ-ਜਨਮ ਵਿਚ ਆ ਕੇ ਕੀਹ ਖੱਟਿਆ?"
+
+[[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧ੍ਰਿਗੁ = ਫਿਟਕਾਰ-ਯੋਗ। ਜੁਗ = ਜਨਮ, ਮਨੁੱਖਾ ਜਨਮ।"

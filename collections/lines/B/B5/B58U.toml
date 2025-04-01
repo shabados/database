@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਸਦਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਹੀ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ, ਹੋਰ ਕੋਈ ਦੂਜਾ ਨਹੀਂ ਵੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੈਂ ਕਈ ਵਾਰੀ, ਹੇ ਸਾਈਂ! (ਤੇਰੇ ਘਰ-) ਕਾਬੇ ਦਾ ਦੀਦਾਰ ਕਰਨ ਲਈ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ ਹੋਇ ਗਇਆ = ਕਈ ਵਾਰੀ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

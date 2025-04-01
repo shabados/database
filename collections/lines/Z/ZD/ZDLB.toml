@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ ਸਭ ਤੋਂ ਚੰਗੀ ਗੱਲ ਇਹ ਹੈ ਕਿ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਤੇ = ਤਾਂ ਫਿਰ, ਤਾਂ ਫਿਰ ਚੰਗੀ ਗੱਲ ਇਹ ਹੈ ਕਿ। ਸੇਵੀਅਲੇ = ਸਿਮਰਿਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਮੈਂ) ਦਾਸ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੪॥੧੧॥੨੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ = ਉਸ ਤੋਂ ॥੪॥੧੧॥੨੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

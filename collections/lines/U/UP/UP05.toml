@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਈ ਕਿਸਮਾਂ ਦੇ ਖਾਣੇ ਨਿੱਤ ਖਾਂਦਿਆਂ ਮੂੰਹ ਦੇ ਦੰਦ ਭੀ ਘਸ ਕੇ ਕਮਜ਼ੋਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਤੇ ਆਖ਼ਰ ਡਿੱਗ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਿਕ ਪ੍ਰਕਾਰ = ਕਈ ਕਿਸਮਾਂ ਦੇ। ਭੋਜਨ = ਖਾਣੇ। ਖਾਤੇ = ਖਾਂਦਿਆਂ। ਘਸਿ = ਘਸ ਕੇ। ਖੀਨ = ਕਮਜ਼ੋਰ। ਖਇਆ = ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

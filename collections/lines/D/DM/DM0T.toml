@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਰਚਾ ਦੀਆਂ ਹੀ ਨਿੱਤ ਗੱਲਾਂ ਕਰਦੇ ਹਨ; ਤੇ ਰੋਜ਼ੀ ਕਮਾਂਦੇ ਹਨ ਕੂੜ ਬੋਲ ਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਹਾਰੁ = ਖ਼ੁਰਾਕ, ਭੋਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

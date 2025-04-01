@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਕੋਈ ਅਜੇਹਾ ਸੋਹਣਾ ਉਪਦੇਸ਼ ਦੱਸ (ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੇਰਾ ਮਨ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਵਲ ਨਾਹ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸੜਾ = ਸੋਹਣਾ ਉਪਦੇਸ਼। ਅਨਤ = {अन्यत्र} ਕਿਸੇ ਹੋਰ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਅਨੇਕਾਂ (ਤੀਰਥਾਂ ਦੇ) ਪਾਣੀਆਂ ਨਾਲ ਆਪਣੇ ਸਰੀਰ ਨੂੰ ਧੋਂਦਾ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਅਮਰ ਕਰਨ ਵਾਲਾ ਤੇ ਸੁਖਦਾਈ ਨਾਮ (ਸਭ) ਸੁਖਾਂ ਦੀ ਮਣੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਮਨੀ = ਸੁਖਾਂ ਦੀ ਮਣੀ, ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਸੁਖ। ਪ੍ਰਭ ਨਾਮੁ = ਪ੍ਰਭੂ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

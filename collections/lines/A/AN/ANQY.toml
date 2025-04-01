@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਘਰ ਵਿਚ ਸਦਾ ਹੀ ਇਨਸਾਫ਼ ਹੈ, ਸਦਾ ਹੀ ਇਨਸਾਫ਼ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ। ਨਿਆਉ = ਇਨਸਾਫ਼ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

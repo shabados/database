@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਅੰਦਰ ਫ਼ਰੇਬ ਅਤੇ ਪਾਪ ਹੈ, ਉਹਨਾਂ ਦਾ ਵਿਰਲਾਪ ਕਰਨਾ ਕੀ ਅਰਥ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਕਪਟੁ = ਫ਼ਰੇਬ। ਰੋਇ = ਰੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

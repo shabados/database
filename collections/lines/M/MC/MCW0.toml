@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਇਸ ਦਿੱਸਦੇ ਜਗਤ-ਪਸਾਰੇ ਵਿਚ (ਵੱਸਦਾ) ਦਿੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਗਟਿ ਪਾਹਾਰੈ = ਦਿੱਸਦੇ ਪਸਾਰੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

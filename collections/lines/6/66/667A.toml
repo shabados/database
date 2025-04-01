@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਖਜ਼ਾਨਾ ਢੂੰਡਣ ਵਾਲੇ ਨੂੰ ਖਜ਼ਾਨਾ ਮਿਲ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੰਜ ਰਾ ਚੂੰ ਯਾਫ਼ਤਾ ਜੋਯਾਇ ਗੰਜ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦਾ ਸ਼ਬਦ ਜਪ ਕੇ ਉਹ (ਫੁੱਲ ਵਾਂਗ) ਖਿੜ ਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਨਿਹਾਲ = (ਫੁੱਲਾਂ ਵਾਂਗ) ਖਿੜੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

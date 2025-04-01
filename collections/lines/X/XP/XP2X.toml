@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ ਪੇਕੇ ਘਰ ਵਿਚ ਪਿਆਰੇ ਪ੍ਰਭੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਜੀਵ-ਇਸਤ੍ਰੀ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

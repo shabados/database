@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਮਾਂ! ਮੈਂ ਕਿਸੇ ਹੋਰ ਨੂੰ (ਆਪਣੇ ਜੀਵਨ ਦਾ ਆਸਰਾ) ਨਹੀਂ ਸਮਝਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਮੋਹਿ = ਮੈਂ। ਅਵਰੁ = ਹੋਰ। ਨ ਜਾਨਿਓ = ਨਹੀਂ ਜਾਣਿਆ, ਜੀਵਨ ਦਾ ਆਸਰਾ ਨਹੀਂ ਸਮਝਿਆ। ਆਨਾਨਾਂ = ਆਨ, ਅਨ੍ਯ, ਕੋਈ ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

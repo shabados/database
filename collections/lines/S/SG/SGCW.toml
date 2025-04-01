@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਤ ਜਨ ਰਾਹ ਦੱਸਦੇ ਹਨ ਕਿ) ਮਨ (ਪ੍ਰਭੂ ਦੇ) ਭੇਟਾ ਕਰੋ ਹਉਮੈ ਦੂਰ ਕਰੋ (ਤੇ ਆਖਦੇ ਹਨ ਕਿ) ਮੈਂ ਇਸ ਰਸਤੇ ਉਤੇ ਤੁਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੁ ਪੰਥਿ = ਇਸ ਰਸਤੇ ਵਿਚ। ਜੁਲਾਈਆ = ਮੈਂ ਤੁਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

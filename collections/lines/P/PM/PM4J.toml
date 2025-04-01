@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁੰਨਦਾਨ ਕਰੇ ਤੇ ਬਹੁਤ ਸਾਰਾ ਘਿਉ ਹਵਨ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਮੈ = ਹਵਨ ਕਰੇ, ਅੱਗ ਵਿਚ ਪਾਵੇ। ਰਤਨਾ = ਘਿਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

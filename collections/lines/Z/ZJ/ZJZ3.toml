@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਦਾ ਬੀਜ ਜੇ ਦਿਲ ਦੀ ਖੇਤੀ ਵਿਚ ਬੀਜ ਲੈਣ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਖ਼ਮਿ ਹੱਕ ਦਰ ਮਜ਼ਰਾਇ ਦਿਲ ਕਾਸ਼ਤੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

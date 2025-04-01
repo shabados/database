@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ (ਉਸ ਗੋਬਿੰਦ ਨੂੰ) ਆਪਣੀ ਗ਼ਰਜ਼ ਵਾਸਤੇ ਭੀ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਲਿਆ ਟਿਕਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਇ = ਸੁਆਰਥ ਵਾਸਤੇ। ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

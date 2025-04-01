@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤੋਂ ਵੱਡੇ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ! ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਰਾਖੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ = ਹੇ ਗੁਰੂ! ਗੋਪਾਲਾ = ਹੇ ਗੋਪਾਲਾ! ਰਖਵਾਲਾ = ਹੇ ਰਾਖੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

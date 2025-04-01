@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਹਰ ਦੁਖ ਦਰਦ ਨੂੰ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰਹਮਿ ਹਰ ਰੰਜ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੬।"
+page = 10
+line = 116
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

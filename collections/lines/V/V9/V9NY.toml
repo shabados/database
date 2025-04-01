@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰ ਦੀ ਮੇਰ-ਤੇਰ ਅੰਦਰ ਹੀ ਮਿਟ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਬਿਧਾ = ਮੇਰ-ਤੇਰ। ਅੰਤਰ ਕੀ = ਅੰਦਰਲੇ ਦੀ। ਅੰਤਰਿ = ਅੰਦਰ ਹੀ {ਲਫ਼ਜ਼ 'ਅੰਦਰ' ਨਾਂਵ ਹੈ, 'ਅੰਤਰਿ' ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ ਹੈ} ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

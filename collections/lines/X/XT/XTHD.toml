@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਅਗਾਂਹ ਆਉਣ ਵਾਲੇ ਜੀਵਨ ਵਿਚ ਪ੍ਰਭੂ ਨੇ ਸੁਖ ਬਣਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਅਗਾਂਹ ਆਉਣ ਵਾਲੇ ਜੀਵਨ ਵਿਚ। ਮੀਤਾ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

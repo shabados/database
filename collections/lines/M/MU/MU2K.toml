@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਅਕਾਲ ਪੁਰਖ ਦੇ) ਗੁਣ ਅਮੋਲਕ ਹਨ (ਭਾਵ, ਗੁਣਾਂ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।) (ਇਹਨਾਂ ਗੁਣਾਂ ਦੇ) ਵਪਾਰ ਕਰਨੇ ਭੀ ਅਮੋਲਕ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੁਲ = ਅਮੋਲਕ, ਜਿਸ ਦਾ ਮੁੱਲ ਨਾਹ ਪੈ ਸਕੇ। ਗੁਣ = ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

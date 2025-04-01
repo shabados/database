@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੂੰ ਪ੍ਰੇਮ ਦੀ ਪੁਸਤਕ ਦਾ ਸਰਨਾਵਾਂ ਹੋ ਜਾਏਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀਸ਼ਵੀ ਸਰ ਦਫ਼ਤਰਿ ਦੀਵਾਨਿ ਇਸ਼ਕ ।੪੫੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

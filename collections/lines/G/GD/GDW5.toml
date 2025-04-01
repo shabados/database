@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਉਸ ਅਸਲੇ ਨੂੰ ਪਛਾਣਦਾ ਹੈ (ਉਸ ਅਸਲੇ ਨਾਲ ਸਾਂਝ ਪਾਂਦਾ ਹੈ), ਉਹ ਪੰਡਿਤ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੁ = ਅਸਲੀਅਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

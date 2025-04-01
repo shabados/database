@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਦੁਨੀਆ ਵਾਲੇ ਇਹ ਸਾਕ-ਅੰਗ, ਮਿੱਤਰ, ਭਰਾ ਜੇਹੜੇ ਭੀ ਦਿੱਸਦੇ ਹਨ, ਇਹ ਤਾਂ ਆਪੋ ਆਪਣੀ ਗ਼ਰਜ਼ ਦੀ ਖ਼ਾਤਰ ਹੀ ਮਿਲਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਸਹਿ = ਦਿੱਸਦੇ ਹਨ। ਅਪਨੈ ਸੁਆਇ = ਅਪਣੀ ਗ਼ਰਜ਼ ਦੇ ਕਾਰਨ {ਸੁਆਇ = ਲਫ਼ਜ਼ 'ਸੁਆਉ' ਤੋਂ 'ਕਰਨ ਕਾਰਕ', ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

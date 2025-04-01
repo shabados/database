@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਹੇ ਨਾਨਕ! ਉਹ ਗੁਰ-ਗੋਪਾਲ ਹਰੇਕ ਜੁਗ ਵਿਚ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ = ਜੁਗ ਵਿਚ। ਜੁਗਿ ਜੁਗਿ = ਹਰੇਕ ਜੁਗ ਵਿਚ। ਗੋਪਾਲ = ਧਰਤੀ ਨੂੰ ਪਾਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

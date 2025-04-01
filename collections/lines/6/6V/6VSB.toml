@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਮਨ ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਵੱਸ ਵਿਚ ਆਉਂਦਾ ਹੈ, ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਇਸ ਨੂੰ ਵੱਸ ਵਿਚ ਲਿਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਾਧੁ = ਵੱਸ ਵਿਚ ਇਹ ਨਾਹ ਆ ਸਕਣ ਵਾਲਾ। ਸਾਧੈ = ਵੱਸ ਵਿਚ ਲਿਆਉਂਦਾ ਹੈ। ਕੋਈ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

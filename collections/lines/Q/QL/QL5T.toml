@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਮੁੰਦਰ, ਸਮੁੰਦਰ ਦੀਆਂ ਲਹਿਰਾਂ, ਤਲਾਬ, ਹਰੀਆਂ ਵੇਲਾਂ, ਵਰਖਾ ਕਰਨ ਵਾਲੇ ਬੱਦਲ- (ਇਹ ਸਾਰੀ ਰਚਨਾ ਕਰਨ ਵਾਲਾ ਤੂੰ ਹੀ ਹੈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਲਿ = (ਹਰੀ) ਵੇਲ। ਵਰਸ = ਵਰਖਾ। ਵਰਾਹੁ = ਬੱਦਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

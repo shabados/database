@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਵਿੱਤ੍ਰ ਹੈ ਉਸਦੀ ਦਰਗਾਹ ਅਤੇ ਉਚੇਰਾ ਹੈ ਉਸਦਾ ਖ਼ਿਤਾਬ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਕੱਦਸ ਜਨਾਬੋ ਮੁਅੱਲਾ ਖ਼ਿਤਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

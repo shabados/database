@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੈਨੂੰ ਉੱਥੇ ਸਤਿਕਾਰ ਦੀ ਸਿਖਿਆ ਮਿਲੇਗੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਰਵੀ ਆਂ ਜਾ ਅਦਬ ਯਾਬੀ ਸਬਕ ।੩੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

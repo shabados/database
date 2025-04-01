@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਸਾਡਾ ਸਰੀਰ ਕਾਗ਼ਜ਼ ਬਣ ਜਾਏ, ਜੇ ਮਨ ਨੂੰ ਸਿਆਹੀ ਦੀ ਦਵਾਤ ਬਣਾ ਲਈਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ। ਮਸਵਾਣੀ = ਸਿਆਹੀ ਦੀ ਦਵਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

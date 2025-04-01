@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ ਹਰੀ! ਮਿਹਰ ਕਰ, (ਗੁਰੂ) ਮੇਰੀ ਸਰਧਾ (ਤੇਰੇ) ਨਾਮ ਵਿਚ ਬਣਾਈ ਰੱਖੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਜੀਵਨ = ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ ਪ੍ਰਭੂ! ਮੈ ਸਰਧਾ = ਮੇਰੀ ਸਰਧਾ। ਨਾਮਿ = (ਤੇਰੇ) ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

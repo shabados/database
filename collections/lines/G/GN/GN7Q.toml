@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ (ਜੀਵ) ਭੁੱਲਾਂ ਕਰਨ ਵਾਲੇ ਹਾਂ, ਤੁਸੀਂ (ਸਾਡੀਆਂ) ਭੁੱਲਾਂ ਬਖ਼ਸ਼ਣ ਵਾਲੇ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸਾਤੇ = ਬਖ਼ਸ਼ਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

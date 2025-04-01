@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕੁਰਾਹੇ-ਪਏ ਕਮਲੇ ਮਨ! (ਮੇਰੀ ਸਿੱਖਿਆ) ਸੁਣ (ਸਿੱਖਿਆ ਇਹ ਹੈ ਕਿ) ਗੁਰੂ ਦੀ ਸਰਨੀ ਪਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਰੇ = ਹੇ ਕਮਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

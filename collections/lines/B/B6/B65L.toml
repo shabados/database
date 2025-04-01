@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ੇਖ਼ ਫ਼ਰੀਦ ਆਖਦਾ ਹੈ-ਹੇ ਪਿਆਰੇ! ਰੱਬ (ਦੇ ਚਰਨਾਂ) ਵਿਚ ਜੁੜ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲੈ = ਆਖਦਾ ਹੈ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ! ਅਲਹ ਲਗੇ = ਅੱਲਹ ਨਾਲ ਲੱਗ, ਰੱਬ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

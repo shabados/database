@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਇਸ ਆਤਮਕ ਮੌਤ ਵਿਚ) ਮਰ ਮਰ ਕੇ ਮੁੜ ਮੁੜ ਜੰਮਦਾ ਰਹਿੰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰੋ ਵਾਰ = ਮੁੜ ਮੁੜ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

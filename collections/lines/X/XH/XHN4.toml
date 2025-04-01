@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਡਰੀਏ ਭੀ ਕਿਉਂ? (ਜਦੋਂ ਜਿਹਾ) ਤੂੰ ਆਪਿ ਸੱਚਾ ਹੈਂ (ਤਿਹਾ) ਤੇਰਾ ਨਿਆਉ ਭੀ ਸੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਾ = ਅਟੱਲ। ਕੇਤੁ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

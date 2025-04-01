@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ ਮੈਂ ਸਦਾ (ਉਸ ਦਾ ਨਾਮ) ਉਚਾਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਦੀ ਰਾਹੀਂ। ਚਵਾ = ਚਵਾਂ, ਮੈਂ ਉਚਾਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

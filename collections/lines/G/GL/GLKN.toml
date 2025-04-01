@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਇਕ ਲਾਲ ਲੱਭਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਠ = ਹਿਰਦਾ। ਮੰਝਾਹੂ = ਵਿਚ। ਮਾਣਕੁ = ਲਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

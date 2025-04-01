@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਮੈਨੂੰ ਆਪਣੇ) ਸੰਤ ਜਨਾਂ ਭਗਤਾਂ ਦੀ ਸੰਗਤ ਦੇਹ। ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਰਸ ਪ੍ਰਾਪਤ ਕਰ ਸਕੀਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਜਿਤੁ = ਜਿਸ (ਸੰਗਤ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

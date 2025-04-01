@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਪਰਮਾਤਮਾ ਦੀ ਪਿਆਰ-ਭਰੀ ਭਗਤੀ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੇਮ ਭਗਤਿ = ਪਿਆਰ-ਭਰੀ ਭਗਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

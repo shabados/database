@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਦੋਹਾਣ ਜਹਾਨਾਣ, ਲੋਕ ਅਤੇ ਪਰਲੋਕ, ਤੋਣ ਆਪਣੇ ਹੱਥ ਧੋ ਲਏ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਦੋ ਆਲਮ ਦਸਤ ਰਾ ਅਫ਼ਸ਼ਾਣਦਾ-ਏਮ ।੫੭।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

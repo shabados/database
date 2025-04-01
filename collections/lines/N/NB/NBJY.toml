@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਇਹ ਸਮਝਿਆ ਹੈ ਕਿ) ਜਗਤ ਦਾ ਸਹਾਰਾ ਦਾਤਾਰ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਦਿਰਾਣੀ ਜਿਠਾਣੀ (ਆਸਾ ਤ੍ਰਿਸ਼ਨਾ, ਇਸ) ਦੁੱਖ ਕਲੇਸ਼ ਨਾਲ ਮਰ ਗਈ ਹੈ (ਕਿ ਮੈਨੂੰ ਪਤੀ ਮਿਲ ਪਿਆ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਰ ਜਿਠਾਣੀ = ਦਿਰਾਣੀ ਜਿਠਾਣੀ; ਆਸਾ ਤ੍ਰਿਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

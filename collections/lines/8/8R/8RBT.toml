@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਸਦਾ) ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਗਾਂਦੇ ਰਿਹਾ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਉ = ਗਾਵਹੁ {ਨੋਟ: ਸਾਰੇ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਵਿਚ ਮਿਲਦੇ ਵਿਆਕਰਨਿਕ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਲਫ਼ਜ਼ 'ਗਾਵਉ' ਦਾ ਅਰਥ ਹੈ 'ਮੈਂ ਗਾਂਦਾ ਹਾਂ'; 'ਗਾਵਹੁ' ਦਾ ਅਰਥ ਹੈ 'ਤੁਸੀ ਗਾਵੋ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

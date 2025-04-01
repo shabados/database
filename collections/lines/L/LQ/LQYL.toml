@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਮੈਂ ਗੁਰੂ ਦੀ ਸਰਨ ਆ ਪਿਆ, ਜਦੋਂ ਮੈਂ ਗੁਰੂ ਦੀ ਸੇਵਾ ਕਰਨ ਲੱਗ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸਰਣਿ = ਗੁਰੂ ਦੀ ਸਰਨ। ਕਰੀ = (ਜਦੋਂ) ਮੈਂ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

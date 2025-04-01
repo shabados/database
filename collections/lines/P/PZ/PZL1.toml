@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਹੀ (ਦੁਨੀਆ ਦੇ ਪ੍ਰਸਿਧ) ਚਾਰ ਪਦਾਰਥ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰਿ ਪਦਾਰਥ = {ਧਰਮ, ਅਰਥ, ਕਾਮ, ਮੋਖ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

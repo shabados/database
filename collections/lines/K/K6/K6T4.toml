@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਲੱਖਾਂ ਪਾਪ ਕਰਦਾ ਫਿਰਦਾ ਹਾਂ। ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੈਨੂੰ ਬਖ਼ਸ਼ ਲੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਮਾਲਕ! ਖਤੇ = ਪਾਪ। ਕਰਿ ਫੇਰੋ = ਕਰਦਾ ਫਿਰਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

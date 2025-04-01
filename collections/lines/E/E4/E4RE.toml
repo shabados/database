@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਆਪਣੇ ਹੀ) ਦਿਲ ਨੂੰ ਹਰ ਵੇਲੇ ਖੋਜ, (ਬਹਿਸ ਮੁਬਾਹਸੇ ਦੀ) ਘਬਰਾਹਟ ਵਿਚ ਨਾਹ ਭਟਕ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਦੇ = ਹੇ ਮਨੁੱਖ! ਪਰੇਸਾਨੀ = ਘਬਰਾਹਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

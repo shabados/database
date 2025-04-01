@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਕਾਮ ਨੇ ਕ੍ਰੋਧ ਨੇ ਮੋਹ ਨੇ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੀਤਾ ਹੋਇਆ ਹੋਵੇ, ਜੇ ਉਸ ਸ਼ੂਮ ਦਾ ਪਿਆਰ (ਸਦਾ) ਲੋਭ ਵਿਚ ਹੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ ਨੇ। ਮੋਹਿ = ਮੋਹ ਨੇ। ਕਿਰਪਨ = ਕੰਜੂਸ। ਲੋਭਿ = ਲੋਭ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

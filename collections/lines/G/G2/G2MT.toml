@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਰੱਬ (ਸੱਚ) ਤੋ ੋ ਬਿਨਾਂ ਦਾ ਭਾਵ ਹੈ ਕਿ ਹੋਰ ਸਭ ਕੁਝ ਗ਼ਫਲਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੈਰ ਊ ਯਾਅਨੀ ਜ਼ਿ ਹੱਕ ਗਫ਼ਲਤ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

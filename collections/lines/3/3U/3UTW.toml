@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਮੇਰੇ ਭਰਾਵੋ! ਆਓ, ਮਿਲ ਬੈਠੋ। ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ! ਭਾਈ = ਹੇ ਭਰਾਵੋ! ਮਿਲਿ = ਮਿਲ ਕੇ। ਵਖਾਨ = ਉਚਾਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

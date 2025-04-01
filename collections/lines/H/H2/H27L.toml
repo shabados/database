@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਐਸੇ) ਗੁਰੂ ਤੋਂ ਕਈ ਵਾਰੀ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਿਕ ਬਾਰ = ਕਈ ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

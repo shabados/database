@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਕੁਰਬਾਨ ਹਾਂ ਉਹਨਾਂ ਤੋਂ, ਜੇਹੜੇ ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

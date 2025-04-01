@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਰਾਇਣ! (ਅਸੀਂ ਜੀਵ) ਤੇਰੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦੀ ਸਰਨ ਵਿਚ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਾਇਣ = ਹੇ ਨਰਾਇਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

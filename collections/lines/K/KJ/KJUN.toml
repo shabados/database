@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਜਿਸ ਪਾਸੇ ਪਰਮਾਤਮਾ ਨੇ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਲਾਇਆ ਹੈ ਉਸੇ ਹੀ ਪਾਸੇ ਉਹ ਲੱਗਾ ਹੋਇਆ ਹੈ, ਤੇ ਉਹੋ ਜਿਹੇ ਹੀ ਉਹ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਪਾਸੇ। ਕੋ = ਕੋਈ ਮਨੁੱਖ। ਤਿਤ ਹੀ = ਉਸੇ ਹੀ ਪਾਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

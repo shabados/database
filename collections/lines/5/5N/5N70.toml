@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦਾਂ ਪੁਰਾਨਾਂ ਤੇ ਸਿਮ੍ਰਿਤੀਆਂ ਨੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਧਾਖ੍ਯ੍ਯਰ = ਸੁੱਧ ਅੱਖਰ, ਪਵਿਤ੍ਰ ਲਫ਼ਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

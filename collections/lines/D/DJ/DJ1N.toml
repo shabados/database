@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਾਸਤੇ, ਹੇ ਫਰੀਦ! ਸਵੇਰੇ ਸਵੇਰੇ ਰਸਤਾ ਸੰਭਾਲ ॥੪॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮ੍ਹ੍ਹਾਰਿ = ਸੰਭਾਲ। ਸਵੇਰਾ = ਸੁਵਖਤੇ ॥੪॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

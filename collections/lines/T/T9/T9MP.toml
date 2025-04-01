@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਆਪ ਹੀ (ਜਗਤ-ਰਚਨਾ ਦਾ) ਵਸੀਲਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਜਗਤ ਹੈਂ (ਭਾਵ, ਇਹ ਸਾਰਾ ਜਗਤ ਤੇਰਾ ਹੀ ਸਰੂਪ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਕਾਰਣੁ = ਸਬੱਬ, ਰਚਨਾ ਪੈਦਾ ਕਰਨ ਦਾ ਵਸੀਲਾ। ਕਰਣਾ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

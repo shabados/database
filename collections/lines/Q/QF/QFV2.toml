@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਹੁਤਾ ਧਨ ਜੋੜ ਕੇ (ਭੀ) ਮਨ ਰੱਜਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬੁ = {द्रव्य} ਧਨ। ਕਰਿ = (ਇਕੱਠਾ) ਕਰ ਕੇ। ਅਘਾਨਾ = ਰੱਜਦਾ {आघ्राण}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਨਿਰੰਕਾਰ! ਮੈਨੂੰ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਬਚਾ ਲੈ, ਮੇਰੇ ਮਨ ਤੋਂ ਭਟਕਣਾ ਦੂਰ ਕਰ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਨ = ਝੂਠਾ। ਦੁਰੰਤ = ਭੈੜੇ ਅੰਤ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

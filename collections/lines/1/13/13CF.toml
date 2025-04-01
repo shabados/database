@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਿਆਂ (ਮਨ ਵਿਚ ਸਹੀ ਆਤਮਕ ਜੀਵਨ ਦਾ) ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਤ = ਗਾਂਦਿਆਂ। ਪਰਗਾਸੁ = ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

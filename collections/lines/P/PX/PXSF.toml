@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਵੀ ਆਪਣੇ ਦਿਲ ਦੇ ਜੰਦਰੇ ਨੂੰ ਖੋਹਲ, ਤੇ ਆਪਣੇ ਅੰਦਰ ਛੁਪੇ ਹੋਏ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਫ਼ਲ ਰਾ ਬਿਕੁਸ਼ਾ ਵਾ ਮਾਲਿ ਬੇਕਰਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

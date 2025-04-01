@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਭੀ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਕੋਇ = ਜੇਹੜਾ ਕੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪ੍ਰਭੂ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਵਿਚ ਪ੍ਰੀਤ ਬਣਾਈ ਰੱਖ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

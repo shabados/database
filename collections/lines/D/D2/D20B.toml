@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ) ਧਾਰਮਿਕ ਰਸਮਾਂ ਬੰਧਨ ਬਣ ਜਾਂਦੀਆਂ ਹਨ, (ਮਨੁੱਖ ਮਾਣ ਕਰਦਾ ਹੈ ਕਿ ਇਹ ਸਭ ਕੁਝ) 'ਮੈਂ ਕੀਤਾ ਹੈ, ਮੈਂ ਕੀਤਾ ਹੈ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ ਧਰਮ = ਧਾਰਮਿਕ ਰਸਮਾਂ। ਹਉ = ਹਉਮੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

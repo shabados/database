@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰਬਾਰ ਵਿਚ ਤੁਹਾਡੇ ਮੂੰਹ ਉਜਲੇ ਹੋਣਗੇ (ਤੁਹਾਨੂੰ ਉਥੇ ਆਦਰ-ਸਤਕਾਰ ਮਿਲੇਗਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਜਲ = ਉਜਲੇ, ਬੇ-ਦਾਗ਼। ਦਰਬਾਰੇ = ਦਰਬਾਰਿ, ਦਰਬਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

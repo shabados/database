@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ) ਮੇਰੇ ਮਨ ਵਿਚ ਸੰਤੋਖ ਹੈ, (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ (ਮਾਇਆ ਦੇ ਥਾਂ ਮੇਰੇ ਮਨ ਦਾ) ਆਸਰਾ ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਉਹ ਆਪ ਕੇਡਾ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਵਡੁ = ਜੇਡਾ ਵੱਡਾ। ਜਾਣੈ = ਜਾਣਦਾ ਹੈ। ਆਪਿ ਆਪਿ = ਕੇਵਲ ਆਪ ਹੀ (ਉਸ ਤੋਂ ਬਿਨਾਂ ਕੋਈ ਹੋਰ ਨਹੀਂ ਜਾਣਦਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

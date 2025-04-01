@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਗੁਰੂ ਤੋਂ ਮਿਲੇ ਉਪਦੇਸ਼ ਨੂੰ ਸਦਾ ਚੇਤੇ ਰੱਖਦਾ ਹੈ ਤੇ ਜਗਤ ਵਿਚ ਨਾਮਣੇ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹੀਅਲੁ = ਪਰਗਟ, ਉੱਘਾ, ਨਾਮਣੇ ਵਾਲਾ। {ਓਝਲ-ਅੱਖਾਂ ਦੇ ਉਹਲੇ। ਓਹੀਅਲੁ = ਅੱਖਾਂ ਦੇ ਸਾਹਮਣੇ}"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕੀਤਿਆਂ ਮਨ ਧੀਰਜ ਫੜਦਾ ਹੈ ਅਤੇ ਸਾਰੇ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਡਿਠੇ = ਜਿਸ ਨੂੰ ਵੇਖਣ ਨਾਲ। ਧੀਰੀਐ = ਧੀਰਜ ਫੜਦਾ ਹੈ। ਕਿਲਵਿਖ = ਪਾਪ। ਵੰਞਨ੍ਹ੍ਹਿ = ਚਲੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

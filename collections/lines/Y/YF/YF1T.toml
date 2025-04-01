@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ! ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ) ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ (ਆਪਣਾ) ਹੱਥ ਦੇ ਕੇ ਬਚਾਇਆ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਭ = ਪੇਟ। ਮਹਿ = ਵਿਚ। ਦੇ = ਦੇ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

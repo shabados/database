@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਪਿਆਰ ਹੈ, ਉਹ ਸਦਾ ਸੁਰਖ਼ਰੂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁ = ਪਿਆਰ। ਸਚਿਆਰਾ = {ਸਚ-ਆਲਯ} ਸੁਰਖ਼ਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

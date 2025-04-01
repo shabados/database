@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਨਾਲ ਇਸ ਸੰਸਾਰ ਦੇ ਦਿਲ ਦੀ ਗੰਢ ਖੁਲ੍ਹ ਜਾਂਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਜ਼ ਦਿਲਿ ਆਲਮ ਗਿਰਾਹ ਬਿਕੁਸ਼ਾਇਦਸ਼ ।੪੯੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

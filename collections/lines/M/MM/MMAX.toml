@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਦਾ ਸੁਖ (ਹੋਰ ਸੁਖਾਂ ਨਾਲੋਂ) ਸ੍ਰੇਸ਼ਟ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਰੇ = ਹੇ ਮਨ! ਕੋ = ਦਾ। ਸਾਰ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

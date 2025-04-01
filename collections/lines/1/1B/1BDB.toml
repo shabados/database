@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਮਨ ਹੁਣ ਡੋਲਦਾ ਨਹੀਂ, ਥਿਰ ਹੋ ਗਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਚਲੈ = ਭਟਕਦਾ ਨਹੀਂ ਹੈ। ਪੰਗੁ = ਪਿੰਗਲਾ, ਜੋ ਹਿੱਲ ਜੁਲ ਨਹੀਂ ਸਕਦਾ, ਥਿਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

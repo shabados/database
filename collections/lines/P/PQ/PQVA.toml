@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇੱਜ਼ਤ ਅਤੇ ਧਨ ਦੇ ਕੱਦ ਲਈ ਚੰਗਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਬਾ ਕਾਮਤਿ ਦੌਲਤੋ ਕਦਰ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

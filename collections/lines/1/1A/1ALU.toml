@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਦਾ ਹੀ (ਸਾਡੇ) ਨੇੜੇ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਨੂੰ (ਕਦੇ ਭੀ ਆਪਣੇ ਤੋਂ) ਦੂਰ ਨਾਹ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

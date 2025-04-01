@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਇਨ੍ਹਾਂ ਲੋਕਾਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਦੇਵ ਲੋਕਾਂ ਨੂੰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਨਾਸੂਤੋ ਮਲਕੁਤ ਹਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

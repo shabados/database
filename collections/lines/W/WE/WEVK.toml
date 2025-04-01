@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਭਗਤ) ਤੇਰੀਆਂ ਸੋਹਣੀਆਂ ਸਿਫ਼ਤਾਂ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ ਉਹਨਾਂ ਦੇ ਇਸ ਉੱਦਮ ਦਾ ਖ਼ਾਤਮਾ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓੜੁ = ਖ਼ਾਤਮਾ, ਅਖ਼ੀਰਲਾ ਬੰਨਾ। ਸਜਾਈ = ਸੋਹਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

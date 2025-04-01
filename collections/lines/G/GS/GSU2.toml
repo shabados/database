@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! ਹੇ ਸੁਆਮੀ! (ਮੇਰੇ ਉਤੇ) ਮੇਹਰ ਕਰ, ਮੈਂ (ਸਦਾ) ਤੇਰਾ ਨਾਮ ਜਪਦਾ ਰਹਾਂ। ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਾਰਬ੍ਰਹਮ! ਜਪੀ = ਜਪੀਂ, ਮੈਂ ਜਪਾਂ। ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

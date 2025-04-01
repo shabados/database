@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚਿੰਤਾ ਨੂੰ ਛਡ ਦੇ ਅਤੇ ਸਦਾ ਲਈ ਸਰੂਰ ਵਿਚ ਰਹੋ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰ ਅਜ਼ ਗ਼ਮ ਦਾਇਮਾ ਮਸਰੂਰ ਬਾਸ਼ ।੬੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

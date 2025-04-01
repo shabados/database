@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਛਿਨ ਪਲ ਲਈ ਆਪਣੇ ਆਪ ਵਿਚ ਰਹਿ ਕੇ ਆਪਣੇ ਆਪ ਨੂੰ ਪਛਾਣ (ਤਾਂ ਸਹੀ) ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਦਮੇ ਹਮ ਖ਼ੇਸ਼ਤਨ ਤਾ ਕੁਨ ਤਮੀਜ਼ ।੪੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

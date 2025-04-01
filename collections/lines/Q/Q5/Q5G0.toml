@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਸਿਮਰਨ ਦੀ ਰਾਹੀਂ) ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਪਾ ਲਏ ਤੇ ਉਸ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣੈ = ਜਾਣ-ਪਛਾਣ ਪਾ ਲਏ, ਸਾਂਝ ਪਾ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਤਨਾ ਚਿਰ) ਉੱਚੀ ਉੱਚੀ ਬੋਲਦਾ ਹੈ (ਹੋਰਨਾਂ ਨੂੰ ਸੁਣਾਉਂਦਾ ਹੈ) ਪਰ ਆਪ ਸਮਝਦਾ ਕੁਝ ਨਹੀਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਕਾਰੰਤਾ = ਪੁਕਾਰਦਾ ਹੈ, ਹੋਰਨਾਂ ਨੂੰ ਉੱਚੀ ਬੋਲ ਬੋਲ ਕੇ ਸੁਣਾਉਂਦਾ ਹੈ। ਅਜਾਣੰਤਾ = ਅ-ਜਾਣੰਤਾ, ਨਹੀਂ ਜਾਣਦਾ, ਆਪ ਕੁਝ ਨਹੀਂ ਸਮਝਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

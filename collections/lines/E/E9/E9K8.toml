@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲਫ਼ਜ਼ ਪਪੀਹਾ ਸੁਣ ਕੇ) ਮਤਾਂ ਕੋਈ ਭੁਲੇਖਾ ਖਾ ਜਾਏ, ਪਪੀਹਾ ਇਹ ਜਗਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭੁਲੇਖੇ ਵਿਚ, ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਇ = ਖੁੰਝ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

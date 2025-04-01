@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਜਿਸ ਕਿਸੇ ਨੇ ਵੀ ਸੁਣਿਆ, ਉਹ ਵੀ ਚਨਾਰ ਵਾਣਗ ਸੜ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਬਿਸ਼ੁਨੀਦ ਚੂੰ ਚਨਾਰ ਬਸੋਖ਼ਤ ।੧੪।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਈ ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਕਵੀਆਂ ਦੀਆਂ ਰਚੀਆਂ ਕਵਿਤਾ ਵਿਚਾਰਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਬਿ = ਕਵਿ, ਕਵੀ। ਕਾਬਿ = ਕਾਵ੍ਯ, ਕਵਿਤਾ, ਕਵੀਆਂ ਦੀਆਂ ਰਚਨਾਂ। ਬੀਚਾਰਹਿ = ਵਿਚਾਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

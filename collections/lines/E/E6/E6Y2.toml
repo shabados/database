@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਮਨੁੱਖ ਨੇ ਅਥਾਹ ਤੇ ਅਪਹੁੰਚ ਮਾਲਕ ਹਰੀ ਨੂੰ ਪਾ ਲਿਆ ਹੈ ॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਗਧਾ = ਅਗਾਧ, ਅਥਾਹ ॥੧੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

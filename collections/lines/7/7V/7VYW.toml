@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸੁਹਾਗ-ਭਾਗ ਵਾਲੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਜਦੋਂ ਗੁਰੂ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਤੁਰਦੀ ਹੈ ਤਾਂ ਉਹ ਵੱਡੀ ਕਿਸਮਤ ਵਾਲੀ ਬਣ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਾਗਣਿ = ਖਸਮ ਵਾਲੀ। ਭਾਏ = ਭਾਇ, ਰਜ਼ਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

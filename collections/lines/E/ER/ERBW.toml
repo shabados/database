@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕਿਸੇ ਵਿਰਲੇ ਗੁਰਮੁਖਿ ਨੇ ਇਸ ਬਾਣੀ ਦਾ ਰਸ ਲੈ ਕੇ ਇਹ ਤਬਦੀਲੀ ਵੇਖੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ। ਕਿਨੈ = ਕਿਸੇ ਨੇ। ਚਖਿ = ਚੱਖ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

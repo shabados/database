@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਬੀਤ ਚੁਕੇ ਜੀਵਨ ਵਿਚ ਭੀ ਪ੍ਰਭੂ ਨੇ ਆਨੰਦ ਬਣਾਈ ਰੱਖਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਛੇ = ਪਿੱਛੇ ਬੀਤ ਚੁਕੇ ਸਮੇ ਵਿਚ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

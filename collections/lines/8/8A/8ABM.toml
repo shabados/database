@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਅਡੋਲਤਾ ਵਾਸਤੇ) ਮੈਂ ਜੇਹੜੀ ਭੀ ਸਲਾਹ ਕਰਦਾ ਹਾਂ ਉਸ ਨੂੰ (ਇਹ ਮਾਇਆ) ਸਿਰੇ ਨਹੀਂ ਚੜ੍ਹਨ ਦੇਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾ = ਸਲਾਹ, ਫ਼ੈਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

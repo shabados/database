@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹਸਤੀ ਵਾਲਾ ਹੈ, ਸਾਰੀ ਰਚਨਾ ਜੋ ਉਸ ਦੇ ਆਸਰੇ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੁ = ਹੋਂਦ ਵਾਲਾ। ਸਭ = ਸਾਰੀ ਰਚਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

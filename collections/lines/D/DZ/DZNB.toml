@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਨਿਆਸਰਿਆਂ ਦੇ ਆਸਰੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇਕਸਾਂ-ਰਾ ਯਾਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੬।"
+page = 10
+line = 136
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

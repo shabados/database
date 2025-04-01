@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਤਨਾਂ ਦੀ ਖਾਣ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਖ਼ਜ਼ਾਨਿਆਂ ਵਿਚ ਕਦੇ ਕਮੀ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਟਿ = ਘਾਟਾ, ਕਮੀ। ਰਤਨਾਗਰ = {ਰਤਨ-ਆਕਰ} ਰਤਨਾਂ ਦੀ ਖਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਸ ਦਾ ਮਨ ਸ਼ਾਂਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਬਚਨੀ = ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਉੱਤੇ ਤੁਰਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

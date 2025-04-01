@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੀਤੇ ਸਮੇ ਵਿਚ ਭੀ ਗੁਰੂ ਨੇ ਉਸ ਨੂੰ ਸੁਖ ਆਨੰਦ ਬਖ਼ਸ਼ਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਛੈ = ਬੀਤੇ ਸਮੇ ਵਿਚ, ਇਸ ਲੋਕ ਵਿਚ। ਕੁਸਲ ਖੇਮ = ਸੁਖ ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

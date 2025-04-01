@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਝੱਲੇ ਜੋਗੀ! ਜੋਗ-ਅੱਭਿਆਸ ਤੇ ਪ੍ਰਾਣਾਯਾਮ ਨੂੰ ਤਿਆਗ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਨੁ = ਜੋਗ-ਅੱਭਿਆਸ ਦੇ ਆਸਣ। ਪਵਨ = ਪ੍ਰਾਣਾਯਾਮ। ਬਵਰੇ = ਹੇ ਕਮਲੇ ਜੋਗੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

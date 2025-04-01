@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਮੈਂ ਦਿਨ ਰਾਤ ਹਰੇਕ ਸਾਹ ਨਾਲ ਹਰੇਕ ਗਿਰਾਹੀ ਨਾਲ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਉ = ਮੈਂ ਸਿਮਰਦਾ ਹਾਂ। ਰੈਨਿ = ਰਾਤ। ਗਿਰਾਸਾ = ਗਿਰਾਹੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

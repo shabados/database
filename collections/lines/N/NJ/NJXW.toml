@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਇੱਕ ਫੁੱਲ ਸੀ, ਹੁਣ ਗੁਲਸ਼ਨ ਬਣ ਗਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਗੁਲੇ ਬੁਦੀ ਕਨੂੰ ਗੁਲਸ਼ਨ ਸ਼ੁਦਾ ।੫੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

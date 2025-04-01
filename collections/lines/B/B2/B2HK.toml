@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਘਰ ਵਿਚ ਬੇ-ਫ਼ਿਕਰ ਹੋ ਕੇ ਸੌਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਰਿ = ਘਰ ਵਿਚ, ਹਿਰਦੇ-ਘਰ ਵਿਚ, ਸ੍ਵੈ-ਸਰੂਪ ਵਿਚ। ਪਟੰਬਰ = ਪਟ-ਅੰਬਰ, ਪੱਟ ਕੇ ਕੱਪੜੇ। ਪਟੰਬਰ ਤਾਨਿ = ਪੱਟ ਦੇ ਕੱਪੜੇ ਤਾਣ ਕੇ, ਬੇ-ਫ਼ਿਕਰ ਹੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

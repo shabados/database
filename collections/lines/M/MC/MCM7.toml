@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੁੱਤਰ! ਜਿਹੜੇ ਪ੍ਰਭੂ ਜੀ ਤੁਹਾਡੇ (ਸਾਡੇ ਸਭਨਾਂ ਦੇ) ਮਾਲਕ ਹਨ, ਉਹਨਾਂ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ ਪ੍ਰਭ = ਜਿਹੜੇ ਪ੍ਰਭੂ ਜੀ। ਸੁਆਮੀ = ਮਾਲਕ। ਜਾਪਹੁ = ਜਾਪ ਜਪਦੇ ਰਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

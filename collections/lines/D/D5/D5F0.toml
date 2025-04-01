@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਚਾਹੇ ਪਹਾੜ ਵੀ ਕਿਉਂ ਨਾ ਹੋਵੇ, ਉਹ ਮਿੱਟੀ ਵਿਚ ਮਿਲ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਗਰ ਕੋਹ ਬਾਸ਼ਦ ਬਖ਼ਾਕ ਅਫ਼ਗ਼ਨਦ ।੧੬੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

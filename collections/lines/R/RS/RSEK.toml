@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੂੜ ਕੱਲਰ ਦੇ ਵਪਾਰੀ ਨੂੰ) ਜਮ ਦੇ ਦਰ ਤੇ ਬੱਝੇ ਨੂੰ ਸਜ਼ਾਵਾਂ ਮਿਲਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਦਰ ਤੇ। ਮਿਲਹਿ = ਮਿਲਦੀਆਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

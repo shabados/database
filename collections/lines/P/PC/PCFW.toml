@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੁਰਖਾ! ਇਸ ਤਰ੍ਹਾਂ ਮਨ ਨੂੰ ਅਕਲ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ ਤੇ ਮੁੜ (ਮਾਇਆ ਦੀ) ਚੋਟ ਨਹੀਂ ਖਾਈਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖਾ = ਹੇ ਪੁਰਖ ਨਾਨਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਘਰ ਵਿਚ (ਘਰ ਦੀ ਸੁਹੱਪਣ) ਮਾਇਆ ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹਿ = ਘਰ ਵਿਚ। ਜਾ ਕੈ ਗ੍ਰਿਹਿ = ਜਿਸ ਦੇ ਘਰ ਵਿਚ। ਸੋਭਾ = ਮਾਇਆ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

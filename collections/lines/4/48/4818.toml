@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤ੍ਰਿਸ਼ਨਾ ਤੇ ਚਿੰਤਾ ਦੀ ਅੱਗ ਅੰਦਰੇ ਅੰਦਰ ਸਾੜ ਰਹੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਿ = ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ। ਜਾਰੇ = ਸਾੜਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

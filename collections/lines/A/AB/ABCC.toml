@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਵਿਸਾਰ ਕੇ ਹੋਰ ਕਿੱਥੇ ਲੋਭ ਕਰ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ ਅਵਰ = ਕਿਸੇ ਹੋਰ ਥਾਂ? ਲੁਭਾਵਹਿ = ਤੂੰ ਲੋਭ ਕਰ ਰਿਹਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

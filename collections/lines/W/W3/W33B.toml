@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅੱਜ ਰਾਤ ਨੂੰ ਤੂੰ ਨਾ ਆਇਓੁਣ, ਤੇਰੀ ਭਾਰੀ ਉਡੀਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਕਿ ਇਮਸ਼ਬ ਨਾਮਦੀ ਅਜ਼ ਇੰਤਜ਼ਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਆਪਣੀ ਸਰਨ ਵਿਚ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੇ = ਹੇ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

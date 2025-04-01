@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਅੱਖਰਾਂ ਰਾਹੀਂ ਹੀ ਭਾਗਾਂ ਦਾ ਸੰਜੋਗ ਵਖਿਆਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਰਾ ਸਿਰਿ = ਅੱਖਰਾਂ ਦੀ ਰਾਹੀਂ ਹੀ। ਸੰਜੋਗੁ = ਭਾਗਾਂ ਦਾ ਲੇਖ। ਵਖਾਣਿ = ਵਖਾਣਿਆ ਜਾ ਸਕਦਾ ਹੈ, ਦੱਸਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

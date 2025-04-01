@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਨਿਰਾ ਨੂਰ ਹੀ ਨੂਰ ਹੈ (ਉਸ ਦੇ ਨੂਰ ਨਾਲ) ਸਾਰਾ ਜਗਤ ਖਿੜ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਉਲੋ = ਖਿੜਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

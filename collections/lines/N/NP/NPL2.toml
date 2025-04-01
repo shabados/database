@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਂਞ) ਦਿਨ ਰਾਤ ਲੋਕਾਂ ਵਾਸਤੇ ਵਿਖਾਵਾ ਕਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਚਾਰਾ = (Skt. ऊपचार) ਵਿਖਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

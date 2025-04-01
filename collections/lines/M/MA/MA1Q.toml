@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦਾ ਮਨ) ਅਥਾਹ ਪਰਮਾਤਮਾ ਦੀ ਥਾਹ ਨਹੀਂ ਪਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਥਾਹ = {ਅ-ਥਾਹ। ਥਾਹ = ਹਾਥ, ਢੂੰਘਾਈ} ਜਿਸ ਦੀ ਡੂੰਘਾਈ ਨ ਲੱਭ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

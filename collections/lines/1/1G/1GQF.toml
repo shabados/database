@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਧਨ, ਇਸਤ੍ਰੀ, ਸਾਰੀ ਜਾਇਦਾਦ-(ਇਸ ਨੂੰ) ਆਪਣੀ ਕਰ ਕੇ ਨਾਹ ਮੰਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰਾ = ਇਸਤ੍ਰੀ। ਸੰਪਤਿ ਸਗਲ = ਸਾਰੀ ਸੰਪੱਤੀ, ਸਾਰੀ ਜਾਇਦਾਦ। ਜਿਨਿ ਮਾਨਿ = ਮਤਾਂ ਸਮਝ, ਨਾਹ ਮੰਨ। ਅਪੁਨੀ ਕਰਿ = ਆਪਣੀ ਜਾਣ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

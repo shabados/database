@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਇਉਂ ਸਮਝ ਲਿਆ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਸੀ = ਇਉਂ। ਜਾਨਿ ਪਾਈ = ਅਸਾਂ ਸਮਝੀ ਹੈ, ਮੈਂ ਸਮਝੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

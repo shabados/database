@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ! ਹੇ ਅਬਿਨਾਸੀ! ਹੇ ਪ੍ਰਕਾਸ਼-ਰੂਪ! ਹੇ ਸੋਹਣੇ ਸਰੂਪ ਵਾਲੇ! ਹੇ ਅਲੱਖ! ਹੇ ਬੇਅੰਤ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਇਓ = ਹੇ ਨਾਸ-ਰਹਿਤ! ਦੇਵਾ = ਹੇ ਪ੍ਰਕਾਸ਼-ਰੂਪ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

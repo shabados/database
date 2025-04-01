@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਜੋ ਕੁਝ ਤੂੰ ਅੱਖੀਂ ਵੇਖਦਾ ਹੈਂ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਦੇ = ਹੇ ਮਨੁੱਖ! ਚਸਮ = ਚਸ਼ਮ, ਅੱਖਾਂ। ਦੀਦੰ = ਦਿੱਸਦਾ। ਫਨਾਇ = ਫ਼ਨਾਇ, ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

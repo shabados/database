@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਬਾਣੀ ਵਿੱਚੋਣ ਰੱਬ ਦੀ ਸੁਗੰਧੀ ਸਪੱਸ਼ਟ ਮਹਿਕਦੀ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਕਲਾਮਸ਼ ਬੂਇ ਹੱਕ ਆਦਿ ਅਯਾਣ ।੧੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸਾਰੇ ਜੀਅ ਜੰਤ ਪੈਦਾ ਕਰ ਕੇ, ਪ੍ਰਭੂ ਉਹਨਾਂ ਸਭਨਾਂ ਦੀ ਪਾਲਨਾ ਭੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮਾਲੇ = ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

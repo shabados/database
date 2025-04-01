@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਤਨਾ ਚਿਰ) ਪਤੀ ਘਰ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਮੈਂ ਹਾਹੁਕਿਆਂ ਨਾਲ ਮਰ ਰਹੀ ਹਾਂ, ਬਿਜਲੀ ਚਮਕ ਕੇ (ਸਗੋਂ) ਮੈਨੂੰ ਡਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਵੈ = ਹਾਹੁਕੇ ਵਿਚ। ਦਾਮਨਿ = ਬਿਜਲੀ। ਚਮਕਿ = ਚਮਕ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

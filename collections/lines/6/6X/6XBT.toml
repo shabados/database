@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪੂਰਾ ਗੁਰੂ ਜਿਹੜਾ (ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ) ਬਚਨ ਬੋਲਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਉਸ ਵਲ ਧਿਆਨ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸਰਿ = ਪਰਮੇਸਰ ਨੇ। ਸੁਣਿਆ = ਧਿਆਨ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

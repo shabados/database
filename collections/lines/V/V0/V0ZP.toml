@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਿਰਪਾਲ!) ਮੈਨੂੰ ਇਸੇ ਕੰਮ ਲਾਈ ਰੱਖ ਕਿ ਮੈਂ ਦਿਨ ਰਾਤ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਕੰਮਿ = ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

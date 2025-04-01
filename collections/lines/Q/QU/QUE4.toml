@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਨ ਦਾ ਇਹ ਰਸਤਾ) ਉਹ ਮਨੁੱਖ ਸਮਝਦਾ ਹੈ ਜੋ ਗੁਰੂ ਦੀ (ਦੱਸੀ) ਸੇਵਾ ਕਰਦਾ ਹੈ, ਗੁਰੂ ਤੋਂ ਬਿਨਾ (ਇਹ) ਰਸਤਾ ਨਹੀਂ ਲੱਭਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਗੁ = ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

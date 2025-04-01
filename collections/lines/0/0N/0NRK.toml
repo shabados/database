@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੂੰ ਮੇਰੇ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਿੰਦ ਜੀਉ = ਹੇ ਗੋਬਿੰਦ ਜੀ! ਅਧਾਰ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

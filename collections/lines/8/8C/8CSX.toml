@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਬਨਸਪਤੀ (ਤੇਰੇ ਅੱਗੇ ਫੁੱਲ ਭੇਟਾ ਕਰਨ ਵਾਲੀ) ਤੇਰੀ ਮਾਲਣ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਰ ਅਠਾਰਹ = ਸਾਰੀ ਬਨਸਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

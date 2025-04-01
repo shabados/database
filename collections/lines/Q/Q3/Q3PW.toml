@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦਿਨ ਰਾਤ ਹਰੇਕ (ਜੀਵ ਦੇ ਹਰੇਕ) ਇੰਦ੍ਰੇ ਵਿਚ ਇਹ ਨਾਚ ਹੋ ਰਿਹਾ ਹੈ। ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮਾਇਆ ਦਾ ਵਾਜਾ ਵੱਜ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਘਰਿ = ਹਰੇਕ ਘਰ ਵਿਚ, ਹਰੇਕ ਇੰਦ੍ਰੇ ਵਿਚ। ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਤੂਰਾ = (ਮਾਇਆ ਦਾ) ਵਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਤੂੰ ਨਿਮਾਣੇ ਦਾ ਮਾਣ ਹੈਂ। ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਹੀ ਤੂੰ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ। ਤੁਧੁ ਭਾਵੈ = ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

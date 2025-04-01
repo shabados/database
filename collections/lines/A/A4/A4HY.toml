@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਯਕੀਨੀ ਤੌਰ ਤੇ ਸ਼ਾਹੂਕਾਰ (ਸਮਝੇ ਜਾਂਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਮਨੁੱਖ (ਬਹੁ-ਵਚਨ)। ਸੇਈ = ਉਹੀ ਮਨੁੱਖ (ਬਹੁ-ਵਚਨ)। ਸਚੁ = ਯਕੀਨੀ ਤੌਰ ਤੇ। ਸਾਹਾ = ਸਾਹੂਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਅਨੇਕਾਂ ਹੀ ਚੋਜ-ਤਮਾਸ਼ੇ ਹਨ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ = ਕੌਤਕ, ਚੋਜ = ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ! ਮੈਂ ਜਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਉਧਰ (ਮੈਨੂੰ ਤੂੰ ਹੀ ਦਿੱਸਦਾ ਹੈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਅੰਤਰਜਾਮੀ = ਹੇ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

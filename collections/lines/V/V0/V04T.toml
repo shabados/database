@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਸ ਧਨ ਨੂੰ ਨਾਹ ਅੱਗ ਸਾੜ ਸਕਦੀ ਹੈ, ਨਾਹ ਹਵਾ ਉਡਾ ਕੇ ਲੈ ਜਾ ਸਕਦੀ ਹੈ, ਅਤੇ ਨਾਹ ਹੀ ਕੋਈ ਚੋਰ ਇਸ ਦੇ ਨੇੜੇ ਢੁਕ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹੈ = ਸਾੜਦੀ। ਮਗਨੈ = ਗੁੰਮ ਕਰਦੀ, ਲੋਪ ਕਰਦੀ, ਉਡਾ ਲੈ ਜਾਂਦੀ। ਤਸਕਰੁ = ਚੋਰ। ਨੇਰਿ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

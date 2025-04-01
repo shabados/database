@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ ਅੱਖੀਂ) ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ, ਇਹ ਕਿਸੇ ਦੇ ਭੀ ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

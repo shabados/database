@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਧਰਤੀ ਪਾਣੀ ਵਿਚ (ਅਡੋਲ) ਵੱਸਦੀ ਹੈ ਤੇ ਪਾਣੀ ਨੂੰ ਆਸਰਾ ਭੀ ਦੇਂਦੀ ਹੈ, (ਜਿਵੇਂ) ਲੱਕੜੀ (ਆਪਣੇ ਅੰਦਰ) ਅੱਗ (ਲੁਕਾ ਕੇ) ਰੱਖਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਣੀਐ = ਪਾਣੀ ਵਿਚ। ਈਧਣੁ = ਬਾਲਣ, ਲੱਕੜ। ਭਾਹਿ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

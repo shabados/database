@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੈਨੂੰ ਅਟੱਲ ਸੁਖ, ਸੌਖਾ ਜੀਵਨ ਤੇ ਆਤਮਕ ਅਡੋਲਤਾ ਦਾ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੋਣਗੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਮ = {Skt.क्षेम} ਅਟੱਲ ਸੁਖ। ਕੁਸਲ = {Skt. कुशल} ਸੁਖਸਾਂਦ, ਸੌਖਾ ਜੀਵਨ। ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

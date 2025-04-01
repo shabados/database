@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੈਂ ਇਕ ਛਿਨ ਪੱਲ ਲਈ ਵੀ ਉਸ ਤੋਂ ਗਾਫਲ ਨਹੀਂ ਰਹਾਂਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਸ਼ਵਮ ਯੱਕ ਜ਼ਮਾਂ ਅਜ਼ੋ ਗ਼ਾਫ਼ਿਲ ।੫੨।"
+page = 1
+line = 52
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

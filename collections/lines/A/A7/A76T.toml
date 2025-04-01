@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੀ ਮੋਤੀ ਵਰਸਾਉਣ ਵਾਲੀ ਅੱਖ ਨੇ ਪੋਸਤ ਦੇ ਫੁਲ ਵਰਗੇ ਆਬਦਾਰ ਮੋਤੀ ਰਖ ਲਏ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਿਆਇ ਯੱਕ ਨਫ਼ਸ, ਬਹਿਰਿ ਨਿਸਾਰਿ ਖਿਦਮਤਤ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

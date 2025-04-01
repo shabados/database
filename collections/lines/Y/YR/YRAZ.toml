@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਇਹ ਸ਼ੋਖ ਅੱਖ ਰੱਬ ਦਾ ਰਾਹ ਦੱਸਣ ਵਾਲੀ ਹੋ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਦੀਏ ਰਾਹਿ ਖ਼ੁਦਾ ਈਣ ਚਸ਼ਮਿ ਸ਼ੋਖ਼ ।੧੮।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

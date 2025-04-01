@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਕੀ ਰਹਿੰਦੇ ਸੁਆਸਾਣ ਨੂੰ ਤੂੰ ਇਸ ਤਰ੍ਹਾਣ ਸੁਭਾਗੀ ਸਮਝ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਮਹਾਇ ਮਾਣਦਾ ਰਾ ਤੂ ਚੁਨੀਣ ਮੁਗ਼ਤਨਮ ਸ਼ੁਮਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

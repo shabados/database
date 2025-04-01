@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਸੱਜਣੋ! ਤੁਸੀਂ ਮੇਰੇ ਘਰ ਆਓ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨਾ = ਹੇ ਸੱਜਣੋ! ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ! ਮੇਰੈ = ਮੇਰੇ ਘਰ ਵਿਚ, ਮੇਰੇ ਕੋਲ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

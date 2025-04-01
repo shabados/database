@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਘਰ ਘਰ ਤੋਂ ਤੂੰ ਟੁੱਕਰ ਮੰਗਦਾ ਫਿਰਦਾ ਹੈਂ, ਤੇਰੇ ਅੰਦਰ ਸ਼ਾਂਤੀ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗਹਿ = ਤੂੰ ਮੰਗਦਾ ਹੈਂ। ਟੂਕਾ = ਟੁੱਕਰ, ਰੋਟੀਆਂ। ਤ੍ਰਿਪਤਿ = ਰਜੇਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

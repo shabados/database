@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਜੀਭ! ਤੂੰ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾ, ਪਲ ਪਲ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇ ਜਿਹਵੇ = ਹੇ ਜੀਭ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

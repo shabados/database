@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ (ਕਿ ਮੈਂ ਤੇਰੇ ਗੁਣ ਗਾ ਸਕਾਂ), ਇਹ ਸਭ ਤੇਰੀਆਂ ਹੀ ਵਡਿਆਈਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਮੈ ਨਾਹੀ ਕੋਇ = ਮੈਂ ਕੋਈ ਨਹੀਂ ਹਾਂ, ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

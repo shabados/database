@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੱਬ ਬਾਹਰਲੇ ਭੇਖਾਂ ਨਾਲ ਨਹੀਂ ਮਿਲਦਾ (ਕਿਉਂਕਿ) ਉਹ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰ ਭੇਖਿ = ਬਾਹਰਲੇ ਭੇਖਾਂ ਨਾਲ। ਅੰਤਰਜਾਮੀ = ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

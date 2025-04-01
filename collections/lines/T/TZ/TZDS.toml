@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਵੀ ਤੇਰੀ ਵਿਸ਼ੇਸ਼ ਸੁਹਬਤ ਵਿਚ ਤੇਰੀ ਗਲ ਸੁਣੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸ ਸ਼ਨੀਦਾ ਅਸਤ ਜ਼ਿ ਤੂ ਗ਼ੁਫ਼ਤਗੂਇ ਖ਼ਾਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

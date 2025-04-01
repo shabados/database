@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਸਮੁੰਦਰ ਦਾ) ਕੰਢਾ ਭੀ ਨਹੀਂ ਦਿੱਸਦਾ, ਹਾਏ ਹਾਏ ਦਾ ਕੁਰਲਾਟ ਭੀ ਪੈ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਧੀ = ਕੰਢਾ। ਧਾਹੀ = ਧਾਹੀਂ। ਕਹਾਹ = ਸ਼ੋਰ, ਰੌਲਾ। ਧਾਹੀ ਕਹਾਹ = ਢਾਹਾਂ ਦਾ ਰੌਲਾ, ਹਾਏ ਹਾਏ ਦਾ ਸ਼ੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

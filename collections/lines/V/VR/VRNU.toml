@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਸਰਬ-ਵਿਆਪਕ ਕਰਤਾਰ ਪ੍ਰਭੂ ਮਨ ਤੋਂ ਨਹੀਂ ਭੁੱਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ। ਮਨਹੁ = ਮਨ ਤੋਂ। ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ। ਮੁਰਾਰੀ = {ਮੁਰ-ਅਰਿ। ਅਰਿ = ਵੈਰੀ} ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

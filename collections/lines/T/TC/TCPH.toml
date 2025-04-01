@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਨਿਆਸੀ ਨੇ ਸੁਆਹ ਮਲ ਕੇ ਆਪਣੇ ਸਰੀਰ ਨੂੰ ਸਵਾਰਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਭੂਤ = ਸੁਆਹ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

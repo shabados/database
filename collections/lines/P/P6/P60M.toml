@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਸੁਹਾਗਣਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਮੇਰੀ ਜਿੰਦ ਦੇ ਨਾਲ ਟਿਕੀ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨ੍ਹ੍ਹ ਕੀ = ਉਨ੍ਹਾਂ ਸੁਹਾਗਣਾਂ ਦੀ, ਉਹਨਾਂ ਸਤ-ਸੰਗੀਆਂ ਦੀ। ਰੇਣੁ = ਚਰਨ-ਧੂੜ। ਜੀਅ ਨਾਲਿ = ਜਿੰਦ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

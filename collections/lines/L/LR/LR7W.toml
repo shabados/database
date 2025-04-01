@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਹੇ ਅੰਤਰਜਾਮੀ! ਹੇ ਸੋਹਣੇ ਸੁਜਾਨ! ਮੇਰੇ ਮਨ ਦੀ ਭਟਕਣਾ ਦੂਰ ਕਰ, ਮੇਰੀ ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਵਹੁ = ਨਾਸ ਕਰੋ। ਭਰਮੁ = ਭਟਕਣਾ। ਰਾਖੁ = ਰੱਖਿਆ ਕਰ। ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਸੁਘੜ = ਹੇ ਸੋਹਣੇ! ਸੁਜਾਣ = ਹੇ ਸਿਆਣੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

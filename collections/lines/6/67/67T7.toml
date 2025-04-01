@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ!) ਪਿਆਰੇ ਕੰਤ ਪ੍ਰਭੂ ਦੇ ਮੈਂ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਹਾਂ, ਮੈਂ ਆਖਾਂ। ਕੰਤ = ਕੰਤ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

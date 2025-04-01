@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੪॥੨॥੨੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਕੈ = ਉਹਨਾਂ ਤੋਂ। ਸਦ = ਸਦਾ ॥੪॥੨॥੨੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

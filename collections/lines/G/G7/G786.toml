@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਤਰ, ਦੱਖਣ, ਪੂਰਬ, ਪੱਛਮ ਦੇਸ ਵਿਚ (ਭਾਵ, ਸਭ ਪਾਸੀਂ) ਲੋਕ ਨਾਮ ਦਾ ਜਸ ਉਚਾਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਭਾਖਹ = ਉਚਾਰਦੇ ਹਨ। ਉਤਰਿ = ਉੱਤਰ (ਦੇਸ) ਵਿਚ। ਪੁਬਿ = ਪੂਰਬ (ਦੇਸ) ਵਿਚ। ਪਸ੍ਚਮਿ = ਪੱਛਮ (ਦੇਸ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨੱਵੇ ਸਾਲ ਦਾ ਮੰਜੇ ਤੋਂ ਹੀ ਨਹੀਂ ਹਿੱਲ ਸਕਦਾ, ਆਪਣਾ ਆਪ ਭੀ ਸੰਭਾਲ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਹਜਾਸਣੀ = ਮੰਜੇ ਉਤੇ ਆਸਣ ਰੱਖਣ ਵਾਲਾ। ਅਪ ਬਲੁ = ਆਪਣਾ ਬਲ, ਆਪਣਾ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

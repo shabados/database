@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰੀ ਦੇ ਦਾਸ ਅਤੇ ਸਾਕਤ ਦਾ ਸੰਗ ਇਉਂ ਹੀ ਹੈ) ਜਿਵੇਂ ਕਿਸੇ ਅਨਾੜੀ ਅਸਵਾਰ ਵਾਸਤੇ ਇਕ ਸਜਾਈ ਹੋਈ ਘੋੜੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਅਸਵਾਰ = {ਜਿਵੇਂ 'ਮਨ-ਤਾਰੂ'} ਜੇਹੜਾ ਸਵਾਰੀ ਕਰਨੀ ਨਹੀਂ ਜਾਣਦਾ। ਤੁਰੀ = ਘੋੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

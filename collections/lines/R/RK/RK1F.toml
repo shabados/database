@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਸਭਨਾਂ ਦੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੰਜਨੋ = ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

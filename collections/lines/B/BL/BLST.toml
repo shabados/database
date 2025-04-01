@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਕੌਣ ਹੈ# ਰੱਬ ਦਾ ਨਾਮ ਜਪਣ ਵਾਲਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਗੋਯਾ ਜ਼ਾਕਰਿ ਨਾਮਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਹੇ ਪ੍ਰੀਤਮ! ਹੇ ਮਨਮੋਹਨ! ਮੇਹਰ ਕਰ, ਮੇਰੀ ਤਾਂਘ ਪੂਰੀ ਕਰ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਮਨ ਮੋਹਨ = ਹੇ ਮਨ ਨੂੰ ਮੋਹਨ ਵਾਲੇ! ਲੋਚਾ = ਤਾਂਘ। ਪੂਰਿ = ਪੂਰੀ ਕਰ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

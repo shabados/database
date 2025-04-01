@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਤੋਂ ਭੁਲਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜੇ = ਹੇ ਮੂਰਖ! ਤੈ = ਤੂੰ। ਮਨ ਤੇ = ਮਨ ਤੋਂ। ਬਿਸਾਰਿਓ = ਭੁਲਾ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

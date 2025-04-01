@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ ਆਪ) ਕੋਈ ਜੀਵ ਕੀਹ ਕਰ ਸਕਦਾ ਹੈ? ਕਰਤਾਰ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਇਹ ਜੀਵ ਪਾਸੋਂ ਆਪਣੇ ਉੱਦਮ ਨਾਲ ਕੁੱਝ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤੇ = ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਜੀਵ ਪਾਸੋਂ। ਕਿਆ = ਕੀਹ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

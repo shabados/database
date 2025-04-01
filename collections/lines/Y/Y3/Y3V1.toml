@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਿਤ (ਵੇਦ ਆਦਿਕ ਧਾਰਮਿਕ) ਪੁਸਤਕਾਂ ਪੜ੍ਹ ਕੇ ਸੰਧਿਆ ਕਰਦਾ ਹੈ, ਅਤੇ (ਹੋਰਨਾਂ ਨਾਲ) ਚਰਚਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਸ੍ਤਕ = ਵੇਦ ਸ਼ਾਸਤ੍ਰ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ। ਸੰਧਿਆ = (संध्या = The morning, noon and evening prayers of a Brahmin) ਬ੍ਰਾਹਮਣ ਦਾ ਤਿੰਨ ਵੇਲਿਆਂ ਦਾ ਪੂਜਾ-ਪਾਠ। ਬਾਦੰ = ਚਰਚਾ (वाद)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

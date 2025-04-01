@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦ੍ਰੋਪਤੀ ਨੂੰ ਬੇਪਤੀ ਤੋਂ ਬਚਾ ਕੇ ਉਸ ਦੀ ਇੱਜ਼ਤ ਰੱਖਣ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰਿ = ਬੇ-ਪਤੀ ਤੋਂ ਬਚਾ ਕੇ। ਉਧਾਰਣ = ਬਚਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

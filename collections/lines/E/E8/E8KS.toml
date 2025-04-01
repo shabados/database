@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਸਮੁੰਦਰ ਨਾਹ ਛੱਡੀਏ, ਚਾਹੇ (ਉਸ ਦਾ ਪਾਣੀ) ਬੜਾ ਹੀ ਖਾਰਾ ਹੋਵੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜੇ। ਖਾਰੋ = ਨਮਕੀਨ, ਬੇ-ਸੁਆਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

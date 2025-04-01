@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲਸ਼ਕਰ ਹੋਣ, ਨਾਇਬ ਹੋਣ, ਸ਼ਾਹੀ ਨੌਕਰ ਹੋਣ, ਇਹ ਸਾਰਾ ਵਿਖਾਵਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਬ = ਨਾਇਬ। ਖਵਾਸੀ = ਸ਼ਾਹੀ ਨੌਕਰ। ਪਾਜੇ = ਪਾਜ, ਵਿਖਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

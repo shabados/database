@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੂਰਮਤਾਈ ਦਾ ਸਮੁੰਦਰ ਹੈ, ਅਤੇ ਸਿੱਧੇ ਮਾਰਗ ਦਾ ਸੂਰਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਹੀਤੁਲ-ਸਖ਼ਾਇਆ ਜ਼ਕਾ-ਉਲ-ਹੁਦਾ ।੫੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

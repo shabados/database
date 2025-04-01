@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਿਸ ਮਨੁੱਖ ਨੇ (ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦਾ) ਪਰਮਾਤਮਾ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

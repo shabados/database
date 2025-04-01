@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਭੁੱਲਣਹਾਰ ਜੀਵ ਕਾਮ ਕ੍ਰੋਧ (ਦੇ ਚਿੱਕੜ) ਨਾਲ ਲਿੱਬੜੇ ਰਹਿੰਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ (ਦੇ ਚਿੱਕੜ) ਨਾਲ। ਕ੍ਰੋਧਿ = ਕ੍ਰੋਧ (ਦੇ ਚਿੱਕੜ) ਨਾਲ। ਭਰੇ = ਲਿੱਬੜੇ ਹੋਏ। ਅਪਰਾਧੀ = ਭੁੱਲਣਹਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

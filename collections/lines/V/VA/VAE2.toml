@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਠਾਕੁਰ! (ਮੇਰੇ ਅੰਦਰੋਂ ਕਾਮਾਦਿਕ) ਪੰਜੇ ਚੋਰ ਕੱਢ ਦੇ, ਮੇਰੀ ਸਾਰੀ ਭਟਕਣਾ ਅੱਗ ਵਿਚ ਸਾੜ ਦੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰ = ਚੋਰ। ਨਿਵਾਰਹੁ = ਕੱਢ ਦਿਉ। ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ! ਸਗਲੇ = ਸਾਰਾ। ਹੋਮਿ = ਹਵਨ ਵਿਚ। ਜਰਹੁ = ਜਾਰਹੁ, ਸਾੜੋ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

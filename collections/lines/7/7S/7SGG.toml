@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, (ਇਹ ਨਾਮ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ-ਉਤਾਰਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਿਸਤਾਰਾ = ਪਾਰ-ਉਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

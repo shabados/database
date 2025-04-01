@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ ਪ੍ਰਭੂ! ਮੈਨੂੰ (ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਦਾ) ਦਾਨ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਮੋਹਿ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਹੀ ਦੱਸਦਾ ਹੈ ਕਿ) ਲੋਕ ਪਰਲੋਕ ਵਿਚ ਪਰਮਾਤਮਾ ਹੀ (ਜੀਵ ਦੀ) ਰਾਖੀ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਥੈ = ਇਸ ਲੋਕ ਵਿਚ। ਓਥੈ = ਪਰਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

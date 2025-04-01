@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਤਾਣ ਸਦਾ ਹਾਜ਼ਰ ਨਾਜ਼ਰ ਹੈ । ਤੂੰ ਉਸ ਦੇ ਪਵਿੱਤ੍ਰ ਦੀਦਾਰੇ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦਾ ਹਾਜ਼ਿਰ ਬਵਦ ਦਾਇਮ ਬਬੀਂ ਦੀਦਾਰਿ ਪਾਕਿਸ਼ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

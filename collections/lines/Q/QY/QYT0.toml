@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਤੂੰ ਆਪਣੇ ਭਗਤਾਂ ਦੀ ਰਾਖੀ ਕੀਤੀ ਹੈ, ਕਿਉਂਕਿ) ਤੇਰੇ ਭਗਤਾਂ ਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਰਹਿੰਦਾ ਹੈ, (ਉਹਨਾਂ ਨੂੰ ਸਹਾਇਤਾ ਵਾਸਤੇ) ਹੋਰ ਕੋਈ ਥਾਂ ਨਹੀਂ ਸੁੱਝਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = {अन्य} ਹੋਰ। ਠਾਉ = {स्थान} ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

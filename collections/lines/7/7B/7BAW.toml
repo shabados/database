@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਇਸ ਪੜ੍ਹਨ ਸੁਣਨ ਦੇ ਕੁਦਰਤੀ ਨਤੀਜੇ ਦੇ ਤੌਰ ਤੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਹੋਈ = ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੋਵੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

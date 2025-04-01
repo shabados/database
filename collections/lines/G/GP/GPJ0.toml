@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ (ਮਾਇਆ-ਵੇੜ੍ਹੇ ਜੀਵਾਂ ਦੇ) ਅਨੇਕਾਂ ਹੀ ਕਾਫ਼ਲੇ (ਕੀਤੇ ਮੰਦ ਕਰਮਾਂ ਦੇ ਕਾਰਨ) ਦੁਖੀ ਹੁੰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਟੇ = {आवत्र्त् } ਦੁਖੀ ਹੁੰਦੇ ਹਨ। ਘਨ = ਬਹੁਤ। ਸਾਥ = ਕਾਫ਼ਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

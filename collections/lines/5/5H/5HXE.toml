@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਬਿਲਾਵਲੁ, ਘਰ ੧੩ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = {पटहताल। पटह = ਪਟਹ, ਢੋਲ} ਉਸ ਤਰ੍ਹਾਂ ਦਾ ਭਰਵਾਂ ਤਾਲ ਜਿਵੇਂ ਢੋਲ ਉਤੇ ਡਗੇ ਨਾਲ ਚੋਟ ਲਾਈਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

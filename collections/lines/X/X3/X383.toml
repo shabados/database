@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ,) ਪਾਣੀ ਤੋਂ ਅੰਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ, ਕਮਾਦ ਗੰਨਾ ਉੱਗਦਾ ਹੈ ਤੇ ਕਪਾਹ ਉੱਗਦੀ ਹੈ, ਪਾਣੀ ਤੋਂ ਹੀ ਸਾਰਾ ਸੰਸਾਰ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਇਅਹੁ = ਪਾਣੀ ਤੋਂ। ਤ੍ਰਿਭਵਣੁ = ਸਾਰਾ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

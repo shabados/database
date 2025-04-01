@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਖ਼ਰ ਉਸ ਸਾਰੀ ਨੂੰ ਛੱਡ ਕੇ ਇਥੋਂ ਚਲੇ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਕਉ = ਉਸ ਸਾਰੀ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

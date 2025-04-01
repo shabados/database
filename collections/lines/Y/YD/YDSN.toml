@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਮਨ ਗਜ਼ (ਬਣ ਗਿਆ ਹੈ), ਮੇਰੀ ਜੀਭ ਕੈਂਚੀ (ਬਣ ਗਈ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਜੁ = (ਕੱਪੜਾ ਮਿਣਨ ਵਾਲਾ) ਗਜ਼। ਕਾਤੀ = ਕੈਂਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

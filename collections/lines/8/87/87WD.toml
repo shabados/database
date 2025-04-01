@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਚੇਤਨ ਜੋਤਿ ਅਤੇ ਅਚੇਤਨ ਮਿੱਟੀ ਮਿਲਾ ਕੇ ਪਰਮਾਤਮਾ ਨੇ ਇਹ ਜਗਤ ਇਹ ਜਹਾਨ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਕ = ਖ਼ਾਕ, ਮਿੱਟੀ, ਅਚੇਤਨ। ਨੂਰ = ਜੋਤੀ, ਆਤਮਾ। ਕਰਦੰ = ਬਣਾ ਦਿੱਤਾ। ਆਲਮ = ਜਹਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

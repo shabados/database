@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਤਨੀ ਭੀ ਆਵਾਗਵਨ ਵਿਚ ਪਈ ਹੋਈ ਸ੍ਰਿਸ਼ਟੀ ਹੈ ਇਸ ਵਿਚ ਹਰੇਕ ਜੀਵ (ਆਪਣੇ ਵਲੋਂ) ਤੇਰਾ ਹੀ ਨਾਮ ਜਪਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤੀ = ਜਿਤਨੀ ਭੀ। ਆਵਣ ਜਾਣ = ਜਨਮ ਮਰਨ ਵਿਚ ਪਈ ਹੋਈ ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

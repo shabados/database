@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਵੱਡੇ ਵਾਗਾਂ ਵਾਲੀਆਂ ਦੀ ਕਿਸਮਤ ਜਾਗਦੀ ਹੈ, ਉਹ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਂਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

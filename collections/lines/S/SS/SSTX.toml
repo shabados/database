@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੋ ਜਿਹਾ ਹੁਕਮ ਤੂੰ ਕੀਤਾ ਹੁੰਦਾ ਹੈ, ਜੀਵ ਉਹੀ ਕੰਮ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮੁ = ਕੰਮ। ਫੁਰਮਾਏ = ਫ਼ੁਰਮਾਇਆ, ਹੁਕਮ ਕੀਤਾ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

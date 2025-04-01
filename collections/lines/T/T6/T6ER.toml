@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੋਹਨ! ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੇ ਧਰਮ-ਅਸਥਾਨਾਂ ਵਿਚ, ਤੇਰੇ ਸੰਤ ਜਨ (ਬੈਠੇ) ਸੋਹਣੇ ਲੱਗ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਨਿ = ਸੋਭ ਰਹੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਭਾਗਾ ਹੈ ਉਹ ਸਿਰ, ਜਿਸ ਨੇ ਉਸ ਸੱਚ ਦੇ ਰਾਹ ਤੇ ਪ੍ਰਨਾਮ ਕੀਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਜ਼ਹੇ ਸਰ ਕੂ ਬਰਾਹਿਸ਼ ਦਰ ਸਜੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

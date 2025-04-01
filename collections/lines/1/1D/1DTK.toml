@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮੂਰਖ ਮਨ! ਤੂੰ (ਇਹਨਾਂ ਦੁਨੀਆਵੀ ਮਲਕੀਅਤਾਂ ਦਾ) ਕਿਉਂ ਮਾਣ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕਾਹੇ = ਕਿਉਂ? ਕਰਸਹਿ = ਤੂੰ ਕਰੇਂਗਾ, ਤੂੰ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

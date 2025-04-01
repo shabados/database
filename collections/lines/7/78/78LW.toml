@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਲਣ!) ਪੱਤਰ ਬ੍ਰਹਮਾ-ਰੂਪ ਹਨ, ਡਾਲੀ ਵਿਸ਼ਨੂ-ਰੂਪ ਅਤੇ ਫੁੱਲ ਸ਼ਿਵ-ਰੂਪ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੁ = ਬ੍ਰਹਮਾ। ਡਾਰੀ = ਡਾਲੀ, ਟਹਿਣੀ। ਸੰਕਰ = ਸ਼ਿਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

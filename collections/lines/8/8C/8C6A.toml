@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਸਾਂਵਲੇ ਰੰਗ ਵਾਲਾ ਸੋਹਣਾ ਕ੍ਰਿਸ਼ਨ ਹੈ, ਆਪ ਹੀ ਬੰਸਰੀ ਵਜਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਵਲ ਸੁੰਦਰਾ = ਸਾਵਲੇ ਰੰਗ ਵਾਲਾ ਸੋਹਣਾ (ਕ੍ਰਿਸ਼ਨ)। ਵੰਸੁ = ਬੰਸਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

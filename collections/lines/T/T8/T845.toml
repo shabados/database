@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਖਸ਼ਿਸ਼ਾਂ ਦਾ ਅਤਿਅੰਤ ਹੈ ਅਤੇ ਨਿਆਮਤਾਂ ਦਾ ਵੱਡਾ ਸਮੂਹ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਫ਼ੂਰੁਲ ਅਤਾ ਓ ਅਮੀਮੁਲ ਨਅਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

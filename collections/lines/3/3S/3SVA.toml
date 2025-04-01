@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਹਰੀ ਇਸ ਲੋਕ ਵਿਚ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਮਿੱਤਰ ਬਣਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ ਹਰਿ = ਜੇਹੜਾ ਹਰੀ! ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ। ਸਖਾਈ = ਮਿੱਤਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

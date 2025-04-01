@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹੁਣ ਮੈਂ (ਹਰ ਥਾਂ) ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ ਵੇਖਦਾ ਹਾਂ, (ਉਸ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ) ਕੋਈ ਹੋਰ ਨਹੀਂ (ਦਿੱਸਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਖਾ = ਵੇਖਾਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਬੀਆ = ਦੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਨੇ ਭੀ ਚੰਗੀ ਰਹਿਣੀ ਨਹੀਂ ਲੱਭੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰੁ = ਚੰਗੀ ਰੀਹਣੀ। ਕਿਨ ਹੀ = ਕਿਨਿ ਹੀ, ਕਿਸੇ ਨੇ ਹੀ (ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹੀ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਕਿਨਿ' ਦੀ ' ਿ ' ਉੱਡ ਗਈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

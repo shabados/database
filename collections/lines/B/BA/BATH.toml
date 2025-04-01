@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦਾ ਨਾਮ ਸੁਨਣ ਵਾਲੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਮਿਆਨਿ ਨਾਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 131
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

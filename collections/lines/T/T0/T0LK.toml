@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰੇ ਸੰਤ ਜਨ ਬੜੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ ਕਿਉਂਕਿ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਤੇਰਾ ਨਾਮ-ਧਨ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗਠੜੇ = ਭਾਗਾਂ ਵਾਲੇ। ਹਰਿ = ਹੇ ਹਰੀ! ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਸਭ ਜੀਵ) ਸਦਾ ਤੋਂ ਹੀ (ਰੱਬ ਦੇ ਦਿੱਤੇ ਪਦਾਰਥ) ਖਾਂਦੇ ਚਲੇ ਆ ਰਹੇ ਹਨ। ***"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਾ ਜੁਗੰਤਰਿ = ਜੁਗ ਜੁਗ ਅੰਤਰਿ, ਸਾਰੇ ਜੁਗਾਂ ਵਿਚ ਹੀ, ਸਦਾ ਤੋਂ ਹੀ। ਖਾਹੀ ਖਾਹਿ = ਖਾਂਦੇ ਹੀ ਖਾਂਦੇ ਹਨ, ਵਰਤਦੇ ਚਲੇ ਆ ਰਹੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

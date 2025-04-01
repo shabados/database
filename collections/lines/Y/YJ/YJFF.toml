@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਪਛਾਣਿਆ ਹੈ ਉਹ ਕਦੇ ਪਛੁਤਾਂਦੇ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਰੋਵਣਾ = ਪਛੁਤਾਂਦੇ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

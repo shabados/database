@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਘਿਉ ਨਾਲ ਹੀ ਸਦਾ ਹੋਮ-ਜੱਗ ਪੂਜਾ ਆਦਿਕ ਹੁੰਦੇ ਹਨ, ਇਹ ਘਿਉ ਪਿਆਂ ਹੀ ਹਰੇਕ ਕਾਰਜ ਸੋਭਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਘਿਇ = ਉਸ ਘਿਉ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

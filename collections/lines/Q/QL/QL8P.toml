@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਦੇ ਸ਼ਬਦਾਣ ਤੋਣ ਬਿਨਾਣ ਹੋਰ ਕੁਝ ਵੀ ਕਹਿਣਾ ਉਨ੍ਹਾਣ ਦਾ ਨੇਮ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਰਿ ਹਰਫ਼ਿ ਰਾਸਤੀ ਦਸਤੂਰ ਨੀਸਤ ।੧੫੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਕਚਹਿਰੀ ਵਿਚ ਸਦਾ ਨਿਆਂ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਮੁ = ਇਨਸਾਫ਼। ਜਾ ਕੈ ਦੀਬਾਣਿ = ਜਿਸ ਦੀ ਕਚਹਿਰੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

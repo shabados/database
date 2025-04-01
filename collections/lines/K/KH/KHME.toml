@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਪ੍ਰਭੂ ਆਪ ਸਦਾ ਹੀ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਸਦਾ ਖ਼ਜ਼ਾਨਾ ਭੀ ਸਦਾ ਭਰਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦੀਵ = ਸਦਾ ਹੀ (ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ)। ਜਿਸੁ ਭੰਡਾਰੁ = ਜਿਸ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

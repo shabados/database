@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸਫ਼ਾਈ ਨਹੀਂ, ਧੋਖਾ ਹੈ, ਪਰ ਸਰੀਰ ਨੂੰ ਬਾਹਰੋਂ ਧੋ ਕੇ ਰੱਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰੁ = ਬਾਹਰਲਾ ਪਾਸਾ (ਭਾਵ, ਸਰੀਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

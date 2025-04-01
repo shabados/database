@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਹ ਸਰੀਰ ਜਿਸ ਦਾ (ਤੂੰ) ਮਾਣ ਕਰਦਾ ਹੈਂ (ਸਦਾ ਲਈ) ਆਪਣਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨੁ = ਸਰੀਰ। ਜਾ ਕੋ = ਜਿਸ ਦਾ। ਗਰਬਾ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

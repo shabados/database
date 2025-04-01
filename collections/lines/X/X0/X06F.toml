@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਤੂੰ (ਜਗਤ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ) ਲਾਭ ਖੱਟਣ ਵਾਸਤੇ ਆਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਾ = ਲਾਭ। ਲੈਣਿ = ਲੈਣ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਤਸੰਗੀ ਭਰਾਵੋ! ਤੁਸੀ ਭੀ (ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਰਸ ਮਾਣੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈਹੋ = ਹੇ ਭਰਾਵੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

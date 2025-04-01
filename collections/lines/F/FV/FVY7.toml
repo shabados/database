@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਤੂੰ ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਮਿਹਰ ਕਰਦਾ ਹੈਂ, ਉਹ, ਹੇ ਹਰੀ! ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ (ਮਨੁੱਖ) ਉੱਤੇ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

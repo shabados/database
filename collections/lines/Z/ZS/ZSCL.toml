@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ (ਸਦਾ ਹੀ) ਆਪਣੇ ਭਗਤਾਂ ਦਾ ਪੱਖ ਕੀਤਾ ਹੈ, (ਭਗਤਾਂ ਦੀ) ਲਾਜ ਰੱਖੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਗੀਕਾਰੁ = ਪੱਖ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਪਾਤਿ = ਪਤਿ, ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

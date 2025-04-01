@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਭ ਜੀਵਾਂ ਦਾ) ਪੁੱਤਰ ਨਾਲ ਇਸਤ੍ਰੀ ਨਾਲ ਮੋਹ ਹੈ ਪਿਆਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ। ਜਗਿ = ਜਗਤ ਵਿਚ। ਹੇਤੁ = ਹਿਤ, ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

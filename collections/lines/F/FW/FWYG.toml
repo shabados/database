@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਮਨੁੱਖ ਕ੍ਰੋੜਾਂ ਜਾਂ ਲਖਾਂ ਵਾਰੀ ਜਤਨ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ ਵਾਰੀ। ਲਖ = ਲੱਖ ਵਾਰੀ। ਧਾਵੈ = ਦੌੜਦਾ ਫਿਰੇ, ਜਤਨ ਕਰਦਾ ਫਿਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

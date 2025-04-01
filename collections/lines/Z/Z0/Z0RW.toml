@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਤੂੰ ਮੇਰੇ ਵਾਸਤੇ ਫ਼ਖ਼ਰ ਦੀ ਥਾਂ ਹੈਂ, ਤੂੰ ਮੇਰਾ ਮਾਣ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ਮਾਣੁ = ਫ਼ਖ਼ਰ (ਦੀ ਥਾਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

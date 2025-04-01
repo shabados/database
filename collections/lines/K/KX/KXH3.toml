@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਖ਼ਿਰ) ਸੰਡ ਨੇ ਤੇ ਅਮਰਕ ਨੇ (ਹਰਨਾਖਸ਼ ਪਾਸ) ਜਾ ਸ਼ਿਕੈਤ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਡੈ = ਸੰਡ ਨੇ। ਮਰਕੈ = ਅਮਰਕ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

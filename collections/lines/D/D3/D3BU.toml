@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿੱਥੇ ਗੁਰਮੁਖ ਮਨੁੱਖ (ਆਪਣੇ) ਪੈਰ ਧਰਦੇ ਹਨ ਉਹ ਥਾਂ ਅਠਾਹਠ ਤੀਰਥ ਸਮਝੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠਸਠਿ = {ਅੱਠ ਅਤੇ ਸੱਠ} ਅਠਾਹਠ। ਪਗ = ਚਰਨ, ਪੈਰ। ਧਰਹਿ = ਧਰਦੇ ਹਨ। ਸਾਧ = ਭਲੇ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

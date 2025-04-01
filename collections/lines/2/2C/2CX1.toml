@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਖ਼ਾਲੀ (ਹਿਰਦਿਆਂ) ਨੂੰ ਇਕ ਖਿਨ ਵਿਚ (ਗੁਣਾਂ ਨਾਲ) ਨਕਾ-ਨਕ ਭਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਣੇ = ਖ਼ਾਲੀ। ਸੁਭਰ = ਨਕਾ-ਨਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

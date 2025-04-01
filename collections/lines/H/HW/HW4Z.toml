@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਮੈਂ (ਅੱਖੀਂ) ਵੇਖ ਰਿਹਾ ਹਾਂ, ਉਹ ਨਾਸਵੰਤ ਹੈ, (ਫਿਰ) ਪੀਡੀ ਪ੍ਰੀਤ ਕਿਸ ਦੇ ਨਾਲ ਪਾਈ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਞੋ = ਜੋ ਕੁਝ। ਪੇਖਉ = ਪੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਕਾ ਸਿਉ = ਕਿਸ ਨਾਲ? ਸੰਗੁ = ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

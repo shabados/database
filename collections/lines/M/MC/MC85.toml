@@ -42,6 +42,12 @@ language = "pa"
 data = "ਜਿਸ ਅਕਾਲ ਪੁਰਖ ਨੇ ਕਈ ਰੰਗਾਂ, ਕਿਸਮਾਂ ਅਤੇ ਜਿਨਸਾਂ ਦੀ ਮਾਇਆ ਰਚ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੀ ਰੰਗੀ = ਰੰਗਾਂ ਰੰਗਾਂ ਦੀ, ਕਈ ਰੰਗਾਂ ਦੀ। ਭਾਤੀ = ਕਈ ਕਿਸਮਾਂ ਦੀ। ਕਰਿ ਕਰਿ = ਪੈਦਾ ਕਰ ਕੇ। ਜਿਨਸੀ = ਕਈ ਜਿਨਸਾਂ ਦੀ। ਜਿਨਿ = ਜਿਸ ਅਕਾਲ ਪੁਰਖ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

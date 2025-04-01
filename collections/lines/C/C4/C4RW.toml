@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਵਾਲੀ ਜੀਵਨ-ਜੁਗਤਿ ਗੁਰੂ ਪਾਸੋਂ ਹੀ ਸਿੱਖੀ ਜਾ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਲ = ਜੀਵਨ-ਚਾਲ, ਜੀਵਨ-ਜੁਗਤਿ। ਤੇ = ਤੋਂ, ਪਾਸੋਂ। ਜਾਪੈ = ਸਿੱਖੀ ਜਾ ਸਕਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

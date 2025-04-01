@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਿਰ ਉਤੇ ਮੌਤ ਖੜੀ ਰਹਿੰਦੀ ਹੈ, ਪਰ ਉਸ ਨੂੰ ਇਸ ਦੀ ਸਮਝ ਨਹੀਂ ਪੈਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਕਾਲੁ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

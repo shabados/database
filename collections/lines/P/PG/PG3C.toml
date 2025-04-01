@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਹਰ ਅਥਰੂ ਨਾਲ ਸਂੈਂਕੜੇ ਬਾਗ ਹਰੇ ਭਰੇ ਹੋ ਜਾਣਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹਰ ਅਸ਼ਕਮ ਬਵਦ ਸ਼ਾਦਾਬੀਇ ਸਦ ਬਾਗ਼ ਬਾਗ਼ ਈਣਜਾ ।੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

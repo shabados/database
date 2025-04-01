@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਮੈਂ ਤੇਰੀ ਸਰਨ ਆ ਪਿਆ ਹਾਂ) ਸਰਨ ਪਏ ਦੀ ਮੇਰੀ ਲਾਜ ਰੱਖੀਂ ॥੨॥੨੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਮਾ = ਸ਼ਰਮ, ਲਾਜ ॥੨॥੨੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

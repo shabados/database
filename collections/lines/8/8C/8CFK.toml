@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਪੀ ਲੋਕ ਇਸ ਵਾਸਤੇ ਮਸਤੇ ਹੋਏ ਹਨ ਕਿ ਉਹਨਾਂ ਨੇ ਤਪ ਦਾ ਭੇਤ ਪਾ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਵ = ਭੇਤ, ਮਰਮ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

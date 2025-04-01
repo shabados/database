@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਬੇਅੰਤ ਹਰੀ ਦਾ ਦਰਸਨ ਕਰ ਕੇ ਮੈਂ ਹੈਰਾਨ ਪਈ ਹੁੰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਬਿਸਮੁ = ਹੈਰਾਨ। ਜੀ = ਹੇ ਜੀਉ! ਦੇਖਿ = ਦੇਖ ਕੇ। ਅਪਾਰਾ ਦਰਸਨੁ = ਬੇਅੰਤ ਦਾ ਦਰਸਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

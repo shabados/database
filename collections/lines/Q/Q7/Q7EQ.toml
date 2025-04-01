@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੌੜ ਕੇ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਉ ਤੇ ਸਭ ਤੋਂ ਚੰਗਾ ਸੁਖ ਹਾਸਲ ਕਰੋ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਹੁ = ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

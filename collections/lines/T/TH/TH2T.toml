@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਆਸਰਾ ਲੈ ਕੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ (ਅਜਿਹਾ ਸੰਭਵ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਕੀਐ = ਆਸਰੇ। ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਅਧਾਰੇ = ਆਸਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

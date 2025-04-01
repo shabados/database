@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਿਤ ਲੋਕ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ ਪੜ੍ਹਦੇ ਹਨ (ਪਰ ਅੰਦਰੋਂ ਗੁਣ-ਹੀਨ ਹੋਣ ਕਰਕੇ ਉਹਨਾਂ ਪੁਸਤਕਾਂ ਦੀ) ਵਿਚਾਰ ਨਹੀਂ ਸਮਝਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਚਹਿ = ਪੜ੍ਹਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

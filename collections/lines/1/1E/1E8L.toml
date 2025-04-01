@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ ਲੋਕ ਪਰਲੋਕ ਵਿਚ ਸੁਖ ਮਾਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ {अत्र}। ਪਲਤਿ = ਪਰ ਲੋਕ ਵਿਚ {परत्र}। ਮੁਰਾਰਿ = {मुर-अरि} ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

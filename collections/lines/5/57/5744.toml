@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਧੁਰੋਂ ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ ਹੋਵੇ, ਉਸ ਦਾ ਗੁਰੂ ਨਾਲ ਪ੍ਰੇਮ ਬਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਨੇਹਾ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

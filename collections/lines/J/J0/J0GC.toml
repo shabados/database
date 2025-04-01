@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਕਬੀਰ (ਭਗਤ ਜਗਤ ਵਿਚ) ਮਸ਼ਹੂਰ ਹੋਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਕੇ ਨਾਮ = ਹਰਿ-ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ। ਉਜਾਗਰ = ਉੱਘਾ, ਮਸ਼ਹੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

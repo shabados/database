@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਸੱਜਣੋ! ਜੇ ਤੁਸੀ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ ਜਨ = ਹੇ ਭਾਈ ਜਨੋ! ਹੇ ਪਿਆਰੇ ਸੱਜਣੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

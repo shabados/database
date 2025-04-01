@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਹੀ ਬੰਦਾ ਹੋਣ ਦਾ ਕਮਾਲ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਬਾਸ਼ਦ ਕਮਾਲਿ ਬੰਦਗੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

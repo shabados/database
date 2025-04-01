@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਹਰੋਂ ਭਾਵੇਂ ਉਹ ਇਸਤਰੀ ਅਤੇ ਬੱਚੇ ਦੇ ਮੋਹ ਵਿਚ ਦਿਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰ ਅੰਦਰ ਮਾਇਲਿ ਫਰਜ਼ੰਦੋ ਜ਼ਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

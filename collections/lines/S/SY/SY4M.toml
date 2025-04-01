@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਤੂੰ ਆਪਣੇ ਦਾਸਾਂ ਉਤੇ ਕਿਰਪਾ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈਂ, ਮੇਰੀ ਭੀ ਇੱਜ਼ਤ ਰੱਖ! ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਜ = ਲਾਜ ॥ ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

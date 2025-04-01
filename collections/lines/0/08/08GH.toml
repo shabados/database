@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਨੇਕਾਂ ਕੌਤਕਾਂ ਦੇ ਮਾਲਕ ਹਰੀ ਪ੍ਰਭੂ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਿਸ ਮਨੁੱਖ ਨੇ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੀ = ਅਨੇਕਾਂ ਰੰਗਾਂ-ਕੌਤਕਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੱਥ ਦੇ ਕੇ ਸਭ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ, ਸਭ ਨੂੰ ਪਾਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ। ਦੇਇ = ਦੇ ਕੇ। ਭਰਣ ਪੋਖਣੁ = ਪਾਲਣਾ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

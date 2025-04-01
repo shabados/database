@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ ਦੀਆਂ ਗੱਲਾਂ ਕਰਦੇ ਹਨ ਜਤ ਸਤ ਸੰਜਮ ਦੇ ਸਾਧਨ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜਮ = ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਵੱਸ ਵਿਚ ਰੱਖਣ ਦਾ ਜਤਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

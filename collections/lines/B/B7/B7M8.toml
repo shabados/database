@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਕ ਪ੍ਰਭੂ ਦੀ ਟੇਕ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਥਾਂ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੀ ਬਾਹਰੀ = ਇਕ ਥਾਂ ਤੋਂ ਬਿਨਾ, ਪ੍ਰਭੂ ਦੀ ਇਕ ਥਾਂ ਤੋਂ ਬਿਨਾ। ਜਾਇ = ਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

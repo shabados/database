@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਹੇ ਮੇਰੀ ਜਿੰਦ (ਦੇ ਮਾਲਕ)! (ਮੈਨੂੰ) ਮਿਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੇ ਪ੍ਰਾਨ = ਹੇ ਮੇਰੀ ਜਿੰਦ (ਦੇ ਮਾਲਕ)!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

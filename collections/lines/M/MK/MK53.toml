@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਆਸਰੇ ਪ੍ਰਭੂ!  ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨ ਅਧਾਰਾ = ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਆਸਰੇ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

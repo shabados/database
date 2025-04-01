@@ -36,6 +36,12 @@ language = "pa"
 data = "ਠੱਗਾਂ ਦੇ ਇਸ ਟੋਲੇ ਨੇ ਅਨੇਕਾਂ ਘਰ (ਹਿਰਦੇ) ਤਬਾਹ ਕਰ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਗਵਾਰੀ = ਠੱਗਾਂ ਦੀ ਵਾੜੀ ਨੇ, ਠੱਗਾਂ ਦੇ ਟੋਲੇ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

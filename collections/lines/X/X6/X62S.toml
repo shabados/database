@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੁ ਆਪ ਹੀ, ਆਪ ਹੀ ਸਰਬ-ਵਿਆਪਕ ਤੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ। ਨਿਰੰਜਨੁ = {ਨਿਰ-ਅੰਜਨ} ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ, ਪ੍ਰਭੂ ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਹੀ ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ ਖ਼ੁਸ਼ ਹੋ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤੀਜੈ = ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ। ਬੈਣੀ = ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

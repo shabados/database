@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੀਵ-) ਟਿੰਡਾਂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਡੁਬਕੀਆਂ ਲੈ ਰਹੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਭਕਲੇ = ਡੁਬਕੀਆਂ। ਸੰਸਾਰਾ = ਸੰਸਾਰ (ਸਮੁੰਦਰ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

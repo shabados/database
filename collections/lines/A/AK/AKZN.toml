@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਰਜ਼ਾ (ਜੀਵਾਂ ਪਾਸੋਂ) ਆਪ ਕਰਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣਾ = ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

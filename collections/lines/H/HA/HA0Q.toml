@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਗੁਣਾਂ ਦੇ ਮਾਲਕ ਖਸਮ! ਤੂੰ ਦਇਆ ਦਾ ਘਰ ਹੈਂ, ਤੂੰ ਸਦਾ-ਜਵਾਨ ਹੈਂ, ਤੂੰ ਸਾਰੇ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਹ = ਹੇ ਨਾਥ! ਹੇ ਪਤੀ! ਬਾਲਾ = ਸਦਾ ਜਵਾਨ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

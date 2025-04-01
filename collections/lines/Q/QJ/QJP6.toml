@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਵਰਖਾ-ਜਲ ਤੋਂ ਬਿਨਾ ਪਪੀਹਾ ਵਿਲਕਦਾ ਹੈ, ਵਰਖਾ ਦੀ ਬੂੰਦ ਤੋਂ ਬਿਨਾ ਉਸ ਦੀ ਤ੍ਰੇਹ ਨਹੀਂ ਮਿਟਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤ੍ਰਿਕੁ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

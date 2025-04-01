@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਉਤੇ ਮੇਹਰ ਕੀਤੀ, ਉਹਨਾਂ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਣੇ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਸੁਆਮੀ = ਮੇਰੇ ਮਾਲਕ ਨੇ। ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼ {अनुदिनां} ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

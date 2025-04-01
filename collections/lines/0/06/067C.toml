@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਆਪਣੇ ਗੁਰੂ ਦਾ ਆਸਰਾ ਲੈਂਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਕੈ ਪਾਇ = ਉਹਨਾਂ ਦੀ ਪੈਰੀਂ। ਲਾਗਉ = ਲਾਗਉਂ, ਮੈਂ ਲੱਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

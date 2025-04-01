@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਆਪਣੇ ਮਨ ਵਿਚ ਉਸ ਮੌਕੇ ਨੂੰ ਉਡੀਕਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਵਉ = ਚਿਤਵਉਂ, ਮੈਂ ਚਿਤਾਰਦਾ ਰਹਿੰਦਾ ਹਾਂ। ਵਾ ਅਉਸਰ = ਉਹ ਸਮਾ, ਉਹ ਮੌਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

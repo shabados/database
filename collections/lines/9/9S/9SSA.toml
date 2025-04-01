@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਰਤਾਰ!) ਸੂਰਮਿਆਂ ਵਿਚ ਤੂੰ ਸ਼ਿਰੋਮਣੀ ਸੂਰਮਾ ਅਖਵਾਣ ਦਾ ਹੱਕਦਾਰ ਹੈਂ, ਭੋਗੀਆਂ ਵਿਚ ਤੂੰ ਹੀ ਭੋਗੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਾ = ਸੂਰਮਾ। ਭੋਗਨ ਮਹਿ = ਭੋਗਣ ਵਾਲਿਆਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

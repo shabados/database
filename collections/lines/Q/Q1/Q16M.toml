@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਵਣਜ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪਾਰੀ = ਵਪਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

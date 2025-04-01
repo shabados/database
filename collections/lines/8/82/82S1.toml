@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਅੰਨ ਦੇ ਦਾਣਿਆਂ ਤੋਂ ਬਿਨਾ ਕੋਈ ਖਲਵਾੜਾ ਗਾਹਿਆ ਜਾਏ (ਉਸ ਵਿਚੋਂ ਦਾਣਿਆਂ ਦਾ ਬੋਹਲ ਨਹੀਂ ਬਣੇਗਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਣ = ਅੰਨ ਦੇ ਦਾਣੇ। ਖਲਹਾਨੁ = ਖਲਵਾੜਾ। ਗਾਹਨ ਪਾਇਆ = ਗਾਹਿਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

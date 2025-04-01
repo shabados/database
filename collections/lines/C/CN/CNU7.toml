@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਹਰੇਕ ਜੀਵ ਦਾ) ਮੁੱਢ ਦਾ ਸਾਥੀ ਹੈ, ਭਗਤਾਂ ਦਾ ਮਿੱਤਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲ ਸਖਾਈ = ਮੁੱਢ ਦਾ ਸਾਥੀ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

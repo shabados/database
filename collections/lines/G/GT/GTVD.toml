@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਹਰੇਕ ਥਾਂ ਵਿਚ ਪਰਮਾਤਮਾ ਹੀ ਵਿਆਪਕ ਦਿੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨਿ = ਥਾਂ ਵਿਚ। ਸਰਬ ਥਾਨਿ = ਹਰੇਕ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

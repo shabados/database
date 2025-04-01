@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਰਾਜ ਨੂੰ ਰੋਕਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਜਮਰਾਜ ਨੂੰ ਮਾਰਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਫਰਿਓ = ਭੂਤਿਆ ਹੋਇਆ, ਨਾਹ ਟਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

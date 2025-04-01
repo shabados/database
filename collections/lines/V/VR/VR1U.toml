@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਤੈਨੂੰ ਸਾਰੀਆਂ ਜੂਨੀਆਂ ਉਤੇ ਸਰਦਾਰ ਬਣਾ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੀਆਂ। ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਸਿਰਿ ਧਰਿਆ = ਸ਼ਿਰੋਮਣੀ ਬਣਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

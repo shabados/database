@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਗੋਂ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਕੀਤੀ ਹੋਈ) ਬਹੁਤੀ ਚਤੁਰਾਈ (ਹੋਰ ਹੋਰ ਦੁੱਖਾਂ ਦਾ) ਬਹੁਤਾ ਭਾਰ (ਸਿਰ ਉਤੇ ਪਾ ਦੇਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਲ = ਬਹੁਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

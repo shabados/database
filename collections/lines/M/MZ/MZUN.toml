@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਇਹ ਕਿਵੇਣ ਫੁਲਵਾੜੀ ਵਲ ਨੂੰ ਜਾ ਸਕਦਾ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਹੁਦਾ ਚਿਰਾ ਜਾਨਬਿ ਗੁਲਜ਼ਾਰ ਤਵਾਣ ਰਫ਼ਤ ।੧੨।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

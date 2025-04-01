@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਨਾਮ ਤੋਂ ਸੱਖਣੇ (ਅਸਲ ਵਿਚ) ਕੁੱਬੇ ਤੇ ਬਦ-ਸ਼ਕਲ ਹਨ ॥੩॥੨੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਬਜ = ਕੁੱਬਾ। ਕੁਰੂਪ = ਕੋਝੇ ਰੂਪ ਵਾਲੇ, ਬਦ-ਸ਼ਕਲ ॥੩॥੨੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

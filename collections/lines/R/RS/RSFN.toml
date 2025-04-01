@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਾ ਨੇ, ਇੰਦਰ ਨੇ, ਸ਼ਿਵ ਨੇ (ਭੀ ਇਹ ਕਦਰ) ਨਾਹ ਸਮਝੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੈ = ਬ੍ਰਹਮਾ ਨੇ। ਇੰਦ੍ਰਿ = ਇੰਦਰ ਨੇ। ਮਹੇਸਿ = ਮਹੇਸ਼ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

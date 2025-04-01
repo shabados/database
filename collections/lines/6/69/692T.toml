@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਆਪਣੇ ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਚੇਤੇ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਸਮਾਰਉ = ਮੈਂ ਸੰਭਾਲਦਾ ਹਾਂ, ਮੈਂ ਚੇਤੇ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

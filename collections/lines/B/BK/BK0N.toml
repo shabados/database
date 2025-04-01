@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਸਿਮਰਨ ਨਾਲ ਸਾਰੇ ਪਾਪਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਚਤ = ਮੁੱਕ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਫੁਲਾਣ ਨੂੰ ਖ਼ਬਰ ਦੇ ਦਿਓ ਕਿ ਸਾਰੇ ਖਿੜ ਜਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਬਰ ਦਿਹੇਦ ਬ-ਗੁਲਹਾ ਕਿ ਬਿਸ਼ਗੁਫ਼ੰਦ ਹਮਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

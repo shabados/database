@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੈੜੇ ਬੰਦੇ ਤਾਂ ਦਰਗਾਹ ਵਿਚ ਰੱਦੇ ਜਾਂਦੇ ਹਨ, ਉਹ ਉਥੇ ਖਲੋ ਕੇ ਪੁਕਾਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਟੀਅਨਿ = ਪਰੇ ਸੁੱਟੇ ਜਾਂਦੇ ਹਨ, ਰੱਦ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਊਭੇ = ਖਲੋਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਦਿਲ ਦੇ ਜ਼ਖਮ ਲਈ ਤੇਰੀ ਇੱਕੋ ਮੁਸਕਾਨ ਮਰਹਮ ਦਾ ਕੰਮ ਕਰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰਾਇ ਰੇਸ਼ਿ ਦਿਲਮ ਖ਼ੰਦਾਇ ਤੂ ਮਰਹਮ ਬਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

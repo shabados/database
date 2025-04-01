@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਨੇਰੇ ਵਿਚ ਦੀਵੇ ਚਾਨਣ ਕਰਦੇ ਹਨ (ਤੇ ਠੇਡਾ ਖਾਣ ਤੋਂ ਬਚਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪਕ = ਦੀਵੇ। ਦੀਪਾਹਿ = ਜਗਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

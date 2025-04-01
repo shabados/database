@@ -5,6 +5,11 @@ language = "pa"
 data = "ਛਿਨ ਛਿਨ ਸਿਵਾਇ ਰੱਬ ਦੇ ਹੋਰ ਕੋਈ ਉਸਦਾ ਮੰਤਵ ਨਹੀਣ ਰਹਿੰਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਨਫ਼ਸ ਜੁਜ਼ ਹੱਕ ਨ ਦਾਰਦ ਮੁਦਆ ।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਖਾਣ ਦੇ ਲੋਭ ਵਿਚ ਪਦਾਰਥਾਂ ਦੇ ਮਿੱਠੇ ਸੁਆਦ ਵਿਚ ਸੁੱਤੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਸਾਦਿ = ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

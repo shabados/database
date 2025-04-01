@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਿਸ ਦੀ (ਕੀਤੀ ਹੋਈ ਬਖ਼ਸ਼ਸ਼ ਨੂੰ ਕੋਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ) (ਕੋਈ ਰੋਕ ਨਹੀਂ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

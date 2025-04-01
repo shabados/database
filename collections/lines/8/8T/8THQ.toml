@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਇਹਨਾਂ ਮੋਤੀਆਂ ਦੇ ਦਾਨਿਆਂ ਨੂੰ ਇਸ ਲਈ ਪਰੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਸਤਮ ਤਰਤੀਬਿ ਈਂ ਦੁੱਰ ਦਾਨਾ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

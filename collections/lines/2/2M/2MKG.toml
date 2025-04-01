@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਸਾਰੇ ਕੀਰਨੇ ਤੇ ਵਿਰਲਾਪ ਮਿਟ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ ਪਲਾਹ = {करुणाप्रलाप} ਕੀਰਨੇ, ਤਰਸ ਪੈਦਾ ਕਰ ਸਕਣ ਵਾਲੇ ਵਿਰਲਾਪ। ਮਿਟਹਿ = {ਬਹੁ-ਵਚਨ} ਮਿਟ ਜਾਂਦੇ ਹਨ। ਬਿਲਲਾਟਾ = ਵਿਰਲਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

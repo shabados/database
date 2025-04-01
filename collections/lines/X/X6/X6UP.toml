@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਬੜੇ ਵੱਡੇ ਭਾਗ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਵਡ ਭਾਗ = ਏਡੇ ਵੱਡੇ ਭਾਗ, ਬੜੀ ਕਿਸਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਮੇਰਾ ਚੰਨ ਸਵੇਰ ਦੀ ਨੀਣਦਰ ਤੋਣ ਉਠ ਕੇ ਬਾਹਰ ਆਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੀਰੂੰ ਬਰ-ਆਮਦ ਆਣ ਮਹਿ ਮਨ ਚੂੰ ਜ਼ ਖ਼ਾਬਿ ਸੁਬਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

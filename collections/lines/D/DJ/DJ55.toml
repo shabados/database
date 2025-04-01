@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਮਾਂ ਰੰਡੀ ਕਿਉਂ ਨ ਹੋ ਗਈ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਵਾ = ਠੰਡੀ। ਕਸ = ਕਿਉਂ? ਮਹਤਾਰੀ = ਮਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

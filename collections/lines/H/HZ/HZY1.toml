@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਹ ਕੋਈ ਰੰਗ ਹੈ, ਨਾਹ ਕੋਈ ਨਿਸ਼ਾਨ ਹੈ, ਨਾਹ ਤੇਰਾ ਕੋਈ ਮੂੰਹ ਹੈ, ਨਾਹ ਕੋਈ ਦਾੜ੍ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨੁ = ਰੰਗ। ਚਿਹਨੁ = ਨਿਸ਼ਾਨ। ਮਾਸਾਰਾ = ਦਾੜ੍ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

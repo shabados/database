@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਮਿਹਰਾਂ ਵਾਲਾ ਹੈ ਅਤੇ ਦੂਜਾ ਕਹਿਰ ਅਤੇ ਗ਼ਜਬ ਦਾ ਨਿਸ਼ਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਕੇ ਜਾਇ ਫ਼ਜਲੋ ਦਿਗਰ ਜਾਇ ਕਹਿਰ ।੭੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

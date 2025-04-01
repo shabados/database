@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ (ਜੀਵਨ ਦੇ ਰਾਹ ਵਿਚ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ ਧਿਆਇਐ = ਜੇ ਨਾਮ ਸਿਮਰਿਆ ਜਾਏ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

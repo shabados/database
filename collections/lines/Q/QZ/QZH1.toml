@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪੈ ਕੇ ਉਸ ਦੇ ਨਾਮ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਚਾਰੋ = (ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ) ਧਿਆਨ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਸ ਰਤਨ ਨੂੰ ਇਸ ਸਰਮਾਏ ਨੂੰ) ਚੋਰਾਂ ਤੋਂ ਖ਼ਤਰਾ ਨਹੀਂ, ਹਵਾ ਤੋਂ ਡਰ ਨਹੀਂ, ਪਾਣੀ ਤੋਂ ਡਰ ਨਹੀਂ (ਨਾਹ ਚੋਰ ਚੁਰਾ ਸਕਦੇ ਹਨ ਨਾਹ ਝੱਖੜ ਉਡਾ ਸਕਦੇ ਹਨ ਨਾਹ ਪਾਣੀ ਡੋਬ ਸਕਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰ = ਚੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

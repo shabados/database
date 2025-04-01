@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਬੰਦਿਆਂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ ਬਲਿਹਾਰੈ = ਉਹਨਾਂ ਤੋਂ ਕੁਰਬਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

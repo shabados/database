@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਮੁੱਲ ਵਜੋਂ ਆਪਣਾ ਮਨ ਦੇ ਕੇ ਰੱਬ ਲੱਭਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇ = ਦੇ ਕੇ। ਮੋਲਿ = ਮੁੱਲ ਦੇ ਥਾਂ, ਮੁੱਲ ਵਜੋਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

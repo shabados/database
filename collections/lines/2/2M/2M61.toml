@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣ ਜੋ ਤੇਰੀ ਮਸਤ ਅੱਖ ਅੱਜ ਨਸ਼ੇ ਨਾਲ ਭਰੀ ਹੌਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਮਸਤ ਤੂ ਇਮਰੂਜ਼ ਖ਼ੁਮਾਰੇ ਦਾਰਦ ।੨੯।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

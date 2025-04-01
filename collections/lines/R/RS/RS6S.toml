@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੋਵਿੰਦ! ਇਹ ਤੇਰੀ ਹੀ ਮੇਹਰ ਹੈ ਕਿ) ਜਿਧਰ ਤੂੰ ਮੈਨੂੰ ਭੇਜਦਾ ਹੈਂ, ਮੈਂ ਉਧਰ ਉਧਰ ਹੀ (ਖ਼ੁਸ਼ੀ ਨਾਲ) ਜਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਠਾਵਹੁ = ਤੂੰ ਭੇਜਦਾ ਹੈਂ। ਤਹ ਤਹ = ਉਥੇ ਉਥੇ। ਜਾਈ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

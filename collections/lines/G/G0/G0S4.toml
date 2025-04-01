@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਭ ਨਾਲ ਰਸ ਲੈ ਕੇ ਤੇਰੇ ਗੁਣ ਗਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨ = ਜੀਭ। ਰਸੇਰੇ = ਰਸ ਆਨੰਦ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

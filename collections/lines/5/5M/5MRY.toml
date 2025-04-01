@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਆਪਣੇ) ਮਨ ਨੂੰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨਾਲ ਜਗਾਉ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਬੋਧਹੁ = ਜਗਾਉ। ਨਾਇ = ਨਾਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

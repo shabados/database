@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ (ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਪੜ੍ਹੋ, (ਆਪਣੇ) ਮਨ ਵਿਚ (ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦੀ) ਵਿਚਾਰ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

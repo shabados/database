@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਮਾਇਆ ਦੀਆਂ ਹੀ) ਵਿਚਾਰਾਂ ਕੀਤਿਆਂ ਪ੍ਰਭੂ ਨਹੀਂ ਮਿਲਦਾ, (ਸਗੋਂ) ਮਾਇਆ ਵਿਚ ਹੀ ਭਟਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤੈ = ਗਣਤ ਨਾਲ, ਵਿਚਾਰਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

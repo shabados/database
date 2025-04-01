@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਬੇ-ਸਮਝ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ = ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ। ਇਆਣਾ = ਬੇ-ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

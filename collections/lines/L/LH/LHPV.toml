@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਜਲ ਦਾ ਖ਼ਜ਼ਾਨਾ (ਸਮੁੰਦਰ) ਹੈਂ, ਤੇ ਮੈਂ ਉਸ ਜਲ ਦਾ ਮੱਛ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲ ਨਿਧਿ = ਸਮੁੰਦਰ {ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ}। ਮੀਨੁ = ਮੱਛ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

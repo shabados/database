@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਰਬ੍ਰਹਮ! ਮੈਨੂੰ ਤੇਰੇ ਹੀ) ਸੋਹਣੇ ਚਰਨਾਂ ਦਾ ਆਸਰਾ ਹੈ, (ਤੈਥੋਂ ਬਿਨਾ) ਮੇਰਾ ਕੋਈ ਹੋਰ ਥਾਂ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਣ ਕਮਲ = ਕੌਲ ਫੁੱਲਾਂ ਵਰਗੇ ਸੋਹਣੇ ਚਰਨ। ਠਾਉ = ਥਾਂ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

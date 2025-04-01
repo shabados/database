@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਉਹ ਟਿਕਾਣਾ ਹਾਸਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਮਹਲੁ = ਉੱਚਾ ਆਤਮਕ ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

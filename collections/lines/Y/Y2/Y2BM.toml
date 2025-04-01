@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ (ਮੰਗਣ ਵਿਚ) ਕੋਈ ਲਾਲਚ ਨਹੀਂ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਬੋ = ਲਾਲਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

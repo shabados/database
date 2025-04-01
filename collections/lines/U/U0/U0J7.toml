@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੁੱਤਾਂ, ਮਹੀਨੇ; ਧਰਤੀਆਂ ਤੇ ਧਰਤੀਆਂ ਉਤੇ ਪੈਦਾ ਹੋਏ ਸਾਰੇ ਪਦਾਰਥ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹ = ਮਹੀਨੇ। ਧਰਤੀ = ਧਰਤੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

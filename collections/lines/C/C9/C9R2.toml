@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਇਸ ਨਾਸਵੰਤ ਸਰੀਰ ਨੂੰ ਕਈ ਵਾਰ ਪਾਣੀ ਨਾਲ ਭੀ ਧੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਪਾਣੀ ਨਾਲ। ਅਨੀਤਿ = ਨਾਹ ਨਿੱਤ ਰਹਿਣ ਵਾਲੀ (ਦੇਹ), ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

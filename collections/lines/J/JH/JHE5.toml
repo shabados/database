@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ (ਸਾਰੇ) ਸੁਖ ਦੁਖ ਇਕੋ ਜਿਹੇ ਜਾਪਣ ਲੱਗ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਸਰਿ = ਬਰਾਬਰ, ਇਕੋ ਜਿਹੇ। ਬਚਨੀ = ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ, ਬਚਨਾਂ ਤੇ ਤੁਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

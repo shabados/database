@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਜਿਸ ਅੱਗ ਨੇ ਦੇਵਤੇ ਤੇ ਮਨੁੱਖ ਸਾੜ ਸੁੱਟੇ ਸਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਪਾਵਕ = (ਵਿਸ਼ਿਆਂ ਦੀ) ਜਿਸ ਅੱਗ ਨੇ। ਪਾਵਕ = ਅੱਗ। ਸੁਰਿ = ਦੇਵਤੇ। ਨਰ = ਮਨੁੱਖ। ਹੈ ਜਾਰੇ = ਜਾਰੇ ਹੈਂ, ਸਾੜ ਦਿੱਤੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

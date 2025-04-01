@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣ ਜੋ ਉਸ ਦੇ ਮੁਕਾਬਲੇ ਤੇ ਕੋਈ ਵੀ ਰਸਾਇਨ ਨਹੀਣਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਦਰ ਬਰਾਬਰਿ-ਆਣ ਹੀਚ ਕੀਮੀਆ ਨ ਰਸਦ ।੩੦।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

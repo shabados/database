@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਣਕਿਆਂ ਉੱਤੇ) ਗੰਢ ਭੀ ਤੂੰ ਹੀ ਹੈਂ, (ਸਭ ਮਣਕਿਆਂ ਦੇ) ਸਿਰ ਉੱਤੇ ਮੇਰੂ-ਮਣਕਾ ਭੀ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਠੀ = ਗੰਢ। ਮੇਰੁ = ਸਿਰੇ ਦਾ ਮਣਕਾ। ਸਿਰਿ = (ਮਣਕਿਆਂ ਦੇ) ਸਿਰ ਉੱਤੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

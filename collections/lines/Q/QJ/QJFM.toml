@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਬੰਦਗੀ ਦੇ ਸ਼ੌਕ ਦਾ ਪਿਆਲਾ ਛਲਕਦਾ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਮਿ ਸ਼ੌਕਿ ਬੰਦਗੀ ਸਰਸ਼ਾਰ ਹਸਤ ।੩੪੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

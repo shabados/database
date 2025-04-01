@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਟਿਕਾਇਆ ਹੋਇਆ ਉਸ ਦਾ ਮਨ ਡੋਲਣ ਤੋਂ ਹਟ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਚੂਕਾ = ਹਟ ਗਿਆ। ਠਹਰਾਇਆ = ਟਿਕਾ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

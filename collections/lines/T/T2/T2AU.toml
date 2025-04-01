@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਲੋਕਾਣ ਦੀ ਗਲ ਬਾਤ ਆਪਣੀ ਸੂਝ ਬੂਝ ਅਨੁਸਾਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਫ਼ਤਗੂਇ ਹਮਾ ਕਸ ਦਰ ਖ਼ੋਰਿ ਇਦਰਾਕਿ ਖ਼ੁਦ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

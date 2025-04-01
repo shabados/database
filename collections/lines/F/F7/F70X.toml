@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਦੀਆਂ ਠਿੱਲ੍ਹਾਂ, ਝੱਗ ਅਤੇ ਬੁਲਬੁਲੇ-ਇਹ ਸਾਰੇ ਪਾਣੀ ਤੋਂ ਵੱਖਰੇ ਨਹੀਂ ਹੁੰਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰੰਗ = ਲਹਿਰਾਂ, ਠਿੱਲ੍ਹਾਂ। ਫੇਨ = ਝੱਗ। ਬੁਦਬੁਦਾ = ਬੁਲਬੁਲਾ। ਭਿੰਨ = ਵੱਖਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

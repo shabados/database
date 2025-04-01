@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਵੇਲੇ ਜਮ ਸਿਰੋਂ ਆ ਫੜੇਗਾ, ਤਦੋਂ ਰੋਣ ਦਾ ਕੀਹ ਲਾਭ ਹੋਵੇਗਾ? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੋਟ = ਜੂੜਾ, ਕੇਸ। ਤਬਹਿ = ਤਦੋਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

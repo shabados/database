@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨਵਾਨ ਪੁਰਸ਼ ਹਾਣ ਹੂੰ ਵਿਚ ਨਹੀਣ ਪੈਣਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਦਿ ਆਰਿਫ਼ ਫ਼ਾਰਿਗ਼ ਅਜ਼ ਚੁਨੋ ਚਿਰਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

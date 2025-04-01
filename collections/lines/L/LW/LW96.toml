@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਗੁਰੂ ਪੱਖ ਤੇ ਹੋਵੇ, ਤਾਂ ਲੱਖਾਂ ਫ਼ੌਜਾਂ ਕੀਹ ਵਿਗਾੜ ਸਕਦੀਆਂ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਖ ਬਾਹੇ = ਲੱਖਾਂ ਬਾਹਾਂ, ਲੱਖਾਂ ਫ਼ੌਜਾਂ। ਕਿਆ ਕਿਜਇ = ਕੀਹ ਵਿਗਾੜ ਸਕਦੀਆਂ ਹਨ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

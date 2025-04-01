@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਉਸ ਨੇ ਸਭ ਤੋਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਲਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮ ਪਦੁ = ਸਭ ਤੋਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

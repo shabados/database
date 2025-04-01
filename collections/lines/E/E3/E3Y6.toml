@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਤਕ ਜੁਆਨੀ ਵਿਚ ਸਾਹ (ਆ ਰਿਹਾ) ਹੈ, ਤਦ ਤਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ (ਬੁਢੇਪੇ ਵਿਚ ਨਾਮ ਜਪਣਾ ਔਖਾ ਹੋ ਜਾਏਗਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਲਗੁ = ਜਦੋਂ ਤਕ। ਜੋਬਨਿ = ਜੁਆਨੀ ਵਿਚ। ਸਾਸੁ = ਸਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

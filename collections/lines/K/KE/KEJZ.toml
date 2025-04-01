@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਪੂਰਨ ਪ੍ਰਭੂ! ਹੇ ਜੀਵਾਂ ਦੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬਮੈ = ਸਰਬ-ਵਿਆਪਕ। ਗੁਣਤਾਸ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

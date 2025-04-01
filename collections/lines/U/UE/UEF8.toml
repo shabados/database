@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਭੁੱਲ ਜਾਣ ਨਾਲ ਮੌਤ ਘੂਰਨ ਲੱਗ ਪੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮੁ = ਮੌਤ, ਆਤਮਕ ਮੌਤ। ਜੋਹਣਿ ਲਾਗੈ = ਤੱਕਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਿਆਰਾ ਲੰਘਿਆ, ਕਿ ਅੱਖਾਣ ਰਾਹੀ ਜਾਨ ਲੰਘ ਗਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਨਾਂ ਗੁਜ਼ਸ਼ਤ ਤਾ ਚਿ ਰਹੇ ਦੀਦਾ ਜਾਂ ਗੁਜ਼ਸ਼ਤ ।੮।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

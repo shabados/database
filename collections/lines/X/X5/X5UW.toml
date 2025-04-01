@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਵੱਡੇ ਸਮਝਦੇ ਹਨ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਤੁੱਛ ਜਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਰਘੁ = ਵੱਡਾ, ਵੱਡੀ ਉਮਰ ਵਾਲਾ, ਲੰਮਾ। ਲਗ ਮਾਤ = ਮਾਤ੍ਰਾ ਜਿਤਨਾ, ਨਿੱਕਾ ਜਿਹਾ, ਤੁੱਛ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

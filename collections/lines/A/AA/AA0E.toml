@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਮਨ ਵਿਚ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਸਿੰਜਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿ = ਵਿਚ। ਸਿੰਚਹੁ = ਸਿੰਜੋ, ਛੱਟੇ ਦਿਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

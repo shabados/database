@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗ਼ਾਫ਼ਲ ਮਨੁੱਖ ਭੂਤਾਂ ਪ੍ਰੇਤਾਂ ਪਸ਼ੂਆਂ ਵਾਂਗ ਹਰਾਮ ਮਾਰ ਕੇ ਹਰਾਮ ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਬਾਨ = ਗ਼ੈਬਾਨ, ਨਾਹ ਦਿੱਸਣ ਵਾਲੇ, ਭੂਤ ਪ੍ਰੇਤ। ਹੈਵਾਨ = ਪਸ਼ੂ। ਕੁਸਤਨੀ = ਕੁਸ਼ਤਨੀ, ਮਾਰਨ ਵਾਲੀ। ਬਖੋਰਾਇ = ਬਖ਼ੋਰਾਇ, ਖਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

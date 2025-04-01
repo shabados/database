@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਇੱਕ ਲਹਿਰ ਹਾਂ, ਤੂੰ ਅਨੰਤ ਸਾਗਰ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਯਕੇ ਮੌਜਮ ਤੂ ਬਹਿਰਿ ਬੇਕਰਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

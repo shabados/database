@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਵਸਤੂ ਦੇ ਗੁਰੂ ਭਾਵੇਂ ਅਨੇਕਾਂ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਹਰ ਚੀਜ਼ ਮੀ ਬਾਸ਼ਦ ਬਸੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

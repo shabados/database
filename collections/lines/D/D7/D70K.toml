@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾ ਨਾਮ ਆਤਮਕ ਅਡੋਲਤਾ ਦੀ ਲਹਿਰ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਜਪਣਾ ਚਾਹੀਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ ਧੁਨੀ = ਆਤਮਕ ਅਡੋਲਤਾ ਦੀ ਰੌ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

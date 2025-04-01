@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਮਿਹਰ ਅਤੇ ਬਖਸ਼ਿਸ਼ ਦਾ ਸਰੂਪ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਫ਼ੈਜ਼ੋ ਜੂਦ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੭।"
+page = 10
+line = 137
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਤੂੰ ਸੁੱਚੇ ਆਚਰਨ ਵਾਲੀ ਹੋ ਗਈ ਹੈਂ ਤੂੰ ਹੁਣ ਸਭ ਥਾਂ ਆਦਰ-ਮਾਣ ਪਾ ਰਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਸੰਗੀ = ਉੱਚੇ ਆਚਰਨ ਵਾਲੀ। ਪਰਧਾਨਿ = ਮੰਨੀ-ਪ੍ਰਮੰਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

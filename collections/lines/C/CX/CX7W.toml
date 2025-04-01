@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਭ ਝੂਠਾ ਦਿਖਾਵਾ ਹੈ, ਇਹ ਅਡੰਬਰ ਰਚਾਉਣ ਵਾਲਾ ਭੀ ਬਿਨਸਨਹਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੰਫੁ = ਦਿਖਾਵਾ। ਪਾਸਾਰੀ = (ਦਿਖਾਵੇ ਦਾ) ਖਿਲਾਰਾ ਖਿਲਾਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

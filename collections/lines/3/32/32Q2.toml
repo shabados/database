@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਉਂ ਜਿਉਂ) ਇਹ ਨਾਮ ਵਿਸਾਰ ਕੇ ਤੁਰਦੇ ਹਨ ('ਹਉਮੈ' ਦੇ ਕਾਰਨ, ਮਾਨੋ,) ਕੜਾਹੇ ਵਿਚ ਤਲੀਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਵਣਿ = ਕੜਾਹੇ ਵਿਚ। ਤਤਿਆ = ਤਲੀਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

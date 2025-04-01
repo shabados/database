@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਰਿ-ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

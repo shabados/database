@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਲੂਲ੍ਹਾ ਪਹਾੜਾਂ ਤੋਂ ਪਾਰ ਲੰਘ ਸਕਣ ਨਾਲ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਤੇ = ਲੰਘਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

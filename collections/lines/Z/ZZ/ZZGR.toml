@@ -42,6 +42,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਦਾ ਗਿਆਨ ਭੀ ਅੱਖਰਾਂ ਦੀ ਰਾਹੀਂ ਹੀ (ਵਿਚਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ)। ਅੱਖਰਾਂ ਦੀ ਰਾਹੀਂ ਹੀ ਉਸਦੇ ਗੀਤ ਅਤੇ ਗੁਣਾਂ ਦਾ ਵਾਕਫ਼ ਹੋ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਗਾਹ = ਗੁਣਾਂ ਦੇ ਗਾਹੁਣ ਵਾਲੇ, ਗੁਣਾਂ ਦੇ ਵਾਕਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ) ਪ੍ਰਭੂ ਦੀਨਾਂ ਦਾ ਨਾਥ ਹੈ, ਜਗਤ ਦਾ ਮਾਂ-ਪਿਉ ਹੈ, ਦਇਆ ਦਾ ਘਰ ਹੈ, (ਜੀਵਾਂ ਦੇ) ਦੁੱਖ ਦਰਦ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨਾਨਾਥ = ਦੀਨਾਂ ਦਾ ਨਾਥ, ਨਿਮਾਣਿਆਂ ਦਾ ਖਸਮ। ਪਿਤ = ਪਿਤਾ। ਮਾਇਆ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

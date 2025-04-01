@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਤਰਜਾਮੀ! ਤੂੰ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ ਘਟਿ = ਹਰੇਕ ਘਟ ਵਿਚ। ਅੰਤਰਜਾਮੀ = ਹੇ ਅੰਤਰਜਾਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

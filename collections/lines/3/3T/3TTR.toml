@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ!ਤੂੰ ਹੀ ਸੰਤਾਂ ਦੀ ਓਟ ਹੈਂ ਤੂੰ ਹੀ ਸੰਤਾਂ ਦਾ ਤਾਣ-ਬਲ ਹੈਂ ॥੪॥੩੪॥੮੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਸੰਤਾਂ ਨੂੰ ॥੪॥੩੪॥੮੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

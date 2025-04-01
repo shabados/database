@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੁਣ ਭੀ ਮੌਜੂਦ ਹੈਂ, ਤੂੰ ਸਦਾ ਲਈ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਰੰਪਰ = ਪਰੇ ਤੋਂ ਪਰੇ। ਹਹਿ ਭੀ = ਹੁਣ ਭੀ ਮੌਜੂਦ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

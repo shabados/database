@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਰਾਇਣ (ਆਪਣੇ ਸੇਵਕਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਸੁਖ ਆਨੰਦ ਪੈਦਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਨੇ = ਪੈਦਾ ਕਰ ਦਿੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

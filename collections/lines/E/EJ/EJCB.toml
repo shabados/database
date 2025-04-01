@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਤਾਣ ਹਰ ਨਾਲ, ਹਰ ਥਾਣ, ਸਦਾ ਹਾਜ਼ਰ ਨਾਜ਼ਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦਾ ਕਿ ਦਰ ਹਮਾ ਹਾਲਸਤ ਹਾਜ਼ਰੋ ਨਾਜ਼ਿਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

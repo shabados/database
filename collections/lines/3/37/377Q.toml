@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਿੰਦੂ ਹੋਵੇ ਚਾਹੇ ਮੁਸਲਮਾਨ) ਹਰੇਕ ਦੇ ਅਮਲਾਂ ਦਾ ਲੇਖਾ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

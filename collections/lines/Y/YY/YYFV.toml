@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਤੂੰ ਸਭ ਥਾਵਾਂ ਵਿਚ ਵੱਸਦਾ ਮੈਨੂੰ ਦਿੱਸਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਥਾਈ = ਥਾਂਈਂ, ਥਾਵਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

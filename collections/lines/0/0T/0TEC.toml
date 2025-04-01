@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਨੇ ਨਾਮ-ਮੰਤ੍ਰ ਦੇ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰੁ = ਉਪਦੇਸ਼। ਜਾ ਕਹੁ = ਜਿਨ੍ਹਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਜੀਵ ਤਿੰਨਾਂ ਗੁਣਾਂ ਦੇ ਪ੍ਰਭਾਵ ਹੇਠ ਹਨ, ਮਾਇਆ ਦੇ ਮੋਹੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰੈਗੁਣ = ਤ੍ਰਿਗੁਣੀ ਜੀਵ। ਦੀਸਹਿ = ਦਿੱਸਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

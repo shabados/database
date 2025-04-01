@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਹਰ ਥਾਂ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਹੀ ਵੇਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਨੁ = ਵੇਖਣਾ। ਸਭੁ = ਸਾਰਾ, ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

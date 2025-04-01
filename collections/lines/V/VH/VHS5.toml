@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੀਵ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਉਹ ਆਪ ਕਿਹੋ ਜਿਹਾ ਹੈ ਤੇ ਕੇਡਾ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਅਵਸਥਾ, ਹਾਲਤ। ਮਿਤਿ = ਮਰਯਾਦਾ, ਮਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

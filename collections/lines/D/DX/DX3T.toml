@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਟਕਦਾ ਭਟਕਦਾ ਜਦੋਂ ਮਨੁੱਖ ਬਹੁਤ ਥੱਕ ਗਿਆ ਤੇ ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਆਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਮੁ = ਥਕਾਵਟ। ਦੁਆਰੈ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

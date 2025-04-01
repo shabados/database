@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਵਾਸਨਾ-ਰਹਿਤ ਜੀਵਨ ਜੀਊਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਤੀ ਬਰਤ = ਵਰਤਾਂ ਵਿਚੋਂ ਸ੍ਰੇਸ਼ਟ ਵਰਤ। ਨਿਹਕਾਮੁ = ਵਾਸਨਾ ਤੋਂ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

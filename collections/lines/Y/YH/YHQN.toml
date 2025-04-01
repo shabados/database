@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਬੰਦਿਆਂ ਦੀ ਵੱਡੀ ਉਮਰ ਹੈ, ਕਈ (ਘਟ ਉਮਰੇ) ਮਰ ਕੇ ਦੁਖੀ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਜਾ = ਉਮਰ। ਜਹੀਰ = (ਅ:) ਦੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

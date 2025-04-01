@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਮਾਂ, ਪਿਉ, ਪੁੱਤਰ, ਮਿੱਤ੍ਰ, ਭਰਾ ਕੋਈ (ਸਾਥੀ) ਨਹੀਂ (ਬਣਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿਥੇ (ਭਾਵ, ਜ਼ਿੰਦਗੀ ਦੇ ਇਸ ਸਫ਼ਰ ਵਿਚ)। ਸਤੁ = ਪੁੱਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

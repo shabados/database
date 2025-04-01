@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਮਿਲਿਆ ਹੋਇਆ ਉਮਰ ਦਾ ਸਮਾ ਪੂਰਾ ਹੋ ਰਿਹਾ ਹੈ। ਤੂੰ ਕਿਸ ਠੱਗੀ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹਲਤਿ = ਮਿਲਿਆ ਹੋਇਆ ਜ਼ਿੰਦਗੀ ਦਾ ਸਮਾ। ਕਿਤੁ = ਕਿਸ ਵਿਚ? ਕੂੜਿ = ਠੱਗੀ ਵਿਚ। ਕਿਤੁ ਕੂੜਿ = ਕਿਸ ਠੱਗੀ ਵਿਚ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

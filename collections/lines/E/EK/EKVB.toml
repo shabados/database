@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਬੇਅੰਤ ਖ਼ਜ਼ਾਨੇ ਭਰੇ ਪਏ ਹਨ, ਵੰਡਦਿਆਂ ਖ਼ਜ਼ਾਨਿਆਂ ਵਿਚ ਤੋਟ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਤ = ਅ-ਗਨਤ, ਜੋ ਗਿਣੇ ਨਾ ਜਾ ਸਕਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਠੱਗੀ ਦਾ ਅੱਡਾ ਬਣਿਆ ਹੋਇਆ ਹਾਂ, ਦੇਸ ਨੂੰ ਠੱਗ ਰਿਹਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਗ ਵਾੜਾ = ਠੱਗੀ ਦਾ ਅੱਡਾ। ਠਗੀ = ਠੱਗੀਂ, ਮੈਂ ਠੱਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੁੱਧ ਵੇਖ ਕੇ ਸੂਰਮੇ ਦੇ ਚਿੱਤ ਨੂੰ ਜੋਸ਼ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਣੁ = ਜੁੱਧ। ਸੂਰ = ਸੂਰਮਾ। ਉਲਾਸ = ਹੁਲਾਰਾ, ਜੋਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

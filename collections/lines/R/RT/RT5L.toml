@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੇਮੀਆਣ ਲਈ ਸੱਜਨ ਦੀ ਗਲੀ ਹੀ ਸੁਹਾਵਣੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਸ਼ਿਕਾਣ ਰਾ ਕੂਏ ਊ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

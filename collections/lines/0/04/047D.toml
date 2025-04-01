@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੀ ਅਕਲ ਦੇ ਬਲ) ਕੋਈ ਮਨੁੱਖ ਤੇਰੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਨੀ ਨਹੀਂ ਜਾਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨੁ ਜਾਨੈ = ਕੌਣ ਜਾਣਦਾ ਹੈ? ਕੋਈ ਨਹੀਂ ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

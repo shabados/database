@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਕਿਸ ਗੱਲੇ ਹੰਕਾਰ ਵਿਚ ਆਫਰਿਆ ਫਿਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੂਲਿਆ ਫੂਲਿਆ = ਹੰਕਾਰ ਵਿਚ ਮੱਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

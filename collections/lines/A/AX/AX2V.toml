@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ ਸੁਆਰਥ ਦੀ ਖ਼ਾਤਰ) ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਬਹੁਤ ਦੁਖੀ ਕੀਤਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਪਾਨੀ = (ਪ੍ਰ-ਤਪਾਨੀ) ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

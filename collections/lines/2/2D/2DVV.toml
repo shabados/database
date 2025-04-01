@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਦਰ ਤੋਂ ਤੇਤੀ ਕ੍ਰੋੜ ਦੇਵਤੇ ਭੋਜਨ ਛਕਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰ ਤੇਤੀਸ = ਤੇਤੀ ਕ੍ਰੋੜ ਦੇਵਤੇ। ਉਜੇਵਹਿ = ਛਕਦੇ ਹਨ। ਪਾਕ = ਭੋਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

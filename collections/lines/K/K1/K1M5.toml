@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਸ ਤਰ੍ਹਾਂ) ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ-ਮਾਣ ਮਿਲਦਾ ਹੈ ॥੪॥੮੪॥੧੫੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੁ = ਆਦਰ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

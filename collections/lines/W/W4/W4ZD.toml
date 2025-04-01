@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚਿੱਤਰਕਾਰ ਆਪਣੇ ਚਿਤਰਾਣ ਦੇ ਰੰਗਾਣ ਵਿਚ ਹੀ ਲੁਕਅਿਾ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੱਕਾਸ ਦਰੂਨਿ ਨਕਸ਼ ਪਿਨਹਾਣ ਸ਼ੁਦਾ ਅਸਤ ।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

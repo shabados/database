@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੇਰੇ ਪਾਸ ਹੱਥ ਹੈ, ਤਾਣ ਮਿੱਤ੍ਰ ਪਿਆਰੇ ਦਾ ਪੱਲਾ ਫੜ ਲੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਸਤ ਅਗਰ ਦਾਰੀ ਬਿਰੌ ਦਾਮਾਨਿ ਜਾਨਾਣ ਰਾ ਬਗੀਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

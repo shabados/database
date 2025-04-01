@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਦੇ (ਨਿਰੇ) ਪਾਠ ਤਾਂ ਦੁਨੀਆਵੀ ਵਿਹਾਰ (ਸਮਝੋ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰ ਕੀ ਕਾਰ = ਦੁਨੀਆਵੀ ਵਿਹਾਰ। ਬੀਚਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

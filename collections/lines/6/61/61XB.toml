@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਹਰ ਦੀਵਾਨੇ ਲਈ ਸੰਗਲ ਬਣਾਉਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਰ ਦੀਵਾਨਾ ਅਗਰ ਸਿਲਸਲਾ-ਹਾ ਮੀਸਾਜ਼ੰਦਿ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਨਾਲ ਮੇਰੀ) ਇਹੋ ਜਿਹੀ ਸਾਂਝ ਬਣ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਚਉ = {परिचय} ਸਾਂਝ, ਮਿਤ੍ਰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

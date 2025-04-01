@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੇ ਆਪ ਤੋਂ ਮੁਕਤ ਹੋਣਾ ਹੀ ਅਸਲੀ ਮੁਕਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਸਤਗੀ ਅਜ਼ ਖ਼ੇਸ਼ਤਨ ਵਾਰਸਤਗੀ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

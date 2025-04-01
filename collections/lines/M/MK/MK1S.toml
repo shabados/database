@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸਖੀ ਸਹੇਲੀਹੋ! ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜੇ ਕੋਈ ਧਿਰ ਮੇਰਾ ਹਰਿ-ਪ੍ਰਭੂ ਲਿਆ ਕੇ ਮੈਨੂੰ ਮਿਲਾ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਣਿ = ਲਿਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

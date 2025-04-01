@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ, ਤੂੰ ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਪਾਤਿਸ਼ਾਹ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਮੁਹਤਾਜੁ = ਜਿਸ ਨੂੰ ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ, ਕਿਸੇ ਗੋਚਰੀ ਗ਼ਰਜ਼ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

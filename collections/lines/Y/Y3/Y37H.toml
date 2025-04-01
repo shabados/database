@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਉਮੈ ਦਾ ਪੁਤਲਾ ਹੀ ਬਣੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈ = ਹੈਂ। ਆਪੇ = ਆਪ ਹੀ। ਹਉਮੈ...ਹੈ = ਹਉਮੈ ਦਾ ਸਰੂਪ ਬਣੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਜਸ ਰੂਮ ਅਤੇ ਹਬਸ਼ ਦੇਸ਼ਾਂ ਤੱਕ ਫੈਲ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਸਫ਼ਿ ਊ ਦਰ ਮੁਲਕਿ ਰੂਮੋ ਜ਼ੰਗ ਸ਼ੁਦ ।੨੨੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

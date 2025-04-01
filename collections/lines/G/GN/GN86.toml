@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ (ਇਸ ਮੋਹ ਨੂੰ) ਹਰੇਕ (ਜੀਵ ਦੇ) ਸਿਰ ਉੱਤੇ (ਥਾਪ ਕੇ ਹਰੇਕ ਨੂੰ ਮਾਇਆ ਦੇ) ਧੰਧੇ ਵਿਚ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਸਿਰਿ ਸਿਰਿ = ਹਰੇਕ (ਜੀਵ ਦੇ) ਸਿਰ ਉੱਤੇ। ਧੰਧੈ = (ਮਾਇਆ ਦੇ) ਧੰਧੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

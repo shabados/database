@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ ਜੀ!) ਜਿਤਨਾ ਚਿਰ ਤੁਸੀ ਵੇਦ ਪੁਰਾਣ ਸੁਣਦੇ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ = ਜਿਤਨਾ ਚਿਰ। ਸੁਨਿ ਲੇ = ਸੁਣ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਸ਼ੌਕ ਦਾ ਕਮਾਲ ਸਦੀਵੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਜ਼ਵਾਲ ਆਮਦ ਕਮਾਲਿ ਜ਼ੌਕਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

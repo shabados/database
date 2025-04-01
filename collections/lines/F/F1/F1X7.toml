@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਦੱਸ, ਉਹ ਕਿਹੜਾ ਥਾਂ ਹੈ ਜੋ ਸੁੱਚਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ! ਕਵਨੁ ਠਾਉ = ਕਿਹੜਾ ਥਾਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

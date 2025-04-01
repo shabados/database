@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਾ ਵਿਸ਼ਨੂੰ ਸ਼ਿਵ ਇੰਦਰ ਹੋਰ ਅਨੇਕਾਂ ਰਿਸ਼ੀ ਮੁਨੀ, ਚਾਹੇ ਕੋਈ ਤਪ ਕਰਦਾ ਹੈ ਚਾਹੇ ਕੋਈ ਤਿਆਗੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਰੁ = ਸ਼ਿਵ। ਇੰਦੁ = ਇੰਦ੍ਰ ਦੇਵਤਾ। ਤਪੈ = ਤਪ ਕਰਦਾ ਹੈ। ਭੇਖਾਰੀ = ਮੰਗਤਾ, ਤਿਆਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

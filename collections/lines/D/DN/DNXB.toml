@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਇਸ ਤਰ੍ਹਾਂ ਤੂੰ ਜਗਤ ਨੂੰ ਭੁਲੇਖੇ ਵਿਚ ਪਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈਂ = ਤੂੰ (ਹੇ ਪ੍ਰਭੂ!)। ਭਰਮਿ = ਭੁਲੇਖੇ ਵਿਚ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

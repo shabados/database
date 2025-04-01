@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਭੈੜੇ ਪਾਸੇ ਦੀ ਪ੍ਰੀਤ ਦਾ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਸੈ = ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ। ਬਿਪਰੀਤਿ = ਉਲਟੀ ਪ੍ਰੀਤ, ਮਾੜੇ ਪਾਸੇ ਦੀ ਪ੍ਰੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

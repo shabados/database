@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਾਲਕ-ਪ੍ਰਭੂ ਜਲ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀ ਤਲਿ, ਧਰਤੀ ਦੇ ਤਲ ਉੱਤੇ, ਪੁਲਾੜ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

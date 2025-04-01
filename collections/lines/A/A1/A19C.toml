@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੋਹਨ!) ਜਿਥੇ ਭੀ ਸਾਧ ਸੰਤ ਇਕੱਠੇ ਹੁੰਦੇ ਹਨ ਉਥੇ ਤੈਨੂੰ ਹੀ ਧਿਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਝਹਿ = (ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ!) ਤੈਨੂੰ। {ਬਾਬਾ ਮੋਹਨ ਜੀ ਨੂੰ ਨਹੀਂ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

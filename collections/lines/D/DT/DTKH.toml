@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਸੰਗੀਓ! ਆਓ, ਰਲ ਕੇ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀਹੋ! ਹੇ ਸਤਸੰਗੀਓ! ਮੇਲਿ = ਮਿਲਾਪ ਵਿਚ, ਚਰਨਾਂ ਵਿਚ। ਮਿਲਾਹਾ = ਮਿਲੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

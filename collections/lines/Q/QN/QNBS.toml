@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੈਂ ਸਦਾ ਉਸ ਸਤਿਗੁਰੂ ਤੋਂ ਸਦਕੇ ਹਾਂ, ਜਿਸ ਵਿਚ ਇਤਨੇ ਗੁਣ ਹਨ ॥੨੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੇ = ਇਤਨੇ ॥੨੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

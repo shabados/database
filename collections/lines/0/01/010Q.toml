@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਨੇ ਹਰੀ-ਨਾਮ ਦੀ  ਦਾਤ ਦਿੱਤੀ ਹੈ ॥੪੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ ॥੪੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

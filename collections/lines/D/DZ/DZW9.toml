@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਹੀ) ਪੰਡਿਤ ਹੈ ਜੇਹੜਾ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਅਨੁਸਾਰ ਆਪਣਾ ਜੀਵਨ ਢਾਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੁ ਕਮਾਇ = ਸ਼ਬਦ ਅਨੁਸਾਰ ਜੀਵਨ ਢਾਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

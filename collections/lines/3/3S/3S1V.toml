@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਅੰਤ! ਹੇ ਅਥਾਹ! ਹੇ ਅਗਣਤ! ਹੇ ਅਡੋਲ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਸੁਮਾਰ = ਹੇ ਬੇਅੰਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

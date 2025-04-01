@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਾਈ ਈਰਖਾ ਤੇ ਪਰਾਈ ਨਿੰਦਿਆ ਛੱਡ ਦਿਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਤਿ = ਈਰਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

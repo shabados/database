@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਖਸਮ-ਪ੍ਰਭੂ ਦਾ ਸੋਹਣਾ ਪਾਸਾ (ਕਦੇ ਭੀ) ਨਾਹ ਛੱਡਾਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਨਾ ਛੋਡਉ = ਨ ਛੋਡਉਂ, ਮੈਂ ਨਹੀਂ ਛੱਡਦੀ। ਪਾਸਰਾ = ਸੋਹਣਾ ਪਾਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

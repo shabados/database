@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਲਕੀਰਾਂ ਕੱਢ ਕੱਢ ਕੇ ਬੇਸ਼ੱਕ ਸੁੱਚੇ ਚੌਂਕੇ ਬਣਾਏ, ਪਰ ਉਸ ਦੇ ਹਿਰਦੇ ਦਾ) ਚੌਂਕਾ ਮੈਲਾ ਹੀ ਰਹਿੰਦਾ ਹੈ (ਉਹ ਦੀ ਸੁਰਤ ਸਦਾ) ਮੈਲੇ ਥਾਂ ਵਿਚ ਹੀ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲੈ ਥਾਇ = ਮੈਲੇ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

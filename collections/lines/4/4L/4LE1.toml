@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਗੋਂ) ਭਰ-ਜਵਾਨੀ ਵਿਚ ਉਹ (ਜਵਾਨੀ ਦੇ) ਅਹੰਕਾਰ ਵਿਚ ਡੁੱਬਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਿ ਜੋਬਨਿ = ਭਰੀ ਜਵਾਨੀ ਵੇਲੇ। ਅਭਿਮਾਨਿ = ਅਹੰਕਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਜ਼ਾਹਰਾ ਵੀ ਤੇ ਗੁਪਤ ਵੀ ਪਰਗਟ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਆਸ਼ਕਾਰੋ ਨਿਹਾਂ ਜ਼ਾਹਿਰਸ਼ ।"
+page = 2
+line = 58
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

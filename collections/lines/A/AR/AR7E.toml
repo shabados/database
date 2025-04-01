@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਦਿਲ# ਜੇਕਰ ਤੂੰ ਮਦਰੱਸੇ ਜਾਣ ਦੀ ਰੁਚੀ ਨਹੀਣ ਰਖਦਾ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਦਿਲ ਬਸੂਇ ਮਦਰਿਸਾ ਗਰ ਮੈਲ ਨ ਦਾਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

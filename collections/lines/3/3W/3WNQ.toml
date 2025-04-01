@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਲਿਖੇ ਲੇਖ ਅਨੁਸਾਰ ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਵਰਤਦਾ ਹੈ ਤੇ ਨਾਮ-ਰੂਪ ਵੱਖਰ ਸੰਭਾਲ ਲਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਿਖੇ ਉਪਰਿ = ਉਸ ਲਿਖੇ ਲੇਖ ਅਨੁਸਾਰ। ਹੁਕਮ ਹੋਇ = ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਵਰਤਦਾ ਹੈ। ਵਸਤੁ = (ਨਾਮ-ਰੂਪ) ਵੱਖਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

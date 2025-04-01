@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੋ ਕੁਝ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ ਉਸੇ ਨੂੰ ਭਲਾ ਮੰਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਵੈ = ਜੋ ਕੁਝ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਹੋ ਰਿਹਾ ਹੈ। ਸੋਈ = ਉਸੇ ਨੂੰ। ਭਲ = ਭਲਾ, ਚੰਗਾ। ਮਾਨੁ = ਮੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

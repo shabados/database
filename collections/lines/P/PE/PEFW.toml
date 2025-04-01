@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ ਆਪ ਕਦੇ ਗ਼ਲਤੀ ਨਹੀਂ ਖਾਂਦਾ ਪਰ ਹਰੇਕ ਜੀਵ ਜੋ ਉਸ ਨੇ ਪੈਦਾ ਕੀਤਾ ਹੈ ਭੁੱਲਾਂ ਵਿਚ ਫਸਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

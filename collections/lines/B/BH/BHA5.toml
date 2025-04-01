@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਗੋਂ ਸਾਰਾ ਜਹਾਨ ਹੀ ਇਸ ਚਿੰਗਾੜੀ ਨਾਲ ਸੜਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਆਲਮ ਅਜ਼ੀਣ ਸ਼ਰਾਰ ਬਿਸੋਖ਼ਤ ।੧੪।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

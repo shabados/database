@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰਾ ਧਿਆਨ ਹੈ ਤੇ ਸਭ ਜੀਅ-ਜੰਤ ਤੇਰੇ ਅਗੇ ਸਿਰ ਨਿਵਾਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਈ = ਪੈਰਾਂ ਤੇ, ਚਰਨਾਂ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

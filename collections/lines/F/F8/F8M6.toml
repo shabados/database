@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਸ਼ਾਨ ਸ਼ੋਕਤ ਸਦੀਵੀ ਅਤੇ ਵਡਿਆਈ ਅਬਿਨਾਸ਼ੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਕੋਹਸ਼ ਹਮਾ ਅਜ਼ਮਤਿ ਲਾ-ਜ਼ਵਾਲ ।੬੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਲਪਨ ਹੋਵੇ, ਜੁਆਨੀ ਹੋਵੇ ਬੁਢੇਪਾ ਹੋਵੇ (ਮੌਤ ਨੂੰ ਆਉਣ ਤੋਂ ਕਿਸੇ ਵੇਲੇ ਭੀ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧੁ = ਰੁਕਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਭੈੜਾ ਹਾਂ ਤਾਂ ਆਪਣੇ ਹੀ ਅੰਦਰ ਭੈੜਾ ਹਾਂ ਨ, (ਕਿਸੇ ਨੂੰ ਇਸ ਗੱਲ ਨਾਲ ਕੀਹ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹੀ = ਵਿਚ। ਮੰਦੇ = ਭੈੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

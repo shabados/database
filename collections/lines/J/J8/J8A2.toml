@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾਲ! ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਇਹ ਸ੍ਰੇਸ਼ਟ ਮਨੁੱਖਾ ਜਨਮ ਲੱਭਾ ਹੈ (ਹੁਣ) ਮੇਹਰ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗਿ = ਕਿਸਮਤ ਨਾਲ। ਕਿਰਪਾਲਾ = ਹੇ ਕਿਰਪਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

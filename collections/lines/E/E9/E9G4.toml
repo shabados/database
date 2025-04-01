@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਸਿਮਰਦਿਆਂ ਆਪਣੇ ਸਾਰੇ ਔਗੁਣਾਂ ਨੂੰ ਢੱਕ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਢਕੀਐ = ਢਕਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

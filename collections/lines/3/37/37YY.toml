@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮੇਹਰ ਕਰ) ਮੈਂ ਤੇਰੇ ਸੇਵਕ ਦੀ ਸੇਵਾ ਕਰਦਾ ਰਹਾਂ। ਮੈਂ (ਤੇਰੇ ਸੇਵਕ ਦੇ) ਚਰਨ (ਆਪਣੇ) ਕੇਸਾਂ ਨਾਲ ਝਾੜਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਰਹਾਂ। ਪਗ = ਪੈਰ, ਚਰਨ। ਝਾਰਉ = ਝਾਰਉਂ, ਮੈਂ ਝਾੜਾਂ। ਬਾਲ = ਕੇਸਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

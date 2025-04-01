@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਨ੍ਹੇ ਲਾਲਚੀ ਤੇ ਝੂਠੇ ਮਨ! (ਧਿਆਨ ਨਾਲ) ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕੁਤੇ = ਕੁੱਤੇ ਵਾਂਗ ਲਾਲਚੀ। ਕੂੜਿਆਰ = ਹੇ ਝੂਠੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

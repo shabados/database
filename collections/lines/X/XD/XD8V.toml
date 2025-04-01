@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਅਰਜਨ) ਭੈ ਦੂਰ ਕਰਨ ਵਾਲਾ, ਪਰਾਏ ਦੁੱਖ ਹਰਨ ਵਾਲਾ, ਬੇਅੰਤ ਤੇ ਗਿਆਨ-ਸਰੂਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਦੁਖ = ਪਰਾਏ ਦੁੱਖ। ਅਨੰਭਉ = ਗਿਆਨ-ਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

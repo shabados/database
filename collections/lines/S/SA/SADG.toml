@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਬਦੌਲਤ ਅਸੀਣ ਵਧੇ ਫੁਲੇ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਦੌਲਤਿ ਆਣ ਨਸ਼ਵੋ ਨੁਮਾ ਯਾਫ਼ਤਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ (ਇਹ) ਰੋਗ ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤਹਿ = ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ (ਜਗਤ ਦੇ) ਅਨੇਕਾਂ ਕਈ ਕਿਸਮਾਂ ਦੇ ਰੂਪ ਰੰਗ ਵੇਖ ਲਏ ਹਨ, ਤੇਰੇ ਵਰਗਾ (ਸੋਹਣਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਾ = ਕਈ ਕਿਸਮਾਂ ਦੇ। ਬਹੁ = ਅਨੇਕਾਂ। ਅਨ = {अन्य} ਕੋਈ ਹੋਰ। ਭਾਂਤੇ = ਵਰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

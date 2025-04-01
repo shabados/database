@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਅਟੱਲ ਸਿਰਫ਼ ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਚੱਲ, ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਗ਼ਰੀਬਾਂ ਦੇ ਦੁੱਖ ਦੂਰ ਕਰ ਕੇ (ਉਹਨਾਂ ਨੂੰ ਦੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਵਿਚੋਂ) ਪਾਰ ਲੰਘਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਦਰਦ = ਗ਼ਰੀਬਾਂ ਦੇ ਦੁੱਖ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ ਕੇ। ਤਾਰਨ = ਪਾਰ ਲੰਘਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

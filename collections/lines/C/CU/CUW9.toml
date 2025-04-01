@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਜਿਹੇ ਲੱਖਾਣ ਉਨ੍ਹਾਣ ਤੋਣ ਕੁਰਬਾਨ ਜਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਹਜ਼ਾਰਾਣ ਹਮਚੂ ਮਨ ਕੁਰਬਾਨਿ ਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

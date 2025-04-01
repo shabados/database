@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਐਸਾ ਕੋ ਵਡਭਾਗੀ ਆਇਆ', ਜਿਸ ਦੇ ਅੰਦਰੋਂ) ਸਾਰੇ ਡਰ ਮੁੱਕ ਜਾਂਦੇ ਹਨ, ਆਤਮਕ ਜੀਵਨ ਦੇ ਰਸਤੇ ਦੇ ਸਾਰੇ ਹਨੇਰੇ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੂਕੇ = ਮੁੱਕ ਗਏ। ਅੰਧਿਆਰੇ = (ਆਤਮਕ ਜੀਵਨ ਦੇ ਰਾਹ ਦੇ) ਹਨੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

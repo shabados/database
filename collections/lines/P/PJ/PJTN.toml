@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਹਾਲਤ ਵਿਚ) ਮੈਨੂੰ ਖਸਮ-ਪ੍ਰਭੂ ਦਾ ਮਿਲਾਪ ਕਿਵੇਂ ਹੋ ਸਕਦਾ ਹੈ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਤ ਮਿਲਾਵਾ = ਕੰਤ ਦਾ ਮਿਲਾਪ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

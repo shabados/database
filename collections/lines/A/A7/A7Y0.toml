@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹਾ ਮਨੁੱਖ ਸਦਾ ਜਮਦੂਤਾਂ ਦੀ ਤੱਕ ਵਿਚ ਰਹਿੰਦਾ ਹੈ, ਦੁੱਖਾਂ ਵਿਚ ਹੀ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇਰਿਆ = ਤੱਕਿਆ। ਜਮਦੂਤੀ = ਜਮਦੂਤਾਂ ਨੇ। ਪਚਾ = ਖ਼ੁਆਰ ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

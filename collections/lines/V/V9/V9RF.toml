@@ -30,6 +30,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਦੁੱਧ ਦਾ ਪਾਣੀ ਨਾਲ ਮਿਲਾਪ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਹਿ = ਪਾਣੀ ਨਾਲ। ਸੰਜੋਗੁ = ਮਿਲਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

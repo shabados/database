@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਵਣੇ ਚਾਹੀਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਸਾਰੇ ਔਗੁਣਾਂ ਨੂੰ ਕੱਟਣ ਦੀ ਸਮਰੱਥਾ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵੀਅਹਿ = ਗਾਏ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ। ਕਟਣਹਾਰ = ਕੱਟਣ ਦੇ ਸਮਰੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

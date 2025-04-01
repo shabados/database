@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਦੇ ਹੱਥਾਂ ਵਿਚ ਸਭ ਜੀਵਾਂ ਦੀ ਜੀਵਨ-ਮਰਯਾਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਜੁਗਤਿ = ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਜੀਵਨ-ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

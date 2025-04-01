@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜਦਾ ਹੈ ਜਿਹੜਾ ਪ੍ਰਭੂ ਦੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜਿਹੜਾ ਮਨੁੱਖ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

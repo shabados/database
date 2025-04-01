@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸਰੀਰ ਤੇ ਧਨ ਉੱਤੇ ਕੀਹ ਮਾਣ ਕਰਨਾ ਹੋਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨ ਬਡਾਈ = ਕਿਹੜੀ ਵਡਿਆਈ ਹੈ? ਕੀਹ ਮਾਣ ਕਰਨਾ ਹੋਇਆ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਜਿੰਦ ਦਿੱਤੀ, ਪ੍ਰਾਣ ਦਿੱਤੇ, ਸਰੀਰ ਬਣਾਇਆ, ਧਨ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਸਾਜਿਆ = ਬਣਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

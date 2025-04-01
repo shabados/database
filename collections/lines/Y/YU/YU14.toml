@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਆਪ ਹੀ ਮਿਹਰ ਕਰ ਕੇ ਜਿਨ੍ਹਾਂ ਦੇ ਅੰਦਰ ਆਪਣਾ ਪ੍ਰੇਮ-ਪਿਆਰ ਪੈਦਾ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ ਆਪੇ = ਤੂੰ ਆਪ ਹੀ। ਕਰਮੁ = ਮਿਹਰ, ਬਖ਼ਸ਼ਸ਼। ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

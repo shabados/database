@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ ਹੈ ਉਹੀ ਜਗਤ ਵਿਚ ਦੁਖੀ ਹੈ ॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਹੇਲਾ = ਦੁਖੀ। ਜਗਿ = ਜਗਤ ਵਿਚ। ਜਿਨਿ = ਜਿਸ ਨੇ ॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

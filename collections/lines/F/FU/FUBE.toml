@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਮਿੱਤਰ ਤਾਂ ਪ੍ਰਭੂ ਦੇ ਉਹ ਸੰਤ ਜਨ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = {ਬਹੁ-ਵਚਨ} ਉਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

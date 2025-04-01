@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੰਦੇ! ਤੂੰ (ਪ੍ਰਭੂ ਦੀ) ਭਗਤੀ ਕਬੂਲ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਦੇ = ਹੇ ਬੰਦੇ! ਇਕਤੀਆਰ = ਇਖ਼ਤਿਆਰ ਕਰ, ਕਬੂਲ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

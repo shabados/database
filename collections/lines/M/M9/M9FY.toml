@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਨਾਭੀ ਦੇ ਚੱਕਰ ਦੀ ਥੰਮ੍ਹੀ ਨਹੀਂ ਸੀ ਤਾਂ ਪ੍ਰਾਣ (ਸੁਆਸ) ਕਿਸ ਘਰ ਵਿਚ ਆਸਰਾ ਲੈਂਦਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥੰਭੁ = ਥੰਮ੍ਹੀ, ਸਹਾਰਾ {स्तम्भ}। ਪਵਨੁ = ਪ੍ਰਾਣ, ਸੁਆਸ। ਸਹਤਾ = ਆਸਰਾ ਲੈਂਦਾ ਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘਰਾਂ ਨੂੰ ਚੂਨੇ-ਗੱਚ ਕਰ ਕੇ ਚਿੱਟੇ ਹੀ ਚਿੱਟੇ ਬਣਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਚ = ਚੂਨੇ-ਗੱਚ। ਬਾਗੇ ਬਾਗ = ਬੱਗੇ ਹੀ ਬੱਗੇ, ਚਿੱਟੇ ਹੀ ਚਿੱਟੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਸਾਰੇ ਸੁਖਾਂ ਦਾ) ਖ਼ਜ਼ਾਨਾ (ਪਰਮਾਤਮਾ) ਤੇਰੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ, ਤੂੰ ਇਸ ਪਦਾਰਥ ਨੂੰ ਬਾਹਰ ਨਾਹ ਢੂੰਢਦਾ ਫਿਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਭਾਲਿ = ਢੂੰਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

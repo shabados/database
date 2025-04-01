@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇਹੜਾ ਮਨੁੱਖ ਧਰਮ-ਪੁਸਤਕਾਂ ਨੂੰ) ਮੂੰਹੋਂ ਤਾਂ ਅਰਥਾਂ ਸਮੇਤ ਪੜ੍ਹਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਮੁਖ ਤੇ = ਮੂੰਹੋਂ। ਟੀਕਾ ਸਹਿਤ = ਅਰਥਾਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

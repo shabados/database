@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਹਰੇਕ) ਫੁੱਲ ਉੱਤੇ ਉੱਡਣ ਵਾਲੇ ਭੌਰੇ (ਮਨ!) (ਫੁੱਲ ਫੁੱਲ ਦੀ ਸੁਗੰਧੀ ਲੈਂਦੇ ਫਿਰਨ ਵਿਚੋਂ) ਬੜਾ ਭਾਰੀ ਦੁੱਖ ਨਿਕਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੂਲਿ = ਫੁੱਲ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

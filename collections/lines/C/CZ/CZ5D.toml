@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਜੇਹੜਾ (ਹੁਣ ਕਿਸੇ ਦੇ ਵਿਛੋੜੇ ਤੇ) ਰੋ ਰਿਹਾ ਹੈ (ਆਖ਼ਰ) ਉਸ ਨੇ ਭੀ ਇਥੋਂ ਕੂਚ ਕਰ ਜਾਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਠਿ = ਉੱਠ ਕੇ। ਸਿਧਾਈ = ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

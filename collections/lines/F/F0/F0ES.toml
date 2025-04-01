@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰ-ਸਿੱਖੋ! (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲਾ ਇਹ) ਉਪਦੇਸ਼ ਸੁਣੋ, ਜ਼ਿੰਦਗੀ ਦਾ ਅਸਲ ਮਨੋਰਥ ਇਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਉ = ਸੁਆਰਥ, ਮਨੋਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ ਹੀ 'ਬੈਕੁੰਠ' ਆਖ ਰਹੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਤਨ ਹੀ = ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ। ਬਖਾਨਾਂ = ਬਿਆਨ ਕਰ ਰਹੇ ਹਨ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਨਕ (ਤੈਨੂੰ) ਇਹ ਵਿਚਾਰ ਦੀ ਗੱਲ ਦੱਸਦਾ ਹੈ ॥੨॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਨਾਨਕੁ ਆਖੈ = ਨਾਨਕ ਦੱਸਦਾ ਹੈ ॥੨॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

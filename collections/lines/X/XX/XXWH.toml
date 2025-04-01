@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਭੁੱਲੇ ਹੋਏ ਨੂੰ, ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਅਕਲ ਦੇਹ। ਮੈਨੂੰ ਕੁਰਾਹੇ ਪਏ ਹੋਏ ਨੂੰ ਜੇਹੜਾ ਕੋਈ ਰਸਤਾ ਦੱਸੇਗਾ, ਮੈਂ ਉਸ ਦੇ ਪੈਰੀਂ ਲੱਗਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗੁ = ਰਸਤਾ। ਲਾਗਉ = ਮੈਂ ਲੱਗਦਾ ਹਾਂ। ਪਾਇ = ਪੈਰੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

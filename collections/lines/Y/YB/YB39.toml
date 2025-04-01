@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾਰੇ ਦੁੱਖ ਮਿਟਾ ਦੇਂਦਾ ਹੈ ਉਸ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇ ਸਹੀ ਰਸਤੇ ਤੇ ਪਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਮਾਰਗਿ = ਰਸਤੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪ੍ਰਭੂ ਦੇ ਸੰਤਾਂ ਨੂੰ ਇਹਨਾਂ ਦਾ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵੇ = ਪ੍ਰਾਪਤ ਕੀਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

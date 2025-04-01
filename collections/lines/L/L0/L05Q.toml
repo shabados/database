@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਵਿਸੁਏ, ਚਸੇ, ਘੜੀਆਂ, ਪਹਰ, ਥਿੱਤਾਂ, ਵਾਰ, ਮਹੀਨਾ (ਆਦਿਕ) ਤੇ ਹੋਰ ਅਨੇਕਾਂ ਰੁੱਤਾਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੱਖ ਦੇ ੧੫ ਫੋਰ = ੧ ਵਿਸਾ। ੧੫ ਵਿਸੁਏ = ੧ ਚਸਾ। ੩੦ ਚਸੇ = ੧ ਪਲ। ੩੦ ਪਲ = ੧ ਘੜੀ। ੭½ ਘੜੀਆਂ = ੧ ਪਹਰ। ੧੫ ਥਿੱਤਾਂ। ੭ ਵਾਰ। ੧੨ ਮਹੀਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿੰਤਾ ਦੂਰ ਕਰਨ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੇ ਮੈਨੂੰ ਹੌਸਲਾ ਬਖ਼ਸ਼ਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਸਾਨੂੰ, ਮੈਨੂੰ। ਦਿਲਾਸਾ = ਹੌਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

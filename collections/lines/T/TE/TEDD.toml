@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਐਸ ਵੇਲੇ (ਝੁਰਿਆਂ) ਕੁਝ ਨਹੀਂ ਬਣਦਾ; ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ (ਆਪਣੇ ਹੀ ਪਿਛਲੇ ਕੀਤੇ ਅਨੁਸਾਰ) ਲਿਖਿਆ (ਲੇਖ) ਪਾਈਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜਾਇ = ਰਜ਼ਾ ਵਿਚ। ਪਾਇ = ਪਾਈਦਾ ਹੈ। ਪਾਂਡੇ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

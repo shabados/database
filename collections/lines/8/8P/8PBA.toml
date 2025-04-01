@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀਆਂ ਅੱਖਾਂ ਸਾ੍ਹਮਣੇ ਸਾਰਾ ਅੱਗਾ ਪਿੱਛਾ ਪ੍ਰਤੱਖ ਦਿਸਦਾ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਵੈਦਾ ਬ-ਚਸ਼ਮਸ਼ ਹਮਾ ਪੁਸ਼ਤ ਰੂ ।੮੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

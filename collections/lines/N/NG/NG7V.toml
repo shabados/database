@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਤੇਰਾ ਨਾਮ ਬਹੁਤ ਹੀ ਕੀਮਤੀ ਪਦਾਰਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ! ਰਤਨੁ = ਬਹੁਤ ਕੀਮਤੀ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੋਵੇਣ ਜਹਾਨ ਸੱਚੇ ਰੱਬ ਦੇ ਹੁਕਮ ਵਿਚ ਹਨ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜਹਾਨੋ ਆਣ ਜਹਾਣ ਫ਼ੁਰਮਾਨਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

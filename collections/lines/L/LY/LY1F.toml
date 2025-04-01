@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਕਰਤਾਰ ਦਾ ਸਰੂਪ ਦਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਉਸ ਨੂੰ ਕਿਵੇਂ ਵੇਖਿਆ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ = ਕਿਸ ਦੀ ਰਾਹੀਂ? ਕਿਸ ਪਾਸੋਂ? ਕਹੀਐ = ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, ਬਿਆਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਕਿਉ = ਕਿਵੇਂ? ਅਕਥੁ = ਉਹ ਜਿਸ ਦਾ ਸਰੂਪ ਬਿਆਨ ਨਾਹ ਕੀਤਾ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

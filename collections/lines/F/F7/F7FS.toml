@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਅਵਸਥਾ ਕਿਸੇ ਦੀ ਹਟਾਈ ਹਟ ਨਹੀਂ ਸਕਦੀ, ਸਦਾ ਕਾਇਮ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟਾਰੀ = ਟਾਲੀ ਹੋਈ। ਨ ਟਰੈ = ਹਟਦੀ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

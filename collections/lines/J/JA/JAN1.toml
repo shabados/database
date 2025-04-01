@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੁਰੂ ਨਾਨਕ ਨਾਰਾਇਨ ਦਾ ਸਰੂਪ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਨਾਨਕ ਆਮਦ ਨਰਾਇਨ ਸਰੂਪ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

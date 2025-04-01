@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਕਿਸੇ ਭੀ ਮੁੱਲ ਤੋਂ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੋਲਕੁ = ਜੇਹੜਾ ਕਿਸੇ ਭੀ ਮੁੱਲ ਤੋਂ ਨਾਹ ਮਿਲ ਸਕੇ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

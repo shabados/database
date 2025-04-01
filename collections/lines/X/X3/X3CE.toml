@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਕੋਈ ਰਾਜਾ ਆਪਣੇ ਤਖ਼ਤ ਉਤੇ ਸੌਂ ਜਾਏ, ਤੇ, ਸੁਫ਼ਨੇ ਵਿਚ ਮੰਗਤਾ ਬਣ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਪਿਤ = ਰਾਜਾ। ਸਿੰਘਾਸਨਿ = ਤਖ਼ਤ ਉੱਤੇ। ਭਿਖਾਰੀ = ਮੰਗਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

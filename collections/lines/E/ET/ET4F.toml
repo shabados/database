@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! ਮਨੁੱਖ ਧਨਵਾਨ ਹੋਵੇ ਭਾਵੇਂ ਕੰਗਾਲ, ਮੌਤ ਨੂੰ ਕਿਸੇ ਦਾ ਲਿਹਾਜ਼ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਈ = ਮਨੁੱਖ (ਪੂਰਬ ਦੇਸ ਦੀ ਬੋਲੀ)। ਕਾਨੀ = ਕਾਣ, ਮੁਥਾਜੀ, ਲਿਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਪਰਮੇਸਰ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹ ਸਦਾ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟਿ = ਮਿਲ ਕੇ। ਨਿਹਾਲ = ਚੜ੍ਹਦੀ ਕਲਾ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

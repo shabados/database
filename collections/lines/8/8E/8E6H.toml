@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਵਾਲੇ ਗੀਤ ਗਾਣੇ, ਦੁਨੀਆ ਵਾਲੀਆਂ ਖ਼ੁਸ਼ੀਆਂ ਤੇ ਚਤੁਰਾਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਦ = ਆਵਾਜ਼। ਗੀਤ ਨਾਦ = ਗੀਤ ਗਾਣੇ। ਹਰਖ = ਖ਼ੁਸ਼ੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

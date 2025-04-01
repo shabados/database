@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਤ ਦੀ ਸੰਗਤ ਇੱਕ ਅਜੀਬ ਜਿਹੀ ਦੌਲਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਆਰਿਫ਼ ਅਜਬ ਦੌਲਤ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

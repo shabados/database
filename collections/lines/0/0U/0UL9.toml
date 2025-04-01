@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ 'ਸਤ' ਦੇ ਬਲ ਨਾਲ ਹੀ (ਉੱਜੜੀ) ਖੇਤੀ ਜਮਾਈ ਤੇ 'ਸਤ' ਨਾਲ ਹੀ ਉਸ ਦੀ ਰਾਖੀ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਹੁ = 'ਸਤ' ਤੋਂ, ਸੁੱਚੇ ਆਚਰਣ ਦੇ ਬਲ ਨਾਲ। ਛਾਵਾਣੁ = ਛਾਂ, ਰਾਖੀ। ਸਾ = ਸੀ। ਬਾਣੁ = ਤੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

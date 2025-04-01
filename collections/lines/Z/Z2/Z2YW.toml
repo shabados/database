@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਕੋਈ ਮਨੁੱਖ ਸੌ ਵਾਰੀ ਤਾਂਘ ਕਰੇ, ਉਸ ਦੇ ਨਾਮਣੇ ਤਕ ਕੋਈ ਪਹੁੰਚ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਸਕਈ = ਨ ਸਕੇ। ਸਉ ਲੋਚੈ = ਸੌ ਵਾਰੀ ਤਾਂਘ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

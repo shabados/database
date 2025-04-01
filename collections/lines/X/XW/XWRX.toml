@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਆਪਣੇ ਮਾਲਕ! ਮੈਂ (ਸਦਾ) ਤੈਨੂੰ ਹੀ ਯਾਦ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਾਧਉ = ਆਰਾਧਉਂ, ਮੈਂ ਆਰਾਧਦਾ ਹਾਂ, ਯਾਦ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ। ਤੁਝਹਿ = ਤੈਨੂੰ ਹੀ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

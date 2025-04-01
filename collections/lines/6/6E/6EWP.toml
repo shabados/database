@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਰੁੱਤ ਸੋਹਣੀ ਹੈ ਜਦੋਂ ਪਿਆਰੇ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਮੇਲ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰੀ ਮਿਲਾਵਾ = ਪਿਆਰੇ ਪਤੀ ਦਾ ਮੇਲ। ਜਾ = ਜਦੋਂ। ਸੁਹਾਵੀ = ਸੋਹਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

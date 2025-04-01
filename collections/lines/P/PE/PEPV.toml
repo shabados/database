@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਭੀ ਵਿਅਰਥ ਹੈਂ (ਜੇ ਤੂੰ) ਪਰਾਏ ਧਨ ਦਾ ਲੋਭ ਕਰ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਪਰ ਲੋਭੁ = ਪਰਾਏ (ਧਨ ਆਦਿਕ) ਦਾ ਲੋਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

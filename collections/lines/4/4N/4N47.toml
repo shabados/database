@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕਿਸੇ ਬਿਆਨ ਕਰਨ ਨਾਲੋਂ ਵੱਧ ਸਤਿਕਾਰ ਯੋਗ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ਾਂ ਬਰਗੁਜ਼ੀਦਾ ਕਿਹ ਖ਼ਾਨਦ ਕਸੇ ।੧੭੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

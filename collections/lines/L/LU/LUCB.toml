@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਉਸ ਦੀ (ਆਪਣੀ) ਸਾਰੀ ਚਤੁਰਾਈ ਮੁੱਕ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਿਆਨਪ = ਚਤੁਰਾਈ। ਰਹੀ = ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

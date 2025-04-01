@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਜੇ ਤੂੰ ਬਰੀਕ ਅਕਲ ਵਾਲਾ (ਸਮਝਦਾਰ) ਹੈਂ, ਤਾਂ ਹੋਰ ਬੰਦਿਆਂ ਦੇ ਮੰਦੇ ਕਰਮਾਂ ਦੀ ਪਛਚੋਲ ਨਾ ਕਰ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਲਿ ਲਤੀਫੁ = ਲਤਫ਼ਿ ਅਕਲ ਵਾਲਾ, ਬਰੀਕ ਸਮਝ ਵਾਲਾ। ਕਾਲੇ ਲੇਖੁ = ਕਾਲੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ, ਹੋਰਨਾਂ ਦੇ ਮੰਦੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ-ਪੜਚੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

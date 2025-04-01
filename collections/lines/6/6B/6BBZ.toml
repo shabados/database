@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੂੰ ਮੇਰਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਮੈਨੂੰ ਸਾਰੀਆਂ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਸਾਹਿਬੁ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ ਹਰੀ ਦਾ ਨਾਮ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਾਰੈ = ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ, ਮੇਰੇ ਵਾਸਤੇ। ਅੰਤਰਜਾਮੀ = ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

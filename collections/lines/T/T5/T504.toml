@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਨਿਮਾਣੇ ਨੂੰ ਮਾਣ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੁ = ਆਦਰ, ਸਤਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

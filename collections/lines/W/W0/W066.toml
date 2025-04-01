@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਰੂਪ ਜਮਾਲ ਦੇ ਬਾਗ਼ ਦੀ ਨਵ-ਬਹਾਰ # ਆਪਣੀ ਆਮਦ ਦੀ ਬਖਸ਼ਿਸ਼ ਨਾਲ, ਤੂੰ ਜਹਾਨ ਨੂੰ ਬਹਿਸ਼ਤ "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਫ਼ੈਜ਼ਿ ਮਕਦਮਤ ਐ ਨੌ-ਬਹਾਰਿ ਗੁਲਸ਼ਨਿ ਹੁਸਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

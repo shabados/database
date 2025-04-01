@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਿ = ਹਿਰਦੇ ਵਿਚ। ਰਖੈ ਧਾਰੇ = ਧਾਰਿ, ਰਖੈ, ਟਿਕਾਈ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

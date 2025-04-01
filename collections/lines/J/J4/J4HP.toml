@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਉਮਰ ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਪੜ੍ਹਨ ਅਤੇ (ਧਾਰਮਿਕ) ਚਰਚਾ ਵਿਚ ਗੁਜ਼ਰ ਰਹੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰੁ = ਅਤੇ। ਬਾਦਿ = ਚਰਚਾ ਵਿਚ, ਬਹਿਸ ਵਿਚ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

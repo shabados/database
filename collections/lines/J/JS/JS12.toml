@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਰੂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ (ਕਿਉਂਕਿ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ, ਤੋਂ। ਜਾਉ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ, ਜਾਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

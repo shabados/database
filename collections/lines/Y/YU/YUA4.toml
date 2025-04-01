@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਦਿਆਲ ਹੋ ਕੇ ਕਿਰਪਾ ਕਰ ਕੇ ਗੁਰੂ ਮਿਲਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ = ਜਿਸ (ਮਨੁੱਖ) ਨੂੰ। ਕਰਿ = ਕਰ ਕੇ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

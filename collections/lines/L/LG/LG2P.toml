@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਉਸ ਦਾ ਦਿਲ ਉਮਰ ਦੀ ਪਰਾਪਤੀ ਤੋਂ ਵਾਕਫ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਿਲਿ ਉਮਰਿ ਦਿਲ ਆਗਾਹ ਯਾਫ਼ਤ ।੩੪੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

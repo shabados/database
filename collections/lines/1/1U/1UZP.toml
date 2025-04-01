@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਸਨਬੰਧੀਆਂ ਨਾਲ ਇਤਨਾ ਪਿਆਰ ਹੁੰਦਾ ਹੈ, ਉਹ ਇਕ ਪਲਕ ਲਈ ਭੀ ਘਰ ਵਿਚ ਰਹਿਣ ਨਹੀਂ ਦੇਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ ਹੇਤੁ = ਇਤਨਾ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

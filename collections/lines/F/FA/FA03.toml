@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹੁਣ ਭੀ ਹੈ, ਅਗਾਂਹ ਨੂੰ ਭੀ ਕਾਇਮ ਰਹੇਗਾ, ਪਹਿਲਾਂ ਭੀ ਸੀ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈ = ਇਸ ਵੇਲੇ ਮੌਜੂਦ ਹੈ। ਹੋਸੀ = ਅਗਾਂਹ ਨੂੰ ਭੀ ਮੌਜੂਦ ਰਹੇਗਾ। ਆਹੇ = ਪਹਿਲਾਂ ਭੀ ਮੌਜੂਦ ਸੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

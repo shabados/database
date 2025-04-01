@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਸ਼ਕ ਦਾ ਦਿਲ ਥੋੜੇ ਸਮੇਣ ਵਿਚ ਹੀ ਮਾਸ਼ੂਕ ਬਣ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਆਸ਼ਕ ਬ-ਅੰਦਕ ਫ਼ੁਰਸਤਿ ਮਾਸ਼ੂਕ ਮੀ ਗਰਦਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

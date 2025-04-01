@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਦਾ) ਪੈਂਡਾ ਬੜਾ ਔਖਾ ਤੇ ਡਰਾਉਣਾ ਹੈ, (ਇਹ ਇਕ) ਬੇਅੰਤ ਡੂੰਘੇ ਸਮੁੰਦਰ (ਦਾ ਸਫ਼ਰ ਹੈ) ਪਹਾੜੀ ਰਸਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਹਾਵਲਾ = ਡਰਾਉਣਾ। ਸਰ = ਸਮੁੰਦਰ। ਅਸਗਾਹ = ਨਾਹ ਗਾਹਿਆ ਜਾਣ ਵਾਲਾ। ਡੂਗਰ = ਪਹਾੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

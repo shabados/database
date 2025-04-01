@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਪੈਦਾ ਕਰ ਕੇ ਦੁੱਖ ਸੁਖ ਭੀ ਉਸੇ ਨੇ ਹੀ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖਾ ਸੁਖ = ਦੁਖ ਤੇ ਸੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

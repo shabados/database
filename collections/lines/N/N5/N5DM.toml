@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ (ਸਦਾ) ਸਾਧ ਸੰਗਤ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ॥੪॥੨੩॥੩੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤ ਵਿਚ। ਸਮਾਏ = ਲੀਨ ਰਹਿੰਦਾ ਹੈ ॥੪॥੨੩॥੩੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਾਧ ਸੰਗਤਿ ਵਿਚੋਂ ਭੀ) ਤਦੋਂ ਹੀ ਕੁਝ ਹਾਸਲ ਕਰ ਸਕੀਦਾ ਹੈ, ਜਦੋਂ ਗੁਰਮੁਖਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਣ ਜਾਈਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤਦੋਂ। ਜਉ = ਜਦੋਂ। ਰੇਨਾ = ਚਰਨ-ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

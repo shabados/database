@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਗੁਰੂ ਨੂੰ ਭਗਵਾਨ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਹਿ = ਜਪਦੇ ਹਨ। ਭਗਵੰਤੁ = ਭਾਗਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

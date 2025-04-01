@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਵੀਰ! ਇਸ ਵਿਚੋਂ ਪਾਰ ਲੰਘਣ ਲਈ) ਪੂਰੇ ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਸਾਫ਼ ਰਸਤਾ ਵਿਖਾ ਦਿੱਤਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਮਾਰਗੁ = ਰਸਤਾ। ਪਰਗਟੁ = ਸਾਫ਼ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

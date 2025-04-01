@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਅਣਿਗਣਤ ਹੀ ਔਗੁਣ ਹਨ, ਪਾਪਾਂ ਦੇ ਗੇੜਾਂ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹਾਂ, ਨਿੱਤ ਹੀ ਸਦਾ ਹੀ ਉਕਾਈ ਖਾ ਜਾਈਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਤੇ = ਪਾਪ। ਫੇਰੇ = ਗੇੜੇ। ਨਿਤ ਪ੍ਰਤਿ = ਸਦਾ ਹੀ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

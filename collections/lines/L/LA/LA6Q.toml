@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਘਰ ਵਿਚ ਕਿਸੇ ਚੀਜ਼ ਦੀ ਕੋਈ ਥੁੜ ਨਹੀਂ ਰਹਿੰਦੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ = ਉਹਨਾਂ ਦੇ ਘਰ ਵਿਚ। ਕਮੀ = ਘਾਟ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ (ਸਦਾ) ਭਗਵਾਨ (ਦਾ ਨਾਮ) ਜਪਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਜਾਪੀਐ = ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

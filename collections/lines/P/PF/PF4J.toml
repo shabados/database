@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਵੀ ਜੋ ਕੁਝ ਤੇਰੇ ਕੋਲ ਹੈ, ਅਪਣੇ ਸੱਜਨ ਤੋਣ ਵਾਰ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਤੁਰਾ ਮਾਨਿੰਦਿ ਗੋਯਾ, ਤਬਾਆਇ ਗੋਹਰ ਬਾਰ ਹਸਤ ।੬।੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਰਤਨ (ਵਰਗਾ ਕੀਮਤੀ ਪਦਾਰਥ) ਹੈ। ਗੁਰੂ (ਜਿਸ ਉਤੇ) ਪ੍ਰਸੰਨ (ਹੁੰਦਾ ਹੈ, ਉਸ ਨੂੰ ਇਹ ਰਤਨ) ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਠਾ = ਪ੍ਰਸੰਨ। ਮਾਇ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

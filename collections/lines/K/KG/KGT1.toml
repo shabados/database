@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜੀਵਨ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਤੇ ਜਿਸ ਨੂੰ ਲੋਕ ਸੁਹਣਾ ਜੀਵਨ ਆਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾਂਹੀ = (ਲੋਕ) ਆਖਦੇ ਹਨ, ਕਹਹਿ। ਭਲੋ = ਭਲਾ, ਚੰਗਾ, ਸੁਹਣਾ। ਸਦ ਜੀਵਨੁ = (ਇਸ) ਅਟੱਲ ਜੀਵਨ (ਨੂੰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

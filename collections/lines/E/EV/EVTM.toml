@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਕੌਤਕ ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲੇ ਹਨ, ਇਕ ਛਿਨ ਵਿਚ ਤੂੰ ਕੁਝ ਦਾ ਕੁਝ ਬਣਾ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਨ = ਰਤਾ ਕੁ ਹੀ ਸਮਾ। ਅਵਰੁ = ਹੋਰ। ਖਿਨੈ ਮਹਿ = ਖਿਨ ਵਿਚ ਹੀ। ਅਚਰਜ = ਹੈਰਾਨ ਕਰ ਦੇਣ ਵਾਲੇ। ਚਲਤ = ਕੌਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

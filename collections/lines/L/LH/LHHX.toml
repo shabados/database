@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਰਲੇਪ ਹੋਏ ਹੋਏ ਹਰੀ ਦੇ ਸੇਵਕ) ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਤੋਂ ਉਤਾਂਹ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮੀ। ਨਿਰਾਸਾ = ਉਪਰਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੈਂਕੜੇ ਵਰ੍ਹੇ ਭੀ ਇਹ ਸੁਆਦਲੇ ਭੋਗ ਭੋਗਦੇ ਰਹੀਏ ਤਾਂ ਭੀ ਇਹਨਾਂ ਤੋਂ ਵਿਛੋੜੇ ਵਾਲਾ ਕੌੜਾ ਘੁੱਟ ਭਰਨਾ ਹੀ ਪੈਂਦਾ ਹੈ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਜੈ = ਖਾਵੀਏ। ਕਉੜਾ = (ਮੌਤ ਦੇ ਵਿਛੋੜੇ ਦਾ) ਕੌੜਾ (ਘੁੱਟ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

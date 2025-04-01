@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਚੰਗੇ ਆਚਰਨ ਵਾਲੀ ਤੇ ਜੁਗਤਿ ਵਾਲੀ ਹੈ, ਉਹੀ ਪਰਵਾਰ ਵਿਚ ਮੰਨੀ-ਪ੍ਰਮੰਨੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ = ਉਹ ਇਸਤ੍ਰੀ। ਪਰਵਾਰਿ = ਪਰਵਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

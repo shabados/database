@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੌਸਲੇ ਵਿਚ ਉਹ ਸਭ ਨਾਲੋਂ ਉਚੇਰੇ ਹੌਸਲੇ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਿੰਮਤ ਬੁਲੰਦੀ ਬੁਲੰਦ ਅਜ਼ ਹਮਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

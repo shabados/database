@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਕੀਮਤੀ ਨਾਮ ਛੱਡ ਕੇ ਮੈਂ ਕਉਡੀਆਂ ਇਕੱਠੀਆਂ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਮੈਂ ਪਸੂ-ਸੁਭਾਉ ਹਾਂ, ਨੀਵਾਂ ਹਾਂ, ਅੰਞਾਣ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਆਗਿ = ਤਿਆਗ ਕੇ। ਸੰਗ੍ਰਹਨ = ਇਕੱਠੀਆਂ ਕਰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਹਣੇ ਰਾਮ! ਮੈਨੂੰ ਤੂੰ ਨਾ ਵਿਸਾਰੀਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਿਸਾਰੇ = ਨ ਬਿਸਾਰਿ। ਰਾਮਈਆ = ਹੇ ਸੁਹਣੇ ਰਾਮ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

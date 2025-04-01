@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੋਰ ਪਿਆ ਸੋਹਣਾ ਬਣੇ ਚਤੁਰ ਬਣੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਲਿਉ = ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

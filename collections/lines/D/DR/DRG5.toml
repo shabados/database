@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਹਜੇ ਹੀ ਇੱਕ ਵਚਿੱਤ੍ਰ ਸੂਰਜ ਬਣ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਬਖ਼ੂਬੀ ਗਸ਼ਤ ਖ਼ੁਰਸ਼ੀਦਿ ਨਜੀਬ ।੨੨੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

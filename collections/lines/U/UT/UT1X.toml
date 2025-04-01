@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਉਨ੍ਹਾਣ ਨੂੰ ਕਾਫਲੇ ਦੇ ਰਾਹ ਦੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਰਵਾਣ ਰਾ ਰਾਹ ਦਰਕਾਰ ਆਮਦਾ ।੧੧੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

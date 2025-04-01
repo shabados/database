@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ, ਹੇ ਮਾਧੋ!) ਜੇ ਅਸੀਂ ਮੋਹ ਦੀ ਫਾਹੀ ਵਿਚ ਬੱਝੇ ਹੋਏ ਸਾਂ, ਤਾਂ ਅਸਾਂ ਤੈਨੂੰ ਆਪਣੇ ਪਿਆਰ ਦੀ ਰੱਸੀ ਨਾਲ ਬੰਨ੍ਹ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਂਧੇ = ਬੱਝੇ ਹੋਏ ਹਾਂ। ਫਾਸ = ਫਾਹੀ। ਬਧਨਿ = ਰੱਸੀ ਨਾਲ। ਤੁਮ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

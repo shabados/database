@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਮੋਤੀ ਲੱਭ ਲਿਆ ਹੈ, ਮੈਂ ਪੂਰਨ ਪਰਮਾਤਮਾ ਲੱਭ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਕੁ = ਮੋਤੀ। ਰੇ = ਹੇ ਭਾਈ! ਪਾਇਆ = ਲੱਭ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

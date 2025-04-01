@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਥਾਂ ਉਸ ਤੋਂ ਖ਼ਾਲੀ ਨਹੀਂ; ਹਰੇਕ ਇਕ ਸਰੀਰ ਵਿਚ ਆਪੇ ਹੀ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਣਾ = ਘੱਟ, ਖ਼ਾਲੀ। ਸਾਰਿਆ = ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

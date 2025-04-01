@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆ ਵੱਸਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਜਾ ਮਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਮਨ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

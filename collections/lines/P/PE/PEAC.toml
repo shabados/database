@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਕੇ ਹਾਂ ਗੁਰੂ ਤੋਂ ਜਿਸ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਪ੍ਰਭੂ ਦਾ ਭਜਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ ਗੁਰਦੇਵ = ਸਦਕੇ ਹਾਂ ਗੁਰੂ ਤੋਂ, ਸ਼ਾਬਾਸ਼ੇ ਗੁਰੂ ਨੂੰ। ਜਿਸੁ ਸੰਗਿ = ਜਿਸ ਦੀ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

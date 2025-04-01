@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਅਕਾਲ ਪੁਰਖ!) ਪੜ੍ਹੇ ਹੋਏ ਪੰਡਿਤ ਤੇ ਮਹਾ ਰਿਖੀ ਵੇਦਾਂ ਸਣੇ ਤੈਨੂੰ ਗਾ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜੇ = ਪੜ੍ਹੇ ਹੋਏ। ਰਖੀਸੁਰ = {ਰਿਖੀ ਈਸੁਰ} ਵੱਡੇ ਵੱਡੇ ਰਿਖੀ, ਮਹਾ ਰਿਖੀ। ਜੁਗੁ ਜੁਗੁ = ਹਰੇਕ ਜੁਗ ਵਿਚ, ਸਦਾ। ਬੇਦਾ ਨਾਲੇ = ਵੇਦਾਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

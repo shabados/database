@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੇ) ਕੰਨ ਵਿਅਰਥ ਹਨ (ਜੇ ਉਹ) ਪਰਾਈ ਬਖ਼ੀਲੀ ਸੁਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਿਆ = ਵਿਅਰਥ। ਸ੍ਰਵਨ = ਕੰਨ। ਸੁਨਹਿ = ਸੁਣਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

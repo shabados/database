@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਮੁੰਦਰ, ਸ੍ਵਰਗ, ਧਰਤੀ ਇਹਨਾਂ ਸਭਨਾਂ ਦੇ ਜੀਵ ਮਾਇਆ ਵਿਚ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = ਸਮੁੰਦਰ (ਵਿਚ ਵੱਸਦੇ ਜੀਵ)। ਇੰਦ੍ਰਾ = ਇੰਦਰ (-ਪੁਰੀ, ਭਾਵ, ਸ੍ਵਰਗ ਵਿਚ ਰਹਿਣ ਵਾਲੇ ਦੇਵਤੇ ਆਦਿਕ)। ਧਰਤੇਵ = ਧਰਤੀ (ਦੇ ਜੀਵ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

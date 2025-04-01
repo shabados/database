@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਦੁੱਖ ਉਸ ਦਾ ਦਰਦ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੀ ਭਟਕਣਾ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮੁ = ਭਟਕਣਾ। ਤਾ ਕਾ = ਉਸ (ਮਨੁੱਖ) ਦਾ। ਭਾਗੈ = ਭੱਜ ਜਾਂਦਾ ਹੈ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਿਚ ਸਾਰੀ (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਹੀ ਅੱਗ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕੁ = (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ। ਸਗਰਾਇਆ = ਸਾਰਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਆਦਮੀ ਆਪਣੀ ਬੁਧੀ ਅਨੁਸਾਰ ਹੀ ਗਲ ਬਾਤ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਫ਼ਤਗੂਏ ਹਮਾ ਕਸ ਦਰ ਇਦਰਾਕਿ ਖ਼ੁਦ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

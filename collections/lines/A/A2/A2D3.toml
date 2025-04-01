@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੂਰੀਆਂ ਬਖ਼ਸ਼ਸ਼ਾਂ ਕਰਨ ਵਾਲੇ ਸ਼ਾਹ-ਪ੍ਰਭੂ! ਮੈਂ ਤੈਨੂੰ ਹੀ ਸਲਾਹੁੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਸਲਾਹਣ-ਯੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

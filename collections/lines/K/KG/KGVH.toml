@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨ ਟਿਕਾਈ ਰੱਖ (ਨਿਮ੍ਰਤਾ ਵਿਚ ਰਹਿ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਿਆ ਕਰ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਵਸਾਈ = ਵਸਾਇ, ਟਿਕਾ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

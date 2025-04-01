@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਇਕ) ਉਹ ਰਾਜਾ ਹੈਂ ਜੋ ਕਦੇ ਨਾਸ ਹੋਣ ਵਾਲਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਇਆ = ਰਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੇ ਦਰ ਤੋਂ ਹੀ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਮੰਗਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗੁ = ਮੰਗ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

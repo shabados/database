@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਤੂੰ ਆਤਮਕ ਆਨੰਦ ਮਾਣੇਂਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ = ਹੇ ਵੀਰ! ਮੀਤ = ਹੇ ਮਿੱਤਰ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

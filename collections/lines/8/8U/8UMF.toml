@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! (ਦੁਨੀਆ ਦੇ ਵਿਕਾਰਾਂ ਦੇ ਝੰਬੇਲਿਆਂ ਵਿਚੋਂ) ਆਪਣੇ ਸੇਵਕ ਦੀ ਇੱਜ਼ਤ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਜ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

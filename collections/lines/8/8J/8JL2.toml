@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ! (ਤੇਰੀ ਪ੍ਰੇਰਨਾ ਸਹਾਇਤਾ ਤੋਂ ਬਿਨਾ) ਮੈਥੋਂ ਕੋਈ ਕੰਮ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਰਾਇ = ਹੇ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ! ਮੁਝ ਤੇ = ਮੈਥੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਹੀ ਮੇਰੀ ਇੱਜ਼ਤ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਗਹਿਣਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਗਹਣਾ = ਜ਼ੇਵਰ, ਆਤਮਕ ਸੁੰਦਰਤਾ ਵਧਾਣ ਦਾ ਵਸੀਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫੇਰ ਸ਼ਾਤੀ ਵਿਚ (ਭਜਨ ਬੰਦਗੀ ਵਾਲੀ) ਜੋ ਕਾਰ ਕਰੇਂਗਾ, ਮਾਲਕ ਉਸ ਨੂੰ ਕਬੂਲ ਕਰੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਏ ਥਾਇ = ਪ੍ਰਵਾਨ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

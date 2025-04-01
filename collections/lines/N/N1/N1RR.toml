@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਤੇਰੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਹੈ ਜੋ ਤੇਰੇ ਸਰੀਰ ਦਾ ਆਸਰਾ ਹੈ ਜੋ ਤੇਰੇ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਅਧਾਰ = ਜਿੰਦ ਦਾ ਆਸਰਾ। ਪਿੰਡ ਅਧਾਰ = ਸਰੀਰ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

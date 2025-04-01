@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਸਿਪਾਹੀਆਂ ਦੀਆਂ ਫ਼ੌਜਾਂ ਹੋਣ ਲੱਖਾਂ ਵਾਜੇ ਵੱਜਦੇ ਹੋਣ, ਨੇਜ਼ੇ-ਬਰਦਾਰ ਲੱਖਾਂ ਫ਼ੌਜੀ ਰਸਾਲਿਆਂ ਦੇ ਮਾਲਕ ਬਾਦਸ਼ਾਹ ਹੋਣ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋੜੀ ਪਾਤਿਸਾਹ = ਘੋੜਿਆਂ ਵਾਲੇ, (ਭਾਵ,) ਰਸਾਲਿਆਂ ਦੇ ਮਾਲਕ ਬਾਦਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

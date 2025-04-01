@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਹ ਨਾਮ-ਰਸ) ਚੱਖ ਕੇ (ਕੋਈ ਇਸ ਦਾ ਸਵਾਦ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਜੇ ਕੋਈ ਜਤਨ ਕਰੇ ਤਾਂ) ਹੈਰਾਨ ਪਿਆ ਹੁੰਦਾ ਹੈ (ਕਿਉਂਕਿ ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਇਸ ਰਸ ਦਾ ਅਸਰ ਬਿਆਨ ਕਰਨ ਤੋਂ ਅਸਮਰਥ ਵੇਖਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਖਿ = ਚੱਖ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

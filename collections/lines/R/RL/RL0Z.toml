@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਸ਼ੌਕ ਦਾ ਆਧਾਰ ਕਾਅਬੇ ਜਾਣ ਮੰਦਰ ਤੇ ਨਹੀਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਮੌਲਾ ਮੁਨਹਸਿਰ ਬਰ ਕਾਅਬਾ ਓ ਬੁਤਖ਼ਾਨਾ ਨੀਸਤ ।੧੦।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

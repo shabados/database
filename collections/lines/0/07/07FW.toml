@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਨਾਥ! ਜਿਧਰ ਤੂੰ ਲਾਉਂਦਾ ਹੈਂ ਉਧਰ ਇਹ ਜੀਵ ਲੱਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਨਾਥ = ਹੇ ਹਰੀ! ਹੇ ਨਾਥ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਅੰਦਰਲਾ ਹਿਰਦਾ ਪਵਿੱਤ੍ਰ ਹੈ, ਉਸ ਨੂੰ ਸਾਰੇ ਜੀਵ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰੁ = ਅੰਦਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

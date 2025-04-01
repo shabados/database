@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਤੈਨੂੰ) ਆਪਣੇ ਖਸਮ ਨੂੰ ਸਿਮਰਦਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

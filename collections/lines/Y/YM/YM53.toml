@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਸੱਚੀ) ਦੌਲਤ ਪਰਵਾਨ ਹੋਏ ਗੁਰਮੁਖਾਂ ਦੀ ਚਰਨਧੂੜ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤ ਅੰਦਰ ਖ਼ਾਕਿ ਪਾਇ ਮੁਕਬਲਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਨਾਲ ਇਹੋ ਜਿਹਾ ਪਿਆਰ ਕਰ, ਜਿਹੋ ਜਿਹਾ ਚਕਵੀ ਦਾ (ਪਿਆਰ) ਸੂਰਜ ਨਾਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

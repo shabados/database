@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਪ੍ਰਭੂ (ਹਜ਼ੂਰੀ ਵਿਚ ਪਹੁੰਚੇ ਹੋਏ ਸਵਾਲੀਏ ਦੇ ਦਿਲ ਦੀ) ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

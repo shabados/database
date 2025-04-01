@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮਨੁੱਖ ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ ਹੀ ਪਹਾੜ ਚੁੱਕਣੇ ਚਾਹੁੰਦਾ ਹੈ (ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ) ਉਹ ਪਹਾੜ ਉੱਥੇ ਦੇ ਉੱਥੇ ਹੀ ਧਰੇ ਰਹਿ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲੀ = ਗੱਲਾਂ ਨਾਲ। ਸੈਲ = ਪਹਾੜ। ਓਇ = (ਲਫ਼ਜ਼ 'ਉਹ' ਤੋਂ ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

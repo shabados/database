@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਨਾਮ ਵਿਚ) ਪਤੀਜੇ ਹੋਏ ਦੀ ਆਤਮਕ ਅਵਸਥਾ ਕਾਗਜ਼ ਉੱਤੇ ਕਲਮ ਨਾਲ ਕੋਈ ਮਨੁੱਖ ਲਿਖਣ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਦਿ = ਕਾਗ਼ਜ਼ ਉੱਤੇ। ਕਲਮ = ਕਲਮ (ਨਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

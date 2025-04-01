@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ!) ਜਿਥੇ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਹ ਤੈਨੂੰ (ਸਦਾ) ਖਿੱਚ ਪਾਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਖਾ = ਤ੍ਰਿਹ। ਆਕਰਖੈ = ਖਿੱਚਦੀ ਹੈ, ਘਬਰਾਹਟ ਪਾਉਂਦੀ ਹੈ। ਤੁਝੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

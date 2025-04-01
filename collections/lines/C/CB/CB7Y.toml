@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ) ਨਾਹ ਕੋਈ ਰਾਣਾ ਨਾਹ ਕੋਈ ਕੰਗਾਲ ਸਦਾ ਜਿਊਂਦਾ ਰਹਿ ਸਕਦਾ ਹੈ; ਨਾਹ ਕੋਈ ਅਮੀਰ ਤੇ ਨਾਹ ਕੋਈ ਫਕੀਰ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁ = ਰੰਕ, ਕੰਗਾਲ। ਤੁੰਗੁ = ਉੱਚਾ, ਅਮੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

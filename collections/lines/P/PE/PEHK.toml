@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਚਰਨਾਂ ਤੋਂ ਕੁਰਬਾਨ ਕੁਰਬਾਨ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ। ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ = ਕੁਰਬਾਨ। ਈਹਾ = ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਪਰਲੋਕ ਵਿਚ। ਜੋਰਾ = ਜੋਰ, ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

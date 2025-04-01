@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਵੇਖ, ਜੀਵ (ਸੋਹਣੇ ਸੋਹਣੇ) ਕੱਪੜੇ ਪਹਿਨਦੇ ਹਨ, ਸੁਆਦਲੇ ਪਦਾਰਥ ਖਾਂਦੇ ਹਨ, ਸਰੀਰ ਉਤੇ ਸੁਗੰਧੀ ਵਾਲੇ ਵਟਣੇ ਆਦਿਕ ਮਲਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਸਰੀਰ ਉਤੇ। ਮਰਦਨ = ਵਟਣਾ ਆਦਿਕ। ਮਾਲਣਾ = ਮਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

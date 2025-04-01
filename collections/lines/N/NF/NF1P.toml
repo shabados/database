@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਨੇ (ਮਾਨੋ) ਕ੍ਰੋੜਾਂ ਤੀਰਥਾਂ ਵਿਚ ਚੁੱਭੀਆਂ ਲਾ ਲਈਆਂ, ਕ੍ਰੋੜਾਂ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਜਨ = ਚੁੱਭੀਆਂ {ਮੱਜਨੁ = ਚੁੱਭੀ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

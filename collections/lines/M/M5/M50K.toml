@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਿਚ ਟਿਕ ਕੇ ਬਾਂਗ ਦੇਹ ਤੇ ਨਿਮਾਜ਼ ਪੜ੍ਹ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸੈ ਦਰਵਾਜ = ਦਸ ਦਰਵਾਜ਼ਿਆਂ ਵਾਲੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

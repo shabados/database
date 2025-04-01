@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਗੁਰੂ ਅਮਰਦਾਸ) ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਸੀ, (ਧੁਰੋਂ) ਉਸ ਦੇ ਚੱਲਣ ਦਾ ਸੱਦਾ ਆ ਗਿਆ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਕਾਰਾ = ਹਾਕ, ਸੱਦਾ। ਚਲਣਵਾਰਾ ਹਕਾਰਾ = ਚੱਲਣ ਦਾ ਸੱਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -42,6 +42,12 @@ language = "pa"
 data = "ਕਈ ਮਨੁੱਖ ਅਕਾਲ ਪੁਰਖ ਦਾ ਹੱਦ-ਬੰਨਾ ਲੱਭਣ ਲਈ ਤਰਲੈ ਲੈ ਰਹੇ ਸਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤ ਕਾਰਣਿ = ਹੱਦ-ਬੰਨਾ ਲੱਭਣ ਲਈ। ਕੇਤੇ = ਕਈ ਮਨੁੱਖ। ਬਿਲਲਾਹਿ = ਵਿਲਕਦੇ ਹਨ, ਤਰਲੇ ਲੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

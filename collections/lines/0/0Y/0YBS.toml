@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਆਗਿਆ ਦੇਵੋ) ਤਾਂ ਮੈਂ ਅੱਜ ਰਾਤ ਹੀ ਉਹ ਹਿਸਾਬ ਮੁਕਾ ਲਵਾਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਉ ਨਿਬੇਰਿ = ਲੇਉਂ ਨਿਬੇਰਿ, ਮੁਕਾ ਲਵਾਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

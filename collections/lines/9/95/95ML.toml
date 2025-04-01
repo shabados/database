@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੇਰੇ ਹਰ ਰੋਮ ਰੋਮ ਵਿੱਚੋਂ ਰੱਬ (ਦੇ ਨਾਮ) ਦੀ ਬਰਖਾ ਹੋਣ ਲਗ ਪਵੇਗੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਬੁਨਿ ਹਰ ਮੂਇ ਹੱਕ ਮੀ ਬਾਰਦਤ ।੪੨੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

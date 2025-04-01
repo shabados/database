@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ (ਭਗਤ) ਬੇਣੀ ਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ ਬਖ਼ਸ਼ਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਪ੍ਰਗਾਸੁ = ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬੁਲਬੁਲਾ ਸਦਾ ਪੈਦਾ ਹੁੰਦਾ ਅਤੇ ਨਾਸ ਹੁੰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਬੁਦਬੁਦਾ = ਬੁਲਬੁਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

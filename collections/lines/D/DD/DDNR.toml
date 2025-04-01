@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! (ਇਹਨਾਂ ਦੁੱਖਾਂ ਕਲੇਸ਼ਾਂ ਤੋਂ ਬਚਣ ਲਈ) ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸ ਦੇ ਪਾਸ ਬੇਨਤੀ ਕੀਤੀ ਜਾਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇ = ਕਿਸ ਨੂੰ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

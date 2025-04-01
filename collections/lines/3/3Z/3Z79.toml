@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਇਸ ਲੋਕ ਵਿਚ ਮੇਰਾ ਤੂੰ ਹੀ ਸਹਾਰਾ ਹੈਂ, ਤੇ ਪਰਲੋਕ ਵਿਚ ਭੀ ਮੇਰਾ ਤੂੰ ਆਪ ਹੀ ਆਸਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਥੈ = ਇਸ ਲੋਕ ਵਿਚ। ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਆਪੇ = (ਤੂੰ) ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

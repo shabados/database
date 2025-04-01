@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੇ ਸੰਗ ਤੁਰ ਤੇ ਰਾਮ ਨਾਮ ਦਾ ਇਹ ਸੌਦਾ ਲੱਦ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਪ = {Skt. क्षेप} ਵਾਪਾਰ ਵਾਸਤੇ ਨਾਲ ਲੈ ਜਾਣ ਵਾਲਾ ਸੌਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

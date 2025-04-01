@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਜਪ ਜਪ ਕੇ ਹਰੀ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਲਗਉ = ਮੈਂ ਲੱਗਾਂ, ਲਗਉਂ। ਹਰਿ ਕੈ ਪਾਇ = ਪ੍ਰਭੂ ਦੀ ਚਰਨੀਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

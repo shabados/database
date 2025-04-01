@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨੇ ਦਾ ਪਲੰਘ ਹੋਵੇ ਜਿਸ ਵਿਚ ਹੀਰੇ ਲਾਲ ਜੜੇ ਹੋਏ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਇੰਨ = ਸੋਨੇ ਦੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੇਸ਼ਕ ਗੁਰੂ ਨਾਨਕ ਪਰਲੋਕ ਦੀ ਮੁਕਤੀ ਅਤੇ ਬਖਸ਼ਿਸ਼ਾਂ ਦੀ ਰਹਿਮਤ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਜਾਤੁਲਵਰਾ ਰਹਿਮਤੁਲ ਮੁਜ਼ਨਬੀਨ ।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਨੁੱਖ ਸਾਰੀਆਂ ਮਾਨਸਕ ਬੀਮਾਰੀਆਂ ਦੇ ਵਸ ਵਿਚ ਆਇਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਧਿ = ਮਾਨਸਕ ਰੋਗ। ਕੈ ਵਸਿ = ਦੇ ਕਾਬੂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

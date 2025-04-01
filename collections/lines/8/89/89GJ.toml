@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਮਨੁੱਖ ਦਾ ਪਿਆਰ (ਮੋਹ) ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਆਗੁ = ਛੱਡ ਦੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

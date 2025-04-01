@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਦਾ ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜਦੋਂ। ਧਿਆਇਆ = ਯਾਦ ਕੀਤਾ, ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

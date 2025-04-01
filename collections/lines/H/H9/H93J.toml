@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਮੰਗਦਾ ਮੰਗਦਾ ਤੂੰ ਤ੍ਰੈਗੁਣੀ ਮਾਇਆ ਵਿਚ ਫਸ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਮਾਇਆ। ਤ੍ਰੈ = (ਮਾਇਆ ਦੇ) ਤਿੰਨ ਗੁਣਾਂ ਵਿਚ। ਲੋਭਾਵਹਿ = ਤੂੰ ਗ੍ਰਸਿਆ ਹੋਇਆ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

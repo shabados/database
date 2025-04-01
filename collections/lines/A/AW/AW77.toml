@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਦਾ ਹੈ ਉਹ ਉਸ ਜਹਾਜ਼ ਵਿਚ ਸਵਾਰ ਹੋ ਗਿਆ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਰਜ਼ਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

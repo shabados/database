@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ ਕਦੇ ਜੀਊਂਦੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ। ਦੁੱਧ ਤੋਂ ਬਿਨਾ ਬੱਚਾ ਨਹੀਂ ਰਹਿ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਹੂਨ = ਬਿਨਾ। ਮੀਨ = ਮੱਛੀ। ਕਤ = ਕਿਵੇਂ? ਰਹਨੁ = ਟਿਕਣ, ਜੀਊਣ। ਬਾਰੋ = ਬਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

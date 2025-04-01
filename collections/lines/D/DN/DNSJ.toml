@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਟੱਲ ਸੁਖ ਮਨ ਦਾ ਟਿਕਾਉ, ਰਿਧੀਆਂ, ਨੌ ਖ਼ਜ਼ਾਨੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਮ = ਅਟੱਲ ਸੁਖ। ਸਾਂਤਿ = ਮਨ ਦਾ ਟਿਕਾਉ। ਰਿਧਿ = ਜੋਗ ਦੀਆਂ ਤਾਕਤਾਂ। ਨਵ ਨਿਧਿ = ਨੌ ਖ਼ਜ਼ਾਨੇ, ਜਗਤ ਦੇ ਸਾਰੇ ਹੀ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

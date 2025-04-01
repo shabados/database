@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੰਡਿਤ ਲੋਕ) ਸਿਮ੍ਰਿਤੀਆਂ ਤੇ ਸ਼ਾਸਤ੍ਰ (ਹੋਰਨਾਂ ਨੂੰ ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ) ਸੁਣਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = (ਜੋ ਮਨੁੱਖ) ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

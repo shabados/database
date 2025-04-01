@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਇਹ ਭੇਦ ਲੱਭ ਲਿਆ ਹੈ ਉਸ ਨੂੰ (ਉਸ ਦੇ ਮਿਲਾਪ ਦਾ) ਆਨੰਦ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਲਹਿਆ = ਲੱਭ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

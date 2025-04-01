@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਹਰਿ-ਨਾਮ ਦੀ ਦਾਤ ਦੇ ਕੇ) ਮੇਰੇ ਮਨ ਵਿਚ ਠੰਢ ਪਾ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

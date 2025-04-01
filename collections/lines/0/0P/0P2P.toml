@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਗੁਣ ਭਰਪੂਰ ਤੇ ਸਭ ਤੋਂ ਵੱਡੇ ਦੇਵਤੇ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਦੇਵ = ਹੇ ਗੁਰਦੇਵ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

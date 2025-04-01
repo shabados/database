@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ-ਧਨ (ਤੇਰੇ ਭਗਤ ਦਾ) ਸਰਮਾਇਆ ਹੈ, ਤੇਰਾ ਭਗਤ ਇਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਵਣਜ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਸਿ = ਪੂੰਜੀ, ਸਰਮਾਇਆ। ਸਚੁ = ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

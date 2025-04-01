@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਮਨੁੱਖ ਆਪਣੀ) ਇਸਤ੍ਰੀ ਛੱਡ ਕੇ ਪਰਾਈ ਇਸਤ੍ਰੀ ਵੱਲ ਭੈੜੀ ਨਿਗਾਹ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਛੋਡਿ = ਛੱਡ ਕੇ। ਬਦ = ਮੰਦੀ, ਭੈੜੀ। ਨਦਰਿ = ਨਿਗਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

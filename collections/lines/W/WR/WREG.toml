@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਲਪ ਬ੍ਰਿਛ ਦੀ ਛਾਵੇਣ ਤਾਣ ਤੈਨੂੰ ਦਿਲ ਦੀਆਣ ਮੁਰਾਦਾਣ ਮਿਲਦੀਆਣ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਜ਼ੇਰਿ ਸਾਇਆਇ ਤੂਬਾ ਮੁਰਾਦ ਹਾ ਯਾਬੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

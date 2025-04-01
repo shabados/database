@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਕਾਂਇਆਂ-ਘੋੜੀ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਕਾਂਇਆਂ, ਸਰੀਰ। ਜੀ = ਹੇ ਭਾਈ! ਜਿਤੁ = ਜਿਸ (ਕਾਂਇਆਂ-ਘੋੜੀ) ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

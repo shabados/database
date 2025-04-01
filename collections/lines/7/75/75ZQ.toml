@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ!) ਦੁਨੀਆ ਵਾਲੀਆਂ ਵਡਿਆਈਆਂ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੀਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨੈ ਕਾਮਿ = ਕੇਹੜੇ ਕੰਮ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

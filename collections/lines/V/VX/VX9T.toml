@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਜੇ ਲੋਕ ਕਿਸੇ ਗ਼ਰਜ਼ ਦੀ ਖ਼ਾਤਰ ਧਰਮ ਕਮਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਥਾਏ = ਕਿਸੇ ਗ਼ਰਜ਼ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

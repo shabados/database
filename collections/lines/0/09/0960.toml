@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ, ਪਿਉ, ਭਰਾ, ਪੁੱਤਰ, ਰਿਸ਼ਤੇਦਾਰ ਅਤੇ ਘਰ ਦੀ ਵਹੁਟੀ ਭੀ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤ = ਮਾਂ। ਭਾਈ = ਭਰਾ। ਸੁਤ = ਪੁੱਤਰ। ਬੰਧਪ = ਰਿਸ਼ਤੇਦਾਰ। ਅਰੁ = ਅਤੇ। ਫੁਨਿ = ਮੁੜ। ਗ੍ਰਿਹ ਕੀ ਨਾਰਿ = ਘਰ ਦੀ ਇਸਤ੍ਰੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

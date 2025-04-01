@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਟੁੱਟੀ ਹੋਈ ਕੁੱਲੀ ਵਿਚ ਰਹਿੰਦਾ ਹੋਵੇ, ਉਸ ਦੇ ਕੱਪੜੇ ਸਾਰੇ ਪਾਟੇ ਹੋਏ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੁੰਪੜੀ = ਕੁੱਲੀ। ਚੀਰ = ਕਪੜੇ। ਛਿੰਨਾ = ਪਾਟੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

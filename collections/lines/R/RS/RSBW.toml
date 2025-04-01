@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ ਖੰਡ ਵਿਚ (ਭਾਵ, ਮਨੁੱਖ ਦੀ ਗਿਆਨ ਅਵਸਥਾ ਵਿਚ) ਗਿਆਨ ਹੀ ਬਲਵਾਨ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿ = ਵਿਚ। ਪਰਚੰਡ = ਤੇਜ਼, ਪ੍ਰਬਲ, ਬਲਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

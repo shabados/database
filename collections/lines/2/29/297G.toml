@@ -5,6 +5,13 @@ language = "pa"
 data = "ਨਹੀਂ ਤਾਂ ਉਹ ਹੱਥੀ ਬੱਧੀ ਡਿੱਗ ਪੈਂਦੇ ਹਨ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਰਨਾ ਉਫ਼ਤੰਦ ਦਸਤ-ਬਸਤਾ ਹਮੇ ।੪੦।"
+page = 1
+line = 40
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

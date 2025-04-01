@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਉੱਤੇ (ਉਹਨਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਲੇਖ ਲਿਖ ਕੇ ਜੀਵਾਂ ਨੂੰ ਤੂੰ ਹੀ ਮਾਇਆ ਦੇ) ਧੰਧਿਆਂ ਵਿਚ ਫਸਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰੇ ਸਿਰਿ = ਹਰੇਕ ਜੀਵ ਦੇ ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

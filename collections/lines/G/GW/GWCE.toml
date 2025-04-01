@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੀ ਖ਼ਾਤਰ) ਝਗੜੇ-ਬਖੇੜੇ (ਇਕ ਐਸੀ) ਕਾਲਖ ਹੈ (ਜੋ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਮੋਹ ਦਾ) ਹਨੇਰਾ ਪੈਦਾ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ = {कलि} (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਝਗੜਾ ਬਖੇੜਾ। ਅੰਧਿਆਰੀਆ = ਹਨੇਰਾ ਪੈਦਾ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਤੋਂ ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਣੇ ਸ਼ੁਰੂ ਕੀਤੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਬੇਅੰਤ = ਹੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

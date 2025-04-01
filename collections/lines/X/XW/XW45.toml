@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਹੇ ਭਾਈ!) ਇਹ ਜੀਵ ਵਿਚਾਰਾ ਕਾਠ ਦੀ ਪੁਤਲੀ ਹੈ, ਇਸ ਨੂੰ ਖਿਡਾਣ ਵਾਲਾ ਪ੍ਰਭੂ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਇਸ ਨੂੰ ਕਿਵੇਂ ਨਚਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਤਰੀ = ਪੁਤਲੀ। ਕਹਾ ਕਰੈ = ਕੀਹ ਕਰ ਸਕਦੀ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

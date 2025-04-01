@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਇਹ ਸਾਰੇ ਜੀਆ-ਜੰਤ ਉਸ ਦੇ ਭਾਂਡੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤਣੀ = ਬਰਤਨ, ਭਾਂਡੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

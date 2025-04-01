@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਕੰਮ) 'ਅਸਾਂ' ਕੀਤਾ ਹੈ, 'ਅਸੀ' ਹੀ ਕਰ ਸਕਦੇ ਹਾਂ, (ਇਉਂ) 'ਅਸੀਂ ਅਸੀਂ' ਆਖਣ ਵਾਲੇ ਬੰਦੇ ਮੂਰਖ ਉਜੱਡ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਵਾਰ = ਉਜੱਡ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

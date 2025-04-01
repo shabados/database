@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮੱਛੀ ਪਾਣੀ ਵਿਚ (ਬੇ-ਫ਼ਿਕਰ ਹੋ ਕੇ) ਰਹਿੰਦੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨੁ = ਮੱਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

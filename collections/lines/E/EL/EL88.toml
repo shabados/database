@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਸਭ ਜੀਵ ਤੇਰਾ ਹੀ ਧਿਆਨ ਧਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਵਹਿ = ਸਿਮਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਗੁਣਤਾਸਾ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

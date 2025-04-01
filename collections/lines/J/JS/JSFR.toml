@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਬੰਦਾ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਗ਼ਰਕ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹ ਮਗਨ ਸੰਗਿ ਮਾਇ = ਮਾਇ ਮੋਹ ਸੰਗਿ ਮਗਨ, ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਡੁੱਬਾ ਹੋਇਆ। ਮਗਨ = ਗ਼ਰਕ, ਡੁੱਬਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਗਵਾਨ! (ਮੇਰੇ ਉੱਤੇ) ਮਿਹਰ ਕਰ, (ਤਾ ਕਿ) ਤੇਰੀ ਉੱਤਮ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੰਨਾਂ ਨਾਲ ਸੁਣੀ ਜਾ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣੀਜੈ = ਸੁਣ ਸਕੀਏ। ਸ੍ਰਵਣੀ = ਕੰਨਾਂ ਨਾਲ। ਮਇਆ = ਦਇਆ, ਮਿਹਰ। ਭਗਵਾਨ = ਹੇ ਭਗਵਾਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

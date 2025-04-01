@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਇਸ ਗੱਲ ਵਲ ਧਿਆਨ ਹੀ ਨਹੀਂ ਹੁੰਦਾ ਕਿ ਮੁਕਤੀ ਕੀਹ ਹੈ ਤੇ ਨਾ-ਮੁਕਤੀ ਕੀਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਮੁਕਤੀ। ਅਵਿਗਤਿ = ਮੁਕਤੀ ਦੇ ਉਲਟ ਹਾਲਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

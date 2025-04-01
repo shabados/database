@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ, ਤਾਂ ਮਨੁੱਖ ਦੀ ਦੁਬਿਧਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਬਿਧਾ = ਦੁਚਿੱਤਾ-ਪਨ, ਮੇਰ-ਤੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

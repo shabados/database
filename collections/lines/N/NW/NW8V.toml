@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੋਲਣ ਵਿਚ ਤੇ ਚੁੱਪ ਰਹਿਣ ਵਿਚ ਭੀ ਸਾਡਾ ਕੋਈ ਆਪਣਾ ਇਖ਼ਤਿਆਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਣਿ = ਆਖਣ ਵਿਚ; ਬੋਲਣ ਵਿਚ। ਚੁਪੈ = ਚੁਪ (ਰਹਿਣ) ਵਿਚ। ਜੋਰੁ = ਸਮਰਥਾ, ਇਖ਼ਤਿਆਰ, ਆਪਣੇ ਮਨ ਦੀ ਮਰਜ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

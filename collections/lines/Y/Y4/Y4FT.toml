@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਕਿਸ ਨੂੰ (ਮਾਇਆ ਦੀ) ਭੁੱਖ ਹੋ ਸਕਦੀ ਸੀ ਤੇ ਕੌਣ ਰੱਜਿਆ ਹੋਇਆ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਵੈ = ਰੱਜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

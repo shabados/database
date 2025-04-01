@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪੂਰੇ ਤੌਰ ਤੇ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਥ = (ਅ-ਕਥ) ਜੋ ਬਿਆਨ ਨਾਹ ਕੀਤੀ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

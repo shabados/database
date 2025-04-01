@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਭਗਵਾਨ ਤੋਂ ਬਿਨਾ (ਜੀਵਾਂ ਦਾ) ਹੋਰ ਕੋਈ ਆਸਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਵੰਤ = ਭਗਵਾਨ, ਪਰਮਾਤਮਾ। ਅਨ = {अन्य} ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

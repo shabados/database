@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਧਨ ਜੋੜ ਰਿਹਾ ਹੈਂ, (ਧਨ ਦੀ ਖ਼ਾਤਰ) ਦੌੜ-ਭੱਜ ਕਰਦਾ ਹੈਂ, ਤੇ ਥੱਕ-ਟੁੱਟ ਜਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਮੁ = ਮਿਹਨਤ। ਗਾਵਾਰ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਧੋ!) ਤੂੰ ਆਪ ਹੀ ਗਾਂਦਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਨੱਚਦਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਵਾਜਾ ਵਜਾਉਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂਰਾ = ਵਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

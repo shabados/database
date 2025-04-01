@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ (ਅੰਗਦ ਦੇਵ ਜੀ) ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਨਾਲ ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਹੋ ਜਾਂਦਾ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨਿ ਪਰਸਿਐ = ਦਰਸਨ ਕਰਨ ਨਾਲ। ਅਠਸਠਿ = ਅਠਾਹਠ ਤੀਰਥ। ਮਜਨੁ = ਇਸ਼ਨਾਨ। ਸਤੁ = ਉੱਚਾ ਆਚਰਨ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

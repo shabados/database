@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਮਨ ਲਾ ਕੇ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਰਾ = ਚੰਗੀ ਤਰ੍ਹਾਂ। ਸਰਾਹਉ = ਸਰਾਹਉਂ, ਮੈਂ ਸਲਾਹੁੰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

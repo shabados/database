@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਇਉਂ ਗਾਉਂਦਾ ਹੈ, 'ਅਕਾਲ ਪੁਰਖ ਸਰੀਰ ਨੂੰ ਬਣਾ ਕੇ (ਫਿਰ) ਸੁਆਹ ਕਰ ਦੇਂਦਾ ਹੈ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਿ = ਪੈਦਾ ਕਰਕੇ, ਬਣਾ ਕੇ। ਤਨੁ = ਸਰੀਰ ਨੂੰ। ਖੇਹ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

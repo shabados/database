@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੰਦੇ! ਇਹ ਸਬਰ ਹੀ ਜ਼ਿੰਦਗੀ ਦਾ ਅਸਲ ਨਿਸ਼ਾਨਾ ਹੈ। ਜੇ ਤੂੰ (ਸਬਰ ਨੂੰ ਹਿਰਦੇ ਵਿਚ) ਪੱਕਾ ਕਰ ਲਏਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਉ = ਸੁਆਰਥ, ਪ੍ਰਯੋਜਨ, ਜ਼ਿੰਦਗੀ ਦਾ ਨਿਸ਼ਾਨਾ। ਬੰਦਾ = ਹੇ ਬੰਦੇ! ਹੇ ਮਨੁੱਖ! ਦਿੜੁ = ਪੱਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

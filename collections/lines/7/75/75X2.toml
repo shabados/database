@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਜਿਸ) ਕੰਗਾਲ ਨੂੰ (ਆਪਣਾ ਨਾਮ-) ਧਨ ਦੇਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਧਨ ਕਉ = ਕੰਗਾਲ ਨੂੰ। ਦੇਵਹੁ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ। ਧਨਾ = ਨਾਮ-ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

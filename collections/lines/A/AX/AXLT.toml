@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਸੰਤ ਜਨੋ! ਮੇਰੀ ਬੇਨਤੀ ਸੁਣੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ ਸੰਤ ਜਨੋ! ਬਿਨਉ = {विनय} ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

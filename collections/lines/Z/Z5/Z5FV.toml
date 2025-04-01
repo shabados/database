@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਨਰਗਸ ਦੇ ਫੁਲ ਵਲ ਅੱਖ ਚੁੱਕ ਕੇ ਕਦ ਵੇਖਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਦੀਦਾ ਲੱਜ਼ਤਿ ਆਣ ਚਸ਼ਮ ਸ਼ੋਖ਼ ।੧੮।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

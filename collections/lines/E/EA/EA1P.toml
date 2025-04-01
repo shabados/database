@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਵਾਲੇ ਤੇਰੇ ਸਾਰੇ ਹੀ ਮੋਹ ਨਾਸ ਹੋ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇਤ = ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਫ਼ ਉਹ ਮਨੁੱਖ ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ = ਜਿਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

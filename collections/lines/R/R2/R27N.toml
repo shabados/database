@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਗਤਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਦੇ ਆਸਰੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਾਰ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

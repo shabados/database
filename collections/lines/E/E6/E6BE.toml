@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਇਸ (ਮੇਰ-ਤੇਰ ਨੂੰ) ਮੁਕਾ ਲੈਂਦਾ ਹੈ, ਉਹ ਮਾਇਆ ਦੇ ਹੱਲਿਆਂ ਦੇ ਟਾਕਰੇ ਤੋਂ ਅਡੋਲ ਰਹਿੰਦਾ ਹੈ, ਉਹੀ ਅਸਲ ਧਨਾਢ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ ਅਡੋਲ। ਧਨੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ) ਪ੍ਰਭੂ ਦੇ ਸੋਹਣੇ ਚਰਨ ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦ = ਹਿਰਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

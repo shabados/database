@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੀਜੀ ਅਵਸਥਾ ਵਿਚ (ਅਪੜਿਆਂ ਜੀਵ ਨੂੰ) ਭਰਾ ਭਾਈ ਤੇ ਭੈਣ ਦੀ ਪਛਾਣ ਆਉਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਯਾ = ਭਾਈਆ, ਭਾਈ। ਭਾਭੀ = ਭਰਜਾਈ। ਬੇਬ = ਭੈਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

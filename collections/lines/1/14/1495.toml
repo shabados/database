@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਡੂੰਘੇ ਪ੍ਰਭੂ! ਹੇ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਭੀਰ = ਹੇ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲੇ! ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ, ਆਤਮਕ ਮੌਤ ਤੋਂ ਬਚਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਦਾ ਜਾਗਦਾ ਹੈ, (ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ), ਕਦੇ ਝੂਠ ਨਹੀਂ ਬੋਲਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲੀਆ = {Skt. अलीक} ਝੂਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

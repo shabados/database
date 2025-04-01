@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਦਾ) ਮੂੰਹ ਨਹੀਂ, ਪਰ ਖਿੜ ਖਿੜ ਹੱਸਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਦਨ = ਮੂੰਹ। ਖਿਰ ਖਿਰ = ਖਿੜ ਖਿੜ। ਹਾਸਤਾ = ਹੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਲਕ ਤੋਂ ਪੂਰਾ ਮਰਤਬਾ (ਭਾਵ, ਪੂਰਨ ਅਵਸਥਾ) ਹਾਸਲ ਕਰ ਕੇ ਉਹ ਅੰਦਰੋਂ ਹੁਲਾਸ ਵਿਚ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਾ = ਪੂਰਾ ਮਰਤਬਾ। ਰਹਸਿਆ = ਖਿੜ ਆਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

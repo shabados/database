@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਮੌਕੇ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ (ਜਦੋਂ ਮੈਨੂੰ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਪ੍ਰਾਪਤ ਹੋਈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਸਰ = ਸਮਾ, ਮੌਕਾ। ਉਆ ਅਉਸਰ ਕੈ = ਉਸ ਸਮੇਂ ਤੋਂ। ਹਉ = ਮੈਂ। ਬਲਿ ਜਾਈ = ਬਲਿ ਜਾਈਂ, ਮੈਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

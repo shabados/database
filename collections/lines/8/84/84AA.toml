@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਦੈਂਤ ਆਪਣੀ ਵਾਹ ਲਾ ਥੱਕੇ (ਪਰ ਉਹਨਾਂ ਦੀ ਪੇਸ਼ ਨ ਗਈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਿ = ਮਾਰ ਕੇ। ਰਹੇ ਮਾਰਿ = ਮਾਰ ਰਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

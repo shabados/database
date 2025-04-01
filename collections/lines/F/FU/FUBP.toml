@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਸ੍ਰਿਸ਼ਟੀ ਦੇ) ਬੇਅੰਤ ਧਰਤੀਆਂ ਤੇ ਪਾਤਾਲ ਹਨ, ਮੈਥੋਂ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੰਡ = ਹਿੱਸੇ। ਅਸੰਖ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਮੌਤ ਆਉਂਦੀ ਹੈ, ਇਸ ਨੂੰ ਅੱਗ ਨਾਲ ਸਾੜ ਦੇਈਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਤੀ ਬਾਰ = ਮਰਨ ਵੇਲੇ। ਜਾਲੀ = ਸਾੜੀਦੀ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

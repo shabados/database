@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ) ਪਰਮਾਤਮਾ ਹਰ ਥਾਂ ਵਿਆਪਕ ਦਿੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਪੂਰੀ = ਹਰ ਥਾਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

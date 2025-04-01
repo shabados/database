@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਨੀਵੇਂ ਰਹਿਣ ਵਿਚ ਮਿਠਾਸ ਹੈ, ਗੁਣ ਹਨ, ਨੀਵਾਂ ਰਹਿਣਾ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਸਾਰ ਹੈ, ਭਾਵ, ਸਭ ਤੋਂ ਚੰਗਾ ਗੁਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਠਤੁ = ਮਿਠਾਸ। ਨੀਵੀ = ਨੀਵੇਂ ਰਹਿਣ ਵਿਚ। ਤਤੁ = ਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

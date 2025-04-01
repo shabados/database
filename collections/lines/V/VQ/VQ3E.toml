@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਸਰਣਾਈ = ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਵਿਚ। ਪਾਇ = ਪਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

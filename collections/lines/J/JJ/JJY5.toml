@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦਿਨ ਰਾਤ ਸਦਾ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧਵੇ = {मा = धव। ਮਾਇਆ ਦਾ ਪਤੀ} ਪਰਮਾਤਮਾ ਨੂੰ। ਭਜੁ = ਸਿਮਰਦਾ ਰਹੁ। ਰੈਣੀ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

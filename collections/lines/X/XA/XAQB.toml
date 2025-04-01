@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਇਸ ਝੱਲੇ ਮਨ ਨੂੰ ਕੀਹ ਸਮਝਾਵਾਂ? (ਇਸ ਨੇ) ਇਹਨਾਂ (ਕੱਚੇ ਸਾਥੀਆਂ) ਨਾਲ ਪਿਆਰ ਪਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਂਉ ਕਹਾ = ਮੈਂ ਕੀਹ ਆਖਾਂ? ਯਿਆ ਮਨ ਕਉ = ਇਸ ਮਨ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

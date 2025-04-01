@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਸਾਰੇ ਗਹੁ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਨਿ = ਗਿਣ ਕੇ। ਮਿਨਿ = ਮਿਣ ਕੇ। ਬੀਚਾਰਿ = ਵਿਚਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

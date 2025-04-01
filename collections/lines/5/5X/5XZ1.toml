@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੂੰ ਸਾਰੀਆਂ ਮੌਜਾਂ ਮਾਣਦਾ ਹੈਂ, ਉਸ ਨਾਲ ਪ੍ਰੀਤ ਜੋੜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਭਿ = ਸਭਿ, ਸਾਰੇ। ਮਾਣਹਿ = ਤੂੰ ਮਾਣਦਾ ਹੈਂ। ਜਿਸੁ ਸੰਗਿ = ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ। ਤੈ ਸਿਉ = ਉਸ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

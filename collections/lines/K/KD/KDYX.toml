@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਮੁੜ ਕਦੀ ਬਹਿਸ਼ਤ ਦੇ ਬਾਗ ਦੀ ਸੈਰ ਲਈ ਨਹੀਣ ਜਾਣਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਕਸੇ ਕਿ ਜਾਨਿਬ ਕੁਇ ਬੁਤਾਣ ਗੁਜ਼ਸ਼ਤ ।੮।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

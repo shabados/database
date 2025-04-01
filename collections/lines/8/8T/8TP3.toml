@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੇਤਾ ਰੱਖ ਕਿ ਇਹ ਸਾਰੇ ਪਿਆਰੇ ਮਿੱਤਰ (ਤੇਰੇ ਵਾਸਤੇ) ਛਲ-ਰੂਪ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸਟ = ਪਿਆਰੇ। ਜਾਣੁ = ਚੇਤੇ ਰੱਖ, ਸਮਝ ਲੈ। ਛਲੈ = ਛਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

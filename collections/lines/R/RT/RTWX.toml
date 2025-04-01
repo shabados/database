@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੁਗ ਵਿਚ ਹੀ ਤੇਰੇ ਭਗਤ-ਸੇਵਕ ਮੌਜੂਦ ਰਹੇ ਹਨ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਹ ਜੁਗੰਤਰਿ = ਜੁਗ ਜੁਗ ਅੰਤਰਿ, ਹਰੇਕ ਜੁਗ ਵਿਚ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

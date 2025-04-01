@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਖੋ! ਗਿਆਨਵਾਨ ਹੋਣ, ਸੁਰਤ ਜੋੜਨ ਵਾਲੇ ਹੋਣ, ਸਿਆਣੇ ਹੋਣ, ਕਿਸੇ ਨੇ ਭੀ ਇਸ ਥਾਂ ਸਦਾ ਟਿਕੇ ਨਹੀਂ ਰਹਿਣਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਿ = ਵੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

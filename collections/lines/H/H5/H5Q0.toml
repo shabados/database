@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਇੱਕ ਹਰੀ ਨੂੰ ਧਿਆਉਂਦੇ ਹਨ, ਜੋ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਆ = ਸਤਿ, ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

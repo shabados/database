@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਦੋਂ ਤੋਂ) ਮੈਂ ਗੁਰੂ ਦੇ ਚਰਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

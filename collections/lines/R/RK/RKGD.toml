@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਪਪੀਹਾ ਹੈ (ਤੇ ਆਪ ਹੀ ਉਸ ਪਪੀਹੇ ਵਾਸਤੇ) ਵਰਖਾ ਦੀ ਧਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰਿੰਗ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

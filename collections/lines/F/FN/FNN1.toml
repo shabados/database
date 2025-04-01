@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਜਪਿਆਂ ਵਿਕਾਰਾਂ ਵਿਚ) ਡੁੱਬਦੇ ਜਾਂਦੇ ਨੂੰ ਆਸਰਾ ਟਿਕਾਣਾ ਮਿਲਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਡਤ ਜਾਤ = ਡੁੱਬਦਾ ਜਾਂਦਾ। ਬਿਸ੍ਰਾਮੁ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

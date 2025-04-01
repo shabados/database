@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਫ਼ ਹੱਥਾਂ ਨਾਲ ਤੂੰ ਮੱਥੇ ਉੱਤੇ ਤਿਲਕ ਲਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ ਊਜਲ = ਸਾਫ਼ ਹੱਥਾਂ ਨਾਲ। ਕਪਾਲਾ = ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

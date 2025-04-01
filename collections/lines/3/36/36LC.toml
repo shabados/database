@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਨਾਮ ਦੀ ਹੀ ਬਰਕਤਿ ਹੈ (ਕਿ ਮਨੁੱਖ ਹੋਰ ਹੋਰ ਆਸਰਿਆਂ ਦੀ ਭਾਲ ਛੱਡ ਦੇਂਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਿਆਈ = ਬਰਕਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

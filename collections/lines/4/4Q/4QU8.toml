@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸੇਵਕ ਉੱਤੇ ਪਰਮਾਤਮਾ ਮਿਹਰ ਕਰਦਾ ਹੈ, ਮੈਂ ਉਸ ਦਾ ਮੁੱਲ ਖ਼ਰੀਦਿਆ ਗ਼ੁਲਾਮ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਟਿ = ਹੱਟੀ ਉੱਤੇ। ਵਿਹਾਝੇ = ਖ਼ਰੀਦੇ ਹੋਏ, ਵਿਕੇ ਹੋਏ। ਹਾਟਿ ਵਿਹਾਝੇ = ਗ਼ੁਲਾਮ, ਮੁੱਲ-ਖ਼ਰੀਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

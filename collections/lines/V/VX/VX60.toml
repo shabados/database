@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਹਰ ਥਾਂ ਪ੍ਰਭੂ ਦਾ ਹੀ ਪ੍ਰਤਾਪ ਪ੍ਰਤੱਖ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਹੂ ਕੋ = ਉਸ ਪ੍ਰਭੂ ਦਾ ਹੀ। ਜਾਪਤ = ਦਿੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

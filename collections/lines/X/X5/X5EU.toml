@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਿੰਨੇ ਅੰਡਜ, ਜੇਰਜ, ਸੇਤਜ, ਅਤੇ ਦਸ ਇੰਦਰੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਿਹਗਾਨਾ ਮਵਾਲੀਦੋ ਅਸ਼ਰਾ ਹਵਾਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

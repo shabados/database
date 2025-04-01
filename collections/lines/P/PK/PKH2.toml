@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਾਬਾ! ਹੁਣ ਮੈਂ ਇਸ ਪਿੰਡ ਵਿਚ ਨਹੀਂ ਵੱਸਣਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਸਉ = ਨ ਬਸਉਂ, ਮੈਂ ਨਹੀਂ ਵੱਸਾਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

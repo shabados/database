@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮੂਰਖ ਮਨ! ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੁ = ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ। ਮੁਗਧ ਮਨਾ = ਹੇ ਮੂਰਖ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

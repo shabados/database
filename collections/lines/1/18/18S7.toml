@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿਹੜਾ ਮਨੁੱਖ ਮਨ ਦੇ ਹਠ ਨਾਲ (ਅਜਿਹੇ) ਕਰਮ (ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ, ਉਹ) ਮੁੜ ਮੁੜ ਜੂਨੀਆਂ ਵਿਚ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਠਿ = ਹਠ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

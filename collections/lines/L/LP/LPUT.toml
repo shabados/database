@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਭੈਣੋ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣਿਆ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਮੇਰੀ ਭੈਨਾ = ਹੇ ਮੇਰੀ ਭੈਣੋ! ਹੇ ਸਤਸੰਗੀਹੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

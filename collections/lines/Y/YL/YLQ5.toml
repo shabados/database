@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਿਰਸੰਦੇਹ ਉਹ ਨਿਰੰਜਨ ਅਤੇ ਨਿਰੰਕਾਰ ਦਾ ਹੀ ਰੂਪ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾਨਾ ਨਿਰੰਜਨ ਨਿਰੰਕਾਰ ਰੂਪ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

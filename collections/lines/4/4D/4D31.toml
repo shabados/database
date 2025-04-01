@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਘਰ (ਦੇ ਬੂਹੇ) ਤੇ (ਰੋਟੀ) ਮੰਗਦਾ ਫਿਰਦਾ ਹੈ, ਉਹ (ਸਗੋਂ) ਤ੍ਰਿਪਤੀ ਤੋਂ ਵਾਂਜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਘਰਿ = ਹਰੇਕ ਘਰ ਵਿਚ। ਤੇ = ਤੋਂ। ਚੂਕਾ = ਰਹਿ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

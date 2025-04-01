@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਪਰਾਇਆ ਧਨ ਚੁਰਾਂਦਾ ਹੈ, ਤੇ, ਧਨ ਨੂੰ ਨਾਸਵੰਤ ਆਖ ਆਖ ਕੇ ਭੀ ਪਰਾਇਆ ਮਾਲ ਖਾਈ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬੁ = ਧਨ। ਹਿਰੈ = ਚੁਰਾਂਦਾ ਹੈ। ਮਿਥਿਆ = ਨਾਸਵੰਤ। ਮਿਥਿਆ ਕਰਿ = ਇਹ ਆਖ ਆਖ ਕੇ ਭੀ ਕਿ ਸਭ ਕੁਝ ਨਾਸਵੰਤ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

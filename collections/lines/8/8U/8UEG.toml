@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਹੀ ਉਸੇ ਪ੍ਰਭੂ ਦਾ ਹੀ ਆਸਰਾ ਲਈ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦੀਵ = ਸਦਾ ਹੀ। ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

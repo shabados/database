@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਕਿਉਂ (ਵਿਲਕ ਰਿਹਾ ਹੈਂ, ਜਿਵੇਂ) ਸੁਪਨੇ ਦੇ ਅਸਰ ਹੇਠ ਬੋਲ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਕਉ = ਕਿਉਂ? ਮੂਰਖ = ਹੇ ਮੂਰਖ! ਭਖਲਾਇਆ = ਬਰੜਾਉਂਦਾ ਹੈਂ, ਸੁਪਨਿਆਂ ਦੇ ਅਸਰ ਹੇਠ ਬੋਲ ਰਿਹਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

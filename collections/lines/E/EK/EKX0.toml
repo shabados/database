@@ -42,6 +42,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਹੀ ਝੂਠ ਬੋਲਣ ਦੇ ਸੁਭਾਉ ਵਾਲੇ ਮਨੁੱਖ ਝੂਠ ਵਿਚ ਹੀ ਰੁੱਝੇ ਪਏ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜਿਆਰ = ਉਹ ਮਨੁੱਖ ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਕੂੜ ਦੇ ਟਿਕਾਣੇ ਬਣੇ ਪਏ ਹਨ, ਝੂਠ ਦੇ ਸੁਭਾਉ ਵਾਲੇ। ਕੂੜੇ = ਕੂੜ ਵਿਚ ਹੀ। ਫਿਰਾਹਿ = ਫਿਰਦੇ ਹਨ, ਪਰਵਿਰਤ ਹਨ, ਰੁੱਝੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

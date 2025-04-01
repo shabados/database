@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਰਹਿ ਕੇ ਇਹ ਸਰੀਰ ਮਿੱਟੀ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਹੂਣੀ = ਬਿਨਾ, ਖ਼ਾਲੀ, ਸੱਖਣੀ। ਖੇਹ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਚਰਨ-ਧੂੜ ਹੀ) ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਹੈ (ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਦਾ ਇਸ਼ਨਾਨ ਜੀਵਾਂ ਦੇ ਮਨ ਦੀ) ਮੈਲ ਦੂਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠਸਠਿ = ਅਠਾਹਠ। ਮਜਨੁ = ਇਸ਼ਨਾਨ। ਕਟੇਰੈ = ਕੱਟਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

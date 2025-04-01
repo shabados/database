@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਉਸ ਰਾਵਣ ਦਾ ਜ਼ਿਕਰ ਹੈ) ਜਿਸ ਦੀ ਰਸੋਈ ਚੰਦ੍ਰਮਾ ਤੇ ਸੂਰਜ ਤਿਆਰ ਕਰਦੇ ਸਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੇ = ਜਿਸ ਦੇ ਘਰ। ਤਪਤ ਰਸੋਈ = ਰਸੋਈ ਤਪਾਉਂਦੇ ਹਨ, ਰੋਟੀ ਤਿਆਰ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

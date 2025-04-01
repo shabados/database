@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਦੇ ਆਪਣੇ ਅੰਦਰ ਤਾਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਮੈਲ ਹੈ ਤੇ ਮਾਇਆ ਦੇ ਹੀ ਵਿਪਾਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = (ਉਹਨਾਂ ਦੇ) ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

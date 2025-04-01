@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਮਿਲਾਪ ਦੇ ਟਾਕਰੇ ਤੇ) ਲੋਕਾਂ ਵਲੋਂ ਮਿਲ ਰਹੀਆਂ ਇੱਜ਼ਤਾਂ ਨੂੰ ਤਾਂ ਮੈਂ ਅੱਗ ਵਿਚ ਪਾ ਦੇਣ ਨੂੰ ਤਿਆਰ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਆ = ਕੀਆਂ, ਦੀਆਂ। ਬੈਸੰਤਰਿ = ਅੱਗ ਵਿਚ। ਪਾਗਉ = ਪਾਗਉਂ, ਮੈਂ ਪਾ ਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

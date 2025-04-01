@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਆਤਮਕ ਆਨੰਦ ਖ਼ੁਸ਼ੀਆਂ ਪੈਦਾ ਹੋ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲਚਾਰ = ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ, ਖ਼ੁਸ਼ੀਆਂ। ਚੋਜ = ਖ਼ੁਸ਼ੀ ਦੇ ਕੌਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

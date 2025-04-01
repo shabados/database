@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਭੀ (ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ ਨੇ। ਤੋਹਿ = ਤੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

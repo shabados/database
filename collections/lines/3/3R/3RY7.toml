@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਨੂੰ ਨਾਮ ਜਪਣ ਦੇ ਆਹਰੇ ਲਾ ਕੇ ਨਾਮ ਵਿਚ ਰੁੱਝਿਆ ਰਹੁ ॥੪॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸੁ = ਇਸ (ਮਨ) ਨੂੰ। ਪਰਚਾਇ = ਰੁਝ ਕੇ, ਲਾ ਕੇ। ਪਰਚਿ ਰਹੁ = ਪਤੀਜਿਆ ਰਹੁ, ਰੁੱਝਿਆ ਰਹੁ। ਏਸੁ = ਇਸ (ਨਾਮ) ਵਿਚ ॥੪॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਗਉੜੀ-ਗੁਆਰੇਰੀ ਵਿੱਚ-ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ ਦੀ ਚਾਰ-ਪਦਿਆਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਪਦੇ = ਚਾਰ ਬੰਦਾਂ ਵਾਲੇ ਸ਼ਬਦ {ਚਉ = ਚਾਰ। ਪਦ = ਬੰਦ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

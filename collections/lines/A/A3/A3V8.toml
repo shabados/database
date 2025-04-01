@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੇਰੇ ਪਾਸ ਵਧੀਆ ਘੋੜੇ ਵਧੀਆ ਹਾਥੀ ਹੋਣ, ਨੇਜ਼ਾ-ਬਰਦਾਰ ਫ਼ੌਜਾਂ ਹੋਣ, ਫ਼ੌਜੀ ਵਾਜੇ ਵੱਜਦੇ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈਵਰ = {ਹਯ = ਵਰ} ਵਧੀਆ ਘੋੜੇ। ਗੈਵਰ {ਗਜ = ਵਰ} ਵਧੀਆ ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

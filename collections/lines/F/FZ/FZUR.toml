@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਜੀ ਹੱਸ ਕੇ ਆਖਣ ਲੱਗੇ-ਅਸਾਂ ਨਿਆਂ ਕਰ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਿ = ਹੱਸ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

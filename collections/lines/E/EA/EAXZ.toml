@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਨਾਮ ਦਾ) ਖ਼ਜ਼ਾਨਾ ਤੇਰੇ (ਆਪਣੇ) ਹੱਥ ਵਿਚ ਹੈ, ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲਗੇ ਉਸ ਨੂੰ ਤੂੰ (ਇਹ ਖ਼ਜ਼ਾਨਾ) ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਥਿ = ਹੱਥ ਵਿਚ। ਨਿਧਾਨੁ = (ਨਾਮ ਦਾ) ਖ਼ਜ਼ਾਨਾ। ਦੇਹਿ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

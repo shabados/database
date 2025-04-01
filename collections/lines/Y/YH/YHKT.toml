@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਪੀਹੇ ਦਾ (ਵਰਖਾ-) ਜਲ ਨਾਲ ਪ੍ਰੇਮ ਹੈ, (ਵਰਖਾ-) ਜਲ ਦੀ ਉਸ ਨੂੰ ਪਿਆਸ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਬੱਦਲਾਂ ਦੀ ਛਾਂ (ਛਿਨ-ਭੰਗਰ ਹੈ, ਤਿਵੇਂ) ਮਾਇਆ ਦੇ ਰੰਗ-ਤਮਾਸ਼ੇ ਖਿਨ ਵਿਚ ਫਿੱਕੇ ਪੈ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰੰਗ = ਬੇ-ਰੰਗ, ਫਿੱਕੇ। ਬਾਦਰ = ਬੱਦਲ। ਛਾਇਆ = ਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

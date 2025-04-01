@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ (ਸੰਤਾਣ ਮਹਾਤਮਾਣ) ਦੀ ਸੰਗਤ ਵਿੱਚੋਣ ਹੀ ਨਸੀਬ ਹੋਇਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਸਤ ਅੰਦਰ ਸੁਹਬਤਿ ਏਸ਼ਾਣ ਨਸੀਬ ।੧੫੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

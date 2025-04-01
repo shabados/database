@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਗੁਰੂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਮੰਤ੍ਰ ਦੇ ਦਿੱਤਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰੁ = ਉਪਦੇਸ਼। ਗੁਰਿ = ਗੁਰੂ ਨੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

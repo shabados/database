@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ! ਹੇ ਡੂੰਘੇ ਤੇ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲੇ ਪ੍ਰਭੂ!)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ਸਾਚੇ = ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

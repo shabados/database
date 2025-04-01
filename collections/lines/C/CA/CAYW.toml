@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਇਹ ਜਿਤਨਾ ਭੀ ਸਾਰਾ ਜਗਤ ਹੈ (ਇਸ ਦੇ ਸਾਰੇ) ਜੀਵਾਂ ਦਾ ਮਨ (ਮਾਇਆ ਦੇ ਅਸਰ ਹੇਠ) ਹਰ ਵੇਲੇ ਡਾਵਾਂ-ਡੋਲ ਹੁੰਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਜਗੁ = ਸਾਰਾ ਜਗਤ। ਜੇਤਾ = ਜਿਤਨਾ ਭੀ ਹੈ। ਡੋਲਤ ਡੋਲ ਕਰੀਜੈ = ਹਰ ਵੇਲੇ ਡੋਲ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

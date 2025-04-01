@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਸਾਰੀ ਲੁਕਾਈ ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ ਭਾਇ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ। ਪਰਜ = ਪਰਜਾ, ਲੁਕਾਈ। ਵਿਗੋਈ = ਖ਼ੁਆਰ ਹੋ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਸਦਾ ਹੀ ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦਾ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੀ = ਜਾਪੀਂ, ਮੈਂ ਜਪਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

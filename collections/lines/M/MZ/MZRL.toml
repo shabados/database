@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਆਪਣੇ ਆਪ ਨੂੰ) ਬੜਾ ਸੂਰਮਾ ਅਖਵਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਾ = ਸੂਰਮਾ, ਬਹਾਦੁਰ। ਕਹਾਵੈ = ਅਖਵਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

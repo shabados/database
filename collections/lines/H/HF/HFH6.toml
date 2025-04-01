@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਹਉਮੈ ਅਤੇ ਮਨਮੁਖਾਂ ਵਾਲੇ ਚਾਲੇ ਛੱਡ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰ ਅਜ਼ ਖ਼ੁਦ-ਬੀਨੀ ਓ ਤਰਜ਼ਿ ਜ਼ਹੂਲ ।੪੭੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

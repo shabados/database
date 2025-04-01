@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਛੇਤੀ ਨਾਲ ਪ੍ਰਹਿਲਾਦ ਨੂੰ ਸੱਦ ਘੱਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਗਿ = ਛੇਤੀ। ਬੁਲਾਏ = ਸਦਵਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

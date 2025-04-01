@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਆਪਣੇ ਸੇਵਕਾਂ ਦੀ ਲਾਜ ਰੱਖ, ਅਤੇ ਮਾਇਆ ਤੋਂ ਨਿਰਮੋਹ ਕਰਨ ਵਾਲਾ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨਹ ਕੇਰੀ = ਹਰੀ ਦੇ ਦਾਸਾਂ ਦੀ। ਹਰਿ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

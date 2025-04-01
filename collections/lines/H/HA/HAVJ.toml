@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਦੀ ਰਤਾ ਭਰ ਝਾਤੀ ਨਾਲ ਉਸ ਦਾ ਤਨ ਮਨ ਖਿੜ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲ = ਪ੍ਰਸੰਨ। ਬਿੰਦਕ = ਰਤਾ ਭਰ ਭੀ। ਝਾਕੁ = ਝਾਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

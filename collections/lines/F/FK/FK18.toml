@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਤੈਨੂੰ ਇਹ ਨਹੀਣ ਕਹਿੰਦਾ, ਕਿ ਤੂੰ ਮੰਦਰ ਜਾ ਯਾ ਕਾਅਬੇ ਵਲ ਜਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨ ਗੋਇਮਤ ਕਿ ਸੂਇ ਦੈਰ ਯਾ ਹਰਮ ਮੀ ਰੌ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

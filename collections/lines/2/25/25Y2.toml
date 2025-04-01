@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਕ! ਤੁਸੀ ਹੀ ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਤਨ ਵਿਚ ਵੱਸ ਰਹੇ ਹੋ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ। ਗੋਪਾਲ = ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਪਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

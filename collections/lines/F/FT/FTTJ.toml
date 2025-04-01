@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦੇ ਦਾ ਕੰਮ ਸਿਰਫ ਬੰਦਗੀ ਕਰਨਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਰਾ ਬਾ-ਬੰਦਗੀ ਕਾਰ ਆਮਦਾ ।੧੨੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

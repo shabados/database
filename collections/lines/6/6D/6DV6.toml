@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਉਤੇ ਮਾਇਆ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਹ ਜੋਹੈ = ਤੱਕ ਨਹੀਂ ਸਕਦੀ, ਘਰ ਨਹੀਂ ਸਕਦੀ। ਮਾਈ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! (ਜਦੋਂ ਮਨੁੱਖ)! ਸੁਖ ਵਿਚ (ਹੁੰਦਾ ਹੈ, ਤਦੋਂ) ਕਈ ਯਾਰ ਦੋਸਤ ਮਿਲ ਕੇ (ਉਸ ਪਾਸ) ਬੈਠਦੇ ਹਨ, ਤੇ, (ਉਸ ਨੂੰ) ਚੌਹੀਂ ਪਾਸੀਂ ਘੇਰੀ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨਿ = ਆ ਕੇ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਚਹੂ ਦਿਸਿ = ਚੌਹੀਂ ਪਾਸੀਂ। ਰਹਤ ਘੇਰੈ = ਘੇਰੀ ਰੱਖਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਾੜਾਂ ਵਿਚ, ਸਮੁੰਦਰਾਂ ਵਿਚ, ਰੇਤਲੇ ਥਾਵਾਂ ਵਿਚ, ਧਰਤੀ ਵਿਚ, ਜੰਗਲਾਂ ਵਿਚ, ਫਲਾਂ ਵਿਚ, ਗੁਫ਼ਾਂ ਵਿਚ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੂੰਗਰਿ = ਡੁੱਗਰ ਵਿਚ, ਪਹਾੜ ਵਿਚ। ਬਨਾ = ਜੰਗਲਾਂ ਵਿਚ। ਜਲਾ = ਪਾਣੀਆਂ ਵਿਚ। ਥਲਾ = ਰੇਤਲੇ ਥਾਵਾਂ ਵਿਚ। ਕੰਦਰਾ = ਗੁਫ਼ਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

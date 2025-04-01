@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਹੀ ਜੀਵਨ-ਰਸਤਾ ਦੱਸਣ ਵਾਲਾ ਮਿੱਤਰ ਕਿਤੇ ਕੋਈ ਲੱਭਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਕੁ = ਸੱਚਾ ਸੰਤ ਜੋ ਆਪ ਜਪੇ ਤੇ ਹੋਰਨਾਂ ਤੋਂ ਜਪਾਏ, ਸਹੀ ਜੀਵਨ-ਰਾਹ ਦੱਸਣ ਵਾਲਾ। ਮਿਤੁ = ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

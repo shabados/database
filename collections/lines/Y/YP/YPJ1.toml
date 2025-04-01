@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦੱਸੋ, ਕਿਥੇ ਸਨ ਜੀਵ ਤੇ ਕਿਥੇ ਸੀ ਮਾਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਵ = ਜੀਵਾਤਮਾ। ਸਕਤਿ = ਮਾਇਆ। ਕਿਤੁ ਠਾਇ = ਕਿਥੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

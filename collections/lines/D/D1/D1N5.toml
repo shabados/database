@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਅਜੇਹੇ ਬੰਦੇ ਨੂੰ ਦੇਣ ਨਾਲ ਪੁੰਨ ਭੀ ਇਹੋ ਜਿਹਾ ਹੀ ਹੁੰਦਾ ਹੈ (ਭਾਵ, ਕੋਈ ਪੁੰਨ-ਕਰਮ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਮੁ = ਪੁੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

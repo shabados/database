@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਅਕਲ ਪਵਿਤ੍ਰ ਆਖੀ ਜਾਂਦੀ ਹੈ ਧੀਰਜ ਵਾਲੀ ਆਖੀ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ = ਉਹ {ਇਹ ਲਫ਼ਜ਼ ਇਸਤ੍ਰੀ ਲਿੰਗ ਹੈ}। ਮਤਿ = ਅਕਲ। ਕਹੀਅਤ = ਆਖੀ ਜਾਂਦੀ ਹੈ। ਧੀਰ = ਧੀਰਜ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

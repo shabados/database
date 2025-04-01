@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨੌ ਖੰਡ ਧਰਤੀ ਦੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਬੰਦਗੀ ਕਰਨ ਦੀ ਜਾਚ ਸਿੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਉ ਨਾਇਕ = ਨੌ ਖੰਡ ਪ੍ਰਿਥਵੀ ਦੇ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

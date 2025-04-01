@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਮੈਨੂੰ ਆਪਣੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਗਪਾਲਾ = ਹੇ ਗੋਪਾਲ! {ਅੱਖਰ 'ਗ' ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਗੋਪਾਲ' ਹੈ, ਇਥੇ 'ਗੁਪਾਲ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

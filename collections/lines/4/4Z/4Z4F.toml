@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਨਾਨਕ! ਕੋਈ ਵਿਰਲਾ ਵਿਚਾਰਵਾਨ (ਇਸ ਗੱਲ ਨੂੰ) ਸਮਝਦਾ ਹੈ ॥੬੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੀਚਾਰੀ = ਵਿਚਾਰ-ਵਾਨ। ਤਰੁ ਤਾਰੀ = ਤਾਰੀ ਤਰੁ, ਪਾਰ ਲੰਘ। ਕੋ = ਕੋਈ ਵਿਰਲਾ ॥੬੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

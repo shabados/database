@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੂੰ (ਅੰਮ੍ਰਿਤ ਨਾਮ ਦੀ) ਉਹ ਵੀਣਾ ਵਜਾਇਆ ਕਰ ਜੋ (ਅੰਤਰ ਆਤਮੇ) ਬਿਨਾ ਵਜਾਇਆਂ ਵੱਜਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਜੈ = ਵੱਜਦੀ ਹੈ। ਸਾ ਕਿੰਗੁਰੀ = ਉਹ ਵੀਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਗਰ ਦੇ) ਮੁਖੀ ਬੰਦੇ ਸਾਰੇ ਹੱਸਣ ਲੱਗ ਪਏ (ਤੇ ਆਖਣ ਲੱਗੇ ਕਿ) ਇਹ ਤਪਾ ਲੋਭ ਦੀ ਲਹਿਰ ਵਿਚ ਗਲਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭਿ = ਲੋਭ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

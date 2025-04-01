@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰਾ ਜਗਤ ਮੋਹ ਦੇ ਰੋਗ ਦਾ ਸ਼ਿਕਾਰ ਹੋਇਆ ਪਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇਤ = ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

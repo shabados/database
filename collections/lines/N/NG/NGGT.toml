@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀਆਂ ਹੰਝੂਆਂ ਭਰੀਆਂ ਅੱਖਾਂ ਵਿੱਚੋਂ ਵੇਖਣ ਵਾਲਾ ਤਾਂ ਉਹ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੰਦਰੂਨਿ ਚਸ਼ਮਿ ਤਰ ਬੀਨਾ ਸ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

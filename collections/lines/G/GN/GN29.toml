@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੈਂ ਉਸ (ਪਰਮਾਤਮਾ) ਨੂੰ ਆਪਣੀ ਜਿੰਦ ਨਾਲ ਰਹਿਣ ਵਾਲਾ ਸਾਥੀ ਬਣਾਇਆ ਹੈ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੋ = ਕੀਤਾ ਹੈ (कृतः) ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

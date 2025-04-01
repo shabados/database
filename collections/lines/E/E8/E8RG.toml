@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸੰਤ ਦੀ ਨਿੰਦਾ ਕੀਤਿਆਂ (ਨਿੰਦਕ ਦਾ) ਹਿਰਦਾ ਗੰਦਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ = (ਹਿਰਦਾ-ਰੂਪ) ਥਾਂ। ਭ੍ਰਸਟੁ = ਗੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

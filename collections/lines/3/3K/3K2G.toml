@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਅਸਲ ਟਿਕਾਣੇ ਤੇ ਜਾਣਾ ਹੈ ਉਥੇ ਟਿਕ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ ਜਾਨੋ = ਜਿਸ ਅਸਲ ਟਿਕਾਣੇ ਤੇ ਜਾਣਾ ਹੈ। ਤਹ = ਉਥੇ, (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ)। ਰਹਨੁ ਨ ਪਾਵੈ = ਟਿਕਾਣਾ ਨਹੀਂ ਮਿਲਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

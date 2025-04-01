@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਵਲੋਂ) ਆਦਰ (ਦਾ ਵਰਤਾਉ ਹੋਵੇ) ਜਾਂ ਅਹੰਕਾਰ (ਦਾ) (ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਇਕ ਸਮਾਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੁ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

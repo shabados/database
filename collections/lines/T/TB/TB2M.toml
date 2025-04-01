@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕਿਸ ਤਰ੍ਹਾਂ ਇਸ ਤੋਂ ਪਾਰ ਲੰਘ ਸਕੇਂਗਾ? ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਤਰਸਿ = ਤੂੰ ਪਾਰ ਲੰਘੇਂਗਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

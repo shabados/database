@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਮੇਰੇ ਵੀਰ!) ਉਹੀ ਮਨੁੱਖ ਭਗਵਾਨ ਨੂੰ ਯਾਦ ਕਰਦਾ ਹੈ ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ (ਭਗਵਾਨ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਇਹ ਖ਼ਜ਼ਾਨਾ (ਪ੍ਰਾਪਤ ਕਰਨ ਦਾ ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਮਾਥੈ = ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ {ਨਿਧਾਨ, ਖ਼ਜ਼ਾਨੇ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਸਾਡੀ ਜਿੰਦ ਤੇ ਸਾਡਾ ਸਰੀਰ ਸਭ ਕੁਝ ਤੇਰੇ ਹੀ ਆਸਰੇ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ। ਤੇਰੈ ਪਾਸਿ = ਤੇਰੇ ਹਵਾਲੇ, ਤੇਰੇ ਆਸਰੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

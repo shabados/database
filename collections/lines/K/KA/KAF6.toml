@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਪ੍ਰਭੂ ਨੇ ਮੈਨੂੰ ਇਹੀ ਗੱਲ ਸਮਝਾਈ ਹੈ (ਕਿ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਇਹੈ = ਇਹੀ ਗੱਲ। ਜਨਾਈ = ਸਮਝਾਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

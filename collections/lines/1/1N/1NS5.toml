@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਾਸਾਂ ਦੇ ਦਾਸ ਦਾ ਕੀਹ ਜ਼ੋਰ ਚੱਲ ਸਕਦਾ ਹੈ? ਤੂੰ ਆਪ ਹੀ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੇਰੋ = ਵੱਸ, ਜ਼ੋਰ। ਕੋ = ਦਾ। ਥਾਪਿ = ਥਾਪ ਕੇ, ਪੈਦਾ ਕਰ ਕੇ। ਉਥਾਪਨਹਾਰੈ = ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

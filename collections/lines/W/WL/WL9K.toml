@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਹਰ ਅੱਕ ਦੀ ਰੋਸ਼ਨੀ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੀਨਸ਼ਿ ਹਰ ਐਨ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੭।"
+page = 10
+line = 147
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

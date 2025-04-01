@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਮੇਰੇ ਸਾਰੇ ਕੰਮ-ਕਾਰ ਸਫਲ ਹੋ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ। ਸੀਧ = ਸਿੱਧ, ਸਫਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

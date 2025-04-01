@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਗਉੜੀ-ਪੂਰਬੀ ਵਿੱਚ ਭਗਤ ਕਬੀਰ ਜੀ ਦੀ ਬਾਣੀ 'ਬਾਵਨ ਅਖਰੀ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਨ = ਬਵੰਜਾ। ਅਖਰੀ = ਅੱਖਰਾਂ ਵਾਲੀ। ਬਾਵਨ ਅਖਰੀ = ਬਵੰਜਾ ਅੱਖਰਾਂ ਵਾਲੀ ਬਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

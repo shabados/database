@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਦ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੇ ਮੁਰਸ਼ਦ ਨੇ ਆਪਣੀਆਂ ਅਨੇਕਾਂ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦੁਲ-ਆਲਮੀਂ ਸ਼ੁਦਸ਼ ਚੂ ਖ਼ਿਤਾਬ ।"
+page = 1
+line = 22
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

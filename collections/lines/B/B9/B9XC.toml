@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਮੀਣਹ ਦੇ ਪਾਣੀ ਵਾਣਗ ਗੁਲਾਬ, ਅੰਬਰ, ਮੁਸ਼ਕ ਤੇ ਅਬੀਰ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਲਾਬੋ ਅੰਬਰੋ ਮਸ਼ਕੋ ਅਬੇਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

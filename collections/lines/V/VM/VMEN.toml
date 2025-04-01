@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦੇ ਨੂਰ ਦੀ ਕਿਰਨ ਭਰੀ ਰੋਸ਼ਨੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੂਰਿ ਹੱਕ ਲਮਆਤ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੦।"
+page = 10
+line = 130
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਨਿਸੰਗ ਹੋ ਗਿਆ ਹਾਂ ਤੇ ਮੈਨੂੰ ਇਹ ਪਰਵਾਹ ਨਹੀਂ ਕਿ ਕੋਈ ਮਨੁੱਖ ਮੇਰੀ ਇੱਜ਼ਤ ਕਰੇ ਜਾਂ ਨਾਹ ਕਰੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਤਹ = ਬੇ-ਪਤਾ, ਨਿਰਲੱਜ, ਜਿਸ ਦੀ ਕੋਈ ਇੱਜ਼ਤ ਨ ਰਹਿ ਜਾਏ। ਖੋਈ = ਗਵਾ ਲਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

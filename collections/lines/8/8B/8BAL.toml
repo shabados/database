@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਮਨੁੱਖ ਆਪਣੀਆਂ) ਅੱਖਾਂ ਨਾਲ ਜਮਰਾਜ ਨੂੰ ਨਹੀਂ ਵੇਖਦੇ (ਜਮਾਂ ਨਾਲ ਉਹਨਾਂ ਨੂੰ ਵਾਹ ਨਹੀਂ ਪੈਂਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਉਹ ਬੰਦੇ {ਬਹੁ-ਵਚਨ}। ਨ ਪੇਖਹਿ = ਨ ਪੇਖਹਿਂ, ਨਹੀਂ ਵੇਖਦੇ। ਨੈਨ = ਅੱਖਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਾਲਮ ਜਮ ਉਸ ਉਤੇ ਕੋਈ ਸੱਟ-ਫੇਟ ਨਹੀਂ ਕਰ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੰਦਾਰੁ = ਅਵੈੜਾ, ਜ਼ਾਲਮ। ਫੇਟੈ = ਫੇਟ, ਸੱਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

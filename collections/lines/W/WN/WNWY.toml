@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਹੀ ਇਕ ਮਾਲਕ ਹੈਂ ਐਸਾ ਕੋਈ ਹੋਰ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬੁ = ਮਾਲਕ। ਏਕੋ = ਇੱਕ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

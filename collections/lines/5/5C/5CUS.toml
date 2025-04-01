@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਾਹਦੀ ਭਗਤੀ ਹੋਈ, ਜੇ ਇਕ ਖਿਨ ਭਰ ਭੀ ਪਿਆਰਾ ਪਰਮਾਤਮਾ ਵਿੱਸਰ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੀ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੀ। ਕਿਨੇਹੀ = ਕਿਹੋ ਜਿਹੀ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

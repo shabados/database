@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਵ ਨੂੰ (ਰਜ਼ਾ ਦੀ) ਸਮਝ ਦੇਂਦਾ ਹੈ, ਉਸ ਨੂੰ (ਉਹ ਰਜ਼ਾ) ਪੂਰਨ ਤੌਰ ਤੇ ਸੁਖਦਾਈ (ਲੱਗਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੀ = ਸੁਖਦਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

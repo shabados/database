@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਬੋਲ ਬੋਲਣਾ ਚਾਹੀਦਾ ਹੈ (ਜਿਸ ਨਾਲ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਇੱਜ਼ਤ ਮਿਲੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਬੋਲੀਐ = ਉਹ ਬੋਲ ਬੋਲੀਏ, ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਹੀ ਕਰੀਏ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

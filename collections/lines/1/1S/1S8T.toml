@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਵਰਗਿਆਂ ਨੂੰ ਅਮਰ ਜੀਵਨ ਬਖਸ਼ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਖ਼ਸ਼ਦ ਅਜ਼ ਨਾਮਿ ਖ਼ੁਦਾਇ ਬੇ-ਨਿਸ਼ਾਂ ।੪੩੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

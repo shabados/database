@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੂਰਜ, ਚੰਦ, ਹਵਾ, ਅੱਗ, ਪਾਣੀ, ਦਿਨ ਤੇ ਰਾਤ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ = ਸੂਰਜ। ਸਸਿ = ਚੰਦ੍ਰਮਾ। ਪਾਵਕੁ = ਅੱਗ। ਨੀਰਾਰੇ = ਨੀਰ, ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

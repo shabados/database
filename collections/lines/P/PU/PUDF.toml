@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਅਸੀਂ ਜੀਵ) ਸਭ ਕੁਝ ਤੇਰੇ ਪਾਸੋਂ ਹੀ ਮੰਗ ਸਕਦੇ ਹਾਂ। (ਜੇਹੜਾ) ਵਡ-ਭਾਗੀ (ਮਨੁੱਖ ਮੰਗਦਾ ਹੈ, ਉਹ) ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਤੇ = ਤੇਰੇ ਪਾਸੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

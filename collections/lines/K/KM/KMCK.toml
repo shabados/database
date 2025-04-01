@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ!) ਲੋਭ, ਮਾਇਆ ਦਾ ਮੋਹ, ਅਪਣੱਤ ਅਤੇ ਵਿਸ਼ਿਆਂ ਦਾ ਸੇਵਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਮਤਾ = ਅਪਣੱਤ। ਫੁਨਿ = ਭੀ, ਅਤੇ। ਅਉ = ਅਉਰ, ਅਤੇ। ਬਿਖਿਅਨ ਕੀ ਸੇਵਾ = ਵਿਸ਼ਿਆਂ ਦਾ ਸੇਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

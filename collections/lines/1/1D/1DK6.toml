@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੋਭੀ ਭੰਬਟ! ਤੂੰ (ਮਾਇਆ ਦੇ) ਸੁਆਦ ਵਿਚ ਮਸਤ ਹੋ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਿ = ਰਸ ਵਿਚ, ਸੁਆਦ ਵਿਚ। ਲੋਭੀ ਪਤੰਗ = ਹੇ ਲੋਭੀ ਭੰਬਟ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

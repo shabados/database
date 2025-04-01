@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਮਨ ਦਾ ਆਸਰਾ ਪ੍ਰਾਣ ਕਹੀਦੇ ਹਨ, ਪ੍ਰਾਣ ਕਿਥੋਂ ਖ਼ੁਰਾਕ ਲੈਂਦੇ ਹਨ? (ਭਾਵ, ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਕੌਣ ਹੈ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ, ਆਸਰਾ। ਪਵਨੁ = ਪ੍ਰਾਣ। ਰਸੁ = ਖ਼ੁਰਾਕ। ਕਹਾ = ਕਿਥੋਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

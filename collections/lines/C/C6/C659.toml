@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਕਿਸਮਤ ਵਾਲਾ ਮਨੁੱਖ ਹੀ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਹਾਸਲ ਕਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

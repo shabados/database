@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਰਾਜੇ ਰਾਣੇ ਭੀ ਇਸ ਨੇ ਨਕੇਲੇ ਹੋਏ ਹਨ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਪਤਿ = ਰਾਜੇ {ਭੂ = ਧਰਤੀ। ਪਤਿ = ਮਾਲਕ}। ਛੇਧੇ = ਵਿੰਨ੍ਹੇ ਹੋਏ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

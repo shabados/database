@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਨਿਰਲੇਪ ਹੈ, ਹੋਰ ਸਾਰੀ ਲੁਕਾਈ ਮਾਇਆ ਦੀ ਦੌੜ-ਭੱਜ ਵਿਚ ਖਚਿਤ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਾਲਮੁ = ਨਿਰਲੇਪ। ਧੰਧੈ = ਮਾਇਆ ਦੇ ਖਲਜਗਨ ਵਿਚ। ਲੋਈ = ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

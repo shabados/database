@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਪ੍ਰੇਮ ਦੇ ਮਤਵਾਲੇ ਗੋਯਾ ਵਾਣਗ ਸਦਾ ਆਪਣੀ ਆਵਾਜ਼"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਸ਼ੁਫ਼ਤਗਾਨਿ ਸ਼ੌਕਿ ਤੂ ਗੋਯਾ ਸਿਫ਼ਤ ਮਦਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

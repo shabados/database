@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੋਗ ਤੇ ਤਿੰਨੇ ਤਾਪ (ਹੁਣ) ਪੋਹ ਨਹੀਂ ਸਕਦੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਿਆਪੈ = ਪੋਹ ਨਹੀਂ ਸਕਦਾ, ਆਪਣਾ ਦਬਾਅ ਨਹੀਂ ਪਾ ਸਕਦਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

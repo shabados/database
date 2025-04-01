@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ ਪਰਮੇਸਰ!  ਤੂੰ ਹੀ ਮੇਰਾ ਮਿੱਤਰ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਮਦਦਗਾਰ ਹੈਂ। ਮੈਨੂੰ ਮਿਲ, ਤੈਥੋਂ ਮੇਰਾ ਕਦੇ ਵਿਛੋੜਾ ਨਾਹ ਹੋਵੇ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸੁਰ = ਹੇ ਪਰਮੇਸਰ! ਭੰਗਨਾ = ਵਿਛੋੜਾ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

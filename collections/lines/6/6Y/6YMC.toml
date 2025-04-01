@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਸਾਰਿਆਂ (ਦੀ ਰੋਜ਼ੀ) ਦਾ ਫ਼ਿਕਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤਾ-ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

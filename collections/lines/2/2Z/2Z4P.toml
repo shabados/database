@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਹੈ ਕਲਿਜੁਗ ਦਾ ਪ੍ਰਭਾਵ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਾਣੁ = ਮਾਪ, ਪ੍ਰਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

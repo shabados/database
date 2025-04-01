@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆਲ ਪ੍ਰਭੂ! ਹੇ ਸਰਨ ਪਏ ਦੀ ਰੱਖਿਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਦਰ ਤੋਂ ਤੇਰਾ ਨਾਮ ਮੰਗਦਾ ਹਾਂ, ਮੈਨੂੰ ਇਹ  ਦਾਤ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਿ ਪ੍ਰਤਿਪਾਲਕ = ਸਰਨ ਆਏ ਦੀ ਰੱਖਿਆ ਕਰਨ ਵਾਲਾ। ਕਉ = ਨੂੰ। ਮੋ ਕਉ = ਮੈਨੂੰ। ਜਾਚੇ = ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਨਸੀਹਤ ਕਰਨ ਵਾਲੇ# ਤੂੰ ਕਦ ਤਕ ਨਸੀਹਤਾਣ ਦੇ ਕਿੱਸੇ ਸੁਣਾਣਦਾ ਰਹੇਣਗਾ #  "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਸਹਾ ਤਾ ਚੰਦ ਗੋਈ ਕਿੱਸਾਹਾਇ ਵਾਅਜ਼ੋ ਪੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਦੋਂ ਤੈਨੂੰ ਇਹ ਨਿਸ਼ਚਾ ਹੋ ਜਾਵੇ ਕਿ) ਇਕ ਬੇਅੰਤ ਪ੍ਰਭੂ ਹੀ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤੈ = ਮੌਜੂਦ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

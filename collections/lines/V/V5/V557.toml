@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਰੱਬ ਨੇੜੇ ਹੈ ਕਿ ਦੂਰ ਜਿਸ ਬਾਰੇ ਆਪਣੀ ਵਿਦਿਆ ਦਾ ਵਿਖਾਵਾ ਕਰਨ ਲਈ) ਕਿਉਂ ਵਿਅਰਥ ਬਹਿਸ ਕਰਦੇ ਹੋ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਕਾਂਇ = ਕਾਹਦੇ ਲਈ? ਬਕ ਬਾਦੁ = ਵਿਅਰਥ ਝਗੜਾ, ਬਹਿਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

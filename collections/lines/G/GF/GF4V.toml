@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਪਾਕ ਪਰਵਰਦਗਾਰ ਉਨ੍ਹਾਂ ਨੂੰ ਦੂਜਿਆਂ ਨਾਲੋਂ ਉਚੇਰਾ ਦਰਜਾ ਬਖਸ਼ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਅਫ਼ਰਾਜ਼ਦ ਜ਼ਿ ਯਕ ਦਿਗਰ ਸੁਬਹਾਂ ।੨੧।"
+page = 1
+line = 21
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

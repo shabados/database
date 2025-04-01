@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਅਕਾਲ ਪੁਰਖ ਘਟ ਘਟ ਦੀ ਜਾਣਨ ਵਾਲਾ ਤੇ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਧਾਨੁ = ਸਭ ਤੋਂ ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

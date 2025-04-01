@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਗਤ ਤੋਂ ਤਿਵੇਂ ਹੀ ਖ਼ਾਲੀ-ਹੱਥ ਚਲੇ ਜਾਂਦੇ ਹਨ) ਜਿਵੇਂ ਕਿਸੇਂ ਸੁੰਞੇ ਘਰ ਵਿਚ ਕੋਈ ਪ੍ਰਾਹੁਣਾ ਆ ਕੇ ਚਲਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹੁਣਾ = ਪ੍ਰਾਹੁਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

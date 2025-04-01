@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਉਹ ਮਾਲਕ-ਪ੍ਰਭੂ ਗੰਭੀਰ ਸੁਭਾਉ ਵਾਲਾ ਹੈ ਤੇ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਘੜੁ = ਗੰਭੀਰ। ਸੁਜਾਨਾ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

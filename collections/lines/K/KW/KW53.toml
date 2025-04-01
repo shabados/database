@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਇਹ ਮਨ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਅਹਿਨਿਸਿ = ਦਿਨ ਰਾਤ। ਪਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

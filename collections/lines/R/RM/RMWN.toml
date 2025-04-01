@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮੇਰੀ ਜਿੰਦ ਨੂੰ ਨਿੱਤ ਸੁਖੀ ਰੱਖੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ, ਮਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

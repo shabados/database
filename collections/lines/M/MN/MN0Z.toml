@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ ਹੰਸ, ਹੇਤ, ਲੋਭ, ਕੋਪ) ਚਾਰ ਅੱਗ ਦੀਆਂ ਨਦੀਆਂ ਵਹਿ ਰਹੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਦੀਆ ਅਗਨੀ = (ਹੰਸ, ਹੇਤ, ਲੋਭ, ਕੋਪ; ਇਹ) ਅੱਗ ਦੀਆਂ ਨਦੀਆਂ। ਤਨਿ = ਸਰੀਰ ਵਿਚ। ਚਾਰੇ = ਇਹ ਚਾਰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸੋਹਣੇ ਮਾਲਕ ਨੂੰ ਸਦਾ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੂਪੁ = ਅਨ ਊਪ, ਉਪਮਾ-ਰਹਿਤ, ਜਿਸ ਵਰਗਾ ਕੋਈ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

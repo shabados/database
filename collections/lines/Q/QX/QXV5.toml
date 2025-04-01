@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ ਸਾਰੇ ਪਾਪ ਕੱਟਣ ਵਾਲਾ ਹੈ, ਸਾਰੇ ਡਰ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ, ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਵਿਖ = ਪਾਪ। ਭੈ = {ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸੁਖ ਸਾਗਰ = ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

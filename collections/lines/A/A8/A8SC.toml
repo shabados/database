@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਂਇਆਂ! ਜੀਵਾਤਮਾ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਤੂੰ (ਕਈ ਤਰ੍ਹਾਂ ਦੇ) ਚੋਜ-ਤਮਾਸ਼ੇ ਕਰਦੀ ਰਹਿੰਦੀ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨ ਕੈ ਸੰਗਿ = ਉਸ ਜੀਵਾਤਮਾ ਦੀ ਸੰਗਤਿ ਵਿਚ। ਕੇਲ = ਚੋਜ = ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਰਿਸ਼ੀ ਮੁਨੀ (ਮੋਨਧਾਰੀ) ਵੇਦ ਪੁਰਾਣ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕਾਂ) ਸੁਣਾ ਸੁਣਾ ਕੇ ਸੁਣ ਸੁਣ ਕੇ ਥੱਕ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥੇ = ਕਥਿ, ਕਥ ਕੇ, ਸੁਣਾ ਕੇ। ਸੁਣੇ = ਸੁਣਿ, ਸੁਣ ਕੇ। ਹਾਰੇ = ਥੱਕ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

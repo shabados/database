@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਇੱਕ ਮਨੁੱਖ ਕੀਹ? ਤਿੰਨਾਂ ਹੀ ਲੋਕਾਂ ਵਿਚ ਪਰਮਾਤਮਾ ਉਸ ਦੀ ਸੋਭਾ ਖਿਲਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਹੁ ਲੋਕ = ਤਿੰਨਾਂ ਹੀ ਲੋਕਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

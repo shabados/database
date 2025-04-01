@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਕ ਰਸਾਂ ਦੇ ਭੋਗ ਕਰੀਦੇ ਹਨ, ਮਨ ਦੀਆਂ ਮੌਜਾਂ ਮਾਣੀਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਚਹਿ = ਕਰੀਦੇ ਹਨ। ਕੇਰੀ = ਦੀ, ਦੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

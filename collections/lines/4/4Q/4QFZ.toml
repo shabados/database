@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਤੈਨੂੰ ਪੇਟ ਦੀ ਅੱਗ ਵਿਚ (ਭੀ) ਬਚਾਇਆ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਭ ਅਗਨਿ = ਪੇਟ ਦੀ ਅੱਗ। ਉਬਾਰਿਆ = ਬਚਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

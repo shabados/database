@@ -36,6 +36,12 @@ language = "pa"
 data = "'ਨਾਮ' ਤੋਂ ਸੱਖਣੇ ਬੰਦੇ ਇਉਂ ਡਿੱਗਦੇ ਹਨ (ਭਾਵ, ਸੁਆਸ ਵਿਅਰਥ ਗੁਜ਼ਾਰੀ ਜਾਂਦੇ ਹਨ) ਜਿਵੇਂ ਕੱਲਰ ਦੀ ਕੰਧ (ਕਿਰਦੀ ਰਹਿੰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਣਾਮ = ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

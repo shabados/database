@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿ ਇਹਨਾਂ ਵਿਚ) ਇਕ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ ਦੂਜਾ ਵੱਸਦਾ ਉਹ ਨਹੀਂ ਜਾਣਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ ਅਵਰੁ = ਕੋਈ ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

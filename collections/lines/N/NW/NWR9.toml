@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ ਅਤੇ ਕ੍ਰੋਧ ਜਗਤ ਵਿਚ ਬੜੇ ਬਲੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਲ = ਸ-ਬਲ, ਬਲ ਵਾਲੇ। ਸੰਸਾਰਾ = ਸੰਸਾਰਿ, ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

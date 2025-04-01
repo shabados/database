@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਦੇ ਸੁਆਦ ਪਿੱਛੇ ਲੋਹੇ ਦੀ ਕੁੰਡੀ ਨਿਗਲ ਲੈਂਦੀ ਹੈ (ਤੇ ਪਕੜੀ ਜਾਂਦੀ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੀਲਿਤ = ਨਿਗਲਦੀ ਹੈ। ਲੋਹ = ਲੋਹੇ ਦੀ ਕੁੰਡੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

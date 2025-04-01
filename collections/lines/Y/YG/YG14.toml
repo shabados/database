@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਤੇਰੇ ਨਾਲ ਸਿਰਫ਼ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹ = ਓਥੇ। ਕੇਵਲ = ਸਿਰਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

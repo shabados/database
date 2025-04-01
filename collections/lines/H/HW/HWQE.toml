@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਆਗੀ ਬਣ ਕੇ) ਜੰਗਲਾਂ ਵਿਚ ਨਿਵਾਸ ਕਰਦੇ ਹਨ ਤੀਰਥਾਂ ਤੇ ਇਸ਼ਨਾਨ ਕਰਦੇ ਹਨ ਵਰਤਾਂ ਦੇ ਨੇਮ ਧਾਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਿਆਨਾ = ਜੰਗਲਾਂ ਵਿਚ (ਨਿਵਾਸ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

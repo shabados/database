@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਨ੍ਹੇ! ਪਰਾਈ ਇਸਤ੍ਰੀ ਦਾ ਸੰਗ ਇਉਂ ਹੀ ਹੈ ਜਿਵੇਂ ਸੱਪ ਨਾਲ ਸਾਥ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੁ = ਸਾਥ। ਬਿਸੀਅਰ = ਸੱਪ। ਪਰ ਗ੍ਰਿਹੁ = ਪਰਾਇਆ ਘਰ, ਪਰਾਈ ਇਸਤ੍ਰੀ ਦਾ ਸੰਗ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

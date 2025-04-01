@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ) ਅੰਨ (ਖਾਣ) ਤੋਂ ਪਰਹੇਜ਼ ਕਰਦਾ ਹੈ, (ਇਸ ਤਰ੍ਹਾਂ) ਸਰੀਰ ਉੱਤੇ ਦੁੱਖ (ਹੀ) ਸਹਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਦੇਹੀ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

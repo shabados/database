@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਦੀ ਗੰਦੀ ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ ਸਦਾ ਗੰਦਾ ਕੰਮ ਹੀ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੂਠੀ = ਗੰਦੀ। ਜੂਠੁ = ਗੰਦ, ਗੰਦਾ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

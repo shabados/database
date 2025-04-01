@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਨੇ ਹਿਰਦੇ ਵਿਚ ਹੀ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਕਰ ਲਿਆ ਹੈ, ਉਹ ਡੋਲ ਕੇ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਹੀਂ ਜਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਟਲਿ = ਟਲ ਕੇ, ਡੋਲ ਕੇ, ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ। ਕਤਹਿ = ਕਿਸੇ ਹੋਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਧਰ ਵੀ ਤੂੰ ਦੇਖਦਾ ਹੈਣ, ਤੂੰ ਨਵੀਣ ਰੂਹ ਬਖ਼ਸ਼ ਦਿੰਦਾ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹਰ ਤਰਫ਼ ਕਿ ਨਿਗਾਹੇ ਕੁਨੀ ਰਵਾਣ ਬਖ਼ਸ਼ੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

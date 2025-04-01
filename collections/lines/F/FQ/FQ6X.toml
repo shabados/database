@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਕਥਨ ਆਮ ਮਸ਼ਹੂਰ ਹੈ, ਅਤੇ ਇਸ ਨੂੰ ਸਭ ਭਲੀ ਪਰਕਾਰ ਜਾਣਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਸਖ਼ੁਨ ਮਸ਼ਹੂਰ ਬਸ ਮੁਤਆਰਿਫ਼ ਅਸਤ ।੨੮੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

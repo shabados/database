@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਤੈਨੂੰ ਚੰਗੀ (ਮਨੁੱਖ) ਜਾਤੀ ਮਿਲੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਕੀ = ਚੰਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

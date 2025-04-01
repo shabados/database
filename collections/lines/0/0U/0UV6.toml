@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੀ ਬਰਕਤਿ ਲੈ ਕੇ ਮਨ ਵਿਚ ਹੁਸ਼ੀਆਰ ਹੋਹੁ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਜਾਗਹੁ = ਹੁਸ਼ੀਆਰ ਹੋਵੋ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

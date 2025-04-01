@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਜਗਤ-ਰਣ-ਭੂਮੀ ਵਿਚ ਤੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਤਦੋਂ ਹੀ ਕਾਮਯਾਬ ਹੋਵੇਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਣਿ = ਰਣ ਵਿਚ, ਇਸ ਜਗਤ-ਰਣ-ਭੂਮੀ ਵਿਚ। ਦਰਗਹਿ = ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ। ਸੀਝਹਿ = ਕਾਮਯਾਬ ਹੋਵੇਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

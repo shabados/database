@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ, ਪਿਉ, ਭਰਾ, ਪੁੱਤਰ, ਰਿਸ਼ਤੇਦਾਰ-ਇਹਨਾਂ ਦਾ ਆਸਰਾ ਕਮਜ਼ੋਰ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਬੰਧਪ = ਰਿਸ਼ਤੇਦਾਰ। ਥੋਰਾ = ਥੋੜ੍ਹਾ, ਹੋਛਾ ਜਿਹਾ, ਕਮਜ਼ੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

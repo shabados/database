@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਥ ਦੇ) ਚੇਲੇ (ਭਾਵ, ਜੋਗੀ ਲੋਕ) (ਜੋ ਨਿਰੇ) ਛੇ ਭੇਖਾਂ ਵਿਚ ਹੀ ਰੁੱਝੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਿਅ ਵਰਤਾਰੇ = ਛੇ ਭੇਖਾਂ ਵਿਚ। ਪੂਤ = ਚੇਲੇ (ਜੋਗੀਆਂ ਦੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

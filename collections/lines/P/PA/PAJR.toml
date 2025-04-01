@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਹੇ ਪੰਡਿਤ! ਆਪਣੇ ਮਨ ਦਾ ਗੁੱਸਾ ਦੂਰ ਕਰ ਦੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰਿ = ਦੂਰ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

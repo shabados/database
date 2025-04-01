@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਰਾਮ! ਤੂੰ ਸਮੁੰਦਰ ਹੈਂ। ਤੂੰ ਰਤਨਾਂ ਦੀ ਖਾਣ ਹੈਂ। ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਕਦਰ ਨਹੀਂ ਸਮਝ ਸਕੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਨਾਗਰੋ = ਰਤਨਾਕਰੁ, ਰਤਨ-ਆਕਰ, ਰਤਨਾਂ ਦੀ ਖਾਣ। ਹਉ = ਹਉਂ, ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

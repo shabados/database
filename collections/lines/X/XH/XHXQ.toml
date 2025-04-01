@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰ ਕੇ ਉਹ ਸਦਾ ਚੜ੍ਹਦੀ ਕਲਾ ਵਿਚ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਨਿਹਾਲ = ਪ੍ਰਸੰਨ, ਚੜ੍ਹਦੀ ਕਲਾ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

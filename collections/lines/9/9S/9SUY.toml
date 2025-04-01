@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਮਨ ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲ ਕੇ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਹਰਿਆ = ਹਰਾ-ਭਰਾ, ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

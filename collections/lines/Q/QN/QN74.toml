@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੋਈ ਮਨੁੱਖ ਸਰਮਾਏ ਤੋਂ ਬਿਨਾ ਹੀ ਸੌਦਾ ਖ਼ਰੀਦਣ ਉੱਠ ਦੌੜੇ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂੰਜੀ = ਸਰਮਾਇਆ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

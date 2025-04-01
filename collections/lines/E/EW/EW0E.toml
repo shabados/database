@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਧਾਰਮਿਕ ਰਸਮਾਂ ਕਰਦੇ ਕਰਦੇ ਹਉਮੈ ਵਿਚ ਬੱਝੇ ਪਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਕਰਮ-ਕਾਂਡ, ਧਾਰਮਿਕ ਰਸਮਾਂ। ਅਹੰਮੇਵ = {ਅਹੰ = ਮੈਂ। ਏਵ = ਹੀ।} 'ਮੈਂ ਮੈਂ' ਦਾ ਖ਼ਿਆਲ; ਅਹੰਕਾਰ। ਬਧੇ = ਬੱਝ ਗਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ ਵੈਸ਼ਨਵ) ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਦੂਜਿਆਂ ਦੇ ਐਬ ਲੱਭਣੇ ਛੱਡ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੇ = ਸਭ ਤੋਂ ਪਹਿਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

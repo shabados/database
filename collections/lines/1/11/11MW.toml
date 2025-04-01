@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦੇ ਸਾਥੀ! (ਤੇ ਫਿਰ ਭੀ) ਆਕਾਰ-ਰਹਿਤ ਪ੍ਰਭੂ! ਹੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਵੱਖਰੇ ਰਹਿਣ ਵਾਲੇ! ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਆਸਰੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਕਾਰ = ਆਕਾਰ-ਰਹਿਤ। ਨਿਰਗੁਣ = ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਤੋਂ ਵੱਖਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

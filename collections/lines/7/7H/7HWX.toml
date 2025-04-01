@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਉਹਨਾਂ (ਕਾਂ ਬਗੁਲੇ ਮਨਮੁਖਾਂ) ਦੀ ਖ਼ੁਰਾਕ ਓਥੇ ਨਹੀਂ ਹੈ, ਉਹਨਾਂ ਦੀ ਖ਼ੁਰਾਕ ਵੱਖਰੀ ਹੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਨਾ = ਉਹਨਾਂ ਕਾਂ ਤੇ ਬਗਲਿਆਂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

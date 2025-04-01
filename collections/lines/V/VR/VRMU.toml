@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਉਹਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸੁਖ, ਅਡੋਲਤਾ, ਖ਼ੁਸ਼ੀ ਆ ਵੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਘਰਿ = ਉਸ (ਹਿਰਦੇ-ਰੂਪ) ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

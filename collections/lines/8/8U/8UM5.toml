@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੁਹਾਡੇ ਵਿਚੋਂ) ਕੋਈ ਭੀ ਮੈਨੂੰ ਐਸਾ ਕੰਮ ਸਮਝਾ ਕੇ ਨਹੀਂ ਦੱਸ ਸਕਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋ ਸਉ = ਮੈਨੂੰ। ਕੋਊ = ਇਹਨਾਂ ਕਰਮ-ਕਾਂਡੀ ਪੰਡਿਤਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

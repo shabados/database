@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਆ ਕੇ ਤੇਰੀ (ਪ੍ਰਭੂ ਦੀ) ਸਰਨ ਪਿਆ ਹੈ ॥੪॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰੇ = ਦੁਆਰਿ, ਦਰ ਤੇ ॥੪॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

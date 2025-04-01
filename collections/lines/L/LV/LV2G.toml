@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਤੇਰੀ ਨਿਗਾਹ ਹੀ ਹੈ, ਜਿਹੜੀ ਹਰ ਪਾਸੇ ਜਾਨਾਣ ਦੀ ਬਰਖਾ ਕਰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਿਗਾਹਿ ਤੁਸਤ ਕਿ ਦਰ ਹਰ ਤਰਫ਼ ਬਵਦ ਜਾਣਬਾਰ ।੩੬।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਇਆਂ ਨੂੰ (ਡੁੱਬਣੋਂ) ਬਚਾਣ ਵਾਲੇ! ਹੇ ਸੁਆਮੀ! ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਦਇਆ ਦੇ ਘਰ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ-ਨਿਧਿ = ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ। ਦਇਆਲਾ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

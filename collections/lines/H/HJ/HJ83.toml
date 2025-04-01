@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੌਦਾਗਰ ਸੌਦਾਗਰੀ ਕਰਨ ਵਾਸਤੇ ਘੋੜੇ ਲੈ ਕੇ ਤੁਰ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਰੇ = ਘੋੜੇ। ਧਾਵੈ = ਦੌੜਦਾ ਹੈ, ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

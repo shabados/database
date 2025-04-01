@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਹਾਂ ਪੁਰਖ ਕਿਸੇ ਦੇ ਸੰਬੰਧ ਵਿਚ ਸਿੱਖਿਆ ਦਾ ਬਚਨ ਬੋਲਦੇ ਹਨ (ਪਰ ਉਹ ਸਿੱਖਿਆ) ਸਾਰੇ ਸੰਸਾਰ ਲਈ ਸਾਂਝੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖੀ = ਸਿੱਖਿਆ ਦਾ ਬਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

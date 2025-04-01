@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੇ ਇਸ ਮਨੁੱਖਾ ਸਰੀਰ ਨੂੰ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਦਾ ਨਗਰ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮੀ। ਨਗਰੁ = ਸਰੀਰ-ਸ਼ਹਰ। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

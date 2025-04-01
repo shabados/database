@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਸਾਰੀ ਉਮਰ ਪ੍ਰਾਣਾਯਾਮ ਕਰਦਿਆਂ ਲੰਘ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਨ ਧਾਰ = ਪ੍ਰਾਣਾਂ ਨੂੰ ਧਾਰਨ ਵਿਚ, ਸੁਆਸਾਂ ਦੇ ਅਭਿਆਸ ਵਿਚ, ਪ੍ਰਾਣਾਯਾਮ ਕਰਦਿਆਂ। ਜਾਤ ਬਿਹਾਏ = ਬਿਹਾਇ ਜਾਤ, ਬੀਤ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਯਾਦ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਜੋ ਕੁਝ ਭੀ ਪਹਿਨਦਾ ਹੈ ਜੋ ਕੁਝ ਭੀ ਖਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿਰੈ = ਪਹਿਨਦਾ ਹੈ। ਖਾਇ = ਖਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਮਿਲਣ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਉਹੀ ਕਰਮ ਕਮਾਂਦਾ ਹੈ ਜੋ ਦੁੱਖ ਪੈਦਾ ਕਰਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨੁ ਗੁਰ ਭੇਟੇ = ਗੁਰੂ ਨੂੰ ਮਿਲਣ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

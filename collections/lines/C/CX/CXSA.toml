@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਰਚੀ ਹੋਈ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੀ ਹੀ ਆਗਿਆ ਵਿਚ ਤੁਰ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਤੇ = ਤੈਥੋਂ। ਹੋਇ = (ਜੋ ਕੁਝ) ਹਸਤੀ ਵਿਚ ਆਇਆ ਹੈ, ਪੈਦਾ ਹੋਇਆ ਹੈ। ਆਗਿਆਕਾਰੀ = (ਤੇਰੇ) ਹੁਕਮ ਨੂੰ ਮੰਨ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

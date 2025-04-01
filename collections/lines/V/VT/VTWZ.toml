@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਭਨਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ ਪਰ ਫਿਰ ਵੀ ਸਭਨਾਂ ਤੋਂ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧਿ = ਵਿਚ, ਅੰਦਰ। ਅਲਿਪਤੋ = ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

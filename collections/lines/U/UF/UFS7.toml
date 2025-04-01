@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸੁੰਦਰ ਹੈਂ, ਪਰ ਜੇ ਮੈਂ ਦੱਸਣ ਦਾ ਜਤਨ ਕਰਾਂ ਕਿ ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਸੁੰਦਰ ਹੈਂ ਤਾਂ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂੜੋ = ਸੁੰਦਰ। ਕਹਉ = ਮੈਂ ਆਖਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

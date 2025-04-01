@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਡਰਾਉਣੇ ਜਮ ਦਾ ਸਹਮ ਲਹਿ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਇਆਨਿ = ਭਿਆਨਕ, ਡਰਾਉਣਾ। ਲਹਿਓ = ਲਹਿ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

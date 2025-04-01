@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਤਾਂ ਕੋਈ ਸਮਝੋ ਕਿ ਕਿਸੇ ਮਨੁੱਖ ਦੇ ਕੁਝ ਵੱਸ ਵਿਚ ਹੈ। ਇਹ ਤਾਂ ਸਭ ਕੁਝ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਕਰਦਾ ਹੈ ਆਪ ਹੀ ਕਰਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

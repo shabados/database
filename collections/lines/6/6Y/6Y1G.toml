@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਵਿਰਲੇ ਨੂੰ ਗੁਰੂ (ਆਪਣੇ) ਸ਼ਬਦ ਦੀ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਝਾਏ = ਸਮਝਾਂਦਾ ਹੈ, ਸੂਝ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

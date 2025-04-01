@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਕਮ ਵਿਚ ਹੀ (ਪਹਿਲਾਂ) ਨਿੱਕਾ ਜਿਹਾ (ਤੇ ਫਿਰ) ਵੱਡਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨ੍ਹ੍ਹਾ = ਨਿੱਕਾ ਜਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

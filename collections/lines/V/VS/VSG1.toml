@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸੰਤਾਂ ਦੀ ਨਿੰਦਾ ਕਰਨ ਵਾਲੇ ਮਨੁੱਖ ਨੇ (ਨਿੰਦਾ ਦੇ ਕਾਰਨ ਆਪਣਾ) ਕੀਮਤੀ ਮਨੁੱਖਾ ਜਨਮ ਗਵਾ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿੰਦਕਿ = ਨਿੰਦਕ ਨੇ। ਅਹਿਲਾ = ਕੀਮਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨਾਲ ਦਿਲ ਦੀਆਂ ਕਾਮਨਾਵਾਂ ਦਿਲ ਵਿਚ ਹੀ ਪੂਰੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਮੁਰਾਦਿ ਦਿਲ ਬਦਿਲ ਹਾਸਿਲ ਕੁਨਦ ।੪੫੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

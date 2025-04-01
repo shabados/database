@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਨੂੰ ਬੇਅੰਤ ਦਾਤਾਂ) ਦੇਂਦਿਆਂ ਭੀ (ਉਸ ਦੇ) ਖ਼ਜ਼ਾਨਿਆਂ ਵਿਚ ਕਮੀ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਦੇ = ਦੇਂਦੇ, ਦੇਂਦਿਆਂ। ਤੋਟਿ = ਘਾਟਾ, ਕਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

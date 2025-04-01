@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਨੇ ਮੇਰਾ ਪਾਪੀ ਦਾ ਪਰਦਾ ਢੱਕ ਲਿਆ ਹੈ (ਮੇਰੇ ਪਾਪ ਨਸ਼ਰ ਨਹੀਂ ਹੋਣ ਦਿੱਤੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰੂ ਨੇ। ਮੋਹਿ ਪਾਪੀ = ਮੇਰਾ ਪਾਪੀ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਧਨ ਦੀ ਖ਼ਾਤਰ ਬਹੁਤ ਲੋਕਾਈ ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ ਇਸ ਧਨ ਨੇ ਬਹੁਤ ਦੁਨੀਆ ਨੂੰ ਖ਼ੁਆਰ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰ ਕਾਰਣਿ = ਧਨ ਦੀ ਖ਼ਾਤਰ। ਘਣੀ = ਬਹੁਤ ਲੋਕਾਈ। ਵਿਗੁਤੀ = ਖ਼ੁਆਰ ਹੋਈ। ਇਨਿ = ਇਸ ਨੇ। ਇਨਿ ਜਰ = ਇਸ ਧਨ ਨੇ। ਖੁਆਈ = ਖ਼ੁਆਰ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਹੁਸਨ ਜਮਾਲ ਰੱਬ ਦੇ ਜਾਹੋ ਜਲਾਲ ਦੇ ਘੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਮਾਲਿਸ਼ ਹਮਾ ਕੂਰਾ-ਇ ਜ਼ੁਲਜਲਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

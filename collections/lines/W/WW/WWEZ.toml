@@ -5,6 +5,13 @@ language = "pa"
 data = "ਕੀ ਖਾਸ ਅਤੇ ਕੀ ਆਮ ਲੋਕ, ਕੀ ਫਰਿਸ਼ਤੇ ਤੇ ਕੀ ਰੱਬੀ ਦਰਗਾਹ ਦੇ ਦਰਸ਼ਕ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬੇ ਖ਼ਾਕਿ ਊ ਚਿਹ ਖ਼ਾਸੋ ਚਿਹ ਆਮ ।"
+page = 1
+line = 15
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

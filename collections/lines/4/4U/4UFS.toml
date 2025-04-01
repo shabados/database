@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਹੀਂ ਜਾਂਦਾ ਕਿਉਂਕਿ ਹਿਰਦਾ-ਰੂਪ ਕਉਲ ਫੁੱਲ (ਮਾਇਆ ਵਲੋਂ) ਪਰਤ ਕੇ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਨਾਲ ਭਰ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਲੁ = ਹਿਰਦਾ ਕਉਲ। ਅੰਮ੍ਰਿਤਿ = ਨਾਮ ਅੰਮ੍ਰਿਤ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

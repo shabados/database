@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਭਟਕਣ ਛੱਡ ਦੇ (ਅਤੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਿਚ ਜੁੜ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭਟਕਣਾ, ਮਾਇਆ ਦੀ ਦੌੜ-ਭੱਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

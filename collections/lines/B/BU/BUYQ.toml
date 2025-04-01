@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) (ਤੇਰੀ ਇਸ ਅਸਰਜ ਖੇਡ ਦਾ) ਕੀਹ ਬਿਆਨ ਕਰੀਏ? ਤੇਰੇ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਿ = ਬਰਾਬਰ। ਕਿ = ਕੀਹ? ਹੋਰ = ਹੋਰ ਸ੍ਰਿਸ਼ਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

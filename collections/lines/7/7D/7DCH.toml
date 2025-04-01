@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਆਪਣਾ ਮਨ ਮਾਇਆ ਦੇ ਹੱਥ ਵੇਚ ਚੁਕਿਆ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਾਨਉ = ਮੈਂ ਵੇਚ ਦਿੱਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

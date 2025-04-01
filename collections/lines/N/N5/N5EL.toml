@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਨਾਮ' ਤੋਂ ਸੱਖਣੀ ਵਿੱਦਿਆ ਦਾ ਹਾਲ ਤੱਕੋ), ਰਾਜੇ (ਮਾਨੋ) ਸ਼ੇਰ ਹਨ (ਉਹਨਾਂ ਦੇ, ਪੜ੍ਹੇ ਹੋਏ) ਅਹਲਕਾਰ (ਮਾਨੋ) ਕੁੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਕਦਮ = ਮੁਕੱਦਮ, ਮੁਸਾਹਿਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

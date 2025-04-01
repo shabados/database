@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਅੰਨ੍ਹੇ ਖੂਹ (ਵਿਚ ਡੁੱਬਣ) ਤੋਂ ਬਚਾ ਲੈ, ਹੇ ਕਰਤਾਰ! ਹੇ ਸਾਰੇ ਸਰੀਰਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧ ਕੂਪ = ਅੰਨ੍ਹਾ ਖੂਹ। ਤੇ = ਤੋਂ। ਉਧਰੁ = (ਬਾਹਰ) ਕੱਢ ਲੈ। ਕਰਤੇ = ਹੇ ਕਰਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

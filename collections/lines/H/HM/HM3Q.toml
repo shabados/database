@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਅਜੇਹੇ (ਪੜ੍ਹੇ ਹੋਏ ਬੰਦੇ) ਬੇ-ਇਤਬਾਰੇ ਨੱਕ-ਵੱਢੇ (ਸਮਝੇ ਜਾਂਦੇ ਹਨ) ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਇਤਬਾਰ = ਬੇ-ਇਤਬਾਰੇ।ਨਕੀ ਵਢੀ = ਵੱਢੇ ਨੱਕਾਂ ਨਾਲ, ਨੱਕ-ਵੱਢੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

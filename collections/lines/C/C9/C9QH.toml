@@ -36,6 +36,12 @@ language = "pa"
 data = "ਠੱਗਣ ਵਾਲੇ ਪੰਜੇ ਡਾਕੂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਸਨਹਾਰ = ਠੱਗਣ ਵਾਲੇ। ਬਟਵਾਰੇ = ਡਾਕੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

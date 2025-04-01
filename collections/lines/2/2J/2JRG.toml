@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਕੁੰਦਰਾਂ ਵਿਚ ਅਨੇਕਾਂ ਲਾਲ ਅਤੇ ਜਵਾਹਰ ਛੁਪੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੰਦਰਾਂ ਲਾਲੋ ਗੁਹਰ ਬਿਸੀਆਰ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

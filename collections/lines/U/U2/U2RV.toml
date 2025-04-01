@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰ-ਸਰਣ ਤੋਂ ਬਿਨਾ ਕੋਈ ਮੇਹਨਤ ਕਬੂਲ ਨਹੀਂ ਪੈਂਦੀ (ਕਿਉਂਕਿ \"ਹਉ\" ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਇ ਨ ਪਵਈ = ਕਬੂਲ ਨਹੀਂ ਹੁੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

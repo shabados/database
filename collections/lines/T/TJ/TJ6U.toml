@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸਾਰੇ ਪਸਾਰੇ ਦੇ ਮਾਲਕ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆ ਪਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਬਿਸਥੀਰਨ = ਹੇ ਸਾਰੇ ਪਸਾਰੇ ਵਾਲੇ! ਆਹਿ = ਤਾਂਘ ਨਾਲ। ਪਾਛੈ = ਤੇਰੀ ਸਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

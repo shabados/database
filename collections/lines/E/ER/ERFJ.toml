@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਕਿ) ਮੇਰੇ ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ, ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ ਵੱਸ ਪਏ ॥੪॥੭॥੧੪੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਹਿਰਦੇ ਵਿਚ। ਵਸੈ = ਵੱਸ ਪਏ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

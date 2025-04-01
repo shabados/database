@@ -36,6 +36,12 @@ language = "pa"
 data = "ਝੂਠ ਲਾਲਚ ਵਿਚ ਲੱਗਣ ਨਾਲ (ਸਿੱਟਾ ਇਹ ਨਿਕਲਦਾ ਹੈ ਕਿ ਮਨੁੱਖ) ਮੁੜ ਮੁੜ ਜੂਨਾਂ ਵਿਚ ਜਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਚਿ = ਲਾਲਚ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਦਰਗਾਹ ਦੀ ਧੂੜ ਮੇਰੇ ਸਿਰ ਲਈ ਸੌ ਤਾਜਾਣ ਵਰਗੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕਿ ਦਰਗਾਹਿ ਤੂ ਸਦ ਤਾਜ ਅਸਤ ਬਹਿਰਿ ਫ਼ਰਕਿ ਮਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

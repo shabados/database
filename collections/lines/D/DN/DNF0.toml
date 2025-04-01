@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੌਣ ਮਰਦਾ ਹੈ, ਤੇ ਕੌਣ (ਮਰੇ ਨੂੰ) 'ਉਹ, ਉਹ' ਆਖ ਕੇ ਰੋਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹੀ = 'ਉਹ, ਉਹ' ਆਖ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

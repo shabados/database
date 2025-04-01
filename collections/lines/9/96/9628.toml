@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਦਾਸ ਨਾਨਕ (ਭੀ) 'ਨਾਮ' ਦੇ ਆਸਰੇ ਹੈ, ਇਕ ਪਲਕ ਭਰ ਭੀ 'ਨਾਮ' ਤੋਂ ਸੱਖਣਾ ਰਹੇ ਤਾਂ ਮਰਨ ਲਗਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਨੁ = ਪਲਕ, ਪਲ ਭਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

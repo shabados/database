@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ! ਹੇ ਕਿਰਪਾ ਦੇ ਘਰ ਮਾਲਕ! ਹੇ ਨੀਵਿਆਂ ਨੂੰ ਉੱਚੇ ਬਣਾਣ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਥਾਪਣਹਾਰਿਆ = ਹੇ (ਉੱਚੇ ਥਾਂ) ਟਿਕਾਣ ਵਾਲਿਆ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

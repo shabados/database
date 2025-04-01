@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਤਕ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਮਨ ਜੁੜ ਨਹੀਂ ਸਕਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ ਨਿਵਾਸੁ = (ਪ੍ਰਭੂ ਦੇ) ਚਰਨਾਂ ਵਿਚ ਨਿਵਾਸ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

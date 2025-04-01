@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੱਥ ਵਿਚ ਡੰਡਾ ਰੱਖਣ ਵਾਲਾ ਜੋਗੀ ਭੀ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਡੰਡਾਧਾਰੀ = ਡੰਡਾ ਹੱਥ ਵਿਚ ਰੱਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਹੋਰ ਆਸਰਿਆਂ ਵਲੋਂ) ਥੱਕ ਕੇ ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਆ ਡਿੱਗਾ ਹਾਂ। ਮੈਂ ਤੇਰੀ ਓਟ ਪੱਕੀ ਕਰ ਕੇ ਫੜ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਰਿ = ਥੱਕ ਕੇ। ਦੁਆਰੈ = ਦਰ ਤੇ। ਦ੍ਰਿੜੁ ਕਰਿ = ਪੱਕੀ ਕਰ ਕੇ। ਗਹੀ = ਫੜੀ। ਲੂਕ = ਖ਼ਤਰਿਆਂ ਤੋਂ ਬਚਣ ਵਾਸਤੇ ਲੁਕਵੀਂ ਥਾਂ, ਓਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

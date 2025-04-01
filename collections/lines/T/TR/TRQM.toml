@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲੇ ਮਨ! ਇਹ ਜ਼ਹਿਰ-ਰੂਪ ਫਲ ਤੈਨੂੰ ਮਿੱਠੇ ਲੱਗਦੇ ਹਨ, ਤੈਨੂੰ ਸੋਹਣੀ ਵਿਚਾਰ ਨਹੀਂ ਫੁਰਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰ = ਸੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

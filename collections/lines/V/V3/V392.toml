@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਤੇਰੇ ਮੁਖੜੇ ਨੂੰ ਵੇਖ ਕੇ ਸਵੇਰ ਦਾ ਸੂਰਜ ਸ਼ਰਮਿੰਦਾ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਰਮਿੰਦਾ ਗਸ਼ਤ ਅਜ਼ ਰੁਖ਼ਿ ਤੂ ਆਫਤਾਬਿ ਸੁਬਹਾ ।੧੭।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

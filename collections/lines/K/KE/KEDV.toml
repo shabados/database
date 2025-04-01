@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪੈਰਾਂ ਨਾਲ ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਰਸਤੇ ਉਤੇ ਚੱਲ ਰਿਹਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ = ਪੈਰਾਂ ਨਾਲ। ਮਾਰਗਿ = ਰਸਤੇ ਉਤੇ। ਧਾਵਉ = ਧਾਵਉਂ, ਮੈਂ ਦੌੜਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਮੁਖੜੇ ਤੋਣ ਕੁਰਬਾਨ ਕਰਨ ਲਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਿਰਦਿ ਰੁਖ਼ਸਾਰਿ ਤੂ ਅਜ਼ ਬਹਿਰਿ ਨਿਸਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ! ਤੂੰ ਭੀ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ) ਉਹ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੰਭਾਲ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸਾਂਭ, ਹਿਰਦੇ ਵਿਚ ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

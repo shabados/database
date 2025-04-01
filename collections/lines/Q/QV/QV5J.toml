@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ) ਜੇ ਮੈਂ ਵੱਢੀ ਲਵਾਂ ਤਾਂ ਦੋਜ਼ਕ ਵਿਚ ਪੈਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਲੁ = ਵੱਢੀ ਦਾ ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

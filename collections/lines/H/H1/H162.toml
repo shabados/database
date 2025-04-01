@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੇ ਸਾਰੇ ਪਦਾਰਥ (ਜੋਗੀਆਂ ਦੀਆਂ) ਅੱਠੇ ਸਿੱਧੀਆਂ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਰਸ ਨਾਮ-ਰਸ ਵਿਚ ਮੌਜੂਦ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਟਿ ਸਿਧਿ = ਅੱਠ ਸਿੱਧੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

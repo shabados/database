@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਵਹੁਟੀ (ਭੀ) ਜੋ ਸਦਾ (ਮਨੁੱਖ) ਦੇ ਨਾਲ ਲੱਗੀ ਰਹਿੰਦੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਕੀ ਨਾਰਿ = ਆਪਣੀ ਵਹੁਟੀ। ਉਰਹਿ = ਛਾਤੀ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

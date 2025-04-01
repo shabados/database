@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਚੇਤੇ ਰੱਖ, ਜਿਹੋ ਜਿਹਾ) ਤੂੰ ਬੀ ਬੀਜੇਂਗਾ (ਉਹੋ ਜਿਹੇ) ਫਲ ਖਾਏਂਗਾ। (ਹਰੇਕ ਮਨੁੱਖ) ਆਪਣਾ ਕੀਤਾ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਵਸਿ = (ਤੂੰ) ਬੀਜੇਂਗਾ। ਭੋਗਹਿ = (ਤੂੰ) ਭੋਗੇਂਗਾ। ਪਾਵਏ = ਪਾਵੈ, ਪਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

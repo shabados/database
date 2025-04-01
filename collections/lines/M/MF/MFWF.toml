@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਘਰ ਛੱਡ ਕੇ ਜੰਗਲ ਦੀ ਨੁੱਕਰ ਵਿਚ ਜਾ ਡੇਰਾ ਲਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹੁ = ਘਰ, ਗ੍ਰਿਹਸਤ। ਤਜਿ = ਛੱਡ ਕੇ। ਵਣ ਖੰਡਿ = ਜੰਗਲ ਦੇ ਟੋਟੇ ਵਿਚ, ਜੰਗਲ ਦੀ ਨੁੱਕਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

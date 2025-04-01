@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਅੱਠੇ ਪਹਰ ਪ੍ਰਭੂ ਦਾ ਧਿਆਨ ਧਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

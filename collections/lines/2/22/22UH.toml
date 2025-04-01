@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਹੁਣ ਕੋਈ ਇਲਾਜ ਨਹੀਣ ਜਦ ਕਿ ਤੀਰ ਕਮਾਨ ਤੋਣ ਨਿਕਲ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਕਨੂੰ ਇਲਾਜ ਨੀਸਤ ਕਿ ਤੀਰ ਅਜ਼ ਕਮਾਂ ਗੁਜ਼ਸ਼ਤ ।੮।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

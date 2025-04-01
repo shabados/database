@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ ਉਸੇ ਨੂੰ ਠੀਕ ਮੰਨਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਿ ਲੇਹੁ = ਮੰਨ ਲੈ, ਭਲਾ ਕਰਕੇ ਮੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

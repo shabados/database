@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ (ਕਿਸੇ ਹੋਰ ਦੀ) ਜਿੰਦ ਦਾ ਦੁੱਖ-ਦਰਦ ਨਹੀਂ ਸਮਝ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਐ ਕੀ = ਜਿੰਦ ਦੀ। ਸਾਰ = ਕਦਰ, (ਦੁੱਖ-ਦਰਦ ਦੀ) ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

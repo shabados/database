@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੀਆਂ ਦੋਵੇਂ ਅੱਖਾਂ, ਗੋਯਾ, ਇੱਕ ਵੱਡੀ ਨਦੀ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੋ ਚਸ਼ਮਿ ਮਨ ਕਿ ਦਰਯਾਇ ਅਜ਼ੀਮੁੱਸ਼ਾਣ ਬਵਦ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਮੈਂ ਸਾਂਹਸੀਆਂ ਵਾਲੇ ਰੂਪ ਵਿਚ ਰਹਿੰਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਣਕ = ਸਾਂਹਸੀ। ਰੂਪਿ = ਰੂਪ ਵਾਲਾ, ਵੇਸ ਵਾਲਾ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

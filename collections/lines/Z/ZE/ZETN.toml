@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਜਾ ਕੇ (ਭਾਵ, ਗੁਰੂ ਦੀ ਚਰਨੀਂ ਲੱਗ ਕੇ), ਮਾਲਕ ਨੂੰ ਯਾਦ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮਾਲੇਹੁ = ਯਾਦ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

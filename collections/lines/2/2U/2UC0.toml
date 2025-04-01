@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡਾ ਹਲੀਮੀ ਵਿਚ ਤੇਰੀ ਖਾਕ ਤੇ ਸਿਰ ਰੱਖ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਜ਼ ਹਮਾ ਰੂਇ ਫ਼ਗੰਦੇਮ ਸਰਿ ਖ਼ੁਦ ਨਿਆਜ਼ ।੩੮।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਘ! (ਹੇ ਸਤਿਗੁਰੂ!) ਜੇ (ਨਾਮ ਦੀ) ਵਰਖਾ ਕਰਨੀ ਹੈ ਤਾਂ ਵਰਖਾ (ਹੁਣ) ਕਰ, (ਮੇਰੀ ਉਮਰ ਵਿਹਾ ਜਾਣ ਤੇ) ਫੇਰ ਕਾਹਦੇ ਲਈ ਵਰਖਾ ਕਰੇਂਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਨਾ = ਹੇ ਘਨ! ਹੇ ਬੱਦਲ! ਹੇ ਸਤਿਗੁਰੂ! ਬਹੁੜਿ = ਫੇਰ। ਕਾਹਿ = ਕਾਹਦੇ ਲਈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

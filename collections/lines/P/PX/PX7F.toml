@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹੇ ਬੰਦੇ ਦੇ ਪੈਰੀਂ ਭੀ ਕਦੇ ਨਹੀਂ ਲੱਗਣਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ ਪਾਇ = ਉਸ ਦੇ ਪੈਰ ਉਤੇ। ਮੂਲਿ ਨ = ਬਿਲਕੁਲ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

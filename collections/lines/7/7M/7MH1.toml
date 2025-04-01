@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਉਸ ਦੇ ਮੱਥੇ ਉੱਤੇ (ਮਾਨੋ) ਕਉਲ ਫੁੱਲ (ਖਿੜ ਪੈਂਦਾ ਹੈ, ਤੇ) ਉਸ ਫੁੱਲ ਦੇ ਚਾਰ ਚੁਫੇਰੇ ਹੀਰੇ (ਪਰੋਤੇ ਜਾਂਦੇ ਹਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੁੇ ਉਤੇ। ਪਦਮੁ = ਕੌਲ ਫੁੱਲ। ਮਣੀ = ਹੀਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

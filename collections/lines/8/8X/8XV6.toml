@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਾਮ ਨੂੰ ਹੀ ਸਭ ਤੋਂ ਪਵਿੱਤ੍ਰ ਨਾਮ ਮੰਨਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਆਖ੍ਯ੍ਯਰ = (Skt.एकाक्षर) ਅਕਾਲ ਪੁਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ ਖ਼ੁਸ਼ੀਆਂ ਦਾ ਰੂਪ ਹੈ, ਪ੍ਰਾਣਾਂ ਦਾ ਜੀਵਨ ਦਾ ਆਸਰਾ ਹੈ, ਉਸ ਨੂੰ ਸਿਮਰਦਿਆਂ ਬਹੁਤ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲ = ਖ਼ੁਸ਼ੀਆਂ। ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ। ਘਨਾ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸੇ ਤਰ੍ਹਾਂ ਹੀ) ਧੁਰੋਂ ਇਹ ਫ਼ੁਰਮਾਨ ਭੀ ਹੈ ਕਿ ਇਥੋਂ ਅੱਜ ਭਲਕ ਤੁਰ ਭੀ ਜਾਣਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿ = ਜਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਸ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝਣ ਦੇ ਕਾਰਨ ਜਗਤ ਵਿਚ ਕਿਤੇ ਸੂਤਕ (ਦਾ ਭਰਮ) ਹੈ ਕਿਤੇ ਛੂਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਛੋਤਿ = ਭਿੱਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

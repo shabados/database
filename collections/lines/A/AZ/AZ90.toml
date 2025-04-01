@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕਦੋਣ ਰੱਬ ਤੋਣ ਇਲਾਵਾ ਕਿਸੇ ਪਰਾਏ ਨੂੰ ਦੇਖਿਆ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਕੈ ਨਜ਼ਰ ਬਜਾਨਿਬਿ ਅਗ਼ਯਾਰ ਮੀ ਕੁਨੇਮ ।੫੯।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

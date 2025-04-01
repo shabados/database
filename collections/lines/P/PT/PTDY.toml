@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਸਾਰੇ ਜਗਤ ਦਾ ਜਿੱਤਣ ਵਾਲਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤਾ = ਜਿੱਤਣ ਵਾਲਾ। ਤਤ = ਅਸਲੀਅਤ। ਬੇਤਾ = ਜਾਣਨ ਵਾਲਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਪੱਛਮ ਵਲ ਜਾਣ ਦੀ ਸਲਾਹ ਬਣਾਂਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਉਸ ਨੂੰ ਚੜ੍ਹਦੇ ਪਾਸੇ ਲੈ ਤੁਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾ = ਸਲਾਹ। ਪਛਮ ਕੈ ਤਾਈ = ਪੱਛਮ ਵਲ ਜਾਣ ਵਾਸਤੇ। ਕੈ ਤਾਈ = ਦੇ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

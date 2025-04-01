@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਰਮਾਤਮਾ! ਸਭ ਜੀਵਾਂ ਵਿਚ ਤੇਰੀ ਜੋਤਿ ਰੁਮਕ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ = ਸਭ ਜੀਵਾਂ ਵਿਚ। ਪਸਰਿ ਰਹੀ = ਵਿਆਪਕ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

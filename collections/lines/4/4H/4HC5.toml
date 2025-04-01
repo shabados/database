@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ, ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ (ਮੇਰੇ ਵਾਸਤੇ) ਜਪ ਤਪ ਹੈ, ਵਰਤ ਹੈ, ਧਾਰਮਿਕ ਨਿਯਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਮਾ = ਧਾਰਮਿਕ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਅੰਦਰ ਉੱਚਾ ਆਚਰਨ ਭੀ ਹੈ ਤੇ ਉੱਚੀ (ਆਤਮਕ) ਸੂਝ ਭੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰਾ = ਆਚਰਨ। ਵੀਚਾਰੁ = ਉੱਚੀ ਵਿਚਾਰ। ਸਰੀਰਿ = ਸਰੀਰ ਵਿਚ, ਮਨੁੱਖ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

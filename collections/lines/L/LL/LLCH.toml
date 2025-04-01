@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਮਨ (ਵਾਲਾ ਜੀਵ) ਆਪਣਾ (ਮਨੁੱਖਾ-) ਜਨਮ ਅਜਾਈਂ ਗਵਾ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਨੇ। ਅੰਧੈ = ਅੰਧੇ ਨੇ। ਗਵਾਇਆ = ਵਿਅਰਥ ਕਰ ਲਿਆ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

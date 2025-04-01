@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਥੇ ਹੀ ਸਾਰੇ ਸੁਖ ਸਾਰੀਆਂ ਖੁਸ਼ੀਆਂ ਸਾਰੇ ਆਨੰਦ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲ = ਖ਼ੁਸ਼ੀਆਂ। ਕਲਿਆਣ = ਸੁਖ-ਸਾਂਦ। ਤਿਥਾਈਂ = ਉਸ ਥਾਂ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

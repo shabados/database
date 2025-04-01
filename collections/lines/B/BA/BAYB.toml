@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਸੇਖ਼ ਫ਼ਰੀਦ ਨੂੰ ਆਪਣੀ ਬੰਦਗੀ ਦਾ ਖ਼ੈਰ ਪਾ ॥੪॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਰੀਦੈ = ਫ਼ਰੀਦ ਨੂੰ ॥੪॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

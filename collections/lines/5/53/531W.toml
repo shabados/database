@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਔਕੜ ਵਿਚ ਫਸੀ ਹੋਈ ਜਿੰਦ ਨੂੰ (ਉਸ ਵੇਲੇ) ਕੁਝ ਅਹੁੜਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਹੀ = ਫਸੀ ਹੋਈ (ਜਿੰਦ) ਨੂੰ। ਆਵਣ ਜਾਣੁ = ਕੋਈ ਚਾਰਾ, ਕਿੱਧਰ ਜਾਵਾਂ ਕੀਹ ਕਰਾਂ? = ਇਹ ਗੱਲ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

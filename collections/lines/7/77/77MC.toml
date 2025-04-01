@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਇਸ ਰਚਨਾ ਦਾ ਮੁੱਲ ਕਿਸੇ ਨਹੀਂ ਪਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੀ ਥਟੀਐ = ਤੇਰੀ ਕੁਦਰਤਿ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

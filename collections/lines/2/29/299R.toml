@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਅਟੱਲ ਨਿਯਮ ਇਹ ਹਨ ਕਿ) ਮਨੁੱਖ ਜਿਹੋ ਜਿਹਾ ਕਰਮ ਕਰਦਾ ਹੈ ਉਹੋ ਜਿਹਾ ਫਲ ਪਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਹ (ਮਨੁੱਖ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

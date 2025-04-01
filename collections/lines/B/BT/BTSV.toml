@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹਨਾਂ ਨਾਲ) ਤੇਰੀ ਤ੍ਰਿਸ਼ਨਾ ਅੱਖ ਦੇ ਝਮਕਣ ਸਮੇ ਤਕ ਭੀ ਨਹੀਂ ਦੂਰ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ {निमेष}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

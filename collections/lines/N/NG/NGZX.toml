@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਖੋਤੇ ਦਾ ਪਿਆਰ (ਸਦਾ) ਸੁਆਹ ਨਾਲ (ਹੀ) ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਧਬ ਪ੍ਰੀਤਿ = ਖੋਤੇ ਦਾ ਪਿਆਰ। ਭਸਮ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

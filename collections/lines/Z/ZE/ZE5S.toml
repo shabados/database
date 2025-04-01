@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ (ਸਾਲੂ ਆਦਿਕ) ਕੱਪੜੇ, ਗੂੜ੍ਹੇ ਰੰਗ ਵਿਚ ਰੰਗੇ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ ਚਲੂਲ = ਗੂੜ੍ਹੇ ਰੰਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

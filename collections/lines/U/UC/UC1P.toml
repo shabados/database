@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਗੁਰੂ ਨੇ (ਉਹਨਾਂ ਦੇ) ਜਨਮ ਮਰਨ (ਦੇ ਗੇੜ) ਮੁਕਾ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਰਾਖੇ = ਮੁਕਾ ਦਿੱਤੇ। ਮੀਤ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

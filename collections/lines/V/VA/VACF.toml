@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿੱਥੇ ਹਨ ਉਹ ਸੋਹਣੇ ਘਰ ਮਹਲ-ਮਾੜੀਆਂ ਤੇ ਸੋਹਣੀਆਂ ਸਰਾਵਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪ = ਸ਼ਾਮੀਆਨੇ। ਸਰਾਈ = ਸਰਾਵਾਂ। ਕਾਮਣਿ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

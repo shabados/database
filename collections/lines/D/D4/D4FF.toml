@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਮਾਂ! ਮੈਂ (ਸਦਾ) ਪਰਮਾਤਮਾ ਦੇ (ਸੋਹਣੇ) ਚਰਨਾਂ ਵਲ ਤੱਕਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਨਿਹਾਰਉ = ਨਿਹਾਰਉਂ, ਮੈਂ ਤੱਕਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

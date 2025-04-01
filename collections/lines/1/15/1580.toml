@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਪਵਿਤ੍ਰ ਜਲ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਕੁ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

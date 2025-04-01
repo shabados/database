@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਕੁਠਾਲੀ ਹੋਵੇ, ਤਾਂ (ਹੇ ਭਾਈ!) ਉਸ (ਕੁਠਾਲੀ) ਵਿਚ ਅਕਾਲ ਪੁਰਖ ਦਾ ਅੰਮ੍ਰਿਤ ਨਾਮ ਗਲਾਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਂਡਾ = ਕੁਠਾਲੀ। ਭਾਉ = ਪ੍ਰੇਮ। ਅੰਮ੍ਰਿਤੁ = ਅਕਾਲ ਪੁਰਖ ਦਾ ਅਮਰ ਕਰਨ ਵਾਲਾ ਨਾਮ। ਤਿਤੁ = ਉਸ ਭਾਂਡੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

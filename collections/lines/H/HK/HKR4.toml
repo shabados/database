@@ -5,6 +5,13 @@ language = "pa"
 data = "ਚਾਰੇ ਖਾਨੀਆਂ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀਆਂ ਮੁਹਰਬੰਦ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁੱਬਅ ਹਮ ਮਖ਼ਤੂਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੨।"
+page = 10
+line = 122
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

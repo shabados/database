@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਅੱਠੇ ਪਹਰ ਉਸ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹਾਂ ਸਦਾ ਹੀ ਉਸ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਉਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਜਿਸ ਕੰਮ ਵਿਚ ਤੂੰ (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਲਾਂਦਾ ਹੈਂ, ਉਸ ਉਸ ਕੰਮ ਵਿਚ ਅਸੀਂ ਲੱਗਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ (ਕੰਮ) ਵਿਚ। ਤਿਤੁ ਤਿਤੁ = ਉਸ ਉਸ (ਕੰਮ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

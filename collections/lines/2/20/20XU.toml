@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਹਰੇਕ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਮੌਜੂਦ ਹੈ, ਪਰ ਇਹ ਲੱਭਦਾ ਹੈ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = (ਸਭ ਦੇ) ਅੰਦਰ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

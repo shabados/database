@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁੱਲਾਂ! ਇਹ ਦਸ ਦਰਵਾਜ਼ਿਆਂ (ਇੰਦ੍ਰਿਆਂ) ਵਾਲਾ ਸਰੀਰ ਹੀ ਅਸਲ ਮਸੀਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਮੁਲਾਂ = ਹੇ ਮੁੱਲਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਪਿਆਰ (ਤਾਂ ਹੁਣ) ਸੋਹਣੇ ਪ੍ਰਭੂ ਨਾਲ ਬਣ ਗਿਆ ਹੈ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂ ਪ੍ਰੀਤਿ = ਮੇਰੀ ਪ੍ਰੀਤ। ਲਾਲਨ ਸਿਉ = ਸੋਹਣੇ ਲਾਲ ਨਾਲ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

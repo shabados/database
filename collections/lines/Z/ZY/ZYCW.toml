@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਪਿਆਰੇ ਪ੍ਰਭੂ ਨੇ (ਜੀਵਾਂ ਨੂੰ) ਸਭ ਬਖ਼ਸ਼ਸ਼ਾਂ ਕੀਤੀਆਂ ਹੋਈਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਵਰ = ਬਖ਼ਸ਼ਸ਼ਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

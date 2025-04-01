@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹਨਾਂ ਦੀ ਹਰੇਕ ਚਿੰਤਾ ਮਿਟ ਜਾਂਦੀ ਹੈ ਉਹਨਾਂ ਦਾ ਹਰੇਕ ਸਹਮ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤ = ਚਿੰਤਾ। ਸੰਸਾ = ਸਹਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

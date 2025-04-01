@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਘਰ ਵਿਚ ਰਹਿਣ ਵਾਲੇ) ਹੇ ਪਿਆਰੇ ਮਨ! ਹੁਣ ਜਾਗਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਰੇ ਭਾਈ = ਹੇ ਵੀਰ! ਰੇ ਭਾਈ ਮਨ = ਹੇ ਪਿਆਰੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

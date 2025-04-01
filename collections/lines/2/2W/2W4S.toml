@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਾਸ (ਤੇਰਾ ਨਾਮ) ਜਪ ਜਪ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਜੀਵਹਿ = ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਲੋਕ ਲੰਮੇ-ਚੌੜੇ ਚੋਲੇ ਪਹਿਨਦੇ ਹਨ (ਇਸ ਦਾ ਕੀਹ ਲਾਭ?) ਜੰਗਲਾਂ ਵਿਚ ਜਾ ਵੱਸਣ ਦਾ ਭੀ ਕੀਹ ਗੁਣ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਪਲ = {ਸੰ: ਵਿਪੁਲ = ਲੰਮੇ ਖੁਲ੍ਹੇ} ਲੰਮੇ ਚੌੜੇ, ਖੁਲ੍ਹੇ। ਕੇਤੇ = ਕਈ। ਪਹਿਰੇ = ਪਹਿਨ ਲਏ। ਕਿਆ = ਕੀ ਲਾਭ ਹੋਇਆ? ਮਧੇ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

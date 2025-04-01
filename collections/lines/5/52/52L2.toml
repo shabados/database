@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ (ਜਿਸ ਮਨੁੱਖ ਦੀ ਪਾਪਾਂ ਵਲੋਂ) ਰਾਖੀ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜੇ ਰਾਮ ਕੀ = ਰਾਮ ਰਾਜੇ ਕੀ, ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦੀ। ਰਖਵਾਲੀ = ਰਾਖੀ, ਸਹਾਇਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

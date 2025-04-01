@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਉਹਨਾਂ ਦੇ ਮਨ ਤੋਂ ਤੂੰ ਭੁੱਲ ਜਾਂਦਾ ਹੈਂ, ਜੇਹੜੇ ਬੰਦੇ ਤੂੰ ਆਪ ਹੀ ਕੁਰਾਹੇ ਪਾ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੇਹੜੇ ਬੰਦੇ। ਤੁਧੁ = ਤੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

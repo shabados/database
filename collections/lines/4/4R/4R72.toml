@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕਰਤਾਰ ਨੇ ਇਹ ਜਗਤ ਬਣਾਇਆ ਹੈ ਇਸ ਦੀ ਸੰਭਾਲ ਕਰਨੀ ਉਹ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਣੁ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

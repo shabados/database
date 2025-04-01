@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਜਦੋਂ ਪ੍ਰਭੂ ਜੀ) ਦਇਆਵਨ ਹੁੰਦੇ ਹਨ ਤਦੋਂ ਉਸਦੇ ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਦਇਆਵਾਨ। ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

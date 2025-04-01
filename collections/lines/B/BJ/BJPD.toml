@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮਿਲਦੀ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਪਗ = ਚਰਨ। ਧੂਰਿ = ਖ਼ਾਕ, ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

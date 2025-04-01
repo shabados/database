@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਰੱਬੀ ਦਰਗਾਹ ਵਿਚ ਆਦਰ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੀ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ। ਮਾਨੁ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

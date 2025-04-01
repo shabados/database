@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦਾ ਜਪ ਕਰਨਾ ਕਿਸ ਭਾ? ਉਸ ਦਾ ਤਪ ਕਿਸ ਅਰਥ? ਉਸ ਦੇ ਵਰਤ ਤੇ ਪੂਜਾ ਕਿਹੜੇ ਗੁਣ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ = ਕਾਹਦਾ? ਕਿਸ ਅਰਥ? ਕਿਸ ਭਾ? ਕਿਸੇ ਅਰਥ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

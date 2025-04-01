@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਮਲਾਰ, ਘਰ ੩ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = ਜਿੱਥੇ ਕਈ ਤਾਲ ਮੁੜ ਮੁੜ ਪਰਤਾਏ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

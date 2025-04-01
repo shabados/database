@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਿੱਟੀ ਦੇ ਸਰੀਰ ਦੀ ਖਜੂਰ ਸੱਚ ਦਾ ਫਲ ਲਿਆਉਣਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਖ਼ਲਿ ਜਿਸਮਿ ਖ਼ਾਕ ਹੱਕ ਬਾਰ ਆਵੁਰਦ ।੧੯੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

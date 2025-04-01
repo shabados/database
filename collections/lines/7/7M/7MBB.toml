@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰੁ = (ਸੰਸਾਰ-) ਸਮੁੰਦਰ। ਉਤਰੀਐ = ਲੰਘ ਜਾਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

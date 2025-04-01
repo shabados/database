@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ (ਸੰਸਾਰੀ ਜੀਵਾਂ ਨੇ) ਇਸ ਸੁਖ ਨੂੰ ਸੱਚਾ ਕਰ ਕੇ ਸਮਝਿਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਹੁ = ਅਸਾਂ (ਸੰਸਾਰੀ ਜੀਵਾਂ) ਨੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

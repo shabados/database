@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਅਨੇਕਾਂ ਜਨਮਾਂ ਦੀ ਖੋਟੀ ਮਤਿ ਦੀ ਮੈਲ ਲਹਿ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਖੋਟੀ ਮਤਿ। ਜਾਇ = ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

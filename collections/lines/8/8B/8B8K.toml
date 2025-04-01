@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਹਰ ਰੋਜ਼ ਉਸ ਮਾਲਿਕ ਨੂੰ ਯਾਦ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ (ਦੁੱਖਾਂ ਵਿਚੋਂ) ਆਖ਼ਰ ਉਹੀ ਬਚਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਸਦਾ। ਅੰਤਿ = ਆਖ਼ਰ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

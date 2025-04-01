@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਓ! ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ ਪਿਆਰ ਪੈਦਾ ਕਰ ਕੇ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਕਰੇ = ਕਰਿ, ਕਰ ਕੇ। ਕਉ = ਨੂੰ। ਰਾਵਹ = ਆਓ ਸਿਮਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

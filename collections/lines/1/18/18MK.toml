@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਉਤੇ ਤੁਰ ਕੇ ਇਕ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਚਨੀ = ਬਚਨਾਂ ਉਤੇ ਤੁਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

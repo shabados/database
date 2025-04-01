@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਹਰ ਕਰ) ਕਿਸੇ ਭੀ ਵੇਲੇ ਮਨ ਤੋਂ ਨਾਹ ਵਿੱਸਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਹਿ = ਚਿੱਤ ਵਿਚੋਂ। ਕਾਹੂ ਬੇਰਾ = ਕਿਸੇ ਭੀ ਵੇਲੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

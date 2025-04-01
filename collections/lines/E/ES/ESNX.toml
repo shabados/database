@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਧੀਆ ਵਧੀਆ ਕੱਪੜੇ ਪਹਿਨਣ ਤੇ ਪਹਿਨ ਕੇ ਦੂਜਿਆਂ ਨੂੰ ਵਿਖਾਲਣ ਦਾ ਕੀਹ ਲਾਭ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਪਹਿਰਉ = ਵਧੀਆ ਕੱਪੜੇ ਪਹਿਨਣ ਦਾ ਕੀਹ ਲਾਭ? ਓਢਿ = ਪਹਿਨ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

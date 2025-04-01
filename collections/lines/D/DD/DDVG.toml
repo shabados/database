@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿਸ ਮਨੁੱਖ ਦੇ ਸਰੀਰ ਵਿਚ ਹਉਮੈ ਪ੍ਰਬਲ ਹੈ ਮਮਤਾ ਪ੍ਰਬਲ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

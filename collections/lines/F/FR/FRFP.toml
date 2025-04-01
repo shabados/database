@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗੋਵਿੰਦ! ਜਿਨ੍ਹਾਂ ਦੇ ਅੰਦਰ ਤੂੰ ਹਰਿ-ਨਾਮ ਦਾ ਪਰਕਾਸ਼ ਕਰਦਾ ਹੈਂ, ਉਹਨਾਂ ਦੇ ਸਾਰੇ ਦੁੱਖ ਦਲਿੱਦਰ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਲਦ = ਦਲਿਦ੍ਰ, ਗਰੀਬੀ। ਜਾਹੀ = ਜਾਹਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

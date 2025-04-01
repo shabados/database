@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮਰਾਜ ਦੇ ਲੇਖੇ ਦੇ ਕਾਗ਼ਜ਼ ਭੀ ਪਾਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਰ = (ਕਰਮਾਂ ਦੇ ਲੇਖੇ) ਕਾਗ਼ਜ਼। ਫਾਟੇ = ਪਾਟ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

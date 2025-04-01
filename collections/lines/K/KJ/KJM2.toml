@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਉਮਰ ਤਕ ਭੀ) ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝਿਆ ਰਹਿ ਕੇ ਮਨੁੱਖ ਆਪਣਾ ਆਤਮਕ ਜੀਵਨ ਦਾ ਸਰਮਾਇਆ ਗਵਾਈ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਥੁ = ਪੂੰਜੀ {गत्थ = प्रः}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

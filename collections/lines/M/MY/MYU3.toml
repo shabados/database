@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਹੇ ਮੂਰਖ ਮਨ! ਅਸਲ ਜੀਵਨ-ਰਾਹ ਤੋਂ ਕਿਉਂ, ਲਾਂਭੇ ਜਾ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ = ਮੂਰਖ। ਕਾਹੇ ਭੂਲੇ = ਕਿਉਂ ਅਸਲੀ ਜੀਵਨ-ਰਾਹ ਤੋਂ ਲਾਂਭੇ ਜਾ ਰਿਹਾ ਹੈਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

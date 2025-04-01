@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੂਰਖ ਹਾਂ, ਮੈਂ ਮਤਿ-ਹੀਣ ਹਾਂ, ਮੈਂ ਗਿਆਨ-ਹੀਣ ਹਾਂ, ਮੈਂ ਬੇ-ਸਮਝ ਹਾਂ (ਪਰ ਤੂੰ ਆਪਣੇ ਬਿਰਦ ਦੀ ਲਾਜ ਰੱਖਣ ਵਾਲਾ ਹੈਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਬੇ-ਵਕੂਫ਼। ਅਗਿਆਨ = ਗਿਆਨ-ਹੀਣ। ਅਵੀਚਾਰੀ = ਬੇ-ਸਮਝ, ਵਿਚਾਰ ਦੀ ਗੱਲ ਨਾਹ ਕਰ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

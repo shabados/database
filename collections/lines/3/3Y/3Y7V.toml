@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ (ਐਸ ਜਨਮ ਵਿਚ) ਕੇਵਲ ਸੱਚੇ ਰੱਬ ਨੂੰ ਯਾਦ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੋ ਸਚੁ = ਕੇਵਲ ਸੱਚੇ ਪ੍ਰਭੂ ਨੂੰ। ਕੋਇ = ਜੋ ਕੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

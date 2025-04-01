@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਹੀਨੇ, ਰੁੱਤਾਂ ਮੁੜ ਮੁੜ ਆਉਂਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹਾ = ਮਹੀਨੇ। ਰੁਤੀ = ਰੁੱਤਾਂ। ਆਵਹਿ = ਆਉਂਦੇ ਹਨ। ਵਾਰ ਵਾਰ = ਆਪਣੀ ਆਪਣੀ ਵਾਰੀ, ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

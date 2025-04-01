@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਥੋਂ ਭੀ ਪੁੱਛਾਂ ਇਹੀ ਉੱਤਰ ਮਿਲਦਾ ਹੈ ਕਿ) ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੀ ਦਾਸੀ ਬਣਾਂ ਤੇ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਸੇਵਾ ਕਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਣੀ = ਚਰਨਾਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

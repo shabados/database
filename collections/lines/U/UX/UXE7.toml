@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਨਕ ਆਪਣੇ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਨਾਲ। ਨਾਨਕੁ ਸਾਲਾਹੇ = ਨਾਨਕ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ {ਨਾਨਕ = ਹੇ ਨਾਨਕ!}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

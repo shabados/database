@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ) ਮੈਂ (ਤੇਰੇ) ਦਰ ਤੇ ਸਦਾ (ਦੀਦਾਰ ਦੀ ਮੰਗ ਹੀ) ਮੰਗਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = (ਤੇਰੇ) ਦਰ ਤੇ। ਮਾਗਉ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਨੀਤਾ ਨੀਤ = ਸਦਾ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

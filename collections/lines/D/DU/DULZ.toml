@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਸਰੀਰ ਹੀ ਕਾਮਯਾਬ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

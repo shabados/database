@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਦੇਵਤੇ ਤੇ ਇੰਦ੍ਰ ਹਨ ਜਿਨ੍ਹਾਂ ਦੇ ਸਿਰ ਉਤੇ ਛਤ੍ਰ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਵ = ਦੈਂਤ, ਰਾਖਸ਼। ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

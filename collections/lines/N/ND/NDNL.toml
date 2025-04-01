@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਆਪ ਹੀ ਚੰਗੇ ਮੰਦੇ ਕੰਮਾਂ ਦਾ ਖਿਲਾਰਾ ਖਿਲਾਰਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਪ ਪੁੰਨ = ਮੰਦੇ ਚੰਗੇ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

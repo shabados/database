@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕਾਂ ਨੂੰ ਵਿਖਾਣ ਲਈ ਤੇਰੀ) ਸਿੰਙੀ ਵੱਜ ਰਹੀ ਹੈ, ਪਰ ਤੇਰਾ ਮਨ ਸਦਾ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ (ਇਹ ਸਿੰਙੀ ਤਾਂ ਇਕਾਗ੍ਰਤਾ ਦੀ ਖ਼ਾਤਰ ਸੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਜੈ = ਵੱਜ ਰਹੀ ਹੈ। ਉਦਾਸੇਰਾ = ਉਪਰਾਮ, ਭਟਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

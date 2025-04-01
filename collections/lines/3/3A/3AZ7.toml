@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਈਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ ਬਲਿ = ਸਦਕੇ। ਖੋਜਹਿ = ਖੋਜਦੇ ਹਨ, ਭਾਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੀ ਦੁਨੀਆ ਤੇਰੇ ਬਿਨਾਣ ਅੰਨ੍ਹੇਰੀ ਹੋ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਲਮ ਹਮਾ ਗਸ਼ਤਾ ਅਸਤ ਬੇ ਤੂ ਤਾਰੀਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

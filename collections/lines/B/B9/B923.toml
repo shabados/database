@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹਨਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਕੁਝ ਨਹੀਂ ॥੮॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ ਕੈ ਹਾਥ = ਇਹਨਾਂ ਜੀਵਾਂ ਦੇ ਹੱਥਾਂ ਵਿਚ, ਇਹਨਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਵਿਚ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

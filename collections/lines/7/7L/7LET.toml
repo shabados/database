@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੜੇ ਜਮ-ਦੂਤ ਲੈਣ ਆ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਠਿਨ = ਕਰੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

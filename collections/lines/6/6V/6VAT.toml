@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੁੜ ਮੁੜ ਜਪਣਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਣੁ = (ਨਾਮ) ਜਪਣਾ। ਵੇਰਾ ਵੇਰ = ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਜੇਹੜੇ ਮਨੁੱਖ ਪੈਂਦੇ ਹਨ ਉਹ (ਆਤਮਕ ਜੀਵਨ ਦੇ ਰਸਤੇ ਵਿਚ ਆਉਣ ਵਾਲੀਆਂ ਰੁਕਾਵਟਾਂ ਤੋਂ) ਬਚ ਜਾਂਦੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਬਰੇ = ਬਚ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

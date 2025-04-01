@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਿਚ ਭੌਂ ਭੌਂ ਕੇ ਤੂੰ ਹੁਣ ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਲੱਭਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਤਿਆ = ਭਟਕਦਿਆਂ, ਭੌਂਦਿਆਂ। ਦੁਲਭ = ਬੜੀ ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

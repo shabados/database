@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਪੰਜਾਂ ਨੇ ਬੜੀ ਬਲ ਵਾਲੀ ਤੇ ਹਠੀਲੀ ਫ਼ੌਜ ਇਕੱਠੀ ਕੀਤੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਾਣੀ = ਤਾਣ ਵਾਲੀ। ਹਠ = ਹਠੀਲੀ। ਪੰਚਾ = ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਅਨੇਕਾਂ ਉਪਾਵ ਕਰ ਕਰ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵ = ਉਪਰਾਲੇ {ਲਖ਼ਜ਼ 'ਉਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

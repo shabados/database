@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ-ਜਨ ਪਰਮਾਤਮਾ ਨੂੰ ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਵੇਖ ਕੇ ਉਸ ਦੀ ਭਗਤੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਜਨ = ਸੇਵਕ {ਬਹੁ-ਵਚਨ}। ਦੇਖਿ = ਵੇਖ ਕੇ। ਹਜੂਰਿ = ਹਾਜ਼ਰ-ਨਾਜ਼ਰ, ਅੰਗ-ਸੰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

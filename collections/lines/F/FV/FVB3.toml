@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-ਅਸਲ ਸਿਆਣਾ ਉਹ ਮਨੁੱਖ ਹੈ ਜੋ ਇਹ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਣੈ = ਆਖਦਾ ਹੈ। ਜਾਣੁ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

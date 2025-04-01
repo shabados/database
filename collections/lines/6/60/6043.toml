@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ (ਸਾਰਿਆਂ ਨਾਲੋਂ) ਮੰਦ-ਕਰਮੀ ਖ਼ਿਆਲ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਸ ਕਉ = ਆਪਣੇ ਆਪ ਨੂੰ। ਨੀਚਾ = ਨੀਵਾਂ, ਮੰਦਾ, ਮਾੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

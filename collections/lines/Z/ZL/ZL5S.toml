@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਲਵਾਰਾਂ ਭਾਲਿਆਂ ਦੀ ਲੋੜ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਿਆਜ਼ਸ਼ ਨਾ ਬਾਸ਼ਦ ਬ ਤੇਗ਼ੋ ਸਨਾਂ ।੧੫੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

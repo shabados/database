@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਦਿਨ ਭਾਗਾਂ ਵਾਲੇ, ਉਹ ਸਮਾ ਭਾਗਾਂ ਵਾਲਾ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਆ ਦਿਨ = ਉਹ ਦਿਹਾੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

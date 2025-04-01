@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂ ਕੋਈ ਤਾਲ ਦੇਣ ਵਾਸਤੇ ਘੁੰਘਰੂ ਲੱਭਦਾ ਫਿਰੇ? (ਭਾਵ, ਮੈਨੂੰ ਘੁੰਘਰੂਆਂ ਦੀ ਲੋੜ ਨਹੀਂ), ਕਿਉਂ ਕੋਈ ਰਬਾਬ (ਆਦਿਕ ਸਾਜ) ਵਜਾਂਦਾ ਫਿਰੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਬ = ਕਦੋਂ, ਕਿਉਂ? ਕੋ = ਕੋਈ। ਭਾਲੈ = ਲੱਭੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

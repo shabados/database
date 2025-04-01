@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਧਰਮੀ ਬੰਦਿਆਂ ਦੀ ਸੇਵਾ ਕਰੇਂ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਸਾਲਕਾਨਿ ਖ਼ੁਦਾਇ ਰਾ ਬਾ ਕੁਨੀ ਤੂ ਖ਼ਿਦਮਤੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

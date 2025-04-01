@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਨਾ ਤਾਣ ਰਾਜ ਦੀ ਚਾਹ ਹੈ, ਨਾਣ ਹੀ ਬਾਦਸ਼ਾਹੀ ਟੇਢੀ ਟੋਪੀ ਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਵਾਇ ਸਲਤਨਤੋ ਜ਼ੋਕਿ ਕਜਕੁਲਾਹੀ ਨੀਸਤ ।੭।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

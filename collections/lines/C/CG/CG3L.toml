@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਹੋਵੇ ਤਾਂ ਖੋਟਾ, ਪਰ) ਆਪਣੀਆਂ ਵਡਿਆਈਆਂ ਦੀਆਂ ਕਸਮਾਂ ਚੁੱਕੀ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਇ = ਕਸਮਾਂ ਖਾਏ, ਸਹੁੰਆਂ ਚੁੱਕੇ। ਵਡਿਆਈਆ = ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹਿਰਦੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਸਾ ਲਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਪਰੋਇਆ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਸਾ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

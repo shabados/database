@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਇਸ ਜਗਤ-ਅਖਾੜੇ ਵਿਚ) ਕਈ ਕਿਸਮਾਂ ਦੇ ਬੇਅੰਤ ਰੂਪ ਹਨ ਰੰਗ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਬਿਧਿ = ਕਈ ਕਿਸਮਾਂ ਦੇ। ਆਪਾਰਾ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

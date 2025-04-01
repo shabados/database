@@ -36,6 +36,12 @@ language = "pa"
 data = "ਛੇਤੀ ਚੱਲ, ਧਰਮ-ਰਾਜ ਨੇ ਸੱਦਿਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਹਾਲੁ = ਹੁਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

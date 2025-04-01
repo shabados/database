@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਇੰਦ੍ਰਿਆਂ ਦੇ ਮਾਲਕ! ਹੇ ਗੋਪਾਲ! ਹੇ ਗੋਵਿੰਦ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਖੀਕੇਸ = {हृषीक = ईश} ਇੰਦ੍ਰਿਆਂ ਦਾ ਮਾਲਕ। ਗਵਿੰਦ = {ਅੱਖਰ 'ਗ' ਦੇ ਨਾਲ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਗੋਵਿੰਦ' ਹੈ, ਇਥੇ 'ਗੁਵਿੰਦ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

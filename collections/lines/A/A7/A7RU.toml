@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਿਰ ਉੱਪਰ ਸਮਝੋ ਅਦਬ-ਸਤਿਕਾਰ ਦਾ ਤਾਜ ਰੱਖਿਆ ਹੋਇਆ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਅਸਬ ਤਾਜਸਤ ਬਰ ਅਫ਼ਰਾਕਿ ਕਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਆ ਖਲੋਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰੈ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਰਚ ਕੇ (ਜਗਤ ਦੀਆਂ) ਖੇਡਾਂ ਖੇਡ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਤਾਕਤਾਂ। ਕਰਿ = ਰਚ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

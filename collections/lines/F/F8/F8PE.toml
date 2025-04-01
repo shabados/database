@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਉਹਨਾਂ ਵਿਚ ਸੈਂਕੜੇ ਆਬਿ#ਹੱਯਾਤ ਸਮਾ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਸਦ ਆਬਿ ਹੈਵਾਂ ਦਰਾਂ ਆਮਦਾ ।੧੪੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

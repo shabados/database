@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ 'ਜਨਮ ਮਰਨ' (ਦੀ ਮਰਯਾਦਾ) ਬਣਾ ਕੇ ਸ੍ਰਿਸ਼ਟੀ ਪੈਦਾ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਦਨੀ = ਧਰਤੀ, ਸ੍ਰਿਸ਼ਟੀ। ਆਵਾਗਉਣ = ਜਨਮ ਮਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

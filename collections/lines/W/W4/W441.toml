@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਰਹਿ ਨਹੀਂ ਸਕਦਾ (ਮੈਨੂੰ ਧੀਰਜ ਨਹੀਂ ਆਉਂਦੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

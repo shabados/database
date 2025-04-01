@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ ਪੰਜਾਂ ਤੱਤਾਂ ਤੋਂ (ਇਕ ਖੇਲ ਜਿਹਾ) ਬਣਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਂਚੈ = ਪੰਜਵੀਂ ਥਿੱਤ ਨੂੰ, ਪੰਚਮੀ ਨੂੰ (ਇਹ ਚੇਤੇ ਰੱਖੋ)। ਬਿਸਥਾਰ = ਪਸਾਰਾ, ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

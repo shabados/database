@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਓ ਅਸੀਂ ਭੀ ਗੁਰੂ ਦੀ ਬਾਣੀ ਗਾਵਿਆ ਕਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹ = ਆਓ ਅਸੀਂ ਗਾਵੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

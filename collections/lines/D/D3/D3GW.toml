@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਉਹ ਸਤਿਗੁਰੂ, ਜਿਸ ਨੇ ਦਿਲ ਦੇ ਬੰਧਨ ਤੋੜ ਦਿੱਤੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਮੁਰਸ਼ਦ ਕਿ ਬੰਦਿ ਦਿਲ ਕੁਸ਼ਾਦ ।੪੩੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਆ ਵੱਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਰ ਕੀ ਬਾਣੀ = ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ। ਆਈ = ਆ ਵੱਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

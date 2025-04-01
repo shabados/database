@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹਨਾਂ ਸੰਤ ਜਨਾਂ ਦਾ ਮੂੰਹ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਰੌਸ਼ਨ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਜਲੁ = ਉਜਲਾ, ਰੌਸ਼ਨ। ਕੀਨ੍ਹ੍ਹਾ = ਕਰ ਦਿਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

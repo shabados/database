@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਗ ਵਡਹੰਸ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਘੋੜੀਆਂ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋੜੀਆ = ਘੋੜੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

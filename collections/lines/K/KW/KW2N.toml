@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ) ਪਰਮੇਸਰ ਨੇ ਦੁੱਖਾਂ ਤੇ ਰੋਗਾਂ ਦਾ ਡੇਰਾ ਹੀ ਮੁਕਾ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੰਨਾ = ਭੰਨ ਦਿੱਤਾ, ਤੋੜ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

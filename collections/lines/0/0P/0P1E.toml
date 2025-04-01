@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਹੇ ਅਬਿਨਾਸੀ ਹਰੀ! (ਜੇ ਮੈਨੂੰ) ਕ੍ਰੋੜਾਂ ਕੰਨ ਦਿੱਤੇ ਜਾਣ, ਤਾਂ (ਉਹਨਾਂ ਨਾਲ) ਤੇਰੇ ਗੁਣ ਸੁਣੇ ਜਾ ਸਕਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ ਕਰਨ = ਕ੍ਰੋੜਾਂ ਕੰਨ। ਦੀਜਹਿ = ਦਿੱਤੇ ਜਾਣ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਸੁਣੀਅਹਿ = ਸੁਣੇ ਜਾ ਸਕਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

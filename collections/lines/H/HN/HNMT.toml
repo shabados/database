@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ (ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣਾ) ਨਾਮ ਪੱਕਾ ਕਰ ਕੇ ਟਿਕਾ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੰ = ਮੈਨੂੰ। ਦ੍ਰਿੜਾਇ = ਪੱਕਾ ਕਰ ਦੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

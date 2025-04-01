@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੋਈ ਮੋਏ ਨੂੰ ਰੋਂਦਾ ਹੈ ਉਹ (ਅਸਲ ਵਿਚ ਆਪਣਾ) ਦੁੱਖ-ਔਖ ਫਰੋਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਇ = ਜੇਹੜਾ ਕੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

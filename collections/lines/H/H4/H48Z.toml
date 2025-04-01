@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪੋ ਆਪਣੀ ਗ਼ਰਜ਼ ਦੀ ਹੀ ਪੂਜਾ ਹੋ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੋ ਆਪੈ ਪੂਜਾ = ਆਪੋ ਆਪਣੀ ਗ਼ਰਜ਼ ਦੀ ਪੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

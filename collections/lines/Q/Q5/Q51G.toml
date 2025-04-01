@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਿਗੁਰੂ ਦਾ) ਇਹ ਸੋਹਣਾ ਸ਼ਬਦ (ਆਤਮਕ) ਆਨੰਦ ਦੇਣ ਵਾਲਾ ਗੀਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਿਲਾ = ਖ਼ੁਸ਼ੀ ਦਾ ਗੀਤ, ਆਨੰਦ ਦੇਣ ਵਾਲਾ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

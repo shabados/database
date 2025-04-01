@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸਦਾ ਰੁਤਬਾ ਸਾਰਿਆਂ ਪਰਵਾਨ ਵੱਡਿਆਂ ਵਿਚ ਅਪਾਰ ਵੱਡਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਹਰ ਮੁਕਬਲ ਕਬੂਲਿ ਖ਼ੁਦ ਅਰਜ਼ੂਦਸ਼ ।"
+page = 9
+line = 102
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

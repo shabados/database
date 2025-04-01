@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦਾ ਨਾਮ ਜਪਣਾ) ਦੁਨੀਆ ਵਿਚ (ਹੋਰ ਸਾਰੇ ਕੰਮ ਨਾਲੋਂ) ਵਧੀਆ ਤੇ ਚੰਗਾ ਕੰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮੁ = ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

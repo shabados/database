@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਔਝੜ ਹੈ, ਕਿਤੇ ਰਸਤੇ ਹਨ-ਇਹ ਅਚਰਜ ਖੇਡ ਵੇਖ ਕੇ ਮਨ ਵਿਚ ਹੈਰਤ ਹੋ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਝੜ = ਅਸਲੀ ਰਾਹ ਤੋਂ ਖੁੰਝ ਕੇ ਕੁ-ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

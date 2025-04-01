@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਅਨੇਕਾਂ ਜਨਮਾਂ ਤੋਂ ਗ਼ਲਤੀਆਂ ਕਰਦੇ ਆ ਰਹੇ ਹਾਂ, ਹੁਣ ਅਸੀਂ ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਲ ਚੂਕ = ਭੁੱਲਾਂ ਚੁੱਕਾਂ, ਗ਼ਲਤੀਆਂ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

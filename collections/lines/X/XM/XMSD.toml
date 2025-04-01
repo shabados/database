@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਗੁਰੂ ਪਾਸੋਂ ਗਿਆਨ ਦਾ ਸੁਰਮਾ ਲੈ ਲਿਆ ਉਸ ਦੇ ਅਗਿਆਨ ਦੇ ਹਨੇਰੇ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰੂ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ। ਅੰਧੇਰ = ਹਨੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

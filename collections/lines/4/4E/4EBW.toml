@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਹੋਲੀ ਕੀਹ ਹੈ?) ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਨੂੰ ਮੈਂ ਹੋਲੀ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸੇਵ = ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

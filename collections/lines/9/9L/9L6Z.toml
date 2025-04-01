@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਕਿਸੇ ਹੋਰ ਦੇਵਤੇ ਨਾਲ ਕੋਈ ਗ਼ਰਜ਼ ਨਹੀਂ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = ਹੋਰ। ਕਾਮ = ਗ਼ਰਜ਼ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

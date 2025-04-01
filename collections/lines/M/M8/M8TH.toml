@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਗੁਰੂ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ, ਉਹ ਆਪਣੇ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਿ ਪ੍ਰਭੂ = ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

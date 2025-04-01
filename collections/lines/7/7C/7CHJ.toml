@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਭ ਜੀਵਾਂ ਦੇ ਮਨਾਂ ਦੇ ਨੱਚਣ ਵਾਸਤੇ) ਸਾਰੀ ਧਰਤੀ ਅਖਾੜਾ ਬਣੀ ਹੋਈ ਹੈ, ਇਸ ਦੇ ਉੱਪਰ ਆਕਾਸ਼-ਚੰਦੋਆ ਬਣਿਆ ਤਣਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਾਰ ਮੰਡਲੀ = (ਨਿਰਤਿਕਾਰੀ ਵਾਲਾ) ਅਖਾੜਾ। ਧਰਣਿ = ਧਰਤੀ। ਸਬਾਈ = ਸਾਰੀ। ਗਗਨੁ = ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

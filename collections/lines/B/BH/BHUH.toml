@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਇਸ ਜਹਾਨ ਦੇ ਲੱਖਾਂ ਲੋਕ ਵੀ ਉਸ ਦੇ ਮੁਰੀਦ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਹਜ਼ਾਰਾਂ ਮੁਰੀਦਸ਼ ਅਜ਼ ਨਾਸੂਤ ।੧੭।"
+page = 1
+line = 17
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

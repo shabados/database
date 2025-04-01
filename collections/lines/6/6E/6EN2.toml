@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਅਪਾਰ ਪ੍ਰਭੂ ਦੇ ਜੋਤਿ ਨਾਲ ਮਿਲ ਕੇ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ = ਸੰਤ ਜਨ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਤੁਲੈ = ਤੁਲਦਾ ਹੈ, ਵਣਜੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

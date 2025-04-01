@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਹ ਕਿਸੇ ਦੀ ਨਿੰਦਾ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਨਾਹ ਕਿਸੇ ਦੀ ਖ਼ੁਸ਼ਾਮਦ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਕਹੀਜੈ = ਨਹੀਂ ਕਹਿਣਾ ਚਾਹੀਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

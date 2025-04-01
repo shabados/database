@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ) ਆਪਣੇ ਮਨ ਵਿਚ ਅਬਿਨਾਸੀ ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਦਾ ਲੇਖ ਲਿਖਦਾ ਰਹੁ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੁ = ਲਿਖ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

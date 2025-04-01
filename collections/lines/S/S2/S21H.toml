@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਾਣ ਵਾਲੇ ਸਾਰੇ ਰੋਗ ਦੂਰ ਕਰ ਦਿੱਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਨਿਵਾਰੇ = ਦੂਰ ਕਰ ਦਿੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

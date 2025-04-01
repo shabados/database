@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਦਿਲ ਲੈ ਜਾਨ ਵਾਲੇ # ਜੇਕਰ ਤੂੰ ਅੱਖਾਣ ਵਿਚ ਬਹਿ ਜਾਵੇਣ ਤਾਣ ਕੀ ਹਰਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੀਦਾ ਨਿਸ਼ਸਤਾ ਦਿਲਰੁਬਾਏ ਚਿ ਸ਼ਵਦ ।੨੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

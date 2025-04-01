@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੱਥਾਂ ਨਾਲ ਪ੍ਰਭੂ (ਦੇ ਰਾਹ) ਦੇ ਕੰਮ ਕਰ ਤੇ ਕੰਨ ਨਾਲ ਉਸ ਦੀ ਵਡਿਆਈ (ਸੁਣ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = ਹੱਥਾਂ ਨਾਲ। ਕਰਮ = ਕੰਮ। ਸ੍ਰਵਨਿ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

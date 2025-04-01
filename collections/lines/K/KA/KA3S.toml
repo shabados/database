@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਨੁੱਖ ਦਾ ਮਨ ਕਦੇ ਖਿੱਝਦਾ ਨਹੀਂ ਕਦੇ ਝੁਰਦਾ ਨਹੀਂ ਕਦੇ ਗਿਲੇ ਗੁਜ਼ਾਰੀਆਂ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ੍ਹੈ = ਕੜ੍ਹਦਾ, ਖਿੱਝਦਾ। ਰੋਵਨਹਾਰਾ = ਗਿਲਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

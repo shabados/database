@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨੇ ਤੋਂ ਕਈ ਕਿਸਮਾਂ ਦੇ ਗਹਿਣੇ ਘੜੇ ਜਾਂਦੇ ਹਨ (ਉਹ ਅਸਲ ਵਿਚ ਸੋਨਾ ਹੀ ਹੁੰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਨਿਕ = ਸੋਨਾ। ਭੂਖਨ = ਗਹਿਣੇ। ਕੀਨੇ = ਬਣਾਏ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

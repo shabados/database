@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਬਹੁਤ ਰੰਗਾਂ ਵਾਲੀ ਮਾਇਆ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਮੋਂਹਦੀ ਵੇਖੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = ਤਰੀਕਾ, ਢੰਗ। ਪੇਖੀ = ਮੈਂ ਵੇਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

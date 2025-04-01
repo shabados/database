@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੇ ਸੰਗ ਰਿਹਾਂ (ਮਨੁੱਖ ਦਾ) ਮਨ ਕਿਸੇ ਪਾਸੇ ਨਹੀਂ ਦੌੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤਹੂੰ = ਕਿਸੇ ਪਾਸੇ। ਧਾਵੈ = ਦੌੜਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

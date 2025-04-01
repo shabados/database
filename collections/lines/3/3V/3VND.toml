@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ (ਪੰਡਿਤ ਲੋਕ) ਵੇਦ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ) ਦੀਆਂ ਚਰਚਾ ਉਚਾਰ ਕੇ (ਹੋਰਨਾਂ ਦੇ ਸਾਹਮਣੇ) ਵਿਆਖਿਆ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਦ ਬਾਦ = ਵੇਦਾਂ ਦੇ ਝਗੜੇ, ਵੇਦਾਂ ਦੀਆਂ ਬਹਸਾਂ। ਸਭਿ = ਸਾਰੇ (ਪੰਡਿਤ ਲੋਕ) ਆਖਿ = ਆਖ ਕੇ। ਵਖਾਣਹਿ = ਵਿਆਖਿਆ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

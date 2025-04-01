@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸ਼ਾਸਤ੍ਰਾਂ ਦੇ ਦੱਸੇ ਹੋਏ ਛੇ ਧਾਰਮਿਕ ਕੰਮ (ਮੇਰੇ ਵਾਸਤੇ) ਤੇਰਾ ਨਾਮ ਹੀ ਹੈ, ਤੇਰਾ ਨਾਮ ਮਾਇਆ ਦੀ ਕਾਲਖ ਤੋਂ ਰਹਿਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਟੁ ਕਰਮ = ਸ਼ਾਸਤ੍ਰਾਂ ਦੇ ਦੱਸੇ ਹੋਏ ਛੇ ਕਿਸਮਾਂ ਦੇ ਧਾਰਮਿਕ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

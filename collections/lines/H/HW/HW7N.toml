@@ -30,6 +30,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ (ਕਿ ਜੋਗੀ ਨੇ ਕਿਹਾ- ਹੇ ਨਾਨਕ!) ਜੋਗੀਆਂ ਦਾ ਮਤ ਸ੍ਵੀਕਾਰ ਕਰੋ, ਮੁੰਦ੍ਰਾ, ਝੋਲੀ ਤੇ ਗੋਦੜੀ ਪਹਿਨੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨੁ = ਮਤ। ਜੋਗਿੰਦ੍ਰਾ = ਜੋਗੀ-ਰਾਜ ਦਾ। ਖਿੰਥਾ = ਗੋਦੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜੀਵਨ-ਮੁਕਤ ਕਰਨ ਵਾਲੇ ਜਗਦੀਸ਼ ਦਾ ਨਾਮ ਜਪ। ਹਿਰਦੇ ਵਿਚ ਉਸ ਵਾਸਤੇ ਸਰਧਾ ਟਿਕਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਨ ਮੁਕਤ = ਦੁਨੀਆ ਦੇ ਕਾਰ-ਵਿਹਾਰ ਕਰਦਾ ਹੋਇਆ ਹੀ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਸੁਤੰਤਰ। ਮਨ = ਹੇ ਮਨ! ਪਰਤੀਤਿ = ਸ਼ਰਧਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

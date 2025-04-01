@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੰਤ-ਪ੍ਰਭੂ ਨੇ (ਬਾਹੋਂ) ਫੜ ਕੇ ਆਪਣੀ ਰਾਣੀ ਬਣਾ ਲਿਆ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਤ = ਕੰਤ ਨੇ। ਕੀਨੀ = ਬਣਾ ਲਿਆ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

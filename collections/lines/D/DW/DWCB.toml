@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਗੁਰੂ ਦੀ ਰਾਹੀਂ) ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ। ਪਰਮਾਤਮਾ ਸਭ ਕੁਝ ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਜੁ = ਪਿਆ ਰਹੁ। ਮਨ = ਹੇ ਮਨ! ਕਰਣੈ ਜੋਗੁ = ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

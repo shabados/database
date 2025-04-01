@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਜਿੰਦ ਨਿੱਕੀ ਜਿਹੀ ਮੱਛੀ ਹੈ, ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ ਤ੍ਰਿਸ਼ਨਾ ਮਾਛੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਛੁਲੀ = ਨਿੱਕੀ ਜਿਹੀ ਮੱਛੀ। ਝੀਵਰੁ = ਮਾਛੀ। ਕਾਲੁ = ਮੌਤ, ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

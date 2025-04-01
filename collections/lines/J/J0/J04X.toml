@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਤੈਨੂੰ ਲੱਭ ਲਿਆ, ਉਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਸਿਪਾਹੀ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਸੇ ਕਿ ਯਾਫ਼ਤ ਤੁਰਾ ਹਮਚੂ ਓ ਸਿਪਾਹੀ ਨੀਸਤ ।੭।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

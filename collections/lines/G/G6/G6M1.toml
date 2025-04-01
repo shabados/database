@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਮਿੱਤਰ ਮਨ! ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਾਮ ਰਸੁ = ਨਾਮ ਦਾ ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

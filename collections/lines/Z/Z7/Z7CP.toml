@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸ ਦਾ ਕੋਈ ਪੁੱਤਰ ਹੈ? ਕਿਸ ਦਾ ਕੋਈ ਪਿਉ ਹੈ? (ਭਾਵ, ਪਿਉ ਤੇ ਪੁੱਤਰ ਵਾਲਾ ਸਾਕ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ ਹੈ, ਪ੍ਰਭੂ ਨੇ ਇਕ ਖੇਡ ਰਚੀ ਹੋਈ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉਨ ਕੋ = ਕਿਸ ਦਾ? ਕਾ ਕੋ = ਕਿਸ ਦਾ? ਕੋ = ਕੌਣ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

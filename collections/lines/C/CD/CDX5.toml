@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਿ = ਜਨ ਨੇ, ਜਿਸ ਜਿਸ ਜਨ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

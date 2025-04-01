@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮ ਦੀ ਬਰਕਤ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ-ਮਾਣ ਪ੍ਰਾਪਤ ਕਰੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੇ = ਨਾਮਿ ਹੀ, ਨਾਮ ਦੀ ਰਾਹੀਂ ਹੀ। ਮੁਖ ਉਜਲੇ = ਸੁਰਖ਼ਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

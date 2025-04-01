@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ ਕਿਰਪਾ ਕਰ ਕੇ (ਮੈਨੂੰ ਇਹ ਗੱਲ) ਦੱਸ ਦਿੱਤੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਕਰਿ = ਕਰ ਕੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

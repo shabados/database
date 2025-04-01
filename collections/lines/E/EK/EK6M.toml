@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸ਼ਾਂਤੀ ਦੇਣ ਵਾਲਾ ਪ੍ਰਭਾਵ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਹਾਲਤ, ਤਾਸੀਰ, ਪ੍ਰਭਾਵ। ਠਾਂਢੀ = ਠੰਢ ਪਾਣ ਵਾਲੀ, ਸ਼ਾਂਤੀ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

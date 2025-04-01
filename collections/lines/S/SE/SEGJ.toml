@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਰੋਜ਼ ਸਾਹ ਲੈਂਦਿਆਂ ਤੇ ਖਾਂਦਿਆਂ ਹਰ ਵੇਲੇ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ = ਸਾਹ ਨਾਲ। ਗਿਰਾਸਿ = ਗਿਰਾਹੀ ਨਾਲ। ਸਾਸਿ ਗਿਰਾਸਿ = ਸਾਹ ਲੈਂਦਿਆਂ ਤੇ ਖਾਂਦਿਆਂ। ਪਰਵਦਿਗਾਰ = ਪਾਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

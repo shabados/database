@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਖਣ ਤੇ ਸੁਣਨ ਨਾਲ ਭੀ ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ ਪਾਰ ਨਹੀਂ ਪਾ ਸਕੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਖਣਿ ਸੁਣਣਿ = ਵੇਖਣ ਤੇ ਸੁਣਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

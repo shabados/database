@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਜੀਅ ਜੰਤ ਤੇਰੇ ਵੱਸ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਹਾਥਿ = ਹੱਥ ਵਿਚ, ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

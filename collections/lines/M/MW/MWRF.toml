@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਹਸਤੀ ਇੱਕ ਹੈ, ਤੇਰੇ ਰੂਪ ਅਨੇਕਾਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਤਿ = ਹਸਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

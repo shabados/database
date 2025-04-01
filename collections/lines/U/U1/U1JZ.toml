@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਹ ਚੋਰ (ਹਾਕਮ ਦੀ) ਬਦ-ਖ਼ੋਈ ਕਰੇ ਤਾਂ ਭੀ ਉਹ ਰਤਾ ਭਰ ਨਹੀਂ ਘਾਬਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਦੀ = ਬੁਰਿਆਈ, ਨਿੰਦਿਆ। ਤਸੂ = ਰਤਾ ਭੀ। ਛੀਜੈ = ਛਿੱਜਦਾ, ਕਮਜ਼ੋਰ ਹੁੰਦਾ, ਘਾਬਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

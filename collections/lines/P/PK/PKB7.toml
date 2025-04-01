@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਾਨ ਅਤੇ ਦਿਲ ਲਈ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰਾਹਤ (ਅਮਨ) ਬਖਸ਼ਣ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਨੋ ਦਿਲ ਰਾ ਰਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੦।"
+page = 10
+line = 120
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

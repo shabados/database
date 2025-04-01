@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਪ੍ਰਭੂ ਇਹ ਖੇਲ ਕਰ ਕਰ ਕੇ ਵੇਖ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਪੈਦਾ ਕਰ ਕੇ। ਅਪਾਰਾ = ਬੇਅੰਤ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

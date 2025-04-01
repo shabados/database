@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰ ਉੱਤੇ ਧਰਮਰਾਜ ਖਲੋਤਾ ਹੋਇਆ ਹੈ (ਭਾਵ, ਮੌਤ ਦਾ ਸਮਾ ਨੇੜੇ ਆ ਰਿਹਾ ਹੈ, ਪਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢੋ = ਖਲੋਤਾ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਦੀਆਂ) ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਤੇਰੀ ਹੀ ਮਰਯਾਦਾ ਦੇ ਧਾਗੇ ਵਿਚ (ਪ੍ਰੋਤੀਆਂ ਹੋਈਆਂ) ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਸਮਗ੍ਰੀ = ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ। ਸੂਤਿ = ਧਾਗੇ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

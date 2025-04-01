@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਮੈਨੂੰ ਕੋਈ) ਇਹੋ ਜਿਹਾ ਇਲਾਜ ਦੱਸੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹਾ = ਇਹੋ ਜਿਹੀ। ਕਾਰੀ = ਇਲਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

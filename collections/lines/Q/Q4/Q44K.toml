@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਮੱਥੇ ਦਾ) ਭਾਗ ਜਾਗ ਪਏ ਤਾਂ (ਅਜਿਹੇ ਸੰਤ ਦਾ) ਦਰਸਨ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗੁ = ਕਿਸਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

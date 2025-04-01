@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਦੀਆਂ ਖ਼ੁਸ਼ੀਆਂ ਵਾਸਤੇ ਅਨੇਕਾਂ ਪਹਿਰਾਵੇ ਪਹਿਨਦੇ ਹਨ (ਇਹ ਖ਼ੁਸ਼ੀਆਂ-ਚਾਅ ਭੀ ਬੇੜੀਆਂ ਹੀ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਚਹਿ = ਕਰੀਦੇ ਹਨ। ਵੇਸ = ਪਹਿਰਾਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

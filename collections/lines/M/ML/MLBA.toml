@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਰਾਜ ਜੀਵਾਂ ਵਾਸਤੇ ਬੜਾ ਡਰਾਉਣਾ ਬਣ ਰਿਹਾ ਹੈ। ਹੇ ਪ੍ਰਭੂ! ਤੈਥੋਂ ਬਿਨਾ ਕੋਈ ਰੱਖਿਆ ਕਰਨ ਵਾਲਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਟ = ਔਖਾ। ਜਮ ਭਇਆ = ਜਮ ਦਾ ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ) ਜਗਤ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ, ਪਰ ਸੰਤਾਂ ਨੂੰ ਇਹ ਜ਼ਹਿਰ (ਵਾਂਗ) ਦਿੱਸਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਿਰ। ਬਿਗਸੈ = ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

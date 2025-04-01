@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਇਸ ਰਾਹ ਦਾ ਪਾਂਧੀ ਮਿਲ ਜਾਏ ਤੇ ਉਸ ਕੋਲੋਂ ਇਸ ਰਾਹ ਦੇ ਬਾਰੇ ਪੁਛੀਏ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਲਿਕਿ ਈਂ ਰਾਹ ਅਗਰ ਦਰਯਾਫ਼ਤੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

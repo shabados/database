@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਵਹੁਟੀ ਨਾਲ ਖਸਮ ਨਾਰਾਜ਼ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਰੀ = ਇਸਤ੍ਰੀ, ਵਹੁਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

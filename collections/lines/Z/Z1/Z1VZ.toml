@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੇਰਾ ਦਿਲ ਤੈਨੂੰ ਰੱਬ ਵਲ ਪਰੇਰ ਲਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਦਿਲਿ ਤੂ ਜਾਨਬਿ ਹੱਕ ਆਰਦਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

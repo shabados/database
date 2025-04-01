@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਲ ਕਰਦਾ ਕਰਦਾ ਮੈਂ ਗੁਰੂ ਦੇ ਪਾਸ ਪਹੁੰਚਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਨ ਪਹਿ = ਸੰਤਾਂ ਪਾਸ, ਗੁਰੂ ਪਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

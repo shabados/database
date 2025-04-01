@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਭ ਜੀਵਾਂ ਦਾ ਖਸਮ ਹੈਂ, ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੇ ਸਾਏ ਹੇਠ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਇਐ = ਛਾਂ ਹੇਠ, ਸਾਏ ਵਿਚ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

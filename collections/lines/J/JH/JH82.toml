@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਾਰੇ ਕਰਮ (ਜੀਵਾਂ ਦੇ) ਗਲ ਵਿਚ ਫਾਹੀਆਂ ਬਣ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ ਤੇ = ਉਹ ਸਾਰੇ। ਬੰਧ = ਬੰਧਨ। ਗਲਾਣੇ = ਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹਰ ਵੇਲੇ ਗੁਰੂ (ਦੇ ਉਪਦੇਸ਼) ਨੂੰ ਚੇਤੇ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਚੇਤੇ ਕਰਿਆ ਕਰ। ਮਨ ਮੋਰ = ਹੇ ਮੇਰੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

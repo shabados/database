@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਗੁਣ ਆਖ ਕੇ ਬਿਆਨ ਕਰਨ ਜੋਗਾ ਨਹੀਂ ਹਾਂ। ਤੇਰੀ ਕਦਰ-ਕੀਮਤ ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣੀ = ਵਖਾਣੀਂ, ਮੈਂ ਬਿਆਨ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

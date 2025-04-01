@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਜ਼ੀ! ਤੂੰ ਕਿਹੜੀਆਂ ਕਿਤਾਬਾਂ ਵਿਚੋਂ ਦੱਸ ਰਿਹਾ ਹੈਂ (ਕਿ ਮੁਸਲਮਾਨ ਨੂੰ ਬਹਿਸ਼ਤ ਤੇ ਹਿੰਦੂ ਨੂੰ ਦੋਜ਼ਕ ਮਿਲੇਗਾ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = ਤੂੰ। ਬਖਾਨੀ = ਦੱਸ ਰਿਹਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

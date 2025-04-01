@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਮੇਰੇ ਮਨ! ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਡ ਭਾਗਿਆ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

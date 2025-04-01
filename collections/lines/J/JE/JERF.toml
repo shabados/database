@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ (ਪਰਮਾਤਮਾ) ਗਰੀਬਾਂ ਦੇ ਦੁੱਖ-ਦਰਦ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰ = ਦੂਰ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

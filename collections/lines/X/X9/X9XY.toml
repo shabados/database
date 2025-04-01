@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਕੌਤਕਾਂ ਵਿਚ ਮਸਤ ਜੀਵ ਅਨੇਕਾਂ ਪਾਪ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ ਰਟਿਆ = ਰੰਗ ਵਿਚ ਰੱਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

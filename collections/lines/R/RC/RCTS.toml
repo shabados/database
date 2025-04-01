@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਉਸ (ਹਰਿ ਸਾਲਗਿਰਾਮ) ਦੀ ਪੈਰੀਂ ਮੁੜ ਮੁੜ ਲੱਗਦੇ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁਰਿ ਬਹੁਰਿ = ਮੁੜ ਮੁੜ। ਲਾਗਹ = ਅਸੀਂ ਲੱਗਦੇ ਹਾਂ। ਪਾਈ = ਪੈਰੀਂ। ਤਿਸੁ ਪਾਈ = ਉਸ (ਸਾਲਗਿਰਾਮ) ਦੀ ਪੈਰੀਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਦੋਂ ਉਹ ਬਾਜੀਗਰ ਖੇਲ ਸਮੇਟਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਵਾਂਗੁ = ਸਾਂਗ, ਤਮਾਸ਼ਾ। ਸਕੇਲਾ = ਸਮੇਟਿਆ, ਸਾਂਭਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਹੇ ਸਹੇਲੀ! (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਤੋਂ ਪਹਿਲੇ ਵਿਛੋੜੇ ਦੇ ਕਾਰਨ ਪੈਦਾ ਹੋਏ ਦੁੱਖਾਂ ਕਲੇਸ਼ਾਂ ਦਾ) ਉਲਾਹਮਾ ਦੇਣਾ ਮੁੱਕ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੁਕਾ = ਮੁੱਕ ਗਿਆ ਹੈ। ਨਿਹੋਰਾ = ਉਲਾਹਮਾ, ਗਿਲਾ-ਗੁਜ਼ਾਰੀ। ਸਖੀ ਸਹੇਰੀ = ਹੇ ਸਖੀ! ਹੇ ਸਹੇਲੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ (ਭੀ) ਨਾਮ-ਰਤਨ ਨੂੰ ਭਾਲਦੀ ਭਾਲਦੀ (ਬਾਹਰ) ਉਦਾਸ ਫਿਰ ਰਹੀ ਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਉ = ਫਿਰਉਂ, ਮੈਂ ਫਿਰਦੀ ਹਾਂ। ਦਸਾਇਆ = ਪੁੱਛਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

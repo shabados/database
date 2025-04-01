@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਜੀਭ! ਤੂੰ ਹੋਰ ਹੋਰ ਸੁਆਦ ਵਿਚ ਮਸਤ ਹੋ ਰਹੀ ਹੈਂ, (ਇਸ ਤਰ੍ਹਾਂ) ਤੇਰਾ ਸੁਆਦਾਂ ਦਾ ਚਸਕਾ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ ਰਸਨਾ = ਹੇ (ਮੇਰੀ) ਜੀਭ! ਅਨ ਰਸਿ = ਹੋਰ ਹੋਰ ਰਸ ਵਿਚ। ਰਾਚਿ ਰਹੀ = ਮਸਤ ਹੋ ਰਹੀ ਹੈਂ। ਪਿਆਸ = ਸੁਆਦਾਂ ਦਾ ਚਸਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

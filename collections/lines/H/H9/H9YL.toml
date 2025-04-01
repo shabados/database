@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹੇ ਪ੍ਰਭੂ ਜੀ! (ਮੈਨੂੰ) ਤੇਰੇ ਦਰਸਨ ਦੀ ਤਾਂਘ ਹੈ, ਮੈਨੂੰ ਆਪਣਾ ਬਣਾ ਲਵੋ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਹਰਿ ਜੀਉ = ਹੇ ਪ੍ਰਭੂ ਜੀ! ਲੇਹੁ ਸਮ੍ਹ੍ਹਾਰੇ = ਸਮ੍ਹ੍ਹਾਰਿ ਲੇਹੁ, ਸੰਭਾਲ ਲਵੋ, ਆਪਣਾ ਬਣਾ ਲਵੋ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

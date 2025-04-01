@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੀਆਂ ਗੱਲਾਂ ਕਰਨ ਨਾਲ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲੀ = ਗੱਲੀਂ, ਗੱਲਾਂ ਕਰਨ ਨਾਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

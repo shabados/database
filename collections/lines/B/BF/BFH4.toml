@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਆ, ਇਕੱਠੀਆਂ ਬੈਠੀਏ, ਇਕੱਠੀਆਂ ਬੈਠੀਏ, (ਤੇ, ਬੈਠ ਕੇ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਸੁਣੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀਏ! ਕਥਾ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਸੁਨਈਆ = ਸੁਣੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

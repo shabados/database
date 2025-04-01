@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਇਸਤ੍ਰੀ! ਤਦੋਂ ਸਿੰਗਾਰ ਬਣਾ ਜਦੋਂ ਪਹਿਲਾਂ ਖਸਮ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰ ਲਏਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਣਿ = ਹੇ ਇਸਤ੍ਰੀ! ਤਉ = ਤਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

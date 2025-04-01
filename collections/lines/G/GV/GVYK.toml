@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਦੀ ਵਡਿਆਈ ਪ੍ਰਭੂ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਬਡਾਈ = ਸਾਧ ਦੀ ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

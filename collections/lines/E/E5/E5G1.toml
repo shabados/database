@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਹੇ ਭੇਤਾਣ ਦੇ ਖਜ਼ਾਨੇ, ਤੂੰ ਮੇਰੇ ਸੀਨੇ ਵਿਚ ਜਾ ਸਕਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਸੀਨਾ-ਅੱਮ ਐ ਮਖਜ਼ਨਿ ਅਸਰਾਰ ਤਵਾਣ ਰਫਤ ।੧੨।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

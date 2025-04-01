@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਤਰਸ ਦੇ ਸੋਮੇ! ਹੇ ਰੱਖਿਆ ਕਰਨ ਦੇ ਸਮਰੱਥ ਪ੍ਰਭੂ! ਮੈਂ (ਤੇਰੇ ਅੱਗੇ) ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = {विनय} ਬੇਨਤੀ। ਕਰਉ = ਕਰਉਂ। ਕਰੁਣਾ ਪਤੇ = {ਕਰੁਣਾ = ਤਰਸ, ਦਇਆ। ਪਤੇ = ਹੇ ਪਤੀ!} ਹੇ ਦਇਆ ਦੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

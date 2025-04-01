@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਜੇ ਭੀ ਸਮਝ ਜਾ (ਅਜੇ) ਕੁਝ ਵਿਗੜਿਆ ਨਹੀਂ; ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਜਹੂ = ਅੱਜ ਹੀ, ਹੁਣ ਹੀ। ਨਾਹਿਨਿ = ਨਹੀਂ। ਮੁਰਾਰਿ = {ਮੁਰ-ਅਰਿ} ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

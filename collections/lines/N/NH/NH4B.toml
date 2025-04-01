@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਭੀ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਂਦਾ ਹਾਂ। ਬੋਲੀ = ਬੋਲੀਂ, ਮੈਂ ਉਚਾਰਦਾ ਹਾਂ। ਗੁਣ ਬਾਣੀ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਜਵਾਨੀ ਖ਼ਤਮ ਹੋ ਜਾਂਦੀ ਹੈ, ਬੁਢੇਪਾ ਆ ਜਾਂਦਾ ਹੈ, ਮੌਤ ਸਿਰ ਉਤੇ (ਖੜੀ ਜਾਪਦੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰੂਆ = ਬੁਢੇਪਾ। ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

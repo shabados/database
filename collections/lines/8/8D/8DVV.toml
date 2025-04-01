@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਜਿਹੜਾ ਪਰਮਾਤਮਾ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ ਉਸ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪਿਆ ਕਰ! ਮਨ = ਹੇ ਮਨ! ਰਵਿ ਰਹੇ = (ਜੋ ਸਭ ਥਾਈਂ) ਵਿਆਪਕ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

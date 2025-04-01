@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਐਸਾ ਕੋਈ ਨਹੀਂ ਹੈ, ਜਿਸ ਪਾਸ ਜਾ ਕੇ ਮੈਂ ਇਹ ਅਰਜ਼ੋਈ ਕਰ ਸਕਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

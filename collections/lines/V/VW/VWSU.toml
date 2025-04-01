@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਇਸਤ੍ਰੀ (ਜਾਤੀ) ਤੋਂ ਰਾਜੇ (ਭੀ) ਜੰਮਦੇ ਹਨ, ਉਸ ਨੂੰ ਮੰਦਾ ਆਖਣਾ ਠੀਕ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਇਸਤ੍ਰੀ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

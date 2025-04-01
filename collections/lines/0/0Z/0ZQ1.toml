@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਤੂੰ ਬੰਦਗੀ ਕਰ, ਭਜਨ ਕਰ, ਸਿਮਰਨ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਕੁਨ ਬੰਦਗੀ ਕੁਨ ਬੰਦਗੀ ।੧੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

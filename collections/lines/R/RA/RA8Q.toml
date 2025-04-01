@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ, ਹੇ ਭਾਈ!) ਉਸ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਰਿਹਾ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਜੈ ਕਾਰੁ = ਸੋਭਾ, ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਗੁਸਾਈ = ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

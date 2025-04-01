@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਧਰਤੀ ਉੱਤੇ ਕਈ ਜੁਗਤੀਆਂ ਅਤੇ ਰੰਗਾਂ ਦੇ ਜੀਵ (ਵੱਸਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਵਿਚਿ = ਉਸ ਧਰਤੀ ਉੱਤੇ। ਜੀਅ = ਜੀਵ ਜੰਤ। ਜੀਅ ਜੁਗਤਿ = ਜੀਵਾਂ ਦੀ ਜੁਗਤੀ, ਜੀਵਾਂ ਦੇ ਰਹਿਣ ਦੀ ਜੁਗਤੀ (ਬਣਾ ਦਿੱਤੀ) ਹੈ। ਕੇ ਰੰਗ = ਕਈ ਰੰਗਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

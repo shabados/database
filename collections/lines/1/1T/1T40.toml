@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਥਾਂ ਬੋਲਣ ਵਾਲਾ ਸੁਣਨ ਵਾਲਾ ਉਹੀ ਆਪ ਹੀ ਹੈ ਜਿਸ ਨੇ ਇਹ ਜਗਤ-ਰਚਨਾ ਰਚੀ ਹੈ ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਕਤਾ = ਬੋਲਣ ਵਾਲਾ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

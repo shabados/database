@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ (ਮਨੁੱਖ ਦੀ) ਜ਼ਿੰਦਗੀ ਅਜਿਹੀ ਹੀ ਹੈ ਜਿਹਾ ਸੁਪਨਾ ਹੈ, ਜ਼ਿੰਦਗੀ ਸੁਪਨੇ ਵਰਗੀ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ। ਜੀਵਨੁ = ਜ਼ਿੰਦਗੀ, ਉਮਰ। ਸਮਾਨੰ = ਵਰਗਾ, ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

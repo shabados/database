@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਮਨ! ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੁ = ਇਕ ਪ੍ਰਭੂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

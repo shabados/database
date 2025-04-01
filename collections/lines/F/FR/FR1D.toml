@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੈਂ ਉੱਚ ਆਚਰਣ ਬਣਾਣ ਦਾ ਹਲ ਜੋਅ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤ = ਉੱਚਾ ਆਚਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

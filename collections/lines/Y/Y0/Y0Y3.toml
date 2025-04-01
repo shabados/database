@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਕਾਰਾਂ ਤੇ ਰੋਗਾਂ ਦੇ ਇਸ ਸਰੀਰ-ਪਿੰਡ ਵਿਚ ਮੇਰਾ ਵਸੇਬਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੈ = ਵਿਸ਼ੇ। ਬਿਆਧਿ = {व्याधि} ਸਰੀਰਕ ਰੋਗ। ਗਾਵ ਮਹਿ = ਪਿੰਡ ਵਿਚ {ਲਫ਼ਜ਼ 'ਗਾਉ' ਤੋਂ ਸੰਬੰਧਕ ਦੇ ਕਾਰਨ 'ਗਾਵ' ਬਣ ਗਿਆ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

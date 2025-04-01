@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਯਾਦ ਤੋਂ ਖੁੰਝ ਕੇ ਉਹ (ਧਰਤੀ ਉਤੇ ਭਾਰ ਹੀ ਹਨ, ਜਿਵੇਂ) ਛੱਤਰਿਆਂ ਦੇ ਸਿਰ ਤੇ ਸਿੰਗ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਙ = ਸਿੰਗ। ਛਤਾਰਾ = ਛੱਤਰਾ, ਭੇਡੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

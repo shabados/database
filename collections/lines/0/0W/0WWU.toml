@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਪਿਆਰ ਨਾਲ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੁ ਲਾਇ = ਰੰਗ ਲਾ ਕੇ, ਪਿਆਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੇ ਜੀਵ!) ਤੇਰੇ ਉਤੇ ਛਾਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਮ = ਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

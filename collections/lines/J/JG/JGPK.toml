@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਕਦੇ ਵਿਅਰਥ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤਹੁ = ਕਿਤੇ ਭੀ। ਜਾਇ = ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

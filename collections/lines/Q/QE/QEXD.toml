@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫੋਕੀ ਬਹਿਸ ਤੋਂ ਬਿਨਾ ਉਹ ਹੋਰ ਕੁਝ ਕਰਨਾ ਜਾਣਦੇ ਹੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚਰਚਾ = ਕੋਝੀ ਚਰਚਾ, ਥੋਥੀ ਬਹਿਸ। ਛਾਡਿ = ਛੱਡ ਕੇ, ਤੋਂ ਬਿਨਾ। ਆਨ = ਕੋਈ ਹੋਰ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

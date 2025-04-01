@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜਿਉਂ ਜਿਉਂ) ਬੁਢੇਪਾ ਵਧਦਾ ਹੈ, ਮਾਇਆ ਦਾ ਮੋਹ ਭੀ (ਵਧਦਾ ਜਾਂਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਰੂਆ = ਬੁਢੇਪਾ (जरा)। ਹਿਤ੍ਯ੍ਯੰਤ = ਹਿਤ, ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

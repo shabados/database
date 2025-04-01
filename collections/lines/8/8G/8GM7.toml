@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਅਦਲ ਇਨਸਲਫ ਦੇ ਮੁਖੜੇ ਦੀ ਰੌਣਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਮਾਲਿ ਰੁਖ਼ਿ ਅਦਲੋ ਇਨਸਾਫ਼ ਦਾਦ ।੧੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

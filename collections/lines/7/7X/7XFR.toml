@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਆ ਜੰਤ ਅਕਾਲ ਪੁਰਖ ਦੇ ਆਸਰੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮ = ਅਕਾਲ ਪੁਰਖ। ਧਾਰੇ = ਟਿਕਾਏ ਹੋਏ, ਆਸਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

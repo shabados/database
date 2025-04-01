@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਬਾਲਕ ਹਰਿ ਗੋਬਿੰਦ ਦਾ) ਤਾਪ ਲਹਿ ਗਿਆ ਹੈ, ਪ੍ਰਭੂ ਨੇ ਆਪ ਉਤਾਰਿਆ ਹੈ, ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਸੇਵਕ ਦੀ ਇੱਜ਼ਤ ਰੱਖ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਲਾਜ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

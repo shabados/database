@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮਾਇਆ-ਰਹਿਤ ਰਾਮ ਉਸ ਅਵਸਥਾ ਵਿਚ (ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ) ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹਾ = ਉੱਥੇ (ਜਿੱਥੇ ਮਨ ਚੁੱਭੀ ਲਾਂਦਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

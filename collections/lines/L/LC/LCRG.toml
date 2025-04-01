@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਇਹ) ਮੰਗਤਾ ਦਾਸ (ਤੇਰੇ ਨਾਮ ਦਾ) ਦਾਨ ਮੰਗਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਕ ਜਨੁ = ਮੰਗਤਾ ਮਨੁੱਖ। ਜਾਚੈ = ਮੰਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਖ਼ਸ਼ਸ਼ਾਂ ਮਾਲਕ ਦੀਆਂ (ਆਪਣੀਆਂ) ਹਨ। ਉਸ ਮਾਲਕ ਨਾਲ (ਕਿਸੇ ਦਾ) ਕੀਹ ਜ਼ੋਰ ਚੱਲ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੀ = ਬਖ਼ਸ਼ਸ਼ਾਂ। ਸੰਦੀਆ = ਦੀਆਂ। ਤਿਸੁ ਨਾਲਿ = ਉਸ (ਸਾਹਿਬ) ਨਾਲ। ਕਿਆ ਚਲੈ = ਕੀਹ ਜ਼ੋਰ ਚੱਲ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

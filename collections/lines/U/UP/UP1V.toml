@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਤੂੰ ਆਪਣੇ ਅੰਦਰ ਪ੍ਰਭੂ ਦਾ ਟਿਕਾਣਾ ਪਛਾਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਲੀ = ਮਹਲ ਦਾ ਮਾਲਕ, ਪਰਮਾਤਮਾ। ਮਹਲੁ = ਘਰ, ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

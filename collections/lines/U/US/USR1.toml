@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਵਲ, ਪੂਰਾ ਧਿਆਨ ਰੱਖਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਵਧਾਨ = ਸ-ਅਵਧਾਨ, ਅਵਧਾਨ ਸਹਿਤ, ਧਿਆਨ ਸਹਿਤ। ਗੁਰ ਸਿਉ = ਗੁਰੂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

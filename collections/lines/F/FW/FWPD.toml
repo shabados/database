@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਚਾਂ ਸੋਚਿਆਂ (ਇਸ ਹੋਣੀ ਤੋਂ) ਕੋਈ ਬੰਦਾ ਬਚ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਙਣਤੀ ਙਣੀ = ਗਿਣਤੀ ਗਿਣਿਆਂ, ਸੋਚਾਂ ਸੋਚਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

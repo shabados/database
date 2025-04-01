@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-ਹੇ ਮਾਧੋ! ਕਈ ਜਨਮਾਂ ਤੋਂ ਮੈਂ ਤੈਥੋਂ ਵਿਛੁੜਿਆ ਆ ਰਿਹਾ ਹਾਂ (ਮਿਹਰ ਕਰ, ਮੇਰਾ) ਇਹ ਜਨਮ ਤੇਰੀ ਯਾਦ ਵਿਚ ਬੀਤੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧਉ = ਹੇ ਮਾਧੋ! ਤੁਮ੍ਹ੍ਹਾਰੇ ਲੇਖੇ = (ਭਾਵ,) ਤੇਰੀ ਯਾਦ ਵਿਚ ਬੀਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

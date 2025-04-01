@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤਾਂਹੀਏਂ) ਮੈਂ (ਭੀ) ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦਾ ਹਾਂ, ਨਾਮ ਜਪ ਕੇ ਉਸ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਦਾ ਹਾਂ। ਜਪਿ = ਜਪ ਕੇ। ਉਰਿ = ਹਿਰਦੇ ਵਿਚ। ਧਾਰੀ = ਧਾਰੀਂ, ਮੈਂ ਟਿਕਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਨੂੰ ਵੇਖਣ ਵਿਚ ਆਨੰਦ ਪਰਾਪਤ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਇੰਬਸਾਤ ਆਇਦਸ਼ ਅਜ਼ਾਂ ਦੀਦਨ ।"
+page = 1
+line = 9
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਵਾਸਤਵ ਵਿਚ ਉਸ ਦੀ ਮੁਰਾਦ ਪੂਰੀ ਹੋ ਗਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਤਰਾ ਸ਼ੁਦ ਅੰਦਰ ਹਕੀਕਤ ਬਾ-ਮੁਰਾਦ ।੨੯੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

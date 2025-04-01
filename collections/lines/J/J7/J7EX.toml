@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ (ਨਾਮ-ਪਦਾਰਥ ਦੇ ਖ਼ਰੀਦਣ) ਵਾਸਤੇ (ਜਗਤ ਵਿਚ) ਆਏ ਹੋ, ਉਹ ਸੌਦਾ ਖ਼ਰੀਦੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ ਦੀ ਖ਼ਾਤਰ। ਵਿਹਾਝਹੁ = ਖ਼ਰੀਦੋ। ਤੇ = ਤੋਂ। ਗੁਰ ਤੇ = ਗੁਰੂ ਦੀ ਸਹਾਇਤਾ ਨਾਲ। ਮਨਹਿ = ਮਨ ਵਿਚ। ਹਰਿ ਬਸੇਰਾ = ਹਰੀ ਦਾ ਨਿਵਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

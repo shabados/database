@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲੇ! ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ! ਹੇ ਅਪਹੁੰਚ! ਹੇ ਬੇਅੰਤ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

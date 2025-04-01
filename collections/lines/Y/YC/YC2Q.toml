@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੇ ਮਨ ਵਿਚ ਵਸਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਗੁਰੂ) ਨੇ। ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ["
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

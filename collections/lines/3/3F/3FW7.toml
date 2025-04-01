@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਂਜ ਭਾਵੇਂ ਇਸ ਸੰਸਾਰ ਵਿਚ ਬਹਾਰ ਹਮੇਸ਼ਾ ਹੀ ਆੳਂੁਦੀ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਰਨਾ ਦਰ ਦੁਨਿਆ ਹਮਾ ਫ਼ਸਲਿ ਬਹਾਰ ।੪੮੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

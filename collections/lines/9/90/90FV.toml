@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਕੰਤ) ਦੇ ਦਰਬਾਰ ਵਿਚ ਇਕ-ਰਸ (ਵੱਸ ਰਹੇ) ਵਾਜਿਆਂ ਦੀ ਧੁਨ ਉਠ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜਿਤ੍ਰਾ = वादित्रं {a musical instrument} ਵਾਜਾ। ਤਿਸੁ ਦਰਬਾਰਾ = ਉਸ (ਕੰਤ-ਪ੍ਰਭੂ) ਦੇ ਦਰਬਾਰ ਵਿਚ। ਅਨਾਹਦ = {अनाहत = Not produced by beating, ਬਿਨਾ ਵਜਾਏ ਵੱਜ ਰਹੇ} ਇਕ-ਰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

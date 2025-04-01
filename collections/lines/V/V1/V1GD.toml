@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਨਾਮ ਜਪ ਕੇ) ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ ਪਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ ਜਨ = ਉਹ ਬੰਦੇ {ਬਹੁ-ਵਚਨ}। ਮਾਨੁ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

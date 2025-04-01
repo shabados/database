@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦੀਆਂ ਹੋਰ ਸਾਰੀਆਂ ਵਾਸ਼ਨਾਂ ਛੱਡ ਦੇਹ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇ = ਦੇ। ਕਾਮ = ਵਾਸਨਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

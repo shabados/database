@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਸਭ ਥਾਈਂ ਵਿਆਪਕ ਭੀ ਹੈ ਤੇ ਹੈ ਭੀ ਨਿਰਲੇਪ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਿਪਤੁ = ਨਿਰ-ਲੇਪ, ਬੇ-ਦਾਗ਼ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

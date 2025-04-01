@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਹੜਾ ਮਨੁੱਖ ਤੇਰੇ ਹੁਕਮ ਨੂੰ ਸਮਝ ਲੈਂਦਾ ਹੈ, ਉਹ ਉਸ ਹੁਕਮ ਦੀ ਸੋਭਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਹ {ਇਕ-ਵਚਨ}। ਸਲਾਹੇ = ਸਲਾਹੁੰਦਾ ਹੈ, ਵਡਿਆਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

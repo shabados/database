@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਰੱਸੀ ਤੇ ਸੱਪ ਦਾ ਦ੍ਰਿਸ਼ਟਾਂਤ ਹੈ, ਪਰ ਤੂੰ ਮੈਨੂੰ ਹੁਣ ਕੁਝ ਕੁਝ ਭੇਤ ਜਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜ = ਰੱਜੂ, ਰੱਸੀ। ਭੁਇਅੰਗ = ਸੱਪ। ਪ੍ਰਸੰਗ = ਵਾਰਤਾ, ਗੱਲ। ਮਰਮੁ = ਭੇਤ, ਰਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਤੀਲੇ ਤੋਂ ਸੁਮੇਰ ਪਰਬਤ ਬਣ ਜਾਂਦਾ ਹੈ, ਸੁਕੇ ਤੋਂ ਹਰਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੰ = ਸੁਮੇਰ ਪਰਬਤ (मेरु)। ਸਹਕੰ = (शुष्क) ਸੁੱਕਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

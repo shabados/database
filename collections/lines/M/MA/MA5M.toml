@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਂਦੇ ਰਿਹਾ ਕਰੋ। ਹੇ ਭਗਵਾਨ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ (ਮੈਂ ਭੀ ਤੇਰਾ ਜਸ ਗਾਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ। ਵਡਭਾਗੀਹੋ = ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਭਗਵੰਤ = ਭਗਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

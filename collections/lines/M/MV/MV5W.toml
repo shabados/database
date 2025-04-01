@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਬੰਦੇ ਦੀ ਉਮਰ ਰੋਗਾਂ ਵਿਚ, ਗ਼ਮਾਂ ਵਿਚ, ਅਨੇਕਾਂ ਭਟਕਣਾਂ ਵਿਚ ਬੀਤਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੀਜਾ = ਭਟਕਣਾ ਵਿਚ। ਸੋਗ = ਗ਼ਮ, ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

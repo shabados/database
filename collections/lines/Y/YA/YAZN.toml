@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਮਨ-ਹਾਥੀ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ ਵੱਸ ਵਿਚ ਆ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਗਲੁ = ਹਾਥੀ {मदकल}। ਸਬਦਿ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਵਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

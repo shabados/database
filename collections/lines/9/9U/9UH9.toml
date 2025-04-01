@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਮੈਨੂੰ ਉਹ ਹਰਿ-ਨਾਮ ਦੇਂਦਾ ਹੈ ਜੇਹੜਾ ਅੰਤ ਵੇਲੇ ਮੇਰਾ ਸਾਥੀ ਬਣੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮੁ ਹੀ। ਅੰਤਿ = ਅਖ਼ੀਰ ਵੇਲੇ। ਸਖਾਈ = ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਧੁਰੋਂ ਲੇਖ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ, ਉਸ ਨੂੰ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਗੁਰੂ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਪਹਿਲੇ ਜਨਮ ਵਿਚ। ਮਾਇ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਪਾਸ ਸੋਨਾ ਹੈ ਚਾਂਦੀ ਹੈ ਧਨ-ਪਦਾਰਥ ਹੈ (ਹੋਰ ਜੂਨਾਂ ਪਾਸ ਇਹ ਚੀਜ਼ਾਂ ਨਹੀਂ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪਾ = ਚਾਂਦੀ। ਤੁਝ ਪਹਿ = ਤੇਰੇ ਪਾਸ। ਦਾਮ = ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

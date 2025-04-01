@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਾਈਂ ਇਸ ਹਿਰਦੇ-ਰੂਪ ਜੰਗਲ ਵਿਚ ਅਹੰਕਾਰ-ਸ਼ੇਰ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿੰਘੁ = (ਅਹੰਕਾਰ) ਸ਼ੇਰ। ਬਨ = ਹਿਰਦਾ-ਰੂਪ ਜੰਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

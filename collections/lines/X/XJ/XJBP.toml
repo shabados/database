@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਸੰਤ ਜਨਾਂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪ੍ਰਭੂ ਦੀ) ਮੇਹਰ ਹੋਵੇ ਉਸ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਪਿਆਰਾ ਲੱਗਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁਗ੍ਰਹੁ = ਮੇਹਰ, ਕਿਰਪਾ। ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

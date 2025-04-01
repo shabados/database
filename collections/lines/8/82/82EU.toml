@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ (ਜਗਤ) ਪੈਦਾ ਕੀਤਾ ਹੈ ਉਸ ਨੇ (ਆਪ ਹੀ) ਇਸ ਨੂੰ ਮਾਇਆ ਦੀ ਦੌੜ-ਭੱਜ ਵਿਚ ਲਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਸਿਰਿਆ = ਪੈਦਾ ਕੀਤਾ। ਤਿਨਿ = ਉਸ (ਪ੍ਰਭੂ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

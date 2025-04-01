@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਹੀ ਉਹ ਆਪਣੇ ਅੰਦਰ ਇਕ-ਰਸ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਪ੍ਰਬਲ ਕਰੀ ਰੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਤ = ਇਕ-ਰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

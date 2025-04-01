@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਵੇਲੇ ਦਾ ਪਤਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ, ਜਦੋਂ ਜਮ ਦਾ ਰੱਸਾ (ਗਲ ਵਿਚ) ਆ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਰਾ = ਵੇਲਾ। ਫੰਧੁ = ਫਾਹੀ, ਰੱਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

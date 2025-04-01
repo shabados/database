@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਿਨਾਂ ਬੰਦਗੀ ਤੋਂ ਜ਼ਿੰਦਗੀ (ਸਿਰਫ) ਸ਼ਰਮਿੰਦਗੀ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਬੇ-ਬੰਦਗੀ ਸ਼ਰਮਿੰਦਗਸਿਤ ।੩੦੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

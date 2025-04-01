@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਤਾਣ ਨਾ ਸਹੀ, ਘੱਟੋ ਘੱਟ) ਤੂੰ ਨਸ਼ੇ-ਖਾਨੇ ਵਲ ਤਾਣ ਜਾ ਸਕਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਰੇ ਬ-ਸੂਇ ਖ਼ਾਨਾਇ ਖ਼ੁਮਾਰ ਤਵਾਣ ਰਫ਼ਤ ।੧੨।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

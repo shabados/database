@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਮਨ ਦੇ) ਕੋਈ ਪੈਰ ਨਹੀਂ ਹਨ, ਪਰ ਛਾਲਾਂ ਮਾਰਦਾ ਫਿਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰ। ਹੁਰੀਆ = ਛਾਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

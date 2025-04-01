@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਭਾਗ-ਹੀਣ ਜੀਵ-ਇਸਤ੍ਰੀ ਅਰਜ਼ੋਈ ਕਰਦੀ ਹਾਂ, ਮੈਂ ਨਾਨਕ ਦੀ ਕਦੋਂ ਵਾਰੀ ਆਵੇਗੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨ = ਇਸਤ੍ਰੀ। ਕਦਿ = ਕਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

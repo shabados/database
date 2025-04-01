@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ! (ਖ਼ੁਦਾ ਦਾ ਨਾਮ) ਲੈ ਕੇ ਬੰਦਗੀ ਦੀ ਕਮਾਈ ਕਰਿਆ ਕਰ-ਇਹ ਹੈ ਅਸਲ ਸ਼ਰਹ ਸ਼ਰੀਅਤਿ (ਬਾਹਰਲੀ ਧਾਰਮਿਕ ਰਹਿਣੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਾ ਸਰੀਅਤਿ = ਸ਼ਰਹ ਸ਼ਰੀਅਤਿ, ਧਾਰਮਿਕ ਰਹਿਣੀ, ਬਾਹਰਲੀ ਧਾਰਮਿਕ ਰਹਿਤ। ਲੇ = ਲੈ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

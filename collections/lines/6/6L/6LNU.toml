@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਆੜਿ! ਤੂੰ ਆਪਣੀ ਇਕ ਜਿੰਦ ਦੀ ਖ਼ਾਤਰ (ਪਾਣੀ ਵਿਚੋਂ ਚੁਗ ਚੁਗ ਕੇ) ਅਨੇਕਾਂ ਜੀਵ ਖਾਂਦੀ ਹੈਂ (ਹੇ ਜਿੰਦੇ! ਤੂੰ ਆਪਣੇ ਸਰੀਰ ਦੀ ਪਾਲਣਾ ਵਾਸਤੇ ਅਨੇਕਾਂ ਨਾਲ ਠੱਗੀ-ਠੋਰੀ ਕਰਦੀ ਹੈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੈ = ਜਿੰਦ ਦੀ ਖ਼ਾਤਰ। ਖਾਹੀ = ਤੂੰ ਖਾਂਦੀ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

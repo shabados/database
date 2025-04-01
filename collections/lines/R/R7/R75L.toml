@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ (ਜ਼ਿੰਦਗੀ ਦਾ ਇਕ ਵੱਡਾ) ਦਰੀਆ ਹੈਂ, ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੇ ਵਿਚ (ਜੀਊ ਰਹੀ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ-ਪ੍ਰਭੂ! ਸਦਾ ਤੈਨੂੰ ਹੀ ਸਾਲਾਹਣਾ ਚਾਹੀਦਾ ਹੈ, ਸਦਾ ਤੇਰੀ ਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀ = ਸਦਾ ਹੀ। ਤੂਹੈ = ਤੈਨੂੰ ਹੀ। ਪਿਆਰੇ = ਹੇ ਸੱਜਣ-ਪ੍ਰਭੂ! ਸਾਲਾਹ = ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

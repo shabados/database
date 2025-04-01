@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਨੇ ਧਰਤੀ ਤੋਂ ਸਾਰਾ ਅਨ੍ਹੇਰਾ ਅਤੇ ਜ਼ੁਲਮ ਮਿੱਟੀ ਕਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਜ਼ੁਲਮੋ ਜ਼ੁਲਮਤ ਜ਼ਦੂਦਾ ਜ਼ਿ ਖ਼ਾਕ ।੮੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

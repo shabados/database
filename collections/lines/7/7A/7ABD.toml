@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਕਿਸੇ) ਵੱਡੇ ਜੰਗਲ ਵਿਚ (ਖੁੰਝੇ ਹੋਏ ਨੂੰ) ਰਾਹ ਲੱਭ ਪਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਿਆਨ = ਜੰਗਲ। ਮਾਰਗੁ = ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

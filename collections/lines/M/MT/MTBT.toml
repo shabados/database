@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਭਗਤ ਇਕ ਪ੍ਰਭੂ ਦੀ ਹੀ ਓਟ ਲੈਂਦੇ ਹਨ, ਹੋਰ (ਆਸਰਿਆਂ ਦੀ) ਆਸ ਛੱਡ ਦੇਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਓਟ। ਅਨ = {अन्य} ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

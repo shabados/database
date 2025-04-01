@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਦਾਤ ਦੇਣ ਵਾਲੇ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਉਹ ਨਾਮ ਦੀ ਦਾਤ ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨੁ ਗੁਰ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

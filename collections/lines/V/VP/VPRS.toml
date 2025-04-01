@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਬਣਾਉਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ = ਜਿਨ੍ਹਾਂ ਨੂੰ। ਕਰੇਇ = ਕਰਦਾ ਹੈ, ਬਣਾਉਂਦਾ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

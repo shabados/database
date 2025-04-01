@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅੰਨ ਦੇ ਥਾਂ) ਕਈ ਸੁਆਦਾਂ ਵਾਲੇ ਫਲ ਆਦਿਕ ਪਦਾਰਥ (ਜੋ ਮਨੁੱਖ) ਖਾਂਦਾ ਹੈ, (ਉਹ ਤਾਂ ਉਂਞ ਹੀ ਵਰਤ ਦਾ) ਮਜ਼ਾ ਗਵਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸ ਕਸ = ਕਈ ਸੁਆਦਾਂ ਵਾਲੇ ਫਲ ਆਦਿਕ ਪਦਾਰਥ। ਸਾਦੁ = ਸੁਆਦ, ਮਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

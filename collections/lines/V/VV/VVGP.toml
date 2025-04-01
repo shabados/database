@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘੁੰਡੀ ਤੋਂ ਬਿਨਾ ਗੰਢ ਨਹੀਂ ਪਾਈ ਜਾ ਸਕਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਠਿ = ਗੰਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

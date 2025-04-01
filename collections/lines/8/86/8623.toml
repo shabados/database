@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੋ ਆਲਮ ਤਾਕ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੭।"
+page = 10
+line = 117
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

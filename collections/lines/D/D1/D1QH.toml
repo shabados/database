@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਹਿਬਾਂ ਦਾ ਸੁਭਾਵ ਸਾਹਿਬੀ (ਵਡਿਆਈ) ਕਰਨਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਾਂ ਰਾ ਸਾਹਿਬੀ ਬਾਸ਼ਦ ਸ਼ੁਆਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

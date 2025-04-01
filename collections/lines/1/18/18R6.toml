@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸਭਨਾਂ ਦੇ ਮਾਲਕ! ਮੈਂ ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ ਤੇਰੇ ਅੱਗੇ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤੀ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ। ਕਰ ਜੋਰਿ = (ਦੋਵੇਂ) ਹੱਥ ਜੋੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਮਦਦਗਾਰ ਨਹੀਂ ਦਿੱਸਦਾ, ਗੁਰੂ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ (ਦਾ ਆਸਰਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਣ ਹਮ੍ਹ੍ਹਾਰੇ = ਮੇਰੀ ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

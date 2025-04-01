@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਾਂ ਨੂੰ ਕਈ ਤਰੀਕੀਆਂ ਨਾਲ ਪਾਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅਨ = ਜੀਵਾਂ ਨੂੰ। ਬਹੁ ਭਾਤਿ = ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

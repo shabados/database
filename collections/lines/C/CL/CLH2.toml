@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ) ਸਾਰੇ ਜੀਅ ਜੰਤ ਮਾਸ ਤੋਂ ਪੈਦਾ ਹੋਏ ਹਨ, ਜਿੰਦ ਨੇ (ਮਾਸ ਵਿਚ ਹੀ) ਡੇਰਾ ਲਾਇਆ ਹੋਇਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਇ = ਜੀਵ ਨੇ। ਸਭਿ = ਸਾਰੇ। ਲਇਆ ਵਾਸੇਰਾ = ਡੇਰਾ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

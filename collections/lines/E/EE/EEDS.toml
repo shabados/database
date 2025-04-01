@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਮਣਾ, ਮਰਣਾ, ਦਿੱਸਦਾ ਤੇ ਅਣ-ਦਿੱਸਦਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਨੁ ਜਾਵਨੁ = ਜਨਮ ਮਰਣ। ਦ੍ਰਿਸਟਿ = ਦਿੱਸਦਾ ਜਗਤ, ਅਸਥੂਲ ਸੰਸਾਰ। ਅਨਦ੍ਰਿਸਟਿ = ਨਾਹ ਦਿੱਸਦਾ ਸੰਸਾਰ, ਸੂਖਮ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

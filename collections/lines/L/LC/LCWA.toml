@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਕਿੳਂ ਪਿਆ ਜੰਗਲਾਣ ਜੂਹਾਣ ਵਿਚ ਮਾਰਾ ਮਾਰਾ ਫਿਰਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਰਾ ਬੇਹੂਦਾ ਮੀਗਰਦੀ ਬ-ਸਹਿਰਾ ਓ ਬ-ਦਸਤ ਐ ਦਿਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

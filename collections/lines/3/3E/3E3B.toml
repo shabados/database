@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਕਰਤਾਰ ਦਾ ਨਾਮ ਹੀ ਤੇਰਾ ਅਸਲ ਪਿਆਰਾ ਹੈ ਮਿੱਤਰ ਹੈ ਪੁੱਤਰ ਹੈ। ਹੇ ਮਨ! ਇਹ ਨਾਮ ਹੀ ਹਰ ਵੇਲੇ ਤੇਰੇ ਨਾਲ ਸਾਥ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸਟੁ = ਪਿਆਰਾ। ਸੁਤ = ਪੁੱਤਰ। ਕਰਤਾ ਨਾਮੁ = ਕਰਤਾਰ ਦਾ ਨਾਮ। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

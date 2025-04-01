@@ -42,6 +42,12 @@ language = "pa"
 data = "ਹੁਕਮ ਦੇ ਵਰਣਨ ਕਰਨ ਦੀ ਤੋਟ ਨਹੀਂ ਆ ਸਕੀ (ਭਾਵ, ਵਰਣਨ ਕਰ ਕਰ ਕੇ ਹੁਕਮ ਦਾ ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਿਆ, ਹੁਕਮ ਦਾ ਸਹੀ ਸਰੂਪ ਨਹੀਂ ਲੱਭ ਸਕਿਆ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਨਾ = ਕਹਿਣਾ, ਬਿਆਨ ਕਰਨਾ। ਕਥਨਾ ਤੋਟਿ = ਕਹਿਣ ਦੀ ਟੋਟ, ਗੁਣ ਵਰਣਨ ਕਰਨ ਦਾ ਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

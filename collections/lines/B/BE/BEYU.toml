@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਇਹ ਕਿਸੇ ਦੇ ਵੱਸ ਦੀ ਗੱਲ ਨਹੀਂ) ਨਾਮ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਦਾਤਾਰ ਪ੍ਰਭੂ ਆਪ ਹੀ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਦਾਤਿ = (ਨਾਮ ਦੀ) ਬਖ਼ਸ਼ਸ਼। ਦਾਤਾਰੁ = ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

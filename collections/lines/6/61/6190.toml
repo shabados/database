@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਦੇਵਤਿਆਂ ਨੂੰ ਜਾ ਪੁੱਛਾਂ, ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਜਾ ਕੇ ਪੁੱਛਾਂ ਜੋ ਬੜੇ ਬੜੇ ਸੂਰਮੇ ਬਣਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਸਾਂ = ਮਨੁੱਖਾਂ ਨੂੰ। ਕਰਹਿ ਅਵਤਾਰ = ਜੰਮਦੇ ਹਨ, ਬਣਦੇ ਹਨ। ਜੋਧ = ਸੂਰਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

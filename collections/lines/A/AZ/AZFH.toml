@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਹਰੇਕ ਵਿਚ ਵਿਆਪਕ ਹੋ ਕੇ) ਪਰਮਾਤਮਾ ਹੀ ਸੁਣਨ ਵਾਲਾ ਹੈ ਪਰਮਾਤਮਾ ਹੀ ਵੇਖਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਤ = ਵੇਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

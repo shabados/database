@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਥੇ ਉਤੇ ਲਿਖਿਆ ਹੋਇਆ ਇਹ ਲੇਖ ਐਸਾ ਹੈ ਕਿ ਕਿਸੇ ਦੇ ਟਾਲਿਆਂ ਟਲ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਟਲਾਧਾ = ਟਾਲਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

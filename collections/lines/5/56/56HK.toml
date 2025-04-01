@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰਕਾਰੀ ਹਾਕਮਾਂ ਅੱਗੇ ਭੀ ਇਹ ਝਗੜਾ (ਪੇਸ਼ ਕੀਤਿਆਂ ਕੁਝ ਨਹੀਂ ਬਣਦਾ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਮਰਾਵਹੁ ਆਗੈ = ਸਰਕਾਰੀ ਹਾਕਮਾਂ ਦੇ ਸਾਹਮਣੇ। ਝੇਰਾ = ਝਗੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ (ਗੁਰੂ, ਸਾਧ) ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ਜੇਹੜਾ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

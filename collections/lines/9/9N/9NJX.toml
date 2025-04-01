@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਖ਼ਾਵਤ ਦਾ ਜਹਾਨ ਅਤੇ ਬਖ਼ਸ਼ਿਸ਼ਾਂ ਦੀ ਦੁਨੀਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਫ਼ਾਨਿ ਸਖ਼ਾ ਆਲਮਿ ਮਕਰਮਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

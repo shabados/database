@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮੱਥੇ ਉੱਤੇ ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਲੇਖ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ ਉਹਨਾਂ ਨੂੰ ਗੁਰੂ-ਪਰਮਾਤਮਾ ਮਿਲ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਧੁਰ ਤੋਂ, ਪਹਿਲਾਂ ਤੋਂ। ਭੇਟਿਆ = ਮਿਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

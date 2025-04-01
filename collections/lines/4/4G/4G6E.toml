@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਭੀ ਉਸ ਨੇ ਬਣਾਇਆ; ਰਾਤਾਂ ਭੀ ਉਸੇ ਨੇ ਬਣਾਈਆਂ, ਸਭ ਕੁਝ ਉਸੇ ਨੇ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਆ = ਬਣਾਇਆ। ਰਾਤੀ = ਰਾਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

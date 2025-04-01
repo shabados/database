@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਸਿਮਰਿਆਂ ਹਰੇਕ ਭਟਕਣਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ, ਹਰੇਕ ਕਿਸਮ ਦਾ ਡਰ ਨੱਠ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭਟਕਣਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

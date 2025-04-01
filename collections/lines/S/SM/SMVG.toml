@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਚਿੱਤ ਵਿਚ ਖਸਮ-ਪ੍ਰਭੂ ਨਹੀਂ ਆਉਂਦਾ ਅਜੇਹੇ ਬੰਦੇ ਰੋਗੀ ਗਿਣੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣੇ = ਗਿਣੇ ਜਾਂਦੇ ਹਨ। ਸੇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

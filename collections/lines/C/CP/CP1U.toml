@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਉਹ (ਘਟ ਘਟ ਦੀ ਜਾਣਨ ਵਾਲਾ) ਪਰਮਾਤਮਾ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੀ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਸਦਾ ਹੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਿ = ਸਰਨ ਪਿਆ ਰਹੁ। ਸਦੇਰੇ = ਸਦਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

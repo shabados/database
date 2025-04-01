@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਹਾਣ ਲਾਭ ਵਿਚਾਰਨ ਤੋਂ ਬਿਨਾ ਹੀ ਵਿਕਾਰ ਕਰੀ ਜਾ ਰਿਹਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਊ ਕਰ = ਦੋਵੇਂ ਹੱਥ। ਦੋਊ ਕਰ ਝਾਰਤ = ਦੋਵੇਂ ਹੱਥ ਝਾੜਦਿਆਂ, ਦੋਵੇਂ ਹੱਥ ਥੋ ਕੇ, ਅੱਗਾ ਪਿੱਛਾ ਸੋਚਣ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

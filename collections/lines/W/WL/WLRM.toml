@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸਰਬ-ਗੁਣ ਭਰਪੂਰ ਪ੍ਰਭੂ ਤਦੋਂ ਮਿਲਦਾ ਹੈ ਜਦੋਂ ਗੁਰੂ ਦਇਆਵਾਨ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਦਇਆਵਾਨ। ਤ = ਤਾਂ। ਪੂਰਾ = ਸਰਬ ਗੁਣ-ਭਰਪੂਰ। ਪਾਈਐ = ਮਿਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

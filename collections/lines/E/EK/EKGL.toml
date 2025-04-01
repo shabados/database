@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੁਗਾਂ ਵਿਚ ਤੂੰ ਹੀ (ਅਸਾਂ ਜੀਵਾਂ ਦਾ) ਮਿੱਤਰ ਹੈਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛਾਨੂ = ਮਿੱਤਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

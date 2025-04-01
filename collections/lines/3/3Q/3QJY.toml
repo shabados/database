@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਆਪਣਾ ਧਨ ਬਚਾਣ ਦੀ ਖ਼ਾਤਰ ਮਨੁੱਖ ਮਰਨ ਤੇ ਭੀ ਤੁਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਹਿ = ਧਨ ਦੀ ਖ਼ਾਤਰ। ਪ੍ਰਾਨੀ = ਜੀਵ, ਬੰਦਾ। ਮਾਂਡੈ = ਠਾਨ ਲੈਂਦਾ ਹੈ। ਮਰਨੁ ਮਾਂਡੈ = ਮਰਨਾ ਠਾਨ ਲੈਂਦਾ ਹੈ, ਮਰਨ ਤੇ ਤੁਲ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

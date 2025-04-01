@@ -36,6 +36,12 @@ language = "pa"
 data = "ਔਖੇ ਥਾਈਂ ਸੰਨ੍ਹ ਲਾਉਂਦੇ ਹਨ ਤੇ ਸ਼ਰਾਬ ਨੂੰ ਮਿੱਠਾ ਕਰ ਕੇ ਮਾਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਖੰਮ = ਔਖਾ। ਮਦੁ = ਸ਼ਰਾਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

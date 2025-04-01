@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਪੀ! ਤੂੰ ਕਿਸ ਦੀ (ਭੈੜੀ) ਮੱਤ ਲੈ ਲਈ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਪਾਪੀ = ਹੇ ਪਾਪੀ! {ਰੇ = ਪੁਲਿੰਗ}। ਤੈ = ਤੂੰ। ਕਵਨ ਕੀ = ਕਿਸ (ਭੈੜੇ) ਦੀ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

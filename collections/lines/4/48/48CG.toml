@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੈਨੀਆਂ ਦੇ ਰਸਤੇ (ਚੱਲ ਕੇ) ਬੜੇ ਕਠਿਨ ਸਾਧਨ ਤੇ ਸੰਜਮ ਕਰੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗ = ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

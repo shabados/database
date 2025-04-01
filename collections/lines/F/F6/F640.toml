@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਲਾ ਦੇ ਬੰਦੇ! ਸਾਰੀ ਰਚਨਾ ਨੂੰ ਆਪਣੇ ਦਿਲ ਵਿਚ ਨਾਸਵੰਤ ਜਾਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ। ਫਿਲਹਾਲਾ = ਨਾਸਵੰਤ, ਚੰਦ-ਰੋਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਦਾ ਹੀ ਇਸ ਦੁਨੀਆ ੁਿਵਚ ਬਥੇਰਾ ਰੌਲਾ ਪਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੋਰ ਦਰ ਆਲਮ ਯਕੇ ਅਫ਼ਗੰਦਾ ਅਸਤ ।੯।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

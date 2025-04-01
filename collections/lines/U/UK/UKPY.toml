@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਵਿਚ ਭਟਕਣ ਦੇ ਕਾਰਨ (ਇਹਨਾਂ ਨੂੰ) ਸਿਰ ਤੇ ਮੌਤ ਖਲੋਤੀ ਭੀ ਨਹੀਂ ਸੁੱਝਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਕਾਲਿ = ਜਮਕਾਲ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

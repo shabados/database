@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਜੀਵਾਂ ਦੀਆਂ ਅਰਦਾਸਾਂ) ਸੁਣਨ ਵਾਲਾ ਹੈ, ਆਪ ਹੀ (ਜੀਵਾਂ ਦੇ ਦੁੱਖ-ਦਰਦ) ਜਾਣਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਾ = ਸੁਣਨ ਵਾਲਾ। ਜਾਨੁ = ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ ਜਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਮੈਨੂੰ ਪ੍ਰਭੂ ਹੀ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

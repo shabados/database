@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਜਦੋਂ ਭੀ ਚੇਤੇ ਕਰਦਾ ਹਾਂ ਤਦੋਂ ਤੇਰੇ ਗੁਣ ਹੀ ਚੇਤੇ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਵਉ = ਚਿਤਵਉਂ, ਮੈਂ ਚੇਤੇ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

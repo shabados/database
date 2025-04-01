@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਦੇ (ਦੂਜਿਆਂ ਦੀ) ਨਿੰਦਿਆ ਵਿਚਾਰਨ ਦਾ ਵਿਹਾਰ ਬਣਾਈ ਬੈਠਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿੰਦ ਚਿੰਦ = ਨਿੰਦਿਆ ਦੀ ਵਿਚਾਰ। ਬਿਉਹਾਰ = ਵਿਹਾਰ, ਵਤੀਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

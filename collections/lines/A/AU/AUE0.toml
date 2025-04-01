@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁਖ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਆਨੰਦ ਵਿਚ ਲੀਨ ਰਹਿ ਸਕੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ। ਸੁਖਿ = ਆਨੰਦ ਵਿਚ। ਸੋਈਐ = ਲੀਨ ਰਹੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

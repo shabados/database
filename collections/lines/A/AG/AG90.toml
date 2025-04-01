@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ (ਹੀ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ-ਉਤਾਰਾ ਹੁੰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ। ਉਧਾਰ = ਪਾਰ-ਉਤਾਰਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

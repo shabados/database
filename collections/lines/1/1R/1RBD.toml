@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਬਰਕਤ ਨਾਲ (ਸੰਤ ਜਨਾਂ ਦੇ ਅੰਦਰੋਂ) ਝਗੜੇ-ਬਖੇੜੇ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ ਕਲੇਸ = ਝਗੜੇ-ਬਖੇੜੇ। ਨਾਇ = ਨਾਮ ਦੀ ਰਾਹੀਂ {ਲਫ਼ਜ਼ 'ਨਾਉ' ਤੋਂ ਕਰਣ ਕਾਰਕ ਇਕ-ਵਚਨ ਹੈ 'ਨਾਇ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

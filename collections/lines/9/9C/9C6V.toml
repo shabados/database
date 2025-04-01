@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੁੱਖੇ ਮਨੁੱਖ ਨੂੰ (ਤਦੋਂ) ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ (ਜਦੋਂ ਉਹ) ਅੰਨ ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਇ = ਖਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

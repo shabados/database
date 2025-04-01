@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਅਜੇਹੇ ਬੰਦੇ) ਹਰ ਰੋਜ਼ ਇਉਂ ਵਿਲਕਦੇ ਹਨ ਜਿਵੇਂ ਸੁੰਞੇ ਘਰਾਂ ਵਿਚ ਕਾਂ ਲੌਂਦਾ ਹੈ (ਪਰ ਓਥੋਂ ਉਸ ਨੂੰ ਮਿਲਦਾ ਕੁਝ ਨਹੀਂ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਘਰਿ = ਘਰ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

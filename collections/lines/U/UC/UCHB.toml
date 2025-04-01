@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਮੂਲ ਪਰਮਾਤਮਾ ਤੋਂ ਖੁੰਝੇ ਹੋਏ ਹੇ ਮਨ! (ਜੇ ਤੂੰ ਇਸੇ ਤਰ੍ਹਾਂ ਖੁੰਝਿਆ ਹੀ ਰਿਹਾ, ਤਾਂ) ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾ ਕੇ (ਇਥੋਂ) ਜਾਵੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲਹੁ = ਮੂਲ ਤੋਂ, ਪਰਮਾਤਮਾ ਤੋਂ। ਜਾਸਹਿ = ਜਾਵੇਂਗਾ। ਪਤਿ = ਇੱਜ਼ਤ। ਗਵਾਇ = ਗਵਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

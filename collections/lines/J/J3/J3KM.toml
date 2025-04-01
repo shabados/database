@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ ਅਸੀਣ ਨਿਗਾਹ ਦੌੜਾਣਦੇ ਹਾਣ, ਸਿਵਾਇ ਆਪਣੇ ਦੇ ਹੋਰ ਕੋਈ ਨਹੀਣ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਜਾ ਕਿ ਨਜ਼ਰ ਕੁਨੇਮ ਜੁਜ਼ ਖ਼ੇਸ਼ ਨਬੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

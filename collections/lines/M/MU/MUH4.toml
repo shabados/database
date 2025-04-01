@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੀਨ ਅਤੇ ਦੁਨਿਆਵੀ ਬੰਦੇ ਸਾਰੇ ਦੇ ਸਾਰੇ ਰੱਬ ਦੇ ਬੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਨੋ ਦੁਨਿਆ ਬੰਦਾਇ ਫ਼ਰਮਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

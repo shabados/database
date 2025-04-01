@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ (ਉਸ ਦਾ) ਭਜਨ-ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਧ ਸੰਗਿ = ਸਾਧ ਸੰਗਤਿ ਵਿਚ। ਮੀਤ = ਹੇ ਮਿੱਤਰ! ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

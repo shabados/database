@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ) ਹਜ਼ਾਰਾਂ (ਰੁਪਏ) ਕਮਾਉਂਦਾ ਹੈ ਤੇ ਲੱਖਾਂ (ਰੁਪਇਆਂ) ਦੀ ਖ਼ਾਤਰ ਉੱਠ ਦੌੜਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸ = ਹਜ਼ਾਰਾਂ (ਰੁਪਏ)। ਖਟੇ = ਕਮਾਉਂਦਾ ਹੈ। ਲਖ ਕਉ = ਲੱਖਾਂ (ਰੁਪਇਆਂ) ਦੀ ਖ਼ਾਤਰ। ਧਾਵੈ = ਦੌੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

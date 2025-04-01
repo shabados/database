@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਜੇ ਤੇਰੀ ਮੇਹਰ ਹੋਵੇ ਤਾਂ) ਮੈਂ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਤੇਰੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦਾ ਰਹਾਂ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪਉ = ਮੈਂ ਜਪਦਾ ਹਾਂ (ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

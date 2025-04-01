@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ) ਨਾਨਕ ਤੇਰੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦਾ ਸਦਾ ਧਿਆਨ ਧਰਦਾ ਰਹਾਂ ॥੪॥੪੨॥੫੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਇ = ਸਿਮਰਦਾ ਰਹੇ ॥੪॥੪੨॥੫੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

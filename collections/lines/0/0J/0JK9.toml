@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹੇ ਧਰਤੀ ਦੇ ਪਾਲਣਹਾਰ! ਮੇਰੀ ਬੇਨਤੀ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤ {विनय}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

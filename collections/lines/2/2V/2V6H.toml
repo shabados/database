@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਪ੍ਰਭੂ ਦਾ ਇਹ ਭੇਤ ਜਾਣ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸੁ ਏਕੇ ਕਾ = ਜਗਤ ਨੂੰ ਸਵਾਰਣ ਵਾਲੇ ਇੱਕ ਪ੍ਰਭੂ ਦਾ। ਭੇਉ = (ਇਹ) ਭੇਤ (ਕਿ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

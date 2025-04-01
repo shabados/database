@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਆਖਦੀ ਹੈ-) ਮੈਂ ਉਹੀ ਕਾਰ ਕਰਾਂਗੀ ਜੇਹੜੀ ਤੂੰ ਆਖੇਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਵਾ = ਕਮਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

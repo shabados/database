@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਜ਼ੀ! ਰੱਬ ਸਾਰੇ ਸਰੀਰਾਂ ਵਿਚ ਲੁਕਿਆ ਬੈਠਾ ਹੈ, ਤੂੰ ਭੀ ਆਪਣੇ ਦਿਲ ਵਿਚ ਵਿਚਾਰ ਕਰ ਕੇ ਵੇਖ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਬੁ = ਲੁਕਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

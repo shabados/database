@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਰਾਮ! ਜੇਹੜੇ ਮਨੁੱਖ ਤੇਰਾ ਨਾਮ ਸਿਮਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ ਜਨ = ਜੇਹੜੇ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

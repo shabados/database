@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ਦੋਹਾਂ ਜਹਾਨਾਂ ਦਾ ਬਖਸ਼ਿਸ਼ ਕਰਨਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਯਾਜ਼ੁਲ ਦਾਰੈਨ ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ।"
+page = 7
+line = 88
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਹਵਾ ਪਾਣੀ, ਅੱਗ-ਹਰੇਕ ਤੱਤ ਭੀ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਉਣੁ = ਹਵਾ। ਬੈਸੰਤਰੋ = ਬੈਸੰਤਰੁ, ਅੱਗ। ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

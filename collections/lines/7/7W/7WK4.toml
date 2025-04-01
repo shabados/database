@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਬੇਨਤੀ ਸੁਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਬਿਨਉ = {विनय} ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

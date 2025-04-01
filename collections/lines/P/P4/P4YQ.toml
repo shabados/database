@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇਹੜੀ ਹਵਾ) ਫੇਰੀਆਂ ਲੈਂਦੀ ਹੈ (ਭਾਵ, ਹਰ ਪਾਸੇ ਚੱਲਦੀ ਹੈ, ਉਸ) ਹਵਾ ਦਾ (ਮਾਨੋ) ਚਉਰ (ਤੇਰੇ ਉਤੇ) ਝੁਲ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢੁਲੈ = ਝੁਲਦਾ ਹੈ। ਪਵਣੈ = ਪਵਣ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

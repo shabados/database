@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਮਤਾ ਹੀ ਜੀਵ ਦੇ ਪੈਰ ਵਿਚ ਲੋਹੇ ਦੀ ਬੇੜੀ ਬਣ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹਾ = ਉਹ ਮਮਤਾ ਹੀ। ਪੈਰਿ = ਪੈਰ ਵਿਚ। ਲੋਹਾਰੀ = ਲੋਹੇ ਦੀ ਬੇੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

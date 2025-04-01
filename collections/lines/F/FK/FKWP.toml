@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਿ = ਰੱਜ। ਅਘਾਵਨੁ = ਰੱਜ। ਨਾਇ = ਨਾਮ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

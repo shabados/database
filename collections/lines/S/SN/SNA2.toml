@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰਾ ਜੀ ਲੋਚਦਾ ਹੈ ਕਿ) ਮੈਂ ਉਹਨਾਂ ਹਰਿ-ਜਨਾਂ ਕੋਲ ਜਾ ਕੇ ਹਰੀ ਦੀਆਂ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਪੁੱਛਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾ ਕੇ। ਪੁਛਾ = ਪੁੱਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

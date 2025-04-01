@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ (ਮੇਰੇ ਵਾਸਤੇ) ਖ਼ਜ਼ਾਨਾ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਧਨ-ਦੌਲਤ ਹੈਂ, ਤੂੰ ਹੀ (ਮੇਰੇ ਲਈ) ਮੋਤੀ ਹੀਰੇ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਜੀਨਾ = ਖ਼ਜ਼ਾਨਾ। ਜਰੀਨਾ = ਜ਼ਰੀਨਾ, ਜ਼ਰ। ਮਾਣਿਕ = ਮੋਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

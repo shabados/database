@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮੂਰਖ ਮਨੁੱਖ ਵਿਕਾਰੀ ਮਨ ਵਾਲੇ ਰਹਿੰਦੇ ਹਨ ਤੇ ਆਤਮਕ ਮੌਤ ਸਹੇੜ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲੇ = ਵਿਕਾਰੀ ਮਨ ਵਾਲੇ। ਮਰਹਿ = ਆਤਮਕ ਮੌਤ ਸਹੇੜਦੇ ਹਨ। ਗਵਾਰ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

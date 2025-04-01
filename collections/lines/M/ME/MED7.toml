@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਜਨੋ! ਇਕ ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਤਮਾਸ਼ਾ ਵੇਖੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜੁ = ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਤਮਾਸ਼ਾ। ਜਨ = ਹੇ ਜਨੋ! ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

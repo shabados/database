@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰਾ ਦਿਲ ਸੱਜਨ ਦੇ ਬ੍ਰਿਹਾ ਵਿਚ ਸੜ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਮਨ ਦਰ ਫ਼ਿਰਾਕਿ ਯਾਰ ਬਿਸੋਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

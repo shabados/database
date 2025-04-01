@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! (ਮਿਹਰ ਕਰ) ਮੈਂ (ਆਪਣੇ) ਕੰਨਾਂ ਨਾਲ ਤੇਰਾ ਪਵਿੱਤਰ ਜਸ ਸੁਣਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਣੀ = ਕੰਨਾਂ ਨਾਲ। ਸੁਣਉ = ਸੁਣਉਂ, ਮੈਂ ਸੁਣਦਾ ਰਹਾਂ। ਬਿਮਲ = ਪਵਿੱਤਰ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

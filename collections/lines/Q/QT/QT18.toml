@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਮੁੜ ਜਨਮਾਂ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁਰਿ = ਮੁੜ, ਫਿਰ। ਨ ਪਾਇ = ਨਹੀਂ ਪੈਂਦਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

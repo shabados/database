@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਵਾਨੀ ਲੰਘ ਜਾਣ ਤੇ) ਤੀਜੀ ਉਮਰੇ ਮਾਇਆ ਜੋੜਨ ਲੱਗ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਤੀਆ ਬਿਵਸਥਾ = ਤੀਜੀ ਉਮਰੇ, ਜਵਾਨੀ ਲੰਘ ਜਾਣ ਤੇ। ਸਿੰਚੇ = ਇਕੱਠੀ ਕਰਦਾ ਹੈ। ਮਾਇ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

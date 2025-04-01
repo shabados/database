@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਦੀਆਂ ਅੱਖਾਂ ਉਸ ਵੱਲ ਲੱਗੀਆਂ ਹੋਈਆਂ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਦੁਮਿ ਚਸ਼ਮਿ ਦੋ ਆਲਮ ਸੂਇ ਊ ਸਤ ।੨੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

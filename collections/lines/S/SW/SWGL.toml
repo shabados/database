@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਚੰਦਨ ਘਸਾ ਕੇ ਅਤਰ ਤੇ ਹੋਰ ਕਈ ਸੁਗੰਧੀਆਂ ਲੈ ਲਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਸਿ = ਘਸਾ ਕੇ। ਚੋਆ = ਅਤਰ। ਬਹੁ = ਕਈ। ਸੁਗੰਧ = ਸੁਗੰਧੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

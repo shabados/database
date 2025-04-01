@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਦ-ਕਿਸਮਤ! ਕਿਉਂ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈਂ? ਆਪਣੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਾਗੇ = ਹੇ ਮੰਦ-ਭਾਗੀ! ਹੇ ਬਦ-ਕਿਸਮਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

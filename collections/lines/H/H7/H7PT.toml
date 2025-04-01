@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਸੀਂ ਜੀਵ ਗੁਣਾਂ ਤੋਂ ਸੱਖਣੇ ਹਾਂ, ਵਿਕਾਰੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸਿ = ਮੇਹਰ ਕਰ ਕੇ। ਮਿਲਾਇ = ਮਿਲਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

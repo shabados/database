@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੋਬਿੰਦ ਪ੍ਰਭੂ) ਮੇਹਰ ਕਰ ਕੇ (ਉਸ ਦੀ ਸਰਣ ਪੈਣ ਵਾਲਿਆਂ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਆਤਮਿਕ ਸੁਖ ਅਤੇ ਆਨੰਦ ਪੈਦਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਕਰੇਇ = ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

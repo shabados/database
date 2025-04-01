@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸੇ ਨੇ ਹੀ ਇਸ ਮਿੱਟੀ ਦੀ ਮੁੱਠ ਨੂੰ ਰੌਣਕ ਬਖ਼ਸ਼ੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਕਿ ਜ਼ੀਨਤ ਦਾਦ ਮੁਸ਼ਤਿ ਖ਼ਾਕ ਰਾ ।੩੪੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

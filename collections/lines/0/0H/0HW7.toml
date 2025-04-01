@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਅਪਹੁੰਚ ਹੈ, ਅਥਾਹ ਹੈ, ਵੱਡਾ ਮਾਲਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਥਾਹਾ = ਡੂੰਘਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

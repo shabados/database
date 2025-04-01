@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਸਾਰੀਆਂ ਆਤਮਕ ਤਾਕਤਾਂ ਵਿਚ ਸਿਆਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਆਤਮਕ ਤਾਕਤ। ਪਰਬੀਨ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

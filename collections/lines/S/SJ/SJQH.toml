@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ ਸਦਾ ਹਰਿ-ਨਾਮ ਦੀ ਖੱਟੀ ਖੱਟ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਾ = ਲਾਭ, ਖੱਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

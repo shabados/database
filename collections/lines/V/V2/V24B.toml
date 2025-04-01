@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ!) ਸਾਰੇ ਵਿਚਾਰ ਛੱਡ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਤਿਆਗ ਕੇ। ਬਿਕਾਰ = ਮੰਦੇ ਕੰਮ। ਅਨਦ = ਆਤਮਕ ਅਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

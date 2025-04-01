@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕਿਸਾਨ ਤੋਂ ਬਿਨਾ ਜ਼ਮੀਨ ਨਹੀਂ ਬੀਜੀ ਜਾ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਹਰ = ਹਲਧਰ, ਕਿਸਾਨ। ਜਿਮੀ = ਭੋਇਂ, ਜ਼ਮੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

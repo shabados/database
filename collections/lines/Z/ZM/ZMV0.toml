@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, ਇਹੀ ਸ੍ਰੇਸ਼ਟ ਸੁਖ ਹੈ, ਤੇ ਇਸ ਸੁਖ ਵਿਚ ਕੋਈ ਘਾਟ-ਕਮੀ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਸ੍ਰੇਸ਼ਟ। ਧੂਰਾ = ਚਰਨ-ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

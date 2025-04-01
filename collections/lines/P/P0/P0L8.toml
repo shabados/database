@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਧਰਤੀਆਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਪਾਤਾਲ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਜ਼ਮੀਨੋ ਹਜ਼ਾਰਾਂ ਸੁਰਾ ।੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

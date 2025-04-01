@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਚੀਜ਼ਾ ਮੇਰੇ ਦੋਹਾਂ ਵੇਲਿਆਂ ਦੀ ਗੁਜ਼ਰਾਨ ਲਈ ਕਾਫ਼ੀ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਵਾਲੇ = ਜੀਊਂਦਿਆਂ ਰੱਖੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! (ਮੇਰੇ ਉੱਤੇ ਮਿਹਰ ਕਰ) ਮੈਂ ਹਰ ਰੋਜ਼ (ਹਰ ਵੇਲੇ) ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼ {अनुदिन}। ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

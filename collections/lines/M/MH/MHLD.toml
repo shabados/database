@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਤੇਰੇ ਵਿਛੋੜੇ ਵਿਚ ਬਿਹਬਲ ਹਾਂ) ਦੱਸ ਹੁਣ ਤੈਨੂੰ ਮੈਂ ਕਦੋਂ ਮਿਲ ਸਕਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਦਿ = ਕਦੋਂ? ਪ੍ਰਿਅ = ਹੇ ਪਿਆਰੇ! ਪ੍ਰਿਅ ਭਗਵੰਤਾ = ਹੇ ਪਿਆਰੇ ਭਗਵਾਨ! ਤੁਧੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

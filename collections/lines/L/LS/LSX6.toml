@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਨਾਨਕ ਆਖਦਾ ਹੈ, ਇਸ ਦੀਆਂ ਟਾਹਰਾਂ ਮੁੱਕ ਜਾਂਦੀਆਂ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਕ = ਉੱਚੀ ਉੱਚੀ ਬੋਲਣਾ। ਨ ਹੋਈ = ਨਹੀਂ ਹੁੰਦਾ, ਮੁੱਕ ਜਾਂਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

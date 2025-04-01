@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜੀਵਾਂ ਦੀ) ਜਿੰਦ ਦੇ ਮਾਲਕ! ਹੇ ਦਇਆ ਦੇ ਘਰ ਪੁਰਖ ਪ੍ਰਭੂ! ਹੇ ਮਿੱਤਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨਪਤਿ = ਹੇ ਜਿੰਦ ਦੇ ਮਾਲਕ! ਦਇਆਲ ਪੁਰਖ = ਹੇ ਦਇਆ ਦੇ ਘਰ ਅਕਾਲ ਪੁਰਖ! ਸਖੇ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

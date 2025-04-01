@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਹਰਿ-ਨਾਮ ਸੁਣਨ ਵਾਲਿਆਂ ਦੇ) ਮਨ ਦਾ ਮੂਰਖ-ਪੁਣਾ ਤੇ ਅਮੋੜ-ਪਨ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਖੁ = ਮੂਰਖਪੁਣਾ। ਢੀਠਾ = ਅਮੋੜ-ਪਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

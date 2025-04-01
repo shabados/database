@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਉਹ ਕੁਝ ਕਰ ਦਿੰਦਾ ਹੈ ਜੋ (ਜੀਵਾਂ ਦੇ) ਚਿੱਤ-ਚੇਤੇ ਭੀ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = (ਜੀਵਾਂ ਦੇ) ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

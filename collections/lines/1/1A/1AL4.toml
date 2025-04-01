@@ -5,6 +5,11 @@ language = "pa"
 data = "ਯਕੀਨ ਰੱਖ # ਆਖਰ ਇਹ ਦੁਨੀਆ ਕਦ ਤਕ ਹੈ # ਥੋੜੇ ਚਿਰ ਲਈ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਣ ਯਕੀਣ ਤਾ ਚੰਦ ਈਣ ਦੁਨਿਆ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

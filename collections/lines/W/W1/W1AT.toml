@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਉਸ ਪ੍ਰਭੂ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

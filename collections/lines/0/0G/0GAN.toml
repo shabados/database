@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਨੂੰ ਬਹੁਤ ਦੁੱਖ ਚੰਬੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਮਨੁੱਖ ਸਦਾ ਹੀ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ ਚਾਰੇ = ਚਹੁੰਆਂ ਜੁਗਾਂ ਵਿਚ। ਭਰਮਾਈ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

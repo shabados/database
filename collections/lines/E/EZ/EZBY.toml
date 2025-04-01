@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਮਲ ਦੀ ਨਾਭੀ ਤੋਂ ਜਣੇ ਹੋਏ ਬ੍ਰਹਮਾ ਆਦਿਕ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਭਿ ਕਮਲ ਜਾਨੇ = ਕਮਲ ਦੀ ਨਾਭੀ ਤੋਂ ਜਣੇ ਹੋਏ। ਬ੍ਰਮਾਦਿ = ਬ੍ਰਹਮਾ ਆਦਿਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

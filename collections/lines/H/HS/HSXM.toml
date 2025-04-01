@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਤੂੰ ਕਿਉਂ ਇਹ ਆਖੀ ਜਾ ਰਿਹਾ ਹੈਂ ਕਿ ਇਹ ਮੇਰੀ ਇਸਤ੍ਰੀ ਹੈ ਇਹ ਮੇਰਾ ਪੁੱਤਰ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ। ਸਨੇਹ = ਪਿਆਰ, ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

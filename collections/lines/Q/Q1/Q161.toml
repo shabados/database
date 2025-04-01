@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਇਸੇ ਤਰ੍ਹਾਂ) ਇੱਜ਼ਤ ਨਾਲ (ਪਰਲੋਕ ਵਾਲੇ) ਘਰ ਵਿਚ ਜਾਵਹਿਂਗਾ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ ਸੇਤੀ = ਇੱਜ਼ਤ ਨਾਲ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

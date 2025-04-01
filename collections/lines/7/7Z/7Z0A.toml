@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਿਸ ਕਿਸ ਦੀ ਹਾਲਤ ਦੱਸੀ ਜਾਏ? ਉਹ ਪਰਮਾਤਮਾ ਤਾਂ ਬੜੇ ਬੜੇ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ ਮਿਤਿ = ਹਾਲਤ। ਪਤਿਤ = ਵਿਕਾਰੀ, ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਏ {पत् = to fall}। ਪਵੰਨਾ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

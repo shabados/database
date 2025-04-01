@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਹੇ ਸਾਂਈਂ! (ਇਹਨਾਂ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਦੀ ਖ਼ਾਤਰ) ਮੈਨੂੰ ਪਰਾਏ ਬੂਹੇ ਤੇ ਬੈਠਣ ਨਾਹ ਦੇਈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰਿ = ਬੂਹੇ ਤੇ। ਬਾਰਿ ਪਰਾਇਐ = ਪਰਾਏ ਬੂਹੇ ਤੇ। ਬੈਸਣਾ = ਬੈਠਣਾ। ਸਾਂਈ = ਹੇ ਸਾਂਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

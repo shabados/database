@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਝੱਲੇ ਮਨੁੱਖ! ਦੱਸ, ਇਸ ਸਰੀਰ ਦਾ ਇਸ ਧਨ-ਦੌਲਤ ਦਾ ਕੀਹ ਮਾਣ ਕਰਨਾ ਹੋਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹੁ = ਦੱਸੋ। ਗਰਬੁ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

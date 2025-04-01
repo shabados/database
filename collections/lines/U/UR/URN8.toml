@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ (ਅਮਰਦਾਸ) ਗੰਭੀਰ ਹੈ, ਦਰੀਆ-ਦਿਲ ਹੈ, ਡੁੱਬਦੇ ਜੀਵਾਂ ਨੂੰ ਪਲ ਵਿਚ ਤਾਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਉਹਰੁ = ਗਹਰ, ਗੰਭੀਰ। ਦਰੀਆਉ = ਦਰੀਆ-ਦਿਲ, ਸਖ਼ੀ। ਪਲਕ = ਪਲ ਵਿਚ। ਡੁਬੰਤ੍ਯ੍ਯਹ = ਡੁੱਬਦਿਆਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਸਦਾ ਸਿਰਫ਼ ਹਰਿ-ਨਾਮ ਗਾਇਆ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਵਲ = ਸਿਰਫ਼। ਗਾਈਐ = ਗਾਇਆ ਜਾਂਦਾ ਹੈ। ਜਾ ਕੈ = ਜਿਨ੍ਹਾਂ ਦੇ ਘਰ ਵਿਚ। ਨੀਤ = ਨਿੱਤ, ਸਦਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

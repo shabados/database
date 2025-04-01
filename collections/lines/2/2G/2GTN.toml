@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਗੋਯਾ ਦਾ ਦਿਲ ਤਾਣ ਜ਼ੁਲਫ਼ ਦੇ ਫ਼ੰਦੇ ਨਾਲ ਠਹਿਰ ਜਾਣਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਗੋਯਾ ਬ ਖ਼ਮਿ ਜ਼ੁਲਫ਼ ਕਰਾਰੇ ਦਾਰਦ ।੨੯।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

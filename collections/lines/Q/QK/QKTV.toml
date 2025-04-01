@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ, ਉਹ ਕਰਦਾ ਹਾਂ ਅਤੇ ਓਹੀ ਇਨਸਾਫ ਦੀ ਗਲ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਖ਼ਾਹਮ ਕੁਨਮ ਹਮਾ ਅਦਲੀਸਤ ।੨੫।"
+page = 1
+line = 25
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

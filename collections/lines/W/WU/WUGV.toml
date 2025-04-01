@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਸਰਮਾਇਆ ਮੌਜੂਦ ਹੈ ਉਹ ਧਨ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਮਨੁੱਖ {ਬਹੁ-ਵਚਨ}। ਰਾਸਿ = ਸਰਮਾਇਆ, ਪੂੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

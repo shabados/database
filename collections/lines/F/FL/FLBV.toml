@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਾਸਨਾ) ਕਿਥੋਂ ਪੈਦਾ ਹੁੰਦੀ ਹੈ, ਕਿਥੇ ਜਾ ਕੇ ਮੁੱਕ ਜਾਂਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹ ਉਪਜੈ = ਕਿਥੋਂ ਪੈਦਾ ਹੁੰਦੀ ਹੈ (ਕਾਮਨਾ)?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

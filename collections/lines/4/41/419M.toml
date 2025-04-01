@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਦੋਂ ਤੇਰੀ ਰਜ਼ਾ ਹੁੰਦੀ ਹੈ ਤਦੋਂ ਹੀ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਗਾਈ ਜਾ ਸਕਦੀ ਹੈ ਤੇਰਾ ਨਾਮ ਸੁਣਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣਾ = ਰਜ਼ਾ, ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

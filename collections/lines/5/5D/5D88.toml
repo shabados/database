@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਗੋਏ ਨੂੰ ਪੁਛਦਾ ਹੈ, ਤੂੰ ਕੌਣ ਹੈਂ, ਤੈਨੂੰ ਕਿਸ ਨਾਮ ਨਾਲ ਬੁਲਾਇਆ ਜਾਵੇ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ: ਗੋਇਦ ਤੌ ਚਿ: ਬਾਸ਼ੀ, ਵ ਚਿ: ਗੋਇਦ ਜੁਜ਼ਿ ਤੋ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

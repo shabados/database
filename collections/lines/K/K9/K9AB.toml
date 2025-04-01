@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਧਰ ਮੇਰੀ ਅੱਖ ਜਾਣਦੀ ਹੈ, ਮੈਂ ਵੀ ਉਧਰ ਜਾਣਦਾ ਹਾਣ, ਕੀ ਕਰਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਰ ਤਰਫ਼ ਕਿ ਰਵਦ ਦੀਦਾ ਮੀਰਵਮ ਚਿ ਕੁਨਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

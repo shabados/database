@@ -5,6 +5,11 @@ language = "pa"
 data = "ਫ਼ਜਲ ਅਤੇ ਬਖ਼ਸ਼ਿਸ਼ ਦੀਆਂ ਵੇਲਾਂ ਲਈ ਉਹ ਵਰ੍ਹਦਾ ਬੱਦਲ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਯਾਹੀਨਿ ਫ਼ਜਲੋ ਅਤਾ ਰਾ ਸਹਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

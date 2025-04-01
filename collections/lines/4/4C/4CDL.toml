@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਕਦੇ ਆਪਣੇ ਦਿਲ ਵਿਚ ਵਿਚਾਰ ਨਹੀਂ ਕੀਤੀ ਕਿ ਭਟਕਣਾ ਦੇ ਕਾਰਨ ਤੈਨੂੰ ਤਾਂ ਮਾਇਆ ਦੀ ਭੁੱਖ-ਤ੍ਰੇਹ ਲੱਗੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਸਨਾ = ਤ੍ਰੇਹ, ਲਾਲਸਾ,। ਤ੍ਰਿਖਾ = ਤ੍ਰੇਹ, ਲਾਲਸਾ। ਭ੍ਰਮਿ = ਭਰਮ ਵਿਚ, ਭਟਕਣਾ ਦੇ ਕਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

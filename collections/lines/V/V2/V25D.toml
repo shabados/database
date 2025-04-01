@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਨਾਰਦ ਨੇ ਆਖਿਆ ਉਹੀ ਪੂਜਾ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਰਦਿ = ਨਾਰਦ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

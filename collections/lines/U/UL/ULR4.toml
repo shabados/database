@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਬੰਦਿਆਂ ਨੂੰ ਤਾਂ ਬੰਦਗੀ ਦੀ ਹੀ ਲੋੜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਹਾ ਰਾ ਬੰਦਗੀ ਦਰਕਾਰ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

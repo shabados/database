@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਪਰਮਾਤਮਾ ਦੇ ਭਜਨ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਆਪਣਾ ਜੀਵਨ ਵਿਅਰਥ ਗਵਾ ਦੇਂਦਾ ਹੈ ॥੨॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = ਵਿਅਰਥ ॥੨॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

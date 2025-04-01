@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਕਾਰੀ ਬੰਦੇ ਦਾ ਟਿਕਾਣਾ ਸਦਾ ਉਸ ਅੱਗ ਵਿਚ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨੇ ਮਾਹਿ = ਅੱਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

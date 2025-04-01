@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੂੰ ਇਹ ਸਮਝ ਆ ਗਈ ਕਿ) ਉਸ (ਪਰਮਾਤਮਾ) ਦਾ ਨਾਹ ਕੋਈ (ਖ਼ਾਸ) ਪਰਵਾਰ ਹੈ ਨਾਹ ਉਸ ਦੀ ਮਾਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ (ਪਰਮਾਤਮਾ) ਦਾ। ਕੁਟੰਬੁ = ਪਰਵਾਰ। ਮਾਤਾ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

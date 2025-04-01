@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੀਤ ਦੇ ਰਾਹ ਉਤੇ ਸਿਰ ਪੈਰ ਬਣ ਗਿਆ ਅਤੇ ਪੈਰ ਸਿਰ ਬਣ ਗਏ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਪਾ ਸ਼ੁਦ ਪਾ ਸਰ ਸ਼ੁਦਾ ਦਰ ਰਾਹਿ ਮੁਹੱਬਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

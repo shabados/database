@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦਿਨ ਦੇ) ਚਾਰ ਪਹਰ (ਵਿਛੋੜੇ ਵਿਚ ਮੈਨੂੰ) ਚਾਰ ਜੁਗਾਂ ਦੇ ਬਰਾਬਰ ਜਾਪਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਨੇ = ਸਮਾਨ, ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ (ਜਗਤ ਨੂੰ ਆਪਣੇ ਵਿਚ) ਸਮੇਟ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਏ ਸਮਾਏ = ਸਮੇਟ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

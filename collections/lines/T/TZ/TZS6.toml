@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਅੰਤਰ ਆਤਮੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਤੇਰਾ ਨਿਵਾਸ ਬਣਿਆ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਘਰਿ = ਆਪਣੇ ਘਰਿ ਵਿਚ, ਅੰਤਰ ਆਤਮੇ, ਪ੍ਰਭੂ ਚਰਨਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

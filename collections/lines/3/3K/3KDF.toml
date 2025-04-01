@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ (ਦਾ ਨਾਮ) ਜਪ ਕੇ ਭਟਕਣਾ ਅਤੇ ਡਰ (ਦਾ ਪੜਦਾ) ਫਟ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਭਰਮੁ = ਭਟਕਣਾ। ਫਾਟਾ = ਫਟ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

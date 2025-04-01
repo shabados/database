@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੌਣ ਹੈ ਜਿਸਨੂੰ ਅੱਜ ਸੋਹਣੇ ਦਾ ਇਸ਼ਕ ਸਵਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਇਮਰੂਜ਼ ਕਿ ਸੌਦਾਇ ਨਿਗਾਰੇ ਦਾਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

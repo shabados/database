@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ, ਹੇ ਸਿਰਜਣਹਾਰ! ਤੂੰ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਚੇਤੇ ਨਾਹ ਆਵੇਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਹਿ = ਤੂੰ ਆਵੇਂ (ਹੇ ਪ੍ਰਭੂ!) ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

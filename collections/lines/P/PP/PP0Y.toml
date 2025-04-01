@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਤੂਰਾਨ ਦਾ ਦਾਰਾ ਅਤੇ ਕੀ ਯਮਨ ਦਾ ਬਾਦਸ਼ਾਹ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਦਾਰਾਇ ਤੂਰਾਂ ਸ਼ਾਹਿ ਯਮਨ ।੩੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

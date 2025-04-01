@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਵਿੰਦ ਦੇ ਗੁਣ ਗਾ ਗਾ ਕੇ ਇਹ (ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਭਗਤਾਂ (ਦੀ ਜ਼ਿੰਦਗੀ) ਦਾ ਆਸਰਾ ਬਣ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

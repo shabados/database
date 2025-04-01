@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਮਨ ਵਿਚ ਤੂੰ ਇਹੋ ਜਿਹੀ ਸਿੱਖਿਆ ਪਾ ਦੇਹ ਕਿ ਮੇਰੇ ਹਿਰਦੇ ਤੋਂ ਤੂੰ ਕਦੇ ਭੀ ਨਾਹ ਵਿਸਰੇਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਬਹੂ = ਕਦੇ ਭੀ। ਹੀਏ ਤੇ = ਹਿਰਦੇ ਵਿਚੋਂ। ਬਿਧਿ = ਜਾਚ। ਪਾਵਹੁ = ਪਾ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

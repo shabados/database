@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਹਰੀ ਦੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਹਰੀ ਦੇ ਦਰ ਤੇ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ ॥੧੦॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰਿ = ਦਰ ਤੇ ॥੧੦॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

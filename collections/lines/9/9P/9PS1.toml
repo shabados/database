@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ! ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਇਹ) ਸੋਹਣਾ ਸਮਾਂ (ਤੈਨੂੰ ਮਿਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੋ = ਭਲਾ, ਚੰਗਾ, ਸੁਹਾਵਣਾ। ਸਮੋ = ਸਮਾ, ਵੇਲਾ। ਬਰੀਆ = ਵਾਰੀ, ਅਵਸਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

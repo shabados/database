@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੇ ਹਿਰਦੇ ਰੂਪੀ ਘਰ ਨੂੰ ਉਸਦੀ ਯਾਦ ਨਾਮ ਆਬਾਦ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਨਾ ਰਾ ਅਜ਼ ਯਾਦਿ ਹੱਕ ਆਬਾਦ ਕੁਨ ।੭੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

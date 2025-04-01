@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਦੇ ਸੁਆਦਾਂ ਵਿਚ ਫਸ ਕੇ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ, ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ ਦੁੱਖ ਸਹਿੰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = {अन्य} ਹੋਰ ਹੋਰ। ਭੋਲਾਇਆ = ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

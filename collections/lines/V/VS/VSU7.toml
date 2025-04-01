@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ ਰੱਬ ਦੇ ਬੰਦਿਆਂ ਦੀ ਕੀ ਰਹੁ ਰੀਤੀ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਸਮਿ ਮਰਦਾਨਿ ਖ਼ੁਦਾ ਦਾਨੀ ਕਿ ਚੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

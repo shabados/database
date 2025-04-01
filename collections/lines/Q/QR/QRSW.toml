@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦ ਦੇਣ ਵਾਲੇ ਹਰੀ! ਹੇ ਸੁਖ ਦੇਣ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨ ਦਾਤੇ = ਹੇ ਜਿੰਦ ਦੇਣ ਵਾਲੇ! ਸੁਖਦਾਤੇ = ਹੇ ਸੁਖ ਦੇਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

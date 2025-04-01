@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਮੇਰਾ ਨਿਮਾਣੀ ਦਾ ਤੂੰ ਹੀ ਮਾਣ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ਮੈ = ਮੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

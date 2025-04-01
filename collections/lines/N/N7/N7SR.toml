@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਵੱਡੇ ਰਸ ਵਾਲਾ ਹੈ ਮਿੱਠਾ ਹੈ, ਜਿਤਨਾ ਚਿਰ ਇਸ ਨੂੰ ਚੱਖਿਆ ਨਾਹ ਜਾਏ, ਸੁਆਦ ਦਾ ਪਤਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾ ਰਸੁ = ਵੱਡੇ ਰਸ ਵਾਲਾ। ਸਾਦੁ = ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

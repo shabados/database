@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਹੇ ਮੇਰੀ ਜਿੰਦ ਤੋਂ ਪਿਆਰੇ! ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

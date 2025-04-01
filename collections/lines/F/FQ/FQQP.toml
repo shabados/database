@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੂਰਜ ਵਾਣਗ ਜੇਕਰ ਨਿਕਲ ਆਵੇਣ ਤਾਣ ਕੀ ਹਰਜ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਰਸ਼ੀਦ ਸਿਫ਼ਤ ਅਗਰ ਬਰ ਆਈ ਚਿ ਸ਼ਵਦ ।੨੫।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

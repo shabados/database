@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਕਈ ਐਸੇ ਹਨ ਜੋ ਗ੍ਰਿਹਸਤ ਵਿਚ ਪਰਵਾਰ ਵਿਚ (ਰਹਿੰਦੇ ਹੋਏ ਹੀ) ਸਦਾ ਨਿਰਮੋਹ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਾਸੀ = ਨਿਰਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

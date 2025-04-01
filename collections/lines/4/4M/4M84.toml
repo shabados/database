@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ) ਸਾਰੇ ਡਰਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਨਹੀਂ ਵਸਾਂਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਭੰਜਨ ਪ੍ਰਭ = ਸਾਰੇ ਡਰਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਪ੍ਰਭੂ। ਮਨਿ = ਮਨ ਵਿਚ। ਨ ਬਸਾਹੀ = ਜੇਹੜੇ ਮਨੁੱਖ ਨਹੀਂ ਵਸਾਂਦੇ, ਬਸਾਹਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

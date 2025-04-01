@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪਾਣੀ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ ਦਸੀਂ ਪਾਸੀਂ ਵਰਖਾ ਕਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਪਾਣੀ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀ ਤਲਿ, ਧਰਤੀ ਦੇ ਤਲ ਉਤੇ, ਪੁਲਾੜ ਵਿਚ। ਦਹ ਦਿਸਿ = ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

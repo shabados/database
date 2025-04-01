@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਿਮਰਨ ਕਰਕੇ ਤੇਰਾ ਆਤਮਕ ਰੋਗ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਾਇ = ਰੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

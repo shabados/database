@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰੱਖਿਅਕ ਪ੍ਰਭੂ ਸਾਧ ਸੰਗਤ ਵਿਚ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਾਲ = ਧਰਤੀ ਦੇ ਰੱਖਣਹਾਰ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

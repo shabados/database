@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਨ ਵਿਚ ਕ੍ਰੋਧ ਹੈ ਤੇ ਉਹ (ਵਿਸ਼ਿਆਂ ਦੇ) ਜੂਏ ਵਿਚ ਅਕਲ ਗਵਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨੁ = ਵਿਚਾਰ-ਹੀਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

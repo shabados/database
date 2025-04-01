@@ -36,6 +36,12 @@ language = "pa"
 data = "'ਮੈਂ ਮੈਂ' ਦੇ ਆਸਰੇ ਉਹ ਜਿਹੜੇ ਜਿਹੜੇ ਕੰਮ ਕਰਦਾ ਰਿਹਾ, ਉਹ ਸਾਰੇ ਹੀ ਵਿਅਰਥ ਚਲੇ ਗਏ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਹਉਮੈ = 'ਮੈਂ ਮੈਂ' ਦੇ ਆਸਰੇ। ਤੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਤੇ ਤੇ = ਉਹ ਸਾਰੇ। ਅਜਾਏ = ਜ਼ਾਇਆ, ਵਿਅਰਥ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

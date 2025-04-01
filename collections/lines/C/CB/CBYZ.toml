@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ (ਇਸ) ਜੰਦਰੇ ਅੰਦਰ ਕਿਹੋ ਜਿਹਾ ਮਾਲ ਮੱਤਾ ਪਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੰਦਰੂਨਿ ਕੁਫ਼ਲ ਚੂੰ ਬਾਸ਼ਦ ਮਤਾਅ ।੧੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

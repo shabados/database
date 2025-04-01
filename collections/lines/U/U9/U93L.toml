@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮਾਦਿਕ ਪੰਜਾਂ (ਵੈਰੀਆਂ) ਨੂੰ ਮਾਰ ਦੇਂਦਾ ਹੈ, ਆਪਣੇ ਵੱਸ ਵਿਚ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪੁਨੈ ਵਸਿ = ਆਪਣੇ ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

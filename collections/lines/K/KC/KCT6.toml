@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਬਾਦਸ਼ਾਹ ਅਤੇ ਕੀ ਫ਼ਕੀਰ, ਸਾਰੇ ਹੀ ਉਸਤੋਂ ਲਾਭ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਸੁਲਤਾਂ ਚਿ ਦਰਵੇਸ਼ ਅਜ਼ੋ ਬਹਿਰਾਮੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

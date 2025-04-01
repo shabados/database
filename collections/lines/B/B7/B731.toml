@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਰਾਮ! ਮੈਨੂੰ (ਆਪਣੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਵਿਚ ਲਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ ਰਾਮ! ਮੋ ਕਉ = ਮੈਨੂੰ। ਕਾਰੈ = ਕਾਰ ਵਿਚ, ਸੇਵਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

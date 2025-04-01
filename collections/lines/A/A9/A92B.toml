@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਅਰਸ਼ੀ ਅਤੇ ਕੀ ਫਰਸ਼ੀ ਜੀਵ, ਸਾਰੇ ਹੀ ਉਸਦਾ ਦਾ ਸਦਕਾ ਸਤਿਕਾਰ ਪਾਉਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਉਲਵੀ ਚਿ ਸਿਫ਼ਲੀ ਅਜ਼ੋ ਸਰਬੁਲੰਦ ।੭੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

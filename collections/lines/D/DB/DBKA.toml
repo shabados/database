@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਲੋਕੋ! ਧਿਆਨ ਦੇ ਕੇ ਸੁਣੋ, ਸਤਿਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਦਾਤਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ ਲੋਕ ਸਬਾਇਆ = ਹੇ ਸਾਰੇ ਲੋਕੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

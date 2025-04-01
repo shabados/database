@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਕਬੀਰ ਨੇ ਇਕ-ਰਸ ਪਿਆਰ ਵਿਚ ਟਿਕ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਧਿਆਨ ਧਰਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕ ਰੰਗ = ਇੱਕ ਦੇ ਪਿਆਰ ਵਿਚ ਟਿਕ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

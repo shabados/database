@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਹ ਦਾਸ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਇਨਾਮ ਦੀ ਇੱਛਾ ਰਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਇਲ ਅਜ਼ ਇਨਆਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 159
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

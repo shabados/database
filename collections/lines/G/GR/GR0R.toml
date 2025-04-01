@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਭੁੱਖ (ਸਤਾ ਰਹੀ ਹੈ), ਕਿਤੇ ਪਦਾਰਥਾਂ ਦਾ ਭੋਗ ਹੈ (ਭਾਵ, ਕਿਤੇ ਕਈ ਪਦਾਰਥ ਛਕੇ ਜਾ ਰਹੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਗੁ = ਪਦਾਰਥਾਂ ਦਾ ਵਰਤਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

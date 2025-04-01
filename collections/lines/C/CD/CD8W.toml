@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜੋ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਹੈ ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ ਜੋ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

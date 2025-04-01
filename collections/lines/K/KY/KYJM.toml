@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਉਹ ਪਿਆਰਾ ਲਾਲ ਸਦਾ ਆਨੰਦ-ਸਰੂਪ ਹੈ, ਮੇਰਾ ਇਹੀ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗੀਲਾ = ਆਨੰਦ-ਸਰੂਪ। ਮਹਿੰਜਾ = ਮੇਰਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ, ਹੇ ਸੁਆਮੀ! ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਤੇਰੈ ਦੁਆਰੇ = ਤੇਰੇ ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

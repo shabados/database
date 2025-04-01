@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਕੁਰਾਹੇ ਪੈਂਦਾ ਹੈ ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਕੁਰਾਹੇ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਲਾ = ਕੁਰਾਹੇ ਪੈ ਗਿਆ। ਭੁਲਾਇਆ = ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

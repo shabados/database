@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਦਾ ਨਤੀਜਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਮਾ ਅਜ਼ ਸੁਹਬਤਿ ਮਰਦਾਨਿ ਊਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

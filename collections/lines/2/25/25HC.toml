@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ (ਮਾਨੋ) ਸਾਰੀਆਂ ਸਿੱਧੀਆਂ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ (ਮਨੁੱਖ) ਨੂੰ। ਸਿਧੇ = ਸਿੱਧੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

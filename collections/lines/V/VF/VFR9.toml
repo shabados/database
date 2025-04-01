@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੋਵੇਣ ਜਹਾਨ ਤੇਰੀ ਮਾਲਕੀ ਦੇ ਚਿਂੰਨ੍ਹ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਰ ਦੋ ਜਹਾਣ ਨਿਸ਼ਾਨਿ ਦੌਲਤਿ ਤੁਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗੀ ਲੱਗੇ ਤਾਂ ਮਨੁੱਖ ਨੂੰ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਭਾਵੈ = ਜੇ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ। ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

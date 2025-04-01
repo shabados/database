@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹੇ ਮੇਰੇ ਦੀਨ ਦਇਆਲ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰੇ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ, ਮੈਂ ਤੇਰੇ ਨਾਲ ਹੀ ਸਾਂਝ ਪਾਈ ਹੈ ॥੮॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਹੇ ਦਇਆਲ! ॥੮॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

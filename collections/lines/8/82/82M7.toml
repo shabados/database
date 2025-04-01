@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਆ ਵੱਸਦਾ ਹੈ, ਉਹੀ ਹਿਰਦਾ-ਥਾਂ ਸੋਹਣਾ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਘਟਿ = ਹਿਰਦੇ ਵਿਚ। ਜਿਤੁ ਘਟਿ = ਜਿਸ ਹਿਰਦੇ ਵਿਚ, {ਜਿਸੁ ਘਟਿ = ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

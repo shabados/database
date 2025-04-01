@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਬਜ਼ੁਰਗ ਅਤੇ ਕੀ ਅਬਦਾਲੀ ਮਸਤ ਕਲੰਦਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਔਤਾਦ ਹਾ ਓ ਚਿ ਅਬਦਾਲ ਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

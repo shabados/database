@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਦਾ ਲਈ ਤੂੰ ਹੀ ਤੂੰ ਹੀ ਮੇਰਾ ਸਹਾਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬ ਤਬ = ਹੁਣ ਤੇ ਤਦੋਂ। ਜਬ ਕਬ = ਜਦ ਕਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

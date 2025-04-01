@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਦਾ) ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ) ਰਸਤਾ ਲੱਭਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਡਗਰੋ = (ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ) ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

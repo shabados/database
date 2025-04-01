@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੈਥੋਂ ਇਹ ਇੱਕ ਕੰਮ ਭੀ (ਜੋ ਕਰਨ-ਜੋਗ ਸੀ) ਨਹੀਂ ਹੋ ਸਕਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਿਓ ਨ = ਸਿਰੇ ਨਾਹ ਚੜ੍ਹਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਰੱਬ ਦੀ ਕੁਦਰਤਿ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰ = ਉਸ ਦਾ ਰਚਿਆ ਹੋਇਆ ਇਹ ਸਾਰਾ ਖੇਲ, ਉਸ ਦੀ ਕੁਦਰਤੀ ਕਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਤੀ ਸਤੀ ਸੰਨਿਆਸੀ-ਇਹ ਸਾਰੇ ਭੀ ਮੌਤ ਦੇ ਅਧੀਨ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲੈ ਵਾਸੀ = ਕਾਲ ਦੇ ਵੱਸ, ਮੌਤ ਦੇ ਅਧੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

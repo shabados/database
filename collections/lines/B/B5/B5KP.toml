@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੁਣ (ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ ਉਹ) ਕਿਹੜੀ ਵਿਓਂਤ ਕੀਤੀ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੋ = ਹੇ ਸੰਤ ਜਨੋ! ਕਉਨ ਜੁਗਤਿ = ਕਿਹੜੀ ਵਿਓਂਤ? ਕੀਜੈ = ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

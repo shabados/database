@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕਾਮਾਦਿਕ ਪੰਜੇ) ਡਾਕੂ ਅੱਠੇ ਪਹਰ (ਮਨੁੱਖ ਦੇ ਨਾਲ) ਸਾਥੀ ਬਣੇ ਰਹਿੰਦੇ ਹਨ (ਤੇ ਇਸ ਦੇ ਆਤਮਕ ਜੀਵਨ ਉਤੇ ਡਾਕਾ ਮਾਰਦੇ ਰਹਿੰਦੇ ਹਨ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੀ = ਸਾਥੀ। ਬਟਵਾਰੇ = ਵਾਟ-ਮਾਰੇ, ਰਾਹਜ਼ਨ, ਡਾਕੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

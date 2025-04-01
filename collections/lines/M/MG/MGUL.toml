@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਗਏ ਹਨ ਤੇ ਸੁਖਾਂ ਨੇ (ਮੇਰੇ ਅੰਦਰ) ਡੇਰਾ ਆਣ ਜਮਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਸੇ = ਨਾਸ ਹੋ ਗਏ ਹਨ, ਦੂਰ ਹੋ ਗਏ ਹਨ। ਬਿਸਰਾਮ = ਡੇਰਾ, ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

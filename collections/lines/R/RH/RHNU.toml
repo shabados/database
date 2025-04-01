@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਯਕੀਨ ਬਣ ਚੁਕਾ ਹੈ ਕਿ) ਸੁਜਾਨ ਹਰੀ ਪੁਰਖ ਹੀ ਮੇਰਾ ਪ੍ਰੀਤਮ ਹੈ ਮੇਰਾ ਮਿੱਤਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਜਾਣੁ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

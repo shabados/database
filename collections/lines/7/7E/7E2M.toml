@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਮਨ-ਮੰਨੀਆਂ ਮੌਜਾਂ ਮਾਣਦਾ ਹੋਵੇ, ਤੇ ਕੋਈ ਚਿੰਤਾ ਝੌਰਾ ਨਾਹ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਸੂਰੇ = ਫ਼ਿਕਰ, ਚਿੰਤਾ, ਝੋਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

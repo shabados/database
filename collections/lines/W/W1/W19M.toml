@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ-ਥਿਰ ਰਾਜ ਵਾਲੇ ਪਾਤਸ਼ਾਹ! ਮੈਂ ਤੇਰੀ ਕੀਹ ਸਿਫ਼ਤ ਕਰਾਂ? ਤੂੰ ਸੁੰਦਰ ਆਤਮਾ ਵਾਲਾ ਤੇ ਸਿਆਣਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੜੁ = ਸੋਹਣੀ ਘਾੜਤ ਵਾਲਾ। ਸੁਜਾਣੁ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

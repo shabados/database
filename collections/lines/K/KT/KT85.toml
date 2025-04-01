@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੋਰਾਂ ਵਿਭਚਾਰੀਆਂ ਤੇ ਜੂਏ-ਬਾਜ਼ (ਆਦਿਕ ਵਿਕਾਰੀਆਂ ਦਾ ਇਉਂ ਹਾਲ ਹੁੰਦਾ ਹੈ ਜਿਵੇਂ) ਕੋਲ੍ਹੂ ਵਿਚ ਪੀੜੇ ਜਾ ਰਹੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰ = ਵਿਭਚਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

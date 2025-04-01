@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਮੀਨਾ ਹਾਂ, ਮੈਂ ਬਹੁਤ ਹੀ ਮਾੜਾ ਹਾਂ, ਪਰ ਹੇ ਖ਼ੁਦਾ! ਤੂੰ ਦਰੀਆ (-ਦਿਲ) ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਤਰੀਨ = ਮਾੜਿਆਂ ਤੋਂ ਮਾੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਪਾਂ ਤਪਾਂ ਸੀਲ-ਧਰਮ ਨੂੰ ਭੀ ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਲ = ਚੰਗਾ ਸੁਭਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

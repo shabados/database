@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੂਜਿਆਂ ਪਾਸੋਂ) ਸੁਣ ਸੁਣ ਕੇ ਬੇਅੰਤ ਲੁਕਾਈ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਭੀ ਬੋਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੀ = ਬਹੁਤ ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਜੀਭ ਸਦਾ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਸੁ ਰਸਨ = ਜਿਸ ਦੀ ਜੀਭ। ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਭਨੀਐ = ਉਚਾਰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

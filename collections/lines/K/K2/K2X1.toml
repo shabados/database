@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਭ ਭੇਤਾਣ ਦੇ ਜਾਨਣਹਾਰ, ਅਸੀਣ ਜਿਨ੍ਹਾਣ ਤੇਰੀ ਗਲੀ ਦਾ ਸਿਰਾ ਵੇਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਕਿ ਦੀਦੇਮ ਸਰਿ ਕੂਇ ਤੂ ਐ ਮਹਿਰਮਿ ਰਾਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖੰਡੇ ਨਾਲੋਂ ਤਿੱਖਾ ਹੈ, ਬੜੀ ਤੇਜ਼ ਧਾਰ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੰਨਿਅਹੁ = ਖੰਡੇ ਨਾਲੋਂ। ਪਿਈਣੀ = ਤੇਜ਼ ਧਾਰ ਵਾਲੀ, ਪਤਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

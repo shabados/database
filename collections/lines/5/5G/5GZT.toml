@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸੁਆਮੀ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਤੇਰਾ ਆਸਰਾ ਹੈ ਉਹਨਾਂ ਨੂੰ ਕੋਈ ਚਿੰਤਾ ਪੋਹ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਟੇਕ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

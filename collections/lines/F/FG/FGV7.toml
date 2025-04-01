@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਸਿਆਣੇ ਅਤੇ ਕੀ ਅਨਜਾਣ, ਸਾਰੇ ਉਸਦੇ ਸਦਕਾ ਪੁੰਨ ਹਾਸਲ ਕਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਦਾਨਾ ਚਿਹ ਨਾਦਾਂ ਅਜ਼ੋ ਪੁਰ ਸਵਾਬ ।੭੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

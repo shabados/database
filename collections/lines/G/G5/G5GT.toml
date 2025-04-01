@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਦੇ ਨਾਮ ਦਾ ਹੀ ਅਸਾਂ ਲੇਖਾ ਲਿਖਿਆ ਹੈ, (ਜਿਸ ਲੇਖੇ ਕਰ ਕੇ) ਜਮ ਦੀ ਪਹਿਲੀ ਖ਼ੁਸ਼ਾਮਦ ਦੂਰ ਹੋ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਲੀ = ਪਹਿਲੀ। ਕਾਣਿ = ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਅਰਜੁਨ ਦੇਵ ਜੀ ਦੇ ਸਿਰ ਤੇ ਇਹ ਛਤਰ ਪਰਮੇਸੁਰ ਨੇ ਆਪ ਬਖ਼ਸ਼ਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰੂ ਅਰਜੁਨ ਸਿਰਿ = ਗੁਰੂ ਅਰਜੁਨ ਦੇ ਸਿਰ ਉਤੇ। ਪਰਮੇਸਰਿ = ਪਰਮੇਸਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

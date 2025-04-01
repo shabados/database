@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਕਾਮ ਕ੍ਰੋਧ ਉਸ ਦੇ ਅੰਦਰਲੇ ਨਾਮ-ਧਨ ਨੂੰ ਚੁਰਾ ਲੈ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੁ = ਨਾਮ-ਧਨ। ਹਿਰੈ = ਚੁਰਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

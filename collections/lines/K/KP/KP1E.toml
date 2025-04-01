@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦੇ ਨਿੰਦਕਾਂ ਦੀ (ਨੇਕ ਕਮਾਈ ਤੇ ਸਿਮਰਨ ਵਾਲੀ) ਕੋਈ ਪੱਕੀ ਨੀਂਹ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੜ = ਪੱਕੀ ਨੀਂਹ, ਪਾਂਇਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

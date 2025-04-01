@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੀ ਰਾਸਿ-ਪੂੰਜੀ ਹੈ ਤੇ ਮੇਰਾ ਮਨ ਵਪਾਰੀ ਹੋ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਸਿ = ਵਣਜ-ਵਪਾਰ ਕਰਨ ਵਾਸਤੇ ਧਨ ਦੀ ਪੂੰਜੀ। ਵਣਜਾਰਾ = ਵਣਜ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

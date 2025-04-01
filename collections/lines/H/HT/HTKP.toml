@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸੰਤਾਂ ਨੂੰ ਟੋਲਦਾ ਟੋਲਦਾ ਥੱਕ ਗਿਆ ਹਾਂ, ਮੈਂ ਕਈ ਸਾਧ (ਭੀ) ਵੇਖੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਟੋਲਿ ਰਹਿਓ = ਟੋਲ ਕੇ ਰਹਿ ਗਿਆ ਹਾਂ, ਭਾਲ ਭਾਲ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ, ਲੱਭ ਲੱਭ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ। ਡਿਠੇ = ਮੈਂ ਵੇਖੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

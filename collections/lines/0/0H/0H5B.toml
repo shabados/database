@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਤੇ ਤੁਰਿਆਂ) ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਵਿਚ ਨਿਰਲੇਪ ਰਹਿ ਕੇ ਜਿਊ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਾਸੁ = ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਤੋਂ ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਚੜ੍ਹਦਾ ਹੈ ਫਿਰ ਡੁੱਬ ਜਾਂਦਾ ਹੈ, ਸਾਰੀ ਰਾਤ ਭੀ ਲੰਘ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਥਵੈ = ਡੁੱਬ ਜਾਂਦਾ ਹੈ। ਰੈਣਿ = ਰਾਤ। ਸਬਾਈ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

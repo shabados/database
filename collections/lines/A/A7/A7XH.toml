@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਬੰਧਨ ਤੋੜ ਕੇ ਪ੍ਰਭੂ ਨੇ ਉਸ ਨੂੰ ਆਪਣਾ ਬਣਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋੜਿ = ਤੋੜ ਕੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

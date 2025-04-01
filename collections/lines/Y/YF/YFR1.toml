@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੰਗਣਾ ਹੈ ਤਾਂ ਸਿਰਫ਼ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮੰਗੋ। (ਇਹ 'ਨਾਮ' ਉਸ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ) ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਪ੍ਰਸੰਨ ਹੋ ਕੇ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਸਿ = ਤ੍ਰੁੱਠ ਕੇ, ਖ਼ੁਸ਼ ਹੋ ਕੇ। ਤਿਤੁ = {ਅਧਿਕਰਣ ਕਾਰਕ, ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

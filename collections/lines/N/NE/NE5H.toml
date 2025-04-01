@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਰਾਮ ਦੀ ਸ਼ਕਲ ਜਿਸ ਦੇ ਚਿਹਨ-ਚੱਕਰ ਨਹੀਂ ਦੱਸੇ ਜਾ ਸਕਦੇ, ਜੋ ਰਾਮ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪ = ਸ਼ਕਲ। ਰੇਖ = ਚਿਹਨ-ਚੱਕਰ। ਵਡਾਮ = (ਸਭ ਤੋਂ) ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

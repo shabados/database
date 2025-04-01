@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੇਹੜਾ ਜੋਗੀ) ਅੰਨ ਬਸਤ੍ਰ (ਹੀ) ਮੰਗਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਦਨੁ = ਕੱਪੜਾ। ਮਾਗਤੁ ਭਾਗੈ = ਮੰਗਦਾ ਫਿਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

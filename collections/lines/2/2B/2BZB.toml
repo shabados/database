@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੇਤ ਦੇ ਘਰ ਵਿਚ ਵੱਸਦਾ ਹੈ (ਭਾਵ ਰੇਤ ਦੇ ਕਿਣਕਿਆਂ ਵਾਂਗ ਉਮਰ ਛਿਨ ਛਿਨ ਕਰ ਕੇ ਕਿਰ ਰਹੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲੂਆ = ਰੇਤ। ਗ੍ਰਿਹ = ਘਰ। ਭੀਤਰਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੜੇ ਡਰਾਉਣੇ ਜੰਗਲ ਨੂੰ ਜੀਵਾਂ ਨੇ ਸ਼ਹਿਰ ਕਰ ਕੇ ਮੰਨ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾ ਭਇਆਨ = ਬੜਾ ਡਰਾਉਣਾ। ਉਦਿਆਨ = ਜੰਗਲ। ਨਗਰ = ਸ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

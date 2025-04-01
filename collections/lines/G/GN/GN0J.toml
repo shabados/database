@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀਆਂ ਭਟਕਣਾਂ ਛੱਡ ਦੇਹ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮ = ਭਟਕਣਾ। ਡਾਰਿ ਦੇਹਿ = ਛੱਡ ਦੇਹ। ਕੋ = ਦਾ। ਲੇਹਿ = ਜਪਿਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

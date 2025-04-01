@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਗਲੀ ਵਿਚ ਮੰਗਣ ਦਾ ਕੰਮ ਬਾਦਸ਼ਾਹੀ ਨਾਲੋਣ ਚੰਗੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਦਾਈ ਕਰਦਨਿ ਕੂਇ ਤੂ ਬਿਹ ਜ਼ਿ ਸੁਲਤਾਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਗੁਰੂ ਦਾ ਬਚਨ (ਆਪਣੇ) ਪੱਲੇ ਬੰਨ੍ਹ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ ਨੇ। ਪਾਲਾ = ਪੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

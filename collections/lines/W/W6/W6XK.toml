@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਤਾਂ ਇਹੋ ਜਿਹੇ ਜਨੇਊ ਤੋਂ ਵਾਂਜਿਆ ਹੋਇਆ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਤੈ = ਭੌਂਦਾ ਫਿਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਕਰਤਾਰ ਆਪ ਹੀ (ਨਾਮ ਦੀ ਦਾਤਿ) ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਸੋਇ ਕਰਤਾ = ਉਹ ਕਰਤਾਰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਲੋਭ ਮੋਹ ਆਦਿਕ ਵਿਕਾਰ ਛੱਡ ਕੇ ਸਦਾ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਪਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਕੇ = ਗੁਰੂ ਦੇ। ਤਜਿ = ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

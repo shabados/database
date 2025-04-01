@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣਾ ਇਨਸਾਨੀ ਫ਼ਰਜ਼ ਸਾਰਾ ਹੀ ਭੁਲਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲਾ ਈ = ਸਾਰਾ ਹੀ। ਖੋਵੈ = ਗਵਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

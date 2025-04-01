@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਨੇ ਭੀ) ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੈ, ਉਹਨਾਂ ਦੀ ਜਿੰਦ ਪਰਮਾਤਮਾ ਦੀ ਜੋਤੀ ਵਿਚ ਲੀਨ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਜੋਤੀ = ਪ੍ਰਭੂ ਦੀ ਜੋਤੀ ਵਿਚ। ਜੋਤਿ = ਸੁਰਤਿ, ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਿਹਰ ਕਰ ਕੇ ਜਿਸ ਨੂੰ ਉਸ ਨੇ ਆਪਣੇ ਘਰ ਦਾ ਦਾਸ ਬਣਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਗੋਲੇ = ਘਰ ਦੇ ਸੇਵਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਿਵ (ਆਦਿਕ ਦੇਵਤੇ ਭੀ) ਬ੍ਰਹਮਗਿਆਨੀ ਨੂੰ ਭਾਲਦੇ ਫਿਰਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹੇਸੁਰ = ਮਹਾ ਈਸੁਰ, ਸ਼ਿਵ ਜੀ (ਆਦਿਕ ਦੇਵਤੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

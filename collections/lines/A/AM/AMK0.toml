@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਨਾਮ ਜਪਦੇ ਹਨ ਉਹ ਸਾਰੇ ਸੁੱਚੇ ਆਚਰਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਉਹ ਬੰਦੇ {ਬਹੁ-ਵਚਨ}। ਸਗਲ = ਸਾਰੇ। ਪਵੀਤ = ਚੰਗੇ ਆਚਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

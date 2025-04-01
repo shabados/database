@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜੇ ਰਹੀਏ, ਤਾਂ) ਜਿੱਥੇ ਭੀ ਜਾਈਏ, ਉਥੇ ਹੀ ਸੁਖੀ ਰਹਿ ਸਕੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਸੁਹੇਲੇ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

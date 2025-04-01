@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਦੁਖ ਹੋਵੇ ਚਾਹੇ ਸੁਖ ਹੋਵੇ ਤੇਰੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਵਾਪਰਦਾ ਹੈ। ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸ ਪਾਸ ਜਾ ਕੇ ਦੁੱਖ ਫਰੋਲੀਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾ ਕੇ। ਰੂਆਈ = ਸ਼ਿਕੈਤ ਕੀਤੀ ਜਾਏ, ਰੋਇਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

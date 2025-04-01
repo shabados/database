@@ -36,6 +36,12 @@ language = "pa"
 data = "ਛੇ ਸ਼ਾਸਤ੍ਰਾਂ ਤੇ ਸਿਮ੍ਰਿਤੀਆਂ ਦਾ ਉਪਦੇਸ਼ ਕਰੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਟ ਸਾਸਤ੍ਰ = ਛੇ ਸ਼ਾਸਤ੍ਰ, ਛੇ ਦਰਸ਼ਨ (ਸਾਂਖ, ਯੋਗ, ਨਿਆਇ, ਵੈਸ਼ੇਸ਼ਿਕ, ਮੀਮਾਂਸਾ, ਵੇਦਾਂਤ)। ਵਖਿਆਨ = ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

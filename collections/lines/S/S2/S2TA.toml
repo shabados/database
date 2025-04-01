@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਾਤ ਦੇ) ਪਹਿਲੇ ਪਹਿਰ ਦੀ ਬੰਦਗੀ (ਮਾਨੋ) ਇਕ ਸੋਹਣਾ ਜਿਹਾ ਫੁੱਲ ਹੈ, ਫਲ ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਦੀ ਬੰਦਗੀ ਹੀ ਹੋ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੁਲੜਾ = ਸੋਹਣਾ ਜਿਹਾ ਫੁੱਲ। ਪਛਾ ਰਾਤਿ = ਪਿਛਲੀ ਰਾਤੇ, ਅੰਮ੍ਰਿਤ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

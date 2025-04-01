@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੋਇਆ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਇਕ ਐਸਾ ਧਨ ਹੈ ਜੋ ਨਾਹ ਸੜਦਾ ਹੈ ਨਾਹ ਹੀ ਇਸ ਨੂੰ ਕੋਈ ਚੋਰ ਚੁਰਾ ਕੇ ਲੈ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰੁ = ਚੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

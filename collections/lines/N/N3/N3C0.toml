@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਦੇ ਨਾਮ ਜੇਡਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਸੁੱਝਦਾ ਨਹੀਂ, ਨਾਮ ਹੀ ਅਖ਼ੀਰ ਵੇਲੇ ਛਡਾਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਿ = ਅਖ਼ੀਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

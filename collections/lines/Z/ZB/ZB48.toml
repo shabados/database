@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਤੂੰ ਫਿਰ ਚਾਹੇਂਗਾ ਇਸ ਬਿਅੰਤ ਖਖ਼ਾਨੇ ਵਿੱਚੋਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਮੀਖ਼ਾਹੀ ਜ਼ਿ ਗੰਜਿ ਬੇਸ਼ੁਮਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

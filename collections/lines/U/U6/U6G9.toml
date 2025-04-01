@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ, ਰੁੱਖ, ਤੀਰਥ, ਤਟ (ਭਾਵ, ਨਦੀਆਂ) ਬੱਦਲ, ਖੇਤ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਤਿ = ਅੰਦਾਜ਼ਾ, ਮਰਯਾਦਾ। ਤਟ = ਨਦੀਆਂ ਦੇ ਕਿਨਾਰਿਆ ਦਾ। ਮੇਘ = ਬੱਦਲ। ਦੀਪ = ਉਹ ਧਰਤੀ ਜਿਸ ਦੇ ਦੋ ਪਾਸਿਆਂ ਵਲ ਪਾਣੀ ਹੋਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

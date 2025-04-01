@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦੇ ਬਚਨ ਅਮਰ ਜੀਵਨ ਦਾ ਪਾਠ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਫ਼ਿ ਸ਼ਾਂ ਤਾਅਲੀਮਿ ਉਮਰਿ ਜਾਵਿਦਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

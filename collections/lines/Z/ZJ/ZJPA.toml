@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਆਪਣੀ ਭਗਤੀ ਦਾ ਦਾਨ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

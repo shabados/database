@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰਾ ਸਰੀਰ ਤਾਣ ਹਵਾ, ਮਿੱਟੀ ਅਤੇ ਅੱਗ ਦਾ ਬਣਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਿਸਮਿ ਤੂ ਅਜ਼ ਬਾਦੋ ਖ਼ਾਕੋ ਆਤਿਸ਼ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

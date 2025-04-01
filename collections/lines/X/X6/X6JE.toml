@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਿਸ ਵਿਧੀ ਨਾਲ, ਕਿਸ ਸੰਜਮ ਨਾਲ ਉਹ ਮਿਲ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ ਬਿਧੀਐ = ਕਿਸ ਵਿਧੀ ਨਾਲ? ਕਿਤੁ ਸੰਜਮਿ = ਕਿਸ ਸੰਜਮ ਨਾਲ? ਕਿਤੁ = {ਲਫ਼ਜ਼ 'ਕਿਸੁ' ਤੋਂ ਕਰਣ ਕਾਰਕ} ਕਿਸ ਦੀ ਰਾਹੀਂ? ਸੰਜਮ = ਬੰਧੇਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

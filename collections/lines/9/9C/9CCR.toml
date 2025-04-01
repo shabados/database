@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਉਸ ਮਨੁੱਖ ਦੇ ਮਨ ਤੋਂ ਦੁੱਖ-ਕਲੇਸ਼ ਤੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਹਨੇਰਾ ਚਲਾ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਤੇ = ਮਨ ਤੋਂ। ਜਾਇ = ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

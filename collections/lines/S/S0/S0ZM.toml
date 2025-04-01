@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੋ ਜਿਹੀ ਮਿਹਰ ਤੂੰ ਮੇਰੇ ਉੱਤੇ ਕੀਤੀ ਹੈ, (ਉਸ ਦੇ ਵੱਟੇ ਵਿਚ) ਉਹੋ ਜਿਹੀ (ਤੇਰੀ ਸੇਵਾ) ਮੈਂ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋ ਸਿਉ = ਮੇਰੇ ਨਾਲ। ਹਉ = ਹਉਂ, ਮੈਂ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਅੱਠੇ ਪਹਰ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ, ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵੈ = ਗਾਂਦਾ ਹੈ। ਦੈਆਲਾ = ਦਇਆ ਦਾ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

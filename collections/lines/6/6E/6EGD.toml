@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਜਿਸ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪ੍ਰਭੂ-ਪਤੀ ਨੇ (ਆਪਣੇ ਪਰਕਾਸ਼ ਨਾਲ) ਚੰਗਾ ਭਾਗ ਲਾ ਦਿੱਤਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਪਿਰਿ = ਪਿਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

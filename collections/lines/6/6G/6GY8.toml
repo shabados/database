@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਕੰੰਮ ਨਾ ਹਰ ਕਿਸੇ ਚਾਤਰ ਦਾ ਹੈ, ਅਤੇ ਨਾ ਹੀ ਕਿਸੇ ਦੀਵਾਨੇ ਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਰਿ ਹਰ ਦਾਨਾ ਨਾ ਬਾਸ਼ਦ, ਕਾਰਿ ਹਰ ਦੀਵਾਨਾ ਨੀਸਤ ।੧੦।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

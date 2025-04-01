@@ -30,6 +30,12 @@ language = "pa"
 data = "ਜਦ (ਹਿਰਦੇ ਵਿਚ ਗੁਰੂ ਦਾ) ਗੋਬਿੰਦ-ਨਾਮ ਦਾ ਸ਼ਬਦ-ਵਾਜਾ ਵੱਜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਜੇ = ਗੱਜਦਾ ਹੈ, ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ। ਬਾਜੈ = ਵੱਜਦਾ ਹੈ। ਸਬਦੁ ਬਾਜੈ = ਗੁਰੂ ਦਾ ਸ਼ਬਦ-ਵਾਜਾ ਵੱਜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

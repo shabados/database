@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਸਭ ਬੂਟਿਆਂ ਵਿਚ ਅੱਗ (ਗੁਪਤ ਮੌਜੂਦ) ਹੈ, ਜਿਵੇਂ ਹਰੇਕ ਕਿਸਮ ਦੇ ਦੁੱਧ ਵਿਚ ਘਿਉ (ਮੱਖਣ) ਗੁਪਤ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਬਨਸਪਤਿ = ਸਾਰੀ ਬਨਸਪਤੀ, ਸਾਰੇ ਬੂਟੇ। ਬੈਸੰਤਰੁ = ਅੱਗ। ਘੀਆ = ਘਿਓ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

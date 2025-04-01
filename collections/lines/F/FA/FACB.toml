@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਗੀ ਕਿਸਮਤਿ ਨਾਲ ਸਤਸੰਗ ਮਿਲ ਜਾਏ ਤੇ ਮੈਂ ਨਿਊਂ ਨਿਊਂ ਕੇ (ਸਤ ਸੰਗੀਆਂ ਦੇ) ਪੈਰੀਂ ਲੱਗਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡੈ ਭਾਗਿ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ। ਨਿਵਿ = ਨਿਊਂ ਕੇ। ਪਾਈ = ਪੈਰੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

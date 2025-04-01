@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਸ ਦੀ ਲਾਜ ਜ਼ਰੂਰ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਪਰ = ਜ਼ਰੂਰ। ਰਾਖੈ = (ਲਾਜ) ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਸੁੰਦਰ ਹਨ ਨੈਣ ਅਤੇ ਰਸੀਲੇ ਦੰਦ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਕੇ = ਬਾਂਕੇ। ਲੋਇਣ = ਅੱਖਾਂ। ਦੰਤ = ਦੰਦ। ਰਸੀਲਾ = (ਰਸ-ਆਲਯ) ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

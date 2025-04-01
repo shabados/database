@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਉਮੈ-ਅਹੰਕਾਰ ਵਿਚ ਕੀਤੀ ਹੋਈ ਸੇਵਾ-ਭਗਤੀ ਪਰਵਾਨ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਇ = ਥਾਂ ਵਿਚ। ਥਾਇ ਨ ਪਾਏ = ਪਰਵਾਨ ਨਹੀਂ ਹੁੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

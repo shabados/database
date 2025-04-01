@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਸ ਫਿਕਰ ਵਿਚ ਹੈ, ਕਿ ਸਾਡੇ ਨਾਲ ਕੀ ਕਰੇ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਦਰੀਣ ਫ਼ਿਕਰ ਤਾਣ ਬਮਾ ਚਿਹ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

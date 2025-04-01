@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਦਇਆ ਨਾਲ ਤੇਰੇ ਹੱਥ (ਆਦਿਕ ਸਾਰੇ ਅੰਗ) ਕੰਮ ਦੇ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ। ਕਰ = ਹੱਥ। ਚਲਹਿ = ਚੱਲਦੇ ਹਨ, ਕੰਮ ਦੇਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

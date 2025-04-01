@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! (ਮੈਨੂੰ ਭੀ ਦੱਸ) ਮੈਂ ਤੇਰੇ ਪੈਰ ਆਪਣੀਆਂ ਅੱਖਾਂ ਦੀਆਂ ਪੁਤਲੀਆਂ ਨਾਲ ਮਲਾਂਗੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵ = {ਲਫ਼ਜ਼ 'ਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਦੋਵੇਂ ਪੈਰ। ਮਲੋਵਉ = ਮਲੋਵਉਂ, ਮੈਂ ਮਲਾਂਗੀ। ਸੰਗਿ = ਨਾਲ। ਨੈਨ ਭਤੀਰੀ = ਧੀਰੀ, ਪੁਤਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

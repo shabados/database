@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਗਤਾਂ ਦੀ ਅੱਪਣਤ ਰੱਬੀ ਗਿਆਨ ਨਾਲ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਾਂ ਦਾਰੰਦ ਬਾ ਇਰਫ਼ਾਨਿ ਖ਼ੇਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

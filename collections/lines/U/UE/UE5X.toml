@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਸੰਤ ਜਨਾਂ ਦਾ ਸਰਮਾਇਆ ਹੈ, ਬਲ ਹੈ, ਬੁੱਧੀ ਹੈ, ਸੂਝ-ਬੂਝ ਹੈ, ਜਿੰਦ ਹੈ, ਇਹੀ ਉਹਨਾਂ ਦਾ ਸਭ ਕੁਝ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਧਿ = ਸੂਝ। ਪਰਾਣ = ਜਿੰਦ। ਸਰਬਸੁ = {सर्व = स्व = ਸਾਰਾ ਧਨ} ਸਭ ਕੁਝ। ਰਾਸਿ = ਸਰਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

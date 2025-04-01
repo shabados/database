@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਤੂੰ (ਵਿਆਹ ਆਦਿਕ ਸਮਿਆਂ ਤੇ ਜਜਮਾਨਾਂ ਵਾਸਤੇ) ਸਭ ਲਗਨ ਮੁਹੂਰਤ ਗਿਣਦਾ ਹੈਂ, ਪਰ ਤੂੰ ਇਹ ਵਿਚਾਰ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਾ = {सु = अहर्} ਸ਼ੁਭ ਦਿਨ, ਚੰਗਾ ਮੁਹੂਰਤ। ਗਣਹਿ = ਗਿਣਦਾ ਹੈਂ (ਹੇ ਪਾਂਡੇ!)"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

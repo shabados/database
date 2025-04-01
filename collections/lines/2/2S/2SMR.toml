@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਹਰੀ ਪ੍ਰਭੂ! (ਸਾਨੂੰ ਭੀ ਉਹ ਨਾਮ-) ਦਾਨ ਦੇਹ ਜਿਹੜਾ (ਤੇਰੇ) ਸੰਤ ਜਨ (ਸਦਾ ਤੈਥੋਂ) ਮੰਗਦੇ (ਰਹਿੰਦੇ) ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਂਗਹਿ = ਮੰਗਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸ਼ੋਖ ਅੱਖ ਮੈਨੂੰ ਗਮਾਣ ॥ਚੋਣ ਬਾਹਰ ਕੱਢਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ-ਕਸ਼ਦ ਅਜ਼ ਚਾਹਿ ਗ਼ਮ ਈਣ ਚਸ਼ਮਿ ਸ਼ੋਖ਼ ।੧੮।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂ ਸੈਣਕੜੇ ਕੰਮ ਅਜਿਹੇ ਕੀਤੇ ਹਨ ਜਿਹੜੇ ਤੇਰੇ ਕੰਮ ਨਹੀਣ ਆਪੁਣੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਕਾਰ ਕਰਦਾਈ ਕਿ ਨਯਾਇਦ ਬਕਾਰਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

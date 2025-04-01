@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਡਰ ਅਦਬ ਮੇਰੇ ਵਾਸਤੇ ਭੰਗ ਹੈ, ਮੇਰਾ ਮਨ (ਇਸ ਭੰਗ ਨੂੰ ਸਾਂਭ ਕੇ ਰੱਖਣ ਲਈ) ਗੁੱਥੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਉ = ਡਰ, ਅਦਬ। ਭਾਂਗ = ਭੰਗ। ਖਲੜੀ = ਗੁੱਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

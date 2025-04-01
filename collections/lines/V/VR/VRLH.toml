@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਸਿਰ ਉਤੇ (ਪਾਪਾਂ ਦੇ) ਕੱਲਰ ਦਾ ਬਹੁਤ ਸਾਰਾ ਭਾਰ ਰੱਖਿਆ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ। ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

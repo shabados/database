@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਇਸ ਨੂੰ ਰੱਬ ਦੀ ਮਿਹਰ ਅਤੇ ਕਿਰਪਾ ਸਹਿਤ ਪੜ੍ਹਦਾ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਖ਼ਾਨਦ ਅਜ਼ ਰਹਿ ਲੁਤਫ਼ੋ ਕਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

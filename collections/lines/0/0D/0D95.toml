@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁਬਾਰਿਕ ਹੈ ਉਹ ਢਾਢੀ, ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਦਾ ਸੱਚਾ ਦਰ ਪ੍ਰਾਪਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਗਠੁ = ਭਾਗਾਂ ਵਾਲਾ। ਬਾਰੁ = ਦਰਵਾਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

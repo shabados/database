@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਗਿਆਨਵਾਨਾਂ ਵਿਚ ਸਤਿਕਾਰ ਪਾਉਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰਦਦਸ਼ ਦਰ ਰਾਹਿ ਇਰਫ਼ਾਂ ਮੁਹਤਰਿਮ ।੫੦੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

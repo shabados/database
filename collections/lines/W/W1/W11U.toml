@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਦਰ ਤੇ) ਨਾਨਕ ਦੀ ਇਹੀ ਬੇਨਤੀ ਹੈ ਕਿ ਉਠਦਿਆਂ ਬੈਠਦਿਆਂ (ਹਰ ਵੇਲੇ) ਮੈਂ (ਤੇਰਾ) ਨਾਮ ਜਪਿਆ ਕਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਾਂ। ਕਰਮੁ = ਕੰਮ। ਕਮਾਵਉ = ਕਮਾਵਉਂ, ਮੈਂ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

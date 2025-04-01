@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਜਿੰਦ, ਇਹ ਸਰੀਰ, ਸਭ ਕੁਝ (ਹਰੇਕ ਜੀਵ ਨੂੰ) ਤੂੰ ਆਪ ਹੀ ਦਿੱਤਾ ਹੈ, ਤੂੰ ਆਪ ਹੀ (ਹਰੇਕ ਜੀਵ ਨੂੰ) ਕੰਮ ਵਿਚ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ। ਕਾਰੈ = ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਸਾਰ ਸਮੁੰਦਰ ਹੈ, ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ ਪੁਲ ਹੈ ਤੇ ਜਹਾਜ਼ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਇਰੁ = ਸਮੁੰਦਰ। ਸੇਤੁ = ਪੁਲ। ਬੋਹਿਥਾ = ਜਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

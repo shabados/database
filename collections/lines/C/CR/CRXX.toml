@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਭ ਜੀਵਾਂ ਨੂੰ ਖਾਣ ਲਈ ਖ਼ੁਰਾਕ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਹਾਰ = ਖ਼ੁਰਾਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

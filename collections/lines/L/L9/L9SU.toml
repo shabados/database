@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਲੋਭ ਵਿਚ, ਮੋਹ ਵਿਚ, ਵਿਕਾਰ ਵਿਚ ਬੱਝਾ ਰਹਿੰਦਾ ਹਾਂ। ਅਸੀਂ ਜੀਵ ਅਨੇਕਾਂ ਪਾਪ ਕਮਾਂਦੇ ਰਹਿੰਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਬਾਧਿਓ = ਬੱਝਾ ਹੋਇਆ। ਦੋਖ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

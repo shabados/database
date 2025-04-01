@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਸਾਰੀਆਂ ਕੁਲਾਂ ਦਾ ਉੱਧਾਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਣੰ = (स्मरणं) ਸਿਮਰਨ ਕਰਨ ਦੁਆਰਾ, ਬੰਦਗੀ ਰਾਹੀਂ, ਭਜਨ ਕਰਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

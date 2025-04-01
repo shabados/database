@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਸ਼ਾਇਦ ਤੂੰ ਆਪਣੀ ਮਿਹਰ ਨਾਲ ਇਸਦਾ ਖਰੀਦਾਰ ਬਣ ਜਾਵੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਉਮੀਦਿ ਕਰਮਿ ਆਣ ਕਿ ਖ਼ਰੀਦਾਰ ਸ਼ਵੀ ।੬੧।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

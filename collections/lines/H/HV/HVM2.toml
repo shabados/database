@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਗੋਬਿੰਦ ਦੀ ਪੂਜਾ ਕਰਨ ਲਈ ਮੈਂ ਕਿਥੋਂ ਕੋਈ ਚੀਜ਼ ਲੈ ਕੇ ਭੇਟ ਕਰਾਂ? ਕੋਈ ਹੋਰ (ਸੁੱਚਾ) ਫੁੱਲ (ਆਦਿਕ ਮਿਲ) ਨਹੀਂ (ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਕਹਾ = ਕਿਥੋਂ? ਲੈ = ਲੈ ਕੇ। ਚਰਾਵਉ = ਮੈਂ ਭੇਟ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਦਾ ਮੈਂ ਇਕ ਨਿਮਾਣਾ ਜਿਹਾ ਸੇਵਕ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਦਾਸਰੋ = ਗਰੀਬ ਜਿਹਾ ਦਾਸ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

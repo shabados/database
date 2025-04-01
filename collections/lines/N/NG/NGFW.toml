@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਹੀ ਜਗਤ ਵਿਚ ਜੰਮਣਾ ਸਫਲ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਿ = ਧੰਨ, ਭਾਗਾਂ ਵਾਲੇ। ਪਰਵਾਣੁ = ਕਬੂਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

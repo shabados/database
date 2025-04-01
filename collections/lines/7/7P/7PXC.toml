@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਕੁੱਤੇ ਨੂੰ ਸਿੰਮ੍ਰਿਤੀਆਂ ਸੁਣਾਉਣ ਦਾ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕੀਹ ਲਾਭ? ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ। ਸੁਆਨ = ਕੁੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

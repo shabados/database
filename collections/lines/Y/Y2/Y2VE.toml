@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੀਆਣ ਅੱਖਾਣ ਦੀਆਣ ਪੁਤਲੀਆਣ ਨੂੰ ਸੁਰਮੇ ਦੀ ਕੋਈ ਲੋੜ ਨਹੀਣ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਦੁਮਾਨਿ ਚਸ਼ਮਿ ਮਾ ਰਾ ਏਹਤਿਆਜਿ ਸੁਰਮਾ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

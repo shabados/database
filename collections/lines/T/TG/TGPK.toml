@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਮੇਰੀ ਸੁਰਤ ਉਸ (ਪ੍ਰਭੂ ਦੇ ਚਰਨ-ਰੂਪ) ਘਰ ਵਿਚ ਜੁੜੀ ਹੋਈ ਹੈ ਜੋ ਮੇਰਾ ਆਪਣਾ ਅਸਲੀ ਘਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਪਦ ਊਪਰਿ = ਉਸ ਘਰ ਵਿਚ ਜਿਹੜਾ ਨਿਰੋਲ ਮੇਰਾ ਆਪਣਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

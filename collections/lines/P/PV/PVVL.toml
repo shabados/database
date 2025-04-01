@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਦਤਾਂ ਦਾ ਸਖੀ ਹੈ, ਨੈਣ ਨਕਸ਼ਾਂ ਦਾ ਸਾਊ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰੀਮੁਲ-ਸ਼ਮਾਇਲ ਮਨੀਅ-ਉਲ-ਨਿਸ਼ਾਂ ।੫੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

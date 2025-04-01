@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਦੁੱਤਰ ਮਾਇਆ ਹਿਰਦੇ-ਘਰ ਵਿਚ (ਮੇਰੇ ਮਨ ਨੂੰ) ਟਿਕਣ ਨਹੀਂ ਦੇਂਦੀ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਦੁਤਰ = {दुस्तर} ਜਿਸ ਤੋਂ ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੈ। ਮਾਈ = ਮਾਇਆ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

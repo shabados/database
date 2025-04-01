@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ! ਹੇ ਗਰੀਬਾਂ ਉੱਤੇ ਮਿਹਰ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਤ ਪਾਵਨ = ਹੇ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਕਰਨ ਵਾਲੇ! ਭਗਤਿ ਬਛਲ = ਹੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ! ਦੀਨ = ਗਰੀਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

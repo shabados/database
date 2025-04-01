@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਮਨ ਵਿਚ ਵਿਚਾਰ ਕੇ ਵੇਖ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ! ਬੀਚਾਰਿ = ਵਿਚਾਰ ਕਰ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

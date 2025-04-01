@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਤੈਨੂੰ ਚੰਗਾ ਲਗੇ ਤਿਵੇਂ, ਹੇ ਦਇਆਲ! ਮੈਨੂੰ ('ਕਨਿਕ ਕਾਮਨੀ ਹੇਤ' ਤੋਂ) ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਉ ਭਾਵੈ = ਜਿਵੇਂ ਤੈਨੂੰ ਚੰਗਾ ਲਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

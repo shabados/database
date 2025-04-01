@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਜੈ ਜੈਕਾਰ ਦੀ ਬਾਣੀ ਤੇ ਗੁਣ ਮੈਂ ਹਿਰਦੇ ਵਿਚ ਗਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਜੈ ਸਬਦੁ = ਪ੍ਰਭੂ ਦੀ ਜੈਕਾਰ ਦੀ ਬਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਸਾਰੇ ਥਾਵਾਂ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਤਹ = ਉੱਥੇ, 'ਸਰਬ ਥਾਨ ਕੋ ਰਾਜਾ' ਨਾਲ ਮੇਲ-ਅਵਸਥਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

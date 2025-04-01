@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸੱਚਾ ਬੋਲ ਗਿਆਨ ਦੇ ਨੂਰ ਤੋਂ ਕਿਧਰੇ ਉਚੇਰਾ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਸਰਿ ਅਨਵਾਰਿ ਇਲਮਿ ਹੱਕ ਕਾਲਿ ਊ ।੧੦੩।"
+page = 9
+line = 103
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

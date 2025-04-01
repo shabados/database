@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਹ ਘਰ ਮੇਰਾ ਹੈ, ਇਹ ਘਰ ਮੇਰਾ ਹੈ-ਇਸ ਮੋਹ ਦੇ ਅੰਨ੍ਹੇ ਖੂਹ ਦੇ ਬੰਧਨਾਂ ਤੋਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧ ਕੂਪ = ਅੰਨ੍ਹਾ ਖੂਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

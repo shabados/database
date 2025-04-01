@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਸ਼ਾਸਤ੍ਰ ਅਤੇ ਸਿਮ੍ਰਿਤੀਆਂ ਵਿਚਾਰਿਆਂ ਭੀ (ਇਹ ਪੜਦਾ ਦੂਰ ਨਹੀਂ ਹੋਵੇਗਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਧੇ = ਸੋਧਿਆਂ, ਵਿਚਾਰਿਆਂ। ਸਗਲ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

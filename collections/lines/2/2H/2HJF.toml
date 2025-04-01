@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਾਂਵਲੇ ਸੁਹਣੇ ਰਾਮ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਈਆ = ਹੇ ਸੁਹਣੇ ਰਾਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

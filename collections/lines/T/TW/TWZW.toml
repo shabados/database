@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ) ਹੇਠਾਂ ਉਤਾਂਹ (ਹਰ ਥਾਂ) ਬੀਠਲ ਹੀ ਬੀਠਲ ਹੈ, ਬੀਠਲ ਤੋਂ ਸੱਖਣਾ ਜਗਤ ਰਹਿ ਹੀ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਭੈ = ਉਤਾਂਹ। ਈਭੈ = ਹੇਠਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

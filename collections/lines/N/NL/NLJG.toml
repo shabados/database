@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਅਤਰ ਅਤੇ ਚੰਦਨ ਆਪਣੇ ਸਰੀਰ ਉਤੇ ਲਾ ਲਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਆ = ਅਤਰ। ਅੰਕਿ = ਸਰੀਰ ਉਤੇ। ਚੜਾਵਉ = (ਜੇ) ਮੈਂ ਲਾ ਲਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

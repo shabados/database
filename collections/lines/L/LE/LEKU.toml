@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਅੱਗੇ ਹੱਥ ਜੋੜ, ਇਹ ਬਹੁਤ ਭਲਾ ਕੰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਜੁਲੀ = ਦੋਵੇਂ ਹੱਥ ਜੋੜੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਕੁੱਲੀ ਚੰਗੀ ਹੈ, ਜਿਸ ਵਿਚ (ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ) ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੀ = ਚੰਗੀ। ਸੁਹਾਵੀ = ਸੋਹਣੀ, ਸੁਖ ਦੇਣ ਵਾਲੀ। ਛਾਪਰੀ = ਕੁੱਲੀ। ਜਾ ਮਹਿ = ਜਿਸ (ਕੁੱਲੀ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

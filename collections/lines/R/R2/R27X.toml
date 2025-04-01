@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਦਾ ਇੱਕ ਪ੍ਰਭੂ ਨੂੰ ਅੱਖਾਂ ਨਾਲ (ਹਰ ਥਾਂ) ਵੇਖਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਰਹਿ = ਵੇਖਦੇ ਹਨ। ਨੇਤ੍ਰੇ = ਅੱਖਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

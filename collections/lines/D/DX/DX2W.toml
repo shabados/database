@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ (ਮਾਇਆ) ਕੋਈ ਰੋਕ ਨਹੀਂ ਪਾ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੰਨਾਕਾਰੁ = ਨਾਹ, ਇਨਕਾਰ, ਰੁਕਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

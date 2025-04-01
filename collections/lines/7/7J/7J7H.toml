@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਤੇਰਾ ਹੀ ਤਕੜਾ ਸਹਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ। ਸਤਾਣੀ = ਤਾਣ ਵਾਲੀ, ਤਕੜੀ। ਮੇਰੈ = ਮੇਰੇ ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

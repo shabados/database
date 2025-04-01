@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਮੁੜ ਮੁੜ ਜਨਮ ਨਹੀਂ ਲੈਣਾ ਪੈਂਦਾ, ਉਹ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨਰਪਿ = {पुनः अपि} ਮੁੜ ਮੁੜ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

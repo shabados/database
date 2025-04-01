@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਦੇ ਅੰਦਰ ਐਬ ਪੈਦਾ ਹੋ ਜਾਂਦੇ ਹਨ, ਅਤੇ ਉਹਨਾਂ ਦੀ ਸਜ਼ਾ ਭੀ ਬਹੁਤ ਮਿਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਖ = ਐਬ। ਸਜਾਈ = ਸਜ਼ਾ, ਦੰਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

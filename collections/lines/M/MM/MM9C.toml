@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦਾ ਇਹ ਸਰੀਰ ਕਾਗ਼ਜ਼ ਵਾਂਗ ਨਾਸਵੰਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ। ਕਾਚੀ = ਨਾਸਵੰਤ। ਕਾਗਦ ਮਿਕਦਾਰਾ = ਕਾਗ਼ਜ਼ ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

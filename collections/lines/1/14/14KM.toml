@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜੀਭ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਗਾਉ = ਗਾਇਆ ਕਰ। ਰਸਨਾਂ = ਹੇ ਜੀਭ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

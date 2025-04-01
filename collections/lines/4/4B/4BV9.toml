@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿੱਥੇ ਹਨ ਪਸ਼ਮੀਨੇ ਦੇ ਗਾਤਰੇ? ਤੇ ਕਿੱਥੇ ਹਨ ਉਹ (ਫ਼ੌਜੀਆਂ ਦੀਆਂ) ਲਾਲ ਬਰਦੀਆਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਗਬੰਦ = ਗਾਤ੍ਰੇ। ਗਾਡੇਰੜਿ = {ਗਾਡਰ = ਭੇਡ} ਭੇਡ ਦੀ ਪਸ਼ਮ ਤੋਂ ਬਣੇ ਹੋਏ, ਪਸ਼ਮੀਨੇ ਦੇ। ਕਵਾਈ = ਪੁਸ਼ਾਕਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

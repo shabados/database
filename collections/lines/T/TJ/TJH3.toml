@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਆਪਣਾ ਇਹ ਸਰੀਰ ਤੇ ਇਹ ਮਨ (ਗੁਰੂ ਦੇ) ਹਵਾਲੇ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰੋ ਵਾਰਾ = ਵਾਰ ਵਾਰ ਕੇ, ਸਦਕੇ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

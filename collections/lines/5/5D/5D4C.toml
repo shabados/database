@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਮਨੁੱਖ ਉਹ ਵਸਤ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਬਧਿ = ਜਿਸ ਚੀਜ਼ ਦੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

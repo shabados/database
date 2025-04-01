@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੁੱਤਰ! (ਦੁਨੀਆ ਦੇ ਧਨ ਦੀ ਖ਼ਾਤਰ) ਪਿਤਾ ਨਾਲ ਕਿਉਂ ਝਗੜਾ ਕਰਦੇ ਹੋ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਤ = ਹੇ ਪੁੱਤਰ! ਕਾਹੇ ਝਗਰਤ ਹਉ = ਕਿਉਂ ਝਗੜਾ ਕਰਦੇ ਹੋ? ਸੰਗਿ ਬਾਪ = ਪਿਤਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

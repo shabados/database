@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਰ ਤੇ ਤੂੰ ਹੀ (ਆਪਣੀਆਂ ਇਹਨਾਂ ਕਰਤੂਤਾਂ ਦੇ ਕਾਰਨ) ਪਛੁਤਾਵੇਂਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਦਰਿ = ਉਸ ਦਰ ਤੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

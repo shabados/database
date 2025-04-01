@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੋਕੋ! ਮੇਰੀ ਗੱਲ ਉਤੇ ਮਖ਼ੌਲ ਨ ਉਡਾਓ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਕੜਿ = ਫੱਕੜੀ, ਮਖ਼ੌਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

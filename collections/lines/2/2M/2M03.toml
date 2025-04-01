@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ ਵਿਕਾਰਾਂ ਦੇ ਹੱਲੇ ਤੋਂ ਬਚੇ ਰਹੋਗੇ, ਤੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਵੋਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਹੁ = ਵਿਕਾਰਾਂ ਵਲੋਂ ਬਚੇ ਰਹੋਗੇ। ਭਵਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

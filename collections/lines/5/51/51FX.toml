@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੀ ਰਚਨਾ ਦੇ ਮੂਲ! ਹੇ ਨਿਰੰਜਨ! ਹੇ ਸਾਡੇ ਖਸਮ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਜਨ = ਹੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਪਰੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

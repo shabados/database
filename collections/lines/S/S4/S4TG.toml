@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਇੱਕ ਇੱਕ ਨੁੱਕਰ ਵਿਚ ਲੱਖਾਣ ਬਹਿਸ਼ਤੀ ਬਾਗ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਹਜ਼ਾਰਾਣ ਖ਼ੁਲਦ ਅੰਦਰ ਗ਼ੋਸ਼ਾ ਅਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

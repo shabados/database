@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਧੀਆ ਘੋੜੇ, ਰਥ, ਊਠ, ਹਾਥੀ, ਹਉਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਜੀ = ਅਰਬੀ ਨਸਲ ਦੇ ਘੋੜੇ। ਤੁਖਾਰ = ਊਠ। ਪਾਖਰੇ = ਹਉਦੇ, ਪਲਾਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

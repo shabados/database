@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਫਿਰ ਨਾਹ ਕਿਸੇ ਦੀ ਖ਼ੁਸ਼ਾਮਦ ਕਰਦਾ ਹੈ ਨਾਹ ਕਿਸੇ ਦੀ ਨਿੰਦਿਆ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਖ਼ੁਸ਼ਾਮਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

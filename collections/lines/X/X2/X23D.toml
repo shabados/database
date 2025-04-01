@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੀ ਆਤਮਕ ਰਾਸਿ-ਪੂੰਜੀ ਦਾ) ਰਤਾ ਭਰ ਭੀ ਨੁਕਸਾਨ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਲੁ ਨ ਵਿੰਗਾ ਹੋਆ = ਰਤਾ ਭੀ ਨੁਕਸਾਨ ਨਹੀਂ ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

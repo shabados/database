@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕਰਤਾਰ ਨੇ ਇਹ ਸ੍ਰਿਸ਼ਟੀ ਰਚੀ ਹੈ, ਇਸ ਦੀ ਪਾਲਨਾ ਦਾ ਫ਼ਿਕਰ ਭੀ ਉਸੇ ਨੂੰ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ ਕਰਤੈ = ਜਿਸ ਕਰਤਾਰ ਨੇ। ਕਰਣਾ = ਸ੍ਰਿਸ਼ਟੀ। ਤਾਹ = ਉਸ ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

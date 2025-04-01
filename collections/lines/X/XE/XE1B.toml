@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਇਹ ਸਿੰਮ੍ਰਿਤੀ ਜੋ ਵੇਦਾਂ ਦੇ ਆਧਾਰ ਤੇ ਬਣੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈ = ਹੇ ਭਾਈ! ਬੇਦ ਕੀ ਪੁਤ੍ਰੀ = ਵੇਦਾਂ ਦੀ ਧੀ, ਵੇਦਾਂ ਤੋਂ ਜੰਮੀ ਹੋਈ, ਵੇਦਾਂ ਦੇ ਅਧਾਰ ਤੇ ਬਣੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੁਰਗ ਵਰਗੇ ਦੇਸ ਵਿਚ ਵੱਸਦੇ ਹੋਣ, ਜੇ ਸਾਰੀ ਧਰਤੀ ਨੂੰ ਜਿੱਤ ਲੈਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੰਤਿ = ਵੱਸਦੇ ਹੋਣ। ਸ੍ਵਰਗ ਲੋਕਹ = ਸੁਰਗ ਵਰਗੇ ਦੇਸਾਂ ਵਿਚ। ਜਿਤਤੇ = ਜਿੱਤ ਲੈਣ। ਨਵ ਖੰਡਣਹ ਪ੍ਰਿਥਮੀ = ਨੌ ਖੰਡਾਂ ਵਾਲੀ ਧਰਤੀ, ਸਾਰੀ ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਅਨੇਕਾਂ ਹੀ ਸੁਆਦਲੇ ਖਾਣੇ ਖਾਂਦੀ ਰਹਾਂ, ਅਨੇਕਾਂ ਹੀ ਸੋਹਣੇ ਪਹਿਰਾਵੇ ਕਰਦੀ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੀ = ਕਿਤਨੇ ਹੀ। ਚਖਉ = ਮੈਂ ਚੱਖਾਂ। ਸਾਡੜੇ = ਸੁਆਦਲੇ ਪਦਾਰਥ। ਵੇਸ = ਪਹਿਰਾਵੇ। ਕਰੇਉ = ਮੈਂ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

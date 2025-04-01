@@ -30,6 +30,12 @@ language = "pa"
 data = "(ਪਾਂਧਿਆਂ ਨੇ ਸੋਚਿਆ ਕਿ) ਪ੍ਰਹਲਾਦ ਨੇ (ਤਾਂ) ਸਾਰੇ ਹੀ ਮੁੰਡੇ ਵਿਗਾੜ ਦਿੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਹਲਾਦਿ = ਪ੍ਰਹਲਾਦ ਨੇ। ਸਭਿ = ਸਾਰੇ। ਚਾਟੜੇ = ਪੜ੍ਹਨ ਵਾਲੇ ਮੁੰਡੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

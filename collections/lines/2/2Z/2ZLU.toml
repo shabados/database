@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਕੁਮਲਾਏ ਹੋਏ ਦਿਲ ਨੂੰ ਹਰਿਆ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਬਜ਼ ਕੁਨ ਹਰ ਖ਼ਾਤਿਰਿ ਅਫ਼ਸੁਰਦਾ ਰਾ ।੫੦੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

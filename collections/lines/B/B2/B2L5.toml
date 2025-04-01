@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਨਾਦ ਤੇ ਕਈ ਵੇਦ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਦ = ਅਵਾਜ਼, ਰਾਗ। ਵੇਦ = ਹਿੰਦੂ ਮਤ ਦੇ ਧਰਮ ਪੁਸਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

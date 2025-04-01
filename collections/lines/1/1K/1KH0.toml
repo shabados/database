@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਸੱਜਣੋਂ ਮਿੱਤਰੋ!) ਪਰਮਾਤਮਾ ਦਾ ਪਿਆਰ ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ) ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

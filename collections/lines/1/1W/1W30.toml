@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹ ਨਹੀਂ ਸਮਝਦਾ ਕਿ) ਉਹ ਸਰੀਰ (ਆਖ਼ਿਰ) ਮਿੱਟੀ ਵਿਚ ਰੁਲ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰ ਸੰਗਿ = ਧਰਤੀ ਨਾਲ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ (ਮੇਰੇ ਪਿਆਰੇ ਦਾ) ਰੋਗ ਦੂਰ ਕੀਤਾ ਹੈ, (ਉਸੇ ਦੀ ਮੇਹਰ ਨਾਲ) ਸੁਖ ਮਿਲਿਆ ਹੈ ਸ਼ਾਂਤੀ ਮਿਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਉਪਜਿਆ = ਪੈਦਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

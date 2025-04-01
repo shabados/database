@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਨੀਚ ਤੇ ਨੀਵੇਂ ਅਸਲੇ ਵਾਲਾ ਹੋ ਗਿਆ ਹਾਂ, ਪਰਾਇਆ ਘਰ ਤੱਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਘਰੁ = ਪਰਾਇਆ ਘਰ। ਜੋਹੀ = ਜੋਹੀਂ, ਮੈਂ ਤੱਕਦਾ ਹਾਂ। ਸਨਾਤਿ = ਨੀਵੇਂ ਅਸਲੇ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੰਦ ਦੇ ਦੇਂਦਾ ਹੈ ਪਰ ਉਸ ਨੂੰ ਉਸ ਨਾਦ ਦਾ ਧਿਆਨ ਨਹੀਂ ਵਿੱਸਰਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾ ਕੋ = ਉਸ (ਨਾਦ) ਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

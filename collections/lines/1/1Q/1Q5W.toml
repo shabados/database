@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੇ) ਸੱਚੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ-ਰੂਪ ਮੈਨੂੰ ਸਿਰੋਪਾਉ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪੜਾ = ਸਿਰੋਪਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

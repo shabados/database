@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰ-ਸ਼ਬਦ ਤੋਂ ਖੁੰਝ ਕੇ (ਮਾਇਆ-ਵੇੜ੍ਹਿਆ) ਮਨ ਪਾਗਲ ਹਾਥੀ (ਸਮਾਨ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਗਲੁ = ਹਾਥੀ। ਸਾਕਤੁ = ਰੱਬ ਨਾਲੋਂ ਟੁੱਟਾ ਹੋਇਆ, ਮਾਇਆ-ਵੇੜ੍ਹਿਆ। ਦੇਵਾਨਾ = ਪਾਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

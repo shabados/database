@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਨਮ ਜਨਮਾਂਤਰਾਂ ਵਿਚ ਕੀਤੇ ਕੁਕਰਮਾਂ ਦੇ ਅਸਰ ਹੇਠ ਹੀ) ਮਨੁੱਖ ਸ਼ਹਰਾਂ ਦੀਆਂ ਹੱਟੀਆਂ ਭੰਨਦਾ ਹੈ, ਪੱਕੇ ਘਰ ਭੰਨਦਾ ਹੈ (ਸੰਨ੍ਹ ਲਾਂਦਾ ਹੈ), ਚੋਰੀ ਕਰ ਕੇ (ਮਾਲ ਲੈ ਕੇ) ਆਪਣੇ ਘਰ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਟਣ = ਸ਼ਹਰ। ਬਿਜ = ਪੱਕੇ। ਮੰਦਰ = ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

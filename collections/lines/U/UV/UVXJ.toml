@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਕੋਈ ਡਰ ਕੋਈ ਚਿੰਤਾ) ਕੁਝ ਭੀ ਉਸ ਰਾਮ ਤੋਂ ਆਕੀ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਤੇ ਆਪ ਕਿਸੇ ਜੀਵ ਨੂੰ ਦੁੱਖ ਨਹੀਂ ਦੇ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਬਾਹਰਿ = (ਵੱਸ ਤੋਂ) ਬਾਹਰ, ਆਕੀ। ਹੋਗੁ = ਹੋਵੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

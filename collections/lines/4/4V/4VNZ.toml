@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੂੰ (ਇਹ ਕਿਣਕਾ) ਪਰਾਪਤ ਹੋ ਗਿਆ, ਉਹ ਅਮਰ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਕੂ ਯਾਫ਼ਤ ਊ ਜਾਵੀਦ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

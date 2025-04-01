@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫ਼ੌਜਾਂ ਤੇ ਧੌਂਸੇ ਤੇ ਸੋਹਣੇ ਘਰ ਇਥੇ ਹੀ ਰਹਿ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਣੇ = ਸਮੇਤ। ਦਮਾਮੇ = ਧੌਂਸੇ। ਬੰਕ = ਬਾਂਕੇ, ਸੁੰਦਰ। ਛੁਟੇ = ਸਾਥ ਛੁੱਟ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

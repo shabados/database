@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ! (ਮੇਹਰ ਕਰ) ਮੈਨੂੰ ਤੇਰੇ ਦਰਸਨ ਦਾ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੋ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨ ਸੁਖੁ = ਦਰਸਨ ਦਾ ਆਤਮਕ ਆਨੰਦ। ਹੋਇ = ਮਿਲ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

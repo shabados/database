@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮੱਥੇ ਉਤੇ ਸੰਤਾਂ ਨੇ ਆਪਣੇ ਹੱਥ ਰੱਖੇ ਹਨ-(ਮੇਰੇ ਵਾਸਤੇ ਇਹ ਬੜਾ ਹੀ ਸੁਭਾਗ ਸਮਾ ਹੈ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

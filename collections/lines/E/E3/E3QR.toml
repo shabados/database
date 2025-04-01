@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਲੱਗ ਕੇ ਮਨ ਦਾ ਮੁਰੀਦ ਜੀਵ ਦੁੱਖੀ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ = ਮਾਇਆ ਵਿਚ। ਲਾਗੇ = ਲਾਗਿ, ਲੱਗ ਕੇ। ਮਨਮੁਖਿ = ਮਨ ਦਾ ਮੁਰੀਦ ਮਨੁੱਖ। ਰੋਇ = ਰੋਂਦਾ ਹੈ, ਦੁੱਖੀ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

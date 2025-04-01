@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੈਥੋਂ ਬਿਨਾ) ਮੈਨੂੰ ਹੋਰ ਕੋਈ ਥਾਂ ਨਹੀਂ ਸੁੱਝਦੀ। ਤੈਥੋਂ ਬਿਨਾ ਮੈਂ ਹੋਰ ਕਿਸ ਦੇ ਅੱਗੇ ਫਰਿਆਦ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

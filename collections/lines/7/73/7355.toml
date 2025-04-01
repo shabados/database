@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ) ਜਿਤਨੇ ਭੀ ਸ਼ਾਹ, ਪਾਤਿਸ਼ਾਹ, ਰਾਜੇ, ਖ਼ਾਨ, ਅਮੀਰ ਤੇ ਸਰਦਾਰ ਹਨ, ਉਹ ਸਾਰੇ ਪਰਮਾਤਮਾ ਦੇ (ਹੀ) ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਕਦਾਰ = ਚੌਧਰੀ। ਹਹਿ = ਹਨ, ਹੈਂ। ਤਿਤਨੇ ਸਭਿ = ਉਹ ਸਾਰੇ ਹੀ। ਕੀਏ = ਪੈਦਾ ਕੀਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਦੇ ਨਾਮ ਦਾ ਭਜਨ ਆਪਣੇ ਮਨ ਵਿਚ ਕਰਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਜੁ = ਭਜਨ ਕਰਿਆ ਕਰ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਾਪੀ ਹਾਂ, ਸਿਰਫ਼ ਤੂੰ ਹੀ ਪਵਿਤ੍ਰ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲੁ = ਪਵਿਤ੍ਰ। ਤੂੰ ਏਕ = ਸਿਰਫ਼ ਤੂੰ ਹੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

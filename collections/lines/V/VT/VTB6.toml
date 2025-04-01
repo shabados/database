@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਇਹ ਜਗਤ-ਪਸਾਰਾ ਇਉਂ ਹੀ ਹੈ) ਜਿਵੇਂ ਸਰੀਰ ਉਤੇ ਪਹਿਨੇ ਹੋਏ ਕੱਪੜੇ ਦੋ ਚਾਰ ਦਿਨਾਂ ਵਿਚ ਪੁਰਾਣੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਤਰ = ਕੱਪੜੇ। ਓਢਾਨੇ = ਪਹਿਨੇ ਹੋਏ। ਭੋਰਾਹਾ = ਭੁਰ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

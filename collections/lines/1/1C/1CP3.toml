@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੀਰਥ ਉਤੇ ਇਸ਼ਨਾਨ ਕਰਨ ਨਾਲ ਤੂੰ ਕਿਸੇ ਜੀਵ ਦੇ ਵੱਸ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰਥਿ = ਤੀਰਥ ਉਤੇ। ਨਾਈਐ = ਜੇ ਇਸ਼ਨਾਨ ਕੀਤਾ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

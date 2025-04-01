@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਰਾਜ ਮਿਲ ਜਾਏ, ਭੁਇਂ ਦੀ ਮਾਲਕੀ ਹੋ ਜਾਏ ਅਤੇ ਬਹੁਤ ਹਕੂਮਤ ਮਿਲ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਖ = ਜ਼ਮੀਨ। ਫੁਰਮਾਇਸਿ = ਹਕੂਮਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

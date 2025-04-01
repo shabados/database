@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚੰਨ ਸੂਰਜ ਰਾਤ ਦਿਨ ਉਸ ਦੀ ਗਲੀ ਦੀ ਪਰਕਰਮਾਣ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਹੋ ਖ਼ੁਰਸ਼ੀਦ ਗਿਰਦਿ ਕੂਇ ਊ ਗਰਦੰਦ ਰੂਜੌ ਸ਼ਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

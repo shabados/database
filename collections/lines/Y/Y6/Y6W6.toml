@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਨੂੰ ਆਜਿਜ਼ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ) ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਮਸਕੀਨ = ਆਜਿਜ਼, ਨਿਮਾਣਾ। ਮੋਹਿ ਮਸਕੀਨ = ਮੈਨੂੰ ਨਿਮਾਣੇ ਨੂੰ। ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਨਿਰੇ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਗੱਲਾਂ ਛੱਡੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜ ਕਬਾੜਾ = ਕੂੜ ਦਾ ਕਬਾੜਾ, ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਗੱਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

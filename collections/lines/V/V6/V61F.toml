@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਹੀਂ ਤਾਂ) ਮਤਾਂ ਖਸਮ ਸੇਜ ਤੇ ਆਵੇ ਹੀ ਨਾਹ ਤੇ ਸਿੰਗਾਰ ਐਵੇਂ ਵਿਅਰਥ ਹੀ ਚਲਾ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤੁ = ਮਤਾ। ਬਿਰਥਾ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

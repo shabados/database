@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ) ਰਸ ਚੱਖਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ) ਭੋਗ ਭੋਗਣ ਵਾਲਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸੀਅੜਾ = ਰਸ ਲੈਣ ਵਾਲਾ। ਭੋਗ = ਮਾਇਕ ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

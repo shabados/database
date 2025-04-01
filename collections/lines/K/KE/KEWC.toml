@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਲ ਵਿਚ ਉਹ ਦੋਹਾਂ ਜਹਾਨਾਂ ਲਈ ਪਨਾਹ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਕੀਕਤ ਹਰ ਦੋ ਆਲਮ ਅਪਨਾਹ ।੨੩੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

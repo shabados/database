@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਨੇ ਮੇਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਆਪਣੀ ਸਰਨ ਵਿਚ ਰੱਖਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

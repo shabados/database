@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਾਰਾ ਮਾਣ ਸਾਰੀ ਵਡਿਆਈ ਛੱਡ ਦਿੱਤੀ ਹੈ। ਮੈਂ ਉਹਨਾਂ ਦਾਸਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਮੰਗਦਾ ਹਾਂ, ਮੈਂ ਉਹਨਾਂ ਦਾਸਾਂ ਦੀ ਸਰਨ ਆਇਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲਾ = ਸਾਰਾ। ਮਾਨੁ ਮਹਤਾ = ਮਹੱਤਤਾ ਦਾ ਮਾਣ। ਰੇਣ = ਚਰਨ ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

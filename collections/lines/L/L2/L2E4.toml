@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਕੰਮੇ ਮੋਹ ਵਿਚ ਫਸੇ ਹੋਏ ਮਨਮੁਖਾਂ ਦੀ ਉਮਰ 'ਮੈਂ, ਮੈਂ' ਕਰਦਿਆਂ ਹੀ ਗੁਜ਼ਰ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਹੰਧੁ = ਬੀਤਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

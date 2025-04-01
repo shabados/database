@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਹੁਣ ਤਕ ਦੀ ਕੀਤੀ ਮਿਹਨਤ ਦੇ ਲਿਖੇ ਅਨੁਸਾਰ ਧਨ ਮਿਲ (ਭੀ) ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਬਿ = (ਹੁਣ ਤੋਂ) ਪਹਿਲੇ ਸਮੇ ਵਿਚ, ਪੂਰਬਲੇ ਸਮੇ ਵਿਚ, ਹੁਣ ਤਕ ਦੇ ਸਮੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

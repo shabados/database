@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਬੁੱਢੇ ਅਤੇ ਕੀ ਜਵਾਨ, ਸਾਰੇ ਉਸ ਤੋਂ ਕਾਮਨਾਂ ਪੂਰੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਪੀਰੋ ਚਿਹ ਬਰਨਾ ਅਜ਼ੋ ਕਾਮਯਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

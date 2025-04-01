@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਨਾਮ ਦਾ ਪਿਆਰ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਬਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੀ = ਕਿਰਪਾ ਨਾਲ। ਨਾਮ ਪਿਆਰੁ = ਨਾਮ ਦਾ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

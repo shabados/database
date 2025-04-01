@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਦੇ) ਗੁਰੂ ਦੇ ਚਰਨ ਮੇਰੇ ਮਨ ਵਿਚ ਵੱਸ ਪਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਮੇਰੈ = ਮਨਿ ਮੇਰੈ, ਮੇਰੇ ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

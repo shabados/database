@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੁਲਤਾਨ ਆਪਣੇ ਸਿਰ ਤੇ (ਅਸਲ) ਛਤਰ ਝੁਲਵਾਉਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਾਨੁ = ਸੁਲਤਾਨ।॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

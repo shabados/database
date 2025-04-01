@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹਨੀਂ ਕੰਮੀਂ) ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਪਾਸੋਂ ਉਲਾਹਮਾ ਲਿਆ (ਕਿ ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਮਨੋਰਥ ਨਾਹ ਖੱਟਿਆ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਸਹੁ = ਕੋਲੋਂ। ਕਹਣੁ = ਉਲਾਹਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

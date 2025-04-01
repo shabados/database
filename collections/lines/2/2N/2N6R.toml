@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਸ ਸਭ ਕੁਝ ਦੇ ਹੁੰਦੇ ਹੋਏ ਵੀ ਸੁਤੰਤਰ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਹਮਾ ਅਜ਼ ਜੁਮਲਾ ਆਜ਼ਾਦੰਦ ਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

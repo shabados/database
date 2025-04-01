@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ (ਹਰੇਕ ਜੀਵ ਦੇ) ਅੰਦਰ ਗੁਪਤ ਰੱਖਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਅੰਦਰਿ = (ਹਰੇਕ ਜੀਵ ਦੇ) ਅੰਦਰ। ਆਪੁ = ਆਪਣਾ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

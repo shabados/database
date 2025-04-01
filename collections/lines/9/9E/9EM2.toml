@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਆਖਿਆ ਹੈ ਕਿ ਮੈਂ ਤੀਰਥਾਂ ਉੱਤੇ ਹੀ ਨਿਵਾਸ ਰੱਖਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਵਾਸੀ = ਵੱਸਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

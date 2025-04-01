@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮੁਕਤੀ ਦਾ ਦਰ ਦਿੱਸ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਨਿ = ਸਿਮਰਨ ਕਰਨ ਵਾਲਾ। ਦੁਆਰੁ = ਬੂਹਾ, ਦਰਵਾਜ਼ਾ। ਹੋਇ = ਦਿੱਸ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

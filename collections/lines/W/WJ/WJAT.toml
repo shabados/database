@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਲਗਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਨਾਮਿ = ਰਾਮ ਦੇ ਨਾਮ ਵਿਚ। ਲਿਵ = ਲਗਨ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

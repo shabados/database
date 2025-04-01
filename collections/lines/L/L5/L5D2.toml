@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗਿਆਨਵਾਨ, ਪੁਹੰਚੇ ਹੋਏ, ਪੂਰਨ ਅਤੇ ਉਸ ਸ਼ਹੁ ਨਾਲ ਮਿਲ ਚੁਕੇ ਪ੍ਰੇਮੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਰਿਫ਼ਾਨੋ ਕਾਮਿਲਾਨੋ ਵਾਸਿਲਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

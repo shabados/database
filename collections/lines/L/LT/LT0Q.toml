@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ) ਉਸ ਪਰਮਾਤਮਾ (ਦੀ ਯਾਦ) ਵਲੋਂ ਮੂੰਹ ਮੋੜੀ ਬੈਠਾ ਹੈਂ, ਜਿਸ ਨੇ (ਤੈਨੂੰ) ਜਿੰਦ ਦਿੱਤੀ, ਜਿਸ ਨੇ (ਤੈਨੂੰ) ਸਰੀਰ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

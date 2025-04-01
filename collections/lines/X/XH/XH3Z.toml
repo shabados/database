@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੋਈ ਮਨੁੱਖ ਮਨ ਦੇ ਲੱਡੂ ਭੋਰ ਰਿਹਾ ਹੈ, ਆਪਣੇ ਮਨ ਵਿਚ) ਕਈ ਸਲਾਹਾਂ ਬਣਾਂਦਾ ਹੈ ਤੇ ਢਾਂਹਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢਾਹਿ ਉਸਾਰੇ = ਢਾਹ ਕੇ ਉਸਾਰਦਾ ਹੈ, ਖ਼ਿਆਲਾਂ ਦੇ ਲੱਡੂ ਭੋਰਦਾ ਹੈ ਬਣਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

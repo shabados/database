@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੈਨੂੰ ਸਾਫ ਪਿਆਲੇ ਦਾ ਸੁਆਦ ਆ ਸਕੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਯਾਬੀ ਬਜ਼ਤੇ ਅਜ਼ ਜਾਮਿ ਸਾਫ਼ ।੪੮।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

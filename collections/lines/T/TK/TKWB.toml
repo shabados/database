@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੀ (ਦੁਨੀਆ ਦੇ ਲੋਕਾਂ ਨਾਲੋਂ) ਇਹ ਵੱਖਰੀ ਹੀ ਜੀਵਨ-ਚਾਲ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀਤਿ = ਮਰਯਾਦਾ, ਜੀਵਨ-ਚਾਲ। ਨਿਰਾਲੀ = ਵੱਖਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

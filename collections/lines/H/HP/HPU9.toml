@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ ਜੀਵ! ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਖੋਜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਿਗਤੁ = {ਸੰ: अव्यक्त ਅਵ੍ਯਕਤ = ਅਦ੍ਰਿਸ਼ਟ ਪ੍ਰਭੂ} ਪਰਮਾਤਮਾ। ਇਆਨਾ = ਹੇ ਅੰਞਾਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

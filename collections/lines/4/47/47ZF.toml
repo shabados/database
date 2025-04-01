@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਜੀਵਾਂ ਦਾ ਖਸਮ ਹੈਂ, ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੀ ਹੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਥ = ਖਸਮ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

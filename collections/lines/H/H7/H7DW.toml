@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਨਿਰਾ ਨੂਰ ਹੀ ਨੂਰ ਹੈ, ਜੋ ਸਾਰੇ ਜਗਤ ਦਾ ਅਸਲਾ ਹੈ, ਜਿਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤਿ ਸਰੂਪੀ = ਉਹ ਪ੍ਰਭੂ ਜੋ ਨਿਰਾ ਨੂਰ ਹੀ ਨੂਰ ਹੈ। ਤਤ = ਅਸਲਾ, ਸਭ ਦਾ ਮੁੱਢ। ਅਨੂਪ = ਜਿਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

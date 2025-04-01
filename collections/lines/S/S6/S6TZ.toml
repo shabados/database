@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ ਮੈਂ ਨਿਸੰਗ ਹੋ ਕੇ ਉਸ ਨੂੰ ਆਖਦਾ ਹਾਂ, ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰਾ ਬੱਚਾ ਹਾਂ, ਤੂੰ ਮੇਰਾ ਪਿਉ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

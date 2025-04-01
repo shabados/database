@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਆਪਣੇ ਵੱਡੇ-ਵਡੇਰੇ ਮਰ ਚੁਕੇ ਹੁੰਦੇ ਹਨ ਉਹ ਭੁੱਲ ਜਾਂਦੇ ਹਨ (ਭਾਵ, ਇਹ ਗੱਲ ਭੁੱਲ ਜਾਂਦੀ ਹੈ ਕਿ ਉਹ ਜੋੜੀ ਹੋਈ ਮਾਇਆ ਇੱਥੇ ਹੀ ਛੱਡ ਗਏ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਲੇ = ਆਪਣੇ ਤੋਂ ਪਹਿਲੇ, ਆਪਣੇ ਵੱਡੇ ਵਡੇਰੇ। ਸਿ = ਉਹ ਵੱਡੇ ਵਡੇਰੇ। ਪਾਛੈ ਪਰੇ = ਭੁੱਲ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

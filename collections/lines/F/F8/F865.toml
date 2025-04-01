@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਚਰਨ ਧੋਣ ਦੇ ਸਾਹਮਣੇ ਅੰਮ੍ਰਿਤ ਕੀ ਚੀਜ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਹੈਵਾਂ ਮੁਕਾਬਿਲ ਬ-ਪਾਸ਼ੂਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

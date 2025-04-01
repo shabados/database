@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਪਰਮਾਤਮਾ ਪਾਸੋਂ ਦੁਨੀਆ ਦੀ) ਕਿਹੜੀ ਸ਼ੈ ਮੰਗਾਂ? ਕੋਈ ਸ਼ੈ ਸਦਾ ਰਹਿਣ ਵਾਲੀ ਨਹੀਂ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗਉ = ਮੈਂ ਮੰਗਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

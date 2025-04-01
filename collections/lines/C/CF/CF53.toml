@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਨਾਨਕ ਦੀ ਅਰਦਾਸ ਭੀ ਇਹੀ ਹੈ ਜੇ ਤੈਨੂੰ ਇਹ ਪਸੰਦ ਆ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵਸੀ = ਚੰਗੀ ਲੱਗੇ, ਪਸੰਦ ਆਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

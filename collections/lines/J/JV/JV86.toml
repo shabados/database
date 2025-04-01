@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਕਿਤਨੀ ਹੀ ਮਿਹਨਤ ਮਨੁੱਖ ਕਰੇ, ਰੱਬ ਵਾਲਾ ਪਾਸਾ ਮਨ ਦੇ ਹਠ ਨਾਲ ਜਿੱਤਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਠਿ = ਹਠ ਨਾਲ। ਜਿਪਈ = ਜਿੱਤਿਆ ਜਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

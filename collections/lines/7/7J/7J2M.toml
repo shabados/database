@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਜਦੋਂ ਤੇਰਾ (ਅਸਲ ਖੱਟੀ) ਖੱਟਣ ਦਾ ਵੇਲਾ ਸੀ ਤਦੋਂ ਤੂੰ ਦੁਨੀਆ (ਦੀ 'ਪੋਟਲੀ') ਨਾਲ ਮਸਤ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤੇਰਾ। ਖਟਣ ਵੇਲ = ਖੱਟਣ ਦਾ ਵੇਲਾ। ਰਤਾ = ਰੱਤਾ, ਰੰਗਿਆ ਹੋਇਆ, ਮਸਤ। ਸਿਉ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! ਉਹ ਭਗਤ ਪ੍ਰਭੂ ਦੇ ਪਿਆਰੇ ਹੁੰਦੇ ਹਨ ॥੮॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = ਉਹ (ਸੇਵਕ ਜੋ ਉਸ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ) {ਲਫ਼ਜ਼ 'ਓਇ' ਬਹੁ-ਵਚਨ ਹੈ} ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

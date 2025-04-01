@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਕਿਰਪਾਲ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾਲ = ਹੇ ਕਿਰਪਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

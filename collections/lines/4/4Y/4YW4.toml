@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂ ਆਪਣੀ ਮਨ-ਮਰਜ਼ੀ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਮਨਿ ਭਾਵਨੁ = ਆਪਣੇ ਮਨ ਵਿਚ (ਪੈਦਾ ਹੋਈ) ਮਰਜ਼ੀ, ਮਨ ਮਰਜ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

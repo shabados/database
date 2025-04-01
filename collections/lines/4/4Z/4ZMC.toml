@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਐਸਾ ਹੈ ਜੋ ਮਾਪਿਆਂ ਦਾ ਸਾਥ ਛੱਡ ਕੇ ਇਕੱਠੀ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਛੱਡ ਕੇ। ਮਹਤਾਰੀ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

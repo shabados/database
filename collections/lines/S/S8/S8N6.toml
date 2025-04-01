@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਹਰ ਇੱਕ ਵਾਲ ਨੂੰ ਜੀਭ ਕਰ ਦੇਣ ਦੀ ਕਿਰਪਾ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਸਰਿ ਮੂਏਮ ਜ਼ੁਬਾਂ ਕੁਨ ਅਜ਼ ਕਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

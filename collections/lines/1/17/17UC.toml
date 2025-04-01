@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੋਤੀਆਂ ਦੀ ਮਾਲਾ, ਸੋਨਾ, ਲਾਲ, ਹੀਰੇ, ਮਨ ਨੂੰ ਖ਼ੁਸ਼ ਕਰਨ ਵਾਲੀ ਮਾਇਆ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਕਤਿ = {मौक्‍ितक} ਮੋਤੀ। ਕਨਿਕ = ਸੋਨਾ। ਮਨ ਰੰਜਨ ਕੀ = ਮਨ ਨੂੰ ਖ਼ੁਸ਼ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

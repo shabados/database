@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪੂਰਾ ਗੁਰੂ ਹੀ ਮੇਰਾ ਠਾਕੁਰ ਹੈ, ਮੇਰਾ ਮਨ ਗੁਰੂ ਦੀ ਦੱਸੀ ਹੋਈ ਕਾਰ ਹੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਰਾ = ਸਾਡਾ, ਮੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

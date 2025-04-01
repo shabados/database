@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੈਥੋਂ ਵੱਖਰੀ) ਮੇਰੀ ਕੋਈ ਹਸਤੀ ਨਹੀਂ ਹੈ ਅਤੇ ਕੋਈ ਮੇਰੀ ਮਲਕੀਅਤ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਨਾਹੀ = ਮੇਰੀ ਕੋਈ ਹਸਤੀ ਨਹੀਂ। ਕਛੁ = ਕੋਈ ਚੀਜ਼। ਨ ਆਹਿ = ਨਹੀਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

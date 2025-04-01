@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਮੀਨ ਦਾਨ ਕਰਾਂ, ਬਹੁਤ ਸਾਰੀਆਂ ਗਾਂਈਆਂ ਦਾਨ ਕਰਾਂ, ਫਿਰ ਭੀ (ਸਗੋਂ ਇਸ ਦਾਨ ਦਾ ਹੀ) ਮਨ ਵਿਚ ਅਹੰਕਾਰ ਮਾਣ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਮਿ = ਜ਼ਮੀਨ, ਭੁਇਂ। ਘਣੀ = ਬਹੁਤੀਆਂ। ਗਰਬੁ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਿਆਂ ਕੋਈ ਦੁੱਖ ਕਲੇਸ਼ ਪੋਹ ਨਹੀਂ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਤ = ਜਪਦਿਆਂ। ਸੰਤਾਪ = ਦੁੱਖ-ਕਲੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

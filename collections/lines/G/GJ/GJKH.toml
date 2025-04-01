@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣੇ ਘਰ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈਂ, ਪਰ ਮੈਂ (ਤੈਥੋਂ ਵਿਛੁੜ ਕੇ ਵਿਕਾਰਾਂ ਵਿਚ) ਖ਼ੁਆਰ ਹੋ ਕੇ ਸੁਆਹ ਦੀ ਢੇਰੀ ਹੋ ਰਹੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਘਰਿ = ਆਪਣੇ ਘਰ ਵਿਚ। ਹਉ = ਹਉਂ, ਮੈਂ। ਰੁਲਿ = ਰੁਲ ਕੇ, (ਵਿਕਾਰਾਂ ਵਿਚ), ਖ਼ੁਆਰ ਹੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

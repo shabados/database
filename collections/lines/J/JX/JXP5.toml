@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਵਾਲੀ ਸਿਆਣਪ, ਤੇ, ਦੁਨੀਆ ਵਾਲੀ ਵਡਿਆਈ-ਇਹਨਾਂ ਨੂੰ ਮੈਂ ਅੱਗ ਵਿਚ ਸਾੜ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਕਨ ਕੀ = ਲੋਕਾਂ ਵਾਲੀ। ਉਪਮਾ = ਵਡਿਆਈ। ਤੇ = ਉਹ ਸਾਰੀਆਂ। ਬੈਸੰਤਰਿ = ਅੱਗ ਵਿਚ। ਜਾਰਿ = ਜਾਰਿ ਦੀਈ, ਸਾੜ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

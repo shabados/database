@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੋ (ਉਪਦੇਸ਼) ਗੁਰੂ ਨੇ ਦਿੱਤਾ ਹੈ, ਉਹ (ਹਰੇਕ ਮਨੁੱਖ ਦੇ) ਮਨ ਦੇ ਕੰਮ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਕਾਮਿ = ਕੰਮ ਵਿਚ। ਮਨ ਕੈ ਕਾਮਿ = ਮਨ ਦੇ ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

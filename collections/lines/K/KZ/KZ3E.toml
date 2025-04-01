@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾ ਸੂਰਜ, ਨਾਹ ਚੰਦਰਮਾ, ਨਾਹ ਇਹ ਦਿੱਸਦਾ ਆਕਾਸ਼,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਜ। ਸਸਿ = ਚੰਦ੍ਰਮਾ। ਮੰਡਲੋ = ਦਿੱਸਦਾ ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

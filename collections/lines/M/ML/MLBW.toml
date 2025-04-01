@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚੰਨ ਵਰਗੇ ਸੋਹਣਿਆਣ ਦੀਆਣ ਗੰਢਾਣ ਲੱਗੀਆਣ ਜ਼ੁਲਫ਼ਾਣ ਦੀ ਲਾਲਸਾ ਵਿਚ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੰਦਰ ਹਵਾਇ ਜ਼ੁਲਫ਼ਿ ਗਿਰਾਹਗੀਰ ਮਹਿਵਸ਼ਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

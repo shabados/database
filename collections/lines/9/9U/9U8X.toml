@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਦੇ ਅੰਦਰ) ਅਡੋਲਤਾ ਦੀ ਹਾਲਤ ਪੈਦਾ ਹੁੰਦੀ ਹੈ, ਗਿਆਨ ਵਾਲੀ ਬੁੱਧ ਪਰਗਟ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜੁ = ਉਹ ਅਵਸਥਾ ਜਿਸ ਵਿਚ ਭਟਕਣਾ ਨਾਹ ਰਹੇ, ਅਡੋਲਤਾ। ਗਿਆਨ ਮਤਿ = ਗਿਆਨ ਵਾਲੀ ਬੁੱਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਜੀਵਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਾਲੇ! (ਮੇਰੇ ਉਤੇ) ਮੇਹਰ ਕਰ, ਮੈਂ ਸਦਾ ਤੇਰੀ ਹੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲਕ = ਹੇ ਪਾਲਣਹਾਰ! ਸਲਾਹੀ = ਸਲਾਹੀਂ, ਮੈਂ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਹ ਤੋਲੇ ਜਾ ਸਕਣ ਵਾਲੇ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਾਸ ਸਦਾ ਤੇਰਾ ਨਾਮ ਜਪਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਤਿ = ਸਦਾ। ਜਪਹਿ = ਜਪਦੇ ਹਨ। ਪੁਰਖ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਅਤੋਲਈ = ਜੋ ਤੋਲਿਆ ਨਾਹ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

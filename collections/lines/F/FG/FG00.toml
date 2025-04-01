@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀਆਂ ਬੇਅੰਤ ਤਾਕਤਾਂ ਹਨ, ਤੇਰੀਆਂ ਬੇਅੰਤ ਬਖ਼ਸ਼ਸ਼ਾਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਦਰਤੀ = ਕੁਦਰਤਾਂ। ਦਾਤਿ = ਦਾਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

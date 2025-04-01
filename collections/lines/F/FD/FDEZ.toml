@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਤੂੰ ਬੜੇ ਅਹੰਕਾਰ ਅਤੇ ਮੋਹ ਵਿਚ ਫਸੀ ਪਈ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤਿ = ਬਹੁਤ। ਗਰਬੈ = ਹੰਕਾਰ ਵਿਚ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਫਾਕੀ = ਫਸੀ ਹੋਈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

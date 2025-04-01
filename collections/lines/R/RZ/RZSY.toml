@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਦੁਨੀਆ ਦੀਆਂ ਵਡਿਆਈਆਂ ਨੂੰ ਅੱਗ ਨਾਲ ਸਾੜ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗੀ ਸੇਤੀ = ਅੱਗ ਨਾਲ। ਜਾਲਿ = ਸਾੜ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

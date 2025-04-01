@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਬਾਗ਼ ਵਲ ਝੱਟ ਪਲ ਲਈ ਟਹਿਲਦਾ ਆਵੇ । ਤੇਰਾ ਰੱਬ ਰਾਖਾ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਮੇ ਬਸੂਇ ਗੁਲਿਸਤਾਨਿ ਮਨ ਖ਼ੁਦਾ ਹਾਫ਼ਿਜ਼ ।੪੫।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

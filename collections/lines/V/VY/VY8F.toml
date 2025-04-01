@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਅਨੇਕਾਂ ਸ਼ਿਵ ਜੀ ਪਰਮਾਤਮਾ ਦੇ ਦਿਲ ਦੀ ਗੱਲ ਨਹੀਂ ਜਾਣਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕਰ = ਅਨੇਕਾਂ ਸ਼ਿਵ। ਭੇਵ = ਭੇਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

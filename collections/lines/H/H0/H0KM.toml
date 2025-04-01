@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਧਰਤੀ ਅਤੇ ਆਸਮਾਨ ਰੱਬ ਨਾਲ ਭਰਪੂਰ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਜ਼ਮੀਨੋ ਆਸਮਾਂ ਪੁਰ ਅਜ਼ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

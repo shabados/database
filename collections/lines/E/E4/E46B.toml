@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੋਰਾਂ, ਲੁੱਚੇ ਬੰਦਿਆਂ, ਵਿਭਚਾਰਨ ਔਰਤਾਂ ਤੇ ਦੱਲੀਆਂ ਦਾ ਆਪੋ ਵਿਚ ਬਹਿਣ ਖਲੋਣ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰ = ਵਿਭਚਾਰੀ ਮਨੁੱਖ। ਰੰਡੀ = ਵਿਭਚਾਰਨ ਇਸਤ੍ਰੀ। ਕੁਟਣੀ = ਦੱਲੀ। ਦੀਬਾਣੁ = ਮਜਲਸ, ਬਹਿਣ ਖਲੋਣ ਦੀ ਸਾਂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

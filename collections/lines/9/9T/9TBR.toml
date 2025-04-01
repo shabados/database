@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਤ੍ਰਿਗੁਣੀ ਮਾਇਆ (ਸਾਰੇ ਜੀਵਾਂ ਉਤੇ ਆਪਣਾ) ਜ਼ੋਰ ਪਾ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਬਿਧਿ = ਤਿੰਨਾਂ ਗੁਣਾਂ ਵਾਲੀ। ਰਹੀ ਬਿਆਪਿ = (ਆਪਣਾ) ਜ਼ੋਰ ਪਾ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

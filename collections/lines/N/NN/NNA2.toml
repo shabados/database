@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਮਨੁੱਖ ਦਾ) ਇਹ ਸਰੀਰ ਝੂਠ ਠੱਗੀ-ਫ਼ਰੇਬ ਨਾਲ ਨਕਾ-ਨਕ ਭਰਿਆ ਰਹਿੰਦਾ ਹੈ ਤੇ ਜੀਵ ਪਾਪ ਕਮਾਂਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜਿ = ਕੂੜ ਨਾਲ। ਕੁਸਤਿ = ਕੁਸੱਤ ਨਾਲ, ਠੱਗੀ-ਫ਼ਰੇਬ ਨਾਲ। ਗਲ ਤਾਈ = ਗਲ ਤਕ, ਨਕਾ-ਨਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

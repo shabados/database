@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕਿਰਪਾ ਨਾਲ (ਮੇਰੇ ਗਲੋਂ) ਮਾਇਆ (ਦੇ ਮੋਹ) ਦੀ ਫਾਹੀ ਕੱਟੀ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਲਕ = ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ ਇਸ ਲੋਕ ਵਿਚ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਸੁਖ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਪਾਛੈ = ਇਸ ਲੋਕ ਵਿਚ। ਕੁਸਲੁ = ਸੁਖ। ਭਇਆ = ਹੋ ਗਿਆ, ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

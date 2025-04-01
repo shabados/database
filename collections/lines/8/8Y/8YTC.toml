@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਆਪ ਭੀ ਜੀਵ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਨਾਲ ਹਰੇਕ ਜੀਵ ਹਰਾ (ਭਾਵ, ਜਿੰਦ ਵਾਲਾ) ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿਲਾ ਪਾਣੀ = ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਪਾਣੀ, ਪਾਣੀ ਆਪ ਭੀ। ਜਿਤੁ = ਜਿਸ ਨਾਲ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ। ਹਰਿਆ = ਹਰਾ, ਜਿੰਦ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

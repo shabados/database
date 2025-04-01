@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ ਇਸ) ਰੋਗ ਨੂੰ ਗੁਰੂ ਹੀ ਸਮਝ ਸਕਦਾ ਹੈ ਤੇ ਉਹੀ ਮੇਰਾ ਦੁੱਖ ਕੱਟ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ = ਉਹ (ਗੁਰੂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

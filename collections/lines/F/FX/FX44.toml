@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਹਿਰ ਤੇ ਅੰਮ੍ਰਿਤ (ਭੀ ਸਮੁੰਦਰ ਵਿਚ) ਇਕੱਠੇ ਹੀ ਵੱਸਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਿਰ। ਇਕ ਸੰਗਾ = ਇਕੱਠੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

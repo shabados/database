@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੁਖ ਚਾਹੇ ਦੁੱਖ) ਜੋ ਕੁਝ ਤੂੰ ਮੈਨੂੰ ਦੇਂਦਾ ਹੈਂ ਮੈਂ ਉਸ ਨੂੰ ਸੁਖ ਜਾਣ ਕੇ ਸਹਾਰਦਾ ਹਾਂ (ਕਬੂਲਦਾ ਹਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੁ ਸਹਣਾ = ਸੁਖ (ਜਾਣ ਕੇ) ਸਹਾਰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

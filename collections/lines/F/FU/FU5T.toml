@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਭੀ) ਤੀਰਥ ਉਤੇ ਇਸ਼ਨਾਨ ਕਰਨ ਜਾਂਦਾ ਹਾਂ (ਪਰ ਮੇਰੇ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ (ਹੀ) ਤੀਰਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰਥਿ = ਤੀਰਥ ਉਤੇ। ਜਾਉ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

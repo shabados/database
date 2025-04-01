@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੋ ਧੋਤੀਆਂ ਰੱਖਦਾ ਹੈਂ, (ਹੋਰ) ਕਰਮ ਕਾਂਡ (ਭੀ ਕਰਦਾ ਹੈਂ), ਦੂਧਾਧਾਰੀ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ ਖੀਰੰ = ਮੂੰਹ ਵਿਚ ਦੁੱਧ ਹੈ, ਦੂਧਾਧਾਰੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

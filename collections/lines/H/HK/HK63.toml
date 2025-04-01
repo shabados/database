@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ (ਸਤ ਸੰਗਣ) ਸਹੇਲੀਹੋ! ਪ੍ਰੇਮ ਨਾਲ (ਮੇਰੀ ਗੱਲ) ਸੁਣੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ ਸਹੇਲੀ = ਹੇ ਸਖੀ ਸਹੇਲੀਓ! ਭਾਇ = ਪ੍ਰੇਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

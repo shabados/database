@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਸੰਸਾਰ ਦਾ ਮੁੱਢ ਤੂੰ ਆਪ ਹੀ ਬਣਾਇਆ, (ਕਿਉਂਕਿ ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਭੀ) ਤੂੰ ਆਪ ਹੀ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਣੁ = ਮੁੱਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

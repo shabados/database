@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਾਧੂ ਜਨਾਂ ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਰਿ = ਧੂੜ। ਮਾਗਉ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

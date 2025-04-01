@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਮਰਨ ਵੇਲੇ ਧਨ-ਪਦਾਰਥ ਚੇਤੇ ਕਰਦਾ ਹੈ ਤੇ ਇਸੇ ਸੋਚ ਵਿਚ ਹੀ ਮਰ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਿ ਕਾਲਿ = ਅੰਤ ਦੇ ਵੇਲੇ, ਮਰਨ ਸਮੇਂ। ਲਛਮੀ = ਮਾਇਆ, ਧਨ। ਸਿਮਰੈ = ਚੇਤੇ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

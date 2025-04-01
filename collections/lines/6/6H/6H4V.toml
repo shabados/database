@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਬਾਣੀ ਨੂੰ ਭੁਲਾ ਦੇਂਦੇ ਹਨ, ਉਹ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ ਭਾਇ = ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

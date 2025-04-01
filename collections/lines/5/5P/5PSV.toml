@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਅਭੁੱਲ ਹੈ, ਕਦੇ ਭੁੱਲਦਾ ਨਹੀਂ, ਉਸ ਦਾ ਇਨਸਾਫ਼ ਭੀ ਨਿਰੋਲ ਸੱਚ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਾਵਸੁ = ਨਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

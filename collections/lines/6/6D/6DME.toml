@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ 'ਨਾਮ' ਪੜ੍ਹਨਾ ਚਾਹੀਦਾ ਹੈ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪੜ੍ਹਨੀ ਚਾਹੀਦੀ ਹੈ, 'ਨਾਮ' ਤੋਂ ਬਿਨਾ ਹੋਰ ਅਕਲਾਂ ਵਿਅਰਥ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਰਿ ਬੁਧੀ = ਹੋਰ ਅਕਲਾਂ। ਮਿਥਿਆ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

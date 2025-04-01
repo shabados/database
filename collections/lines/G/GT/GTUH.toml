@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੂੰ ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਆਤਮਕ ਆਨੰਦ ਸਦਾ ਮਿਲਿਆ ਰਹਿੰਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਥੈ = ਇਸ ਲੋਕ ਵਿਚ। ਓਥੈ = ਪਰਲੋਕ ਵਿਚ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

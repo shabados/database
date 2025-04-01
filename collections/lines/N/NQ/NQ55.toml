@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਉਣ ਵਿਚ, ਪਾਣੀ ਵਿਚ, ਅੱਗ ਵਿਚ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸੰਤਰ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

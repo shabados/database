@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰ ਦੂਜਾ ਕੇਹੜਾ ਦੱਸਾਂ (ਜੇ ਉਸ ਵਰਗਾ ਹੋਵੇ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਕੇਹੁ = ਕੇਹੜਾ ਦੱਸਾਂ? (ਭਾਵ, ਕੋਈ ਹੋਰ ਦੱਸ ਨਹੀਂ ਸਕਦਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ! ਤੇਰੀਆਂ ਤਾਕਤਾਂ ਗਿਣੀਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ, ਤੂੰ ਹੀ ਜਿੰਦ-ਦੇਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਤੁ = {ਅ-ਗਨਤੁ} ਲੇਖੇ ਤੋਂ ਪਰੇ। ਜੀਅ ਕਾ = ਜਿੰਦ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

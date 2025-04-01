@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਅਕਾਲ ਪੁਰਖ ਦੀ ਸੇਵਾ ਕਰ, (ਮਾਇਆ ਦੀ) ਕੋਈ ਭੁਖ ਨਹੀਂ ਰਹਿ ਜਾਏਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਈ = ਕੋਈ। ਪੁੰਨਿਆ = ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਪਾਠਸ਼ਾਲਾ ਹੈ, ਆਪ ਹੀ ਉਸਤਾਦ ਹੈ, ਤੇ ਆਪ ਹੀ ਵਿਦਆਰਥੀ ਪੜ੍ਹਨ ਨੂੰ ਲਿਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਟਸਾਲ = ਪਾਠਸ਼ਾਲਾ। ਪਾਧਾ = ਪੜ੍ਹਾਣ ਵਾਲਾ। ਆਣੇ = ਲਿਆਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

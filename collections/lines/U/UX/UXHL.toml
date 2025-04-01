@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਦਨ ਦੀ ਸੰਗਤ ਨਾਲ ਨਿੰਮ ਦਾ ਰੁੱਖ ਚੰਦਨ ਹੀ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲਾਗਰ = ਮਲਯ ਪਰਬਤ ਤੇ ਉਗਿਆ ਹੋਇਆ ਬੂਟਾ, ਚੰਦਨ (मलयाग्र)। ਸੰਗੇਣ = ਸੰਗਤ ਨਾਲ (संगेन)।ਬਿਰਖ = (वृक्ष) ਰੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

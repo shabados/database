@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਮੈਂ ਉਸ ਦੇ ਇਵਜ਼ ਵਿਚ ਸਾਰੇ ਜਪ ਤਪ ਸੰਜਮ ਦੇ ਦਿਆਂਗੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਉ = ਦੇਉਂ, ਮੈਂ ਦੇ ਦਿਆਂ। ਜਤੀ = ਜਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

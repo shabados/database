@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਬੇਫ਼ਿਕਰ ਹੋ ਜਾਹਿਂਗਾ ਤੇ ਤੇਰਾ ਜੀਵਨ ਸੁਖ ਨਾਲ ਬਿਤੀਤ ਹੋਵੇਗਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਿੰਤੁ = ਬੇ-ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

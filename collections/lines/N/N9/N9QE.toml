@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਜਿਹੜੇ ਭੀ ਮਨੁੱਖ ਤੇਰੇ ਗੁਣ ਗਾਂਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਹਿ = ਗਾਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਹਉ = ਮੈਂ। ਬਲਿ = ਸਦਕੇ। ਤਿਨਗੇ = ਉਹਨਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

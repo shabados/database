@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਥੱਕ-ਟੁੱਟ ਕੇ (ਤੇਰੇ ਦਰ ਤੇ) ਆ ਡਿੱਗੇ ਹਾਂ ॥੪॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਰਿ = ਹਾਰ ਕੇ, ਜੂਨਾਂ ਵਿਚ ਪੈ ਪੈ ਕੇ ਥੱਕ ਕੇ। ਪਰੇ = ਡਿੱਗੇ ਹਾਂ (ਤੇਰੇ ਦਰ ਤੇ)। ਪੂਰਾ = ਗਿਆਨ ॥੪॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

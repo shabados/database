@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! (ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ (ਸਦਾ) ਜਪਿਆ ਕਰ (ਜਿਹੜਾ ਮਨੁੱਖ ਜਪਦਾ ਹੈ, ਉਹ) ਸੁਖ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪਿਆ ਕਰ। ਮਨ = ਹੇ ਮਨ! ਪਾਵੈਗੋ = ਪਾਵੈ, ਪਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

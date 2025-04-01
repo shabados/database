@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ) ਜੋਗੀ ਮੇਰਾ ਸਤਿਗੁਰੂ (ਸਭ) ਰੋਗਾਂ ਤੋਂ ਰਹਿਤ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗੀ = (ਪ੍ਰਭੂ ਵਿਚ) ਜੁੜਿਆ ਹੋਇਆ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

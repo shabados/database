@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਕਿਤਨੇ। ਕੁਮ੍ਹਿਆਰ ਹਨ, ਲੱਖਾਂ ਕਾਗਤ ਕੁੱਟ ਬਥੇਰੇ ਲੂਣਾਰੇ ਹਨ।"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਲੂਣਾਹਾਰੀ=ਲੂਣ ਮਸਾਲਾ ਵੇਚਣ ਵਾਲੇ।"

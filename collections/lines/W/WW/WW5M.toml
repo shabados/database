@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਉਹ ਆਪ ਹੀ ਆਪ ਸਭ ਦੇ ਅੰਦਰ ਇਕ-ਰਸ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਤਰਿ = ਵਿੱਥ ਤੋਂ ਬਿਨਾ, ਇਕ-ਰਸ ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

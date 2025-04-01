@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਭੀ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਹਰੇਕ ਗਿਰਾਹੀ ਦੇ ਨਾਲ ਉਸ ਦਾ ਨਾਮ ਜਪ ਰਿਹਾ ਹਾਂ ॥੪॥੨੯॥੪੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਗਿਰਾਸਿ = ਹਰੇਕ ਗਿਰਾਹੀ ਦੇ ਨਾਲ। ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਦਾ ਹਾਂ ॥੪॥੨੯॥੪੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

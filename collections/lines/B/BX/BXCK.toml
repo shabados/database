@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਵਿਚ ਆਪਣੇ ਆਪ ਨੂੰ) ਵੱਡੇ ਵੱਡੇ ਅਖਵਾਣ; ਪਰ ਜੇ ਸਰੀਰ ਵਿਚ ਹਉਮੈ ਦੀ ਪੀੜ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਤਨ ਵਿਚ। ਪੀਰਾ = ਪੀੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

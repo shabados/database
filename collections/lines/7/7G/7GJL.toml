@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਹੜਾ ਮਨੁੱਖ ਤੇਰੀ ਰਜ਼ਾ ਨੂੰ ਮੰਨਦਾ ਹੈ, ਉਹ ਤੈਨੂੰ ਆ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਏ = ਆਇ, ਆ ਕੇ। ਤੁਧੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

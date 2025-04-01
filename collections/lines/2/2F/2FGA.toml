@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਆਬਿ-ਹੱਯਾਤ ਤੋਂ ਮੁਰਦਾ ਮਿੱਟੀ ਵਿਚ ਜਾਨ ਪੈ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹੈਵਾਂ ਅਰ ਮੁਰਦਾ ਗਿਲ ਹਾ ਜ਼ੀਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

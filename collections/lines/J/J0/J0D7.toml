@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਭਰਾਵੋ! (ਸਾਧ-ਸੰਗਤਿ ਵਿਚ) ਇਕੱਠੇ ਰਲ ਬੈਠੋ, ਅਤੇ ਮਿਲ ਕੇ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ! ਭਾਈ = ਹੇ ਭਰਾਵੋ! ਮਿਲਿ = ਮਿਲ ਕੇ, ਰਲ ਕੇ। ਕਥਾ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

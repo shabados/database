@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਇਸ ਮਾਇਆ ਨੂੰ) ਬੜੇ ਧਿਆਨ ਨਾਲ ਭੀ ਫੜਿਆ, ਉਸ ਦੇ ਭੀ ਹੱਥ ਵਿਚ ਨਾਹ ਆਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹੁ ਕਰਿ = ਗਹੁ ਕਰ ਕੇ, ਪੂਰੇ ਧਿਆਨ ਨਾਲ। ਪਕਰੀ = ਫੜੀ। ਹਾਥਿ = ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

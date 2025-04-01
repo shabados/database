@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਝੂਠੇ ਮੋਹ ਦਾ ਝੂਠਾ ਖਿਲਾਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਨ = ਝੂਠਾ। ਮੋਹਾਰਾ = ਮੋਹ ਦਾ। ਪਸਾਰਾ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਸ ਪ੍ਰਭੂ ਦਾ ਜਸ ਅੱਠੇ ਪਹਰ ਗਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵੀਜੈ = ਗਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਨੇਕ ਕੰਮ ਕਰਨ ਨੂੰ ਤੁਸੀਂ ਚੌਪੜ ਦੀ ਖੇਡ ਬਣਾਵੋ, ਉੱਚੇ ਆਚਰਨ ਨੂੰ ਨਰਦ ਬਣਾਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ ਧਰਮ = ਧਰਮ ਦੇ ਕਰਮ, ਨੇਕ ਕੰਮ। ਸਾਜਹੁ = ਬਣਾਓ। ਸਤੁ = ਉੱਚਾ ਆਚਰਨ। ਸਾਰੀ = ਨਰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

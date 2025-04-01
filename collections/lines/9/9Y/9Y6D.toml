@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੇ ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਕਿਨੈ ਵਿਰਲੈ = ਕਿਸੇ ਮਨੁੱਖ ਨੇ। ਜਾਤੇ = ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

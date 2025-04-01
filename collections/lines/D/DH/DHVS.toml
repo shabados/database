@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ- ਮੈਂ ਸਿਰਫ਼ ਤੇਰਾ ਹੀ ਆਸਰਾ ਲਿਆ ਹੈ ॥੪॥੧੮॥੬੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਵਤਿ = ਬੇਨਤੀ ਕਰਦਾ ਹੈ। ਤੋਰੀ = ਤੇਰੀ ॥੪॥੧੮॥੬੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

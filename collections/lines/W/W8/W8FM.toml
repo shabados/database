@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੂੰ ਆਪ ਹੀ ਜੰਗਲ ਵਿਚ ਭਟਕਾ ਕੇ ਪਛੁਤਾਵੇ ਵਾਲੇ ਪਾਸੇ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਿਆਨ = ਜੰਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

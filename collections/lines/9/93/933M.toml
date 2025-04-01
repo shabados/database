@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨਾਲ ਮੈਂ ਗੁਣਾਂ ਦੀ ਭਿਆਲੀ ਪਾਵਾਂ ਤੇ ਹਰੀ-ਨਾਮ ਸਿਮਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਮੈਂ ਕਰਾਂ। ਧਿਆਈ = ਮੈਂ ਸਿਮਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

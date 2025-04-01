@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਗਤ ਵਿਚ ਆ ਕੇ ਜਨਮ ਲੈ ਕੇ ਤੂੰ ਕੀਹ ਕੀਤਾ? (ਭਾਵ, ਤੂੰ ਕੁਝ ਭੀ ਨਾਹ ਖੱਟਿਆ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਤਰਿ = ਉਤਰ ਕੇ, ਅਵਤਾਰ ਲੈ ਕੇ, ਜਨਮ ਲੈ ਕੇ। ਆਇ = (ਜਗਤ ਵਿਚ) ਆ ਕੇ, (ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ) ਆ ਕੇ। ਕਹਾ = ਕੀਹ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

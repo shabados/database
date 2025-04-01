@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ (ਗੁਰੂ ਨਾਨਕ) ਆਪਣੇ ਪਹਿਲੇ ਹੋ ਗੁਜ਼ਰੇ ਅਵਤਾਰਾਂ ਤੋਂ ਵੀ ਪਹਿਲਾਂ ਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਪੈਸ਼ੀਨੀਆਂ ਪੇਸ਼ਤਰ ਆਮਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮਤਵਾਲੇ ਜੀਵ ਨੂੰ (ਜਦ ਤਕ) ਝੂਠ ਨੇ ਠਗ-ਬੂਟੀ ਚਮੋੜੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਵਾਨੇ = ਮਤਵਾਲੇ ਨੂੰ। ਝੂਠਿ = ਝੂਠ ਨੇ। ਠਗਉਲੀ = ਠਗ-ਮੂਰੀ, ਠਗ-ਬੂਟੀ, ਖਿੱਚ, ਜਾਦੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

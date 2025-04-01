@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਇਸਤ੍ਰੀ (ਆਪਣਾ ਆਪਾ ਵਾਰ ਕੇ) ਆਪਣੇ ਪਤੀ ਨਾਲ ਪਿਆਰ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ = ਪਤੀ। ਸੇਤੀ = ਨਾਲ। ਧਨ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

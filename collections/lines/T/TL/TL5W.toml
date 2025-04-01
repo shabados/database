@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਸਮੁੰਦਰ ਜਿਸ ਦੇ ਪਾਣੀ ਭਰਨ ਵਾਲੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਨੀਹਾਰ = ਪਾਣੀ ਭਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

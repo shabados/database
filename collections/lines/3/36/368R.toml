@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਗੁਰੂ ਮਿਲਾ, ਮੈਨੂੰ ਗੁਰੂ ਮਿਲਾ, ਮੈਂ ਗੁਰੂ ਦੇ ਸੇਵਕਾਂ ਦਾ ਨਿਮਾਣਾ ਦਾਸ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਕੀੜਾ = ਨਿਮਾਣਾ ਦਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਸਦਾ ਆਤਮਕ ਆਨੰਦ ਮਾਣਿਆ ਜਾ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਿ = ਸੇਵ ਕੇ, ਸਰਨ ਪੈ ਕੇ। ਜਾਤਾ = ਪਛਾਣ ਲਿਆ, ਸਾਂਝ ਪਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

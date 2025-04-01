@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਮਨੁੱਖ ਮਨੁੱਖਾ ਜਨਮ ਗਵਾ ਕੇ ਜਗਤ ਵਿਚ ਵਿਅਰਥ ਹੀ ਆਏ (ਜਾਣੋ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਕਈ। ਕਿਤੁ = ਕਿਸ ਕੰਮ? ਕਿਤੁ ਆਏ = ਕਿਸ ਕੰਮ ਆਏ? ਵਿਅਰਥ ਹੀ ਜਗਤ ਵਿਚ ਆਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

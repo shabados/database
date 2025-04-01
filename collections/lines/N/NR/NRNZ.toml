@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਕਮ ਵਿਚ ਹੀ ਹਵਾ ਪਾਣੀ (ਆਦਿਕ ਤੱਤ ਬਣੇ) ਤੇ ਆਕਾਸ਼ ਬਣਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਣਾਰੰ = ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

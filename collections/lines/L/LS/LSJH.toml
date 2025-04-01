@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਕੋਈ ਵਡ-ਭਾਗੀ) ਇਹਨਾਂ ਗੁਰਮੁਖਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਮੰਗਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ = ਸੇਵਕ। ਰਵਾਲਾ = ਚਰਨਾਂ ਦੀ ਧੂੜ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲਾਟੂ, ਮਧਾਣੀਆਂ, ਫਲ੍ਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਗਾਹ = ਅੰਨ ਗਾਹੁਣ ਵਾਲੇ ਫਲ੍ਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

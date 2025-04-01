@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮੋਹ ਵਿਚ ਸਾਰਾ ਜਗਤ ਡੁੱਬਾ ਪਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਤੁ = ਇਸ ਵਿਚ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਏਤੁ ਮੋਹਿ = ਇਸ ਮੋਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਲੰਦਰ-ਪ੍ਰਭੂ!) ਛਪੰਜਾ ਕਰੋੜ (ਮੇਘ ਮਾਲਾ) ਤੇਰਾ ਚੋਗ਼ਾ ਹੈ, ਸੋਲਾਂ ਹਜ਼ਾਰ ਆਲਮ ਤੇਰਾ ਤੰਬਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਪਨ ਕੋਟਿ = ਛਪੰਜਾ ਕਰੋੜ ਮੇਘ ਮਾਲਾ, ਛਪੰਜਾ ਕਰੋੜ ਬੱਦਲ। ਪੇਹਨ = ਚੋਗ਼ਾ। ਸੋਲਹ ਸਹਸ = ਸੋਲਾਂ ਹਜ਼ਾਰ (ਆਲਮ)। ਇਜਾਰਾ = ਤੰਬਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

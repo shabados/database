@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਦੁਨੀਆ ਦੇ) ਸਾਰੇ ਪਦਾਰਥ (ਮਾਨੋ) ਉਸ ਨੇ ਲੱਭ ਲਏ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥੋਕ = ਪਦਾਰਥ। ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸੁਖ ਪਰਮਾਤਮਾ ਗੋਬਿੰਦ ਦੇ ਭਜਨ ਵਿਚ ਮਿਲਦਾ ਹੈ, ਉਹ ਸੁਖ ਰਾਜ ਵਿਚ (ਭੀ) ਨਹੀਂ ਲੱਭਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜਿ = ਰਾਜ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

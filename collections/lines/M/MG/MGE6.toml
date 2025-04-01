@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਬਖਸ਼ਿਸ਼ ਦੇ ਨੂਰ ਸਦਕਾ ਉਸਦਾ ਦਿਲ ਸਦਾ ਰੌਸ਼ਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਸ਼ ਰੌਸ਼ਨ ਅਜ਼ ਨੂਰਿ ਹੱਕੁਲ-ਕਰਾਮ ।੧੪੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

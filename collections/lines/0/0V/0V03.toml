@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਰੀਆਂ ਹੀ ਤਾਕਤਾਂ ਵਿਚ ਪੂਰਨ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਸੱਤਿਆ, ਹੁਨਰ। ਪ੍ਰਬੀਨ = ਸਿਆਣਾ, ਪੂਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

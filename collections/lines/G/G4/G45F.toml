@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਹਾਸਲ ਕਰਦਾ ਹੈ ਜੋ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮ ਹੀ। ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ। ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

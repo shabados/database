@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਾਲਕ ਜੁਗਾਂ ਜੁਗਾਂ ਵਿਚ ਸਦਾ-ਥਿਰ ਚਲਿਆ ਆ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਹ ਜੁਗੰਤਰਿ = ਜੁਗਾਂ ਜੁਗਾਂ ਦੇ ਅੰਦਰ। ਸਚੁ = ਸਦਾ-ਥਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

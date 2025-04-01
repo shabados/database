@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਸ਼ਨਾ (ਮਾਇਆ ਦੀ) ਭੁੱਖ ਸਭ ਨਾਸ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਸਨਾ = ਤ੍ਰੇਹ, ਲਾਲਚ। ਸਭ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

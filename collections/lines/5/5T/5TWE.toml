@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਤੋਂ ਉਪਜੀ ਹੋਈ ਹਉਮੈ ਨਿਰੋਲ ਜ਼ਹਿਰ (ਦਾ ਕੰਮ ਕਰਦੀ) ਹੈ, ਇਸ ਦੇ ਪਿਛੇ ਲੱਗਿਆਂ ਸਦਾ ਜਗਤ ਵਿਚ ਘਾਟਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੁ = ਜ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

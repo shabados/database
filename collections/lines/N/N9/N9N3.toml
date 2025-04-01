@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਆਪਣੇ ਸਿਰ ਦਰਦ ਦਾ ਕੋਈ ਇਲਾਜ ਨਹੀਣ ਕਰਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਦਰਦਿ ਸਰਿ ਖ਼ੁਏਸ਼ ਮਦਾਵਾ ਨਮੀ ਕੁਨੇਮ ।੫੬।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

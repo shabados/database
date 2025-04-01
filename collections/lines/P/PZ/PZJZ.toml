@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੌਲੀ ਹੌਲੀ ਉਸ ਦਾ ਅੰਦਰਲਾ ਪ੍ਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਫ਼ਤਾ ਰਫ਼ਤਾ ਬਾਤਨਸ਼ ਜ਼ਾਹਿਰ ਸ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

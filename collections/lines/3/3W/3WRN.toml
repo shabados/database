@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਅੱਗੇ ਢਹਿ ਪਉ, ਇਹ ਬੜਾ ਨੇਕ ਕੰਮ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨੁ = ਭਲਾ ਕੰਮ। ਡੰਡਉਤ = ਲੰਮੇ ਪੈ ਕੇ ਨਮਸ-ਕਾਰ॥੧॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

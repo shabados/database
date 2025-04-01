@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ (ਹੁਣ ਤਕ) ਅਸਥਾਵਰ, ਜੰਗਮ ਕੀੜੇ-ਪਤੰਗੇ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਾਵਰ = ਇਕ ਥਾਂ ਤੇ ਖਲੋਤੇ ਰਹਿਣ ਵਾਲੇ ਪਰਬਤ, ਰੁੱਖ ਆਦਿਕ। ਜੰਗਮ = ਤੁਰਨ ਵਾਲੇ ਪਸ਼ੂ-ਪੰਛੀ। ਕੀਟ = ਕੀੜੇ। ਪਤੰਗਾ = ਖੰਭਾਂ ਵਾਲੇ ਕੀੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਸਤਿਗੁਰੂ ਨੇ ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਮਿਹਰ ਕੀਤੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ ਗੁਣਤਾਸਾ = ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਸਤਿਗੁਰੂ ਨੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

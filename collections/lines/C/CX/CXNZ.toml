@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੋਬਿੰਦ ਗੋਪਾਲ ਪ੍ਰਭੂ ਦੇ ਗੁਣ (ਗਾਂਦਾ ਹਾਂ, ਤੇ ਉਸ) ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦੀ ਸ਼ਰਨ ਪੈਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਉ = ਪਰਉਂ ਮੈਂ ਪੈਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

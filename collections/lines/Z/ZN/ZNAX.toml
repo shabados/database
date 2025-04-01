@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਆਪਣੇ ਘਰ ਦੇ ਅੰਦਰ ਹੀ ਉਸ ਮਹਾਨ ਰੱਬ ਦੇ ਜਲਵੇ ਨੂੰ ਵੇਖ ਸਕੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਅੰਦਰੂਨਿ ਖ਼ਾਨਾ ਬੀਨੀ ਖ਼ੁਦਾਇ ਖ਼ਾਸ ।੪੨।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

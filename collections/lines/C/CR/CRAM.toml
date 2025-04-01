@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਪਰਮਾਤਮਾ ਨੇ (ਮਾਇਆ) ਇਕ ਅਜੇਹੀ ਇਸਤ੍ਰੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਿ = ਰਾਮ ਨੇ, ਪਰਮਾਤਮਾ ਨੇ। ਉਪਾਈ = ਪੈਦਾ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

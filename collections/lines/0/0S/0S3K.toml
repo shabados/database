@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਵ (ਤੇਰੇ ਦਰ ਦੇ) ਮੰਗਤੇ ਹਨ, ਤੂੰ ਸਭ ਉੱਤੇ ਦਇਆ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ (ਜੀਵ)। ਜਾਚਿਕ = ਮੰਗਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਮੇਰੇ ਅੰਦਰ) ਬਸੰਤ (ਰੁੱਤ ਵਾਲਾ ਖਿੜਾਉ) ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਬਸੰਤੁ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

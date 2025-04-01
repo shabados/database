@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਹੈ ਹਵਨ, ਇਹੀ ਹੈ ਜੱਗ, ਇਹੀ ਹੈ ਪੁਰਾਣ ਆਦਿਕਾਂ ਦੇ ਪਾਠ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰੁ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

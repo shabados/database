@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਦੋਵੇਣ ਜਹਾਨ ਇਹਨਾਣ ਦੇ ਸ਼ਰਧਾਲੂ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਸ਼ਾਇਕਿ ਈਨਾਣ ਬਵਦ ।੯੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉਤੇ) ਆਪਣੀ ਮਿਹਰ ਕਰ, ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਪਗ = ਪੈਰੀਂ, ਚਰਨੀਂ। ਪਰਿਆ = ਪਿਆ ਰਹਾਂ। ਹਮ = ਅਸੀ, ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

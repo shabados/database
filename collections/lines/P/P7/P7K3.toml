@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਹੜਾ ਖਾਣਾ ਹੈ ਜਿਸ ਨਾਲ (ਮਨ ਦਾ) ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਗਰਬੁ = ਅਹੰਕਾਰ। ਅਹਾਰੁ = ਖਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

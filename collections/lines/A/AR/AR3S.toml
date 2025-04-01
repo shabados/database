@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਗ੍ਰਿਹਸਤ ਵਿਚ (ਰਹਿੰਦਾ ਹੋਇਆ) ਨਿਰਲੇਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਬਾਨੁ = ਵਾਸਨਾ ਤੋਂ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

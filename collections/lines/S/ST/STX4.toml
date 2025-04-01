@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜਿੰਦੇ!) ਸਤਿਗੁਰ ਦੀ ਸਰਨ ਪਉ, ਤਦੋਂ ਹੀ ਆਤਮਕ ਮੌਤ ਵਾਲਾ ਜਾਲ ਟੁੱਟ ਸਕੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਕਾਲੁ = ਮੌਤ (ਦਾ ਸਹਿਮ), ਆਤਮਕ ਮੌਤ (ਦਾ ਜਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

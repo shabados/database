@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸ੍ਵੈ-ਸਰੂਪ ਵਿਚ ਉਹ ਅਡੋਲ ਬੈਠਾ ਹੈ, ਉਥੇ ਮਾਇਆ ਦਾ ਮੋਹ ਅਸਰ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਘਰਿ = ਆਪਣੇ ਘਰ ਵਿਚ, ਆਪਣੇ ਸਰੂਪ ਵਿਚ। ਤਿਥੈ = ਉਸ ਸ੍ਵੈ-ਸਰੂਪ ਵਿਚ, ਉਸ 'ਨਿਜ ਘਰ' ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

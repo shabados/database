@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਦੇ ਸੰਤ ਜਨ ਪ੍ਰੀਤਿ ਨਾਲ, ਪਿਆਰ ਨਾਲ ਪੂਜਦੇ ਰਹਿੰਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਹਿ = ਪੂਜਦੇ ਹਨ। ਪਿਆਰੇ = ਪਿਆਰਿ, ਪਿਆਰ ਨਾਲ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

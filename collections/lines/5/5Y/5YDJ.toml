@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ ਬੇਅੰਤ ਹੈ, (ਬਹੁਤ) ਉੱਚਾ ਹੈ, (ਬਹੁਤ) ਵੱਡਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਚ = ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

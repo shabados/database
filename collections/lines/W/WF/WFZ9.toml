@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਵੇਲੇ ਉਸ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਨੁ ਖਿਨੁ = ਹਰ ਛਿਨ, ਹਰ ਵੇਲੇ। ਗਵਾਹਾ = ਗਾਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

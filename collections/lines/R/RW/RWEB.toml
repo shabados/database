@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ (ਆਤਮਕ ਜੀਵਨ ਦੀ ਮਰਯਾਦਾ) ਸਮਝ ਲਈ ਹੈ, ਮੇਰੇ ਅੰਦਰੋਂ (ਚਿਰਾਂ ਦੀ ਚੰਬੜੀ ਹੋਈ ਮਮਤਾ ਦੀ) ਡੈਣ ਨਿਕਲ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਰੇ = ਹੇ ਭਾਈ! ਬਲਾਇ = ਚੰਬੜੀ ਹੋਈ ਬਿਪਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

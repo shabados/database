@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹੱਥ ਵਿਚ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਆ ਜਾਂਦਾ ਹੈ, ਉਹ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਲੋਂ ਹਟ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਹਥਿ = ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ। ਨਿਧਾਨੁ = ਨਾਮ-ਖ਼ਜ਼ਾਨਾ। ਰਹਿਆ = ਹਟ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਕਦੇ ਨਾਹ ਮੁੱਕਣ ਵਾਲਾ ਖ਼ਜ਼ਾਨਾ ਹੈ, ਇਸ ਨੂੰ ਸਿਮਰਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਮਨ = ਹੇ ਮਨ! ਅਟਲ = ਕਦੇ ਨਾਹ ਟਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

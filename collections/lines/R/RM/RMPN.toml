@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ (ਪ੍ਰਾਣੀ) ਮਰਦਾ ਹੈ ਉਸ ਦੇ ਸਾਕ ਸੰਬੰਧੀ ਮਿਲ ਕੇ ਰੋਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚੇ = ਸਾਕ ਸੰਬੰਧੀ (ਮਾਂ ਪਿਉ, ਭਰਾ, ਇਸਤ੍ਰੀ, ਪੁਤ੍ਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਆਪਣੇ ਸਤਿਗੁਰੂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ ਜਾਈ = ਮੈਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ (ਜਾਈਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

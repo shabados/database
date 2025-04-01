@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਸਰੀਰ ਲੋਭ ਵਿਚ ਮੋਹ ਵਿਚ ਬੱਝਾ ਪਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭਿ = ਲੋਭ ਨਾਲ, ਲੋਭ ਵਿਚ। ਮੋਹਿ = ਮੋਹ ਨਾਲ, ਮੋਹ ਵਿਚ। ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

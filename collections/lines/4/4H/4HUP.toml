@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਪ੍ਰਭੂ ਸਦਾ-ਥਿਰ ਟਿਕਾਣੇ ਵਾਲਾ ਹੈ, ਹੋਰ (ਸ੍ਰਿਸ਼ਟੀ) ਜੰਮਦੀ ਮਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਵਰੀ = ਟਿਕਾਣੇ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

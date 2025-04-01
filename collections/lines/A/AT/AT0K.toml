@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੂੰ ਢੂੰਡਣ ਵਾਲਿਆਣ ਨੂੰ ਬਸ ਇਸੇ ਸੰਗਤ ਦੀ ਹੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਾਣ ਰਾ ਹਸਤ ਚਦੀਣ ਇਹਤਿਆਜ ।੧੬।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

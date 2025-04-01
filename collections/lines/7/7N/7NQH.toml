@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਸਭ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਵੱਸਦਾ ਹੈ (ਫਿਰ ਭੀ ਉਹ) ਨਿਰਲੇਪ ਹੈ ਤੇ ਵਾਸਨਾ-ਰਹਿਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਿਪਤ = ਨਿਰਲੇਪ। ਨਿਰਬਾਣੇ = ਵਾਸਨਾ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

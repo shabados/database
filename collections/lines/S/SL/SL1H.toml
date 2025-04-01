@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਤੇਰ ਨੂੰ ਮਿਟਾਣ ਤੋਂ ਬਿਨਾ ਜਮਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਨਹੀਂ ਹੁੰਦੀ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਤੇ = ਜਮ ਤੋਂ, ਮੌਤ ਦੇ ਡਰ ਤੋਂ, ਆਤਮਕ ਮੌਤ ਤੋਂ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

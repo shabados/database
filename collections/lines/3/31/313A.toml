@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਫਸੋਸ ਹੈ ਉਸ ਛਿਨ ਪਲ ਦਾ ਜਿਹੜਾ ਅਕਾਰਥ ਚਲਾ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਏ ਬਰ ਨਫ਼ਸੇ ਕਿ ਬੇਹੂਦਾ ਗੁਜ਼ਸ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

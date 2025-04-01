@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਭੌਰ ਦਾ ਕੌਲ ਫੁੱਲ ਨਾਲੋਂ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਿ = ਭੌਰਾ। ਕਮਲ = ਕੌਲ ਫੁੱਲ। ਭਿੰਨੁ = ਵੱਖਰਾ। ਭੇਤੁ = ਵਿੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

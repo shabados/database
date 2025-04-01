@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਹਿਸਾਂ ਕਰ ਕਰ ਕੇ ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਣ ਦਾ ਕੀਹ ਲਾਭ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਕਿਥੇ? ਕਿਸ ਅਰਥ? ਝਖਿ ਝਖਿ = ਝਖ ਝਖ ਕੇ, ਭਟਕ ਭਟਕ ਕੇ, ਖਪ ਖਪ ਕੇ। ਸਮਝਾਵਾ = ਮੱਤਾਂ ਦੇਂਦਾ ਰਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

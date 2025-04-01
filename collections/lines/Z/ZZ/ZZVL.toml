@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਸਦਾ ਉਸ ਪਰਮੇਸ਼ਰ ਨੂੰ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਵਲ = ਸਿਰਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

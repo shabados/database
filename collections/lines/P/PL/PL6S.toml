@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਕ੍ਰੋੜਾਂ ਹੀ ਉਤਪੱਤੀਆਂ ਤੇਰੇ ਆਪੇ ਵਿਚ ਸਮਾ ਜਾਂਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਰਜਨਾ = ਉਤਪੱਤੀਆਂ। ਤੇਰੈ ਅੰਗਿ = ਤੇਰੇ ਅੰਗ ਵਿਚ, ਤੇਰੇ ਆਪੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

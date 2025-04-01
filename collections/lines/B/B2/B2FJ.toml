@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਗਿਆਨ-ਇੰਦ੍ਰੇ ਆਪੋ ਆਪਣੇ ਚਸਕੇ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ."
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹੇਲੀ = ਗਿਆਨ-ਇੰਦ੍ਰੇ। ਮਾਤੀ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

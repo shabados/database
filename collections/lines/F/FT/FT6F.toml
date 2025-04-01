@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਾਪਾਂ ਦੀਆਂ ਪੰਡਾਂ ਦੇ ਕਾਰਨ) ਜੀਵ ਪਸ਼ੂ, ਪ੍ਰੇਤ, ਊਂਠ, ਖੋਤਾ ਆਦਿਕ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਰੁਲਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੇਤ = ਪ੍ਰੇਤ ਜੂਨ। ਉਸਟ = ਉਸ਼ਟ, ਊਂਠ। ਗਰਧਭ = ਖੋਤਾ। ਲੇਟ = ਲੇਟਦਾ, ਰੁਲਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

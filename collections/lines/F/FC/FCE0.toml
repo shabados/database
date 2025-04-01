@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਹ ਜਿੱਤੇ ਜਾਣ ਵਾਲੇ (ਮੋਹ)! ਤੂੰ ਜੁੱਧ ਦਾ ਸੂਰਮਾ ਹੈਂ, ਤੂੰ ਅਨੇਕਾਂ ਮਹਾਂ ਬਲੀਆਂ ਨੂੰ ਮਲ ਦੇਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਮਾ (सुर = a hero)। ਸੰਗ੍ਰਾਮ = ਜੁੱਧ (संग्राम) ਅਤਿ। ਬਲਨਾ = ਬਹੁਤ ਬਲ ਵਾਲਾ, ਬਹੁਤ ਬਲਵਾਨ। ਮਰਦਨਹ = ਮਲ ਦੇਣ ਵਾਲਾ, ਨਾਸ ਕਰਨ ਵਾਲਾ (मर्दन = crushing)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

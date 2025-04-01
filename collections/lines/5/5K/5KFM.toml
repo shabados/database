@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਮੀਨ ਦਾ ਮਾਲਕ ਮਨੁੱਖ ਜ਼ਮੀਨ ਦੀ (ਮਾਲਕੀ ਦੀ) ਖ਼ਾਤਰ (ਹੋਰਨਾਂ ਨਾਲ) ਸਦਾ ਲੜਦਾ-ਝਗੜਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਮੀਆ = ਜ਼ਮੀਨ ਦਾ ਮਾਲਕ। ਭੂਮਿ ਊਪਰਿ = ਜ਼ਮੀਨ ਦੀ ਖ਼ਾਤਰ। ਲੁਝੈ = ਲੜਦਾ ਝਗੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਪੱਲੇ ਚੰਗੇ ਭਾਗ ਹੁੰਦੇ ਹਨ, ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਤੈ = ਪੱਲੇ, ਖ਼ਜ਼ਾਨੇ ਵਿਚ। ਪੁੰਨ = ਭਲਾਈ, ਚੰਗੇ ਭਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਆਇਆ ਹਾਂ, ਮਿਹਰ ਕਰ ਕੇ ਮੇਰੀ ਰੱਖਿਆ ਕਰ, ਰੱਖਿਆ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਵਾਰਿ = ਦਰ ਦੇ ਬੂਹੇ ਤੇ, ਦਰ ਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਅਚਰਜ ਚੋਜ ਕਰਨ ਵਾਲਾ ਪਰਮਾਤਮਾ ਕਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਜ ਵਿਡਾਣੀ = ਅਸਚਰਜ ਚੋਜਾਂ ਵਾਲਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

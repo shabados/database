@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੇਰੇ ਅੰਦਰ ਖ਼ੁਸ਼ੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾ = ਬੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

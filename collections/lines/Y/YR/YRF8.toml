@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੂੰਹੋਂ ਚਾਰੇ ਵੇਦ (ਜ਼ਬਾਨੀ) ਪੜ੍ਹਦਾ ਹੋਵੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹੋਂ। ਚਤੁਰ = ਚਾਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

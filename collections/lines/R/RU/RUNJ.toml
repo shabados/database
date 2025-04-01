@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਾਰੀ ਧਰਤੀ ਕਾਗ਼ਜ਼ ਬਣ ਜਾਏ, ਜੇ ਸਾਰੀ ਬਨਸਪਤੀ ਕਲਮ ਬਣ ਜਾਏ, ਤੇ ਜੇ ਹਵਾ ਲਿਖਣ ਵਾਸਤੇ (ਲਿਖਾਰੀ) ਬਣ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੁਧ = ਬਸੁਧਾ, ਧਰਤੀ। ਬਨਰਾਜ = ਬਨਸਪਤੀ। ਕਉ = ਵਾਸਤੇ। ਪਵਨ = ਹਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

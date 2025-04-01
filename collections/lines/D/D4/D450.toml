@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਪਰਵਾਨ ਅਤੇ ਹਰ-ਮਨ-ਪਿਆਰਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਕਬੁਲੋ ਮਕਬੂਲ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 111
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਵਿਚੋਂ ਹਉਮੈ ਦੀ ਮੈਲ ਧੋ ਕੇ ਕੱਢ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੋਇ = ਧੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

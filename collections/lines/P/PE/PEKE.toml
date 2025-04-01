@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! (ਭਾਵੇਂ ਸਿਰਫ਼) ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਸਭ ਥਾਈਂ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿਆ = ਮੌਜੂਦ ਹੈ। ਸ੍ਰਬ = {सर्व}। ਸ੍ਰਬ ਥਾਇ = ਸਾਰੇ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

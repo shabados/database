@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕੀ ਆਖਾਣ, ਰੱਬ ਨੇ ਹੀ ਇਉਣ ਕਿਹਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਕਿਹ ਗੋਇਮ ਹੱਕ ਚੁਨੀਣ ਫ਼ਰਮੂਦਾ ਅਸਤ ।੭੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

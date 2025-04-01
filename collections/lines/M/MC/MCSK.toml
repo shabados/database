@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਉਸਦੀ ਬਿਜਲੀ ਨਾਲ ਦੁਸ਼ਮਨਾਂ ਦਾ ਦਿਲ ਬਲ ਉਠਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਬਰਕਸ਼ ਦਿਲਿ ਦੁਸ਼ਮਨਾਂ ਸੋਖ਼ਤਾ ।੧੫੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਉਸ ਸੱਜਨ ਦੀ ਇਕ ਭੀ ਟੇਢੀ ਨਜ਼ਰ ਦੀ ਤਾਬ ਨਹੀਣ ਝਲ ਸਕਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਨਮੀ ਆਰੇਮ ਤਾਬਿ ਗ਼ਮਜ਼ਾਇ ਮਿਜ਼ਗਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

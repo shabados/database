@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਨ੍ਹਾਂ ਨੇ ਪ੍ਰੇਮ ਨਾਲ ਤੈਨੂੰ ਸਿਮਰਿਆ ਹੈ, ਉਹੀ ਸਿਆਣੇ ਮਨੁੱਖ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰ = ਤੈਨੂੰ। ਭਾਉ = ਪ੍ਰੇਮ। ਸੁਜਾਨ = ਸਿਆਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

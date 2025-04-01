@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਗੋਪਾਲ! ਹੇ ਗੁਰ ਗੋਬਿੰਦ! ਹੇ ਦਇਆਲ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ = ਹੇ (ਸਭ ਤੋਂ) ਵੱਡੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁਰਾਰੀ! ਹੇ ਹਰੀ! ਮੈਂ ਸਦਾ ਤੇਰੇ ਵਲ (ਸਹਾਇਤਾ ਵਾਸਤੇ) ਤੱਕਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਖਉ = ਨਿਰਖਉਂ, ਮੈਂ ਧਿਆਨ ਨਾਲ ਵੇਖਦਾ ਹਾਂ, ਮੈਂ ਤੱਕਦਾ ਹਾਂ। ਓਰਿ = ਪਾਸੇ ਵਲ। ਨੀਤ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

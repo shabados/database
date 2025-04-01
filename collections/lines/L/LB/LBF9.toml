@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਫ਼ਜ਼ੀਲਤਾਂ ਅਤੇ ਵਡਿਆਈਆਂ ਦਾ ਵਲੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਲੀ-ਉਲ-ਤਫ਼ਾਜ਼ੀਲੋ ਤਕਰੀਮ ਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

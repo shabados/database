@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਜਾਣਕਾਰ # ਇਸ ਕਿਤਾਬ ਵਿਚ ਬਿਨਾਂ ਰੱਬ ਦੀ ਬੰਦਗੀ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਦਰ ਵੈ ਮੁੰਦਰਜ ਐ ਬਾ-ਖ਼ਬਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

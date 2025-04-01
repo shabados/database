@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਗਤ ਸੁਪਨੇ ਵਾਂਗ ਹੈ, ਇਸ ਨੂੰ ਵੇਖ ਕੇ, ਪਤਾ ਨਹੀਂ, ਮਨੁੱਖ ਕਿਉਂ ਲੋਭ ਵਿਚ ਫਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰਾ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਕਹਾ = ਕਿਉਂ? ਲੋਭਾਵੈ = ਲੋਭ ਵਿਚ ਫਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

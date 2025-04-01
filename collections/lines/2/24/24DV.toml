@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਰਾਜਾ ਹੈ ਆਪ ਹੀ (ਆਪਣੇ ਰਾਜ ਵਿਚ) ਪੈਂਚ ਚੌਧਰੀ ਬਣਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚਾ ਕਾਰੀ = ਪੈਂਚਾਂ ਦਾ ਬਣਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

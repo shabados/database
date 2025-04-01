@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰੋ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੂ = ਗੁਰੂ। ਧਿਆਈ = ਧਿਆਇ, ਸਿਮਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

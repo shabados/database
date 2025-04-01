@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਿਆਨਵਾਨ ਮਨੁੱਖ! ਦਿਨ ਰਾਤ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੀ = ਹੇ ਗਿਆਨੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

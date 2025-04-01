@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਲੋਕ ਰਾਸਾਂ ਪਾਂਦੇ ਹਨ ਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਭਗਤ ਪਰਗਟ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਆਪੁ ਜਣਾਵਹਿ = ਆਪਣੇ ਆਪ ਨੂੰ ਭਗਤ ਜ਼ਾਹਰ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

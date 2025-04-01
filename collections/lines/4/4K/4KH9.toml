@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਤੇਰੇ ਵਾਸਤੇ ਮਾਂ ਪਿਉ ਪਰਵਾਰ (ਆਦਿਕ) ਸਾਰੇ ਸੰਬੰਧੀ ਬਣਾ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਕੁਟੰਬ = ਪਰਵਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

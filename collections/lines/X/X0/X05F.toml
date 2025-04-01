@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਸਾਰੇ ਸੁਆਦ ਭੁਲਾ ਦੇ, (ਪਰਮਾਤਮਾ ਦੇ) ਨਾਮ ਦਾ ਸੁਆਦ (ਸਭ ਸੁਆਦਾਂ ਨਾਲੋਂ) ਚੰਗਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = {अन्य} ਹੋਰ ਹੋਰ। ਬਿਸਾਰਿ = ਭੁਲਾ ਦੇ। ਨਾਮ ਸੁਆਉ = ਨਾਮ ਦਾ ਸੁਆਦ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

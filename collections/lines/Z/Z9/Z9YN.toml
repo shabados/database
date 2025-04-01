@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ ਉਧਰ ਹੀ (ਹਰ ਥਾਂ) ਪਰਮਾਤਮਾ ਮੌਜੂਦ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਉ = ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਸਾਰਿਗ ਪਾਣਿ = ਉਹ ਪਰਮਾਤਮਾ ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ ਧਨੁਖ ਹੈ। ਸਾਰਿਗ = ਧਨਖ। ਪਾਣਿ = ਹੱਥ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

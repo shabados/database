@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ) ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ (ਮੇਰੇ ਵਲ) ਵੇਖ! ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤੇਰੀ। ਸਰਣਾਗਤਿ = ਸਰਨ ਆਏ ਹਾਂ। ਨਦਰਿ ਨਿਹਾਲਾ = ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਵੇਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਕਿਤੇ ਭੀ ਸਹਾਰਾ ਨਹੀਂ ਮਿਲਦਾ ਤੂੰ ਉਸ ਨੂੰ (ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ ਕੇ) ਇੱਜ਼ਤ ਵਾਲੀ ਥਾਂ ਤੇ ਬਿਠਾ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨਿ = (ਇੱਜ਼ਤ ਵਾਲੀ) ਥਾਂ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

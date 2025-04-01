@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੋਣ ਉਸ ਦਾ ਪੱਲਾ ਫੜਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਦਾਮਨ ਦਸਤਿ ਖ਼ੁਦ ਅਫ਼ਗੰਦਾ ਏਮ ।੫੭।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

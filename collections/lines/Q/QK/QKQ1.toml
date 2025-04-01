@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੀ ਦੁਨੀਆ ਦਾ ਭੇਤ ਉਸਤੇ ਜ਼ਾਹਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਰਾਜ਼ਿ ਆਲਮ ਬਰੋ ਆਸ਼ਕਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

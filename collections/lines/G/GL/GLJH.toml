@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਤਿਗੁਰੂ!) ਮੇਰੇ ਸਾਰੇ ਫ਼ਿਕਰ ਤੇਰੇ ਹਵਾਲੇ ਹਨ (ਭਾਵ, ਤੈਨੂੰ ਹੀ ਮੇਰੇ ਸਾਰੇ ਫ਼ਿਕਰ ਹਨ), ਮੈਂ ਸਾਧ ਸੰਗਤ (ਦਾ ਆਸਰਾ) ਤੱਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਚਿੰਤ = ਸਾਰੇ ਫ਼ਿਕਰ। ਤੁਝੁ ਪਾਸਿ = ਤੇਰੇ ਪਾਸ। ਹਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

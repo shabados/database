@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਮੈਨੂੰ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾ ਲੈ ॥੩॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵ ਸਾਗਰੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਮੁਰਾਰੀ = ਹੇ ਮੁਰਾਰੀ! ਹੇ ਪ੍ਰਭੂ! ॥੩॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

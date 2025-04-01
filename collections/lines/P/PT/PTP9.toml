@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਬੰਦੇ ਤੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ ਉਹ ਭਾਗਾਂ ਵਾਲੇ ਸੁਚੱਜੇ ਸਿਆਣੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਜਾਣ = ਸਿਆਣੇ। ਭਾਵਹੇ = ਭਾਵਹਿ, ਭਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

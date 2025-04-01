@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਵਿਸ਼ਟੇ ਦੇ ਕੀੜੇ ਵਿਸ਼ਟੇ ਵਿਚੋਂ ਜੰਮਦੇ ਹਨ, ਤੇ ਵਿਸ਼ਟੇ ਵਿਚ ਹੀ ਮੁੜ ਮਰ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਤ ਹੀ ਤੇ = ਉਸੇ ਕਾਰਨ ਤੋਂ, ਉਸੇ ਕਾਰਨ। ਕੀਟ = ਕੀੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

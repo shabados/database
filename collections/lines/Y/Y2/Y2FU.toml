@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪ੍ਰਭੂ ਸਰਨ ਪਿਆਂ ਦੀ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਰਾਖੀ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਥੈ = ਇਸ ਲੋਕ ਵਿਚ। ਓਥੈ = ਪਰਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

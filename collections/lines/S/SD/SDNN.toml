@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੰਗਾਲ, ਅਮੀਰ, ਗ਼ਰੀਬ, ਮਾਇਆ-ਮੱਤੇ (ਕੋਈ ਭੀ ਹੋਵੇ) ਸਾਰਾ ਜਗਤ ਹੀ (ਇਥੋਂ) ਚਾਲੇ ਪਾ ਜਾਇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ = ਰੰਕ, ਕੰਗਾਲ। ਤੁੰਗ = ਉੱਚੇ, ਧਨਾਢ। ਮਸਤ = ਅਹੰਕਾਰੀ, ਮਾਇਆ = ਮੱਤੇ। ਸਿਧਾਸੀ = ਸੰਸਾਰ ਤੋਂ ਚਲੇ ਜਾਣਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੇਵ! (ਧਰਮ ਪੁਸਤਕ ਸੁਣ ਕੇ ਭੀ) ਨਾਹ ਕਾਮ ਗਿਆ, ਨਾਹ ਕ੍ਰੋਧ ਗਿਆ, ਨਾਹ ਲੋਭ ਮੁੱਕਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੂਟਿਓ = ਮੁੱਕਿਆ। ਦੇਵ = ਹੇ ਦੇਵ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

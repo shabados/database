@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਜੀ ਪਰਮ-ਪੁਰਖ ਹਨ, ਦੇਵਤਿਆਂ ਦੇ ਭੀ ਵੱਡੇ ਦੇਵਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵਾਧਿਦੇਵ = ਦੇਵ-ਅਧਿਦੇਵ, ਦੇਵਤਿਆਂ ਦਾ ਵੱਡ ਦੇਵਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

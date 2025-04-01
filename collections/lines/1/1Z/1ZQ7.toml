@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਾਧੂ ਗੁਰਮੁਖ ਨੇ ਮਿਲ ਕੇ) ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦੀ ਮਾਲਾ ਗੁੰਦੋ, ਮਨ ਦੀ ਸਾਰੀ ਮੈਲ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁੰਫਹੁ = ਗੁੰਦੋ। ਮਨਿ = ਮਨ ਵਿਚ। ਪਰਹਰੀਐ = ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

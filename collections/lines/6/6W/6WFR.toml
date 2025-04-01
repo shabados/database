@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਸਭਨਾਣ ਦਿਲਾਣ ਵਿਚ ਉਸ ਅਕਾਲਪੁਰਖ ਦਾ ਸਾਇਆ ਹੀ ਵਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਦਰੂਨਿ ਜੁਮਲਾ ਦਿਲਹਾ ਸਾਇ ਊਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

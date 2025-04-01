@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਸੋਹਣੇ ਚਰਨ ਧੋ ਧੋ ਕੇ (ਨਿੱਤ) ਪੀਂਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀਵਾ = ਪੀਵਾਂ, ਮੈਂ ਪੀਂਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

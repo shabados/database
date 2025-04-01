@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਮੌਤ ਦਾ ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਕਉ = {ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਉ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕਰਤਾਰ!) ਮੈਨੂੰ ਘੁੱਪ ਹਨੇਰੀ ਖੁੱਡ ਵਿਚੋਂ ਕੱਢ ਲੈ! ਤੇਰੇ ਘਰ ਵਿਚ ਕਿਸੇ ਚੀਜ਼ ਦੀ ਕਮੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਲਾ = ਬਿਲ, ਖੁੱਡ। ਅੰਧ = ਅੰਨ੍ਹੀ। ਤੇ = ਤੋਂ, ਵਿਚੋਂ। ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ਘਰਿ ਤੇਰੈ = ਤੇਰੇ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

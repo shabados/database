@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਖ਼ਸ਼ਨਹਾਰ ਪ੍ਰਭੂ! ਹੇ ਗਰੀਬਾਂ ਤੇ ਤਰਸ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਬਖਸੰਦ = ਹੇ ਬਖ਼ਸ਼ਨਹਾਰ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

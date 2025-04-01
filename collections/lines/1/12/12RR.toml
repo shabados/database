@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਤਿ ਸੁੰਦਰ ਰੂਪ ਵਾਲੇ! ਤੂੰ ਸਭ ਜੀਵਾਂ ਦੇ ਨਾਲ ਮਿਲਿਆ ਹੋਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਝਿ ਰਹਿਓ = (ਤੂੰ) ਮਿਲਿਆ ਹੋਇਆ ਹੈਂ। ਸੰਗਿ = ਨਾਲ। ਅਨੂਪ ਰੂਪਾਵਤੀ = ਹੇ ਅਨੂਪ ਰੂਪ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

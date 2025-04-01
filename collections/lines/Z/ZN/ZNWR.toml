@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਇਸ ਦੁਨੀਆ ਵਿਚ ਤੈਨੂੰ ਖੁਸ਼ੀ ਹਾਸਲ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਦਰੀਣ ਦੁਨਿਆ ਬ-ਯਾਬੀ ਇੰਬਸਾਤ ।੪੪।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨ ਖਿੜ ਪੈਂਦਾ ਹੈ ਜਿਵੇਂ ਮੀਂਹ ਪਿਆਂ ਧਰਤੀ ਦੀ ਸਜਾਵਟ ਬਣ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ ਮਿਲਿਐ = ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ। ਰਹਸੀਐ = ਖਿੜ ਪੈਂਦਾ ਹੈ। ਵੁਠੈ = (ਮੀਂਹ) ਵੱਸਿਆਂ। ਧਰਤਿ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

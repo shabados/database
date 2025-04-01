@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਹੇ ਗੰਵਾਰ! ਤੂੰ (ਹੋਰਨਾਂ ਨਾਲ) ਵਲ-ਛਲ ਕਰ ਕੇ (ਆਪਣਾ) ਪੇਟ ਭਰਦਾ ਹੈਂ (ਰੋਜ਼ੀ ਕਮਾਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੰਚ {वंच् = ਟੇਢੀ ਚਾਲੇ ਤੁਰਨਾ वंचय = ਠੱਗ ਲੈਣਾ}। ਵਲ = ਵਿੰਗ। ਵਲ ਵੰਚ = ਠੱਗੀ ਫਰੇਬ, ਵਲਛਲ। ਉਦਰੁ = ਢਿੱਡ। ਭਰਹਿ = ਤੂੰ ਭਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀਓ! ਤੁਸੀਂ ਦੁੱਖੀ ਹੋਣ ਵਾਸਤੇ ਹੀ ਜਗਤ ਵਿਚ ਆਈਆਂ ਹੋ ਕਿਉਂਕਿ ਸੰਸਾਰ ਵਿਚ ਤੁਹਾਨੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਨੇ ਠੱਗਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਠਿ = ਕੂੜੇ ਮੋਹ ਨੇ। ਮੁਠੀ = ਲੁੱਟਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਉਸ ਨੇ ਬਾਂਹ ਫੜ ਕੇ ਰੋਗ ਵਿਚੋਂ ਬਚਾ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਕੜਿ = ਫੜ ਕੇ। ਰੋਗਹੁ = ਰੋਗ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

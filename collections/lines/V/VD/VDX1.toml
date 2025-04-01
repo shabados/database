@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿੰਦਿਆ, ਖ਼ੁਸ਼ਾਮਦ, ਚੁਗ਼ਲੀ-ਇਹ ਹਰੇਕ ਕੰਮ ਮਾੜਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾੜੀ ਚਾੜੀ = ਲਹਾ ਦੀ ਗੱਲ ਤੇ ਚੜ੍ਹਾਅ ਦੀ ਗੱਲ, ਨਿੰਦਿਆ ਤੇ ਖ਼ੁਸ਼ਾਮਦ। ਲਾਇਤਬਾਰ = ਲਾ-ਇਤਬਾਰੁ, ਉਹ ਢੰਗ ਜਿਸ ਨਾਲ ਕਿਸੇ ਦਾ ਇਤਬਾਰ ਗਵਾਇਆ ਜਾ ਸਕੇ, ਚੁਗ਼ਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

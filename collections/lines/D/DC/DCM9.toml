@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਾਧ ਸੰਗਤ ਵਿਚ (ਸੰਤ ਜਨ) ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਬੈਠਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸਭਾ = ਸੰਤਾਂ ਦੀ ਸਭਾ, ਸਾਧ ਸੰਗਤ। ਜਹ = ਜਿੱਥੇ। ਬੈਸਹਿ = ਬੈਠਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਪ੍ਰਭ ਪਾਸੇ = ਪ੍ਰਭੂ ਦੇ ਪਾਸ, ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

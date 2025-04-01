@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬ ਅਤੇ ਉਸ ਦੇ ਵਿਚਕਾਰ ਕੇਵਲ ਇੱਕ ਪੱਤੇ ਦਾ ਹੀ ਪਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿਆਨਿ ਹੱਕੋ ਊ ਫ਼ਸਾਲੁ-ਲ ਵਰਕ ।"
+page = 8
+line = 94
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

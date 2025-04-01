@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ-ਹੁਦਰੇ ਮਨੁੱਖ ਦਾ ਅੰਦਰਲਾ ਭਿੱਜਦਾ ਨਹੀਂ, ਚਿੱਤ ਰੱਜਦਾ ਨਹੀਂ, ਮੂੰਹੋਂ ਭੀ ਫਿੱਕਾ ਬੋਲ ਹੀ ਬੋਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹੋਂ। ਆਲਾਉ = ਆਲਾਪ, ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

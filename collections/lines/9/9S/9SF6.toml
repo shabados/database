@@ -5,6 +5,13 @@ language = "pa"
 data = "ਨਿੰਮਰਤਾ ਸਹਿਤ ਲੱਖਾਂ ਵਾਰ ਕੁਰਬਾਨ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਸਰਿ ਇਜਜ਼ ਸਦ ਹਜ਼ਾਰਾਂ ਬਾਰ ।੨।"
+page = 1
+line = 2
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

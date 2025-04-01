@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਨ ਛੱਡਿਆਂ ਰੱਬ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿਐ ਅੰਨਿ = ਜੇ ਅੰਨ ਤਜਿਆ ਜਾਏ, ਅੰਨ ਛੱਡਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

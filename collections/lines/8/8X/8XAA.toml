@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਰੋਗ ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਰੂਪੀ ਦਵਾਈ ਵਰਤਿਆਂ ਮਿਟ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਖਧੁ = ਦਵਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

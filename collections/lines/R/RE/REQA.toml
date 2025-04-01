@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਰ ਤੋਂ ਪੈਰਾਂ ਤਕ ਦੀ ਬੰਦਗੀ ਵੀ ਉਸੇ ਤੋਂ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਤਾ ਸਰ ਕਦਮ ਬੁਬਯਾਦਿ ਊ ।੨੪੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

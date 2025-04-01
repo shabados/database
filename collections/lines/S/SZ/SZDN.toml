@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਾਣੀ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਹੋਰ ਅਨੇਕਾਂ ਉਪਾਵਾਂ ਨਾਲ ਭੀ ਮੱਛੀ ਜੀਊਂਦੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ, ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਉਸ ਦੀ ਮੌਤ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = {अन्य} ਹੋਰ ਹੋਰ। ਮੀਨਾ = ਮੱਛੀ। ਤੇਂਹ = ਉਸ ਦਾ। ਮਰਨਾ = ਮੌਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

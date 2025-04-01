@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦੇ ਚੋਜ-ਤਮਾਸ਼ੇ ਸਮਝੇ ਨਹੀਂ ਜਾ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਖੇ ਨ ਜਾਹਿ = ਸਮਝੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

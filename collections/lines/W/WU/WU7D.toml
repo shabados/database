@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਗੁਰੂ# ਤੇਰੀ ਅੱਖਾਣ ਦੀ ਗਰਦਿਸ਼ ਤਾਣ ਦਿਨਾਣ ਵਿਚ ਵੀ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਗਰਦਸ਼ਿ ਚਸ਼ਮਿ ਤੂ ਕਿ ਅੱਯਾਮ ਨ ਦਾਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਹਰ ਨਾਚੀਜ ਨੂੰ ਸੂਝਵਾਣ ਬਣਾ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਕਸੇ ਰਾ ਸਾਹਿਬਿ ਤਦਬੀਰ ਕਰਦ ।੨੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

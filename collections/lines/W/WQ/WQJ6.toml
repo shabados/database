@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਸਿਮਰੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭੂ ਕਿਰਪਾ ਤੇ = ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

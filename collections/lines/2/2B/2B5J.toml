@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਬਖਸ਼ਿਸ਼ਾਂ ਵਰਸਾਉਣ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਬਰਿ ਰਹਿਮਤ ਬਾਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੦।"
+page = 10
+line = 110
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

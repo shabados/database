@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤਦੋਂ ਤੋਂ ਮੇਰੀ ਭੈੜੀ ਤੇ ਬੇ-ਸਮਝੀ ਵਾਲੀ ਮਤਿ ਦੂਰ ਹੋ ਗਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਸਟ = ਭੈੜੀ। ਬਿਗਾਨੀ = ਬੇਗਿਆਨੀ, ਬੇਸਮਝੀ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

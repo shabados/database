@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁੱਖਾਂ ਦੇ ਇਸ ਸਾਗਰ ਵਿਚੋਂ ਤਰਨ ਲਈ) ਮੈਂ ਆਪਣੇ ਮਾਲਿਕ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਯਾਦ ਕਰਦਾ ਹਾਂ, ਕਿਸੇ ਹੋਰ ਪਾਸੋਂ ਮੈਂ ਇਹ ਮੰਗ ਨਹੀਂ ਮੰਗਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵੀ = ਮੈਂ ਸੇਂਵਦਾ ਹਾਂ। ਜਾਚੰਉ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

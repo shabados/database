@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਤਾਣ ਆਪ ਹਉਮੈ ਦੇ ਪਰਦੇ ਹੇਠ ਹੈਣ, ਚੰਨ ਵਰਗਾ ਸੋਹਣਾ ਭਲਾ ਕੀ ਕਰੇ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੂ ਦਰ ਹਿਜਾਬਿ ਖ਼ੁਦੀ ਯਾਰ ਮਹਿ ਲਕਾ ਕਿ ਕੁਨਦ ।੨੦।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜ਼ਿ ਖ਼੍ਵਾਸਾਂ ਰਬਾਇੰਦਾ ਗੂਇ ਸਬੱਕ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਖ੍ਵਾਸਾਂ ਰਬਾਇੰਦਾ ਗੂਇ ਸਬਕ ।੮੩।"
+page = 6
+line = 83
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

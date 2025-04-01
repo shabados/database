@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਨ ਸਤਿਗੁਰੂ ਨੇ ਇਹ ਫਰਮਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਕਿ ਊ ਅਰਸ਼ਾਦ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

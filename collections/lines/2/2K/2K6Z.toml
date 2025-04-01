@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਇਹੀ ਸੋਚ ਫੁਰਦੀ ਹੈ ਕਿ ਹਰ ਥਾਂ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।ਤੇਰਾ ਹੀ ਖਿਲਾਰਿਆ ਹੋਇਆ ਖਿਲਾਰਾ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਰਿਆ = ਖਿਲਾਰਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

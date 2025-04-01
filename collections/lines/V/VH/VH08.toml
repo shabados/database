@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਮੈਨੂੰ ਮਰਨ ਪਿੱਛੋਂ ਮੁਕਤੀ ਦੇ ਦਿੱਤੀ, ਤੇਰੀ ਦਿੱਤੀ ਹੋਈ ਮੁਕਤੀ ਦਾ ਕਿਸੇ ਨੂੰ ਪਤਾ ਨਹੀਂ ਲੱਗਣਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜੇ। ਕੋਇਲਾ = ਕੋਈ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

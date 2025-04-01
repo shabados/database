@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੇ ਸਰੀਰ ਵਿਚ ਚੰਡਾਲ ਕ੍ਰੋਧ ਵੱਸਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਇ = ਬਸੈ, ਵੱਸਦਾ ਹੈ। ਸਰੀਰਿ = ਸਰੀਰ ਵਿਚ। ਚੰਡਾਰਾ = ਚੰਡਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

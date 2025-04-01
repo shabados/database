@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਨਾਮ-ਦਾਰੂ) ਨੇ ਉਸ ਮਨੁੱਖ ਦਾ ਸਾਰਾ ਹੀ (ਵਿਕਾਰ-) ਰੋਗ ਕੱਟ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ (ਦਾਰੂ) ਨੇ। ਬਿਦਾਰੂ = ਨਾਸ ਕਰ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

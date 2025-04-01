@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਮਾਨੋ) ਅਨੇਕਾਂ ਰੂਪਾਂ ਰੰਗਾਂ ਅਤੇ ਮਾਇਕ ਪਦਾਰਥਾਂ ਦਾ ਰਸ ਮਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸੈ = ਰਸ ਮਾਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

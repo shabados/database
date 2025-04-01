@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਪ੍ਰਭੂ ਦੇ ਪਾਰਲੇ ਉਰਾਰਲੇ ਬੰਨਿਆਂ ਦੇ ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਤਾ ਕੇ = ਉਸ ਹਰੀ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

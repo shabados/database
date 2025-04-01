@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਜਹਾਨ ਦੀ ਬਾਦਸ਼ਾਹੀ ਰੌਲੇ ਰੱਪੇ ਤੋਣ ਵੱਧ ਹੋਰ ਕੁਝ ਵੀ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੇਸ਼ਿ ਦਰਵੇਸ਼ੇ ਕਿ ਊ, ਅਜ਼ ਮੁਦਆ ਖ਼ਾਹਦ ਗੁਜ਼ਸ਼ਤ ।੧੧।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

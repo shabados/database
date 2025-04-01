@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਸਲਾਹ ਮਿਲੀ ਕਿ ਮੈਂ (ਉਸ ਪਾਸ) ਦੋ ਮਨੁੱਖ ਅਪੜਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ = ਦੋ। ਪਹੁਚਾਵਉ = ਪਹੁਚਾਵਉਂ, ਮੈਂ ਅਪੜਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿੰਨੇ ਭਵਨ ਤੇ ਚੌਦਹ ਲੋਕ ਅਕਾਲ ਪੁਰਖ ਦੇ ਟਿਕਾਏ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰੀਆ = ਸ਼ਹਿਰ, ਸਰੀਰ, ੧੪ ਲੋਕ। ਭਵਨ = {Skt.भुवन = A world, the number of worlds is either three, as in त्रिभुवभ, or fourteen} ਲੋਕ, ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

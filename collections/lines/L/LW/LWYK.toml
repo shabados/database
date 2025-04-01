@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕਾਮਾਦਿਕ) ਪੰਜ ਵੈਰੀ ਜਗਤ (ਦੇ ਆਤਮਕ ਜੀਵਨ) ਨੂੰ ਲੁੱਟ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹਹਿ = ਠੱਗ ਰਹੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

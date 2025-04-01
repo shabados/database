@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਮਨ ਰਤਾ ਭਰ ਭੀ ਮੇਰਾ ਕਿਹਾ ਨਹੀਂ ਮੰਨਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਯਹ ਮਨੁ = ਇਹ ਮਨ। ਨੈਕ = ਰਤਾ ਭਰ ਭੀ। ਕਹਿਓ = ਕਿਹਾ ਹੋਇਆ ਉਪਦੇਸ਼, ਦਿੱਤੀ ਹੋਈ ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

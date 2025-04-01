@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗ਼ਰੀਬਾਂ ਦੇ ਖਸਮ! ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ! ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਹੇ ਦੀਨਾ ਨਾਥ! ਹੇ ਦਇਆਲ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨਾ ਨਾਥ = ਹੇ ਗਰੀਬਾਂ ਦੇ ਖਸਮ! ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

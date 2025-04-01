@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਿਰਜਨਹਾਰ ਪ੍ਰਭੂ ਵਾਸਤੇ ਇਹ ਕੋਈ ਅਨੋਖੀ ਗੱਲ ਨਹੀਂ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਰਜੁ = ਅਨੋਖੀ ਗੱਲ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

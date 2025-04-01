@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੌਕਰ ਦਾ ਮਾਲਕ ਕੰਗਾਲ ਹੋਵੇ, ਉਸ ਦੇ ਨੌਕਰ ਨੇ ਕਿੱਥੋਂ ਰੱਜ ਕੇ ਖਾਣਾ ਹੋਇਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੰਗਾ ਭੁਖਾ = ਕੰਗਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

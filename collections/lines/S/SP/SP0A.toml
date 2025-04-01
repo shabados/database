@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਅੰਦਰੋਂ ਉਹ ਜਲ ਥਲ ਦਾ ਮਾਲਕ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਤਨ ਅੰਦਰ ਸਾਹਿਬਿ ਬਹਿਰੋ ਬਰ ਅਸਤ ।੩੪੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

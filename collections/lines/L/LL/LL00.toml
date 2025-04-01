@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਮੂਰਖ ਹਾਂ, ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਦੀ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਮਿਲਉ = ਮਿਲਉਂ, ਮੈਂ ਮਿਲਾਂ। ਇਆਣੀ = ਅੰਞਾਣ, ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

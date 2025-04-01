@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਸਧਾਰੀਏ ਭੀ ਬਜ਼ਾਰਾਂ ਵਿਚ ਆ ਕੇ ਰਾਸਾਂ ਪਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜਾਰੀ = ਰਾਸਧਾਰੀਏ। ਆਇ ਕਢਹਿ ਬਾਜਾਰ = ਆ ਕੇ ਰਾਸਾਂ ਪਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

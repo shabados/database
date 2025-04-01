@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ) ਮੈਂ ਹੇ ਪ੍ਰਭੂ ਜੀ! ਨਾਮਾ ਹਾਂ। ਹੇ ਪ੍ਰਭੂ ਜੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀ = ਹੇ (ਪ੍ਰਭੂ) ਜੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

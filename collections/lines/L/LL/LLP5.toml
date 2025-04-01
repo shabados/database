@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਹਾਂ ਉਸ (ਹੰਸ) ਤੋਂ ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਤੂੰ ਸੱਚਾ ਠਾਕੁਰ ਵੱਸਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = (ਜਿਸ ਦੇ) ਮਨ ਵਿਚ। ਤਿਸੁ = ਉਸ (ਜੀਵ-ਹੰਸ) ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਇਸ ਅੱਗੇ (ਹੁਣ) ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਥ = ਹੇ ਨਾਥ! ਹੇ ਪ੍ਰਭੂ! ਨ ਜਾਨਉ = ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ। ਕਛੂਅ ਨ ਜਾਨਉ = ਮੈਂ ਕੁਝ ਭੀ ਨਹੀਂ ਜਾਣਦਾ, ਮੈਨੂੰ ਕੁਛ ਭੀ ਨਹੀਂ ਅਹੁੜਦਾ, ਮੇਰੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਅੱਠੇ ਪਹਿਰ ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ ਤੇਰਾ ਧਿਆਨ ਧਰਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ ਜੋੜਿ = (ਦੋਵੇਂ) ਹੱਥ ਜੋੜ ਕੇ। ਧਿਆਵਉ = ਧਿਆਵਉਂ, ਮੈਂ ਧਿਆਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

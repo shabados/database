@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸੰਤ ਜਨਾਂ ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ ਤਾਂ ਹੀ ਮਿਲਦੀ ਹੈ ਜੇ ਚੰਗੇ ਭਾਗ ਹੋਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਪਹਿਲੇ ਤੋਂ, ਮੁੱਢ ਤੋਂ, ਧੁਰ ਤੋਂ। ਲਿਖਿਆ = ਪਿਛਲੇ ਕੀਤੇ ਹੋਏ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਦੀ ਹੋਂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

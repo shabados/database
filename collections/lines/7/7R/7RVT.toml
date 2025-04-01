@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਪਾਪ ਕਰ ਕਰ ਕੇ ਅਸੀਂ ਅਨੇਕਾਂ ਜਨਮਾਂ ਵਿਚ ਭਟਕਦੇ ਰਹੇ ਹਾਂ, ਹੁਣ (ਤੇਰੀ ਮਿਹਰ ਨਾਲ) ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੇ = ਭਟਕਦੇ ਰਹੇ। ਤਉ = ਤੇਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ ਦਾ) ਕੰਢਾ ਦਿੱਸਦਾ ਨਹੀਂ, ਨਾਹ ਉਰਲਾ ਕੰਢਾ ਨਾਹ ਪਾਰਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਧੀ = ਕੰਢਾ। ਉਰਵਾਰੁ = ਉਰਲਾ ਕੰਢਾ। ਵੰਝੀ = ਵੰਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

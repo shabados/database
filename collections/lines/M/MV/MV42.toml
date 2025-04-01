@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ! ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਤੂੰ ਖਿਨ-ਪਲ ਵਿਚ ਸ੍ਵਾਂਗੀ ਵਾਂਗ ਕਈ ਰੂਪ ਧਾਰਦਾ ਹੈਂ। ਤੂੰ ਮੋਹ ਵਿਚ ਪਾਪਾਂ ਵਿਚ ਗ਼ਲਤਾਨ ਹੋਇਆ ਪਿਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਟੂਆ = ਸ੍ਵਾਂਗੀ, ਮਦਾਰੀ। ਜਿਉ = ਵਾਂਗ। ਗਲਤੁ = ਗ਼ਲਤਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

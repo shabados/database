@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! ਤੇਰੇ ਬਰਾਬਰ ਦਾ ਤੂੰ ਆਪ ਹੀ ਹੈਂ। ਹੇ ਨਾਨਕ! ਉਸ ਪਾਰਬ੍ਰਹਮ ਦੀ ਸ਼ਰਨ ਪਓ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਵਡੁ = ਜੇਡਾ, ਬਰਾਬਰ ਦਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

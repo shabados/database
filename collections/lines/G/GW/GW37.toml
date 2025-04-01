@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਕੁਝ ਕਰਨ ਜੋਗ ਸੁਆਮੀ! ਹੇ ਜੀਵਾਂ ਪਾਸੋਂ ਸਭ ਕੁਝ ਕਰਾਵਣ ਦੇ ਸਮਰਥ ਸੁਆਮੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

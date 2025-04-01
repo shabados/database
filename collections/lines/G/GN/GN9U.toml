@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਤ! ਇਹ ਜਨੇਊ ਜੋ ਤੂੰ ਪਾਂਦਾ ਫਿਰਦਾ ਹੈਂ, ਇਹ ਤਾਂ ਤੂੰ) ਚਾਰ ਕੌਡਾਂ ਮੁੱਲ ਦੇ ਕੇ ਮੰਗਵਾ ਲਿਆ, (ਆਪਣੇ ਜਜਮਾਨ ਦੇ) ਚੌਕੇ ਵਿਚ ਬੈਠ ਕੇ (ਉਸ ਦੇ ਗਲ) ਪਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਕੜਿ = ਚਾਰ ਕੌਡੀਆਂ ਤੋਂ। ਅਣਾਇਆ = ਮੰਗਵਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

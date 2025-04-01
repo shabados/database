@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਦੀਨ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮੇਰੇ ਉਤੇ ਮਿਹਰ ਕਰ ਮਿਹਰ ਕਰ। ਮੈਨੂੰ ਆਪਣੇ ਪਿਆਰੇ ਭਗਤ ਮਿਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

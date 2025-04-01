@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਗਾਂਵਿਆਂ (ਮਨੁੱਖ ਦਾ) ਇਹ ਹਿਰਦਾ-ਥਾਂ ਭਾਗਾਂ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਭਾਗਾਂ ਵਾਲਾ। ਇਹੁ ਥਾਨੁ = ਇਹ ਹਿਰਦਾ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

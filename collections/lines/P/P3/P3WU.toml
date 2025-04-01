@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅੰਨ੍ਹੇ ਹੋਏ ਮਨੁੱਖ ਨੂੰ ਨਾਹ ਅਕਲ ਹੈ ਨਾਹ (ਇਸ ਲੁੱਟ ਦੀ) ਖ਼ਬਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧੇ = ਮਾਇਆ ਵਿਚ ਅੰਨ੍ਹੇ ਹੋਏ ਜੀਵ ਨੂੰ। ਮਨਮੁਖ = ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਨੂੰ। ਸੁਧਿ = {सुधी = Intelligence} ਅਕਲ। ਸਾਰ = ਖ਼ਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

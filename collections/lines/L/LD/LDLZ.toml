@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਵਾਸਤੇ ਤਾਂ ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਮਿੱਤਰ ਹੈ, ਸਾਥੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੇਰੇ ਵਾਸਤੇ, ਮੇਰਾ। ਸਖਾ = ਸਾਥੀ, ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਸਦਕਾ ਸੰਸਾਰ ਦੀ ਰਾਤ ਰੌਸ਼ਨ ਹੋ ਗਈ ੍ਹੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਰੌਸ਼ਨ ਆਮਦ ਸ਼ਬਿ ਆਲਮੋ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

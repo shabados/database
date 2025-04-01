@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਆਪਣੀ ਜਿੰਦ ਆਪਣੇ ਪ੍ਰਾਣ ਆਪਣਾ ਧਨ ਸਭ ਕੁਝ ਤੇਰੇ ਹਵਾਲੇ ਕਰੀ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਾਸਿ = ਹਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

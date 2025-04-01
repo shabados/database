@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸੱਚ ਦੀਆਂ ਕਿਰਨਾਂ ਉਸ ਦੇ ਪਵਿੱਤ੍ਰ ਵਜੂਦ ਸਦਕਾ ਰੋਸ਼ਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਨਵਾਰਿ ਹੱਕ ਅਜ਼ ਵਜੂਦਿ ਪਾਕਿਸ਼ ਰੌਸ਼ਨ ।"
+page = 9
+line = 100
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

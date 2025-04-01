@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਆਪ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਸੁਮੱਤ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ। ਆਪਿ = ਪ੍ਰਭੂ ਆਪ। ਬੁਝਾਈ = ਸਮਝ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

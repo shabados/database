@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੱਦਲ! ਵਰਖਾ ਕਰ (ਹੇ ਗੁਰੂ! ਨਾਮ ਦੀ ਵਰਖਾ ਕਰ, ਤਾ ਕਿ) ਮੇਰਾ ਮਨ ਉਸ ਵਿਚ ਭਿੱਜ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਸੁ = ਵਰਖਾ ਕਰ। ਘਨਾ = ਹੇ ਘਟ! ਹੇ ਬੱਦਲ! ਭੀਨਾ = ਭਿੱਜ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

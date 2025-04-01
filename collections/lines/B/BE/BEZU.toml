@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਨਿਸ਼ਚਾ ਹੋ ਗਿਆ ਹੈ ਕਿ) ਹਰਿ-ਨਾਮ (ਹੀ) ਮੇਰਾ ਮਿੱਤਰ ਹੈ ਮੇਰਾ ਵੀਰ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖਾ = ਮਿੱਤਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

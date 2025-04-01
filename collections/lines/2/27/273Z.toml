@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਹੇ ਜੋਗੀ! (ਹਰੇਕ ਹਿਰਦੇ ਵਿਚ ਵੱਜ ਰਹੀ ਸੋਹਣੀ ਕਿੰਗ ਦਾ) ਭੇਤ ਤੂੰ ਨਹੀਂ ਸਮਝਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗੀ = ਹੇ ਜੋਗੀ! ਭੇਦੁ = (ਹਰੇਕ ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਰਹੀ ਸੋਹਣੀ ਕਿੰਗੁਰੀ ਦਾ) ਭੇਤ। ਲਹਿਆ = ਲੱਭਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

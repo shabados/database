@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਦੇ ਕਾਰਨ ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਬ੍ਰਾਹਮਣ ਕਈ ਪਾਸੀਂ ਖ਼ੁਆਰ ਹੁੰਦਾ ਫਿਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੇ = ਭਟਕਣਾ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਜਿਨ੍ਹਾਂ ਵਲ ਲੇਖੇ ਦੀ ਬਾਕੀ ਰਹਿ ਜਾਂਦੀ ਹੈ ਉਹਨਾਂ ਉਹਨਾਂ ਮਨਮੁਖਾਂ ਨੂੰ ਸੱਦੇ ਪੈਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲਬਾ = ਸੱਦੇ। ਆਕੀ = ਬਾਗ਼ੀ। ਬਾਕੀ = ਲੇਖੇ ਵਿਚੋਂ ਬਕਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

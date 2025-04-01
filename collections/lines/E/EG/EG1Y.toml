@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ (ਮੇਰੇ) ਇਸ ਮਨ ਦਾ ਆਸਰਾ ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮ = {ਅੱਖਰ 'ਮ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਨਾਮੁ' ਹੈ, ਇਥੇ 'ਨਾਮੋ' ਪੜ੍ਹਨਾ ਹੈ}। ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

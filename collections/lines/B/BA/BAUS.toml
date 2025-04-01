@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ (ਮੰਦਰ ਵਿਚ) ਦੇਵਤਾ ਹੈ, ਤੇ ਆਪ ਹੀ (ਦੇਵਤੇ ਦਾ) ਪੁਜਾਰੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵਾ = ਦੇਵਤਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਕਦੇ ਨਹੀਂ ਸੁਣਿਆ ਕਿ ਕਲਿਜੁਗ ਕਿਸੇ ਖ਼ਾਸ ਦੇਸ ਵਿਚ ਆਇਆ ਹੋਇਆ ਹੈ, ਕਿਸੇ ਖ਼ਾਸ ਤੀਰਥ ਕੋਲ ਬੈਠਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਦੇਸਿ = ਕਿਸੇ ਭੀ ਦੇਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

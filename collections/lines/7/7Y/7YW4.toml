@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੱਟ, ਸ਼ਹਰ, ਬਾਜ਼ਾਰ, ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ (ਅੰਤ) ਢਹਿ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਟਣ = ਸ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

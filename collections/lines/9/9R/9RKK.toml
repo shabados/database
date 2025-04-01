@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਇਹ ਜਿੰਦ ਤੇ ਸਰੀਰ ਸਭ ਕੁਝ ਪਰਮਾਤਮਾ ਦੀ ਦਿੱਤੀ ਦਾਤਿ ਸਮਝਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

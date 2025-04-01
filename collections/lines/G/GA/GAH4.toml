@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੈਥੋਂ ਬਿਨਾ (ਤੇਰੇ ਬਰਾਬਰ ਦਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ, ਤੂੰ ਹੀ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਤੀਆ = ਦੂਜਾ, ਤੈਥੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ। ਨਾਸਤਿ = ਨ ਅਸਤਿ, ਨਹੀਂ ਹੈ {अस्ति}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

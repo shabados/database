@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਆ ਕੇ (ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦੀ ਭਟਕਣ ਦੇ ਹਨੇਰੇ ਮਿਟ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਸਾਧ ਸੰਗਤਿ ਵਿਚ। ਅੰਧਾਰੇ = ਹਨੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

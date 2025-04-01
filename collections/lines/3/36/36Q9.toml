@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਦਿੱਸਦਾ ਜਗਤ ਉਸ ਦਾ ਆਪਣਾ ਹੀ ਸਰੂਪ ਹੈ, ਆਕਾਰ-ਰਹਿਤ ਭੀ ਉਹ ਆਪ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਾਰੁ = ਦਿੱਸਦਾ ਜਗਤ। ਨਿਰੰਕਾਰੁ = {ਨਿਰ-ਆਕਾਰ} ਆਕਾਰ-ਰਹਿਤ, ਅਦ੍ਰਿਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

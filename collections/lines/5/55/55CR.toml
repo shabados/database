@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗ਼ਲਤ ਰਸਤੇ ਤੇ ਭਟਕ ਰਿਹਾ ਹੈ, ਉਹ ਸਹੀ ਰਸਤੇ ਉੱਤੇ ਨਹੀਂ ਜਾ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਇ = ਥਾਂ ਵਿਚ, ਥਾਂ ਸਿਰ। ਥਾਇ ਨ ਪਾਈ = ਥਾਂ-ਸਿਰ ਨਹੀਂ ਪੈਂਦੀ, ਪਰਵਾਨ ਨਹੀਂ ਹੁੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

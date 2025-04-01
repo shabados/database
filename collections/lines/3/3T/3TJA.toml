@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਵੇਂ ਇਸ ਮਨ ਨੂੰ ਮਾਰੀਏ? ਕਿਵੇਂ ਇਹ ਮਨ ਦੁਨੀਆ ਦੇ ਚਸਕਿਆਂ ਵਲੋਂ ਹਟੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਰਤਕੁ = ਮੁਰਦਾ, ਦੁਨੀਆ ਦੇ ਚਸਕਿਆਂ ਵਲੋਂ ਹਟਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

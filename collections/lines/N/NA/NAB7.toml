@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਇਕ ਇਕ ਖਿਨ ਯਾਦ ਕਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਖਿਨੁ ਖਿਨੁ = ਹਰੇਕ ਖਿਨ। ਸਮ੍ਹ੍ਹਾਲਿ = ਚੇਤੇ ਕਰਦਾ ਰਹੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

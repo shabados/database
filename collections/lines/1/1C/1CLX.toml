@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਹੀ ਕਿਰਪਾ ਨਾਲ (ਹੁਣ) ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਨਾਲ। ਤੁਮ ਸਰਣਾਇਆ = ਤੇਰੀ ਸਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

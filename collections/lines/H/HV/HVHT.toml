@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਰੂਪ ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਫਿਰ ਜੀਵ ਤੇਰਾ ਧਿਆਨ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਧਰਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

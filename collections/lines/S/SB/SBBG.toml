@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਸ਼ੌਕ ਕਾਰਣ ਹਰ ਇੱਕ ਸਿਰ ਦੇ ਪੈਰੀਂ ਤੁਰਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸ ਜ਼ਿ ਸ਼ੌਕਿ ਤੂ ਕਦਮ ਅਜ਼ ਸਰ ਸਾਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਹਰਿ ਗੋਬਿੰਦ, ਬਖਸ਼ਿਸ਼ ਦਾ ਰੂਪ ਸੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਹਰਿ ਗੋਬਿੰਦ ਆਂ ਸਰਾਪਾ ਕਰਮ ।"
+page = 6
+line = 81
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

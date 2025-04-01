@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਰ ਗੁਨਾਹ ਦੀ ਸਜ਼ਾ ਤੋਂ ਮੁਕਤ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਪਾਦਾਸ਼ਿ ਹਰ ਮਾਅਸੀਅਤ ਵਾ ਰਹੀਦ ।੧੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

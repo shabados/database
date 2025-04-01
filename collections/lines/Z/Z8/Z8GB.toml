@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ, ਹਾਂ ਰੱਬ ਦੀ ਯਾਦ, ਬੱਸ ਰੱਬ ਦੀ ਯਾਦ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਹੱਕ ਹਾਂ ਯਾਦਿ ਹੱਕ ਹਾਂ ਯਾਦਿ ਹੱਕ ।੫੦੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

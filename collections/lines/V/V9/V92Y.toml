@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਅਪਹੁੰਚ ਅਤੇ ਅਥਾਹ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ ਕਥਾ = ਅਪਹੁੰਚ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਅਗਾਧਿ = ਅਥਾਹ। ਜਨ = ਹੇ ਜਨੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

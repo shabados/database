@@ -42,6 +42,12 @@ language = "pa"
 data = "ਜੇ ਇੱਕ ਜੀਭ ਤੋਂ ਲੱਖ ਜੀਭਾਂ ਹੋ ਜਾਣ, ਅਤੇ ਲੱਖ ਜੀਭਾਂ ਤੋਂ ਵੀਹ ਲੱਖ ਬਣ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕੁ ਦੂ = ਇੱਕ ਤੋਂ। ਇਕ ਦੂ ਜੀਭੌ = ਇਕ ਜੀਭ ਤੋਂ। ਹੋਹਿ = ਹੋ ਜਾਣ। ਲਖ = ਲੱਖ (ਜੀਭਾਂ)। ਲਖ ਹੋਵਹਿ = ਲੱਖ ਜੀਭਾਂ ਤੋਂ ਹੋ ਜਾਣ। ਲਖ ਵੀਸ = ਵੀਹ ਲੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

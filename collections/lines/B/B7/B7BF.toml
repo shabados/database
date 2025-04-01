@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮੀਆਂ ਨੂੰ ਵਡਿਆਈ ਦਿੱਤੀ ਹੈ ਤੇ ਪਾਪੀਆਂ ਨੂੰ ਦੰਡ ਦਿੱਤਾ ਹੈ ॥੧੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈਕਾਰੁ = ਵਡਿਆਈ। ਡੰਡੁ = ਸਜ਼ਾ ॥੧੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

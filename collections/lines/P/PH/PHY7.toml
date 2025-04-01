@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਮਨ ਨੂੰ ਪੱਧਰਾ ਕਰ ਦੇਹ (ਅਤੇ ਇਸ ਦੇ) ਉੱਚੇ ਨੀਵੇਂ ਥਾਂ ਦੂਰ ਕਰ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਦਾਨੁ = ਪੱਧਰਾ ਥਾਂ। ਲਾਹਿ = ਦੂਰ ਕਰ ਦੇਹ। ਟੋਏ ਟਿਬੇ = ਨੀਵੇਂ ਤੇ ਉੱਚੇ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

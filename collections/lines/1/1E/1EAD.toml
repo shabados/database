@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਨੌ ਨਿਧੀਆਂ ਦਾ ਦਰੀਆਉ ਹੈ; ਸਾਡੇ ਜਨਮਾਂ ਦੀ ਕਾਲਖ ਧੋਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਵਨਿਧਿ ਦਰੀਆਉ = ਨੌ ਨਿਧੀਆਂ ਦਾ ਦਰੀਆਉ। ਜਨਮ ਹਮ = ਸਾਡੇ ਜਨਮਾਂ ਦੀ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਨਾਨਕ! ਜੇ (ਸੁਨਿਆਰੇ ਨੂੰ) ਪੁੱਛੀਏ ਤਾਂ (ਗੱਲਾਂ ਨਾਲ) ਘਰ ਪੂਰਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ ਪੁਜਾਇ = ਪੂਰਾ ਕਰ ਵਿਖਾਂਦਾ ਹੈ, ਘਰ ਪੂਰਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

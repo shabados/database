@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਹੋਰਨਾਂ ਦੀ ਤਾਂ ਗੱਲ ਹੀ ਕੀਹ ਹੈ?) ਇੰਦ੍ਰ-ਪੁਰੀ ਵਿਚ ਭੀ ਮੌਤ ਜ਼ਰੂਰ ਆ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ੍ਰ ਪੁਰੀ = ਉਹ ਪੁਰੀ ਜਿਥੇ ਇੰਦ੍ਰ ਦੇਵਤੇ ਦਾ ਰਾਜ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

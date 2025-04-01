@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਹੀ ਦਾਨੀ ਤੇ ਦਾਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤੀ = ਸਤ ਧਰਮ ਵਾਲੇ ਮਨੁੱਖ। ਦਾਤਾਰ = ਦਾਤਾਂ ਦੇਣ ਵਾਲੇ, ਬਖ਼ਸ਼ਸ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

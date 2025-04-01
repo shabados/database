@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਗਾਲ੍ਹਾਣ ਨਹੀਣ ਜਾਣਦਾ, ਅਸੀਸਾਣ ਨਹੀਣ ਪਛਾਣਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੁਸ਼ਨਾਮ ਨ ਦਾਨੇਮ ਦੁਆ ਰਾ ਨਾ-ਸ਼ਨਾਸੇਮ ।੫੮।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਨਸ਼ੇ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਪਟਿ = ਚੰਬੜੇ ਹੋਏ। ਬਿਖੈ ਰਸ = ਵਿਸ਼ਿਆਂ ਦੇ ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

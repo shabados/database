@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ) ਮੇਰੇ ਵਾਸਤੇ ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ ਹੀ) ਸਭ ਕੁਝ ਹੈ, (ਨਾਮ ਹੀ ਮੇਰੇ ਵਾਸਤੇ) ਰਾਜ (ਹੈ, ਨਾਮ ਹੀ ਮੇਰੇ ਵਾਸਤੇ) ਧਨ (ਹੈ, ਨਾਮ ਹੀ ਮੇਰਾ) ਪਰਵਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ = ਮੇਰੇ ਵਾਸਤੇ। ਸਰਬਸੋ = (सर्वस्व = ਸਾਰਾ ਧਨ) ਸਭ ਕੁਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

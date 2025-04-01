@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਜੀਵਨ ਦੇ ਸਹੀ ਰਾਹ ਤੋਂ ਲਾਂਭੇ ਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ (ਪਾ ਕੇ)। ਭੁਲਾਇਆ = ਕੁਰਾਹੇ ਪਾਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

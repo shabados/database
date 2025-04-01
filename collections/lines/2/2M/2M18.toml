@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਐਸੇ ਹਨ ਜੋ (ਹਰੇਕ) ਤੀਰਥ ਉੱਤੇ ਇਸ਼ਨਾਨ ਕਰਦੇ ਹਨ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਅਨੇਕਾਂ। ਤੀਰਥਿ = ਤੀਰਥ ਉਤੇ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

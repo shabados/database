@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ) ਮਨ ਦਾ ਅਹੰਕਾਰ ਛੱਡ ਦੇਹ, ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ (ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲੈ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਏ = ਹਿਰਦੇ ਵਿਚ! ਆਨਿ = ਲਿਆ ਰੱਖ। ਤੈ = ਤੂੰ। ਕੋ = ਦਾ। ਮਾਨੁ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

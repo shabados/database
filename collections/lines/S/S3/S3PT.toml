@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਜਦੋਂ) ਬਸੰਤ ਦਾ ਮੌਸਮ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ ਤਦੋਂ ਸਾਰੀ ਬਨਸਪਤੀ ਖਿੜ ਪੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੜਿਆ = ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ। ਫੂਲੀ = ਖਿੜ ਪੈਂਦੀ ਹੈ। ਬਨਰਾਇ = ਬਨਸਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

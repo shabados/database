@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਪੱਥਰ (ਦੀਆਂ ਮੂਰਤੀਆਂ) ਪੂਜਦਾ ਰਿਹਾ, ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰਦਾ ਰਿਹਾ, ਜੰਗਲਾਂ ਵਿਚ ਨਿਵਾਸ ਰੱਖਦਾ ਰਿਹਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਿ = ਪੂਜ ਕੇ। ਸਿਲਾ = ਪੱਥਰ (ਦੀਆਂ ਮੂਰਤੀਆਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

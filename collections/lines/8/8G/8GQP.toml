@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵਡਿਆਈ ਦੀ ਬੁਲੰਦੀ ਦਾ ਉਹ ਚਮਕਦਾ ਚੰਦਰਮਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਖ਼ਸ਼ਿੰਦਾ ਮਹਿ ਔਜਿ ਤਫ਼ਜ਼ੀਲ ਰਾ ।੧੨੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

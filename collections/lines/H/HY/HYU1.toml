@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਰਨ ਪਏ ਮਨੁੱਖ ਦੀਆਂ) ਸਾਰੀਆਂ ਲੋੜਾਂ ਗੁਰੂ ਆਪ ਪੂਰੀਆਂ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਰਥ = ਗ਼ਰਜ਼ਾਂ, ਲੋੜਾਂ। ਪੂਰੇ = ਪੂਰੀਆਂ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

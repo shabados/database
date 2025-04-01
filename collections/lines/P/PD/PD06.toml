@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਦੋਂ) ਮੈਂ ਅਨਾਥ ਹੋਰ ਸਾਰੇ ਆਸਰੇ ਛੱਡ ਕੇ ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਆ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਛੱਡ ਕੇ। ਏਕ ਸਰਣਿ = ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

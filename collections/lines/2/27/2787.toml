@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਦੂਤ ਵਗਾਤੱਗ ਆ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂੜਾ ਆਇਓਹਿ = ਦੌੜੇ ਆ ਰਹੇ ਹਨ। ਜਮਹਿ ਤਣਾ = ਜਮ ਦੇ ਪੁੱਤਰ, ਜਮਦੂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

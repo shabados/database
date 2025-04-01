@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਐਸਾ ਹੈ) ਜਿਸ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ, (ਉਸ ਦਾ ਨਾਮ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ। ਭਉਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

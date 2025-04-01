@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਮਨੁੱਖ ਇਹਨਾਂ ਨੂੰ ਛੱਡ ਕੇ (ਆਖ਼ਿਰ) ਨੰਗਾ ਹੀ (ਇਥੋਂ) ਤੁਰ ਪੈਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ = ਮੂਰਖ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਜੋਗੀ) ਨੇ ਗੁਰੂ ਦੀ ਮਤਿ ਨਾਹ ਲਈ ਉਸ ਨੇ ਭੈੜੀ ਮੱਤੇ ਲੱਗ ਕੇ ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾ ਲਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਖੋਈ = ਗਵਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

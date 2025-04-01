@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਸ ਚੰਦ੍ਰਮਾ ਨੂੰ ਲੱਭ ਲੱਭ ਕੇ ਵਿਆਕੁਲ ਹੋ ਗਈ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈ। ਵਿਕੁੰਨੀ = ਵਿਆਕੁਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

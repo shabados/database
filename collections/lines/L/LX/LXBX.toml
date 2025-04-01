@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸੂਰਜ ਚੰਦ੍ਰਮਾ (ਇਹਨਾਂ ਸ੍ਰਿਸ਼ਟੀ ਦੇ) ਦੀਵਿਆਂ ਦਾ ਚਾਨਣ ਤੱਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ = ਸੂਰਜ। ਸਸਿ = ਚੰਦ੍ਰਮਾ। ਉਜਿਆਲਾ = ਚਾਨਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕਮਾਈ ਉਹਨਾਂ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਕੀਤੀ ਹੈ ਉਹ ਅੰਤ ਵੇਲੇ (ਜਦੋਂ ਹੋਰ ਸਾਰੇ ਸਾਥ ਮੁੱਕ ਜਾਂਦੇ ਹਨ) ਉਹਨਾਂ ਦਾ ਸਾਥ ਆ ਦੇਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੋ ਕੁਝ। ਸਤਿਗੁਰ ਅਗੈ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ। ਘਾਲਿਆ = ਕਮਾਈ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

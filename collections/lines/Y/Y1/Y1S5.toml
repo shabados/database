@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ  ਦਾਤ ਪਰਮਾਤਮਾ) ਆਪ ਹੀ (ਉਹਨਾਂ ਨੂੰ) ਦੇਂਦਾ ਹੈ, (ਇਹ  ਦਾਤ ਦੇ ਕੇ ਉਹ) ਪਛੁਤਾਂਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

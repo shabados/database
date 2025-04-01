@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ-ਪ੍ਰਭੂ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ! ਤੂੰ ਆਪਣੇ ਸੰਤਾਂ ਦੀ ਸਦਾ ਰੱਖਿਆ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲਾ = ਪਾਲਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

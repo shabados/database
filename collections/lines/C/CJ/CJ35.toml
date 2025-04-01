@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਮੈਨੂੰ ਆਪਣੇ ਹੱਥ ਦੇ ਕੇ ਰੱਖ, ਕੋਈ ਡਰ ਮੇਰੇ ਉਤੇ ਜ਼ੋਰ ਨਾ ਪਾ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਵਿਆਪੈ = ਜ਼ੋਰ ਨ ਪਾ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਸਾਧ ਸੰਗਤਿ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਸਾਧ ਸੰਗਤਿ ਤੋਂ ਆਪਣੀ ਜਿੰਦ ਕੁਰਬਾਨ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਿਆ = ਕੁਰਬਾਨ, ਸਦਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

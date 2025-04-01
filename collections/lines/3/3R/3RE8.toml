@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸਿਫ਼ਤ ਸਲਾਹ ਦਾ ਜ਼ਿਕਰ ਜੀਵ ਦੀ ਜ਼ਬਾਨ ਨੂੰ ਬੜਾ ਚੰਗਾ ਲਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਵਸਫ਼ਸ਼ ਬਰ ਜ਼ੁਬਾਣ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

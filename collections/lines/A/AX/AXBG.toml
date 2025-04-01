@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਅਨੇਕਾਂ ਗੁਣ ਹਨ, ਮੈਂ (ਸਾਰੇ) ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨਿ ਨ ਸਾਕਉ = {ਸਾਕਉਂ} ਮੈਂ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

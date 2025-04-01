@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਜੰਗਾਂ ਦੇ ਸਮੁੰਦਰ ਦਾ ਫੁੰਕਾਰਦਾ ਹੋਇਆ ਮਗਰਮੱਛ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਬਹਿਰਿ ਤਹਾਰਬ ਦਮਿੰਦਾ ਨਿਹੰਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

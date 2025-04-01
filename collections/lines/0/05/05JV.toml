@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਗਿਆਨ ਦਾ ਮਾਲਕ ਤੇ ਸੁਰਤ ਦਾ ਮਾਲਕ ਸੂਰਮਾ ਗੁਰੂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨਿ = ਗਿਆਨ ਦਾ ਮਾਲਕ। ਧਿਆਨਿ = ਧਿਆਨ ਦਾ ਮਾਲਕ। ਸੂਰਾ = ਸੂਰਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

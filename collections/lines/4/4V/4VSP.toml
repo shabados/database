@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਸਿੱਖ ਗੁਰੂ (ਅਮਰਦਾਸ ਜੀ) ਦੇ ਨਾਲ ਉਸ ਲੰਮੇ ਪੈਂਡੇ ਵਿਚ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਗਿ = ਮਾਰਗ ਉਤੇ, ਰਸਤੇ ਤੇ। ਪੰਥਿ = ਰਸਤੇ ਤੇ, ਰਾਹ ਤੇ। ਗੁਰ ਸੰਗਿ = ਗੁਰੂ ਦੇ ਨਾਲ। ਸਿਖਾ = ਅਨੇਕਾਂ ਸਿੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

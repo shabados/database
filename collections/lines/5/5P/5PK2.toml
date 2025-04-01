@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਨੁਖ-ਧਾਰੀ ਪ੍ਰਭੂ! ਮੇਰੇ ਉਤੇ ਕਿਰਪਾ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ, ਮੇਰੇ ਉਤੇ। ਸਾਰਿੰਗ = ਧਨੁਖ। ਪਾਣਿ = ਹੱਥ। ਸਾਰਿੰਗਪਾਣਿ = ਹੇ ਧਨੁਖ-ਧਾਰੀ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

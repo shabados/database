@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਹਰੇਕ ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸਾਰੇ (ਸੁਖਾਂ ਦੇ) ਖ਼ਜ਼ਾਨਿਆਂ ਦੇ (ਕੋਟਾਂ ਦੇ) ਕੋਟ ਮੌਜੂਦ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ = ਹਿਰਦਾ-ਘਰ। ਮਹਿ = ਵਿਚ। ਸਭਿ ਕੋਟ = ਸਾਰੇ ਕਿਲ੍ਹੇ {ਕੋਟਿ = ਕ੍ਰੋੜ। ਕੋਟੁ = ਕਿਲ੍ਹਾ। ਕੋਟ = ਕਿਲ੍ਹੇ}। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

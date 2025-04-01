@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਤ ਸੋਹਣੇ, ਬੇਅੰਤ ਤੇ ਬੇ-ਮਿਸਾਲ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੂਪ = ਜਿਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

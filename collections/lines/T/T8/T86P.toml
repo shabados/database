@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਂਇਆਂ! ਤੂੰ ਉਤਨਾ ਚਿਰ ਹੀ ਸੁਖੀ ਵੱਸੇਂਗੀ, ਜਿਤਨਾ ਚਿਰ (ਜੀਵਾਤਮਾ ਤੇਰਾ) ਸਾਥੀ (ਤੇਰੇ) ਨਾਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਚਰੁ = ਉਤਨਾ ਚਿਰ। ਵਸਹਿ = ਤੂੰ ਵੱਸੇਂਗੀ। ਸੁਹੇਲੜੀ = ਸੌਖੀ। ਸਾਥੀ = (ਜੀਵਾਤਮਾ-) ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਉਹ ਮੁੜ ਜਨਮ-ਮਰਨ ਦੇ ਕਸ਼ਟਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤਦੋਂ। ਸੰਕਟ = ਕਸ਼ਟ, ਦੁੱਖ-ਕਲੇਸ਼। ਬਹੁਰਿ = ਮੁੜ, ਫਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

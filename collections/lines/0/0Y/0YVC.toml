@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਭੈੜੇ ਆਚਰਨ ਵਾਲੀ ਆਖੀ ਜਾਂਦੀ ਹੈ ਅਤੇ ਸਦਾ ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਹਚਾਰਣੀ = ਦੁਰਾਚਾਰਣੀ, ਭੈੜੇ ਆਚਰਨ ਵਾਲੀ। ਕਹੀਐ = ਆਖੀ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਮੈਨੂੰ ਫ਼ਿਕਰਾਂ ਅਤੇ ਗ਼ਮਾਂ ਦੀ ਕੈਦ ਤੋਂ ਮੁਕਤੀ ਬਖਸ਼ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਹ ਰਹਾਈ ਬੰਦਾ ਰਾ ਅਜ਼ ਬੰਦਿ ਗ਼ਮ ।੪੬੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

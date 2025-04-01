@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਬਰਾਬਰ ਦਾ ਮੈਂ ਕਿਸੇ ਹੋਰ ਨੂੰ ਨਹੀਂ ਜਾਣਦਾ। ਮੈਂ ਨਿਤ ਤੇਰੇ ਹੀ ਗੁਣ ਗਾਂਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣਾ = ਮੈਂ ਜਾਣਦਾ। ਗਾਵਾ = ਮੈਂ ਗਾਂਦਾ ਹਾਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

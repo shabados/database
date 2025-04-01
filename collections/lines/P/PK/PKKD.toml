@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਅਕੱਥ! ਹੇ ਬੇਅੰਤ! ਮੇਰੀ ਇਹ ਜਿੰਦ, ਮੇਰਾ ਇਹ ਮਨ ਇਹ ਸਰੀਰ, ਇਹ ਧਨ-ਸਭ ਕੁਝ ਤੇਰਾ ਹੀ ਦਿੱਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਥ = ਅਕੱਥ, ਜਿਸ ਦਾ ਸਰੂਪ ਬਿਆਨ ਨਾਹ ਕੀਤਾ ਜਾ ਸਕੇ। ਜੀਉ = ਜਿੰਦ। ਤੁਮ੍ਹ੍ਹ = ਤੇਰਾ ਦਿੱਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

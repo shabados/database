@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਸ਼ਬਦ (ਮਤ) ਮਿੱਠਾ ਅੰਮ੍ਰਿਤ ਹੈ ਜਿਸ ਨੂੰ ਵਿਚਾਰ ਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ ਸਬਦੁ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਸ਼ਬਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

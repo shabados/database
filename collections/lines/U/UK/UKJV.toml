@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜੀਵ ਇਕ ਗੋਪਾਲ ਦੇ ਪਿਆਰ ਵਿਚ ਜੁੜਦਾ ਹੈ ਤੇ ਸੁਰਤ ਲਾਈ ਰੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਰੰਗਿ = ਇਕ ਗੋਪਾਲ ਦੇ ਪਿਆਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

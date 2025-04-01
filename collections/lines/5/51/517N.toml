@@ -36,6 +36,12 @@ language = "pa"
 data = "#NAME?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਈ = ਕੋਈ ਵਿਰਲਾ। ਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੁਸੀ ਇਸ ਜੀਵਾਤਮਾ ਨੂੰ ਜਿਹੋ ਜਿਹਾ ਸਮਝ ਰਹੇ ਹੋ, ਇਹ ਉਹੋ ਜਿਹਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ = ਜਿਹੋ ਜਿਹਾ। ਜਾਣਹੁ = ਤੁਸੀ ਸਮਝਦੇ ਹੋ। ਇਹੁ = ਇਹ ਜੀਵਾਤਮਾ ਨੂੰ। ਸੋ = ਉਹੋ ਜਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

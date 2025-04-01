@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ) ਉਸ ਪੰਡਿਤ ਅੱਗੇ ਅਸੀਂ ਸਦਾ ਸਿਰ ਨਿਵਾਉਂਦੇ ਹਾਂ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਦੇਸੁ = ਨਮਸਕਾਰ, ਪ੍ਰਣਾਮ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

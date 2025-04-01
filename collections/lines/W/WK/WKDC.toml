@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! (ਮੈਨੂੰ ਨਿਸ਼ਚਾ ਹੋ ਗਿਆ ਹੈ ਕਿ) ਤੂੰ ਹੀ ਮੇਰਾ ਸੁਖਾਂ ਦਾ ਦਾਤਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

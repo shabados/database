@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਭਲੇ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜੇ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਮਿਲ ਕੇ ਮੁੜ ਕਦੇ ਨਹੀਂ ਵਿਛੁੜਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੇਹੜੇ। ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ {अनुदिनां}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

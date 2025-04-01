@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ (ਭਜਨ ਸਿਮਰਨ) ਤੂੰ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈਂ, ਹੁਣੇ ਹੀ ਕਰ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸੰਭਾਲ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

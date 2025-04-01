@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਧਰਤੀ ਵਿਚ ਉਤਪੱਤੀ ਤੇ ਨਾਸ (ਗੁਰਮੁਖਤਾ ਦੇ ਵਿਕਾਸ ਲਈ) ਇਕ ਖੇਡ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਮਹਿ = ਉਸ (ਧਰਤੀ) ਵਿਚ। ਓਪਤਿ = ਉਤਪੱਤੀ। ਖਪਤਿ = ਨਾਸ। ਬਾਜੀ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

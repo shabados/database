@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਪਾਸੋਂ ਸਿੱਖਿਆ ਲੈ ਕੇ (ਜਗਤ ਵਿਚ) ਪ੍ਰਾਹੁਣਾ (ਬਣ ਕੇ) ਜੀਊਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਸਮਝਿ = ਸਿੱਖਿਆ ਲੈ ਕੇ। ਮਿਹਮਾਣੁ = ਪਰਾਹੁਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

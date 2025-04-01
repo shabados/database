@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਦਿੱਤਾ ਅੰਨ ਤੇ ਧਨ ਜੀਵ ਵਰਤਦਾ ਰਹਿੰਦਾ ਹੈ, ਜੇ ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਟਿਕ ਕੇ ਉਸ ਨਾਲ ਕਦੇ ਭੀ ਸਾਂਝ ਭੀ ਨਹੀਂ ਪਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁ = ਅੰਨ। ਸਹਜਿ = ਸਹਜ ਅਵਸਥਾ ਵਿਚ ਟਿਕ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

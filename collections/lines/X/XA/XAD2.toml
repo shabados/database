@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਜਿਤਨੇ ਭੀ ਹੋਰ ਹੋਰ (ਕਿਸਮ ਦੇ) ਰਸ ਹਨ, ਮੈਂ ਵੇਖ ਲਏ ਹਨ, ਉਹ ਸਾਰੇ ਹੀ ਫਿੱਕੇ ਹਨ ਫਿੱਕੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ = (अन्य) ਹੋਰ ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

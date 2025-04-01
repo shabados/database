@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ) ਕਾਲੇ ਕੇਸ ਚਲੇ ਗਏ ਹਨ (ਉਹਨਾਂ ਦੇ ਥਾਂ) ਧੌਲੇ ਆ ਗਏ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਰ = ਭਵਰ ਵਰਗੇ ਕਾਲੇ ਕੇਸ। ਬਗ = ਬਗਲੇ ਵਰਗੇ ਚਿਟੇ ਕੇਸ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

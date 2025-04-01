@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪੰਡਤ ਲੋਕ ਭਾਵੇਂ) ਵੇਦ ਪੁਰਾਣ ਸਿਮ੍ਰਿਤੀਆਂ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ) ਪੜ੍ਹਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਨੇ = ਆਖਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

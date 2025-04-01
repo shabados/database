@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਂ ਤੋਂ ਚਿੱਟਾ (ਹੰਸ) ਨਹੀਂ ਬਣ ਸਕਦਾ, ਲੋਹੇ ਦੀ ਬੇੜੀ (ਨਦੀ ਦਾ) ਪਾਰਲਾ ਕੰਢਾ ਨਹੀਂ ਲੱਭ ਸਕਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਉ = ਕਾਗ ਤੋਂ। ਪਾਰੁ = ਪਾਰਲਾ ਬੰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

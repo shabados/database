@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਸਾਰੇ ਆਨੰਦ ਮਨ ਵਿਚ ਆ ਵੱਸਦੇ ਹਨ (ਉਸ ਦੇ ਗੁਣ ਗਾ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਸੂਖ = ਸਾਰੇ ਸੁਖ {ਬਹੁ-ਵਚਨ}। ਵਸਹਿ = ਆ ਵੱਸਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਮਨਿ = ਮਨ ਵਿਚ। ਆਇ = ਆ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

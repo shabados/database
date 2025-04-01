@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਣ ਵਾਲੇ) ਹੇ ਮਨ! ਤੂੰ (ਕੁਕਰਮਾਂ ਵਿਚ) ਕਿਉਂ ਭਟਕ ਰਿਹਾ ਹੈਂ? ਆਪਣੇ ਅੰਦਰ ਹੀ ਟਿਕਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਘਰੇ = ਘਰ ਵਿਚ ਹੀ, ਅੰਦਰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

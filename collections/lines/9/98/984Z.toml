@@ -36,6 +36,12 @@ language = "pa"
 data = "('ਵਿਸੁ ਗੰਦਲਾਂ' ਪਿੱਛੇ ਦੌੜ ਦੌੜ ਕੇ ਹੀ) ਸ਼ੇਖ਼ ਫਰੀਦ (ਹੁਣ) ਬੁੱਢਾ ਹੋ ਗਿਆ ਹੈ, ਸਰੀਰ ਕੰਬਣ ਲੱਗ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਾਰੀ ਖ਼ਲਕਤ ਦੇ ਗੁਨਾਹਾਂ ਦੀ ਮੁਆਫ਼ੀ ਚਾਹਨ ਵਾਲਾ ਹੈ, ਅਤੇ ਉਹ ਸਾਰੀ ਲੁਕਾਈ ਦਾ ਜ਼ਾਮਨ ਵੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਫ਼ੀਉਲ-ਵਰਾਇਆ ਜ਼ਮਾਨੁਲ-ਵੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

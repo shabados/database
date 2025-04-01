@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਦੇ ਮਨ ਵਿਚ (ਭੀ) ਇਹੀ ਹੌਸਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਮਨਿ = ਦੇ ਮਨ ਵਿਚ। ਪੁਰਖਾਰਥੁ = ਹੌਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

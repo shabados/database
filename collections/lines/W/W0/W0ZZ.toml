@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਭਾਗੀ ਹੈ ਉਹ ਅੱਖ ਜਿਸ ਨੇ ਪਿਆਰੇ ਦਾ ਮੁਖੜਾ ਵੇਖ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਖ਼ੁਸ਼ਾ ਚਸ਼ਮੇ ਕਿ ਦੀਦਾ ਰੂਇ ਦੂਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

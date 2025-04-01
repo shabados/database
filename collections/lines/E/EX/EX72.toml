@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! ਜਦੋਂ ਉਮਰ ਦੇ ਦਿਨ ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ, ਤਾਂ ਸਰੀਰ ਤੇ ਜੀਵਾਤਮਾ ਦਾ (ਸਦਾ ਲਈ) ਵਿਛੋੜਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੰਸ = ਜੀਵਾਤਮਾ। ਪੁੰਨੇ = ਪੁੱਗ ਗਏ, ਮੁੱਕ ਗਏ। ਮਾਏ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

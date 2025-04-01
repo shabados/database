@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਬੜੇ ਔਖੇ ਉੱਚੇ ਥਾਂ ਵੱਸਦਾ ਹੋਵੇ, (ਜਿਥੇ ਉਸ ਨੂੰ) ਮੌਤ ਦਾ ਕਦੇ ਚੇਤਾ ਭੀ ਨਾਹ ਆਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਮ = ਔਖਾ। ਬਸੰਤ = ਵੱਸਦਾ। ਮਰਣੰ = ਮੌਤ। ਕਦਾਂਚਹ = ਕਦੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

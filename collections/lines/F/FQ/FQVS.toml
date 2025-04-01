@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਕ ਮਸਤ ਨੂੰ ਤਾਣ ਲਾਲ ਰੰਗ ਦੇ ਜਾਮ ਨਾਲ ਗਰਜ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਸਤ ਰਾ ਬਾ-ਜਾਮਿ ਰੰਗੀਣ ਇਹਤਿਆਜ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

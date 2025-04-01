@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰਾ ਕੋਈ ਸ਼ਰੀਕ ਨਹੀਂ ਤੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਇਸ ਸਾਰੇ ਪਰਪੰਚ ਦਾ ਮੂਲ ਤੂੰ ਆਪੇ ਹੀ ਹੈਂ ਤੇ ਸਮਰੱਥਾ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ = ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

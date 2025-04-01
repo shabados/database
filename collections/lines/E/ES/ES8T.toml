@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਮਤਿ ਲੈ ਕੇ ਮੈਂ ਆਪਣੇ ਸਰੀਰ-ਨਗਰ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਖੋਜ ਕੀਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮਤਿ = ਗੁਰੂ ਦੀ ਮਤਿ ਲੈ ਕੇ। ਨਗਰੀ = ਸਰੀਰ (-ਨਗਰੀ)। ਖੋਜਿ = ਖੋਜ ਕਰ ਕੇ। ਖੋਜਾਈ = ਖੋਜ ਕਰਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

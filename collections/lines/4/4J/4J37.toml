@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਤੂੰ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਜੋਗਾ ਹੈਂ, ਮੈਨੂੰ ਖ਼ੈਰ ਪਾ ('ਨਾਮ' ਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ = ਹੇ ਗੁਰੂ! ਭਿਖਿਆ = ਖ਼ੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

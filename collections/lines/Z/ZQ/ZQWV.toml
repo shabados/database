@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ ਭੀ) ਗੁਰੂ ਪਾਤਿਸ਼ਾਹ ਦੀ ਮਤਿ ਲੈ ਕੇ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁਦਿਨੁ = {अनुदिनं} ਹਰ ਰੋਜ਼। ਲੈਨੀ = ਲੈ ਕੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

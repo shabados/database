@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸੇ ਰਾਹੇ ਪੈ ਕੇ (ਇਸ ਦੇ) ਕਈ ਜਨਮ ਗੁਜ਼ਾਰ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆਹੂ ਜੁਗਤਿ = ਇਸ ਤਰੀਕੇ ਨਾਲ। ਬਿਹਾਨੇ = ਗੁਜ਼ਰ ਗਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਣ-ਹੀਨ ਉਤੇ ਪ੍ਰਭੂ ਨੇ ਦਇਆ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

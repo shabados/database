@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ (ਜੀਵ ਐਸੇ ਹਨ ਜੋ ਹਰ ਵੇਲੇ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅਹੰਕਾਰ ਵਿਚ ਗ੍ਰਸੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਕਈ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਗਰਬਿ = ਅਹੰਕਾਰ ਵਿਚ। ਵਿਆਪੇ = ਫਸੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

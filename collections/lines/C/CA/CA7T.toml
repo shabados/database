@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਨਦੀ ਆਦਿਕ ਦੇ) ਪਾਣੀ ਦੀ ਲਹਿਰ (ਉਸ ਨਦੀ ਵਿਚੋਂ ਉੱਭਰ ਕੇ ਮੁੜ ਉਸ) ਪਾਣੀ ਵਿਚ ਹੀ ਰਲ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰੰਗ = ਲਹਰ। ਜਲਹਿ = ਜਲਿ ਹੀ, ਜਲ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

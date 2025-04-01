@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ ਇਸ ਗਲੀ ਦਾ ਕੀ ਭਾਵ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾਅਨੀਇ ਈਂ ਕੂ ਬ-ਕੂ ਦਾਨੀ ਕਿ ਚੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

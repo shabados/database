@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਕੋਈ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਵਿਚਾਰਦਾ ਹੈ (ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਪੜਤਾਲਦਾ ਰਹਿੰਦਾ ਹੈ) ਉਹ ਪਛੁਤਾਂਦਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

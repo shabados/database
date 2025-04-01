@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਤੇਰਾ ਨਾਮ) ਸੁਣ ਸੁਣ ਕੇ ਹੀ ਮੈਂ ਆਤਮਕ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹਾਂ। ਮੇਰੇ ਮਨ ਵਿਚ (ਸਿਰਫ਼) ਇਹ ਧਰਵਾਸ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਉ = ਜੀਵਉਂ, ਮੈਂ ਜੀਊਂਦਾ ਹਾਂ। ਮਨਿ = ਮਨ ਵਿਚ। ਬਿਸ੍ਰਾਮੁ = ਧਰਵਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

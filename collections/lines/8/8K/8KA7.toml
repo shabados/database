@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਤੂੰ ਸੁਰਖ਼ਰੂ ਹੋਵੇਂਗਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ ਊਹਾ = ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਵਿਚ। ਊਜਲ = ਰੌਸ਼ਨ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਸ ਦੀ ਦਇਆ ਨਾਲ ਤੇਰੇ ਸਾਰੇ ਐਬ ਢੱਕੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਿਦ੍ਰ = ਨੁਕਸ, ਐਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

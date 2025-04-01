@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ (ਸਾਰੇ) ਖ਼ਜ਼ਾਨੇ (ਮਿਲ ਜਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਕਰਤ = 'ਹਰਿ ਹਰਿ' ਕਰਦਿਆਂ, ਹਰਿ-ਨਾਮ ਸਿਮਰਦਿਆਂ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

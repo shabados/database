@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਤੂੰ ਬੜੀ ਮਾੜੀ ਬੇ-ਅਕਲੀ ਕਰ ਰਿਹਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਨਰ = ਹੇ ਮਨੁੱਖ! ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ। ਇਆਨਥ = ਬੇ-ਅਕਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

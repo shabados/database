@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕਦ ਤਕ ਆਪਣੇ ਦਿਲ ਨੂੰ ਦਿਲਾਸਾ ਦਿੰਦਾ ਰਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਚੰਦ ਦਿਲਾਸਾ ਕੁਨਮ ਈਣ ਖ਼ਾਤਿਰਿ ਖ਼ੁਦ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

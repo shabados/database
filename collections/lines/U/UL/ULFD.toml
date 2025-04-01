@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬਹੁਤ ਸਾਰੇ ਸ਼ਾਸਤ੍ਰ ਦੇ ਗਿਆਤਾ ਜਿੱਥੇ ਕਿਤੇ ਜਾਂਦੇ ਹਨ) ਚਰਚਾ ਹੀ ਚਰਚਾ ਕਰਦੇ ਫਿਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤ ਕਰਤ = ਹਰ ਵੇਲੇ ਕਰਦੇ ਰਹਿੰਦੇ। ਚਰਚ ਚਰਚ ਚਰਚਰੀ = ਚਰਚਾ ਹੀ ਚਰਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

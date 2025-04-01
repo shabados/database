@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ ਮੈਣ ਵੇਖਿਆ, ਤੇਰੇ ਹੁਸਨ ਦਾ ਜਲਾਲ ਹੀ ਵੇਖਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਜਾ ਕਿ ਦੀਦਾ ਏਮ ਜਮਾਲਿ ਤੂ ਦੀਦਾ ਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

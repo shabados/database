@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ ਮਨੁੱਖ ਨੂੰ ਰਤਾ ਭਰ ਭੀ (ਇਸ ਗ਼ਲਤੀ ਦੀ) ਸੂਝ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਦੇ ਕਾਰਨ। ਸੁਧਿ = ਸੂਝ, ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ। ਕਾਈ = ਰਤਾ ਭਰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

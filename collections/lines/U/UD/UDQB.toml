@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਜੋ ਸਬੱਬ ਕਰਤਾਰ ਨੇ ਬਣਾਇਆ ਹੈ ਉਹੀ ਬਣਨਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਣੁ = ਸਬਬ। ਕਰਤੈ = ਕਰਤਾਰ ਨੇ। ਹੈ ਕਰਣਾ = (ਸਬੱਬ) ਬਣਨਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

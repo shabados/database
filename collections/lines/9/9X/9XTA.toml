@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਉਹੀ ਭਗਤ ਅਡੋਲ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ ਬਣਦੇ ਹਨ, ਜਿਹੜੇ ਤੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਸਚੇ = ਅਡੋਲ ਜੀਵਨ ਵਾਲੇ। ਤੇਰੈ ਮਨਿ = ਤੇਰੇ ਮਨ ਵਿਚ। ਭਾਏ = ਚੰਗੇ ਲੱਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

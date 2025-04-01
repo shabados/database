@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਨੂੰ ਪਾਕ ਰੱਬ ਨੇ ਪਾਕ ਪਵਿੱਤ੍ਰ ਬਣਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਖ਼ੁਦਾਇ ਪਾਕ ਸ਼ਾਣ ਰਾ ਪਾਕ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

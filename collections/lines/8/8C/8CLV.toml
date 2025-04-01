@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਿਆ ਕਰ) ਜਿਸ ਨੇ ਗੰਦ ਤੋਂ ਤੈਨੂੰ ਪਵਿੱਤਰ ਬਣਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਵਿਤ੍ਰ = ਗੰਦੇ ਥਾਂ ਤੋਂ। ਤੂ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੁਰੂ ਦੀ ਸਰਨ ਆ ਪਏ) ਉਹ ਮਨੁੱਖ ਨਾਹ ਜੰਮਦੇ ਹਨ ਨਾਹ ਮਰਦੇ ਹਨ, ਨਾਹ ਹੀ ਉਹ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੇ) ਦੁੱਖ ਸਹਾਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਹੰਨਿ = ਸਹਿੰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

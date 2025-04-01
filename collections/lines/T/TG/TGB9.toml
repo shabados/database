@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਇਹ ਸੰਸਾਰ (ਮਾਨੋ) ਮਿੱਟੀ ਦਾ ਬੁੱਤ ਹੈ, ਇਸ ਵਿਚ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਦਾ ਵੱਡਾ ਰੋਗ ਲੱਗਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸੁ ਮਹਿ = ਇਸ (ਮਿੱਟੀ ਦੇ ਪੁਤਲੇ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

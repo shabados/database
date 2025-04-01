@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ) ਸਾਰੀ ਦੁਨੀਆ ਦਾ ਰਾਜਾ (ਹੋ ਕੇ ਭੀ) ਦੁਖੀ (ਰਹਿੰਦਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੀ। ਸ੍ਰਿਸਟਿ = ਦੁਨੀਆ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

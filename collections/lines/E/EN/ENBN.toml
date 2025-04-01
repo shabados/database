@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਧਰਮ ਪੁਸਤਕ ਸੁਣ ਕੇ ਭੀ) ਤੇਰੇ ਮਨ ਵਿਚੋਂ ਨਿਰਦਇਤਾ ਨਾਹ ਗਈ, ਤੂੰ ਲੋਕਾਂ ਨਾਲ ਪਿਆਰ ਦਾ ਸਲੂਕ ਨਾਹ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿੰਸਾ = ਨਿਰਦਇਤਾ। ਜੀਅ = ਜੀਵਾਂ ਨਾਲ। ਦਇਆ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

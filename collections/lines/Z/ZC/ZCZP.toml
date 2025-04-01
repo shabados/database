@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ! ਅਸਾਂ ਆਪਣੀ ਅੱਖੀਂ ਤੇਰਾ ਇਹ ਹਾਲ ਵੇਖਿਆ ਹੈ ਕਿ ਤੂੰ ਕਿਸੇ ਭੀ ਇੱਕ ਥਾਂ ਤੇ ਟਿਕਦੀ ਨਹੀਂ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਾਨਿ = ਥਾਂ ਵਿਚ। ਇਹ ਬਿਧਿ = ਇਹ ਹਾਲਤ। ਆਖੀ = ਅੱਖੀਂ, ਅੱਖਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

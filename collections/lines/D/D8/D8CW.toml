@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਸ ਇੰਦ੍ਰੀਆਂ ਦਾ ਦਬਾਉ ਭੀ ਮੇਰੇ ਉਤੋਂ ਦੂਰ ਕਰ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਘਿਆੜੀ = ਇੰਦ੍ਰੀਆਂ। ਨਿਵਾਰਿ ਲਈ = ਦੂਰ ਕਰ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪ੍ਰਭੂ ਮਾਇਆ ਤੋਂ ਨਿਰਲੇਪ ਹੈ ਸਿਰਫ਼ ਉਸ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਉਹੀ ਸਭ ਦੇ ਅੰਦਰ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਜਨੁ = ਨਿਰ-ਅੰਜਨੁ {ਅੰਜਨੁ = ਕਾਲਖ, ਮਾਇਆ} ਮਾਇਆ ਤੋਂ ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

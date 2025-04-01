@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ) ਸੁਣ, ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ (ਆਪਣੇ) ਸੋਚ-ਮੰਡਲ ਵਿਚ ਵਸਾ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਵੀਚਾਰਿ = ਸੋਚ ਮੰਡਲ ਵਿਚ ਟਿਕਾ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

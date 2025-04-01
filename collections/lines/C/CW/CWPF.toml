@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਸੰਤ ਜਨੋ! ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ। (ਦੁੱਖਾਂ ਕਲੇਸ਼ਾਂ ਤੋਂ) ਬਚਣ ਦਾ ਇਹੀ ਪੱਕਾ ਵਸੀਲਾ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = {अनुदिनं} ਹਰ ਰੋਜ਼। ਸੰਤਹੁ = ਹੇ ਸੰਤ ਜਨੋ! ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

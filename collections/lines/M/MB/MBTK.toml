@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਐ ਭਲੇ ਪੁਰਖ, ਤੂੰ ਅਮਰ ਹੋ ਜਾਵੇਂਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਾ ਬਾਸ਼ੀ ਦਾਇਮਾ ਐ ਨੇਕ-ਖੂ ।੩੨੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

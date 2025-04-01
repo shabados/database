@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਸੇਵਕ (ਦਰਗਾਹ ਵਿਚ) ਕਬੂਲ ਹੋ ਜਾਂਦਾ ਹੈ (ਤਾਹੀਏਂ) ਉਸ ਦੀ ਸੇਵਾ ਮੁਬਾਰਿਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਮੁਬਾਰਿਕ। ਪਰਵਾਨੁ = ਕਬੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

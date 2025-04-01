@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਢੋਲ ਵੱਜਣ ਲੱਗ ਪੈਂਦਾ ਹੈ (ਪਰ ਉਹ ਢੋਲ ਖੱਲ ਨਾਲ) ਮੜ੍ਹਿਆ ਹੋਇਆ ਨਹੀਂ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਲੁ = ਢੋਲ। ਬਾਜੈ = ਵੱਸਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

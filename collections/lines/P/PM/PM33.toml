@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੁਰੂ ਨਾਨਕ ਕਦਰ ਕੀਮਤ ਵਿਚ ਸਭ ਨਾਲੋਂ ਵੱਡਮੁੱਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਕਦਰ ਅਜ਼ ਹਮਾ ਬੇਸ਼ਤਰ ਆਮਦਾ ।੧੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿੰਤਾ ਖ਼ੁਸ਼ੀ ਵਿਚ ਜਾ ਟਿਕਦੀ ਹੈ। (ਬਦਲ ਕੇ ਖ਼ੁਸ਼ੀ ਬਣ ਜਾਂਦੀ ਹੈ)। ਡਰਾਂ ਨਾਲ ਸਹਿਮਿਆ ਹੋਇਆ ਬੰਦਾ ਨਿਡਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਭਵਹ = ਨਿਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

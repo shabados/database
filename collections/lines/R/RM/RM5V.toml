@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਭਗਤ ਜਨਾਂ ਦੀ ਆਪਣੀ ਬਾਣੀ ਦੀ ਰਾਹੀਂ ਹੀ ਪੁਰਾਣੇ ਸਮੇ ਦੀ ਹੀ ਕਥਾ ਇਉਂ ਸੁਣੀ ਜਾ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਨ ਕੀ ਬਾਨੀ = ਭਗਤਾਂ ਦੇ ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ, ਭਗਤਾਂ ਦੀ ਜ਼ਬਾਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

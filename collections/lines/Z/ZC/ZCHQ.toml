@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਫ਼ ਇਕ ਪ੍ਰਭੂ ਹੀ ਦਸੀਂ ਪਾਸੀਂ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸੇ ਦਿਸਾ = ਚਾਰ ਪਾਸੇ, ਚਾਰ ਗੁਠਾਂ, ਉਪਰ ਤੇ ਹੇਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

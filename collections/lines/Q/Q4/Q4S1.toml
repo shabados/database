@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਕਿਸੇ ਨੂੰ) ਕੋਈ ਭੈੜੇ ਬੋਲ ਨਹੀਂ ਬੋਲਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਾ ਕੋ = ਕੋਈ ਭੈੜਾ ਬੋਲ। ਅਲਾਏ = ਬੋਲਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

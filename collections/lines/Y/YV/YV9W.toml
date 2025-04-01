@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈਂ, ਤੂੰ ਇਕ-ਰਸ ਸਭਨਾਂ ਵਿਚ ਸਮਾ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ = ਸਰੀਰ। ਨਿਰੰਤਰਿ = ਬਿਨਾ ਵਿੱਥ ਦੇ {ਅੰਤਰੁ = ਵਿੱਥ}। ਅੰਤਰਿ = ਅੰਦਰ, ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

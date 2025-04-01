@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਉਂ ਜਿਉਂ ਮਨੁੱਖ ਦੀ) ਜੀਭ ਪਰਮਾਤਮਾ ਦੇ ਅਨੇਕਾਂ ਗੁਣ ਗਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਗਾਏ = ਗਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

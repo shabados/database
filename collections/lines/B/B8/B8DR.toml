@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਖਸਮ! (ਮੈਂ) ਤੇਰੀ (ਅਜਬ) ਤਾਕਤ-ਸਮਰੱਥਾ ਵੇਖੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਸਾਈ = ਹੇ ਗੋ-ਸਾਈਂ, ਹੇ ਧਰਤੀ ਦੇ ਮਾਲਕ! ਪਰਤਾਪੁ = ਸਮਰੱਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

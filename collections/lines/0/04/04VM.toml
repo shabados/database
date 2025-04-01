@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ! ਤੇਰਾ ਦਰਸਨ ਕਰਨਾ (ਇਕ ਅਮੋਲਕ ਦਾਤ ਹੈ), ਤੇਰੇ ਇਸ (ਦਰਸਨ) ਦਾ ਕੋਈ ਮੁੱਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਦਨ = ਵੇਖਣਾ। ਸਾਹਿਬ = ਹੇ ਮਾਲਕ! ਇਸ ਕਾ = {ਲਫ਼ਜ਼ 'ਇਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਾ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

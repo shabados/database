@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਇਸ ਜਗਤ ਵਿਚ) ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈਂ, ਮੈਂ ਤੈਨੂੰ ਕਿਤੇ ਦੂਰ ਵੱਸਦਾ ਸਮਝਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਪੂਰਿ = ਨਕਾ ਨਕ, ਹਰ ਥਾਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

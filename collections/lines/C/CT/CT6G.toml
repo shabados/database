@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦੱਸੋ, ਕੋਈ ਦੁਖ ਭਰਮ ਉਸ ਮਨੁੱਖ ਦੇ ਨੇੜੇ ਕਿਵੇਂ ਆ ਸਕਦਾ ਹੈ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਂ = ਤਦੋਂ। ਕਹੁ = ਦੱਸੋ। ਕੈਸੇ = ਕਿਵੇਂ? ਨੇਰਾ = ਨੇੜੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

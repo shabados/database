@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੰਨਾ ਚੰਗਾ ਹੋਵੇ, ਕਿ ਤੇਰਾ ਉੱਚੇ ਲੰਮੇ ਸਰੂ ਵਰਗਾ ਕੱਦ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਖ਼ੁੱਸ਼ ਬਵਦ ਕਿ ਖ਼ਰਾਮਤ ਕੱਦਤ ਚੂ ਸਰਵਿ ਬੁਲੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਅਜਿਹੀ ਰਾਸਿ-ਪੂੰਜੀ ਇਕੱਠੀ ਕਰ ਜਿਸ ਦਾ ਕਦੇ ਨਾਸ ਨ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਿ = ਇਕੱਠੀ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

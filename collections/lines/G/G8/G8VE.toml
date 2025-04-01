@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਾਂਇਆਂ (-ਘੋੜੀ, ਮਾਨੋ,) ਸੋਨੇ ਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ, ਕਾਂਇਆਂ (-ਘੋੜੀ)। ਜੀਨੁ = ਕਾਠੀ। ਸੁਵਿਨਾ = ਸੋਨੇ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

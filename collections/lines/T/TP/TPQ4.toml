@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਥਾਂ ਸਭ ਕੁਝ ਪੜ੍ਹ ਕੇ ਆਪ ਹੀ ਸਮਝਦਾ ਹੈ ਤੇ ਇਕ ਥਾਂ ਆਪ ਹੀ ਬਾਲਕਾਂ ਨੂੰ ਇੰਞਾਣੇ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਥੈ = ਕਿਤੇ ਤਾਂ, ਇਕ ਥਾਂ ਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

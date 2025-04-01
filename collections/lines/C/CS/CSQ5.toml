@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿਤ੍ਰ! ਹੋਰ ਸਾਰੇ ਹੀਲੇ ਛੱਡ ਦਿਉ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰਿ = ਹੋਰ (Pl.)। ਉਪਾਵ = ਇਲਾਜ, ਹੀਲੇ। ਸਭਿ = ਸਾਰੇ। ਮੀਤ = ਹੇ ਮਿਤ੍ਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

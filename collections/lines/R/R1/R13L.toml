@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹੋਰ ਸਾਰੇ ਹਿਰਦੇ-ਥਾਂ ਡਰਾਂ ਨਾਲ ਸਹਮੇ ਹੋਏ ਵੇਖੀਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਾਨ = {स्थान} (ਹਿਰਦੇ)-ਥਾਂ। ਭੈ ਭੀਤ = ਡਰਾਂ ਨਾਲ ਸਹਮੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

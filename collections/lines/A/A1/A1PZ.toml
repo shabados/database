@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ; ਮੇਰੀ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਕਰੜੀ ਬੇੜੀ ਕੱਟ ਦੇ, ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ-ਆਸਰਾ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਾਰਾ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

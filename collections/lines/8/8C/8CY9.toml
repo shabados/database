@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਜਿਸ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤਰੀਦਾ ਹੈ ਉਸ ਸ਼ਬਦ ਦਾ ਟਿਕਾਣਾ ਕਿੱਥੇ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਸ। ਜਿਤੁ = ਜਿਸ (ਸ਼ਬਦ) ਦੀ ਰਾਹੀਂ। ਕਥੀਅਲੇ = ਕਿਹਾ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

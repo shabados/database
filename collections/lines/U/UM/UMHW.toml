@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਮੈਨੂੰ ਸੋਹਣਾ ਲਾਲ ਮਿਲਾ ਦੇ (ਦੱਸ, ਉਹ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਨੁ = ਸੋਹਣਾ ਲਾਲ। ਮੋਹਿ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

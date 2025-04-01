@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਸੁਰਜਨ, ਕੀ ਮੁਨਜਨ ਅਤੇ ਕੀ ਬਾਦਸ਼ਾਹ ਅਤੇ ਕੀ ਫ਼ਕੀਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਸੁਰ-ਜਨ ਚਿ ਮੁਨਿ-ਜਨ ਚਿ ਸ਼ਾਹ ਚਿ ਫ਼ਕੀਰ ।੧੩੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

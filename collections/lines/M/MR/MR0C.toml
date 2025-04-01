@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਨ ਦੇ ਰਾਹ ਤੋਂ ਖੁੰਝੀ ਹੋਈ ਜੀਵ-ਇਸਤ੍ਰੀ ਹੀ ਗ੍ਰਿਹਸਤ ਤਿਆਗ ਕੇ ਦੇਸ ਦੇਸਾਂਤਰਾਂ ਵਿਚ ਫਿਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਸੰਤਰੀ = {ਦੇਸ-ਅੰਤਰੀ} ਹੋਰ ਹੋਰ ਦੇਸਾਂ ਵਿਚ। ਤਜਿ ਜਾਇ = ਛੱਡ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਗਿ = ਲੱਗ ਕੇ, ਪੈ ਕੇ। ਭੂਲੋ = ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

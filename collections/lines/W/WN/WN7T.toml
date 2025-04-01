@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ, ਤੇਰਾ ਮੁਖੜਾ ਸ਼ਮ੍ਹਾ ਲਈ ਵੀ ਰੌਣਕ ਦਾ ਕਾਰਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਰੁਖ਼ਿ ਤੂ ਰੌਨਿਕਿ ਬਾਜ਼ਾਰਿ ਸ਼ਮਆ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

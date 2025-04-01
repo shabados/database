@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! (ਦੱਸ,) ਤੇਰੇ ਚੇਹਰੇ ਉਤੇ ਲਾਲੀ ਕਿਵੇਂ ਆ ਬਣੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨ = ਕਿਵੇਂ? ਰੀ = ਹੇ ਸਹੇਲੀ! ਲਾਲੀ = ਮੂੰਹ ਦੀ ਲਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

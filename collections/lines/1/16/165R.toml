@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮਾਇਆ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ (ਢੁਕ ਸਕਦੀ) ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ। ਮਾਏ = ਮਾਇਆ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

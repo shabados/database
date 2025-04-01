@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ (ਬੜਾ) ਆਜਜ਼ ਹੋ ਗਿਆ ਹਾਂ, (ਆਪਣਾ ਦੁੱਖ ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ) ਕਿਸ ਨੂੰ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਾਥੁ = ਆਜਜ਼। ਕਹਉ ਕਾਹਿ = ਮੈਂ ਕਿਸ ਨੂੰ ਆਖਾਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

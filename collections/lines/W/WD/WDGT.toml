@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਹਰ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਵਲ ਭਟਕਦੇ ਮਨ ਨੂੰ ਅੰਦਰ ਵਲ ਲੈ ਆਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨੈ = ਲਿਆਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

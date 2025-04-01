@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਸਦਕਾ ਸਾਰੀ ਦੁਨੀਆ ਸੁਗੰਧੀ ਅਤੇ ਸਰੂਰ ਨਾਲ ਭਰ ਜਾਂਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂ ਦਰ ਜਹਾਂ ਜ਼ੇ ਰਯਾਹੋ ਸਰੂਰ ।੭੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

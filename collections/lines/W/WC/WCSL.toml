@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੋਕੋ! ਮੌਤ ਨੂੰ ਮਾੜਾ ਨਾਹ ਆਖੋ (ਪਰ ਇਸ ਗੱਲ ਨੂੰ ਉਹੀ ਸਮਝਦਾ ਹੈ) ਜੇਹੜਾ ਇਸ ਤਰ੍ਹਾਂ ਮਰਨਾ ਜਾਣਦਾ ਹੋਵੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਕਾ = ਹੇ ਲੋਕੋ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

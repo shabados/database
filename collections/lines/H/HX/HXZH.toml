@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਪ੍ਰੇਮ-ਤੀਰ ਵਿੱਝਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੁ = ਤੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ (ਅਸਲ) ਇੱਜ਼ਤ-ਦਾਰ ਹੈ ਉਹੀ (ਅਸਲ) ਧਨਾਢ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿਵੰਤਾ = ਇੱਜ਼ਤ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

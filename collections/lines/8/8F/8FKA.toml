@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਅੰਤ ਸਮੇ ਇਹ ਧਨ ਤੇਰੀ ਜਿੰਦ ਦੇ ਕੰਮ ਤਾਂ ਨਹੀਂ ਆਵੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਸਰ = ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

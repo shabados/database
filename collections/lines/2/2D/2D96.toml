@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਹੁਣ) ਮੈਂ ਦਾਸ ਨੇ (ਪ੍ਰਭੂ ਨਾਲ) ਜਾਣ-ਪਛਾਣ ਕਰ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਿਆ = ਜਾਣ ਲਿਆ ਹੈ, ਪ੍ਰਭੂ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਕਰ ਲਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

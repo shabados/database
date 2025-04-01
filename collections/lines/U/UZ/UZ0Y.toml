@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਖ਼ੁਦਾ!) ਤੂੰ ਤੁਆਨਾ (ਬਲਵਾਨ) ਹੈਂ, ਮੈਂ ਤੇਰੀ ਕੁਦਰਤਿ ਨਾਲ (ਜਗਤ ਵਿਚ) ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਆਨਾ ਤੂ = ਤੂ ਬਲਵਾਨ ਹੈਂ। ਮਨ ਕੁਦਰਤੀ ਆਇਆ = ਮੈਂ ਤੇਰੀ ਕੁਦਰਤਿ ਨਾਲ (ਜਗਤ ਨਾਲ) ਆਇਆ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

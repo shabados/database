@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪਣੇ ਹੁਕਮ ਅਨੁਸਾਰ (ਆਪਣੇ ਸੇਵਕਾਂ ਨੂੰ) ਪ੍ਰਸੰਨ-ਚਿੱਤ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮੁ ਕਰਿ = ਹੁਕਮ ਦੇ ਕੇ। ਨਿਹਾਲ = ਪ੍ਰਸੰਨ-ਚਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

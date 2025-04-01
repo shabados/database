@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ (ਹਿੰਦੂ) ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਪੜ੍ਹਦਾ ਹੈ, ਕੋਈ (ਮੁਸਲਮਾਨ ਆਦਿਕ) ਕੁਰਾਨ ਅੰਜੀਲ ਆਦਿਕ ਪੜ੍ਹਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤੇਬ = ਕੁਰਾਨ, ਅੰਜੀਲ ਆਦਿਕ ਪੱਛਮੀ ਧਰਮਾਂ ਦੇ ਧਾਰਮਿਕ ਗ੍ਰੰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

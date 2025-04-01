@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅੱਖਾਣ ਅੱਗੋਣ ਉਹ ਨਾ-ਮਿਹਰਬਾਨ ਪਿਆਰਾ ਲੰਘ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਪੇਸ਼ਿ ਚਸ਼ਮ ਆਂ ਬੁਤਿ ਨਾਂ-ਮਿਹਰਬਾਂ ਗੁਜ਼ਸ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

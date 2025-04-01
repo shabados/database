@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਹੁਣ ਮੈਨੂੰ ਦੱਸ, ਮੇਰਾ ਕੀਹ ਹਾਲ ਹੋਵੇਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨ = ਕਿਹੜੀ, ਕਿਹੋ ਜਿਹੀ? ਗਤਿ = ਹਾਲਤ, ਹਾਲ। ਮੋਰੀ = ਮੇਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

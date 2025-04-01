@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਗੁਰੂ ਦੇ ਬਚਨ ਦ੍ਰਿੜ੍ਹ ਕਰ ਕੇ ਚਿੱਤ ਵਿਚ ਟਿਕਾਓ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸਤ ਕਰ ਕੇ, ਦ੍ਰਿੜ੍ਹ ਕਰ ਕੇ। ਜੀਅ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜਿਸ ਨੇ) ਪੂਰੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨੂੰ ਆਪਣਾ ਧਨ ਬਣਾਇਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

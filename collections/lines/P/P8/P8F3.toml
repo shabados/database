@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਵਿਕਾਰ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਖ = ਐਬ, ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

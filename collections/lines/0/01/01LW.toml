@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਅੰਤ ਵੇਲੇ) ਸਾਰੇ ਸਾਥੀ ਸੰਗੀ ਛੱਡ ਜਾਂਦੇ ਹਨ, ਜਦੋਂ ਕੋਈ ਭੀ ਸਾਥ ਨਹੀਂ ਨਿਬਾਹ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗ = ਸੰਗੀ। ਸਭਿ = ਸਾਰੇ। ਤਜਿ ਗਏ = ਛੱਡ ਗਏ, ਛੱਡ ਜਾਂਦੇ ਹਨ। ਸਾਥਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

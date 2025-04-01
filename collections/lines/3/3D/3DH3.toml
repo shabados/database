@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਰਾਮ ਰਾਮ ਗੋਬਿੰਦ ਗੋਬਿੰਦ ਜਪਦਿਆਂ ਮੂੰਹ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਸੁ = ਹਰੀ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

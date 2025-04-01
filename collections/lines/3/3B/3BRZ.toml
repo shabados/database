@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਇੱਕ ਮੁਹੱਬਤ ਭਰੀ ਨਿਗਾਹ ਦਿਲ ਲੈ ਉਡਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਨਿਗਾਹਿ ਲੁਤਫ਼ਿ ਤੂ ਦਿਲ ਮੀ-ਬੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

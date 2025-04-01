@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਰਾਜ ਰੂਪ ਧਨ ਤੇ (ਉੱਚੀ) ਕੁਲ ਦਾ ਮਾਣ-ਸਭ ਛਲ-ਰੂਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਟੰ = ਛਲ। ਗਰਬਤਹ = ਮਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

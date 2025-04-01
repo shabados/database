@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਉੱਚੀ ਹਸਤੀ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ ਉਹੀ ਉੱਚੇ ਜੀਵਨ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਤਮੁ = ਸ੍ਰੇਸ਼ਟ, ਉੱਚੇ ਜੀਵਨ ਵਾਲਾ। ਸੋਇ = ਉਹੀ (ਲਾਲਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

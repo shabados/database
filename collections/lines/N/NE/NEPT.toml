@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਜਿਨ੍ਹਾਂ ਲੋਕਾਂ ਨੂੰ ਸਚ-ਮੁਚ ਪਰਮਾਤਮਾ ਮਿਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ = ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

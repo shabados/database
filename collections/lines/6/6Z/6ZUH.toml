@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭੈਣ!) ਮੈਂ ਭੀ ਉਸ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ ਦੇ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾ ਰਹੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀ = ਭੈਣ! {ਇਸਤ੍ਰੀ ਲਿੰਗ}। ਗੁਣਨਿਧਿ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪ੍ਰਭੂ। ਮੰਗਲ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ, ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

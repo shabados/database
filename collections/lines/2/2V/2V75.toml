@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ ਦਾਮੋਦਰ ਦਇਆ-ਦੇ-ਘਰ, ਮਾਇਆ-ਦੇ-ਪਤੀ, ਪਾਰਬ੍ਰਹਮ ਨਿਰੰਕਾਰ ਦੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਮੋਦਰ = {ਦਾਮ = ਰੱਸੀ। ਉਦਰ = ਪੇਟ} ਪਰਮਾਤਮਾ। ਮਾਧਵੇ = ਮਾਇਆ ਦਾ ਪਤੀ, ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

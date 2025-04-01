@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਜਗਤ ਦਾ ਸਹਾਰਾ ਦਾਤਾਰ ਪ੍ਰਭੂ ਮਿਲ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਜੀਵਨੁ = ਜਗਤ ਦਾ ਜੀਵਨ, ਜਗਤ ਦਾ ਜੀਵਨ-ਦਾਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

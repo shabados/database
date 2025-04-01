@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਬਹੁਤ ਸਾਰਾ ਬਾਲਣ ਇਕੱਠਾ ਕੀਤਾ ਤੇ ਉਸ ਨੂੰ ਰਤਾ ਕੁ ਅੱਗ ਲਾ ਦਿੱਤੀ। (ਉਹ ਸਾਰਾ ਹੀ ਬਾਲਣ ਸੜ ਕੇ ਸੁਆਹ ਹੋ ਗਿਆ, ਇਸੇ ਤਰ੍ਹਾਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਧਣੁ = ਬਾਲਣ। ਮੂ = ਮੈਂ। ਘਣਾ = ਬਹੁਤ ਸਾਰਾ। ਭੋਰੀ = ਰਤਾ ਕੁ। ਦਿਤੀਮੁ = ਮੂ ਦਿੱਤੀ, ਮੈਂ ਦਿੱਤੀ। ਭਾਹਿ = ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

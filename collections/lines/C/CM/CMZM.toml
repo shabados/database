@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਫਿਰ ਬਿਨਾਂ ਬੰਦਗੀ ਦੇ ਹੋਰ ਕੋਈ ਬਚਨ ਨ ਕਹਿ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਹਰਫ਼ਿ ਬੰਦਗੀ ਦੀਗਰ ਮਗੂ ।੩੦੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

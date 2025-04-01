@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਵਡਿਆਈ ਚਾਹੀਦੀ ਹੈ ਤਾਣ ਬੰਦਗੀ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਬਜ਼ੁਰਗੀ ਬਾਇਦਤ ਕੁਨ ਬੰਦਗੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

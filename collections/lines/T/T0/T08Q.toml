@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਬਿਨਾਂ ਸਾਡਾ ਚਿੱਤ ਕਦੀ ਵੀ ਪ੍ਰਸੰਨ ਨਹੀਂ ਹੋ ਸਕਦਾ ਾ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਯਾਦਸ਼ ਈਂ ਦਿਲਿ ਮਾ ਸ਼ਾਦ ਨੀਸਤ ।੨੫੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

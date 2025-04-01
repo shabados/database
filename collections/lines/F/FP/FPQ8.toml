@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਦਿਨ ਰਾਤ ਮੈਨੂੰ ਇਹ ਸੋਚ ਰਹਿੰਦੀ ਹੈ (ਮੇਰਾ ਕੀਹ ਬਣੇਗਾ?) ਮਾੜਿਆਂ ਨਾਲ ਮੇਰਾ ਬਹਿਣ-ਖਲੋਣ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਤਿ = ਬਹਿਣ-ਖਲੋਣ। ਪੋਚ = ਨੀਚ, ਮਾੜਾ। ਸੋਚ = ਚਿੰਤਾ, ਫਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੋਪਾਲ ਨੇ ਆਖਿਆ-ਹੇ ਨਾਮਦੇਵ!) ਜੇ ਤੂੰ ਆਖੇਂ ਤਾਂ ਮੈਂ ਧਰਤੀ ਟੇਢੀ ਕਰ ਦਿਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਹਿ = ਜੇ ਤੂੰ ਆਖੇਂ। ਇਕੋਡੀ = ਟੇਢੀ, ਪੁੱਠੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

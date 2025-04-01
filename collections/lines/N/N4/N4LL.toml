@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ! ਸਿਰਫ਼ ਇਕ ਤੂੰ ਹੀ (ਖਸਮ) ਹੈਂ, ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਇਆ = ਹੇ ਪਾਤਿਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

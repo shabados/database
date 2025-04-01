@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾਂ ਸਭ ਕੁਝ ਇਸੇ ਤਰ੍ਹਾਂ ਸਮਝ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਸਤਿਗੁਰ ਹਮਾ ਬ-ਦਾਂ ਮਾਨਦ ।"
+page = 1
+line = 11
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

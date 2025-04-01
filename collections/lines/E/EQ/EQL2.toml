@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਜ਼ਾਤ ਦੇਵਤਿਆਂ ਦੇ ਗ੍ਰੰਥ ਦਾ ਇਕ ਵਰਕਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਜੂਦਸ਼ ਜ਼ਿ ਕੁਦਸੀ ਵਰਕ ਆਮਦਾ ।੫੯।"
+page = 2
+line = 59
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

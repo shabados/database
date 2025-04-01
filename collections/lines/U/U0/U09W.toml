@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀਆਂ ਬਖਸ਼ਿਸ਼ਾਂ ਦੀ ਸਿਫਤ ਕਰਣ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਿਫ਼ਿ ਇਕਰਾਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੯।"
+page = 10
+line = 139
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

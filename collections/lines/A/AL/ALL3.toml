@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਪੈਦਾ ਕਰਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਸਭ ਨੂੰ ਰਿਜ਼ਕ ਅਪੜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਹੇ = ਸੰਬਾਹੇ, ਅਪੜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

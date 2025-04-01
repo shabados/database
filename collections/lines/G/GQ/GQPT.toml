@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਇਸ ਲੋਕ ਵਿਚ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਉਜਲੇ ਹੋ ਗਏ ॥੪॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ। ਮੁਖ = ਮੂੰਹ। ਊਜਲ = ਬੇ-ਦਾਗ਼ ॥੪॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

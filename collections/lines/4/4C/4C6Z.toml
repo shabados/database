@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਨੂੰ ਮਿਟਾਣ-ਜੋਗਾ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਈ = ਮਾਇਆ, ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

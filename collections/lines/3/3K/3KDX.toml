@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪਣੇ ਪੰਜੇ ਹੀ ਗਿਆਨ-ਇੰਦਰਿਆਂ ਨੂੰ (ਇਉਂ) ਵੱਸ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਗ੍ਰਹ ਕਰਈ = ਰੋਕ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ, ਇਹ ਮੱਤ ਮਿਲਦੀ ਹੈ ਸਾਧ ਸੰਗਤ ਵਿਚ) ਸਾਧ ਸੰਗਤ ਸਤਿਗੁਰੂ ਦੀ ਪਾਠਸ਼ਾਲਾ ਹੈ ਜਿਸ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਸਿੱਖੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਟਸਾਲ = ਪਾਠਸ਼ਾਲਾ। ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਸਿਖਾ = ਸਿੱਖੇ ਜਾ ਸਕਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

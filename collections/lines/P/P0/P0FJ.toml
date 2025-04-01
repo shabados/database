@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਬੈਠਿਆਂ ਆਤਮਕ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ ਸ਼ਾਂਤੀ ਹਾਸਲ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸ੍ਰਾਮ = ਸ਼ਾਂਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

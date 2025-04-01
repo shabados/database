@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਉਤੇ ਦਇਆਵਾਨ ਹੋ। ਮੇਰੇ ਉਤੇ ਇਹੋ ਜਿਹੀ ਬਖ਼ਸ਼ਸ਼ ਕਰ ਕਿ ਮੈਨੂੰ ਆਪਣਾ ਦੀਦਾਰ ਬਖ਼ਸ਼ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸ = ਬਖ਼ਸ਼ਸ਼ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

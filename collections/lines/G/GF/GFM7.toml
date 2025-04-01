@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੋ ਜਿਹਾ ਖੋਟਾ ਮਨੁੱਖ ਜੇ ਸੋਨੇ ਨੂੰ ਹੱਥ ਪਾਏ ਉਹ ਭੀ ਸੁਆਹ ਨਾਲ ਰਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਹੂ ਸੇਤੀ = ਸੁਆਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

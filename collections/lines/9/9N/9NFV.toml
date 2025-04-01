@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਜੇ ਮੈਂ ਆਏ ਸੱਜਣਾਂ ਤੋਂ ਕਦੇ ਕੁਝ ਲੁਕਾ ਰੱਖਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਿਆ ਹੋਦਾ = ਲੁਕਾਇਆ ਹੁੰਦਾ। ਮਿਤਾ ਆਇੜਿਆਂ = ਆਏ ਮਿੱਤ੍ਰਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

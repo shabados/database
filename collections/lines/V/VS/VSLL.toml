@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੇਰੇ ਵਿਚ ਜਾਨ ਹੈ ਤਾਂ ਆਪਣੇ ਪਿਆਰੇ ਦੇ ਚਰਨਾਂ ਤੋਂ ਕੁਰਬਾਨ ਕਰ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਂ ਅਗਰ ਹਸਤ, ਨਸਾਰਿ ਕਦਮਿ ਜਾਨਾਂ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

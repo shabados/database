@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਉਸਦੇ ਨਾਮ ਦੇ ਗੁਲਾਮ ਅਤੇ ਸੇਵਕ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਬੰਦਾ ਓ ਫ਼ਿਦਵੀਇ ਨਾਮਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

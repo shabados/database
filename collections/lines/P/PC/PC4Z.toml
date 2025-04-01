@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੁਲਬੁਲ ਅਤੇ ਫੁਲ ਦੋਵੇਣ ਹੀ ਤੇਰੀ ਉਡੀਕ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਆ ਕਿ ਬੁਲਬੁਲੋ ਗੁਲ ਹਰ ਦੋ ਇੰਤਜ਼ਾਰਿ ਤੂ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

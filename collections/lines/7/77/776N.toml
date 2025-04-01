@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਜੇ ਕੋਈ ਅਜਿਹਾ ਗੁਰੂ ਮਿਲ ਪਏ, ਜੋ ਪ੍ਰਸੰਨ ਹੋ ਕੇ (ਮਨੁੱਖ ਉਤੇ) ਮੇਹਰ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਠਾ = ਪ੍ਰਸੰਨ ਹੋ ਕੇ। ਪਸਾਉ = ਪ੍ਰਸਾਦ, ਮੇਹਰ, ਕਿਰਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

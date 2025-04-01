@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਆਪਣੇ ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਅਨੁਸਾਰ ਤੁਰ ਕੇ) ਸਦਾ ਹੀ ਗੁਰੂ ਦੀ ਪ੍ਰਸੰਨਤਾ ਪ੍ਰਾਪਤ ਕਰਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹੁ = ਕਰੋਗੇ, ਮਾਣੋਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

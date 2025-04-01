@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਉਸੇ ਜੀਵ ਨੂੰ ਮੱਤ ਦੇਣ ਦਾ ਜਤਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜੇਹੜਾ (ਆਪ) ਕੁਰਾਹੇ ਪਿਆ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ ਬੰਦੇ ਨੂੰ। ਕੋ = ਕੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

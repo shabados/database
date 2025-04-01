@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇ ਕੀ ਫ਼ੈਰੋ , ਮਿਸਰ ਦੇ ਬਾਦਸ਼ਾਹ, ਅਤੇ ਕੀ ਉੱਚੇ ਮਰਤਬਿਆ ਵਾਲੇ ਫ਼ਗਫ਼ੂਰ, ਚੀਨ ਦੇ ਬਾਦਸ਼ਾਹ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਫ਼ੈਰੋ ਚਿ ਫ਼ਗਫ਼ੂਰਿ ਵਾਲਾ-ਗਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

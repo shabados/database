@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਪਾਣੀ ਦੀ) ਬੂੰਦ ਵਿਚ (ਪਾਣੀ ਦੀ) ਬੂੰਦ ਮਿਲ ਜਾਂਦੀ ਹੈ, (ਤੇ, ਫਿਰ ਵੱਖ ਨਹੀਂ ਹੋ ਸਕਦੀ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਦਹਿ = (ਪਾਣੀ ਦੀ) ਬੂੰਦ ਵਿਚ। ਬਿੰਦ = ਪਾਣੀ ਦੀ ਬੂੰਦ। ਮਿਲਾਵਾ = ਮਿਲ ਗਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

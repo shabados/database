@@ -5,6 +5,13 @@ language = "pa"
 data = "ਪਰੰਤੂ ਤੇਰਾ ਹੁਕਮ ਮੇਰੇ ਸਿਰ ਮੱਥੇ ਤੇ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਹੁਕਮਤ ਕਸ਼ਮ ਬਜਾਨੇ ਬਦਿਲ ।"
+page = 1
+line = 52
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

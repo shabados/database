@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਵੇਂ ਦਾਣਿਆਂ ਤੋਂ ਬਿਨਾ ਖ਼ਾਲੀ ਤੋਹ (ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਣ = ਦਾਣੇ। ਥੋਥਰ = ਖ਼ਾਲੀ। ਤੁਖਾ = ਤੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

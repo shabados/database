@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਚੇ ਮਹਲ-ਮਾੜੀਆਂ ਤੇ ਸੁੰਦਰ ਬਾਗਾਂ ਦੀ ਛਾਂ ਮਾਣਨ ਵਿਚ ਭੀ ਆਤਮਕ ਆਨੰਦ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਦਰ ਛਾਇਆ = ਸੁੰਦਰ (ਬਾਗ਼ਾਂ ਦੀ) ਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

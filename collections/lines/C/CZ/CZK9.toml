@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਨੇ ਆਪ ਜਿਸ ਮਨੁੱਖ ਦੀ ਸਹਾਇਤਾ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਾਇ = ਸਹਾਇਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

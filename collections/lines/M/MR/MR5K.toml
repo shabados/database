@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਹੁਕਮ ਮੇਰੇ ਸਿਰ-ਮੱਥੇ ਤੇ ਹੈ, ਮੈਂ ਇਸ ਵਿਚ ਕੋਈ ਨਾਂਹ-ਨੁੱਕਰ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੁਰਮਾਨੁ = ਹੁਕਮ। ਸਿਰੈ ਊਪਰਿ = ਸਿਰ ਉੱਤੇ ਹੀ, ਸਦਾ ਸਿਰ-ਮੱਥੇ ਤੇ। ਫਿਰਿ = ਫਿਰ ਕੇ, ਉਲਟ ਕੇ, ਉਸ ਦੇ ਉਲਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

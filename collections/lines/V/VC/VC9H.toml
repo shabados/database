@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਾੜ ਦੀ ਗੁਫ਼ਾ ਵਿਚ ਭੀ ਬੈਠ ਕੇ ਮੈਂ ਕੀਹ ਆਖਾਂ ਕਿ ਕਿਹੋ ਜਿਹਾ ਬਣ ਗਿਆ ਹੈ? (ਗੁਫ਼ਾ ਵਿਚ ਟਿਕੇ ਰਿਹਾਂ ਭੀ ਇਹ ਮਨ ਅਮੋੜ ਹੀ ਰਹਿੰਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸਿ = ਬੈਠ ਕੇ। ਆਖਉ = ਮੈਂ ਆਖਾਂ। ਕੈਸਾ = ਕਿਹੋ ਜਿਹਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

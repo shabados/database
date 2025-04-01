@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਆਪਣੇ ਦਿਲ ਦੀ ਅੱਖ ਦੀ ਰੋਸ਼ਨੀ ਚਾਹੁੰਦਾ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰਾਇ ਰੌਸ਼ਨੀਇ ਚਸ਼ਮਿ ਦਿਲ ਅਗਰ ਖ਼ਾਹੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

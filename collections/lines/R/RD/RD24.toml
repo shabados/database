@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਤੇਰਾ ਨਾਮ ਮੈਨੂੰ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚਾ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ। ਮੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਭਾਣਾ = ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

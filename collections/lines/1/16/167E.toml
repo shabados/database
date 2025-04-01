@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਓ! (ਮੇਰੇ ਅੰਦਰੋਂ) ਦੁੱਖ ਮਿਟ ਗਿਆ ਹੈ ਸਾਰੇ ਕਲੇਸ਼ ਮਿਟ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰੁ = ਅਤੇ {ਅਰਿ = ਵੈਰੀ} ਸੰਤਾਪ = ਕਲੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

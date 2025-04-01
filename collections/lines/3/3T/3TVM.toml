@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਜਤਨਾਂ ਨਾਲ) ਜੀਵ ਚਾਹੇ ਅਕਾਸ਼ ਤੇ ਚੜ੍ਹ ਜਾਏ, ਚਾਹੇ ਪਤਾਲ ਵਿਚ ਲੁਕ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੂਟਸਿ ਨਾਹੀ = ਬਚ ਨਹੀਂ ਸਕਦਾ। ਊਭ = ਉਤਾਂਹ, ਆਕਾਸ਼ ਵਿਚ। ਪਇਆਲਿ = ਪਾਤਾਲ ਵਿਚ। ਊਭ ਪਇਆਲਿ = ਚਾਹੇ ਅਕਾਸ਼ ਤੇ ਚੜ੍ਹ ਜਾਏ, ਚਾਹੇ ਪਾਤਾਲ ਵਿਚ ਲੁਕ ਜਾਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

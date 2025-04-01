@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਉੱਤੇ ਤੂੰ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈਂ, ਉਹ ਮਨੁੱਖ ਤੈਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਾਸੀ = ਮਿਲ ਪੈਂਦਾ ਹੈ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

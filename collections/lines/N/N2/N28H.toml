@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੀ ਹੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

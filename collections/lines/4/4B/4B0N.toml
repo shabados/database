@@ -1,42 +1,48 @@
 [[content]]
-asset = "0"
+asset = "SSA2"
 type = "primary"
 data = "ਆਗੈ ਘਾਮ. ਪਿਛੈ ਰੁਤਿ ਜਾਡਾ; ਦੇਖਿ ਚਲਤ. ਮਨੁ ਡੋਲੇ ॥"
 page = 1109
 line = 1
 
 [[content]]
-asset = "1"
+asset = "SBMS"
 type = "translation"
 language = "en"
 data = "Summer is left behind and the winter season lies ahead. Seeing this play my mind wavers."
 
 [[content]]
-asset = "1"
+asset = "SBMS"
 type = "translation"
 language = "pa"
 data = "ਗਰਮੀ ਪਿੱਛੇ ਰਹਿ ਗਈ ਹੈ ਅਤੇ ਸਿਆਲ ਦਾ ਮੌਸਮ ਮੂਹਰੇ ਹੈ। ਇਹ ਖੇਡ ਵੇਖ ਮੇਰਾ ਚਿੱਤ ਡਿਕਡੋਲੇ ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
-asset = "2"
+asset = "DSSK"
 type = "translation"
 language = "en"
 data = "Summer is now behind us, and the winter season is ahead. Gazing upon this play, my shaky mind wavers."
 
 [[content]]
-asset = "3"
+asset = "NKFT"
 type = "translation"
 language = "pa"
 data = "ਪਹਿਲੇ (ਘਾਮ) ਧੂਪ ਤੇਜੁ ਸੀ ਅਰਥਾਤ ਜੁਵਾ ਅਵਸਥਾ ਥੀ ਸੋ ਬੀਤ ਗਈ ਹੈ, ਤਿਸ ਕੇ ਪੀਛੇ (ਜਾੜਾ) ਜੜ੍ਹਤਾ ਅਰਥਾਤ ਬ੍ਰਿਧ ਅਵਸਥਾ ਆਈ ਹੈ। ਅਬ ਬਰਤਮਾਨ ਮੇਂ ਐਸਾ ਚਲਿਤ੍ਰ ਦੇਖ ਕਰ ਕੇ ਮੇਰਾ ਮਨ ਡੋਲ ਰਹਾ ਹੈ, ਕਿਉਂਕਿ ਬ੍ਰਿਧ ਅਵਸਥਾ ਮੇਂ ਸਾਧਨ ਕੋਈ ਨਹੀਂ ਹੋ ਸਕਤਾ, ਤਾਂ ਤੇ ਏਕ ਆਸਾ ਹੈ॥ ਸੋ ਕਹਤੇ ਹੈਂ:"
 
 [[content]]
-asset = "4"
+asset = "PSST"
 type = "translation"
 language = "pa"
 data = "(ਮੇਰੇ ਸਰੀਰ ਦਾ) ਨਿੱਘ ਅਗਾਂਹ ਲੰਘ ਗਿਆ ਹੈ (ਘਟ ਗਿਆ ਹੈ), ਉਸ ਦੇ ਪਿਛੇ ਪਿਛੇ ਸਰੀਰਕ ਕਮਜ਼ੋਰੀ ਆ ਰਹੀ ਹੈ, ਇਹ ਤਮਾਸ਼ਾ ਵੇਖ ਕੇ ਮੇਰਾ ਮਨ ਘਬਰਾ ਰਿਹਾ ਹੈ (ਕਿਉਂਕਿ ਅਜੇ ਤਕ ਤੇਰਾ ਦੀਦਾਰ ਨਹੀਂ ਹੋ ਸਕਿਆ)।"
 
 [[content]]
-asset = "5"
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਅੱਗੇ ਲੰਘ ਗਈ ਹੈ। ਘਾਮ = ਤਪਸ਼, ਘੁੰਮਾ, ਗਰਮੀ (ਭਾਵ, ਸਰੀਰਕ ਨਿੱਘ, ਤਾਕਤ)। ਪਿਛੈ = ਉਸ ਘਾਮ ਦੇ ਪਿਛੇ ਪਿਛੇ। ਜਾਡਾ = ਸਿਆਲ (ਭਾਵ, ਕਮਜ਼ੋਰੀ)।"
+
+[[content]]
+asset = "SNST"
 type = "translation"
 language = "es"
 data = "Ante mí está el verano de la muerte, detrás está el invierno de la vida, y viendo este juego mi mente vacila."

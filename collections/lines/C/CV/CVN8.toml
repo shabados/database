@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ! ਮੇਰੇ ਦਿਲ ਦੀ ਪੀੜ ਤੂੰ ਹੀ ਜਾਣਦਾ ਹੈਂ। ਕੋਈ ਹੋਰ ਕੀ ਜਾਣ ਸਕਦਾ ਹੈ? ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਦਨਿ = (ਦਿਲ ਦੀ) ਪੀੜ। ਅਵਰੁ ਕੋਇ = ਹੋਰ ਕੋਈ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

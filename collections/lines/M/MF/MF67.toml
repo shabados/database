@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਹੇ ਅਕਾਲ ਪੁਰਖ!) ਮੈਂ ਤਾਂ ਤੇਰੇ ਉੱਤੋਂ ਇਕ ਵਾਰੀ ਭੀ ਸਦਕੇ ਹੋਣ ਜੋਗਾ ਨਹੀਂ ਹਾਂ (ਭਾਵ, ਮੇਰੀ ਹਸਤੀ ਬਹੁਤ ਹੀ ਤੁੱਛ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਿਆ ਨਾ ਜਾਵਾ = ਸਦਕੇ ਨਹੀਂ ਹੋ ਸਕਦਾ, (ਭਾਵ, ਮੇਰੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ?)"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਸਰੀਰ ਨੂੰ ਰਤੀ ਰਤੀ ਕਰ ਕੇ ਕਟਾਵੇ ਤੇ ਅੱਗ ਵਿਚ ਸਾੜ ਦੇਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ ਰਾਤੀ = ਰਤੀ ਰਤੀ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

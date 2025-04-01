@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਿਆਰੇ! ਦੱਸ) ਮੈਂ ਕਿਵੇਂ ਗੁਰੂ ਨੂੰ ਲੱਭਾਂ ਜਿਸ ਦੀ ਰਾਹੀਂ ਹੀ ਮੈਂ ਤੇਰਾ ਦਰਸ਼ਨ ਕਰ ਸਕਾਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ = ਕਿਵੇਂ? ਪਾਈ = ਪਾਈਂ, ਮੈਂ ਲੱਭਾਂ। ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਲਗਿ = (ਜਿਸ ਦੀ ਚਰਨੀਂ) ਲੱਗ ਕੇ। ਦੇਖਸਾ = ਦੇਖਸਾਂ, ਮੈਂ ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

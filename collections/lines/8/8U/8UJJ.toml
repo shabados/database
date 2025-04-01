@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ (ਦੱਸੋ) ਪਰਮਾਤਮਾ ਦੇ ਭਜਨ ਤੋਂ ਬਿਨਾ (ਉਸ ਦਾ) ਜੀਊਣਾ ਕਿਸ ਕੰਮ? ॥੩੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉਨੇ ਕਾਮ = ਕਿਸ ਕੰਮ? ਕਿਸੇ ਭੀ ਕੰਮ ਨਹੀਂ ॥੩੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

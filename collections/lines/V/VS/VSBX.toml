@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜੇ ਮਨੁੱਖ) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉੱਤੇ ਮੱਥਾ ਰੱਖ ਕੇ ਢਹਿ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਚਰਨ = ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉੱਤੇ। ਮਸਤਕੁ = ਮੱਥਾ। ਡਾਰਿ = ਰੱਖ ਕੇ। ਪਹੀ = ਪੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

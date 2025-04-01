@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਆਪਣੀ) ਜੀਭ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰਸ ਚੱਖਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ ਨਾਲ। ਚਾਖੈ = ਚੱਖਦਾ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

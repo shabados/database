@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਘੋੜੇ, ਊਠ, ਹਾਥੀ ਅਤੇ ਸੋਣਾ ਲੋਚਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਸਪੋ ਸ਼ੁਤਰੋ ਫ਼ੀਲੋ ਤਿਲਾ ਮੀ ਖ਼ਾਹਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

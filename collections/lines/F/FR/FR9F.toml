@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਦਇਵਾਨ ਹੋਵੇ ਤਾਂ ਮੈਂ ਉਸ ਦਾ ਧਿਆਨ ਧਰ ਸਕਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਵਉ = ਧਿਆਵਉਂ, ਮੈਂ ਧਿਆਉਂਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

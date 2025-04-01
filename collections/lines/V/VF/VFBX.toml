@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਗਤ ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਦੇ ਪ੍ਰਭਾਵ ਵਿਚ ਹੀ ਦੌੜ-ਭੱਜ ਕਰ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤੈ = ਦੌੜ-ਭੱਜ ਕਰ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

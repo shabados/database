@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਾਤਿਸ਼ਾਹ! ਤੂੰ ਅਸਚਰਜ ਹੈਂ, ਤੂੰ ਅਸਚਰਜ ਹੈਂ। ਤੇਰੀ ਵਡਿਆਈ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਹੁ = ਅਸਚਰਜ। ਪਾਤਿਸ਼ਾਹ = ਹੇ ਪਾਤਿਸ਼ਾਹ! ਨਾਈ = ਵਡਿਆਈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

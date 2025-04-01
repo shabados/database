@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭਗਤ ਦਾ ਸੋਹਜ ਸੁਹਣੱਪ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪ ਰੰਗੁ = ਸੁਹਣੱਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

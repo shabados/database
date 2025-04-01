@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ ਸੁਖੀ ਜੀਵਨ ਬਿਤੀਤ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲੇ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

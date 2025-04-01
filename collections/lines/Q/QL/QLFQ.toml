@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਤੋਂ ਸੱਖਣਾ ਮਨੁੱਖ) ਚਾਹੇ ਕਦੇ ਰਾਜਾ ਹੈ ਚਾਹੇ ਮੰਗਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਬ ਹੀ = ਕਦੇ। ਮੰਗਨਹਾਰੁ = ਮੰਗਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

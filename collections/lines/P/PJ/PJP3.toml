@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਦੇ ਨਾਥ! ਹੇ ਦਇਆ ਦੇ ਘਰ ਪ੍ਰਭੂ! ਮੈਂ ਗੁਣ-ਹੀਨ ਹਾਂ, ਤੂੰ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਨਿਰਗੁਨ = ਗੁਣ-ਹੀਨ। ਦੀਨਾਨਾਥ = ਹੇ ਦੀਨਾਂ ਦੇ ਨਾਥ! ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

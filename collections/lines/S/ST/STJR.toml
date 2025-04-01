@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਹਿਲਵਾਨ ਆ ਇਕੱਠੇ ਹੋਏ ਹਨ, (ਪਿੜ ਦੇ ਦੁਆਲੇ, ਜਗਤ-ਅਖਾੜੇ ਵਿਚ) ਫੇਰੀਆਂ ਲੈ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲ = ਮੱਲ, ਪਹਿਲਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਜਿਹੜੀ) ਇਸਤ੍ਰੀ ਖਸਮ ਤੋਂ ਬਿਨਾ (ਹੁੰਦੀ ਹੋਈ ਸਰੀਰਕ) ਸਿੰਗਾਰ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ = ਪਤੀ, ਖਸਮ। ਕਾਮਣਿ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

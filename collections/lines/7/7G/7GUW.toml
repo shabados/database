@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ਦੋਂ ਤੂੰ ਯਾਦ ਨਹੀਂ ਆੳਂੁਦਾ, ਤਾਂ ਮੈਂ ਮਰ ਮਰ ਜਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਾਂ ਜ਼ਮਾਂ ਕਿ ਨਿਆਈ ਬ-ਯਾਦ ਮੀ-ਮਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

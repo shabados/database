@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੂਹੇ ਤੇ (ਸੱਖਣੇ) ਕਾਨੇ ਪਏ ਲਿਸ਼ਕਦੇ ਹਨ (ਵਰਤਣ ਖੁਣੋਂ ਪਏ ਹਨ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਨ = ਕਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

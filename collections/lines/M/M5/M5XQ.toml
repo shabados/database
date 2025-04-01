@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਭੀ ਮੇਰਾ ਮਨ ਸੰਤੁਸ਼ਟ ਨਾਹ ਹੋਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤੀਆਰਾ = ਪਤੀਜਿਆ, ਸੰਤੁਸ਼ਟ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

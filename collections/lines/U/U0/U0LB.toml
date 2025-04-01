@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਸਦਾ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਕਉ = {ਸੰਬੰਧਕ 'ਕਉ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਤਿਸ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

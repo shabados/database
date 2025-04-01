@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ ਇਕ ਖੇਡ ਹੈ, ਇਕ ਤਮਾਸ਼ਾ ਹੈ, ਪਰ (ਜੀਵ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ ਅਗਿਆਨਤਾ ਦੇ) ਘੁੱਪ ਹਨੇਰੇ ਵਿਚ ਫਸੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁੰਧੂਕਾਰੇ = ਘੁੱਪ ਹਨੇਰੇ ਵਿਚ, ਅਗਿਆਨਤਾ ਦੇ ਹਨੇਰੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

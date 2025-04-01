@@ -30,6 +30,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਭਾਈ! (ਜੇ ਤੂੰ ਵਿਕਾਰਾਂ ਦੀ ਅੱਗ ਤੋਂ ਬਚਣਾ ਚਾਹੁੰਦਾ ਹੈਂ ਤਾਂ) ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਿ = ਸਿਮਰ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

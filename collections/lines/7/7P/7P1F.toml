@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਅਜੇਹਾ ਗੁਰੂ ਮਿਲ ਪਏ ਜੋ ਪ੍ਰਸੰਨ ਹੋ ਕੇ ਕਿਰਪਾ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਠਾ = ਪ੍ਰਸੰਨ। ਪਸਾਉ = ਪ੍ਰਸਾਦ, ਕਿਰਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

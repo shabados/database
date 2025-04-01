@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਾਥੀ (ਮਸਾਣਾਂ ਤਕ ਨਾਲ) ਜਾਂਦੇ ਹਨ, ਉਹ ਢਾਹਾਂ ਮਾਰ ਦੇਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਗੀਤ = ਸੰਗੀ, ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

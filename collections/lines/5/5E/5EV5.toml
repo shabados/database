@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਵੇਖ) ਕਰਤਾਰ ਨੇ (ਆਪ ਹੀ ਇਸ ਮਨ ਨੂੰ) ਮਾਇਆ ਦੀ ਮਮਤਾ ਚੰਬੋੜੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੈ = ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

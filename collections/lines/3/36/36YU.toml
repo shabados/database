@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇ ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕੁਝ ਹੋਰ ਹੋਰ ਹੀ ਮੰਗਦਾ ਰਹਾਂ, ਤਾਂ ਇਹ ਸਾਰੀ ਗੱਲ ਕੱਚੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = ਹੋਰ। ਚਾਹਉ = ਚਾਹਉਂ, ਮੈਂ ਚਾਹਾਂ, ਮੈਂ ਮੰਗਦਾ ਰਹਾਂ। ਖਾਮ = ਕੱਚੀ, ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

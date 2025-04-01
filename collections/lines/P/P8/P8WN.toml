@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਲਕ!) ਤੂੰ (ਸਭ ਦੇ ਦਿਲ ਦੀ) ਜਾਣਨ ਵਾਲਾ ਹੈਂ ਤੇ (ਸਭ ਦੇ ਕੰਮ) ਵੇਖਣ ਵਾਲਾ ਹੈਂ; ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰਾ ਕਿਹੜਾ ਕਿਹੜਾ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਾਂ = ਜਾਣਨ ਵਾਲਾ। ਬੀਨਾਂ = ਵੇਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

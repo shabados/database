@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ (ਗੁਰੂ ਦੀ) ਸਰਨ ਪੈਂਦੇ ਹਨ, ਉਹ ਜਮ-ਪੁਰੀ ਦੀ ਲਿਖਤ ਨੂੰ ਛੱਡ ਕੇ ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਹਿ = ਪੈਂਦੇ ਹਨ। ਉਬਰਹਿ = ਪਾਰ ਉਤਰ ਜਾਂਦੇ ਹਨ। ਛੋਡਿ = ਛੱਡ ਕੇ। ਲਿਖਹ = ਲਿਖਤ। ਜਮ ਪੁਰ ਕੀ = ਜਮ ਪੁਰੀ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

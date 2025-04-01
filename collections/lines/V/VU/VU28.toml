@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਭਨਾਂ ਦਾ ਹੱਥ ਉਸ ਦੀਆਂ ਬਖਸ਼ਿਸ਼ਾਂ ਦੇ ਪੱਲੇ ਤੇ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਸਤਿ ਹਮਾ-ਗਾਂ ਬਜ਼ੈਲਿ ਅਫ਼ਜ਼ਾਲਿ ਊ ।"
+page = 9
+line = 103
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਤ੍ਰੈਗੁਣੀ ਜੀਵ ਇਹਨਾਂ ਦੇ ਦਬਾਉ ਹੇਠ ਹਨ, ਕਿਸੇ ਨੇ ਇਹਨਾਂ ਨੂੰ ਮੋੜਾ ਨਹੀਂ ਪਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰੈ ਗੁਣ = ਤਿੰਨਾਂ ਗੁਣਾਂ ਦੇ ਸਾਰੇ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਸ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਅੱਖਰ (ਸੰਸਕਾਰ) ਆਪਣੇ ਮਨ ਵਿਚ ਉੱਕਰ ਲੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੁ = ਲਿਖ, ਉੱਕਰ ਲੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

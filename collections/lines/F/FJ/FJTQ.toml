@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਾਵੇਂ) ਹੇ ਨਾਨਕ! ਇਹ ਨਾਮ ਇਕ ਵਾਰੀ (ਭੀ) ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਜਪਿਆ ਜਾਏ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਬਾਰ = ਇਕ ਵਾਰੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

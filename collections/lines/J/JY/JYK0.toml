@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪੋ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ ਆਪ ਹੀ ਭਰਨਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਢੀਐ = ਭਰੀਦਾ ਹੈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

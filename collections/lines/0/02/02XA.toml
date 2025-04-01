@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ ਗੁਰੂ (ਹੀ) ਸੁਖ ਦਾ ਸਮੁੰਦਰ ਹੈ, (ਗੁਰੂ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਥਾਂ ਸੁਖ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੁ ਸਾਗਰੁ = ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ। ਅੰਤਰਿ = ਵਿਚ। ਹੋਰ ਥੈ = ਕਿਸੇ ਹੋਰ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

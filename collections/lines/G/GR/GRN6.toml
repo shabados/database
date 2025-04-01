@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਜਮਾਂ ਵਾਲੀ ਫਾਹੀ (ਭੀ) ਕੱਟੀ ਜਾਏਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਟੀਐ = ਕੱਟੀ ਜਾਂਦੀ ਹੈ, ਕੱਟੀ ਜਾਇਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

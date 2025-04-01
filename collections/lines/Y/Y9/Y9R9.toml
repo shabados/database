@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਰੱਬ ਕੌਣ ਹੈ ਅਤੇ ਤੂੰ ਕੌਣ ਹੈਂ, ਦੋਹਾਂ ਦਾ ਕੀ ਫਰਕ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਕੁਦਾਮ ਵਾ ਤੂ ਕੁਦਾਮੀ ਕੁਨ ਤਮੀਜ਼ ।੩੦੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

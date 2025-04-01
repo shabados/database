@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਨੂੰ ਚੁੰੰਮਣ ਵਾਲੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕ-ਬੋਸਿ ਪਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 135
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

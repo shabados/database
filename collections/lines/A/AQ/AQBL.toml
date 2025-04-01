@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਤੀਰ ਦੇ ਸਾਹਮਣੇ ਪੱਥਰ ਜਾਂ ਲੋਹਾ ਕੀ ਹਨ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਸੰਗੋ ਚਿ ਆਹਨ ਬਰਿ ਤੀਰਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

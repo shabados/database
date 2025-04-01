@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮੂਰਖ ਮਨੁੱਖ ਘਰਾਂ ਮਹਲ ਮਾੜੀਆਂ (ਦੇ ਮੋਹ) ਵਿਚ ਲੱਗ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪ = ਵੱਡੇ ਕਮਰੇ। ਮਾੜੀਆ = ਮਹਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

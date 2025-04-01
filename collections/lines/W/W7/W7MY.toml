@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਨੁੱਖ ਦਾ) ਮਨ ਤਨ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਮਨ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਸਰੀਰ ਭੀ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲੁ = ਪ੍ਰਸੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੂਰਨ ਕਿਰਪਾਲ! (ਮੈਨੂੰ ਆਪਣਾ) ਦਰਸਨ ਦੇਹ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾਲਾ = ਹੇ ਕਿਰਪਾਲ! ਗਾਉ = ਗਾਉਂ, ਮੈਂ ਗਾਂਦਾ ਰਹਾਂ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

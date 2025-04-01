@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਤਨਾ ਚਿਰ) ਮਨ ਸਹਿਮ ਵਿਚ (ਹੈ ਉਤਨਾ ਚਿਰ) ਮੈਲਾ ਰਹਿੰਦਾ ਹੈ, ਮਨ ਦੀ ਇਹ ਮੈਲ ਕਿਸੇ (ਬਾਹਰਲੀ) ਜੁਗਤੀ ਨਾਲ ਨਹੀਂ ਧੁਪਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੀਣੁ = ਮੈਲਾ। ਕਿਤੁ = ਕਿਸ ਦੀ ਰਾਹੀਂ? ਕਿਤੁ ਸੰਜਮਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

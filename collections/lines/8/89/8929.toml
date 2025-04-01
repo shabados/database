@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਜਗਤ ਵਿਚ) ਜੋ ਕੁਝ ਵਾਪਰ ਰਿਹਾ ਹੈ ਸਭ ਤੇਰੇ ਹੁਕਮ ਅਨੁਸਾਰ ਵਾਪਰ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜਾਇ = ਹੁਕਮ ਅਨੁਸਾਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

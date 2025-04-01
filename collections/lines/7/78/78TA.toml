@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! (ਖ਼ਲਕਤ ਪੈਦਾ ਕਰਨ ਵਾਲਾ) ਪਰਮਾਤਮਾ (ਸਾਰੀ) ਖ਼ਲਕਤ ਵਿਚ ਮੌਜੂਦ ਹੈ, ਅਤੇ ਖ਼ਲਕਤ ਪਰਮਾਤਮਾ ਵਿਚ ਵੱਸ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਲਕੁ = ਖ਼ਲਕਤ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਪਰਮਾਤਮਾ। ਮਾਹਿ = ਮਹਿ, ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

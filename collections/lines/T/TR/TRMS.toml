@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹੀ ਸਾਹਿਬ ਦਾ ਰੂਪ ਹੈ ਅਤੇ ਉਸੇ ਦਾ ਹੀ ਹੁਕਮ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਬਰੰਗਿ ਸਾਹਿਬੀ ਅਰਸ਼ਾਦਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰੀਰ ਸੋਨੇ ਵਰਗਾ ਸੁੱਧ ਅਰੋਗ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਚਨ ਕਾਇਆ = ਸੋਨੇ ਦਾ ਸਰੀਰ, ਸੋਹਣਾ ਅਰੋਗ ਸਰੀਰ। ਢਾਲਾ = ਢਾਲਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

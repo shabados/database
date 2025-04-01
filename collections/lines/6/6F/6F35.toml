@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਚਿੱਤ! ਇਉਂ ਠੀਕ ਜਾਣ ਕਿ ਮਾਇਆ ਨਾਲ ਪਿਆਰ ਝੂਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹੀ = ਠੀਕ। ਚਿਤ = ਹੇ ਚਿੱਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

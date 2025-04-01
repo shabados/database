@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ (ਨਿਰਾ) ਦੁਨੀਆਦਾਰੀ ਦਾ ਖਿਲਾਰਾ ਖਿਲਾਰਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨ ਹੀ = {ਕਿਨਿ ਹੀ। ਕ੍ਰਿਆ ਵਿਸ਼ੇਸ਼ਣ 'ਹੀ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਕਿਨਿ' ਦੀ 'ਿ' ਉੱਡ ਗਈ ਹੈ। ਕਿਨਿ = ਕਿਸ ਨੇ?} ਕਿਸੇ ਨੇ। ਪਰਵਿਰਤਿ = {प्रवृत्ति = Active life, Taking an active part in worldly affairs} ਦੁਨੀਆਦਾਰੀ, ਗ੍ਰਿਹਸਤ ਜੀਵਨ। ਪਸਾਰਾ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

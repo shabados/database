@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ (ਤਾਂ) ਸਾਰੇ ਪਦਾਰਥ ਪਰਮਾਤਮਾ ਤੋਂ (ਹੀ) ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਂਗਉ = ਮਾਂਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਤੇ = ਤੋਂ। ਸਭਿ = ਸਾਰੇ। ਥੋਕ = ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

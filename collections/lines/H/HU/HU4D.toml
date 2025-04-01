@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਇਹ ਵਿਅਰਥ ਗੱਲਾਂ ਕਦੇ ਮੁੱਕਦੀਆਂ ਹੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਾ = ਅੰਤ। ਕਹਣਿ ਕਥਨਿ = ਕਹਣ ਵਿਚ ਕਥਨ ਵਿਚ, ਵਿਅਰਥ ਗੱਲਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

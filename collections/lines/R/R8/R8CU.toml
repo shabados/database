@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ ਉਸ (ਭਾਗਾਂ ਵਾਲੇ) ਨੂੰ ਸੰਵਾਰਨ ਵਾਲਾ (ਆਪ) ਹੈਂ ॥੪॥੨॥{9}"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

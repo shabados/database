@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਤੇਰੇ ਗੁਣ ਬੇਅੰਤ ਹਨ, ਕੋਈ ਭੀ ਜੀਵ (ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ) ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਹੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਜਾਨਈ = {जानाति} ਜਾਨੈ, ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

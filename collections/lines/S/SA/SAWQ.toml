@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਬੰਦੇ ਦੇ ਧੁਰ ਅੰਦਰ ਤ੍ਰਿਲੋਕੀ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆ ਟਿਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹਿ = ਧੁਰ ਅੰਦਰ। ਧਣੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

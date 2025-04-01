@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਭ ਤੋਂ ਵੱਡਾ ਅਤੇ ਚੰਗੇਰਾ ਹਰਗੋਬਿੰਦ ਵੀ ਉਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੂ ਹਰਗੋਬਿੰਦੋ ਅਕਰਮੋ ਅਹਿਸਨ ਅਸਤ ।੨੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

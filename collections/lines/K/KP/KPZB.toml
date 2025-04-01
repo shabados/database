@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਗੁਰੂ ਨੇ ਉਸ ਦੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਮਾਰ ਕੇ ਉਸ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਲ ਜੋੜ ਦਿੱਤਾ ਹੈ ॥੮॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਿ = ਮਾਰ ਕੇ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੂਹੇ ਵੇਸ ਵਾਲੀਏ! ਜੇ ਤੂੰ ਸਦਾ-ਥਿਰ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਮੰਨ ਲਏਂ ਤਾਂ ਤੂੰ ਸੁਹਾਗ ਭਾਗ ਵਾਲੀ ਹੋ ਜਾਏਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਹਬ = ਹੇ ਸੂਹੇ ਵੇਸ ਵਾਲੀਏ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

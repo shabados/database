@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖਾਂ ਤੋਂ ਬਿਨਾ ਕੋਈ ਵੇਖ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖੈ = ਵੇਖ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

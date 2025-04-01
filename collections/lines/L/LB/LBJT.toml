@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਪ੍ਰੇਮ ਅਤੇ ਚਾਓ ਆਤਮਾ ਦਾ ਜੀਵਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਮੌਲਾ ਜ਼ਿੰਦਗੀਏ ਜਾਂ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

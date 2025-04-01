@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਪਰਮਾਤਮਾ ਬੰਦਗੀ ਕਰਨ ਨਾਲ (ਹੀ) ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ, ਕਰਨ ਨਾਲ। ਪਾਇਆ = ਮਿਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

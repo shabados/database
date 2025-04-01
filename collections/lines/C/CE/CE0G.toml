@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਰਾਮ!) ਤੂੰ ਪਾਰਸ ਹੈਂ, ਮੈਂ ਲੋਹਾ ਹਾਂ, ਤੇਰੀ ਸੰਗਤ ਵਿਚ ਮੈਂ ਸੋਨਾ ਬਣ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ੍ਹ੍ਹ ਚੇ = ਤੇਰੇ ਵਰਗਾ (ਭਾਵ, ਤੂੰ) ਪਾਰਸ ਹੈਂ। ਹਮ ਚੇ = ਮੇਰੇ ਵਰਗਾ (ਭਾਵ, ਮੈਂ)। ਸੰਗੇ = ਤੇਰੀ ਸੰਗਤ ਵਿਚ, ਤੇਰੇ ਨਾਲ ਛੋਹਿਆਂ। ਕੰਚਨ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

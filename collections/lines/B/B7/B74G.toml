@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਧਿਆਨ ਧਰਨ ਵਿਚ ਕ੍ਰੋੜਾਂ ਦੇਵ-ਪੂਜਾ ਆ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਧਿਆਨ = ਜਿਸ ਦਾ ਧਿਆਨ ਧਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਰਤੀ ਦੇ ਰੱਖਕ! ਹੇ ਗੋਬਿੰਦ! ਮੈਨੂੰ ਮਿਲ, ਤਾਕਿ ਮੈਂ ਕਦੇ ਤੌਖ਼ਲੇ ਨਾਹ ਕਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪਾਲ = ਹੇ (ਗੋ-ਪਾਲ) ਧਰਤੀ ਦੇ ਰੱਖਕ! ਨ ਝੂਰੀਐ = ਤੌਖਲਾ ਨਾਹ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

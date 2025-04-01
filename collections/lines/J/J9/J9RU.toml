@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਆਪਣੇ ਹੁਕਮ-ਰੂਪ) ਧਾਗੇ ਵਿਚ ਸਾਰੇ ਜਗਤ ਨੂੰ ਪ੍ਰੋ ਰੱਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਤਿ = ਧਾਗੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਤਾਈ ਵਲਾਇਤਾਂ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਭਿਖਾਰੀ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਸਤੋ ਹਫ਼ਤ ਗਦਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 154
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

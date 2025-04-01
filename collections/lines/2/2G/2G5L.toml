@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਮਰਜ਼ੀ ਹੈ ਕਿ ਧਨ-ਪਦਾਰਥ ਦੇਵੇ ਜਾਂ ਨਾਹ ਦੇਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵੈ = ਜੇ ਚੰਗਾ ਲੱਗੇ, ਜੇ ਉਸ ਦੀ ਮਰਜ਼ੀ ਹੋਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

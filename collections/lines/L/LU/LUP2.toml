@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਇਆ ਦੇ ਘਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ ਤੇ ਮੂੰਹ ਵਿਚ ਵੱਸ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਨਾਮੁ ਦਇਆਲ = ਦਇਆਲ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

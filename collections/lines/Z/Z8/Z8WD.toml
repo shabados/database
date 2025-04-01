@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਸੰਤ ਤੇਰਾ) ਨਾਮ ਸਿਮਰਦੇ ਰਹਿੰਦੇ ਹਨ, ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਰਹਿੰਦੇ ਹਨ, ਅੱਠੇ ਪਹਰ ਤੇਰਾ ਆਰਾਧਨ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਇਨਿ = ਧਿਆਉਂਦੇ ਹਨ। ਪਾਇਨਿ = ਪਾਂਦੇ ਹਨ। ਆਰਾਧਹਿ = ਆਰਾਧਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

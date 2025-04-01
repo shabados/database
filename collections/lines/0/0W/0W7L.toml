@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਸੱਜਣ ਜਨਾਂ ਦੇ ਮਨ ਵਿਚ ਖ਼ੁਸ਼ੀ ਪੈਦਾ ਹੁੰਦੀ ਹੈ ॥੧੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਜਪਿ = ਜਪ ਕੇ ॥੧੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

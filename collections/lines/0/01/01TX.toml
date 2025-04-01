@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਗੱਲ ਦੀ ਸੂਝ ਮਨ ਅੰਦਰੋਂ ਹੀ ਪੈ ਜਾਂਦੀ ਹੈ ਕਿ ਆਪਾ-ਭਾਵ ਮੁੱਕ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਿ = ਆਪਾ-ਭਾਵ ਵਲੋਂ। ਮਨ ਤੇ = ਮਨ ਤੋਂ, ਅੰਦਰੋਂ ਹੀ। ਜਾਨਿਆ = ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

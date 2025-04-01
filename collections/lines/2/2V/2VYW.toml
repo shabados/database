@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰਮੁਖ ਨੂੰ ਉੱਚੀ ਸਮਝ ਪ੍ਰਾਪਤ ਹੁੰਦੀ ਹੈ, ਉਸ ਦਾ ਅਗਿਆਨ-ਰੂਪ ਘੁੱਪ ਹਨੇਰਾ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਮਰੁ = ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

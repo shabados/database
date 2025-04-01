@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਮੋਹ ਜੋਰ ਪਾਈ ਰੱਖਦਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਹਰ ਵੇਲੇ ਮਾਇਆ ਚੰਬੜੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰੇ = ਹਿਰਦੇ ਵਿਚ, ਅੰਦਰ। ਵਿਆਪੈ = ਜੋਰ ਪਾਈ ਰੱਖਦਾ ਹੈ। ਲਾਗੀ = ਚੰਬੜੀ ਰਹਿੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

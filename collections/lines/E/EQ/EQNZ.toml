@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਇਕ ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ ਭੀ ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਵਿਚ ਗੁਜ਼ਾਰਿਆ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ = {निमेष} ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ। ਜੋ = ਜੇਹੜਾ। ਜੀਆ = ਜੀਵਿਆ ਗਿਆ, ਗੁਜ਼ਾਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

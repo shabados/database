@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ, ਮੇਰੀ ਜਾਨ # ਤੂੰ ਜਾਵੇਣ, ਤੇਰਾ ਰੱਬ ਰਾਖਾ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਰ ਕੁਜਾ ਕਿ ਰਵੀ ਜਾਨਿ ਮਨ ਖ਼ੁਦਾ ਹਾਫ਼ਿਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

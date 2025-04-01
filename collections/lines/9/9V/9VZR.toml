@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਹੇ ਪ੍ਰਭੂ! (ਤੈਨੂੰ ਮੇਰੀ) ਨਮਸਕਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਾਰਬ੍ਰਹਮ! ਆਦੇਸੁ = ਨਮਸਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

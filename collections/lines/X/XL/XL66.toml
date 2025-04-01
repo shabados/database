@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਜਹਾਨ ਦੀ ਪ੍ਰਿਤਪਾਲਨਾ ਦੇ ਬਾਗ ਦੇ ਫੁਲਾਂ ਨੂੰ ਸਜਾਉਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਲ ਆਰਾਇ ਬਾਗ਼ਿ ਜਹਾਂ ਪਰਵਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

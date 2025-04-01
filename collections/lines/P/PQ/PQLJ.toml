@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਮਿਆਰ ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੈ, ਆਖਦਾ ਹੈ। ਖਲਾਸ = ਜਿਸ ਨੇ ਦੁੱਖ-ਅੰਦੋਹ ਤਸ਼ਵੀਸ਼ ਆਦਿਕ ਤੋਂ ਖ਼ਲਾਸੀ ਪਾ ਲਈ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

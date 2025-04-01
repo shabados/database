@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਹੇ ਮੇਰੇ ਮਾਲਕ! ਹੇ ਹਰੀ! ਮੈਨੂੰ ਮੂਰਖ ਨੂੰ (ਆਪਣੀ ਸਰਨ ਵਿਚ) ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਮੂਰਖ = ਮੈਨੂੰ ਮੂਰਖ ਨੂੰ। ਗੁਸਈਆ = ਹੇ ਗੁਸਾਈਂ! ਹੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

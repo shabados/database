@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਪਰਮਾਤਮਾ) ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਰਜ਼ਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

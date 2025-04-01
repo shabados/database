@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਹੋਰ ਦਰਵਾਜ਼ਾ ਨਹੀਂ ਹੈ ਜਿਥੇ ਮੈਂ ਜਾਵਾਂ (ਤੇ ਸਵਾਲੀ ਬਣਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆ = ਦੂਜਾ। ਦਰੁ = ਦਰਵਾਜਾ, ਘਰ। ਕੈ ਦਰਿ = ਕਿਸ ਦੇ ਦਰ ਤੇ? ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

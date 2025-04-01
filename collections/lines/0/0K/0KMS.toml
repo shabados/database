@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੁਰਜਨ! ਤੂੰ ਅੱਗ ਵਿਚ ਸੜ ਜਾ, ਹੇ ਵਿਛੋੜੇ! ਤੂੰ ਮਰ ਜਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲੁ = ਸੜ ਜਾ। ਭਾਹੜੀ = ਅੱਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

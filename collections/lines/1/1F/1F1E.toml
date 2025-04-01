@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਦ-ਨਸੀਬ (ਸਾਕਤ)! ਤੈਨੂੰ (ਕਦੇ ਇਹ) ਸ਼ਰਮ ਨਹੀਂ ਆਉਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਾਗੇ = ਹੇ ਭਾਗ-ਹੀਣ! ਤੈ = ਤੈਨੂੰ। ਲਾਜ = ਸ਼ਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਬਾਨੀ ਆਖਣ ਅਖਵਾਣ ਵਾਲੇ ਤਾਂ ਅਨੇਕਾਂ ਹੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਈ = ਅਨੇਕਾਂ ਬੰਦੇ। ਕੇਤੈ = ਕਿਤਨੇ ਹੀ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

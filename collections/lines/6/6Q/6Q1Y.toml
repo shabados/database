@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਦਾ ਪਿੰਡ ਬਣਾ ਕੇ ਵਸਾਈ ਬੈਠਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮੀ। ਦੇਹੁ = ਪਿੰਡ। ਕਰਿ = ਕਰ ਕੇ, ਬਣਾ ਕੇ। ਬਾਧਿਓ = ਬੰਨ੍ਹਿਆ ਹੈ, ਵਸਾਇਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

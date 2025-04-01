@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ (ਸਾਕਤ) ਆਕੜ ਆਕੜ ਕੇ ਤੁਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਢਉ = ਵਿੰਗਾ, ਆਕੜ ਆਕੜ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

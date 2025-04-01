@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੇ (ਮਾਨੋ) ਸਾਰੇ ਸੁਰਗ ਤੇ ਮੋਖ ਮੁਕਤੀ ਹਾਸਲ ਕਰ ਲਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਕੁੰਠ = ਸੁਰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

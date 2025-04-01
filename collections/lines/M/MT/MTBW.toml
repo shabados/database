@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨ੍ਹਾ ਕੇ ਹੀ ਨਮਾਜ਼ ਪੜ੍ਹੀਦੀ ਹੈ। ਨ੍ਹਾ ਕੇ ਹੀ ਪੂਜਾ ਹੁੰਦੀ ਹੈ। ਸੁਚੱਜੇ ਬੰਦੇ ਨਿੱਤ ਇਸ਼ਨਾਨ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ = ਨ੍ਹਾ ਕੇ। ਸੁਜਾਣੀ = ਸੁਚੱਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

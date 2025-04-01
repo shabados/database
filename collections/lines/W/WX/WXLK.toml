@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਇਸ ਰੰਗ ਵਿਚ (ਰੰਗੀਜ ਕੇ) ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਵਿਚ ਲੀਨ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੁ = ਇਸ ਵਿਚ। ਇਤੁ ਰੰਗਿ = ਇਸ ਰੰਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

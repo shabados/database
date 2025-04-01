@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਜਪਣ ਵਾਲੇ ਦਾ) ਮਨੁੱਖਾ ਜਨਮ ਕਾਮਯਾਬ ਹੈ, ਜੀਵਨ (ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਕਬੂਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ = ਕਾਮਯਾਬ। ਪਰਵਾਣੁ = ਕਬੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

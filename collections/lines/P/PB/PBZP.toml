@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਦਇਆ ਹੁੰਦੀ ਹੈ, ਕਿਰਪਾ ਹੁੰਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ ਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

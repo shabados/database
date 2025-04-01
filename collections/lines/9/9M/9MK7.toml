@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੈਨੂੰ ਓਹ ਗੋਵਿੰਦ-ਪ੍ਰਭੂ ਮਿਲਾ ਦਿਉ ਜੋ ਮੇਰੇ ਅੰਦਰ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਸਾ = ਜੋ ਮੇਰੇ ਪਾਸ ਹੀ ਹੈ, ਮੇਰੇ ਨਾਲ ਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

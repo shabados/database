@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਯਾਦ ਕਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸਮਾਲਿ = ਸਾਂਭ, ਯਾਦ ਕਰਦਾ ਰਹੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

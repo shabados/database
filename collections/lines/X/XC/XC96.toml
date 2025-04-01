@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ (ਮਾਨੋ) ਹਾਥੀ ਰਥਾਂ ਘੋੜਿਆਂ ਦੀ ਸਵਾਰੀ (ਦਾ ਸੁਖ ਮਾਣ ਰਿਹਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤੀ = ਹਾਥੀ। ਅਸੁ = {अश्व} ਘੋੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

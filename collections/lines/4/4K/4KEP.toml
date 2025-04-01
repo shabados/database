@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਮੇਰੇ ਪਿਛਲੇ ਗੁਨਾਹ ਬਖ਼ਸ਼, ਹੁਣ ਤੂੰ ਮੈਨੂੰ ਸਹੀ ਰਸਤੇ ਉਤੇ ਤੋਰ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਨਹ = ਗੁਨਾਹ, ਪਾਪ। ਬਖਸਾਇ = ਬਖ਼ਸ਼। ਜੀਉ = ਹੇ ਪ੍ਰਭੂ ਜੀ! ਅਬ = ਹੁਣ, ਇਸ ਜਨਮ ਵਿਚ। ਮਾਰਗਿ = (ਠੀਕ) ਰਸਤੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮਨ ਤੋਂ ਦੁਨੀਆ ਦੇ ਖ਼ਤਰਿਆਂ ਦਾ ਸਹਿਮ ਦੂਰ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਭੈ ਭਉ = ਡਰਾਂ ਦਾ ਡਰ, ਦੁਨੀਆ ਦੇ ਡਰਾਂ ਦਾ ਸਹਿਮ। ਦੂਰਿ ਪਰਾਇਓ = ਦੂਰ ਚਲਾ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਨ੍ਹਾਣ ਨੂੰ ਰੱਬ ਦੀ ਯਾਦ ਤੋਣ ਬਿਨਾਣ ਹੋਰ ਕੋਈ ਚੀਜ਼ ਚੰਗੀ ਨਹੀਣ ਲਗਦੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੇਸ਼ਿ ਸ਼ਾਣ ਜੁਜ਼ ਯਾਦਿ ਹੱਕ ਮਨਜ਼ੂਰ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

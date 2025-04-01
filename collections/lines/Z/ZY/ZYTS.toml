@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਵਿਛੋੜੇ ਨੇ ਗੋਯਾ ਦਾ ਕੁਝ ਅਜੀਬ ਜਿਹਾ ਹਾਲ ਕਰ ਦਿੱਤਾ ਹੈ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਕਰਦਾ-ਸਤ ਫ਼ਿਰਾਕਿ ਤੂ ਬਰ ਸਰਿ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

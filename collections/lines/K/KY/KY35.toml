@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ) ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰ ਕੇ ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਮਨੋਰਥ ਹਾਸਲ ਕਰ ਲਿਆ ਉਸ ਦੀ ਅਕਲ ਵਧੀਆ ਬਣ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ = ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

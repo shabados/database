@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਆਪਣੇ ਭਗਤ ਦੀ ਰੱਖਿਆ ਕਰ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਿ = ਉੱਤੇ ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

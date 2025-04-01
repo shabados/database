@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹਉਮੈ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੇ (ਆਤਮਕ) ਰੋਗ ਬਹੁਤ ਚੰਦਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਰੇ = ਬਹੁਤ ਭੈੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

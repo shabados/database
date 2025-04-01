@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਨੇ) ਅਟੱਲ ਨਾਮ ਵਾਲੇ ਪੂਰਨ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਾ = ਮੁਕੰਮਲ, ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਪੂਰਾ ਜਾ ਕਾ ਨਾਉ = ਜਿਸ ਦਾ ਨਾਮ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਅਟੱਲ ਨਾਮ ਵਾਲਾ। ਆਰਾਧਿਆ = (ਜਿਸ ਮਨੁੱਖ ਨੇ) ਸਿਮਰਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

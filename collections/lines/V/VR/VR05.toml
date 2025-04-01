@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਇਸ ਤਰੀਕੇ ਨਾਲ ਕੋਈ ਮਨੁੱਖ ਕਦੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਨਹੀਂ ਲੰਘਿਆ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤ = ਹੇ ਮਿੱਤਰ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

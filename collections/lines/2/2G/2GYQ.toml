@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਸਰੀਰ ਵਿਚ ਪ੍ਰਭੂ ਆਪ ਹੀ ਵੱਸਦਾ ਹੈ, ਪਰ ਉਹ ਅਦ੍ਰਿਸ਼ਟ ਹੈ (ਸਧਾਰਨ ਤੌਰ ਤੇ) ਵੇਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = (ਪ੍ਰਭੂ) ਆਪ ਹੀ। ਅਲਖੁ = ਅਦ੍ਰਿਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

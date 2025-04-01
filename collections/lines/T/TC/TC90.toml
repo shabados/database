@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਗੁਣ (-ਰੂਪ) ਹੈ, ਆਪ ਹੀ ਗੁਣ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣਕਾਰੀ = ਗੁਣ ਪੈਦਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

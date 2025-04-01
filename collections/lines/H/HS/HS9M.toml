@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਪਰਜਾ ਉਸ ਸਦਕਾ ਪ੍ਰਸੰਨ ਹੈ ਅਤੇ ਦੇਸ਼ ਸੁਖੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੱਯਅਤ ਖ਼ੁਸ਼ੋ ਮਮਲਕਤ ਸ਼ਾਦ ਅਜ਼ੋ ।੯੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

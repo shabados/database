@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਸੇ ਮਨੁੱਖ ਨੂੰ ਇਹ ਨਾਮ-ਦਵਾਈ ਮਿਲਦੀ ਹੈ, ਜਿਸ ਦੇ ਭਾਗਾਂ ਵਿਚ ਇਸ ਦਾ ਮਿਲਣਾ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਪਤਿ ਹੋਇ = ਭਾਗਾਂ ਅਨੁਸਾਰ ਮਿਲਣਾ ਹੋਵੇ। ਤਿਸੈ ਹੀ = ਉਸੇ ਨੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

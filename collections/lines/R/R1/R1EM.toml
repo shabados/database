@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕ ਤੇ ਪਰਲੋਕ ਦੋਵੇਂ ਸੁਧਾਰ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤੁ = {Skt. अत्र} ਇਹ ਲੋਕ। ਪਲਤੁ = {Skt. परत्र} ਪਰਲੋਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

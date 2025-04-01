@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਪੂਰਨ ਪਰਮੇਸਰ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਤੇਰੀ ਹਸਤੀ ਦਾ ਅੰਤ ਉਰਲਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸੁਰ = ਹੇ ਪਰਮੇਸਰ! ਪਾਰਾਵਾਰਾ = ਪਾਰ-ਅਵਾਰ, ਪਾਰਲਾ ਉਰਲਾ ਬੰਨਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

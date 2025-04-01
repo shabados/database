@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਬੋਲਾਂ ਦਾ ਰੂਪ ਕੁਝ ਅਜੇਹਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਲਾਲਿ ਮਕਾਲਿਸ਼ ਚੁਨਾਂ ਆਮਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

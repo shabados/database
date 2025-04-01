@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਗਲ, (ਜੰਗਲ ਦਾ) ਘਾਹ, ਤਿੰਨੇ ਭਵਨ, ਪਾਣੀ (ਆਦਿਕ ਸਾਰੇ ਤੱਤ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣੁ = ਜੰਗਲ। ਤ੍ਰਿਣੁ = ਤੀਲਾ, ਘਾਹ। ਤ੍ਰਿਭਵਣ = ਤਿੰਨੇ ਭਵਨ {ਆਕਾਸ਼, ਮਾਤਲੋਕ, ਪਾਤਾਲ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

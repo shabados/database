@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖਾਂ ਨਾਲ ਵੇਖ! ਨਾਹ ਸੂਰਮੇ, ਨਾਹ ਜੋਧੇ, ਨਾਹ ਮੀਰ, ਨਾਹ ਸਿਰਦਾਰ, ਕੋਈ ਭੀ ਸਾਥੀ ਨਹੀਂ (ਬਣਨੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਮੇ। ਬੀਰ = ਜੋਧੇ। ਮੀਰ = ਪਾਤਸ਼ਾਹ। ਖਾਨਮ = ਖਾਨ, ਸਿਰਦਾਰ। ਸੰਗਿ = ਸੰਗੀ, ਸਾਥੀ। ਦ੍ਰਿਸਟਿ = ਅੱਖਾਂ ਨਾਲ। ਨਿਹਾਰਹੁ = ਵੇਖੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਵੀਰ! ਆਪਣੇ ਅੰਦਰੋਂ) ਅਹੰਕਾਰ ਦੂਰ ਕਰ ਕੇ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਮੁਕਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਾਦਸ਼ਾਹੀ ਕਿਸ ਕੰਮ, ਜਿਹੜੀ ਬਿਅਰਥ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹੀਂ ਚੀਸਤ ਕਾਂ ਨਾਹੱਕ ਬਵਦ ।੨੦੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

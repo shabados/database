@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਇਸ ਮਾਇਆ-ਵੇੜ੍ਹੀ ਦੁਨੀਆ ਵਿਚ ਲੱਭਣਾ ਔਖਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ ਦੁਨੀ = ਕਲਿਜੁਗੀ ਦੁਨੀਆ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

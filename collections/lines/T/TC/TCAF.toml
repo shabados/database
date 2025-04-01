@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੂਰਖ)! (ਮਾਇਆ ਵਾਲੀ) ਕੋਝੀ ਖੱਟੀ ਖੱਟ ਕੇ ਤੂੰ ਕੀਹ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਕਰਹਿ = ਤੂੰ ਕੀਹ ਕਰਦਾ ਹੈਂ? ਰੇ = ਹੇ ਭਾਈ! ਖਾਟਿ = ਖੱਟ ਕੇ। ਖਾਟੁਲੀ = (ਮਾਇਆ ਦੀ) ਕੋਝੀ ਖੱਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

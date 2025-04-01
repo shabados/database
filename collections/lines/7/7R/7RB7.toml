@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਰਬਾਰ ਵਿਚ ਸੰਤ ਜਨ ਪਰਤੱਖ ਤੌਰ 'ਤੇ ਸੋਭਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਥੈ = ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰਬਾਰ ਵਿਚ। ਸੋਹਨਿ = ਸੋਭਦੇ ਹਨ। ਪਰਵਾਣੁ = ਪਰਤੱਖ ਤੌਰ 'ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

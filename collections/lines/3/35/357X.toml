@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਮ ਦੀ ਫ਼ੌਜ ਨੇ ਆਖ਼ਰ) ਸਰੀਰ-ਮਠ ਢਾਹ ਕੇ ਮੰਦਰ ਲੁੱਟ ਲਿਆ, ਜੀਵ-ਇਸਤ੍ਰੀ ਇਕੱਲੀ ਹੀ ਫੜੀ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੁਰਾ = ਮੰਦਰ। ਏਕ ਜਨਾ = ਇਕੱਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

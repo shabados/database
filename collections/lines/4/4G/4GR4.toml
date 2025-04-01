@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਬੰਦਿਆਂ ਤੋਂ ਸਦਾ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ਜੋ ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਾ = ਗੱਲਾਂ।ਜਿ = ਜੋ ਮਨੁੱਖ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

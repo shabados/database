@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਪਪੀਹਾ (-ਜੀਵ) ਪਸ਼ੂ (-ਸੁਭਾਉ) ਹੈ, ਇਸ ਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝਣੁ = ਸਮਝ। ਇਸ ਨੋ = (ਸੰਬੰਧਕ 'ਨੋ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਇਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

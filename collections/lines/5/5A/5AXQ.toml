@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਿਜਲੀ ਦੀ ਲਿਸ਼ਕ (ਵਾਂਗ) ਦੁਨੀਆ (ਦੀ ਚਮਕ) ਬਹੁਤ ਹੈ ਪਰ ਹੈ ਨਾਸ ਹੋ ਜਾਣ ਵਾਲੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਲਿਮਿਲਿ = ਬਿਜਲੀ ਦੀ ਲਿਸ਼ਕ। ਬਿਸੀਆਰ = ਬਹੁਤ। ਫਾਨੀ = ਫ਼ਾਨੀ, ਨਾਸ ਹੋਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

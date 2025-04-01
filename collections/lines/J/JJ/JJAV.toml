@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਵਿਕਾਰੀ ਹਾਂ, ਬੇ-ਤਰਸ ਹਾਂ, ਨੀਵੀਂ ਕੁਲ ਵਾਲਾ ਹਾਂ, ਮੋਹ ਦਾ ਚਿੱਕੜ ਮੇਰੇ ਉਤੇ ਆਪਣਾ ਦਬਾਉ ਪਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਠ = ਵਿਕਾਰੀ। ਕਠੋਰੁ = ਕਰੜੇ ਹਿਰਦੇ ਵਾਲਾ {ਕਾਠ-ਉਰ}। ਕੀਚੁ = ਚਿੱਕੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

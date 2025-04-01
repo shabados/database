@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਸਾਧ ਸੰਗਤਿ ਧਿਆਉਂਦੀ ਹੈ, ਤੇਰੇ ਦਰਸਨ ਦਾ ਧਿਆਨ ਧਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

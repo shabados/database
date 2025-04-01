@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਾਰ ਵੇਦ, ਚਾਰ ਹੀ ਖਾਣੀਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰੇ ਖਾਣੀ = ਚਾਰ ਹੀ ਖਾਣੀਆਂ, ਚਾਰੇ ਹੀ ਉਤਪੱਤੀ ਦੇ ਵਸੀਲੇ {ਅੰਡਜ, ਜੇਰਜ, ਉਤਭੁਜ, ਸੇਤਜ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

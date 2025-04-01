@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੋਹਨ-ਪ੍ਰਭੂ ਦਾ ਨਾਮ, ਜੋ ਸਦਾ ਹਰ ਥਾਂ ਵਿਆਪ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨ ਨਾਮੁ = ਮੋਹਨ ਦਾ ਨਾਮ। ਰਵਿ ਰਹਿਓ = ਵਿਆਪਕ ਹੈ, ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਹੁਣ ਮੈਂ (ਮਾਇਆ ਦੇ ਹੱਥਾਂ ਤੇ) ਨੱਚਣੋਂ ਹਟ ਗਿਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਨਾਚਨੋ = ਮਾਇਆ ਦੇ ਹੱਥਾਂ ਉੱਤੇ ਨੱਚਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

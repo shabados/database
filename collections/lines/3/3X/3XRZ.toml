@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਹੋਛੀ ਭਗਤੀ ਨਾਲ (ਜੋ ਤੂੰ ਕਰ ਰਿਹਾ ਹੈਂ) ਕਿਵੇਂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘੇਂਗਾ? ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਛੀ = ਹੋਛੀ, ਅਧੂਰੀ। ਕੈਸੇ = ਕਿਸ ਤਰ੍ਹਾਂ? ਉਤਰਸਿ = ਤੂੰ ਉਤਰੇਂਗਾ। ਪਾਰੀ = ਪਾਰ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

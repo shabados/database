@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਆਪਣਾ ਪਵਿੱਤਰ ਉਪਦੇਸ਼ ਬਖ਼ਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ ਮੰਤੁ = ਪਵਿੱਤਰ ਉਪਦੇਸ਼। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

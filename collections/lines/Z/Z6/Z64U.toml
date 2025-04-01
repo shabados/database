@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਦੂਰ ਕਰਨ ਵਾਲੇ ਹਰੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵ ਹਰਣ = ਹੇ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਹਰੇ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

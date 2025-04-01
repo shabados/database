@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਮਨੁੱਖ ਸਾਰੇ ਡਰ ਸਾਰੀਆਂ ਭਟਕਣਾ ਮਿਟਾ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

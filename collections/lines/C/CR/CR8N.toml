@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਹਿਲੇ ਕਾਰਣ ਇਹ ਜਹਾਨ ਸੱਚ ਦਾ ਪਰਦਰਸ਼ਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਅੱਵਲ ਜਹਾਂ ਰਾ ਸ਼ੁਦਾ ਹੱਕ ਨੁਮਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

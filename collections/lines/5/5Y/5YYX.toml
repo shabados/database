@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਮੋਹ-) ਠੱਗ ਨੂੰ ਕਾਬੂ ਕੀਤਿਆਂ ਮੇਰਾ ਮਨ ਇਕ ਟਿਕਾਣੇ ਤੇ ਆ ਗਿਆ ਹੈ ॥੧੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਉਰ = ਟਿਕਾਣੇ ਤੇ ॥੧੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

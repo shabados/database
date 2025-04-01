@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਧਨ ਪਦਾਰਥ ਦੀ (ਖ਼ਾਤਰ) ਮੇਹਨਤ ਵਿਚ ਜੁੱਟੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਮ = ਮੇਹਨਤ। ਮਾਇਆ = ਧਨ-ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

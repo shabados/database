@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਕਿਸੇ ਜੀਵ ਨੇ ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅਖ਼ੀਰ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੇ = ਹੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

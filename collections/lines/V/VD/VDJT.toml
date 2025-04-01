@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਭੀ ਬਿਪਤਾ ਤੋਂ) ਸੰਤ ਨੂੰ ਮੈਂ ਤੁਰਤ ਉਸੇ ਵੇਲੇ ਬਚਾ ਲੈਂਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਾਰਉ = ਉਧਾਰਉਂ, ਮੈਂ ਬਚਾ ਲੈਂਦਾ ਹਾਂ। ਤਤਕਾਲਿ = ਉਸੇ ਵੇਲੇ। ਤਾਲਿ = ਤਾਲੀ ਵੱਜਣ ਜਿਤਨੇ ਸਮੇ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

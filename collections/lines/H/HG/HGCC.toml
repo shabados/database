@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਿਰ ਮੁਨਾਂਦੇ ਨਹੀਂ ਹਨ; ਹੱਥਾਂ ਨਾਲ ਸਿਰ (ਦੇ ਵਾਲ) ਪੁੱਟ ਲੈਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਦੁ = ਸਿਰ ਮੁਨਾਣਾ। ਹਥੀ = ਹਥੀਂ, ਹੱਥਾਂ ਨਾਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

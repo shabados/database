@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਭਾਲ ਵਿਚ ਰੁੱਝ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਿ ਪਰੈ = ਭਾਲ ਵਿਚ ਰੁੱਝ ਜਾਏ। ਜਉ = ਜੇ। ਖੋਜੈ = ਲੱਭ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

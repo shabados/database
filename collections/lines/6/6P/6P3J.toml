@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਪਪੀਹਾ 'ਪ੍ਰਿਉ ਪ੍ਰਿਉ' ਬੋਲਦਾ ਹੈ ਜਿਵੇਂ ਕੋਇਲ ('ਕੂ ਕੂ' ਦੀ ਮਿੱਠੀ) ਬੋਲੀ ਬੋਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬੀਹਾ = ਪਪੀਹਾ, ਚਾਤ੍ਰਿਕ। ਬਾਣੀਆ = ਮਿੱਠਾ ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

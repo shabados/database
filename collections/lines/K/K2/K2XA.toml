@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਨਿੱਕੇ ਜਿਹੇ ਸੇਵਕ ਨੂੰ ਭੀ ਕਿਸੇ ਦੀ ਮੁਥਾਜੀ ਨਹੀਂ ਰਹਿੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਰਾ = ਸੇਵਕ, ਗ਼ਰੀਬ ਜਿਹਾ ਸੇਵਕ। ਕਾਣਿ = ਮੁਥਾਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

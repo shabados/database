@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੇਰਾ ਆਸਰਾ ਹੈ ਉਸ ਉਤੇ ਆਤਮਕ ਮੌਤ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲੁ = ਮੌਤ, ਆਤਮਕ ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

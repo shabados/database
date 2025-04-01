@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ ਪ੍ਰਭੂ! ਮੇਰੀ ਅਰਜ਼ੋਈ ਸੁਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = {विनय} ਬੇਨਤੀ। ਮੀਤਾ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

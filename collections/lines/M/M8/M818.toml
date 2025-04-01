@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਤੇਰੀ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਬਣੀ ਰਹੇਗੀ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = {अत्र} ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = {परत्र} ਪਰਲੋਕ ਵਿਚ। ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਬਹਾਰ ਦੀ ਫਸਲ ਦੇ ਭਰਵੱਟਿਓ # ਤੁਹਾਡੀ ਆਮਦ ਦੀ ਕਿਰਪਾ ਸਦਕਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ ਫ਼ੈਜ਼ਿ ਮਕਦਮਤ ਐ ਅਬਰੂਇ ਫ਼ਸਲਿ ਬਹਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

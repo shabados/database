@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੰਗਾਂ ਜੋਧਿਆਂ ਦੇ ਮੈਦਾਨ ਵਿਚ ਉਹ ਉਹ ਸ਼ਾਹਸਵਾਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਮੈਦਾਨਿ ਜੰਗ ਆਵਰੀ ਸ਼ਹਿਸਵਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

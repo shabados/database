@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! (ਮੇਰੀ) ਬੇਨਤੀ ਸੁਣ (ਤੇਰਾ ਦਾਸ) ਨਾਨਕ (ਤੇਰੇ ਦਰ ਤੋਂ) ਇਹ ਸੁਖ ਮੰਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ ਅਪੁਨੇ = ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਨਾਨਕੁ ਮਾਗੈ = ਨਾਨਕ ਮੰਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

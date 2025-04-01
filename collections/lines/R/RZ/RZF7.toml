@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਿਚ ਸੁਰਤ ਜੋੜਨੀ ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਕੰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਨ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਧੁਨਾ = ਲਗਨ, ਸੁਰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਹ ਪਤੀ ਪਰਮਾਤਮਾ ਮਿਲ ਜਾਵੇ ਤਾਂ ਜਿੰਦ ਦੀ ਤਾਂਘ ਪੂਰੀ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੀ = ਜਿੰਦ ਦੀ। ਲੋਚਾ = ਤਾਂਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

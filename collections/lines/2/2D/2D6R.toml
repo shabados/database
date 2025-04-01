@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮ ਪੁਸਤਕਾਂ ਅਨੁਸਾਰ ਜੀਵਨ ਬਣਾਈਏ (-ਇਹ ਹੋਵੇ ਤੇਲ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਈਐ = ਕਮਾਈ ਕਰੀਏ, ਜੀਵਨ ਬਣਾਈਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

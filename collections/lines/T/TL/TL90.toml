@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੋਤੀ ਹੀਰਿਆਂ ਨਾਲ ਜੁੜੇ ਹੋਏ ਸੋਨੇ ਦੇ ਘਰ ਹੋਣ ਜਿਨ੍ਹਾਂ ਵਿਚ ਚੰਦਨ ਦੀ ਸੁਗੰਧੀ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹ ਸੋਇਨ = ਸੋਨੇ ਦੇ ਘਰ। ਸੁਗੰਧ = ਖ਼ੁਸ਼ਬੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

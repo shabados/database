@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਸਾਧੂ ਬਣ ਕੇ ਸੀਤਾ (ਚੁਰਾ) ਲਿਆਂਦੀ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਉਰੂ ਵਾਇ = ਡਉਰੂ ਵਜਾ ਕੇ, ਸਾਧੂ ਦਾ ਭੇਸ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

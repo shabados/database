@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਅਸਾਡੇ ਝਗੜੇ ਤੇ ਕਲੇਸ਼ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ ਉਸ ਨੂੰ ਯਾਦ ਕਰ, ਉਹ ਤੈਥੋਂ ਦੂਰ ਨਹੀਂ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ = ਝਗੜੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

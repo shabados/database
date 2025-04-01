@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਦਨ ਦਾ ਰੁੱਖ ਤਦੋਂ ਤਕ ਚੰਦਨ ਹੈ ਜਦ ਤਕ ਵਿਚ ਚੰਦਨ ਦੀ ਸੁਗੰਧੀ ਹੈ (ਸੁਗੰਧੀ ਤੋਂ ਬਿਨਾ ਇਹ ਸਾਧਾਰਨ ਲੱਕੜੀ ਹੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਦਨ ਵਾਸੁ = ਚੰਦਨ ਦੀ ਸੁਗੰਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

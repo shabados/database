@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕਰਾਮਾਤ ਅਤੇ ਵਕਾਰ ਦੇ ਤੇਜ ਦਾ ਮੋਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਹਰ ਤਾਜਿ ਇਹਜਾਜ਼ੋ ਤੌਕੀਰ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

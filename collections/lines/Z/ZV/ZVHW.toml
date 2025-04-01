@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਠਾਕੁਰ! ਇਹ ਤੇਰਾ ਹੀ ਚੋਜ ਹੈ ਜਿਵੇਂ) ਜੀਵ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਰਹਿੰਦਾ ਹੋਇਆ ਤੇਰੇ ਨਾਮ ਦੇ ਆਸਰੇ ਜੀਊਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਨਿ = ਮਾਂ। ਜਠਰ = ਪੇਟ। ਅਧਾਰਿ = ਆਸਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਰਾਹ ਤੇ ਚਲਣ ਵਾਲੇ ਪਾਣਧੀ ਦਾ ਪਹਿਲਾ ਕਦਮ ਤਾਣ ਸੂਲੀ ਉਤੇ ਹੂੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕੁਜਾ ਜਾਮਿ ਮੁਹੱਬਤ ਦੀਦਾਅਮ ਸਰਸ਼ਾਰ ਹਸਤ ।੬।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

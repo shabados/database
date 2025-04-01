@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਗੁਰੂ ਨੂੰ ਮਿਲਿਆਂ (ਮਨ ਵਿਚੋਂ) ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਭੇਟਤੁ = ਜਿਸ (ਗੁਰੂ) ਨੂੰ ਮਿਲਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

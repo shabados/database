@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ-ਹੁਦਰਾ ਮਨੁੱਖ (ਮਾਨੋ) ਉਲਟਾ ਕਉਲ-ਫੁੱਲ ਹੈ, ਇਸ ਵਿਚ ਨਾ ਭਗਤੀ ਹੈ ਤੇ ਨਾ ਸਿਮਰਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਧਾ = ਉਲਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

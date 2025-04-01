@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਕਰਤਾਰ ਆਪ ਹੀ (ਸਭ ਕੁਝ) ਕਰਦਾ ਹੈ, ਆਪ ਹੀ (ਜੀਵਾਂ ਪਾਸੋਂ) ਕਰਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = (ਪ੍ਰਭੂ) ਆਪ ਹੀ। ਕਰਤਾ = ਕਰਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

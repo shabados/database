@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਮੇਰੀ (ਸੋਹਣੀ) ਸ਼ਕਲ ਹੈ, ਨਾਹ ਮੇਰੀਆਂ ਸੋਹਣੀਆਂ ਅੱਖਾਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੇਰਾ। ਬੰਕੇ = ਬਾਂਕੇ, ਸੋਹਣੇ। ਨੈਣਾ = ਨੇਤਰ, ਅੱਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

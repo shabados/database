@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਗੋਯਾ # ਹਮੇਸ਼ਾ ਰੱਬ ਦੇ ਪਿਆਰਿਆਣ ਦੀ ਸੰਗਤ ਦੀ ਭਾਲ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੇਸ਼ਾ ਸੁਹਬਤਿ ਮਰਦਾਨਿ ਹੱਕ ਤਲਬ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

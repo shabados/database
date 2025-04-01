@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਹੇ ਸਾਰੇ ਪ੍ਰਾਣੀਆਂ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਅੰਦਰ ਦੀ ਜਾਣਨ ਵਾਲਾ, ਦਿਲ ਦੀ ਬੁੱਝਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਪਰਮਾਤਮਾ ਨਿਰੀਆਂ ਧਾਰਮਿਕ ਰਸਮਾਂ ਨਾਲ ਵੱਸ ਵਿਚ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰੀ = ਧਾਰਮਿਕ ਰਸਮਾਂ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

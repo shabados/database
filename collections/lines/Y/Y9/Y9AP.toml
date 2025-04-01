@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹਰੇਕ ਥਾਂ ਵਿਚ ਇਕ ਤੂੰ ਹੀ ਤੂੰ ਮੌਜੂਦ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ, ਹਰੇਕ ਥਾਂ ਵਿਚ। ਰਵਿਆ = ਵਿਆਪਕ, ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਜੀਅ ਜੰਤ ਬਣਾ ਦਿੱਤੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਾ ਪ੍ਰਕਾਰ = ਕਈ ਕਿਸਮ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕਿਸੇ ਪੱਥਰ ਉੱਤੇ ਬਹੁਤ ਸਾਰਾ ਪਾਣੀ ਸੁਟਾਇਆ ਜਾਏ, (ਤਾਂ ਭੀ ਉਹ ਪੱਥਰ ਅੰਦਰੋਂ) ਭਿੱਜਦਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਨੀਰੁ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

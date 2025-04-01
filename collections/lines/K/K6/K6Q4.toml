@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਕ ਸਾਲ ਫਿਰਦਾ ਰਿਹਾ ਹਾਂ, ਕਿਸੇ ਨੇ ਮੇਰੀ ਨਿਸ਼ਾ ਨਹੀਂ ਕੀਤੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਹੁ = ਨਹੀਂ। ਪਰਚਉ = ਤਸੱਲੀ। ਕਿਨੈ...ਲਾਯਉ = ਕਿਸੇ ਨੇ ਮੇਰੀ ਨਿਸ਼ਾ ਨਹੀਂ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

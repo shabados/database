@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ ਤੇ ਮਨੁੱਖਾ-ਜਨਮ (ਦੀ) ਅਪਾਰ (ਬਾਜ਼ੀ) ਜਿੱਤ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤਾ = ਜਿੱਤ ਲਿਆ। ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

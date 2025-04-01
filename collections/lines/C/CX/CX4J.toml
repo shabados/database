@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਹਰੇਕ ਦੁੱਖ-ਦਰਦ ਮੇਰਾ ਹਰੇਕ ਰੋਗ ਸਭ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇ = ਹੇ ਮਾਂ! ਮੈਡਾ = ਮੇਰਾ। ਹਭੁ = ਸਾਰਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

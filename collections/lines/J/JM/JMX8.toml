@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਬੰਦਗੀ ਕਰਨ ਵਾਲੇ ਨੂੰ ਇਹ ਨਿਸ਼ਚਾ ਹੁੰਦਾ ਹੈ ਕਿ) ਨਾਹ ਕਿਸੇ ਦਾ ਕੁਝ ਸੜਦਾ ਹੈ, ਤੇ ਨਾਹ ਕਿਸੇ ਦਾ ਕੋਈ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾ ਕੋ = ਕਿਸ ਦਾ ਕੁਝ? ਕਾਹਿ = ਕਿਸ ਦਾ? ਹਾਨਿ = ਹਾਨੀ, ਨੁਕਸਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਗਾਂ ਵਾਲੇ ਹਨ ਉਹ ਮਨੁੱਖ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਹਰੀ ਦਇਆਵਾਨ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਭਾਗਾਂ ਵਾਲੇ। ਜਿਹ = ਜਿਨ੍ਹਾਂ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

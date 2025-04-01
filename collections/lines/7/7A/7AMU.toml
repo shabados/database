@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਮਹੱਤਤਾ (ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਿਆਈ = ਮਹੱਤਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

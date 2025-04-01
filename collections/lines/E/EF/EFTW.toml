@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਰਹਿਣ ਵਾਲੇ ਜ਼ਰੂਰ (ਮਨੁੱਖਾ ਜਨਮ ਦੀ ਬਾਜ਼ੀ) ਹਾਰ ਕੇ ਜਾਂਦੇ ਹਨ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਰਿਆ = (ਜੀਵਨ-ਬਾਜ਼ੀ) ਹਾਰਦੇ ਹਨ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

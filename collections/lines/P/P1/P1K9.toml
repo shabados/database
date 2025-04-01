@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ (ਮਨੁੱਖਾਂ ਦੇ ਸਾਰੇ) ਡਰ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ = ਨਾਮ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

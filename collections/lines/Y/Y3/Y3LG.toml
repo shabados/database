@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੋ ਜਿਹੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਜਨਮਾਂ ਵਿਚ ਆ ਚੁਕੇ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਰੰਗਾ = ਬਹੁਤ ਕਿਸਮਾਂ ਦੇ। ਕੀਏ = ਅਸਾਂ ਕੀਤੇ, ਅਸਾਂ ਧਾਰੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

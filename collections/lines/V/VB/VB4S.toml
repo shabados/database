@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਤੋਂ ਪੈਦਾ ਹੋਇਆ ਇਹ ਮੇਰਾ ਸਾਰੀ ਉਮਰ ਦਾ ਦੁੱਖ ਦੂਰ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਥਿ = ਮਾਇਆ। ਜਨਮ ਮਰਨ ਦੁਖੁ = ਜਨਮ ਤੋਂ ਲੈ ਕੇ ਮਰਨ ਤਕ ਦਾ ਦੁੱਖ, ਸਾਰੀ ਉਮਰ ਦਾ ਦੁੱਖ। ਧੀਰ = ਮੱਠਾ ਕਰ, ਹਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

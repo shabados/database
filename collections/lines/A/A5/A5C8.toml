@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਉਸ ਦੀ ਯਾਦ ਵਿਚ ਦਿਨ ਰਾਤ ਮਸਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਕਿ ਰੂਜ਼ੋ ਸ਼ਬ ਬ-ਯਾਦਸ਼ ਮੁਬਤਲਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਦਾਤੇ ਪ੍ਰਭੂ! ਹੇ ਦਇਆ ਦੇ ਘਰ ਅਕਾਲ ਪੁਰਖ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

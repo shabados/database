@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਦਿਲ ਦੀ ਖੇਤੀ ਦੀ ਸੈਰ ਕਰ, ਗਿਆਨ ਦਾ ਦਾਨਾ ਇਸੇ ਵਿਚ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੈਰ ਕੁਨ ਦਰ ਕਿਸ਼ਤਿ ਦਿਲ ਈਂ ਦਾਨਾ ਹਸਤ ।੪੨੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

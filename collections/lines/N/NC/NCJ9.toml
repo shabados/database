@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਨਾਮ ਵਿਸਾਰ ਕੇ ਹੋਰ ਹੋਰ ਧਾਰਮਿਕ ਰਸਮਾਂ ਨਾਹ ਭਾਲਦਾ ਫਿਰ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਰਿ = {ਲਫ਼ਜ਼ 'ਹੋਰ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਭਾਲਿ = ਲੱਭ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

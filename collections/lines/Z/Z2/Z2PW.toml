@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ) ਆਪ ਤਾਂ ਠੱਗਿਆ ਜਾ ਹੀ ਰਿਹਾ ਹੈ, ਆਪਣੇ ਸਾਥ ਨੂੰ ਭੀ ਲੁਟਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਠਾ = ਠੱਗਿਆ। ਮੁਹਾਏ = ਲੁਟਾਂਦਾ ਹੈ, ਠਗਾਂਦਾ ਹੈ। ਸਾਥੈ = ਸਾਥ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

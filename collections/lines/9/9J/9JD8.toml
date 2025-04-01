@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣਾ ਦਰਸਨ ਬਖ਼ਸ਼ਦਾ ਹੈ, ਕੰਨਾਂ ਵਿਚ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇਂਦਾ ਹੈ, ਜੀਭ ਨੂੰ ਆਪਣੇ ਨਾਮ ਦਾ ਉਚਾਰਨ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਤ = ਦੇਂਦਾ ਹੈ। ਸ੍ਰਵਨ = ਕੰਨ। ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਰਸਨ = ਜੀਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

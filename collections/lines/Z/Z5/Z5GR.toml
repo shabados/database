@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰੇ ਮਨ-ਚਿੱਤ ਵਿਚ ਸਿਰਫ਼ ਇਹ ਸਹਾਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਆਸਰਾ। ਮਨਿ ਚੀਤਿ = ਮਨ-ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

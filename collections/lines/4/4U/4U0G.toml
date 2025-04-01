@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਜੀਵਾਤਮਾ-ਪਤੀ ਕਾਇਆਂ-ਇਸਤ੍ਰੀ ਨੂੰ ਆਖਦਾ ਹੈ ਉਹ ਤੁਰਤ ਮੰਨਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰੁ = (ਕਾਇਆਂ-ਇਸਤ੍ਰੀ ਦਾ) ਖਸਮ, ਜੀਵਾਤਮਾ। ਧਨ = ਇਸਤ੍ਰੀ, ਕਾਇਆਂ। ਤਤੁ = ਤੁਰਤ। ਮਾਨੇ = ਮੰਨਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

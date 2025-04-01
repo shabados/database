@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਦੇਣ ਵਾਲੇ! ਜਿਨ੍ਹਾਂ ਉਤੇ ਤੂੰ ਮਿਹਰ ਕਰਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਕੀਤੀ। ਜਿਨ ਕਉ = ਜਿਨ੍ਹਾਂ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

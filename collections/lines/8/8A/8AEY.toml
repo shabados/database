@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਧਿਆਨ ਧਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਬਚਨਿ = ਦੇ ਬਚਨ ਦੀ ਰਾਹੀਂ। ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਧਾਰੀ = ਧਾਰੀਂ, ਮੈਂ ਧਾਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

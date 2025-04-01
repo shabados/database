@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਹੇ ਪ੍ਰਭੂ! ਉਹ ਕੰਨ ਸੋਹਣੇ ਹਨ ਚੰਗੇ ਹਨ ਜੇਹੜੇ ਤੇਰੇ ਕੀਰਤਨ ਸੁਣਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = {ਬਹੁ-ਵਚਨ} ਉਹ। ਸ੍ਰਵਨ = ਕੰਨ। ਹਹਿ = ਹਨ। ਸੁਣਹਿ = ਸੁਣਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

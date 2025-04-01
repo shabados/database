@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ (ਮੈਨੂੰ ਚਮਾਰ ਚਮਾਰ ਆਖਣ ਵਾਲੇ ਇਹ) ਲੋਕ ਮੇਰਾ ਕੁਝ ਭੀ ਵਿਗਾੜ ਨਹੀਂ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਕਰੈ = ਕੁਝ ਵਿਗਾੜ ਨਹੀਂ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

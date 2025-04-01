@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਣ ਦੀ ਤਾਂਘ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ! ਕਉ = ਨੂੰ। ਆਹਿ = ਤਾਂਘ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

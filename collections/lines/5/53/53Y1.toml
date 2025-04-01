@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪ ਦੇ) ਖੱਬੇ ਅੰਗ ਵਿਚ ਰਿੱਧੀ ਵੱਸ ਰਹੀ ਹੈ, ਜੋ ਤਿੰਨਾਂ ਲੋਕਾਂ ਨੂੰ ਮੋਂਹਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਂਵਾਂਗਿ = ਖੱਬੇ ਅੰਗ ਵਿਚ। ਤੀਨਿ ਲੋਕਾਂਤਰ = ਤਿੰਨ ਲੋਕਾਂ ਨੂੰ। ਮੋਹੈ = ਮੋਹ ਰਹੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

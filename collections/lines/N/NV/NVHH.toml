@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਵੇਂ ਹੀ) ਹੇ ਸਖੀ! ਜੇ ਮੈਨੂੰ ਸੌ ਭੋਜਨ ਭੀ ਦਿੱਤੇ ਜਾਣ, ਤਾਂ ਭੀ ਮੇਰੇ ਅੰਦਰ (ਵੱਸਦੀ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਦੀ) ਭੁੱਖ ਲਹਿ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮਾਲੀ = ਹੇ ਸਖੀ! ਹੇ ਸਹੇਲੀ! ਭੋਜਨ = ਖਾਣੇ। ਮੈ = ਮੇਰੇ ਅੱਗੇ। ਨੀਰੇ = ਪ੍ਰੋਸੇ ਜਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

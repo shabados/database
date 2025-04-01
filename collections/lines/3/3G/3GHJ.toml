@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗ੍ਰਿਹਸਤ ਤਿਆਗ ਕੇ ਜੰਗਲਾਂ ਵਿਚ ਚਲੇ ਜਾਈਏ, ਤੇ ਗਾਜਰ ਮੂਲੀ ਆਦਿਕ ਖਾ ਕੇ ਗੁਜ਼ਾਰਾ ਕਰੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹੁ = ਘਰ, ਗ੍ਰਿਹਸਤ। ਤਜਿ = ਤਿਆਗ ਕੇ। ਬਨਖੰਡ = ਜੰਗਲਾਂ ਵਿਚ। ਕੰਦਾ = ਗਾਜਰ ਆਦਿਕ ਧਰਤੀ ਵਿਚ ਉੱਗਣ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

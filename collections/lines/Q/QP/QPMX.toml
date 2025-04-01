@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਸਾਰੇ ਪਾਪ ਤੇ ਦੁੱਖ ਦੂਰ ਹੋ ਗਏ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਵਿਖ = ਪਾਪ। ਸਗਲੇ = ਸਾਰੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

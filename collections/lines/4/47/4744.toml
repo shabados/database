@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਉਸਦੀ ਸਿਫਤ ਸਨਾਹ ਹਿਸਾਬੋਂ ਬਾਹਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂ ਤੌਸੀਫ਼ਸ਼ ਆਮਦ ਫ਼ਜ਼ੂੰ ਅਜ਼ ਹਿਸਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

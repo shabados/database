@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਨੇ ਇਉਂ ਸਮਝਿਆ ਹੈ ਕਿ ਆਪਣੀ ਕਿਸੇ ਔਖਿਆਈ ਬਾਰੇ) ਕਿਸੇ ਹੋਰ ਪ੍ਰਾਣੀਆਂ ਨੂੰ ਦੋਸ ਨਹੀਂ ਦੇਣਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੂ ਲੋਗ = ਕਿਸੇ ਪ੍ਰਾਣੀ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

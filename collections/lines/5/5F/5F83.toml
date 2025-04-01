@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਦੀ ਪ੍ਰਾਪਤੀ ਰੱਬ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਏਸ਼ਾਣ ਬਵਦ ਲੁਤਫ਼ਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

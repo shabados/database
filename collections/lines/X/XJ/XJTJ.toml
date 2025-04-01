@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਨੂੰ ਭੁੰਞੇ ਸੌਣਾ ਪੈਂਦਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਮੰਜੇ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਥਰੁ = ਭੁੰਞੇ, ਸੱਥਰ। ਖਾਟ = ਮੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

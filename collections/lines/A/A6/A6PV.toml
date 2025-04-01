@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਰੱਬ ਤੱਕ ਪਹੁੰਚਾਉਣ ਵਾਲਾ ਉਨ੍ਹਾਣ ਤੋਣ ਬਗੈਰ ਹੋਰ ਕੋਈ ਨਹੀਣ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰਚਿਹ ਯਾਰੀ-ਦਿਹ ਨ ਗ਼ੈਰ ਅਜ਼ ਸਾਲਕੇ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

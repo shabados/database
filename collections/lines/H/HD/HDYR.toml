@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਸਾਨੂੰ ਜੀਵਾਂ ਨੂੰ) ਸਭ ਕੁਝ ਦਿੱਤਾ ਹੋਇਆ ਹੈ, ਚੰਗੀਆਂ ਥਾਵਾਂ ਦਿੱਤੀਆਂ ਹੋਈਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੀਆ = ਚੰਗੀਆਂ। ਜਾਈ = ਥਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

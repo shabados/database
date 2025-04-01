@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਪਾਣੀ ਪਾਣੀ ਵਿਚ ਮਿਲ ਕੇ ਇਕ-ਰੂਪ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਜਲਹਿ = ਜਲ ਵਿਚ। ਖਟਾਨਾ = ਇੱਕ-ਰੂਪ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

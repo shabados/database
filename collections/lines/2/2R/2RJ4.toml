@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਅਕਾਲ ਪੁਰਖ ਆਪ ਬ੍ਰਹਮਗਿਆਨੀ (ਦਾ ਰੂਪ) ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸੁਰ = ਪਰਮਾਤਮਾ, ਅਕਾਲ ਪੁਰਖ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

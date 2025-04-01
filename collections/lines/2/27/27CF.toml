@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਲ ਵਿਚ ਬੇਅਦਬ ਨੂੰ ਆਪਣੀ ਕਰਣੀ ਦਾ ਫਲ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਕੀਕਤ ਬੇ-ਅਦਬ ਯਾਬਦ ਸਜ਼ਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

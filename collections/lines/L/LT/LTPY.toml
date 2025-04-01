@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਲਈ ਸੁੱਚਾ ਸ੍ਰੇਸ਼ਟ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ ਚਾਰੇ = ਸਦਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

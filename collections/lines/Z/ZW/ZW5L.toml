@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਕਾਅਬੇ ਤੇ ਮੰਦਿਰ ਦੋਹਾਣ ਥਾਵਾਣ ਦੀ ਪਰਕਰਮਾ ਕੀਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਗਿਰਦਿ ਕਾਬਾ ਓ ਬੁਤਖ਼ਾਨਾ, ਹਰ ਦੋ ਗਰਦੀਦਮ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੋ ਕੇ) ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਰਸ ਮਾਣਨ ਵਾਲਾ ਤੇ ਭੋਗ ਭੋਗਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸੀਆ = ਰਸ-ਆਨੰਦ ਮਾਣਨ ਵਾਲਾ। ਭੋਗੀ = ਪਦਾਰਥਾਂ ਨੂੰ ਭੋਗਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

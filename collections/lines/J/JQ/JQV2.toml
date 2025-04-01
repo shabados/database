@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਭਾਲ ਕਰਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀਹੋ = ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਧੂ ਸੰਗੇ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

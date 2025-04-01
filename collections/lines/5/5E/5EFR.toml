@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿਰਦੇ ਵਿਚ ਸੁਖ ਹੈ, ਜਿੰਦ ਖਿੜੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਜ = ਹਿਰਦਾ। ਬਿਗਸੈ = ਖਿੜ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

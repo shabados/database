@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ (ਆਤਮਕ ਅਡੋਲਤਾ ਲਈ) ਜਤਨ ਕਰਦਾ ਹਾਂ, ਤਾਂ ਸਗੋਂ ਵਧੀਕ ਉਲਝਣਾਂ ਪਾ ਦੇਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਮੈਂ ਕਰਦਾ ਹਾਂ। ਉਰਝਾਇ ਪਰੇਵੈ = ਹੋਰ ਉਲਝਣਾਂ ਵਿਚ ਪਾ ਦੇਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

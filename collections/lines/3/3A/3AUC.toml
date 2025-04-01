@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਇੰਦ੍ਰ ਆਪਣੇ ਤਖ਼ਤ ਉਤੇ ਬੈਠੇ ਹੋਏ ਦੇਵਤਿਆਂ ਸਮੇਤ ਤੇਰੇ ਦਰ ਤੇ ਤੈਨੂੰ ਸਾਲਾਹ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ੍ਰਾਸਣਿ = ਇੰਦ੍ਰ ਦੇ ਆਸਣ ਉਤੇ। ਦਰਿ = ਤੇਰੇ ਦਰਵਾਜ਼ੇ ਉਤੇ। ਦੇਵਤਿਆ ਨਾਲੇ = ਦੇਵਤਿਆਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

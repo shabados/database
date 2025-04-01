@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਜੰਗ ਦੇ ਮੈਦਾਨਿਾਂ ਦਾ ਸ਼ੂਕਦਾ ਨਾਗ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਮਾਂ ਅਜ਼ਦਹਾਇ ਬ ਮੈਦਾਨਿ ਰਜ਼ਮ ।੧੨੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

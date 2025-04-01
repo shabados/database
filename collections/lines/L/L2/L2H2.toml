@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ ਭੀ) ਕਈ ਜੀਵ ਦਾਨੀ ਹਨ, ਕਈ ਜੀਵ ਮੰਗਤੇ ਹਨ-ਇਹ ਸਾਰੇ ਤੇਰੇ ਹੀ ਅਚਰਜ ਤਮਾਸ਼ੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਕਈ ਜੀਵ। ਦਾਤੇ = ਦਾਨੀ। ਭੇਖਾਰੀ = ਮੰਗਤੇ। ਸਭਿ = ਸਾਰੇ। ਵਿਡਾਣ = ਅਚਰਜ। ਚੋਜ = ਕੌਤਕ, ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣ, ਮੇਰੇ ਮਨ ਵਿਚ (ਤੇਰੇ ਦਰਸਨ ਲਈ) ਬੜਾ ਹੀ ਚਾਉ ਹੈ, ਮੈਨੂੰ ਆਸਰਾ ਭੀ ਤੇਰਾ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਨੇਰਾ = ਬਹੁਤ। ਪ੍ਰਭ ਮੇਰਾ = ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਮੈ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

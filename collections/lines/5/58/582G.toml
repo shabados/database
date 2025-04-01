@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪਰਮਾਤਮਾ) ਦਾ ਦਰਬਾਰ ਸਭ (ਪਾਤਿਸ਼ਾਹਾਂ ਦੇ ਦਰਬਾਰਾਂ) ਨਾਲੋਂ ਉੱਚਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਤੇ = ਸਭ (ਪਾਤਿਸ਼ਾਹਾਂ ਦੇ ਦਰਬਾਰਾਂ) ਤੋਂ। ਜਾ ਕਾ = ਜਿਸ (ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ) ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

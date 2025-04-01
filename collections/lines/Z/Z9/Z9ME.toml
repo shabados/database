@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਅਕਾਲ ਪੁਰਖ ਦਾ ਹੁਕਮ ਹੋਇਆ ਤਾਂ ਉਸ ਨੇ ਘਰ ਬਾਰ (ਸਭ ਕੁਝ) ਛੱਡ ਦਿੱਤਾ ਤੇ ਇੰਜ ਇਕ ਪਲਕ ਵਿਚ ਸਭ ਕੁਝ ਓਪਰਾ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰੁ ਘਰੁ = ਘਰ ਬਾਹਰ, ਘਰ ਘਾਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

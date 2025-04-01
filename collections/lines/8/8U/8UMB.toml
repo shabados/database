@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਸ੍ਰਿਸ਼ਟੀ-ਪਾਲਕ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ। ਪੂਰਨ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਗੋਪਾਲਾ = ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

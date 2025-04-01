@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਪਿਆਸ ਬੁਝਾਣ ਲਈ) ਪਪੀਹੇ ਨੂੰ ਵਰਖਾ ਦੀਆਂ ਬੂੰਦਾਂ ਦੀ ਲਾਲਸਾ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

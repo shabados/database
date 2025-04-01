@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! (ਸਦਾ) ਗੁਰੂ ਦੇ ਸੋਹਣੇ ਕੋਮਲ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਣ ਕਮਲ = ਕੌਲ ਫੁੱਲਾਂ ਵਰਗੇ ਕੋਮਲ ਚਰਨ। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

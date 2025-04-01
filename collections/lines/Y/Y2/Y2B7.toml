@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਬੰਦੇ ਦੂਜਿਆਂ ਦਾ ਧਨ ਚੁਰਾਉਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬ = ਧਨ। ਪਰ = ਪਰਾਇਆ, ਬਿਗਾਨਾ। ਹਿਰਹਿ = ਚੁਰਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

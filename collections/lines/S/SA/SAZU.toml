@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ ਮਨ ਵਿਚ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ। ਜਪੀਐ = ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ। ਮਨਿ = ਮਨ ਵਿਚ। ਸਾਚਾ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

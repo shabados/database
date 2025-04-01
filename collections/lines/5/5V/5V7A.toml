@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਭਗਤਾਂ ਲਈ ਰੱਬ ਦਾ ਨਾਮ ਹੀ ਉਨ੍ਹਾਂ ਦਾ ਗਹਿਣਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਹੱਕ ਮਰਦਾਨਿ ਹੱਕ ਰਾ ਜ਼ੇਵਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

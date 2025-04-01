@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਅਨੁਸਾਰ ਚਹੁੰ ਤਰਫ਼ਾਂ ਵਿਚ ਦਸਾਂ ਦਿਸ਼ਾਂ ਵਿਚ ਭਟਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਟ = ਕੂਟ, ਤਰਫ਼। ਦਹ ਦਿਸਿ = ਦਸ ਦਿਸ਼ਾਂ। ਰੇਖ = ਲੀਕ, ਸੰਸਕਾਰ। ਕਿਰਤਿ = ਕੀਤੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਵ ਦੇ ਅੰਦਰ ਜਿਹੋ ਜਿਹੀ ਅਕਲ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੇ ਜੀਅ = ਜਿਸ ਮਨੁੱਖ ਦੇ ਜੀ ਵਿਚ, ਜਿਸ ਦੇ ਅੰਦਰ। ਜੈਸੀ ਬੁਧਿ = ਜਿਹੋ ਜਿਹੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

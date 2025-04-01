@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਇਨਸਾਫ਼ ਦਾ ਸਿਰ ਉਚੇਰਾ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰਿ ਮਾਅਦਲਤ ਰਾ ਬਰ-ਅਫ਼ਰਾਖ਼ਤਾ ।੯੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

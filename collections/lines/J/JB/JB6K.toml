@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ, ਗੋਯਾ# ਇਹਨਾਣ ਹੋਰ ਇਮਾਰਤਾਣ ਵਲ ਕੋਈ ਕਿਵੇਣ ਜਾ ਸਕਦਾ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਬ-ਚਿਹ ਸੂਇ ਦਰੋ ਦੀਵਾਰ ਤਵਾਣ ਰਫ਼ਤ ।੧੨।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

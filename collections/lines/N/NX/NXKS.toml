@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਅਸੀ ਗੁਨਹਿਗਾਰ ਹਾਣ ਤਾਣ ਰੱਬ ਬਖਸ਼ਨਹਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਗੁਨਾਹ ਗ਼ਾਰੇਮ ਹੱਕ ਬਖ਼ਸ਼ਿੰਦਾ ਅਸਤ ।੯।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

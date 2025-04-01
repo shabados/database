@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ ਹਿੰਦੂ ਦੋਵੇਂ ਅੱਖਾਂ ਗਵਾ ਬੈਠਾ ਹੈ, ਪਰ ਮੁਸਲਮਾਨ ਦੀ ਇੱਕ ਅੱਖ ਹੀ ਖ਼ਰਾਬ ਹੋਈ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਰਕੂ = ਮੁਸਲਮਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

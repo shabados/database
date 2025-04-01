@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੌਤਮ ਦੀ ਵਹੁਟੀ ਅਹੱਲਿਆ, ਪਾਰਵਤੀ ਦਾ ਪਤੀ ਸ਼ਿਵ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਤਮ ਨਾਰਿ = ਗੌਤਮ ਦੀ ਵਹੁਟੀ, ਅਹੱਲਿਆ। ਉਮਾਪਤਿ = ਪਾਰਵਤੀ ਦਾ ਪਤੀ, ਸ਼ਿਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

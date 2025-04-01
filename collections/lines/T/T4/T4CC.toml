@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਆ ਕੇ ਮੈਂ ਪਰਾਈ ਆਸ ਛੱਡ ਦਿੱਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗ ਵਿਚ। ਚਿੰਤ = ਆਸ। ਬਿਰਾਨੀ = ਬਿਗਾਨੀ, ਓਪਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਨਹੀਂ ਪਾਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੁ ਨ ਜਾਨਿਆ = ਨਾਮ ਦੀ ਕਦਰ ਨ ਪਾਈ, ਨਾਮ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਨ ਪਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

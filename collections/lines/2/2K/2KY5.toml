@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜਿਹਾ ਮਨੁੱਖ) ਅਹੰਕਾਰ ਦੇ ਹਨੇਰੇ ਵਿਚ ਤੁਰਿਆ ਫਿਰਦਾ ਹੈ, ਇਸ ਨੂੰ ਮੌਤ (ਭੀ) ਨਹੀਂ ਸੁੱਝਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਤਉ = ਫਿਰਦਾ ਹੈ। ਗਰਬ ਗੁਬਾਰਿ = ਅਹੰਕਾਰ ਦੇ ਹਨੇਰੇ ਵਿਚ। ਮਰਣੁ = ਮੌਤ। ਜਾਨਈ = ਜਾਨੈ, ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਖਸਮ ਪ੍ਰਭੂ ਨੇ ਭੁਲਾ ਦਿੱਤਾ ਹੈ, ਉਹ ਆਪਣੀ ਭੁੱਲ ਦੇ ਕਾਰਨ ਛੁੱਟੜ ਹੋਈ ਪਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਤਿ = ਕੰਤ ਨੇ। ਵਿਸਾਰੀ = ਭੁਲਾ ਦਿਤੀ। ਅਵਗਣਿ = ਔਗੁਣ ਦੇ ਕਾਰਨ। ਮੁਤੀ = ਛੱਡੀ ਹੋਈ, ਛੁੱਟੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

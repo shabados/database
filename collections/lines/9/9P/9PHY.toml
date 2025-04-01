@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਸਰੀਰ ਨੂੰ ਆਨੰਦ ਮਿਲਦਾ ਹੈ ਸ਼ਾਂਤੀ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੁ = ਆਤਮਕ ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

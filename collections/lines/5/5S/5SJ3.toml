@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜੀਵ) ਪਪੀਹੇ! ਤੂੰ ਆਪਣੇ ਮਾਲਕ ਦਾ ਘਰ ਨਹੀਂ ਜਾਣਦਾ (ਤਾਹੀਂਏ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਨਾਲ ਆਤੁਰ ਹੋ ਰਿਹਾ ਹੈਂ), (ਮਾਲਕ ਦਾ) ਘਰ ਵੇਖਣ ਲਈ ਅਰਜ਼ੋਈ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਾਣਹੀ = ਨ ਜਾਣਹਿ, ਤੂੰ ਨਹੀਂ ਜਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਜਾਣ ਕੇ ਕਿ, ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ ਦੂਜਾ ਕੁਝ ਭੀ ਕਰਨ ਜੋਗਾ ਨਹੀਂ, (ਜਾਣਨ ਵਾਲੇ ਦੇ) ਮਨ ਵਿਚ ਹੁਲਾਰਾ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਿ = ਜਾਣ ਕੇ। ਮਨਿ = ਮਨ ਵਿਚ। ਆਨ = {अन्य} ਕੋਈ ਹੋਰ। ਬੀਓ = ਦੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

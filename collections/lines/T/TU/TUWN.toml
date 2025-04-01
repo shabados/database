@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਰਾਮਦਾਸ ਜਿਹੜਾ ਸਾਰੀ ਲੁਕਾਈ ਦੀ ਪੂੰਜੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਰਾਮਦਾਸ ਆਂ ਮਤਾਅ ਉਲ-ਵਰਾ ।"
+page = 4
+line = 69
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

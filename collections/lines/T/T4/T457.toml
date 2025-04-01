@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਵਿਚ) ਜੇਹੜਾ ਮਨੁੱਖ ਸਿਰ ਉੱਚਾ ਕਰੀ ਰੱਖਦਾ ਹੈ (ਆਕੜਿਆ ਫਿਰਦਾ ਹੈ) ਉਹ ਆਤਮਕ ਮੌਤ ਦੇ ਟੋਏ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਇਆਲਾ = ਪਤਾਲ ਵਿਚ, ਆਤਮਕ ਮੌਤ ਦੇ ਟੋਏ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

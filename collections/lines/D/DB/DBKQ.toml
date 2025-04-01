@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਦੱਸੋ, ਛਲ ਤੇ ਐਬ ਕਿਸ ਨੂੰ ਲੱਗ ਸਕਦੇ ਸਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਲ = ਧੋਖਾ। ਛਿਦ੍ਰ = ਐਬ। ਕੀਸ = ਕਿਸ ਨੂੰ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

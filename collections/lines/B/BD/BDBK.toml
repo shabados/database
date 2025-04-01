@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ (ਪੂਰੇ) ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰ ਲਿਆ ਤੇ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਗ੍ਰਹਣ ਕਰ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਖਿਆ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

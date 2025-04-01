@@ -5,6 +5,13 @@ language = "pa"
 data = "ਭਾਵੇਂ ਹਜ਼ਾਰਾਂ ਸੂਰਜ ਅਤੇ ਚੰਨ ਪਏ ਚਮਕਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਫ਼ਿਰੋਜ਼ਦ ਹਜ਼ਾਰ ਮਿਹਰੋ ਮਾਹ ।"
+page = 1
+line = 5
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

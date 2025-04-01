@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੀ ਕੁਝ ਭੀ ਪਾਂਇਆਂ ਨਹੀਂ ਹੈ, ਇਕ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਆਪ ਸਭ ਕੁਝ ਜਾਣਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, ਮੈਂ। ਆਪੇ = ਆਪ ਹੀ। ਸੁਜਾਨਾ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

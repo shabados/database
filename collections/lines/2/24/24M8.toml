@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕਿਸੇ ਜੀਵ ਪਾਸੋਂ ਉਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ ਕਹਿ = ਆਖ ਆਖ ਕੇ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

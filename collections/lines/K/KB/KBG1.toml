@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸ਼ੁਕਰਵਾਰ ਵਾਲੇ ਦਿਨ ਪਾਕ ਪਰਹੇਜ਼ਗਾਰ ਮੁਸਲਮਾਨ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੂਜ਼ਿ ਜੁਮਆ ਮੋਮਨਾਨਿ ਪਾਕਬਾਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

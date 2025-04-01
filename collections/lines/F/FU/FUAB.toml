@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਉਸ ਪ੍ਰਭੂ ਦਾ ਜਾਚਕ ਹਾਂ) ਕ੍ਰੋੜਾਂ ਹੀ ਵਾਮਨ ਅਵਤਾਰ ਜਿਸ ਦੇ ਸਰੀਰ ਦੇ, ਮਾਨੋ, ਰੋਮ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਨ = ਵਾਮਨ ਅਵਤਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

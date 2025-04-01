@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਇਕ ਤਿਹਾਏ ਨੂੰ ਠੰਡੇ ਮਿੱਠੇ ਪਾਣੀ ਦੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਿਸ਼ਨਾ ਰਾ ਬ-ਆਬਿ ਸੀਰੀਣ ਇਹਤਿਆਜ ।੧੬।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

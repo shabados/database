@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਜ਼ਹਰ ਹੈ ਉਸ ਨੂੰ ਮਾਇਆ-ਗ੍ਰਸਿਆ ਮਨੁੱਖ (ਖ਼ੁਸ਼ੀ ਨਾਲ) ਪੀਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਾਹਲ = ਮਹੁਰਾ, ਜ਼ਹਰ। ਬਉਰਾ = ਪਾਗਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

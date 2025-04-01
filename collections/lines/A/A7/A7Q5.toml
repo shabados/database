@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦ ਦੇਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੇ ਦਾਤੇ = ਹੇ ਜਿੰਦ ਦੇਣ ਵਾਲੇ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

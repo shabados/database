@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਭੁੱਲੇ ਹੋਇਆਣ ਨੂੰ ਠੀਕ ਰਾਹ ਦੱਸਣ ਲਈ ਆਉਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਗ਼ੁਮ-ਸ਼ੁਦਗਾਨਿ ਰਹਿਨੁਮਾ ਆਮਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

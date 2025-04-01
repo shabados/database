@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪੜ੍ਹ (ਅਤੇ ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਆਪਣੇ ਅੰਦਰੋਂ) ਵਿਕਾਰ ਛੱਡ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ! ਪੜੁ = ਪੜ੍ਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

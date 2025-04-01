@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ (ਮਨੁੱਖ) ਸਾਧ ਸੰਗਤਿ ਵਿਚ (ਜਾ ਟਿਕਦਾ ਹੈ, ਤਦੋਂ ਕਾਮਾਦਿਕ) ਪੰਜੇ ਚੋਰ ਉਸ ਦੇ ਟਾਕਰੇ ਤੋਂ ਭੱਜ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ = (ਕਾਮਾਦਿਕ) ਪੰਜ। ਆਗੈ = ਟਾਕਰੇ ਤੇ। ਭਗੇ = ਦੌੜ ਜਾਂਦੇ ਹਨ। ਸੰਗੇਤ = ਸੰਗਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

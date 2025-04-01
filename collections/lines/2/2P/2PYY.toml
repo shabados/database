@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ ਉਹ ਵੇਖਦੇ ਹਨ, ਤੇਰਾ ਹੀ ਜਮਾਲ ਵੇਖਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਜਾ ਕਿ ਬਿਨਿਗਰੇਦ ਜਮਾਲਿ ਤੂ ਬਿਨਿਗਰੇਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

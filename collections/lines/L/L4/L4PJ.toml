@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਹੀ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਮੁੱਕ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਨ ਜਾਵਨ = ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ। ਰਹੇ = ਮੁੱਕ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

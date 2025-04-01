@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰ। ਜ਼ਿੰਦਗੀ ਬੀਤਦੀ ਜਾ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮੁ = ਮਨੁੱਖਾ ਜਨਮ। ਗਇਓ = ਲੰਘਦਾ ਜਾ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

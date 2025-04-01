@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਜਨਮਾਂ ਵਿਚ ਤੈਨੂੰ (ਕਿਸਮ ਕਿਸਮ ਦਾ) ਰੁੱਖ ਬਣਾ ਕੇ ਪੈਦਾ ਕੀਤਾ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖ = ਸ਼ਾਖਾ, ਬਨਸਪਤੀ। ਕਰਿ = ਬਣਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

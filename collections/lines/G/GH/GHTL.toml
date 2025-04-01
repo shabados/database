@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਪ੍ਰਭੂ ਸਭ ਦੀ ਭਲਾਈ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਉਪਕਾਰੀ = ਦੂਜਿਆਂ ਦੀ ਭਲਾਈ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

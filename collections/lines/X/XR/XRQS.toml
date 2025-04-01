@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਿਆਂ ਸਾਰੇ ਸੁਖ ਪ੍ਰਾਪਤ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਸੇ = ਰੱਜੇ ਰਹਿੰਦੇ ਹਨ। ਧ੍ਯ੍ਯਾਇ = ਧਿਆਏ, ਸਿਮਰ ਕੇ {ਅੱਖਰ 'ਧ' ਦੇ ਨਾਲ ਅੱਧਾ 'ਯ' ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

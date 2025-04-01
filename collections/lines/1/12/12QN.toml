@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਕੰਨੋ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਸੁਣਨ ਵਾਸਤੇ ਬਣਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਣ = ਕੰਨ। ਪਠਾਏ = ਭੇਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ-ਰੂਪ ਹੈ, ਗੋਪਾਲ-ਰੂਪ ਹੈ, ਸਰਬ-ਵਿਆਪਕ ਨਾਰਾਇਣ ਦਾ ਰੂਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਸਰਬ-ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

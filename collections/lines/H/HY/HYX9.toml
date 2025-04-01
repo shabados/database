@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਲੋਕ ਆਖਦੇ ਹਨ ਕਿ ਕਾਸ਼ੀ ਵਿਚ ਰਹਿਣ ਵਾਲਾ ਸੁਰਗ ਮਾਣਦਾ ਹੈ, ਪਰ) ਨਰਕ ਕੀਹ, ਤੇ, ਵਿਚਾਰਾ ਸੁਰਗ ਕੀਹ? ਸੰਤਾਂ ਨੇ ਦੋਵੇਂ ਹੀ ਰੱਦ ਕਰ ਦਿੱਤੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਊ = ਦੋਵੇਂ ਹੀ। ਰਾਦੇ = ਰੱਦ ਕਰ ਦਿੱਤੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

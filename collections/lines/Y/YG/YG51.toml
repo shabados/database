@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਆਪਣੀ ਜਿੰਦ ਨੂੰ ਸਦਾ ਲਈ ਸੁਖੀ ਕਰ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲਾ = ਸੌਖਾ, ਸੁਖੀ। ਜੀਉ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

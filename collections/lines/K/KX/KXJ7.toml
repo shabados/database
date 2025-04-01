@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ! ਮੋਹਨੀ ਮਾਇਆ (ਜੀਵਾਂ ਨੂੰ) ਆਪਣੇ ਮੋਹ ਵਿਚ ਫਸਾਂਦੀ ਰਹਿੰਦੀ ਹੈ, ਕਿਸੇ ਪਾਸੋਂ ਰੋਕਿਆਂ ਰੁਕਦੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨੀ = ਮਾਇਆ। ਹੋਰੀ = ਰੋਕੀ ਹੋਈ। ਰਹੈ ਨ = ਰੁਕਦੀ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

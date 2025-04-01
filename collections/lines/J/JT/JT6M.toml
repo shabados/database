@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ!) ਤੂੰ ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ (ਆਦਿਕ ਵਿਕਾਰਾਂ) ਦੇ ਨਸ਼ੇ ਵਿਚ ਮਸਤ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਦ = ਨਸ਼ਾ। ਮਾਤਾ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

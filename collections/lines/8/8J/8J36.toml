@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪ੍ਰਭੂ ਨੇ (ਆਪ ਹੀ) ਮਾਇਆ ਦਾ ਮੋਹ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਉਹ ਆਪ ਹੀ (ਜੀਵਾਂ ਨੂੰ ਮਾਇਆ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਪਾ ਕੇ ਕੁਰਾਹੇ ਪਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਭਰਮਿ = ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ (ਪਾ ਕੇ)। ਭੁਲਾਏ = ਕੁਰਾਹੇ ਪਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

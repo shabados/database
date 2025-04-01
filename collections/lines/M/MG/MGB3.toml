@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਕਿਰਪਾ ਕਰੇ) ਮੈਂ ਉਸ ਦੇ ਸੇਵਕ ਦਾ ਦਰਸ਼ਨ ਮੁੜ ਮੁੜ ਵੇਖਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਲੋਕਨ = ਦਰਸਨ। ਪੁਨਹ ਪੁਨਹ = {पुनः पुनः} ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

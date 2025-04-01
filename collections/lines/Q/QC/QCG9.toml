@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮੂਰਖ ਮਨੁੱਖ (ਅਜੇਹੇ) ਸੰਤਾਂ ਨਾਲ ਵੈਰ ਕਰਦੇ ਹਨ ਉਹ ਸੁਖ ਨਹੀਂ ਪਾਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ। ਖਹੰਦੇ = (ਜੋ) ਝਗੜਾ ਪਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

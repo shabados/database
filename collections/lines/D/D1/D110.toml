@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਚੁੱਪ ਕਰ ਰਹੀਏ ਤੇ ਭਾਵੇਂ ਮੰਗੀਏ, ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਕਰਤਾਰ ਆਪ ਹੀ ਦਾਤਾਂ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇ ਚੁਪੈ = ਜੇ ਚੁੱਪ ਕਰ ਰਹੀਏ। ਜੇ ਮੰਗਿਐ = ਜੇ ਕੁਝ ਮੰਗੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

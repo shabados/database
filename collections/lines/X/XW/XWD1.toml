@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਸਾਰੇ ਜੀਵ ਪਰਮਾਤਮਾ ਦੀ ਪ੍ਰਤੱਖ ਵਡਿਆਈ ਵੇਖ ਕੇ ਨਿਹਾਲ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਜੰਤ = (ਉਹ) ਸਾਰੇ ਜੀਵ। ਸੁਪ੍ਰਸੰਨ = ਬਹੁਤ ਪ੍ਰਸੰਨ, ਨਿਹਾਲ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਪਰਤਾਪ = ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

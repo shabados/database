@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੂਰਖ ਹਿਰਦਾ ਅਹੰਕਾਰ ਵਿਚ ਝੱਲਾ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਿ = ਅਹੰਕਾਰ ਵਿਚ। ਗਹਿਲੜੋ = ਗਹਿਲਾ, ਬਾਵਲਾ, ਝੱਲਾ। ਮੂੜੜੋ = ਮੂੜ੍ਹਾ, ਮੂਰਖ। ਹੀਓ = ਹਿਰਦਾ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

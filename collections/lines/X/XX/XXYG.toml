@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਹੁਕਮ ਵਿਚ ਹੀ ਉਹ ਸਿੱਧ ਸਾਧਿਕ ਤੇ ਵਿਚਾਰਵਾਨ ਪੈਦਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੀਚਾਰੇ = ਵਿਚਾਰਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

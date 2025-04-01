@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਜਿਸ ਦਾ ਟਿਕਾਣਾ ਅਮਿਣਵੇਂ ਤੋਲ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਲੁ = ਥਾਂ (स्थ्लं = firmground)। ਅਮਿਤੋ = ਅਤੋਲਵਾਂ, ਜੋ ਮਿਣਿਆ ਨਾ ਜਾ ਸਕੇ (अमित)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਮੈਂ (ਉਸ ਦੀ ਮਿਹਰ ਨਾਲ) ਅੱਠੇ ਪਹਰ ਸਿਮਰਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਉਂਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

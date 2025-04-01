@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਜੇਹੜਾ ਮਨੁੱਖ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ ਦੀ ਸਰਨੀ ਪੈ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਇ = ਰਾਜਾ, ਪਾਤਿਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

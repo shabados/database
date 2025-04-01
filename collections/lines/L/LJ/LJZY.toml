@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਨੂੰ ਕਦੇ ਮੌਤ (ਦਾ ਫ਼ਿਕਰ) ਚੇਤੇ ਨਾਹ ਆਇਆ ਹੋਵੇ, ਜੇ ਉਹ ਦਿਨ ਰਾਤ ਦੁਨੀਆ ਦੇ ਭੋਗ ਭੋਗਦਾ ਰਹਿੰਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਰਤੁ = {मृत्यु} ਮੌਤ। ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

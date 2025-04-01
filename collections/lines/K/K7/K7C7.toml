@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੂਪ ਵਾਲਾ ਹੋ ਕੇ ਕੋਈ ਪ੍ਰਾਣੀ (ਰੂਪ ਦਾ) ਮਾਣ ਨਾਹ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹੈ ਨਾਹੀ = ਮੋਹ ਨਾਹ ਕਰੇ, ਮਸਤ ਨਾਹ ਹੋਵੇ, ਮਾਣ ਨਾਹ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

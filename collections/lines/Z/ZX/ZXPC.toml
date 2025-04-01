@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਧੰਧੇ ਵਿਚ ਉਹ (ਮਰ ਚੁਕੇ ਵੱਡੇ ਵਡੇਰੇ) ਫਸੇ ਹੋਏ ਸਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿ = ਵਿਚ। ਓਇ = ਉਹ ਮਰ ਚੁਕੇ ਵੱਡੇ ਵਡੇਰੇ। ਲਪਟਾਏ = ਫਸੇ ਹੋਏ ਸਨ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਅਸਾਡੇ ਕਈ ਖੋਟੇ ਕਰਮ ਤੇ ਖੋਟੇ ਕਰਮਾਂ ਦਾ ਮੋਹ ਤੈਥੋਂ ਲੁਕਿਆ ਹੋਇਆ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੀਆ = ਕਈ, ਕਿਤਨੇ ਹੀ। ਕੁਢੰਗ = ਭੈੜੇ ਢੰਗ, ਖੋਟੇ ਕਰਮ। ਗੁਝਾ = ਲੁਕਿਆ ਛਿਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

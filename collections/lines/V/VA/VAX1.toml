@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦੀ ਧੂੜ (ਆਪਣੇ ਮੱਥੇ ਤੇ ਲਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਚਰਨ। ਪੰਕਜ = ਕੌਲ-ਫੁੱਲ {ਪੰਕ = ਚਿੱਕੜ। ਜ = ਜੰਮਿਆ ਹੋਇਆ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

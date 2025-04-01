@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਪਰਦੇ ਵਿਚ ਲੁਕੀਆਂ ਗੱਲਾਂ ਦਾ ਗਿਆਨਵਾਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਲਿਮੁਲ ਅਸਤਾਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 110
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਪਰਮਾਤਮਾ ਨੇ ਆਪਣੇ ਭਗਤਾਂ ਨੂੰ ਆਪਣੀ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਭਗਤੀ ਦਾ ਖ਼ਜ਼ਾਨਾ ਬਖ਼ਸ਼ਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ ਭਗਤਿ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਭਗਤੀ। ਭੰਡਾਰਾ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

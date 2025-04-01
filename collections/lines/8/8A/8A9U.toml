@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ (ਬੜਾ) ਡਰਾਉਣਾ ਹੈ ਤੇ (ਤਰਨਾ) ਔਖਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਜਲੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਬਿਖਮੁ = ਔਖਾ। ਡਰਾਉ = ਡਰਾਉਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

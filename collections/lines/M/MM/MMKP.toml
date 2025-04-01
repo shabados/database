@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ) ਦਿਨ ਤੇ ਰਾਤ (ਭਾਵ, ਸਦਾ) (ਤੀਰਥਾਂ ਤੇ) ਇਸ਼ਨਾਨ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਚ = ਸੌਚ, ਇਸ਼ਨਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਿਰਾ) ਰੋਜ਼ਾ ਰੱਖਿਆਂ, ਨਿਮਾਜ਼ ਪੜ੍ਹਿਆਂ ਤੇ ਕਲਮਾ ਆਖਿਆਂ ਭਿਸ਼ਤ ਨਹੀਂ ਮਿਲ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਜਾ ਧਰੈ = ਰੋਜ਼ਾ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

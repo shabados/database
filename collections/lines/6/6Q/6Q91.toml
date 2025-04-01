@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਸਾਰੇ ਦੁੱਖ, ਸਾਰੀਆਂ ਭੁੱਖਾਂ, ਸਾਰੇ ਸਹਿਮ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾ = ਸਹਿਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

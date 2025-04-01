@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਤ! ਉਸ ਅਚਰਜ ਪ੍ਰਭੂ ਦਾ ਇਕ ਕੌਤਕ ਸੁਣੋ (ਜੋ ਮੇਰੇ ਨਾਲ ਵਰਤਿਆ ਹੈ ਤੇ ਜੋ) ਐਸ ਵੇਲੇ (ਜਿਉਂ ਕਾ ਤਿਉਂ) ਕਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡੀਆ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

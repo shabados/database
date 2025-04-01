@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਹ ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰਨਾ ਜੀਵਾਂ ਦੇ ਵੱਸ ਦੀ ਗੱਲ ਨਹੀਂ। ਇਹ ਨਾਮ-ਧਨ) ਉਸ ਮਨੁੱਖ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ, ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ ਭਾਗ ਜਾਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸਹਿ = ਉਸ (ਮਨੁੱਖ) ਨੂੰ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

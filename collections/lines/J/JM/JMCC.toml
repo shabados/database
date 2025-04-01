@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਤਾਂ ਭੁਲੇਖੇ ਵਿਚ ਪੈ ਕੇ ਠਗ-ਬੂਟੀ ਖਾਈ ਜਾ ਰਿਹਾ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਲੌ = ਭੁਲੇਖੇ ਵਿਚ ਪਿਆ ਹੋਇਆ ਹੈ। ਠਗਮੂਰੀ = ਠਗ-ਬੂਟੀ, ਧਤੂਰਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

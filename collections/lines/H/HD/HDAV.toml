@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ ਰਾਮ ਜੀ! ਮੇਰੇ-ਹਿਰਦੇ ਵਿਚ ਆ ਵੱਸ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਾਰੈ = ਮੇਰੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

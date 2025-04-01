@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਸਾਰੀ ਧਰਤੀ ਉਤੇ ਰਟਨ ਕਰਨ ਦਾ ਆਹਰ ਫੜਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਨੁ = ਰਟਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

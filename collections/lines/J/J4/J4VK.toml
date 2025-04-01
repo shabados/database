@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਸੰਗੀ ਮਿਤ੍ਰ! ਆਉ, ਪਰਮਾਤਮਾ (ਦੀ ਪ੍ਰਾਪਤੀ) ਵਾਲਾ ਸਤਸੰਗ ਬਣਾਈਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀ! ਹੇ ਸਤਸੰਗੀ! ਹਰਿ ਮੇਲੁ = ਹਰੀ ਦੀ ਪ੍ਰਾਪਤੀ ਵਾਲਾ ਇਕੱਠ, ਸਤਸੰਗ। ਕਰੇਹਾ = ਅਸੀਂ ਕਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

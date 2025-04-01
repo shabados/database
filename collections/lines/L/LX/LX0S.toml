@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਗੋਂ) ਇਹ ਮੂਰਖ ਝੂਠੇ ਧੰਧੇ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਧੈ = ਧੰਧੇ ਵਿਚ। ਮੂੜਾ = ਮੂਰਖ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

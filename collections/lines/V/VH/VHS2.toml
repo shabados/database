@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰਾ ਦਿਲ ਆਪਣੇ ਸਾਰੇ ਰਿਸ਼ਤੇ ਤੋੜ ਕੇ ਤੇਰੀ ਗਲੀ ਵਲ ਉਡ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਮਨ ਫ਼ਾਰਗ਼, ਵ ਦਰ ਕੂਏ ਤੋ, ਪਰਵਾਜ਼ ਕੁਨਦ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

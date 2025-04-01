@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੁਸ਼ਮਨ ਦੀ ਜਾਨ ਨੂੰ ਕਬਜ਼ਾ ਕਰਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਸਮ ਰਾ ਜਾਂ-ਕਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੦੮।"
+page = 10
+line = 108
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

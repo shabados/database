@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਜੇਹੜੇ ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਤੁਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਰੰਗਾਏ = (ਜਿਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਮਨ ਨਾਮ-ਰੰਗ ਵਿਚ) ਰੰਗਾ ਲਏ। ਸਬਾਏ = ਉਹ ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

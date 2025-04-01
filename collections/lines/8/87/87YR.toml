@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੇ ਨਾਲ ਸਾਥੀ ਦੇ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਸਾਥੇ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

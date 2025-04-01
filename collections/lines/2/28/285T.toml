@@ -36,6 +36,12 @@ language = "pa"
 data = "ਝੂਠ ਬੋਲ ਬੋਲ ਕੇ (ਹੀ) ਇਹ ਰੋਜ਼ੀ ਕਮਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ ਆਹਾਰੁ = ਆਹਾਰ ਕਰਦੇ ਹਨ, ਖਾਣਾ ਖਾਂਦੇ ਹਨ, ਰੋਜ਼ੀ ਕਮਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

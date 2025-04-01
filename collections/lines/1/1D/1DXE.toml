@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਡੱਡੂ! ਤੂੰ ਕਦੇ ਭੀ ਸਮਝ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਦਾਦਰ = ਹੇ ਡੱਡੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

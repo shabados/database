@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਇੱਜ਼ਤ ਨਾਲ ਉਸ ਘਰ ਵਿਚ ਜਾ ਸਕੇਂ, ਜਿਥੋਂ ਕੋਈ ਕੱਢ ਨ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਅਪੁਨੈ ਘਰਿ = ਅਪਨੇ ਘਰ ਵਿਚ, ਜਿਸ ਘਰ ਵਿਚੋਂ ਕੋਈ ਕੱਢ ਨਹੀਂ ਸਕੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

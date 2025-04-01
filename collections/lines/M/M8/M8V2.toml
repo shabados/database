@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੁੰਮਾ ਵੇਖਣ ਨੂੰ ਮੈਨੂੰ ਸੋਹਣਾ ਦਿੱਸਿਆ। ਕੀ ਇਹ ਉਕਾਈ ਲੱਗ ਗਈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖੰਦੜੋ = ਵੇਖਣ ਨੂੰ। ਦਿਸਮੁ = ਮੈਨੂੰ ਦਿੱਸਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

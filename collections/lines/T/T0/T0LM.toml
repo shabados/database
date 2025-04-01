@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣਾ ਮਨ ਆਪਣਾ ਤਨ ਪਰਮਾਤਮਾ ਅੱਗੇ ਭੇਟਾ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਪਿ = ਭੇਟਾ ਕਰ ਕੇ। ਅਰਪਿ ਧਰੀ = ਭੇਟਾ ਕਰ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

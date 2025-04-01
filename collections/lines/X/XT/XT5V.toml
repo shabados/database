@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਮ-ਬ-ਦਮ ਉਸੇ ਨੂੰ ਯਾਦ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਗਿਰਾਸਿ = ਸਾਹ ਅੰਦਰ ਬਾਹਰ ਲੈਂਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

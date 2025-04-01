@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਅਸਰ ਵਿਚ) ਇਹ ਮਨ ਕਦੇ ਆਕਾਸ਼ ਵਿਚ ਜਾ ਚੜ੍ਹਦਾ ਹੈ ਕਦੇ ਪਾਤਾਲ ਵਿਚ ਡਿੱਗ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਭਿ = ਉੱਚਾ, ਆਕਾਸ਼ ਵਿਚ। ਪਇਆਲ = ਪਤਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

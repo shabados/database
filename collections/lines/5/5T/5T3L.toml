@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਦੀ ਸਦਾ ਸੰਭਾਲ ਕਰਦਾ ਹੈ, ਉਸ ਦੀ ਸੰਭਾਲ ਤੋਂ ਕੋਈ ਜੀਵ ਵਿਰਵਾ ਨਹੀਂ ਰਹਿੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਲੇ = ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

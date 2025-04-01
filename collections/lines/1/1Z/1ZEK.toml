@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਅਨੁਸਾਰ ਸਭ ਜੀਵਾਂ ਦੇ ਕੰਮ ਸਿਰੇ ਚੜ੍ਹਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੇ ਕੈ ਹੁਕਮਿ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ। ਕਾਜਾ = ਕਾਰਜ, ਜੀਵਾਂ ਦੇ ਕੰਮ। ਪੂਰੇ = ਸਿਰੇ ਚੜ੍ਹਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

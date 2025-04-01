@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ਸੱਚ ਦੇ ਪਾਲਨਹਾਰ ਵੀ ਹੈ ਅਤੇ ਸੱਚ ਦੀ ਧਾਰਨੀ ਵੀ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਕ ਪਰਵਰ ਹਕ ਕੇਸ਼ ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ।"
+page = 7
+line = 87
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

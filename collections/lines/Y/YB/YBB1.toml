@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਦੇਸੀ ਜੀਊੜੇ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਖੁੰਝ ਕੇ ਤੁਰੇ ਜਾ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲਣਹਾਰ = ਜਿਨ੍ਹਾਂ ਜ਼ਰੂਰ ਇਥੋਂ ਚਲੇ ਜਾਣਾ ਹੈ। ਵਾਟ = (ਜੀਵਨ ਦਾ ਸਹੀ) ਰਸਤਾ। ਵਟਾਇਆ = ਵਟਾਇ, ਵਟਾ ਕੇ, ਛੱਡ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

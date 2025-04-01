@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅੰਨ੍ਹਾ ਹੋਇਆ ਮਨੁੱਖ) ਵਿਸ਼ੇ-ਵਿਕਾਰਾਂ ਦੇ ਗੀਤ ਕੰਨੀਂ ਸੁਣ ਕੇ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੈ ਨਾਦ = ਵਿਸ਼ੇ-ਵਿਕਾਰਾਂ ਵਾਲੇ ਗੀਤ। ਕਰਨ = ਕੰਨਾਂ ਨਾਲ। ਸੁਣਿ = ਸੁਣ ਕੇ। ਭੀਨਾ = ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਦੇ ਪਾਠ ਬਿਨਾਣ ਉਨ੍ਹਾਣ ਦੀ ਹੋਰ ਕੋਈ ਮਰਯਾਦਾ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਹਰਫ਼ਿ ਬੰਦਗੀ ਦਸਤੂਰ ਨੀਸਤ ।੮੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

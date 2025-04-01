@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣ ਜੋ ਰੋ ਰਹੀ ਅੱਖ ਦਾ ਸਿਰਫ ਇਹੀ ਇਲਾਜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਇਲਾਜਿ ਚਸ਼ਮਿ ਗਿਰੀਆਨਸਤੋ ਬਸ ।੩੯।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

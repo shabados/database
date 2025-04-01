@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਤੈਨੂੰ ਸੋਗ ਅਤੇ ਗ਼ਮ ਦੇ ਖੂਹ ਵਿੱਚੋਂ ਕੱਢ ਲੈਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ ਕਸ਼ਦ ਅਜ਼ ਚਾਹਿ ਗ਼ਮਨਾਕੀ ਤੁਰਾ ।੪੫੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

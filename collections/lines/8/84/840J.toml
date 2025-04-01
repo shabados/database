@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰਾਜਾ ਬਣ ਕੇ ਮਨੁੱਖ) ਦਸੀਂ ਪਾਸੀਂ ਸਾਰੀ ਧਰਤੀ ਦਾ ਰਾਜ ਕਮਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹ ਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ। ਸਾਰੀ = ਸਾਰੀ (ਸ੍ਰਿਸ਼ਟੀ) ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

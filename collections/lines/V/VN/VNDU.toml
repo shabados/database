@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਦਾ ਹੀ ਸਦਾ ਹੀ ਜੀਊਂਦਾ ਰਹਿਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ। ਹੋਵਣਹਾਰਾ = ਕਾਇਮ ਰਹਿ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

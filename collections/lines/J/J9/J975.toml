@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਉੱਤੇ ਤੁਰਨਾ ਹੀ ਅਸਲ (ਤੀਰਥ-) ਇਸ਼ਨਾਨ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਵਣੁ = ਇਸ਼ਨਾਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

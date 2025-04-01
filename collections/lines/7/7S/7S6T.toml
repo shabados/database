@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੇਰੇ ਗੁਰੂ ਨੇ ਮੇਰਾ ਭਰਮ-ਵਹਿਮ ਸਭ ਸਾੜ ਦਿੱਤਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰਿ ਗਇਓ = ਸਾੜ ਗਿਆ ਹੈ। ਭ੍ਰਮੁ = ਭਰਮ, ਭੁਲੇਖਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

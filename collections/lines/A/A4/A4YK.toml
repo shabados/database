@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪਰਮਾਤਮਾ ਕਿਰਪਾ ਕਰਦਾ ਹੈ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਆਪਣਾ ਨਾਮ ਵਸਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

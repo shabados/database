@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ-ਜਨ ਤੋਂ ਆਪਣੀ ਜਿੰਦ ਭੀ ਵਾਰ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਪਿ = ਹਵਾਲੇ ਕਰ ਦੇਹ। ਜੀਉ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

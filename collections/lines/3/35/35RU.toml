@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੀਆਂ ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਙਿਆਨੁ = ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ। ਮੁਖ ਬਾਤਉ = ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

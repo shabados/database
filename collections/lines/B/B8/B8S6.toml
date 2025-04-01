@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮੁਖੜੇ ਤੋਂ ਰੱਬ ਦਾ ਨੂਰ ਵਰ੍ਹਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਰੁਖ਼ਿ ਊ ਨੂਰਿ-ਹੱਕ ਮੀ-ਬਾਰਦਸ਼ ।੨੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

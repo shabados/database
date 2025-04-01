@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੱਸ! ਇਹੀ ਹੈ ਠੀਕ ਜੀਵਨ-ਮਨੋਰਥ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਉ = ਜੀਵਨ-ਮਨੋਰਥ। ਪੂਰਨ = ਮੁਕੰਮਲ, ਠੀਕ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

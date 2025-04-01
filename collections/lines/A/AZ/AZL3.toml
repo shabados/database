@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵੱਡ ਭਾਗੀ ਹੈ ਉਹ ਸੰਗਤ, ਜਿਸ ਨੇ ਮਿੱਟੀ ਨੂੰ ਅਕਸੀਰ ਬਣਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਸਹੁਬਤ ਕਿ ਖ਼ਾਕ ਅਕਸੀਰ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

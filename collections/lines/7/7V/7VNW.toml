@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਰੋਮ ਰੋਮ ਵਿਚ ਅਕਾਲ ਪੁਰਖ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਮਹਿ = ਉਹਨਾਂ ਵਿਚ। ਰਾਮੁ = ਅਕਾਲ ਪੁਰਖ। ਰਹਿਆ ਭਰਭੂਰ = ਨਕਾ-ਨਕ ਭਰਿਆ ਹੋਇਆ ਹੈ, ਰੋਮ ਰੋਮ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

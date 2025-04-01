@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਨਾਲ ਉਹ ਸੂਰਜ ਵਾਕਣ ਚਮਕ ਪਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਹਮਚੂ ਖ਼ੁਰਸ਼ੀਦਸ਼ ਬਿਤਾਖ਼ਤ ।੧੦੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

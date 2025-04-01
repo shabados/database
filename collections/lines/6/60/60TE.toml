@@ -5,6 +5,13 @@ language = "pa"
 data = "ਕਿਉਂ ਜੋ ਉਸ ਨੇ ਮਨੁਖਾਂ ਵਿੱਚੋਂ ਦੇਵਤੇ ਪ੍ਰਗਟ ਕੀਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਜ਼ਿ ਇਨਸਾਂ ਮਲਿਕ ਨਮੂਦਸਤ ਊ ।"
+page = 1
+line = 3
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

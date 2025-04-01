@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇੱਜ਼ਤ ਸਤਿਕਾਰ ਅਤੇ ਮਰਤਬੇ ਦੇ ਮੁਖੜੇ ਨੂੰ ਰੌਣਕ ਬਖਸ਼ਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁਖ਼ਿ ਇੱਜ਼ਤੋ ਜਾਹ ਰਾ ਇੰਜਲਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

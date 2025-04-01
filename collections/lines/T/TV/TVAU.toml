@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਾਂਦਿਆਂ ਪੀਂਦਿਆਂ ਹੱਸਦਿਆਂ ਸੁੱਤਿਆਂ (ਇਸੇ ਤਰ੍ਹਾਂ ਮਨੁੱਖ ਦੀ) ਉਮਰ ਬੇ-ਸਮਝੀ ਵਿਚ ਬੀਤਦੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਵਤ = ਸੁੱਤਿਆਂ। ਅਉਧ = ਉਮਰ। ਬਿਤੀ = ਬੀਤ ਜਾਂਦੀ ਹੈ। ਅਸਾਰ = ਬੇ-ਸਮਝੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਨੇਕੀ ਦੇ ਤੇ ਚੰਗੇ ਕੰਮ ਕੀਤੇ ਜਾਣ, ਲੱਖਾਂ ਕੰਮ ਧਰਮ ਦੇ ਕੀਤੇ ਜਾਣ, ਜੋ ਲੋਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ ਭੀ ਚੰਗੇ ਪ੍ਰਤੀਤ ਹੋਣ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁੰਨਾ = ਧਰਮ ਦੇ ਕੰਮ। ਪਰਵਾਣੁ = (ਜੋ ਲੋਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ) ਕਬੂਲ (ਹੋਣ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

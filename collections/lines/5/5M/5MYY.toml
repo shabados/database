@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਰ ਭਿਖਾਰੀ ਨੂੰ ਇੱਜ਼ਤ ਮਰਤਬਾ ਬਖਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਗਦਾ ਰਾ ਇੱਜ਼ੇ ਜਾਹੇ ਮੀਦਿਹੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

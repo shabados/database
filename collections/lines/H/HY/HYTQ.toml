@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਹਿ = ਨਾਮ ਵਿਚ। ਰਾਤਾ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

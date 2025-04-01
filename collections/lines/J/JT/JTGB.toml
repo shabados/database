@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਸੂਰਜ ਸਾਰੇ (ਰਸਾਂ) ਨੂੰ ਸੁਕਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰੁ = ਸੂਰਜ। ਸੋਖ = {Skt. शोषण} ਸੁਕਾਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

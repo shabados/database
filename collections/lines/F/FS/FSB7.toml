@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੋਈ ਸੁਚੱਜ ਨਹੀਂ ਸਾਂ ਸਿੱਖੀ ਹੋਈ, ਮੈਂ ਉੱਚੇ ਆਚਰਨ ਦਾ ਕੋਈ ਢੰਗ ਨਹੀਂ ਸਾਂ ਜਾਣਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਜ = ਸੁਚੱਜ। ਅਚਾਰ = ਆਚਾਰ, ਚੰਗਾ ਆਚਰਨ। ਬਿਧਿ = ਢੰਗ, ਤਰੀਕਾ, ਜਾਚ। ਜਾਨੀ = ਜਾਣੀ, ਸਿੱਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਾਰਾ ਸੰਸਾਰ (ਕਿਸੇ ਨ ਕਿਸੇ) ਡਰ-ਸਹਮ ਦੇ ਹੇਠ ਦਬਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਮਹਿ = ਡਰ ਵਿਚ {ਲਫ਼ਜ਼ 'ਭਉ' ਕਿਸੇ ਸੰਬੰਧਕ ਦੇ ਨਾਲ 'ਭੈ' ਬਣ ਜਾਂਦਾ ਹੈ}। ਰਚਿਓ = ਜਜ਼ਬ ਹੋਇਆ ਪਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

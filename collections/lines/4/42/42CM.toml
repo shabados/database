@@ -5,6 +5,11 @@ language = "pa"
 data = "ਲੈਲਾ ਦੀ ਊਠਣੀ ਦੇ ਗਲ ਪਈ ਟੱਲੀ ਦੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਮੇਰਾ ਦਿਲ ਸ਼ੋਦਾਈ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਨਿਦਾਏ ਨਾਕਾਇ ਲੈਲਾ ਦਿਲ ਸ਼ੋਰੀਦਾ ਆਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

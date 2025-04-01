@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਬਿਨਾਂ ਹੋਰ ਕੋਈ ਗਲ ਬਾਤ ਕਰਨੀ ਸਭ ਸ਼ਰਮਿੰਦਗੀ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਫ਼ਤਗੂਹਾਇ ਦਿਗਰ ਸ਼ਰਮਿੰਦਗੀਸਤ ।੪੭੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਨਾਨਕ ਦੀ ਇਹ ਖ਼ਾਹਸ਼ ਪੂਰੀ ਕਰ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਚਾ = ਖ਼ਾਹਸ਼। ਪੂਰਿ = ਪੂਰੀ ਕਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

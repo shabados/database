@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਤਾਰ! ਅਸੀਂ ਤੇਰੇ (ਦਰ ਦੇ) ਮੰਗਤੇ ਹਾਂ, ਤੂੰ ਸਾਨੂੰ ਦਾਨ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿਖਾਰੀ = ਮੰਗਤੇ। ਦੇਹਿ = ਦੇਹਿਂ, ਤੂੰ ਦੇਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

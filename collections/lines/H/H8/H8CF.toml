@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭੀ ਜੀਵ ਜਾਣ ਬੁੱਝ ਕੇ ਕੁਰਾਹੇ ਨਹੀਂ ਪੈਂਦਾ (ਜੀਵ ਦੇ ਵੱਸ ਦੀ ਗੱਲ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਣਿ = ਜਾਣ ਬੁੱਝ ਕੇ, ਸਮਝ ਸੋਚ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

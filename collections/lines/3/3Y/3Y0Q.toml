@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦਾ ਉਪਦੇਸ਼ ਸੁਣ ਕੇ ਜਮਾਂ ਦੀ ਭੀ ਸਾਰੀ ਮੁਥਾਜੀ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਣਿ = ਮੁਥਾਜੀ। ਜਮਾਣੀ = ਜਮਾਂ ਦੀ {ਆਣੀ-ਦੀ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

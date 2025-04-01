@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਹਰੇਕ ਮਨੁੱਖ ਨੂੰ ਧੋਖਾ ਦੇਂਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਪ੍ਰਾਣੀ ਨੂੰ। ਛਲੈ = ਧੋਖਾ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

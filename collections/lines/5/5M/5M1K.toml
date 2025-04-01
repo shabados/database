@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ ਮਨ! ਤੂੰ ਸਦਾ ਇਹ ਸੋਚਦਾ ਹੈਂ ਕਿ) ਕੁਝ ਧਨ-ਪਦਾਰਥ ਖਾ-ਹੰਢਾ ਲਈਏ ਤੇ ਕੁਝ ਸਾਂਭ ਕੇ ਰੱਖੀ ਜਾਈਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਜੈ = ਖਾ ਲਈਏ, ਵਰਤ ਲਈਏ। ਧਰਿ = ਸਾਂਭ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

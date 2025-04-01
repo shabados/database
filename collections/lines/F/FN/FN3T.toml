@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਅੱਖੀਂ ਵੇਂਹਦਿਆਂ ਸਾਰਾ ਜਗਤ ਤੁਰਿਆ ਜਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਤ ਨੈਨ = ਅੱਖੀ ਵੇਖਦਿਆਂ, ਸਾਡੇ ਸਾਹਮਣੇ। ਜਾਈ = ਜਾ ਰਿਹਾ ਹੈ, ਨਾਸ ਹੋ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

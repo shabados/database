@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭਨੀਂ ਥਾਈਂ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਸਭ ਠਾਈ = ਸਭ ਥਾਵਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

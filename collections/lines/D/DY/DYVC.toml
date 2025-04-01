@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ! ਤੂੰ ਭਗਤੀ ਨੂੰ ਪਿਆਰ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਿ ਵਛਲੁ = ਭਗਤੀ ਨੂੰ ਪਿਆਰ ਕਰਨ ਵਾਲਾ। ਅਨਾਥਹ ਨਾਥੇ = ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

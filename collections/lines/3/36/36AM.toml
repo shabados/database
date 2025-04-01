@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੂਰਖ!) ਤੂੰ ਰਾਤ ਸੌਂ ਕੇ ਗੁਜ਼ਾਰਦਾ ਜਾ ਰਿਹਾ ਹੈਂ ਤੇ ਦਿਨ ਖਾ ਖਾ ਕੇ ਵਿਅਰਥ ਬਿਤਾਂਦਾ ਜਾਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਦਿਵਸੁ = ਦਿਨ। ਖਾਇ = ਖਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

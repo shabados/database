@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੇ ਬਚਨਾਂ ਦੇ ਨੂਰ ਨਾਲ ਇਹ ਸੰਸਾਰ ਜਗਮਗਾ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂ ਰੌਸ਼ਨ ਅਜ਼ ਨੂਰਿ ਅਰਸ਼ਾਦਿ ਊ ।"
+page = 3
+line = 66
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਹਿਲਾਦ ਆਪ ਵਿਗੜਿਆ ਹੋਇਆ ਹੈ, (ਉਸ ਨੇ) ਸਾਰੇ ਮੁੰਡੇ ਭੀ ਵਿਗਾੜ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਟੜੇ = ਪੜ੍ਹਨ ਵਾਲੇ ਮੁੰਡੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ ਵਿਚ ਮਸਤ ਹੋਇਆ ਮਨੁੱਖ (ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚ) ਸੁੱਤਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਵਾਰੋ = ਮਸਤ, ਮਤਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

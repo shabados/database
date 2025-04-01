@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਕਿਸੇ ਗੈਰ ਅੱਗੇ ਮੱਥਾ ਨਹੀਣ ਟੇਕਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਸਿਜਦਾ ਬਰ ਰੂਇ ਗ਼ੈਰ ਦੀਗਰ ਨਭਕੁਨੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

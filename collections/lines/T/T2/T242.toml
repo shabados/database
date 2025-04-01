@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਮੱਛੀ ਹੈਂ ਤੇ ਆਪ ਹੀ (ਮੱਛੀ ਨੂੰ ਫਸਾਣ ਵਾਲਾ) ਜਾਲ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਲਾ = (ਮੱਛੀ ਨੂੰ ਫਸਾਣ ਵਾਲਾ) ਜਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

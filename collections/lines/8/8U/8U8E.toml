@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੋ ਮਨੁੱਖ ਨਿਰੀਆਂ) ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ ਕਰਦਾ ਹੈ ਉਹ ਅਟੱਲ ਹੁਕਮ ਨੂੰ ਨਹੀਂ ਸਮਝਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਨੀ ਬਦਨੀ = ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

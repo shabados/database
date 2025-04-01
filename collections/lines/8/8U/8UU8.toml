@@ -5,6 +5,11 @@ language = "pa"
 data = "ਫ਼ਕੀਰਾਣ ਨੇ ਬਾਦਸ਼ਾਹਾਣ ਨੂੰ ਬਾਦਸ਼ਾਹੀ ਬਖਸ਼ੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹਾਣ ਰਾ ਫ਼ਕੀਰਾਣ ਬਾਦਸ਼ਾਹੀ ਦਾਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

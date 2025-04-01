@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸਤਿਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਨੂੰ ਸਹੀ ਸਮਝ ਨਹੀਂ ਪੈਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨੈ = ਕਿਸੇ ਨੂੰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

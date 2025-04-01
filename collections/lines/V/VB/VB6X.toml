@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਕ! ਮੈਂ ਤੇਰਾ ਨਿੱਕਾ ਜਿਹਾ ਦਾਸ ਹਾਂ, ਮੈਂ ਗੁਣ-ਹੀਨ ਹਾਂ, ਮੇਰੇ ਵਿਚ ਕੋਈ ਗੁਣ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਰੋ = ਨਿੱਕਾ ਜਿਹਾ ਦਾਸ। ਨਿਰਗੁਨ = ਗੁਣ-ਹੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

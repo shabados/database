@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਅਕਾਲਪੁਰਖ ਦੀ ਮਾਲਕੀ ਅਤੇ ਪਿਆਰ ਵਾਲਾ ਬੰਦਾ ਚਿਰੰਜੀਵ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਖ਼ੁਦਾ ਵੰਦੀਸ਼ ਅਰਜ਼ਾਨੀ ਬਵਦ ।੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

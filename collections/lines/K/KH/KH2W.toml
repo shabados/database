@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮੇਰੀ ਪੋਟਲੀ ਬੰਨ੍ਹ ਕੇ (ਇਹਨਾਂ ਮੈਨੂੰ) ਹਾਥੀ ਅੱਗੇ ਸੁੱਟ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਟ = ਪੋਟਲੀ। ਕੁੰਚਰੁ = ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

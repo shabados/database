@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ ਸੁਰਗ (ਦੀ ਲਾਲਸਾ) ਅਤੇ ਨਰਕ (ਦੇ ਡਰ) ਤੋਂ ਬਚ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਰਹਿਓ = ਬਚ ਗਿਆ ਹਾਂ। ਪਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਥ, ਹਾਥੀ, ਘੋੜੇ ਤੇ (ਸੁੰਦਰ) ਕੱਪੜੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਨਹੀਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤੀ = ਹਾਥੀ। ਅਸ੍ਵ = ਘੋੜੇ। ਬਸਤ੍ਰਾ = ਕੱਪੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

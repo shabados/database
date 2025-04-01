@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਰ ਪਵਿੱਤ੍ਰ ਬਚਨ ਤੋਂ ਵੀ ਵਧੇਰੇ ਪਵਿੱਤ੍ਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹਰ ਕਾਲਿ ਕੁਦੁਸ ਆਮਦਾ ਕੁਦੁਸਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

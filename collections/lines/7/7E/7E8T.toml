@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੋਹ ਵਿਚ) ਬੇਬਸ ਹੋਇਆ ਜੀਵ ਆਪਣੀ ਮੌਤ ਨੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਣੁ = ਮੌਤ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

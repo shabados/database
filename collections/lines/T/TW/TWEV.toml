@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਸੇਵਕ ਨੂੰ ਛੇਤੀ ਮਿਲੋ, ਢਿੱਲ ਨਾਹ ਕਰ ॥੩॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਗਿ = ਛੇਤੀ। ਬਿਲਾਂਬਾ = ਦੇਰ, ਢਿੱਲ।੩ ॥੩॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

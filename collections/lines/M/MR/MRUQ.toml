@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਤੋਂ ਖੁੰਝੇ ਹੋਏ ਮਨੁੱਖ) ਪਰਾਈਆਂ ਇਸਤ੍ਰੀਆਂ ਭੋਗਦੇ ਹਨ ਤੇ ਭਲੇ ਮਨੁੱਖਾਂ ਦੀ ਨਿੰਦਾ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ = ਪਰਾਈ। ਤ੍ਰਿਅ = ਇਸਤ੍ਰੀਆਂ। ਰਮਹਿ = ਭੋਗਦੇ ਹਨ। ਬਕਹਿ = ਬੋਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

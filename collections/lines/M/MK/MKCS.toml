@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੌਲਤ ਹਰ ਕਿਸੇ ਨੂੰ ਨਸੀਬ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸੇ ਰਾ ਨੀਸਤ ਈਣ ਦੌਲਤ ਨਸੀਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

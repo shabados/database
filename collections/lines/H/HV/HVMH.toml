@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ (ਮੇਰੇ ਜਾਦੂ) ਮੁਰਦਿਆਂ ਨੂੰ ਸੁਰਜੀਤ ਕਰ ਦਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਦਗਾਂ ਰਾ ਕੁਨੰਦ ਜ਼ਿੰਦਾ ਹਮੀ ।"
+page = 1
+line = 35
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

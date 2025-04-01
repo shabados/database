@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਤੇ ਸਰੀਰ ਵਿਚ ਇਕ ਪ੍ਰਭੂ ਹੀ ਪਰੋਤਾ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਤਾ = ਰੱਤਾ ਹੋਇਆ, ਰਸਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

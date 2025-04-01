@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਆਪਣੇ ਅੰਦਰੋਂ ਵਿਕਾਰਾਂ ਦਾ) ਰੌਲਾ ਮੁਕਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਝਗਰੁ = ਝਗੜਾ, ਰੌਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

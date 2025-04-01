@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ ਤੇ ਇਹ ਲੋਕ ਤੇ ਪਰਲੋਕ ਦੋਵੇਂ ਹੀ ਸੰਵਾਰ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ ਕੁਲ = ਇਹ ਲੋਕ ਤੇ ਪਰਲੋਕ। ਸਾਧਿ = ਸੰਵਾਰ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਆਪਣੇ ਅੰਦਰ ਵਸਾਂਦੀ ਹੈ ਉਹ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲ ਪੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਣਿ = ਇਸਤ੍ਰੀ {कामिनी}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

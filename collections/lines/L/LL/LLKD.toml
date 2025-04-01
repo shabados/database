@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਹੇ ਪ੍ਰਭੂ! ਜੋ ਕੁਝ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ, (ਤੇਰੀ ਮਰਜ਼ੀ ਤੋਂ ਲਾਂਭੇ) ਹੋਰ ਕੁਝ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਭਾਵੈ = ਹੇ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਭਾਵੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

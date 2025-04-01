@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਉਸ ਦੇ ਅੰਦਰੋਂ) ਮੌਤ ਦਾ ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੀ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ। ਜਮ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

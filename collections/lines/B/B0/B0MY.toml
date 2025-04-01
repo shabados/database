@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮੀਂਹ ਪਿਆਂ ਜੀਵਾਂ ਵਿਚ ਜੀਵਨ-ਜੁਗਤੀ (ਭਾਵ, ਸੱਤਿਆ) ਆਉਂਦੀ ਹੈ ਅਤੇ ਧਰਤੀ ਨੂੰ ਹੀ ਹਰਿਆਵਲ ਰੂਪ ਸੁਹੱਪਣ ਮਿਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੂਠੈ = ਮੀਂਹ ਪਿਆਂ। ਜੁਗਤਿ = ਜੀਵਨ-ਜੁਗਤੀ। ਧਰਣੀ = ਧਰਤੀ। ਸੀਗਾਰੁ = ਸੁਹੱਪਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

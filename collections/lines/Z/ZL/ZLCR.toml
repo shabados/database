@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ (ਤੇਰੇ ਦਿਲ ਦਾ) ਸਾਰਾ ਹਾਲ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਕ ਅਲਾਹ = ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ। ਅਲਾਹ = ਅੱਲਾਹ। ਹਵਾਲ ਮਾਲੂਮ ਕਰਦੰ = (ਤੇਰੇ ਦਿਲ ਦਾ) ਹਾਲ ਜਾਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

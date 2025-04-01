@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ (ਪ੍ਰਭੂ!) ਮੈਂ ਤਿੰਨਾਂ ਹੀ ਭਵਨਾਂ ਵਿਚ ਭਾਲ ਵੇਖਿਆ ਹੈ ਕਿ ਜਗਤ ਵਿਚ 'ਹਉਮੈ' ਚੰਦਰੀ (ਬਲਾ ਚੰਬੜੀ ਹੋਈ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਤਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

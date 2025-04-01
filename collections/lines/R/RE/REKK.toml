@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਲਕ-ਪ੍ਰਭੂ ਦੇ ਚਰਨ ਸੋਹਣੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹਾਵੇ = ਸੁਖ ਦੇਣ ਵਾਲੇ, ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

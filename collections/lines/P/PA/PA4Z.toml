@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪੂਰੇ ਗੁਰੂ ਨੇ (ਮੇਰੇ ਉਤੇ) ਬਖ਼ਸ਼ਸ਼ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਗੁਰੂ ਨੇ। ਦਾਤਿ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

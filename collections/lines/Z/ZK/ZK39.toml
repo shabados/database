@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਨਮ ਮਰਨ ਤੋਂ ਰਹਿਤ ਹੋ ਕੇ ਸਦਾ ਹੀ ਜੀਊਂਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰ = ਜਨਮ ਮਰਨ ਤੋਂ ਰਹਿਤ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

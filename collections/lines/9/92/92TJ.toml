@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੀ ਜਿੰਦੇ!) ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਉਸ ਨੇ ਆਪਣਾ ਆਪ ਪਰਗਟ ਕਰ ਦਿੱਤਾ, ਉਹਨਾਂ ਦੀਆਂ ਭਟਕਣਾਂ ਮੁੱਕ ਗਈਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨੇਹਾਰੇ = ਸਭ ਕੁਝ ਕਰ ਸਕਣ ਵਾਲੇ ਨੇ। ਨਾਸਨ ਭਾਜਨ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

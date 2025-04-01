@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮਤਿ ਉਸ ਦੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਦੀ ਹੈ ਉਹ ਹੋਛੀ ਰਹਿੰਦੀ ਹੈ, ਉਹ ਹੋਛਾ ਹੀ ਬਚਨ ਬੋਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਮਤਿ = ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੀ ਮਤਿ। ਹਉਲੀ = ਹੋਛੀ। ਬੋਲੁ = ਹੋਛਾ ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹਿਰਦਾ (ਸਦਾ) ਸੁਖੀ ਹੈ ਜਿਸ ਦੀ ਰਾਹੀਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਏ ਜਾਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦਾ = ਹਿਰਦਾ। ਸੁਹੇਲਾ = ਸੁਖੀ। ਗਾਈਐ = ਗਾਵੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

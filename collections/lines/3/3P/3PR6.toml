@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਰਚੀ ਹੈ ਤੇ ਜੋ ਰਚ ਕੇ ਨਾਸ ਕਰਨ ਦੇ ਭੀ ਸਮਰੱਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ। ਥਾਪਿ = ਰਚ ਕੇ। ਉਥਾਪਿ = ਉਥਾਪੇ, ਨਾਸ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

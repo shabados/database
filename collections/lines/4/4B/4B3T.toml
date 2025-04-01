@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ ਸ੍ਰਿਸ਼ਟੀ ਪੈਦਾ ਕਰ ਕੇ ਸਾਰੀ ਧਰਤੀ ਨੂੰ ਸਹਾਰਾ ਦਿੱਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰੀ = ਆਸਰਾ ਦਿੱਤਾ ਹੋਇਆ ਹੈ। ਧਰਣਾ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

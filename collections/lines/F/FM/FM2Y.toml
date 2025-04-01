@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭਨਾਂ ਦੀ ਜਿੰਦ ਵਿਚ ਸਭਨਾਂ ਦੇ ਪ੍ਰਾਣਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ ਰਹੇ = ਮੌਜੂਦ ਹੈਂ, ਵਿਆਪਕ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

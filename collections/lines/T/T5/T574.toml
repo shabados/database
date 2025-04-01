@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਦੇਵੀ ਦੇਵਤੇ ਉਸ ਤੋਂ ਕੁਬਾਨ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਮਲਕੂਤੀਆਂ ਫ਼ਿਦਾਇ ਊ ।੪।"
+page = 1
+line = 4
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

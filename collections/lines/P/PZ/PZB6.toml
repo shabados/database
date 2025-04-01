@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਨਾਲ ਮਨੁੱਖ ਹਰੇਕ ਚੀਜ਼ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਦੀ ਰਾਹੀਂ। ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

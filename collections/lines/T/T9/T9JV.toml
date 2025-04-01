@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਰੱਬ ਦਾ ਨਾਮ ਮੂੰਹੋਂ ਸਾਫ਼ ਦਿਲ ਨਾਲ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਲਿ ਹਛੇ = ਸਾਫ਼ ਦਿਲ ਨਾਲ। ਮੁਖਿ = ਮੂੰਹੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

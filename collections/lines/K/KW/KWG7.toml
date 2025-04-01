@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਦੋਂ) ਸੁਹਾਵਣੀ ਰਾਤੇ (ਬੱਦਲ) ਚਮਕਦਾ ਹੈ ਤੇ ਝੜੀ ਲਾ ਕੇ ਵਰ੍ਹਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿੰਨੀ = ਭਿੱਜੀ ਹੋਈ। ਭਿੰਨੀ ਰੈਣਿ = ਸੁਹਾਵਣੀ ਰਾਤ ਵੇਲੇ। ਛਹਬਰ = ਝੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

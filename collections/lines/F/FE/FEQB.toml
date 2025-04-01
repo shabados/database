@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਜੋਗੀ ਜੰਗਮ ਸੰਨਿਆਸੀ ਭੀ ਕੁਰਾਹੇ ਪਏ ਰਹੇ, ਉਹਨਾਂ ਨੇ ਭੀ ਅਸਲੀ ਵਸਤ ਨਾਹ ਲੱਭੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੰਗਮ = ਸ਼ੈਵ ਮਤ ਦੇ ਰਮਤੇ। ਤਤੁ = ਅਸਲ ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

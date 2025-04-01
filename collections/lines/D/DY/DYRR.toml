@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਨੂੰ ਗੁਰੂ ਦੀ ਟਹਲ-ਸੇਵਾ, ਗੁਰੂ ਦੀ ਰਜ਼ਾ ਹੀ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੀ = ਚੰਗੀ ਲੱਗਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

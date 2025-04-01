@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ) ਹਾੜ ਮਹੀਨਾ ਚੰਗਾ ਜੋਬਨ ਵਿਚ ਹੁੰਦਾ ਹੈ, ਆਕਾਸ਼ ਵਿਚ ਸੂਰਜ ਤਪਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਾੜੁ = ਹਾੜ ਮਹੀਨਾ। ਗਗਨਿ = ਆਕਾਸ਼ ਵਿਚ। ਭਲਾ = ਚੰਗਾ, ਜੋਬਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

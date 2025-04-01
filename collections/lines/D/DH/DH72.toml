@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਤੂੰ ਵੀ ਰੱਬ ਦੇ ਮੇਲੀਆਂ ਵਿੱਚੋਂ ਹੋ ਜਾਵੇਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਤੂ ਹਮ ਅਜ਼ ਵਾਸਿਲਾਨਿ ਊ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

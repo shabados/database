@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਵਿਸ਼ਿਆਂ ਦਾ) ਧੰਧਾ ਵਿਸ਼ਈ ਮਨੁੱਖ ਨੂੰ ਗ੍ਰਸੀ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਸਤ = ਗ੍ਰਸਦਾ ਹੈ, ਕਾਬੂ ਕਰੀ ਰੱਖਦਾ ਹੈ। ਧੰਧੁ = (ਵਿਸ਼ਿਆਂ ਦਾ) ਧੰਧਾ। ਬਿਖਈ = ਵਿਸ਼ਈ (ਮਨੁੱਖ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

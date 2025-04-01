@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿੱਸਦੇ ਅਣਦਿੱਸਦੇ ਸਾਰੇ ਜੀਵ-ਜੰਤੂ ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਆਰਾਧਨ ਕਰਦੇ ਹਨ, ਹਵਾ ਪਾਣੀ ਦਿਨ ਰਾਤ ਜਿਸ ਨੂੰ ਧਿਆਉਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਤ = ਅਣਦਿੱਸਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

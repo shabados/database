@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਚੰਗੀ ਵਿਚਾਰ ਫੁਰ ਪਏ ਤਾਂ ਕੋਈ (ਵਾਪਰੀ ਹੋਈ) ਮੁਸ਼ਕਲ ਹੱਲ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੂਟੇ ਗੰਠਿ = ਗੰਢ ਖੁਲ੍ਹ ਜਾਂਦੀ ਹੈ, ਮੁਸ਼ਕਲ ਹੱਲ ਹੋ ਜਾਂਦੀ ਹੈ। ਪੜੈ ਵੀਚਾਰਿ = ਜੇ ਮਨ ਵਿਚ ਚੰਗੀ ਸੋਚ ਪੈ ਜਾਏ, ਜੇ ਚੰਗੀ ਵਿਚਾਰ ਫੁਰ ਪਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

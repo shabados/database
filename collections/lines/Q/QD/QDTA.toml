@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਗੁਰੂ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ, ਅੱਖਾਂ ਦੇ ਛੌੜ ਖਿਨ ਵਿਚ ਕੱਟੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਯਨ = ਨੇਤ੍ਰ, ਅੱਖਾਂ। ਤਿਮਰ = ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

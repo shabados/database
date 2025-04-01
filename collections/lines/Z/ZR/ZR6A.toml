@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੌਤ) ਅਗਲੇ ਪਾਸੇ (ਵਿਕਾਰੀਆਂ ਵਾਸਤੇ) ਤਪੇ ਹੋਏ ਨਰਕ ਸੁਣੀਂਦੇ ਹਨ, ਉਥੇ ਉਹਨਾਂ ਦੀ ਹਾਹਾਕਾਰ ਤੇ ਰੌਲਾ ਪੈ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੂਲ = ਰੌਲਾ। ਕਾਹਾਹਾ = ਹਾਹਾਕਾਰ। ਦੋਜਕ = ਨਰਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

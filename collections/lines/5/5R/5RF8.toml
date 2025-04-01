@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਜਾਨ ਤੇ ਸਿਆਣੇ ਮਾਲਕ! ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨ = ਹੇ ਸੁਜਾਨ! ਪ੍ਰਬੀਨ = ਹੇ ਸਿਆਣੇ! ਅਹੀ = ਮੰਗੀ ਹੈ, ਆਇਆ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

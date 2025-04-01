@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਮੈਨੂੰ ਕਿਉਂ ਵਿਸਾਰਦਾ ਹੈਂ? ਤੇਰੇ ਵਿਸਰਿਆਂ ਮੈਨੂੰ ਬੜਾ ਆਤਮਕ ਦੁੱਖ ਵਾਪਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀ ਵਿਸਰਹਿ = ਕਿਉਂ ਵਿੱਸਰਦਾ ਹੈਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

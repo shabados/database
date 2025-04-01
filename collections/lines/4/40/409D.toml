@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਜਗਤ ਵਿਚ ਕੋਈ (ਤੋੜ ਸਾਥ ਨਿਬਾਹੁਣ ਵਾਲਾ) ਮਿੱਤਰ (ਮੈਂ) ਨਹੀਂ ਵੇਖਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

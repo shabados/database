@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਅਤੁੱਟ ਅਤੇ ਪੂਰਨ ਪਰਤਾਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖੰਡ = ਅਤੁੱਟ। ਪੂਰਨ = ਮੁਕੰਮਲ। ਜਾ ਕੋ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਕ੍ਰੋੜਾਂ ਵਿਚੋਂ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਹੀ (ਇਹ ਦਾਤਿ) ਹਾਸਲ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ ਮਧੇ = ਕ੍ਰੋੜਾਂ ਵਿਚੋਂ। ਲੇਇ = ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

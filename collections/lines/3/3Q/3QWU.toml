@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ, ਸ਼ਾਸਤ੍ਰਾਰਥ ਵਿਚ, ਅਹੰਕਾਰ ਵਿਚ ਫਸ ਕੇ ਜ਼ਰੂਰ ਦੁਖੀ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਬਾਦਿ = ਝਗੜੇ ਵਿਚ। ਅਹੰਕਾਰਿ = ਅਹੰਕਾਰ ਵਿਚ। ਸਰਪਰ = ਜ਼ਰੂਰ। ਰੁੰਨਿਆ = ਰੋਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

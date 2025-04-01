@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਖ਼ਤ ਜਾਨ ਆਸ਼ਕ ਦੀ ਦਵਾ ਭਲਾ ਵੈਦ ਕੀ ਕਰ ਸਕਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਬੀਬ ਆਸ਼ਿਕਿ ਬੇਦਰਦ ਰਾ ਦਵਾ ਚਿ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

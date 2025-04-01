@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੇ ਕੋਈ ਭੈੜਾ ਬੰਦਾ ਮਿਲ ਪਏ, ਤਾਂ ਉੱਥੇ ਚੁੱਪ ਰਹਿਣਾ ਹੀ ਠੀਕ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸੰਤੁ = ਅ-ਸੰਤੁ, ਜੋ ਸੰਤ ਨਹੀਂ, ਮੰਦਾ ਮਨੁੱਖ। ਮਸਟਿ = ਚੁੱਪ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

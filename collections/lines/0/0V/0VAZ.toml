@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁੱਖਾਂ ਦਾ ਖੂਹ-ਰੂਪ ਜੋ ਘੋਰ ਨਰਕ ਹੈ, ਉਸ ਨਿੰਦਕ ਨੂੰ ਪਕੜ ਕੇ ਉਸ (ਖੂਹ) ਵਿਚ ਪਾਇਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢੋਇਆ = ਪਾਇਆ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

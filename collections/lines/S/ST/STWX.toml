@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਇਹ (ਅੰਨ-ਰੂਪ) ਧਨ ਤਾਂ ਕਰਤਾਰ ਦਾ ਇਕ ਤਮਾਸ਼ਾ ਹੈ ਜੋ ਕਦੇ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਕਦੇ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਲੁ = ਤਮਾਸ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

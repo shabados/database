@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ) ਵੇਦ-ਪਾਠ ਤੇ ਵੇਦ-ਰਚਨਾ ਭੀ ਅਹੰਕਾਰ ਪੈਦਾ ਕਰਦਾ ਹਨ ਤੇ ਬੰਧਨਾਂ ਦਾ ਮੂਲ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਦੁ = ਬੇਦਾਂ ਦਾ ਪਾਠ। ਬਾਦੁ = ਝਗੜਾ, ਚਰਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

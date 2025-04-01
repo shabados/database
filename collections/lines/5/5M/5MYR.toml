@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮਾਪੇ ਆਪਣੇ ਬੱਚੇ ਨਾਲ ਪਿਆਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆ = ਪਿਆਰ। ਬਾਲਾ = ਬੱਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

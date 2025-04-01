@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੀਰ! ਇਸ ਤਰ੍ਹਾਂ (ਇਸ ਜੀਵਨ-ਖੇਡ ਵਿਚ) ਦਾਅ ਚਲਾਵੋ (ਪਾਸਾ ਸੁੱਟੋ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ ਬਿਧਿ = ਇਸ ਤਰੀਕੇ ਨਾਲ। ਪਾਸਾ ਢਾਲਹੁ = ਪਾਸਾ ਸੁੱਟੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

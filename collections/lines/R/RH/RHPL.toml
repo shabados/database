@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕੱਠ ਸੁਭਾਗਾ ਹੈ ਜਿਸ ਦੀ ਨੀਣਵ ਸੱਚ ਉੱਪਰ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਹਜੂਮਿ ਖ਼ੁਸ਼ ਕਿ ਹੱਕ ਬੁਨਿਆਦਿ ਊ-ਸਤ ।੨੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

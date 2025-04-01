@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਡੂੰਘੇ ਤੇ ਵੱਡੇ ਜਿਗਰ ਵਾਲੇ! ਹੇ ਬੇਅੰਤ ਗੋਬਿੰਦ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਭੀਰ = ਹੇ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

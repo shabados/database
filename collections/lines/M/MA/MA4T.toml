@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੈ) ਪ੍ਰਭੂ ਨੇ (ਉਸ ਦੀ) ਬਾਂਹ ਫੜ ਕੇ ਉਸ ਨੂੰ ਆਪਣਾ ਬਣਾ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਕੜਿ = ਫੜ ਕੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਅਪਨਇਆ = ਆਪਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

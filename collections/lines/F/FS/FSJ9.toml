@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਅੰਤ ਕੌਤਕਾਂ ਦੇ ਮਾਲਕ ਗੋਵਿੰਦ! (ਸਾਨੂੰ) ਮਿਲ, ਅਸੀਂ ਮੂਰਖ ਬੇ-ਸਮਝ ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ, ਬੇ-ਸਮਝ। ਗੋਵਿੰਦ = ਹੇ ਗੋਵਿੰਦ! ਰੰਗਾ = ਕਈ ਚੋਜ = ਤਮਾਸ਼ੇ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

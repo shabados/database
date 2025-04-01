@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲਦਿਆਂ ਪਰਮਾਤਮਾ (ਮੇਰੇ) ਚਿਤ ਵਿਚ ਆ ਵੱਸਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟਤ = ਮਿਲਦਿਆਂ। ਸੰਗਿ = ਨਾਲ। ਚਿਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

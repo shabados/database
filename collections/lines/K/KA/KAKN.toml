@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਹਰੀ ਦਾ ਨਾਮ ਤੋਤੇ ਨੂੰ ਪੜ੍ਹਾਉਂਦਿਆਂ ਵੇਸਵਾ ਭੀ ਵਿਕਾਰਾਂ ਵਲੋਂ ਹਟ ਗਈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਆ = ਤੋਤਾ। ਗਨਿਕਾ = ਵੇਸਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

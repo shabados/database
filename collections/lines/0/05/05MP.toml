@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਦਿਲ ਅਤੇ ਜ਼ਬਾਨ ਉਪਰ ਸਦਾ ਰੱਬ ਦੀ ਯਾਦ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਬਦਿਲ ਯਾਦਿ ਖ਼ੁਦਾ ਵਾ ਰਾ ਜ਼ੁਬਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

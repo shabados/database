@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁੱਲ ਜਾਂਦਾ ਹੈ ਉਸੇ ਨੂੰ ਹੀ ਦੁੱਖ ਆ ਘੇਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਉ = ਜਿਸ ਮਨੁੱਖ ਨੂੰ। ਤਾਹੂ ਕਉ = ਉਸੇ ਨੂੰ ਹੀ। ਪੀਰ = ਪੀੜ, ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਗਿਆਨਵਾਨ ਹੈ, ਉਹੀ ਮਨੁੱਖ ਸੁਰਤਿ-ਅੱਭਿਆਸੀ ਹੈ, ਉਹੀ ਮਨੁੱਖ ਪਿਆਰ-ਸੁਭਾਵ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੀ = ਗਿਆਨਵਾਨ। ਧਿਆਨੀ = ਸੁਰਤਿ ਜੋੜਨ ਵਾਲਾ। ਸੁਭਾਈ = ਸ੍ਰੇਸ਼ਟ ਪ੍ਰੇਮ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਦੇ ਭੀ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਤੋਂ ਨਾਹ ਵਿਸਾਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਵਿਸਾਰੇ = ਬਿਸਾਰਿ, ਭੁਲਾਓ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

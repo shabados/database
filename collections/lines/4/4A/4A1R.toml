@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਇਸ ਦੀ ਕੋਈ ਮਾਂ ਹੈ ਨਾਹ ਇਹ ਕਿਸੇ ਦਾ ਪੁੱਤਰ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇ = ਮਾਂ। ਇਸੁ = ਇਸ ਦੀ। ਕਾਹੂ = ਕਿਸੇ ਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

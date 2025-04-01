@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! ਹੁਣ ਮੈਂ ਪ੍ਰਭੂ ਦੇ ਦਰਸ਼ਨ ਤੋਂ ਬਿਨਾ ਵਿਆਕੁਲ ਹੋ ਜਾਂਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈਸੇ ਜੀਵਉ = ਮੈਂ ਨਹੀਂ ਜੀਊ ਸਕਦਾ। ਮਾਈ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

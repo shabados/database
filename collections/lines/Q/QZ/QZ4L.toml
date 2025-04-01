@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਰੱਬ ਜੀ # ਮੇਰੇ ਇਸ ਦਿਲ ਨੂੰ ਆਪਣੇ ਪ੍ਰੇਮ ਦਾ ਚਾਉ ਬਖ਼ਸ਼ੋ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾ ਇਲਾਹੀ ਈਂ ਦਿਲਮ ਰਾ ਸ਼ੌਕ ਦਿਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

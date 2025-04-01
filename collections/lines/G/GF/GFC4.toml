@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਜਿਤਨੇ ਭੀ ਚਤੁਰਾਈ ਦੇ ਕੰਮ ਕਰਦਾ ਰਿਹਾ, ਉਤਨੇ ਹੀ ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਬੰਧਨ ਪੈਂਦੇ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤੀ = ਜਿਤਨੀ। ਤੇਤੇ = ਉਤਨੇ। ਬੰਧ = ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਵੇਂ ਜੀਵ ਨੂੰ) ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਅੱਗ ਦੁੱਖ ਨਹੀਂ ਦੇਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਹੈ = ਤੱਕਦੀ, ਦੁੱਖ ਦੇਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

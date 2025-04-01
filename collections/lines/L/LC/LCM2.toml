@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਸਦਾ ਪ੍ਰਭੂ ਦਾ ਜਾਪ ਜਪਦਾ ਹੈ ਪ੍ਰਭੂ ਦਾ ਭਜਨ ਕਰਦਾ ਹੈ ॥੪॥੮੬॥੧੫੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪੇ = ਜਪਦਾ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਰਾ ਮਿੱਤਰ ਪਰਵਾਰ (ਦੇ ਜੀਵ, ਸਾਰੇ ਹੀ ਇਸ ਮਾਇਆ ਨੂੰ) ਵੇਖ ਕੇ (ਆਪੋ ਵਿਚ) ਲੜ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਬਿਬਾਦੇ = ਝਗੜਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

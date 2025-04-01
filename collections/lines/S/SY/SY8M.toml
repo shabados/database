@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਮੇਰਾ ਆਸਰਾ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਫ਼ਖ਼ਰ ਦਾ ਥਾਂ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਦੁੱਖ ਕਲੇਸ਼ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕ ਸਕਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ। ਪੀਰ = ਪੀੜ, ਦੁੱਖ-ਕਲੇਸ਼ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

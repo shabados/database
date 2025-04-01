@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ (ਤੇਰੇ ਦਰ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਦਰ ਨਹੀਂ ਲੱਭਦਾ, ਹੋਰ ਕਿਸ ਦੇ ਅੱਗੇ ਮੈਂ ਸਲਾਮ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਭਾ = ਦੂਜਾ, (ਤੈਥੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ। ਨੀਮ੍ਹ੍ਹਿ = ਨਹੀਂ। ਕੋ = ਕੋਈ। ਕੋ ਬੀਭਾ = ਕੋਈ ਦੂਜਾ। ਕੈ = ਕਿਸ ਨੂੰ? ਕਰੀ = ਮੈਂ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

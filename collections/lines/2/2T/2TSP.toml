@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਨਿਰਮੋਲਕ ਪਾਣੀ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਰੁ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

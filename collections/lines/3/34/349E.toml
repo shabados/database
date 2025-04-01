@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਜੋਤਿ ਵਿਚ ਆਪਣੀ ਆਤਮਾ ਟਿਕਾ ਕੇ ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਇਕ-ਰਸ ਗੀਤ ਗਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਦ = ਇਕ-ਰਸ, ਕਦੇ ਨਾਹ ਮੁੱਕਣ ਵਾਲਾ। ਧਰਿ = ਧਰ ਕੇ, ਟਿਕਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕਿਤੇ ਧਾਰਮਿਕ ਕਰਮ-ਕਾਂਡ ਸੀ ਨਾਹ ਕਿਤੇ ਮਿੱਠੀ ਮਾਇਆ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਖੀ = ਮਾਖਿਓ, ਸ਼ਹਿਦ, ਮਿੱਠੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

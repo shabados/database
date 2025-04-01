@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਇੱਥੇ ਤੇ ਉੱਥੇ, ਅੰਦਰ ਤੇ ਬਾਹਰ, ਸਭ ਥਾਂ ਮੌਜੂਦ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਤੂਨੋ ਇਯਾਂ ਜੁਮਲਗੀ ਬਾਹਿਰਸ਼ ।੫੮।"
+page = 2
+line = 58
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

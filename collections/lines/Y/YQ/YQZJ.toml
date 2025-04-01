@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਸੰਸਾਰ ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਹੁਕਮ ਵਿਚ ਤੁਰਨ ਵਾਲਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆਕਾਰੀ = ਹੁਕਮ ਵਿਚ ਤੁਰਨ ਵਾਲੀ। ਧਾਰੀ = ਟਿਕਾਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

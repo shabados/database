@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ ਜਿੰਦ ਪ੍ਰਾਣ (ਦੇ ਕੇ ਜੀਵਾਂ ਦੇ) ਸਰੀਰ ਰਚੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਰਚਿਓ = ਬਣਾਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

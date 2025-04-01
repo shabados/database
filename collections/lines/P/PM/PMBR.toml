@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁੁੁਰੂ ਹਰਿ ਕਿਸ਼ਨ ਮਿਹਰ ਅਤੇ ਬਖਸ਼ਿਸ਼ ਦਾ ਰੂਪ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਹਰਿ ਕਿਸ਼ਨ ਆਂ ਹਮਾ ਫਜ਼ਲੋ ਜੂਦ ।"
+page = 8
+line = 93
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

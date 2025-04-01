@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਅੱਗ ਦਾ ਸਮੁੰਦਰ (ਸੰਸਾਰ ਬੜਾ) ਡਰਾਉਣਾ ਹੈ (ਇਸ ਤੋਂ ਬਚਨ ਲਈ) ਮੈਨੂੰ ਆਪਣੀ ਸਰਨ ਵਿਚ ਸਦਾ ਟਿਕਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਵਿਕਰਾਲਾ = ਡਰਾਉਣਾ। ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

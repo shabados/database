@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਆਪਣੇ ਪ੍ਰਭੂ ਪਾਸੋਂ 'ਨਾਮ' ਤੋਂ ਬਿਨਾ ਹੋਰ) ਕੀਹ ਮੰਗਾਂ? ਕੋਈ ਚੀਜ਼ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਨਹੀਂ (ਦਿੱਸਦੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗਉ = ਮਾਗਉਂ, ਮੈਂ ਮੰਗਾਂ। ਥਿਰੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

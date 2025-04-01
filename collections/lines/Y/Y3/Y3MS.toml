@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਅੰਡਿਆਂ ਤੋਂ, ਜਿਓਰ ਤੋਂ, ਧਰਤੀ ਤੋਂ, ਮੁੜ੍ਹਕੇ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੇ ਸਭ ਜੀਵ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਡ, ਜੇਰ, ਉਤਭੁਜ, ਸੇਤ = ਅੰਡਿਆਂ ਤੋਂ, ਜਿਓਰ ਤੋਂ, ਧਰਤੀ ਤੋਂ, ਮੁੜ੍ਹਕੇ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

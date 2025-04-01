@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਪ੍ਰਭੂ ਆਪਣੇ ਆਪ ਨੂੰ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਵਿਚ ਟਿਕਾਈ ਬੈਠਾ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਨ ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਉਰਿਧਾਰੈ = ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੂਜੇ) ਉਸ ਨੂੰ ਕੀਹ ਵਡਿਆਉਣਾ ਹੋਇਆ ਜੋ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ ਜਿਸ ਦੇ ਨਾਸ ਹੁੰਦਿਆਂ ਚਿਰ ਨਹੀਂ ਲੱਗਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤਾ = ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ। ਬਿਲਮ = ਚਿਰ, ਦੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

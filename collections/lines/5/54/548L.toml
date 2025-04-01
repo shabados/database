@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਉਤੇ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ ॥੫੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਿਆਪੈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ ॥੫੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

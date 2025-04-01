@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਪੂਰਨ ਸਤਿਗੁਰੂ ਨੂੰ ਪਰਾਪਤ ਕਰ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਕਿ ਆਰਦ ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਬਦਸਤ ।੨੧੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

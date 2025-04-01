@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਰਾਜਾ ਹੋਵੇ, ਅਮੀਰ ਹੋਵੇ, ਕਿਸੇ ਨੇ ਇੱਥੇ ਸਦਾ ਨਹੀਂ ਰਹਿਣਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਰਹਿ ਹੈ = ਨਹੀਂ ਰਹੇਗਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

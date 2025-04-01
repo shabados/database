@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਆਪਣੀ ਸੋਭਾ ਸੁਣਨ ਵਾਲਾ ਭੀ ਆਪ ਹੀ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਸਨ = ਜਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਬਦ ਹੀ (ਸਾਨੂੰ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਾਣ ਲਈ) ਸਾਡੇ ਚੁਫੇਰੇ ਪਹਿਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਕੀ = ਪਹਿਰਾ। ਚਉਗਿਰਦ = ਚੌਹੀਂ ਪਾਸੀਂ, ਚੁਫੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

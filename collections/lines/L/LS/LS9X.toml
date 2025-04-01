@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਗੁਰੂ-ਜਹਾਜ਼ ਮਿਲ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥੁ = ਜਹਾਜ਼। ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

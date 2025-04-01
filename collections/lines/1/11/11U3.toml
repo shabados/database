@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਮਿੱਤਰ, ਪਿਉ, ਮਾਂ (ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਕਿਸੇ ਦਾ ਸਦਾ ਲਈ) ਆਪਣਾ ਨਹੀਂ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸਟ = ਪਿਆਰੇ। ਆਪ = ਆਪਣਾ। ਮਾਈ = ਮਾਂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

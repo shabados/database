@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਅਨੇਕਾਂ ਜੀਵ) ਭਰਮ ਤੇ ਮੋਹ ਦੇ ਸਮੁੰਦਰ (ਵਿਚ ਡੁੱਬਣ) ਤੋਂ ਬਚ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਰੇ = ਬਚ ਗਏ। ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

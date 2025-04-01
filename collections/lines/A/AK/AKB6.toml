@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਮੈਂ ਤਾਂ) ਹੋਰ ਆਸਰੇ ਤਿਆਗ ਕੇ ਪ੍ਰਭੂ ਦਾ ਆਸਰਾ ਲਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਤਿਆਗ ਕੇ। ਆਨ = {अन्य} ਹੋਰ (ਆਸਰੇ)। ਗਹੀ = (ਮੈਂ) ਫੜੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

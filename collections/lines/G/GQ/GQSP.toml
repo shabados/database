@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਮੇਰੀ (ਕੋਈ ਉੱਚੀ) ਜਾਤਿ ਹੈ, ਨਾਹ (ਮੇਰੀ ਲੋਕਾਂ ਵਿਚ ਕੋਈ) ਇੱਜ਼ਤ ਹੈ, ਨਾਹ ਮੇਰੀ ਭੁਇੰ ਦੀ ਕੋਈ ਮਾਲਕੀ ਹੈ, ਨਾਹ ਮੇਰਾ ਕੋਈ ਘਰ-ਘਾਟ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੇਰੀ। ਪਤਿ = ਇੱਜ਼ਤ। ਥੇਹੁ = ਭੁਇੰ ਦੀ ਮਾਲਕੀ। ਥਾਉ = ਘਰ-ਘਾਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

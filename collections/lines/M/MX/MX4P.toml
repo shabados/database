@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਰੱਬ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਹੈ, ਕੋਈ ਜੀਵ ਹੁਕਮ ਤੋਂ ਬਾਹਰ (ਭਾਵ, ਹੁਕਮ ਤੋ ਆਕੀ) ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਦਰਿ = ਰੱਬ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ। ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਬਾਹਰਿ ਹੁਕਮ = ਹੁਕਮ ਤੋਂ ਬਾਹਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

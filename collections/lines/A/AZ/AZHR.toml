@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਇਹੀ ਗੱਲ ਸਦਾ ਹੀ ਆਪਣੇ ਮੂੰਹ ਨਾਲ ਆਖਦਾ ਰਹਾਂ, ਮੇਰੇ ਆਖਣ ਵਿਚ ਤ੍ਰੋਟ ਨਾਹ ਆਵੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਾਂ = ਜੇ ਮੈਂ ਆਖਾਂ। ਆਖੂੰ = ਮੂੰਹ ਨਾਲ। ਕਹਣਿ = ਆਖਣ ਵਿਚ। ਤੋਟਿ = ਘਾਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

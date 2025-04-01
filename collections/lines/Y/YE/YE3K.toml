@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਆਪਣੇ ਆਪ ਤਕ ਆਪ ਹੀ ਅੱਪੜਨ ਵਾਲਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹੂਚਾ = ਪਹੁੰਚਿਆ ਹੋਇਆ ਹੈ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

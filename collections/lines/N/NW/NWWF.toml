@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ1 ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਹਿਸਾਬ ਹੋਣ ਤੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ ਉਹ ਪੂਰੇ ਭਾਂਡੇ ਸਮਝੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

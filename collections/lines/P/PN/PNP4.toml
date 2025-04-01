@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੈਂ ਜਦੋਂ (ਜਿੱਥੇ) ਤੈਨੂੰ ਯਾਦ ਕਰਦਾ ਹਾਂ ਤੂੰ ਉੱਥੇ ਹੀ (ਆ ਪਹੁੰਚਦਾ ਹੈਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ = ਜਦੋਂ। ਸਿਮਰਾ = ਸਿਮਰਾਂ, ਮੈਂ ਚੇਤੇ ਕਰਦਾ ਹਾਂ। ਤਾਹੀ = ਉਥੇ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

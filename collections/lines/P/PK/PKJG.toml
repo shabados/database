@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰੱਬ ਕਰਕੇ) ਉਹ ਵੇਲਾ ਛੇਤੀ ਆਵੇ ਜਦੋਂ ਮੈਂ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ...ਹੈ = ਉਹ ਕੇਹੜਾ ਵੇਲਾ ਹੋਵੇ? (ਭਾਵ, ਉਹ ਵੇਲਾ ਛੇਤੀ ਆਵੇ)। ਜਿਤੁ = ਜਿਸ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

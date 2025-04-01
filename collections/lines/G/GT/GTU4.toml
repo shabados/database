@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਸਹੇਲੀਏ! ਸੁਣ ਮੇਰੇ ਖਸਮ-ਪ੍ਰਭੂ ਨੇ (ਮੇਰੀ) ਸੰਭਾਲ ਕੀਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋ ਸਖੀ = ਹੇ ਸਖੀ! ਕੰਤਿ = ਕੰਤ ਨੇ। ਕੀਅਲੋ = ਕੀਤਾ। ਖਸਮਾਨਾ = ਖਸਮ ਵਾਲਾ ਫ਼ਰਜ਼, ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

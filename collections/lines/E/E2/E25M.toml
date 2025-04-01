@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੋਟੀ ਦੇ ਇੱਕ ਟੁਕੜੇ ਲਈ ਤੂੰ ਕਿਉਣ ਹਰ ਕਮੀਨੇ ਦੇ ਮਗਰ ਨੱਸਦਾ ਫਿਰਦਾ ਹੈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰਾਏ ਗੁਰਦਾਇ ਨਾਣ ਗਿਰਦਿ ਹਰ ਦੁਨੀ ਚਿ ਮੀ ਗਰਦੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

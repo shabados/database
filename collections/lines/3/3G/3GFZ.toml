@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਤੇਰੇ ਅੰਞਾਣ ਬੱਚੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ ਰਾਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

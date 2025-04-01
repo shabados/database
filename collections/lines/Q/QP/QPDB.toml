@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਸੁਹਣੀਆਂ ਜ਼ੁਲਫ਼ਾਂ ਵਾਲੇ) ਕਲੰਦਰ-ਪ੍ਰਭੂ! ਹੇ ਸੁਹਣੇ ਕੇਸਾਂ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਉ = ਜੀ ਆਇਆਂ ਨੂੰ। ਕਲੰਦਰ = ਹੇ ਕਲੰਦਰ! ਕੇਸਵਾ = ਹੇ ਕੇਸ਼ਵ! ਹੇ ਸੋਹਣੇ ਕੇਸਾਂ ਵਾਲੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

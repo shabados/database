@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹੁਕਮ ਅਤੇ ਵਡਿਆਈ ਦੀਆਂ ਅੱਖਾਂ ਦੀ ਰੋਸ਼ਨੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਰ ਦੀਦਾਇ ਅਜ਼ਮਤੋ ਸਦਰ ਰਾ ।੧੦੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

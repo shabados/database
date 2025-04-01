@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਗ੍ਰਿਹਸਤ ਵਿਚ ਪ੍ਰਵਿਰਤ ਹੈ, ਕੋਈ ਉਦਾਸੀ ਰੂਪ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰ ਬਿਉਹਾਰ = ਕਰਮ-ਕਾਂਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

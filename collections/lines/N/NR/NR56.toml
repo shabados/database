@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਹਰਿ-ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਤੇਰਾ ਹਉਮੈ ਦਾ ਰੋਗ ਕੱਟਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਟੀਐ = ਕੱਟਿਆ ਜਾ ਸਕਦਾ ਹੈ। ਅਹੰ = ਹਉਮੈ {अहं = ਮੈਂ ਮੈਂ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

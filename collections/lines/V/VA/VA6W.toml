@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਸਰਬ-ਵਿਆਪਕ) ਪਰਮਾਤਮਾ ਦਾ ਪਵਿਤ੍ਰ ਨਾਮ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦਾ ਆਸਰਾ ਹੈ ॥੮॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਧਾਰੁ = ਆਸਰਾ ॥੮॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਪ੍ਰਭੂ ਐਸਾ ਹੈ ਕਿ ਕ੍ਰੋੜਾਂ ਸੇਵਕ ਉਸ ਦੇ ਦਰ ਤੇ (ਡਿੱਗੇ ਰਹਿੰਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਕੈ ਦਰਬਾਰੇ = ਦੇ ਦਰਬਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

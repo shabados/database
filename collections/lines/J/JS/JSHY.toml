@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿਚ ਸੁਆਸ ਸੁਆਸ ਰੱਬ ਦਾ ਸਿਮਰਨ ਅਤੇ ਜ਼ਿਕਰ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਮੌਲਾ ਦਮ ਬ-ਦਮ ਦਰ ਜਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਾਹਿਬ ਦੇ ਰੰਗ ਵਿਚ ਸਾਡਾ ਖਿਆਲ ਕਰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਬਰੰਗਿ ਸਾਹਿਬੀ ਦਾਰਦ ਨਜ਼ਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

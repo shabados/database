@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਮਨੁੱਖਾ ਜਨਮ ਦੀ ਬਾਜ਼ੀ) ਹਾਰ ਕੇ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮ੍ਹਾਰਿ = ਸੰਭਾਲ ਕੇ, ਯਾਦ ਕਰ ਕੇ, ਸਿਮਰਿਆਂ। ਹਾਰਿ = ਹਾਰ ਕੇ, ਮਨੁੱਖਾ ਜਨਮ ਦੀ ਬਾਜ਼ੀ ਹਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

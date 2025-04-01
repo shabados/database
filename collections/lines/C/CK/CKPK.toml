@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੋ ਚਾਰ ਦਿਨ (ਮਾਇਆ) ਵਰਤਣ ਦੀ ਆਸ ਤੇ ਹੀ ਇਹ ਝੂਠਾ ਜਗਤ ਕਿਤਨਾ ਹੀ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਹਕੈ = ਭਟਕਦਾ ਹੈ। ਘਨਾ = ਬਹੁਤ। ਦਿਨ ਦੁਇ = ਦੋ ਦਿਨਾਂ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

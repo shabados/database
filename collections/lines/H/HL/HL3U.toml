@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਉਸੇ ਪ੍ਰਭੂ (ਦੇ ਚਰਨਾਂ) ਦਾ ਧਿਆਨ ਧਰਨਾ ਚਾਹੀਦਾ ਹੈ, ਜੋ ਸਭ ਸ਼ਾਹਾਂ ਦੇ ਸਿਰ ਉੱਤੇ ਪਾਤਿਸ਼ਾਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਉਹੀ। ਜੀਅੜੇ = ਹੇ ਜਿੰਦੇ! ਸਿਰਿ = ਸਿਰ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਭਗਤਾਂ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਹੀ ਆਪਣੇ ਨਾਲ ਮਿਲਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਰਿ = ਧੁਰੋਂ ਹੀ, ਆਪਣੇ ਹੁਕਮ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

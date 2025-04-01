@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦੀ ਪ੍ਰਾਪਤੀ ਲਈ ਸਭ ਤੋਂ ਚੰਗਾ ਵਸੀਲਾ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਤਰੀਂ ਮਿਅਰਾਜ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੮।"
+page = 10
+line = 138
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

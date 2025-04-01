@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੇ ਸ਼ਿਅਰ ਜਿਹੜਾ ਵੀ ਦਿਲ ਜਾਨ ਨਾਲ ਸੁਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਿਅਰਿ ਗੋਯਾ ਹਰ ਕਸੇ ਕੂ ਬਿਸ਼ਨਵਦ ਅਜ਼ ਜਾਨੋ ਦਿਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

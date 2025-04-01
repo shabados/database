@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ) ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਤੂੰ ਤਾਂ) ਇਹ ਨਿੱਕੀ ਜਿਹੀ ਗੱਲ ਚੇਤੇ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਖਿ = ਆਖ। ਅਖਰ ਦੁਇ = ਦੋਵੇਂ ਅੱਖਰ, ਦੋ ਹੀ ਗੱਲਾਂ, ਇਕ ਨਿੱਕੀ ਜਿਹੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

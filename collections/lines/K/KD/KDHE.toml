@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਤਕਾਰ (ਮਨੁੱਖ ਵਿੱਦਿਆ) ਪੜ੍ਹ ਕੇ ਪਾਂਦੇ ਹਨ, ਉਹ ਭਗਤ ਜਨਾਂ ਨੂੰ ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜ ਕੇ ਹੀ ਮਿਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਿ ਪੜਿ = ਵਿੱਦਿਆ ਪੜ੍ਹ ਕੇ। ਪਾਵਹਿ = ਪਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

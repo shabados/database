@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਸੋਹਾਗ-ਭਾਗ ਵਾਲੀ ਹੋ ਸਕਦੀ ਹੈ ਜਿਸ ਉਤੇ ਪਤੀ ਨੇ ਆਪ ਮੇਹਰ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ = ਜਿਸ ਉਤੇ। ਪਿਰਿ = ਪਿਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

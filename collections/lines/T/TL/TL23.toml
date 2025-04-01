@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਜਾ ਕੇ ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕੀਤਾ ਹੈ, ਉਸ ਨੂੰ ਸਾਰੇ (ਕੀਮਤੀ) ਪਦਾਰਥ ਮਿਲ ਗਏ (ਸਮਝੋ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਜਿਨਿ = ਜਿਸ ਨੇ। ਜਾਇ = ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

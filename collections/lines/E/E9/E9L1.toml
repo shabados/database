@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ ਆਪਣੇ ਸਰੀਰ ਉਤੇ ਤੂੰ ਸੁਗੰਧੀਆਂ ਲਾਉਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਗੰਧਤ = ਸੋਹਣੀ ਮਿੱਠੀ ਵਾਸਨਾ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ। ਤਨਿ = ਸਰੀਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਦਿੱਤੇ ਹੋਏ ਇਹ ਜਿੰਦ ਤੇ ਪ੍ਰਾਣ ਹਨ, ਉਸ ਮਾਲਕ ਨੂੰ ਮਨ ਤੋਂ ਕਦੇ ਭੁਲਾਣਾ ਨਹੀਂ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਕੇ = ਜਿਸ ਪ੍ਰਭੂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

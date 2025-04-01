@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ!) ਇਹ ਕਾਇਆਂ (ਜੀਵਾਤਮਾ ਨੂੰ) 'ਵੀਰ ਵੀਰ' ਆਖਦੀ ਰਹਿ ਜਾਂਦੀ ਹੈ (ਪਰ ਮੌਤ ਆਇਆਂ) ਵੀਰ ਹੋਰੀਂ ਬਿਗਾਨੇ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਰਾ = ਹੇ ਵੀਰ! ਬੈਰਾਇ = ਬਿਗਾਨੇ, ਓਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਢੁੰਢਾਊ ਸਦਾ ਸਤਿਕਾਰ ਸਹਿਤ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਾਨਿ ਹੱਕ ਹਮੇਸ਼ਾ ਬਾ ਅਦਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

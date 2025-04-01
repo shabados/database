@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕੁੱਤੇ ਦੇ ਸੁਭਾਉ ਵਾਲੇ ਜੀਵ!) ਜੋ ਕੁਝ ਆਪਣੀ ਹੱਕ ਦੀ ਕਮਾਈ ਹੈ, ਉਸੇ ਨੂੰ ਨਿਸੰਗ ਹੋ ਕੇ ਵਰਤ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸ ਘਰ ਮਹਿ ਹੈ = (ਭਾਵ,) ਜੋ ਕੁਝ ਤੈਨੂੰ ਆਪਣੀ ਕਮਾਈ ਵਿਚੋਂ ਮਿਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

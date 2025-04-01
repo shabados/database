@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਰੀਬ ਨਾਨਕ ਤੇਰਾ ਦਾਸ ਹੈ ਤੇਰਾ ਗ਼ੁਲਾਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨੁ = ਦਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

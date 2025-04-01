@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ, ਪਿਉ, ਪੁੱਤਰ, ਇਸਤ੍ਰੀ (ਆਦਿਕ ਸੰਬੰਧੀ) ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ ਪਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤ = ਮਾਂ। ਸੁਤ = ਪੁੱਤਰ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

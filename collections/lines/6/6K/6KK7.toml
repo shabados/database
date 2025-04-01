@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਇਕ ਟੂਣੇ ਕਰਨ ਵਾਲੀ ਭੈੜੀ ਇਸਤ੍ਰੀ ਸਮਾਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂੰਡੀ = ਭੈੜੀ। ਕਾਮਣਿ = ਇਸਤ੍ਰੀ। ਕਾਮਣਿਆਰਿ = ਟੂਣੇ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

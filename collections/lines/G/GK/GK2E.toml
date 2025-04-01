@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਦ ਸੂਰਜ ਆਕਾਸ਼ ਭੀ ਪ੍ਰਭੂ ਦੇ ਨਿਰੋਲ ਆਪਣੇ ਹੀ ਆਪੇ ਤੋਂ ਬਣੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਣਾਰੈ = ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

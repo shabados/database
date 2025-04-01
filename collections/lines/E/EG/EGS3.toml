@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨੇਕ ਉਮਰ ਨੂੰ ਅਜੇਹਾ (ਭਜਨ ਬੰਦਗੀ ਦਾ) ਸਰਮਾਇਆ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਫ਼ਤ ਈਣ ਸਰਮਾਯਾਇ ਉਮਰਿ ਨਜੀਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

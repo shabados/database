@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਉਸ ਦੀ ਧੂੜ ਦੇ ਜਾਚਕ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਮਲਾਇਕ ਚਿਹ ਹਾਜ਼ਿਰਾਨਿ ਤਮਾਮ ।੧੫।"
+page = 1
+line = 15
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

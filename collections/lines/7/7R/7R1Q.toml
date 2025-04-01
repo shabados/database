@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ ਭੀ) ਹੇ ਨਾਨਕ! ਮਾਣ ਨਾਹ ਕਰੀਏ, (ਕੀਹ ਪਤਾ ਹੈ) ਮਤਾਂ ਸਿਰ-ਭਾਰ ਡਿੱਗ ਪਏ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੁ = ਅਹੰਕਾਰੁ। ਮਤੁ = ਮਤਾਂ। ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਆਵੈ ਭਾਰੁ = (ਸਾਰਾ) ਬੋਝ ਸਿਰ ਉੱਤੇ ਆ ਜਾਏ, ਭਾਵ, ਸਿਰ-ਭਾਰ ਡਿੱਗ ਪਏ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

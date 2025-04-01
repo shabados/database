@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇ-ਸਮਝ ਮੂਰਖ ਮਨੁੱਖ ਇਹ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਸੁਆਸ ਸਦਾ ਘਟਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੇਤ = ਗ਼ਾਫ਼ਲ, ਬੇ-ਸਮਝ (अचेतस्, अचित्त = ਬੇ-ਸਮਝ)। ਮੂੜਾ = ਮੂਰਖ (मुढः)। ਘਟੰਤ = ਘਟ ਰਹੇ ਹਨ (घट्ट् = to shake)। ਸਾਸਾ = (श्वास) ਸਾਹ। ਨਿਤ ਪ੍ਰਤੇ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਠਾਰਾਂ ਪਰਵਾਂ ਵਾਲੇ ਮਹਾਭਾਰਤ ਗ੍ਰੰਥ ਨੂੰ ਦਿਨ ਰਾਤ ਪੜ੍ਹਦਾ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ। ਭਾਰ ਅਠਾਰ = ਅਠਾਰਾਂ ਪਰਵਾਂ ਵਾਲਾ ਮਹਾਭਾਰਤ ਗ੍ਰੰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

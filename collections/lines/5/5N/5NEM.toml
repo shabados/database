@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਗੁਰੂ ਦੇ ਸੋਹਣੇ ਚਰਨ ਆ ਵੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ ਕਮਲ = ਕੌਲ-ਫੁੱਲਾਂ ਵਰਗੇ ਸੋਹਣੇ ਚਰਨ। ਮਾਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

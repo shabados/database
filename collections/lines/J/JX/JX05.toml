@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਸਰੀਰ ਆਦਿਕ ਮੇਰਾ ਹੈ ਮੇਰਾ ਹੈ) ਆਪਣਾ (ਇਹ ਅਹੰਕਾਰ ਦੂਰ ਕਰ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਮਾਨੁ = ਅਹੰਕਾਰ। ਲਾਹਿ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਤਿਗੁਰੂ!) ਮੈਂ ਉਸ ਸੋਹਣੀ ਘੜੀ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਜਦੋਂ ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਆ ਡਿੱਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਈ = ਜਾਈਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ। ਉਸੁ ਵੇਲਾ ਸੁਹਾਵੀ = ਉਸ ਸੋਹਣੀ ਘੜੀ ਤੋਂ। ਜਿਤੁ = ਜਿਸ ਵਿਚ, ਜਿਸ ਵੇਲੇ। ਦੁਆਰੈ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

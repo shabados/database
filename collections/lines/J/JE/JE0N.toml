@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਹੁਣ ਇਉਂ ਦਿੱਸਦਾ ਹੈ ਕਿ) ਜਦੋਂ ਪ੍ਰਭੂ-ਬਾਜ਼ੀਗਰ ਡੁਗਡੁਗੀ ਵਜਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੀਗਰ = ਤਮਾਸ਼ਾ ਕਰਨ ਵਾਲੇ (ਪ੍ਰਭੂ) ਨੇ। ਡੰਕ = ਡੁਗਡੁਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

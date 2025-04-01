@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਮਨੁੱਖ ਇਤਨਾ ਮੂਰਖ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ) ਰੁੱਖ ਦੀ ਛਾਂ ਨੂੰ ਪੱਕਾ ਘਰ ਮੰਨ ਬੈਠਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰੁਮ = ਰੁੱਖ। ਛਾਇਆ = ਛਾਂ। ਨਿਹਚਲ = ਨਾਹ ਹਿੱਲਣ ਵਾਲਾ, ਪੱਕਾ। ਗ੍ਰਿਹੁ = ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

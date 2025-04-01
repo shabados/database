@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਕਿਸੇ ਹੋਰ ਨੂੰ ਪੁੱਛ ਕੇ (ਕੋਈ ਕੰਮ ਕਰਨ ਦੀ) ਸਾਲਾਹ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਓ = ਦੂਜਾ, ਕੋਈ ਹੋਰ। ਪੂਛਿ = ਪੁੱਛ ਕੇ। ਮਸਲਤਿ = ਮਸ਼ਵਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

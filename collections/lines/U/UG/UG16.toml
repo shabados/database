@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਇਸ ਆਤਮਕ ਅਵਸਥਾ ਤੇ ਪਹੁੰਚਦਾ ਹੈ, ਉਸ ਨੂੰ ਸਾਧੂ ਜਾਣੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹ = ਇਸ ਅਵਸਥਾ ਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

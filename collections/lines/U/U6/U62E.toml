@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਭ ਥਾਂ ਮੈਂ ਤੇਰਾ ਦੋਸਤ ਹਾਂ ਅਤੇ ਤੇਰੀ ਪਨਾਹ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਮਾ ਜਾ ਪਨਾਹੋ ਯਾਰਿ ਤੂ ਅਮ ।"
+page = 1
+line = 27
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

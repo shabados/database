@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਦੋਂ ਉਹ ਸਮਝ ਲੈਂਦਾ ਹੈ ਕਿ) ਮਨ ਹਉਮੈ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ ਜਿਵੇਂ ਕੋਈ ਹਾਥੀ ਸ਼ਰਾਬ ਵਿਚ ਮਸਤ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਮਤੁ = ਸ਼ਰਾਬ ਨਾਲ ਮਸਤ। ਮੈ = ਸ਼ਰਾਬ। ਮਿਕਦਾਰਾ = ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

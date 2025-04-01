@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ) ਪ੍ਰਭੂ ਆਪ ਹੀ ਨਿਖੇੜਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ ਆਪ = ਆਪ ਹੀ। ਨਿਬੇਰਾ = ਫ਼ੈਸਲਾ, ਨਿਖੇੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

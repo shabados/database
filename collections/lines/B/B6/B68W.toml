@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਨੇ ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣਾ ਨਾਮ ਵਸਾ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਐ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

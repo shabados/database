@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਤੂੰ ਗੁਰੂ ਮਿਲਾਂਦਾ ਹੈਂ ਤੇ ਜਿਸ ਦੀ ਤੂੰ ਸੰਭਾਲ ਕਰਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

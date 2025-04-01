@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦਾ ਕੋਈ ਗੁਣ ਨਹੀਂ ਦਿੱਸ ਆਉਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਾ ਕਛੂ = ਜਿਸ ਦਾ ਕੋਈ ਗੁਣ। ਦ੍ਰਿਸਟਿ ਨ ਆਵੈ = ਨਹੀਂ ਦਿੱਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਬਾਲ ਉਮਰ ਵਿਚ ਤੈਨੂੰ ਦੁੱਧ ਪਿਆਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰ = ਬਾਲਕ। ਬਿਵਸਥਾ = ਉਮਰ, ਹਾਲਤ। ਪਿਆਰੈ = ਪਿਆਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

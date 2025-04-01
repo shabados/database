@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਮੈਨੂੰ ਚੰਗਾ ਆਖੇ, ਚਾਹੇ ਕੋਈ ਮੰਦਾ ਆਖੇ (ਇਸ ਗੱਲ ਦੀ ਮੈਨੂੰ ਪਰਵਾਹ ਨਹੀਂ ਰਹੀ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਸੋਭਾ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

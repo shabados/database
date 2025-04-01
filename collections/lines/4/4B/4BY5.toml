@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੇ ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਬੈਠ ਕੇ ਆਪਣੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਲਗਿ = ਲੱਗ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

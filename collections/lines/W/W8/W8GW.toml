@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੇਰੇ ਮੱਥੇ ਦੇ ਲੇਖ ਉੱਘੜ ਪੈਣਗੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋ = ਹੇ ਭਾਈ! ਲਿਲਾਟ = ਮੱਥੇ ਉੱਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

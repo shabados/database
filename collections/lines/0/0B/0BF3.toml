@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦੇ ਦਾਸ (ਸਦਾ) ਉਸ ਦੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ ॥੪॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ॥੪॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

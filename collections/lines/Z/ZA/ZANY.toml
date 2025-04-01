@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਸਭ ਦਾਨੀਆਂ ਦੇ ਸਿਰ ਉਤੇ ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਹੱਥ ਹੈ ਕੇਵਲ ਉਹੀ ਮੈਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

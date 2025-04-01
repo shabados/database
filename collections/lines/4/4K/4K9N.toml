@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! (ਜਗਤ ਦੇ ਪਦਾਰਥਾਂ ਦੀ) ਸ਼ਕਲ ਵੇਖ ਕੇ ਗ਼ਲਤੀ ਨਾਹ ਖਾਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਤਿ = ਸ਼ਕਲ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਗਵਾਰਾ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਸੁਖ ਦੇਣ ਵਾਲੇ ਮਾਲਕ! ਤੇਰੀ ਵਡਿਆਈ ਸਭ ਤੋਂ ਉੱਚੀ ਹੈ (ਤੂੰ ਸਭਨਾਂ ਤੋਂ ਵੱਡਾ ਹੈਂ) ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਨਿਧਾਨ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਸਭ ਤੇ = ਸਭਨਾਂ ਤੋਂ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

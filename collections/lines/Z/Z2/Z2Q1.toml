@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਛਲੇ ਬੀਜੇ ਦਾ ਫਲ ਹੀ ਖਾਣਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਬ = ਪਹਿਲੇ। ਪੁਰਬ ਲਿਖੇ ਕਾ = ਪਹਿਲੇ ਸਮੇ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ, ਹੁਣ ਤੋਂ ਪਹਿਲੇ ਸਮੇ ਦੇ ਬੀਜੇ ਦਾ। ਲਿਖਿਆ = ਸੰਸਕਾਰ-ਰੂਪ ਲੇਖ, ਸੁਭਾਉ-ਰੂਪ ਬੀਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

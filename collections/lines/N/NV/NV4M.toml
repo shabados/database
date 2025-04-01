@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਨਿ = ਸਿਮਰਨ ਦੀ ਰਾਹੀਂ। ਜਾ ਕੈ ਸਿਮਰਨਿ = ਜਿਸ ਦੇ ਸਿਮਰਨ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

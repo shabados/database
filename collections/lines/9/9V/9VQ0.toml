@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਨੁੱਖ) ਕੰਨਾਂ ਵਿਚ (ਸੋਨੇ ਦੇ) ਕੁੰਡਲ ਪਾ ਕੇ (ਸੋਹਣੇ ਸੋਹਣੇ) ਕੱਪੜੇ ਪਹਿਨਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਨ = ਕੰਨਾਂ ਵਿਚ। ਕੁੰਡਲੀਆ = (ਸੋਨੇ ਦੇ) ਕੁੰਡਲ। ਓਡਲੀਆ = ਪਹਿਨਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

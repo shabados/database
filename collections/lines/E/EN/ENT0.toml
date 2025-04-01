@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਬਦ (ਮੇਰਾ) ਗੁਰੂ ਹੈ, ਮੇਰੀ ਸੁਰਤ ਦਾ ਟਿਕਾਉ (ਉਸ ਗੁਰੂ ਦਾ) ਸਿੱਖ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਿ ਧੁਨਿ = ਸੁਰਤ ਦੀ ਧੁਨਿ, ਲਗਨ, ਟਿਕਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

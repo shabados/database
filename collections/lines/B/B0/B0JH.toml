@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਸਦਾ) ਕੌੜਾ ਬੋਲਦੀ ਹੈ, ਜੀਭ ਦੀ ਖਰ੍ਹਵੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੂੜਿ = ਖਰ੍ਹਵੀ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

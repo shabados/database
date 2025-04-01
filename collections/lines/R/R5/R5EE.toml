@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ਹੇ ਅਪਹੁੰਚ ਪ੍ਰਭੂ! ਹੇ ਗੋਬਿੰਦ! ਹੇ ਠਾਕੁਰ! ਹੇ ਸਭ ਦੀ ਕਾਮਨਾ ਪੂਰੀ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਹੇ ਸਭ ਦੇ ਮਾਲਕ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਹੇ ਅਪਹੁੰਚ! ਪੁਰਕ = (ਕਾਮਨਾ) ਪੂਰੀ ਕਰਨ ਵਾਲੇ! ਧਨੀ = ਹੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

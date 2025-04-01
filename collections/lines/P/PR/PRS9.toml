@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਾਵੇਂ) ਸਭ ਜੀਵਾਂ ਵਿਚ ਪਰਮਾਤਮਾ ਹੀ ਵੱਸਦਾ ਹੈ, ਤੇ ਹਰ ਥਾਂ ਪਰਮਾਤਮਾ ਹੀ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕੁ = ਪਰਮਾਤਮਾ ਹੀ। ਨਾਮਿ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

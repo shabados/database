@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਹ ਖ਼ਜ਼ਾਨਾ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਦੇ ਸਪੁਰਦ ਹੋਇਆ ਹੋਇਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਾ ਹਵਾਲੈ = ਭਗਤਾਂ ਦੇ ਵੱਸ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

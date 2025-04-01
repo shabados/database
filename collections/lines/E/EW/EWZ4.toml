@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ਜੋ ਰੋਜ਼ (ਭਾਵ, ਹਰ ਵੇਲੇ) ਸੱਚੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਉਚਾਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਵੇ = ਬੋਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

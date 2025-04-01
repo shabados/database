@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਿਤ (ਧਰਮ ਪੁਸਤਕਾਂ) ਪੜ੍ਹ ਕੇ ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਿ = ਪੜ੍ਹ ਕੇ। ਪੰਡਿਤੁ = {ਇਕ-ਵਚਨ}। ਅਵਰਾ = ਅਵਰਾਂ, ਹੋਰਨਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਜਣਹਾਰ ਪ੍ਰਭੂ ਨੇ ਲਾ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ ਸਿਰਿ = ਹਰੇਕ ਦੇ ਸਿਰ ਉਤੇ, ਹਰੇਕ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

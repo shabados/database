@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਮਸਤ ਰਹਿ ਕੇ ਅਸਲੀਅਤ ਨੂੰ ਸਮਝਦਾ ਹੈ ਤੇ ਆਦਰ ਪਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਸਹਿਜ ਵਿਚ, ਅਡੋਲਤਾ ਵਿਚ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

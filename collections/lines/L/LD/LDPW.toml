@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! (ਜਿਵੇਂ) ਕੋਈ ਕਿਸਾਨ ਖੇਤੀ ਬੀਜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਸਾਣੁ = ਕਿਸਾਨ। ਕਿਰਸਾਨੀ = ਖੇਤੀ, ਪੈਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

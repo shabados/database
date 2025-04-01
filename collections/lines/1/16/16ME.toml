@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੈਰਾਨ ਹੋਇਆ) ਇਹ ਮਨ ਆਪਣੀ ਸੂਝ ਗਵਾ ਲੈਂਦਾ ਹੈ, ਫਿਰ ਦੱਸੋ, ਇਹ ਭਟਕਣੋਂ ਕਿਵੇਂ ਰਹਿ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧੁ = ਮੂਰਖ। ਕਹਹੁ = ਦੱਸੋ। ਰਹਸੀ = (ਅਡੋਲ) ਰਹੇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕ ਦਮ ਲਈ ਵੀ ਰੱਬ ਦੀ ਯਾਦ ਤੋਣ ਗ਼ਾਫ਼ਿਲ ਨਹੀਣ ਰਹਿੰਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਾਫ਼ਲਿ ਨਸ਼ਵੰਦ ਯਕ ਦਮ ਅਜ਼ ਯਾਦਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

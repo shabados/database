@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੇ ਦਰਸ਼ਨਾਣ ਨਾਲ ਅੱਖਾਣ ਨੂੰ ਰੋਸ਼ਨੀ ਅਤੇ ਠੰਢ ਮਿਲਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਦਾਹਾ ਰੌਸ਼ਨ ਸ਼ੁਦ ਅਜ਼ ਦੀਦਾਰਿ ਸ਼ਾਣ ।੧੮੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

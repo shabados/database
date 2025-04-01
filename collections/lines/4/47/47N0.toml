@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਜਿਹੜੇ ਸਾਰੀ ਜੋ ਜੀਊਣਦੀ ਜਾਗਦੀ ਦੁਨੀਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਮਾ ਕੂ ਸਾਹਿਬਿ ਜਾਣ ਆਮਦੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

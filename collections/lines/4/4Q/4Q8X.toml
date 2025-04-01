@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਮੈਂ ਸਦਾ ਹਰ ਵੇਲੇ ਤੇਰਾ ਨਾਮ ਹੀ ਜਪਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਜਪਉ = ਮੈਂ ਜਪਾਂ, ਜਪਉਂ। ਗੁਣਤਾਸਿ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ!) ਮੇਰੇ ਮੱਥੇ ਉਤੇ (ਦਾ) ਭਾਗ ਜਾਗ ਪਿਆ ਹੈ (ਕਿਉਂਕਿ) ਮੇਰਾ ਪਤੀ-ਪ੍ਰਭੂ ਮੇਰੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਆ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

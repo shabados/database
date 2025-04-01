@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪਏ, ਉਹ ਸਦਾ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ ਜਨੁ = ਉਹ ਬੰਦਾ। ਨਿਹਾਲਾ = ਆਨੰਦ-ਭਰਪੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

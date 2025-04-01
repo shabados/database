@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਆਪੁਰ  ਵਾਲੇ ਮਨੁੱਖ ਦਾਨ-ਪੁੰਨ ਤੀਰਥ ਆਦਿਕ) ਕਰਮ ਕਰ ਕੇ ਮੁਕਤੀ ਮੰਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਾਹੀ = ਮੰਗਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰੰਤੂ ਜ਼ਾਹਿਰਾ ਤੌਰ ਤੇ ਸਹੀ ਓਹੀ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਦਰ ਜ਼ਾਹਿਰ ਕਸੇ ਬਾਸ਼ਦ ਦਰੁਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਾਇਆ ਨੇ (ਜੀਵਾਂ ਨੂੰ ਆਪਣੇ) ਤਿੰਨ ਗੁਣਾਂ ਦੇ ਵੱਸ ਵਿਚ ਕਰ ਰੱਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਿ = ਇਸ ਨੇ। ਬਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

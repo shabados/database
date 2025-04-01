@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੁਆਰੀ ਲੜਕੀ ਸ਼ਿੰਗਾਰ ਕਰਦੀ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਆਰ = ਕੁਆਰੀ। ਕੰਨਿਆ = ਕੁੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

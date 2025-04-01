@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਗੁਰੂ ਦੀ ਪੈਰੀਂ ਪਾ ਕੇ ਸਾਰੇ ਕੰਮ ਉਸ ਨੇ ਸਵਾਰ ਦਿੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਵਾਰਿਅਨੁ = ਸਵਾਰ ਦਿੱਤੇ ਉਸ ਨੇ। ਮਨਹੁ = ਮਨ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

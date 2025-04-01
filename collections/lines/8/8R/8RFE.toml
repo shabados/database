@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਆਪਣੇ ਹੁਕਮ ਵਿਚ ਹੀ ਧਰਤੀ ਜੀਵਾਂ ਦੇ ਧਰਮ ਕਮਾਣ ਲਈ ਥਾਂ ਬਣਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜੀਅਨੁ = ਸਾਜੀ ਉਸ ਨੇ। ਧਰਮਸਾਲਾ = ਧਰਮ ਕਮਾਣ ਦੀ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕ੍ਰਿਸ਼ਨ ਜੀ ਦੇ) ਅੰਗੂਠੇ ਦੀ ਛੁਹ ਨਾਲ ਕੁਬਿਜਾ ਪਾਰ ਲੰਘ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਬਿਜਾ = ਕੁੱਬੇ ਲੱਕ ਵਾਲੀ। ਅੰਗੁਸਟ = ਅੰਗੂਠਾ। ਅੰਗੁਸਟ ਧਾਰ = (ਕ੍ਰਿਸ਼ਨ ਜੀ ਦੇ) ਅੰਗੂਠੇ ਦੇ ਛੁਹਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਦੋਵੇਣ ਨਾਸ਼ਵਾਨ ਹਨ :"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜਹਾਨੋ ਆਣ ਜਹਾਣ ਫ਼ਾਨੀ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

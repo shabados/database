@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਿਸੇ ਹੋਰ ਦੇ ਉਪਦੇਸ਼ ਵਿਚ ਸੁਰਤ ਨਹੀਂ ਜੋੜਦਾ ਫਿਰਦਾ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ਼ ਵਿਚ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

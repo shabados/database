@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਨੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਤੱਖ ਪ੍ਰਭੂ ਵਿਖਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਗੁਰੂ ਨੇ। ਸੰਗਿ = ਅੰਦਰ ਨਾਲ ਹੀ। ਜਾਹਰਿ = ਪਰਤੱਖ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

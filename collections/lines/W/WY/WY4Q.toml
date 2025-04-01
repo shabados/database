@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤੂੰ ਮਿਹਰਵਾਨ ਹੋ ਜਾਏ, ਤਾਂ ਮਾਨੋ, ਨੌ ਖ਼ਜ਼ਾਨੇ (ਹਿਰਦੇ) ਘਰ ਵਿਚ ਹੀ ਲੱਭ ਲੈਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਿ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

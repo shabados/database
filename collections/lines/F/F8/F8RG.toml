@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਿਸਰੀ ਚੱਬਣ ਵਾਲੇ ਮੂੰਹ ਅਤੇ ਹੋਠਾਣ ਤੋਣ ਕੋਈ ਬਚਾਏ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਲਬੋ ਦਹਨਿ ਸ਼ਕਰਖਾ ਅਲ-ਗ਼ਿਆਸ ।੧੫।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

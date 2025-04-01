@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਨਾਮ ਹੀ ਮੇਰੀ ਗੋਦੜੀ ਹੈ, ਤੇਰਾ ਨਾਮ ਹੀ ਮੇਰਾ (ਭਗਵਾ) ਕੱਪੜਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੈ = (ਤੇਰਾ) ਨਾਮ ਹੀ। ਖਿੰਥਾ = ਗੋਦੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

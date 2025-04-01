@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸੰਤ-ਸਭਾ ਕਦੇ ਮੁੱਕਣ ਵਾਲੀ ਨਹੀਂ ਹੈ, ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਉਹ ਹਰ ਵੇਲੇ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਗ = ਨਾਹ ਨਾਸ ਹੋਣ ਵਾਲੀ। ਸੰਗਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

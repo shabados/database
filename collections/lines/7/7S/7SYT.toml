@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਆਖ ਦਿੱਤਾ ਹੈ-) ਇਹ (ਸਰੀਰ-) ਘਰ ਸਾਰਾ ਤੇਰਾ ਹੈ, ਅਤੇ ਹੁਣ ਤੂੰ ਇਸ ਦਾ ਮਾਲਕ ਹੈਂ (ਕਾਮਾਦਿਕ ਇਸ ਉੱਤੇ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਣਗੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹੁ = ਸਰੀਰ-ਘਰ। ਠਾਕੁਰੁ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

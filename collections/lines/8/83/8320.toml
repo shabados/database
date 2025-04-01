@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਜਨੋ! (ਇਸ ਨਾਮ-ਧਨ ਦੀ ਬਾਬਤ) ਇਕ ਹੋਰ ਸੋਹਣੀ ਗੱਲ (ਭੀ) ਸੁਣੋ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੂਪ = ਸੋਹਣੀ। ਨਰ ਭਾਈ = ਹੇ ਭਾਈ ਜਨੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

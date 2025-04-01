@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਾਰੀਆਂ ਨਦੀਆਂ (ਮੇਰੇ ਵਾਸਤੇ) ਗਾਈਆਂ ਬਣ ਜਾਣ (ਪਾਣੀ ਦੇ) ਚਸ਼ਮੇ ਦੁੱਧ ਤੇ ਘਿਉ ਬਣ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੇਣਵਾ = ਗਾਈਆਂ। ਸੁੰਮ = ਸੋਮੇ, ਚਸ਼ਮੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

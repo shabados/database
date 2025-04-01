@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਚਉਬੋਲੇ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਬੋਲਾ = ਇਕ ਛੰਤ ਦਾ ਨਾਮ ਹੈ। ਇਥੇ 'ਚਉਬੋਲਾ' ਛੰਤ ਦੇ ੧੧ ਬੰਦ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

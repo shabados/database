@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਵੇਣ ਜਹਾਨ ਸਾਡੇ ਯਾਰ ਦੇ ਇਕ ਵਾਲ ਦੇ ਮੁਲ ਬਰਾਬਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਕੀਮਤਿ ਯੱਕ ਤਾਰਿ ਮੂਇ ਯਾਰਿ ਮਾ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

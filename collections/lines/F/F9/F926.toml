@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਨਿਆਸਰਿਆਂ ਦਾ ਆਸਰਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਕੋਈ ਆਦਰ-ਮਾਣ ਨਹੀਂ ਦੇਂਦਾ ਉਹਨਾਂ ਨੂੰ ਆਦਰ-ਮਾਣ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਣੁ = ਸਹਾਰਾ, ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

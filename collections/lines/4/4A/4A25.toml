@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਭੁਇਂ ਤੇ ਮਾਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛਾੜਹਿ = ਪਛਾੜਦੇ ਹਨ, ਮਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

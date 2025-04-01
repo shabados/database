@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦਿਨ ਰਾਤ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਦੇ ਰਹੋ। ਇਹੀ ਹੈ ਇਸ ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ ਲਾਭ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸੁ ਜੁਗ ਕਾ = ਇਸ ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ। ਲਾਹਾ = ਲਾਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

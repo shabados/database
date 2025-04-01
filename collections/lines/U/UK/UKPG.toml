@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੈਹਾਂ, ਸੋਨਾ ਜਾਂ ਲੋਹਾ ਟੁੱਟ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਚਨੁ = ਸੋਨਾ। ਸਾਰੁ = ਲੋਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

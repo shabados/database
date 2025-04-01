@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਮਨੁੱਖਾਂ ਨੇ (ਉਹ) ਗੁਰੂ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਆਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

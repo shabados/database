@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਉਸ) ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਨੂੰ ਜਹਾਜ਼ ਬਣਾ ਕੇ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ ਪਾਰ ਲੰਘ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = (ਸੰਸਾਰ-) ਸਮੁੰਦਰ। ਤਰਿ = ਪਾਰ ਲੰਘ। ਬੋਹਿਥ = ਜਹਾਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

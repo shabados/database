@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਕੋਈ ਮਨੁੱਖ ਆਪਣੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਟਿਕਾਣਾ ਲੱਭ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰੈ ਅੰਦਰਿ = ਹਿਰਦੇ-ਘਰ ਦੇ ਅੰਦਰ ਹੀ। ਕੋ = ਕੋਈ ਵਿਰਲਾ। ਘਰੁ = ਪਰਮਾਤਮਾ ਦਾ ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

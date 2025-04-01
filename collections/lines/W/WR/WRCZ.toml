@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੀ ਲਗਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨਾਲ ਲੱਗ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੀ ਲਿਵ = ਜਿਸ ਮਨੁੱਖ ਦੀ ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

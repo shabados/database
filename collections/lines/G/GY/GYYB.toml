@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਹੇ ਦਿਲ # ਸਮਝ ਕਿ ਤੇਰੀ ਹਰ ਮੁਸ਼ਕਿਲ ਦਾ ਹੱਲ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਲਿ ਹਰ ਮੁਸ਼ਕਿਲ ਤੁਰਾ, ਐ ਦਿਲ ਸ਼ਵਦ ।੬੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕੁੱਤੇ!) ਗਾਂ ਵਰਗੀ ਤੇਰੀ ਤੋਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਹ = {Skt. सुरभि} ਗਾਂ। ਚਾਲ = ਤੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

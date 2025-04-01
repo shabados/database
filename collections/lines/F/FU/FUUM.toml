@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਜੋ ਵਿਸ਼ੇ ਦੇ ਮਾਰੇ ਹੋਏ ਗੰਦੇ ਆਚਰਨ ਵਾਲੇ ਹੁੰਦੇ ਹਨ, ਉਹੋ ਹੀ ਇਸਤ੍ਰੀਆਂ ਦੇ ਕਹੇ ਵਿਚ ਹੀ ਤੁਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਸੁਧ = ਖੋਟੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

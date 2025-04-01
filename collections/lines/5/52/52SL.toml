@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਜਗਤ-) ਖਿਲਾਰਾ ਖਿਲਾਰ ਕੇ ਆਪ ਹੀ (ਇਸ ਖਿਲਾਰੇ ਦੇ) ਰੰਗਾਂ ਵਿਚ ਮਿਲਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਾਰੁ = ਜਗ-ਰਚਨਾ ਦਾ ਖਿਲਾਰਾ। ਰਟਿਆ = ਰੱਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

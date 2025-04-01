@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੈਥੋਂ ਕੁਰਬਾਨ! ਮੇਰੇ ਵੱਲ ਤੱਕ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ ਵਾਰੀ = ਮੈਂ ਤੈਥੋਂ ਸਦਕੇ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

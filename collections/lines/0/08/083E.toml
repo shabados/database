@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੁਸੀ 'ਨਾਚਨ' ਕੰਜਰ ਨੂੰ ਆਖਦੇ ਹੋ, ਪਰ ਸਾਡੇ ਖ਼ਿਆਲ ਅਨੁਸਾਰ) 'ਨਾਚਨ' ਉਹ ਹੈ ਜੋ (ਸਰੀਰ ਨਾਲ ਨਹੀਂ) ਮਨ ਨਾਲ ਨੱਚਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਚਨੁ = {Skt. नर्तक A dancer.} ਕੰਜਰ। ਮਨ ਸਿਉ = ਮਨ ਦੀ ਰਾਹੀਂ; ਮਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

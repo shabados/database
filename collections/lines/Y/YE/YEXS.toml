@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਨਾਹ ਕੋਈ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਾਂ, ਨਾਹ ਹੀ ਸਾਡੇ ਕੰਮ ਚੰਗੇ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਾਰੇ = ਚੰਗੇ ਕਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

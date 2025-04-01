@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਇਸਤ੍ਰੀ ਪਤੀ ਦੇ ਹਿਤ ਵਿਚ ਪਿਆਰ ਵਿਚ ਰਹਿੰਦੀ ਹੈ। ਉਹ ਦਿਨੇ ਰਾਤ ਹਰ ਵੇਲੇ ਚੰਗੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਹੇਤਿ = ਹਿਤ ਵਿਚ। ਪਿਆਰਿ = ਪਿਆਰ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

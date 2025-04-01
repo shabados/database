@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਇਹ ਜਿਤਨਾ ਹੀ ਸਾਜ-ਸਾਮਾਨ ਤੂੰ ਵੇਖ ਰਿਹਾ ਹੈਂ, ਇਹ ਸਾਰਾ ਹੀ (ਅੰਤ) ਛੱਡ ਕੇ ਚਲੇ ਜਾਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤੀ = ਜਿਤਨੀ ਹੀ। ਸਮਗ੍ਰੀ = ਸਾਮਾਨ। ਤੇਤੀ ਹੀ = ਇਹ ਸਾਰੀ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

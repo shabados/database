@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਮਹਾਪੁਰਖ ਦਾ ਦਰਸਨ, ਦਰਸਨ ਨਹੀਂ ਕੀਤਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨੁ ਸਤਿਗੁਰ = ਗੁਰੂ ਦਾ ਦਰਸਨ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

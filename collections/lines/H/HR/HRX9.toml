@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡਾ ਚਾਲਕ ਪਿਆਰਾ ਨਾਨਾ ਰੰਗਾਣ ਦਾ ਮਾਲਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੰਗਹਾਇ ਮੁਖ਼ਤਲਿਫ ਦਾਰਦ ਬੁਤਿ ਅਯਾਰ ਮਾ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

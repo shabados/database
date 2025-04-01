@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਤਿਗੁਰੂ (ਇਸ ਨੂੰ) ਮਿਲ ਪਏ, ਤਾਂ ਅੱਖੀਂ (ਅਸਲ ਗੱਲ) ਦਿੱਸ ਪੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖੀ = ਅੱਖਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

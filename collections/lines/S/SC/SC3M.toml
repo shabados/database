@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਗਉੜੀ ਵਿੱਚ ਭਗਤ ਕਬੀਰ ਜੀ ਦੀ ਬਾਣੀ 'ਵਾਰ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰ = ਦਿਨ,"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿੱਟਾ ਇਹ ਨਿਕਲਿਆ ਕਿ) ਉਸ ਦੀ ਲੰਕਾ ਲੁੱਟੀ ਗਈ, ਤੇ ਉਸ ਦਾ ਸਿਰ ਭੀ ਕੱਟਿਆ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਸ = ਸਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

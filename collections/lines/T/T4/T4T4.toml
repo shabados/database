@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਇਹ ਸਾਰਾ ਜਗਤ ਪੈਦਾ ਕਰ ਕੇ (ਮਾਨੋ) ਤਾਣਾ ਤਣ ਦਿੱਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨਿ = ਲਿਆ ਕੇ, ਪੈਦਾ ਕਰ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਜਦ ਤਕ ਦੀਵੇ ਵਿਚ ਤੇਲ ਹੈ, ਤੇ ਦੀਵੇ ਦੇ ਮੂੰਹ ਵਿਚ ਵੱਟੀ ਹੈ, ਤਦ ਤਕ (ਘਰ ਵਿਚ) ਹਰੇਕ ਚੀਜ਼ ਨਜ਼ਰੀਂ ਆਉਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਵਿਚ। ਬਾਤੀ = ਵੱਟੀ। ਸੂਝੈ = ਨਜ਼ਰੀਂ ਆਉਂਦਾ ਹੈ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

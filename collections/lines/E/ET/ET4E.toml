@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੋ ਕੁਝ ਤੂੰ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈਂ। (ਜਗਤ ਵਿਚ) ਉਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤਾ ਲੋੜਹਿ = ਤੂੰ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈਂ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

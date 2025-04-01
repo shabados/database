@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਮਾਲਕ ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਮੈਂ ਹੋਰ ਕੋਈ ਭੀ ਜਾਪ ਨਹੀਂ ਜਪਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਜਪੁ = ਹੋਰ ਕੇਹੜਾ ਜਪ? ਜਾਪਉ = ਜਾਪਉਂ, ਮੈਂ ਜਪਾਂ। ਜਗਦੀਸ = {ਜਗਤ-ਈਸ} ਜਗਤ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

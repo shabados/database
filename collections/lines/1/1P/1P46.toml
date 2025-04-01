@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਭੋਜਨ ਦੇ ਹੈਰਾਨ ਕਰਨ ਵਾਲੇ ਸੁਆਦ ਹਨ, ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਦ = ਸੁਆਦ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

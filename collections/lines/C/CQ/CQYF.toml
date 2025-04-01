@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੁੱਪ ਸਾਧੀ ਰੱਖਣ ਵਾਲੇ ਸਾਧੂ ਚੁੱਪ ਵੱਟੀ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਨੀ = ਚੁੱਪ ਰਹਿਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

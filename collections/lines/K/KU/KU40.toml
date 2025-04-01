@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦੇ ਨੂੰ ਬੰਦਗੀ ਵਿਚ ਹੀ ਟਿਕਿਆ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਰਾ ਦਰ ਬੰਦਗੀ ਬਾਸ਼ਦ ਕਿਆਮ ।੨੪੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

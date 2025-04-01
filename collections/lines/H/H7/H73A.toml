@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਹੇ ਮਨ! ਸੱਚੀ ਸਿੱਖਿਆ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹੀ = ਸੱਚੀ। ਸਿਖ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

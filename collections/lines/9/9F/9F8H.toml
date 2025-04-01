@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗ੍ਰਿਹਸਤੀ ਗ੍ਰਿਹਸਤ-ਧਰਮ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਸਤਿ = ਗ੍ਰਿਹਸਤ ਵਿਚ। ਧਰਮਾਤਮਾ = ਧਰਮ ਵਿਚ ਮਸਤ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

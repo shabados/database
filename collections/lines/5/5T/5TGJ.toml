@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਣ ਵਾਸਤੇ ਅਨੇਕਾਂ ਹੀਲੇ ਕਰਦੀ ਹਾਂ, ਪਰ ਮੇਰੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦੀ ਹਾਂ। ਉਪਾਵ = ਕਈ ਹੀਲੇ {ਲਫ਼ਜ਼ 'ਉਪਾਉ' उपाय ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਗੁਰੂ ਦੇ ਕਹੇ ਤੇ ਤੁਰਦਾ ਹੈ, ਹਰੇਕ ਬੰਦਾ ਉਸ ਦਾ ਆਦਰ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੋ ਮਨੁੱਖ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਪ੍ਰਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

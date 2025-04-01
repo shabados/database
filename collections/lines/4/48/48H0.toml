@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਹੜੇ ਕੰਮਾਂ ਲਈ ਅਸੀਂ ਜਗਤ ਵਿਚ ਪੈਦਾ ਹੋਏ? ਜਨਮ ਲੈ ਕੇ ਅਸਾਂ ਕੀਹ ਖੱਟਿਆ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਜ = ਕੰਮ। ਸਿਰਜੇ = ਪੈਦਾ ਹੋਏ। ਜਨਮਿ = ਜੰਮ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

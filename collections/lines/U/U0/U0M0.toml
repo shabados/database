@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪੋ ਆਪਣੀ ਹੋਂਦ ਦਾ ਮਨੋਰਥ) ਸਮਝਣ ਤੋਂ ਬਿਨਾ (ਇਹ) ਸਾਰੇ (ਅੰਗ) ਵਿਅਰਥ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨੁ ਬੂਝੇ = (ਆਪਣੀ ਹੋਂਦ ਦਾ ਮਨੋਰਥ) ਸਮਝਣ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

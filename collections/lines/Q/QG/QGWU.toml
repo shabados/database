@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਵੱਡੇ ਉੱਚੇ ਭਾਗ ਹੁੰਦੇ ਹਨ, ਉਹ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਾਨੀ = ਜਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

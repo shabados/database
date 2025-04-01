@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ ਜਗਤ ਵਿਚ ਗੁਰੂ ਦਾ ਸਹਾਰਾ ਲੈ ਕੇ ਨਿਰਮੋਹ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਿਪਤੁ = ਨਿਰਲੇਪ, ਨਿਰਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

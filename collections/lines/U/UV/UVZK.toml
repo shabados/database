@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ) ਮਨ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

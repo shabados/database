@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਜਨੋ! ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਮੇਰੇ ਭਰਾਵੋ! (ਮੈਨੂੰ) ਮਿਲੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨ ਸੰਤ = ਹੇ ਹਰੀ ਜਨੋ! ਹੇ ਸੰਤ ਜਨੋ! ਭਾਈ = ਹੇ ਭਰਾਵੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

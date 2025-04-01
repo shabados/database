@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਬੀਰ ਨੇ ਇਹ ਨਾਮ-ਵਸਤ ਜਗਤ ਦੇ ਲੋਕਾਂ ਨੂੰ (ਭੀ ਵੰਡ) ਦਿੱਤੀ, ਪਰ ਕਿਸੇ ਭਾਗਾਂ ਵਾਲੇ ਨੇ ਹਾਸਲ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਈ = ਦਿੱਤੀ ਹੈ। ਮਸਤਕਿ = ਮੱਥੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

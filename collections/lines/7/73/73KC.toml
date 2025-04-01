@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਪਵਿੱਤਰ ਪਰਮਾਤਮਾ ਨੇ ਦਿਲ ਦੀ ਕਾਮਨਾ ਪੂਰੀ ਕਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਖ਼ੁਦਾਇ ਪਾਕ ਦਿਲ ਰਾ ਕਾਮ ਦਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

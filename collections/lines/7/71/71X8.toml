@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ (ਪ੍ਰਭੂ) ਦੇ ਘਰ ਵਿਚ (ਜੀਵਾਂ ਵਾਸਤੇ) ਸਾਰੇ ਪਦਾਰਥ ਭਰੇ ਪਏ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਸਮਗ੍ਰੀ = ਸਾਰੇ ਪਦਾਰਥ। ਪੂਰਨ = ਭਰੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

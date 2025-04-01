@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗੇ (ਤੇਰੀ ਰਜ਼ਾ ਹੋਵੇ) ਤਦੋਂ ਹੀ ਤੂੰ ਉਸ ਅਰਦਾਸ ਨੂੰ ਸਫਲ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਣਹਿ = ਤੂੰ ਲਿਆਉਂਦਾ ਹੈਂ। ਆਣਹਿ ਰਾਸਿ = ਤੂੰ ਸਫਲ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

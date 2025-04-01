@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ ਤੋੜ ਲੈਂਦਾ ਹੈ ਅਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਆਜ਼ਾਦ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਨ = ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ। ਮੁਕਤੁ = ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਆਜ਼ਾਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

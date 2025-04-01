@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਨਿਰਾ ਚਾਨਣ ਹੀ ਚਾਨਣ ਹੈ ਤੇ ਸਭ ਦਾ ਵੱਡਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲਾ = ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੈਨੂੰ ਮਨੁੱਖਾ ਜਨਮ ਦੇ ਸੋਹਣੇ ਸਰੀਰ ਦੀ ਪ੍ਰਾਪਤੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੁਰੀਆ = ਸੋਹਣੀ ਦੇਹੀ। ਮਾਨੁਖ ਦੇਹੁਰੀਆ = ਮਨੁੱਖਾ ਜਨਮ ਦੀ ਸੋਹਣੀ ਦੇਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

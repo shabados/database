@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਮੈਂ ਪਾਪੀ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਤੇਰੇ ਦਰ ਤੇ ਆ ਡਿੱਗਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰਿ = ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

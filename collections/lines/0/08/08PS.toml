@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਹਰ ਥਾਂ ਵਿਆਪਕ ਪਰਮੇਸ਼ਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਰਥੁ = ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

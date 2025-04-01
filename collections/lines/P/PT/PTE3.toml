@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਬੰਦਗੀ ਵਿਚ ਜਿਊਣਾ ਹੀ ਸਭ ਤੋਂ ਉੱਤਮ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੀਸਤਨ ਦਰ ਬੰਦਗੀ ਊਲਾ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

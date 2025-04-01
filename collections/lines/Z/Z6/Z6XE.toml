@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਿਆਨਵਾਨ ਪੁਰਸ਼ੋ! ਇਸ ਮਨ ਨੂੰ ਮਾਇਆ ਦਾ ਬਹੁਤ ਮੋਹ ਚੰਬੜਿਆ ਰਹਿੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਘਨੇਰਾ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

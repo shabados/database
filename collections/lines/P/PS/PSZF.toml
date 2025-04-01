@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਾਮਲ ਲੋਕਾਣ ਦੀਆਣ ਨਜ਼ਰਾਣ ਵਿਚ ਉਹ ਬਰਬਾਦ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜ਼ਵਾਲ ਅਸਤ ਪੇਸ਼ਿ ਅਹਿਲਿ ਕਮਾਲ ।੫੩।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

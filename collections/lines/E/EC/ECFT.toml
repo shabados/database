@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਨਾਨਕ! ਕੁੰਡੇ ਤੋਂ ਬਿਨਾ ਹਾਥੀ ਮੁੜ ਮੁੜ ਕੁਰਾਹੇ ਪੈਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤੀ = ਹਾਥੀ। ਉਝੜਿ = ਕੁਰਾਹੇ, ਔਝੜੇ। ਪਾਇ = ਪੈਂਦਾ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

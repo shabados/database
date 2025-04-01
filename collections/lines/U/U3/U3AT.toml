@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਤੂੰ ਤੁਲਸੀ ਰੁੱਦ੍ਰਾਖ ਆਦਿਕ ਦੀ ਮਾਲਾ (ਹੱਥ ਵਿਚ ਲੈ ਕੇ) ਕਿਉਂ ਲੋਕਾਂ ਨੂੰ ਵਿਖਾਂਦਾ ਫਿਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਨੀ = ਮਾਲਾ। ਕਾਠ ਕੀ = ਤੁਲਸੀ ਰੁਦ੍ਰਾਖ ਆਦਿਕ ਦੀ। ਲੋਇ = ਜਗਤ ਵਿਚ ਲੋਕਾਂ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

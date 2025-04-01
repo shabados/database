@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਹਰੇਕ ਜੀਵ ਤੇਰਾ (ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ) ਹੈ, ਤੂੰ ਸਭ ਦੀ ਸਾਰ ਰੱਖਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਸੋਇ = ਸਾਰ ਲੈਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

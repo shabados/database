@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਨੇ ਪ੍ਰਭੂ ਦੇ ਸੋਹਣੇ ਚਰਨ (ਸਦਾ ਆਪਣੇ) ਚਿੱਤ ਵਿਚ ਵਸਾਏ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ ਕਮਲ = ਸੋਹਣੇ ਚਰਨ। ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

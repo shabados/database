@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਮਨੋ ਬਿਰਤੀ ਧਰਮ ਦੀ ਲੋ ਨਾਲ ਸੁਆਰ ੁਦਆਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਤਰਿ ਸ਼ਾਂ ਜ਼ਿ ਨੂਰ ਬਿਤਰਾਜ਼ਮ ।੪੭।"
+page = 1
+line = 47
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

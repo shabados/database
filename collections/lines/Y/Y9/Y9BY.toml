@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾ ਗਾ ਕੇ ਮਨ ਨੂੰ ਪਵਿਤ੍ਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਇ = ਗਾ ਕੇ। ਨਿਰਮਲ = ਪਵਿਤ੍ਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

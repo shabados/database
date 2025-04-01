@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨੌਕਰ ਨੂੰ ਉਹੋ ਵਸਤ ਮਿਲ ਸਕਦੀ ਹੈ ਜੋ ਮਾਲਕ ਦੇ ਘਰ ਵਿਚ ਹੋਵੇ, ਜੇ ਘਰ ਵਿਚ ਹੀ ਨਾ ਹੋਵੇ ਤਾਂ ਉਸ ਨੂੰ ਕਿੱਥੋਂ ਮਿਲੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਥੁ = ਚੀਜ਼। ਹਥਿ ਆਵੈ = ਹੱਥ ਵਿਚ ਆਉਂਦੀ ਹੈ, ਮਿਲਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇੱਜ਼ਤ ਅਤੇ ਸ਼ਾਨ ਦੀ ਉਚਿਆਈ ਦਾ ਆਸਮਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਲਕ ਰਿਫ਼ਅਤਿ ਇੱਜ਼ੋ ਇਕਬਾਲ ਰਾ ।੧੧੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

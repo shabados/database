@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਦੇ ਨਾਸ ਹੋਣ ਵਾਲਾ ਨਹੀਂ, ਨਾਹ ਜੰਮਦਾ ਹੈ, ਨਾਹ ਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਹਾਣੀ = ਨਾਸ ਹੋਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

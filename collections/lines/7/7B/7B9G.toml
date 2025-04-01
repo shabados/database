@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਇਸ ਤਰ੍ਹਾਂ ਸਦਾ) ਆਤਮਕ ਆਨੰਦ ਵਿਚ ਲੀਨ ਰਹੀਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਹਿ = ਆਤਮਕ ਆਨੰਦ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

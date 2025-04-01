@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ) ਇਹ ਜਿਸਮ ਨੀਵੀਂ ਕਬਰ ਦੇ ਵਿਚ ਪੈ ਕੇ ਮਿੱਟੀ ਹੋ ਜਾਇਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਸੀ = ਹੋ ਜਾਇਗਾ। ਗੋਰ = ਕਬਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

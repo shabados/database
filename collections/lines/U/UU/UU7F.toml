@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਜਗਤ ਦੇ) ਸ਼ੁਰੂ ਤੋਂ, ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਦਇਆ ਦਾ ਮਾਲਕ ਹੈਂ (ਸਾਰੇ ਸੁਖ ਪਦਾਰਥ) ਦੇਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = (ਜਗਤ ਦੇ) ਸ਼ੁਰੂ ਤੋਂ। ਜੁਗਾਦਿ = ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

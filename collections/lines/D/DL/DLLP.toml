@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ ਜੀਵਾਂ ਦਾ) ਇਕ ਤੂੰ ਹੀ (ਖਸਮ) ਹੈਂ, ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ = ਇੱਕ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

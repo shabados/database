@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ-ਸੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ ਸਭ ਤੋਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਮਿਲ ਜਾਂਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ-ਸੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਪਰਮ ਪਦੁ = ਸਭ ਤੋਂ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

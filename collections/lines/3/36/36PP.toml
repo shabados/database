@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ ਸਤਸੰਗ ਵਿਚ ਮਿਲ ਕੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਵਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ ਸਤਸੰਗਿ = ਸਤਸੰਗ ਵਿਚ ਮਿਲ ਕੇ। ਨਾਰੀ = (ਜਿਸ) ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ। ਮੰਗਲੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

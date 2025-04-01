@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੀ ਪ੍ਰੇਰਨਾ ਤੋਂ ਬਿਨਾ) ਵਿਚਾਰਾ ਜੀਵ ਕੋਈ ਅਰਦਾਸ ਭੀ ਨਹੀਂ ਕਰ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨੁ = ਨਿਮਾਣਾ, ਗਰੀਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

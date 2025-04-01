@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਤੇਰੀ ਮਿਹਰ ਹੋਵੇ ਤਾਂ ਹੀ) ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਅੱਗੇ (ਇਹ) ਅਰਦਾਸ ਕਰ ਸਕਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

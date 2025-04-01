@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੈਂ) ਗੁਣ-ਹੀਣ ਦੇ ਦਾਤਾਰ! ਮੇਰਾ ਮਨ ਕਾਮ ਵਿਚ, ਕਰੋਧ ਵਿਚ, ਲੋਭ ਵਿਚ, ਮੋਹ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ ਵਿਚ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਲੀਨੋ = ਲੀਨ, ਗ਼ਰਕ। ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਣ। ਦਾਤਾਰੇ = ਹੇ ਦਾਤੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੌਣ ਕੋਈ ਦੂਜਾ ਸਲਾਹ ਦੱਸ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਸਰੁ = ਦੂਜਾ। ਬੀਚਾਰੁ = ਖ਼ਿਆਲ। ਜਨ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

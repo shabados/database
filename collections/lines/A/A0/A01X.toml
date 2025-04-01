@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਜਾਮੇ ਨੂੰ ਲਹੂ ਲੱਗ ਜਾਵੇ, ਤਾਂ ਜਾਮਾ ਪਲੀਤ ਹੋ ਜਾਂਦਾ ਹੈ (ਤੇ ਨਮਾਜ਼ ਨਹੀਂ ਹੋ ਸਕਦੀ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਮਾ = ਕੱਪੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

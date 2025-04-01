@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਮੈਨੂੰ ਉਹ ਜਤਨ ਦੱਸ ਜਿਸ ਨਾਲ ਉਹ ਪਿਆਰਾ ਮਿਲ ਪਏ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤੰਨੁ = ਜਤਨ, ਉੱਦਮ। ਸਖੀ = ਹੇ ਸਹੇਲੀਏ! ਪ੍ਰਿਉ = ਪਿਆਰਾ ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

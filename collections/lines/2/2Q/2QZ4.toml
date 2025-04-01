@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਪਿਆਰੇ ਸਨਬੰਧੀ ਦੇ ਮਰਨ ਤੇ ਜ਼ਨਾਨੀਆਂ) 'ਹਾਇ ਹਾਇ' ਆਖ ਆਖ ਕੇ 'ਓਇ ਓਇ' ਕਰਦੀਆਂ ਹਨ (ਮੂੰਹੋਂ ਆਖਦੀਆਂ ਹਨ। ਆਪਣੀਆਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈ ਹੈ = ਹਾਇ ਹਾਇ। ਕਰਿ ਕੈ = ਆਖ ਆਖ ਕੇ। ਓਹਿ ਕਰੇਨਿ = 'ਓਏ ਓਏ' ਕਰਦੀਆਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

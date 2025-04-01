@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਭੈੜੀ ਮਤ ਤੇ ਮਾਇਆ ਦਾ ਪਿਆਰ ਸਾੜ ਦਿਉ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰਉ = ਜਾਰਹੁ, ਸਾੜ ਦਿਉ। ਦੋਊ = ਦੂਜਾ ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

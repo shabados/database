@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ ਨਿਰੋਲ ਇਕ ਛਲ ਹੈ, (ਆਖ਼ਰ) ਛਲ ਹੀ (ਸਾਬਤ) ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੁ = ਛਲ, ਭਰਮ। ਕੂੜੋ = ਕੂੜ ਹੀ, ਛਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

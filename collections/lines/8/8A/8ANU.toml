@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਲੋਕਾਂ ਦੇ ਭਾਣੇ ਮੈਂ ਅੰਨ੍ਹਾ ਹਾਂ, ਪਰ) ਮੈਂ ਅੰਨ੍ਹੇ ਨੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਆਸਰਾ ਲਿਆ ਹੋਇਆ ਹੈ ॥੪॥੧॥੩੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਆਸਰਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

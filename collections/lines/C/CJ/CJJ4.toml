@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਸੁਆਸਾਂ ਦੀ) ਰਾਸ ਖੁੱਸ ਜਾਂਦੀ ਹੈ, ਤਦੋਂ ਵਣਜ ਮੁੱਕ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਾਨੀ = ਖੁਹਾ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

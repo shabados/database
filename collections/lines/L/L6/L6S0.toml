@@ -36,6 +36,12 @@ language = "pa"
 data = "ਝੂਠ, ਮੰਦੇ ਕਰਮ, ਭਾਰੀ ਲਾਲਚ ਤੇ ਦਗ਼ਾ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧ੍ਰੋਹ = ਠੱਗੀ, ਦਗ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

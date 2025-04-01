@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਇਸ ਸਰੀਰ ਨੂੰ ਨਾਸਵੰਤ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੋ = ਹੇ ਸੰਤ ਜਨੋ! ਮਿਥਿਆ = ਨਾਸ-ਵੰਤ। ਤਨੁ = ਸਰੀਰ। ਜਾਨੋ = ਸਮਝੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

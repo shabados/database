@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਸੁਣ ਸੁਣ ਕੇ (ਮੇਰੇ ਅੰਦਰ) ਵੱਡਾ ਆਨੰਦ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨੀਆ = ਸੁਣ ਕੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

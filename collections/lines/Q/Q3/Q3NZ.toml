@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖੋ,) ਕਿਸ ਮੁੱਢ ਤੋਂ (ਪਿਤਾ ਦੀ ਬੂੰਦ ਤੋਂ) ਇਸ ਦੀ ਕੈਸੀ ਸੋਹਣੀ ਸੂਰਤ (ਪਰਮਾਤਮਾ ਨੇ) ਬਣਾ ਦਿੱਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲ ਤੇ = ਮੁੱਢ ਤੋਂ। ਕਿਆ = ਕੈਸਾ ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

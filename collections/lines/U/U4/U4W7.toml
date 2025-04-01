@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਦੀ ਅੰਸ ਹੁੰਦੇ ਹਨ, ਅਤੇ ਸਭ ਨਾਲ ਉਨ੍ਹਾਣ ਦੀ ਅਪਣਤ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਸ ਖ਼ੁਦਾ ਓ ਬਾਹਮਾ ਖ਼ੇਸੀ ਬਵਦ ।੧੩੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

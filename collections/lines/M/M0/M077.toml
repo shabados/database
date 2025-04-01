@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਹਰਿ ਪ੍ਰਭੂ ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਦਦਗਾਰ ਬਣ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕਾ = ਜਿਸ (ਮਨੁੱਖ) ਦਾ। ਬੇਲੀ = ਮਦਦਗਾਰ, ਸਹਾਈ। ਸੁਆਮੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

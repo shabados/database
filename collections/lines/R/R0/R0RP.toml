@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ, ਤੂੰ ਹੀ ਸਭ ਜੀਵਾਂ ਦਾ ਰਾਜ਼ਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਾਰਾ = ਰਾਜ਼ਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

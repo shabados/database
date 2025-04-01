@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਰਾਹੀਂ) ਜਿਸ ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਸਿਮਰਿਆ ॥੨॥੩੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ ॥੨॥੩੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

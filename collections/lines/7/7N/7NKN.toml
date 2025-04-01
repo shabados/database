@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਰਤਾ ਇਹ ਤਾਂ ਸੋਚੇ ਕਿ) ਪ੍ਰਭੂ ਦੀ (ਦਿੱਤੀ ਹੋਈ) ਤਾਕਤ ਤੋਂ ਬਿਨਾ ਕਿਥੇ ਦੌੜ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹ = ਕਿਥੇ? ਧਾਵੈ = ਦੌੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

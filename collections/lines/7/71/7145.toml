@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ! (ਪਰਮਾਤਮਾ ਦੇ) ਦਰਸਨ ਦੀ ਦਾਤ (ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ) ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨ ਦਾਨੁ = ਦਰਸਨ ਦੀ ਦਾਤ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

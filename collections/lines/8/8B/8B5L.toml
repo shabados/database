@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆਂ ਹਰੇਕ ਕਿਸਮ ਦਾ ਸੁਖ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ = ਹਰੇਕ ਕਿਸਮ ਦਾ {सर्व}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

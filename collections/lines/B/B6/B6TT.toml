@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਮਾਧੀਆਂ ਲਾਣ ਵਾਲੇ ਲੋਕ ਸਮਾਧੀਆਂ ਲਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਨੀ = ਸਮਾਧੀਆਂ ਲਾਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

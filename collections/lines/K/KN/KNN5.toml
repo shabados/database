@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਮਿਹਰ ਕਰ ਕੇ ਸਭ ਜੀਵਾਂ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਸਾਰਾ = ਜੀਵਾਂ ਦੀ ਸਾਰ, ਜੀਵਾਂ ਦੀ ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

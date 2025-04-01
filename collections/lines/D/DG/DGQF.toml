@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਘਰ ਵਿਚ ਸੋਹਣੇ ਰਾਮ ਜੀ, ਕ੍ਰਿਸ਼ਨ ਜੀ (ਜੰਮੇ) ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਗ੍ਰਿਹਿ = ਜਿਸਦੇ ਘਰ ਵਿਚ (ਜੰਮੇ)। ਰਮਈਆ = ਸੋਹਣੇ ਰਾਮ ਜੀ। ਕਵਲਾਪਤੀ = ਕਮਲਾ ਦੇ ਪਤੀ, ਲੱਛਮੀ ਦੇ ਪਤੀ, ਵਿਸ਼ਨੂੰ, ਕ੍ਰਿਸ਼ਨ ਜੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

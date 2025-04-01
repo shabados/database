@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨੇਕ ਕਮਾਈ ਕਰੀ ਜਾਹ ਤੇ ਤੂੰ ਭੀ (ਇਹ ਸੁਖ) ਹਾਸਲ ਕਰ ਲੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਕ੍ਰਿਤੁ = ਨੇਕ ਕਮਾਈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

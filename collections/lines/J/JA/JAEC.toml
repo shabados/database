@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਲ ਵਿਚ ਰਹਿਣ ਵਾਲੇ, ਧਰਤੀ ਉੱਤੇ ਵੱਸਣ ਵਾਲੇ, ਬੇਅੰਤ ਪੁਰੀਆਂ, ਲੋਕਾਂ ਅਤੇ ਬ੍ਰਹਿਮੰਡ ਦੇ ਜੀਵ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਜੀਆ = ਜੀਵ। ਲੋਅ = ਲੋਕ। ਆਕਾਰਾ ਆਕਾਰ = ਸਾਰੇ ਦ੍ਰਿਸ਼ਟਮਾਨ ਬ੍ਰਹਿਮੰਡਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

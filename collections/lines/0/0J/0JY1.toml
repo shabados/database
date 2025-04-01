@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ (ਜੀਵਨ ਦਾ ਸਹੀ ਰਾਹ) ਨਹੀਂ ਸਮਝਦਾ, ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਤੇ ਕਾਮਵਾਸ਼ਨਾ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ-ਵਾਸਨਾ ਵਿਚ। ਵਿਆਪਿਆ = ਫਸਿਆ ਹੋਇਆ। ਗਾਵਾਰੁ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

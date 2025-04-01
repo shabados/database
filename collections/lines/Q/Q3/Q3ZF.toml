@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਦਾ ਤੋਂ ਹੀ ਆਪ (ਸਭ ਦੀ) ਰੱਖਿਆ ਕਰਦਾ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਜਗਤ-ਰਚਨਾ ਦੇ ਸ਼ੁਰੂ ਤੋਂ। ਜੁਗਾਦੀ = ਜੁਗਾਂ ਦੇ ਸ਼ੁਰੂ ਤੋਂ। ਆਦਿ ਜੁਗਾਦੀ = ਭਾਵ, ਸਦਾ ਤੋਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇਡਾ (ਬੇਅੰਤ ਤੂੰ) ਆਪ ਹੈਂ, ਉਤਨੀ (ਬੇਅੰਤ) ਤੇਰੀ ਬਖ਼ਸ਼ਸ਼ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਵਡੁ = ਜੇਡਾ ਵੱਡਾ। ਤੇਵਡ = ਉਤਨੀ ਵੱਡੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

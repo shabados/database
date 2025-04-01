@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਦੋਂ ਤੋਂ) ਮੇਰਾ ਮਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਗਿੱਝ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਮਾਨੀ = ਮੰਨ ਗਿਆ ਹੈ, ਗਿੱਝ ਗਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

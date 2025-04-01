@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ ਦਰਜਾ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈ। ਜੀਵਨ ਪਦਵੀ = ਆਤਮਕ ਜੀਵਨ ਦਾ ਦਰਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

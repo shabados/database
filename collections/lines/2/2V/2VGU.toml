@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੂੰ ਮੌਤ ਦਾ ਡਰ ਢਾਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਲਿ ਨ ਸਾਕੈ = ਪੀੜ ਨਹੀਂ ਸਕਦਾ, ਡੇਗ ਨਹੀਂ ਸਕਦਾ। ਕਾਲੁ = ਮੌਤ (ਦਾ ਡਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

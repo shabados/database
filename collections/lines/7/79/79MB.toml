@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਗਿਆਨਤਾ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਹੇ (ਮੋਹ ਦਾ) ਹਨੇਰਾ ਦੂਰ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਹੇ (ਸਭ ਤੋਂ) ਉੱਚੇ! ਹੇ ਅਪਹੁੰਚ! ਹੇ ਅਮਿੱਤ ਹਰੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨ ਬਿਨਾਸਨ = ਹੇ ਅਗਿਆਨ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਤਮ ਹਰਨ = ਹੇ ਹਨੇਰਾ ਦੂਰ ਕਰਨ ਵਾਲੇ! ਅਮਾਉ = ਅਮਾਪ, ਅਮਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

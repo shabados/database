@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਪਹਿਲੀ ਤਨਖ਼ਾਹ ਭੀ ਗਵਾ ਬੈਠਦਾ ਹੈ ਤੇ ਸਦਾ ਮੂੰਹ ਤੇ ਜੁੱਤੀਆਂ ਖਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਲਾ = ਪਹਿਲਾ, ਜੋ ਪਹਿਲਾਂ ਮਿਲਦਾ ਸੀ। ਮੁਹੇ ਮੁਹਿ = ਮੂੰਹ ਉੱਤੇ, ਭਾਵ, ਸਦਾ ਆਪਣੇ ਮੂੰਹ ਉੱਤੇ। ਪਾਣਾ = ਜੁੱਤੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

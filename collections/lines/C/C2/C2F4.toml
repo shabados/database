@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਮਿਹਰ ਕਰ ਕੇ ਉਸ ਨੇ ਮੈਨੂੰ) ਆਪਣੇ ਚਰਨਾਂ ਦਾ ਪੁਜਾਰੀ ਬਣਾ ਲਿਆ ਹੈ ॥੪॥੧॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਾਰਿਆ = ਪੁਜਾਰੀ ਬਣਾ ਲਿਆ ॥੪॥੧॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

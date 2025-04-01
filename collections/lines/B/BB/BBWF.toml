@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ ਨੂੰ ਸੰਤ ਜਨ ਆਪਣੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸਦਾ ਆਪਣੇ ਨਾਲ ਰੱਖਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਲੈ ਨਾਲਿ = ਨਾਲ ਲੈ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

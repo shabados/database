@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਖ਼ੁਸ਼ੀ (ਦੀ ਲਾਲਸਾ) ਗ਼ਮੀ (ਤੋਂ ਘਬਰਾਹਟ) ਮੁਕਾ ਲਈ, ਉਸ ਨੇ (ਮਾਇਆ ਦਾ) ਸਾਰਾ ਮੋਹ ਦੂਰ ਕਰ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖੁ = ਖ਼ੁਸ਼ੀ। ਸੋਗੁ = ਗ਼ਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਕੋਲੋਂ ਜਾਚਕਾਂ ਨੂੰ ਬਜ਼ੁਰਗੀ ਦਾ ਸੋਮਾ ਮਿਲਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਤਾਲਿਬਾਂ ਰਾ ਕਰਾਮਤ ਨਸਾਬ ।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

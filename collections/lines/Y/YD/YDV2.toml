@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਬੰਦਗੀ ਦਾ ਲਿਹਾਜ਼ ਕਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਤਾਅਤ-ਗੁਜ਼ਾਰੀਸ਼ ਦਾਰਦ ਪਾਸ ।੮੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

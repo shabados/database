@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਤੂੰ ਹਰ ਮੰਦੇ ਚੰਗੇ ਮਗਰ ਸਵਾਰਥ ਲਈ ਨਸਦਾ ਫਿਰਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੂ ਬ-ਸੂਇ ਹਰ ਕਸੋ ਨਾਕਸ ਦਵਾਣ ।੭੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

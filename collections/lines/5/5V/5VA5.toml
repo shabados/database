@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਿਸ਼ਵਤ ਲੈਣ ਦੇਣ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਰਹਿੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਏ ਦਿਤੇ ਵਿਣੁ = ਮਾਇਆ ਲੈਣ ਦੇਣ ਤੋਂ ਬਿਨਾ, ਰਿਸ਼ਵਤ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

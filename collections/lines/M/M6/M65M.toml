@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਉੱਤੇ ਦਇਆਵਾਨ ਰਹਿੰਦਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ ਜੀਅ = ਸਾਰੇ ਜੀਵਾਂ ਉੱਤੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

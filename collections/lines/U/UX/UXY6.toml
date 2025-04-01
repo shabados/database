@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੋਹਣੀ ਸੇਜ ਮਿਲੀ ਹੋਵੇ, ਅਨੇਕਾਂ ਸੁਖ ਹੋਣ, ਸਭ ਕਿਸਮ ਦੇ ਸੁਆਦਲੇ ਭੋਗ ਭੋਗਣ ਨੂੰ ਹੋਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰੇ = ਮੁਕੰਮਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

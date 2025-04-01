@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ (ਦਾ ਪਿਆਰ) ਖੋਟੀ ਪੂੰਜੀ ਹੈ, ਇਹ ਕਮਾਈ ਕੂੜ (ਦਾ ਵਪਾਰ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਸਿ = ਪੂੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

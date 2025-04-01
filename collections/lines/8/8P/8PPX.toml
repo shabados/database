@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮੇਰੇ ਮਿੱਤਰ ਤਾਂ ਉਹ ਸੰਤ ਜਨ ਹਨ) ਜਿਨ੍ਹਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਇਹ ਮਨ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਸੰਗਿ = ਜਿਨ੍ਹਾਂ (ਸੰਤ ਜਨਾਂ) ਦੀ ਸੰਗਤਿ ਵਿਚ। ਨਿਰਮਲੁ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

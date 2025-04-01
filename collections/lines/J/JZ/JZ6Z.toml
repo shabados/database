@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ ਵਿਚਾਰਾ (ਮਾਨੋ) ਕਾਗ਼ਜ਼ਾਂ ਦਾ ਕਿਲ੍ਹਾ ਹੈ ਜਿਸ ਨੂੰ (ਪ੍ਰਭੂ ਨੇ ਆਪਣੀ) ਸਿਆਣਪ ਨਾਲ ਸਜਾਵਟ ਤੇ ਰੂਪ-ਰੇਖਾ ਦਿੱਤੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟੁ = ਕਿਲ੍ਹਾ। ਬਪੁਰੋ = ਨਿਮਾਣਾ, ਵਿਚਾਰਾ। ਰੰਗਨਿ = ਸਜਾਵਟ, ਰੰਗਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਬੇ-ਸਮਝ ਬੰਦੇ (ਨਿਰੀ) ਮਾਇਆ (ਇਕੱਠੀ ਕਰਨ) ਵਾਸਤੇ ਭਟਕਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਵਹੀ = ਧਾਵਹਿ, ਦੌੜੇ ਫਿਰਦੇ ਹਨ। ਅਜਾਨ = ਬੇ-ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

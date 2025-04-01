@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਲੋਕ) ਆਪ ਤਾਂ (ਕਿਸੇ ਨੂੰ) ਇਕ ਚੁਲੀ ਜਿਤਨਾ ਪਾਣੀ ਭੀ ਨਹੀਂ ਦੇਂਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਦੇਹਿ = ਨਹੀਂ ਦੇਂਦੇ। ਚੁਰੂ ਭਰਿ = ਇੱਕ ਚੁਲੀ ਜਿਤਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

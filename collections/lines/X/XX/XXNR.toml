@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਮਨੁੱਖ ਸਦਾ) ਹਉਮੈ ਦੇ ਬੋਲ ਬੋਲਦਾ ਹੈ, ਆਪਣੇ ਆਪ ਨੂੰ ਵੱਡਾ ਜ਼ਾਹਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = ਅਤੇ। ਆਪੁ = ਆਪਣਾ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

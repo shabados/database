@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸੰਗਲ ਨਾਲ ਕੜ ਕੇ ਬੰਨ੍ਹਿਆ ਜਾਂਦਾ ਹੈ ਤੇ ਸਿਰ ਉਤੇ ਚੋਟਾਂ ਸਹਾਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੜਿ = ਕੜ ਕੇ, ਬੰਨ੍ਹ ਕੇ। ਬੰਧਨਿ = ਬੰਧਨ ਨਾਲ, ਰੱਸੇ (ਸੰਗਲ) ਨਾਲ। ਸੀਸ ਮਾਰ = ਸਿਰ ਤੇ ਮਾਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

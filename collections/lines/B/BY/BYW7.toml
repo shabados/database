@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੱਸ,) ਮਨੁੱਖ ਉਹ ਕੇਹੜਾ ਹੀਲਾ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉਨੁ ਉਪਾਉ = ਕੇਹੜਾ ਹੀਲਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

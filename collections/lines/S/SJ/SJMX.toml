@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਰਮਾਤਮਾ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਦੋਹਾਂ ਤੋਂ ਪਰੇ ਰਹਿੰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਗ = ਗ਼ਮ। ਹਰਖ = ਖ਼ੁਸ਼ੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

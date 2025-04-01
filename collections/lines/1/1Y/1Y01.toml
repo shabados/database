@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਖਾਂ ਨਾਲ ਅਕਾਲ ਪੁਰਖ ਦਾ (ਜਗਤ-) ਤਮਾਸ਼ਾ ਵੇਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨਹੁ = ਅੱਖਾਂ ਨਾਲ। ਰੰਗੁ = ਤਮਾਸ਼ਾ, ਖੇਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

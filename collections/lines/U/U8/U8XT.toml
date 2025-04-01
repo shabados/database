@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਗ਼ਾਫ਼ਿਲ ਮਨ! ਹੇ ਚੰਚਲ ਮਨ! ਤੈਨੂੰ ਕਦੇ ਇਹ ਨਹੀਂ ਸੁੱਝੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧ = ਮੂਰਖ! ਅਚੇਤ = ਗਾਫ਼ਿਲ! ਚਿਤ = ਹੇ ਚਿੱਤ! ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਰਿਦੈ ਨ ਆਈ = ਨਾਹ ਸੁੱਝੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

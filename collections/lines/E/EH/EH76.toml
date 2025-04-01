@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਆਪਣੀ ਪੈਦਾ ਕੀਤੀ ਰਚਨਾ ਨੂੰ ਅੱਖ ਦੇ ਫੋਰ ਵਿਚ ਨਾਸ ਕਰ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਪਤਿ = ਉਤਪੱਤੀ। ਪਰਲਉ = ਨਾਸ। ਨਿਮਖ = ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ। ਮਝਾਰ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਸੰਗ ਸਰੋਵਰ ਦੀ ਇਸ) ਗੁਪਤ ਕਦਰ ਨੂੰ ਕੋਈ ਵਿਰਲਾ ਹੀ ਬੰਦਾ ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਦੁ = (ਸਤਸੰਗ ਸਰੋਵਰ ਦੀ) ਗੁਪਤ ਕਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

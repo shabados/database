@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਬਹੁਤ ਅਪਹੁੰਚ ਹੈਂ ਤੇ ਡੂੰਘਾ ਹੈਂ ਅਸੀਂ ਅੰਞਾਣ ਜੀਵ ਤੈਨੂੰ ਕਿਵੇਂ ਜਪ ਸਕਦੇ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਕਰਿ = ਕਿਵੇਂ? ਜਪਹ = ਅਸੀਂ ਜਪੀਏ। ਇਆਣਿਆ = ਅੰਞਾਣੇ। ਅਗਾਹ = ਅਗਾਧ, (ਉਹ ਸਮੁੰਦਰ) ਜਿਸ ਦੀ ਡੂੰਘਾਈ ਨਾਹ ਲੱਭ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

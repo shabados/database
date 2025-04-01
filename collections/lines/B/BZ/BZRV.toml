@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਵੇਦ ਸ਼ਾਸਤਰ, ਪੁਰਾਨ ਆਦਿਕ ਦੇ ਗੀਤ ਕਬਿੱਤ ਗਾਵਣ ਦੀ ਲੋੜ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨੰਤਾ = ਬੇਅੰਤ। ਨ ਗਾਵਉਗੋ = ਨ ਗਾਵਉਂ, ਮੈਂ ਨਹੀਂ ਗਾਉਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

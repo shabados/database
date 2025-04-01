@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀਮੀਆ ਵਾਣਗ ਕਿਸੇ ਸਫਲ ਪਰਯੋਜਨ ਲਈ ਸੜਣਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਚੁਨੀੰਣ ਕੀਮੀਆ ਬਕਾਰ ਬਿਸੋਖ਼ਤ ।੧੪।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

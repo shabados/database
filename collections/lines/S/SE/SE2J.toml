@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸਤ੍ਰੀ, ਮਿੱਤਰ, ਪੁੱਤਰ, ਰਿਸ਼ਤੇਦਾਰ-ਇਹ ਸਾਰੇ ਧਨ ਨਾਲ (ਹੀ) ਪਿਆਰ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰਾ = ਇਸਤ੍ਰੀ। ਸਨਬੰਧੀ = ਰਿਸ਼ਤੇਦਾਰ। ਸਗਰੇ = ਸਾਰੇ। ਸਿਉ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

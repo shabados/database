@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਕ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਵਿਚ ਪ੍ਰੀਤਿ ਨਹੀਂ ਜੋੜਨੀ ਚਾਹੀਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

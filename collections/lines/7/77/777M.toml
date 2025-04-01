@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ! ਹਰ ਵਕਤ ਹਰ ਵੇਲੇ ਖ਼ਾਲਕ ਨੂੰ ਮੌਲਾ ਨੂੰ ਆਪਣੇ ਦਿਲ ਵਿਚ ਯਾਦ ਕਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਤ = ਵਕਤ {ਲਫ਼ਜ਼ 'ਵਕਤ' ਮੁਸਲਮਾਨੀ ਲਫ਼ਜ਼ ਹੈ, ਅਤੇ 'ਵੇਲਾ' ਹੇਂਦਕਾ ਲਫ਼ਜ਼ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

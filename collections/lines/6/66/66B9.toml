@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਪਾਲ ਪ੍ਰਭੂ ਜੀ ਉਚੀ ਕਰਨੀ ਵਾਲੇ ਬੰਦੇ ਦੇ ਮੱਥੇ ਉਤੇ ਪਰਗਟ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾਂਤ = ਉੱਚੀ ਕਰਣੀ ਵਾਲਾ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

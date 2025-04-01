@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੱਛੇ ਨੂੰ (ਆਪਣੀ ਮਾਂ ਦਾ) ਦੁੱਧ ਮੂੰਹ ਨਾਲ ਪੀ ਕੇ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੀਰੁ = ਦੁੱਧ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

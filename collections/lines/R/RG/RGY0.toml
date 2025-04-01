@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਹੋਰ ਦੇ ਮਰਨ ਤੇ ਰੋਣ ਦਾ ਕੀਹ ਅਰਥ, ਜਦੋਂ ਸਾਡਾ ਆਪਣਾ ਆਪ ਹੀ ਸਦਾ ਟਿਕਿਆ ਨਹੀਂ ਰਹੇਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਰੋਈਐ = ਰੋਣ ਦਾ ਕੀਹ ਲਾਭ? ਜਉ = ਜਦੋਂ। ਥਿਰੁ = ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ। ਨ ਰਹਾਇ = ਨਹੀਂ ਰਹਿੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

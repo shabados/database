@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੀ ਸੁਰਤ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ, ਜੋ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ। ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਣੀ = ਕੁਰਾਹੇ ਪਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

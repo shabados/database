@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਨੂੰ) ਸਾਰਾ ਘਰ-ਘਾਟ ਤੇਰਾ ਹੀ ਦਿੱਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰੁ ਲਸਕਰੁ = ਘਰ ਅਤੇ ਪਰਵਾਰ ਆਦਿਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

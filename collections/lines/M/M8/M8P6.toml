@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਤੂੰ ਸ਼ਾਹਾਂ ਦਾ ਪਾਤਿਸ਼ਾਹ ਹੈਂ। ਮੈਂ ਤੇਰੇ ਸਾਰੇ ਗੁਣ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦੀ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹੀ ਹੂ ਸਾਹੁ = ਸ਼ਾਹੀ ਹੂ ਸ਼ਾਹ, ਸ਼ਾਹਾਂ ਦਾ ਪਾਤਿਸ਼ਾਹ। ਹਉ = ਮੈਂ। ਸਕਾ = ਸਕਾਂ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

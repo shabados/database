@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ (ਆਪਣੀ ਰਜ਼ਾ ਨੂੰ) ਸਮਝਦਾ ਹੈਂ, (ਆਪਣੇ ਹੁਕਮ ਨੂੰ) ਸੁਣ ਕੇ ਤੂੰ ਆਪ ਹੀ (ਉਸ ਦੀ) ਵਿਆਖਿਆ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝਹਿ = ਸਮਝਦਾ ਹੈਂ। ਸੁਣਿ = ਸੁਣ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

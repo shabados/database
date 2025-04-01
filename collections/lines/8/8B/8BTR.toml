@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ!) ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਏ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਈਅਹਿ = ਗਾਏ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ। ਨੀਤ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਤ੍ਰਿਲੋਚਨ! ਵੇਖ, ਮੁੰਡਾ) ਕਾਗ਼ਜ਼ ਲਿਆਉਂਦਾ ਹੈ, ਉਸ ਦੀ ਗੁੱਡੀ ਕੱਟਦਾ ਹੈ ਤੇ ਗੁੱਡੀ ਨੂੰ ਅਸਮਾਨ ਵਿਚ ਉਡਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨੀਲੇ = ਲਿਆਂਦਾ। ਕਾਟੀਲੇ = ਕੱਟ ਕੇ ਬਣਾਈ। ਮਧੇ = ਵਿਚ। ਭਰਮੀਅਲੇ = ਉਡਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

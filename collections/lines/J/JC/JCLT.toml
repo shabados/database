@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੋਈ ਮਾਂ ਪੁੱਤਰ (ਜੰਮਣ) ਦੀ ਆਸ ਰੱਖ ਕੇ (ਨੌ ਮਹੀਨੇ ਆਪਣੀ) ਕੁੱਖ ਦੀ ਸੰਭਾਲ ਕਰਦੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਨੀ = ਜੰਮਣ ਵਾਲੀ, ਮਾਂ। ਗਰਭੁ = ਕੁੱਖ। ਪਾਲਤੀ = ਸਾਂਭ ਕੇ ਰੱਖਦੀ। ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ ਜੀ! (ਤੂੰ ਸਾਡਾ ਖਸਮ ਹੈਂ) ਖਸਮ ਵਾਲਾ ਫ਼ਰਜ਼ ਪੂਰਾ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਸਮਾਨਾ = ਖਸਮ ਵਾਲਾ ਫ਼ਰਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

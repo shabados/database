@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੈਂ ਆਪਣਾ ਉਹ ਮਾਲਕ-ਪ੍ਰਭੂ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਉ = ਸਿਮਰਉਂ, ਮੈਂ ਸਿਮਰਦਾ ਹਾਂ। ਸੁਆਮੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

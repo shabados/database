@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਉੱਠ ਕੇ (ਨਾਮ-ਜਲ ਵਿਚ) ਚੁੱਭੀ ਲਾਇਆ ਕਰੋ, ਸੁੱਤੇ ਹੋਏ ਭੀ ਪਰਮਾਤਮਾ ਦੇ ਆਰਾਧਨ ਵਿਚ ਜੁੜੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਠਿ = ਉੱਠ ਕੇ। ਪਰਭਾਤੇ = ਅੰਮ੍ਰਿਤ ਵੇਲੇ। ਇਸਨਾਨੁ = ਹਰਿ-ਨਾਮ ਵਿਚ ਆਤਮਕ ਇਸ਼ਨਾਨ। ਸੋਏ = ਸੁੱਤੇ ਹੋਏ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

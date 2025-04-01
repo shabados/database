@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਸਿਰਜਣਹਾਰ ਦੀ ਮਿਹਰ ਹੋਈ ਕਿਰਪਾ ਹੋਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਇਆ = ਮਿਹਰ, ਦਇਆ। ਬਿਧਾਤਾ = ਬਿਧਾਤੇ ਦੀ, ਸਿਰਜਣਹਾਰ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

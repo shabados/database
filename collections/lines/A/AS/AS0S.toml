@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਹਰੀ ਜੀ! ਹੇ ਮੁਰਾਰੀ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮੇਰੀ ਇੱਜ਼ਤ ਰੱਖ ॥੨॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਰਾਰਿ = ਹੇ ਮੁਰਾਰੀ! ॥੨॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

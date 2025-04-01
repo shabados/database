@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨਮੁਖਾਂ ਦਾ ਕੱਚਾ ਗਾਂਢਾ-ਤੋਪਾ (ਬਹੁਤ ਚਿਰ) ਨਹੀਂ ਤੱਗਦਾ ਜਿਵੇਂ ਚਿੱਕੜ ਨਾਲ ਬੱਝਾ ਹੋਇਆ ਪੱਥਰਾਂ ਦਾ ਬੰਨ੍ਹ (ਛੇਤੀ ਢਹਿ ਪੈਂਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਕੜਿ = ਚਿੱਕੜ ਨਾਲ। ਪਥਰ ਬੰਧੁ = ਪੱਥਰਾਂ ਦਾ ਬੰਨ੍ਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

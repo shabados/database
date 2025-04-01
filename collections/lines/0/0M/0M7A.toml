@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ (ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਕੀਮਤੀ ਰਤਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚੋਂ ਹੀ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ ਤੇ = ਹਿਰਦੇ ਵਿਚੋਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

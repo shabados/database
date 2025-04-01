@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਅਨੇਕਾਂ ਧਰਮਰਾਜ ਹਨ ਅਨੇਕਾਂ ਹੀ ਧਨ ਦੇ ਦੇਵਤੇ ਕੁਬੇਰ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਮ = ਧਰਮਰਾਜ। ਕੁਮੇਰ = ਕੁਬੇਰ, ਧਨ ਦਾ ਦੇਵਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

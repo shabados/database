@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਉਸ ਦਾ ਮਨ ਮੋਹ ਵਿਚ ਡੁੱਬਾ ਰਹਿੰਦਾ ਹੈ ਚਿੰਤਾ ਨਾਲ ਨੱਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਗਨ = ਡੁੱਬਾ ਹੋਇਆ। ਚਿੰਦਾ = ਚਿੰਤਾ। ਵਿਆਪਿਆ = ਦਬਾਇਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

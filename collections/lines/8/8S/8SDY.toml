@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ-ਖੇਡ ਰਚ ਕੇ (ਤੂੰ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ) ਬ੍ਰਹਮਾ ਅਖਵਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਰਿ = ਧਾਰ ਕੇ, ਰਚ ਕੇ। ਖੇਲੁ = ਜਗਤ-ਤਮਾਸ਼ਾ। ਚਤੁਰਭੁਜ = ਚਾਰ ਬਾਹਾਂ ਵਾਲਾ, ਬ੍ਰਹਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

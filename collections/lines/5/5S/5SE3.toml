@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜ਼ੁਲਮ ਦੀ ਬੁਨਿਆਦ ਪੁੱਟ ਦਿੱਤੀ ਗਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਨਾਇ ਸਿਤਮ ਰਾ ਬਰ-ਅੰਦਾਖ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

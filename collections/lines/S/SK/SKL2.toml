@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਵੇਖ, (ਪਾਣੀ ਦੇ) ਵਿਚ ਹੀ ਧਰਤੀ ਹੈ, (ਧਰਤੀ ਦੇ) ਵਿਚ ਹੀ ਪਾਣੀ ਹੈ, ਲੱਕੜ ਵਿਚ ਅੱਗ ਰੱਖੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਚੇ ਪਾਣੀ = (ਪਾਣੀ ਦੇ) ਵਿਚ ਹੀ। ਵਿਚੇ ਧਰਤੀ = (ਧਰਤੀ ਦੇ) ਵਿਚ ਹੀ। ਕਾਸਟ = ਕਾਠ, ਲੱਕੜੀ। ਧਰੀਜੈ = ਧਰੀ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

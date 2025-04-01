@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਾਪੀ ਮਨੁੱਖ ਭੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਆਪਣਾ ਜੀਵਨ ਸਫਲ ਕਰ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਸੀਧੇ = ਸਿੱਝ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਵਿਸਾਰ ਕੇ ਮੈਂ ਕਿਸੇ ਹੋਰ ਰਾਸ-ਪੂੰਜੀ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਬਣਾਂਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੀ = ਕੋਈ ਹੋਰ ਰਾਸ-ਪੂੰਜੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

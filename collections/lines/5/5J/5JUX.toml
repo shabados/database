@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਨ੍ਹਾਂ ਦੇ ਜਨਮ ਮਰਨ ਮੁੱਕ ਜਾਂਦੇ ਹਨ, ਓਥੇ ਉਨ੍ਹਾਂ ਲਈ ਕੋਈ ਜਨਮ ਤੇ ਮੌਤ ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ = ਮਰੀ, ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

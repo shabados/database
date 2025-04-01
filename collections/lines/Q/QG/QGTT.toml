@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! (ਹੁਣ ਜਿਉਂ ਜਿਉਂ) ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹਾਂ, ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਮਿਲ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਂਦਾ ਹਾਂ। ਜੀਵਾ = ਜੀਵਾਂ, ਮੈਂ ਆਤਮਕ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹਾਂ। ਮਾਈ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਪਰਵਾਰ (ਦੇ ਮੋਹ) ਦੀ ਅੱਗ (ਨਾਲ ਭਰਿਆ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = ਸਮੁੰਦਰ। ਅਗਨਿ = ਅੱਗ। ਕੁਟੰਬ = ਪਰਵਾਰ (ਦਾ ਮੋਹ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

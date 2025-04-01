@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਪ੍ਰਭੂ-ਦਰ ਤੋਂ) ਮਨ-ਮੰਗੇ ਫਲ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਬਾਂਛਤ = ਮਨ-ਇੱਛੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

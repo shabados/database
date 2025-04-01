@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਕਿਰਪਾ ਦੇ ਘਰ! ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਹੇ ਸਰਬ-ਵਿਆਪਕ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

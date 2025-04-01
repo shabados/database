@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਕਰੋੜਾਂ ਭਰਾਵਾਂ ਦੇ ਹੁੰਦਿਆਂ (ਮਨੁੱਖ ਜਿਸ ਦੀਨ ਅਵਸਥਾ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਪਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੂਟਤ = ਖ਼ਲਾਸੀ ਪਾਉਂਦਾ, ਬਚ ਸਕਦਾ। ਬਾਹੀ = ਬਾਹਵਾਂ ਨਾਲ, ਭਰਾਵਾਂ ਦੇ ਹੁੰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

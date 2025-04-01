@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਸਦਾ ਆਤਮਕ ਖਿੜਾਉ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦਾ ਬਸੰਤੁ = ਸਦਾ ਹੀ ਆਤਮਕ ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

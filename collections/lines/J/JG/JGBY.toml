@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਕੋਈ 'ਹਉ ਹਉ, ਮੈਂ ਮੈਂ' ਦੀ ਅਕਲ ਵਿਚ ਮਸਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰਬੁਧਿ = ਹਉਮੈ। ਮਾਤਾ = ਮੱਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

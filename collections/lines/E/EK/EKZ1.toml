@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਧਿਆਤਮਕ ਸੰਸਾਰ ਦੇ ਸਾਰੇ ਦੇਵਤੇ ਉਸ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਜਬਰੂਤੀਆਂ ਫ਼ਿਦਾਇ ਊ ।"
+page = 1
+line = 18
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

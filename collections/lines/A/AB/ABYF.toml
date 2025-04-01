@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੋ ਜਿਹਾ ਉਹ ਹੁਕਮ (ਕਰਦਾ ਹੈ), ਉਹੋ ਜਿਹਾ (ਜੀਵ) ਕੰਮ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆ = ਹੁਕਮ। ਕਰਮੁ = ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

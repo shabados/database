@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕਿਤੇ ਸ਼ਾਸਤ੍ਰ ਸਿੰਮ੍ਰਿਤੀਆਂ ਤੇ ਵੇਦ ਸਨ, ਨਾਹ ਕਿਤੇ ਕੁਰਾਨ ਅੰਜੀਲ ਆਦਿਕ ਸ਼ਾਮੀ ਕਿਤਾਬਾਂ ਸਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤੇਬ = ਸ਼ਾਮੀ ਮਜ਼ਹਬਾਂ ਦੀਆਂ ਕਿਤਾਬਾਂ (ਕੁਰਾਨ, ਅੰਜੀਲ, ਤੌਰੇਤ, ਜ਼ੰਬੂਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

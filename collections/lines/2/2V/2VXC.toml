@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਉਸ ਠਾਕੁਰ-ਪ੍ਰਭੂ ਦੇ ਵਜ਼ੀਰਾਂ (ਸੰਤ ਜਨਾਂ) ਦੀ ਸਰਨ ਆ ਪਿਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ ਵਜੀਰਾ = ਠਾਕੁਰ ਦੇ ਵਜ਼ੀਰ, ਸੰਤ ਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

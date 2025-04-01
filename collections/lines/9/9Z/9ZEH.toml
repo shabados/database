@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪ੍ਰਭੂ ਸਾਰੇ ਪਦਾਰਥ ਦੇਣ ਵਾਲਾ ਹੈ ਉਸ ਨੂੰ ਮਨ ਤੋਂ ਭੁਲਾ ਦੇਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹਿ = ਮਨ ਵਿਚੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

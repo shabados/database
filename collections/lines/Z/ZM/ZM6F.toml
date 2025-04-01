@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਵਲੋਂ ਆਪਣਾ ਮੂੰਹ ਭਵਾਈ ਰੱਖਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ (ਤਾਂ) ਖ਼ਾਨਦਾਨ ਵਿਚ (ਭੀ) ਕਲੰਕ ਦਾ ਟਿੱਕਾ ਲੱਗ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਕੁਲਿ = ਕੁਲ ਵਿਚ, ਖ਼ਾਨਦਾਨ ਵਿਚ। ਗਾਲਿ = ਕਲੰਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

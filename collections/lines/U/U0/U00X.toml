@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜੀਵਾਂ ਦੇ) ਸਾਰੇ ਦੁਖ ਨਾਸ ਕਰਨ ਵਾਲੇ ਸੁਆਮੀ! ਤੂੰ ਦਇਆ ਦਾ ਘਰ ਹੈਂ, ਮੇਰੀ ਇਕ ਅਰਜ਼ੋਈ ਧਿਆਨ ਨਾਲ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = (ਦਇਆ-ਆਲਯ) ਦਇਆ ਦਾ ਘਰ। ਸਰਬ = ਸਾਰੇ। ਭੰਜਨ = ਨਾਸ ਕਰਨਾ। ਬਿਨਉ = ਬੇਨਤੀ (विनय)। ਦੇ ਕਾਨੇ = ਕੰਨ ਦੇ ਕੇ, ਧਿਆਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

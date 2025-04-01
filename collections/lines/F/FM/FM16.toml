@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਭਗਤ ਜਨੋ! ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਇਹ ਪੂਰੀ ਸਰਧਾ ਬਣਾਓ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਿਰੁ = ਅਡੋਲ-ਚਿੱਤ, ਸਰਧਾ ਨਾਲ। ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਹਰਿ ਜਨ = ਹੇ ਹਰੀ ਦੇ ਸੇਵਕੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

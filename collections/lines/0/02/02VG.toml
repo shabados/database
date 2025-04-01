@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ ਕਈ ਕਿਸਮਾਂ ਦੇ ਸੁਆਦਲੇ ਖਾਣੇ ਖਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਪ੍ਰਸਾਦਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ। ਅੰਮ੍ਰਿਤ = ਸੁਆਦਲੇ ਭੋਜਨ। ਖਾਹਿ = ਤੂੰ ਖਾਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

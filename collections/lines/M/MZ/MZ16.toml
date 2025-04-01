@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਸੁਰਤਿ ਜੋੜ ਕੇ (ਆਤਮਕ ਜੀਵਨ ਦੇ) ਸ਼ਾਹ ਬਣ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਲਿਵ = ਲਗਨ। ਲਾਇ = ਲਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

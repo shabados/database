@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਠਦਿਆਂ ਬੈਠਦਿਆਂ ਸਦਾ ਹਰ ਵੇਲੇ (ਪ੍ਰਭੂ ਦਾ ਡਰ ਮਨ ਵਿਚ ਬਣਿਆ ਰਹੇ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਤਾ ਨੀਤ = ਨਿੱਤ ਨਿੱਤ, ਸਦਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

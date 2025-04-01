@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ-ਵੇੜ੍ਹੇ ਜੀਵ ਉਹੀ ਨਿਕੰਮੇ ਕੰਮ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਆਖ਼ਰ ਛੱਡ ਕੇ ਇਥੋਂ ਚਲੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਹਿ = ਜਾਂਦੇ ਹਨ। ਕਰਹਿ = ਕਰਦੇ ਹਨ। ਸੇ ਪਰਾਲ = ਉਹ ਵਿਅਰਥ ਕੰਮ {ਪਰਾਲ = ਪਰਾਲੀ; ਮੁੰਜੀ ਦਾ ਨਾੜ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

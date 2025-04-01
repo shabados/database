@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਮੈਂ ਸਾਗਰ ਦੀ ਚੌੜਿੱਤਣ ਨੂੰ ਕਿਵੇਂ ਮਿਣ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੈਹਨਿ ਦਰਿਆ ਰਾ ਚੁਨਾਂ ਪੈਮੂਦਾ ਅਮ ।੨੯੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

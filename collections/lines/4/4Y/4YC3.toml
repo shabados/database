@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਤੇਰੀ ਰਜ਼ਾ ਹੁੰਦੀ ਹੈ, ਤੂੰ (ਜੀਵਾਂ ਦੀ ਕਿਸਮਤ ਦਾ) ਫ਼ੈਸਲਾ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ। ਨਿਬੇਰਾ = ਫ਼ੈਸਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

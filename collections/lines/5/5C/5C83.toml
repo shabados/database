@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿੱਧ ਲੋਕਾਂ ਦੀਆਂ (ਰਿੱਧੀਆਂ ਸਿੱਧੀਆਂ ਆਦਿਕ) ਵੱਡੇ ਵੱਡੇ ਕੰਮ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧ = ਪੁੱਗੇ ਹੋਏ, ਜੀਵਨ ਵਿਚ ਸਫਲ ਹੋਏ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

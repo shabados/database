@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! 'ਪੁੰਨੀ' ਜਾਂ 'ਪਾਪ' ਨਿਰਾ ਨਾਮ ਹੀ ਨਹੀਂ ਹੈ (ਭਾਵ, ਨਿਰਾ ਕਹਿਣ-ਮਾਤਰ ਨਹੀਂ ਹੈ, ਸੱਚ-ਮੁੱਚ ਹੀ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਣੁ = ਨਾਮੁ, ਬਚਨ। ਨਾਹਿ = ਨਹੀਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

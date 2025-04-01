@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਆਪ ਹੀ ਦੇਵੇਂ, ਤਾਂ ਹੀ ਮੈਂ ਤੇਰਾ ਸਤਿਨਾਮ-ਮੰਤ੍ਰ ਜਪ ਸਕਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹਿ = ਦੇਹਿਂ, ਜੇ ਤੂੰ ਦੇਵੇਂ। ਜਾਪੀ = ਜਾਪੀਂ, ਮੈਂ ਜਪਾਂ। ਆਦਿ ਮੰਤੁ = ਮੁੱਢਲਾ ਨਾਮ-ਮੰਤ੍ਰ, ਸਤਿਨਾਮ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

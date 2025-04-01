@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ ਗੁਰਦੇਵ! ਹੇ ਸੁਆਮੀ! ਮੇਹਰ ਕਰ, ਮੈਂ ਸਦਾ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਦੇਵ = ਹੇ ਗੁਰਦੇਵ! ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਵਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

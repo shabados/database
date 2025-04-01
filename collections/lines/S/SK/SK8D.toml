@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੱਚ ਦੇ ਬੀਜ ਦਿਲਾਣ ਦੇ ਖੇਤਾਣ ਬੀਜ ਦਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਖ਼ਮਿ ਹੱਕ ਦਰ ਕਿਸ਼ਤਿ ਦਿਲਹਾ ਕਾਸ਼ਤੰਦ ।੧੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

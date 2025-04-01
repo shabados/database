@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਕਾਮ ਕ੍ਰੋਧ ਆਦਿਕ ਸਾਰੇ ਵੈਰੀ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰੁਸਟਾਈ = ਦੁਸ਼ਟ, ਮੰਦੇ ਖ਼ਿਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

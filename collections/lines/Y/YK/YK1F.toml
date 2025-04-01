@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਹੁਣ ਸਭਨਾਂ ਵਿਚ ਇਕ ਕਰਤਾਰ ਨੂੰ ਹੀ ਵੱਸਦਾ ਪਛਾਣਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨਉ = ਮੈਂ ਜਾਣਦਾ ਹਾਂ, ਜਾਨਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

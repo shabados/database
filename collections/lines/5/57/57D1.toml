@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਮਾਇਆ ਦੇ ਪਤੀ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪਿਆ ਕਰ। ਮਨ = ਹੇ ਮਨ! ਮਾਧੋ = ਮਾਧਵ, ਮਾਇਆ ਦਾ ਪਤੀ (ਮਾ-ਧਵ, ਧਵ = ਪਤੀ। ਮਾ = ਮਾਇਆ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

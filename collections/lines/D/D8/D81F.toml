@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਨਾਲ ਇਹੋ ਜਿਹਾ ਪ੍ਰੇਮ ਕਰ, ਜਿਹੋ ਜਿਹਾ ਮੱਛੀ ਦਾ ਪਾਣੀ ਨਾਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਰ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

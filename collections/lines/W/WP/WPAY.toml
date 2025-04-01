@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਉਸ ਨੂੰ ਕੋਈ ਦੁੱਖ ਪੁਂਹਦਾ ਹੈ ਨਾਹ ਕੋਈ ਚਿੰਤਾ-ਫ਼ਿਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਦੁ = ਦੁੱਖ। ਫੁਨਿ = ਮੁੜ। ਰੋਜ = ਰੁਜ਼ਤਾਪ, ਗ਼ਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

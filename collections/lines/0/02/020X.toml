@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਗਤ (ਮਾਇਆ-ਮੋਹ ਦੇ) ਬੜੇ ਵੱਡੇ ਜਾਲ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਜਾਲਿ = ਜਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

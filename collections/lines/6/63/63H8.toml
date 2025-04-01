@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਕਈ ਕਿਸਮਾਂ ਦੇ ਜਤਨ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਸ = ਮਨੁੱਖ। ਬਹੁ ਭਾਤਿ = ਬਹੁਤ ਕਿਸਮ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

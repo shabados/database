@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ ਹੈਂ, ਅਤੇ ਤੂੰ ਆਪਣਾ ਅਟੱਲ ਨਿਯਮ ਹੀ ਹਰ ਥਾਂ ਕਾਇਮ ਕੀਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਾ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ। ਧਾਰਿਆ = ਟਿਕਾਇਆ ਹੋਇਆ, ਪੈਦਾ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

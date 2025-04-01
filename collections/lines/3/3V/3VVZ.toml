@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਪਾਸੋਂ) ਚਾਰ ਪਦਾਰਥ ਲੈ ਕੇ ਜੀਵ ਜਗਤ ਵਿਚ ਆਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

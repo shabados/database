@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚੇਤੇ ਰੱਖ) ਜਿਸ ਵੇਲੇ ਮੌਤ ਆਵੇਗੀ, ਤਦੋਂ ਕੋਈ ਭੀ ਚੀਜ਼ ਤੇਰੀ ਨਹੀਂ ਰਹੇਗੀ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤ ਕੀ ਬਾਰ = ਜਿਸ ਵੇਲੇ ਮੌਤ ਆਵੇਗੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਨੇਕ ਅਮਲਾਂ ਤੋਂ ਬਿਨਾ ਬਹਿਸ਼ਤ ਮਿਲਦਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ = ਚੰਗਾ ਆਚਰਣ। ਭਿਸਤਿ = ਬਹਿਸ਼ਤ, ਸੁਰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

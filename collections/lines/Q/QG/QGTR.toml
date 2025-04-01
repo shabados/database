@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦੇ ਸਾਏ ਦਾ ਪਰਛਾਵਾਂ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਬਿ ਹੱਕ ਤਜ਼ਲੀਲ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੫।"
+page = 10
+line = 115
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

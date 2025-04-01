@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਦੁੱਧ ਤੋਂ ਸੱਖਣੀ ਗਾਂ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੇਨੁ = ਗਾਂ। ਬਾਹਰੀ = ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

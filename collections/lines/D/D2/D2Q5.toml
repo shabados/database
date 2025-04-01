@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਹੀ (ਸਭ ਥਾਈਂ) ਮੌਜੂਦ (ਦਿੱਸਦਾ ਹੈ, ਤੇ) ਪ੍ਰਭੂ ਦਾ ਹੀ (ਸਾਰਾ) ਖਿਲਾਰਾ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤੈ = ਮੌਜੂਦ ਹੈ। ਪਾਸਾਰੁ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

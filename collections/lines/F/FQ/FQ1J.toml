@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮੇਰਾ ਮਨ (ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਜਪਦਾ ਹੈ ॥੨॥੫॥੧੬੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕੁ ਜਪੇ = ਨਾਨਕ ਜਪਦਾ ਹੈ ॥੨॥੫॥੧੬੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

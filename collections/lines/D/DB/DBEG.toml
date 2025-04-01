@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੈਂ ਕੰਨਾਂ ਨਾਲ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ (ਕਦੇ) ਨਾਹ ਸੁਣੀ, ਪਰਾਈ ਇਸਤ੍ਰੀ ਵਾਸਤੇ ਕਾਮ-ਵਾਸਨਾ ਰੱਖਦਾ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਨਨਿ = ਕੰਨਾਂ ਨਾਲ। ਦਾਰਾ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਹਰਿ-ਜਸ ਕੰਨੀਂ ਸੁਣਿਆ ਹੈ) ਆਤਮਕ ਅਡੋਲਤਾ, ਸੁਖ ਅਨੰਦ ਦੇ ਖ਼ਜ਼ਾਨੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

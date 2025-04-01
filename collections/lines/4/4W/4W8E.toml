@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਵਿੱਥ ਪੁਆਉਣ ਵਾਲਾ ਚੰਦਰਾ ਜਗਤ ਦਾ ਮੋਹ ਸੀ, ਸੋ,) ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੁਣ, ਹੇ ਜਗਤ! (ਹੇ ਜਗਤ ਦੇ ਮੋਹ!)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਲੋਈ = ਹੇ ਲੋਕ! ਹੇ ਜਗਤ! ਹੇ ਦੁਨੀਆ ਦੇ ਮੋਹ!।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ ਸਾਰੀਆਂ ਧਰਤੀਆਂ ਤੇ ਧਰਤੀ ਦੇ ਸਾਰੇ ਹਿੱਸਿਆਂ ਤੇ ਫਿਰੇ; ਜੇ ਇਕ ਪੈਰ ਦੇ ਭਾਰ ਖਲੋ ਕੇ ਧਿਆਨ ਧਰੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ। ਇਕ ਪੈਰਿ = ਇਕ ਪੈਰ ਦੇ ਭਾਰ ਖਲੋ ਕੇ। ਧਿਆਏ = ਧਿਆਨ ਧਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

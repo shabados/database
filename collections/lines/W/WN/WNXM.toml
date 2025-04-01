@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਵੀ ਰੱਬ ਦੇ ਰਾਹ ਉਤੇ ਬੇਅਦਬੀ ਕੀਤੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਸ਼ੁਦ ਦਰ ਰਾਹਿ ਮੌਲਾ ਬੇ-ਅਦਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

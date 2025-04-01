@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਥੋਂ ਕੋਈ ਸੁਚੱਜਾ ਕਰਤੱਬ ਨਹੀਂ ਹੋ ਸਕਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਤੀ ਨਹੀ = ਨਹੀਂ ਹੋ ਸਕਦੀ। ਕਰਣੀ = ਚੰਗੀ ਕਾਰ, ਚੰਗਾ ਕਰਤੱਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

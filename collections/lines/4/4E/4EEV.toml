@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਉਸ ਦੇ ਮਿਲਾਪ ਦਾ ਤਾਲਬ ਹੈਣ ਤਾਣ ਵਿਛੋੜੇ ਦਾ ਵਾਕਫ ਬਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਹਿਜਰ ਆਸ਼ਨਾ ਸ਼ੌ ਗਰ ਤਾਲਿਬਿ ਵਸਾਲੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

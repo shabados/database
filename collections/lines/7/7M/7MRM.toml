@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ (ਹੋਰ ਸਭ ਮੰਤ੍ਰਾਂ ਦਾ) ਮੁੱਢ ਮੰਤ੍ਰ ਹੈ ਅਤੇ ਸਭ ਦਾ ਗਿਆਨ (ਦਾਤਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਜ ਮੰਤ੍ਰੁ = (ਸਭ ਮੰਤ੍ਰਾਂ ਦਾ) ਮੁੱਢ ਮੰਤ੍ਰ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

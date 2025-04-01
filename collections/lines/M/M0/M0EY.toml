@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਸੰਗ ਵਿਚ (ਰਹਿ ਕੇ) ਭੈੜੀ ਮਤਿ (ਰੂਪ) ਮੈਲ ਦੂਰ ਕੀਤੀ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਭੈੜੀ ਮਤਿ। ਹਿਰਿਆ = ਦੂਰ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

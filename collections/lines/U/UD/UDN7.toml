@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸਤ੍ਰੀਆਂ ਤੇ ਮਰਦ ਭੀ ਤੂੰ ਪੈਦਾ ਕੀਤੇ ਹਨ, ਮਾਇਆ ਜ਼ਹਿਰ ਦਾ ਮੋਹ ਤੇ ਪਿਆਰ ਭੀ ਤੂੰ ਹੀ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜਿਐ = ਪੈਦਾ ਕਰਨ ਨਾਲ। ਬਿਖੁ = ਜ਼ਹਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

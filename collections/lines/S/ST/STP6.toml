@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ! ਆਪਣੇ ਸਰੀਰ ਉੱਤੇ) ਸੰਘਣੀ ਸੁਆਹ ਮਲ ਕੇ ਤੂੰ ਸਮਾਧੀ ਲਾ ਕੇ ਬੈਠਾ ਹੋਇਆ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਰੀ = ਸੰਘਣੀ। ਬਿਭੂਤ = ਸੁਆਹ। ਲਾਇ = ਲਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

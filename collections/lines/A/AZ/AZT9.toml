@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਪਰਮੇਸਰ! ਸਾਰੇ ਜੀਵ ਜੰਤ ਤੈਨੂੰ ਧਿਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਤੁਝੇ = ਤੈਨੂੰ। ਧਿਆਵਹਿ = {ਬਹੁ-ਵਚਨ} ਧਿਆਉਂਦੇ ਹਨ। ਪੁਰਖਪਤਿ = ਹੇ ਪੁਰਖਾਂ ਦੇ ਪਤੀ! ਹੇ ਜੀਵਾਂ ਦੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

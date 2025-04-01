@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜੀਵ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਵਾਸ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਊ ਜੀਅ = ਇਹ ਜੀਵ {ਬਹੁ-ਵਚਨ}। ਗ੍ਰਭ = ਜੂਨਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

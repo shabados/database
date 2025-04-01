@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਬਹੁਮੁੱਲੀ ਉਮਰ ਨੂੰ ਅਖ਼ੀਰ ਗਨੀਮਤ ਸਮਝ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਉਮਰਿ ਗਿਰਾਣ ਮਾਯਾਇ ਗ਼ਨੀਮਤ ਸ਼ੁਮਰ ਆਖ਼ਿਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

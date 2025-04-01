@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਗੇ ਗੁਣਾਂ ਨੂੰ ਜੀਵਨ-ਸਫ਼ਰ ਦਾ ਖ਼ਰਚ ਬਣਾ। ਹੇ ਮਨ! (ਇਸ ਵਪਾਰ ਦੇ ਉੱਦਮ ਨੂੰ) ਕੱਲ ਤੇ ਨਾਹ ਪਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਮਤੁ ਜਾਣਹਿ ਕਲੁ = ਮਤਾਂ ਕੱਲ ਜਾਣੇ, ਕੱਲ ਤੇ ਨਾਹ ਪਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਤਕ ਮੇਰਾ ਖਾਣਾ ਪੀਣਾ ਮੇਰਾ ਹੱਸ ਹੱਸ ਕੇ ਸਮਾਂ ਗੁਜ਼ਾਰਨਾ-ਇਹ ਸਭ ਵਿਅਰਥ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦਿ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

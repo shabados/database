@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਜੁਦਾਈ ਵਿਚ ਪ੍ਰੀਤਵਾਨਾਣ ਦੇ ਦਿਲ ਅਤੇ ਜਾਨ ਦੀ ਇਹ ਹਾਲਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਿਜਰਿ ਤੁਸਤ ਜਾਨੋ ਦਿਲਿ ਆਸ਼ਕਾਣ ਚੁਨੀਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

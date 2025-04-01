@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੀ ਅੰਨ ਖਾਧਿਆਂ ਹੀ ਜਪਿਆ ਜਾ ਸਕਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਨ ਕੈ ਸਦਿ = ਅੰਨ ਦੇ ਸੁਆਦ ਨਾਲ, ਅੰਨ ਖਾਧਿਆਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

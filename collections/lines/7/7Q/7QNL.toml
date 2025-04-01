@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਮੈਂ ਇਕ ਘੜੀ ਭਰ ਭੀ ਨਹੀਂ ਜੀਉ ਸਕਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰੀਅ = ਇਕ ਘੜੀ ਭੀ। ਨ ਜੀਵਉ = ਮੈਂ ਜੀਊ ਨਹੀਂ ਸਕਦਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

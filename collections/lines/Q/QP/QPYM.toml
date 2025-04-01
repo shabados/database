@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਅਸੀਂ (ਜੀਵ) ਤੇਰੇ ਬੱਚੇ ਹਾਂ, ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

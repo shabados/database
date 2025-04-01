@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੰਦਾ ਬੋਲ ਬੋਲਿਆਂ ਪ੍ਰੀਤ ਟੁੱਟ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਰ ਬੋਲਿ = ਬੁਰੇ ਬੋਲ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

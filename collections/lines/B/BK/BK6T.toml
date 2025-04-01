@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੀ ਮਸਤੀ ਵਿਚ) ਤੂੰ ਆਪਣੇ ਸਾਕ ਸਨਬੰਧੀਆਂ ਨੂੰ (ਭੀ) ਭੁਲਾ ਬੈਠਾ ਹੈਂ, ਕਿਸੇ ਨੂੰ ਤੂੰ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਨਹੀਂ ਲਿਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਹੀ = ਪਾਵਹਿ, ਤੂੰ ਪਾਂਦਾ, ਲਿਆਉਂਦਾ। ਸਾਕ = ਸਨਬੰਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

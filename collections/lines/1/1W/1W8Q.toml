@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੱਲ, ਹੇ (ਮਨ-ਰੂਪ ਘੋੜੇ)! ਤੈਨੂੰ ਬੈਕੁੰਠ ਦੇ ਸੈਰ ਕਰਾਵਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲੁ ਰੇ = ਹੇ (ਮਨ!) ਤੁਰ। ਤੁਝਹਿ = (ਹੇ ਮਨ!) ਤੈਨੂੰ। ਤਾਰਉ = ਤਰਾਵਾਂ, ਤਾਰੀਆਂ ਲਵਾਵਾਂ। ਬੈਕੁੰਠ ਤਾਰਉ = ਬੈਕੁੰਠ ਦੀਆਂ ਤਾਰੀਆਂ ਲਵਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਗਤ ਨਾਲ ਕਾਰ-ਵਿਹਾਰ ਕਰਦਿਆਂ ਸੰਤ ਜਨਾਂ ਨੇ ਗੋਬਿੰਦ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸਾਂਭ ਕੇ ਰੱਖਿਆ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰਿ = ਜਗਤ ਨਾਲ ਵਰਤਣ-ਵਿਹਾਰ ਕਰਦਿਆਂ। ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਸਮਾਲਿ = ਸਾਂਭ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

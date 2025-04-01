@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣਕਿ, ਜੋ ਬਾਕੀ ਸਭ ਗੱਲ ਬਾਤ ਥੋਥੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਦਿਗਰ ਪੂਚ ਹਸਤ ਕੀਲੋ ਕਾਲ ।੫੩।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਦੀ ਖ਼ਾਤਰ ਲੋਭ ਵਿਚ ਨਹੀਂ ਫਸਣਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕਹਾ ਲੁਭਾਈਐ = ਲੋਭ ਵਿਚ ਨਹੀਂ ਫਸਣਾ ਚਾਹੀਦਾ। ਆਨ ਕਉ = ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

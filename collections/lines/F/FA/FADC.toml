@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਜੀਵਨ ਦੀ) ਸੂਝ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਦਾ ਮਨ ਕਿਤੇ ਟਿਕ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਹਰਾਨਾ = ਟਿਕ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

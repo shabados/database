@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖਣਾ) ਢਿੱਲ ਨ ਕਰਨੀ, ਇਸ ਸਰੀਰ ਦਾ ਕੋਈ ਭਰਵਾਸਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਾਸਾ = ਵਿਸਾਹ, ਇਤਬਾਰ। ਬਿਲਮ = ਢਿੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

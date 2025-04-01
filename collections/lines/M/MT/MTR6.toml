@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਸਾਬਣ ਨਾਲ ਕੱਪੜੇ ਸਾਫ਼-ਸੁਥਰੇ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਬੁਨ = ਸਾਬਣ ਨਾਲ। ਕਾਪਰ = ਕੱਪੜੇ। ਊਜਲ = ਸਾਫ਼-ਸੁਥਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

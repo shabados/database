@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਬੰਦਾ ਦੋਹਾਣ ਜਹਾਨਾਣ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾਇ ਊ ਸਾਹਿਬ ਹਰ ਦੋ ਸਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

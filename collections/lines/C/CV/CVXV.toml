@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਧਰਮ ਹਰ ਧਰਮ ਨਾਲੋਂ ਵਧੇਰੇ ਵਡਭਾਗੀ ਅਤੇ ਨੇਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹਰ ਕੇਸ਼ ਫ਼ਰਖ਼ੰਦਾ-ਤਰ ਕੇਸ਼ਿ ਊ ।੩੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

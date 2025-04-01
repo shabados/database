@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪ੍ਰਭੂ ਬਸੰਤ ਰੁੱਤ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ ਉਹ ਹੀ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਖਿੜਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਮਨ = ਆਉਣਾ। ਆਗਮਨਿ = ਆਉਣ ਤੋਂ। ਬਸੰਤੈ ਆਗਮਨਿ = ਬਸੰਤ ਦੇ ਆਉਣ ਤੋਂ। ਮਉਲਿਓ = ਖਿੜਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

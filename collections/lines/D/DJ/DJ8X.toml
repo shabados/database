@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਇੱਕ ਬਹੁਤ ਵੱਡਾ ਧਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਮੌਲਾ ਦੌਲਤੇ ਬਾਸ਼ਦ ਅਜ਼ੀਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

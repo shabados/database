@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ-ਹੀਨ ਆਪ-ਹੁਦਰਾ ਮਨੁੱਖ (ਇਹਨਾਂ ਵਿਚ ਫਸ ਕੇ) ਭਟਕਦਾ ਹੈ ਤੇ ਜੰਮਦਾ ਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨੁ = ਅ-ਗਿਆਨੁ, ਗਿਆਨ-ਹੀਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

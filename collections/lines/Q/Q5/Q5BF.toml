@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਤੇਰਾ ਗ਼ਮਾਣ ਨਾਲ ਭਰਿਆ ਦਿਲ ਕਿਵੇਣ ਪ੍ਰਸੰਨ ਹੋ ਸਕਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਦਿਲਿ ਗ਼ਮਗੀਨ ਤੂ ਚੂੰ ਸ਼ਾਦ ਬਵਦ ।੧੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

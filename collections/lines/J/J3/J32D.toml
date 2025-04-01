@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਜੁਆਰੀਏ ਦੀ (ਜੂਆ ਖੇਡਣ ਦੀ) ਭੈੜੀ ਆਦਤ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਨੁ = {व्यसन} ਭੈੜੀ ਆਦਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਤੇਰਾ ਦਾਸ) ਨਾਨਕ ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੀ ਸਰਨ ਆ ਪਿਆ ਹੈ। ਮੈਂ (ਤੈਥੋਂ) ਸਦਾ ਸਦਾ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ, ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਦੁਆਰੈ = ਹਰੀ ਦੇ ਦਰ ਤੇ। ਹਉ = ਮੈਂ, ਹਉਂ। ਸਦ = ਸਦਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

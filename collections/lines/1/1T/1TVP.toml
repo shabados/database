@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨੇ ਮੇਹਰ ਕਰ ਕੇ ਆਪਣੇ ਸੇਵਕਾਂ ਦੀ ਸਦਾ ਹੀ ਆਪ ਰੱਖਿਆ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਰਖਿ ਲੀਏ = ਰੱਖਿਆ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

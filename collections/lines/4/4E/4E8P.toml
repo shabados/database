@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਚੌਰਾਸੀ ਲਖ ਜੂਨ ਤੈਥੋਂ ਹੀ ਪੈਦਾ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਮੇਦਨੀ = ਧਰਤੀ, ਸ੍ਰਿਸ਼ਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

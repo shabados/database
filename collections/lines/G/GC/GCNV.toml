@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਦੁਨੀਆ ਤੋਂ ਕੋਈ ਖੱਟੀ ਖੱਟਣ ਤੋਂ ਬਿਨਾ ਹੀ ਤੁਰ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸ ਨਿਰਾਸਾ = ਆਸਾਂ ਤੋਂ ਨਿਰਾਸ ਹੋ ਕੇ, ਕੋਈ ਖੱਟੀ ਖੱਟਣ ਤੋਂ ਬਿਨਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

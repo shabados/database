@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ। (ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਦੀ ਬਰਕਤਿ ਨਾਲ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਥੇ = ਸਾਥ ਵਿਚ, ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

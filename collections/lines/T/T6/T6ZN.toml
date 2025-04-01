@@ -5,6 +5,13 @@ language = "pa"
 data = "ਇਸ ਲਈ ਸਾਡੇ ਵਾਸਤੇ ਚੰਗਾ ਏਹੀ ਹੈ ਕਿ ਅਸੀਂ ਉਸ ਦੀ ਵਡਿਆਈ ਤੋਂ ਉਸ ਦੀ ਬਖਸ਼ਿਸ਼"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾਂ ਬਿਹ ਕਿ ਖ਼ਾਹੇਮ ਅਜ਼ ਫ਼ਜ਼ਲਿ ਊ ।"
+page = 2
+line = 61
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

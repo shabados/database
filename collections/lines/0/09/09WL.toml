@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਸੰਸਾਰ ਦੀ ਦੁਬਿਧਾ ਤੋਣ ਮੁਕਤ ਹੋ ਜਾਵੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਸ਼ਵੀ ਗੋਯਾ ਮੁੱਬਰਾ ਅਜ਼ ਖ਼ਿਲਾਫ਼ ।੪੮।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

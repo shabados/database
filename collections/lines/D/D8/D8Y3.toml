@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤਾਂ ਦੇ ਸਦਾ ਸਹਾਈ! ਹੇ ਨਿਆਸਰਿਆਂ ਦੇ ਆਸਰੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਰਾ = ਨਿਆਸਰਿਆਂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

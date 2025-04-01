@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਪਿਆਰੇ ਤੋਣ ਬਿਨਾਣ ਕਾਅਬੇ ਅਤੇ ਬੁਤਖ਼ਾਨੇ ਵਿਚ ਹੋਰ ਕੋਈ ਨਹੀਣ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਗ਼ੈਰ ਅਜ਼ ਆਣ ਸਨਮ ਦਰ ਪਰਦਾਇ ਦੈਰੋ ਹਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

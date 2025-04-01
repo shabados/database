@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਚਾਰ ਸੁਅੱਛ ਹੋ ਜਾਂਦੇ ਹਨ, ਮਾਇਆ ਦਾ ਪਿਆਰ ਸਾਰਾ ਹੀ ਮੁੱਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰ = ਸੁੰਦਰ। ਬਿਚਾਰ = ਵਿਚਾਰਾਂ। ਦੂਆ = ਦੂਜਾ ਭਾਵ, ਮਾਇਆ ਦਾ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

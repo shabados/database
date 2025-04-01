@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜਗਤ ਨੂੰ) ਪੈਦਾ ਕਰਨ ਵਾਲੇ! ਸਭ ਥਾਈਂ ਤੇਰੀ ਜੀਵਨ-ਰੌ ਵਰਤ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੁ = ਹੁਕਮ, ਜੀਵਨ-ਰੌ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

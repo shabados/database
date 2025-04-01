@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰਾ ਦਿਲ ਅਤੇ ਜਾਨ ਹਰ ਸਵੇਰੇ ਅਤੇ ਸ਼ਾਮ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲੋ ਜਾਨਮ ਬ-ਹਰ ਸਬਾਹੋ ਮਸਾ ।"
+page = 1
+line = 1
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

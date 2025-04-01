@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਮੀਨ ਦਾ ਦਾਨ ਕਰੇ (ਜਿਸ ਕਰਕੇ) ਜਗਤ ਵਿਚ ਸ਼ੋਭਾ ਖੱਟ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

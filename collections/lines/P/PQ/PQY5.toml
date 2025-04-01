@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਸੰਤ ਜਨੋ! (ਮਿਹਰ ਕਰ ਕੇ) ਮੇਰੀ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਕਰ ਦਿਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ। ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ! ਸੰਤਹੁ = ਹੇ ਸੰਤ ਜਨੋ! ਮੋਰੀ = ਮੇਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

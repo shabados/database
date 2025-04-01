@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗ-ਮਤ ਅਨੁਸਾਰ ਬ੍ਰਿਤੀ ਜੋੜਨੀ; ਵੇਦ ਪੁਰਾਨ (ਆਦਿਕਾਂ ਦੇ ਪਾਠ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤੀ = ਬ੍ਰਿਤੀ ਦਾ ਜੋੜਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

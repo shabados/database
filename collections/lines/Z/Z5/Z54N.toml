@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ (ਆਪ ਦੇ ਹੱਥ ਵਿਚ) ਨੇਜਾ ਹੈ, ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ (ਆਪ ਦਾ) ਆਸਰਾ ਹੈ, ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਸਾਰੇ ਰੱਜ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਭਉ = (अनुभव) ਗਿਆਨ। ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਅਘਾਣੇ = ਰੱਜ ਗਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

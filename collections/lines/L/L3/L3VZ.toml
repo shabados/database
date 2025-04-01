@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦਾ ਨਿੰਦਕ ਤ੍ਰਿਸ਼ਨਾ ਦਾ ਮਾਰਿਆ ਹੋਇਆ ਕਦੇ ਰੱਜਦਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਖਾ = ਤ੍ਰਿਸ਼ਨਾਲੂ, ਤ੍ਰਿਸ਼ਨਾ ਦਾ ਮਾਰਿਆ ਹੋਇਆ। ਰਾਜੈ = ਰੱਜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

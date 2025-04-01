@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਆਪਣੇ (ਪੈਦਾ ਕੀਤੇ) ਸਾਰੇ ਜੀਅ ਜੰਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਰੇ = ਪਾਲਦਾ ਹੈ, ਰੱਖਿਆ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

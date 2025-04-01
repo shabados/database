@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਦਰਜੇ ਉੱਚੇ ਹਨ ਅਤੇ ਉਹ ਵੱਡੀ ਓਟ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਆਲੀ ਮਦਾਰਿਜ ਅਵਾਲੀ ਪਨਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

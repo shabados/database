@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਕਮ ਵਿਚ ਹੀ (ਜੀਵ ਨੂੰ) ਚਿੰਤਾ ਤੇ ਖ਼ੁਸ਼ੀ ਆਨੰਦ ਵਾਪਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

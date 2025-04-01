@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਉਹ ਤੇਰੇ ਰੋਮ ਰੋਮ ਵਿਚੋਂ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਸਤ ਅਜ਼ ਹਰ ਮੂਇ ਤੂ ਚੂੰ ਆਸ਼ਕਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

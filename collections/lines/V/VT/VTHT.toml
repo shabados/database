@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮੀਂਹ ਦੀ ਕਣੀ ਤੋਂ ਬਿਨਾ ਪਪੀਹਾ ਰੱਜ ਨਹੀਂ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂੰਦ = ਮੀਂਹ ਦੀ ਕਣੀ। ਚਾਤ੍ਰਿਕੁ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

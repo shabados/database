@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਬਲ ਮਾਇਆ ਸਾਰੀ ਧਰਤੀ ਉੱਤੇ ਆਪਣਾ ਜ਼ੋਰ ਪਾ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਵੰਤਿ = ਬਲਵਤੀ ਮਾਇਆ, ਪ੍ਰਬਲ ਮਾਇਆ। ਬਿਆਪਿ ਰਹੀ = ਆਪਣਾ ਜ਼ੋਰ ਪਾ ਰਹੀ ਹੈ। ਮਹੀ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

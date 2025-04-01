@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ (ਮਨੁੱਖ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਸੌਖਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਸ ਜਨਮ ਵਿਚ, ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਪਰਲੋਕ ਵਿਚ। ਸੁਹੇਲਾ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

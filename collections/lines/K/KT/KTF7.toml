@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਨੂੰ ਰਿਜ਼ਕ ਅਪੜਾਂਦਾ ਹੈ, ਮਨੁੱਖ ਵਿਅਰਥ ਹੀ ਘਾਬਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਹੇ = ਅਪੜਾਂਦਾ ਹੈ। ਸਭਸੈ = ਹਰੇਕ ਜੀਵ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

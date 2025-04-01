@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਣ ਦੀ ਨਿਸ਼ਾਨੀ (ਮੈਥੋਂ) ਸੁਣ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀਏ = ਹੇ ਸਹੇਲੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

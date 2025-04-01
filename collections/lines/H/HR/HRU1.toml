@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਬੰਦੇ ਨੂੰ ਉਸ ਦੀ ਬੰਦਗੀ ਸਦਕੇ ਕਮਾਲ ਪਰਾਪਤ ਹੋ ਜਾਏ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਰਾ ਅਜ਼ ਬੰਦਗੀ ਬਾਸ਼ਦ ਕਮਾਲ ।੪੭੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

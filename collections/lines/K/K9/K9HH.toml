@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਹੋ ਜਿਹੀ ਬੁੱਧ-ਮੱਤ ਦੇਂਦਾ ਹੈ, ਤਿਹੋ ਜਿਹੀ ਸਮਝ ਵਾਲਾ ਜੀਵ ਬਣ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਾਵੈ = ਸਮਝ ਦੇਂਦਾ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

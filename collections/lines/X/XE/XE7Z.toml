@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਆਤਮਕ ਤਬਦੀਲੀ ਦਾ) ਇਹ ਅਚਰਜ ਤਮਾਸ਼ਾ ਮੈਂ ਪਰਤੱਖ ਵੇਖ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਂ = ਤਦੋਂ। ਨੈਨਹੁ = ਅੱਖਾਂ ਨਾਲ, ਪਰਤੱਖ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

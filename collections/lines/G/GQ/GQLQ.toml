@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਪਰਲੋਕ ਵਿਚ ਤੂੰ ਹੀ ਸਭ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਹਾ = ਇਸ ਲੋਕ ਵਿਚ। ਊਹਾ = ਪਰਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

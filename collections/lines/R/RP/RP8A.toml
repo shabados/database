@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਜਿਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਉਚਾਰਦਾ ਹੈ ਸੁਣਦਾ ਹੈ, ਉਸ ਦੀ ਖੋਟੀ ਮੱਤ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ ਜੋ = ਜਿਹੜਾ ਜਿਹੜਾ ਮਨੁੱਖ। ਕਥੈ = ਬਿਆਨ ਕਰਦਾ ਹੈ। ਦੁਰਮਤਿ = ਖੋਟੀ ਮੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

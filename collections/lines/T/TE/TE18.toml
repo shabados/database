@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ ਇਹ ਆਹਰ ਕਰਦਾ ਹੈ, ਉਹ) ਆਪਣਾ ਦੁੱਖ ਦੂਰ ਕਰਕੇ ਸੁੱਖ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖੁ ਪਰਹਰਿ = ਦੁੱਖ ਨੂੰ ਦੂਰ ਕਰਕੇ। ਘਰਿ = ਹਿਰਦੇ ਵਿੱਚ। ਲੈ ਜਾਇ = ਲੈ ਜਾਂਦਾ ਹੈ, ਖੱਟ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

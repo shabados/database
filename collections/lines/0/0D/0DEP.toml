@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ!) ਤੁਸੀ ਕਿਵੇਂ ਬ੍ਰਾਹਮਣ (ਬਣ ਗਏ)? ਅਸੀਂ ਕਿਵੇਂ ਸ਼ੂਦਰ (ਰਹਿ ਗਏ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਕਿਵੇਂ? ਹਮ = ਅਸੀ। ਸੂਦ = ਸ਼ੂਦਰ, ਨੀਵੀਂ ਜਾਤ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

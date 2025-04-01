@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਮ ਰਾਜ (ਭੀ) ਉਹਨਾਂ ਨੂੰ ਨਮਸਕਾਰ ਕਰਦਾ ਹੈ, ਜਮਦੂਤ ਉਹਨਾਂ ਤੋਂ ਪਰੇ ਦੌੜ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਜੈ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ, ਨਮਸਕਾਰ। ਧਰਮੁ = ਸਰਬ-ਰਾਜ। ਦੂਤ = ਜਮਦੂਤ। ਭਏ ਪਲਾਇਣ = ਭੱਜ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

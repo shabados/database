@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਥਾਂ ਨਾਹ ਕੋਈ ਦੁੱਖ ਹੈ, ਨਾਹ ਚਿੰਤਾ ਅਤੇ ਨਾਹ ਕੋਈ ਘਬਰਾਹਟ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਦੋਹੁ = ਚਿੰਤਾ। ਤਿਹਿ ਠਾਉ = ਉਸ ਥਾਂ ਤੇ, ਉਸ ਆਤਮਕ ਟਿਕਾਣੇ ਤੇ, ਉਸ ਅਵਸਥਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

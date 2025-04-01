@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈਂ, ਦੇਵਤਿਆਂ ਵਿਚ ਮਨੁੱਖਾਂ ਵਿਚ ਹਰੇਕ ਵਿਚ ਸੁਤੇ ਹੀ ਅਡੋਲ ਟਿਕਿਆ ਹੋਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ ਘਟਿ = ਹਰੇਕ ਘਟ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

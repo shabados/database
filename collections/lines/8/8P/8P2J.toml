@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਜ਼ੁਲਫ਼ ਦਾ ਫੰਦਾ ਮੇਰਾ ਦਿਲ ਫਸਾ ਕੇ ਲੈ ਗਿਆ ਸੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਲਕਾਇ ਜ਼ੁਲਫ਼ਤ ਦਿਲਮ-ਰਾ ਬੁਰਦਾ ਬੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

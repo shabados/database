@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਸ ਵਰਗਾ) ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟੀ = ਨਜ਼ਰ ਵਿਚ। ਅਵਰੁ = (ਕੋਈ) ਹੋਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

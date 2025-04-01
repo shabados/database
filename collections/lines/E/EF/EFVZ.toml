@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ (ਹੀ ਸਦਾ) ਤੇਰੇ ਨਾਲ ਹੈ, ਤੇਰਾ ਮਦਦਗਾਰ ਹੈ, ਤੇਰਾ ਮਿੱਤਰ ਹੈ, ਉਸ ਨਾਲੋਂ ਤੇਰੀ ਵਿੱਥ ਬਣੀ ਪਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਨਾਲ। ਸਹਾਈ = ਮਦਦਗਾਰ। ਸਿਉ = ਨਾਲ, ਤੋਂ। ਭੇਦੁ = ਵਿੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

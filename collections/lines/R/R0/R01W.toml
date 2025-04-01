@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰੇ ਮੰਦਰ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਜਾ ਕੇ ਬਹਿ ਗਿਆ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾ ਕੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

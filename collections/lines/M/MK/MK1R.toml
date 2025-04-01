@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੁਗਾਂ ਦੀ ਵੰਡ ਕਰਨ ਵਾਲਿਆਂ ਅਨੁਸਾਰ ਭੀ) ਕਲਜੁਗ ਵਿਚ ਕੀਰਤਨ ਹੀ ਪਰਧਾਨ ਕਰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਧਾਨਾ = ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਕਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

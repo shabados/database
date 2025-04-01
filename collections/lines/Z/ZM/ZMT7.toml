@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੁਰੂ ਅੰਗਦ!) ਤੂੰ ਇਹ ਭੇਤ ਪਾ ਲਿਆ ਹੈ ਕਿ ਅਚਰਜ ਤੇ ਅਲੱਖ ਹਰੀ ਸਰਬ-ਵਿਆਪਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੁ = ਭੇਤ। ਸਰਬ ਗਤਿ = ਸਰਬ ਵਿਆਪਕ। ਅਲਖੁ = ਜਿਸ ਦਾ ਭੇਤ ਨਾਹ ਪਾਇਆ ਜਾ ਸਕੇ। ਬਿਡਾਣੀ = ਅਸਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

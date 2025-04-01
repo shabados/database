@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮ ਤੋਂ ਵਾਂਜੇ ਰਹਿ ਕੇ ਇਹ ਧਾਰਮਿਕ ਵਿਖਾਵਾ ਆਖ਼ਰ ਉੱਘੜ ਹੀ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਜੁ = ਵਿਖਾਵਾ। ਲਹਗੁ = ਲਹਿ ਜਾਇਗਾ {ਭਵਿਖਤ ਕਾਲ, ਪੁਲਿੰਗ}। ਨਿਦਾਨਿ = ਅੰਤ ਨੂੰ, ਆਖ਼ਿਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

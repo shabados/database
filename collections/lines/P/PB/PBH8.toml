@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਇਹ ਸੂਝ ਤਦੋਂ ਹੀ ਪੈਂਦੀ ਹੈ ਜਦੋਂ ਪਰਮਾਤਮਾ ਆਪ ਸੂਝ ਬਖ਼ਸ਼ੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਾਇਆ = ਸਮਝ ਬਖ਼ਸ਼ੀ। ਜਾਤਾ = ਸਮਝਿਆ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

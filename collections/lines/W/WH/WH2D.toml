@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸ ਚਿੱਤ੍ਰਕਾਰ ਨੇ ਚਿੱਤਰੇ ਹਨ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ = ਕਿਸ ਨੇ? ਚੀਤੇ = ਚਿੱਤਰੇ ਹਨ। ਚੀਤਨਹਾਰੇ = ਚਿੱਤ੍ਰਕਾਰ ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

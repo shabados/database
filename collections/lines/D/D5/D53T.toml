@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਸਭ ਤੋਂ ਵੱਡਾ ਮਿੱਤਰ ਹੈ, ਤੇ ਸਹੈਤਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਉੱ​ਚਾ ਹੈ, ਵੱਡਾ ਹੈ, ਬੇਅੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖਾ = ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

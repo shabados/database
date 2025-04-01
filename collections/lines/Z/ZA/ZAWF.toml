@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਅਕਾਲ ਪੁਰਖ (ਦਾ ਰੂਪ) ਹੈ, ਸਭ ਦਾਤਾਂ ਦੇਣ ਦੇ ਸਮਰੱਥ ਹੈ, ਬੜਾ ਸਿਆਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਣਾ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

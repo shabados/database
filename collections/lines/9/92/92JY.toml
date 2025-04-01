@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਾਇਆ ਨੇ ਸਾਰੇ ਜਗਤ ਦੇ ਜੀਵਾਂ ਨੂੰ ਵੱਸ ਕੀਤਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੀਆ = ਵੱਸ ਕੀਤੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

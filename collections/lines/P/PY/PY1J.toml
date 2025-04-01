@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਆਪੇ ਤੇ ਦੂਜਿਆਂ ਦੇ ਆਪੇ ਨੂੰ ਇਕੋ ਜਿਹਾ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਤਮਾ = ਪਰ ਆਤਮਾ, ਦੂਜਿਆਂ ਦਾ ਆਤਮਾ, ਦੂਜਿਆਂ ਦਾ ਆਪਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

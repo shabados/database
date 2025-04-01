@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! (ਹੁਣ) ਮੋਹਨ ਪ੍ਰਭੂ ਮੈਨੂੰ ਦਰਸਨ ਦੇ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪੁ ਦਿਖਾਵੈ = ਦਰਸ਼ਨ ਦੇਂਦਾ ਹੈ, ਆਪਣਾ ਰੂਪ ਵਿਖਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

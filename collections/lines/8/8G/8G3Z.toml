@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਦੀ ਚਰਨੀਂ ਲੱਗਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ ਚੰਗੇ ਭਾਗ ਹੁੰਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰ ਕਰੰਮ = ਪੂਰੇ ਭਾਗ, ਚੰਗੇ ਭਾਗ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

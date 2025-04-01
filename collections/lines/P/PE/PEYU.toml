@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਭੀ ਸਮਾ ਸਿਮਰਨ ਵਿਚ ਗੁਜ਼ਾਰਿਆ ਜਾਏ ਉਹੀ ਚੰਗਾ ਹੈ) ਹਰੇਕ ਸਮਾ ਸਿਮਰਨ ਵਾਸਤੇ ਢੁਕਵਾਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੀ ਬੇਲਾ = ਹਰੇਕ ਸਮਾ। ਬੇਲਾ = ਵੇਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

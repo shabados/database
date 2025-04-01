@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਭਗਵਾਨ! ਦਾਸ ਨਾਨਕ ਤੇਰਾ ਸੇਵਕ ਹੈ, (ਇਸ ਸੇਵਕ ਦੀ ਭੀ) ਲਾਜ ਰੱਖ (ਆਪਣੇ ਨਾਮ ਦੀ ਦਾਤਿ ਦੇਹ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਜ = ਲਾਜ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

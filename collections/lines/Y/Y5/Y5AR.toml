@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਦਿਲ ਜਾਨ ਨਾਲ ਮੇਰੀ ਸਿਫ਼ਤ ਸ਼ਲਾਘਾ ਕਰੇਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਦਿਲੋ ਜਾਂ ਬ-ਵਸਫ਼ਿ ਮਨ ਖ਼ਾਨਦ ।੨੮।"
+page = 1
+line = 28
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

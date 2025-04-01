@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟੇ ਹੋਏ ਮਨੁੱਖ ਇਵੇਂ ਹੀ ਹੈ, ਜਿਵੇਂ ਸੱਪ ਦੀ ਉਮਰ ਹੈ (ਉਮਰ ਤਾਂ ਲੰਮੀ ਹੈ, ਪਰ ਸੱਪ ਸਦਾ ਦੂਜਿਆਂ ਨੂੰ ਡੰਗ ਹੀ ਮਾਰਦਾ ਰਹਿੰਦਾ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈਸੇ = ਜਿਵੇਂ। ਆਰਜਾਰੀ = ਉਮਰ। ਸਰਪ = ਸੱਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

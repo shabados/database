@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਉੱਚੇ ਮਰਤਬੇ ਵਾਲੇ # ਤੈਨੂੰ ਪਰਾਪਤ ਹੋ ਜਾਵੇਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਇਦਤ ਦਰ ਦਸਤ ਐ ਆਲੀ ਤਬਾਰ ।੩੭੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

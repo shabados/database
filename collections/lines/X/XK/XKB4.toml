@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਪੱਲਾ ਫੜ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕਾ ਓਟ = ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ। ਗਹੁ = ਫੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

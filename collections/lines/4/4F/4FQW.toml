@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਿਚੋਂ) ਮਨੁੱਖਾ ਜਨਮ ਬੜੀ ਮੁਸ਼ਕਲ ਨਾਲ ਮਿਲਦਾ ਹੈ, ਪਰ ਇਸ ਦੀ ਕਦਰ ਉਹੀ ਮਨੁੱਖ ਜਾਣਦਾ ਹੈ ਜੋ ਗੁਰੂ ਦੀ ਸਰਨ ਪਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਸ ਜਨਮੁ = ਮਨੁੱਖਾ ਜਨਮ। ਦੁਲੰਭੁ = ਦੁਰਲੱਭ, ਬੜੀ ਮੁਸ਼ਕਲ ਨਾਲ ਮਿਲਣ ਵਾਲਾ। ਪਾਇਆ = ਕਦਰ ਪਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

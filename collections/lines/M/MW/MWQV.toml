@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਜੇ ਕੋਈ ਉਸ ਰੱਬੀ ਸੂਝ ਦਾ ਰਤਾ ਕੁ ਭੀ ਝਲਕਾਰਾ ਸਮਝ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੰਕ = ਨਿੱਕੀ ਜਿਹੀ ਫਾੜੀ, ਰਤਾ ਕੁ ਹਿੱਸਾ। ਤਾ ਫਲ ਫੰਕ = ਉਸ ਫਲ ਦੀ ਨਿੱਕੀ ਜਿਹੀ ਫਾੜੀ, ਉਸ ਰੱਬੀ ਸੂਝ ਦਾ ਰਤਾ ਕੁ ਝਲਕਾਰਾ। ਜਉ = ਜੇ। ਲਖੈ = ਸਮਝ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

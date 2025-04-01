@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਹੀ ਔਗੁਣਾਂ ਨਾਲ ਭਰੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਗਣਿਆਰੀ = ਔਗੁਣਾਂ-ਭਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

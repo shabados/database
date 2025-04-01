@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਭਿਖਾਰੀ ਨੂੰ ਸ਼ਾਹੀ ਦੌਲਤ ਪਰਾਪਤ ਨਹੀਂ ਹੁੰਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਗਦਾਇ ਦੌਲਤਿ ਸੁਲਤਾਂ ਨ ਯਾਫ਼ਤ ।੪੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਮਸਤੀ (ਦਾ ਮਤਲਬ) ਅਸਲ ਵਿਚ ਸਦਾ ਹੀ ਹੋਸ਼ ਵਿਚ ਰਹਿਣਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਸਤੀਏ ਹੱਕ ਮਾਅਨੀਇ ਹੁਸ਼ਿਆਰੀ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

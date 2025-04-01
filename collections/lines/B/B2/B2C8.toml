@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਫਿਰ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਵੀਦਾ ॥੧੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਤ = ਸਿਮਰਦਿਆਂ ॥੧੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

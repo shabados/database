@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਜੰਗ ਦੇ ਵਿਜੇਈ ਬਾਦਸ਼ਾਹ ਦੇ ਸਾਰੇ ਹੀ ਗੁਲਾਮ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਬੰਦਾਇ ਊ ਸ਼ਾਹਿ ਫ਼ੀਰੋਜ਼-ਜੰਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

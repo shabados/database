@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈਂ, ਅਸੀਂ ਜੀਵ ਊਣੇ ਹਾਂ ਤੇ ਥੋੜ੍ਹ-ਵਿਤੇ ਹਾਂ, ਤੂੰ ਗੰਭੀਰ ਹੈਂ ਤੇ ਅਸੀਂ ਹੌਲੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਰੇ = ਊਣੇ। ਹੋਛੇ = ਥੋੜ੍ਹ-ਵਿਤੇ। ਗਉਰਾ = ਗੰਭੀਰ, ਭਾਰਾ। ਹਉਰੇ = ਹੌਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

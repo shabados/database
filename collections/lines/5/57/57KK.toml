@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਤਦੋਂ ਹੀ ਗਾ ਸਕਦਾ ਹਾਂ ਜੇ ਮੈਂ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਾਂ (ਜੇ ਮੇਰੇ ਉਤੇ ਉਸ ਦੀ ਮਿਹਰ ਹੋਵੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾਵਾਂ। ਭਾਵਾ = ਭਾਵਾਂ, ਮੈਂ ਚੰਗਾ ਲੱਗਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

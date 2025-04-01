@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ! ਸੂਰਜ ਜਾਂ ਚੰਦ੍ਰਮਾ ਸਰੋਵਰ ਆਦਿਕ ਦੇ) ਪਾਣੀ ਵਿਚ ਚਮਕਦਾ ਹੈ, ਪਰ ਉਸ ਪਾਣੀ ਤੋਂ ਉਹ ਬਹੁਤ ਹੀ ਦੂਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਜੈ = ਪਰਗਟ ਹੁੰਦਾ ਹੈ, ਚਮਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

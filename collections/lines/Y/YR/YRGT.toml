@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜੇ ਪ੍ਰਭੂ ਮੇਹਰ ਕਰੇ ਤਾਂ) ਮੈਂ ਆਪਣੇ ਕੇਸਾਂ ਦਾ ਪੱਖਾ ਬਣਾ ਕੇ ਪ੍ਰਭੂ ਦੇ ਸੰਤ ਨੂੰ ਚੌਰ ਝੁਲਾਂਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਬਣਾ ਕੇ। ਬੀਜਨਾ = ਪੱਖਾ {व्यजन}। ਢੁਲਾਵਉ = ਢੁਲਾਵਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

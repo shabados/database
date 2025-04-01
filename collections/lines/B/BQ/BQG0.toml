@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦਾ ਦਰਸਨ ਕਰਨ ਲਈ) ਕ੍ਰੋੜਾਂ ਹੀ ਵੱਡੇ ਵੱਡੇ ਤਪੀ ਤਪ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪੀਸਰ = ਤਪੀ-ਈਸਰ, ਵੱਡੇ ਵੱਡੇ ਤਪੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

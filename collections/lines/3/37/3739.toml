@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਾਸਤ੍ਰਾਂ ਨੇ, ਸਿੰਮ੍ਰਿਤੀਆਂ ਨੇ, ਵੇਦਾਂ ਨੇ ਆਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣੀ = ਕਿਹਾ ਹੈ ਕਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

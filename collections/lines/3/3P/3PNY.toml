@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਦਾ ਪ੍ਰੇਮ ਰੱਬ ਦੇ ਨਾਮ ਨਾਲ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਰਾ ਉਲਫ਼ਤ ਜ਼ਿ ਨਾਮਿ ਹੱਕ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

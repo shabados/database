@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ-ਅੰਮ੍ਰਿਤ ਦਾ ਵਪਾਰੀ ਜੀਵ) ਦਿਨ ਰਾਤਿ ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ। ਉਹ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚ ਸੌਂਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਨੀਦ = ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

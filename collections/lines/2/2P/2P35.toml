@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਸ ਦਾ ਮਨ) ਭੁਲੇਖੇ ਵਿਚ ਭੁੱਲਾ ਹੋਇਆ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਿਰ) ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹ = ਦਸ। ਦਿਸਿ = ਪਾਸੇ, ਤਰਫ਼ਾਂ। ਦਹਦਿਸਿ = ਦਸੀਂ ਪਾਸੀਂ। ਧਾਵੈ = ਦੌੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

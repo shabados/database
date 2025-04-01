@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੋਲੀਏ! (ਇਹ ਜਗਤ-ਪਸਾਰਾ) ਨਾਸਵੰਤ ਦਿੱਸ ਰਿਹਾ ਹੈ; ਇਸ ਨਾਲ ਮੋਹ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉ = ਸਿਉ, ਨਾਲ। ਨ ਕੀਚਈ = ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ। ਨੇਹੁ = ਪਿਆਰ, ਮੋਹ। ਜਿ = ਜਿਹੜਾ। ਚਲਣਹਾਰੁ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘਰਾਂ ਦੇ ਧੰਧੇ, ਮਾਇਆ ਦੇ ਬੰਧਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਲ ਜਾਲ = ਘਰਾਂ ਦਾ ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

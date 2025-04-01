@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਦੁੱਖ ਵਿਚ (ਫਸਿਆ ਪਿਆ ਹੋਵਾਂ, ਚਾਹੇ) ਸੁਖ ਵਿਚ (ਵੱਸ ਰਿਹਾ ਹੋਵਾਂ) ਮੈਂ ਸਦਾ ਤੈਨੂੰ ਹੀ ਧਿਆਉਂਦਾ ਹਾਂ। (ਤੇਰਾ ਹੀ ਧਿਆਨ ਧਰਦਾ ਹਾਂ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖਿ = ਦੁੱਖ ਵਿਚ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ! ਤੁਧੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

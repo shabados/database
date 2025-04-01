@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮੇਰੇ ਸਾਰੇ) ਪਾਪ ਕੱਟੇ ਗਏ ਤੇ ਮੈਂ ਪਵਿਤ੍ਰ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਬਿਖ = ਪਾਪ {किल्विष}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

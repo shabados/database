@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ਼ਾਹ! ਹੇ ਸਤਿਗੁਰੂ! ਤੇਰੇ ਦਰ ਤੇ (ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਵਾਲੇ) ਜੀਵ-ਵਪਾਰੀ ਆਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹ = ਹੇ ਸ਼ਾਹ! ਹੇ ਗੁਰੂ! ਦੁਆਰੈ = ਦੁਆਰੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

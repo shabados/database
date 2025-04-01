@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ) ਸ਼ਾਂਤੀ ਤੇ ਗਿਆਨ ਦੋਹਾਂ ਨੂੰ ਇਕੱਠਾ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਦ = ਸੀਤਲਤਾ, ਸ਼ਾਂਤੀ। ਸੂਰਜ = ਗਿਆਨ ਦਾ ਤੇਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

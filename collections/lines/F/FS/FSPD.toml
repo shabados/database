@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ) ਸਵੇਰੇ ਤੇ ਸ਼ਾਮ ਨੂੰ (ਭਾਵ, ਦੋਵੇਂ ਵੇਲੇ ਨਿਰਾ) ਇਸ਼ਨਾਨ ਹੀ ਕਰਦੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਧਿਆ = ਸ਼ਾਮ ਵੇਲੇ। ਪ੍ਰਾਤ = ਸਵੇਰੇ। ਕਰਾਹੀ = ਕਰਹੀ, ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

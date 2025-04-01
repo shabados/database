@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਸਿਮਰਨ ਦੁਆਰਾ) ਸਦਾ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ ਬਣੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਤ ਜੀਵਤ ਜੀਵਤ = ਸਦਾ ਹੀ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

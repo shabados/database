@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇਹੇ ਮਨੁੱਖ ਦੀ) ਇਸ ਲੋਕ ਵਿਚ ਭੀ ਤੇ ਪਰਲੋਕ ਵਿਚ ਭੀ ਬਦਨਾਮੀ ਹੀ ਹੁੰਦੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਪਾਛੈ = ਇਸ ਲੋਕ ਵਿਚ। ਮੰਦੀ ਸੋਇ = ਬਦਨਾਮੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

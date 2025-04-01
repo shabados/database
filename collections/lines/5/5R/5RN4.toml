@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੋਬਿੰਦ ਪਾਰਬ੍ਰਹਮ (ਸਭ ਹਸਤੀਆਂ ਨਾਲੋਂ) ਵੱਡਾ ਹੈ, ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈ (ਉਸ ਵਿਚ ਕੋਈ ਕਿਸੇ ਕਿਸਮ ਦੀ ਘਾਟ ਨਹੀਂ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਾ = ਅਭੁੱਲ, ਸਾਰੇ ਗੁਣਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਕਾਰ ਕਰਿਆ ਕਰੋ ਜਿਹੜੀ ਗੁਰ ਨੇ ਦੱਸੀ ਹੈ (ਉਹ ਕਾਰ ਹੈ ਨਾਮ ਦਾ ਸਿਮਰਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਸਾ = ਉਹ {ਇਸਤ੍ਰੀ ਲਿੰਗ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

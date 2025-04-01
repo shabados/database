@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗੁਰੂ ਦੇ ਸਿੱਖੋ! ਤੁਸੀਂ ਮੈਨੂੰ ਭੀ ਅਕੱਥ ਪ੍ਰਭੂ ਦੀਆਂ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਾਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਅਕਥ ਕਹਾਣੀ = ਅਕੱਥ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

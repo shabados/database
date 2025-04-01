@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਨਾਮ-ਧਨ ਦੇ ਅਨੇਕਾਂ ਖ਼ਜ਼ਾਨੇ ਮੌਜੂਦ ਹਨ, ਜੀਵਾਤਮਾ ਭੀ ਅੰਦਰ ਹੀ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਦਰਿ ਮਹਲ = ਸਰੀਰ ਦੇ ਅੰਦਰ। ਅਨੇਕ ਹਹਿ = ਅਨੇਕਾਂ ਰਤਨ ਹਨ। ਜੀਉ = ਜੀਵਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

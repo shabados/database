@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਤੂੰ ਕਦੇ 'ਪੁਲ ਸਿਰਾਤ' ਦਾ ਨਾਮ ਨਹੀਂ ਸੁਣਿਆ ਜੋ ਵਾਲ ਤੋਂ ਭੀ ਬਰੀਕ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਲਹੁ = ਵਾਲ ਤੋਂ। ਪੁਰਸਲਾਤ = ਪੁਲ ਸਿਰਾਤ। ਕੰਨੀ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

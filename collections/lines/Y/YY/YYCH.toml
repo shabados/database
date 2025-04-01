@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੇ ਮੁਰਦਿਆਣ ਨੂੰ ਉਹ ਆਪਣੀ ਮੁਸਕਾਣ ਨਾਲ ਜੀਉਣਦਾ ਕਰ ਦਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਮਾਮੀ ਮੁਰਦਾਹਾ ਰਾ ਅਜ਼ ਤਬੱਸੁਮ ਜ਼ਿੰਦਾ ਮੀ ਸਾਜ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

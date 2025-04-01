@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ (ਗ੍ਰੰਥ) ਵਿਚ ਪਵਿੱਤ੍ਰ ਰੱਬੀ ਗਿਆਨਵਾਨਾਂ ਦਾ ਵਰਨਣ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਸਤ ਜ਼ਿਕਰਿ ਆਰਿਫ਼ਾਨਿ ਪਾਕ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

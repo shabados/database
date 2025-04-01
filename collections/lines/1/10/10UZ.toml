@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਜੀਵਨ-ਮਰਯਾਦਾ ਤੈਨੂੰ ਪਸੰਦ ਆ ਜਾਏ ਉਹੀ ਅਟੱਲ ਮਰਯਾਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

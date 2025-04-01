@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਛੀ ਪਾਣੀ ਵਿਚ ਪੈਦਾ ਹੁੰਦੀ ਹੈ, ਪਾਣੀ ਵਿਚ ਵੱਸਦੀ ਹੈ, ਪੂਰਬਲੀ ਕਮਾਈ ਅਨੁਸਾਰ ਉਹ ਪਾਣੀ ਵਿਚ ਹੀ ਸੁਖ ਦੁਖ ਸਹਾਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨ = ਮੱਛੀ। ਤੇ = ਤੋਂ। ਪੁਰਬਿ ਕਮਾਈ = ਪੂਰਬਲੀ ਕਮਾਈ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

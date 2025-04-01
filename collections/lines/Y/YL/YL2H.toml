@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਕੰਮ ਵਿਚ ਨੇਪਰੇ ਨਹੀਂ ਚੜ੍ਹਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਕਾਜਿ = ਕਿਸੇ ਕੰਮ ਕਾਜ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

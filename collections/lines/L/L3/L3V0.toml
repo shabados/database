@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ ਉਸ ਜੋਤਿ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪਰਸਾਦੀ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਜਾਨੀ = ਜਾਣੀ ਹੈ, ਸਾਂਝ ਪਈ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੂਰਜ ਅਤੇ ਚੰਦ ਦੋਨੋਂ ਉਸਦੇ ਦਵਾਰੇ ਦੇ ਮੰਗਤੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁੱਰੋ ਮਾਹ ਹਰ ਦੋ ਗਦਾਇ ਦਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

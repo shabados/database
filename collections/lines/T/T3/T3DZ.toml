@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਵੀ ਬੰਦਗੀ ਲਈ ਫਰਮਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਤਾਅਲਾ ਬੰਦਗੀ ਫ਼ਰਮੂਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੀਆਂ) ਦਸਾਂ ਹੀ ਇੰਦ੍ਰੀਆਂ ਨੂੰ ਮੈਂ ਛੁੱਟੜ ਕਰ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸ ਨਾਰੀ = ਦਸ ਇੰਦ੍ਰੀਆਂ। ਕਰੀ = ਕਰ ਦਿੱਤੀਆਂ ਹਨ। ਦੁਹਾਗਨਿ = ਛੁੱਟੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

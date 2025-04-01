@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਹੇ ਰਸ-ਭਿੰਨੇ ਹਰੀ! ਤੂੰ (ਮੇਰੀ ਅਰਜ਼ੋਈ) ਸੁਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਰਸ ਭਿੰਨੇ = ਹੇ ਰਸ-ਭਿੰਨੇ ਹਰੀ! ਪ੍ਰੀਤਮ ਆਪਣੇ = ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

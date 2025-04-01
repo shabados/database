@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਨੇ ਅਨੇਕਾਂ ਤੰਤ੍ਰਾਂ ਮੰਤ੍ਰਾਂ ਦੀ ਦੁਕਾਨ ਚਲਾਈ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਵਾ = ਚਲਾਏ ਹਨ (ਜਿਵੇਂ ਮਲਾਹ ਬੇੜੀ ਚਲਾਂਦਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

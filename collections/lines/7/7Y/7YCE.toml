@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਲੋਕ ਆਪਣੇ ਆਪ ਨੂੰ) ਖ਼ਾਨ ਤੇ ਬਾਦਸ਼ਾਹ ਅਖਵਾਂਦੇ ਹਨ (ਤਾਂ ਭੀ ਕੀਹ ਹੋਇਆ?) ਕੋਈ (ਇਥੇ ਸਦਾ) ਨਹੀਂ ਰਹਿ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੂਕ = ਬਾਦਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

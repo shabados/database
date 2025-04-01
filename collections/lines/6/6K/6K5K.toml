@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪੂਰੀ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ (ਹੀ) ਗੁਰੂ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

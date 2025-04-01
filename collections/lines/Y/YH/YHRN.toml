@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਦੇ ਸਿਮਰਨ ਵਿਚ ਸਥਿਰ ਅਤੇ ਪਰਪੱਕ ਨਹੀਂ ਹੁੰਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਸ਼ਾਂ ਰਾ ਬ-ਜ਼ਿਕਰ ਇਸਤਿਕਲਾਲ ।"
+page = 1
+line = 45
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

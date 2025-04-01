@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਤੂੰ ਬਖ਼ਸ਼ਣ ਵਾਲਾ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਨਹ = ਓਟ, ਪਨਾਹ। ਖੁਦਾਇ = ਹੇ ਖ਼ੁਦਾ! ਹੇ ਪ੍ਰਭੂ! ਬਖਸੰਦਗੀ = ਬਖ਼ਸ਼ਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

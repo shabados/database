@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ ਕਿ) ਮੈਂ ਉਹਨਾਂ (ਗੁਰਮੁਖਾਂ) ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੈ = ਉਹਨਾਂ ਤੋਂ। ਬਲਿ ਬਲਿ = ਸਦਕੇ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

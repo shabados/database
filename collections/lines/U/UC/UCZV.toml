@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਇਸਤ੍ਰੀ ਪਤੀ ਤੋਂ ਵਿਛੁੜੀ ਹੋਈ ਹੋਵੇ ਉਸ ਦਾ ਹਾਰ-ਸਿੰਗਾਰ ਕਿਸ ਅਰਥ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨ = ਜੀਵ-ਇਸਤ੍ਰੀ। ਕਿਆ = ਕੀਹ ਲਾਭ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

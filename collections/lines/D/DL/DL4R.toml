@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਭਾਈ ਸੰਤ ਜਨੋਂ! ਇਕ ਕਿਣਕਾ ਮਾਤ੍ਰ (ਮੈਨੂੰ ਭੀ) ਹਰੀ ਦਾ ਨਾਮ ਜਪਾਵੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਕਾ = ਕਿਣਕਾ ਮਾਤ੍ਰ, ਥੋੜਾ ਜਿਤਨਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

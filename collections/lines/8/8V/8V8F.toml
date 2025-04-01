@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਹੈ ਪੰਡਿਤ, ਤੇ, ਉਹ ਗਿਆਨ-ਅਵਸਥਾ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਹ ਮਨੁੱਖ। ਅਨਭੈ = ਅਨੁਭਵ ਵਿਚ, ਗਿਆਨ-ਅਵਸਥਾ ਵਿਚ। ਰਹੈ = ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

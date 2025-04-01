@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੁਸੀ 'ਤਸਕਰ' ਚੋਰ ਨੂੰ ਆਖਦੇ ਹੋ, ਪਰ) 'ਤਸਕਰ' ਉਹ ਹੈ ਜੋ ਤਾਤਿ (ਈਰਖਾ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚੋਂ ਚੁਰਾ ਲੈ ਜਾਂਦਾ ਹੈ) ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਕਰੁ = ਚੋਰ। ਤਾਤਿ = ਈਰਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

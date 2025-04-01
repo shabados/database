@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਦਿਲ ਸਮਝ ਵਾਲਾ ਹੋਵੇ ਤਾਣ ਸੱਜਨ ਉਸ ਦੀ ਗਲਵਕੜੀ ਵਿਚ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲ ਅਗ਼ਰ ਦਾਨਾ ਬਵਦ ਅੰਦਰ ਕਿਨਾਰਸ਼ ਯਾਰ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

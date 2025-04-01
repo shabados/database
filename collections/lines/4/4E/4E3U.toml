@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੋਲੀ ਦੇ ਫੁਲਾਣ ਦੀ ਖੁਸ਼ਬੂ ਨੇ ਜ਼ਮਾਨੇ ਦੇ ਬਾਗ਼ ਨੂੰ ਮਹਿਕ ਨਾਲ ਭਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਲਿ ਹੋਲੀ ਬਬਾਗ਼ਿ ਦਹਿਰ ਬੂ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਤੇਰੇ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਬਣ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਕੈ ਸਬਦਿ = ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

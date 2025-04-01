@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ (ਪ੍ਰਭੂ) ਦੀ ਸਰਨ ਵਿਚ (ਰਹਿ ਕੇ) ਉਸ ਮਨੁੱਖ ਨੂੰ ਸਦਾ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਾਈ = ਸਰਨ ਪਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

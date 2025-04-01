@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੈਨੂੰ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਇਸੇ ਦੀ ਹੀ ਲੋੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਹੁਮਾ ਅੱਵਲ ਹਮੀਂ ਮੀ ਬਾਇਦਤ ।੨੯੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

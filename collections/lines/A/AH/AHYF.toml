@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਚਾਨਣਾ ਬਖ਼ਸ਼ਣ ਵਾਲੇ ਮਾਇਆ ਤੋਂ ਰਹਿਤ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਆਪ ਨਿਰੰਕਾਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਕਾਰੁ = ਅਕਾਰ-ਰਹਿਤ। ਨਿਰੰਜਨ = ਹੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

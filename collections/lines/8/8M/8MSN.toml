@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਕਦੇ) ਗੁਰੂ ਦਾ ਆਸਰਾ ਨਹੀਂ ਲਿਆ, ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦਾ ਸ਼ਬਦ (ਕਦੇ ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਟਿਕਾ ਕੇ ਨਹੀਂ ਰੱਖਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਸੇਵਿਓ = ਆਸਰਾ ਨਾਹ ਲਿਆ। ਉਰ = ਹਿਰਦਾ। ਧਾਰਿ = ਟਿਕਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

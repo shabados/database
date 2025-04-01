@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦੇ ਪੈਰ ਪੂਜ! (ਭਾਵ, ਗੁਰੂ ਦਾ ਆਸਰਾ ਲੈ, ਇਸ ਤਰ੍ਹਾਂ) ਭੈੜੀ ਮੱਤ (ਰੂਪ 'ਬਿਰਥਾ') ਸੜ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਭੈੜੀ ਮੱਤ। ਜਰਿ ਜਾਇ = ਸੜ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

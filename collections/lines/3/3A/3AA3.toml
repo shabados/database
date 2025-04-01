@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਕਿਹੋ ਜਿਹਾ ਹੈ?-ਇਹ ਗੱਲ) ਕੀਹ ਦੱਸੀਏ? ਦੱਸੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਕਥੀਐ = ਕੀਹ ਦੱਸੀਏ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

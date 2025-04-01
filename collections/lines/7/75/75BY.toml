@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਉਂਞ ਤਾਂ) ਹਰੇਕ ਮਨੁੱਖ ਤੇਰਾ ਭਗਤ ਅਖਵਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਭਗਤ = {ਲਫ਼ਜ਼ 'ਭਗਤੁ' ਇਕ-ਵਚਨ ਹੈ, ਲਫ਼ਜ਼ 'ਭਗਤ' ਬਹੁ-ਵਚਨ ਹੈ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

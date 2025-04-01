@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਾਂਸ਼ੀ ਛੱਡ ਆਇਆ ਹਾਂ (ਕੀ ਇਹ ਠੀਕ ਹੈ ਕਿ) ਮੇਰੀ ਮੱਤ ਮਾਰੀ ਗਈ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜੀਲੇ = ਮੈਂ ਛੱਡ ਦਿੱਤਾ ਹੈ। ਬਨਾਰਸਿ = ਕਾਂਸ਼ੀ ਨਗਰੀ। ਥੋਰੀ = ਥੋੜੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

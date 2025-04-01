@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਾਨੋ ਉਸ ਦੀ ਉਮਰ ਦੀ ਆਯੂ ਆਸ਼ਾਵੰਤ ਹੋ ਗਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀਏ ਉਮਰ ਰਾ ਉਮੀਦ ਯਾਫ਼ਤ ।੧੫੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

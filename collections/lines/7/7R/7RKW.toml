@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ! ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਦੋਂ ਤੋਂ) ਪੱਖਾ (ਹੱਥ ਵਿਚ) ਫੜ ਕੇ ਉਸ ਦੇ ਪੈਰਾਂ ਵਿਚ ਖਲੋ ਕੇ ਮੈਂ ਉਸ ਪਿਆਰੇ ਨੂੰ ਝੱਲਦੀ ਰਹਿੰਦੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇ = ਲੈ ਕੇ। ਝਲਉ = ਝੱਲਉਂ, ਮੈਂ ਝੱਲਦੀ ਹਾਂ। ਪਾਏ = ਪੈਰਾਂ ਵਿਚ (ਖਲੋ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

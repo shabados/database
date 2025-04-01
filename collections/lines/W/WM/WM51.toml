@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਕੇ ਹਾਂ ਉਸ ਮੇਢੇ ਦੀ ਉੱਨ ਤੋਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਘਾ = ਮੇਂਢਾ। ਰੋਮਾਵਲੀ = ਰੋਮ-ਆਵਲੀ, ਰੋਮਾਂ ਦੀ ਕਤਾਰ, ਉੱਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

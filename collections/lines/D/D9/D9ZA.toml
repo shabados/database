@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਨਾਮ ਜਪਦਿਆਂ ਜੀਵ ਪ੍ਰਸੰਨ-ਚਿੱਤ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲ = ਪ੍ਰਸੰਨ-ਚਿੱਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

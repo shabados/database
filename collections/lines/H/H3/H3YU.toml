@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸੱਚ ਦੇ ਜਾਨਣ ਹਾਰਿਆਂ ਲਈ ਸੱਚ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਹੱਕ ਆਗਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 107
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

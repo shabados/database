@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਹੀ ਉਹ ਭਿੱਜਦਾ ਹੈ ਤੀਰਥ ਤੇ ਨ੍ਹਾਤਿਆਂ ਜਾਂ ਨੰਗੇ ਭਵਿਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰਥਿ = ਤੀਰਥ ਉਤੇ (ਨ੍ਹਾਤਿਆਂ)। ਭਵਿਐ = ਨੰਗੇ ਭੌਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

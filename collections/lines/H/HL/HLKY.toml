@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! -ਆਪਣੇ ਮਨ ਵਿਚ ਭਗਵਾਨ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪਿ = ਜਪਿਆ ਕਰ। ਭਗਵੰਤੁ = ਭਗਵਾਨ (ਦਾ ਨਾਮ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

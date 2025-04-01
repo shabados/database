@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸਦੀਵੀ ਟਿਕਾਣੇ ਦੀ ਰੀਤ-ਮਰਯਾਦਾ ਦੀ ਸਿਰਫ਼ ਉਸ ਮਨੁੱਖ ਨੂੰ ਸਮਝ ਪੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਤਿ = ਮਰਯਾਦਾ, ਰੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

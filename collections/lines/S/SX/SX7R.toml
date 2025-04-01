@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਨਾਲ ਡੂੰਘੀਆਂ ਸਾਂਝਾਂ ਨਹੀਂ ਪਾਂਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਨ ਜਾਨਾ = ਮੈਂ ਨਹੀਂ ਜਾਣਦਾ, ਮੈਂ ਡੂੰਘੀ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

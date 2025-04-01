@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਜੋਗ ਨਾਲ ਦੈਂਤ (ਹਰਨਾਖਸ਼) ਨੇ ਰਾਜ ਚਲਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਤ ਸੰਜੋਗੀ = (ਪਿਛਲੇ) ਕੀਤੇ ਹੋਏ ਕਰਮਾਂ ਦਾ ਸੰਜੋਗ ਨਾਲ। ਦੈਤਿ = ਦੈਂਤ (ਹਰਨਾਖਸ਼) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

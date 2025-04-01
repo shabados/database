@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਭੀ ਪਰਮਾਤਮਾ ਕਰਦਾ ਹੈ ਜੇਹੜਾ ਮਨੁੱਖ ਹਰੇਕ ਉਸ ਕੰਮ ਨੂੰ (ਦੁਨੀਆ ਵਾਸਤੇ) ਭਲਾ ਮੰਨਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲ = ਭਲਾ, ਚੰਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

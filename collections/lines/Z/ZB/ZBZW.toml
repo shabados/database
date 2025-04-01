@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੇਕੇ ਘਰ ਵਿਚ ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ ਪ੍ਰਭੂ ਪਤੀ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਰੱਖਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

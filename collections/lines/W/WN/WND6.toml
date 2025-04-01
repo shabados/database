@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਨੇ ਆਪਣਾ ਨਾਮ-ਹੀਰਾ ਲੁਕਾ ਕੇ ਰੱਖਿਆ ਹੋਇਆ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਗੁਪਤ = ਗੁੱਝਾ। ਹੀਰੁ = ਹੀਰਾ। ਰਾਖਾ = ਰੱਖਿਆ ਹੋਇਆ ਸੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

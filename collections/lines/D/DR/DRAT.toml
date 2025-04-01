@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਾਣਧੀਆਣ ਲਈ ਆਉਣ ਜਾਣ ਲਈ ਕਈ ਰਾਹ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਾਹ-ਰਵਾਣ ਰਾ ਰਾਹ ਬਿਸੀਆਰ ਆਮਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

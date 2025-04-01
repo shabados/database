@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਗੁਰੂ ਨੇ (ਜਿਸ ਮਨੁੱਖ ਦੀ) ਬੇਨਤੀ ਸੁਣ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਅਪੁਨੇ = ਪਿਆਰੇ ਗੁਰੂ ਨੇ। ਅਰਦਾਸਿ = ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

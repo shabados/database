@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਬੰਦੇ (ਸੁਆਹ ਆਦਿਕ ਮਲ ਕੇ) ਮਿੱਟੀ ਵਿਚ ਲਿੱਬੜਦੇ ਹਨ (ਇਸ ਤਰ੍ਹਾਂ ਭੀ ਉਹ) ਖ਼ੁਸ਼ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੇ = ਕਈ ਬੰਦੇ। ਹੋਵਹਿ ਧੂੜਿ = ਮਿੱਟੀ ਵਿਚ ਲਿੱਬੜਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਇਸ ਤਰੀਕੇ ਨਾਲ ਉਸ ਮਨੁੱਖ ਦਾ ਸਰੀਰ-ਨਗਰ ਵੱਸ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ੍ਹ੍ਹ ਬਿਧਿ = ਇਸ ਵਿਓਂਤ ਨਾਲ। ਨਗਰੁ = ਸਰੀਰ-ਸ਼ਹਰ! ਵੁਠਾ = ਵੱਸ ਪਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

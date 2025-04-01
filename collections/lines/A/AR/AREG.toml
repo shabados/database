@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਤੂੰ ਪਰਾਈ ਇਸਤ੍ਰੀ ਨੂੰ (ਭੈੜੀ ਨਿਗਾਹ ਨਾਲ) ਤੱਕਦਾ ਹੈਂ, ਤੂੰ ਚੋਰੀਆਂ ਕਰਦਾ ਹੈਂ, ਹੋਰ ਬੁਰਾਈਆਂ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਲਿ = ਇਸਤ੍ਰੀ। ਜੋਹਹਿ = ਤੂੰ ਤੱਕਦਾ ਹੈਂ। ਬੁਰਿਆਰੀ = ਬੁਰਾਈ, ਭੈੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

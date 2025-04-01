@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਤਦਬੀਰ ਦੇ ਸਾਹਮਣੇ ਅਕਲਮੰਦਾਂ ਦੀ ਅਕਲ ਵੀ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਫ਼ਰਜ਼ਾਨਗਾਂ ਪੇਸ਼ਿ ਤਦਬੀਰਿ ਊ ।੧੬੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੈਂ ਕਾਬੇ ਦਾ ਹੱਜ ਕਰਨ ਜਾ ਰਿਹਾ ਸਾਂ, ਉਥੇ ਗਏ ਨੂੰ ਅੱਗੋਂ ਖ਼ੁਦਾ ਮਿਲ ਪਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਜਾਇ ਥਾ = ਜਾ ਰਿਹਾ ਸਾਂ। ਆਗੈ = ਉਥੇ ਗਏ ਨੂੰ ਅੱਗੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

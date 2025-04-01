@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ (ਉਸ ਨੂੰ ਭਲਾਈ ਜਾਨਣਾ) ਇਹੀ ਅਸਲ ਗਿਆਨ ਹੈ ਇਹੀ ਅਸਲ ਸਮਾਧੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ ਤੁਧੁ ਭਾਈ = ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਕੋਈ ਦਲੀਲ (ਦੇਣੀ) ਨਹੀਂ ਜਾਣਦਾ ਮੈਂ ਕੋਈ ਸਿਆਣਪ (ਦੀ ਗੱਲ ਕਰਨੀ) ਨਹੀਂ ਜਾਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਕਤਿ = ਯੁਕਤਿ, ਦਲੀਲ। ਕਿਛੂ = ਕੁਝ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

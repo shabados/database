@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੁਸਤਕਾਂ) ਪੜ੍ਹਨ ਨਾਲ (ਭੀ ਉਸ ਦਾ) ਭੇਤ ਨਹੀਂ ਪੈਂਦਾ। ਮਤਿ ਉੱਚੀ ਹੋਇਆਂ ਇਹ ਰਾਜ਼ ਸਮਝ ਵਿਚ ਆਉਂਦਾ ਹੈ (ਕਿ ਉਹ ਬੇਅੰਤ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਿਐ = ਪੜ੍ਹਨ ਨਾਲ। ਬੁਝਿਐ = ਮਤਿ ਉੱਚੀ ਹੋਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

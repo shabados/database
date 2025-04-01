@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ, (ਮਾਨੋ) ਜੰਗਲਾਂ ਵਿਚ ਖ਼ੁਆਰ ਕਰੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਿਆਨ = ਜੰਗਲ। ਭ੍ਰਮਾਈਐ = ਭਟਕਾਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

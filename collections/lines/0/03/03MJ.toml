@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਿੱਤਰ ਦੀ, ਪੁੱਤਰ ਦੀ, ਭਰਾ ਦੀ-ਕਿਸੇ ਦੀ ਭੀ ਆਸ ਨਾਹ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਆਸ ਮੀਤ = ਮਿੱਤਰ ਦੀ ਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

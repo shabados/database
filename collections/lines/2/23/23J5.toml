@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾ ਗਾ ਕੇ (ਮੇਰਾ) ਇਹ ਮਨ ਸਦਾ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਇ = ਗਾ ਕੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

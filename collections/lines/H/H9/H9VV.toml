@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਿਹੜਾ ਵੀ ਤੇਰੇ ਨਾਮ ਨੂੰ ਉੱਚਾ ਕਰੇਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਨਾਮਿ ਤੂ ਬਰਤਰੀਂ ਦਾਨਦ ।"
+page = 1
+line = 28
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

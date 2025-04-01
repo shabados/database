@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ! ਸਿਰਫ਼) ਹਰੀ ਦੇ ਸੰਤ ਜਨ ਹੀ ਪਵਿੱਤਰ ਜੀਵਨ ਵਾਲੇ ਹਨ, ਉਹ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਲੋਭ ਮੋਹ ਆਦਿਕ ਤੋਂ ਬਚੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮ। ਰਹਤ = ਬਚੇ ਹੋਏ। ਹਹਿ = ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ (ਮਾਨੋ) ਲੱਖਾਂ ਰੁਪਏ ਅਰਬਾਂ ਰੁਪਏ ਖਰਬਾਂ ਰੁਪਏ ਦਾਨ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਬ ਖਰਬ = ਸੌ ਲੱਖ ਦਾ ਇਕ ਕ੍ਰੋੜ, ਸੌ ਕ੍ਰੋੜ ਦਾ ਇਕ ਅਰਬ, ਸੌ ਅਰਬ ਦਾ ਇਕ ਖਰਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

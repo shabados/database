@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਖ਼ਜ਼ਾਨਾ ਸੁਖ, ਆਤਮਕ ਅਡੋਲਤਾ ਤੇ ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਪੋਤਾ = ਪੋਤਹ, ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

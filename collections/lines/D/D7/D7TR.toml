@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਕਲ ਦੇ ਥੰਮ ਨੇ ਉਸ ਤੋਂ ਪਕਿਆਈ ਹਾਸਲ ਕੀਤੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਤੂਨਿ ਖ਼ਿਰਦ ਤਾਫ਼ਤ ਤਸ਼ਯੀਦ ਅਜ਼ੋ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

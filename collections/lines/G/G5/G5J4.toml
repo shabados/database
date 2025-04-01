@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ! ਹੇ ਮੇਰੇ ਗੋਬਿੰਦ! ਹੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦੇ ਆਸਰੇ ਗੋਬਿੰਦ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਿੰਦਾ = ਹੇ ਗੋਬਿੰਦ! ਪ੍ਰਾਣ ਅਧਾਰਾ = ਹੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦੇ ਆਸਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

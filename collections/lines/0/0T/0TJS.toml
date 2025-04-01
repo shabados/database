@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਗੁਣ-ਹੀਨ ਨਿਮਾਣੇ ਨਾਨਕ ਨੂੰ ਬਖ਼ਸ਼ ਲੈ ॥੫॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਨ ॥੫॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

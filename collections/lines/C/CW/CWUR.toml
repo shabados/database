@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਤੇਰਾ ਰੂਪ ਕੋਝਾ ਹੀ ਰਿਹਾ (ਕਿਉਂਕਿ) ਤੇਰੇ ਮਨ ਵਿਚ ਅਹੰਕਾਰ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਗੜ = ਵਿਗੜਿਆ ਹੋਇਆ, ਕੋਝਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

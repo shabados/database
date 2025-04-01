@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹੋ ਜਿਹੇ ਬ੍ਰਾਹਮਣਾਂ ਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਡੁੱਬੇ ਹੋਏ ਜਾਣੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੂਬੇ = (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਡੁੱਬੇ ਹੋਏ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

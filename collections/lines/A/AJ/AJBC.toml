@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ (ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਸੁਣ ਕੇ ਮੈਂ ਆਪਣੀ ਜੀਭ ਨਾਲ ਭੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਰਸਨ = ਜੀਭ (ਨਾਲ)। ਵਖਾਣੀ = ਮੈਂ ਵਖਾਣਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

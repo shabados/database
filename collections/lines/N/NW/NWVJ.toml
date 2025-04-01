@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗੇ ਤਾਂ ਮੈਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਗਾ ਸਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵੈ = ਚੰਗਾ ਲੱਗੇ। ਗਾਵਾ = ਗਾਵਾਂ, ਮੈਂ ਗਾ ਸਕਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

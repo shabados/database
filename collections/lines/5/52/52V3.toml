@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਬਾਦਸ਼ਾਹੀ ਦਾ) ਛੱਤ੍ਰ (ਉਸੇ ਦੇ) ਸਿਰ ਉਤੇ ਹੈ, ਉਸ ਦੇ ਬਰਾਬਰ ਹੋਰ ਕੋਈ ਨਹੀਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਛਤੁ = ਛੱਤ੍ਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

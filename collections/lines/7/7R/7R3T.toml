@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ! ਪਹਿਲਾਂ) ਆਪਣੇ ਮਨ ਨੂੰ ਜਗਾਓ ਤੇ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਹਸਤੀ ਨੂੰ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਬੋਧਹੁ = ਜਗਾਓ। ਸੋਈ = ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

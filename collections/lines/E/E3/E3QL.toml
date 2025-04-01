@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਇਸ ਮਨੁੱਖ ਨੇ (ਮਨ ਵਿਚ) ਆਪਣੀ ਹੀ ਗ਼ਰਜ਼ ਟਿਕਾਈ ਰੱਖੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਿ = ਇਸ ਨੇ। ਧਾਰੀ = ਮਨ ਵਿਚ ਟਿਕਾ ਲਈ। ਅਪੁਨੀ ਅਪਨੀ = ਆਪਣੀ ਹੀ ਗਰਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

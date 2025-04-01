@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਘਰ ਮੰਦਰ ਮਹਲ ਚੌਹਾਂ ਪਾਸਿਆਂ ਤੋਂ ਤਾਂ ਚਿੱਤਰੇ ਹੋਏ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡਪ = ਮੰਦਰ। ਪਾਸਹੁ = ਪਾਸਿਆਂ ਤੋਂ, ਚੁਫੇਰਿਓਂ। ਚਿਤਵੀਆਹਾ = ਚਿੱਤਰੀਆਂ ਹੋਈਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

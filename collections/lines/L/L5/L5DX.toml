@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਅਮੋਲਕ ਹੈ, (ਕਿਸੇ ਭੀ ਦੁਨਿਆਵੀ ਕੀਮਤ ਨਾਲ) ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੋਲਕੁ = ਜੇ ਕਿਸੇ ਭੀ ਕੀਮਤ ਤੋਂ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

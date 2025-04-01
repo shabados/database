@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਤੂੰ ਮੇਰਾ ਪਾਲਣਹਾਰਾ ਮਾਲਕ ਹੈਂ, ਮੇਰੇ ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰੁ = ਪਾਲਣਹਾਰ। ਨੇਰੋ = ਨੇੜੇ, ਅੰਗ-ਸੰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਹੇ ਅਣਜਾਣ ਬੰਦੇ # ਤੂੰ ਜੰਗਲ ਬੇਲੇ ਵਿਚ ਕਿਉਂ ਭੌਂਦਾ ਫਿਰਦਾ ਹੈਂ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਬਸਹਿਰਾ ਮੀਰਵੀ ਐ ਬੇ-ਖ਼ਬਰ ।੩੮੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

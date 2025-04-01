@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹੇ ਮੇਰੇ ਗ਼ਾਫ਼ਿਲ ਮਨ! ਹੇ ਮੇਰੇ ਅੰਞਾਣ ਮਨ! ਤੂੰ ਹੋਸ਼ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ ਅਚੇਤ ਮਨ = ਹੇ ਗ਼ਾਫ਼ਿਲ ਮਨ! ਹੇ ਲਾ-ਪਰਵਾਹ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

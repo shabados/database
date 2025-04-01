@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਮੇਰੇ) ਕਬੀਰ ਨੇ (ਤਾਣਾ) ਤਣਨਾ ਤੇ (ਕੱਪੜਾ) ਉਣਨਾ ਸਭ ਕੁੱਝ ਛੱਡ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿਓ ਹੈ = ਛੱਡ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

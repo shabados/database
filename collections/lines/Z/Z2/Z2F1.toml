@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਨਾਮ ਮੇਰੇ ਮਨ ਦਾ ਮੇਰੇ ਸਰੀਰ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਤਨ ਆਧਾਰੀ = ਮਨ ਦਾ ਤਨ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

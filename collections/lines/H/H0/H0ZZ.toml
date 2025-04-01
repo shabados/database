@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਥਾਂ (ਸਰੀਰ-ਰੂਪ ਘਰ) ਅਕਾਲ ਪੁਰਖ ਦੇ ਹੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ। ਠਾਉ = ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

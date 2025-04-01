@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇੰਦ੍ਰ ਨੂੰ ਹੁਕਮ ਕਰਦਾ ਹੈ, ਉਹ ਝੜੀ ਲਾ ਕੇ ਵਰਖਾ ਕਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੁਠਾ = ਵੱਸਿਆ। ਛਹਬਰ = ਝੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

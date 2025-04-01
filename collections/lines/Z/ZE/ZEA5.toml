@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਮਾਂ! ਮੈਂ ਤਾਂ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਪੂਰਨ ਤੌਰ ਤੇ ਮਸਤ ਰਹਿੰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤੀ = ਮਸਤ ਰਹਿੰਦੀ ਹਾਂ। ਸਮੂਹ = ਪੂਰਨ ਤੌਰ ਤੇ, ਸਾਰੀ ਦੀ ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

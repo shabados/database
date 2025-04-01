@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਭ੍ਰਿਸ਼ਟਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਗੜਰੂਪੁ = ਵਿਗੜੇ ਹੋਏ ਰੂਪ ਵਾਲਾ, ਭ੍ਰਿਸ਼ਟਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

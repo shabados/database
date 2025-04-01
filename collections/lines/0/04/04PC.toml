@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ, ਉਸ ਦਾ ਨਾਮ ਸਦਾ ਸਿਮਰਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲੁ = ਦਇਆ ਦਾ ਘਰ, ਦਇਆ ਦਾ ਪੁੰਜ। ਧਿਆਹਾ = ਧਿਆਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

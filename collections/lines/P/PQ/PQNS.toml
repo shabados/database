@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਿੰਦਵੀ ਬੋਲੀ ਵਿਚ ਉਨ੍ਹਾਣ ਦਾ ਨਾਮ ਸਾਧ ਸੰਗਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਧ ਸੰਗਤ ਨਾਮਿ ਸ਼ਾਣ ਦਰ ਹਿੰਦਵੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

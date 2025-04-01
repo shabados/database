@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਚੰਗੇ ਭਾਗ ਬਣਾ ਕੇ, ਤੈਨੂੰ ਉਸ ਨੇ ਘਰ ਸੋਹਣੇ ਮਕਾਨ, ਰਥ ਤੇ ਘੋੜੇ ਦਿੱਤੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗ੍ਰਿਹ = ਘਰ। ਮੰਦਰ = ਸੋਹਣੇ ਮਕਾਨ। ਅਸੁ = ਘੋੜੇ {ਸੰਸਕ੍ਰਿਤ ਲਫ਼ਜ਼ 'ਅਸ੍ਵ' ਹੈ, ਬਹੁ-ਵਚਨ ਵਿਚ ਭੀ 'ਅਸੁ' ਹੀ ਹੈ}। ਸੰਜੋਗ = ਭਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

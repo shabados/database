@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਦਾਮੇ ਬ੍ਰਾਹਮਣ ਦੀ (ਕ੍ਰਿਸ਼ਨ ਜੀ ਨੇ) ਗਰੀਬੀ ਕੱਟੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਪ੍ਰ = ਬ੍ਰਾਹਮਣ। ਦਾਲਦੁ = ਗਰੀਬੀ। ਭੰਜ = ਨਾਸ (ਕੀਤਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

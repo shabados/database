@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਉਤੇ ਮਾਇਆ ਨੇ ਬਹੁਤ ਜ਼ੋਰ ਪਾਇਆ ਹੋਇਆ ਹੈ। ਇਹ ਲੋਭੀ ਕਪਟੀ ਪਾਪੀ ਪਾਖੰਡੀ ਬਣਿਆ ਪਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਿਕ = ਬਹੁਤ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

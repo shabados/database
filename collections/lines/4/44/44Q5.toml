@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਚਾਰ ਕੇ ਵੇਖ ਲੈ, ਇਸ ਜੀਵ ਦੇ ਹੱਥ ਕੁਝ ਭੀ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਿਥੇ? ਕੀਹ? ਬੀਚਾਰੁ = ਵਿਚਾਰ ਕਰ, ਵਿਚਾਰ ਕੇ ਵੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

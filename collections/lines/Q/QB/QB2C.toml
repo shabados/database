@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਭ ਨੇ ਹਰੀ (ਦੇ ਨਾਮ) ਦਾ ਸੁਆਦ ਨਹੀਂ ਚੱਖਿਆ, ਉਹ ਜੀਭ ਸੜ ਜਾਏ (ਭਾਵ, ਉਹ ਜੀਭ ਕਿਸੇ ਕੰਮ ਦੀ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ। ਸੁਆਉ = ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

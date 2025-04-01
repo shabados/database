@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਬਿਨਾਂ ਸਤਿਗੁਰਾਂ ਦੇ, ਦੁਨੀਆਂ ਨੂੰ ਪਤਾ ਨਹੀਂ ਲਗ ਸਕਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਬੇ-ਹਾਦੀ ਜਹਾਂ ਬੇਗ਼ਾਨਾਂ ਹਸਤ ।੩੮੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

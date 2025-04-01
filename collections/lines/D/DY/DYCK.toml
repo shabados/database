@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਜਾਣਦਾ ਹੈ ਕਿ ਜਿਹੜਾ ਪ੍ਰਭੂ) ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ, ਬਾਹਰ ਜਗਤ ਵਿਚ ਭੀ ਉਹੀ ਪਸਰਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਸੁ = ਉਹ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

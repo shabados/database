@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇਹੜਾ ਮਨੁੱਖ ਤੇਰੇ (ਮਿਲਾਪ ਦੇ) ਰਾਹ ਤੇ ਤੁਰਦਾ ਹੈ, ਮੈਂ ਉਸ ਦੇ ਪੈਰ ਧੋਂਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਖਾਲੀ = ਪਖਲੀਂ, ਮੈਂ ਧੋਂਦਾ ਹਾਂ। ਮਾਰਗਿ = ਰਸਤੇ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

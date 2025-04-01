@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਆਪਣਾ ਦਰਸਨ ਦੇਹ, ਤੂੰ ਆਪ ਹੀ ਮੈਨੂੰ ਦੱਸ (ਕਿ ਮੈਂ ਕਿਵੇਂ ਤੇਰਾ ਦਰਸਨ ਕਰਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਗਲਿ = ਗਲ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

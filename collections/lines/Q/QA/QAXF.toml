@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਸਿੱਖ ਨੇ ਤਾਂ ਸਦਾ ਆਪਣੇ ਗੁਰੂ (ਦੇ ਚਰਨਾਂ) ਵਿਚ ਸੁਰਤ ਜੋੜੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਸਿਖਿ = ਦੇ ਸਿੱਖ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

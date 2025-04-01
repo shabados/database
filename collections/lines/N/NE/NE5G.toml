@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਣ ਨਜ਼ਰਾਣ ਵਿਚ ਸਭ ਕੁਝ ਉਸੇ ਦਾ ਹੀ ਸਰੂਪ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੇਸ਼ਿ ਚਸ਼ਮਸ਼ ਜੁਮਲਾ ਨਕਸ਼ਿ ਯਾਰ ਸ਼ੁਦ ।੭੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

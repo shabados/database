@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ) ਹੇ ਨਾਨਕ! ਤੂੰ ਨਾਮ ਜਪ, ਪ੍ਰਭੂ ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਪਰਲੋਕ ਵਿਚ (ਹਰੇਕ ਕਿਸਮ ਦੇ ਡਰ ਤੋਂ) ਬਚਾ ਲਏਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

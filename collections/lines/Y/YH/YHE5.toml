@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਦੀਪ ਵਿਚ ਅਤੇ ਹਰ ਦਸ਼ਾ ਵੱਲ ਉਸ ਦਾ ਡੰਕਾ ਵਜ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਰ ਦੀਪੋ ਹਰ ਸੂਇ ਕੌਸ਼ਸ਼ ਬੁਲੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

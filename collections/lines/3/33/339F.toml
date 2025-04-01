@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਸਿਰਜਣਹਾਰ ਪਰਮਾਤਮਾ ਮੇਰੇ ਮਨ ਵਿਚ ਵੱਸ ਗਿਆ ਹੈ ॥੪॥੫੦॥੧੧੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

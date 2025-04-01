@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਜੇਹੀ ਸੰਗਤ ਤੈਨੂੰ ਫੇਰ ਕਦ ਮਿਲੇਗੀ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੁਨੀਣ ਸੁਹਬਤ ਕੁਜਾ ਬਾਜ਼ ਆਇਦਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

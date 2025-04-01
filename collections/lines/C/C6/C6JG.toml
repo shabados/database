@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਾਰੇ ਹੀ ਮਨ-ਮੰਗੇ ਫਲ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਬਾਂਛਤ = ਮਨ-ਮੰਗੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਚੰਗੇ ਮੰਦੇ ਸਗਨ ਕੌਣ ਸੋਚਦਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਬੀਚਾਰੈ = ਕਿਥੇ ਕੋਈ ਵਿਚਾਰਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

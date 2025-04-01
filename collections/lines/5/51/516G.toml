@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੁਆਰਥ ਵਿਚ ਫਸ ਕੇ) ਤੂੰ ਆਪਣੇ ਪ੍ਰ੍ਰਭੂ-ਪਤੀ ਨੂੰ (ਹੁਣ) ਪਛਾਣਦੀ ਨਹੀਂ, ਪਰਲੋਕ ਵਿਚ ਜਾ ਕੇ ਕੀਹ ਮੂੰਹ ਵਿਖਾਵੇਂਗੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਪਛਾਣਹੀ = ਨ-ਪਛਾਣਹਿ, ਤੂੰ ਨਹੀਂ ਪਛਾਣਦੀ। ਜਾਇ = ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

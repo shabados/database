@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਨ-ਮੰਦਰ ਦੇ ਵਿਚ ਹੀ ਉਹ ਪ੍ਰਭੂ-ਸ਼ਾਹ ਵੱਸਦਾ ਸੁਣੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹੁ = ਪ੍ਰਭੂ-ਸ਼ਾਹੂਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

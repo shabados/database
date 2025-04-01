@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ) ਧਰਤੀ ਤੇ ਆਕਾਸ਼ ਜਿਸ ਦੇ ਟਿਕਾਏ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਕੇ = {ਸੰਬੰਧਕ 'ਕੇ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਜਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਧਾਰੇ = ਟਿਕਾਏ ਹੋਏ। ਧਰਣਿ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

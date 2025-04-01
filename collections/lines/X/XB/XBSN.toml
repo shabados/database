@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਸਾਰੇ ਮਨੋਰਥ, ਸਾਰੇ ਕੰਮ ਸਫਲ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ = ਸਾਰੇ। ਕਾਮ = ਕੰਮ। ਪੂਰਨ = ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਛੇਤੀ ਹੀ ਸੂੁਰਜ ਦੀ ਤਰਹ ਨੂਰ ਦੀ ਬਰਖਾ ਕਰਨ ਵਾਲਾ ਬਣ ਜਾਣਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੂਦ ਗਰਦਦ ਹਮਚੂ ਮਿਹਰਿ ਨੂਰ ਬਾਰ ।੧੧੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

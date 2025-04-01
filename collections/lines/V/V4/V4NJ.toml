@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ ਆਨੰਦ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣ ਬੇਅੰਤ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਪਰਮਾਨੰਦਾ = ਪਰਮ ਆਨੰਦ ਦਾ ਮਾਲਕ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

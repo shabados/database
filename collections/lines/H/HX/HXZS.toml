@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਆਪ ਹੀ (ਕਿਸੇ ਜੀਵ ਨੂੰ) ਆਤਮਕ ਮੌਤ ਦੇ ਰਿਹਾ ਹੈ (ਕਿਸੇ ਨੂੰ) ਆਤਮਕ ਜੀਵਨ ਬਖ਼ਸ਼ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰੇ = ਆਤਮਕ ਮੌਤ ਦੇਂਦਾ ਹੈ। ਜੀਵਾਏ = ਆਤਮਕ ਜੀਵਨ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

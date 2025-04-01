@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਧੁਰੋਂ ਹੀ ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਪ੍ਰਭੂ ਦੀ ਮਿਹਰ ਦਾ ਲੇਖ ਲਿਖਿਆ (ਉੱਘੜਦਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਸਤਕਿ = ਮੱਥੇ ਤੇ। ਕਰਮੁ = ਪ੍ਰਭੂ ਦੀ ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

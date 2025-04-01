@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਦਿਨ ਰਾਤ ਨਿਰੰਕਾਰ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਰਤੇ = ਰੰਗੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

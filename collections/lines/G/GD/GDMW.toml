@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੂਰਖ ਹਨ ਜੋ ਸੋਨੇ ਤੇ ਇਸਤ੍ਰੀ ਨਾਲ ਹੀ ਮੋਹ ਵਧਾ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਨਿਕ = ਸੋਨਾ। ਕਾਮਨੀ = ਇਸਤ੍ਰੀ। ਹੇਤੁ = ਹਿਤ, ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

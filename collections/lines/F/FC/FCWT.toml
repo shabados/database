@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੰਤ ਹੈ, ਸੁਖੀ ਹੈ (ਉਹ ਕਦੇ) ਘਾਬਰਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹੇਲਾ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

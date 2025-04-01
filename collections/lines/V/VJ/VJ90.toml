@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜੇ) ਤੁਸੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ, ਤਾਂ ਇਹ ਤੁਹਾਡੀ ਬਦ-ਕਿਸਮਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਾਗੁ = ਬਦ-ਕਿਸਮਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

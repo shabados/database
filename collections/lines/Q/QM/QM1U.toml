@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣੇ ਮਨ ਵਿਚ ਹਿਰਦੇ ਵਿਚ ਸਿਰਫ਼ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਹੀ ਸਿਮਰਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

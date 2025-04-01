@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ (ਮਾਇਆ ਵਾਲੀ) ਤ੍ਰੇਹ ਭੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ = ਤ੍ਰਿਸ਼ਨਾ, ਤ੍ਰੇਹ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਪੜਨਾਂਵ ਹੈ, ਲਫ਼ਜ਼ 'ਤਿਸ' ਨਾਂਵ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

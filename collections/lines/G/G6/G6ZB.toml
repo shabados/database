@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗੇ ਹੋਏ ਮਨੁੱਖ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੇ = ਨਾਮ ਵਿਚ ਹੀ। ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

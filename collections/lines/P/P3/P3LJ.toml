@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੂੰ ਜਗਤ ਵਿਚ ਇਕ) ਪਰਾਹੁਣਾ ਹੈਂ ਜਿਸ ਨੂੰ ਰੋਜ਼ ਦਾ ਤਿੰਨ ਸੇਰ (ਕੱਚੇ ਆਟਾ ਆਦਿਕ) ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਹਮਾਨੁ = ਪਰਾਹੁਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਕੋਈ ਜੀਵ ਜੰਮਦਾ ਹੈ ਤਾਂ ਉਸ ਦੇ) ਜੰਮਣ ਤੇ ਵਾਜੇ ਵੱਜਦੇ ਹਨ, ਵਧਾਈਆਂ ਮਿਲਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਜਹਿ = ਵੱਜਦੇ ਹਨ (ਵਾਜੇ)। ਵਾਧਾਏ = ਵਧਾਈਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

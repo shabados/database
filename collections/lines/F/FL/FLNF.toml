@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਸ ਨੇ) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਕਦੇ ਨਾਹ ਡੋਲਣ ਵਾਲਾ ਹਿਰਦਾ-ਘਰ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਨਿਹਚਲੁ ਘਰੁ = ਕਦੇ ਨਾਹ ਡੋਲਣ ਵਾਲਾ ਹਿਰਦਾ-ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

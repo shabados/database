@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਜਗਤ ਵਿਚ) ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ, ਇਹ ਸਭ ਕੁਝ ਸਿਰਫ਼ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਸੈ = ਦਿੱਸ ਰਿਹਾ ਹੈ। ਏਕੋ ਤੂ ਹੈ = ਸਿਰਫ਼ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ (ਦੇ ਧੰਧਿਆਂ) ਵਿਚ (ਮਨੁੱਖ ਨੂੰ ਕੋਈ ਨ ਕੋਈ) ਸਹਮ ਨੱਪੀ ਹੀ ਰੱਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰੈ ਮਹਿ = ਜਗਤ ਦੇ ਧੰਧਿਆਂ ਵਿਚ। ਸਹਸਾ = ਸਹਮ। ਵਿਆਪੈ = ਜ਼ੋਰ ਪਾਈ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

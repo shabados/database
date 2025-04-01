@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਪਹੁੰਚ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ਇਹ ਸੰਸਾਰ ਤੇਰੀ ਸਚ-ਮੁਚ ਦੀ ਰਚੀ ਹੋਈ ਇਕ ਖੇਡ ਹੈ (ਇਹ ਅਸਲੀਅਤ) ਤੈਥੋਂ ਬਿਨਾ ਕੋਈ ਸਮਝਾ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ {अगम्य}। ਅਪਾਰਾ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

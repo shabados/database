@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਮੂਰਖ ਅੰਨ੍ਹੇ ਜੀਵ (ਭਲਾਈ ਵਿਸਾਰਨ ਵਾਲੇ) ਇਹੋ ਜਿਹੇ ਔਗੁਣਾਂ ਵਿਚ ਫਸੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਖ = ਮੰਦੇ ਕਰਮ। ਮੂੜ = ਮੂਰਖ ਜੀਵ। ਬਿਆਪੇ = ਫਸੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

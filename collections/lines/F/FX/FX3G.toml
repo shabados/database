@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਿਕ-ਪ੍ਰਭੂ! ਮੇਰੀਆਂ ਜ਼ਿੰਦਗੀ ਦੀਆਂ ਵਧਦੀਆਂ ਖ਼ਾਹਸ਼ਾਂ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲਬ = ਖ਼ਾਹਸ਼ਾਂ, ਵਧੀਆਂ ਲੋੜਾਂ। ਸੁਆਮੀ = ਹੇ ਮਾਲਿਕ-ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

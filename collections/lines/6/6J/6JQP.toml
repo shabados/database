@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਆਪਣੇ ਸਰੀਰ ਉਤੇ ਹਾਰ ਰੇਸ਼ਮੀ ਕਪੜਾ ਆਦਿਕ ਹੰਢਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜੁ = {सर्जु} ਹਾਰ। ਕਾਇਆ = ਸਰੀਰ। ਪਟੁ = ਰੇਸ਼ਮੀ ਕੱਪੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

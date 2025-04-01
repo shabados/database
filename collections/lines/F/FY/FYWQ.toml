@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੂਲ੍ਹਾ ਕਿਥੇ ਪਹਾੜਾਂ ਤੇ ਭਉਂ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿੰਗੁਲ = ਲੂਲ੍ਹਾ। ਪਰਭਵਨ = (Skt. प्रभवन) ਭੌਣਾ, ਫਿਰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

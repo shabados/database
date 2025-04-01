@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਕੋਈ ਵਡ-ਭਾਗੀ ਮਨੁੱਖ) ਸਾਧ ਸੰਗਤ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

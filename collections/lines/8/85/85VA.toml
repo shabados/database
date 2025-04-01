@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈਂ ਤੂੰ ਬਹੁਤ ਵੱਡਾ ਹੈਂ, ਤੂੰ ਉਹ ਕਰਦਾ ਹੈਂ ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋ ਕਰਹਿ = ਤੂੰ ਉਹ ਕੁਝ ਕਰਦਾ ਹੈਂ। ਜਿ = ਜਿਹੜਾ ਕੰਮ। ਭਾਵੀਸ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

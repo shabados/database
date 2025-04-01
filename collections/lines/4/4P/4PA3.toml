@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਸਰਣ ਪਿਆਂ (ਤੇਰਾ ਪੱਲਾ ਫੜਿਆਂ) ਕੋਈ ਡਰ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਵਿਆਪੈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

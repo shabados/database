@@ -36,6 +36,12 @@ language = "pa"
 data = "ਐਸਾ ਮਨੁੱਖ (ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਆਪਣੀ ਅੰਦਰਲੀ ਆਤਮਕ ਹਾਲਤ ਸਮਝ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਆਤਮਕ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

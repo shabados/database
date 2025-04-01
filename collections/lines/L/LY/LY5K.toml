@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਨਕ ਆਖਦਾ ਹੈ-ਇਹ ਬਚਨ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਹੀ ਪ੍ਰਤੱਖ ਤੌਰ ਤੇ ਅਟੱਲ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਅਟੱਲ। ਪਰਗਟ = ਪ੍ਰਤੱਖ ਤੌਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

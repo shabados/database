@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਤੂੰ ਮੇਰਾ ਦਾਤਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾ = ਹੇ ਕਰਤਾਰ! ਜਜਮਾਨ = ਦਾਤਾ (ਨੋਟ: ਯਜਮਾਨ = ਉਹ ਜੋ ਯੱਗ ਆਦਿਕ ਬ੍ਰਾਹਮਣ ਪਾਸੋਂ ਕਰਾ ਕੇ ਉਸ ਨੂੰ ਧਨ-ਪਦਾਰਥ ਭੇਟਾ ਕਰਦਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

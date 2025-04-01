@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਹੇ ਪੰਡਿਤ!) ਤੂੰ (ਸੱਚ-ਮੁੱਚ) ਬ੍ਰਾਹਮਣ ਹੈਂ ਤੇ ਬ੍ਰਾਹਮਣੀ ਦੇ ਪੇਟੋਂ ਜੰਮਿਆ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੌ = ਜੇਕਰ। ਬ੍ਰਹਮਣੀ ਜਾਇਆ = ਬ੍ਰਾਹਮਣੀ ਤੋਂ ਜੰਮਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

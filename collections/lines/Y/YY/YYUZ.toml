@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੱਥੇ ਇਹ ਸਾਰੇ ਲੋਕ ਆਖਦੇ ਹਨ, ਚੱਲਣਾ ਹੈ, ਚੱਲਣਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਨੁ ਜਾਨੁ = ਚੱਲਣਾ ਹੈ, ਚੱਲਣਾ ਹੈ। ਤਹਾ ਹੀ = ਓਥੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

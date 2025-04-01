@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਲਫ਼ਜ਼ਾਂ ਦੇ ਵਖੋ-ਵਖ ਭਾਵ ਹੋ ਸਕਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਚਾਰ = ਅਰਥ, ਭਾਵ, ਵੱਖੋ-ਵੱਖ ਭਾਵ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

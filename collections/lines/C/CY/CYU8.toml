@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਅਨੰਤ ਵਿਚ ਵਿਚਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲਾਮਕਾਨੇ ਸੈਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੩।"
+page = 10
+line = 143
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

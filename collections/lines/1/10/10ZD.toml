@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਵਿਸ਼ਈ ਹਨ, ਚੋਰ ਹਨ, ਮਹਾ ਨਿੰਦਕ ਹਨ, ਉਹਨਾਂ ਦੇ ਸਾਥ ਵਿਚ ਇਸ ਦੀ ਉਮਰ ਬੀਤਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੰਪਟ = ਵਿਸ਼ਈ। ਬਿਹਾਇ = ਉਮਰ ਬੀਤਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

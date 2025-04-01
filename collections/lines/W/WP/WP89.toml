@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਜਿਧਰ ਵੀ ਦੇਖਦਾ ਹਾਣ, ਉਸ ਦੇ ਹੁਸਨ ਜਮਾਲ ਦਾ ਜਲਵਾ ਮਿਲਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਰ ਸੂਇ ਕਿ ਮੀ ਬੀਨਮ ਜਮਾਲਸ਼ ਜਲਵਾਗਰ ਬਾਸ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਕੋਈ ਰੂਪ ਰੇਖ ਨਹੀਂ ਸੀ ਤਦੋਂ ਸ਼ਬਦ ਨੇ ਕਿਥੇ ਲਿਵ ਲਾਈ ਹੋਈ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

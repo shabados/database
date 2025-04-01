@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ (ਮਾਨੋ) ਸਾਰੇ ਹੀ ਖ਼ਜ਼ਾਨੇ ਮਿਲ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਏ = ਪ੍ਰਾਪਤ ਹੋ ਗਏ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

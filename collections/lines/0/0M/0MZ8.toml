@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰ ਥਾਂ ਪ੍ਰਭੂ ਆਪ ਹੀ ਆਪ ਹੈ, ਆਪ ਹੀ (ਜਗਤ ਨੂੰ) ਪੈਦਾ ਕਰ ਕੇ ਆਪ ਹੀ ਨਾਸ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ। ਥਾਪਿ = ਪੈਦਾ ਕਰ ਕੇ। ਉਥਾਪੈ = ਨਾਸ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

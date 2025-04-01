@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਹੀ (ਸ੍ਰਿਸ਼ਟੀ) ਪੈਦਾ ਕਰਦਾ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ) ਕੋਈ ਹੋਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜੇ = ਪੈਦਾ ਕਰਦਾ ਹੈ। ਅਵਰੁ = ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

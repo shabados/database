@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਜਦ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਕਰ ਕੇ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਹਮਾ ਚੂੰ ਅਜ਼ ਤੁਫ਼ੈਲਿ ਮੁਰਸ਼ਦ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

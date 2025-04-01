@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਜਗਤ ਨੂੰ ਤੂੰ ਇਉਂ ਹੀ ਸਮਝ (ਕਿ ਇਥੇ) ਜ਼ਿੰਦਗੀ ਤਕ ਹੀ ਵਰਤਣ-ਵਿਹਾਰ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਤ ਲਉ = ਜ਼ਿੰਦਗੀ ਤਕ। ਲਉ = ਤਕ। ਬਿਉਹਾਰੁ = ਵਰਤਣ-ਵਿਹਾਰ। ਜਗ ਕਉ = ਜਗਤ ਨੂੰ। ਜਾਨਉ = ਜਾਨਹੁ, ਸਮਝੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

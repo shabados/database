@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੰਨ ਨਾਲ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਸੁਣਦਾ ਹਾਂ), ਅੱਖਾਂ ਨਾਲ ਹਰੀ ਦਾ ਦਰਸਨ (ਕਰਦਾ ਹਾਂ) ਜੀਭ ਨਾਲ ਹਰੀ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨਿ = ਕੰਨ ਨਾਲ। ਨੇਤ੍ਰ = ਅੱਖਾਂ ਨਾਲ। ਰਸਨਿ = ਜੀਭ ਨਾਲ। ਗਾਉ = ਗਾਉਂ, ਮੈਂ ਗਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਚਮਕਦੀ ਧੁੱਪ ਵਿਚ (ਜੀਵ-ਜੰਤ) ਤਪਦੇ-ਲੁੱਛਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਪਤੇ = ਤਪਦੇ ਹਨ। ਨਿਰਮਲ = ਸਾਫ਼। ਘਾਮਾ = ਗਰਮੀ, ਧੁੱਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

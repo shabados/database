@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਸ ਭੀ ਮਨੁੱਖ ਕੋਲ (ਆਪਣੇ ਦੁੱਖ ਦੀ) ਗੱਲ ਕਰਦਾ ਹਾਂ, ਉਹ ਆਪਣੇ ਦੁੱਖ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਦਿੱਸਦਾ ਹੈ (ਉਹ ਮੇਰਾ ਦੁੱਖ ਕੀਹ ਨਿਵਿਰਤ ਕਰੇ?)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿ = ਪਾਸ, ਕੋਲ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ। ਦੁਖਿ = ਦੁੱਖ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰ ਥਾਂ ਪ੍ਰਭੂ ਆਪ ਹੀ ਆਪ ਮੌਜੂਦ ਹੈ, ਉਹ ਆਪ ਹੀ (ਜੀਵਾਂ ਨੂੰ) ਆਪਣੇ ਨਾਮ ਵਿਚ ਜੋੜਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ = ਨਾਮ ਵਿਚ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

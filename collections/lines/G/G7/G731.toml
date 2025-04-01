@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸਖੀਹੋ! ਹੇ ਮੇਰੀ ਪਿਆਰੀ ਸਹੇਲੀਹੋ! ਆਓ, ਅਸੀਂ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਚਰਣਿ = ਦੇ ਚਰਨ ਵਿਚ {ਇਕ-ਵਚਨ}। ਲਗਹ = ਆਓ, ਅਸੀਂ ਲੱਗੀਏ {ਵਰਤਮਾਨ, ਉੱਤਮ ਪੁਰਖ, ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

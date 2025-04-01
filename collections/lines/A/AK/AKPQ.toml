@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਤ (ਕਥਾ ਸੁਣਾਂਦੇ) ਮੁੜ ਮੁੜ ਖੁੰਝ ਕੇ ਮਾਇਆ ਵਲ ਹੀ ਤੱਕਦੇ ਹਨ ਕਿ ਵੇਖੀਏ ਕਿਸੇ ਨੇ ਕੁਝ ਲਿਆ ਕੇ ਭੇਟਾ ਰੱਖੀ ਹੈ (ਜਾਂ ਨਹੀਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਖਾ = ਦੇਖੀਏ। ਕਿਹੁ = ਕੁਝ। ਆਣਿ = ਲਿਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

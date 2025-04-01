@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਲ ਇਹ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰੀਏ ਤੇ ਇੱਜ਼ਤ ਖੱਟੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵੀਐ = ਸਿਮਰੀਏ। ਮਾਨੁ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

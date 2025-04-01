@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸੇ ਦੀ ਹੀ ਪ੍ਰਾਪਤੀ ਦਾ ਜਤਨ ਕਰਦਾ ਹੈ ਜੋ ਸਾਥ ਛੱਡ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡਿ ਜਾਇ = ਜੋ ਸਾਥ ਛੱਡ ਜਾਂਦੀ ਹੈ। ਤਾਹੂ ਕਾ = ਉਸੇ (ਮਾਇਆ) ਦਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

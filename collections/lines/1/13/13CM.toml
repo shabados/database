@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਖ, ਹੇ ਨਾਨਕ! ਉਸ ਮਨੁੱਖ ਦੀ ਸੋਹਣੀ ਸੋਭਾ ਖਿਲਰਦੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਇ = ਸੋਭਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

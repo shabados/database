@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਨੇ ਹਰ ਭਿਖਾਰੀ ਨੂੰ ਬਾਦਸ਼ਾਹ ਬਣਾ ਗਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਗਦਾ ਰਾ ਸੁਹਬਤਿ ਸ਼ਾਣ ਸ਼ਾਹ ਕਰਦ ।੧੭੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

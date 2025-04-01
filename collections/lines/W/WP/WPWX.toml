@@ -5,6 +5,11 @@ language = "pa"
 data = "ਖੰਡ ਦੇ ਪਤਾਸੇ ਦਾ ਤੇਰੇ ਤੰਗ ਮੂੰਹ ਦੀ ਖੁਬਸੂਰਤੀ ਨਾਲ ਕੋਈ ਮੁਕਾਬਲਾ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਿਸਲਿ ਦਹਾਨਿ ਤੰਗਿ ਤੂ ਤੰਗ ਸ਼ਕਰ ਨ ਬਾਸ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

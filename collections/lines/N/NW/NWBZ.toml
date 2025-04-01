@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਹਰੀ ਨੇ ਜੀਵ ਪੈਦਾ ਕੀਤੇ ਹਨ, ਉਸੇ ਨੇ ਉਹਨਾਂ ਦੀ ਰੱਖਿਆ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਤਿਨਿ = ਉਸੇ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

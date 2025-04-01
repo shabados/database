@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਗੱਲ ਸੱਚ ਹੈ ਕਿ ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਤਮਾ ਦੀ ਅਸਲੀਅਤ ਨੂੰ ਨਹੀਂ ਪਛਾਣਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਮਨੁੱਖ ਨੇ। ਤਤੁ = ਅਸਲੀਅਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

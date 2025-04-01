@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ ਜੰਮਿਆ ਹੋਇਆ ਉਹੀ ਮਨੁੱਖ ਕਾਮਯਾਬ ਜੀਵਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁ = ਉਹ ਮਨੁੱਖ। ਸਫਲ = ਕਾਮਯਾਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

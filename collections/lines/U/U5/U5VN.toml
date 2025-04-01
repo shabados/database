@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਗਤ ਜਾਣਦੇ ਹਨ ਕਿ) ਪਰਮਾਤਮਾ ਆਪਣੇ ਭਗਤ ਨੂੰ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਇੱਜ਼ਤ ਦੇਂਦਾ ਹੈ ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇ = ਦੇਂਦਾ ਹੈ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

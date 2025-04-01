@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ (ਜਾ ਕੇ) ਪੰਡਿਤਾਂ ਨੂੰ ਪੁੱਛਦਾ ਹਾਂ ਤਾਂ ਉਹ ਭੀ ਮਾਇਆ ਦੇ ਰੰਗ ਵਿਚ ਰੰਗੇ ਹੋਏ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = {ਬਹੁ-ਵਚਨ}। ਪੂਛਉ = ਪੂਛਉਂ, ਮੈਂ ਪੁੱਛਦਾ ਹਾਂ। ਰਾਤੇ = ਮਸਤ, ਰੰਗੇ ਹੋਏ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

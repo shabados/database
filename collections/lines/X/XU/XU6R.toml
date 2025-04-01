@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਹਿਰਦੇ ਵਿਚ ਗਰੀਬੀ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮਗਿਆਨੀ ਕੈ = ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ। ਸਮਾਹਾ = ਸਮਾਈ ਹੋਈ ਹੈ, ਟਿਕੀ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

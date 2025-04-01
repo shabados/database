@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਨਾਲ ਰੱਤੇ ਰਿਹਾਂ (ਮਨੁੱਖ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਵਿਚ ਨਹੀਂ ਸੜਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਹਿ = (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ (ਵਿਚ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

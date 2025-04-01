@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ (ਵਿਚਾਰਾ) ਤੇਰੇ ਕੌਤਕ-ਤਮਾਸ਼ੇ ਸਮਝ ਨਹੀਂ ਸਕਦਾ ॥੪॥੨੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਜ = ਕੌਤਕ, ਤਮਾਸ਼ੇ ॥੪॥੨੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

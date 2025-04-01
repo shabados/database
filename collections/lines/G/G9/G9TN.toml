@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੀ ਉਸ ਨੂੰ ਮੈਂ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾ ਸਕਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਨਿ = ਮਨ ਵਿਚ। ਵਸਾਈ = ਵਸਾਈ, ਮੈਂ ਵਸਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

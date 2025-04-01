@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਹਾਲ ਵਿਚ ਰੱਬ ਰੱਖੇ, ਉਹੀ ਠੀਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਣ ਕਿ ਦਰ ਹਰ ਹਾਲ ਹੱਕ ਦਾਰਦ ਰਵਾ-ਸਤ ।੧੧੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

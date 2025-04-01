@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਸਿਫਤ ਕਰ, ਐ ਮੇਰੀ ਜਾਨ # ਹੋਰ ਕੁਝ ਨ ਕਹੁ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਦਿ ਹੱਕ ਗੋ ਦਿਗਰ ਮਗੋ ਐ ਜਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

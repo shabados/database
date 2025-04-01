@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਸਭ ਜੀਵ) ਤੇਰੇ ਹੀ ਸਹਾਰੇ ਹਨ, ਤੇਰੇ ਹੀ ਗੁਣ ਗਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਹਿ = (ਜਿਹੜੇ ਮਨੁੱਖ) ਗਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਅਨੇਕਾਂ ਤਾਕਤਾਂ ਹਨ, ਕਿਸੇ ਦਾ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

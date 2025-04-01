@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਤੂੰ ਭੀ ਪਰਮਾਤਮਾ ਦੇ) ਸੋਹਣੇ ਚਰਨ (ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਜਪਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੁ = ਜਪਦਾ ਰਹੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

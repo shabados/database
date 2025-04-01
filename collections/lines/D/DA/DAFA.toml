@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਤੇ, ਹੇ ਜੀਵ!) ਸ਼ਰਮ ਨਾਲ ਕਿਉਂ ਨਹੀਂ ਡੁੱਬ ਮਰਦਾ (ਭਾਵ, ਤੂੰ ਝੱਕਦਾ ਕਿਉਂ ਨਹੀਂ) ਜਦੋਂ ਤੂੰ ਇਹ ਆਖਦਾ ਹੈਂ ਕਿ ਇਹ ਘਰ ਮੇਰਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਜ = ਸ਼ਰਮ। ਕਹਹੁ = ਤੁਸੀ ਆਖਦੇ ਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

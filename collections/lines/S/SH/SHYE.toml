@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਚੰਦਨ ਦਾ ਨਿੱਕਾ ਜਿਹਾ ਭੀ ਬੂਟਾ ਚੰਗਾ ਜਾਣੋ, ਭਾਵੇਂ ਉਹ ਢਾਕ ਪਲਾਹ ਆਦਿਕ ਵਰਗੇ ਰੁੱਖਾਂ ਨਾਲ ਘਿਰਿਆ ਹੋਇਆ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਵਾ = ਨਿੱਕਾ ਜਿਹਾ ਬੂਟਾ। ਬੇੜ੍ਹ੍ਹਿਓ = ਵੇੜ੍ਹਿਆ ਹੋਇਆ ਘਿਰਿਆ ਹੋਇਆ। ਪਲਾਸ = ਪਲਾਹ, ਛਿਛਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

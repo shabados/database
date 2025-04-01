@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੈਾ ਤੈਨੂੰ ਇਸ ਲਈ ਪੈਦਾ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਤੁਰਾ ਆਫ਼ਰੀਦਮ ਅਜ਼ ਪਏ ਆਂ ।"
+page = 1
+line = 48
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

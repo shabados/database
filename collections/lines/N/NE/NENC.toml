@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ, ਇਹੋ ਹੀ ਸੇਵਕਾਂ ਦਾ ਸਦਾ ਆਹਰ ਹੁੰਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ। ਜਨ ਕੈ = ਸੇਵਕ ਦੇ ਹਿਰਦੇ ਵਿਚ। ਕਾਮ = ਕੰਮ, ਆਹਰ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

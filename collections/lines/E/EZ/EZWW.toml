@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਕਹਿੰਦਾ ਹੈ-ਹੇ ਸੰਤ ਜਨੋ! ਸੁਣੋ, (ਕੋਈ ਜੀਵ ਭੀ ਮਰਨ ਵੇਲੇ) ਕੋਈ ਹੋਰ ਧਨ-ਪਦਾਰਥ ਆਪਣੇ ਨਾਲ ਨਹੀਂ ਲੈ ਜਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲਬ = ਸੱਦਾ। ਮੰਦਰ = ਘਰ। ਅਨੁ ਧਨੁ = ਕੋਈ ਹੋਰ ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

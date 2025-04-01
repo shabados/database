@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਇੱਕੋ ਨਿਗਾਹ ਜਿਹੜੀ ਉਮਰਾਣ ਵਧਾ ਦਿੰਦੀ ਹੈ, ਸਾਨੂੰ ਬਥੇਰੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਨਿਗਾਹਿ ਜਾਂ-ਫਿਜ਼ਾਇਸ਼ ਬਸ ਬਵਦ ਦਰਕਾਰਿ ਮਾ ।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

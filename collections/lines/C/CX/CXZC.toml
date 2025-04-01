@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋੜ ਜੋੜ ਕੇ (ਇਸ ਨਾਲ) ਹਿਤ ਵਧਾਂਦੇ ਹਨ (ਤੇ ਜੇ ਦਾਉ ਲੱਗੇ ਤਾਂ) ਦੂਜਿਆਂ ਦੇ ਧਨ (ਭੀ) ਚੁਰਾ ਲੈਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ ਕਰਿ = ਸੰਚ ਸੰਚ ਕੇ, ਜੋੜ ਜੋੜ ਕੇ। ਹੇਤੁ = (ਮਾਇਆ ਨਾਲ) ਹਿਤ। ਪਰ = ਪਰਾਇਆ। ਦਰਬੁ = ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਜੀਵ) ਜਮ ਦੇ ਦਰ ਤੇ ਬੱਧਾ ਹੋਇਆ ਵਿਅਰਥ ਹੀ ਆਤਮਕ ਮੌਤੇ ਮਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = ਦਰ ਤੇ। ਬਾਧਉ = ਬੱਝਾ ਹੋਇਆ। ਮਰੈ = ਆਤਮਕ ਮੌਤ ਮਰਦਾ ਹੈ। ਬਿਕਾਰੁ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

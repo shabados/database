@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਅਨੇਕਾਂ ਜੂਨਾਂ ਅਨੇਕਾਂ ਜਨਮਾਂ ਵਿਚ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮੇ = ਭਟਕਦੇ ਹਨ। ਮਾਹਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

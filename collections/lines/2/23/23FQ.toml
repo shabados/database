@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਭ ਸਭ ਸ਼ਾਹਾਂ ਤੋਂ ਵੱਡਾ ਅਤੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਸ਼ਾਹ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਸਾਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

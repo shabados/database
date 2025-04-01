@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਭਗਤ ਤੇਰੀ ਕਿਰਪਾ ਨਾਲ) ਤੇਰੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ। (ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਭਗਤ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੀ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

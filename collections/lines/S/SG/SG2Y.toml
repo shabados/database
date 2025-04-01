@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਭਾਈ! ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ? ਜੀਵ ਉਹੀ ਕੁਝ ਕਰਦਾ ਹੈ ਜੋ ਪਰਮਾਤਮਾ ਉਸ ਤੋਂ ਕਰਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤਾ ਹੋਵੈ = ਜੋ ਪ੍ਰਭੂ ਦਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਜੀਵ। ਕਿਆ ਕਹੀਐ = ਕੀਹ ਗਿਲਾ? ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

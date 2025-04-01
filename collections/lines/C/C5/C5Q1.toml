@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਗਲੀ ਦੇ ਮੰਗਤੇ ਨੂੰ ਬਾਦਸ਼ਾਹੀ ਦੀ ਇੱਛਾ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਦਾਇ ਕੂਇ ਤੁਰਾ ਮੈਲਿ ਬਾਦਸ਼ਾਹੀ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

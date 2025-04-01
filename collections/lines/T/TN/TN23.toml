@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕਾਂ ਨੂੰ ਲੁਟਾਂਦੇ ਹਨ ਉਹਨਾਂ ਦੀ ਚੁਗ਼ਲੀ (ਹਾਕਮਾਂ ਪਾਸ) ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹਾਵਹਿ = ਲੁਟਾਂਦੇ ਹਨ। ਚਾੜੀ = ਚੁਗ਼ਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

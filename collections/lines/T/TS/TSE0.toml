@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਪਰਮਾਤਮਾ ਤੋਂ ਵਿੱਛੁੜਿਆ ਮਨੁੱਖ) ਮਾਇਆ ਦੀ ਫਾਹੀ ਵਿਚ ਮਾਇਆ ਦੇ ਬੰਧਨ ਵਿਚ ਹੀ ਬੱਝਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਨਿ = ਬੰਧਨ ਵਿਚ। ਫਾਸ = ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

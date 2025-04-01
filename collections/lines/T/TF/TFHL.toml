@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਅੰਮ੍ਰਿਤ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ, (ਇਹ ਨਾਮ-ਅੰਮ੍ਰਿਤ) ਸਾਰੇ ਰਸਾਂ ਦਾ ਸੋਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਿਉ = ਨਾਮ-ਅੰਮ੍ਰਿਤ। ਰਸਾਇਣੁ = {रस अय} ਰਸਾਂ ਦਾ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

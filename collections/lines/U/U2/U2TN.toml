@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਸੇਵਕ ਸਭ ਦਾ ਭਲਾ ਮੰਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭ = ਭਲਾਈ, ਸਭ ਦੀ ਭਲਾਈ। ਚਿਤਵਨਿ = ਚਿਤਵਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਇਸ ਤਰ੍ਹਾਂ ਤਾਂ) ਮੈਂ ਮਜ਼ਹਬ ਛੱਡ ਕੇ ਦੌਲਤ ਇਕੱਠੀ ਕਰਦਾ ਹਾਂ ॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਉ = ਇਕੱਠੀ ਕਰਾਂ ॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ (ਇਤਨਾ ਦਿਆਲ ਹੈ ਕਿ ਮੇਰੇ ਵਰਗੇ) ਅੰਨ੍ਹੇ ਨੂੰ ਦਿਨ ਰਾਤ (ਗਿਆਨ ਦਾ) ਦੀਵਾ ਬਖ਼ਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਦੀਪਕੁ = ਦੀਵਾ। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

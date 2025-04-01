@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਮਨੁੱਖ (ਕਿਸੇ ਨੂੰ ਹਾਨੀ ਪੁਚਾਣ ਵਾਸਤੇ) ਝੂਠ ਬੋਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੁ = ਝੂਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

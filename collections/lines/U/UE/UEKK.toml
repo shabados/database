@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗੋਵਿੰਦ! ਹੇ ਮੇਰੇ ਪਿਆਰੇ! ਮੈਂ ਸਦਕੇ, ਮੈਂ ਤੈਥੋਂ ਸਦਾ ਸਦਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰੀ = ਸਦਕੇ, ਕੁਰਬਾਨ। ਹਉ = ਮੈਂ। ਵਿਟੜਿਅਹੁ = ਤੋਂ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

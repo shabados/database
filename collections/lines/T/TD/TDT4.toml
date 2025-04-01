@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗੇ ਹੋਏ ਮਨੁੱਖ (ਆਪਣੀਆਂ ਸਾਰੀਆਂ) ਕੁਲਾਂ ਦਾ (ਭੀ) ਪਾਰ-ਉਤਾਰਾ ਕਰ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਰਤੇ = ਰੰਗੇ ਹੋਏ। ਕਰਹਿ = ਕਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਉਧਾਰੁ = ਪਾਰ-ਉਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

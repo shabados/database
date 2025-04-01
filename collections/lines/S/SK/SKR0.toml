@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਬ੍ਰਹਮੇ ਤੇ ਸਿੰਘਾਸਨਾਂ ਵਾਲੇ ਕਈ ਇੰਦਰ ਤੈਨੂੰ ਧਿਆਉਂਦੇ ਹਨ, ਹੇ ਹਰੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ੍ਰਾਸਣਾ = ਇੰਦ੍ਰ ਦੇ ਆਸਣ ਵਾਲੇ। ਸੰਕਰ = ਸ਼ਿਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

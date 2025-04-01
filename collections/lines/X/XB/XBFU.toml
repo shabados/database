@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਮੈਂ ਗਾਂ ਮਹਿੰ ਲਵੇਰੀ (ਭੀ) ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਵੇਰੀ = ਦੁੱਧ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

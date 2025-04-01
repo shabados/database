@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿੳਂਕਿ) ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਸੁਣਨ ਕਰ ਕੇ (ਮਨੁੱਖ ਦੇ) ਦੁੱਖਾਂ ਤੇ ਪਾਪਾਂ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

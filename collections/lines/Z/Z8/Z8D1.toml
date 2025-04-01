@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਹੀਣ ਤਾ ਭਲਾ ਮੈਨੂੰ ਇਸ ਨੀਲੇ ਗੁੰਬਦ (ਅਸਮਾਨ, ਦੁਨੀਆ) ਤੋਣ ਕੀ ਫਾਇਦਾ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਹਾਸਲ ਅਸਤ ਅਜ਼ੀਣ ਗੁੰਬਦਿ ਕਬੂਦ ਮਰਾ ।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

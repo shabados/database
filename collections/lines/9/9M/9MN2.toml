@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਮੇਰੇ ਵਿਚ) ਹਜ਼ਾਰਾਂ ਤੇ ਲੱਖਾਂ ਚਤੁਰਾਈਆਂ ਹੋਵਣ, (ਤਾਂ ਭੀ ਉਹਨਾਂ ਵਿਚੋਂ) ਇਕ ਭੀ ਚਤੁਰਾਈ ਸਾਥ ਨਹੀਂ ਦੇਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸ = ਹਜ਼ਾਰਾਂ। ਸਿਆਣਪਾ = ਚਤੁਰਾਈਆਂ। ਹੋਹਿ = ਹੋਵਣ। ਇਕ = ਇਕ ਭੀ ਚਤੁਰਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

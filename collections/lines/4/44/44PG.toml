@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦੇ! ਬਾਲਕ ਹੋਵੇ, ਬੁੱਢਾ ਹੋਵੇ, ਚਾਹੇ ਜੁਆਨ ਹੋਵੇ, ਮੌਤ ਸਭਨਾਂ ਨੂੰ ਹੀ ਇੱਥੋਂ ਲੈ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰੇ = ਬਾਲਕ। ਤਰੁਨੇ = ਜੁਆਨ। ਭਈਆ = ਹੇ ਭਾਈ! ਭ ਹੂ = ਸਾਰਿਆਂ ਨੂੰ ਹੀ। ਲੈ ਜਈ ਹੈ = ਲੈ ਜਾਇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

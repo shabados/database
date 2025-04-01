@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੀਆਂ ਬੇ-ਅੰਤ ਮੌਜਾਂ ਹੁੰਦਿਆਂ ਭੀ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਹ ਨਹੀਂ ਬੁੱਝਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਿਕ ਮਾਇਆ ਰੰਗ = ਮਾਇਆ ਦੇ ਅਨੇਕ ਰੰਗ, ਮਾਇਆ ਦੀਆਂ ਅਨੇਕਾਂ ਮੌਜਾਂ (ਹੁੰਦਿਆਂ ਭੀ)। ਤਿਖ = ਤ੍ਰਿਹ, ਮਾਇਆ ਦੀ ਤ੍ਰਿਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

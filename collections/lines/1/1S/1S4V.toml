@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸ਼ਹਿਰ ਸਦਾ ਉੱਘਾ ਹੈ ਤੇ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਬਾਦਾਨੁ = ਆਬਾਦ, ਵੱਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

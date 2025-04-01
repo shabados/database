@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਆਪਣੇ ਮਨ ਵਿਚ ਸਾਂਭ ਕੇ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖੀ = ਸਿੱਖਿਆ। ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

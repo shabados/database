@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣ। ਮੈਂ (ਤੇਰੇ ਚਰਨਾਂ ਦੀ) ਧੂੜ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਤੋਂ। ਬਲਿ ਜਾਈ = ਜਲਿ ਜਾਈਂ, ਮੈਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

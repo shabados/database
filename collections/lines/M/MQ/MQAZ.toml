@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਪਾਪੀ ਹਾਂ, ਗੁਣ-ਹੀਨ ਹਾਂ, ਆਜਿਜ਼ ਹਾਂ, (ਪਰ ਫਿਰ ਭੀ) ਤੇਰੇ ਹਾਂ; ਹੇ ਦਇਆ ਦੇ ਘਰ ਹਰੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ = ਆਜਿਜ਼, ਅਨਾਥ, ਗਰੀਬ, ਨਿਮਾਨਾ। ਦੈਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

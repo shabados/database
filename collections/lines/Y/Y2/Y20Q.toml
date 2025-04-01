@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਜਪੋ, ਨਾਮ ਹੀ ਜਪੋ-ਗੁਰੂ ਇਹ ਪੂਜਾ ਕਰਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮ ਹੀ, ਨਾਮ ਜਪਣਾ ਹੀ। ਪੂਜ = ਪੂਜਾ। ਕਰਾਈ = (ਗੁਰੂ) ਕਰਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

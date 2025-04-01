@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਵਿਚ ਕੀਤੀਆਂ) ਸਾਰੀਆਂ ਚਤੁਰਾਈਆਂ ਸੁਆਹ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, ਜਗਤ ਤੋਂ ਜੀਵ ਦੁਖੀ ਹੋ ਕੇ ਹੀ ਤੁਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੀਆਂ। ਰੋਇ = ਦੁਖੀ ਹੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

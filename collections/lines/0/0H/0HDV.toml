@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਕਰਤਾਰ ਨੇ ਆਪ ਹੀ ਜਗਤ ਪੈਦਾ ਕਰ ਕੇ ਇਸ ਦੀ ਸੰਭਾਲ ਦਾ ਫ਼ਰਜ਼ ਭੀ ਪਛਾਣਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਕਰਤਾਰ) ਨੇ। ਉਪਾਇ = ਪੈਦਾ ਕਰ ਕੇ। ਪਛਾਤਾ = ਸੰਭਾਲ ਕੀਤੀ ਹੈ, ਸੰਭਾਲ ਦਾ ਫ਼ਰਜ਼ ਪਛਾਣ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

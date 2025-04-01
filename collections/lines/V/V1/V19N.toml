@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ-ਸੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਸ ਮਨੁੱਖ ਨੇ ਨਾਸ-ਰਹਿਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਪ੍ਰਸਾਦਿ = ਗੁਰੂ-ਸੰਤ ਦੀ ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

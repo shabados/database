@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ) ਹੇ ਨਾਨਕ! ਇਕ ਕਰਤਾਰ ਹੀ (ਹਰ ਥਾਂ) ਦਿੱਸ ਰਿਹਾ ਹੈ, ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆ = ਕੋਈ ਹੋਰ। ਪਸੀਐ = ਵੇਖੀਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

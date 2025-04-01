@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਮੇਰੇ ਲਈ ਅੱਗੋਣ ਤੋਣ ਸਵੇਰ ਦੀ ਨੀਣਦ ਹਰਾਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਹਰਾਮ ਕਰਦਮ ਅਜ਼ ਆਇੰਦਾ ਖ਼ਾਬਿ ਸੁਬਹਾ ।੧੭।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

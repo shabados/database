@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਪੂਰਨ ਸਤਿਗੁਰੂ ਤੋਂ ਜਾਣੂ ਹੋ ਜਾਵੇਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਕਿਫ਼ ਅਰ ਅਜ਼ ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

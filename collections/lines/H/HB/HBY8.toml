@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੀ) ਭੈੜੀ ਮਤਿ ਤਿਆਗ ਕੇ ਕੁਝ ਆਤਮਕ ਲਾਭ ਭੀ ਖੱਟੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਭੈੜੀ ਮਤਿ। ਤਿਆਗਿ = ਛੱਡ ਕੇ। ਲਾਹਾ = ਲਾਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

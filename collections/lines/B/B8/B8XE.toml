@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਚੇ ਮਾਲਿਕ! ਵੇਖ, (ਤੈਥੋਂ ਵਿਛੁੜ ਕੇ) ਇਹ ਹੈ ਅਸਾਡਾ ਜੀਊਣ (ਦਾ ਹਾਲ) ॥੩੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ॥੩੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

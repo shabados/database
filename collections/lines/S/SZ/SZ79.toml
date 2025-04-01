@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਬਿਨਾਣ ਅੱਖਾਣ ਦੇ ਵੇਖ, ਜੋ ਕੁਝ ਵੀ ਤੂੰ ਵੇਖਣਾ ਚਲਹੁੰਦਾ ਹੈਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਦੀਦਾ ਬਿਬੀਣ ਹਰ ਆਣ ਚਿਹ ਦੀਦਨ ਦਾਰੀ ।੧੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

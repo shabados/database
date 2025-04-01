@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਭੀ ਲੋਕ ਪੁੰਨ-ਪਾਪ ਵਿਚ ਰੁੱਝੇ ਪਏ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਰ = ਚੰਗੇ (ਕੰਮ)। ਅਚਾਰ = {ਅ-ਚਾਰ} ਮੰਦੇ ਕੰਮ। ਰਹੇ ਉਰਝਾਇ = ਉਲਝ ਰਹੇ ਹਨ, ਫਸ ਰਹੇ ਹਨ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

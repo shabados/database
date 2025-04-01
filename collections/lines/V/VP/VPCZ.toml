@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਹਿਰਦਾ ਥਾਂ ਸੋਹਣਾ ਬਣ ਜਾਂਦਾ ਹੈ ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਦੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨੁ = ਹਿਰਦਾ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

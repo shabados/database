@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਜਿਵੇਂ ਪਾਰਸ ਨਾਲ ਲੱਗ ਕੇ ਲੋਹਾ ਸੋਨਾ ਬਣ ਜਾਂਦਾ ਹੈ ਤਿਵੇਂ ਸੰਗਤਿ ਵਿਚ ਰਲ ਕੇ (ਉਹ ਭੀ ਚੰਗੇ ਬਣ ਜਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਸਿ = ਪਾਰਸ ਨਾਲ। ਸੁਵਰਨੁ = ਸੋਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

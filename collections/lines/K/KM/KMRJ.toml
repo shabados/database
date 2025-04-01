@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਨਜ਼ਰ ਤੋਂ (ਸਭ ਉਤੇ) ਅੰਮ੍ਰਿਤ ਦੀ ਵਰਖਾ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਸੀ = ਵਰਖਾ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

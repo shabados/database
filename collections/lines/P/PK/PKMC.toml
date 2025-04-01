@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਿਸੇ ਹੋਰ ਤੋਂ ਸਾਲਾਹ ਨਹੀਂ ਪੁੱਛਦਾ। ਮੈਂ ਕਿਸੇ ਹੋਰ ਦੇ ਪੈਰੀਂ ਨਹੀਂ ਲਗਦਾ ਫਿਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਇ = ਚਰਨੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

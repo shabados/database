@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਨੂੰ ਸਭ ਥਾਈਂ ਵਿਆਪਕ ਸਮਝਣਾ ਉਸ ਮਨੁੱਖ ਦੀ ਗੋਦੜੀ ਤੇ ਝੋਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਿ ਪੁਰਿ = ਭਰਪੂਰ, ਨਕਾ-ਨਕ, ਸਭ ਥਾਈਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

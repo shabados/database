@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਸਾਨੂੰ ਤੂੰ ਆਪ ਹੀ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ ਕੱਢ, ਸਾਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਜਲ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਤੇ = ਤੋਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

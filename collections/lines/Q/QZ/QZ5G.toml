@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੇ ਹਿਰਦੇ ਵਿਚ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਅਦ੍ਰਿਸ਼ਟ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ ਵਸਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੀ = ਪੁਰਖੀਂ, ਪੁਰਖਾਂ ਨੇ। ਉਰਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

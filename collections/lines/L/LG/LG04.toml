@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਪਾਸੋਂ ਹੀ ਸਾਰੇ ਪਦਾਰਥ ਹਾਸਲ ਕਰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਪਾਵਉ = ਪਾਵਉਂ, ਮੈਂ ਹਾਸਲ ਕਰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

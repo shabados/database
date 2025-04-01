@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੁਲੇਖੇ ਵਿਚ ਪਿਆ ਹੋਇਆ ਮਨਮੁਖ (ਮਾਨੋ) ਜੰਗਲ ਵਿਚ ਭਟਕ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਰਮ ਵਿਚ, ਭੁਲੇਖੇ ਵਿਚ। ਬੇਬਾਣਿ = ਜੰਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

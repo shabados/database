@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ, ਉਸ ਨੇ ਹੀ ਤੇਰੇ ਨਾਲ ਜਾਣ ਪਛਾਣ ਪਾਈ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸਹਿ = ਜਿਸ ਨੂੰ। ਜਣਾਵਹਿ = ਤੂੰ ਸਮਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ। ਤਿਨਿ = ਉਸ ਮਨੁੱਖ ਨੇ। ਤੂ = ਤੈਨੂੰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

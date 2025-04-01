@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਜਿਸ (ਹਰਿ-ਨਾਮ) ਵਿਚ ਰੁੱਝਾ ਪਿਆ ਹੈਂ ਉਹ ਨਾਹ ਪੜ੍ਹ (ਬਥੇਰਾ) ਸਮਝਾ ਰਹੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਿਰਤਿ = ਉਹ ਜਿਸ ਵਿਚ ਤੂੰ ਲੱਗਾ ਹੋਇਆ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

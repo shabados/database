@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਉਸ ਪ੍ਰਭੂ ਦਾ ਜਾਚਕ ਹਾਂ) ਜਿਸ ਦੇ ਦਰ ਤੇ ਕ੍ਰੋੜਾਂ ਚੰਦ੍ਰਮਾ ਰੌਸ਼ਨੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਾਕ = ਚਰਾਗ਼, ਰੌਸ਼ਨੀ, ਦੀਵੇ ਦੀ ਰੌਸ਼ਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

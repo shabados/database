@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਹਰ ਵੇਲੇ ਸਿਰਫ਼ ਹਰਿ-ਨਾਮ ਹੀ ਜਪਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = (अनुदिनं) ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਵਖਾਣੈ = ਉਚਾਰਦਾ ਹੈ, ਜਪਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

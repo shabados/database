@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਹੋ! ਮੈਂ ਜਿਸ ਪ੍ਰਭੂ ਦੀ ਨਿਮਾਣੀ ਜਿਹੀ ਦਾਸੀ ਹਾਂ ਮੇਰਾ ਉਹ ਮਾਲਕ-ਪ੍ਰਭੂ ਸਭਨਾਂ ਨਾਲੋਂ ਉੱਚਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਚੇਰੀ = ਦਾਸੀ। ਚੇਰੁਲੀ = ਨਿਮਾਣੀ ਜਿਹੀ ਦਾਸੀ। ਤੇ = ਤੋਂ, ਨਾਲੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

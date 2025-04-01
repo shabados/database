@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕੌਣ ਹੈ, ਗੋਯਾ, ਜਿਸ ਦੇ ਦਿਲ ਦੀ ਮੁਰਾਦ ਮੂਰੀ ਨਹੀਣ ਹੋਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਗੋਯਾ ਕੁ ਮਰਾਦਿ ਦਿਲ ਨ ਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

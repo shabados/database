@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! (ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਇਸ) ਅੰਞਾਣ ਮਨ ਨੂੰ ਤੂੰ ਹੀ ਇੱਕ ਟਿਕਾਣੇ ਤੇ ਲਿਆ (ਤੇਰੀ ਮਿਹਰ ਨਾਲ ਹੀ ਮਨ ਭਟਕਣੋਂ ਹਟ ਕੇ ਟਿਕ ਸਕਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਮਾਲਕ! ਇਕਤੁ ਘਰਿ = ਇੱਕ ਟਿਕਾਣੇ ਤੇ। ਆਣੁ = ਲਿਆ, ਟਿਕਾ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਨੂੰ ਮਿਲਿਆਂ ਸਭ ਤੋਂ) ਪਹਿਲਾਂ ਮੇਰੇ ਸਰੀਰ ਦਾ ਹਰੇਕ ਦੁੱਖ ਮਿਟ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੇ = ਪਹਿਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

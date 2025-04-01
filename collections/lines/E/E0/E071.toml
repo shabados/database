@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਗਤ ਵਿਚ ਜਜ਼ਬ ਹੁੰਦਿਆਂ ਵੇਖਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਕਿ ਅਜ਼ ਸੁਹਬਤਿ ਬਜ਼ੁਰਗਾਣ ਸ਼ੁਦ ਜਜ਼ਬ ।੫।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

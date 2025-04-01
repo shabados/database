@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੀ ਪ੍ਰੀਤ ਹੈ ਜਿਨ੍ਹਾਂ ਦਾ ਪਿਆਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਨਾਮਿ = ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਾਵਰੇ! ਸੁਣ, (ਪਦਾਰਥਾਂ ਨਾਲੋਂ ਸੰਬੰਧ ਟੁੱਟਿਆਂ ਇਹ) ਸਾਰਾ ਮਾਣ ਤੇ ਗੁਮਾਨ ਭੀ ਮੁੱਕ ਜਾਇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਭੁ = ਸਾਰਾ। ਗਰਬੁ = ਮਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਦਾ ਆਪਣੇ ਮਾਂ ਪਿਉ ਪੁੱਤਰਾਂ ਭਰਾਵਾਂ ਤੇ ਸੱਜਣਾਂ-ਮਿੱਤਰਾਂ ਨਾਲ ਪ੍ਰੇਮ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

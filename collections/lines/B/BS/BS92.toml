@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਇਹ ਗੱਲ ਸੱਚੀ ਜਾਣ ਕਿ ਜਗਤ ਦੀ ਸਾਰੀ ਹੀ ਰਚਨਾ ਨਾਸਵੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਠ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

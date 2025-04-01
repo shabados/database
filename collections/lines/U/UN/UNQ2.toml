@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਨਾਥ! ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ! ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧੋ = {ਮਾ-ਧਵ} ਮਾਇਆ ਦਾ ਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

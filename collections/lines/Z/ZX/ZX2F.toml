@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਮੁੱਕ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾਗਵਨੁ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ। ਸੇਵ = ਸੇਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

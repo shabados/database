@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਠਦਿਆਂ ਬੈਠਦਿਆਂ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੁ = ਭਜਨ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

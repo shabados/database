@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਕੀਤੇ ਅਮਲਾਂ ਦੇ ਲੇਖੇ ਵਾਲੀ) ਕਿਤਾਬ ਕੱਢ ਕੇ ਬੈਠਾ ਹੋਇਆ ਰੱਬ (ਤੈਥੋਂ) ਹਿਸਾਬ ਪੁੱਛੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਹੀ = ਅਮਲਾਂ ਦੀ ਕਿਤਾਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

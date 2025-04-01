@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗਿਆਨ-ਇੰਦ੍ਰਿਓ! ਆਓ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤ ਪਿਆਰੇ = ਹੇ ਮੇਰੇ ਪਿਆਰੇ ਮਿੱਤਰੋ! ਹੇ ਮੇਰੇ ਗਿਆਨ-ਇੰਦ੍ਰਿਓ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

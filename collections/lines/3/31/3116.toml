@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ ਤੂੰ ਵੇਖੇਣ, ਉਸ ਤੋਣ ਬਿਨਾਣ ਕੋਈ ਹੈ ਹੀ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਸਿਵਾ ਨੀਸਤ ਹਰ ਕੁਜਾ ਬੀਨੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

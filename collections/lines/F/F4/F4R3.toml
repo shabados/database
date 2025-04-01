@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਵੈਰੀ ਅਤੇ ਮਿੱਤਰ ਇੱਕੋ ਜਿਹੇ (ਮਿੱਤਰ ਹੀ) ਦਿੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮਾਨ = ਇੱਕੋ ਜਿਹੇ, ਮਿੱਤਰਾਂ ਵਰਗੇ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਸਮ (ਪ੍ਰਭੂ) ਆਪ ਹੀ ਅੱਗ ਹੈ, ਆਪ ਹੀ ਹਵਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਪਾਵਕੁ = ਅੱਗ। ਪਵਨਾ = ਹਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

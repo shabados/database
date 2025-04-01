@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੂੰ ਕੋਈ ਔਕੜ ਨਹੀਂ ਪੋਂਹਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਉ = ਉਸ ਨੂੰ। ਬਿਘਨੁ = ਰੁਕਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

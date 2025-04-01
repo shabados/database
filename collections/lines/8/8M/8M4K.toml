@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸੋ, ਮਨੁੱਖ ਪਾਸੋਂ (ਆਪਣੇ ਆਪ) ਕੇਹੜਾ ਕੰਮ ਹੋ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਦੱਸੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

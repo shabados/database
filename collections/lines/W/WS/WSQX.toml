@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਉਸ ਧਨ-ਪਦਾਰਥ ਨੂੰ ਇਕੱਠਾ ਕਰ ਰਿਹਾ ਹੈਂ, ਜਿਸ ਦੀ ਰਾਹੀਂ (ਮਾਇਆ ਦੀ) ਭੁੱਖ ਤ੍ਰੇਹ (ਬਣੀ ਰਹੇਗੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਿਓ = ਇਕੱਠਾ ਕੀਤਾ ਹੈ। ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਤਿਸਾਇਓ = ਤ੍ਰਿਖਾ, ਤ੍ਰੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

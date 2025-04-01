@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ) ਤੂੰ ਲੁਕਿਆ ਹੋਇਆ ਭੀ ਹੈਂ ਤੇ (ਸੰਸਾਰ-ਰੂਪ ਹੋ ਕੇ) ਤੂੰ ਪ੍ਰਤੱਖ ਭੀ ਦਿੱਸ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

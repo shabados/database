@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜੇ ਮੇਰੇ ਉਤੇ ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਹੋ ਜਾਏ ਤਾਂ) ਮੈਂ ਆਪਣੇ ਪਿਆਰੇ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਪਵਾਂ ਤੇ ਆਪਣੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਕਰ ਲਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਉ = ਮੈਂ ਮਿਲਾਂ। ਹਰਉ = ਮੈਂ ਦੂਰ ਕਰਾਂ। ਹੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

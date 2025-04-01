@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਤ ਪਰਾਈ ਨੂੰ ਛੱਡ ਕੇ ਆਪਣੇ ਆਪ ਨੂੰ ਜਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰ ਅਜ਼ ਬੇਗਾਨਗੀਹਾ ਓ ਬਖ਼ੁਦ ਆਸ਼ਨਾ ਸੌ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

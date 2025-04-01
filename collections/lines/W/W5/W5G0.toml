@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਰਾਹੀਂ (ਮੇਰੀ) ਜੀਭ ਤੇਰਾ ਨਾਮ ਉਚਾਰਦੀ ਰਹੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ (ਢੋ) ਦੇ ਕਾਰਨ। ਰਸਨਾ = ਜੀਭ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

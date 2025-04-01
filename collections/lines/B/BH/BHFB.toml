@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲਾ ਤੂੰ (ਆਪ ਹੀ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾ ਲੈਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੈਹਿ ਮਿਲਾਇ = ਤੂੰ ਮਿਲਾ ਲੈਂਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

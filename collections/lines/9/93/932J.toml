@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੰਜੇ ਡਾਕੂ ਨਾਹ ਧਨ ਨਾਲ ਵਰਜੇ ਜਾ ਸਕਦੇ ਹਨ, ਨਾਹ ਚਤੁਰਾਈ ਨਾਲ ਵਰਜੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਬਿ = ਧਨ ਨਾਲ। ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਤੈਨੂੰ ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਸੁਆਦਲੇ ਖਾਣੇ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਤੀਹ ਅੰ​‍ਮ੍ਰਿਤ = ਛੱਤੀ ਕਿਸਮਾਂ ਦੇ ਸੋਹਣੇ ਖਾਣੇ {ਖਟ ਰਸ, ਮਿਠ ਰਸ, ਮੇਲਿ ਕੈ, ਛਤੀਹ ਭੋਜਨ ਹੋਨਿ ਰਸੋਈ, ਭਾ: ਗੁਰਦਾਸ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

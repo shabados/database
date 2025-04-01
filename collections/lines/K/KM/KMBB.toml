@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਹਰ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ (ਸਿਮਰਨ ਕਰਨ ਦੀ) ਸਮਝ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ = ਜਿਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

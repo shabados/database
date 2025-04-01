@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਤ ਜਨਾਂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਹਰਿ-ਨਾਮ ਸਿਮਰਦਿਆਂ (ਮਨੁੱਖ ਦੇ) ਸਾਰੇ ਪਾਪ ਕੱਟੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ। ਕਿਲਬਿਖ ਸਭਿ = ਸਾਰੇ ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

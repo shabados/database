@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਉਹ ਦਾਤਾਰ ਸਦਾ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਕਿਸੇ ਤੋਂ ਕੋਈ ਡਰ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

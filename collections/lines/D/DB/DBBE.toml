@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਗੁਰੂ ਨੇ ਜਗਤ ਦੇ ਮਾਲਕ ਤੇ ਨਾਥ ਦਾ ਨਾਮ (ਜੀਵਾਂ ਤੋਂ) ਜਪਾਇਆ ਹੈ, ਉਸ ਦੀ ਦਿਨ ਰਾਤ ਪੂਜਾ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦੀਸੁ = ਜਗਤ ਦਾ ਮਾਲਕ {ਜਗਤ-ਈਸ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

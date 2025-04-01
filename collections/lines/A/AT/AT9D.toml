@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਤੋਂ ਹੀ ਆਇਆ ਅਤੇ ਰੱਬ ਵਿਚ ਹੀ ਸਮਾ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਹਕ ਆਮਦੋ ਹਮ ਬਹੱਕ ਮੁਸਤਕੀਮ ।੫੭।"
+page = 2
+line = 57
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

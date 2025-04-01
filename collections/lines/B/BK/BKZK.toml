@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਮਾਇਆ ਦੀ ਠੱਗੀ ਦੂਰ ਕਰ ਕੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਆਗਿ = ਤਿਆਗ ਕੇ। ਧੋਹ = ਠਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

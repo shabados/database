@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਕੁਲ ਖੁਦਾਈ ਦੇ ਬਦਲੇ ਵੇਚ ਦੇਵੇਣ, ਤਾਣ ਕੀ ਹਰਜ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿ-ਫ਼ਰੋਸ਼ੀ ਅਗਰ ਬ ਨਕਦਿ ਖ਼ੁਦਾਈ ਚਿ ਸ਼ਵਦ ।੨੫।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

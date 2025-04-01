@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ (ਦੀ ਬਜ਼ੁਰਗੀ) ਦਾ ਅੰਦਾਜ਼ਾ ਉਸ ਦਾ ਪੈਦਾ ਕੀਤਾ ਬੰਦਾ ਨਹੀਂ ਲਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਆ = ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

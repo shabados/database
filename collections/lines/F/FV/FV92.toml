@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਦੋਂ ਤਕ ਮਨੁੱਖ ਦੇ ਮਨ ਦੀ (ਮਾਇਆ ਵਾਲੀ) ਭਟਕਣਾ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ, ਇਹ (ਲਾਲਚ ਦੇ ਪੰਜੇ ਤੋਂ) ਆਜ਼ਾਦ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਲਗੁ = ਜਦੋਂ ਤਕ। ਭਰਮਾ = ਭਟਕਣਾ। ਮੁਕਤੁ = (ਲੋਭ ਤੋਂ) ਆਜ਼ਾਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

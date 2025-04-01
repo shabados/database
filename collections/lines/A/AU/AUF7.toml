@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੇ ਉਤੇ ਦਿਆਲ ਹੋ, ਮੈਂ ਤੇਰਾ ਹਰਿ-ਨਾਮ ਧਿਆਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ!।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ਉਸ ਪਿਆਰੇ ਮਿੱਤਰ ਗੁਰ-ਸਿੱਖ ਤੋਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੰਉ = ਮੈਂ। ਵਾਰੀ = ਸਦਕੇ, ਕੁਰਬਾਨ। ਨਾਮੋ = ਨਾਮੁ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

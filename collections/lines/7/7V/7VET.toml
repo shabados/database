@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੱਜਣ! ਤੂੰ ਆਖ (ਭਾਵ, ਜੇ ਤੂੰ ਆਖੇਂ ਤਾਂ) ਮੈਂ ਆਪਣਾ ਸਿਰ ਭੀ ਲਾਹ ਕੇ ਭੇਟ ਕਰ ਦਿਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉ = ਕਹੁ, ਦੱਸ। ਸਜਣ ਮੈਡਿਆ = ਹੇ ਮੇਰੇ ਸੱਜਣ! ਡੇਈ = ਡੇਈਂ, ਮੈਂ ਦਿਆਂ। ਸਿਸੁ = ਸੀਸ, ਸਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

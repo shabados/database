@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ (ਆਪਣੇ ਭਗਤਾਂ ਦੇ) ਸਾਰੇ ਮਨੋਰਥ ਪੂਰੇ ਕਰਨ ਵਾਲਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਰਥ = ਮੰਗਾਂ, ਲੋੜਾਂ। ਪੂਰਨਹਾਰੀ = ਪੂਰੀਆਂ ਕਰਨ ਵਾਲਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

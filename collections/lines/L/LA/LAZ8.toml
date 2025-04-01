@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਕਿਸੇ ਬਾਜ਼ੀਗਰ ਨੇ (ਕਦੇ) ਬਾਜ਼ੀ ਪਾ ਕੇ ਵਿਖਾਈ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੀਗਰਿ = ਬਾਜੀਗਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

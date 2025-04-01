@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ (ਆਪਣੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਦੀ ਮੈਲ ਮਾਇਆ ਦੀ ਮੈਲ ਸਾਰੀ ਹੀ ਦੂਰੀ ਕਰ ਲਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ = ਮਾਇਆ। ਨਿਵਾਰੀ = ਦੂਰ ਕਰ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

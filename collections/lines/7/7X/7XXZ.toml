@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਾਇਆ ਘਰ ਤੱਕਦਾ ਹੈ, ਉਸ ਨੂੰ (ਇਸ ਕੁਕਰਮ ਵਿਚ) ਘਾਟਾ ਹੀ ਘਾਟਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਹੈ = ਤੱਕਦਾ ਹੈ। ਹਾਣੇ ਹਾਣਿ = ਹਾਣਿ ਹੀ ਹਾਣਿ, ਘਾਟਾ ਹੀ ਘਾਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

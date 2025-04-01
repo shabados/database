@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਾਰਾ ਆਪਾ-ਭਾਵ ਮਿਟਾ ਦਿੱਤਾ, ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਨਾਲ ਜੁੜਿਆ ਰਿਹਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਡਿਓ = ਜਿਸ ਨੇ ਛੱਡਿਆ ਹੈ। ਹਭੁ ਆਪੁ = ਸਾਰਾ ਆਪਾ-ਭਾਵ, ਸਾਰਾ ਅਹੰਕਾਰ। ਲਗੜੋ = ਜੋ ਲੱਗਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

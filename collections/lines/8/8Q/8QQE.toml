@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਲੁਕਿਆ ਹੋਇਆ ਕੌਣ ਹੈ? ਉਹ ਕੌਣ ਹੈ ਜੋ ਮੁਕਤ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਤਾ = ਲੁਕਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

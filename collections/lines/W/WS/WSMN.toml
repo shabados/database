@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਅਣਗਿਣਤ ਗੁਣਾਂ ਦਾ ਨਿਰਨਾ ਨਹੀਂ ਹੋ ਸਕਦਾ, ਉਸ ਦਾ ਨਾਮਣਾ (ਵਡੱਪਣ) ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਤਿ = ਨਿਰਨਾ, ਪਰਖ। ਅਸੰਖ = ਅਣਗਿਣਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

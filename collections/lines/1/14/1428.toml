@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਅੱਖਾਂ ਨਾਲ ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰਦਾ ਹਾਂ, ਆਪਣਾ ਮੱਥਾ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਧਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਨੀ = ਨੈਨੀਂ, ਅੱਖਾਂ ਨਾਲ। ਦੇਖਉ = ਦੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

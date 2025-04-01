@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਹੁਣ) ਮੈਂ ਛੋਹਰ-ਛਿੰਨਾ ਸੁਭਾਉ ਛੱਡ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਚਲ = ਛੋਹਰ-ਛਿੰਨੀ। ਮਤਿ = ਅਕਲ, ਬੁੱਧੀ। ਤਿਆਗੀ = ਛੱਡ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

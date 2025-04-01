@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸੁਖ ਮਾਣਦਾ ਹੈ, ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਭੂ ਆਪਣੀ ਮੇਹਰ ਨਾਲ ਇਹ ਦਾਤ ਦੇਂਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾ ਤੇ = (ਪ੍ਰਭੂ ਆਪਣਾ) ਕਿਰਪਾ ਨਾਲ। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਦਾ ਦਿਲ ਕਿਸਤਰ੍ਹਾਂ ਇਸ ਬਾਦਸ਼ਾਹੀ ਤੋਂ ਮੂੰਹ ਮੋੜੇ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲ ਅਜ਼ੀਂ ਸ਼ਾਹੀ ਕੁਜਾ ਬਰਤਾਫ਼ਤੇ ।੩੭੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

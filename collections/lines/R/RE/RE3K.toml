@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਉਹ ਜੀਵ ਦੀ) ਆਤਮਕ ਰਹਿਣੀ ਦੀ ਹਰੇਕ ਗੱਲ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਤਮ ਕੀ ਰਹਤ = ਆਤਮਾ ਦੀ ਰਹਿਣੀ, ਆਤਮਕ ਜ਼ਿੰਦਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

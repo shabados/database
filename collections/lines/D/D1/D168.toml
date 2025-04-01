@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੋਬਿੰਦ ਪ੍ਰਭੂ ਕਿਰਪਾ ਦਾ ਘਰ ਹੈ, ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਪਾਲ = ਕਿਰਪਾ ਦਾ ਘਰ। ਗਬਿੰਦ = {ਅੱਖਰ 'ਗ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਗੋਬਿੰਦ' ਹੈ, ਇਥੇ 'ਗੁਬਿੰਦ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

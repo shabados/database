@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਹੇ ਭਾਈ! ਇਸ ਮਾਇਆ ਤੋਂ ਇਤਨਾ ਡਰਨ ਦੀ ਲੋੜ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਪਨੀ...ਭਾਈ = ਹੇ ਭਾਈ! ਸੱਪਣੀ ਤੋਂ ਇਤਨਾ ਕਿਉਂ ਡਰਦੇ ਹੋ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

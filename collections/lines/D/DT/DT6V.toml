@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁਤ੍ਰ ਭਰਾ ਮਿਤ੍ਰ ਇਸਤ੍ਰੀ ਨਾਲ ਹੱਸਦਾ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤ੍ਰ। ਭ੍ਰਾਤ = ਭਰਾ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਹਸਹਿ = ਤੂੰ ਹੱਸਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

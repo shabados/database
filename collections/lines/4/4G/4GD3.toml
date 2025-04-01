@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ! ਜਿਸ ਨੇ) ਤੈਨੂੰ (ਦੁਨੀਆ ਦੇ ਰੰਗ-ਤਮਾਸ਼ੇ) ਵੇਖਣ ਵਾਸਤੇ ਅੱਖਾਂ ਦਿੱਤੀਆਂ ਹਨ ਅਤੇ ਸੁਣਨ ਵਾਸਤੇ ਕੰਨ ਦਿੱਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਨ ਕਉ = ਵੇਖਣ ਵਾਸਤੇ। ਨੇਤ੍ਰ = ਅੱਖਾਂ। ਕਰਨਾ = ਕੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

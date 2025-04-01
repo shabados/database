@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਤੇਰੀ) ਪਾਲਣਾ ਕਿਉਂ ਨ ਕਰੇਗਾ? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਨ = ਕਿਉਂ ਨ? ਪ੍ਰਤਿਪਾਰ = ਪਾਲਣਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

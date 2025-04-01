@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸਿੱਖਿਆ ਨੂੰ ਮਨੁੱਖ ਨੇ ਹਿਰਦੇ ਵਿਚ ਪਰੋ ਰੱਖਿਆ ਹੈ, ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ ਧੁਰੋਂ ਹੀ ਭਾਗ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਤੇ। ਮਸਤਕਿ = ਮੱਥੇ ਤੇ। ਤਿਨਿ = ਉਸ ਨੇ। ਤਿਨਿ ਜਨਿ = ਉਸ ਜਨ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

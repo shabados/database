@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਉਸ ਦਾ ਅੰਦਰਲਾ ਸੰਸਾਰ ਦੀ ਖਪ ਖੇਡ ਤੋਂ ਨਿਆਰਾ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਤਨਸ਼ ਫ਼ਾਰਿਗ਼ ਜ਼ ਕੈਦਿ ਸ਼ੋਰੋ ਸ਼ਰ ।੩੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

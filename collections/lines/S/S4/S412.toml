@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੀਨ ਅਤੇ ਦੁਨੀਆ ਦੋਵੇਂ ਬਹੁਤ ਹੈਰਾਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਨੋ ਦੁਨਿਆ ਹਰ ਦੋ ਹੈਰਾਂ ਮਾਂਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

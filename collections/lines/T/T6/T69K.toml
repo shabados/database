@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਇਹ ਸਾਰੇ ਪਾਪ ਵਿਕਾਰ ਦੂਰ ਕਰ ਦੇਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਬਿਖ = ਪਾਪ। ਲਹੰਤੀ = ਦੂਰ ਕਰ ਸਕਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿੱਲਾਣ ਦੇ ਮਹਿਰਾਮ, ਤੇਰੇ ਮੁਖੜੇ ਦਾ ਦੀਦਾਰ ਕਰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬ ਦਿਲਾਣ ਨਜ਼ਾਰਾਇ ਰੂਇ ਤੂ ਮੀਕੁਨੰਦ ।੨੨।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਉਨ੍ਹਾਣ ਦੇ ਇਹਸਾਨਾ ਨਾਲ ਦਬੇ ਹੋਏ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਕਿ ਅਜ਼ ਇਹਸਾਨਿ ਸ਼ਾਣ ਸ਼ਰਮਿੰਦਾ-ਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

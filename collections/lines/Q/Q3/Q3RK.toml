@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਆਪਣੇ ਸੰਤਾਂ ਨੂੰ ਸਦਾ ਹੀ ਬਚਾਂਦਾ ਆ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੀਨੇ ਉਬਾਰਿ = (ਸਦਾ ਹੀ) ਬਚਾ ਲਏ ਹਨ, ਬਚਾਂਦਾ ਆ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

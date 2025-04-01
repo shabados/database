@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਜਿਸ ਨੇ ਪਾਲਣਾ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਭ = ਪੇਟ। ਜਿਨਿ = ਜਿਸ ਨੇ। ਪ੍ਰਤਿਪਾਰਿਆ = ਪਾਲਣਾ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

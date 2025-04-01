@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਿਗੁਰੂ ਦਾ) ਸ਼ਬਦ ਗੁਰਮੁਖ ਲਈ ਸ੍ਰੇਸ਼ਟ ਅੰਮ੍ਰਿਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਮਨੁੱਖ। ਸਾਰੁ = ਸ੍ਰੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

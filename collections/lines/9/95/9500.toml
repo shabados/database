@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਹ ਖ਼ਿਆਲ ਆਮ ਪ੍ਰਚਲਤ ਹੈ ਕਿ) ਦੁਆਪੁਰ ਜੁਗ ਵਿਚ ਲੋਕ ਦ੍ਵੈਤ ਵਿਚ ਫਸ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਪੁਰਿ = ਦੁਆਪੁਰ ਵਿਚ। ਦੂਜੈ = ਦ੍ਵੈਤ-ਭਾਵ ਵਿਚ। ਦੁਬਿਧਾ = ਮੇਰ-ਤੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

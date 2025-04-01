@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਮੁੜ ਮੁੜ ਜਨਮ ਮਰਨ ਵਿਚ ਪਿਆ ਰਿਹਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਿ ਫਿਰਿ = ਮੁੜ ਮੁੜ। ਆਵਾ ਜਾਇ = ਆਉਂਦਾ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

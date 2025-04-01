@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਗ਼ਮੀ ਦੀ ਘਟਨਾ ਹੋ ਜਾਏ, ਚਾਹੇ ਖ਼ੁਸ਼ੀ ਦਾ ਕਾਰਣ ਬਣੇ, ਉਹ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਹੀ ਰਹਿੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗੁ = ਸ਼ੱਕ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਘਟਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

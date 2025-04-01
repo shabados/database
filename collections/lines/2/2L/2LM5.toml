@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਦਾ (ਜੀਵਾਂ ਦਾ) ਦਾਤਾ ਹੈ (ਜਿਸ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੋਈ (ਦਾਤਾ) ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਿ ਜੁਗਿ = ਹਰੇਕ ਜੁਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

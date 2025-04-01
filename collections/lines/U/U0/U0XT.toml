@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰਾ ਆਸਰਾ ਲਿਆ ਹੈ (ਮੈਨੂੰ ਆਪਣੇ ਨਾਮਿ ਦੀ  ਦਾਤ ਬਖ਼ਸ਼) ॥੪॥੧੦੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਕਰੋੜਾਂ (ਬੰਦੇ) ਤੀਰਥਾਂ ਦੇ ਵਸਨੀਕ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਸੀ = ਵੱਸਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

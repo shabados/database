@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਤੂੰ ਇਸ ਮਿੱਟੀ ਦੇ ਭਾਂਡੇ (ਸਰੀਰ) ਨੂੰ (ਬਾਹਰੋਂ) ਬਣਾ ਸੰਵਾਰ ਕੇ ਰੱਖਦਾ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੋਚਾਰਿ = ਪੋਚ ਪਾਚ ਕੇ, ਬਾਹਰੋਂ ਬਣਾ ਕੇ ਸਵਾਰ ਕੇ। ਰਖਹਿ = ਤੂੰ ਰੱਖਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਘਰ ਵਿਚ ਹੀ ਜੱਨਤ ਦੇ ਸੈਣਕੜੇ ਬਾਗ਼ ਖਿੜੇ ਹੋਏ ਹੋਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਰੌਜ਼ਾਇ ਰਿਜ਼ਵਾਨਸਤ ਚੂ ਦਰ ਖਾਨਾ ਸ਼ਿਗੁਫ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

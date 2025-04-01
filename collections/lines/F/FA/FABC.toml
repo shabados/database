@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਮਾਂ, ਪਿਉ, ਹੋਰ ਲੋਕ, ਪੁੱਤਰ, ਇਸਤ੍ਰੀ-ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਕਿਸੇ ਦਾ ਆਸਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਨਿ = ਮਾਂ। ਸੁਤ = ਪੁੱਤਰ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਧਰਿਆ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਜੀਵਾਂ ਨੂੰ ਉਹੀ ਕੁਝ ਸਿਰ-ਮੱਥੇ ਮੰਨਣਾ ਪੈਂਦਾ ਹੈ (ਉਹੀ ਕੁਝ ਜੀਵ ਕਰਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ (ਪਰਮਾਤਮਾ) ਨੂੰ। ਭਾਵੈ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

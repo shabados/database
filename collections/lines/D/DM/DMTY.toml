@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਭਾਗਾਂ ਵਾਲੇ ਹਨ ਉਹ ਮੱਥੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੋਬਿੰਦ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦੀ ਛੋਹ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਿ = {धन्य} ਭਾਗਾਂ ਵਾਲੇ। ਮਸਤਕ = ਮੱਥੇ {ਮਸਤਕੁ = ਮੱਥਾ}। ਪਰਸ = ਛੁਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

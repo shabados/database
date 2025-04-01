@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੈਵੀ ਗੁਣਾਂ ਵਾਲੇ ਮਨੁੱਖ, ਦੇਵਤੇ, ਬ੍ਰਹਮ-ਗਿਆਨੀ, ਬ੍ਰਹਮਾ ਆਦਿਕ ਵੱਡੇ ਦੇਵਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਿ-ਨਰ = ਦੈਵੀ ਗੁਣਾਂ ਵਾਲੇ ਮਨੁੱਖ। ਬ੍ਰਹਮ = ਪਰਮਾਤਮਾ ਨੂੰ ਜਾਣਨ ਵਾਲੇ। ਬ੍ਰਹਮਾਦਿਕ = ਬ੍ਰਹਮਾ ਵਰਗੇ ਦੇਵਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਕਿਸੇ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਚੰਗੇ ਭਾਗ ਜਾਗ ਪੈਣ, ਤਾਂ ਪਰਮਾਤਮਾ ਉਸ ਨੂੰ ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਉੱਤੇ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਭੇਟਾਇ = ਮਿਲਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

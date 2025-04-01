@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸੇ ਦਾ ਹੀ (ਜੀਵਨ ਦਾ ਅਸਲ) ਕੰਮ ਕਿਸੇ ਸਿਰੇ ਚੜ੍ਹਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਹੀ ਕਾ = ਉਸੇ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੱਲਾਂ ਵਿਚੋਂ ਸਿਰਫ਼ ਉਹ ਗੱਲਾਂ ਹੀ ਚੰਗੀਆਂ ਹਨ ਜੋ, ਹੇ ਸਿਰਜਣਹਾਰ! ਤੇਰੀਆਂ ਗੱਲਾਂ ਹਨ (ਤੇਰੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲੀ ਗਲਾ = ਗੱਲਾਂ ਵਿਚੋਂ (ਚੰਗੀਆਂ) ਗੱਲਾਂ। ਗਲਾ ਸਿਰਜਣਹਾਰ = ਸਿਰਜਣਹਾਰ ਦੀਆਂ ਗੱਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

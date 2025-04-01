@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ (ਪ੍ਰਭੂ ਤੋਂ ਵਿਛੁੜ ਕੇ) ਤੜਫਣੀ ਲੱਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਤਾਲਾਬੇਲੀ = ਤਿਲਮਿਲੀ, ਤਿਲਮਿਲਾਹਟ, ਤੜਫਣੀ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

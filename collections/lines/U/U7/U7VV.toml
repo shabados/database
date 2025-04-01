@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਦ ਤਕ ਤੇਰੀਆਂ ਬੈਕੁੰਠ ਅੱਪੜਨ ਦੀਆਂ ਆਸਾਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

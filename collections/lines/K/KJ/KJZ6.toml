@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਹੁਣ ਹੀ ਵੇਲਾ ਹੈ) ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰ, (ਨਹੀਂ ਤਾਂ ਸਮਾ ਵਿਹਾ ਜਾਣ ਤੇ) ਅਫ਼ਸੋਸ ਕਰੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

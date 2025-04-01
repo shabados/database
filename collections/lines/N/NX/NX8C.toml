@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਉਹ ਦੁਖ ਸੁਖ (ਦਾ ਅਹਿਸਾਸ) ਤਿਆਗ ਕੇ ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਸੁਚੇਤ ਹੋ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਹਰਿ = ਤਿਆਗ ਕੇ। ਸੁਚੀਤ = ਸੁਚੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਾਂਇਆਂ! ਜਿਤਨਾ ਚਿਰ ਤੂੰ ਜੀਵਾਤਮਾ ਦੇ ਨਾਲ ਸੈਂ ਤੂੰ ਸਿਆਣੀ (ਸਮਝੀ ਜਾਂਦੀ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹਰਿ = ਸਿਆਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

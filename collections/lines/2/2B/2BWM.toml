@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਤਿਕਾਰ ਹੀਨ ਇੱਥੇ ਆਕੇ ਸਤਿਕਾਰ ਦੀ ਸਿਖਿਆ ਦੇਣ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ ਅਦਬ ਈਂਜਾ ਅਦਬ ਆਮੋਜ਼ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

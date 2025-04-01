@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੋਵੇਣ ਜਹਾਨ ਉਸ ਰੱਬੀ ਨੂਰ ਦੇ ਜ਼ੱਰੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਦੋ ਆਲਮ ਜ਼ੱਰਾਇ ਅਜ਼ ਨੂਰਿ ਊਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

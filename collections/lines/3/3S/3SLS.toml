@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਖਸਮ-ਪ੍ਰਭੂ ਦਾ ਹੈ, ਖਸਮ-ਪ੍ਰਭੂ ਤੋਂ ਹਰੇਕ ਜੀਵ ਪੈਦਾ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਖਸਮਹੁ = ਖਸਮ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

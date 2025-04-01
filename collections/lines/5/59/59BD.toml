@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ ਵਿਚ ਸਦਾ ਲਈ) ਨਾਹ ਕੋਈ ਕਿਸੇ ਦੀ ਮਾਂ ਹੈ, ਨਾਹ ਕੋਈ ਕਿਸੇ ਦਾ ਪਿਉ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾ ਕੀ = ਕਿਸ ਦੀ? ਕਾ ਕੋ = ਕਿਸ ਦਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

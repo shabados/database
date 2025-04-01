@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰੇਕ ਜੀ ਦੇ ਅੰਦਰ ਵਿਆਪਕ ਹੋਣ ਕਰਕੇ) ਤੂੰ ਆਪ ਹੀ (ਜੀਵਾਂ ਦੇ ਕੰਮਾਂ ਨੂੰ) ਜਾਣਦਾ ਹੈਂ ਵੇਖਦਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਚੰਗੇ ਆਚਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਾ = ਜਾਣਨ ਵਾਲਾ। ਬੀਨਾ = ਵੇਖਣ ਵਾਲਾ। ਸਤਵੰਤਾ = ਸ਼ੁਭ ਆਚਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

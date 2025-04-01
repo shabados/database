@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਥਾਈਂ (ਹਰੀ ਦਾ) ਹੀ ਹੁਕਮ ਵਰਤ ਰਿਹਾ ਹੈ; ਜੋ ਉਹ ਕਰਦਾ ਹੈ ਸੋਈ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦੁ = ਹੁਕਮ। ਸਭੁ = ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਵਾਰ) ਟੁੰਡੇ (ਰਾਜਾ) ਅਸਰਾਜ ਦੀ (ਵਾਰ ਦੀ) ਸੁਰ ਉਤੇ (ਗਾਉਣੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੁਨੀ = ਸੁਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੋਲੀਏ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਦਿਆਂ ਤੂੰ ਆਲਸ ਕਰਦੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਰੇ ਰੂਹੜੇ = ਹੇ ਭੋਲੀਏ ਜਿੰਦੇ! ਹੇ ਭੋਲੀ ਰੂਹ! ਆਲਕੁ = ਆਲਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

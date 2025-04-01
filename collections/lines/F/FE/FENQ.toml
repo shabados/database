@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਸ੍ਰਿਸ਼ਟੀ ਪੈਦਾ ਕੀਤੀ ਹੈ ਉਹੀ ਇਸ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਦਨੀ = ਧਰਤੀ, ਸ੍ਰਿਸ਼ਟੀ। ਸਾਰ = ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

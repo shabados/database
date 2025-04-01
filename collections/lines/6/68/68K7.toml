@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀਏ!) ਦੱਸ, ਉਸ ਅਪਹੁੰਚ ਪਰਮਾਤਮਾ ਦੇ ਸ਼ਹਰ ਵਿਚ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਜਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ = ਉਸ ਵਿਚ। ਅਗਮਪੁਰੇ = ਅਪਹੁੰਚ ਨਗਰ ਵਿਚ। ਕਹੁ = ਦੱਸੋ। ਕਿਤੁ ਬਿਧਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

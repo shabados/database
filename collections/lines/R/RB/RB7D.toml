@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਅਸੀਂ ਤੇਰੇ ਅੰਞਾਣ ਬੱਚੇ ਹਾਂ। ਸਾਡੀ ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀ। ਦੀਨ = ਨਿਮਾਣੇ, ਅੰਞਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

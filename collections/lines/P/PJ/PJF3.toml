@@ -5,6 +5,11 @@ language = "pa"
 data = "ਲਹਿਰ ਅਤੇ ਸਾਗਰ ਅਸਲ ਵਿਚ ਭਾਵੇਂ ਇੱਕੋ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੌਜੌ ਦਰਿਆ ਗਰ ਚਿ ਦਰ ਮਾਅਨੀ ਯਕੇਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

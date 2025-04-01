@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧਰਤੀ ਅਤੇ ਆਕਾਸ਼ ਉੱਤੇ ਰੌਸ਼ਨ ਕਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰਦ ਰੌਸ਼ਨ ਦਰ ਜ਼ਮੀਨੋਂ ਆਸਮਾਂ ।੪੩੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

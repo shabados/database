@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਹੜਾ ਸੂਰਮਾ ਹੈ ਜੋ ਮੌਤ ਨੂੰ (ਮੌਤ ਦੇ ਭਉ ਨੂੰ) ਮਾਰ ਲੈਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਧੁ = ਸੂਰਮਾ। ਸੰਘਾਰੈ = ਮਾਰ ਦੇਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

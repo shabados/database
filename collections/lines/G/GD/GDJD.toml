@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਨਾਮ ਤੋਂ ਬਿਨਾ) ਮੈਂ ਗੰਦਾ ਹਾਂ, ਕਮਜ਼ੋਰ-ਦਿਲ ਹਾਂ, ਅਕਲ ਤੋਂ ਸੱਖਣਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਪ੍ਰਭੂ! ਕੁਚੀਲੁ = ਗੰਦਾ। ਕਾਚਉ = ਕੱਚਾ, ਕਮਜ਼ੋਰ। ਮਤਿ ਹੀਨ = ਅਕਲ ਤੋਂ ਸੱਖਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

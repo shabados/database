@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ! ਤੂੰ ਇਹੀ ਸਮਝਦਾ ਆ ਰਿਹਾ ਹੈਂ ਕਿ) ਪਹਿਲੇ ਜੁਗ (ਸਤਜੁਗ) ਵਿਚ ਦਾਨ ਦਾ ਨਗਰ ਵੱਸਦਾ ਸੀ (ਭਾਵ, ਦਾਨ ਕਰਨ ਦਾ ਕਰਮ ਪ੍ਰਧਾਨ ਸੀ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੇ = ਪਹਿਲੇ (ਜੁਗ ਵਿਚ) ਸਤਜੁਗ ਵਿਚ। ਖੇੜਾ = ਨਗਰ। ਸਤ = ਦਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

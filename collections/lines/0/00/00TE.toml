@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਚੌਹਾਂ ਖਾਣੀਆਂ ਦੇ ਜੀਵ ਤੇ ਉਹਨਾਂ ਦੀਆਂ ਬੋਲੀਆਂ ਭੀ ਤੇਰੇ ਵਿਚ ਹੀ ਸਮਾ ਜਾਂਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਣੀ = ਜੀਵਾਂ ਦੀ ਉਤਪੱਤੀ ਦੀਆਂ ਚਾਰ ਖਾਣਾਂ। ਬਾਣੀ = ਚਾਰ ਬਾਣੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

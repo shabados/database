@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈ (ਉਸ ਨੂੰ ਕਿਸੇ ਜੀਵ ਪਾਸੋਂ ਕਿਸੇ ਕਿਸਮ ਦਾ) ਰਤਾ ਭਰ ਭੀ ਕੋਈ ਲਾਲਚ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਸੈ = ਹਰੇਕ ਜੀਵ ਦਾ। ਤਮਾਈ = ਤਮ੍ਹਾ, ਲਾਲਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

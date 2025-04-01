@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਾਹਿਬ ਦੇ ਰੰਗ ਵਿਚ ਮਾਨ ਸਤਿਕਾਰ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਬਰੰਗਿ ਸਾਹਿਬੀ ਬਾ ਇੱਜ਼ੋ ਜਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

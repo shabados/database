@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੁਰਗ ਦੀਆਂ ਅਪੱਛਰਾਂ ਭੀ ਮੇਰੇ ਘਰ ਵਿਚ ਹੋਣ ਤਾਂ ਭੀ, ਹੇ ਨਾਨਕ! ਇਹ ਤਾਂ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਣੀਆ = ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲੀਆਂ। ਜਾਉ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

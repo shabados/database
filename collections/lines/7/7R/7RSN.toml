@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੈਸ਼ਨਵ ਭਗਤ (ਵਰਤ, ਤੁਲਸੀ ਮਾਲਾ, ਤੀਰਥ ਇਸ਼ਨਾਨ ਆਦਿਕ) ਸੰਜਮਾਂ ਵਿਚ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਉਤੀ = ਵੈਸ਼ਨਵ ਭਗਤ। ਜੁਗਤਾ = ਵਰਤ, ਤੁਲਸੀ ਮਾਲਾ ਆਦਿਕ ਸੰਜਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

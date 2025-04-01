@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਦਾ ਮੈਂ ਆਪਣੇ ਮਾਲਕ ਨੂੰ ਆਪਣੇ ਚਿੱਤ ਵਿਚ (ਵਸਾਇਆ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਤਿ = ਚਿੱਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

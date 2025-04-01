@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕ-ਲਾਜ ਛੱਡ ਕੇ ਹਰ ਵੇਲੇ ਉਸ ਦਾ ਨਾਮ ਸਿਮਰਦੇ ਰਹੀਏ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਸਿਮਰਹ = ਅਸੀਂ ਸਿਮਰੀਏ। ਤਜਿ = ਤਿਆਗ ਕੇ। ਲੋਕ = ਜਗਤ। ਲੋਕਾਈ = ਜਗਤ ਦੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

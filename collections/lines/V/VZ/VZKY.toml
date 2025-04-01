@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦਾ ਜਸ ਕੰਨੀਂ ਸੁਣ ਕੇ (ਇਹ ਭਰਮੳ ਅਤੇ ਭਟਕਣਾ ਮੁੱਕੀ ਹੈ) ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਿ = ਸੁਣ ਕੇ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

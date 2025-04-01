@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੂਰਤੀ ਘੜਨ ਵਾਲੇ ਨੇ) ਪੱਥਰ ਘੜ ਕੇ, ਤੇ (ਘੜਨ ਵੇਲੇ ਮੂਰਤੀ ਦੀ) ਛਾਤੀ ਉੱਤੇ ਪੈਰ ਰੱਖ ਕੇ ਮੂਰਤੀ ਤਿਆਰ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਖਾਨ = ਪੱਥਰ। ਗਢਿ ਕੈ = ਘੜ ਕੇ। ਪਾਉ = ਪਾਉਂ, ਪੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

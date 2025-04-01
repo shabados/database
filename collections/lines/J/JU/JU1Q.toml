@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵੈਰੀ ਦੁੱਖ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕ ਸਕਦਾ (ਉਹਨਾਂ ਉਤੇ ਆਪਣਾ ਦਬਾਉ ਨਹੀਂ ਪਾ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਰੇ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

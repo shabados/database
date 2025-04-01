@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਨੇਕ ਸੀਰਤ ਇਨਸਾਨ# ਜੇਕਰ ਤੂੰ ਇਸ਼ਕ ਦੇ ਸਾਜ਼ ਦਾ ਇੱਕ ਵੀ ਸੁਰ ਸੁਣ ਲਵੇਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਾ ਮਾਨੀ ਦਾਇਮਾ ਐ ਨੇਕ ਖ਼ੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

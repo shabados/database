@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ ਤੈਨੂੰ ਸਾਜਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਬਨਤ = ਬਨਾਵਟ। ਤੇਰੀ ਬਨਤ ਬਨਾਈ = ਤੇਰੀ ਬਣੌਤ ਬਣਾਈ ਹੈ, ਤੈਨੂੰ ਸਾਜਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

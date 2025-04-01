@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਜਾ, ਪਰਜਾ ਦੇ ਮੁਖੀਏ, ਚੌਧਰੀ, ਸਰਦਾਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਰ = ਮੁਖੀਏ। ਮੁਕਦਮ = ਮੁਕੱਦਮ, ਚੌਧਰੀ। ਸਿਕਦਾਰ = ਸਰਦਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

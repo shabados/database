@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੇਰੇ ਕੋਲ ਜਾਨ ਹੈ, ਤਾਣ ਪਿਆਰੇ ਦੇ ਕਦਮਾਣ ਤੋਣ ਵਾਰ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਣ ਅਗਰ ਹਸਤ ਸਿਰਿ ਕਦਮਿ ਜਾਨਾਣ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

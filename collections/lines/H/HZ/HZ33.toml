@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਅਰਦਾਸ ਕਰ ਤੇ ਆਖ-) ਮੈਂ ਗੁਣ-ਹੀਨ ਹਾਂ, ਨੀਚ ਹਾਂ, ਨਿਆਸਰਾ ਹਾਂ, ਵਿਕਾਰੀ ਹਾਂ, ਮੈਂ ਸੰਤਾਂ ਦਾ ਪੱਲਾ ਫੜਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਨ = ਗੁਣ-ਹੀਣ। ਅਨਾਥ = ਨਿਆਸਰਾ। ਓਟ = ਆਸਰਾ, ਸਰਨ। ਆਹੀ = ਮੰਗੀ ਹੈ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

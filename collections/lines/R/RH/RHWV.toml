@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਜੇਹੜਾ (ਇਹ) ਸਰੀਰ ਤੂੰ ਆਪਣਾ ਕਰ ਕੇ ਸਮਝ ਰਿਹਾ ਹੈਂ ਅਤੇ ਘਰ ਦੀ ਸੁੰਦਰ ਇਸਤ੍ਰੀ ਨੂੰ ਆਪਣੀ ਮੰਨ ਰਿਹਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = ਤੂੰ। ਅਪਨੋ ਕਰਿ = ਆਪਣਾ ਕਰ ਕੇ। ਗ੍ਰਿਹ ਨਾਰੀ = ਘਰ ਦੀ ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

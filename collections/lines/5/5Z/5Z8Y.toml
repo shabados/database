@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਹਿਬਾਂ ਦੀ ਵਡਿਆਈ ਸਦੀਵੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਾਂ ਰਾ ਸਾਹਿਬੀ ਦਾਇਮ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੇਵ! ਤੇਰੇ ਵਰਗਾ ਕੋਈ ਹੋਰ ਮਾਲਕ ਮੈਨੂੰ ਨਹੀਂ ਦਿੱਸਿਆ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਸੋ = ਤੇਰੇ ਵਰਗਾ। ਠਾਕੁਰੁ = ਮਾਲਕ। ਦੇਵਾ = ਹੇ ਦੇਵ! ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

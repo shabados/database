@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ ਉਸ ਨੂੰ (ਮਾਇਆ ਦਾ) ਰਤਾ ਭਰ ਭੀ ਲਾਲਚ ਨਹੀਂ ਰਹਿੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਲੁ = ਰਤਾ ਭਰ ਭੀ। ਤਮਾਇਆ = ਲਾਲਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

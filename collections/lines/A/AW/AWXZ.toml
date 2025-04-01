@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਖ਼ਿਆਲ ਹੀ ਨਹੀਂ ਆਉਂਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਬਾਬਾ = ਹੇ ਪਿਤਾ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

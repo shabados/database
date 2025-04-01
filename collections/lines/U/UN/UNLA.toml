@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਫਸੋਸ ਹੈ ਸਾਡੀ ਅਣਗਹਿਲੀ ਤੇ, ਅਫਸੋਸ ਹੈ ਸਾਡੀ ਗ਼ਫਲਤ ਤੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਲਗ਼ਿਆਸ ਅਜ਼ ਗ਼ਫਲਤਿ ਮਾ ਅਲਗ਼ਿਆਸ ।੧੫।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

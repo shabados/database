@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ, ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਇਕ ਕੀਮਤੀ ਪਦਾਰਥ ਹੈ। ਇਹ ਪਦਾਰਥ ਪਰਮਾਤਮਾ ਨੇ ਸੰਤ-ਜਨਾਂ ਦੇ ਕੋਲ ਰੱਖਿਆ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਨ ਵਥੁ = ਕੀਮਤੀ ਪਦਾਰਥ। ਰਖੀਜੈ = ਰੱਖਿਆ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

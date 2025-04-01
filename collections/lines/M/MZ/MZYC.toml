@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਦੂਤ ਵੀ ਉਸ ਮਨੁੱਖ ਦੇ ਨੇੜੇ ਨਹੀਂ ਆ ਸਕਦਾ (ਮੌਤ ਉਸ ਨੂੰ ਡਰਾ ਨਹੀਂ ਸਕਦੀ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

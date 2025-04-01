@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਾਂ,) ਤੇਰੀ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਵਿਚ ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਹਨ (ਜਿਸ ਉਤੇ ਨਜ਼ਰ ਕਰਦਾ ਹੈਂ, ਉਸ ਨੂੰ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਨਿਧਾਨ = ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ। ਦ੍ਰਿਸਟੀ = ਨਜ਼ਰ, ਨਿਗਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

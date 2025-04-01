@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਾਲੀ ਬੋਲੀ ਰਾਤ ਨੂਰੋ ਨੂਰ ਹੋਕੇ ਚਮਕ ਉੱਠੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਬਿ ਤੀਰਹ ਰਖ਼ਸ਼ਾਂ ਸ਼ਦਾ ਹਮਚੂ ਨੂਰ ।੮੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

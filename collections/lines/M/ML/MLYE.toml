@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੇ) ਇਹ ਸਾਰੇ ਧੜੇ ਮਾਇਆ ਦਾ ਖਿਲਾਰਾ ਹਨ ਮੋਹ ਦਾ ਖਿਲਾਰਾ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਾਰੀ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਇਹ ਗੱਲ ਕਿਸ ਥਾਂ ਤੇ ਹੋ ਸਕਦੀ ਹੈ ਕਿ ਮਨੁੱਖ ਆਪਣੀ ਭੈੜੀ ਮੱਤ ਦੂਰ ਕਰ ਲਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਵਾਵੈ = ਚੁਕਾ ਦੇਵੇ, ਦੂਰ ਕਰੇ। ਸੋ = ਇਹ ਗੱਲ। ਕਿਤੁ ਠਾਇ = ਕਿਸ ਥਾਂ ਤੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

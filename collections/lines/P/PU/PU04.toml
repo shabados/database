@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੀ ਮਹਫਲ ਵਿਚ ਤਾਣ ਬਿਨਾ ਪ੍ਰੀਤਮ ਦੇ ਹੋਰ ਕਿਸੇ ਦੀ ਕਥਾ ਕਹਾਣੀ ਨਹੀਣ ਹੁੰਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਮਿਆਨਿ ਬਜ਼ਮਿ ਮਾ ਜੁਜ਼ ਕਿੱਸਾਇ ਜਾਨਾਨਾ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

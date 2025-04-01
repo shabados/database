@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਭੀ) ਮਨੁੱਖ (ਕਿਸੇ) ਰਾਹੀ ਨਾਲ ਪਿਆਰ ਪਾ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਟਾਊ = ਰਾਹੀ, ਮੁਸਾਫ਼ਿਰ। ਨੇਹ = ਪਿਆਰ, ਮੁਹੱਬਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

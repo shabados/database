@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਇਕੱਤ੍ਰ ਹੁੰਦੇ ਹਨ ਅਤੇ ਤਾਰਿਆਂ ਤੋਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਔਜੁਮਨ ਮੀ-ਕੁਨੰਦ ਵ ਅਜ਼ ਅੰਜਮ ।"
+page = 1
+line = 43
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

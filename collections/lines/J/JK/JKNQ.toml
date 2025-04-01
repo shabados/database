@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ (ਵਗਦੀਆਂ) ਨਦੀਆਂ ਵਿਚ ਟਿੱਬੇ ਵਿਖਾਲ ਦੇਂਦਾ ਹੈ, ਰੇਤਲੇ ਥਾਵਾਂ ਨੂੰ ਡੂੰਘੇ ਪਾਣੀ ਬਣਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਗਾਹ = ਡੂੰਘੇ ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

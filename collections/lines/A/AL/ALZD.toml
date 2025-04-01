@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ਼ੇਖ਼ ਫ਼ਰੀਦ! ਜਗਤ ਵਿਚ ਕੋਈ ਸਦਾ ਲਈ ਉਮਰ ਨਹੀਂ ਭੋਗ ਸਕਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਖ = ਹੇ ਸ਼ੇਖ਼ ਫ਼ਰੀਦ! ਹੈਯਾਤੀ = ਉਮਰ। ਜਗਿ = ਜਗਤ ਵਿਚ। ਥਿਰੁ = ਸਦਾ ਕਾਇਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

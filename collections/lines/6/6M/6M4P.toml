@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ (ਅਸਾਡਾ) ਮਨ (ਹਉਮੈ ਨਾਲ) ਮਸਤ ਹਾਥੀ ਬਣਿਆ ਪਿਆ ਹੈ (ਇਸ ਵਿਚੋਂ) ਕਿਵੇਂ ਲੰਘਿਆ ਜਾ ਸਕੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਗਲੁ = (ਸੰ: ਮਦਕਲ) ਮਸਤ ਹਾਥੀ। ਕਿਉਕਰਿ = ਕਿਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

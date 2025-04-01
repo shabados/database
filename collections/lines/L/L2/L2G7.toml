@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਗੰਦੇ ਰਹਿੰਦੇ ਹਨ; ਉਹਨਾਂ ਨੂੰ ਗੁਰ-ਸ਼ਬਦ ਚੰਗਾ ਨਹੀਂ ਲੱਗਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚਿਲ = ਗੰਦੇ। ਭਾਇਆ = ਚੰਗਾ ਲੱਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

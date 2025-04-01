@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੇਰੀ ਭਟਕਣਾ ਮੁੱਕ ਗਈ ਹੈ, ਮੈਂ ਟਿਕ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢੂੰਢ = ਭਾਲ, ਭਟਕਣਾ। ਵਞਾਈ = ਮੁਕਾ ਲਈ ਹੈ। ਥੀਆ ਥਿਤਾ = ਟਿਕ ਗਿਆ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

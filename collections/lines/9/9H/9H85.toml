@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਭੇਤ ਮੁਨੀ ਲੋਕ ਅਤੇ ਸ਼ੇਸ਼-ਨਾਗ ਭੀ ਨਹੀਂ ਪਾ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਖ = ਸ਼ੇਸ਼ ਨਾਗ। ਨ ਲਹਹਿ = ਨਹੀਂ ਲੱਭ ਸਕਦੇ {ਬਹੁ-ਵਚਨ}। ਭੇਵ = ਭੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

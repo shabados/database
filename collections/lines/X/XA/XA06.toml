@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਵੀਰ! (ਮੈਨੂੰ ਤਾਂ) ਪਿਛਲੇ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਲੇਖ ਮਿਲ ਪਿਆ ਹੈ (ਮੇਰੇ ਤਾਂ ਭਾਗ ਜਾਗ ਪਏ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬ ਲਿਖਤ = ਪਿਛਲੇ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਲੇਖਾ। ਮੇਰੇ ਭਾਈ = ਹੇ ਪਿਆਰੇ ਵੀਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

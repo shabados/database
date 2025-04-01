@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਬਿੰਦ! ਹੇ ਜੀਵਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਜਗਤ ਦੇ ਗੁਰੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦ ਗੁਰੋ = ਹੇ ਜਗਤ ਦੇ ਗੁਰੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰਾ ਪ੍ਰਭੂ (ਹਰੇਕ ਸਰੀਰ-ਕੋਠੜੀ ਵਿਚ) ਆਪਣੇ ਮੰਦਰ ਵਿਚ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਮੰਦਰਿ = ਆਪਣੇ ਮੰਦਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

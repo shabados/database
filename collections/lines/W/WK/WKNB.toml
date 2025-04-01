@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਤੀ ਅਕਾਸ਼ ਤੇ ਪਤਾਲ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਨਿ = ਧਰਤੀ। ਪਇਆਲ = ਪਤਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

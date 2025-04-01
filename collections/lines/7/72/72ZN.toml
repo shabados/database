@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਜੀਵ ਦੇ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੁਝ ਨਹੀਂ, ਜਿਵੇਂ ਤੂੰ ਤੋਰਦਾ ਹੈਂ ਤਿਵੇਂ ਸਾਰੇ ਜੀਵ ਤੁਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = ਹੱਥ ਵਿਚ। ਚਲਹਿ = ਚੱਲਦੇ ਹਨ, ਤੁਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਤਰੀਕਿਆਂ ਨਾਲ (ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ) ਉਪਦੇਸ਼ ਹੋ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗਤਿ = ਤਰੀਕਾ, ਢੰਗ। ਬਖਿਆਨ = ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ ਇਸ) ਇਕੋ ਹਿਰਦਾ-ਸੇਜ ਉਤੇ ਪ੍ਰਭੂ-ਪਤੀ (ਮੇਰੇ) ਨਾਲ (ਵੱਸਦਾ) ਹੈ, ਪਰ ਮੈਨੂੰ ਦਰਸਨ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਿਉ = ਪ੍ਰਭੂ-ਪਤੀ। ਸੰਗਿ = ਨਾਲ। ਦਰਸੁ = ਦਰਸਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

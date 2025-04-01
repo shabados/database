@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਅਰਦਾਸ ਕਰ ਤੇ ਆਖ) ਹੇ ਦਿਆਲ ਪ੍ਰਭੂ! (ਇਹਨਾਂ ਨੂੰ ਆਪ ਇਸ ਖੂਹ ਵਿਚੋਂ) ਕੱਢ ਲੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

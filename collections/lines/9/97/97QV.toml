@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਵਰਤਾਰਾ ਬਿਆਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਅੱਖਰ (ਕੇਵਲ) ਉਥੇ (ਹੀ) ਵਰਤੇ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾ = ਆਉਂਦੇ ਹਨ, ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

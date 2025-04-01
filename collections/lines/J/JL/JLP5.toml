@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਤੂੰ ਖ਼ੁਸ਼ ਹੋ ਜਾਏਂ ਉਸ ਦੇ ਸਾਰੇ ਪਾਪ ਮੁੱਕ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤੁਸਟੁ = ਪ੍ਰਸੰਨ। ਕਲਮਲ = ਪਾਪ। ਖਈ = ਨਾਸ ਹੋ ਗਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

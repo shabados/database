@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਸਹਾਰਾ ਹੈ, ਮੈਨੂੰ ਤੇਰੀ ਸਹਾਇਤਾ ਦੀ ਆਸ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

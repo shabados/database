@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਬਿਧਾ ਛੱਡ ਦੇਵਹੁ, ਇਹ ਗ਼ਲਤ ਰਸਤੇ ਤੇ ਪੈ ਕੇ ਲੁੱਟੇ ਜਾਵੋਗੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਵਾਟੜੀ = ਭੈੜੀ ਵਾਟ, ਮਾੜਾ ਰਸਤਾ। ਮੂਸਹੁਗੇ = ਲੁੱਟੇ ਜਾਵੋਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

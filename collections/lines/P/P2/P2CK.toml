@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਡਰ-ਅਦਬ ਦੀ ਭੰਗ ਨਾਲ) ਮੈਂ ਨਸ਼ਈ ਤੇ ਵਿਰਕਤ ਹੋ ਗਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵਾਨਾ = ਨਸ਼ਈ, ਮਸਤਾਨਾ। ਅਤੀਤੁ = ਵਿਰਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

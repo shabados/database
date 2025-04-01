@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਗੁਰੂ ਅੰਤ੍ਰੀਵ ਗਿਆਨ ਦਾ ਮਾਲਕ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਊ ਸਾਹਿਬਿ ਅਦਰਾਕ ਹਸਤ ।੨੮੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

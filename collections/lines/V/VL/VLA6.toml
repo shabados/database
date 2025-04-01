@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹੀ ਰਾਮ ਦਾਸ ਅਤੇ ਉਹੀ ਅਰਜੁਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮੂ ਰਾਮਦਾਸੋ ਹਮੂ ਅਰਜੁਨ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

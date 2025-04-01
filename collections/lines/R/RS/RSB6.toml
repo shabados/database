@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਪੰਛੀ ਪਿੰਜਰੇ ਵਿਚ ਕੈਦ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿੰਜਰਿ = ਪਿੰਜਰੇ ਵਿਚ। ਬੰਧਿਆ = ਕੈਦ ਕੀਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

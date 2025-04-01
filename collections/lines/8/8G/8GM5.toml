@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਰੱਬ ਦੀ ਜ਼ਾਤ ਦੇ ਢੁੰਢਾਊ ਹਨ, ਅਤੇ ਆਪ ਵੀ ਉਹ ਰੱਬ ਵਰਗੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਿ ਜ਼ਾਤ ਅੰਦ ਖ਼ੁਦ ਹਮ ਆਨਿ ਜ਼ਾਤ ।੯੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

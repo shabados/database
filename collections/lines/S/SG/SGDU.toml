@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਮਿਹਰ ਕਰ) ਮੈਂ ਸਦਾ ਤੇਰਾ ਨਾਮ ਜਪਦਾ ਰਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਜਪੀ = ਜਪੀਂ, ਮੈਂ ਜਪਾਂ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

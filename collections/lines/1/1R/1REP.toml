@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਗੁਣ ਗਾਂਦਾ ਰਿਹਾ ਕਰ ॥੪॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਮਿਲਿ = ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ॥੪॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

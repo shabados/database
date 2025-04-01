@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਜਾਏ, ਤਾਂ ਇਸ ਨੂੰ ਇਹਨਾਂ ਅੱਖਾਂ ਨਾਲ ਸਭ ਕੁਝ ਦਿੱਸ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖੀ = ਅੱਖਾਂ ਨਾਲ। ਸੂਝੈ = ਸੁੱਝ ਪੈਂਦਾ ਹੈ, ਦਿੱਸ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਮਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨੁ ਕੋਇ = ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

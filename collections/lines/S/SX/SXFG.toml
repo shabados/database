@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਹ ਗੁਰਸਿੱਖ ਹੀ (ਗੁਰੂ ਦੀ ਪਰਮਾਤਮਾ ਦੀ) ਵਧ-ਰਹੀ ਵੇਲ ਹਨ ਚੱਲ-ਰਹੀ ਪੀੜ੍ਹੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਲਿ = ਗੁਰਸਿੱਖੀ ਵਾਲੀ ਵੇਲ। ਪੀੜੀ = ਬੰਸ, ਕੁਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

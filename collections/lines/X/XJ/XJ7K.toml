@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਅਦਬ ਹੀ ਤਾਂ ਸਾਰਿਆਂ ਨੂੰ ਰਾਹ ਵਿਖਾਉਣ ਦੇ ਕਾਬਲ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਆਦਬ ਅਮਦ ਹਮਾ ਰਾ ਰਹਾਨੁਮਾ ।੩੦੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

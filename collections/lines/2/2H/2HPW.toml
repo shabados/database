@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਹੀਨੇ ਵਿਚ ਦੋ ਵਾਰੀ ਉਸ ਪਰਵਰਦਗਾਰ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਿਰਦ ਮੀ ਆਇੰਦ ਦਰ ਮਾਹੇ ਦੋ ਬਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

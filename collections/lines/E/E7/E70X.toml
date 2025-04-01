@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਦੂਜਿਆਂ ਨਾਲ ਈਰਖਾ ਕਰਨੀ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਤਿ = ਈਰਖਾ, ਸਾੜਾ। ਮੂੜੇ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

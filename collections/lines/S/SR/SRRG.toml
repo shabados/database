@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਮੈਨੂੰ ਚਾਹੀਦਾ ਹੈ, ਉਹ ਉਸ ਪਾਸੋਂ ਪਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿਹ ਮੀ ਖ਼ਾਹੀ ਅਜ਼ੋ ਹਾਸਿਲ ਸ਼ਵਦ ।੪੧੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

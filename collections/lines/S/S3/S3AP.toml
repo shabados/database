@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਂ ਜੋ ਉਹ ਹੀ ਦਿਲ ਅਤੇ ਜਾਨ ਨੂੰ ਸੁਖ ਬਖਸ਼ਣ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਂ ਕਿ ਊ ਆਰਾਮਿ ਜਾਨੋ ਦਿਲ ਬਵਦ ।੪੧੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

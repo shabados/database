@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਾਣ ਇਸ ਉਮਰ ਦਾ ਕੀ ਫਲ ਪਰਾਪਤ ਕੀਤਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਾਸਿਲਿ ਉਮਰ ਆਣ ਚਿਹ ਮਾ ਯਾਫ਼ਤਾ ਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

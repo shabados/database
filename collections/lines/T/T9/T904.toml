@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਤਾਣ ਮਹਾਤਮਾਣ ਦੀ ਰਸਨਾ ਉੱਤੇ ਉਸੇ ਦਾ ਹੀ ਟਿਕਾਣਾ ਹੈ ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੰਜ਼ਲਿ ਊ ਬਰ ਜ਼ੁਬਾਨਿ ਔਲੀਆ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

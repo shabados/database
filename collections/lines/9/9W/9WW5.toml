@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਅਨੇਕਾਂ (ਵਡ-ਭਾਗੀ) ਮਨੁੱਖ ਨਾਮ-ਵੱਖਰ ਦਾ ਸੌਦਾ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਈ ਕੇਇ = ਕਈ ਅਨੇਕਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

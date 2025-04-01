@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀ! ਮੇਰੀ ਇਹ ਤਾਂਘ ਹੈ ਕਿ) ਸਾਧ ਸੰਗਤ ਵਿਚ ਮੇਰਾ ਬਹਿਣ-ਖਲੋਣ ਹੋ ਜਾਏ ਤਾ ਕਿ ਮੈਂ (ਪਰਮਾਤਮਾ ਦੀ) ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੀ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸ = ਬੈਠਕ, ਬਹਿਣ-ਖਲੋਣ। ਕਿ = ਤਾ ਕਿ। ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਕਹਾਂ = ਕਹਾਂ, ਮੈਂ ਆਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਪਾਸੋਣ ਪ੍ਰੇਮ ਦੀ ਚਾਲ ਢਾਲ ਦੀ ਗੱਲ ਸੁਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਸ਼ਨੌ ਅਜ਼ ਮਨ ਹਰਫ਼ੇ ਅਜ਼ ਰਫ਼ਤਾਰਿ ਇਸ਼ਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

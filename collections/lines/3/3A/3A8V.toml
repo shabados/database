@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਸੰਸਾਰ ਵਿਚ) ਸ਼ੋਭਾ ਖੱਟ ਕੇ ਇੱਜ਼ਤ ਨਾਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ ਸਿਉ = ਇੱਜ਼ਤ ਨਾਲ। ਪਰਗਟੁ = ਪਰਸਿੱਧ ਹੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

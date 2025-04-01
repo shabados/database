@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਰੋਗ ਨਾਸ ਹੋ ਕੇ ਮਨੋਂ ਵਿਸਰ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪਿ = {Skt. व्याधि} ਸਰੀਰਕ ਰੋਗ। ਖੈ = ਨਾਸ ਹੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

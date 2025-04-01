@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਦੋਹਾਂ ਤੋਂ ਸੁਤੰਤਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਕਰਦਾ ਹੈ ਉਹ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਣ ਲੱਗ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮ। ਤੇ = ਤੋਂ। ਮੁਕਤਾ = ਸੁਤੰਤਰ। ਭਾਵਏ = ਭਾਵੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

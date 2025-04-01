@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਿਆਸਰਿਆਂ ਨੂੰ ਆਸਰਾ ਦੇਣ ਵਾਲਾ ਹੈ, ਅਤੇ ਧਨ-ਹੀਣਾਂ ਦਾ ਧਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਰੰ = ਆਸਰਾ-ਹੀਣ। ਧਰੰ = ਆਸਰਾ। ਨਰਹਰਹ = ਪਰਮਾਤਮਾ। ਨਾਮ ਨਰਹਰਹ = ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

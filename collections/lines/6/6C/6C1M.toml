@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਅੰਮ੍ਰਿਤ ਕੀਹ ਹੈ?) 'ਅੰਮ੍ਰਿਤ' ਪ੍ਰਭੂ ਦਾ 'ਨਾਮ' ਹੈ ਤੇ ਇਸ ਦੀ ਵਰਖਾ ਹੁੰਦੀ ਹੈ ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਿ = ਮਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

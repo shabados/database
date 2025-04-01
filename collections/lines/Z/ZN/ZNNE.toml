@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਅਫ਼ੀਮ ਆਦਿਕ ਨਸ਼ੇ ਦਾ ਆਦੀ ਹੋ ਜਾਂਦਾ ਹੈ ਉਸ ਦੀ ਉਮਰ ਨਸ਼ਿਆਂ ਵਿਚ ਹੀ ਗੁਜ਼ਰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਲੀ = ਅਫੀਮ ਆਦਿਕ ਨਸ਼ੇ ਦਾ ਆਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

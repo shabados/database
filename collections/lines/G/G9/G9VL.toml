@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਆਪਣੇ ਸਾਰੇ ਕੰਮ ਸਵਾਰ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੇ = ਸਫਲ ਕਰ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

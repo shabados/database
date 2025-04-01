@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਨਾਮ ਹੀ ਤੇਰੀ ਜਿੰਦ ਦੇ ਕੰਮ ਆਵੇਗਾ (ਜਿੰਦ ਦੇ ਨਾਲ ਸਦਾ ਨਿਭੇਗਾ) ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੈ ਕਾਮਿ = ਜਿੰਦ ਦੇ ਕੰਮ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਇਸ ਦੁਨੀਆਵੀ ਡੇਰੇ ਦੀ ਖ਼ਾਤਰ ਬੜੀ ਮਿਹਨਤ ਕਰ ਕੇ ਘਾਲਾਂ ਘਾਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਮੁ = ਮਿਹਨਤ। ਘਾਲੈ = ਜਤਨ ਕਰਦਾ ਹੈ, ਘਾਲ ਘਾਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

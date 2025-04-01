@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਜੀ ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ, ਉਸ ਦਾ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਮੁੱਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣ ਜਾਣਾ = ਜੰਮਣਾ ਮਰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਸੋਹਣੇ ਪ੍ਰਭੂ ਦੀ ਸੋਭਾ-ਵਡਿਆਈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਨ ਕੀ = ਸੋਹਣੇ ਲਾਲ ਦੀ, ਪਿਆਰੇ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

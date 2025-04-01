@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਸਾਰਿਆਂ ਨਾਲੋਂ ਚੰਗਾ ਸਮਝਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਊ = ਉਸੇ ਮਨੁੱਖ ਨੂੰ। ਗਨੀਐ = ਜਾਣੀਏ, ਸਮਝੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

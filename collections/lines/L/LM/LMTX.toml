@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਮੂਲ ਪ੍ਰਭੂ! ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ = ਸ੍ਰਿਸ਼ਟੀ। ਕਾਰਣ = ਮੂਲ। ਸਮਰਥਾ = ਸਭ ਤਾਕਤਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

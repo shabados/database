@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਹਰੇਕ ਜੰਗਲ ਵੇਖ ਚੁਕੀ ਹਾਂ, ਸਾਰੀ ਬਨਸਪਤੀ ਨੂੰ ਤੱਕ ਚੁਕੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨੁ ਬਨੋ = ਹਰੇਕ ਜੰਗਲ। ਦੇਖਿ ਰਹੀ = ਵੇਖ ਚੁਕੀ ਹਾਂ। ਤ੍ਰਿਣੁ = ਘਾਹ, ਬਨਸਪਤੀ। ਸਬਾਇਆ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

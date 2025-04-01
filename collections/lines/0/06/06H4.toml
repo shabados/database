@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪਣੇ ਸੇਵਕ ਨੂੰ ਮਾਣ ਬਖ਼ਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਾਈ = ਵਡਿਆਈ, ਮਾਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

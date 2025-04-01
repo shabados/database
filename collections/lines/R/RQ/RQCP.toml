@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਸ ਦਾ ਮਨ ਦਸੀਂ ਪਾਸੀਂ ਟਿਕਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹ ਦਿਸ = ਦਸ ਦਿਸ਼ਾਂ ਵਿਚ, ਦਸੀਂ ਪਾਸੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

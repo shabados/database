@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਉਸ ਮਨੁੱਖ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਤਨ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਹਉ = ਮੈਂ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

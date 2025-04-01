@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਕੇਹੜੇ ਮੁਹੂਰਤ ਹਨ ਜਦੋਂ ਮੈਂ ਆਪਣੇ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਸਕਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੋਗ = ਮਿਲਾਪ ਦਾ ਸਮਾ, ਲਗਨ, ਮੁਹੂਰਤ। ਮਿਲਉ = ਮਿਲਉਂ, ਮੈਂ ਮਿਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

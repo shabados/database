@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ ਸ਼ੁਕਰ ਕਰਨ ਦੇ ਥਾਂ) ਬੜੀਆਂ ਚਲਾਕੀਆਂ (ਕਰਨੀਆਂ) ਹਉਮੈ ਤੇ ਮਮਤਾ ਦੇ ਕਾਰਨ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੀ = ਮਮਤਾ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

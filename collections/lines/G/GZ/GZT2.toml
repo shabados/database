@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿੱਥੇ ਜੀਵਾਂ ਦੀ (ਕਰਣੀ ਦੀ) ਪਰਖ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਪਰਖ, ਕਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

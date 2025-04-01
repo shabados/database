@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ ਮੈਂ ਨਾਮਦੇਵ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਘਾਬਰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਪਰੋ = ਬਪੁਰਾ, ਵਿਚਾਰਾ, ਘਬਰਾਇਆ ਹੋਇਆ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

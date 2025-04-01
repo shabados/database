@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਖਿੜਾਉ ਉਸ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ, ਜਿਸ ਉੱਤੇ ਪ੍ਰਭੂ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੰਤੁ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

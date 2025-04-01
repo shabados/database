@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੋਹਣੇ ਲਾਲ! ਹੇ ਡੂੰਘੇ ਤੇ ਵੱਡੇ ਜਿਗਰੇ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ = ਹੇ ਲਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

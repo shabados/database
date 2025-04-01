@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਸ਼ੌਕ ਵਿਚ ਮਸਤ ਹੋਕੇ ਆਸ਼ਕ ਹਜ਼ਾਰ ਜਹਾਨ ਦਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਸਤਾਨਿ ਸ਼ੌਕ ਗ਼ੁਲਗ਼ਲਾ ਦਾਰੰਦ ਦਰ ਜਹਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

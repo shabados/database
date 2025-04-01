@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਐਸਾ ਹੈ ਜਿਸ ਵਿਚ ਉਸ ਦਾ) ਕੀਰਤਨ ਇਕ ਅਜਿਹਾ ਹੀਰਾ ਹੈ ਜਿਸ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮੋਲਕ = ਜਿਸ ਦਾ ਮੁੱਲ ਨਾਹ ਪਾਇਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

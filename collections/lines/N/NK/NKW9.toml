@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਹਜ਼ਾਰਾਂ ਕਿਸਮਾਂ ਦੀਆਂ ਚਲਾਕੀਆਂ ਭੀ ਕਰੇਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸ = ਹਜ਼ਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

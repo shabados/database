@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕੋਇਲ ਦੀ ਤਰ੍ਹਾਂ ਕੂਕਦਾ ਹੈਂ ਅਤੇ ਚੰਚਲ ਹੈ ਤੇਰੀ ਜੁਆਨੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਹਕਨਿ = ਕੂਕਦੀਆਂ ਹਨ। ਕੋਇਲਾ = ਕੋਇਲਾਂ। ਤਰਲ = ਚੰਚਲ। ਜੁਆਣੀ = ਜਵਾਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

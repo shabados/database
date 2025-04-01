@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ (ਵਡ-ਭਾਗੀਆਂ) ਨੇ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਆਪਣੇ ਮੱਥੇ ਉਤੇ ਲਾ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ ਧੂਰਿ = ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ, ਚਰਨ-ਧੂੜ। ਮੁਖਿ = ਮੂੰਹ ਉਤੇ, ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

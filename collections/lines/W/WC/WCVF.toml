@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਦਇਆ ਨਾਲ ਬਾਗ ਜ਼ਮੀਨਾਂ ਤੇ ਧਨ (ਤੈਨੂੰ ਨਸੀਬ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਖ = ਜ਼ਮੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

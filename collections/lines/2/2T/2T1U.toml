@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸੋ, ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੌਣ (ਸਹਾਈ) ਹੈ ਤੇ ਕਿੱਥੇ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੌਣ? ਕਹਾ = ਕਿੱਥੇ? ਕਹਾਂ? ਬਤਾਵਹੁ = ਦੱਸੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

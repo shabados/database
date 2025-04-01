@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਵਿਤ੍ਰ ਹੀ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨੀਤ = ਪਵਿਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

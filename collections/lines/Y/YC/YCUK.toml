@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਹਿਰਦੇ ਵਿਚ ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਕਾਂਗ ਨਦੀ ਵਾਂਗ (ਠਾਠਾਂ ਮਾਰ ਰਹੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਖ = ਤ੍ਰਿਸ਼ਨਾ। ਨੈ = ਨਦੀ। ਸਾਨੁ = ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

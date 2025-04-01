@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖੋ! ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਇਹ ਗੱਲ ਭੁੱਲ ਨਾਹ ਜਾਣੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੁਖ ਜਨ = ਹੇ ਮਨੁੱਖੋ! ਮਾਇਆ ਭਰਮਾਇਆ = ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

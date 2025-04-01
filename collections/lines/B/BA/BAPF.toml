@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਤਾ ਰਤਾ ਕਰ ਕੇ ਪਲ ਪਲ ਕਰ ਕੇ ਉਮਰ ਘਟਦੀ ਜਾਂਦੀ ਹੈ, ਪਰ ਮੂਰਖ ਮਨੁੱਖ (ਇਹ ਗੱਲ) ਸਮਝ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਧ = ਉਮਰ। ਘਾਟੈ = ਘਟਦੀ ਜਾ ਰਹੀ ਹੈ। ਗਵਾਰੁ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਮੂਰਖ ਹਾਂ, ਅੰਞਾਣ ਹਾਂ, ਸਾਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੀ ਕੁਝ ਭੀ ਸੂਝ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀਂ ਜੀਵ। ਅਗਿਆਨ = ਗਿਆਨ-ਹੀਣ। ਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

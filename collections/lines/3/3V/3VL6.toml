@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਿਰਜਣਹਾਰ! ਹੇ ਪਰਮਾਤਮਾ! ਸਾਰੇ ਦੇਵਤਿਆਂ ਵਿਚ ਤੂੰ ਆਪ ਹੀ ਦੇਵਤਾ (ਪ੍ਰਕਾਸ਼ ਕਰਨ ਵਾਲਾ) ਹੈਂ। ਤੂੰ ਪਰੇ ਤੋਂ ਪਰੇ ਹੈਂ, ਤੂੰ ਨਾਸ-ਰਹਿਤ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤੇ = ਹੇ ਸਿਰਜਣਹਾਰ! ਨਰਹਰਾ = ਹੇ ਪਰਮਾਤਮਾ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

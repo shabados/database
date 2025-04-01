@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ! ਉਸ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ) ਹਰੇਕ ਰੋਗ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਰਾਧਿ = ਸਿਮਰ। ਮਨਾ = ਹੇ ਮਨ! ਸਗਲ = ਸਾਰਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

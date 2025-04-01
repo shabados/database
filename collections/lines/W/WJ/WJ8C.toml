@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਉਸ ਦੀਦਾਰ ਤੋਣ ਕੁਰਬਾਨ ਜਾਵਾਣ, ਉਹ ਕਿੰਨਾ ਸੁਆਦਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਣ ਨਿਸਾਰਿਸ਼ ਬਸਕਿ ਆਣ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੪।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

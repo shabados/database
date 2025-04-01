@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਕਰਕੇ ਉਸ ਨੂੰ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ। ਤਾ ਕਉ = ਉਸ (ਮਨੁੱਖ) ਨੂੰ। ਪੀਰ = ਪੀੜ, ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

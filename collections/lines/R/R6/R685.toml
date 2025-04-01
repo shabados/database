@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਮੇਰੀ ਕੀਤੀ ਸਿਫਤ ਨਾਲ ਸਭ ਨੂੰ ਪਵਿੱਤ੍ਰ ਕਰ ਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਹਮਾ ਸ਼ੋ ਜ਼ਿ ਵਸਫ਼ਿ ਮਨ ਗੋਯਾ ।੨੬।"
+page = 1
+line = 26
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

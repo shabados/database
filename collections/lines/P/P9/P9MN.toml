@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਉਸਦੀ ਪਦਵੀ ਨਾਲੋਂ ਵਧੇਰੇ ਹੈ ਜਿਸ ਨੂੰ ਕਿ ਕੋਈ ਜਾਣ ਸਕੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ਾਂ ਬਰਤਰ ਆਮਦ ਕਿ ਦਾਨਦ ਕਸੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

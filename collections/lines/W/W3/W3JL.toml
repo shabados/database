@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਦਰੋਂ ਤ੍ਰਿਸ਼ਨਾ ਨਾਲ ਸੜੇ ਹੋਏ (ਹੋਣ ਕਰਕੇ) (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਚੌਹੀਂ ਪਾਸੀਂ ਭਟਕ ਭਟਕ ਕੇ ਥੱਕ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਖ = ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ। ਤਤੇ = ਸੜੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

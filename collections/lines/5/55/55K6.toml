@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕਰਮ ਅਤੇ ਬਖ਼ਸ਼ਿਸ਼ ਦੀ ਖਾਣ ਦਾ ਮੋਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਹੁਰਿ ਮਾਅਦਨਿ ਫ਼ਜਲੋ ਅਕਰਾਮ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

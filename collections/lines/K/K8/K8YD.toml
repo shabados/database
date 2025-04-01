@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉੱਚੇ ਆਤਮਕ ਜੀਵਨ ਦੀ ਮਰਯਾਦਾ ਪੂਰੇ ਗੁਰੂ ਤੋਂ ਹੀ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ। ਮਿਤਿ = ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦੇ ਦਿਲਾਂ ਦੀ ਜਾਣਨ ਵਾਲੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ = ਹਿਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

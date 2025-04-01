@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰਿਸ਼ਟੀ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਖ਼ੁਆਰ ਹੁੰਦੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣ ਜਾਣੈ = ਜਨਮ ਮਰਨ (ਦੇ ਗੇੜ) ਵਿਚ। ਪਰਜ = ਸ੍ਰਿਸ਼ਟੀ। ਵਿਗੋਈ = ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

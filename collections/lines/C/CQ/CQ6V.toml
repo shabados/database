@@ -5,6 +5,13 @@ language = "pa"
 data = "(ਨੰਦ) ਲਾਲ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ (ਦੇ ਦਰ) ਦਾ ਇਕ ਗੁਲਾਮ ਕੂਕਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲਾਅਲ ਸਗੇ ਗੁਲਾਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 157
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

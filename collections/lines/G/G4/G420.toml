@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮੇਹਰ ਨਾਲ ਤੂੰ ਠੰਢਾ ਪਾਣੀ ਪੀਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ = ਠੰਢਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਹੋਠਾਣ ਦੀ ਮੁਸਕਾਨ ਸਾਰੀਆਣ ਬੀਮਾਰੀਆਣ ਦੀ ਦਵਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਬੱਸੁਮਿ ਲਬਿ ਲਾਅਲਤ ਦਵਾਏ ਹਰ ਇਮਰਾਜ਼ ।੪੩।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਤੇ ਹੀ ਜੋ ਕੁਝ ਹੁੰਦਾ ਹੈ ਉਸ ਨੂੰ ਪ੍ਰਭੂ ਦਾ ਭਾਣਾ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ ਸੁਭਾਇ = ਸੁਤੇ ਹੀ, ਸੁਭਾਵਕ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

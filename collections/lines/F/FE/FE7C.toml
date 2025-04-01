@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਦੀਵਾਨੇ ਦਿਲ ਵਿਚ ਕੇਹੀ ਬਹਾਰ ਆਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਦੀਵਾਨਾਇ ਮਾ ਤੁਰਫ਼ਾ ਬਹਾਰੇ ਦਾਰਦ ।੨੯।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

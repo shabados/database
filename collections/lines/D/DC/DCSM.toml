@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਿਹਰ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਉਹ ਆਪ ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਵਿਚ ਜੋੜਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਲਏ = ਲਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

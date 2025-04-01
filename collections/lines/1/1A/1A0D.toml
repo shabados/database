@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜੀਵ ਦੇ) ਮੱਥੇ ਉਤੇ (ਜੋ ਕੁਝ ਕਰਤਾਰ ਵਲੋਂ) ਲਿਖਿਆ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਿਲਾਰਿ = ਲਿਲਾਟ, ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

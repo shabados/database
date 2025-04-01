@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਕਿਸੇ ਭੀ ਕੰਮ ਵਿਚ ਕਿਸੇ ਪਾਸੋਂ ਇਨਕਾਰ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਤਾ = ਬੁੱਤਾ, ਕੰਮ। ਬੁਤੈ = ਬੁੱਤੈ, ਕੰਮ ਵਿਚ। ਕਿਸ ਹੀ ਬੁਤੈ = (ਉਸ ਦੇ) ਕਿਸੇ ਭੀ ਕੰਮ ਵਿਚ। ਜਬਾਬੁ = ਉਜ਼ਰ, ਇਨਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

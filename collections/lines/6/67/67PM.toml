@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੰਨਾਂ ਨਾਲ ਕਿਸੇ ਦੀ ਭੀ ਨਿੰਦਿਆ ਨਹੀਂ ਸੁਣਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨ = ਕੰਨਾਂ ਨਾਲ। ਕਾਹੂ ਕੀ = ਕਿਸੇ ਦੀ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

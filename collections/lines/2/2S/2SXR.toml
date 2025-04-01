@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਸਿਮਰਿਆਂ ਉਸ ਮਨੁੱਖ ਦੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ = ਸਾਰੇ। ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤਾਂ ਦੇ ਸਿਰ ਤੇ ਸੱਚਾ ਛੱਤ੍ਰ ਝੁਲਾ ਕੇ ਉਸ ਨੇ ਭਗਤਾਂ ਨੂੰ ਪਾਤਸ਼ਾਹੀ ਬਖ਼ਸ਼ੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਤੀਅਨੁ = ਦਿੱਤੀ ਹੈ ਉਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

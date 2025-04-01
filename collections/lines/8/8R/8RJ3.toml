@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਦੇ ਸੇਵਕੋ! ਆਪਣੇ ਮਨ ਦੀ ਚਤੁਰਾਈ ਛੱਡ ਦਿਹੋ। ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਸਮਝ ਕੇ ਹੀ ਸੁਖ ਪਾ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨ = ਹੇ ਹਰੀ ਜਨੋ! ਬੂਝਿ = ਸਮਝ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਕੋਈ ਮਨੁੱਖ) ਸਾਰੀ ਧਰਤੀ ਤੇ ਫਿਰੇ, ਲੰਮੀ ਉਮਰ ਤਕ ਜੀਊਂਦਾ ਰਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਉ ਖੰਡ = ਨਉਂ ਹਿੱਸੇ। ਪ੍ਰਿਥਮੀ = ਧਰਤੀ। ਨਉ ਖੰਡ ਪ੍ਰਿਥਮੀ = ਧਰਤੀ ਦੇ ਨਉਂ ਹੀ ਹਿੱਸੇ, ਭਾਵ, ਸਾਰੀ ਧਰਤੀ। ਚਿਰੁ = ਬਹੁਤ ਲੰਮੀ ਉਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

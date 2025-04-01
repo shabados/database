@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਨੇ ਕਦੇ ਭੀ ਕੋਈ ਧਰਮ ਪੁਸਤਕ ਕੋਈ ਧਰਮ ਗੀਤ ਕੋਈ ਧਾਰਮਿਕ ਕਵਿਤਾ ਸੁਣੀ ਨਾਹ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨਿ = ਕੰਨ ਵਿਚ। ਕਰਨਿ ਧਰਿਆ = ਸੁਣਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

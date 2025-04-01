@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਿਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਧਨ ਵਾਲੇ ਹਨ, ਉਹ ਇੱਜ਼ਤ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਪਤਿਵੰਤੇ = ਇੱਜ਼ਤ ਵਾਲੇ। ਸਮਾਹਿ = ਲੀਨ ਰਹਿੰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

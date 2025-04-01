@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਮਿਹਰ ਨਾਲ ਮੈਂ ਸਦਾ ਹੀ ਸੁਖੀ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਅ ਪਰਸਾਦ = ਤੇਰੀ ਮਿਹਰ ਨਾਲ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

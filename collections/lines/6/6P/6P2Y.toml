@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਨੂੰ ਮੁੜ ਕਦੇ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਾਹ ਸਕਿਆ ॥੨॥੨੧॥੮੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਥੀਆ = ਨਾਹ ਹੋਇਆ ॥੨॥੨੧॥੮੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

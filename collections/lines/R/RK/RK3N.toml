@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਈ ਐਸੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ) ਹਉਮੈ ਚੰਗੀ ਲੱਗਦੀ ਹੈ, ਮਮਤਾ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ, ਮਾਇਆ ਦਾ ਮੋਹ ਪਸੰਦ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰਾ = ਮਮਤਾ। ਦੂਜਾ = ਮਾਇਆ ਦਾ ਮੋਹ। ਭਾਇਆ = ਪਸੰਦ ਆਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

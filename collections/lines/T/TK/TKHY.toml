@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਅੰਦਰ ਹੀ ਟਿਕਿਆ ਰਹਿ ਕੇ ਤੇ ਸੁਰਤ ਜੋੜ ਕੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਗਤਿ = ਅੰਦਰ ਹੀ ਟਿਕੇ ਰਹਿ ਕੇ। ਧਿਆਨੇ = ਧਿਆਨ ਦੀ ਰਾਹੀਂ, ਸੁਰਤ ਜੋੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

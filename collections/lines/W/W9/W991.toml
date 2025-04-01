@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐਨੇ ਮਿਲਾਪ ਦੀ ਹਾਲਤ ਵਿਚ ਤੂੰ ਕਿਊਣ ਗਾਫਲ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈਂ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੂ ਚਿਰਾ ਗ਼ਾਫ਼ਲੀ ਦਰ ਐਨਿ ਵਸਾਲ ।੫੩।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

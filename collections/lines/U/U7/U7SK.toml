@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ, ਜਗਤ ਵਿਚ ਆ ਕੇ ਉਸਦੀ ਜ਼ਿੰਦਗੀ ਕਾਮਯਾਬ ਹੋ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਪਛਾਤਾ = ਸਾਂਝ ਪਾਈ। ਜਗਿ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

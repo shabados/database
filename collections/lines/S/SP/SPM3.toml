@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਉਧਰੋਂ ਮੇਰੀ ਉਮਰ ਦੀ) ਕਹਾਣੀ ਹੀ ਮੁੱਕਣ ਤੇ ਆ ਗਈ ਹੈ ॥੪॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਾ = ਉਮਰ ਦੀ ਕਹਾਣੀ (ਭਾਵ, ਉਮਰ)। ਸਿਰਾਨੀ = ਮੁੱਕ ਚੱਲੀ ਹੈ ॥੪॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਕਾਂਇਆਂ ਜਿੰਦ ਨੂੰ) ਆਪਣੀ ਹੱਥੀਂ ਤੋਰ ਤੇ ਕਿਸ ਦੇ ਗਲ ਲੱਗੇਗੀ? (ਭਾਵ ਨਿਆਸਰੀ ਹੋ ਜਾਇਗੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਲਿ ਕੈ = ਤੋਰ ਕੇ। ਕੈ ਗਲਿ = ਕਿਸ ਦੇ ਗਲ ਵਿਚ? ਧਾਇ = ਦੌੜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

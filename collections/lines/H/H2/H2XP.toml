@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੂਹਾਂ ਦੀ ਦੁਨੀਆ ਦੇ ਲੱਖਾਂ ਹੀ ਫਰਿਸ਼ਤੇ ਉਸ ਦੇ ਮੁਰੀਦ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਹਜ਼ਾਰਾਂ ਮੁਰੀਦਸ਼ ਅਜ਼ ਮਲਕੂਤ ।"
+page = 1
+line = 17
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

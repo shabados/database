@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਘਰ (ਦੇ ਛੱਤ) ਨੂੰ ਥੰਮ੍ਹ ਸਹਾਰਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਰ = ਘਰ। ਥਾਮੈ = ਥੰਮ੍ਹਦਾ ਹੈ, ਸਹਾਰਾ ਦੇਈ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

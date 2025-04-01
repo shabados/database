@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਤੇ) ਅਨੇਕਾਂ ਪੀਰ ਪੈਗ਼ੰਬਰ, ਹੋਰਨਾਂ ਨੂੰ ਜੀਵਨ-ਰਾਹ ਦੱਸਣ ਵਾਲੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਕਾਮਰ = ਪੈਗ਼ੰਬਰ। ਸਾਲਕ = ਰਸਤਾ ਵਿਖਾਣ ਵਾਲੇ। ਸਾਦਕ = ਸਿਦਕ ਵਾਲੇ। ਸੁਹਦੇ = ਸ਼ੁਹਦੇ, ਮਸਤ ਫ਼ਕੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

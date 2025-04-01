@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਲੋਕ ਪਰਲੋਕ ਦੀ (ਭਾਵ, ਜੀਵਨ ਦੇ ਸਾਰੇ ਸਫ਼ਰ ਦੀ) ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ ਉਤ ਕੀ = ਲੋਕ ਪਰਲੋਕ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ ਹੈਂ ਤੇ ਪ੍ਰਿਥਵੀ ਦਾ ਸੱਚਾ ਸਾਈਂ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਾ = ਸੱਚਾ, ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ। ਗੋਸਾਈ = ਧਰਤੀ ਦਾ ਖ਼ਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

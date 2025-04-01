@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸਦਾ ਦਇਆਵਾਨ ਹੈ, ਉਹ (ਸਰਨ ਪਿਆਂ ਦੇ) ਅਵਗਣ (ਆਪਣੇ) ਸ਼ਬਦ ਵਿਚ (ਜੋੜ ਕੇ) ਸਾੜ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ (ਜੋੜ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

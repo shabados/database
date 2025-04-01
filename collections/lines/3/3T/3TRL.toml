@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਆਪਣੇ ਦਿਲ ਵਿੱਚੋਣ ਮੋਤੀਆਣ ਦੀ ਲੜੀ ਖੋਲ੍ਹ ਸਕਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਜ਼ਿ ਦਿਲ ਅਕਦਿ ਗੁਹਰ ਬਿਕੁਸ਼ਾਇਦਸ਼ ।੧੬੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

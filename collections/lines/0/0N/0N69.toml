@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰੀਆਣ ਅੱਖਾਣ ਵਿਚ ਪਿਆ ਵਸਦਾ ਹੈਣ, ਫਿਰ ਮੈਣ ਕਿਸ ਨੂੰ ਢੂੰਡ ਰਿਹਾ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦੀਦਾ ਤੂਈ ਵ ਮਨ ਬਹਰਿ ਕੂ ਜੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

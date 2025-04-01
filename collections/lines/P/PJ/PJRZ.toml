@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਚੇਤੇ ਰੱਖ) ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਵਿਸ਼ਿਆਂ ਦੀ ਠਗ-ਬੂਟੀ ਖਾ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਗਉਰੀ = ਠਗ-ਮੂਰੀ, ਠਗ-ਬੂਟੀ, ਉਹ ਬੂਟੀ ਜਿਹੜੀ ਖਵਾ ਕੇ ਠੱਗ ਭੋਲੇ ਲੋਕਾਂ ਨੂੰ ਠੱਗ ਲੈਂਦੇ ਹਨ। ਬਿਖੈ ਠਗਉਰੀ = ਵਿਸ਼ਿਆਂ ਦੀ ਠੱਗ-ਬੂਟੀ। ਜਿਨਿ ਜਿਨਿ = ਜਿਸ ਜਿਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

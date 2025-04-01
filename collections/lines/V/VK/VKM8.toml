@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਹੋਸ਼ ਕਰ, ਹੋਸ਼ ਕਰ! ਤੂੰ ਕਿਉਂ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਬੇ-ਪਰਵਾਹ ਹੋ ਕੇ ਸੌਂ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਗ ਲੇਹੁ = ਹੋਸ਼ ਕਰ, ਸੁਚੇਤ ਹੋ। ਕਹਾ = ਕਿਉਂ? ਗਾਫਲ = ਗ਼ਾਫ਼ਲ, ਬੇ-ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

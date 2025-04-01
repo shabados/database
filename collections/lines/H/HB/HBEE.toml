@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਦੇ ਦਰ ਤੋਂ ਖੁੰਝੇ ਰਹੋਗੇ ਤਾਂ (ਸੰਸਾਰ ਵਿਚ ਮੁੜ ਮੁੜ) ਜੰਮਦੇ ਮਰਦੇ ਰਹੋਗੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਭੂਲੇ = ਖੁੰਝੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

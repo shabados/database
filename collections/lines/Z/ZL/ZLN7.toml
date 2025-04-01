@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਤੀ ਦੇ ਮਿਲਾਪ ਦੀ ਤਾਂਘ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਇਸਤ੍ਰੀ ਦੀ ਆਸ ਪੂਰੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਵਤ = ਚੇਤਾ ਕਰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

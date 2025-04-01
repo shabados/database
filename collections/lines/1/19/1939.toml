@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਸਮਝੋ, ਕਿ ਉਸਨੇ ਅਮਰ ਜੀਵਨ ਦੀ ਪੂੰਜੀ ਨੂੰ ਪਰਾਪਤ ਕਰ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਕਦਿ ਉਮਰਿ ਜਾਵਿਦਾਂ ਦਰਯਾਫ਼ਤਸ਼ ।੩੯੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

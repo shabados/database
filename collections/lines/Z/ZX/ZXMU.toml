@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦਾ ਮੋਹ (ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ) ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ ਬੇ-ਸਮਝੀ ਹੈ, ਘੁੱਪ ਹਨੇਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ ਬੇ-ਸਮਝੀ। ਗੁਬਾਰੁ = ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

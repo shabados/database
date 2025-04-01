@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਦਮ ਉਹ ਚੰਗਾ ਹੈ, ਜਿਹੜਾ ਰੱਬ ਦੇ ਰਾਹ ਵਲ ਚੁਕਿਆ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਦਮ ਆਣ ਬਿਹ ਕਿ ਊ ਰਾਹਿ ਖ਼ੁਦਾ ਪੈਮੂਦਾ ਮੀ ਬਾਸ਼ਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

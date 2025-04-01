@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣੇ ਅੰਦਰ ਪ੍ਰਭੂ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਲਈ ਹੈ, ਜੋ ਸਦਾ ਸ੍ਰੇਸ਼ਟ ਨਾਮ ਮਹਾ ਰਸ ਪੀ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਆਪਣੇ ਅੰਦਰ। ਸਾਰਾ = ਸਾਰ, ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

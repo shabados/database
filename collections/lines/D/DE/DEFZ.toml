@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਆਸਾ, ਘਰ ੧੫ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = ਜਿਥੇ ਤਾਲ ਮੁੜ ਮੁੜ ਪਰਤਦਾ (-ਪੜ) ਰਹੇ, ਬਦਲਦਾ ਰਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

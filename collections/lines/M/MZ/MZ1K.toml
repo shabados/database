@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! (ਮੈਂ ਤਾਂ ਸਦਾ ਇਹੀ ਅਰਦਾਸ ਕਰਦਾ ਹਾਂ ਕਿ ਮੇਰੇ) ਦਿਲ ਦਾ ਜਾਨੀ ਪ੍ਰਭੂ (ਮੈਨੂੰ ਕਦੇ ਭੀ) ਨਾਹ ਭੁੱਲੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਹੀਏ ਕੋ = ਹਿਰਦੇ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

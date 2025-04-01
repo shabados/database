@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਦਾ ਤੇਰੀ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ ਹੈ ਤੇਰੇ ਸਾਰੇ ਕੰਮ ਸਿਰੇ ਚਾੜ੍ਹਨ ਦੇ ਸਮਰੱਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਰਥੁ = ਕਰਨ-ਯੋਗ। ਮਨਹੁ = ਮਨ ਤੋਂ। ਵਿਸਰੇ = ਵਿਸਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! (ਜ਼ਿੰਦਗੀ ਦੇ) ਦਿਨਾਂ ਵਿਚ ਮੈਨੂੰ ਹੋਰ ਹੋਰ ਕੰਮਾਂ ਵਿਚ ਨਾਹ ਲਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰ ਕਾਹੂ ਕਾਜ = ਕਿਸੇ ਹੋਰ ਕੰਮਾਂ ਵਿਚ। ਨ ਲਾਏ = ਨ ਲਾਇ, ਨਾਹ ਲਾਈ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

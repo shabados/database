@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਦਾ ਅਡੋਲ ਚਿੱਤ ਰਹਿੰਦਾ ਹੈ, ਉਹ ਕਦੇ ਭਟਕਦਾ ਨਹੀਂ ਫਿਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਡੋਲ-ਚਿੱਤ। ਆਵੈ ਨ ਜਾਇ = ਨਾਹ ਆਉਂਦਾ ਹੈ ਨਾਹ ਜਾਂਦਾ ਹੈ, ਭਟਕਦਾ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

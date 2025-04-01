@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਤਿ ਪਿਆਰੇ (ਪ੍ਰਭੂ!) ਜੇ ਤੂੰ ਮੇਰਾ ਹੱਥ ਫੜ ਲਏਂ, ਮੈਂ ਤੈਨੂੰ ਕਦੇ ਨਾ ਛੱਡਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੁ = (ਮੇਰਾ) ਹੱਥ। ਗਹਰਿ = (ਤੂੰ) ਫੜ ਲਏਂ। ਨ ਮੂਲਿ = ਕਦੇ ਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

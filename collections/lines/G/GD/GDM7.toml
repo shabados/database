@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ) ਵਿਰਕਤ ਉਹ ਹੈ ਜੋ ਉਪਰਾਮਤਾ ਨੂੰ ਸਦਾ ਕਾਇਮ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਾਸੀ = ਵਿਰਕਤ, ਮਾਇਆ ਤੋਂ ਉਪਰਾਮ। ਉਦਾਸੁ = ਮਾਇਆ ਤੋਂ ਉਪਰਾਮਤਾ। ਪਾਲੇ = ਸਦਾ ਕਾਇਮ ਰੱਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

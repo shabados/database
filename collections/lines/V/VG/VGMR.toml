@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ-ਮੋਤੀ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਉ = ਹੇ ਮਾਂ! ਮੋਹਿ = ਮੈਨੂੰ। ਮਾਣਿਕੁ = ਮੋਤੀ। ਡਿੰਨਾ = ਦਿੱਤਾ। ਆਪਹਿ = ਆਪ ਹੀ। ਧਣੀ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

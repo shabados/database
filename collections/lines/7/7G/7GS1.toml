@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਵੀਰ! ਤੂੰ ਆਪ ਨਾਮ ਸਿਮਰਨ ਦੀ ਕਮਾਈ ਕਰ, ਹੋਰਨਾਂ ਨੂੰ ਭੀ ਉਪਦੇਸ਼ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਉ = ਨਾਮ ਸਿਮਰਨ ਦੀ ਕਮਾਈ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

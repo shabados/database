@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਰਤੀ ਦੀਆਂ ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਦੇ ਸਾਰੇ ਹੀ ਜੀਵ (ਜਗਤ ਵਿਚ) ਆਉਂਦੇ ਹਨ ਤੇ ਫਿਰ ਇਥੋਂ ਚਲੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਦਨੀ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

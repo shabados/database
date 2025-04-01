@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਮਨ! ਤੂੰ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਜਪ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ = ਮੂਰਖ। ਤਾ ਕਉ = ਉਸ ਨੂੰ। ਜਾਪੁ = ਯਾਦ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

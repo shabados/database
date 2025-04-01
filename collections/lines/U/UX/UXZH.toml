@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਉਹ ਮੰਗਤਾ ਹੋਵੇ ਅਤੇ ਭਾਵੇਣ ਬਾਦਸ਼ਾਹ ਸੁਲਤਾਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਗਦਾ ਬਾਸ਼ਦ ਵਗਰ ਸੁਲਤਾਣ ਬਵਦ ।੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

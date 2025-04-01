@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਤੇਰਾ ਮੂੰਹ ਉਜਲਾ ਰਹੇਗਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ। ਊਜਲ = ਸਾਫ਼, ਬੇ-ਦਾਗ਼। ਮੁਖਾ = ਮੂੰਹ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

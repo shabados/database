@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਦੀਨ ਅਤੇ ਦੁਨੀਆ ਦੀ ਦੌਲਤ ਇਕ ਤੂੰ ਹੀ ਹੈਂ। ਤੂੰ ਸਾਰੀ ਖ਼ਲਕਤ ਤੋਂ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈਂ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਨਾਲੋਂ। ਪਾਕੁ = ਨਿਰਲੇਪ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਯਕੀਨ ਰੱਖ # ਕਿ ਉਸਦੇ ਮੰਗਤੇ ਪਾਤਸ਼ਾਹਾਣ ਦੇ ਪਾਤਸ਼ਾਹ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਮਾਮ ਦੌਲਤਿ ਦੁਨੀਆ ਬ-ਯੱਕ ਨਿਗਾਹ ਬਖ਼ਸ਼ੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

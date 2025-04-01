@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਵਿਚ ਚਾਰੇ ਦਿਸ਼ਾਣ ਅਤੇ ਨੌ ਅਸਮਾਨ ਮੌਜੂਦ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅੰਦਰੂਨਸ਼ ਚਾਰ ਸੂ ਵ ਨਹੁ ਤਬਕ ।੧੩੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

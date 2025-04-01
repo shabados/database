@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਹਰੇਕ ਜੀਵ ਦੇ) ਅੰਦਰ ਤੇ ਬਾਹਰ ਸਿਰਫ਼ ਤੂੰ ਹੀ ਵੱਸਦਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਜੀਵ ਨੂੰ ਸਮਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹਿ = ਦੇਂਹਿ, ਤੂੰ ਦੇਂਦਾ ਹੈਂ। ਬੁਝਾਈ = ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

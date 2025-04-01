@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਲੋਕ ਕਹਿ ਰਹੇ ਹਨ ਕਿ) ਜਿਵੇਂ ਮੱਛ ਪਾਣੀ ਨੂੰ ਛੱਡ ਕੇ ਬਾਹਰ ਨਿਕਲ ਆਉਂਦਾ ਹੈ (ਤਾਂ ਦੁਖੀ ਹੋ ਹੋ ਕੇ ਮਰ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨਾ = ਮੱਛ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਵਾਲਾ ਸਹਾਰਾ ਹੁਣ ਉਲਟ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਲਟੀਲੇ = ਉਲਟ ਜਾਂਦਾ ਹੈ। ਸਕਤਿ ਸਹਾਰੰ = ਮਾਇਆ ਦਾ ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

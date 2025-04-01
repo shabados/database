@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ ਰਹਿਣ ਦੇ ਕਾਰਨ ਆਖ਼ਿਰ) ਪਸ਼ੂ ਪੰਛੀ ਮੱਛੀ-ਇਹਨਾਂ ਨੀਵੀਆਂ ਜੂਨਾਂ ਦੇ ਗੇੜ ਦੇ ਦੁੱਖਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮ੍ਰਿਗ = ਪਸ਼ੂ। ਪੰਖੀ = ਪੰਛੀ। ਮੀਨ = ਮੱਛੀ। ਇਹ ਸੰਕਟ = ਇਹਨਾਂ ਕਸ਼ਟਾਂ ਵਿਚ। ਫਿਰਿ ਆਨੋ = ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

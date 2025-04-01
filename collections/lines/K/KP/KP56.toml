@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! (ਮੈਨੂੰ ਆਪਣੀ) ਮੇਹਰ ਦਾ ਜਲ ਦੇਹ। ਹੇ ਹਰੀ! ਮੈਨੂੰ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਦਾਤਿ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਹਰਿ = ਹੇ ਹਰੀ! ਨਾਈ = ਵਡਿਆਈ, ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

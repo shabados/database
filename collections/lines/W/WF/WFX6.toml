@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ (ਤਾਂ) ਮੂਰਖ ਹਾਂ, ਨੀਵੇਂ ਜੀਵਨ ਵਾਲਾ ਹਾਂ, ਮੈਂ ਪਰਮਾਤਮਾ ਦੀ ਬਜ਼ੁਰਗੀ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਨੀਚਾਣੁ = ਨੀਵਾਂ। ਮੁਗਧੁ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

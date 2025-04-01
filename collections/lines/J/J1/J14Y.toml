@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੀ ਹੈ ਸਮਾ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਣ ਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰੀਆ = ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

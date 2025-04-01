@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਧੋਣ ਵੇਲੇ) ਕੱਪੜਾ (ਪਟੜੇ ਤੇ) ਪਟਕਾਈਦਾ ਹੈ, ਜਿਵੇਂ ਘੜਿਆਲ ਮੁੜ ਮੁੜ (ਚੋਟਾਂ ਖਾਂਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛੋੜੀਐ = ਪਟੜੇ ਉੱਤੇ ਪਟਕਾਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

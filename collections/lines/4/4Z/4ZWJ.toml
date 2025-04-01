@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਕਦੇ ਮਾਪਿਆਂ ਦਾ ਪਿਆਰਾ ਪੁੱਤਰ ਸੀ, ਕਦੇ ਸਹੁਰੇ ਦਾ ਸਿਆਣਾ ਜਵਾਈ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਕਾ = ਚੰਗਾ, ਪਿਆਰਾ। ਸਸੁਰੈ = ਸਹੁਰੇ ਦਾ। ਚਤੁਰੁ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

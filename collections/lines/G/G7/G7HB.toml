@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਨਮ ਤੇ ਮਰਨ ਉਸ ਨੇ ਇਕ ਗਿਰਾਹੀ ਕਰ ਲਏ ਹੋਏ ਹਨ (ਉਸ ਨੂੰ ਨਾਹ ਜਨਮ ਹੈ ਨਾਹ ਮੌਤ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਾਲ = {ਕਾਲ ਦੇ ਉਲਟ} ਜਨਮ। ਗ੍ਰਾਸਾ = ਗਿਰਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

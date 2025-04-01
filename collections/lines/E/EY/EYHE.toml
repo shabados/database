@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਲਾਲਚੀ ਮਨੁੱਖ ਨੂੰ ਧਨ-ਪ੍ਰਾਪਤੀ (ਤੋਂ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭੀਐ = ਲੋਭੀ ਨੂੰ, ਲਾਲਚੀ ਮਨੁੱਖ ਨੂੰ। ਦਾਨੁ = ਦਿੱਤਾ ਜਾਣਾ, ਪ੍ਰਾਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

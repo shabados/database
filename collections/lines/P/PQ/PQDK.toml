@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ ਮੇਰਾ ਬਲ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਧਨ ਹੈ, ਤੇਰਾ ਹੀ ਮੈਨੂੰ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਕੀਆ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੋ ਮਨੁੱਖ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ, ਆਤਮਕ ਮੌਤ ਉਸਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕ ਸਕਦੀ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਕਾਲੁ = ਮੌਤ, ਆਤਮਕ ਮੌਤ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

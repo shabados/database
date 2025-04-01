@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਰੱਬ ਦਾ ਤਾਲਾਬ ਮਿੱਟੀ ਨੂੰ ਨੂਰ ਭਰਿਆ ਸੂਰਜ ਬਣਾ ਲਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਿ ਹੱਕ ਖ਼ਾਕ ਰਾ ਖ਼ੁਰਸ਼ੀਦਿ ਅਨਵਰ ਮੀ ਕੁਨਦ ।੩੧।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

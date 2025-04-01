@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਕ ਉਸ (ਹਰੀ) ਨੂੰ ਹੀ ਆਪਣਾ ਮਿੱਤ੍ਰ ਬਣਾਇਆ ਹੈ ਜੋ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੋ। ਕਲਾ = ਸੱਤਿਆ, ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

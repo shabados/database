@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਠਾਕੁਰ! ਮੈਂ ਗਰੀਬ ਤੇਰੇ ਦਰ ਤੇ ਆਇਆ ਹਾਂ, ਮੈਂ ਹਾਰ ਕੇ ਤੇਰੇ ਸੰਤਾਂ ਦੀ ਸਰਨ ਆ ਪਿਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰੈ = ਦਰ ਤੇ। ਹਾਰੇ = ਹਾਰਿ, ਹਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਕਦਰ ਹਰ ਮੂਰਖ ਕਿਵੇਣ ਸਮਝ ਸਕਦਾ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਦਰਿ ਊ ਰਾ ਕੈ ਬਿਦਾਨਦ ਹਰ ਜਹੂਲ ।੧੩੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀਆਂ ਛੁਪੀਆਂ ਹੋਈਆਂ ਖੁਬੀਆਂ ਦਾ ਜਦ ਪਤਾ ਚਲ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਹਰਮ ਹਰਫ਼ਾਤਿ ਊ ਰਾ ਗਸ਼ਤਾ ਅਸ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਗੱਲ ਚੇਤੇ ਨਹੀਂ ਰੱਖਦਾ ਕਿ) ਭੈੜਾ ਕਾਲ, ਨਾਸ ਕਰਨ ਵਾਲਾ ਕਾਲ ਦੁਨੀਆ ਦੇ ਸਿਰ ਤੇ (ਹਰ ਵੇਲੇ ਖੜਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਰਾ = ਭੈੜਾ। ਖੈ = ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

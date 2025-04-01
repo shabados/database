@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ ਆਤਮਕ ਮੌਤ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁੱਕ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਕਾਲੁ = ਮੌਤ, ਆਤਮਕ ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਸਾਰੇ ਚੋਣਵੇਂ ਪਤਵੰਤਿਆਂ ਵਿਚੋਂ ਉਨ੍ਹਾਂ ਨੂੰ ਚੁਣਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਅਜ਼ ਹਮਾ ਬਰ-ਗ਼ੁਜ਼ੀਦਗਾਂ ਬਰਗੁਜ਼ੀਦਸ਼ ।"
+page = 9
+line = 101
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

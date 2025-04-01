@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘੋੜੇ ਊਠ ਸਭ ਮਾਇਆ ਵਿਚ ਫਸੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਰੇ = ਘੋੜੇ। ਉਸਟ = ਊਠ। ਭੇਲਾ = ਘਿਰੇ ਹੋਏ, ਗ੍ਰਸੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

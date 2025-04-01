@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ) ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ ਧੂੜ ਵਿਚ ਲੱਗ ਰਿਹਾ ਹੈ, (ਉਸ ਨੂੰ) ਅੱਗ ਸਾੜ ਨਹੀਂ ਸਕਦੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕ = ਅੱਗ। ਜਰਿਓ ਨ ਜਾਤ = ਸਾੜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਜਨ ਧੂਰਿ = ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

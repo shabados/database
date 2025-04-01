@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ, (ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੀ) ਸੂਝ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਬੁਝਾਈ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

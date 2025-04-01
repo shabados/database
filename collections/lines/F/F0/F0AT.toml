@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ (ਤੇਰੇ ਦਰ ਤੇ) ਅਰਦਾਸ ਕਰਦਾ ਹਾਂ, ਮੈਨੂੰ ਆਪਣੇ ਨਾਮ ਦੀ ਦਾਤਿ ਬਖ਼ਸ਼।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤੀ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ। ਕਰ = ਹੱਥ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

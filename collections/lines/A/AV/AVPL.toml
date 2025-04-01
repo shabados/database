@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਚਿੱਤ੍ਰ ਵਿਚ ਉਹ ਚਿੱਤ੍ਰਕਾਰ ਹੀ ਝਲਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰਮਿਆਨਿ ਨਕਸ਼ ਨੱਕਾਸ਼ ਅਸਤੋ ਬਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

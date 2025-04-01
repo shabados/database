@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਨ ਨੇ, ਜੁਆਨੀ ਨੇ, ਲੋਭ ਨੇ, ਅਹੰਕਾਰ ਨੇ, (ਸਾਰੇ) ਜਗਤ ਨੂੰ ਲੁੱਟ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨਿ = ਧਨ ਨੇ। ਜੋਬਨਿ = ਜੋਬਨ ਨੇ। ਲਬਿ = ਲੱਬ ਨੇ। ਲੋਭਿ = ਲੋਭ ਨੇ। ਅਹੰਕਾਰਿ = ਅਹੰਕਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

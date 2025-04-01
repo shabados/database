@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ (ਸ਼ਰਾਬ) ਜਿਸ ਦੇ ਪੀਤਿਆਂ ਅਕਲ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ਤੇ ਬਕਣ ਦਾ ਜੋਸ਼ ਆ ਚੜ੍ਹਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਲੁ = ਝੱਲਪੁਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

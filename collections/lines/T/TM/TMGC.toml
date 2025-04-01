@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਂਸ਼ੀ, ਕਾਂਤੀ, ਦੁਆਰਕਾ ਪੁਰੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਂਤੀ = ਕਾਂਚੀ, ਜਿਸ ਦਾ ਪ੍ਰਸਿੱਥ ਨਾਮ 'ਕਾਂਜੀ-ਵਰਮ' ਹੈ, ਸੱਤ ਪੁਰੀਆਂ ਵਿਚੋਂ ਇਕ ਪਵਿਤ੍ਰ ਪੁਰੀ। ਪੁਰੀ ਦੁਆਰਾ = ਦੁਆਰਕਾ ਪੁਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

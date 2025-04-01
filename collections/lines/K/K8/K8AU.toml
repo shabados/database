@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਾਮ-ਵਾਸਨਾ ਦੀ ਖ਼ਾਤਰ ਹਾਥੀ ਫਸ ਗਿਆ, ਉਹ ਵਿਚਾਰਾ ਪਰ-ਅਧੀਨ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ ਹੇਤਿ = ਕਾਮ-ਵਾਸ਼ਨਾ ਦੀ ਖ਼ਾਤਰ। ਕੁੰਚਰੁ = ਹਾਥੀ। ਫਾਂਕਿਓ = ਫੜਿਆ ਗਿਆ। ਓਹੁ = ਉਹ ਹਾਥੀ। ਵਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

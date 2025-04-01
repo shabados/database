@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ (ਵਡ-ਭਾਗੀਆਂ) ਦਾ ਹਿਰਦਾ ਸ਼ਾਂਤ ਹੋ ਗਿਆ ਹੈ, ਉਹਨਾਂ ਦਾ ਮਨ ਉਹਨਾਂ ਦਾ ਤਨ ਸ਼ਾਂਤ ਹੋ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ = ਠੰਢੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

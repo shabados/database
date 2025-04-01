@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਦਰ ਤੇ ਤਾਂ) ਇਕ ਦੂਜੀ ਤੋਂ ਵਧੀਆ ਤੋਂ ਵਧੀਆ ਹਨ, ਮੇਰਾ ਤਾਂ ਉਥੇ ਕੋਈ ਨਾਮ ਭੀ ਨਹੀਂ ਜਾਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਦੂ = ਇਕ ਤੋਂ। ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਚੜੰਦੀਆ = ਵਧੀਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

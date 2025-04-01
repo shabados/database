@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਕੂਮਤਿ, ਜ਼ਮੀਨ ਦੀ ਮਾਲਕੀ, ਜੋਬਨ, ਘਰ, ਇੱਜ਼ਤ, ਸੁੰਦਰਤਾ, ਜੁਆਨੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਕ = ਜੀਵਨ, ਭੁਇਂ। ਗ੍ਰਿਹ = ਘਰ। ਰੂਪਵੰਤੁ = ਰੂਪ ਵਾਲਾ। ਜਆਨੀ = {ਅਸਲ ਲਫ਼ਜ਼ 'ਜੁਆਨੀ' ਹੈ, ਇਥੇ 'ਜੋਆਨੀ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

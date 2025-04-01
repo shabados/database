@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਦਰਦ ਦੇ ਮਾਰੇ ਪਰਦੇਸੀਆਣ ਦੇ ਹਾਲ ਤੇ ਤਰਸ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਹਿਮੇ ਬਿਕੁਨ ਬਹਾਲਿ ਗਰੀਬਾਨਿ ਦਰਦਨਾਕ ।੫੧।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

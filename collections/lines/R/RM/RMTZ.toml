@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਤੂੰ ਮੇਰੇ ਵਿਚ ਇਤਨੀ ਸੱਤਿਆ ਪਾ ਦੇਵੇਂ ਕਿ ਮੈਂ ਆਖਦਾ ਆਖਦਾ ਨਾਹ ਹੀ ਥੱਕਾਂ ਤੇ ਨਾਹ ਹੀ ਕਿਸੇ ਦਾ ਰੋਕਿਆਂ ਰੁਕਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਠਾਕੀਆ = ਨਾਹ ਮੈਂ ਰੁਕਿਆ ਰਹਾਂ। ਜੋਤਿ = ਸੱਤਿਆ। ਏਵਡ ਜੋਤਿ = ਇਤਨੀ ਸੱਤਿਆ। ਰਖਹਿ = ਤੂੰ ਪਾ ਦੇਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

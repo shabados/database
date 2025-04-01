@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਸੁਣਨੋਂ ਮਨ ਵਿਚ ਆਲਸ ਕਰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਤ = ਸੁਣਦਿਆਂ, ਸੁਣਨੋਂ। ਮਨਿ = ਮਨ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

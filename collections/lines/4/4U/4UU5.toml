@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਦਇਆ ਦਾ ਸੋਮਾ ਪਰਮਾਤਮਾ (ਆਪਣੇ) ਭਗਤਾਂ ਦੇ ਵੱਸ ਵਿਚ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤ ਵਸਿ = ਭਗਤਾਂ ਦੇ ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

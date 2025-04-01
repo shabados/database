@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਦੇ ਜਾਣਨ ਵਿਚ ਉਸਦੀ ਦਿਬ-ਦ੍ਰਿਸ਼ਟੀ ਸਭ ਨਾਲੋਂ ਉਚੇਰੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹੱਕ ਦਾਨੀ ਅਜ਼ ਜੁਮਲਾ ਵਾਲਾ ਨਜ਼ਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

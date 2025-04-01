@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਖਸ਼ਿਸ਼ਾਂ ਦਾ ਸਮੁੰਦਰ ਅਤੇ ਮਿਹਰਾਂ ਦਾ ਸਾਗਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਹੀਤਿ ਫ਼ਯੂਜ਼ਾਤੋ ਬਹਿਰਿ ਫ਼ਜ਼ਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਰਾਹ ਤੇ ਚਲਣ ਵਾਲੇ ਪਾਂਧੀ ਨੂੰ ਮੇਰੀ ਨਮਸਕਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਰਨਸ਼ਿ ਮਨ ਸਾਲਿਕਿ ਈਂ ਰਾਹ ਰਾ ।੩੪੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

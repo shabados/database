@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਜੀਬਾ ਤੇ ਸਿਰਫ਼ ਉਸ ਸਰਬ ਸ਼ਕਤੀਮਾਨ ਦਾ ਨਾਮ ਹੀ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਜ਼ਬਾਨਸ਼ ਨਾਮਿ ਸੁਬਹਾਨ ਅਸਤੋ ਬਸ ।੩੯।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

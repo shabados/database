@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਵੇਲੇ) ਮਾਲਕ ਦਾ ਹੁਕਮ ਹੁੰਦਾ ਹੈ (ਇਹ ਜੀਵ) ਉੱਠ ਕੇ ਰਾਹੇ ਪੈ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਲਾ = ਰਸਤਾ, ਰਾਹ। ਕਰਲੈ = ਰਾਹੇ, ਰਸਤੇ ਤੇ। ਪਾਹਿ = ਪੈ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

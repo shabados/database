@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਆਦਮੀ ਆਪਣੇ ਲਈ ਕੁਝ ਨ ਕੁਝ ਲੋਚਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸ ਜ਼ਿ ਬਰਾਇ ਖ਼ੇਸ਼ ਚੀਜ਼ੇ ਮੀ ਖ਼ਾਹਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਵਣਜਾਰੇ ਨੇ) ਭਾਲ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਆਪਣਾ (ਉਹ ਅਸਲੀ) ਘਰ ਲੱਭ ਲਿਆ (ਜਿਥੇ ਪ੍ਰਭੂ-ਸ਼ਾਹ ਵੱਸਦਾ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਜ ਘਰੁ = ਆਪਣਾ ਅਸਲੀ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

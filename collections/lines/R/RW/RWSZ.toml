@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਞਾਣ ਨਾਲ ਮਿੱਤਰਤਾ, ਜਾਂ ਆਪਣੇ ਨਾਲੋਂ ਵੱਡੇ ਨਾਲ ਪਿਆਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਾਰੂ = ਵੱਡਾ ਮਨੁੱਖ, ਆਪਣੇ ਨਾਲੋਂ ਵੱਡਾ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

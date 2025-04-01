@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਅਫਸੋਸ ਕਿ ਤੈਨੂੰ ਉਸ ਗੁਪਤ ਖ਼ਜ਼ਾਨੇ ਦਾ ਪਤਾ ਹੀ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲੇਕ ਜ਼ਾਣ ਗੰਜੇ ਤੁਰਾ ਨਭਬਵਦ ਖ਼ਬਰ ।੧੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

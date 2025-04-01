@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਇਸ ਤਰ੍ਹਾਂ ਭੀ) ਹਉਮੈ ਅਹੰਕਾਰ ਮਨ ਵਿਚੋਂ ਘਟਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੁ = ਅਹੰਕਾਰ। ਗੁਮਾਨੁ = ਅਹੰਕਾਰ। ਹੁਟੈ = ਘਟਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

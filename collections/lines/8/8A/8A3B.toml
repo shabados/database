@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਛੱਡ ਕੇ ਮੈਂ ਕਿਸੇ ਹੋਰ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹੀ = ਸਾਲਾਹੀਂ, ਮੈਂ ਸਾਲਾਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

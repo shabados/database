@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਵਾਲੇ ਉਹਨਾਂ) ਸੰਤ ਜਨਾਂ ਦੀ ਮੈਂ ਕੇਹੜੀ ਵਡਿਆਈ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਨਉ = ਵਖਾਨਉਂ, ਮੈਂ ਬਿਆਨ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

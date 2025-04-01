@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜਿੰਦੇ!) ਮਾਇਆ ਦੇ ਜਿਤਨੇ ਭੀ ਰੰਗ-ਤਮਾਸ਼ੇ ਹਨ ਉਹ ਸਾਰੇ ਪਰਛਾਵੇਂ ਵਾਂਗ ਢਲ ਜਾਣ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ = ਤਮਾਸ਼ੇ। ਤੇਤੇ = ਉਹ ਸਾਰੇ। ਪਛਾਵਿਆ = ਪਰਛਾਵੇਂ (ਵਾਂਗ ਢਲ ਜਾਣ ਵਾਲੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

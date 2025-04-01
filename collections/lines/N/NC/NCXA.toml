@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਮੇਰੇ ਸਿਰ ਉੱਤੇ ਰਾਖਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧੌ = {ਮਾ-ਧਵ = ਮਾਇਆ ਦਾ ਪਤੀ} ਹੇ ਪ੍ਰਭੂ! ਸਿਰਿ ਮੋਰਾ = ਮੇਰੇ ਸਿਰ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ! (ਮੈਂ) ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ (ਮੈਨੂੰ ਗੁਰੂ ਮਿਲਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

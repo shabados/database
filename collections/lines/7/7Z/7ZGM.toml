@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ਲੋਕ ਪਰਲੋਕ ਦਾ ਸਰਦਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰਵਰਿ ਕੌਨਨ ਗੁਰੂ ਕਰਤਾ ਹਰਿ ਰਾਇ ।੮੮।"
+page = 7
+line = 88
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

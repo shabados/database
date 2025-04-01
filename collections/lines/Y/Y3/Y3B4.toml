@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਰਾਹ ਉਤੇ ਤੋਰਨਾ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਸ ਰਾਹ ਉੱਤੇ ਹੀ (ਜੀਵਾਂ ਨੂੰ) ਤੋਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਉੱਤੇ। ਜਿਤੁ ਰਾਹਿ = ਜਿਸ ਰਾਹ ਉੱਤੇ। ਤਿਤੁ ਰਾਹਿ = ਉਸ ਰਾਹ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਿਆ ਕਰੋ, ਇਹੀ ਜਪਣ-ਜੋਗ ਜਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪੁ ਜਪਨੇ = ਜਪਣ-ਯੋਗ ਜਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

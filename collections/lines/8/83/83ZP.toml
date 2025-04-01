@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੇਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਮਿਲ, ਦਇਆ ਕਰ ਕੇ ਮੈਨੂੰ ਆਪਣੇ ਲੜ ਲਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਮਇਆ = ਦਇਆ। ਧਾਰੇ = ਧਾਰਿ, ਧਾਰ ਕੇ। ਲੜਿ = ਲੜ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

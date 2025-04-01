@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨ ਡੋਲਦਾ ਹੀ ਰਹਿੰਦਾ ਹੈ ਤੇ ਜੀਵ ਨਰਕ ਵਿਚ ਹੀ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕੇ = ਨਰਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

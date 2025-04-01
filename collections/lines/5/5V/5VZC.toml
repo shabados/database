@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆਦਾਰ ਤਾਂ ਕਿਤੇ ਰਹੇ) ਤਿਆਗੀਆਂ ਨੂੰ (ਭੀ) ਇਹ ਦਸ ਇੰਦ੍ਰੇ ਚਮੋੜ ਦੇਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਰੀ = ਇੰਦ੍ਰੇ। ਅਉਧੂਤ = ਤਿਆਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

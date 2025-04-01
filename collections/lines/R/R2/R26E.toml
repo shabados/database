@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੌਤ-ਜਾਲ ਦੀ ਸੋਝੀ ਨਹੀਂ ਲੈਂਦੀ (ਭਾਵ, ਇਹ ਨਹੀਂ ਸਮਝਦੀ ਕਿ ਇਹ ਜਾਲ ਮੇਰੀ ਮੌਤ ਦਾ ਕਾਰਨ ਬਣੇਗਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲ ਜਾਲ ਕੀ = ਮੌਤ-ਰੂਪ ਜਾਲ ਦੀ। ਸੁਧਿ = ਸੂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

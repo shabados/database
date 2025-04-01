@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੀ ਸ਼ਰਨ ਪਿਆਂ ਕਿਤੇ ਭੀ ਕੋਈ ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤਹਿ = ਕਿਤੇ ਭੀ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

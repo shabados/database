@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਨਾਮ ਸਿਮਰਿਆਂ ਉਸ ਦੇ ਸਾਰੇ ਰੋਗ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਰੋਗ = ਸਾਰੇ ਰੋਗ। ਖਇਆ = ਖੈ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

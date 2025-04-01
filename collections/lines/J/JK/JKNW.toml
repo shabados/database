@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਾਹਮਣ ਲਈ ਚੁਲੀ ਸੰਤੋਖ ਹੈ ਤੇ ਗ੍ਰਿਹਸਤੀ ਲਈ ਚੁਲੀ ਹੈ ਉੱਚਾ ਆਚਰਨ ਅਤੇ ਸੇਵਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਹੀ = ਗ੍ਰਿਹਸਤੀ। ਸਤੁ = ਉੱਚਾ ਆਚਰਨ। ਦਾਨੁ = ਸੇਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

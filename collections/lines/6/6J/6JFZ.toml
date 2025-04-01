@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹਾਇਤਾ ਕਰਨ ਦੇ ਸਮਰੱਥ ਪ੍ਰਭੂ! ਮੈਂ ਗਰੀਬ ਇਕੱਲਾ ਹਾਂ ਤੇ ਮੇਰੇ ਵੈਰੀ ਕਾਮ ਆਦਿਕ ਪੰਜ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਾਦੀ = {विषादिन्} ਝਗੜਾਲੂ, ਦਿਲ ਨੂੰ ਤੋੜਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

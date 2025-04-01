@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਆਤਮਕ ਅਡੋਲਤਾ, ਆਤਮਕ ਸੁਖ-ਆਨੰਦ ਦੀ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਭਵਨ = ਅਸਥਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੱਪ ਤੇ ਭੌਰੇ ਭੀ ਮਾਇਆ ਵਿਚ ਦੁਖੀ ਹੋ ਰਹੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਇਅੰਗਮ = ਸੱਪ। ਭ੍ਰਿੰਗ = ਭੌਰੇ। ਖਾਪੇ = ਖਪੇ ਹੋਏ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ ਦੇ) ਸਾਰੇ ਹੀ ਖ਼ਜ਼ਾਨੇ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਪਾਸ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨੇ, ਨਿਧੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਵਾਲੇ (ਇਸ ਦੇ) ਕੰਮ ਕਦੇ ਮੁੱਕਦੇ ਹੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਜ = ਕੰਮ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

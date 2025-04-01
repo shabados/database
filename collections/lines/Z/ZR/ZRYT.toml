@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਸਿਰਫ਼ ਉਹੀ ਦਿਨ (ਮਨੁੱਖ ਵਾਸਤੇ) ਸੁਲੱਖਣਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਵਸੁ = ਦਿਨ। ਭਾਈ = ਹੇ ਵੀਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

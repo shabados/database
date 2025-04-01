@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੋਲੇ ਵੈਦ! ਤੂੰ ਦਵਾਈ ਨਾਹ ਦੇਹ (ਕਿਸ ਕਿਸ ਰੋਗ ਦਾ ਤੂੰ ਇਲਾਜ ਕਰੇਂਗਾ?) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੈਦ ਭੋਲੇ = ਹੇ ਭੋਲੇ ਅੰਞਾਣ ਵੈਦ! ਦਾਰੂ ਨ ਲਾਇ = ਦਵਾਈ ਨਾਹ ਦੇਹ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

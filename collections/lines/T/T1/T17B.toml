@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਹੇ ਦਇਆ ਦੇ ਸਾਗਰ! (ਇਹ) ਨਿਮਾਣਾ ਦਾਸ ਬੇਨਤੀ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੁਣਾ = ਤਰਸ। ਕਰੁਣਾ ਮੈ = ਤਰਸਵਾਨ, ਦਇਆ ਕਰਨ ਵਾਲਾ (Note = Skt. मय (ਪੰਜਾਬੀ 'ਮੈ') is an affix used to indicate 'made of, consisting of.' 'full of')। ਦੀਨੁ = ਨਿਮਾਣਾ (ਜੀਵ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

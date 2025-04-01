@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ (ਓਪਰਾ) ਕੋਈ ਦਿੱਸਦਾ ਹੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਅਉਰੁ = ਕੋਈ ਹੋਰ, ਕਿਸੇ ਹੋਰ ਨੂੰ। ਨ ਦੇਖਾ = ਨ ਦੇਖਾਂ, ਮੈਂ ਨਹੀਂ ਵੇਖਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

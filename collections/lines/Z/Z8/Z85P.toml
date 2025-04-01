@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਆਵੋ, ਮੈਨੂੰ ਆਪਣੇ ਗਲ ਨਾਲ ਲਾ ਲਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਿ = ਗਲ ਨਾਲ। ਮੈ = ਮੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

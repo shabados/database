@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਆਸ ਨਿਕਲ ਜਾਣ ਤੇ ਸਰੀਰ ਮਿੱਟੀ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਇਐ = ਜੇ ਸਾਹ ਨਿਕਲ ਜਾਏ। ਕਾਇਆ = ਸਰੀਰ। ਢਲਿ ਪਾਇ = ਢਹਿ ਪੈਂਦੀ ਹੈ, ਮਿੱਟੀ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

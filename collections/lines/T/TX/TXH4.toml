@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੂਰਖ ਮਨੁੱਖ ਮੰਦੇ ਕੰਮ ਕਰਨ ਲਈ (ਤਾਂ) ਛੇਤੀ ਤਿਆਰ ਹੋ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਠਿ ਖਲੋਇਆ = ਉੱਠ ਕੇ ਖਲੋ ਜਾਂਦਾ ਹੈ, ਛੇਤੀ ਤਿਆਰ ਹੋ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ) ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਣ ਵਾਲਾ ਪਰਮਾਤਮਾ ਮਿਲ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਭਾਵੰਦਾ = ਪਿਆਰਾ ਲੱਗਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

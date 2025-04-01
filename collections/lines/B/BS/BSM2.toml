@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਘੜੀ ਅਸੀ ਆਪਣਾ ਸਿਰ ਸਿਜਦੇ ਲਈ ਧਰਤ ਉੱਤੇ ਰਖਦੇ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਨਫ਼ਸ ਸਰ ਬਰ ਜ਼ਮੀਣ ਦਾਰੇਮ ਅਜ਼ ਬਹਿਰੇ ਸਜੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ-ਕੰਤ ਖਸਮ ਦੀ (ਹਰੇਕ) ਇੱਛਾ ਇਹ ਪੂਰੀ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਛ ਮਨ ਕੰਤ = ਕੰਤ ਦੇ ਮਨ ਦੀ ਇੱਛਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

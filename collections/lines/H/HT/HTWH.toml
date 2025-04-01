@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਹ ਸੰਸਾਰ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਦਾ ਇਕ ਬੜਾ ਅਥਾਹ ਸਮੁੰਦਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਾਹ = ਜਿਸ ਦੀ ਡੂੰਘਾਈ ਨਾਹ ਲੱਭ ਸਕੇ, ਜੋ ਗਾਹਿਆ ਨਾਹ ਜਾ ਸਕੇ। ਸਾਗਰੁ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

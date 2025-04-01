@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀਏ! ਆ, ਅਸੀਂ ਆਪਣੇ) ਮਨ ਵਿਚ ਗੁਰੂ ਦਾ ਦਿੱਤਾ ਗਿਆਨ-ਦੀਵਾ ਬਾਲੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪਕੁ = ਦੀਵਾ। ਗੁਰ ਗਿਆਨੁ = ਗੁਰੂ ਦਾ ਦਿੱਤਾ ਗਿਆਨ। ਮਨਿ = ਮਨ ਵਿਚ। ਬਲੀਆ = ਅਸੀਂ ਬਾਲੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

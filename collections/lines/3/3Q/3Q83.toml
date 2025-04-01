@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਉਸ ਪ੍ਰਭੂ ਤੋਂ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਤਪਤਿ = ਪੈਦਾਇਸ਼, ਸ੍ਰਿਸ਼ਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

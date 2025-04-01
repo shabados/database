@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਪ ਕਰਨ ਵਾਲੇ ਸਾਧੂ ਤਪ (ਕਰਨ) ਵਿਚ ਹੀ ਮਸਤ ਰਹਿੰਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਹਿ = ਤਪਿ ਹੀ, ਤਪ ਵਿਚ ਹੀ। ਰਾਤਾ = ਮਸਤ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

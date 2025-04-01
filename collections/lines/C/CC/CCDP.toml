@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਸਹਿਮ-ਤੌਖ਼ਲਾ ਮੁਕਾਂਦੀ ਹੈ ਮਾਇਆ ਵਾਲੀ ਭਟਕਣਾ ਖ਼ਤਮ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸਾ = ਸਹਿਮ, ਤੌਖ਼ਲਾ। ਚੁਕਾਏ = ਦੂਰ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

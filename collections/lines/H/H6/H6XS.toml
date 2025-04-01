@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰਾ ਕੋਈ ਗੁਣ ਜਾਂ ਔਗੁਣ ਨਾ ਦੇਖ ਕੇ ਇਕ ਛਿਨ ਵਿਚ ਹੀ ਤੂੰ ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਕਰ ਦਿਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਿਨ ਮਾਹੀ = ਇਕ ਛਿਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

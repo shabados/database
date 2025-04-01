@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੇਵਤਿਆਂ ਅੱਗੇ ਭੇਟ ਧਰਨ ਲਈ) ਨਾਹ ਹੀ ਮੈਂ (ਫੁੱਲ) ਪੱਤਰ ਤੋੜਦਾ ਹਾਂ, ਨਾਹ ਮੈਂ ਕਿਸੇ ਦੇਵੀ ਦੇਵਤੇ ਦੀ ਪੂਜਾ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਰਉ ਨ = ਮੈਂ ਨਹੀਂ ਤੋੜਦਾ। ਦੇਵਾ = ਦੇਵਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

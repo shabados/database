@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਉਸ ਦੇ ਕੰਗਣ, ਕੱਪੜੇ, ਗਹਿਣੇ ਸੋਹਣੇ ਲੱਗਣ ਲੱਗ ਪੈਂਦੇ ਹਨ (ਸਾਰੇ ਧਾਰਮਿਕ ਉੱਦਮ ਸਫਲ ਹੋ ਜਾਂਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਹਾਵੇ = ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਤੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ ਪਛਾਣ ਲੈਂਦਾ ਹੈ ਕਿ ਕੀਹ ਛੱਡਣਾ ਹੈ ਤੇ ਕੀਹ ਗ੍ਰਹਣ ਕਰਨਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਿਰਤਿ = ਗ੍ਰਹਣ। ਨਰਵਿਰਤਿ = ਤਿਆਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

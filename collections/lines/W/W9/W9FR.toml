@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਛਿਨ ਲਈ ਆ ਜਾ, ਅਤੇ ਮੇਰੀਆਣ ਵਿਚ ਆਕੇ ਬਹਿ ਜਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਲਹਿਜ਼ਾ ਬਿਆ ਵਾ ਦਰ ਦੋ ਚਸ਼ਮਮ ਬਿ-ਨਸ਼ੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

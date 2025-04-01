@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਵਾਨੀ! ਤੂੰ ਸਭ ਦਾ ਮੁੱਢ ਅਖਵਾਉਂਦੀ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੀਅਤ = ਕਹੀ ਜਾਂਦੀ ਹੈ। ਭਵਾਨੀ = ਦੁਰਗਾ ਦੇਵੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

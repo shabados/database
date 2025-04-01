@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁਤ੍ਰ, ਮਿੱਤ੍ਰ, ਪਰਵਾਰ ਤੇ ਇਸਤ੍ਰੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਕੁਟੰਬ = ਪਰਵਾਰ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

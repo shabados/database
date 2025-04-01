@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੇਵਤਿਆਂ ਤੇ ਮਨੁੱਖਾਂ ਦੇ ਖਸਮ! ਹੇ ਬੇਅੰਤ! ਹੇ ਜੂਨ-ਰਹਿਤ! ਤੇ ਅਟੱਲ ਮਹਲ ਵਿਚ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ ਅਪਾਰ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਿ = ਦੇਵਤੇ। ਨਰ = ਮਨੁੱਖ। ਸਾਚੈ ਮਹਲਿ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਮਹਲ ਵਿਚ। ਅਪਾਰਾ = ਹੇ ਅਪਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

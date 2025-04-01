@@ -5,6 +5,11 @@ language = "pa"
 data = "ੲ੍ਹਿਨਾਣ ਦਿਲਾਣ ਦੇ ਮਹਿਰਮਾਣ ਦੀ ਸੰਗਤ ਦੀ ਬਖਸ਼ਿਸ਼ ਹੋਈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੁਦ ਜ਼ਿ ਫ਼ੈਜ਼ਿ ਸੁਹਬਤਿ ਸਾਹਿਬ-ਦਿਲਾਣ ।੧੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

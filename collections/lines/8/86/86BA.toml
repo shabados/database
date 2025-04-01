@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨਮੁਖ ਦਾ ਮਾਇਆ ਵਿਚ ਮੋਹ ਹੈ (ਇਸ ਕਰ ਕੇ) ਨਾਮ ਵਿਚ ਉਸਦਾ ਪਿਆਰ ਨਹੀਂ ਬਣਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ = ਮਨ ਦਾ ਮੁਰੀਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

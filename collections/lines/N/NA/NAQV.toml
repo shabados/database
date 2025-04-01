@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਮੇਰਾ ਜੀ ਕਰਦਾ ਹੈ ਕਿ) ਮੈਂ ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਕਥਨ ਕਰਾਂ, ਪਰ ਮੈਥੋਂ ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਹਾਂ, ਮੈਂ ਆਖਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

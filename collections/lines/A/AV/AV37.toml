@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ ਤੋਂ ਸੱਖਣੇ ਲੋਕ ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ ਗਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਿਲੜੇ = ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇਹੇ ਲੋਕ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ) ਤਪ ਸਾਧਦੇ ਹਨ, ਧੂਣੀਆਂ ਤਪਾਣ ਦੇ ਕਸ਼ਟ ਸਹਾਰਦੇ ਹਨ, ਜੱਗ ਆਦਿਕ (ਮਿਥੇ ਹੋਏ) ਪੁੰਨ ਕਰਮ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਪਹਿ = ਤਪਦੇ ਹਨ, ਕਲੇਸ਼ ਸਹਾਰਦੇ ਹਨ। ਪੁੰਨ = (ਮਿਥੇ ਹੋਏ) ਨੇਕ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

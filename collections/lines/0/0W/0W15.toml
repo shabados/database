@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰੱਖ ਵੱਡਾ ਹੈ, ਉਸ ਦਾ ਟਿਕਾਣਾ ਉੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਉ = ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਿਵਾਸ ਦਾ ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

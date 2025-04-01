@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾਣ ਲਈ) ਪਰਮਾਤਮਾ ਦੇ ਚਰਨ ਉਹਨਾਂ ਵਾਸਤੇ ਜਹਾਜ਼ (ਦਾ ਕੰਮ ਦੇਂਦੇ) ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥ = ਜਹਾਜ਼। ਤਾਹਿ = ਉਹਨਾਂ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

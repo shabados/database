@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਰਾਇਣ (ਦੇ ਨਾਮ) ਨੂੰ (ਆਪਣੇ) ਮਨ ਵਿਚ ਆਸਰਾ ਬਣਾ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਧਾਰ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

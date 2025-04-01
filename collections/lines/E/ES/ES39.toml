@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੇ ਅੱਠੇ ਪਹਰ (ਪਰਮਾਤਮਾ ਦੇ) ਗੁਣ ਗਾਏ ਜਾਣ, ਤੇ ਹੋਰ ਸਾਰੇ ਬੰਧਨ ਛੱਡੇ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਈਅਹਿ = (ਜੇ) ਗਾਏ ਜਾਣ। ਤਜੀਅਹਿ = (ਜੇ) ਤਜੇ ਜਾਣ। ਅਵਰਿ = ਹੋਰ {ਬਹੁ-ਵਚਨ}। ਜੰਜਾਲ = (ਮਾਇਆ ਵਿਚ ਫਸਾਣ ਵਾਲੇ) ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

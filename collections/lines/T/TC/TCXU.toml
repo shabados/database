@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਛੀਂਬੇ ਦੇ ਘਰ ਕਿਉਂ ਜੰਮ ਪਿਆ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਕਉ = ਕਾਹਦੇ ਲਈ? ਕਿਉਂ? ਆਇਆ = ਮੈਂ ਜੰਮਿਆ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

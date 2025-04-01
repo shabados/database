@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-(ਬੱਸ! ਇਸੇ ਤਰ੍ਹਾਂ) ਸਭ ਜੀਵਾਂ ਨੂੰ ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਨਾਲ ਵਾਸਤਾ ਪਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ ਕੋ = ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

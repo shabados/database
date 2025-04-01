@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਹਰ ਵੇਲੇ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਦੇ ਰਹੋ। ਵੇਖਣਾ, ਰਤਾ ਭੀ ਢਿੱਲ ਨਾਹ ਕਰਨੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਬਿਲਮ = ਦੇਰ, ਢਿੱਲ। ਮਤ ਕਰੇਹ = ਮਤਾਂ ਕਰੋ, ਨਾਹ ਕਰਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

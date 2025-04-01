@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਅੰਮ੍ਰਿਤ ਸਰੋਵਰ (ਅੰਮ੍ਰਿਤਸਰ) ਦੇ ਮੁਕਾਬਲੇ ਤੇ ਗੰਗਾ ਕੀ ਚੀਜ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿ ਗੰਗਾ ਮੁਕਾਬਿਲ ਬ ਅੰਮ੍ਰਿਤਸਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

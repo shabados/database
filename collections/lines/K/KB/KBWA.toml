@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਵੀ, ਹੇ ਬਰਖੁਰਦਾਰ # ਆਪਣੇ ਆਪ ਨੂੰ ਇਸੇ ਤਰ੍ਹਾਣ ਸਮਝ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੁਨੀਣ ਪਿੰਦਾਰ ਖ਼ੁਦ ਰਾ ਐ ਅਜ਼ੀਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

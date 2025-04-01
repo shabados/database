@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਇਸ ਗਿਆਨ ਨੂੰ ਸੁਣਦਾ ਹੈ ਤੇ ਵਿਚਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = (ਗੁਰੂ ਵਿਚ ਪ੍ਰਭੂ) ਆਪ ਹੀ। ਸੂਝੈ = ਵੇਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

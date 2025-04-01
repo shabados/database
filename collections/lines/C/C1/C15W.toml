@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਉਸੇ ਮਨੁੱਖ ਦੇ ਜੀਵਨ ਨੂੰ ਭਾਗਾਂ ਵਾਲਾ ਗਿਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਮੁਬਾਰਿਕ, ਭਾਗਾਂ ਵਾਲਾ। ਤਾਹੀ ਕੋ = ਉਸੇ (ਮਨੁੱਖ) ਦਾ ਹੀ। ਗਣੈ = (ਜਗਤ) ਗਿਣਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

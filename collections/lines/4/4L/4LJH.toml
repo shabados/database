@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੂਰਜ ਚੜ੍ਹਦਾ ਹੈ (ਤੇ ਡੁੱਬਦਾ ਹੈ, ਇਸ ਤਰ੍ਹਾਂ ਦਿਨਾਂ ਦੇ) ਗੁਜ਼ਰਨ ਨਾਲ ਹਰੇਕ ਜੀਵ ਦੀ ਉਮਰ ਘਟ ਰਹੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਜੋਗਿ = ਵਿਛੋੜੇ ਨਾਲ, (ਦਿਨ ਦੇ) ਗੁਜ਼ਰਨ ਨਾਲ। ਸਭਸੈ = ਹਰੇਕ ਜੀਵ ਦੀ। ਆਰਜਾ = ਉਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

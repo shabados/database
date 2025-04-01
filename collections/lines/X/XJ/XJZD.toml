@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ (ਹੋਇਆ ਰਹਿੰਦਾ ਹਾਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀ, ਮੈਂ। ਧੂਰਿ = ਚਰਨਾਂ ਦੀ ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

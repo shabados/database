@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਕੋਈ ਮਨੁੱਖ ਤੇਰੇ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੋ = ਨੂੰ। ਨ ਜਾਣੀ = ਨਹੀਂ ਜਾਣਦਾ, ਸਾਂਝ ਨਹੀਂ ਪਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

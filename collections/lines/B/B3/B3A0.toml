@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਇਹ ਸੰਸਾਰ ਮਾਇਆ (ਦੇ ਮੋਹ ਦੀਆਂ ਲਹਿਰਾਂ ਨਾਲ ਭਰਪੂਰ) ਹੈ (ਇਸ ਵਿਚੋਂ) ਕਿਵੇਂ ਪਾਰ ਲੰਘਿਆ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ = ਕਿਸ ਤਰ੍ਹਾਂ? ਬਿਖਿਆ = ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

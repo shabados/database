@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਅਸੀਂ ਜੂਨਾਂ ਵਿਚ ਪੈਂਦੇ ਗਏ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ ਰਾਮ! ਗਰਭ ਹੋਇ ਆਏ = ਜੂਨਾਂ ਵਿਚ ਪੈਂਦੇ ਗਏ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

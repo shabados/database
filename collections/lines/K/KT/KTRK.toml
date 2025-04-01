@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ)! ਤੇਰੀ ਸੋਭਾ (-ਵਡਿਆਈ) ਸੁਣ ਸੁਣ ਕੇ ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਿ = ਸੁਣ ਕੇ। ਜੀਵਾ = ਜੀਵਾਂ, ਮੈਂ ਜੀਊ ਪੈਂਦਾ ਹਾਂ। ਸੋਇ = ਖ਼ਬਰ, ਸੋਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

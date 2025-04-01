@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ) ਇੱਕੋ ਗੱਲ ਸੁਣੀ ਹੋਈ ਹੈ ਜੋ ਮਨੁੱਖ ਨੂੰ ਡਰਾਂ ਤੋਂ ਰਹਿਤ ਕਰ ਦੇਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕਾ ਬਾਤ = ਇਕੋ ਗੱਲ। ਨਿਰਭਉ = ਡਰ-ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

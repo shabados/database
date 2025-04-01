@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਕੌਤਕ-ਤਮਾਸ਼ੇ ਵੇਖ ਵੇਖ ਕੇ ਮੈਂ ਠੱਗੀ ਗਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਚਲਤ = ਚਰਿਤ੍ਰ, ਕੌਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

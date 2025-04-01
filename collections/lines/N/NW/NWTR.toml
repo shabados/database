@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਵਿਚ ਮਸਤ ਹੋਏ ਹੇ ਮੂਰਖ! (ਇਥੋਂ ਆਖ਼ਰ) ਉੱਠ ਕੇ ਤੂੰ ਚਲੇ ਜਾਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤੇ = ਮਸਤੇ ਹੋਏ। ਉਠਿ = ਉੱਠ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

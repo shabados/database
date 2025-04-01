@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਕੋਈ) ਦੁਕਾਨਦਾਰ (ਆਪਣੇ ਮਨ-ਪਸੰਦ ਦੇ) ਮਾਲ-ਧਨ ਦੀ ਦੁਕਾਨ ਚਲਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਟਵਾਣੀ = ਹੱਟੀ ਵਾਲਾ, ਦੁਕਾਨਦਾਰ। ਹਾਟੁ = ਹੱਟ। ਕੀਤੁ = ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

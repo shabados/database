@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਭੀ ਮਨਸੂਰ ਵਾਣਗ ਸੂਲੀ ਵਲ ਨੂੰ ਦੌੜਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨਸੂਰ ਵਾਰ ਹਰ ਕਿ ਸੂਇ ਦਾਰ ਮੀ-ਰਵਦ ।੨੮।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

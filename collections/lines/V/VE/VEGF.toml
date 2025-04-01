@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੂੜ ਨਾਲ ਭਰੀ ਹੋਈ ਵਾਸ਼ਨਾਂ (ਮਾਨੋ) ਕਟੋਰੀ ਹੈ ਤੇ ਜਮ ਕਾਲ (ਮਾਨੋ) ਪਿਲਾਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਵਾਸਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਨੇ ਸਿੱਖਿਆ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਦੀਖਿਆ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

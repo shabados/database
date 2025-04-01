@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੀ) ਹਰ ਥਾਂ ਕਿਤੇ ਖ਼ੁਸ਼ੀ ਹੈ ਅਤੇ ਗ਼ਮੀ ਹੈ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਭਾਰਾ ਦੁੱਖ (ਜਗਤ ਨੂੰ ਵਿਆਪ ਰਿਹਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖੁ = ਖ਼ੁਸ਼ੀ। ਸੋਗੁ = ਗ਼ਮੀ। ਸਭੁ = ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

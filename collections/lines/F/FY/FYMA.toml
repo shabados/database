@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੰਨੇ ਚੰਗੇ ਭਾਗ ਹਨ ਕਿ ਇਹ ਸਾਨੂੰ ਰਾਹ ਵਿਖਾਉਂਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਦੌਲਤ ਕਿ ਬਾਸ਼ਦ ਰਾਹਨੁਮਾ ।੨੫੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

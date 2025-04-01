@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਭਾਗਾ ਹੈ ਦਿਲ, ਜੋ ਰੱਬ ਦੇ ਪ੍ਰੇਮ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਦਿਲ ਕੂ ਜ਼ਿ ਇਸ਼ਕਿ ਹੱਕ ਪੁਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

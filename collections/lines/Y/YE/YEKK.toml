@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਕੁਰਬਾਨ ਹਾਂ ਜਿਨ੍ਹਾਂ ਨੇ ਪਰਾਮਤਮਾ ਦੇ ਨਾਮ ਨੂੰ (ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਦਾ) ਆਸਰਾ ਬਣਾ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ, ਹਉਂ। ਬਲਿਹਾਰੀ = ਕੁਰਬਾਨ। ਅਧਾਰੋ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

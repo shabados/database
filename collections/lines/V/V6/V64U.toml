@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਹਰਿ-ਨਾਮ ਉਚਾਰਿਆ ਕਰ) ਜਿਸ ਨੂੰ ਉਚਾਰਦਿਆਂ ਮੂੰਹ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਬੋਲਤੁ = ਜਿਸ ਹਰਿ-ਨਾਮ ਨੂੰ ਉਚਾਰਦਿਆਂ। ਹੋਇ = ਹੋ ਜਾਂਦਾ ਹੈ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

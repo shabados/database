@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਵੈਰਾਗੀ ਦੇ ਅੰਦਰ ਮਾਇਆ ਵਲੋਂ ਨਿਰਮੋਹਤਾ ਨਹੀਂ, ਤਾਂ ਉਹ ਵੈਰਾਗੀ ਕਾਹਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗੁ = ਉਪਰਾਮਤਾ, ਨਿਰਮੋਹਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

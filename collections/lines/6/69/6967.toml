@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਤੇਰਾ ਸਿਰ ਦੋਹਾਂ ਜਹਾਨਾਂ ਵਿਚ ਉੱਚਾ ਹੋ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਸ਼ਵੀ ਦਰ ਹਰ ਦੋ ਆਲਮ ਸਰ ਬੁਲੰਦ ।੪੮੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

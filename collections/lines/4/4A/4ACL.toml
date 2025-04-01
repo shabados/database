@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਵੇਰੇ (ਉੱਠ ਕੇ) ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਾਂ, ਦਿਨ ਰਾਤ ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦਾ ਦਰਸ਼ਨ ਕਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਤਹਕਾਲ = ਸਵੇਰ-ਸਾਰ, ਸਵੇਰੇ ਹੀ। ਲਾਗਉ = ਲਾਗਉਂ, ਮੈਂ ਲੱਗਾਂ। ਨਿਸ = ਰਾਤ। ਬਾਸੁਰ = ਦਿਨ। ਪਾਵਉ = ਪਾਵਉਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

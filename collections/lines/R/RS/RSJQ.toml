@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਸਦਾ-ਥਿਰ ਤੇ ਅਟੱਲ ਹੈ, ਹੋਰ ਜੀਵ ਜੰਮਦੇ ਮਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਨਾਹ ਹਿੱਲਣ ਵਾਲਾ, ਅਟੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

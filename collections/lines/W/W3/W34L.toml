@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ! ਹੇ ਹਰੀ! (ਮਿਹਰ ਕਰ, ਤਾ ਕਿ ਅਸੀ) ਤੇਰਾ ਨਾਮ ਮੂੰਹੋਂ ਉਚਾਰ ਸਕੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧਉ = {ਮਾ-ਧਵ। ਮਾ = ਮਾਇਆ। ਧਵ = ਪਤੀ} ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ ਪਰਮਾਤਮਾ! ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਕਹੀਐ = ਆਖ ਸਕੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

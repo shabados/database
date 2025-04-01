@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਾਤਿ ਮਨੁੱਖ ਦੀ ਹੈ (ਭਾਵ, ਮਨੁੱਖ-ਸ਼੍ਰੇਣੀ ਵਿਚੋਂ ਜੰਮਿਆ ਹੈ) ਪਰ ਕੰਮ ਪਸ਼ੂਆਂ ਵਾਲੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਸ = ਮਨੁੱਖ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

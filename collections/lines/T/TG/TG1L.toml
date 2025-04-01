@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਿਸ ਮਨੁੱਖ ਦੇ ਪੱਲੇ ਆਤਮਕ ਗੁਣਾਂ ਦਾ ਸਰਮਾਇਆ ਨਹੀਂ ਹੈ, ਉਹ ਨਾਮ-ਵੱਖਰ ਕਿਵੇਂ ਲੈ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਸੀ = ਸਰਮਾਇਆ, ਪੂੰਜੀ। ਕੋ = ਕੋਈ ਮਨੁੱਖ। ਵਥੁ = ਵਸਤੁ, ਨਾਮ-ਵਸਤੁ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

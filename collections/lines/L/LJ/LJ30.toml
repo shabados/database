@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੇਰਾ ਦਿਲ ਰੱਬ ਦੀ ਯਾਦ ਵੱਲ ਝੁਕ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਦਿਲਿ ਤੂ ਮਾਇਲਿ ਯਾਦਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

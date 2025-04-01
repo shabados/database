@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਧੋ! ਤੂੰ ਆਪ ਹੀ ਦੇਵਤਾ ਹੈਂ, ਆਪ ਹੀ ਮੰਦਰ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ (ਜੀਵਾਂ ਨੂੰ ਆਪਣੀ) ਪੂਜਾ ਵਿਚ ਲਗਾਉਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਉ = ਦੇਵਤਾ। ਆਪਨ = ਤੂੰ ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਸਮੁੰਦਰ ਹੈ, ਆਪ ਹੀ ਜਹਾਜ਼ ਹੈ, ਤੇ ਆਪ ਹੀ ਮੱਲਾਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਹਿਥਾ = ਜਹਾਜ਼। ਖੇਵਾਟੁ = ਮਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

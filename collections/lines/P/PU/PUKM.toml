@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਤੇਰੇ ਵਾਸਤੇ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਅਜਿਹੇ ਖ਼ਜ਼ਾਨੇ ਦੀ ਕੁੰਜੀ ਢੂੰਡ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਸ ਤੁਰਾ ਲਾਜ਼ਿਮ ਬਵਦ ਜੂਈ ਕੁਲੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

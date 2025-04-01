@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜਿਨ੍ਹਾਂ ਨੂੰ ਚਰਨਾਂ ਵਿਚ ਮਿਲਾਇਆ ਹੈ) ਪ੍ਰਭੂ ਨੇ (ਆਪ ਹੀ) ਕਿਰਪਾ ਕਰ ਕੇ ਮਿਲਾਇਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

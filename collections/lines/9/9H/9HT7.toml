@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਵਧੀਆ ਘੋੜੇ, ਵਧੀਆ ਹਾਥੀ ਤੇ ਹਕੂਮਤ ਦੀਆਂ ਮੌਜਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈਵਰ = {हय-वर} ਵਧੀਆ ਘੋੜੇ। ਗੈਵਰ {गज-वर} ਵਧੀਆ ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

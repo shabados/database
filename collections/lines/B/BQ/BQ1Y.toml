@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਚਵਰ ਤੇ ਛਤਰ ਅਟੱਲ ਹੈ, ਤੂੰ (ਦੁਨੀਆ ਦੇ ਸਾਰੇ) ਸ਼ਾਹਾਂ ਦੇ ਸਿਰ ਉਤੇ ਪਾਤਿਸ਼ਾਹ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਛਤੁ = ਛਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਪਾਸੋਂ ਇਹ ਸੂਝ ਪੈ ਜਾਏ ਉਹ ਫਿਰ ਮੌਤ ਤੋਂ ਨਹੀਂ ਡਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

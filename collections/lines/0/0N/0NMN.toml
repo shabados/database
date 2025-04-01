@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਹਾਰ ਆ ਗਈ ਹੈ, ਯਾਰ ਆ ਗਿਆ ਹੈ ਅਤੇ ਦਿਲ ਨੂੰ ਸ਼ਾਣਤੀ ਆ ਗਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਹਾਰ ਆਮਦ ਵਾ ਯਾਰ ਵਾ ਕਰਾਰ ਆਮਦ ।੧੯।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

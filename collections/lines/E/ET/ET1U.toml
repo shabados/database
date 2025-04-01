@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਿਆਨ ਲਾ ਕੇ ਵੇਖੋ, ਉਹ ਤੁਹਾਥੋਂ ਦੂਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੰਦਰਿ = ਨਜ਼ਰ, ਨਿਗਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

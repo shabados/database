@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜੇ ਖੰਡ ਅਤੇ ਦੁਧ ਨਾਲੋਣ ਵੀ ਜ਼ਿਆਦਾ ਮਿੱਠੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੇਵਾ ਦਰ ਹਿੰਦੁਸਤਾਣ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

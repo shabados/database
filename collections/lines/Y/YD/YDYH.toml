@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿੰਦ ਦੀ (ਅਰਦਾਸ) ਇਕ ਪਰਮਾਤਮਾ ਦੇ ਕੋਲ ਹੀ ਮੰਨੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੀ = ਜਿੰਦ ਦੀ। ਏਕੈ ਹੀ ਪਹਿ = ਇਕ ਪਰਮਾਤਮਾ ਦੇ ਪਾਸ ਹੀ। ਮਾਨੀ = ਮੰਨੀ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

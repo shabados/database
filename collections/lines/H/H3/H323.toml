@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਹ ਕੋਈ ਖ਼ਾਸ ਰੰਗ ਹੈ ਤੇ ਨਾਹ ਕੋਈ ਖ਼ਾਸ ਚਿਹਨ-ਚੱਕਰ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨ = ਰੰਗ। ਚਿਹਨ = ਨਿਸ਼ਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਹੇ ਭਾਈ!) ਆਤਮਕ ਮੌਤ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁੱਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

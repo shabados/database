@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਘੁੱਪ ਹਨੇਰਾ ਛਾਇਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧ ਅੰਧਾਰਾ = ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਘੁੱਪ ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

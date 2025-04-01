@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਬਹੁਤ ਹੀ ਮੰਦੇ ਭਾਗ ਹੁੰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਨਸੀਬ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਾਗ = ਮੰਦੇ ਭਾਗ। ਸਾਧੂ ਧੂਰਿ = ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

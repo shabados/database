@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਸਿੱਧ ਸਮਾਧੀ ਲਾ ਕੇ ਸੁਰਤ ਜੋੜ ਕੇ ਜਪਦੇ ਰਹੇ, ਸਾਧਿਕ ਤੇ ਮੁਨੀ ਜਪਦੇ ਰਹੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧ = ਸਿੱਧ, ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ। ਲਿਵ ਲਾਈ = ਲਿਵ ਲਾਇ, ਸੁਰਤ ਜੋੜ ਕੇ। ਸਾਧਿਕ = ਸਾਧਨ ਕਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

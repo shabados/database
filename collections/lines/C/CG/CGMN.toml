@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦਾ ਨਿਵਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਜਨ ਕੈ = ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

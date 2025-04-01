@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ (ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ) ਬਾਂਹ ਫੜ ਕੇ (ਝੂਠੇ ਧੰਧਿਆਂ ਵਿਚੋਂ) ਕੱਢ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਕਰਿ = ਫੜ ਕੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਮੇਰਾ ਦਿਲ ਉਸ ਦੀ ਦੋਹਰੀ ਜ਼ੁਲਫ ਦੇ ਫੰਧੇ ਵਿੱਚੋਣ ਲੰਘ ਜਾਵੇਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲ ਅਗਰ ਦਰ ਹਲਕਾਇ, ਜ਼ੁਲਫ਼ਿ ਦੋ ਤਾ ਖ਼ਾਹਦ ਗੁਜ਼ਸ਼ਤ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

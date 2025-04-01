@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ (ਸਭ ਨਾਲ) ਮਿੱਠੇ ਬਚਨ ਬੋਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਹਰ = ਮਨ ਨੂੰ ਹਰਨ ਵਾਲੇ, ਮਨ ਨੂੰ ਖਿੱਚ ਪਾਉਣ ਵਾਲੇ। ਬੈਨ = ਬਚਨ, ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

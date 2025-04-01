@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇ-ਸਮਝੀ ਦੇ ਕੰਮਾਂ ਵਿਚ ਪੈ ਕੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਧ = (ਮਾਇਆ ਵਿਚ) ਅੰਨ੍ਹੇ ਹੋਏ ਮਨੁੱਖ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਮਤਾਂ ਦਾ ਨਿਚੋੜ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾਂਤ = ਮਤਾਂ ਦਾ ਅੰਤ, ਮਤਾਂ ਦਾ ਸਿੱਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

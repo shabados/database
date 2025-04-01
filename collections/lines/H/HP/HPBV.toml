@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਗਤ (ਪਰਮਾਤਮਾ ਦੀ) ਬਗੀਚੀ ਹੈ, (ਇਸ ਨੂੰ ਹਰਾ-ਭਰਾ ਕਰਨ ਵਾਲਾ) ਬਸੰਤ ਭੀ ਉਹ ਉਹ ਆਪ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਸਾਰਾ। ਵਾੜੀ = ਬਗੀਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

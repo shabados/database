@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਜਗਤ ਵਿਚ) ਮਨੁੱਖ ਸੋਭਾ ਤੋਂ ਸੱਖਣਾ ਰਹਿ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਨ = ਸੱਖਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

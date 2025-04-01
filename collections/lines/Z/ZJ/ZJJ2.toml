@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਿਕ! ਤੈਨੂੰ ਮਿਲਣ ਲਈ ਅਨੇਕਾਂ ਬੰਦੇ ਤੇਰੇ ਪਿਆਰ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ ਕਾਰਣਿ = ਤੇਰੇ ਦੀਦਾਰ ਦੀ ਖ਼ਾਤਰ। ਰੰਗਿ = (ਤੇਰੇ) ਪ੍ਰੇਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

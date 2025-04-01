@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦੋਂ ਤੋਂ ਉਸ ਦੀ ਪ੍ਰੀਤ ਕਥਾ ਦਿਲ ਵਿਚ ਆ ਟਿਕੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖੁਸ਼ ਨਮੀ ਆਇਦ ਮਰਾ, ਗਾਹੇ ਬਗ਼ੈਰ ਅਜ਼ ਯਾਦਿ ਹੱਕ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

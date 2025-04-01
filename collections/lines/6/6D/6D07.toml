@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਨ੍ਹੀ ਨਿਗੁਰੀ ਲੋਈ! ਸੁਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਪੀਰਿ = ਨਿਗੁਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

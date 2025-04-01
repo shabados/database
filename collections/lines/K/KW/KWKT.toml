@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਹਨਾਂ ਦੇ ਅੰਦਰ (ਇਉਂ ਖਿੜਾਉ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ, ਮਾਨੋ, ਉਹਨਾਂ ਦੇ ਅੰਦਰ) ਇੱਕ-ਰਸ ਵਾਜੇ ਵੱਜ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੇ = ਵੱਜਦੇ ਹਨ, ਵੱਜ ਪਏ। ਅਨਹਦ = {अनहत} ਬਿਨਾ ਵਜਾਏ, ਇੱਕ-ਰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਹੁਣ ਹੀ ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਹੈ, ਨਾਹ ਅਗਾਂਹ ਨੂੰ ਭੀ ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਹੋ ਸਕਦੀ ਹੈ। ਹਰ ਥਾਂ ਤੂੰ ਹੀ ਆਪਣੀ ਸੱਤਿਆ ਟਿਕਾਈ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਹੋਸਾ = ਹੋਸਾਂ, ਹੋਵਾਂਗਾ, ਹੋ ਸਕਦਾ ਹਾਂ। ਕਲ = ਸੱਤਿਆ। ਧਾਰੀ = ਟਿਕਾਈ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਾ ਤਾਂਹੀ ਬੰਦਾ ਹੁੰਦਾ ਹੈ ਜੇਕਰ ਉਹ ਬੰਦਗੀ ਲਈ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਤਾਂ ਬਾਸ਼ਦ ਬਰਾਇ ਬੰਦਗੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

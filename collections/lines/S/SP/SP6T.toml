@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਉਸ ਦੇ ਕਦਮਾਂ ਦੀ ਖੋਜ ਕਰਦੀ ਫਿਰਦੀ ਹਾਂ। ਦਸੋ, ਹੇ ਸਹੇਲੀਏ! ਉਹ ਕਿਵੇਂ ਮਿਲੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਉ = ਖੋਜਉਂ, ਮੈਂ ਖੋਜ ਰਹੀ ਹਾਂ। ਤਾ ਕੇ = ਉਸ (ਪ੍ਰਭੂ-ਪਤੀ) ਦੇ। ਕਹਹੁ = ਦੱਸੋ। ਕਤ = ਕਿੱਥੇ? ਕਿਵੇਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

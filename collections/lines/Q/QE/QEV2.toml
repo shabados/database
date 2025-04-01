@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਟਿਕ ਕੇ ਸਦਾ ਨਾਰਾਇਣ ਦਾ ਨਾਮ ਜਪਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਡੀ ਉਸ ਨਿਰੰਕਾਰ ਨੂੰ ਨਮਸਕਾਰ ਹੈ ਜੋ ਆਪ ਹੀ ਗੁਰੂ-ਰੂਪ ਧਾਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਅੰ = ਹਿੰਦੀ ਦੀ ਵਰਨਮਾਲਾ ਦਾ ਪਹਿਲਾ ਅੱਖਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

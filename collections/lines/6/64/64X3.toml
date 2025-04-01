@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਦਾ ਮਨ ਮੈਲਾ ਹੀ ਰਿਹਾ, ਤਾਂ ਉਹ ਪਵਿਤ੍ਰ ਕਿਵੇਂ ਹੋ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ ਮੈਲੇ = ਮੈਲੇ ਮਨ ਦੀ ਰਾਹੀਂ, ਜੇ ਮਨ ਮੈਲਾ ਹੀ ਰਿਹਾ। ਸੂਚਾ = ਪਵਿਤ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

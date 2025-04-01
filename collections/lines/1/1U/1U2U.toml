@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੱਬੀ ਪ੍ਰਕਾਸ਼ ਤੈਨੂੰ ਇੱਕ-ਰਸ ਕਿਵੇਂ ਮਿਲ ਪਿਆ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਤਰਿ = ਇੱਕ-ਰਸ। ਜੋਤਿ = ਰੱਬੀ ਪ੍ਰਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗੁਰਬਾਣੀ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾਂਦਾ ਹੈ (ਮਾਨੋ, ਜੋਗੀ ਵਾਂਗ) ਨਾਦ ਵਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੀ = ਗੁਰੂ ਦੀ ਬਾਣੀ। ਵਜਾਵੈ = ਵਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

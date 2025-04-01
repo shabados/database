@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਹਉਮੈ ਨਾਹ (ਕਿਸੇ ਪਾਸੋਂ) ਮਾਰੀ ਜਾ ਸਕਦੀ ਹੈ, ਨਾਹ ਹੀ ਇਹ ਆਪ ਮਰਦੀ ਹੈ, ਨਾਹ ਹੀ ਇਹ ਕਿਸੇ ਹੱਟੀ ਤੇ ਵੇਚੀ ਜਾ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਟਿ = ਹੱਟੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

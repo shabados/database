@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਾਂ!) ਜੇ ਅਨੇਕਾਂ ਕਿਸਮ ਦੇ ਸੁਆਦਲੇ ਖਾਣੇ ਮਿਲ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿੰਜਨ = ਸੁਆਦਲੇ ਖਾਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

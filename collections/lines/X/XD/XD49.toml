@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਸਾਰੇ ਹੀ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖ ਡੇਰਾ = ਦੁੱਖਾਂ ਦਾ ਡੇਰਾ, ਸਾਰੇ ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

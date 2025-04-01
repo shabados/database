@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹੋ ਸਿਰ ਕਰਮਾਣ ਵਾਲਾ ਹੈ ਜੋ ਪ੍ਰੇਮ ਦੇ ਰਾਹੇ ਲਗ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਹਮਾ ਖ਼ੁਸ਼ ਕੂ ਰਵਦ ਦਰ ਕਾਰਿ ਇਸ਼ਕ ।੫੦।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

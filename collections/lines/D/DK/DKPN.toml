@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਨੀਵਿਆਂ ਤੋਂ ਉੱਚੇ ਬਣ ਗਏ, ਉਹ (ਪਹਿਲਾਂ ਗੁਣਾਂ ਤੋਂ) ਸੱਖਣੇ (ਗੁਣਾਂ ਨਾਲ) ਭਰ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਨ = ਊਣੇ, ਖ਼ਾਲੀ। ਪੂਰੀਨਾ = ਭਰ ਦਿੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

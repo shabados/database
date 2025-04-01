@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਪੈਦਾ ਕਰ ਕੇ ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਜੈ = ਉਪਰ ਸਾਇਆ ਕਰ ਰਿਹਾ ਹੈ, ਰੱਖਿਆ ਕਰ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

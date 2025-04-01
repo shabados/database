@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! (ਜੇ ਤੂੰ ਇਹ ਨਹੀਂ ਸੁਣਦਾ, ਤਾਂ ਤੇਰੀ ਮਰਜ਼ੀ) ਮਨ-ਮੰਨੀਆਂ ਮੌਜਾਂ ਮਾਣ ਲੈ (ਪਰ ਇਹ ਮੌਜਾਂ ਹਨ ਸਿਰਫ਼) ਦਸ ਦਿਨਾਂ ਲਈ ਹੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਉਬਤਿ = ਢੋਲ। ਆਪਨੀ ਨਉਬਤਿ ਬਜਾਇ ਲੇਹੁ = ਮਨ-ਮੰਨੀਆਂ ਮੌਜਾਂ ਕਰ ਲਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

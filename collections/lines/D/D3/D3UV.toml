@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਮਨ ਦੇ ਪਿਆਰ ਨਾਲ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਲੀਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ। ਮਨ ਭਾਇ = ਮਨ ਦੇ ਪ੍ਰੇਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

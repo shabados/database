@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੋਰ ਕਿਥੇ ਜਾਈਏ? (ਹੁਣ) ਹਿਰਦੇ-ਘਰ ਵਿਚ ਹੀ ਮੌਜ ਬਣ ਗਈ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਹੋਰ ਕਿੱਥੇ? ਰੇ = ਹੇ ਭਾਈ! ਰੰਗੁ = ਮੌਜ। ਘਰ = ਹਿਰਦੇ-ਰੂਪ ਰ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

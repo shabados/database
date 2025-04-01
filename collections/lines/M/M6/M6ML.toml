@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਖਸਮ-ਵਤੀ ਰਹਿਣ ਵਾਲੀ ਮਾਇਆ ਧੰਨ ਹੈ, (ਇਹ ਮਾੜੀ ਨਹੀਂ) ਬੜੀ ਪਵਿੱਤਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੁ = ਮੁਬਾਰਿਕ। ਪਵੀਤ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

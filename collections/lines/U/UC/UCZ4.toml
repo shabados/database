@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਵਾਨੀ, ਧਨ, ਤਾਕਤ ਦੇ ਨਸ਼ੇ ਵਿਚ ਜਗਤ ਦਿਨ ਰਾਤ ਝੱਲਾ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਬਨੁ = ਜਵਾਨੀ। ਪ੍ਰਭਤਾ = ਤਾਕਤ, ਹੁਕੂਮਤ। ਮਦ = ਨਸ਼ਾ। ਮੈ = ਵਿਚ। ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਦਿਵਾਨਾ = ਪਾਗਲ, ਝੱਲਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

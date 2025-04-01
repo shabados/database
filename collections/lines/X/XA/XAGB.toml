@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਅੱਠੇ ਪਹਿਰ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ, ਜਿਸ ਨੇ ਸਾਰੇ ਜੀਅ ਜੰਤ ਪੈਦਾ ਕੀਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ! ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ! ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਮੈਂ ਤੇਰੀ ਓਟ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹੀ = ਫੜੀ। ਗੋਪਾਲ = ਹੇ ਗੋਪਾਲ! ਕ੍ਰਿਪਾ ਨਿਧੇ = ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

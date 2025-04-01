@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ! (ਮਿਹਰ ਕਰ) ਮੈਂ ਸਦਾ ਹੀ ਸਦਾ ਹੀ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੇ = ਹੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

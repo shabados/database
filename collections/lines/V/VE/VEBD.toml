@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਦ੍ਰਮਾ ਦੇ ਘਰ ਵਿਚ ਸੂਰਜ ਆ ਵੱਸਦਾ ਹੈ (ਭਾਵ, ਸ਼ਾਂਤ ਹਿਰਦੇ ਵਿਚ ਗਿਆਨ ਦਾ ਸੂਰਜ ਚੜ੍ਹ ਪੈਂਦਾ ਹੈ, ਤਦੋਂ ਅਗਿਆਨਤਾ ਦਾ) ਹਨੇਰਾ ਮਿਟ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਸਿ = ਚੰਦ੍ਰਮਾ। ਘਰਿ = ਘਰ ਵਿਚ। ਸੂਰੁ = ਸੂਰਜ (ਭਾਵ, ਗਿਆਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

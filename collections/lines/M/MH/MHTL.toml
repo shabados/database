@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ) ਮੇਰਾ ਮੱਥਾ ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਉਤੇ (ਪਿਆ ਰਹੇ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹ = ਸੰਤਾਂ ਦੇ। ਮਾਥ ਮੋਰ = ਮੇਰਾ ਮੱਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

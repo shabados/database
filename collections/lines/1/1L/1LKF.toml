@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰਾ ਰਿਸ਼ਤੇਦਾਰ ਹੈਂ ਤੂੰ ਹੀ ਮੇਰਾ ਭਰਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਪੁ = ਸਨਬੰਧੀ, ਰਿਸ਼ਤੇਦਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

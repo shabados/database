@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਨਾਮ ਤੋਂ ਖੁੰਝੇ ਹੋਏ ਜੀਵ (ਹੀ) ਨੀਚ ਹਨ ॥੪॥੩॥{9}"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਵੈ ਬਾਝੁ = ਹਰਿ-ਨਾਮ ਤੋਂ ਬਿਨਾ। ਸਨਾਤਿ = ਨੀਚ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ) ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਪੂਰਿ ਰਹਿਓ = ਵਿਆਪਕ ਹੈ। ਸੋਈ = ਉਹ ਅਕਾਲ ਪੁਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

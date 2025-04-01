@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਤੇਰੇ ਪਾਸ) ਇਹ ਆਤਮਾ ਦੇ ਕੰਮ ਆਉਣ ਵਾਲਾ ਜਨੇਊ ਹੈ ਤਾਂ (ਮੇਰੇ ਗਲ) ਪਾ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕਾ = ਆਤਮਾ ਦੇ ਵਾਸਤੇ। ਹਈ = ਜੇ ਤੇਰੇ ਪਾਸ ਹੈ। ਤ = ਤਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

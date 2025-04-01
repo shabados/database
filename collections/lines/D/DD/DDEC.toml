@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਵਿਕਾਰ-ਰੋਗਾਂ ਦਾ ਇਲਾਜ ਕਰਨ ਵਾਸਤੇ ਗੁਰੂ ਨੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਦਵਾਈ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰੂ = ਦਵਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ। ਇਹ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਉਸੇ ਦੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ। ਰਚਨਾ = ਸ੍ਰਿਸ਼ਟੀ। ਬਨੀ = ਪੈਦਾ ਕੀਤੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਰੰਗ-ਭੂਮੀ ਵਿਚ ਨਟਾਂ ਦੇ ਨਾਟਕ ਵੇਖੇ ਹਨ, ਤੇ ਉਹਨਾਂ ਦੇ ਗੀਤ ਗਾਏ ਹੋਏ ਸੁਣੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਟ = ਤਮਾਸ਼ਾ ਕਰਨ ਵਾਲੇ। ਆਖਾਰੇ = ਰੰਗ-ਭੂਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

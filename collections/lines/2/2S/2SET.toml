@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਮਾਂ! (ਅਰਦਾਸ ਕਰ ਕਿ) ਉਹ ਪਰਮਾਤਮਾ ਮੈਨੂੰ ਕਦੇ ਭੀ ਨਾਹ ਭੁੱਲੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇ = ਹੇ ਮਾਂ! ਕਿਉ ਵਿਸਰੈ = ਕਦੇ ਨਾਹ ਭੁੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

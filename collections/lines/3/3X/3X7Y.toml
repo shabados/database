@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਤੋਂ ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੈ। ਫਿਰ ਇਸ ਤੋਂ ਕਿਵੇਂ ਪਾਰ ਲੰਘਿਆ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਤਰੀਐ = ਕਿਵੇਂ ਪਾਰ ਲੰਘਿਆ ਜਾਏ? ਦੁਤਰ = {दुस्तर} ਜਿਸ ਤੋਂ ਪਾਰ ਲੰਘਣਾ ਔਖਾ ਹੈ। ਸੰਸਾਰੀ = ਸੰਸਾਰ-ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

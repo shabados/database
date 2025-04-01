@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਉਸ ਜਿਹਾ ਹੋਰ ਕੋਈ ਦਰਵੇਸ਼ ਸੰਸਾਰ ਵਿਚ ਨਹੀਂ ਆਇਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਨਿਆਇਦ ਚੁਨੂੰ ਦਿਗਰ ਦਰਵੇਸ਼ ।੧੩।"
+page = 1
+line = 13
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

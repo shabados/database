@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਸਭਨਾਂ ਵਾਂਗ) ਪਰਮਾਤਮਾ ਹੀ ਨਾਨਕ ਦਾ ਮਦਦਗਾਰ ਬਣਿਆ ਹੋਇਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ ਸਹਾਈ = ਨਾਨਕ ਦਾ ਮਦਦਗਾਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

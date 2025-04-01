@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ (ਉਸ ਸਰਬ-ਵਿਆਪਕ ਦਾ) ਦਰਸ਼ਨ ਕਰ ਕੇ ਮਸਤ ਰਹਿੰਦੀ ਹੈ, ਉਸ ਨੂੰ ਜੰਗਲ, ਘਾਹ-ਬੂਟ, ਤਿੰਨ ਭਵਨ ਹਰੇ-ਭਰੇ ਦਿੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣੁ = ਜੰਗਲ। ਤ੍ਰਿਣੁ = ਘਾਹ-ਪੱਠਾ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਮੋਹੀਆ = ਮਸਤ ਹੋ ਗਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

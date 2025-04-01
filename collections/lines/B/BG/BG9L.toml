@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਸ਼ੌਕ ਜਿਸ ਦੇ ਗਲੇ ਦਾ ਹਾਰ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਮੌਲਾ-ਅਸ਼ ਗਿਰੇਬਾਣ ਗੀਰ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

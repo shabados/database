@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੈਨੂੰ ਗੁਪਤ ਖ਼ਜ਼ਾਨੇ ਦਾ ਸਾਫ਼ ਪਤਾ ਲੱਗ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬ-ਬੀਨੀ ਗੰਜਿ ਖ਼ੁਫ਼ੀਆ ਰਾ ਪਦੀਦ ।੧੬੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

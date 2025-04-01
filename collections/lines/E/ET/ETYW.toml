@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਾਣੀ ਨੂੰ ਮਿਲ ਕੇ ਕੌਲ ਫੁੱਲ ਖਿੜਦੇ ਹਨ, ਤਿਵੇਂ ਜਦੋਂ ਕੋਈ ਸੰਤ ਕਿਸੇ ਸੰਤ ਨੂੰ ਮਿਲਦਾ ਹੈ ਤਾਂ ਉਸ ਦਾ ਮਨ ਖਿੜ ਪੈਂਦਾ ਹੈ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤੈ = ਸੰਤ ਨੂੰ। ਮਿਲੈ = ਮਿਲਦਾ ਹੈ {ਇਕ-ਵਚਨ}। ਬਿਗਸੈ = ਖਿੜ ਪੈਂਦਾ ਹੈ। ਜਲ ਮਿਲਿ = ਪਾਣੀ ਨੂੰ ਮਿਲ ਕੇ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

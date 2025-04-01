@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਤਮਕ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ) ਉਹ ਮਨੁੱਖ ਸਮਝਦਾ ਹੈ ਜਿਸ ਨੂੰ ਪਰਮਾਤਮਾ ਆਪ ਸਮਝਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝੈ = ਸਮਝਦਾ ਹੈ। ਬੁਝਾਏ = ਸਮਝ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗਵਾਰ!) (ਵੇਦ ਪੁਰਾਣ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਨੂੰ) ਨਿਰੇ ਪੜ੍ਹਨ ਸੁਣਨ ਦਾ ਕੀ ਲਾਭ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ = ਕੀਹ ਲਾਭ? ਗੁਨੀਐ {Skt. गण्} ਵਿਚਾਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

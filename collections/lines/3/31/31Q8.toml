@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ, ਹੇ ਭਾਈ! ਉਸ ਸਾਕਤ ਦੇ ਇਤਨੇ) ਵਿਕਾਰ ਵਧ ਜਾਂਦੇ ਹਨ ਕਿ ਉਹਨਾਂ ਦੇ ਅਨੇਕਾਂ ਦਫ਼ਤਰ ਹੀ ਲਿਖੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਧੇ = ਵਧੇ ਹੋਏ ਹਨ। ਕਾਗਰ = ਕਾਗ਼ਜ਼, ਦਫ਼ਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

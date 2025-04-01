@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੇ ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਆਪਣੇ ਮਨ ਵਿਚ ਹੀ ਵੇਖ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ। ਪੇਖੇ = ਵੇਖ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

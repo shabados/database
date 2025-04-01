@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਉਸ ਦੀ ਬੜੀ ਇੱਜ਼ਤ ਹੁੰਦੀ ਹੈ, ਸਾਰਾ ਜਗਤ ਉਸ ਦਾ ਆਦਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਈਐ = ਪੇਕੇ ਘਰ ਵਿਚ, ਇਸ ਲੋਕ ਵਿਚ। ਸਾਹੁਰੈ = ਸਹੁਰੇ ਘਰ ਵਿਚ, ਪਰਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

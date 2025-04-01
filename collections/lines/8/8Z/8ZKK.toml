@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਮਨੁੱਖ ਇਸ ਮਨ ਨੂੰ ਵੱਸ ਵਿਚ ਕਰ ਕੇ ਪੂਰਨ ਖਿੜਾਉ ਵਿਚ ਟਿਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇ = ਲੈ ਕੇ, ਵੱਸ ਵਿਚ ਕਰ ਕੇ। ਜਉ = ਜਦੋਂ। ਉਨਮਨਿ = ਉਨਮਨ ਵਿਚ, ਖਿੜਾਉ ਵਿਚ। ਰਹੈ = ਟਿਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

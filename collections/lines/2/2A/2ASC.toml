@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਫਿਰ ਕਿਸੇ ਭੀ ਹੋਰ ਸੁਆਦ ਵਿਚ ਨਹੀਂ ਫਸੋਗੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤਾਂ, ਤਦੋਂ। ਸਾਦਿ = ਸੁਆਦ ਵਿਚ। ਅਨਤ ਸਾਦਿ = ਹੋਰ ਸੁਆਦਿ ਵਿਚ। ਕਤ = ਕਿੱਥੇ? ਕਤ ਅਨਤ ਸਾਦਿ = ਕਿਸੇ ਭੀ ਸੁਆਦ ਵਿਚ ਨਹੀਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

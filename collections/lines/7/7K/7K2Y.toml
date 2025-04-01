@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਹਣੇ ਰਾਮ ਅੱਕਾਂ ਦੀਆਂ ਖੱਖੜੀਆਂ (ਹੁਣ) ਪੱਕੇ ਹੋਏ ਅੰਬ ਬਣ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਜਾ ਰਾਮ = ਹੇ ਸੁਹਣੇ ਰਾਮ! ਕਕਰੀਆ = ਅੱਕਾਂ ਦੀਆਂ ਖੱਖੜੀਆਂ। ਆਬਰੇ ਪਕਾਏ = ਪੱਕੇ ਅੰਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

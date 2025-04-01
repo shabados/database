@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਿਆਰ ਨਾਲ ਇਕਾਗ੍ਰ ਚਿੱਤ ਹੋ ਕੇ ਹਰੀ ਦਾ ਸਿਮਰਨ ਕਰ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਮਨਿ = ਇਕ ਮਨ ਨਾਲ। ਇਕ ਚਿਤਿ = ਇਕ ਚਿੱਤ ਨਾਲ। ਭਾਇ = ਪ੍ਰੇਮ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

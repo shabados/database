@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਭਗਤਾਣ ਦੀ ਸੰਗਤ ਨੂਰ ਨਾਲ ਭਰੀ ਪਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਮਰਦਾਨਿ-ਹੱਕ ਬਸ ਅਨਵਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

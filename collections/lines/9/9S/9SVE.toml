@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਅਬਿਨਾਸ਼ੀ ਸਿੰਘਾਸਨ ਦੇ ਮਾਲਕ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਵਿਦਾਨੀ ਸਦਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੪।"
+page = 10
+line = 144
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

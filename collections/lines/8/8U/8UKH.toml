@@ -36,6 +36,12 @@ language = "pa"
 data = "ਐਸਾ ਚੰਦਰਾ ਸ਼ਰਾਬ, ਜਿਥੋਂ ਤਕ ਵੱਸ ਚੱਲੇ ਕਦੇ ਨਹੀਂ ਪੀਣਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੀਚਈ = ਪੀਣਾ ਚਾਹੀਦਾ। ਜੇ ਕਾ = ਜਿਥੋਂ ਤਕ। ਪਾਰਿ ਵਸਾਇ = ਵੱਸ ਚੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਦੇ ਖ਼ੁਸ਼ੀ ਕਦੇ ਚਿੰਤਾ) ਇਹ ਖ਼ੁਸ਼ੀ ਤੇ ਸਹਮ ਸਦਾ ਮਨੁੱਖ ਦੇ ਬੂਹੇ ਉਤੇ ਖਲੋਤੇ ਹੀ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਕ = ਚਿੰਤਾ। ਉਭੇ = ਖਲੋਤੇ ਹੋਏ। ਦਰਵਾਰਿ = ਬੂਹੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

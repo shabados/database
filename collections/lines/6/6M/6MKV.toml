@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿਲਦਾਰ ਅਤੇ ਦਿਲ ਵਜੂਦ ਵਿਚ ਇੰਨੇ ਇੱਕ ਮਿੱਕ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਦਾਰ ਵਾ ਦਿਲ ਜ਼ਿ ਬਸਕਿ ਯਕੇ ਅੰਦ ਦਰ ਵਜੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਆਪਣੇ ਵਿਸ਼ੇਸ਼ ਪ੍ਰੇਮ ਦੇ ਚਾਉ ਦਾ ਰਸ ਬਖ਼ਸ਼ੋ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਲਜ਼ਤੇ ਅਜ਼ ਸ਼ੌਕਿ ਖ਼ਾਸੋ ਜ਼ੌਕ ਦਿਹ ।੪੬੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

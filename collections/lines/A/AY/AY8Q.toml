@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ (ਜੀਵਾਂ ਨੂੰ) ਭੇਜਦਾ ਹੈਂ, ਤਾਂ (ਇਹ) ਜਗਤ ਵਿਚ ਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮਹਿ = ਤੂੰ (ਆਪ) ਹੀ। ਪਠਾਏ = ਭੇਜੇ, ਘੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

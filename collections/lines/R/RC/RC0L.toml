@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਸਿਮਰਨ ਦੀ) ਸੂਝ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਬੁਧਿ = (ਸਿਮਰਨ ਦੀ) ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

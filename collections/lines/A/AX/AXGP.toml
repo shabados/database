@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤ ਵਿਚ ਅੱਪੜਿਆਂ ਮਨ ਦੀ ਮੈਲ ਕੱਟੀ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੁਠਿਆ = ਅੱਪੜਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

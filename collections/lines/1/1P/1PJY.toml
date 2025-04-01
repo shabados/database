@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਜਿੰਦ ਨੂੰ ਸਮਝਾ ਕਿ ਉਸ ਸਾਰਿਗਪਾਨੀ-ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਆਖ, ਜਿੰਦ ਨੂੰ ਸਮਝਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

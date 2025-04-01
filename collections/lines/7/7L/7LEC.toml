@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਸੋਨੇ ਦੇ ਕਿਲ੍ਹੇ ਦਾਨ ਕਰਾਂ, ਬਹੁਤ ਸਾਰੇ ਘੋੜੇ ਤੇ ਹਾਥੀ ਦਾਨ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਚਨ = ਸੋਨਾ। ਕੋਟ = ਕਿਲ੍ਹੇ। ਦਤੁ ਕਰੀ = (ਕਰੀਂ), ਮੈਂ ਦਾਨ ਕਰਾਂ। ਹੈਵਰ = {ਹਯ ਵਰ} ਵਧੀਆ ਘੋੜੇ। ਗੈਵਰ = {ਗਜ ਵਰ} ਵਧੀਆ ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

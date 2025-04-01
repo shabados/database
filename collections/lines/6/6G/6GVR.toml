@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੌਰੇਤ, ਜ਼ਬੂਰ, ਅੰਜੀਲ, ਕੁਰਾਨ) ਕਤੇਬਾਂ ਸਮੇਤ ਵੇਦ (ਭਾਵ, ਹਿੰਦੂ ਮੁਸਲਮਾਨ ਆਦਿਕ ਸਾਰੇ ਮਤਾਂ ਦੇ ਧਰਮ-ਪੁਸਤਕ) ਤੈਨੂੰ ਖੜੇ ਸਿਮਰ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤੇਬਾ = ਤੌਰੇਤ, ਜ਼ਬੂਰ, ਅੰਜੀਲ, ਕੁਰਾਨ। ਸਣੁ = ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

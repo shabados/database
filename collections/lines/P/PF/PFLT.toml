@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਜਿਆਂ ਤੇ ਰਾਣਿਆਂ ਦੇ ਇਹ ਰੰਗ ਚਾਰ ਦਿਨਾਂ (ਭਾਵ, ਥੋੜੇ ਚਿਰ) ਲਈ ਸੋਭਨੀਕ ਹੁੰਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਪਤਿ = ਰਾਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

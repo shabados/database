@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਗਿਆਨਵਾਨਾਣ ਦੀ ਜ਼ਿੰਦਗੀ ਰੱਬ ਦਾ ਸਿਮਰਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਗੀ ਇ ਆਰਿਫ਼ਾਣ ਯਾਦਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

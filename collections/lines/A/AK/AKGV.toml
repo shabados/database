@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਾ ਕੋਈ ਭੰਵਰ ਰਾਹ ਵਿਚ ਰੁਕਾਵਟ ਹੈ ਤੇ ਨਾ ਕੋਈ ਦਰਿਆ ਦਾ ਕੰਢਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾ ਗਿਰਦਾਬੇ ਦਰੂ ਹਾਇਲ ਨਾ ਦਰਿਆਓ ਨਾ ਸਾਹਿਲ ਹਾ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

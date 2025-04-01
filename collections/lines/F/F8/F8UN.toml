@@ -36,6 +36,12 @@ language = "pa"
 data = "ਐਸੇ ਮਨੁੱਖ ਨੂੰ ਨਾਹ ਗੋਪਾਲ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਹਾਸਲ ਹੁੰਦੀ ਹੈ, ਨਾਹ ਉੱਚੀ ਸੁਰਤ, ਤੇ ਨਾਹ ਹੀ ਧਰਮ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਨੁ = ਉੱਚੀ ਸੁਰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

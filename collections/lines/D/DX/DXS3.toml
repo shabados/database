@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! ਆਓ (ਰਲ ਕੇ ਬੈਠੀਏ) ਹੇ ਸਹੇਲੀਏ! ਆਓ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰੀਏ, ਅਤੇ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਵੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖੀ = ਹੇ ਸਹੇਲੀਏ! ਵਸਿ = ਰਜ਼ਾ ਵਿਚ (ਤੁਰੀਏ)। ਮੰਗਲੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ। ਗਾਵਹ = ਆਓ ਅਸੀਂ ਗਾਵੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

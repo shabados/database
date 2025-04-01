@@ -5,6 +5,13 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਜਹਾਨ ਹੀ ਸਫਲ ਹੁੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਫ਼ੈਲਿ ਕਰਮਹਾਇ ਓ ਕਾਮਾਰਾਂ ।੫੬।"
+page = 2
+line = 56
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

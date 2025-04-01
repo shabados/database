@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਰੋਸੇ ਵਿਚ ਉਹ ਸਾਰੇ ਸਿਦਕਵਾਨਾਂ ਸਚਿਆਰਿਆਂ ਨਾਲੋਂ ਅਗਰੇੇ ਤੇ ਉਚੇਰਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ ਸਿਦਕ ਅਜ਼ ਹਮਾ ਸਾਦਿਕਾਨਿਸ਼ ਸਬੱਕ ।੧੭੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਯਾਕੂਤ ਦੀ ਕੀਮਤ ਸਾਡੀ ਮੋਤੀ ਵਸਾਉਣ ਵਾਲੀ ਅੱਖ ਹੀ ਜਾਣਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਮਤਿ ਯਾਕੂਤ ਦਾਨਦ ਚਸ਼ਮਿ ਗੌਹਰ ਬਾਰਿ ਮਾ ।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

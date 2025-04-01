@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕਿਉਂ ਇਸ ਨੂੰ ਜੱਫਾ ਮਾਰੀ ਬੈਠਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਲਪਟਾਵਹਿ = ਕਿਉਂ ਲਪਟ ਰਿਹਾ ਹੈਂ, ਕਿਉਂ ਜੱਫਾ ਮਾਰੀ ਬੈਠਾ ਹੈਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

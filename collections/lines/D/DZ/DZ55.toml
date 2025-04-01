@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਘਰ ਵਿਚ) ਕੁੜੀ ਮੁੰਡਿਆਂ ਦੇ ਖਾਣ ਜੋਗਾ ਕੁਝ ਨਹੀਂ (ਰਹਿੰਦਾ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੈਬੋ = ਖਾਣ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

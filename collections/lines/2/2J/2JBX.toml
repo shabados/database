@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਨੂੰ) ਅਨੇਕਾਂ ਜਨਮਾਂ ਦੀ ਹਉਮੈ ਦੀ ਮੈਲ ਚੰਬੜੀ ਆਉਂਦੀ ਹੈ, ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਇਹ ਮੈਲ ਲਹਿ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੁ = ਮੈਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

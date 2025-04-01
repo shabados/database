@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਮੈਨੂੰ ਭੀ ਉਹ ਅਕਲ ਦੱਸ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਝਹਿ = ਮੈਨੂੰ ਹੀ। ਮਤੀ = ਮਤਿ, ਅਕਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

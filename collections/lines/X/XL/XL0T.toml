@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੋ ਗੁਰਮੁਖ ਮਨੁੱਖਾਂ ਦਾ ਨੌਕਰ (ਹੋਵੇ,) ਉਸ ਦੇ ਚਰਨੀਂ ਲੱਗਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਹਰਾ = ਮੁੰਡਾ, ਨੌਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

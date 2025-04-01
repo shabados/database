@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਕਤ (ਪ੍ਰਭੂ ਨਾਲੋਂ ਟੁਟੇ ਹੋਏ, ਅਧਰਮੀ) ਨਾਲੋਂ ਟੁੱਟ ਜਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਕਤ = ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟਾ ਹੋਇਆ ਮਨੁੱਖ। ਸਿਉ = ਨਾਲ, ਨਾਲੋਂ। ਰੇ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਨੀਵੀਂ ਜਾਤਿ ਵਿਚੋਂ ਭੀ ਜੰਮ ਕੇ ਜੇ ਕੋਈ ਪ੍ਰਭੂ ਦਾ ਭਗਤ ਬਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਨਾਤੀ ਵਿਚਿ = ਨੀਵੀਂ ਜਾਤਿ ਵਾਲਿਆਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

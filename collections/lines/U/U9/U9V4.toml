@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਆਪਣੇ ਆਪੇ ਨੂੰ ਨਹੀਂ ਮਿਟਾਇਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਊ ਖ਼ੁਦ ਫ਼ਨਾਇ ਊ ਨ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

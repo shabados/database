@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੋਹਣੇ ਰਾਮ! (ਕਿਰਪਾ ਕਰ) ਮੈਂ ਗੁਰਮੁਖਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਪ੍ਰਾਪਤ ਕਰ ਲਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਈਆ = ਹੇ ਰਾਮ! ਰੇਨੁ = ਚਰਨ-ਧੂੜ। ਪਾਵਉਂ, ਮੈਂ ਪਾ ਲਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਕਿ ਉਸ ਜੋਗੀ ਨੂੰ (ਸਹੀ) ਜੀਵਨ-ਜਾਚ (ਅਜੇ) ਨਹੀਂ ਆਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਹ ਜੋਗੀ ਕਉ = ਉਸ ਜੋਗੀ ਨੂੰ। ਜੁਗਤਿ = ਸਹੀ ਜੀਵਨ-ਜਾਚ। ਜਾਨਉ = ਜਾਨਉਂ, ਮੈਂ ਸਮਝਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

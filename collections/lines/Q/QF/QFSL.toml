@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਰੱਬੀ-ਜੋਤ ਨਾਹ ਕਦੇ ਜੰਮਦੀ ਹੈ, ਤੇ ਨਾਹ ਮਰਦੀ ਦਿੱਸਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਛੂ ਨ ਦੀਸਈ = ਕੁੱਝ ਭੀ ਨਹੀਂ ਦਿੱਸਦਾ। ਜਾਤ = ਜਾਂਦਾ, ਮਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

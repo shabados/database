@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਜੀਵਾਂ ਦੇ ਮੱਥੇ ਤੇ ਭਉ-ਰੂਪ ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ ਹੈ, ਭਾਵ, ਪ੍ਰਭੂ ਦਾ ਨਿਯਮ ਹੀ ਐਸਾ ਹੈ ਕਿ ਸਾਰੇ ਉਸ ਦੇ ਭੈ ਵਿਚ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲਿਆ ਸਿਰਿ = ਸਾਰੇ ਜੀਵਾਂ ਦੇ ਸਿਰ ਉੱਤੇ। ਲੇਖੁ ਲਿਖਿਆ = ਭਉ ਰੂਪੀ ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

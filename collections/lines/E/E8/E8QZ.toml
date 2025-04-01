@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਤਾਜ ਵਾਲਿਆਂ ਬਾਦਸ਼ਾਹਾਂ ਦਾ ਭੀ ਤਾਜਦਾਰ ਬਾਦਸ਼ਾਹ ਹੈ ।  "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਿਰਾਂ ਮਾਯਾ ਤਰ ਅਫ਼ਸਰਿ ਅਫ਼ਸਰਾਂ ।੭੦।"
+page = 4
+line = 70
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

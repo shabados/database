@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ?) ਹੇ ਨਾਨਕ! ਜੇ ਪ੍ਰਭੂ ਆਪ ਜੀਵ ਦੇ ਜੀਵਨ ਨੂੰ ਸੁਧਾਰੇ ਤਾਂ ਹੀ ਸੁਧਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਣੇ ਰਾਸਿ = ਜੇ ਰਾਸਿ ਆਣੇ, ਜੇ ਸੁਧਾਰ ਦੇਵੇ। ਆਵੈ ਰਾਸਿ = ਰਾਸਿ ਆਵੈ, ਸੁਧਰ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

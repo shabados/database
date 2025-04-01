@@ -5,6 +5,13 @@ language = "pa"
 data = "ਕਿ ਸਭਨਾਂ ਦੇ ਦਿਲਾਂ ਨੂੰ ਸਿੱਧੇ ਪਾਸੇ ਮੋੲ ਦਿਆਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਦਿਲਿ ਜੁਮਲਾ ਬਾਜ਼ ਗਰਦਾਨਮ ।੫੦।"
+page = 1
+line = 50
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

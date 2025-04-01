@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਭੇਖ ਧਾਰਦਾ ਹੈਂ (ਤੇ ਫਿਰ ਭੀ) ਇਕੋ ਤਰ੍ਹਾਂ ਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਰੰਗ = ਇਕੋ ਕਿਸਮ ਦਾ, ਇਕ ਰੰਗ ਵਾਲਾ। ਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

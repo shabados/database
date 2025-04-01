@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਨੂੰ ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਹੈਂ, ਸਾਡੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਅੰਤਰਜਾਮੀ = ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

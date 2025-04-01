@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਪ੍ਰਭੂ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਨਾਲ ਆਪਣਾ ਮਨ ਜੋੜ ਰੱਖਿਆ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਨਾਲ। ਸੀਤ = ਸੀਤਾ ਹੋਇਆ ਹੈ, ਜੋੜਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆਲ ਪ੍ਰਭੂ! ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ! ਮੇਰੀ ਗਰੀਬ ਦੀ ਬੇਨਤੀ ਸੁਣ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਬਿਨਉ = ਦੀਨ ਦੀ ਬੇਨਤੀ, ਗ਼ਰੀਬ ਦੀ ਬੇਨਤੀ। ਦਇਆਲ = ਹੇ ਦਇਆਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

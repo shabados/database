@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ, ਮਾਨੋ, ਵੇਦ ਪੁਰਾਣ ਸਿੰਮ੍ਰਤੀਆਂ ਆਦਿਕ ਸਾਰੇ ਧਰਮ-ਪੁਸਤਕ ਸੁਣ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵਿਛੋੜੇ ਦਾ ਕੰਡਾ ਜਦ ਦਿਲ ਦੇ ਪੈਰ ਤੋਂ ਨਿਕਲ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਰਿ ਹਿਜਰ ਅਜ਼ ਪਾਇ ਦਿਲ ਚੂੰ ਦੂਰ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੁੱਖੇ ਨੂੰ ਭੀ ਆਸਰਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਖੇ = ਲਾਲਚੀ, ਤ੍ਰਿਸਨਾ-ਅਧੀਨ ਮਨੁੱਖ। ਅਧਾਰ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

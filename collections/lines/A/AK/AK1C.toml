@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੂਜੇ ਪਾਸੇ) ਪਰਮਾਤਮਾ ਦਾ ਭਗਤ ਨੀਵੀਂ ਕੁਲ ਵਿਚ ਭੀ ਜੰਮਿਆ ਹੋਇਆ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਚ ਕੁਲੁ = ਨੀਵੀਂ ਕੁਲ ਵਾਲਾ, ਨੀਵੀਂ ਕੁਲ ਵਿਚ ਜੰਮਿਆ ਹੋਇਆ। ਸੁਣਹਿ = ਲੋਕ ਸੁਣਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

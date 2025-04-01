@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਜਗਤ-ਰਚਨਾ ਨੂੰ) ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ, ਕੌਤਕ-ਤਮਾਸ਼ੇ ਰਚ ਕੇ ਆਪ ਹੀ ਵੇਖਦਾ ਹੈ, ਆਪਣੇ ਆਪ ਨੂੰ ਹੀ ਵੇਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਖਿ = ਵੇਖ ਕੇ। ਵਿਗਸਦਾ = ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ। ਕਰਿ = ਕਰ ਕੇ। ਚੋਜ = ਤਮਾਸ਼ੇ। ਆਪੈ = ਆਪਣੇ ਆਪ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

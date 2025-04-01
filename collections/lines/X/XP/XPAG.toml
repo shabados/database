@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਗੁਰੂ) ਦੀ ਸੋਭਾ ਸੁਣ ਕੇ ਮਨ ਆਤਮਕ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੀ = ਜਿਸ (ਗੁਰੂ) ਦੀ। ਸੋਇ = ਸੋਭਾ। ਸੁਣੀ = ਸੁਣਿ, ਸੁਣ ਕੇ। ਜੀਵੈ = ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

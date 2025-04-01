@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਪ੍ਰਭੂ! ਹੇ ਪੂਰਨ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਆਪਣੇ ਨਾਮ ਦੀ ਦਾਤ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਸਾਗਰ = ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

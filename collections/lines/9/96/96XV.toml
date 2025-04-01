@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਦੇ ਸਾਰੇ ਕੰਮ ਪ੍ਰਭੂ ਹੀ ਸੰਵਾਰਨ ਵਾਲਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਈਤ = ਇਸ ਲੋਕ ਵਿਚ। ਊਤ = ਪਰਲੋਕ ਵਿਚ। ਸਾਰ = ਸਵਾਰਨ ਵਾਲਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

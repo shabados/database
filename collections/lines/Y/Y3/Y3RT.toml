@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਿਆਨ ਨਾਲ ਚਿੱਤ ਨੂੰ ਇਕ ਨਿਸ਼ਾਨੇ ਤੇ ਟਿਕਾ ਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਵਧਾਨ = ਅਵਧਾਨ ਸਹਿਤ, ਧਿਆਨ ਨਾਲ। ਏਕਾਗਰ = ਇਕ ਨਿਸ਼ਾਨੇ ਤੇ ਟਿਕਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਪਰਮੇਸ਼ਰ ਨੇ (ਇਹ) ਜਿੰਦ ਦਿੱਤੀ ਹੈ, ਉਸ ਨੂੰ (ਸਦਾ) ਸਿਮਰ ॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪਰਮੇਸਰ) ਨੇ ॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

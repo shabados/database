@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਦੀ ਇਹ ਵਾਰੀ ਆ ਜਾਂਦੀ ਹੈ; (ਜਿਵੇਂ) ਪੱਕਾ ਫ਼ਸਲ (ਆਖ਼ਿਰ) ਕੱਟਿਆ ਹੀ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਸੈ = ਹਰੇਕ ਜੀਵ ਦੀ। ਪਕੀ ਖੇਤੀ = ਪੱਕਾ ਹੋਇਆ ਫ਼ਸਲ। ਲੁਣੀਐ = ਕੱਟੀ ਜਾਂਦੀ ਹੈ, ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਾਰੇ ਜੀਵ ਜੰਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ। ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਵ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

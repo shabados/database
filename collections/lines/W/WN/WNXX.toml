@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇਸ਼ਰਮ ਮਨ! ਤੈਨੂੰ ਸ਼ਰਮ ਨਹੀਂ ਆਉਂਦੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਲਜ = ਬੇ-ਸ਼ਰਮ। ਤਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

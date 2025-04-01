@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਲਕ-ਪ੍ਰਭੂ! ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਤੇਰਾ ਨਾਮ ਉਹੀ ਮਨੁੱਖ ਗਾ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

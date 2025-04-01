@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਇਹ ਅਟੱਲ ਮਰਯਾਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੀ ਕਾਰ = ਅਟੱਲ ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

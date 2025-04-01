@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਨੇ (ਵਿਕਾਰ ਆਦਿਕਾਂ ਤੋਂ) ਮੇਰੀ ਇੱਜ਼ਤ ਬਚਾ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਦਾ = ਲਾਜ, ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

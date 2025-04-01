@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਨਾਮ ਸਾਰੇ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ। ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਉਸ ਹਰਿ-ਨਾਮ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਬਣਾਈ ਰੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛਾਨੋ = ਪਛਾਨੁ, ਜਾਣ-ਪਛਾਣ ਪਾ, ਸਾਂਝ ਪਾਈ ਰੱਖ। ਹਰਤਾ = ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

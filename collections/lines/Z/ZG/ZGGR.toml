@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਆ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਗ੍ਰਿਹਿ = ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

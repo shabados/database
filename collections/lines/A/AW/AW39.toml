@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਿਆਲ ਪ੍ਰਭੂ! (ਮੇਹਰ ਕਰ, ਆਪਣਾ ਨਾਮ ਦੇਹ, ਤਾ ਕਿ) ਤੇਰੇ ਨਾਮ ਦੀ ਰਾਹੀਂ ਮੈਂ (ਦੁੱਖਾਂ ਦੇ ਇਸ ਸਮੁੰਦਰ ਵਿਚੋਂ) ਪਾਰ ਲੰਘ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ! ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ। ਤਰਾ = ਤਰ ਸਕਦਾ ਹਾਂ, ਪਾਰ ਲੰਘ ਸਕਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

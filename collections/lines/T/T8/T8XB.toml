@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਿਆਗੀਆਂ ਵਾਲਾ) ਧਾਰਮਿਕ ਪਹਿਰਾਵਾ ਪਹਿਨਦਾ ਹੈ, ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਅਨੁਸਾਰ ਜੀਵਨ ਨਹੀਂ ਬਿਤਾਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਖ = ਧਾਰਮਿਕ ਪਹਿਰਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

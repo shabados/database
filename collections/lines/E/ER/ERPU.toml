@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਕੁਝ ਨਾਸ਼ ਹੋ ਜਾਣ ਵਾਲਾ ਹੈ ਪਰ ਉਹ ਰੱਬ ਸਦਾ ਅਬਿਨਾਸ਼ੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਮਾ ਫ਼ਾਨੀ ਵ ਊ ਦਾਇਮ ਬਕਾਸਤ ।੯੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

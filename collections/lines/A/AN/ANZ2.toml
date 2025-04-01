@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਫਿਰ ਰਾਜ ਕਾਜ ਦੇ ਮਨੋਰਥ ਪੂਰੇ ਹੋ ਜਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਕਸਦਸ਼ ਦਰ ਸਲਤਨਤ ਦਸਤ ਆਮਦੇ ।੩੭੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

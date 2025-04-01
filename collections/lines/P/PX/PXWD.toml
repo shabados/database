@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਤੂੰ ਹੀ ਸਭ ਦੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤ = ਜਿਥੇ ਕਿੱਥੇ। ਦੇਖਉ = ਦੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

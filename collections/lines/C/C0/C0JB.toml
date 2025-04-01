@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਆਦਰ ਬਖ਼ਸ਼ਿਆ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰਿ = ਠਾਕੁਰ ਨੇ। ਮਾਨੁ = ਆਦਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

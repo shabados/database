@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁਰਾਣਾਂ ਵਿਚ ਮਾਸ (ਦਾ ਜ਼ਿਕਰ), ਮੁਸਲਮਾਨੀ ਮਜ਼ਹਬੀ ਕਿਤਾਬਾਂ ਵਿਚ ਭੀ ਮਾਸ (ਵਰਤਣ ਦਾ ਜ਼ਿਕਰ); ਜਗਤ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਹੀ ਮਾਸ ਵਰਤੀਂਦਾ ਚਲਾ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤੇਬੀ = ਮੁਸਲਮਾਨਾਂ ਦੀਆਂ ਮਜ਼ਹਬੀ ਕਿਤਾਬਾਂ ਵਿਚ। ਕਮਾਣਾ = ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

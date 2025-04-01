@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ ਮਨੁੱਖ ਦੀ ਭਟਕਣਾ ਮਨੁੱਖ ਦੇ ਵਿਤਕਰੇ ਕੱਟੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮ = ਭਟਕਣਾ। ਭੇਦ = ਵਿਤਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

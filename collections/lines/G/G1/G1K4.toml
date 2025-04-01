@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਮਿਹਰ ਕਰ, ਮੈਨੂੰ ਉਹ) ਸਾਧੂ ਗੁਰੂ ਲਿਆ ਕੇ ਮਿਲਾ ਦੇ, ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ, ਹੇ ਹਰੀ! ਦਿਨ ਰਾਤ ਤੇਰਾ ਨਾਮ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨਿ = ਲਿਆ ਕੇ। ਹਰਿ = ਹੇ ਹਰੀ! ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਉਰਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

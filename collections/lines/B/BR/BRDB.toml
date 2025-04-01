@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਮਾਇਆ ਤੋਂ) ਨਿਰਲੇਪ ਪ੍ਰਭੂ ਜੀ ਮਿਲ ਪੈਂਦੇ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਭੇਟੇ = ਮਿਲੇ। ਨਿਰਜੋਗ = ਨਿਰਲੇਪ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

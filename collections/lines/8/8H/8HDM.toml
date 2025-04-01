@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਝੱਲੇ ਜੋਗੀ! ਇਸ ਪਖੰਡ ਨੂੰ ਛੱਡ, ਤੇ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਬੰਦਗੀ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਟੁ = ਠੱਗੀ, ਪਖੰਡ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

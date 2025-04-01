@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੂੰ ਨਾਹ ਆਤਮਕ ਮੌਤ ਆਉਂਦੀ ਹੈ, ਨਾਹ ਹੀ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਣੁ = ਆਤਮਕ ਮੌਤ। ਆਵਣੁ ਜਾਣੁ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ! ਜੇ ਮੈਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਾਂ, ਤਾਂ ਹੀ ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਾ = ਪਾਵਾਂ, ਮੈਂ ਪਾ ਸਕਾਂ। ਭਾਵਾ = ਭਾਵਾਂ, ਮੈਂ ਚੰਗਾ ਲੱਗਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

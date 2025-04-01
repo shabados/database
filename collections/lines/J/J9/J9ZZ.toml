@@ -5,6 +5,11 @@ language = "pa"
 data = "ਚੰਗੇ ਦਿਲ ਵਾਲਾ ਬੰਦਾ ਕੌਣ ਹੈ ਜਿਹੜਾ ਰੱਬ ਨੂੰ ਪਛਾਣਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਸਾਹਿਬਿ-ਦਿਲ ਕਿ ਹੱਕ ਬਿਸਨਾਸਦਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਤੱਖ ਤੌਰ ਤੇ ਅਕਾਲ ਪੁਰਖ ਨੇ ਧੁਰੋਂ ਹੀ ਆਪ ਦੇ ਮੱਥੇ ਤੇ ਲੇਖ ਲਿਖਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ ਪੁਰਖਿ = ਅਕਾਲ ਪੁਰਖ ਨੇ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਧੁਰਿ = ਧੁਰੋਂ, ਮੁੱਢ ਤੋਂ। ਅਛਰੁ = ਲੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

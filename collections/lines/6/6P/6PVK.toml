@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗ਼ਾਫ਼ਿਲ ਮਨੁੱਖ) ਪਰਮਾਤਮਾ ਦੇ ਭਜਨ ਦੀ ਜੁਗਤਿ ਨਹੀਂ ਸਮਝਦਾ, ਮਾਇਆ ਦੇ ਹੱਥ ਵਿਚ ਵਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਜੁਗਤਿ। ਹਾਥਿ = ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

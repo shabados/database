@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਕਰ, ਮੈਂ ਤੇਰੇ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਧਰਦਾ ਰਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਵਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

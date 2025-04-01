@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਆਪਣੇ ਸਿੱਖ ਦਾ ਲੋਕ ਪਰਲੋਕ ਸਵਾਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤੁ = {Skt.अत्र = in this place, here} ਇਹ ਲੋਕ। ਪਲਤੁ = {परत्र in another world} ਪਰ ਲੋਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

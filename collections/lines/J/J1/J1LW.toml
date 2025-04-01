@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਲਾਹ ਮਸ਼ਵਰਾ ਭੀ ਉਹ ਆਪ ਹੀ ਕਰਦਾ ਸੀ ਤੇ ਜੋ ਕਰਦਾ ਸੀ ਸੋ ਹੁੰਦਾ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾ ਮਸੂਰਤਿ = ਸਾਲਾਹ ਮਸ਼ਵਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

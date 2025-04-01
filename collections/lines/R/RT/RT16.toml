@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਹੇ ਸੰਤ! ਹੇ ਮਿੱਤਰ! ਸੁਣ, ਉਹ ਸਦਾ ਸੁਖੀ ਜੀਵਨ ਵਾਲੇ ਹੋ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਣ = ਹੇ ਸੱਜਣ! ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

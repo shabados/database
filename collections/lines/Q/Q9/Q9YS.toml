@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਮਿੱਠੀ ਕਰ ਕੇ ਮੰਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆ = ਰਜ਼ਾ, ਹੁਕਮ। ਸਹੁ = ਸਹਾਰ, ਮੰਨ। ਸਤਿ = ਠੀਕ, ਸੱਚੀ (ਜਾਣ ਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

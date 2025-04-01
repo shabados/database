@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਤਿਸ਼ਾਹੀਆਂ ਤੇ ਹਕੂਮਤਾਂ; ਖ਼ੁਸ਼ੀਆਂ ਤੇ (ਚੰਗੇ) ਖਾਣੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰ = ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

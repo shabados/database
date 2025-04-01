@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੇ ਮਨੁੱਖ ਦਿਆਲ ਸਰਬ-ਵਿਆਪੀ ਭਗਵਾਨ ਦੇ ਨਾਮ ਦੀ ਵਡਿਆਈ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਨ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

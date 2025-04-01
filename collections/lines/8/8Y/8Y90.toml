@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰੇ ਜਾਦੂ, ਜਾਦੂਗਰ ਬਣ ਗਏ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਰਾਂ ਗਸ਼ਤਾ ਅੰਦ ਜਾਦੂਇ ਮਨ ।੩੪।"
+page = 1
+line = 34
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਕਦੇ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਭੁੱਲਦਾ (ਕੀ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ) ਉਹ ਕਿਹੋ ਜਿਹੇ ਹੁੰਦੇ ਹਨ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਬੰਦੇ। ਕਿਨੇਹਿਆ = ਕਿਹੋ ਜਿਹੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

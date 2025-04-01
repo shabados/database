@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਸਾਨੂੰ ਕੋਈ ਸ੍ਰੇਸ਼ਟ ਅਕਲ ਬਖ਼ਸ਼ ਜਿਸ ਦਾ ਸਦਕਾ ਅਸੀਂ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉਤੇ ਢਹਿ ਪਈਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਪਗਿ = ਦੇ ਕਦਮ ਤੇ। ਪਾਹ = ਅਸੀਂ ਪੈ ਜਾਈਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

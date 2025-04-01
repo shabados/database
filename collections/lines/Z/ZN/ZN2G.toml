@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸੋਹਣਾ ਹੈਂ, ਤੂੰ ਸਭ ਰਸਾਂ ਦਾ ਸੋਮਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਾਲ = ਸਭ ਰਸਾਂ ਦਾ ਘਰ {ਆਲਯ} ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

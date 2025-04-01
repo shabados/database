@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀਆਂ ਅੱਖਾਂ ਤਰਸ ਰਹੀਆਂ ਹਨ, ਮੈਂ ਕਦੋਂ ਤੇਰਾ ਦਰਸਨ ਕਰਾਂਗੀ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿੰਜੇ = ਮੇਰੇ। ਪਸੀ = ਪੱਸੀਂ, ਮੈਂ ਵੇਖਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

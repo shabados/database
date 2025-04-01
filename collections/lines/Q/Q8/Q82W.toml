@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਆਪਣਾ ਤਨ, ਮਨ, ਧਨ, ਘਰ ਤੇ ਸਰੀਰ (ਆਪਣੇ ਪਤੀ ਦੇ) ਹਵਾਲੇ ਕਰ ਦੇਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉਪਿ = ਸੌਂਪੇ, ਹਵਾਲੇ ਕਰ ਦੇਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

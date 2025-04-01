@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਅਨੇਕਾਂ ਹੀ ਜਨਮਾਂ ਵਿਚ ਭਟਕਦਾ ਆਇਆ ਹੈਂ। ਹੁਣ ਤੈਨੂੰ ਦੁਰਲੱਭ ਮਨੁੱਖਾ ਜਨਮ ਮਿਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਤੌ = ਭਟਕਦਾ। ਦੁਲਭਾਹੀ = ਦੁਰਲੱਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹੀ ਮਾਲਕ-ਪ੍ਰਭੂ ਹੀ (ਅਸਾਂ ਜੀਵਾਂ ਦਾ) ਰਾਖਾ ਹੈ, ਸਦਾ ਉਸ ਦੇ ਲੜ ਲੱਗਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮੀ = ਮਾਲਕ। ਰਖਕੋ = ਰੱਖਿਅਕ, ਰਾਖਾ। ਤਾ ਕੈ ਅੰਚਲਿ = ਉਸ ਦੇ ਪੱਲੇ ਨਾਲ। ਜੀਉ = ਹੇ ਜੀ! ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

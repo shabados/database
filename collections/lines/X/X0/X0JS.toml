@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਹੀ ਇਹ ਹਰ ਵੇਲੇ (ਸਿਮਰਨ ਦੀ) ਜਾਗ ਆ ਸਕਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਜਾਗਿ = ਜਾਗ ਸਕੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

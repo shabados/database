@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਦੁਨੀਆ ਵਿਚ ਤੇਰੀ ਮੁਰਾਦ ਪੂਰੀ ਹੋ ਜੋਾਵੇਗੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਦਰੀਂ ਦੁਨਿਆ ਬ-ਯਾਬੀ ਕਾਮ ਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

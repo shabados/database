@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਕਿਊਮਰਸ ਅਤੇ ਜਮਸ਼ੇਦ, ਪੁਰਾਤਨ ਈਰਾਨ ਦੇ ਬਾਦਸ਼ਾਹ, ਅਤੇ ਜ਼ਾਰ, ਰੂਸਦੇ ਬਾਦਸ਼ਾਹ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਕਿਊਮਰਸੋ ਜਮਸ਼ੇਦੋ ਜ਼ਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

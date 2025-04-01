@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਖੋਟੀ ਮਤਿ ਵਾਲਾ ਸਾਰਾ (ਜੀਵਨ) ਰਵਈਆ ਭੁੱਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਖੋਟੀ ਮਤਿ। ਰੀਤਿ = ਰਵਈਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

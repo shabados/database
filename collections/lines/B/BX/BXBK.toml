@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ ਆਸਰਾ ਭੁਲਾ ਕੇ ਹੀ) ਕੋਈ ਮੰਗਤਾ ਭਿੱਛਿਆ (ਮੰਗ ਮੰਗ ਕੇ) ਖਾਂਦਾ ਹੈ (ਤੇ ਗਰੀਬੀ ਵਿਚ ਨਿਢਾਲ ਹੋ ਰਿਹਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਖਕੁ = ਮੰਗਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

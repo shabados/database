@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਛੁਰੀ ਹੋਵੇ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ (ਉਸ ਛੁਰੀ ਦਾ) ਸਾਰਾ ਲੋਹਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਤੀ = (ਸੰ: कर्तरी) ਕੈਂਚੀ, ਚਾਕੂ, ਛੁਰੀ। ਸਾਰੁ = ਲੋਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

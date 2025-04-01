@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੋਰ ਕੋਈ ਦੂਜਾ ਅੱਖਰ ਦਰਜ ਨਹੀਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ੈਰ ਹਰਫ਼ਿ ਬੰਦਗੀ ਹਰਫ਼ਿ ਦਿਗਰ ।੫੦੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

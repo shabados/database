@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਹੀ ਨੌ ਗ੍ਰਹਿ ਜਿਸ ਦੇ ਦਰਬਾਰ ਵਿਚ ਖਲੋਤੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਢੇ = ਖਾੜੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

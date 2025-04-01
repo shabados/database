@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਤੂੰ ਮਿਹਰ ਕਰੇਂ, ਤਾਂ) ਮੈਂ ਤੇਰਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ ਨਾਮੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ। ਹਿਰਦੈ = ਹਿਰਦੇ ਵਿਚ। ਵਸਾਈ = ਵਸਾਈਂ, ਮੈਂ ਵਸਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਤੂੰ ਬਾਲਕ ਤੋਂ ਬੁੱਢਾ ਹੋ ਗਿਆ ਹੈਂ, ਪਿਛਲਾ ਬੀਤਿਆ ਸਮਾ ਹੱਥ ਨਹੀਂ ਆਉਣਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਧਿ = ਬੁੱਢਾ। ਹੋਨਾ ਸੋ ਹੋਇਆ = ਬੀਤਿਆ ਸਮਾ ਮੁੜ ਹੱਥ ਨਹੀਂ ਆਉਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

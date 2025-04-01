@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ ਮੇਰੇ ਮਨ ਵਿਚ (ਆਪਣੇ ਚਰਨਾਂ ਦੀ) ਪ੍ਰੀਤ ਪੈਦਾ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਸਤਿਗੁਰਿ = ਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

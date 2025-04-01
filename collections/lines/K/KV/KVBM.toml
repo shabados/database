@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਜੀਵਾਂ ਉਤੇ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੈ = ਸਾਰੇ। ਬਖਸਿੰਦ = ਬਖ਼ਸ਼ਣ ਵਾਲਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੇ ਦਰਬਾਰ ਵਿਚ ਉਹ ਸਦਾ ਸੁਰਖ਼ਰੂ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ। ਉਜਲੇ = ਸਾਫ਼, ਸੋਹਣੇ। ਤਿਤੁ = ਉਸ ਵਿਚ। ਤਿਤੁ ਸਚੈ ਦਰਬਾਰਿ = ਉਸ ਸਦਾ-ਥਿਰ ਦਰਬਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

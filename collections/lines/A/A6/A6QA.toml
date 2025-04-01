@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਅੱਖਾਂ ਦੇ ਭਾਰ ਹੋ ਕੇ ਫਿਰਾਂ ਤੇ ਸਾਰਾ ਜਗਤ (ਫਿਰ ਕੇ) ਵੇਖ ਲਵਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖੀ ਪਰਣੈ = ਅੱਖਾਂ ਦੇ ਭਾਰ। ਸਭੁ ਆਕਾਰੁ = ਸਾਰਾ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਅੰਦਰ ਮਾਇਆ ਦੀ) ਤਪਸ਼ ਲੱਗੀ ਹੋਈ ਹੈ (ਲੋਕਾਂ ਨੂੰ ਗੀਤ ਸੁਣਾਇਆਂ) ਇਹ ਕਿਵੇਂ ਦੂਰ ਹੋਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਗੀ = ਲੱਗੀ ਹੋਈ। ਨਿਵਰੈ = ਦੂਰ ਹੋਵੇ। ਪਰਤਾਪੁ = ਤਪਸ਼, ਤ੍ਰਿਸ਼ਨਾ-ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

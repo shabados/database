@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਨੁੱਖ ਨੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ ਮਿਲ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਤਮ ਪਰਗਾਸੁ = ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ, ਇਹ ਚਾਨਣ ਕਿ ਆਤਮਕ ਜੀਵਨ ਕਿਵੇਂ ਜੀਵੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

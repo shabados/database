@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਮੇਰ-ਤੇਰ ਦੂਰ ਕਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਜਾ ਕੀ = ਜਿਸ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

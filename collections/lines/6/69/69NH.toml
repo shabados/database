@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੰਡਿਤ) ਜੋਤਸ਼ (ਦੇ ਲੇਖੇ) ਗਿਣ ਗਿਣ ਕੇ (ਕਿਸੇ ਜਜਮਾਨ ਦੇ ਪੁੱਤਰ ਦੀ) ਜਨਮ ਪੱਤ੍ਰੀ ਬਣਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਿ = ਗਿਣ ਕੇ। ਜੋਤਕੁ = ਜੋਤਸ਼। ਕਾਂਡੀ = ਜਨਮ-ਪੱਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

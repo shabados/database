@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਬੇ-ਮੁਹਾਰ ਮਨ! ਗੁਰੂ ਵਿਚ ਸਰਧਾ ਧਾਰ ਕੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਹੋਈ ਕਾਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਵਿਚ। ਮੰਨਿਆ = ਪਤੀਜਿਆਂ, ਪਤੀਜ ਕੇ, ਸਰਧਾ ਧਾਰ ਕੇ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਤੇ ਤੁਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

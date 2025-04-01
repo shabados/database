@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਤੇਰੀ ਯਾਦ ਵਿਚ ਮੇਰਾ ਦਿਨ ਰਾਤ ਗੁਜ਼ਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬ-ਯਾਦਤ ਬਿਗੁਜ਼ਰਦ ਰੂਜ਼ੋ ਸ਼ਬਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

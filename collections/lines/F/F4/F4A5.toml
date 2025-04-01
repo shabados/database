@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣ। ਪੂਰਬਲੇ ਕਮਾਏ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ ਸੁਣਿ = ਹੇ ਹਰੀ! ਤੂੰ (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣ। ਕਿਰਤ = ਕੀਤੇ ਹੋਏ। ਕਰੰਮਾ = ਕਰਮ, ਕੰਮ। ਪੂਰਬਿ = ਪੂਰਬਲੇ ਸਮੇ ਵਿਚ, ਪਹਿਲੇ ਜਨਮਾਂ ਵਿਚ। ਕਮਾਇਆ = ਕਮਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

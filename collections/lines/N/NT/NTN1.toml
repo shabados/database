@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੋਹਣੇ ਰਾਮ! ਤੇਰਾ ਨਾਮ ਸੋਹਣਾ ਹੈ, ਤੇਰਾ ਰੂਪ ਸੋਹਣਾ ਹੈ ਅਤੇ ਤੇਰਾ ਰੰਗ ਬਹੁਤ ਸੋਹਣਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂੜੋ = ਸੋਹਣਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

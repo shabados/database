@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮੈਂ ਕੀਹ ਕਰਾਂ? (ਪਿਆਰੇ ਤੋਂ ਬਿਨਾ) ਮੇਰਾ ਮਨ ਖਲੋਂਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੀਰੈ = ਧੀਰਜ ਫੜਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੂਰਖ ਹੈ, ਅੰਨ੍ਹਾ ਹੈ, ਬੜਾ ਜਾਹਿਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਿਆਨੁ = ਜਾਹਿਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

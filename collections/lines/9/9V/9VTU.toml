@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਕੋਈ ਭੀ ਮਨੁੱਖ ਹਉਮੈ ਨੂੰ ਮੁਕਾ ਨਹੀਂ ਸਕਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ = ਕਿਸ ਨੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

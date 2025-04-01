@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਦੇ ਕਾਰਣ) ਜਗਤ ਮਮਤਾ ਅਤੇ ਹਉਮੈ ਵਿਚ ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰਾ = ਮਮਤਾ। ਭਰਮੈ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ (ਦੇਵਤਿਆਂ ਆਦਿਕ ਦੀ) ਪੂਜਾ ਦਾ ਅਡੰਬਰ ਰਚਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਥਾਰਾ = ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

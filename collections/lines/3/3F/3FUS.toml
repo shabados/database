@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ, ਜਿਸ ਦੇ ਕਈ ਰੂਪ ਤੇ ਰੰਗ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਾ = ਕਈ ਕਿਸਮ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

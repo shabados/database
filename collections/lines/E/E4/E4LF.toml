@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਚੰਚਲ ਮਨ (ਹਉਮੈ ਨੂੰ ਮਾਰਨ ਦਾ) ਤਰੀਕਾ ਨਹੀਂ ਜਾਣ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਿ = (ਹਉਮੈ ਨੂੰ ਮਾਰਨ ਦੀ) ਵਿਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

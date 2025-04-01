@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਬਚ ਕੇ ਲੰਘਣ ਦਾ ਰਸਤਾ ਬਹੁਤ ਨਿੱਕਾ ਜਿਹਾ ਹੈ, ਉਹੀ ਇਸ ਵਿਚੋਂ ਲੰਘ ਸਕਦਾ ਹੈ ਜੋ ਬਹੁਤ ਨਿੱਕਾ ਹੋ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਕਾ = ਨਿੱਕਾ ਜਿਹਾ। ਨਾਨ੍ਹ੍ਹਾ = ਨੰਨ੍ਹਾ, ਬਹੁਤ ਛੋਟਾ। ਸੁ = ਉਹ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

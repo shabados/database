@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਖਸਮ-ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤੇਰੀ। ਨਾਥ = ਹੇ ਨਾਥ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

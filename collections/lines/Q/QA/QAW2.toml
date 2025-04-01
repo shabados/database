@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮੈਨੂੰ ਤਾਂ ਇਹ ਭਿਆਨਕ ਡੈਣ ਦਿੱਸਦੀ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਿ ਪਰੈ = ਦਿੱਸਦੀ ਹੈ। ਤ੍ਰਖਿ = ਤ੍ਰਿਖੀ, ਭਿਆਨਕ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

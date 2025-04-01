@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਸੇ ਤਰ੍ਹਾਂ) ਮਨੁੱਖ (ਆਪਣਾ) ਪਰਵਾਰ ਵੇਖ ਕੇ (ਮਾਇਆ ਦੇ) ਲੋਭ ਵਿਚ ਫਸ ਜਾਂਦਾ ਹੈ, ਮਾਇਆ ਨਾਲ ਚੰਬੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਦੇਖ ਕੇ। ਕੁਟੰਬੁ = ਪਰਵਾਰ। ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਲਪਟਾਨਾ = ਚੰਬੜਿਆ ਰਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਮਸਤਾਨਿਆਣ ਨੂੰ ਤਾਜ ਅਤੇ ਨਗੀਨਿਆਣ ਦੀ ਚਾਹ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਲੰਦਰਾਨਿ ਤੂ ਤਾਜੋ ਨਗੀਂ ਨਮੀ ਖ਼ਾਹੰਦ ।੨੭।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

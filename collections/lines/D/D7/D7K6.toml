@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਪਾਂ ਅਤੇ ਪੁੰਨਾਂ ਦਾ ਭੀ ਇਸ ਉਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਪੁ = ਅਸਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

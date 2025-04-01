@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਮੱਥੇ ਤੇ ਧੁਰ ਦਰਗਾਹੋਂ ਭਾਗ ਹੋਣ, ਉਸ ਨੂੰ ਗੁਰੂ ਰਾਖਾ ਮਿਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਪਹਿਲਾਂ ਤੋਂ। ਭਤਾਰੁ = ਰਾਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

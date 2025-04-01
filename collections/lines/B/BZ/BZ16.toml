@@ -42,6 +42,12 @@ language = "pa"
 data = "ਸੁੰਦਰ ਇਸਤ੍ਰੀਆਂ, ਜੋ ਸੁਰਗ, ਮਾਤ-ਲੋਕ ਤੇ ਪਾਤਾਲ ਵਿਚ (ਭਾਵ, ਹਰ ਥਾਂ) ਮਨੁੱਖ ਦੇ ਮਨ ਨੂੰ ਮੋਹ ਲੈਂਦੀਆਂ ਹਨ, ਤੈਨੂੰ ਗਾ ਰਹੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਣੀਆ = ਸੁੰਦਰ ਇਸਤ੍ਰੀਆਂ। ਮਛ = ਮਾਤ ਲੋਕ ਵਿਚ। ਪਇਆਲੇ = ਪਤਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

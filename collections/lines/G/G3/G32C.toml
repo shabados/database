@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਤੂੰ ਹੀ ਮੇਰੇ ਮਨ ਦੀ ਭੀ (ਸਿਮਰਨ ਦੀ) ਆਸ ਪੂਰੀ ਕੀਤੀ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ = ਹੇ ਗੁਰੂ! ਪੂਰਾਈ = ਪੂਰੀ ਕੀਤੀ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

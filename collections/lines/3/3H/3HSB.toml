@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨਾਮ-ਧਨ ਦੇ ਮਾਲਕ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਿਆ ਕਰ, (ਉਸ ਪਾਸੋਂ ਐਸਾ ਧਨ ਮਿਲਦਾ ਹੈ) ਜਿਸ ਧਨ ਵਿਚ ਕਦੇ ਘਾਟਾ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹੁ = ਸ਼ਾਹ, ਨਾਮ-ਧਨ ਦਾ ਮਾਲਕ। ਸੇਵਿ = ਸਰਨ ਪਿਆ ਰਹੁ। ਜਿਤੁ = ਜਿਸ (ਧਨ) ਵਿਚ। ਤੋਟਿ = ਘਾਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

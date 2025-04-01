@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਸਾਰੇ ਖੇਲ ਕਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਉਲਾ = ਖ਼ੁਦਾ, ਰੱਬ। ਸਭਿ = ਸਾਰੇ। ਖੇਲ = {ਬਹੁ-ਵਚਨ। ਲਫ਼ਜ਼ 'ਖੇਲੁ' ਇਕ-ਵਚਨ}। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

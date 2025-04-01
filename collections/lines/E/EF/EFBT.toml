@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਬਖਸ਼ਿਸ਼ ਨਾਲ ਰੱਬ ਨੂੰ ਵੇਖਣ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ-ਬੀਂ ਜ਼ਿ ਇਨਆਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੧।"
+page = 10
+line = 131
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

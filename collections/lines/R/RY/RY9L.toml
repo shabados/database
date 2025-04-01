@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਲੋਕ ਵਿਚ, ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਅਖ਼ੀਰਲੇ ਵੇਲੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗੈ = ਪਰਲੋਕ ਵਿਚ। ਪਾਛੈ ਇਸ ਲੋਕ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

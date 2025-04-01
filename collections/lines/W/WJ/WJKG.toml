@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਸਦਾ ਹੀ (ਜੀਵ ਦੇ ਨਾਲ) ਸਾਥੀ ਹੈ ਉਸ ਤੋਂ ਓਹਲਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੂਕ = ਲੁਕਾਉ, ਓਹਲਾ। ਸੰਗੀ = ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

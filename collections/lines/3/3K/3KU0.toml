@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਲ੍ਯ੍ਯਸਹਾਰ! ਸਤਿਗੁਰੂ (ਅੰਗਦ ਦੇਵ) ਸ਼ਿਰੋਮਣੀ ਗੁਰੂ ਹੈ। ਜੋ ਮਨੁੱਖ ਸਰਧਾ ਧਾਰ ਕੇ ਉਸ ਦੀ ਚਰਨੀਂ ਲੱਗਦਾ ਹੈ ਉਹ ਤਰ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲ = ਹੇ ਕਲ੍ਯ੍ਯਸਹਾਰ! ਸਤਿ = ਨਿਸ਼ਚਾ ਕਰ ਕੇ, ਸਰਧਾ ਧਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

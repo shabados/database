@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤਾਂ ਤੇਰਾ ਦਰਸਨ ਕਰਨ ਵਾਸਤੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਤਾਈ = ਕੈ ਤਾਈਂ, ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

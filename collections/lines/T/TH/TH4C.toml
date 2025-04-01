@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਸੁਚੱਜਾ ਸੋਹਣਾ ਤੇ ਸਿਆਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਘੜੁ = ਸੋਹਣੀ ਘਾੜਤ ਵਾਲਾ, ਸੁਚੱਜਾ। ਸਰੂਪੁ = ਸੋਹਣੇ ਰੂਪ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

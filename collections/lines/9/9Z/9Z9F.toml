@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਤਰਜਾਮੀ ਸਰਬ-ਵਿਆਪਕ ਕਰਤਾਰ! ਮੇਰੇ ਮਨ ਦੀ ਸਰਧਾ ਪੂਰੀ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤੇ = ਹੇ ਕਰਤਾਰ! ਪੂਰੇ = ਪੂਰਿ, ਪੂਰੀ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

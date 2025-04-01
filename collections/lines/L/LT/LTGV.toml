@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਿੱਟੀ ਨੂੰ ਵੀ ਸੱਚ ਦੀ ਰੋਸ਼ਨੀ ਨਾਲ ਨੂਰਾਨੀ ਬਣਾ ਦਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕ ਰਾ ਅਜ਼ ਹੱਕ ਮੁਨੱਵਰ ਮੀ-ਕੁਨੰਦ ।੧੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

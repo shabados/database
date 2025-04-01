@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਆਕਾਸਾਂ ਵਿਚ ਪਾਤਾਲ ਵਿਚ ਤਿੰਨਾਂ ਹੀ ਭਵਨਾਂ ਵਿਚ ਤੂੰ ਆਪ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਭਵਣਿ = ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਾਲੇ ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

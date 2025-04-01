@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਨ ਸਤਿਗੁਰੂ ਤੈਨੂੰ ਰੱਬ ਦਾ ਜਾਣਕਾਰ ਬਣਾ ਦਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਤੁਰਾ ਮਹਿਰਮ ਕੁਨਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

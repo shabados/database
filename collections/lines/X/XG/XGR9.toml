@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਵੀ ਉਸਦੇ ਪਵਿੱਤ੍ਰ ਦਰਸ਼ਨ ਕੀਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਸੇ ਕੂ ਦੀਦ ਦੀਦਾਰਿ ਮੁਕੱਦਸ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

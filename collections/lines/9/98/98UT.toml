@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਉਹ ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਹਰੇਕ ਸਰੀਰ ਦੇ ਅੰਦਰ ਵਿਆਪਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ = ਸਰੀਰ। ਘਟਿ ਘਟਿ ਅੰਤਰਿ = ਹਰੇਕ ਸਰੀਰ ਦੇ ਅੰਦਰ। ਏਕੋ = ਇਕ ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

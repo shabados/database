@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਬੰਦੇ! ਸੁਣ, ਤੂੰ ਉਸ ਖੂਹ ਵਿਚ ਡਿੱਗਾ ਪਿਆ ਹੈਂ ਜਿਸ ਨੂੰ ਮੌਤ ਨੇ ਘੇਰਿਆ ਹੋਇਆ ਹੈ (ਭਾਵ, ਮੌਤ ਅਵੱਸ਼ ਆਉਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂਆ = ਖੂਹ। ਕਾਲ ਗ੍ਰਸ ਕੂਆ = ਉਸ ਖੂਹ ਵਿਚ ਜਿਸ ਨੂੰ ਮੌਤ ਨੇ ਘੇਰਿਆ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

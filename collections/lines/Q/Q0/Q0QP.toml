@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ-ਰਚਨਾ ਦੇ) ਮੁੱਢ ਮੋਹ ਨੂੰ ਬਣਾ ਕੇ ਕਰਤਾਰ ਨੇ ਜਗਤ ਪੈਦਾ ਕੀਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੁ = ਮੁੱਢ। ਕਰਿ = ਬਣਾ ਕੇ। ਕਰਤੈ = ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

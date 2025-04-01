@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਖਾਣਿਆਂ ਨੂੰ ਹਜ਼ਮ ਕਰਨ ਲਈ ਤੇਰੇ ਅੰਦਰ ਮਿਹਦਾ ਆਦਿਕ ਅੰਗ ਬਣਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਪੇਟ ਦੇ ਅੰਦਰ। ਕਉ = ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਤੇਰੇ (ਪਿਆਰ ਦੇ) ਰੰਗ ਵਿਚ ਰੰਗੇ ਜਾਈਏ ਤਾਂ, ਮਾਨੋ, ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਮਿਲ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਈਅਨਿ = ਪਾਏ ਜਾਂਦੇ ਹਨ {ਵਿਆਕਰਣ ਅਨੁਸਾਰ ਇਹ ਲਫ਼ਜ਼ 'ਪਾਇਨਿ' ਤੋਂ 'ਕਰਮ ਵਾਚ' Passive Voice ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

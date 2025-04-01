@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਆਸਰਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖ ਭੰਜਨ = ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

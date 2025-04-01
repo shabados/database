@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸ਼ਾਨ ਸ਼ੋਕਤ ਅਤੇ ਸਜਾਵਟ ਦੇ ਬਾਗ ਦਾ ਉਹ ਤਾਜ਼ਾ ਫੁਲ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੇ ਆੲਨਿ ਗੁਲਿ ਗੁਲਸ਼ਨਿ ਫ਼ੱਰੋ ਜ਼ੇਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

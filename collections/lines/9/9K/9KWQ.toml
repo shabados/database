@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਬਾਲਕ ਨੂੰ ਦੁੱਧ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਜਿਵੇਂ ਪਪੀਹੇ ਦੇ ਮੂੰਹ ਨੂੰ ਬੱਦਲ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੀਰੁ = ਦੁੱਧ। ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ। ਜਲਧਰਾ = ਬੱਦਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

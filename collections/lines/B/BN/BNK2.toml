@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਜਾਣਦਾ ਹਾਣ, ਐ ਸ਼ੋਖ ਮਾਸ਼ੂਕ # ਕਿ ਤੂ ਦੋ ਜਹਾਨਾਣ ਦਾ ਖ਼ੂਨ ਕਰੇਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਨਮ ਐ ਸ਼ੋਖ਼ ਕਿ ਖ਼ੂਨਿ ਦੋ ਜਹਾਣ ਖ਼ਾਹਦ ਰੇਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

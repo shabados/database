@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਸੰਗ ਵਿਚ) ਗੁਰਮੁਖ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਉਚਾਰਦੇ ਹਨ ਓਥੇ ਅੰਮ੍ਰਿਤ ਦੇ, ਮਾਨੋ, ਫੁਹਾਰੇ ਚੱਲ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਿਉ = ਅੰਮ੍ਰਿਤ। ਝਰਣੇ = ਫੁਹਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

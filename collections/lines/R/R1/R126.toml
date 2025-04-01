@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦਾ) ਦੁੱਖ ਰੋਗ ਫ਼ਿਕਰ (ਤਦੋਂ ਹੀ ਵਿਆਪਦਾ) ਹੈ ਜਦੋਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁੱਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਗੁ = ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

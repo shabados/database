@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਪਿਆਂ) ਮਨੁੱਖਾ ਜੀਵਨ ਵਾਲਾ ਸਫ਼ਰ ਕਾਮਯਾਬ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਤ੍ਰਾ = ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ ਸਫ਼ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹੁੰਦੇ ਹਨ ਜਿਹੜੇ ਗੁਰੂ ਦੀ ਸਰਨ ਆ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਹਿ = ਸੇਂਵਦੇ ਹਨ, ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ, ਸਰਨ ਪੈਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

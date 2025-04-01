@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਤੇਰਾ ਉਹ (ਸਾਧ ਸੰਗਤਿ) ਥਾਂ ਬੜਾ ਹੀ ਅਸਚਰਜ ਹੈ, ਜਿਸ ਵਿਚ ਬੈਠਿਆਂ ਤੂੰ ਕਦੇ ਭੀ ਨਾਹ ਭੁੱਲੇਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿੱਥੇ, ਜਿਸ ਥਾਂ ਵਿਚ। ਕਬ ਹੂ = ਕਦੇ ਭੀ। ਕੇਹਾ = ਬੜਾ ਅਸਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੋਹਾਂ ਜਹਾਨਾ ਦਾ ਬਾਦਸ਼ਾਹ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਦੋ ਆਲਮ ਸ਼ਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 108
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

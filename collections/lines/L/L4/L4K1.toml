@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਹੀ ਮੇਰਾ ਸਾਥੀ ਹਰ ਥਾਂ ਮੇਰੇ ਨਾਲ ਤੁਰਿਆ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗੀ = ਸਾਥੀ। ਜਤ ਕਤ = ਜਿੱਥੇ ਕਿੱਥੇ, ਹਰ ਥਾਂ। ਜਾਤ = ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

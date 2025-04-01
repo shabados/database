@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਹੀਂ ਤਾਂ, ਅੰਨ੍ਹਾ ਮਨੁੱਖ ਤਾਂ) ਜਿਹੋ ਜਿਹੀ ਸਮਝ ਰੱਖਦਾ ਹੈ ਉਸੇ ਤਰ੍ਹਾਂ ਕਰੀ ਜਾਂਦਾ ਹੈ ਭਾਵੇਂ ਉਸ ਨੂੰ ਕੋਈ ਸੌ ਵਾਰੀ ਸਮਝਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਹਾ ਜਾਣੈ = (ਅੰਨ੍ਹਾ ਮਨੁੱਖ) ਜਿਵੇਂ ਸਮਝਦਾ ਹੈ। ਸਉ = ਸੌ ਵਾਰੀ। ਜੇ = ਭਾਵੇਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਗਾਂ ਵਾਲੇ ਮਨ! ਪ੍ਰਭੂ ਨਾਲ ਜੁੜਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਾਗੇ = ਹੇ ਭਾਗਾਂ ਵਾਲੇ (ਮਨ)!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

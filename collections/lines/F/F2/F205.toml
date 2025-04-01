@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਠਾਕੁਰ!) ਮੈਂ ਵਿਕਾਰੀ ਹਾਂ, (ਸਦਾ ਵਿਕਾਰਾਂ ਵਿਚ ਹੀ) ਡਿਗਿਆ ਰਹਿੰਦਾ ਹਾਂ, ਬੜਾ ਹੀ ਪਖੰਡੀ ਹਾਂ, ਤੂੰ ਪਵਿਤ੍ਰ ਨਿਰੰਕਾਰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਪਤਿਤੁ = ਡਿੱਗਾ ਹੋਇਆ, ਵਿਕਾਰਾਂ ਵਿਚ ਪਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

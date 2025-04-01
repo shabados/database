@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨਮੁਖ ਦੇ) ਸਰੀਰ ਵਿਚ ਉਸ ਦਾ ਹਿਰਦਾ-ਕੌਲ ਫੁੱਲ ਕੁਮਲਾਇਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ ਕਮਲੁ = ਸਰੀਰ ਵਿਚ ਦਾ ਹਿਰਦਾ-ਕੌਲ ਫੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

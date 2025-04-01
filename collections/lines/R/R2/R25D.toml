@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਨੂੰ) ਜਿਸ ਥਾਂ ਪਰਮਾਤਮਾ ਰੱਖਦਾ ਹੈ, ਉਹੀ ਥਾਂ (ਜੀਵ ਵਾਸਤੇ) ਚੰਗੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾ ਜਾਏ = ਉਹ ਥਾਂ {ਲਫ਼ਜ਼ 'ਸਾ' ਇਸਤ੍ਰੀ-ਲਿੰਗ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

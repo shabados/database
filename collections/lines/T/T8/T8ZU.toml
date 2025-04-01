@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਗੁਰਮੁਖ ਦੇ ਆਚਰਨ ਉਤੇ ਅਣਹੋਏ ਦੂਸ਼ਣ ਲਾਣ ਨਾਲ ਮਨੁੱਖ ਕਈ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿੰਦਾ = ਆਚਰਨ ਉੱਤੇ ਦੂਸ਼ਣ ਲਾਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

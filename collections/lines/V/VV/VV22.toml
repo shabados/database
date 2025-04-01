@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਆਪ ਅੰਨ੍ਹਾ ਹੈ, ਪਰ ਹੋਰਨਾਂ ਨੂੰ ਰਾਹ ਦੱਸਦਾ ਹੈ, ਉਹ ਸਾਰੇ ਸਾਥ ਨੂੰ ਲੁਟਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਹਾਏ = ਠਗਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

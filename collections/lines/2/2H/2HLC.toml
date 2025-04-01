@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਰਾਵਣ ਬੇ-ਸਮਝੀ ਵਿਚ ਕੁਰਾਹੇ ਪੈ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੇਤਿ = ਅਚੇਤ-ਪਨ ਵਿਚ, ਮੂਰਖਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਗੁਣਾਂ ਦੇ ਟੂਣੇ ਬਣਾ ਕੇ ਉਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਖ਼ੁਸ਼ ਕਰ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਣ = ਟੂਣੇ। ਕਰਿ = ਬਣਾ ਕੇ। ਰੀਝਾਇਆ = ਖ਼ੁਸ਼ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

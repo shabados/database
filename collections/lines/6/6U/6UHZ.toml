@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੁਣ ਉਹ ਸ਼ਰਾਬਖ਼ਾਨੇ ਦੀ ਗਲੀ ਵਿਚ ਕਿਉਣ ਜਾਵੇ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਗ਼ਰ ਚਿਰਾ ਬਕੂਚਾਇ ਖ਼ੁਮਾਰ ਮੀ-ਰਵਦ ।੨੮।੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

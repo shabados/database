@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਹੁਣ (ਇਸ ਜਨਮ ਵਿਚ) ਇੱਕ ਪਰਮਾਤਮਾ ਨਾਲ ਪਿਆਰ ਪਾ ਲਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਅਬ = ਹੁਣ, ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ। ਮੋਹੁ = ਪ੍ਰੇਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

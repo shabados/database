@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਮੁੱਕ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ, ਮਾਇਆ ਦਾ ਮੋਹ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

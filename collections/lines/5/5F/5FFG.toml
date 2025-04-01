@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ-ਪੰਛੀ ਇਕ ਮਾਇਆ ਦੇ ਜਾਲ ਵਿਚ ਹੀ (ਪਰਮਾਤਮਾ ਨੇ) ਫਸਾਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ ਜਾਲਿ = ਇਕ (ਮਾਇਆ) ਦੇ ਜਾਲ ਵਿਚ। ਪੰਖੀ = ਜੀਵ-ਪੰਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਸ਼ੂ ਕਲੋਲ ਕਰਦਾ ਹੈ ਪੰਛੀ ਕਲੋਲ ਕਰਦਾ ਹੈ (ਪਸ਼ੂ ਨੂੰ ਪੰਛੀ ਨੂੰ) ਮੌਤ ਨਹੀਂ ਦਿੱਸਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਦਮੁ = ਕਲੋਲ। ਪੰਖੀਆ = ਪੰਛੀ। ਕਾਲੁ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

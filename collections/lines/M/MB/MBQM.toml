@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਚਰਨ ਜਪ ਕੇ (ਮਾਇਆ ਦੀ) ਭੁੱਖ ਮਿਟ ਜਾਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਧਿਤਾਸੁ = ਭੁੱਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

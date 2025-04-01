@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਤੇਰੀ ਜ਼ਬਾਨ ਥਿੜਕਣ ਨਹੀਂ ਲੱਗ ਪੈਂਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਲ = ਬੇ-ਥਵ੍ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

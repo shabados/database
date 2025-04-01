@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ (ਅਸਲ) ਸਿਆਣਾ ਹੈ ਸੋਹਣਾ ਹੈ ਅਕਲ ਵਾਲਾ ਹੈ, ਜਿਹੜਾ ਤੇਰੇ ਮਨ ਵਿਚ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ ਮਨਿ = ਤੇਰੇ ਮਨ ਵਿਚ ॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

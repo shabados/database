@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੇ ਆਪਣਾ ਤਨ ਆਪਣਾ ਮਨ ਖੋਜ ਕੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਹੀ ਪ੍ਰਭੂ ਨੂੰ ਲੱਭ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜਿ = ਖੋਜ ਕੇ। ਘਰੈ ਮਹਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

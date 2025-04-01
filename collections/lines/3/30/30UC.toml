@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਸੋਹਣੇ ਗੋਬਿੰਦ! (ਇਹ ਜਗਤ ਤੇਰਾ ਹੀ ਰੂਪ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਨਿਧਾਨ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਅਨੂਪ = ਹੇ ਸੁੰਦਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਮੈਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਾਂ ਤਾਂ ਮੈਂ ਸਦਾ ਜਾਗਦਾ ਰਹਾਂ (ਮਾਇਆ ਦੇ ਹੱਲਿਆਂ ਤੋਂ ਸੁਚੇਤ ਰਹਾਂ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

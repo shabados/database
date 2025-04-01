@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ ਆਪਣਾ) ਚਿੱਤ ਜੋੜਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

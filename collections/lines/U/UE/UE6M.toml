@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਮਨੁੱਖ ਦਾ (ਮਨ ਰੂਪੀ) ਆਸਨ ਡੋਲਦਾ ਨਹੀਂ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲ = ਟਿਕਵਾਂ, ਨਾਹ ਹਿੱਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

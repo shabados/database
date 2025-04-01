@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਦੇਣਹਾਰ ਅਕਾਲ ਪੁਰਖ! ਇਹ ਭੀ ਤੇਰੀ ਬਖ਼ਸ਼ਸ਼ ਹੀ ਹੈ (ਕਿਉਂਕਿ ਇਹਨਾਂ ਦੁੱਖਾਂ ਕਲੇਸ਼ਾਂ ਦੇ ਕਾਰਨ ਹੀ ਮਨੁੱਖ ਨੂੰ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨ ਦੀ ਸਮਝ ਪੈਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤਿ = ਬਖ਼ਸ਼ਸ਼। ਦਾਤਾਰ = ਹੇ ਦੇਣਹਾਰ ਅਕਾਲ ਪੁਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

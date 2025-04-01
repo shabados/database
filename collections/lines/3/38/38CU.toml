@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਤਲਵਾਰ ਚਲਾਂਦੇ ਹਨ ਤੇ ਧੌਣ ਨਾਲੋਂ ਸਿਰ ਵੱਢੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁੰਡੀ = ਧੌਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

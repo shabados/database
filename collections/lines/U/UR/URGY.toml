@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਜੀਵ ਆਪ ਹੀ (ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਵਿਚ) ਬੱਝੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਨ ਕਮਾਇਐ = ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ। ਆਪੇ = ਆਪ ਹੀ। ਬਾਧੇ = ਬੱਝੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

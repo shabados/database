@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਂਞ ਤਾਂ) ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਫਿਰਦਾ ਹੈ (ਪਰ ਆਪਣੇ ਆਪ ਨੂੰ) ਤਪਾ ਅਖਵਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇਆ ਨੋ = ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

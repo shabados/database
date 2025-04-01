@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਿਵੇਂ ਮੱਛ ਜੀਭ ਦੇ ਸੁਆਦ ਦੇ ਕਾਰਨ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਹ ਮੂਰਖ ਲੋਭ ਦੇ ਕਾਰਨ ਲੁੱਟਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਨੁ = ਮੱਛ {ਪੁਲਿੰਗ}। ਸਾਦਿ = ਸੁਆਦ ਵਿਚ। ਰਸਨ = ਜੀਭ। ਓਹੁ ਮੂੜ = ਉਹ ਮੂਰਖ (ਮੱਛ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

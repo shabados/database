@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਸੇਵਕ ਤੇ ਦਾਸ ਉਸ ਦਾ ਨਾਮ ਸਿਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਇ = ਉਹ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

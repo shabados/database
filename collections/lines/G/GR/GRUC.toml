@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ (ਨਾਨਕ!) ਉਹ ਸ਼ਬਦ ਕਿਥੇ ਵੱਸਦਾ ਹੈ (ਜਿਸ ਦੀ ਰਾਹੀਂ ਤੁਹਾਡੇ ਮਤ-ਅਨੁਸਾਰ) ਮਨ ਦੀ ਭਟਕਣਾ ਮੁੱਕਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਵਨਾ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

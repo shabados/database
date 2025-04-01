@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਉਜਾੜ ਦੇਸ ਵਿਚ ਗੁਜ਼ਰਨ ਬਾਰੇ ਤੂੰ ਕੀ ਪੁਛਦਾ ਹੈਣ# "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਗੁਜ਼ਸ਼ਤਨ ਹਾ ਚਿਹ ਮੀ ਪੁਰਸੀ ਦਰੀਣ ਦੈਰਿ ਖ਼ਰਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

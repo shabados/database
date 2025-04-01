@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕ ਹੋਸ਼ ਵਿਚ ਰਹਿੰਦੇ ਹਨ ਅਤੇ ਮਸਤੀ ਨਹੀਣ ਕਰਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਤਾ ਬਕਦਮ ਬਹੋਸ਼ ਓ ਮਸਤੀ ਨ ਕੁਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖੋਟੇ ਮਨ! ਤੇਰਾ ਇਤਬਾਰ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, (ਕਿਉਂਕਿ) ਤੂੰ (ਮਾਇਆ ਦੇ ਨਸ਼ੇ ਵਿਚ) ਬਹੁਤ ਮਸਤ ਰਹਿੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਖੁਟਹਰ = ਹੇ ਖੋਟੇ ਮਨ! ਬਿਸਾਸੁ = ਇਤਬਾਰ। ਉਦਮਾਦਾ = ਮਸਤਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

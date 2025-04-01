@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਪਾਸ ਸਰਮਾਇਆ ਨਹੀਂ ਉਸ ਨੂੰ ਸੌਦਾ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਰੁ = ਸੌਦਾ। ਪਲੈ ਨ ਪਾਇ = ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

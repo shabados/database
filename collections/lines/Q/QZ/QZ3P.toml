@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਬੰਧਨਾਂ ਤੋਂ ਉਸ ਦੀ ਖ਼ਲਾਸੀ ਹੋ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਛੋਟ = ਖ਼ਲਾਸੀ। ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

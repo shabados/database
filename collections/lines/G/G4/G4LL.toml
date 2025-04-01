@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਨੂੰ ਵੇਖ ਕੇ ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ ਸਮਝ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਗ੍ਰੀ = ਪਦਾਰਥ। ਝੂਠ = ਨਾਸ ਹੋ ਜਾਣ ਵਾਲੇ। ਪੇਖਿ = ਵੇਖ ਕੇ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

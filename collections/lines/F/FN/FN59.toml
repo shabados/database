@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਗੁੱਜਰ ਗਲਾਵਾਂ ਪਾ ਕੇ ਦੁੱਧ ਚੋ ਲੈਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਹਿ ਲੇਇ = ਚੋ ਲੈਂਦਾ ਹੈ। ਅਹੀਰੁ = ਗੁੱਜਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

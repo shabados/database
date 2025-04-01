@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੂਰਜ ਤੇ ਚੰਦ੍ਰਮਾ ਦੀਆਂ ਕਿਰਨਾਂ, ਸਮੁੰਦਰ ਦਾ ਪੇਟ ਗੰਗਾ ਦੀਆਂ ਠਿਲ੍ਹਾਂ-ਇਹਨਾਂ ਦਾ ਅੰਤ ਕੌਣ ਪਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ = ਸੂਰਜ। ਸਸਿ = ਚੰਦ੍ਰਮਾ। ਉਦਰੁ = ਪੇਟ। ਗੰਗ ਤਰੰਗ = ਗੰਗਾ ਦੀਆਂ ਲਹਿਰਾਂ (ਠਿਲ੍ਹਾਂ)। ਕੋ = ਕੌਣ? ਪਾਵੈ = ਪਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

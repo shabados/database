@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਦੇ ਇਹਸਾਨਾਂ ਦਾ ਕਿੱਥੋਂ ਤੱਕ ਸ਼ੁਕਰ ਕਰਾਂ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਕੁਜਾ ਸ਼ੁਕਰੇ ਜ਼ ਇਹਸਾਨਸ਼ ਕੁਨਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

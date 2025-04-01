@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੁੱਤਾ ਨਰਕ ਵਿਚ ਪੈਣ ਦਾ ਸਜ਼ਾਵਾਰ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਨੁ = ਕੁੱਤਾ। ਨਰਕਪਾਤੀ = ਨਰਕਾਂ ਵਿਚ ਪੈਣ ਦਾ ਅਧਿਕਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

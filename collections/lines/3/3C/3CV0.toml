@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਇਸ ਨਾਮ-ਰੂਪ ਭੋਜਨ ਨਾਲ) ਉਹ ਬੜੇ ਰੱਜ ਜਾਂਦੇ ਹਨ ਉਹਨਾਂ ਦੀ ਹੋਰ ਖਾਣ ਦੀ ਇੱਛਾ ਮਿਟ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਭਾਖਿਆ = ਖਾਣ ਦੀ ਇੱਛਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

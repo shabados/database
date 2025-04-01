@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦਾਸ ਦੇ ਪੂਰੇ ਭਾਗ ਜਾਗ ਪੈਂਦੇ ਹਨ ॥੪॥੩੬॥੪੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸ ਤਿਸੁ = ਉਸ ਦਾਸ ਦੇ ॥੪॥੩੬॥੪੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

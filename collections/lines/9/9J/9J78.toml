@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਵਾਸਤੇ ਪਰਮੇਸਰ ਨੇ ਇਹੋ ਜਿਹੀ ਵਿਓਂਤ ਬਣਾ ਰੱਖੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸੁਰਿ = ਪਰਮੇਸਰ ਨੇ। ਬਣਤ = ਵਿਓਂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਮਰਜ਼ੀ ਹੈ ਹੁਣ ਤੂੰ (ਉਸ ਦਾ ਸਿਮਰਨ ਕਰ ਕੇ ਜ਼ਿੰਦਗੀ ਵਿਚ) ਕਾਮਯਾਬ ਹੋ ਚਾਹੇ ਨਾਹ ਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਝੁ = ਕਾਮਯਾਬ ਹੋ। ਭਾਵੈ = ਚਾਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

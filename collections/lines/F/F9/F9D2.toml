@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਕਿਸ ਤਰੀਕੇ ਨਾਲ (ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ) ਪਰਮਾਤਮਾ (ਦੇ ਨਾਮ) ਦੀ ਕਦਰ ਪੈਦਾ ਹੋਵੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨ ਬਿਧਿ = ਕਿਸ ਤਰੀਕੇ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

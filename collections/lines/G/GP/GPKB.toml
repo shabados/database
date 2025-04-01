@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ ਉਹ ਕਿਸੇ ਦੇ ਮੁਥਾਜ ਨਹੀਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿ = ਸੇ, ਉਹ ਮਨੁੱਖ। ਬੇਮੁਹਤਾਜੇ = ਬੇ-ਮੁਥਾਜ, ਬੇ-ਪਰਵਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

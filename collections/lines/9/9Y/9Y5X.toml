@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸੋਹਣਾ ਰੁੱਖ ਹੈਂ ਤੇ ਮੈਂ (ਉਸ ਰੁੱਖ ਦੇ ਆਸਰੇ ਰਹਿਣ ਵਾਲਾ) ਪੰਛੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰਵਰੁ = ਸੋਹਣਾ ਰੁੱਖ {ਤਰ = ਰੁੱਖ। ਵਰ = ਸੋਹਣਾ, ਸ੍ਰੇਸ਼ਟ}। ਆਹਿ = ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

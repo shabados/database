@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਮੁੜ ਮੁੜ ਅਨੇਕਾਂ ਵਾਰੀ (ਮੋਹ ਦੇ ਸਮੁੰਦਰ ਵਿਚ) ਡੁੱਬਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰਿ ਫਿਰਿ = ਮੁੜ ਮੁੜ। ਵਾਰੋ ਵਾਰਾ = ਬਾਰ ਬਾਰ, ਅਨੇਕਾਂ ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

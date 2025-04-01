@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਜੀਵ ਤੇਰੇ ਨਿਮਾਣੇ ਸੇਵਕ ਹਾਂ, ਤੂੰ ਸਾਡੇ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀ। ਦੀਨਾ = ਨਿਮਾਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

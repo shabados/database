@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕੰਮ ਦੇ ਕੀਤਿਆਂ ਆਖ਼ਰ ਹੱਥ ਮਲਣੇ ਪੈਣ, ਉਹ ਕੰਮ ਕਦੇ ਭੀ ਕਰਨਾ ਨਹੀਂ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੇ ਨ = ਬਿਲਕੁਲ ਨਹੀਂ। ਕੀਚੈ = ਕਰਨਾ ਚਾਹੀਦਾ। ਜਿਤੁ = ਜਿਸ ਕਰਕੇ। ਅੰਤਿ = ਅੰਤ ਵੇਲੇ, ਆਖ਼ਰ ਨੂੰ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

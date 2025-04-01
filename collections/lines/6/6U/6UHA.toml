@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀ ਉਮਰ ਉਸ ਦੀ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਬਣੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ = {Skt. युग} ਜ਼ਿੰਦਗੀ ਦਾ ਸਮਾ। ਗਤਿ = ਉੱਚੀ ਅਵਸਥਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਸਭ ਜੀਵਾਂ ਨੂੰ) ਜਿੰਦ, ਪ੍ਰਾਣ, ਸਰੀਰ ਤੂੰ ਹੀ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

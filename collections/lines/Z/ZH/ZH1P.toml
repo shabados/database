@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖਾਂ ਵਾਲੇ ਕੰਮ ਕਰ ਕੇ ਜਨਮ ਮਰਨ ਦਾ ਲੰਮਾ ਝੰਬੇਲਾ ਸਹੇੜ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤ ਗਣਾਇ = ਲੇਖਾ ਲਿਖਾ ਕੇ। ਮੂਰਖ ਗਣਤ ਗਣਾਇ = ਮੂਰਖਾਂ ਵਾਲੇ ਕੰਮ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

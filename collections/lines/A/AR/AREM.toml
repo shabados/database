@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੇ ਮੇਰਾ) ਹੱਥ ਫੜ ਕੇ, (ਮੇਰੀ) ਜਮਾਂ ਵਾਲੀ ਫਾਹੀ ਕੱਟ ਕੇ, ਮੇਰੀ ਬਾਂਹ ਫੜ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੁ = ਹੱਥ। ਗਹਿ = ਫੜ ਕੇ। ਭੁਜਾ = ਬਾਂਹ। ਕਟਿ = ਕੱਟ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

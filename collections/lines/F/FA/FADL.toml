@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮਨੁੱਖ ਅਕਲਮੰਦ ਹੈ ਜੋ ਆਪਣੇ ਦਿਲ ਵਿਚ ਟਿਕੀ ਹੋਈ ਬੁਰਾਈ ਨੂੰ ਦੂਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਸ = ਅਕਲ, ਦਾਨਸ਼। ਦਾਨਸਬੰਦੁ = ਦਾਨਸ਼ਮੰਦ, ਅਕਲਮੰਦ। ਦਿਲਿ = ਦਿਲ ਵਿਚ (ਟਿਕੀ ਹੋਈ ਬੁਰਾਈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

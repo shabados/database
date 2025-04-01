@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਦੀ ਜੋਤਿ ਵਿਚ ਆਪਣੀ ਜਿੰਦ ਰਲਾ ਦੇਈਏ, ਉਸ ਵਿਚ ਆਪਣੀ ਸੁਰਤ ਦਾ ਮੇਲ ਕਰ ਦੇਈਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤੀ = ਜੋਤਿ ਦਾ ਮਾਲਕ ਹਰੀ। ਸੁਰਤੀ = ਸੁਰਤ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

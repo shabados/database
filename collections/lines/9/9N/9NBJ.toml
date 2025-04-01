@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਦਾ ਬਾਦਸ਼ਾਹ ਦਿਲ ਵਿਚ ਵਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹਿ ਹਰ ਦੋ ਆਲਮ ਦਰ ਦਿਲ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

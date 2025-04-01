@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਜਗਤ ਨੂੰ) ਹੱਥ (ਦੀਆਂ ਉੱਗਲਾਂ, ਰੁੱਖ ਦੀਆਂ) ਟਹਿਣੀਆਂ ਤੇ ਪੱਤਰ ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = ਹੱਥ ਦੀਆਂ (ਉਂਗਲਾਂ)। ਪਲਵ = ਪੱਤਰ। ਸਾਖਾ = ਟਹਿਣੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

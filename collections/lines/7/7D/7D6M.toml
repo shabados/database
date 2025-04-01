@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਉਸ ਮਨੁੱਖ ਦੇ ਪਾਪ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੀਣਾ = ਕਮਜ਼ੋਰ। ਗਏ ਖੀਣਾ = ਕਮਜ਼ੋਰ ਹੋ ਕੇ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

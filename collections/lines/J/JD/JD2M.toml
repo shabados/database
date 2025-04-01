@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਇਹ ਅੰਬਰ ਵਰਗੀ ਕਾਲੀ ਜ਼ੁਲਫ ਮਾਨੋ ਸਵੇਰ ਦਾ ਬੁਰਕਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ੁਲਫ਼ਿ ਅੰਬਰੀਨਿ ਤੂ ਗੋਯਾ ਨਕਾਬਿ ਸੁਬਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

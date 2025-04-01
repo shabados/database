@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਪਦਾਰਥ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹ ਅਕਲ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ ਜੋ ਕਦੇ ਉਕਾਈ ਨਹੀਂ ਖਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ = ਮੁਕੰਮਲ, ਜੋ ਕਦੇ ਉਕਾਈ ਨਾਹ ਖਾਏ। ਬੁਧਿ = ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

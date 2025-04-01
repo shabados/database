@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਜਿਹਾ ਸੰਸਾਰ ਵਿਚ ਹੋਰ ਕੋਈ ਨਹੀਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੂ ਏਸਾਣ ਸਾਨੀਏ ਦੀਗਰ ਮਬੀਣ ।੧੮੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

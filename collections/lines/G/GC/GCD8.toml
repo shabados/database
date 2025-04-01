@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹ ਸਰੀਰ ਸਫਲ ਹੈ ਜੋ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

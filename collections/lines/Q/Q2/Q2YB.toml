@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਜਿਸ ਠਾਕੁਰ-ਪ੍ਰਭੂ ਨੇ (ਤੈਨੂੰ) ਮਨੁੱਖਾ ਜਨਮ ਦਿੱਤਾ ਹੋਇਆ ਹੈ, ਤੂੰ ਉਸ ਨੂੰ ਕਿਉਂ ਭੁਲਾ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨਸ ਜਨਮੁ = ਮਨੁੱਖਾ ਜਨਮ। ਜਿਹ ਠਾਕੁਰਿ = ਜਿਸ ਠਾਕੁਰ ਨੇ। ਤੈ = ਤੂੰ (ਹੇ ਪ੍ਰਾਣੀ!)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਤੈਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ ਉਸ ਨਾਲ ਸਾਂਝ ਪਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਤੂੰ = ਤੈਨੂੰ। ਜਾਨੁ = ਸਾਂਝ ਪਾ। ਤਿਸ ਕਉ = {ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਉ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

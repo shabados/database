@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰਾ ਜਹਾਨ ਗ਼ੁਲਜ਼ਾਰਾਣ ਨਾਲ ਬਹਿਸ਼ਤ ਦੇ ਬਾਗ ਦੀ ਤਰ੍ਹਾਣ ਭਰ ਗਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਣ ਚੂ ਬਾਗ਼ਿ ਇਰਮ ਪੁਰ ਸ਼ੁਦਸਤ ਅਜ਼ ਗ਼ੁਲਜ਼ਾਰ ।੩੬।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

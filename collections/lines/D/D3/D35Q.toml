@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੇ ਸ਼ਿਅਰ ਹਿੰਦੁਸਤਾਨ ਵਿਚ ਅਜੇਹੇ ਮੇਵੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੇਅਰਿ ਗੋਯਾ ਬੇਸ਼ ਅਜ਼ ਸ਼ੀਰੋ ਸ਼ਕਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

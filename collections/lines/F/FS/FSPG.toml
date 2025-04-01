@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਰੀਰ ਬੁੱਢਾ ਹੁੰਦਾ ਜਾਂਦਾ ਹੈ ਤੇ ਕਮਜ਼ੋਰ ਪੈਂਦਾ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ। ਛਿਜੈ = ਪੁਰਾਣਾ ਹੋ ਰਿਹਾ ਹੈ, ਬਿਰਧ ਹੋ ਰਿਹਾ ਹੈ। ਪਰਾਲੁ = ਪਰਾਲੀ ਵਾਂਗ ਫੋਕਾ ਕਮਜ਼ੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

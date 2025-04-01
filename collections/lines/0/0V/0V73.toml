@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤ ਦਾ ਅਸਰ ਹੋ ਜਾਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਮਰਦਾਂ ਤਅਸੁਰ ਮੀ-ਸ਼ਵਦ ।੨੨੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

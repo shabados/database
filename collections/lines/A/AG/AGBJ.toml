@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੀਭ ਨਾਲ ਹਰਿ-ਨਾਮ ਜਪਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ = ਜੀਭ (ਨਾਲ)। ਏਕੁ ਨਾਮੁ = ਸਿਰਫ਼ ਹਰਿ ਨਾਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਤੂੰ ਸੁਪਨੇ ਵਿਚ ਮਿਲਿਆ (ਸੁਪਨਾ ਮੁੱਕਿਆ, ਤੇ ਤੂੰ) ਫਿਰ ਚਲਾ ਗਿਆ, (ਵਿਛੋੜੇ ਦੇ ਦੁੱਖ ਵਿਚ) ਮੈਂ ਹੰਝੂ ਭਰ ਕੇ ਰੋਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਪਨੈ = ਸੁਪਨੇ ਵਿਚ। ਭੀ = ਮੁੜ। ਜਲੁ ਭਰਿਆ ਰੋਇ = ਹੰਝੂ ਭਰ ਕੇ ਰੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

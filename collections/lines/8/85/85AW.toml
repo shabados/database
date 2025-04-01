@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਤਰ੍ਹਾਂ) ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਦੀ ਰਾਹੀਂ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਕਾਰਜ ਸਵਾਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਸਾਖੀਐ = ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

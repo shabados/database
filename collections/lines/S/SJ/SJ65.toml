@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਆਪ ਹੀ ਸੰਗਤਿ ਨੂੰ ਸੱਦ ਕੇ ਬਿਠਾਉਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਵਿਦਾ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਦਾ ਕਰਾਵੈ = ਤੋਰ ਦੇਂਦਾ ਹੈ; ਰੁਖ਼ਸਤ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

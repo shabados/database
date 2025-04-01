@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਜਗਤ ਮੈਲੇ ਜੀਵਨ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਹੋਰ ਹੋਰ ਵਧੀਕ ਮੈਲੇ ਜੀਵਨ ਵਾਲਾ ਬਣਦਾ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲੋ = ਮੈਲਾ ਹੀ, ਹੋਰ ਹੋਰ ਮੈਲਾ। ਹੋਇ ਜਾਇ = ਹੁੰਦਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

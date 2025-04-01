@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਦਾ ਨਾਮ ਉਚਾਰ ਕੇ, ਰਾਮ ਦਾ ਨਾਮ ਜਪ ਕੇ ਸਾਰੇ ਪਾਪ ਦੂਰ ਕਰ ਲਵੋਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲਿ = ਬੋਲ ਕੇ। ਗਵਾਧੂ = ਦੂਰ ਕਰੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

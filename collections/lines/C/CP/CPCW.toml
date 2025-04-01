@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਧਰ ਤੱਕੋ ਚੰਚਲਤਾ ਦੇ ਕਾਰਨ) ਹਰੇਕ ਜੀਵ ਚਿੰਤਾਤੁਰ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤਤ = ਚਿੰਤਾਤੁਰ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

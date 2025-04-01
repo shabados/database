@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਰੱਬ ਹਰ ਹਾਲਤ ਵਿਚ ਸਾਡੀ ਰੱਖਿਆ ਲਈ ਹਾਜ਼ਰ ਨਾਜ਼ਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਖ਼ੁਦਾ ਹਾਜ਼ਿਰ ਅਸਤ ਦਰ ਹਮਾ ਹਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਜਪਣ ਵਾਲੇ ਨੂੰ ਇਹ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ ਕਿ) ਮਾਇਆ ਦਾ ਮੋਹ ਇਕ ਵਿਭਚਾਰਨ ਇਸਤ੍ਰੀ ਦੇ ਮੋਹ ਸਮਾਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਕਟੀ ਨਾਰਿ = ਵਿਭਚਾਰਨ ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

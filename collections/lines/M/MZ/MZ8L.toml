@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮਨੁੱਖ ਆਪਣੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਖੋਹਿ = ਦੂਰ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

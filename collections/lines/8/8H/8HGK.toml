@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਅਗਿਆਨਤਾ ਦੇ ਕਾਰਨ) ਸਿਮਰਨ ਤੋਂ ਖੁੰਝ ਕੇ ਜਗਤ ਇਕ ਹਨੇਰਾ ਖਾਤਾ ਬਣਿਆ ਪਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹੇਰਾ = ਗਹਿਰਾ, ਡੂੰਘਾ (ਖਾਤਾ)। ਅੰਧ = ਅੰਨ੍ਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

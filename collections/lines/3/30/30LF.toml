@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਸਦਾ ਉਸ ਦੇ ਹਜ਼ੂਰ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਹਮੇਸ਼ਾਂ ਬਾਸ਼ਦ ਊ ਰਾ ਦਰ ਹਜ਼ੂਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

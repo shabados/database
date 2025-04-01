@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਜੋ ਮਨੁੱਖ (ਇਹਨਾਂ ਅੱਖਰਾਂ ਦੀ ਰਾਹੀਂ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤ ਕਾ ਸਬਦੁ = ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਕਬੀਰਾ = ਹੇ ਕਬੀਰ! ਕਹੈ = (ਜੋ ਮਨੁੱਖ) ਆਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

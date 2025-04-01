@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੇਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਮਿੱਠੇ ਬੋਲ ਬੋਲਣ ਵਾਲਾ ਪਿਆਰਾ ਮਿੱਤਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਠ ਬੋਲੜਾ = ਮਿੱਠੇ ਬੋਲ ਬੋਲਣ ਵਾਲਾ। ਮੋਰਾ = ਮੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

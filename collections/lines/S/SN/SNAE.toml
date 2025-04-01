@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿਤ੍ਰ! (ਬੇ-ਸ਼ਕ) ਅਨੇਕਾਂ ਤਰ੍ਹਾਂ ਦੇ ਜਤਨ ਤੁਸੀ ਕਰ ਵੇਖੋ, (ਇਥੇ ਸਦਾ ਲਈ) ਟਿਕੇ ਨਹੀਂ ਰਹਿ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤ = ਹੇ ਮਿੱਤਰ! ਞਤਨ = ਜਤਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

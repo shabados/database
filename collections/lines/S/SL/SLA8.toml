@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਖ਼ਜ਼ਾਨੇ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਅਸੀਂ ਸਤਿਗੁਰੂ ਦੇ ਅਪਾਰ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਸਦਾ ਹਰ ਵੇਲੇ ਹਰੀ ਦੇ ਗੁਣ ਗਾਉਂਦੇ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

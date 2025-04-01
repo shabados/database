@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਹਰੇਕ ਜੀਵ ਦੇ) ਨੇੜੇ ਵੱਸਦਾ ਹੈ (ਕਿਸੇ ਭੀ ਥਾਂ ਤੋਂ) ਉਹ ਹਰੀ ਦੂਰ ਨਹੀਂ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

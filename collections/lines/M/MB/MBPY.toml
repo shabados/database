@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਉਹ ਅਡੋਲ ਆਤਮਕ ਅਵਸਥਾ ਦੇ ਘਰ ਵਿਚ ਟਿਕ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜੈ = ਅਡੋਲ ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

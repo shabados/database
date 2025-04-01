@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਨ ਨੂੰ ਪਰਮਾਤਮਾ ਨਾਲ ਜੋੜਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਜਨ = ਹੇ ਭਾਈ! ਮਾਧਉ = ਮਾਧਵ {ਮਾ = ਮਾਇਆ। ਧਵ = ਪਤੀ} ਮਾਇਆ ਦਾ ਪਤੀ ਪ੍ਰਭੂ। ਸਿਉ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

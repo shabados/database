@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਦਇਆ ਦੇ ਘਰ! ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਪ੍ਰਭੂ! ਹੇ ਸਾਰੇ ਸੁਖਾਂ ਦੀ ਬਖਸ਼ਸ਼ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਨਿਧਾਨ = ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਪੁਰਖ = ਹੇ ਸਰਬ-ਵਿਆਪਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

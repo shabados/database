@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸ਼ਾਂਤੀ ਸੱਚ ਅਤੇ ਅਕਲ ਦਾ ਸਰੂਪ ਹੈ, ਗੁਰੂ ਇਕ ਐਸਾ ਪਾਰਸ ਹੈ ਜਿਸ ਦੀ ਛੋਹ ਪਾਰਸ ਦੀ ਛੋਹ ਨਾਲੋਂ ਸ੍ਰੇਸ਼ਟ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸੱਚ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਬੁਧਿ = ਅਕਲ। ਮੂਰਤਿ = ਸਰੂਪ। ਪਰਸ = ਛੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

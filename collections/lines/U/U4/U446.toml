@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜੋ ਆਪਣੇ ਆਪ ਤੋਂ ਪਰਗਟ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਜੂਨੀ = ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ। ਸੰਭਉ = {स्वयंभु } ਜੋ ਆਪਣੇ ਆਪ ਤੋਂ ਪਰਗਟ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

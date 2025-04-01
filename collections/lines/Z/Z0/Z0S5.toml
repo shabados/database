@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੇ) ਪਵਿਤ੍ਰ (ਹੋਏ) ਮਨ ਵਿਚ ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਨਿਰਮਲਿ = ਨਿਰਮਲ ਵਿਚ। ਮਨਿ ਨਿਰਮਲਿ = ਨਿਰਮਲ ਮਨ ਵਿਚ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਪਰਮਾਤਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

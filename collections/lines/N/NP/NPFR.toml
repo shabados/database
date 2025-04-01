@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਆਪਣੇ ਨਾਲ ਚਰਚਾ ਕਰਦਾ ਹੈ, ਆਪ ਹੀ ਉਪਦੇਸ਼ ਕਰਦਾ ਹੈ, ਆਪ ਹੀ ਸਿਆਣੀ ਮੱਤ ਵਾਲਾ ਸੁੰਦਰ ਸਰੂਪ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਸਟਿ = ਚਰਚਾ। ਸੁਘੜੁ = ਸੁਚੱਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

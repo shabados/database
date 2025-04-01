@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ, ਉਸ ਦਾ ਕਿਸੇ ਨੇ ਅੰਤ ਨਹੀਂ ਲੱਭਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਰ = {ਅ-ਪਰ, (ਸੰ: नास्ति परों यस्मात्) ਜਿਸ ਤੋਂ ਪਰੇ ਹੋਰ ਕੋਈ ਨਹੀਂ, ਜਿਸ ਤੋਂ ਵੱਡਾ ਹੋਰ ਕੋਈ ਨਹੀਂ। ਪਾਰੁ = ਪਾਰਲਾ ਬੰਨਾ, ਅੰਤ। ਪਾਵਾ = ਪਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

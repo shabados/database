@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੇਹੜਾ ਸ਼ਬਦ ਹੈ ਜਿਸ ਦੀ ਰਾਹੀਂ ਵਿਕਾਰਾਂ ਵਲ ਦੌੜਦਾ ਮਨ ਟਿਕ ਜਾਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਖਰੁ = ਸ਼ਬਦ। ਧਾਵਤੁ = (ਵਿਕਾਰਾਂ ਵਲ) ਦੌੜਦਾ (ਮਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

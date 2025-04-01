@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਉਹਨਾਂ ਸੇਵਕਾਂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ਜਿਨ੍ਹਾਂ ਨੇ ਤੇਰੇ ਨਾਲ ਸਾਂਝ ਪਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨੀ = ਜਿਨ੍ਹਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

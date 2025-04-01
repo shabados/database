@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿੰਦ ਵਾਸਤੇ ਪ੍ਰਾਣਾਂ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹੀ ਅਸਲ) ਧਨ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਧਨੁ = ਜਿੰਦ ਦਾ ਧਨ। ਪ੍ਰਾਨ ਧਨੁ = ਪ੍ਰਾਣਾਂ ਲਈ ਧਨ। ਕੋ = ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

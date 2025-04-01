@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮਿਲ ਜਾਂਦੀ ਹੈ ॥੪॥੭੭॥੧੪੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੂ ਧੂਰੇ = ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਰੱਬੀ ਵਿਚਾਰ ਵਾਲੀ ਬਾਣੀ ਉਸੇ ਤੋਂ ਹੀ ਉਤਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਨਜ਼ਮ ਕਾਲਿ ਹੱਕ ਅੰਦੇਸ਼ਾ ਰਾ ।"
+page = 5
+line = 78
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਿਆਂ (ਉਹਨਾਂ ਦੇ) ਸਾਰੇ ਪਾਪ ਦੂਰ ਹੋ ਗਏ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਤ = ਜਪਦਿਆਂ। ਕਿਲਬਿਖ = ਪਾਪ। ਸਭਿ = ਸਾਰੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

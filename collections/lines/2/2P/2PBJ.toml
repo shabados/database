@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੋਂ ਖੋਟੇ ਉਹ ਆਦਮੀ ਵਿਭਚਾਰਨ ਇਸਤ੍ਰੀ ਵਾਂਗ ਘਰ ਘਰ ਫਿਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਸੁਧ = ਖੋਟੇ। ਧਰਕਟ = ਵਿਭਚਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

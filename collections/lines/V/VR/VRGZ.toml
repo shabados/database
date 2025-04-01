@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦਾ) ਮਨ (ਸੰਸਾਰ-ਰੂਪ) ਸੰਘਣੇ ਜੰਗਲ ਵਿਚ ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਨੈ ਬਨੈ = ਸੰਘਣੇ ਜੰਗਲ ਵਿਚ। ਭ੍ਰਮੈ = ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

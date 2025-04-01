@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਮਾਇਆ ਨੂੰ ਹੀ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸੱਤ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਨਿ = ਸ਼ਾਹਣੀ, ਸ਼ਾਹ ਦੀ ਵਹੁਟੀ, ਪ੍ਰਭੂ-ਸ਼ਾਹ ਦੀ ਇਸਤ੍ਰੀ, ਮਾਇਆ। ਸਤੁ ਕਰੈ = ਸੱਤ ਸਮਝਦਾ ਹੈ। ਜੀਅ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੂੰ ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ ਅਤੇ ਉਸ ਨੂੰ ਰਾਹ ਵਿਖਾਉਂਦਾ ਹਾਂ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਰਾ ਖ਼ਾਹਮ ਵ ਸ਼ਵਮ ਹਾਦੀ ।"
+page = 1
+line = 32
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

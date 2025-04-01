@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂਕਿ ਸਿੱਖ ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਬਚਨੀ = ਗੁਰੂ ਦੇ ਬਚਨਾਂ ਨਾਲ, ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

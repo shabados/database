@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਕਹਿੰਦਾ ਹੈ (ਜੋਗੀਆਂ ਨੇ ਕਿਹਾ-) ਹੇ ਬਾਲਕ (ਨਾਨਕ!) ਸੁਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲੇ = ਹੇ ਬਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

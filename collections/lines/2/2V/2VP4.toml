@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦਾਸ ਨਾਨਕ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦਾ ਵਿਚਾਰ ਹੀ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮ ਬੀਚਾਰੁ = ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦਾ ਵਿਚਾਰ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

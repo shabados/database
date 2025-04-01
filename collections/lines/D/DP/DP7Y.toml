@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਉਹ ਸਤਿ ਸਰੂਪ ਵਾਹਿਗੁਰੂ ਹਿੰਮਤ ਬਖਸੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਦਿਹਦ ਤੌਫ਼ੀਕ ਫ਼ਜਲਿ ਜ਼ੁਲਜਲਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

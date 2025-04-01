@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਇਹੋ ਜਿਹੀ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦੇ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹੁ = ਹੇ ਸੰਤ ਜਨੋ! ਕਥਹੁ = ਆਖੋ, ਉਚਾਰੋ। ਕਹਾਣੀ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

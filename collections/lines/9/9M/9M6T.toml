@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਮਾਲਕ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ, ਉਹ ਹੀ ਸਾਰੇ ਸੁਖ ਅਪੜਾਣ ਵਾਲਾ ਹੈ। ਉਸ ਤੋਂ ਬਿਨਾ (ਅਸਾਂ ਜੀਵਾਂ ਦਾ) ਹੋਰ ਕੋਈ (ਸਹਾਰਾ) ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਜੁ = ਪਉ, ਜਾਹ। ਸੁਖਹਗਾਮੀ = ਸੁਖ ਅਪੜਾਣ ਵਾਲਾ। ਅਨ = {अन्य} ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

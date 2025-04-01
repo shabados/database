@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਉੱਧਾਰਣ ਵਾਲੇ ਅਬਿਨਾਸੀ ਪ੍ਰਭੂ! ਕੋਈ ਜੀਵ ਤੇਰੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਧਰਣ = ਜਗਤ ਦਾ ਬੇੜਾ ਪਾਰ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

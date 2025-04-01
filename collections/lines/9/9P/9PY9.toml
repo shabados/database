@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ-ਜਨ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਲਾਹੁੰਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਵੱਖਰ ਹੀ ਉਹਨਾਂ ਦੇ ਜੀਵਨ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਲਾਹਨਿ = ਸਲਾਹੁੰਦੇ ਹਨ। ਵਖਰੁ = ਸੌਦਾ। ਅਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

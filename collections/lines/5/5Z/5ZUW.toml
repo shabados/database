@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰਾ ਸੋਹਣਾ ਚਤੁਰ ਸਿਆਣਾ ਮਾਲਕ ਹੈਂ। ਮੈਂ (ਆਪਣੀ) ਜੀਭ ਨਾਲ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਜਾਨ = ਸਿਆਣਾ। ਰਸਨਾ = ਜੀਭ (ਨਾਲ)। ਭਨਾ = ਭਨਾਂ, ਮੈਂ ਉਚਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

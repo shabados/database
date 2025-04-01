@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਇਹ ਉੱਦਮ ਕਰਹਿਂਗਾ ਤਾਂ) ਹਰੇਕ ਜੀਵ ਤੈਨੂੰ ਸ਼ਾਬਾਸ਼ੇ ਆਖੇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਮੁਬਾਰਿਕ, ਸ਼ਲਾਘਾ-ਯੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

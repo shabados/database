@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਦਰ ਬਾਹਰ (ਹਰ ਥਾਂ) ਉਹ ਇਕ (ਤੈਨੂੰ ਹੀ) ਅੱਖਾਂ ਨਾਲ ਵੇਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਣ = ਅੱਖਾਂ ਨਾਲ। ਅਲੋਵਣਾ = ਵੇਖਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

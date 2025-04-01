@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ!) ਮੈਂ ਆਪਣੇ ਦਿਲ ਦੀ ਗੱਲ ਕਿਸ ਨੂੰ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੀ ਬਾਤ = ਦਿਲ ਦੀ ਗੱਲ। ਕੈ ਪਹਿ = ਕਿਸ ਦੇ ਪਾਸ? ਕਹਾ = ਕਹਾਂ, ਮੈਂ ਆਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

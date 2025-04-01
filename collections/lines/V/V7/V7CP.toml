@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚਰਪਟ ਜੋਗੀ ਨੇ ਪੁੱਛਿਆ-) ਤੁਸੀ ਕੌਣ ਹੋ? ਤੁਹਾਡਾ ਕੀਹ ਨਾਮ ਹੈ? ਤੁਹਾਡਾ ਕੀਹ ਮਤ ਹੈ? (ਉਸ ਮਤ ਦਾ) ਕੀਹ ਮਨੋਰਥ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ੍ਹੇ = ਅੱਖਰ 'ਮ' ਦੇ ਨਾਲ ਅੱਧਾ 'ਹ' ਹੈ। ਮਾਰਗੁ = ਰਸਤਾ, ਪੰਥ, ਮਤ। ਸੁਆਓ = ਮਨੋਰਥ, ਪ੍ਰਯੋਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

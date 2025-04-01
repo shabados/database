@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦਿਨ ਰਾਤ ਬੇਅੰਤ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਗੁਣ ਅਨੰਤਾ = ਬੇਅੰਤ ਪ੍ਰਭੂ ਦੇ ਗੁਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

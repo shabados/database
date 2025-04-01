@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਪ੍ਰਭੂ! ਇਸ ਲੋਕ ਵਿਚ ਪਰਲੋਕ ਵਿਚ ਸਦਾ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ = ਇਸ ਲੋਕ ਵਿਚ। ਉਤ = ਪਰਲੋਕ ਵਿਚ। ਸਹਾਈ = ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

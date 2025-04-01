@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮ-ਵਾਸਨਾ ਵਿਚ, ਕ੍ਰੋਧ ਵਿਚ, ਮਾਇਆ ਦੇ ਨਸ਼ੇ ਵਿਚ ਜੀਵ ਸਦਾ ਹੀ ਗਿਲੇ-ਗੁਜ਼ਾਰੀਆਂ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ ਵਿਚ। ਮਦਿ = ਨਸ਼ੇ ਵਿਚ। ਸਦ ਹੀ = ਸਦਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

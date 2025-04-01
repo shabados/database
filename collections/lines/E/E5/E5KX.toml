@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਗ਼ਾਫ਼ਲ ਮਨ! ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਅਚੇਤ ਚਿਤ = ਹੇ ਗ਼ਾਫ਼ਲ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

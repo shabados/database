@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੌਖ਼ਲਾ ਉੱਕਾ ਹੀ ਨਹੀਂ ਹੁੰਦਾ, ਸਾਰੀ ਚਿੰਤਾ ਮਨ ਵਿਚੋਂ ਨਿਕਲ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਸਾ = ਤੌਖ਼ਲਾ। ਮੂਲਿ ਨ = ਬਿਲਕੁਲ ਨਹੀਂ। ਹੋਵਈ = ਹੋਵੈ; ਹੁੰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

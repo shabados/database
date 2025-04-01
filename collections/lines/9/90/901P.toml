@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਲ ਅਤੇ ਜਮ ਦੇ ਸੇਵਕ ਉਸ ਦੇ ਚਰਨਾਂ ਦੇ ਦਾਸ ਬਣ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਕਰ = {किंकर} ਦਾਸ, ਸੇਵਕ। ਪਗ ਤਾ ਕੇ = ਉਸ ਦੇ ਪੈਰਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

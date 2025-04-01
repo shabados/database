@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ, ਸਾਧ ਸੰਗਤਿ ਨਾਲ, ਇਕ ਪਲ ਵਾਸਤੇ ਭੀ ਆਪਣਾ ਇਹ ਮਨ ਨਹੀਂ ਜੋੜਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸ ਸਿਉ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਨਾਲ। ਮੁਹਤੁ = ਮੁਹੂਰਤ, ਅੱਧੀ ਘੜੀ {मुहुर्त}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ! (ਇਹ ਤੇਰਾ ਸਰੀਰ ਰੇਤ ਦੇ ਘਰ ਸਮਾਨ ਹੈ) ਤੂੰ ਰੇਤ ਦੇ ਘਰ ਵਿਚ ਵੱਸਦਾ ਹੈਂ, ਤੇ ਇਸ ਸਰੀਰ ਉੱਤੇ ਮਾਣ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲੂਆ = ਰੇਤ। ਘਰੂਆ = ਨਿੱਕਾ ਜਿਹਾ ਘਰ। ਫੁਲਵਤ = ਫੁੱਲਦਾ, ਮਾਣ ਕਰਦਾ। ਦੇਹ = ਸਰੀਰ। ਅਇਆਨੇ = ਹੇ ਅੰਞਾਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

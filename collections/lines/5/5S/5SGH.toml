@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੇ ਸਨਮੁਖਿ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ ਉਸ ਸਦਾ-ਥਿਰ (ਰੱਬੀ) ਦਰਬਾਰ ਵਿਚ ਸੋਭਾ ਖੱਟਦੇ ਹਨ ॥੪੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਦਰਬਾਰਿ = ਉਸ ਦਰਬਾਰ ਵਿਚ। ਤਿਤੁ ਸਚੈ ਦਰਬਾਰਿ = ਉਸ ਸਦਾ-ਥਿਰ ਦਰਬਾਰ ਵਿਚ ॥੪੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

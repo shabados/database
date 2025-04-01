@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਪਰਮੇਸਰ ਮੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਭਾਏ = ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

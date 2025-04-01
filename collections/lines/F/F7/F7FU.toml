@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਰਸ ਦੇ ਮਤਵਾਲੇ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਸਦਾ ਆਨੰਦ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤੇ = ਮਸਤ, ਮਤਵਾਲੇ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

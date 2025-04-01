@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ-ਸ਼ਾਹ ਨੇ ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਪਾਸ ਭੇਜਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿ = ਸ਼ਾਹ ਨੇ, ਪਰਮਾਤਮਾ ਨੇ। ਪਠਾਇਆ = ਭੇਜਿਆ। ਸਾਹੈ ਪਾਸਿ = ਸ਼ਾਹ ਦੇ ਕੋਲ, ਗੁਰੂ ਕੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

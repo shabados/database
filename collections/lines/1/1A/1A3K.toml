@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੂੰ ਕਿਤਨਾ ਵੱਡਾ ਹੈਂ-ਆਪਣੀ ਇਹ) ਕੀਮਤ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ ਹੈ = ਤੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

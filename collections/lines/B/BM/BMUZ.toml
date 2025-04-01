@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਦੋਂ ਇਸ ਖੇਡ ਨੂੰ ਸਮੇਟਦਾ ਹੈ ਤਾਂ ਇਕ ਆਪ ਹੀ ਆਪ ਹੋ ਜਾਂਦਾ ਹੈ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਕੋਚੈ = ਇਕੱਠਾ ਕਰਦਾ ਹੈ, ਸਮੇਟਦਾ ਹੈ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

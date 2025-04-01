@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੋਬਿੰਦ ਨੇ ਉਸ ਦੇ) ਸਾਰੇ ਦੁੱਖ ਦਰਦ ਸਾਰੇ ਰੋਗ ਦੂਰ ਕਰ ਦਿੱਤੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਦਾਰਿਆ = ਨਾਸ ਕਰ ਦਿੱਤਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

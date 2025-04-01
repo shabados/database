@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਲ ਸੁਲਤਾਨ (ਬਾਦਸ਼ਾਹ) ਉਹ ਹੈ ਜੋ (ਗਿਆਨ ਤੇ ਵੈਰਾਗ ਦੇ) ਦੋ ਤੀਰ ਤਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਇ ਸਰ = ਦੋ ਤੀਰ (ਗਿਆਨ ਅਤੇ ਵੈਰਾਗ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

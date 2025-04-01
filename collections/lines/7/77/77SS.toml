@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਕੋਈ ਵੈਰੀ ਨਹੀਂ ਹੈ, ਉਸ ਨੂੰ ਵਾਸਨਾ-ਰਹਿਤ ਆਖਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਕੰਟਕੁ = {ਕੰਟਕੁ = ਕੰਡਾ, ਵੈਰੀ} ਜਿਸ ਦਾ ਕੋਈ ਵੈਰੀ ਨਹੀਂ। ਨਿਹਕੇਵਲੁ = ਵਾਸਨਾ-ਰਹਿਤ। ਕਹੀਐ = ਆਖਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

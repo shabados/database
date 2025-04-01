@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਵਾਨ ਦਾ ਨਾਮ ਜਪ ਕੇ ਹੇ ਨਾਨਕ! (ਮਨੁੱਖ) ਸੁੱਕੇ ਤੋਂ ਹਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਜਪਿ = ਜਪ ਕੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

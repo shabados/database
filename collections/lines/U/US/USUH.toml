@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਦ ਤਕ ਅਸੀਣ ਕੁੱਤਿਆਣ ਵਾਣਗ ਹੱਡੀਆਣ ਉਪਰ ਲੜਦੇ ਰਹਾਣਗੇ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਕੈ ਚੂ ਸਗਾਣ ਬਰ ਉਸਤਖ਼ਾਣ ਜੰਗ ਕੁਨੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

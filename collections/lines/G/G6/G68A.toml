@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਨਟਾਂ ਵਾਲੇ ਨਾਟਕ ਅਤੇ ਨਾਚ ਕਰਦਿਆਂ ਗੁਜ਼ਰਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਤੇ = ਨਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

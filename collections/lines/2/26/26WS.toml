@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੇ) ਮਨ ਦੇ ਸੰਕਲਪ ਵਿਕਲਪ (ਮਾਨੋ) ਛੈਣੇ ਤੇ ਪੈਰਾਂ ਦੇ ਘੁੰਘਰੂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਲ = ਛੈਣੇ। ਮਦੀਰੇ = ਘੁੰਘਰੂ, ਝਾਂਝਰਾਂ। ਘਟ = ਹਿਰਦਾ। ਘਾਟ = ਰਸਤਾ। ਘਟ ਕੇ ਘਾਟ = ਮਨ ਦੇ ਰਸਤੇ, ਸੰਕਲਪ ਵਿਕਲਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

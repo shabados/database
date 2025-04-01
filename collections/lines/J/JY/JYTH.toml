@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਇਸਤ੍ਰੀ ਅਤੇ ਸੱਜਣ-ਮਿੱਤਰ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ। ਅਰੁ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

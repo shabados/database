@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਖ਼ਜ਼ਾਨਾ) ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਪਰਲੋਕ ਵਿਚ ਸਾਥ ਨਿਬਾਹੁੰਦਾ ਹੈ, ਤੇ ਅਖ਼ੀਰ ਵੇਲੇ ਭੀ ਪਰਮਾਤਮਾ (ਦੁੱਖਾਂ ਤੋਂ) ਬਚਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ {अत्र}। ਪਲਤਿ = ਪਰਲੋਕ ਵਿਚ {परत्र}। ਚਲਦਾ = ਸਾਥ ਨਿਬਾਹੁੰਦਾ। ਅੰਤੇ = ਅਖ਼ੀਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

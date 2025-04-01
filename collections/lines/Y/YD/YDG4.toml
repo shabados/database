@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰੱਬ ਦੀ ਮਿਹਰ ਦਾ ਸਮੁੰਦਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫੈਜ਼ਿ ਹੱਕ ਰਾ ਬਹਿਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੨।"
+page = 10
+line = 112
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

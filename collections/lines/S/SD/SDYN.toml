@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਤੇ ਤੂੰ ਜ਼ਮਾਨੇ ਦੇ ਗ਼ਮਾਂ ਅਤੇ ਅੰਦੇਸ਼ਿਆਂ ਉੱਤੇ ਮਿੱਟੀ ਪਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਾਕ ਬਰ ਸਰ ਕੁਨ ਗ਼ਮਿ ਅੱਯਾਮ ਰਾ ।੪੨੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

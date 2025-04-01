@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਇਤਨੇ ਵੱਡੇ ਦਾਤਾਰ! ਮੈਂ ਤੈਨੂੰ ਕਦੇ ਨਾਹ ਭੁਲਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਤੇ = ਹੇ ਦਾਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

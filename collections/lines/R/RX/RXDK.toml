@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਉਹਨਾਂ ਦੀ ਨਿਗਾਹ ਪਖੰਡ ਵਾਲੀ ਹੈ, ਮਨ ਵਿਚ ਉਹ ਖੋਟ ਕਮਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਿ = ਨਿਗਾਹ, ਨਜ਼ਰ। ਮਨਿ = ਮਨ ਵਿਚ। ਕਮਾਹਿ = ਜੋ ਕਮਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

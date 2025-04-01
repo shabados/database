@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰੰਤੂ ਇਸ ਭੇਤ ਨੂੰ ਮਨੁਖ ਨਹੀਣ ਜਾਣ ਸਕਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਸਖ਼ੁਨ ਰਾ ਦਰ ਨਯਾਬਦ ਬੂਅਲ-ਹਵਸ ।੭੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

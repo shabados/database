@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੁਨੀਆ ਉਸਦੇ ਕਾਰਣ ਖੁਸ਼ ਹੈ, ਅਤੇ ਸੰਸਾਰ ਆਬਾਦ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਹਾਂ ਖ਼ੁੱਰਮੋ ਆਲਮ ਆਬਾਦ ਅਜ਼ੋ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

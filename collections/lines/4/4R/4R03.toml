@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ-ਧਾਰੀ ਬੰਦੇ ਜਗਤ ਵਿਚ ਆਕੜ ਆਕੜ ਕੇ ਚੱਲਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਦਾ ਅਹੰਕਾਰ ਕਿਸੇ ਅਰਥ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਮਾਨੀ = ਅਹੰਕਾਰੀ। ਗਰਬਹਿ = ਅਹੰਕਾਰ ਕਰਦੇ ਹਨ। ਦਾਮੀ = ਪੈਸੇ ਵਾਲੇ, ਮਾਇਆਧਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

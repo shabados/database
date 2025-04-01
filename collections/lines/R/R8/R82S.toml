@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਸੰਤ ਜਨ (ਜਗਤ ਵਿਚ) ਆ ਕੇ ਇਉਂ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਈ ਕੋਈ = ਕੋਈ ਵਿਰਲਾ। ਸਾਜਣੁ = ਸੰਤ ਜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

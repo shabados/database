@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੂੰ (ਜੀਵਨ-ਸਫ਼ਰ ਵਿਚ) ਕੋਈ ਥਾਂ ਔਖਾ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖੜਾ = ਔਖਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

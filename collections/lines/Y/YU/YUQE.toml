@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਕਰਤਾਰ ਦਾ ਹੁਕਮ ਹੈ ਕਰਤਾਰ ਦੀ ਰਜ਼ਾ ਹੈ (ਕਦੇ) ਦੁੱਖ (ਕਦੇ) ਸੁਖ (ਦੇਂਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ ਹੁਕਮੁ = ਕਰਤਾਰ ਦਾ ਹੁਕਮ। ਕਰਤੇ ਰਜਾਇ = ਕਰਤਾਰ ਦੀ ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

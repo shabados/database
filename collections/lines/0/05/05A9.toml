@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਤੇ ਸਾਡਾ ਕੀਤਾ ਹੋਇਆ ਵਣਜ ਦਰਗਾਹੇ ਕਬੂਲ ਹੋ ਗਿਆ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਪ = ਲੱਦਿਆ ਹੋਇਆ ਸੌਦਾ, ਕੀਤਾ ਹੋਇਆ ਵਣਜ। ਨਿਬਹੀ = ਕਬੂਲ ਹੋ ਗਈ ਹੈ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

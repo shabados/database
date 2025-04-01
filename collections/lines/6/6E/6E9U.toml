@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਦੇ ਪਿਆਲੇ ਵਿੱਚੋਂ ਸੱਚ ਦਾ ਅੰਮ੍ਰਿਤ ਪੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਬਿ ਹੈਵਾਂ ਰਾ ਬਨੋਸ਼ ਅਜ਼ ਜਾਮਿ ਹੱਕ ।੪੧੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

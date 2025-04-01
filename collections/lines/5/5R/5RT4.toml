@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਤੂੰ (ਪ੍ਰਭੂ ਨੂੰ ਛੱਡ ਕੇ) ਹੋਰ ਮਾਇਆ ਆਦਿਕ ਦੀ ਆਸ ਬਣਾਏਂਗਾ, ਕਿਤੇ ਇਹ ਨਾਹ ਸਮਝ ਲਈਂ ਕਿ ਮਾਇਆ ਤੇਰੇ ਕਿਸੇ ਕੰਮ ਆਵੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮਿਤ੍ਰੀ = {प्रमित = ਮਾਇਆ} ਮਾਇਆ ਦੀ। ਕਰਹਿ = ਤੂੰ ਕਰੇਂਗਾ। ਕਿਤੈ ਕੰਮਿ = ਕਿਸੇ ਭੀ ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

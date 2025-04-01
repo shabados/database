@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਸਭ ਜੀਵਾਂ ਦਾ) ਮਾਂ ਪਿਉ ਸਨਬੰਧੀ ਉਹ ਪ੍ਰਭੂ ਹੀ ਹੈ। (ਮੇਰੇ) ਮਨ ਵਿਚ ਉਸ ਪ੍ਰਭੂ (ਦੇ ਮਿਲਾਪ) ਦਾ ਹੁਲਾਰਾ ਆ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਧਪ = ਸਨਬੰਧੀ। ਮਨਿ = ਮਨ ਵਿਚ। ਕੋ = ਦਾ। ਅਹਿਲਾਦ = ਖ਼ੁਸ਼ੀ, ਹੁਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

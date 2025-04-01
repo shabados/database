@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ (ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਆਪਣੇ) ਮੂੰਹ ਉਤੇ ਮੱਥੇ ਉਤੇ ਲਾ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਰਿ = ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ। ਮੁਖਿ = ਮੂੰਹ ਉਤੇ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

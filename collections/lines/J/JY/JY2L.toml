@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਕੋਈ ਡਰ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ। ਸੇਵਹਿ = ਸਿਮਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

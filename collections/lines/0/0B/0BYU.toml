@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਆਪਣੀ ਮੌਜ ਵਿਚ (ਜਗਤ ਦੇ ਸਾਰੇ) ਕੌਤਕ ਕਰ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਨੈ ਰੰਗਿ = ਆਪਣੀ ਮੌਜ ਵਿਚ। ਕਰਤਾ = ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ। ਕੇਲ = ਖੇਲ, ਕੌਤਕ, ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

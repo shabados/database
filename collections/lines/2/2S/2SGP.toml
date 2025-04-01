@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਨ੍ਹਾਂ ਸੇਵਕਾਂ ਨੂੰ ਸਾਧ ਸੰਗਤਿ ਵਿਚ) ਪ੍ਰਭੂ ਨੇ ਆਪ ਆਪਣੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦਾ ਆਸਰਾ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

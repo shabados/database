@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਪਰਾਇਆ ਮਾਲ-ਧਨ ਖੋਹ ਖੋਹ ਕੇ ਇਕੱਠਾ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਸਿ ਖੁਸਿ = ਖੋਹ ਕੇ ਖੋਹ ਕੇ, ਖੋਹ ਖੋਹ ਕੇ। ਪਰਾਈ = ਬਿਗਾਨੀ। ਵਸਤੁ = ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

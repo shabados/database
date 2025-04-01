@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਨੂੰ ਹੀ ਵੇਖ ਵੇਖ ਕੇ (ਸਾਡਾ) ਮਨ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖਿ = ਵੇਖ ਕੇ। ਬਿਗਸਾਰੇ = ਖਿੜਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

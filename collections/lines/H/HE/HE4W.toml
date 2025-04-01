@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ- (ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰੀ ਸ਼ਰਨ ਪਿਆ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਉ = ਮੈਂ ਪੈਂਦਾ ਹਾਂ, ਮੈਂ ਪਿਆਂ ਹਾਂ। ਸਾਭਾ = ਸਾਂਭ, ਸੰਭਾਲ, ਸਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

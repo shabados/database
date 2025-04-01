@@ -36,6 +36,12 @@ language = "pa"
 data = "ਐਸਾ ਸਿਮਰਨ-ਰੂਪ ਅੰਮ੍ਰਿਤ ਹਰ ਵੇਲੇ ਪੀਂਦਾ ਰਹੁ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

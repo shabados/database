@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ) ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਭਗਵਾਨ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਸਾਧ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ (ਜ਼ਾਲਮ ਖੱਤ੍ਰੀਆਂ) ਦੇ ਘਰ ਵਿਚ ਬ੍ਰਾਹਮਣ ਜਾ ਕੇ ਸੰਖ ਵਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਘਰਿ = ਉਹਨਾਂ (ਖੱਤ੍ਰੀਆਂ) ਦੇ ਘਰਾਂ ਵਿਚ। ਪੂਰਹਿ ਨਾਦ = ਨਾਦ ਪੂਰਦੇ ਹਨ, ਸੰਖ ਵਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

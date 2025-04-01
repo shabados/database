@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ ਮੇਰੀ ਮਾਂ ਹੈਂ ਮੇਰਾ ਪਿਉ ਹੈਂ ਪ੍ਰੀਤਮ ਹੈਂ ਮੇਰੇ ਹਰ ਵੇਲੇ ਨੇੜੇ ਰਹਿੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਰਾ = ਨੇੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

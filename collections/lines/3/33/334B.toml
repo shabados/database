@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ = ਕਾਮਾਦਿਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

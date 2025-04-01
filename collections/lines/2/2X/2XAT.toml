@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਨੂੰ ਹੀ ਦੁਨੀਆ ਦੇ ਰਸਾਂ ਭੋਗਾਂ ਦੀ ਮੌਜ-ਬਹਾਰ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸ = ਸੁਆਦ। ਰੰਗੁ = ਮੌਜ-ਬਹਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

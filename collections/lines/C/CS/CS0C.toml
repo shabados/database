@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਅੰਨ ਖਾਣ ਤੋਂ ਬਿਨਾ ਜੀਊਂਦਾ ਰਹਿਣ ਵਾਲਾ ਹੈਂ, ਤੇਰਾ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਹੀਂ, ਤੂੰ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਾਹਰੀ = ਨਿਰ-ਆਹਾਰੀ {ਆਹਾਰ = ਖ਼ੁਰਾਕ}, ਅੰਨ ਤੋਂ ਬਿਨਾ ਜੀਊਂਦਾ ਰਹਿਣ ਵਾਲਾ। ਸਮਾਇਆ = ਸਭ ਵਿਚ ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

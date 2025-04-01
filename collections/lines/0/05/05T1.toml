@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ ਪ੍ਰਭੂ! (ਤੇਰਾ ਦਾਸ) ਨਾਨਕ ਤੇਰੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦੀ ਸਰਨ ਆਇਆ ਹੈ, ਅਤੇ ਤੈਥੋਂ ਸਦਾ ਸਦਕੇ ਹੁੰਦਾ ਹੈ ॥੨॥੭॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਸਾਗਰ = ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! ਸਦ = ਸਦਾ ॥੨॥੭॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

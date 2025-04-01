@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸਾਧ ਸੰਗਤ ਦਾ ਦਰਸਨ ਕਰਨ ਤੋਂ ਬਿਨਾ (ਇਹ ਸਾਰੇ ਕਰਮ ਵਿਅਰਥ ਹਨ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨੁ ਸਤ ਸੰਗਾ = ਸਾਧ ਸੰਗਤ ਦਾ ਦਰਸਨ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

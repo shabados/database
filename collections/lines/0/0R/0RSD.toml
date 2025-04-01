@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਸੇ ਦੂਜੇ ਨੂੰ ਅਸੀਣ ਹੋਰ ਕਿੱਥੋਣ ਲਿਆਈਏ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੀਗਰੇ ਰਾ ਅਜ਼ ਕੁਜਾ ਆਰੇਮ ਮਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

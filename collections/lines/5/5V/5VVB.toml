@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਉਹਨਾਂ ਦੇ) ਮਨ ਵਿਚ ਬਹੁਤ ਲਾਲਚ ਹੁੰਦਾ ਹੈ, ਕੱਪੜੇ ਤੇ ਭੋਜਨ ਦੀ ਲਾਲਸਾ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਦਨ = ਕੱਪੜਾ। ਆਸਾ = ਲਾਲਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੇਰੇ ਵੀ ਦੀਵਾਨੇ ਦਿਲ ਨੂੰ ਏਹੀ ਸੁਦਾ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਦਿਲਿ ਦੀਵਾਨਾ-ਅਮ, ਆਖਿਰ ਹਮੀ ਸੌਦਾ ਗ੍ਰਿਫ਼ਤ ।੧੩।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ! ਜੇ ਉਸ ਨੂੰ ਮਿਲਣਾ ਹੈ, ਤਾਂ) ਆਪਾ-ਭਾਵ ਗਵਾ ਕੇ (ਉਸ ਨੂੰ) ਮਿਲ ॥੪॥੧॥੫੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਗਵਾਈ = ਗਵਾ ਕੇ ॥੪॥੧॥੫੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

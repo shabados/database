@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਆਣਪ ਚਤੁਰਾਈ ਛੱਡ ਦੇਹ, ਖੋਟੀ ਮਤਿ-ਬੁਧਿ (ਆਪਣੇ ਅੰਦਰੋਂ) ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤੁਰੀ = ਚਤੁਰਾਈ। ਦੁਰਮਤਿ = ਖੋਟੀ ਮਤਿ। ਤਿਆਗੋ = ਤਿਆਗ, ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

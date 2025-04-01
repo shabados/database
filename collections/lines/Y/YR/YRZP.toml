@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਮਿਹਰਾਂ ਅਤੇ ਬਖਸ਼ਿਸ਼ਾਂ ਪਿੱਛੇ ਜਾਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਵਾਲੀ ਤਫ਼ੱਜ਼ੁਲ ਤਵਾਤਰ ਕਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

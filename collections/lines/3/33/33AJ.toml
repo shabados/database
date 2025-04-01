@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਹਰੀ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ (ਜੇ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਹੋਵੇ, ਮੇਹਰ ਹੋਵੇ) ਤਾਂ ਮੈਂ ਢਾਢੀ (ਉਸ ਦੇ) ਦਰ ਤੇ (ਉਸ ਦੇ) ਗੁਣ ਗਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਦਰਿ = ਦਰ ਤੇ। ਪ੍ਰਭ ਭਾਵੈ = ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

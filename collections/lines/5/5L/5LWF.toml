@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ! ਤੂੰ ਹੀ ਮੇਰੀ ਮਾਂ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਪਿਉ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਰਾਇਆ = ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

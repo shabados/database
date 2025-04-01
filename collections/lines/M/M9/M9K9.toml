@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਨ ਸਤਿਗੁਰੂ ਸੱਚ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਕੁਝ ਨਹੀਂ ਕਹਿੰਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਬਗ਼ੈਰ ਅਜ਼ ਹੱਕ ਨਭਗੁਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦਾ ਸਿਮਰਨ ਤੇਰੇ ਲਈ ਸਦਾ ਜ਼ਰੂਰੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਲਾਜ਼ਿਮ ਬਵਦ ਦਾਇਮ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

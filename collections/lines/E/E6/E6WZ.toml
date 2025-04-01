@@ -42,6 +42,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਮਣਾ ਭੀ ਉੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਚੇ ਉਪਰਿ ਊਚਾ = ਉੱਚੇ ਤੋਂ ਉੱਚਾ, ਬਹੁਤ ਉੱਚਾ। ਨਾਉ = ਨਾਮਣਾ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

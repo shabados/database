@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਸਦਾ ਜਿੰਦ ਦੇ ਨਾਲ (ਨਿਭਣ ਵਾਲਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕੈ ਸੰਗਿ = ਜਿੰਦ ਦੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

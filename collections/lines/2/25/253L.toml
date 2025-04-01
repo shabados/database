@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਾਡਾ ਜੀਵਾਂ ਦਾ ਕੋਈ ਗੁਣ ਜਾਂ ਔਗੁਣ ਦਿਲ ਤੇ ਲਾ ਨਹੀਂ ਰੱਖਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮਰਾ = ਅਸਾਂ ਜੀਵਾਂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ-ਗੁਣ ਗਾਵਾਂ ਤੇ ਨਿੱਤ ਹਰੀ-ਨਾਮ ਉਚਾਰਾਂ ਤੇ ਗੁਰੂ ਦੀ ਮੱਤ ਲੈ ਕੇ ਸਦਾ ਹਰੀ-ਰੰਗ ਮਾਣਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਵਾ = ਉਚਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

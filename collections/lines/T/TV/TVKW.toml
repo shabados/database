@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਹ ਨਿਰੇ ਆਪ ਨਹੀਂ ਤਰੇ, ਆਪਣੀਆਂ) ਸਾਰੀਆਂ ਕੁਲਾਂ ਭੀ ਤਾਰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਹੀ ਜਗਤ ਵਿਚ ਆਉਣਾ ਕਬੂਲ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

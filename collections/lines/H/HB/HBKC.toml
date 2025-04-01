@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਇਹ ਇੱਛਾ ਚੰਗੀ ਲਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਬ-ਬਖ਼ਸ਼ੀ ਜੁਮਲਾ ਆਲਮ ਮੇ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

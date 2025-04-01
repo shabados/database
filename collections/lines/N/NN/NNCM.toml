@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਕੁਝ ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲੇ! ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਕਰਣ = ਜਗਤ। ਜੋਗ = ਸਮਰਥਾ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

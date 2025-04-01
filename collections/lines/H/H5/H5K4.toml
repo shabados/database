@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਗੋਪੀਆਂ ਹੈ, ਆਪ ਹੀ ਕ੍ਰਿਸ਼ਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਕਾਨਾ = ਕਾਨ੍ਹ, ਕ੍ਰਿਸ਼ਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

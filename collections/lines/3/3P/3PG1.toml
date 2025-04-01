@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੇਅਦਬ ਮਨੁੱਖ ਰੱਬ ਤੋਂ ਸਦਾ ਸ਼ਰਮਸਾਰ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਅਦਬ ਦਾਇਮ ਜ਼ ਹੱਕ ਸ਼ਰਮਿੰਦਾਇ ।੨੧੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

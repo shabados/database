@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੇ (ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਖ਼ਜ਼ਾਨਾ ਪੱਕਾ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰਿ = ਗੁਰੂ ਨੇ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਦ੍ਰਿੜਾਇਆ = ਹਿਰਦੇ ਵਿਚ ਪੱਕਾ ਕਰ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

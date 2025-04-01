@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਸਤਿਗੁਰੂ ਨੇ ਗਿਆਨ ਦਾ) ਦੀਵਾ ਜਗਾ ਦਿੱਤਾ ਹੈ, ਉਸ ਨੂੰ ਆਪਣੇ ਅੰਦਰੋਂ ਹੀ (ਨਾਮ-) ਰਤਨ ਲੱਭ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਾਹੁ = ਘਰੋਂ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

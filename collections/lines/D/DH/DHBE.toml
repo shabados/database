@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨਾਸਵੰਤ ਹੈ। (ਪਰ) ਤੂੰ ਕਦੇ ਬੁੱਢਾ ਨਹੀਂ ਹੁੰਦਾ, ਤੂੰ ਅੱਤ ਸ੍ਰੇਸ਼ਟ ਹੈਂ, ਤੂੰ ਮੌਤ ਤੋਂ ਰਹਿਤ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਜਰਾਵਰੁ = {ਅਜਰ ਅਵਰ}। ਅਜਰ = ਕਦੇ ਬੁੱਢਾ ਨਾਹ ਹੋਣ ਵਾਲਾ। ਅਵਰੁ = {अत्यन्त श्रेष्ठ} ਅੱਤ ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

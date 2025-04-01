@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਇਸ ਦੀ ਇਹ ਉਮਰ ਯਾਦ ਵਿਚ ਭਲੀ ਗੁਜ਼ਰੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬ-ਯਾਦਤ ਬਿਗੁਜ਼ਰਦ ਈਂ ਉਮਰ ਬਿਹ ।੨੫੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

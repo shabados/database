@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿੰਨ ਗੁਣ (-ਰੂਪ) ਮਸੂਲੀਏ (ਹੋਰ) ਝਗੜਾ ਵਧਾਉਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਨਿ = ਤਿੰਨ ਗੁਣ। ਜਗਾਤੀ = ਮਸੂਲੀਏ। ਰਾਰਿ = ਝਗੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

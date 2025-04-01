@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੁਕਰਮੀ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਮਾਨੋ) ਕਲਿਜੁਗ ਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਡਾਲ = ਕੁਕਰਮੀ ਮਨੁੱਖ। ਘਰਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

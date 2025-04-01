@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗਵਾਰ! (ਜਿਹੜੀ ਆਤਮਕ ਜਾਇਦਾਦ) ਆਪਣੀ (ਬਣਨੀ ਸੀ, ਉਸ ਦੀ) ਰਤਾ ਭਰ ਭੀ ਸੰਭਾਲ ਨਾਹ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤਨੀ ਕਛੂ = ਰਤਾ ਭਰ ਭੀ। ਸਾਰੀ = ਸੰਭਾਲੀ, ਸੰਭਾਲ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

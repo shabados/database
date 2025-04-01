@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੁੱਚ ਦੀ ਖ਼ਾਤਰ) ਆਪਣੀ ਹੱਥੀਂ ਰੋਟੀ ਪਕਾਂਦਾ ਹੋਵੇ, ਜੰਗਲਾਂ ਵਿਚ ਰਹਿੰਦਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਮ ਪਾਕ = {स्वयं पाक} ਆਪਣੀ ਹੱਥੀਂ ਰੋਟੀ ਪਕਾਣ ਵਾਲਾ। ਅਪਰਸ = ਜੋ ਕਿਸੇ (ਸ਼ੂਦਰ ਆਦਿਕ ਨਾਲ) ਨਾਹ ਛੁਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

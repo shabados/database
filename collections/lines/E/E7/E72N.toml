@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜੇ ਪੰਡਿਤ ਆਦਿਕ ਲੋਕ ਮਾਇਆ ਦੇ) ਤਿੰਨਾਂ ਗੁਣਾਂ ਵਿਚ ਰੱਖਣ ਵਾਲੀ ਹੀ ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਦੀ ਵਿਚਾਰ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੀ ਬੇਦ ਬੀਚਾਰੁ = ਵੇਦਾਂ ਦੀ ਬਾਣੀ ਦੀ ਵਿਚਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

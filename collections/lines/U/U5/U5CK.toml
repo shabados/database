@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਅਨੇਕਾਂ ਜੁਗ ਨਿਰੋਲ ਉਸ ਦੇ ਆਪਣੇ ਆਪੇ ਵਿਚ ਹੀ ਬੀਤਦੇ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤੇ = ਬੀਤ ਗਏ। ਸਬਾਏ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

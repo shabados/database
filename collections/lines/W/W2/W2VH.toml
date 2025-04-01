@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਕੋਈ ਮੰਗਦਾ ਕਿਸੇ ਪਾਸੋਂ ਕੁਝ ਮੰਗਦਾ ਹੈ, ਤਾਂ ਆਮ ਤੌਰ ਤੇ) ਮੰਗਤੇ ਨੂੰ ਜਗਤ ਫਿਟਕਾਰ ਹੀ ਪਾਂਦਾ ਹੈ, ਮੰਗਦਿਆਂ ਇੱਜ਼ਤ ਨਹੀਂ ਮਿਲਿਆ ਕਰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਕੁ = ਜਗਤ। ਧਿਕਾਰੁ = ਫਿਟਕਾਰ। ਮਾਗਤ = ਮੰਗਦਿਆਂ। ਮਾਨੁ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

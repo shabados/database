@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਉਹੀ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਸਿਮਰਦਾ ਹੈ ॥੪॥੧੯॥੮੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨ ਨਾਨਕ = ਹੇ ਨਾਨਕ = ਹੇ ਦਾਸ ਨਾਨਕ! ॥੪॥੧੯॥੮੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

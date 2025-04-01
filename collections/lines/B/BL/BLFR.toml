@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਹੋਰ ਉਸ ਜੇਡਾ ਵੱਡਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਵਡੁ = ਇਤਨਾ ਵੱਡਾ। ਹੋਵੈ ਕੋਇ = ਜੇ ਕੋਈ ਮਨੁੱਖ ਹੋਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

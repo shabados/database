@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸਭਨਾਂ (ਦੇਵਤਿਆਂ) ਨਾਲੋਂ ਬਹੁਤ ਵੱਡੀ ਤਾਕਤ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਤੇ = ਸਭਨਾਂ ਨਾਲੋਂ। ਤੇ = ਤੋਂ। ਵਡ ਸਮਰਥ = ਵੱਡੀ ਤਾਕਤ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

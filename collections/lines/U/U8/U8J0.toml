@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ (ਨਾਮ-ਰਤਨ) ਦੀ ਖ਼ਾਤਰ ਲੋਕ ਤੀਰਥਾਂ ਦੇ ਕੰਢੇ ਤੇ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੈ ਕਾਰਣਿ = ਜਿਸ (ਰਤਨ ਪਦਾਰਥ) ਦੀ ਖ਼ਾਤਰ। ਤਟਿ = ਕੰਢੇ ਉੱਤੇ। ਤਟਿ ਤੀਰਥ = ਤੀਰਥਾਂ ਦੇ ਕੰਢੇ ਤੇ। ਜਾਹੀ = ਜਾਹਿ, ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

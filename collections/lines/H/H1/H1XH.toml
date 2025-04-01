@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਡਿਤ ਤੇ ਜੋਤਸ਼ੀ ਲੋਕ (ਸ਼ਾਸਤਰ) ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ (ਨਿਰੀਆਂ) ਬਹਸਾਂ ਦਾ ਹੀ ਵਿਚਾਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤਕੀ = ਜੋਤਸ਼ੀ। ਵਾਦ = ਝਗੜੇ, ਬਹਸਾਂ। ਵਾਦ ਵੀਚਾਰੁ = ਬਹਸਾਂ ਦੀ ਵਿਚਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

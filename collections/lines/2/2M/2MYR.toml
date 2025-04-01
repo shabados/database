@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਨੇ ਅਟੱਲ ਕੁਦਰਤਿ ਰਚੀ ਹੋਈ ਹੈ, ਤੇ ਇਹ ਸਾਰਾ ਜਗਤ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਰੀਅਨੁ = ਧਾਰੀ ਹੈ ਉਸ ਨੇ। ਸਚਿ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੇ। ਸਿਰਜਿਓਨੁ = ਪੈਦਾ ਕੀਤਾ ਹੈ ਉਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

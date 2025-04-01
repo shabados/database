@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕ੍ਰੋੜਾਂ ਜਤਨ ਕੀਤਿਆਂ ਭੀ (ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ) ਸੰਤੋਖ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

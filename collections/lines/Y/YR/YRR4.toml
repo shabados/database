@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ (ਆਪਣੀ) ਮਾਂ ਹੈ, ਆਪ ਹੀ (ਆਪਣਾ) ਪਿਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਇਓ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

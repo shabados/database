@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਨਾਮ-ਰੂਪੀ ਧਨ ਪ੍ਰਭੂ ਨੇ ਆਪ ਆਪਣੇ ਭਗਤ ਨੂੰ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪ ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ ਆਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

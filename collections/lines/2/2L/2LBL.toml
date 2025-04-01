@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੇਰੇ ਪਾਸ ਵੱਸਣ ਲਈ ਮਹਲ-ਮਾੜੀਆਂ ਹੋਣ, ਸੁਖ ਦੇਣ ਵਾਲਾ ਮੇਰਾ ਪਲੰਘ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਲਾ = ਮਹਲ-ਮਾੜੀਆਂ। ਸੁਖਾਲੀ = ਸੁਖ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

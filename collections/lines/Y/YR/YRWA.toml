@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ ਨੇ (ਆਪ ਹੀ ਜੀਵਾਂ ਵਾਸਤੇ) ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾਗਉਣ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ। ਕਰਤਾਰਿ = ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੇਰੇ ਕਾਰਣ ਉਹ ਗ਼ਮੀ ਅਤੇ ਖੁਸ਼ੀ ਨਹੀਂ ਜਾਣਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੰਜੋ ਫ਼ਰਹਤ ਜ਼ਿ ਮਨ ਨ ਮੀ-ਦਾਨੰਦ ।"
+page = 1
+line = 42
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

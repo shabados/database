@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਵਿਸਾਰਿਆਂ) ਜਿੰਦ ਮੁੜ ਮੁੜ ਦੁਖੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਤੁ ਹੈ = ਦੁਖੀ ਹੁੰਦਾ ਹੈ। ਬਾਰੋ ਬਾਰ = ਬਾਰ ਬਾਰ, ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

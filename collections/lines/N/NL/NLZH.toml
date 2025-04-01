@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਵੱਡੇ ਅਤੇ ਕੀ ਛੋਟੇ, ਸਾਰੇ ਹੀ ਉਸਦੇ ਦਰ ਤੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਆਅਲਾ ਚਿਹ ਅਦਨਾ ਹਮ ਬਰ ਦਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

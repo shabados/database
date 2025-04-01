@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਆਪਣਾ ਸੂਰਜ ਵਰਗਾ ਮੁਖੜਾ ਜਲਦੀ ਵਿਖਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੂਦ ਬਿਨੁਮਾ ਆਣ ਰੁਖਿ ਚੂੰ ਆਫ਼ਤਾਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

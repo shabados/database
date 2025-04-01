@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਰਿ-ਨਾਮ ਤੋਂ ਸਦਕੇ ਜਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਟਹੁ = ਤੋਂ। ਬਲਿ ਜਾਉ = ਕੁਰਬਾਨ ਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

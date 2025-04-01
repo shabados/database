@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਜਪਣ ਦੀ ਸਮਰਥਾ ਦੇਹ। ਮੈਂ (ਤੇਰੇ ਪਾਸੋਂ) ਸਿਰਫ਼ ਤੇਰੀ ਭਗਤੀ ਦਾ ਦਾਨ ਮੰਗ ਰਿਹਾ ਹਾਂ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਮਾਗੀ = ਅਸਾਂ ਮੰਗੀ ਹੈ। ਇਕਾਕੀ = ਇਕੋ ਹੀ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

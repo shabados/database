@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਤੇਰੇ ਅੰਦਰ ਹੀ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਮੌਜੂਦ ਹੈ, ਤੂੰ ਇਸ ਖ਼ਜ਼ਾਨੇ ਨੂੰ ਬਾਹਰ ਨਾਹ ਢੂੰਢਦਾ ਫਿਰ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਭਾਲਿ = ਢੂੰਢ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

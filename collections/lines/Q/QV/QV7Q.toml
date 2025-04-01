@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਬਿਪਤਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ, ਉਸ ਦੇ ਫ਼ਿਕਰ ਮਿਟ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਾਇ = ਬਿਪਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਦੇਸ ਤੇ ਧਰਤੀਆਂ ਦੇ ਚੱਕ੍ਰ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂ = ਧਰਤੀ। ਭੂ ਮੰਡਲ = ਧਰਤੀ ਦੇ ਚੱਕ੍ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

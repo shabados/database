@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਕੋਈ ਵੀ ਹੋਵੇ, ਉਹ ਖ਼ਜ਼ਾਨੇ ਦਾ ਮਾਲਕ ਬਣ ਸਕਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਗੰਜੀਨਾ ਬਾਸ਼ਦ ਹਰ ਕਿ ਹਸਤ ।੧੬੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

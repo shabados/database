@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਿਤਨੇ ਭੀ ਖੰਡ ਮੰਡਲ ਪਾਤਾਲ ਤੇ ਦੀਪ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪ = ਦ੍ਵੀਪ, ਟਾਪੂ। ਸਭਿ = ਸਾਰੇ। ਲੋਆ = ਲੋਕ, ਮੰਡਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

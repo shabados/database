@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਉਸ ਨੇ ਆਪਣੇ ਸਾਰੇ ਹੀ ਕੰਮ ਸੰਵਾਰ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ ਸਤਿਗੁਰ = ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

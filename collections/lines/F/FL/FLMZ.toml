@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਇਹ ਸੱਚਾ ਵਿਹਾਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸੱਚਾ। ਬਿਉਹਾਰ = ਵਿਹਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

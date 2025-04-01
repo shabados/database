@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਦੁਨੀਆ ਦਾ ਰੰਗ-ਤਮਾਸ਼ਾ ਸੁਆਹ (ਦੇ ਬਰਾਬਰ) ਹੈ, ਨਿਰੀ ਸੁਆਹ ਹੀ ਸੁਆਹ ਹੈ, ਨਿਰੀ ਖੇਹ ਹੀ ਖੇਹ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਦੁਨੀਆ ਰੰਗੁ = ਦੁਨੀਆ ਦਾ ਆਨੰਦ। ਭਸੁ = ਸੁਆਹ। ਭਸੂ ਹੂ ਭਸੁ = ਨਿਰੀ ਭੱਸ ਹੀ ਭੱਸ। ਖੇਹ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

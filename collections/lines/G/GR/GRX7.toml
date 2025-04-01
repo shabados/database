@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੈਥੋਂ ਬਿਨਾ ਅਸਾਂ ਜੀਵਾਂ ਦੀ ਪਾਲਣਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨੁ = ਹੋਰ ਕੌਣ? ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

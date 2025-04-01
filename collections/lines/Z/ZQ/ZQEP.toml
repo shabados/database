@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਨੇ ਮਿੱਟੀ ਨੂੰ ਵੀ ਅਕਸੀਰ ਬਣਾ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਖ਼ਾਕ ਰਾ ਅਕਸੀਰ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

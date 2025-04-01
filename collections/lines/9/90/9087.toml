@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਨਾ-ਸ਼ੁਕਰੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੂਣ ਹਰਾਮੀ = (ਖਾਧੇ) ਲੂਣ ਨੂੰ ਹਰਾਮ ਕਰਨ ਵਾਲੇ, ਨਾ-ਸ਼ੁਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਸ-ਰਹਿਤ ਪ੍ਰਭੂ! ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਪ੍ਰਭੂ! ਹੇ ਅਭੇਵ ਪ੍ਰਭੂ! (ਇਹ ਜਾਚ ਤੇਰੀ ਕ੍ਰਿਪਾ ਦੁਆਰਾ ਹੀ ਆ ਸਕਦੀ ਹੈ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਅਲਖ = ਹੇ ਅਦ੍ਰਿਸ਼ਟ! ਅਭੇਵਾ = ਹੇ ਪ੍ਰਭੂ ਜਿਸ ਦਾ (ਤੇਰਾ) ਭੇਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

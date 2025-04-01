@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਕਿਹੜੀ ਮੱਤੇ, ਕਿਹੜੇ ਭੁਲੇਖੇ ਵਿਚ ਲੱਗਾ ਹੋਇਆ ਹੈਂ? (ਸਮਾ ਹੱਥੋਂ ਗਵਾ ਕੇ) ਫੇਰ ਹੱਥ ਮਲੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜਿਆ = ਹੇ ਮੂਰਖ! ਕਵਨ ਕੁਮਤਿ = ਕਿਹੜੀ ਭੈੜੀ ਮੱਤੇ? ਭ੍ਰਮਿ = ਭੁਲੇਖੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

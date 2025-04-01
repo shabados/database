@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਆਖ਼ਰ) ਤੁਰਨ ਵੇਲੇ ਇਹ ਸਰੀਰ ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ ਤਾਂ ਇਸ ਨੂੰ ਝੂਠ ਬੋਲ ਬੋਲ ਕੇ ਪਾਲਣ ਦਾ ਕੀਹ ਲਾਭ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿ = ਕੀਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

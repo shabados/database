@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ (ਆਪਣੇ ਵਾਸਤੇ) ਕ੍ਰੋੜਾਂ ਹੀਲੇ ਸੋਚਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਉਪਾਵ = {ਲਫ਼ਜ਼ 'ਉਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

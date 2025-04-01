@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਉਹ ਇਨਸਾਨ ਜਿਸ ਨੂੰ ਕਿ ਰੱਬ ਪਰਾਪਤ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਇਮਸਾਨ ਕਿ ਹੱਕ ਰਾ ਯਾਫ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

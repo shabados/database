@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੁਰਾਤਨ ਪੁਰਖ ਸੁਣੀਂਦਾ ਹੈ (ਭਾਵ, ਸਭ ਦਾ ਮੁੱਢ ਹੈ,) ਕੋਈ ਹੋਰ ਦੂਜਾ ਉਹਦੇ ਵਰਗਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = ਹੋਰ। ਆਨ = ਕੋਈ ਹੋਰ (अन्य)। ਪਊਰਾਤਨੁ = ਪੁਰਾਣਾ, ਮੁੱਢ ਦਾ। ਸੁਣੀਐ = ਸੁਣਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

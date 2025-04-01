@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ# ਤੇਰੇ ਬਿਨਾਣ ਦੋਹਾਣ ਜਹਾਨਾਣ ਵਿਚ ਹੋਰ ਕੋਈ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੀਸਤ ਗੋਯਾ ਗ਼ਰਿ ਤੂ ਦਰ ਦੋ ਜਹਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

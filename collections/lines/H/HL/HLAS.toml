@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਕਿ ਉਹ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਤੇਰੀ ਯਾਦ ਵਿਚ ਲੰਘਾ ਸਕੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਗੁਜ਼ਾਰਦ ਉਮਰ ਰਾ ਦਰ ਯਾਦਿ ਰੱਬ ।੩੨੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

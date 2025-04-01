@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਵੇਦ ਸਾਸ਼ਤ੍ਰ ਦੀ ਮਰਯਾਦਾ ਆਦਿਕ ਤੇ ਜ਼ੋਰ ਦੇਣ ਦੇ ਥਾਂ) ਆਪਣੇ ਇਸ ਮਨ ਬਾਰੇ ਵਿਚਾਰ ਕਰਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਡਿਤ = ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

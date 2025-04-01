@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਦੂਜਾ (ਇਸ ਬ੍ਰਹਮਾਂਡ ਨੂੰ) ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਨਹੀਂ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰੁ = (ਕੋਈ) ਹੋਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

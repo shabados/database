@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਸੰਤ ਜਨੋਂ! ਸੁਣਹੁ (ਹੁਣ ਮਨ ਦੀ) ਨਿੰਮ੍ਰਤਾ ਨੇ ਅਹੰਕਾਰ ਨੂੰ ਮੁਕਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਟੀ = ਕੀੜੀ, ਨਿੰਮ੍ਰਤਾ। ਪਰਬਤ = (ਮਨ ਦਾ) ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

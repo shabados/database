@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ (ਮਨ)! (ਨਿਰੀ) ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜ-ਭੱਜ ਕਰਦਿਆਂ ਤੂੰ ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾ ਲਏਂਗਾ, (ਇਸ ਤਰ੍ਹਾਂ) ਤੇਰੀ ਭਟਕਣਾ ਨਹੀਂ ਮੁੱਕੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ। ਧੰਧਾ = ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜ-ਭੱਜ। ਭਰਮੁ = ਭਟਕਣਾ। ਗਵਾਰਾ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਜਿਸ ਨੇ ਮੁੱਠੀ ਭਰ ਮਿੱਟੀ ਨੂੰ ਬੋਲਣ ਦੀ ਦਾਤ ਬਖਸ਼ੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਸ਼ਤਿ ਖ਼ਾਕੀ ਰਾ ਬਗੁਫ਼ਤਾਰ ਆਵੁਰਦ ।੩੫੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

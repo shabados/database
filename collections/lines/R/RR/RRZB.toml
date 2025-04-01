@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਝੂਠ ਤੇ ਠੱਗੀ ਕਮਾਂਦੇ ਹਨ ਤੇ ਝੂਠ ਹੀ (ਮੂੰਹੋਂ) ਬੋਲਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂੜੋ = ਕੂੜ ਹੀ। ਆਲਾਇਆ = ਬੋਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਜਦੋਂ ਤਕ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਦੁਨੀਆਵੀ ਇੱਜ਼ਤ ਆਦਿਕ ਦੀ ਵਾਸ਼ਨਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਲਗੁ = ਜਦੋਂ ਤਕ। ਆਨ = ਆਣ, ਪਰਵਾਹ। ਦੂਜੀ ਆਨ = ਜਗਤ ਦੀ ਮੁਥਾਜੀ, ਲੋਕ-ਲਾਜ ਦਾ ਖ਼ਿਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

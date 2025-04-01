@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਪ੍ਰਭੂ! ਹੇ ਦਾਸ ਨਾਨਕ ਦੇ ਸੁਆਮੀ! ਤੂੰ ਹਰਣਾਖਸ਼ ਵਰਗੇ ਦੁਸ਼ਟਾਂ ਨੂੰ ਭੀ ਤਾਰ ਦੇਂਦਾ ਹੈਂ ॥੪॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਦੁਸਟ = ਭੈੜੇ ਬੰਦੇ। ਹਰਣਖੇ = ਹਰਣਾਖਸ਼ ॥੪॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

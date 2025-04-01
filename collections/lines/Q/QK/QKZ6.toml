@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ) ਨਾਨਕ ਨੂੰ ਗੁਰੂ ਨੇ (ਅਜਿਹਾ ਆਤਮਕ) ਚਾਨਣ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੮॥੨॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਪ੍ਰਗਾਸਾ = ਆਤਮਕ ਚਾਨਣ ॥੮॥੨॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

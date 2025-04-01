@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦਾ) ਬਣਾਇਆ ਹੋਇਆ ਇਹ ਜਗਤ (ਮਾਨੋ) ਇਕ ਬਹੁਤ ਵੱਡੀ ਤਸਵੀਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਚਿਤ = ਰਚਿਆ ਹੋਇਆ (ਜਗਤ), ਬਣਾਇਆ ਹੋਇਆ। ਚਿਤ੍ਰ = ਤਸਵੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

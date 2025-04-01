@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦੇ ਆਸਰੇ ਪ੍ਰੀਤਮ! ਮੈਨੂੰ ਨਾਹ ਭੁੱਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਬਿਸਰਹਿ = ਨਾਹ ਵਿੱਸਰ। ਪ੍ਰਾਣ ਅਧਾਰ = ਪ੍ਰਾਣਾਂ ਦੇ ਆਸਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

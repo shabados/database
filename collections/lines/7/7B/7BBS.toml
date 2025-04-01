@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਆਪਣੇ ਅੰਦਰ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਭਾਲਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਤਮ ਮਹਿ = ਆਪਣੇ ਮਨ ਵਿਚ। ਲਹੰਤੇ = ਲੱਭਦੇ ਹਨ, ਭਾਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

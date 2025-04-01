@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਧਰਤੀ ਦੇ ਸੱਤ ਦੀਪ, ਨਾਹ ਪਾਣੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪ = ਦ੍ਵੀਪ, ਪੁਰਾਣੇ ਸਮੇਂ ਤੋਂ ਇਸ ਧਰਤੀ ਦੇ ਸੱਤ ਹਿੱਸੇ ਮਿੱਥੇ ਗਏ ਹਨ, ਹਰੇਕ ਨੂੰ 'ਦੀਪ' ਕਿਹਾ ਗਿਆ ਹੈ। ਕੇਂਦਰੀ ਦੀਪ ਦਾ ਨਾਮ 'ਜੰਬੂ ਦੀਪ' ਹੈ ਜਿਸ ਵਿਚ ਹਿੰਦੁਸਤਾਨ ਦੇਸ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

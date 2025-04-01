@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਰਾਮ! ਪਿਆਰੇ ਗੁਰੂ ਨੇ (ਮੇਰਾ) ਮਨ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕਰ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ (ਮੇਰੇ) ਰਾਮ! ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਮੋਹਨਿ = ਮੋਹਨ ਨੇ। ਗੁਰਿ ਮੋਹਨਿ = ਮੋਹਨ ਗੁਰੂ ਨੇ, ਪਿਆਰੇ ਗੁਰੂ ਨੇ। ਮੋਹਿ ਲਈਆ = ਮੋਹ ਲਿਆ ਹੈ, ਆਪਣੇ ਵੱਸ ਵਿਚ ਕਰ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਮਨੁੱਖ ਜੰਗਲ ਦੇ ਗੋਸ਼ੇ ਵਿਚ ਜਾ ਬੈਠਦੇ ਹਨ ਤੇ ਮੋਨ ਧਾਰ ਲੈਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣਖੰਡਿ = ਵਣ ਦੇ ਖੰਡ ਵਿਚ, ਜੰਗਲ ਦੇ ਕਿਸੇ ਹਿੱਸੇ ਵਿਚ। ਸਦੁ = ਵਾਜ। ਜਾਇ = ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

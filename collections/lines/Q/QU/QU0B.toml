@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਭੈ ਵਿਚ ਇੰਦਰ ਰਾਜਾ ਸਿਰ ਦੇ ਭਾਰ ਫਿਰ ਰਿਹਾ ਹੈ (ਭਾਵ, ਮੇਘ ਉਸ ਦੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਉੱਡ ਰਹੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਰੈ = ਫਿਰਦਾ ਹੈ। ਸਿਰ ਭਾਰਿ = ਸਿਰ ਦੇ ਭਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

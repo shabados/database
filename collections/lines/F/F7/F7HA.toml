@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਿੰਦੂ ਉੱਕਾ ਹੀ ਭੁੱਲੇ ਹੋਏ ਖੁੰਝੇ ਜਾ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਲੇ = ਉੱਕਾ ਹੀ। ਅਖੁਟੀ ਜਾਂਹੀ = ਖੁੰਝੇ ਜਾ ਰਹੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

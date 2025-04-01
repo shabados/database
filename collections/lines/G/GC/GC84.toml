@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੀ ਖ਼ੁਸ਼ਾਮਦ ਨਾਹ ਕਰਦਾ ਫਿਰ, ਦੁਨੀਆ ਤਾਂ ਨਾਸ ਹੋ ਜਾਇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ ਵੰਞਸੀ = ਮਰ ਜਾਇਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

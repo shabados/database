@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਵਿਸ਼ਈ ਮਨੁੱਖ ਪਰਾਈ ਨਾਰ ਵਲ ਤੱਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਈ = ਵਿਸ਼ਈ ਮਨੁੱਖ। ਹੇਰੈ = ਤੱਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

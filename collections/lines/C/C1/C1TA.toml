@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਦੇ ਮਨ ਵਿਚ (ਸਦਾ) ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਜੀ ਵੱਸਦੇ ਹਨ, (ਪ੍ਰਭੂ ਦਾ) ਦਰਸਨ ਕਰਨ ਤੋਂ ਬਿਨਾ (ਉਹਨਾਂ ਪਾਸੋਂ) ਰਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਮਨਿ = ਸੰਤ ਜਨਾਂ ਦੇ ਮਨ ਵਿਚ। ਰਹਿ ਨ ਸਕੀਜੈ = ਰਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

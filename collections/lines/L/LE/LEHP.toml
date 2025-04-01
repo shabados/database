@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਉਸ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ) ਆਤਮਕ ਅਡੋਲਤਾ ਦੇ ਅਨੇਕਾਂ ਸੁਖ ਆਨੰਦ ਮਿਲ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਆਤਮਕ ਅਡੋਲਤਾ। ਘਣੇ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

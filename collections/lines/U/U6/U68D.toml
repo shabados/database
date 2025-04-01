@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਖੀਆਂ ਦਾ ਵੀ ਸਖੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਰਮੁੱਲ-ਕੱਰਾਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 127
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

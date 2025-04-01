@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੇਸਾਂ (ਦੇ ਰਾਜ), ਕੱਪੜੇ, ਸੋਨਾ, ਚਾਂਦੀ (-ਇਹਨਾਂ ਦੀ ਖ਼ਾਤਰ ਕੀਤੇ ਹੋਏ) ਸਾਰੇ ਉੱਦਮ ਵਿਅਰਥ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਸ = ਕੱਪੜੇ। ਸੁਵਰਨ = ਸੋਨਾ। ਰੂਪਾ = ਚਾਂਦੀ। ਊਣੇ = ਖ਼ਾਲੀ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

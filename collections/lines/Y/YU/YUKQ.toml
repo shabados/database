@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ, ਇਹ ਨਾਮ ਹੀ ਕ੍ਰੋੜਾਂ ਦਵਾਈਆਂ (ਦੇ ਬਰਾਬਰ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖਧ = ਦਵਾਈਆਂ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

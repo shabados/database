@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਤਰਫ ਤੂਰ ਦੀ ਪਹਾੜੀ ਹੈੈ, ਹਰ ਪਾਸੇ ਨੂਰ ਦਾ ਭਾਣਬੜ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਤਰਫ ਤੂਰ ਅਸਤ ਹਰ ਸੂ ਸ਼ੋਅਲਾਏ ਅਨਵਾਰ ਹਸਤ ।੬।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

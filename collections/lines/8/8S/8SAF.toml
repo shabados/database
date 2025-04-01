@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੀਰਾਂ ਪੈਗ਼ੰਬਰਾਂ ਸ਼ੇਖਾਂ (ਸਭ ਨੂੰ ਤੂੰ ਹੀ ਨਜਾਤ ਦਿੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਕਾਂਬਰ = ਪੈਗ਼ੰਬਰ {ਪੈਗ਼ਾਮ-ਬਰ} ਰੱਬ ਦਾ ਸੁਨੇਹਾ ਲਿਆਉਣ ਵਾਲਾ। ਸੇਖ = ਸ਼ੇਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

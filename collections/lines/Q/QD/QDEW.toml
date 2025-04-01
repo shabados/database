@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਸਾਰੀ ਸਜਾਵਟ ਨੂੰ ਸੁੰਦਰਤਾ ਬਖਸ਼ਨ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੇਬ ਬਖ਼ਸ਼ਿ ਈਂ ਹਮਾ ਆਰਾਇਸ਼ ਅੰਦ ।੨੬੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

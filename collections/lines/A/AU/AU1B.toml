@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸਤ੍ਰੀ ਖਸਮ ਦੇ (ਵਿਛੋੜੇ ਦੇ) ਹਹੁਕੇ ਵਿਚ (ਦਿਨੋ ਦਿਨ) ਕਮਜ਼ੋਰ ਹੁੰਦੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧਨ = ਜੀਵ-ਇਸਤ੍ਰੀ। ਦੁਬਲੀ = ਕਮਜ਼ੋਰ। ਹਾਵੈ = ਹਹੁਕੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

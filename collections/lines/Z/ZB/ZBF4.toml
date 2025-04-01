@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਕੀਹ ਕਹਿ ਰਿਹਾ ਹੈਂ? ਹੇ ਜੀਵ! ਤੂੰ ਕੀਹ ਆਖਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ (ਮੇਰੇ) ਮਨ! ਹਉ = ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

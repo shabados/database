@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਭਾਵੇਂ ਜਾਤ ਦਾ ਜੁਲਾਹਾ ਹੈ, ਪਰ ਮੱਤ ਦਾ ਧੀਰਜ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੀਰੁ = ਧੀਰਜ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

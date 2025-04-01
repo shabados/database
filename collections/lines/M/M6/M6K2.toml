@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤ ਉਸ ਥਾਂ ਦਾ ਨਾਮ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹਾ ਕਾ = ਉਸ (ਥਾਂ) ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

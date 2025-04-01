@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁੰਦਰ ਜੀਵ-ਇਸਤ੍ਰੀ! ਤੂੰ ਧਿਆਨ ਨਾਲ ਇਹ ਖ਼ਬਰ ਕਿਉਂ ਨਹੀਂ ਸੁਣਦੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਰੀਏ = ਹੇ ਸੁੰਦਰ ਜੀਵ-ਇਸਤ੍ਰੀ! ਆਪਣ ਕੰਨੀ = ਆਪਣੇ ਕੰਨਾਂ ਨਾਲ, ਧਿਆਨ ਦੇ ਕੇ। ਸੋਇ = ਖ਼ਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

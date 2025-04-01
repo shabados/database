@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹਰ ਵੇਲੇ ਸਿਮਰਦਿਆਂ (ਮੈਂ ਨਾਮ ਸਿਮਰਨ ਨੂੰ ਜੀਵਨ ਦਾ ਆਧਾਰ ਬਣਾ ਲਿਆ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਹੇ ਮਾਂ! ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

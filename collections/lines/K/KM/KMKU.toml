@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਤ੍ਰੁੱਠਦਾ ਹੈਂ ਉਹ ਤੇਰਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ ॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਹਿ = ਤੂੰ ਹੁੰਦਾ ਹੈਂ ॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

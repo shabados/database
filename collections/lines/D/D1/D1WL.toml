@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੱਖਾਂ ਮਣਾਂ ਸੋਨਾ ਹੋਵੇ ਤੇ ਲੱਖਾਂ ਮਣਾਂ ਚਾਂਦੀ-ਅਜੇਹੇ ਲੱਖਾਂ ਧਨੀਆਂ ਨਾਲੋਂ ਭੀ ਜੇ ਵੱਡੇ ਧਨੀ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਪਾ = ਚਾਂਦੀ। ਸਿਰਿ = ਸਿਰ ਉਤੇ, ਤੋਂ ਵੱਡੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

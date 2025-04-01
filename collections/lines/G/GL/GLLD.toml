@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਮਨੁੱਖ ਗੁਰਬਾਣੀ ਅਨੁਸਾਰ) ਗੁਰੂ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਦਾ ਹੈ, ਤਦੋਂ (ਉਸ ਦੇ ਅੰਦਰੋਂ) ਆਪਾ-ਭਾਵ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਣੈ = ਰਜ਼ਾ ਵਿਚ। ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

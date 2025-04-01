@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਕਹਿੰਦੇ ਤਾਣ ਹਾਣ, ਪਰ ਅਸੀਣ ਸਿਰ ਤੇ ਪੈਰ ਨੂੰ ਨਹੀਣ ਪਛਾਣਦੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਇਮ ਵ ਲੇਕਨ ਸਰੋ ਪਾ ਰਾ ਨ-ਸ਼ਨਾਸੇਮ ।੫੮।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

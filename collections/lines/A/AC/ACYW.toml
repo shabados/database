@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਹਰ ਵੇਲੇ ਸਦਾ ਗੁਰੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = (अनुदिनं) ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਗਾਉ = ਗਾਉਂ, ਮੈਂ ਗਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

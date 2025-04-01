@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ! ਤੂੰ ਜਿਵੇਂ (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਰੱਖਦਾ ਹੈਂ, ਤਿਵੇਂ ਹੀ ਰਿਹਾ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਰਾਇ = ਹੇ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ! ਰਾਖਹਿ = ਤੂੰ ਰੱਖਦਾ ਹੈਂ। ਰਹੀਐ = ਰਹਿ ਸਕੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

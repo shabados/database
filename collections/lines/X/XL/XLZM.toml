@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਇਸ ਰਾਹ ਦਾ ਜਾਣੂ ਮਿਲ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਕਫ਼ਿ ਈਂ ਰਾਹ ਅਗਰ ਆਰੀ ਬਦਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

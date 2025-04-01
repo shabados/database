@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਡਿੱਗਦਾ ਹੈ ਉਸ ਨੂੰ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਆਪਣਾ ਨਾਮ ਆਪ ਬਖ਼ਸ਼ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤੁ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

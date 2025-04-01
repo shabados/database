@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਉਹ ਜੀਊਣ ਫਿਟਕਾਰ-ਜੋਗ ਹੈ, ਉਸ ਵਸੇਬੇ ਨੂੰ ਲਾਹਨਤ ਹੈ ਜੋ ਨਾਮ ਤੋਂ ਸੱਖਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧ੍ਰਿਗੁ = ਫਿਟੁ, ਫਿਟਕਾਰ-ਯੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

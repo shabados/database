@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਉਸ ਦਾ ਨਾਮ ਹਰ ਵੇਲੇ ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਠਿ = ਕੰਠ (ਗਲੇ) ਵਿਚ। ਰਖੁ ਕੰਠਿ ਪਰੋਇ = ਹਰ ਵੇਲੇ ਯਾਦ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇ ਨਿਸ਼ਾਨ ਦੀ ਲੋੜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਨਿਸ਼ਾਨਿ ਜ਼ਿੰਦਗੀ ਮੀ-ਬਾਇਦਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

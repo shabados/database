@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਗੁਰਮੁਖਾਂ ਨੇ ਨਾਮ ਸਿਮਰਿਆ ਹੈ ਉਹਨਾਂ ਦੇ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਤੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

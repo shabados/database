@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੳਣ ਜੋ ਤੇਰੇ ਬਿਨਾਣ ਸਾਡੇ ਅੱਗੇ ਪਿੱਛੇ ਕੋਈ ਵੀ ਨਹੀਣ ਹੁੰਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਗ਼ੈਰ ਤੂ ਹੀਚ ਕਸੇ ਪਸੋ ਪੇਸ਼ ਨਬੂਦ ।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

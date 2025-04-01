@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਐਸਾ ਹੈ) ਜਿਸ ਦੇ ਹੁਕਮ ਵਿਚ ਸਾਰਾ ਜਗਤ ਪ੍ਰੋਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਸੂਤਿ = ਜਿਸ ਦੇ ਸੂਤ ਵਿਚ, ਜਿਸ ਦੀ ਮਰਯਾਦਾ ਵਿਚ, ਜਿਸ ਦੇ ਹੁਕਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਤੂੰ (ਆਪਣੀ ਗੋਦੜੀ ਦਾ) ਕੀਹ ਪਿਆ ਮਾਣ ਕਰਦਾ ਹੈਂ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਹਿ = ਅਹੰਕਾਰ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

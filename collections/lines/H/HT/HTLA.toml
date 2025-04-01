@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਬੜੇ ਚਾਅ ਨਾਲ ਤੇਰੇ ਮੰਦਰ ਆਇਆ ਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ ਖੇਲਤ = ਹੱਸਦਾ ਖੇਡਦਾ, ਬੜੇ ਚਾਉ ਨਾਲ। ਦੇਹੁਰੇ = ਮੰਦਰ ਵਿਚ {Skt. देवालय}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

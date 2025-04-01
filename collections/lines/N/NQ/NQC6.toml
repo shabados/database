@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਹੀ ਪੂਰਨ ਪੁਰਖ ਹੈ, ਗੁਰੂ ਨੂੰ ਹੀ ਧੰਨ ਧੰਨ (ਆਖੋ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ। ਸਾਬਾਸਿ = ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

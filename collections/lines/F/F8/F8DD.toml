@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਸਿਰਮਨ ਕਰਦਿਆਂ ਤੇਰੀ ਵੈਰਨ (ਮਾਇਆ ਡਾਇਣ) ਤੈਥੋਂ ਪਰੇ ਹਟ ਜਾਏਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਚਲੀ ਜਾਏਗੀ। ਬਲਾਇ = ਵੈਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਮੈਂ ਮਾਇਆ ਤੋਂ ਰਹਿਤ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ ਰਿਹਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਵਉ = ਮੈਂ ਸਿਮਰ ਰਿਹਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

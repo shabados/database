@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਕੀਹ ਸਮਝ ਕੇ (ਇਸ ਜਗਤ ਨੂੰ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਮੰਨੀ ਬੈਠਾ ਹੈਂ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = ਤੂੰ। ਸਾਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਮਾਨਿਆ = ਮੰਨ ਲਿਆ ਹੈ। ਕਿਹ ਬਿਚਾਰਿ = ਕੀਹ ਵਿਚਾਰ ਕੇ? ਕੀਹ ਸਮਝ ਕੇ? ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

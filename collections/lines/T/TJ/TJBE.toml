@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰਾ ਝੂਠ ਅਤੇ ਕੂੜ ਦੂਰ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਕਿਜ਼ਬੋ ਨਾਰਾਸਤੀ ਗਸ਼ਤ ਦੂਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

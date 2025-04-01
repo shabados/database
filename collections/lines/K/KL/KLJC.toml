@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੀਰਥ-ਜਾਤ੍ਰਾ ਆਦਿਕ ਮਿੱਥੇ ਹੋਏ ਧਾਰਮਿਕ) ਕਰਮ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਕਮਾ ਕਮਾ ਕੇ ਥੱਕ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = (ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ) ਕਰਮ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਵੇਂ ਜਦੋਂ ਮਾਂ ਦੇ) ਪੇਟ ਵਿਚ (ਬੱਚਾ) ਆ ਨਿਵਾਸ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਰੈ ਮਾਹਿ = (ਮਾਂ ਦੇ) ਪੇਟ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

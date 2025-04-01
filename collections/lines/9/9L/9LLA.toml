@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁਬਾਰਿਕ ਹੈ ਉਹ ਭਾਗਾਂ ਵਾਲੀ ਇਸਤ੍ਰੀ ਜੋ ਖਸਮ ਨੂੰ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਭਾਗਾਂ ਵਾਲੀ। ਸੁਹਾਗਨਿ = ਸੁਹਾਗ ਵਾਲੀ, ਚੰਗੇ ਭਾਗਾਂ ਵਾਲੀ। ਪੀਅ = ਖਸਮ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਮੋਨ-ਧਾਰੀ ਤਿਆਗੀ ਸਾਧੂ ਅਖਵਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਨਿ = ਸਦਾ ਚੁੱਪ ਰਹਿਣ ਵਾਲਾ। ਅਉਧੂਤੁ = ਤਿਆਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

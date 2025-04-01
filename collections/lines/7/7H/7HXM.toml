@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦਾ ਵਰਤਣਿ-ਵਲੇਵਾ (ਜੀਵ ਲਈ) ਸਾਰਾ ਫਾਹੀ ਬਣਦਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤਣਿ = ਜਗਤ ਦਾ ਵਰਤਣ-ਵਲੇਵਾ। ਜੰਜਾਲੁ = ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

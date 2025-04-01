@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਦੀ ਕਮਾਈ ਤੋਂ) ਸੱਖਣਾ ਹੀ ਇਥੇ ਆਉਂਦਾ ਹੈ ਤੇ (ਇਥੇ ਰਹਿ ਕੇ ਭੀ) ਕੋਈ ਆਤਮਕ ਖੱਟੀ ਨਹੀਂ ਖੱਟਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਲੇ ਆਇਆ = ਕੁਝ ਭੀ ਲੈ ਕੇ ਨਹੀਂ ਆਉਂਦਾ। ਕਿਆ ਪਲੈ ਪਾਇ = ਕੁਝ ਭੀ ਨਹੀਂ ਖੱਟਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

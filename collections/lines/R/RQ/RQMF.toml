@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਬੇਸ਼ਕ) ਆਖ ਕਿ ਪੈਲੀ ਵਿਚ ਨਿਖਸਮੇ ਪਏ ਹੋਏ ਉਹਨਾਂ ਬੂਆੜ ਤਿਲਾਂ ਦੇ ਸੌ ਖਸਮ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੁਟਿਆ = ਛੁੱਟੜ ਪਏ ਹੋਇਆਂ ਦੇ। ਸਉ = (ਇਕ) ਸੌ। ਨਾਹ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

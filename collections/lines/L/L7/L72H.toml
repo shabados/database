@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਟਕਣਾ ਅਤੇ ਮਾਇਆ ਦਾ ਦਬਾਉ-(ਹਰ ਵੇਲੇ) ਇਹ ਦੋ ਕਿਵਾੜ ਵੱਜੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮਤ = ਭਟਕਣਾ। ਬਿਆਪਤ = ਮਾਇਆ ਦਾ ਜ਼ੋਰ। ਜਰੇ = ਜੜੇ। ਕਿਵਾਰਾ = ਕਿਵਾੜ, ਭਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

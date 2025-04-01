@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਸ ਪਾਸੇ ਤੱਕਦਾ ਹਾਂ ਤੇਰੀ ਹੀ ਜੋਤਿ (ਪ੍ਰਕਾਸ਼ ਕਰ ਰਹੀ) ਹੈ, ਪਰ ਤੇਰਾ ਸਰੂਪ ਕੈਸਾ ਹੈ (ਇਹ ਬਿਆਨ ਤੋਂ ਪਰੇ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨੇਹਾ = ਕਿਹੋ ਜਿਹਾ? ਬਿਆਨ ਤੋਂ ਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

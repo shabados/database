@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ ਪਿਉ ਪੁੱਤਰ ਧੀ ਕੋਈ ਭੀ ਕਿਸੇ ਦਾ ਸਦਾ ਸਾਥੀ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾ ਕੋ = ਕਿਸ ਦਾ? ਕਿਸੇ ਦਾ ਨਹੀਂ। ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

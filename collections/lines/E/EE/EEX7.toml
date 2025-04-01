@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਹੀ ਉਸ ਦੀਆਂ ਪਾਲਣਹਾਰ ਰੱਬੀ ਮਿਹਰਾਂ ਦੇ ਸਵਾਲੀ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਫ਼ੈਲਸ਼ ਦੋ ਆਲਮ ਖ਼ੁਦ ਕਾਮਯਾਬ ।"
+page = 8
+line = 96
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

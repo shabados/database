@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਨੁੱਖ ਵਾਸਤੇ ਉਹ ਮੁਹੂਰਤ ਭਾਗਾਂ ਵਾਲਾ ਹੁੰਦਾ ਹੈ ਉਹ ਘੜੀ ਸੁਲੱਖਣੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਤੁ = ਮੁਹੂਰਤ, ਦੋ ਘੜੀ ਜਿਤਨਾ ਸਮਾ {ਲਫ਼ਜ਼ 'ਮੂਰਤਿ' ਅਤੇ 'ਮੂਰਤੁ' ਵਿਚ ਫ਼ਰਕ ਚੇਤੇ ਰੱਖਣ-ਯੋਗ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

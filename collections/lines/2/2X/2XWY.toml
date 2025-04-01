@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਗੋਪੀਆਂ ਦਾ ਨਾਥ ਹੈਂ। ਤੂੰ ਸਭ ਜੀਵਾਂ ਦੇ ਨਾਲ ਰਹਿਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪੀ ਨਾਥੁ = ਗੋਪੀਆਂ ਦਾ ਨਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

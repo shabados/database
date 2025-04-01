@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਾਨੋ ਉਹ ਸ਼ਮ੍ਹਾ ਦੇ ਬਾਗ ਦਾ ਇੱਕ ਫੁਲ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਗੁਲੇ ਬੂਦ ਅਸਤ ਅਜ਼ ਗੁਲਜ਼ਾਰਿ ਸ਼ਮਆ ।੪੬।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

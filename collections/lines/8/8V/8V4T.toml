@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਸਰੀਰ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਗੁਪਤ ਹੋ ਕੇ ਬੈਠਾ ਹੋਇਆ ਹੈ, ਹਰੇਕ ਘਟ ਵਿਚ ਹਰ ਥਾਂ ਉਸੇ ਦੀ ਜੋਤਿ ਹੈ["
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = ਅੰਦਰ। ਘਟਿ ਘਟਿ = ਹਰੇਕ ਘਟ ਵਿਚ। ਸਬਾਈ = ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਜੀਵ ਨਰਕਾਂ ਵਿਚ ਪੈਂਦੇ ਹਨ, ਕਿਤੇ ਸੁਰਗਾਂ ਵਿਚ ਪਹੁੰਚਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਤਾਰ = ਜਨਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

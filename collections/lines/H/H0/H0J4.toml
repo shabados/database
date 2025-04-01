@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੈਨੂੰ ਮੇਰਾ ਸੱਜਣ ਹਰਿ-ਪ੍ਰਭੂ ਮਿਲਾ ਦਿਉ। ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਉਸਦੇ ਮਿਲਣ ਦੀ ਤਾਂਘ ਪੈਦਾ ਹੋ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੈਨੂੰ। ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ! ਮੈ ਮਨਿ ਤਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ। ਭੁਖ = (ਮਿਲਣ ਦੀ) ਤਾਂਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

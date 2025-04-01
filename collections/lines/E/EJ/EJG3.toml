@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜੇ ਤੇਰੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਹੈ ਤਾਂ) ਸਿਰਫ਼ ਤੂੰ ਹੀ ਮੂਰਖ ਹੈਂ, ਤੇਰੇ ਨਾਲੋਂ ਹੋਰ ਸੰਸਾਰ ਚੰਗਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੁ ਤੂ = ਸਿਰਫ਼ ਤੂੰ ਹੀ। ਅਵਰੁ ਸੈਸਾਰੁ = ਬਾਕੀ ਸਾਰਾ ਸੰਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

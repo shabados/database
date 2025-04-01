@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੁਰਾਹੇ ਪਿਆ ਮਨੁੱਖ) ਇਸੇ ਤਰ੍ਹਾਂ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਦੁੱਖ ਭੋਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤ ਕਰਤ = ਕਰਦਿਆਂ ਕਰਦਿਆਂ। ਇਵ ਹੀ = ਇਸੇ ਤਰ੍ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

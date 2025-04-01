@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਤਪ ਆਦਿਕ ਤਪਨ ਦੀ ਲੋੜ ਨਹੀਂ ਰਹਿੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲ = ਮੇਹਨਤ, ਤਪ ਆਦਿਕ ਸਹਾਰਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

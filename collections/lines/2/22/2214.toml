@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਦਿਆਲ ਪਾਰਬ੍ਰਹਮ ਨੇ ਉਸ ਮਨੁੱਖ ਨੂੰ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮਿ = ਪਾਰਬ੍ਰਹਮ ਨੇ। ਦਇਆਲਿ = ਦਇਆਲ ਨੇ। ਸਾਗਰੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

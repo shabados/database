@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਿਤ੍ਰ!) ਜਿਸ ਧਨ ਦੀ ਖ਼ਾਤਰ (ਤੂੰ) ਚੌਹੀਂ ਪਾਸੀਂ ਉਠ ਦੌੜਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਧਨ ਕਉ = ਜਿਸ ਧਨ ਦੀ ਖ਼ਾਤਰ। ਕੁੰਟ = ਪਾਸੇ, ਤਰਫ਼। ਧਾਵਹਿ = ਦੌੜਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

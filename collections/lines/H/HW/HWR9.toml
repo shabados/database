@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਮਨਸੂਰ ਵਾਣਗ ਸੂਲੀ ਦਾ ਪਰਛਾਵਾਣ ਪਰਾਪਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਯਾਇ ਤੂਬਾ ਓ ਫ਼ਿਰਦੌਸ ਨਖ਼ਾਹਦ ਹਰਗਿਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

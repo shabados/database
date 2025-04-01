@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰਮੁਖਾਂ ਦੀ ਸਿੱਖਿਆ ਧਿਆਨ ਨਾਲ ਸੁਣ, ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰ ਆਤਮਕ ਸ਼ਾਂਤੀ (ਤਦੋਂ ਹੀ) ਮਿਲੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਿਤਿ = ਸ਼ਾਂਤੀ, ਟਿਕਾਉ। ਸਿਖ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

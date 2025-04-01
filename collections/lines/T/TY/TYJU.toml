@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਪਰਲੋਕ ਵਿਚ ਭੀ ਤੇਰਾ (ਹੀ) ਹੁਕਮ (ਚੱਲ ਰਿਹਾ) ਸੁਣਿਆ ਜਾ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਹਾ = ਉਥੇ, ਉਸ ਲੋਕ ਵਿਚ, ਪਰਲੋਕ ਵਿਚ। ਸੁਣੀਐ = ਸੁਣਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

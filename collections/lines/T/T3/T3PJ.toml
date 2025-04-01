@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਮਾਇਆ ਦੀ ਹਉਮੈ ਦੇ ਕਾਰਨ ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਹੀ ਇਕੱਠੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲੁ = ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ। ਕਮਾਇਆ = ਇਕੱਠੀ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

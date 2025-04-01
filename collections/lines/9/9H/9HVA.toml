@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ # ਜੇਕਰ ਤੂੰ ਉਸਦੇ ਜਲਵੇ ਨੂੰ ਵੇਖਣਾ ਚਾਹੁੰਦਾ ਹੈਣ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾ ਅਗਰ ਆਣ ਜਮਾਲ ਦੀਦਨ ਦਾਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

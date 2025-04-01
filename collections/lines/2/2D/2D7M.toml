@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਨਾਲ ਅਜੇਹੀ ਡੂੰਘੀ ਸਾਂਝ ਪੱਕੀ ਕਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੁ = ਡੂੰਘੀ ਸਾਂਝ, ਸੂਝ। ਜਪਹੁ = ਮੁੜ ਮੁੜ ਚੇਤੇ ਰੱਖੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

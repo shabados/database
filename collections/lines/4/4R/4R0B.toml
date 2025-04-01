@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਸਾਰੇ ਸੁਖ ਮਨ ਵਿਚ ਆ ਵੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

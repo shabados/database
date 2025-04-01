@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸੰਸਾਰ-ਅੱਗ ਦੇ ਖੂਹ ਵਿਚੋਂ ਆਪਣੇ ਦਾਸ ਨਾਨਕ ਨੂੰ ਕੱਢ ਲੈ ॥੨॥੪॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕ = ਅੱਗ। ਕੂਪ = ਖੂਹ ॥੨॥੪॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

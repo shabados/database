@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਤਪ ਦੇ ਸਾਧਨ ਕਰ ਕੇ ਜੇ ਇਹਨਾਂ ਦਾ ਮਾਣ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਸਿਆ = ਤਪ ਦੇ ਸਾਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

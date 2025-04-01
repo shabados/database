@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਨਾਮ ਤੋਂ ਸੱਖਣਾ ਰਹਿ ਕੇ ਸਾਰਾ ਜਗਤ ਹੀ ਵਿਅਰਥ ਜੀਵਨ ਗੁਜ਼ਾਰ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਰ = ਖੇਹ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

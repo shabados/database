@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੰਦੇ! ਥੋੜ੍ਹੀ ਜਿਹੀ ਗੱਲ ਪਿੱਛੇ (ਭਾਵ, ਇਸ ਚੰਦ-ਰੋਜ਼ਾ ਜ਼ਿੰਦਗੀ ਪਿੱਛੇ) ਕਿਉਂ ਮਾਣ ਕਰ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਸਿ = ਤੂੰ ਹੰਕਾਰ ਕਰਦਾ ਹੈਂ। ਨਰ = ਹੇ ਮਨੁੱਖ! ਥੋਰੀ ਬਾਤ = ਥੋੜ੍ਹੀ ਜਿਹੀ ਗੱਲ ਪਿੱਛੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

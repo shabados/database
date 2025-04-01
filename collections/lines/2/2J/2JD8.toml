@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਰਾਤ ਨੂੰ ਫਾਹੇ ਲੈ ਕੇ (ਪਰਾਏ ਘਰਾਂ ਨੂੰ ਲੁੱਟਣ ਲਈ) ਤੁਰਦੇ ਹਨ (ਪਰ) ਪ੍ਰਭੂ ਉਹਨਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਾਹੇ = ਕਮੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

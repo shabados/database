@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਰੰਗਾਂ ਦੇ ਘੋੜੇ ਸਦਾ ਪਾਲੀਦੇ ਹਨ, ਪਰ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰ ਰੰਗੀ = ਹਰੇਕ ਕਿਸਮ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

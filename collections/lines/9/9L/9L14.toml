@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਅੱਗ ਵਿਚ ਸੜ ਰਹੇ ਨੂੰ ਪਾਣੀ ਮਿਲ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨੀ = ਅੱਗ (ਵਿਚ)। ਜਲਤ = ਸੜ ਰਹੇ ਨੂੰ। ਨੀਰ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

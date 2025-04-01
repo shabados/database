@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ, ਭਟਕਣਾ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨੂੰ ਨਹੀਂ ਮਿਲ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਸੇਵਕਾਂ ਦੀ ਜ਼ਿੰਦਗੀ-ਰੂਪ ਰਾਤ ਸੁਆਦਲੀ ਗੁਜ਼ਰਦੀ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ, ਜ਼ਿੰਦਗੀ ਰੂਪ ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

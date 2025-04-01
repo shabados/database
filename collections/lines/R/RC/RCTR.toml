@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਮੈਨੂੰ (ਇਹ ਭੇਤ) ਦੱਸੋ, ਮੈਂ ਤੁਹਾਡੀ ਸੇਵਾ ਕਰਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਕਰੀਂ, ਮੈਂ ਕਰਾਂ। ਮੈ = ਮੈਨੂੰ। ਮਿਤਾ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

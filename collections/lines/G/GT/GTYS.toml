@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਮਝਦਾ ਹਾਂ (ਇਸ ਮਾਇਆ ਦੇ ਨਾਲ) ਤੂੰ ਭੀ ਆਪਣਾ ਆਪ ਅਜਾਈਂ ਗਵਾਉਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਰੇ = ਹੇ ਜਿੰਦੇ! ਹੇ ਜੀਵ! ਮੈਂ ਸਮਝਦਾ ਹਾਂ। ਜਾਹਿਗਾ = ਤੂੰ ਭੀ ਜਨਮ ਅਜਾਈਂ ਗੰਵਾ ਲਏਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

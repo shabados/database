@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਮ ਜੀ ਭੀ ਰੋਏ, ਜਦੋਂ ਰਾਮ (ਜੀ) ਨੂੰ ਦੇਸ-ਨਿਕਾਲਾ ਮਿਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਾਲਾ = ਦੇਸ-ਨਿਕਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

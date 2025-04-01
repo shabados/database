@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਉਸ ਅਲੱਖ ਤੇ ਅਪਾਰ (ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ) ਖਲੋਤੇ ਸੇਵਾ ਵਿਚ ਹਾਜ਼ਰ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਭੇ = ਖਲੋਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

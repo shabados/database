@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਸਦਾ ਗੁਰੂ ਨੂੰ ਹੀ ਯਾਦ ਕਰਦਾ ਹਾਂ; ਸਦਾ ਗੁਰੂ ਦਾ ਹੀ ਧਿਆਨ ਧਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪੀ = ਜਪੀਂ, ਮੈਂ ਜਪਦਾ ਹਾਂ। ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਉਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

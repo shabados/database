@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਰਹੁ ਰੀਤੀ ਦਰਵੇਸ਼ਾਣ ਵਾਲੀ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਸਮਿ ਸ਼ਾਣ ਆਈਨਿ ਦਰਵੇਸ਼ੀ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

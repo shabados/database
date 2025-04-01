@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਲ ਸੰਨਿਆਸੀ ਉਹ ਹੈ ਜੋ ਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕਰਦਾ ਹੈ ਤੇ ਆਪਣੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

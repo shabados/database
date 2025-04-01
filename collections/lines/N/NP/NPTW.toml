@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਹ ਪੰਜ ਚੌਧਰੀ ਦੁਨੀਆ (ਦੇ ਲੋਕਾਂ) ਪਾਸੋਂ ਡੰਨ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਸ ਤੇ = ਪਾਸ ਤੋਂ, ਪਾਸੋਂ। ਦਾਨੁ = ਡੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

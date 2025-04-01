@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਹਰੇਕ ਸ਼ੈ ਮਿੱਟੀ ਹੋ ਜਾਇਗੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ ਜਾਸੀ = ਹੋ ਜਾਇਗਾ। ਧੂਰ = ਮਿੱਟੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

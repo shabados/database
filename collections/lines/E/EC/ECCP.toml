@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਦਿਨ ਤੇ ਉਹ ਸੋਹਣਾ ਸੰਜੋਗ ਮੁਬਾਰਿਕ ਹਨ ਜਦੋਂ ਸਤਿਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜੋਗੜਾ = ਸੋਹਣਾ ਸੰਜੋਗ। ਜਿਤੁ = ਜਿਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

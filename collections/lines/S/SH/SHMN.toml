@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਉਹ ਸੁਆਮੀ ਹਰ ਵੇਲੇ (ਜੀਵਾਂ ਦੇ) ਨਾਲ (ਵੱਸਦਾ) ਹੈ। ਦੱਸ ਉਹ ਕੇਹੜਾ ਥਾਂ ਹੈ ਜਿਥੇ ਉਸ ਪ੍ਰਭੂ ਪਾਸੋਂ ਨੱਸ ਸਕੀਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਦੱਸ। ਪਹੁ = ਪਾਸੋਂ, ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

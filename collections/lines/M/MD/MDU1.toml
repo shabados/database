@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ ਮੋਹਰ ਲਾ ਦੇਂਦਾ ਹੈ, ਉਸ ਦਾ ਇਹ ਲੋਕ ਤੇ ਪਰਲੋਕ ਸੰਵਰ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤੁ = ਇਹ ਲੋਕ। ਪਲਤੁ = ਪਰਲੋਕ। ਮਸਤਕਿ = ਮੱਥੇ ਉਤੇ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ। ਨੀਸਾਨੁ = ਨਿਸ਼ਾਨ, ਮੋਹਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ (ਉਹਨਾਂ ਰਤਨ-ਪਦਾਰਥਾਂ ਦਾ) ਸਾਹੂਕਾਰ ਹੈਂ, ਤੇਰਾ ਭਗਤ (ਉਹਨਾਂ ਰਤਨ ਪਦਾਰਥਾਂ ਦਾ) ਵਣਜ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚਾ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਸਾਹੁ = ਸਾਹੂਕਾਰ। ਵਣਜਾਰਾ = ਵਪਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

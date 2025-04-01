@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਦੇ ਇਹ) ਸਾਰੇ ਜੀਅ ਜੰਤ ਤੇਰਾ (ਰਚਿਆ) ਤਮਾਸ਼ਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

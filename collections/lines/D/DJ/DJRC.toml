@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਥਾਂ ਵਿਚ ਉਹ ਮਨੁੱਖ ਬੈਠ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸਿ = ਬੈਠ ਕੇ। ਥਾਏ = ਥਾਇ, ਥਾਂ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

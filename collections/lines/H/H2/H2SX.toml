@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਜੀਵ ਤੇਰੇ ਨਾਮ ਦੇ ਪਿਆਰ ਵਿਚ (ਰਹਿੰਦੇ) ਹਨ ਉਹ ਭੈੜੀ ਮੱਤ ਧੋ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਪਿਆਰ ਵਿਚ। ਦੁਰਮਤਿ = ਭੈੜੀ ਮੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

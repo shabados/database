@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਹੀ ਜਗਤ ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ (ਹੀ) ਪੈਦਾ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ, ਮੋਹ ਦੇ ਅਧੀਨ। ਉਪਾਇਆ = ਪੈਦਾ ਕੀਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

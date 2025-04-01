@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਿਚ ਵਿਆਪਕ ਤੇ ਵਾਸ਼ਨਾ-ਰਹਿਤ ਪ੍ਰਭੂ ਨਾਲ ਉਸ ਦੀ ਡੂੰਘੀ ਸਾਂਝ ਪੈ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਕੇਵਲ = ਵਾਸ਼ਨਾ-ਰਹਿਤ ਪ੍ਰਭੂ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

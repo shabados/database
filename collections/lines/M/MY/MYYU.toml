@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਿਰਜਣਹਾਰ! ਤੂੰ ਸਭ ਕੁਝ ਜਾਣਦਾ ਹੈਂ ਤੇ ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕਿਛੁ = (ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ) ਹਰੇਕ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

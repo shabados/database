@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੈਨੂੰ ਉਮਰ ਦਾ ਫਲ ਪਰਾਪਤ ਹੋ ਜਾਵੇਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੂ ਹਮ ਅਜ਼ ਈਂ ਉਮਰ ਯਾਬੀ ਬਹਿਰਾਇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

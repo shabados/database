@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਨਾਲ ਨਿਭਣ ਵਾਲਾ ਧਨ ਸਤਸੰਗ ਵਿਚ ਮਿਲੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ ਧਨਾ = ਸੱਚਾ ਧਨ, ਸਦਾ ਨਿਭਣ ਵਾਲਾ ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਕਿਰਪਾ ਨਾਲ ਦੋਵੇਣ ਦੁਨੀਆਣ ਰੰਗੀਨ ਹੋ ਗਈਆਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੋ ਆਲਮ ਗਸ਼ਤ ਰੰਗੀਣ ਅਜ਼ ਤੁਫ਼ੈਲਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

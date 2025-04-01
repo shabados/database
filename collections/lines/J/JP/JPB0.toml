@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ! ਮਾਇਆ ਦਾ ਨਸ਼ਾ ਮਾਇਆ ਦਾ ਅਹੰਕਾਰ ਝੂਠਾ ਹੈ (ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਠੋ = ਸਦਾ ਨਾਲ ਨਾਹ ਨਿਭਣ ਵਾਲਾ। ਕੋ = ਦਾ। ਮਦ = ਨਸ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

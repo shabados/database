@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਨਾਮ ਜਪਿਆਂ (ਕਾਮਾਦਿਕ) ਪੰਜੇ ਵਿਕਾਰ ਕਾਬੂ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਕਾਬੂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

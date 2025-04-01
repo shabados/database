@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਉਹ ਭੂਤ ਆਪੋ ਆਪਣੇ ਪਾਸੇ ਵਲ ਖਿੱਚਾ-ਖਿੱਚੀ ਕਰ ਰਹੇ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਤਾਲੇ = ਪ੍ਰੇਤ। ਖਿੰਚੋਤਾਣਿ = ਆਪੋ ਆਪਣੇ ਪਾਸੇ ਖਿੱਚਾ = ਖਿੱਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

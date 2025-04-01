@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਬਾਂਹ ਖਿਲਾਰ ਕੇ ਮੋਹ ਦੇ ਖੂਹ ਵਿਚੋਂ ਕੱਢ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਭੁਜਾ = ਬਾਂਹ। ਪਸਾਰਿ = ਖਿਲਾਰ ਕੇ। ਕੂਪ = ਖੂਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

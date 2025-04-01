@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਆਓ, (ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦੇ ਰਹੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਹੋ = ਆਵਹੁ, ਆਓ। ਸੰਤ ਜਨਹੁ = ਹੇ ਸੰਤ ਜਨੋ! ਗਾਵਹ = ਆਓ, ਅਸੀਂ ਗਾਵੀਏ। ਕੇਰੇ = ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

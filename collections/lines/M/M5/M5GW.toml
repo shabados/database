@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ ਮੈਂ ਸਦਾ ਹੀ ਗੁਰੂ ਦੀ ਬਾਣੀ ਉਚਾਰਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਵਾ = ਚਵਾਂ, ਮੈਂ ਉਚਾਰਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

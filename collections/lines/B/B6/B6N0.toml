@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਤੇ ਤੁਰ ਕੇ ਮੇਰੇ ਸਾਰੇ ਕੰਮਾਂ ਵਿਚ ਸਫਲਤਾ ਹੋ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਧਿ = ਸਿੱਧੀ, ਸਫਲਤਾ, ਕਾਮਯਾਬੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਤੇਰੇ ਨਾਮ ਦਾ ਵਣਜਾਰਾ ਬਣ ਜਾਏ, ਤੂੰ ਮੇਰਾ ਸ਼ਾਹ ਹੋਵੇਂ ਤੇ ਤੇਰਾ ਨਾਮ ਮੇਰੀ ਪੂੰਜੀ ਬਣੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਣੀਆ = ਵਣਜਾਰਾ। ਮੈ ਰਾਸਿ = ਮੇਰੀ ਪੂੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

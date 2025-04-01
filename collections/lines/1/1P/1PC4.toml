@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਵੇਂ ਹਿੰਦੀ ਤਲਵਾਰ ਘਾਹ ਨੂੰ ਕੱਟ ਦਿੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਸ਼ਮਸ਼ੀਰਿ ਹਿੰਦੀ ਗਿਆਹ ਰਾ ਬਰਦ ।੧੬੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

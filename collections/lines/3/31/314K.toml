@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸੱਚਾ ਸੌਦਾ ਸੱਚ ਦੀ ਦੁਕਾਨ ਤੇ ਹੀ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਮਤਾਅ ਅੰਦਰ ਦੁਕਾਨਿ ਹੱਕ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

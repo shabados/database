@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਜੰਜਾਲ ਸਹੇੜੀ ਰੱਖਦੇ ਹਨ, ਜੇਹੜੇ ਇਹਨਾਂ ਦੇ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ ਨ ਆਵਹਿ = ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ। ਸੇ = ਉਹ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

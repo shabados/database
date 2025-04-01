@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਦੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ! (ਅਸਾਂ ਜੀਵਾਂ ਉਤੇ) ਦਇਆਵਾਨ ਹੋ। ਇਹ ਸਾਰੇ ਜੀਅ ਜੰਤ ਤੇਰੇ ਹੀ (ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਦੁਖ ਭੰਜਨ = ਹੇ ਦੀਨਾਂ ਦੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

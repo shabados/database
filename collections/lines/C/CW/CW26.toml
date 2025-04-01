@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਚੀਜ਼ (ਮੌਤ ਵੇਲੇ ਜੀਵ ਦੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਨਾਲ। ਕਛੁ = ਕੋਈ ਭੀ ਚੀਜ਼ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

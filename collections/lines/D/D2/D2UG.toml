@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨੇ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰ ਕੇ ਉਸ ਮਨੁੱਖ ਨੂੰ ਆਪਣੇ ਲੜ ਲਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦ੍ਰਿਸਟਿ = (ਕਿਰਪਾ ਦੀ) ਨਜ਼ਰ। ਧਾਰਿ = ਕਰ ਕੇ। ਲੜਿ = ਲੜ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

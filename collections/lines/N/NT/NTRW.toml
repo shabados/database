@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ, ਤੇ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨ = ਵਰਣਨ, ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਦਾ ਵਰਣਨ, ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਸਹਿਤ = ਸਮੇਤ। ਜਾਪੈ = ਜਪਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

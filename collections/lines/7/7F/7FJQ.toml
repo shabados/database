@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਨਾਹ ਕੋਈ ਦੁੱਖ ਹੈ ਨਾਹ ਭੁੱਖ, ਉਹ ਮਨੁੱਖ ਕੰਗਾਲ ਨਹੀਂ ਕਹੇ ਜਾ ਸਕਦੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿ ਨਰ = ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਨੂੰ। ਨਿਧਨ = ਨਿਰਧਨ, ਕੰਗਾਲ। ਨਹੁ = ਨਹੀਂ। ਕਹੀਅਹਿ = ਕਹੇ ਜਾ ਸਕਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਦੇ ਪਰਤਾਪ ਵਿਚ ਹੀ) ਅੱਠੇ ਕਰਾਮਾਤੀ ਤਾਕਤਾਂ ਤੇ ਦੁਨੀਆ ਦੇ ਨੌ ਹੀ ਖ਼ਜ਼ਾਨੇ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਟ = ਅੱਠ। ਸਿਧਿ = ਸਿੱਧੀਆਂ। ਨਵ = ਨੌ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

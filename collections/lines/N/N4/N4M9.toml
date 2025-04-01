@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੈਂਹ (ਦਾ) ਸਾਫ਼ ਤੇ ਲਿਸ਼ਕਵਾਂ (ਭਾਂਡਾ) ਘਸਾਇਆ (ਤਾਂ ਉਸ ਵਿਚੋਂ) ਮਾੜੀ ਮਾੜੀ ਕਾਲੀ ਸਿਆਹੀ (ਲੱਗ ਗਈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਲਕਣਾ = ਲਿਸ਼ਕਵਾਂ। ਘੋਟਿਮ = ਮੈਂ ਘੋਟਿਆ, ਮੈਂ ਘਸਾਇਆ। ਕਾਲੜੀ = ਕਾਲੀ ਜੇਹੀ, ਥੋੜੀ ਥੋੜੀ ਕਾਲੀ। ਮਸੁ = ਸਿਆਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰਾ ਸੰਸਾਰ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਹੁਕਮ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਦਰ ਫ਼ਰਮਾਨਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 148
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

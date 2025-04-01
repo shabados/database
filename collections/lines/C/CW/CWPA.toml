@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਮਰ ਓਹੀ ਹੀ ਹੈ ਜੋ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਗੁਜ਼ਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਉਮਰ ਆਂ ਬਾਸ਼ਦ ਕਿ ਦਰ ਯਾਦਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

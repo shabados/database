@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਅਵਸਥਾ ਵਿਚ (ਮਾਨੋ) ਸਭ ਰਾਗਾਂ, ਤਮਾਸ਼ਿਆਂ ਤੇ ਕੌਤਕਾਂ ਦਾ ਸੁਆਦ ਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਥੈ = ਉਸ ਗਿਆਨ ਖੰਡ ਵਿਚ। ਨਾਦ = ਰਾਗ। ਬਿਨੋਦ = ਤਮਾਸ਼ੇ। ਕੋਡ = ਕੌਤਕ। ਅਨੰਦੁ = ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

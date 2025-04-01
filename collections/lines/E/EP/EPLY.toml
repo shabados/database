@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਪਿਆਰੇ ਗੁਰੂ (ਦੀ ਸਹੈਤਾ) ਤੋਂ ਬਿਨਾ ਇਹ ਦੁੱਖ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਚੂਕੇ = ਨਹੀਂ ਮੁੱਕ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

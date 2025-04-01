@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ ਖੱਟਣ-ਜੋਗ ਪਦਾਰਥ ਨਹੀਂ ਖੱਟਿਆ, ਇਸੇ ਕਰ ਕੇ) ਸਾਡੀ ਮਨ ਦੀ ਮਤਿ ਇਹ ਹੈ ਕਿ ਮਨ ਮਸਤ ਹਾਥੀ ਬਣਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਾਗਲੁ = ਹਾਥੀ। ਮਤਾ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

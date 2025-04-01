@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਦੁਨੀਆ ਦੀ ਦੌਲਤ ਸਦਾ ਟਿਕਣ ਵਾਲੀ ਚੀਜ਼ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਦੁਨਿਆ ਨਭਬਾਸ਼ਦ ਪਾਇਦਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

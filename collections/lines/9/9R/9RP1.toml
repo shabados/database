@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਦੋਵੇਣ ਜਹਾਨ ਉਸੇ ਦੇ ਇੱਕ ਸਿੱਟੇ ਦੇ ਦਾਨੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਦਾਨਾਇ ਅਜ਼ ਖ਼ੋਸ਼ਾ ਅਸ਼ ।੫੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

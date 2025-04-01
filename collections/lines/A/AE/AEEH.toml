@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਸਭਨਾਂ ਦਾ ਮਾਂ ਪਿਉ ਹੈ ਤੇ ਆਪ ਹੀ ਸਭ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰ = ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਮੈਣ ਸਮਝਾਣਗਾ, ਉਹ ਖੁਤਨ, ਚੀਨ, ਮਾਚੀਨ ਅਤੇ ਖਤਾਈ ਦੇਸ਼ਾਣ ॥ਚੋਣ ਲੰਘ ਜਾਵੇਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ੁਤਨ ਵਜ਼ ਚੀਨੋ, ਮਾਚੀਨੋ ਖ਼ਤਾ ਖ਼ਾਹਦ ਗੁਜ਼ਸ਼ਤ ।੧੧।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

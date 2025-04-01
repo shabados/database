@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਇਹ) ਮੈਲ ਤੀਰਥਾਂ ਉਤੇ ਇਸ਼ਨਾਨ ਕਰ ਕੇ ਨਹੀਂ ਉਤਰੇਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੀਰਥ ਨਾਇ = ਤੀਰਥਾਂ ਉਤੇ ਇਸ਼ਨਾਨ ਕਰ ਕੇ। ਨਾਇ = ਨ੍ਹਾਇ। ਉਤਰਸਿ = ਉਤਰੇਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

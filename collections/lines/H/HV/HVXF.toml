@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਉਸ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ, ਉਹ ਸ਼ਾਂਤੀ ਅਤੇ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਸਹਿਜ ਵਿਚ, ਅਡੋਲਤਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

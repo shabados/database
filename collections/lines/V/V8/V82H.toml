@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਭੁੱਲਣਹਾਰ ਜੀਵ ਲੋਭ ਵਿਚ ਮੋਹ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਭਿ = ਲੋਭ ਵਿਚ। ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਮਗਨ = ਡੁੱਬੇ ਹੋਏ, ਮਸਤ। ਅਪਰਾਧੀ = ਭੁੱਲਣਹਾਰ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

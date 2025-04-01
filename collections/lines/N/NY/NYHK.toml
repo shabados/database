@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਬਚਨ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤਾ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ। ਪ੍ਰਿਅ = ਹੇ ਪਿਆਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

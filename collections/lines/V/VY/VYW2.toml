@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਮਿਲ ਗਈ, ਉਸ ਦੀ ਸਾਰੀ ਸ੍ਰੇਸ਼ਟ ਕਰਨੀ ਬਣ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ = ਜਿਸ ਨੂੰ। ਤਿਸੁ = ਉਸ ਦੀ। ਸਭ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

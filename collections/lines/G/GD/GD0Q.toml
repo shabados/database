@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਉੱਤੇ ਤੁਰਿਆਂ (ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਦਇਆ ਪੈਦਾ ਹੁੰਦੀ ਹੈ ਸੰਤੋਖ ਪੈਦਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਦੇਸਿ = ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ, ਉਪਦੇਸ਼ ਤੇ ਤੁਰਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

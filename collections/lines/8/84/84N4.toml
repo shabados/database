@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤਾਂ ਉਸ ਦੇ ਕਾਰਨ ਉਸ ਦੇ ਦਿਲ ਵਿਚ ਖੁਸ਼ੀ ਲਿਆਉਂਦਾ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਤੂ ਦਰ ਦਿਲ ਦਰ-ਆਰਮਸ਼ ਸਾਦੀ ।੩੨।"
+page = 1
+line = 32
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

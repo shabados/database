@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਪ੍ਰਭੂ!) ਮੈਨੂੰ ਤੇਰੇ ਗ਼ੁਲਾਮ ਨੂੰ ਅਜੇ ਪੂਰੀ ਸਮਝ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਚਤੁਰਾਈ = ਕਾਹਦੀ ਅਕਲ ਹੈ? ਪੂਰੀ ਸਮਝ ਨਹੀਂ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

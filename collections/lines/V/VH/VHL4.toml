@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਇਉਂ ਹਨ ਜਿਵੇਂ ਕਿਸੇ ਸੁੰਞੀ ਪੈਲੀ ਵਿਚ ਅੰਦਰੋਂ ਸੜੇ ਤਿਲ ਨਿਖਸਮੇ ਪਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਲ ਬੂਆੜ ਜਿਉ = ਬੂਆੜ ਤਿਲਾਂ ਵਾਂਗ। ਛੁਟੇ = ਛੁੱਟੜ ਪਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

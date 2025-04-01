@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਮਿਲਿਆ, ਤਾਂ ਸਭ ਤੋਂ) ਪਹਿਲਾਂ ਮੈਂ ਹਉਮੈ ਨੂੰ ਪਿਆਰਨਾ ਛੱਡ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੈ = ਪਹਿਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

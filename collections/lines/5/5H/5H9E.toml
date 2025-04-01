@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ! ਤੂੰ ਮੈਥੋਂ ਉਹੀ ਕੰਮ ਕਰਾਇਆ ਕਰ ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਉਹੀ ਕੰਮ। ਕਰਾਇ = ਤੂੰ ਕਰਾਈਂ। ਭਾਵੈ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

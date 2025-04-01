@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਹਿ = (ਜਿਹੜੇ ਮਨੁੱਖ) ਸਿਮਰਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

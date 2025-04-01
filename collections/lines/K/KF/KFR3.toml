@@ -36,6 +36,12 @@ language = "pa"
 data = "ਘੋੜੇ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਅਸਵਾਰ ਨਹੀਂ ਅਖਵਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋਰ = ਘੋੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

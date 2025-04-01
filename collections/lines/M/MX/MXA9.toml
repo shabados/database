@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਗਊ ਆਪਣੇ ਵੱਛੇ ਲਈ ਦੁੱਧ (ਥਣਾਂ ਵਿਚ) ਇਕੱਠਾ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਛ ਕਉ = ਵੱਛੇ ਲਈ। ਖੀਰੁ = ਦੁੱਧ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

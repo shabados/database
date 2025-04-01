@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਇਆਂ-ਇਸਤ੍ਰੀ ਦੋਵੇਂ ਹੱਥ ਜੋੜਦੀ ਹੈ ਤੇ (ਜੀਵਾਤਮਾ-ਪਤੀ ਅੱਗੇ) ਬੇਨਤੀ ਕਰਦੀ ਰਹਿੰਦੀ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ = ਬੇਨਤੀ। ਦੋਊ ਕਰ = ਦੋਵੇਂ ਹੱਥ। ਜੋਰੈ = ਜੋੜਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

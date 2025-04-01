@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਅਸੀਂ ਉਸ ਰਾਣੀ ਨੂੰ ਕਿਉਂ ਮਾੜੀ ਆਖਦੇ ਹਾਂ ਤੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਵਾਲੀ ਨੂੰ ਕਿਉਂ ਆਦਰ ਦੇਂਦੇ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ੍ਰਿਪ = ਰਾਜਾ। ਚੇਰੀ = ਦਾਸੀ। ਮਾਨੁ = ਆਦਰ। ਕਉ = ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

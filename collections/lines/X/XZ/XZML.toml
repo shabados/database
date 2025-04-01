@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੇਰੇ ਮਨ ਨੂੰ ਸੰਤੋਖੀ ਬਣਾ ਦਿਓ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਵਹੁ = ਤ੍ਰਿਪਤ ਕਰੋ, ਸੰਤੋਖੀ ਬਣਾਓ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

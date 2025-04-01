@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਪਦੇਸ਼ ਕਰਨ ਵਾਲੇ ਸਤਿਗੁਰੂ ਨੇ ਜਿਸ ਨੂੰ ਆਪਣਾ ਸ਼ਬਦ ਸੁਣਾਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਕਤੈ = ਉਪਦੇਸ਼ ਕਰਨ ਵਾਲੇ (ਗੁਰੂ) ਨੇ। ਬਕਿ = ਬੋਲ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

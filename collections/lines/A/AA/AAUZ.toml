@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਹਰੀ!) ਹਰੇਕ ਜੀਵ ਤੇਰਾ (ਬਣਾਇਆ ਹੋਇਆ ਹੈ) ਤੂੰ ਸਭ ਦਾ (ਮਾਲਕ ਹੈਂ ਅਤੇ) ਸਭਨਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈਂ (ਭਾਵ, ਰਾਜ਼ਕ ਹੈਂ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਰਾਸਿ = ਪੂੰਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

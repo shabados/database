@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਉਸਨੂੰ ਹਰ ਮੁਸ਼ਕਲ ਦੀ ਕੁੰਜੀ ਬਖਸ਼ੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕਸ਼ ਦਾਦ ਮਿਫ਼ਤਾਹਿ ਹਰ ਮੁਸ਼ਕਲੋ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

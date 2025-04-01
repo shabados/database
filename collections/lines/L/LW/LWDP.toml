@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਰੱਬ ਕਰੇ), #ਨੰਦ॥ ਲਾਲ ਦਾ ਸਿਰ ਉਸ ਵਾਹਿਗੁਰੂ ਦੇ ਨਾਮ ਤੋਂ ਕੁਰਬਾਨ ਹੋ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰਿ ਲਾਲ ਬਾਦਾ ਬਪਾਇਸ਼ ਫ਼ਿਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਤਾਂ ਆਪਣੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਕੋਮਲ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਧਰਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਨ ਕਮਲ = ਕੌਲ ਫੁੱਲ ਵਰਗੇ ਕੋਮਲ ਚਰਨ। ਮਨਿ = ਮਨ ਵਿਚ। ਧਿਆਉ = ਧਿਆਉਂ, ਮੈਂ ਧਿਆਨ ਧਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

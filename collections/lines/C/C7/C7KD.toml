@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਆਪਣੇ ਦਾਸ ਨਾਨਕ ਨੂੰ ਭੀ ਤੂੰ ਹੀ (ਮੇਹਰ ਕਰ ਕੇ) ਆਪਣੀ ਭਗਤੀ ਦਾ ਖ਼ਜ਼ਾਨਾ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

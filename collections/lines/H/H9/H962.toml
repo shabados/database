@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਅਪਹੁੰਚ ਹਰੀ! ਹੇ ਅਥਾਹ ਹਰੀ! ਹੇ ਬੇਅੰਤ ਹਰੀ! ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ ਹਰੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਹੇ ਅਪਹੁੰਚ ਪ੍ਰਭੂ! ਅਗਾਧਿ = ਹੇ ਅਥਾਹ ਹਰੀ! ਅਪਰੰਪਰ = ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ ਹਰੀ! ਅਪਰਪਰਾ = ਜਿਸ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

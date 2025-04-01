@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੇ ਸਿਰ ਕੈਂਚੀ ਨਾਲ ਮੁਨੇ ਜਾ ਰਹੇ ਹਨ ਤੇ ਉਹਨਾਂ ਦੇ ਗਲ ਵਿੱਚ ਮਿੱਟੀ ਪੈ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਤੀ = ਕੈਂਚੀ (ਨਾਲ)। ਮੁੰਨੀਅਨਿ = ਮੁੰਨੇ ਜਾ ਰਹੇ ਹਨ। ਗਲ ਵਿਚਿ = ਮੂੰਹ ਵਿਚ। ਧੂੜਿ = ਮਿੱਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

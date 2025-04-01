@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਇਹ ਜਿੰਦ ਤੇ ਇਹ ਸਰੀਰ ਸਭ ਤੇਰੀ ਬਖ਼ਸ਼ੀ ਹੋਈ ਦਾਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤਿ = ਜਿੰਦ। ਸੂਰਤਿ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

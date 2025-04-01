@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਤੇਰੇ ਮਨ ਵਿਚ (ਤੈਨੂੰ) ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿਬ = ਹੇ ਸਾਹਿਬ! ਮਨਿ = ਮਨ ਵਿਚ। ਭਾਵੈ = ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਇਸ (ਮਨੁੱਖੀ) ਮਨ ਦੀ ਭੈੜੀ ਹਾਲਤ ਕਿਸ ਨੂੰ ਦੱਸਾਂ (ਹਰੇਕ ਮਨੁੱਖ ਦਾ ਇਹੀ ਹਾਲ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = ਪੀੜਾ, ਦੁੱਖ, ਭੈੜੀ ਹਾਲਤ {व्यथा}। ਕਹਉ = ਕਹਉਂ, ਮੈਂ ਦੱਸਾਂ। ਕਉਨ ਸਿਉ = ਕਿਸ ਨੂੰ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

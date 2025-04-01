@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਸਮੁੰਦਰ ਹੈ) ਉਸ ਸਮੁੰਦਰ ਵਿਚ (ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ) ਰਤਨ ਹਨ, ਲਾਲ ਹਨ, ਮੋਤੀ ਮਾਣਕ ਹਨ, ਹੀਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

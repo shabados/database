@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮਦੇਵ ਦੇ ਪੈਰਾਂ ਵਿਚ ਬੇੜੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਹੁ = ਪੈਰਾਂ ਵਿਚ। ਹਾਥਹੁ = ਹੱਥਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

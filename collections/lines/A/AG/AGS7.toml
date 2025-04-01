@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ (ਧਾਰਮਿਕ) ਭੇਖ ਕੀਤਿਆਂ (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਨਹੀਂ ਬੁੱਝਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਖ = ਧਾਰਮਿਕ ਪੁਸ਼ਾਕ। ਅਗਨਿ = ਅੱਗ, ਲਾਲਚ ਦੀ ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

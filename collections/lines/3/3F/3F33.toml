@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਆਪ ਹੀ (ਨਿਰਗੁਣ ਸਰੂਪ ਵਿਚ) ਇਕੋ ਇਕ ਹਸਤੀ ਹੈ, ਤੇ, ਆਪ ਹੀ (ਸਰਗੁਣ ਸਰੂਪ ਵਿਚ) ਅਨੇਕਾਂ ਰੂਪਾਂ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਇਕ ਰੰਗੁ = ਇਕ ਸਰੂਪ ਵਾਲਾ। ਬਹੁ ਰੰਗੀ = ਅਨੇਕਾਂ ਸਰੂਪਾਂ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

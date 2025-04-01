@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨ ਆਖਦੇ ਹਨ ਕਿ ਮੇਰੇ ਪ੍ਰਭੂ ਦੇ ਘਰ ਵਿਚ ਖ਼ੁਸ਼ੀ ਸਦਾ ਖ਼ੁਸ਼ੀ ਹੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲਾ = ਮੰਗਲ, ਖ਼ੁਸ਼ੀ। ਮੇਰੇ ਪ੍ਰਭ ਕੈ = ਮੇਰੇ ਪ੍ਰਭੂ ਦੇ ਘਰ ਵਿਚ। ਸੁਣੀਐ = ਸੁਣਿਆ ਜਾਂਦਾ ਹੈ, ਸੰਤ ਜਨ ਆਖਦੇ ਹਨ ਕਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

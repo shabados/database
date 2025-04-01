@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਹਿਲਾਦ ਨੂੰ (ਉਸ ਦੇ ਪਿਉ ਹਰਨਾਖਸ਼ ਨੇ) ਪਾਠਸ਼ਾਲਾ ਵਿਚ ਪੜ੍ਹਨ ਘੱਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਠਾਏ = ਘੱਲਿਆ। ਪੜਨਸਾਲ = ਪਾਠਸ਼ਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

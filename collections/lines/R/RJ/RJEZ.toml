@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਅਸਾਂ ਬਹੁਤ ਵਿਚਾਰ ਵਿਚਾਰ ਕੇ ਇਹ ਸਿੱਟਾ ਕੱਢਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਧਤ = ਵਿਚਾਰਦਿਆਂ। ਸੋਧਿ = ਵਿਚਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

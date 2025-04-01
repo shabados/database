@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਹੀ ਮੌਲਾ ਸਭਨਾਂ ਦੇ) ਦਿਲਾਂ ਦਾ ਮਾਲਕ ਹੈ, (ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਉਹ ਸਦਾ) ਹੱਕੋ-ਹੱਕ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਕੁ = ਹੱਕ, ਨਿਆਂ, ਇਨਸਾਫ਼। ਕਰੇ ਹਾਕੁ = ਹੱਕੋ-ਹੱਕ ਕਰਦਾ ਹੈ, ਨਿਆਂ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

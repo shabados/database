@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਇਸ 'ਨਾਮ' ਦੀ ਬਰਕਤਿ ਨਾਲ) ਦੁੱਖ ਤੇ ਸੁਖ ਨੂੰ ਇਕ-ਸਮਾਨ ਸਹਾਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਪ ਛਾਵ = ਦੁੱਖ ਤੇ ਸੁਖ। ਸਮ = ਬਰਾਬਰ, ਇਕ-ਸਮਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

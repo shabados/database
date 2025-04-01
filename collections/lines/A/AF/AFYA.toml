@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਭੁੱਲ ਜਾਂਦਾ ਹੈ, ਉਹੀ ਮਨੁੱਖ ਗੰਦਾ ਹੈ, ਕੰਗਾਲ ਹੈ, ਨੀਚ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਉਹੀ ਮਨੁੱਖ। ਮਲੀਨੁ = ਮੈਲਾ, ਗੰਦਾ। ਦੀਨੁ = ਕੰਗਾਲ। ਹੀਨੁ = ਨੀਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

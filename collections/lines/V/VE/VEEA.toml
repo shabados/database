@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦਾਸਾਂ ਦੀ (ਕੀਤੀ ਹੋਈ ਸੇਵਾ-ਸਿਮਰਨ ਦੀ) ਮਿਹਨਤ ਸਫਲ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਕ ਘਾਲ = ਸੇਵਕ ਦੀ ਮਿਹਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

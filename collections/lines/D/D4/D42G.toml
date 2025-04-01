@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੰਡਿਤ ਲੋਕ) ਵੇਦ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ) ਪੜ੍ਹਦੇ ਹਨ, (ਪਰ ਜੇ ਉਹ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨੂੰ (ਜੀਵਨ-ਮਨੋਰਥ) ਨਹੀਂ ਸਮਝਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਹਿ = ਪੜ੍ਹਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

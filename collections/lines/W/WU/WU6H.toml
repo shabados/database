@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਉਤੇ ਚਿੰਤਾ ਦੀ ਅੱਗ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਗ = ਚਿੰਤਾ। ਬਿਆਪੈ = ਜ਼ੋਰ ਪਾਂਦੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

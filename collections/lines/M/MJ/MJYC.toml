@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦ ਨਿਸਚਾ ਕਰ ਕੇ ਜਾਣ ਲਵੋ ਕਿ, ਇਹ ਸਭ ਕੰਮ ਫੋਕੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੋਕਟ = ਫੋਕੇ, ਵਿਅਰਥ। ਨਿਸਚਉ = ਨਿਸ਼ਚੇ ਕਰ ਕੇ, ਯਕੀਨਨ, ਜ਼ਰੂਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

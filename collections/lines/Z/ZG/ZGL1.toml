@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੂੰ ਕਾਮ ਕ੍ਰੋਧ ਵਿਚ ਤੂੰ ਮੋਹ ਦੇ ਖੂਹ ਵਿਚ ਪਿਆ ਹੋਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰੋਧਿ = ਕ੍ਰੋਧ ਵਿਚ। ਕੂਪਿ = ਖੂਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

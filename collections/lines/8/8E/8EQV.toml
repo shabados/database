@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੱਗ ਨਾਲ ਸਾੜ ਸੁੱਟਾਂ, ਤੇ (ਆਪਣੇ ਆਪ ਨੂੰ) ਸੁਆਹ ਨਾਲ ਰਲਾ ਦਿਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ = ਨਾਲ। ਜਾਲੀਆ = ਜਾਲੀਆਂ, ਜੇ ਮੈਂ ਸਾੜ ਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

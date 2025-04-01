@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਰ-ਜਵਾਨੀ ਵੇਲੇ ਵਿਕਾਰਾਂ ਵਿਚ ਲੱਗਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਿ ਜੋਬਨਿ = ਭਰੇ ਜੋਬਨ ਵਿਚ, ਭਰੀ ਜਵਾਨੀ ਵਿਚ। ਦੁਰਗੰਧ = ਗੰਦੇ ਕੰਮਾਂ ਵਿਚ, ਵਿਕਾਰਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

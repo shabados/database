@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਥੇ ਦੁਨੀਆ ਵਾਲੀ ਜਾਇਦਾਦ ਨਹੀਂ ਅਤੇ ਨਾਹ ਹੀ ਉਸ ਜਾਇਦਾਦ ਨੂੰ ਮਸੂਲ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਸਵੀਸ = ਸੋਚ, ਘਬਰਾਹਟ। ਖਿਰਾਜ = ਕਰ, ਮਸੂਲ, ਟੈਕਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

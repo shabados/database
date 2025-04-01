@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਵਿਚ) ਪਰਮਾਤਮਾ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ ਜਿਸ ਦਾ ਡਰ ਮੰਨਿਆ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ। ਅਉਰੁ = ਹੋਰ। ਤਾ ਕਾ = ਉਸ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

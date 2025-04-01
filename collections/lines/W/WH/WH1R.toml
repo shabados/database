@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਨਹੀਣ ਜਾਣਦਾ, ਕਿ ਮੈਣ ਕੌਣ ਹਾਣ, ਮੈਣ ਕੌਣ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਨਦਾਨਮ ਕਿ ਕੁਦਾਮਮ ਕਿ ਕੁਦਾਮਮ ਕਿ ਕੁਦਾਮਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

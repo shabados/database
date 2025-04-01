@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਕਿਵੇਂ ਸਮਝੇ ਤੇ ('ਦੁੱਤਰ ਸਾਗਰ' ਦੇ) ਪਾਰਲੇ ਕੰਢੇ ਲੱਗੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰੁ = ਪਾਰਲਾ ਬੰਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

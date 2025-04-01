@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀਆਂ ਬਖਸ਼ਿਸ਼ਾਂ ਅਤੇ ਮਿਹਰਾਂ ਬੇਸ਼ੁਮਾਰ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰਮਹਾ ਵ ਅਫ਼ਜ਼ਾਲਿ ਊ ਬੇ ਹਸਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਮਧੁਸੂਦਨ ਤੇ ਦਾਮੋਦਰ ਭੀ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧੁਸੂਦਨ = ਮਧੂ ਦੈਂਤ ਨੂੰ ਮਾਰਨ ਵਾਲਾ। ਦਾਮੋਦਰ = {ਦਾਮ-ਉਦਰ} ਜਿਸ ਦੇ ਪੇਟ ਦੇ ਦੁਆਲੇ ਰੱਸੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

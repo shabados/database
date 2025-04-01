@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜੇ ਸਾਵਣ ਦੇ ਮਹੀਨੇ ਮੀਂਹ ਪਏ ਤਾਂ ਚਾਰ ਧਿਰਾਂ ਨੂੰ ਚਾਉ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਵਣਿ = ਸਾਵਣ (ਦੇ ਮਹੀਨੇ) ਵਿਚ। ਓਮਾਹਾ = ਚਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

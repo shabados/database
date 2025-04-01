@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਮੁਖੜਾ ਰੱਬ ਦੀ ਰਹਿਮਤ ਸਦਕਾ ਸਦਾ ਰੌਸ਼ਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁਖ਼ਸ਼ ਰੌਸ਼ਨ ਅਜ਼ ਰਹਿਮਤਿ ਕਿਬਰੀਆ ।੧੭੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

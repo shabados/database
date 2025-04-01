@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸਾਨ (ਆਜੀਵਕਾ ਵਾਸਤੇ) ਖੇਤੀ-ਵਾਹੀ ਕਰਦੇ ਹਨ (ਕਰਨੀ ਭੀ ਚਾਹੀਦੀ ਹੈ, ਪਰ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਇਹ ਖੇਤੀ-ਵਾਹੀ) ਬੰਧਨ ਬਣ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਤੀ = ਖੇਤੀ, ਵਾਹੀ। ਕਰਹਿ = ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

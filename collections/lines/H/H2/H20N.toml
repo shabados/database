@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਕੇਹੜਾ ਕੇਹੜਾ ਔਗੁਣ ਚਿਤਾਰੀਏ?) ਇਹ ਜੀਵ (ਤਾਂ) ਸਦਾ ਹੀ ਭੁੱਲਾਂ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹੁ = ਇਹ (ਜੀਵ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

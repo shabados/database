@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਦੀ) ਹਰੇਕ ਸ਼ੈ ਉਸ ਦੀ ਬਣਾਈ ਹੋਈ ਹੈ, ਉਹ ਬਨਾਉਣ ਜੋਗਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨੈਹਾਰੁ = ਕਰਨ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

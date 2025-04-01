@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਅਤੇ ਰਾਤ (ਇਹ ਭੀ ਮੇਰੇ ਕਰਮਾਂ ਦੀ) ਗਵਾਹੀ ਦੇ ਕੇ (ਇਹੀ ਕਹਿ ਰਹੇ ਹਨ ਕਿ ਮੈਂ ਮੰਦ-ਕਰਮੀ ਹਾਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਨਿ = ਰਾਤ। ਸਾਖਿ = ਗਵਾਹੀ। ਸੁਨਾਇ = ਸੁਣਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

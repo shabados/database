@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਵਰੇ! (ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦਾ) ਝੂਠਾ ਅਹੰਕਾਰ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਕੀਚੈ = ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ। ਕੂੜਾ = ਝੂਠਾ। ਮਾਨੋ = ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

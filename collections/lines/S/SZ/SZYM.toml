@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਮਨੁੱਖ ਐਸੇ ਹਨ ਜੋ (ਭਗਤੀ ਦੇ ਗੀਤ) ਗਾਂਦੇ ਹਨ ਤੇ ਰਾਸਾਂ ਪਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਗਤਿ ਕਰੇਹਿ = ਰਾਸਾਂ ਪਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

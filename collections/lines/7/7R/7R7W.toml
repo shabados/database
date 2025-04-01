@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਯਾਦ ਬਿਨਾ ਮੈਨੂੰ ਜੀਊਣ ਦਾ ਭਲਾ ਕੀ ਫਾਇਦਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਗ਼ੈਰ ਯਾਦਿ ਤੂ ਜ਼ੀਂ ਜ਼ੀਸਤਨ ਚਿਹ ਸੂਦ ਮਰਾ ।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

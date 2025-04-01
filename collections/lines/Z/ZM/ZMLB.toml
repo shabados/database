@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੁਫਰ ਅਤੇ ਦੀਨ ਦੇ ਝਗੜੇ ਤੋਣ ਮੇਰਾ ਦਿਲ ਪਰੇਸ਼ਾਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਨਿਜ਼ਾਇ ਕੁਫ਼ਰੋ ਦੀਣ ਦਿਲ ਬਰਹਮ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

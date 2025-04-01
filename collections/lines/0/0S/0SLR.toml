@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣਦਿਆਂ ਆਤਮਕ ਜੀਵਨ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਓ = ਆਤਮਕ ਜੀਵਨ ਮਿਲਦਾ ਹੈ। ਜਾਸੁ = {यस्य} ਜਿਸ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਖ਼ੁਸ਼ੀ ਜਾਂ ਗ਼ਮੀ ਭੀ ਇਸ ਉਤੇ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖੁ = ਖ਼ੁਸ਼ੀ। ਸੋਗੁ = ਫ਼ਿਕਰ। ਇਸ ਕਾ = {ਲਫ਼ਜ਼ 'ਇਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕਾ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਤਾਣ ਪਾਣੀ ਦਾ ਇੱਕ ਕਤਰਾ ਹੈਣ, ਤੇ ਇਹ ਨੂਰ ਉਸ ਰੱਬ ਵੱਲੋਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਤਰਾਇ ਆਬੀ ਨੂਰਿ ਜ਼ਾਤਿਸ਼ ਅਸਤ ।੫੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੂੰ ਅਚਾਨਕ ਮੈਂ ਆਪਣੇ ਘਰ ਅੰਦਰ ਹੀ ਦੇਖ ਲਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਫ਼ਤਮ ਨਾਗਾਹ ਦਰ ਕਾਸ਼ਾਨਾਇ ।੪੧੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

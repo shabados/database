@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦੇ ਮੋਹ; ਤ੍ਰਿਸ਼ਨ ਦੀ ਅੱਗ, ਚਿੰਤਾ ਦੇ ਸਮੁੰਦਰ ਵਿਚੋਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਨ = ਨਾਸਵੰਤ। ਅਗਨਿ = (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ। ਸੋਕ = ਸ਼ੋਕ, ਚਿੰਤਾ। ਸਾਗਰ = ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇੱਥੇ ਦੱਸੋ, ਕਿਸ ਦੀ ਮਾਂ? ਕਿਸ ਦਾ ਪਿਉ? ਤੇ ਕਿਸ ਦੀ ਵਹੁਟੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾ ਕੀ = ਕਿਸ ਦੀ? ਜੋਈ = ਜੋਰੂ, ਇਸਤ੍ਰੀ, ਵਹੁਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

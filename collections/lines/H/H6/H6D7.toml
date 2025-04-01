@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਿਫਤਾਂ ਕਰਕੇ ਸੁੰਦਰ ਹੈ ਅਤੇ ਸਿਫਤਾਂ ਵਿਚ ਸੰਪੂਰਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਮੀਮੁਲ ਸਫ਼ਾਤੋ ਜਜ਼ੀਲੁਲ ਸਨਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

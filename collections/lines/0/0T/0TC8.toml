@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਇਸ (ਐਸੇ ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਵੱਸਦਾ ਰਹਿੰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਪੂਰਾ ਗੁਰੂ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਦੀ ਦਾਤ ਬਖ਼ਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤੁ = ਇਸ ਵਿਚ। ਘਰਿ = ਘਰ ਵਿਚ। ਇਤੁ ਘਰਿ = ਇਸ ਘਰ ਵਿਚ। ਜਿਸੁ = ਜਿਸ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

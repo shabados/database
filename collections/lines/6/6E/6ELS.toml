@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਪਰਮਾਤਮਾ ਨੇ ਜਿਹੋ ਜਿਹੀ ਕਾਰੇ ਜੀਵ ਨੂੰ ਲਾਉਣਾ ਹੈ, ਜੀਵ ਨੇ ਉਸੇ ਕਾਰੇ ਲੱਗਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਈ = ਉਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

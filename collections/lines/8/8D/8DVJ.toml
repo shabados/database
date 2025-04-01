@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਬਿਨਾ ਅੰਨ੍ਹੇ (ਸਾਕਤ) ਦਾ ਸਰੀਰ (ਹੀ) ਕਿਸੇ ਕੰਮ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨੁ ਅੰਧ = ਅੰਨ੍ਹੇ ਦਾ ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗਰੀਬਾਂ ਦਂ ਰਾਖਾ। ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ: ਰੱਬ ਦੀ ਰਖਿਆ ਵਿਚ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਸਿਰੋ ਮਨਸੂਰ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 105
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

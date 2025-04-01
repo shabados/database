@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਝੱਲੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਰੱਸ ਚੱਖ, ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵਲੇ = ਕਮਲੇ! ਸਾਦੁ = ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

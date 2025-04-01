@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜੇ ਮਨੁੱਖ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਵੱਸ ਰਹੇ ਨਾਮ-ਪਦਾਰਥ ਨੂੰ ਛੱਡ ਦੇਂਦੇ ਹਨ, ਤੇ, ਬਾਹਰ ਭਟਕਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ, ਸਰੀਰ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਵਥ = ਵਸਤੁ, ਨਾਮ-ਪਦਾਰਥ। ਛੋਡਹਿ = ਛੱਡ ਦੇਂਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}। ਧਾਵਹਿ = ਦੌੜਦੇ ਹਨ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

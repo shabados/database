@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਦੋਂ ਜਮਰਾਜ (ਮਨੁੱਖ ਦੇ) ਗਲ ਵਿਚ ਮੌਤ ਦੀ ਫਾਹੀ ਪਾ ਦੇਂਦਾ ਹੈ, ਤਦੋਂ ਉਹ ਉਸ ਦੀ ਸਾਰੀ ਸੁਧ-ਬੁਧ ਭੁਲਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਾਸ = ਫਾਹੀ। ਕਾਲ = ਮੌਤ। ਗਰ ਮਹਿ = ਗਲ ਵਿਚ। ਮੇਲੀ = ਪਾ ਦਿੱਤੀ। ਤਿਹ = ਉਸ ਦੀ। ਸੁਧਿ = ਹੋਸ਼। ਬਿਸਰਾਈ = ਭੁਲਾ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

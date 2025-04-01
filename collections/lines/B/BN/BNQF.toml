@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵਿਰਲਾ ਹੀ (ਲੱਭਦਾ) ਹੈ (ਇਹੋ ਜਿਹਾ ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਨੇ) ਆਪਣਾ ਬਣਾ ਲਿਆ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤ = ਕੀਤਾ ਹੈ, ਬਣਾਇਆ ਹੈ। ਆਪਨ = ਆਪਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ! ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ (ਕਿਸੇ ਹੋਰ ਨਾਲ) ਮੈਂ ਪ੍ਰੇਮ (ਦੀ ਖੇਡ) ਨਹੀਂ ਖੇਡਾਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ! ਖੇਲਸਾ = ਖੇਲਸਾਂ; ਮੈਂ ਖੇਡਾਂਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

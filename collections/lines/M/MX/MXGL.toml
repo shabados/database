@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ਸਾਰੇ ਰੂਪਾਂ ਤੇ ਰੰਗਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਤਿ ਪੋਤਿ = ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ। ਰਵਿਆ = ਵਿਆਪਕ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

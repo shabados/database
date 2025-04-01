@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! (ਪਰਮਾਤਮਾ ਦੇ) ਦਰ ਦੀ ਫ਼ਕੀਰੀ ਔਖੀ (ਕਾਰ) ਹੈ, ਤੇ ਮੈਂ ਦੁਨੀਆਦਾਰਾਂ ਵਾਂਗ ਹੀ ਤੁਰ ਰਿਹਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਖੜੀ = ਔਖੀ। ਦਰਵੇਸੀ = ਫ਼ਕੀਰੀ। ਦਰ = (ਪਰਮਾਤਮਾ ਦੇ) ਦਰ ਦੀ। ਭਤਿ = ਭਾਂਤਿ, ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

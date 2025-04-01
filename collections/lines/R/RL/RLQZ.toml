@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦਾ ਨਿੰਦਕ ਭੀ ਇਕੱਲਾ ਛੁੱਟੜ ਪਿਆ ਰਹਿੰਦਾ ਹੈ (ਕੋਈ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੁਟੈ = ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

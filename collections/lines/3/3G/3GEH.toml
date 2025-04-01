@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਕਿੰਨੇ ਪਰਚੂਨੀਏ, ਕਿੰਨੇ ਬਜ਼ਾਰਾਂ ਦੇ ਦਲਾਲ ਹਨ।"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਪਰਚੂਨੀਏ=ਥੋਕ ਵਾਲਿਆਂ ਤੋ ਮਾਲ ਕੱਠਾ ਲੈ ਕੇ ਥੋੜਾ ਥੋੜਾ ਵੇਚਣ ਵਾਲੇ।"

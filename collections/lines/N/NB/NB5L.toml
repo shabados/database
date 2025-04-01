@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਅਸਲ) ਇੱਜ਼ਤ ਉਸੇ ਦੀ ਹੀ ਹੈ, ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਕਬੂਲ ਕਰ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = (ਅਸਲ) ਇੱਜ਼ਤ। ਪਰਵਾਨੁ = ਕਬੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

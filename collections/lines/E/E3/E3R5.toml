@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ (ਧੁਰੋਂ) ਲਿਖੇ ਹੋਏ (ਉਮਰ ਦੇ) ਦਿਨ ਜਦੋਂ ਮੁੱਕ ਜਾਂਦੇ ਹਨ, ਤਾਂ ਧਰਮਰਾਜ ਦੇ ਦੂਤਾਂ ਨੂੰ ਵੇਖਿਆਂ ਬੜੀ ਤਕਲੀਫ਼ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਜਿ ਆਏ = ਮੁੱਕ ਗਏ। ਦਿਵਸ = ਜ਼ਿੰਦਗੀ ਦੇ ਦਿਨ। ਮਾਏ = ਹੇ ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

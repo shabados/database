@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਤੂੰ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈਂ, ਉਹ ਸਦਾ ਤੈਨੂੰ ਯਾਦ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੇ = ਹੇ ਕਰਤਾਰ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

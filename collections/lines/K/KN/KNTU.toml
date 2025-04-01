@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਭ ਤੋਂ ਉੱਚਾ ਹੈਂ, ਤੂੰ ਬੜਾ ਬੇਅੰਤ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਾਰੁ = ਬੇਅੰਤ, ਜਿਸ ਦੀ ਹਸਤੀ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ {ਅ-ਪਾਰੁ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

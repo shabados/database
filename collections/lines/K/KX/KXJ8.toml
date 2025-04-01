@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੁਰਬਾਨ ਜਾਈਏ ਉਸ ਮਿੱਟੀ ਤੋਂ ਜਿਹੜੀ ਪਰਕਾਸ਼ਮਾਨ ਹੋ ਗਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਖ਼ਾਕੇ ਕਿ ਨੂਰ-ਅਫ਼ਰੋਜ਼ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

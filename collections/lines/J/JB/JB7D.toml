@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਮਾਇਆ ਉਸ ਚੀਜ਼ ਵਰਗੀ ਹੈ ਜੋ) ਮੂੰਹ ਵਿਚ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ, ਪਰ ਖਾਧਿਆਂ ਕੌੜਾ ਸੁਆਦ ਦੇਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਵਿਚ। ਖਾਈ = ਖਾਧੀ ਹੋਈ। ਕਉਰਾਇ = ਕੌੜਾ ਸੁਆਦ ਦੇਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

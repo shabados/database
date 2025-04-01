@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਫੜ (ਕਿ ਮੈਂ ਭਗਤੀ ਕਰਦਾ ਹਾਂ) ਹਰ ਕੋਈ ਹਰ ਵੇਲੇ ਮਾਰ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ ਕਹਿ ਕਹੈ = ਆਖ ਆਖ ਕੇ ਆਖਦਾ ਹੈ, ਸਦਾ ਫੜਾਂ ਮਾਰਦਾ ਹੈ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਪ੍ਰਾਣੀ (ਇਕ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

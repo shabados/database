@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਗੋਬਿੰਦ ਐਸਾ ਹੈ ਕਿ) ਉਸ ਦੇ ਦਰ ਤੇ ਕ੍ਰੋੜਾਂ (ਸੰਖ ਆਦਿਕ) ਨਾਦ ਪੂਰੇ (ਵਜਾਏ) ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ = ਜਿਸ ਦੇ ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

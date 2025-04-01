@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਤੇ ਉਸਦਾ ਕੀਰਤਨ ਕਰਨਾ-ਇਹੋ (ਜੀਵ ਲਈ) ਵੱਡੀ (ਕਰਣੀ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡੀ = ਵਡੀ ਕਰਣੀ, ਸਭ ਤੋਂ ਚੰਗਾ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

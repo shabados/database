@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਹ ਆਮ ਪ੍ਰਚਲਤ ਖ਼ਿਆਲ ਹੈ ਕਿ) ਤ੍ਰੇਤੇ ਜੁਗ ਵਿਚ ਇਕ ਕਲਾ ਦੂਰ ਕਰ ਦਿੱਤੀ ਗਈ (ਧਰਮ-ਬਲਦ ਦਾ ਇੱਕ ਪੈਰ ਨਕਾਰਾ ਹੋ ਗਿਆ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰੇਤੈ = ਤ੍ਰੇਤੇ ਜੁਗ ਵਿਚ। ਕਲ = ਕਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

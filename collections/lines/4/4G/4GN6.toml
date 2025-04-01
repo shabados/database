@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਮਾਣ ਛੱਡ ਅਹੰਕਾਰ ਤਿਆਗ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਤਿਆਗ ਦੇ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਧੂਆ ਕੈ ਸੰਗ = ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

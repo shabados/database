@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਸਮਝ ਲੈ ਕਿ ਉਹੀ ਫਸਦਾ ਹੈ ਜੋ ਕਹਿੰਦਾ ਹੈ 'ਮੈਂ ਹਾਂ' 'ਮੈਂ ਹਾਂ',"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਂਦਾ = ਜੋ ਕਹੇ 'ਮੈਂ ਹਾਂ', (ਭਾਵ,) ਹਉਮੈ ਵਾਲਾ, ਅਹੰਕਾਰੀ। ਫੜੀਅਗੁ = ਫੜਿਆ ਜਾਇਗਾ। ਜਾਣੁ = ਜਾਣ ਲੈ, ਸਮਝ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

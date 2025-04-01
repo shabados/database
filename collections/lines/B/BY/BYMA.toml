@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੋਗੀ!) ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਨਾਮ-ਰਸ ਵਿਚ ਭਿੱਜ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਿ = ਨਾਮ ਦੇ ਰਸ ਵਿਚ। ਰਸਿਆ = ਭਿੱਜਾ ਹੋਇਆ। ਏਕੇ ਭਾਇ = ਇੱਕੋ ਦੇ ਪ੍ਰੇਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਮਨ! (ਜਿਹੜੇ ਮਨੁੱਖ ਨਾਮ ਜਪਦੇ ਹਨ, ਉਹ) ਜਮਾਂ ਦੇ ਵੱਸ ਨਹੀਂ ਪੈਂਦੇ ॥੨੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਹਿ ਨ = ਨਹੀਂ ਪੈਂਦੇ। ਧਾਮ = ਘਰ। ਜਮ ਕੈ ਧਾਮ = ਜਮ ਕੇ ਧਾਮਿ, ਜਮ ਦੇ ਘਰ ਵਿਚ, ਜਮ ਦੇ ਵੱਸ ਵਿਚ ॥੨੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

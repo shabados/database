@@ -5,6 +5,13 @@ language = "pa"
 data = "(ਰੱਬ ਕਰੇ) ਇਸ ਨੰਦ ਲਾਲ ਦੀ ਜਾਨ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਤੋਂ ਕੁਰਬਾਨ ਹੋਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦ ਜਾਨਸ਼ ਫ਼ਿਦਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 160
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

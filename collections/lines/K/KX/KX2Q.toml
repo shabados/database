@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ! ਸੂਰਜ) ਤੇਜ਼ ਰੌਸ਼ਨੀ ਕਰ ਕੇ (ਆਕਾਸ਼ ਵਿਚ) ਪਰਗਟ ਹੁੰਦਾ ਹੈ ਅਤੇ ਹਨੇਰੇ ਦਾ ਨਾਸ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਪ੍ਰਗਾਸੁ = ਪਰਕਾਸ਼, ਚਾਨਣ। ਪ੍ਰਚੰਡ = ਤੇਜ਼। ਅੰਧਕਾਰ ਬਿਨਾਸ = ਹਨੇਰੇ ਦਾ ਨਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

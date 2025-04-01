@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਗੁਰੂ ਇਹੋ ਜਿਹਾ ਉੱਚੀ  ਦਾਤ ਬਖ਼ਸ਼ਣ ਵਾਲਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੀਐ = ਕਿਹਾ ਜਾਂਦਾ ਹੈ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

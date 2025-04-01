@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਹੁੰ ਕੂਟਾਂ ਵਿਚ ਦਸੀਂ ਪਾਸੀਂ (ਸਭ ਥਾਈਂ) ਸਮਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁੰਟ = ਕੂਟ। ਦਿਸ = ਤਰਫ਼, ਪਾਸਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

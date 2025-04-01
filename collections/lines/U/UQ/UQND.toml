@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਜਮਨਾ ਅਤੇ ਹਜ਼ਾਰਾਂ ਗੰਗਾ ਵਰਗੇ ਦਰਿਆ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਚੂੰ ਜਮਨਾ ਹਜ਼ਾਰਾਂ ਚੂੰ ਗੰਗ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

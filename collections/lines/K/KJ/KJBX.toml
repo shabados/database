@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਉਸ ਦੇ) ਨਾਲ (ਅੰਤ ਵੇਲੇ) ਇਕ ਤੀਲੇ ਜਿਤਨੀ ਭੀ ਕੋਈ ਚੀਜ਼ ਨਹੀਂ ਜਾਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਣ = ਘਾਹ ਦਾ ਤੀਲਾ। ਸਮਾਨਿ = ਬਰਾਬਰ। ਸੰਗਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

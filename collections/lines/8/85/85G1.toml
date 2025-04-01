@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਤੂੰ ਕੇਡਾ ਵੱਡਾ ਹੈਂ ਇਹ ਗੱਲ ਤੈਨੂੰ ਵੇਖਿਆਂ ਹੀ ਦੱਸੀ ਜਾ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਵਡੁ = ਕੇਡਾ। ਡੀਠਾ = ਵੇਖਿਆਂ ਹੀ। ਹੋਈ = (ਬਿਆਨ) ਹੋ ਸਕਦਾ ਹੈ, ਦੱਸਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

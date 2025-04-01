@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਦੋਂ ਪੂਰਾ ਗੁਰੂ ਮਿਲਦਾ ਹੈ ਤਦੋਂ ਮਨ ਦੀ ਚਿੰਤਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਂ ਤਾਂ ਕੁਝ ਵੀ ਨਹੀਂ, ਇਹ ਸਭ ਕੁਝ ਤੇਰੀ ਹੀ ਬਖ਼ਸ਼ਿਸ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਨੀਅੱਮ ਈਂ ਜੁਮਲਾ ਅਜ਼ ਅਲਤਾਫ਼ਿ ਤੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

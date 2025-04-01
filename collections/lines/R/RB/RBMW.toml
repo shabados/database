@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮਰਾਜ ਜੀਵ ਦੇ ਗਲ ਵਿਚ (ਮੋਹ ਦਾ) ਸੰਗਲ ਪਾ ਕੇ ਇਸ ਦੇ ਸਿਰ ਉਤੇ ਖਲੋਤਾ ਚੋਟਾਂ ਮਾਰਦਾ ਹੈ, ਤਾਂ ਇਸ ਨੂੰ ਕੋਈ ਘਰ-ਬਾਹਰ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਿ = ਗਲ ਵਿਚ। ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਊਭੌ = ਖਲੋਤਾ ਹੋਇਆ। ਘਰ ਬਾਰੋ = ਘਰ ਘਾਟ, ਕੋਈ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

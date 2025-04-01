@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਦੇਹ, ਏਹੀ ਮੇਰੇ ਵਾਸਤੇ ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹਰੀ ਦਾ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ (ਤੇ, ਆਖਿਆ ਕਰ-ਹੇ ਪ੍ਰਭੂ!)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਾਮੁ ਨਰਹਰੀ = ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ {ਨਰਹਰੀ = ਨਰਸਿੰਘ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

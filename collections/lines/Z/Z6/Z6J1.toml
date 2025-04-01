@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਸਰੀਰ ਮਿੱਟੀ ਦੀ ਵਲਗਣ ਸੀ, ਸੋ ਆਖ਼ਰ ਮਿੱਟੀ ਦੀ ਇਹ ਉਸਾਰੀ ਢਹਿ ਹੀ ਪਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਦਾ = ਦਾ। ਕੋਟੁ = ਕਿਲ੍ਹਾ, ਵਲਗਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

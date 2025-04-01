@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਨੂੰ ਕੋਈ ਭੀ ਪਸੰਦ ਨਹੀਂ ਕਰਦਾ, ਮੌਤ ਦਾ ਉਹ ਸਮਾ ਜ਼ਰੂਰ ਆ ਜਾਂਦਾ ਹੈ (ਮਨੁੱਖ ਫਿਰ ਭੀ ਨਹੀਂ ਸਮਝਦਾ ਕਿ ਮੌਤ ਜ਼ਰੂਰ ਆਉਣੀ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਂਛਤ ਨਾਹੀ = ਪਸੰਦ ਨਹੀਂ ਕਰਦਾ। ਸੁ ਬੇਲਾ = ਉਹ ਵੇਲਾ, ਮੌਤ ਦਾ ਵੇਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਹਰੀ ਦਾ ਨਾਮ ਸਿਮਰੋ, ਇਕ ਪਲਕ ਵਿਚ ਸਾਰੇ ਪਾਪ ਕੱਟ ਦੇਵੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਬਿਖ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

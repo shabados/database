@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਭਗਤ ਤੇਰੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ, ਤੂੰ ਆਪਣੇ ਭਗਤਾਂ ਦੀ ਇੱਜ਼ਤ ਰੱਖ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਜ = ਲਾਜ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

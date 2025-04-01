@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ) ਇਸ ਸਰੀਰ ਤੇ ਕਈ ਸੁਗੰਧੀਆਂ ਮਹਿਕਾਉਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਆ ਦੇਹੀ = ਇਸ ਸਰੀਰ ਨੂੰ। ਪਰਮਲ = ਖ਼ੁਸ਼ਬੋਆਂ। ਮਹਕੰਦਾ = ਮਹਿਕਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

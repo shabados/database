@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਆਪਣੇ) ਇਸ ਮਨ ਨੂੰ (ਸਦਾ ਆਪਣੇ) ਵੱਸ ਵਿਚ ਰੱਖੋ। (ਮਨੁੱਖ ਦਾ ਇਹ) ਮਨ ਸਦਾ (ਸ਼ਿਕਾਰੀ ਪੰਛੀ) ਬਾਸ਼ੇ ਵਾਂਗ ਭਟਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਵੱਸ ਵਿਚ। ਵਸਿ ਆਣਿਹੁ = (ਆਪਣੇ) ਵੱਸ ਵਿਚ ਲਿਆਓ। ਕਉ = ਨੂੰ। ਬਾਸਾ = ਬਾਸ਼ਾ, ਇਕ ਸ਼ਿਕਾਰੀ ਪੰਛੀ। ਜਿਉ = ਵਾਂਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

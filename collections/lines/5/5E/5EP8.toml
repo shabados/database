@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਪ੍ਰਭੂ ਦਾ) ਸਦਾ-ਥਿਰ ਰਹਣ ਵਾਲਾ ਨਾਮ ਸਿਮਰ ਜੋ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੋ = ਹਰ ਥਾਂ। ਸਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

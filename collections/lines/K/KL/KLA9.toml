@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਦੋਂ ਹੋਰ ਭਟਕਣਾਂ ਮੁੱਕ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਾਨਿ = ਭਰਾਂਤੀ, ਭਟਕਣਾ। ਅਨ = {अन्य} ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

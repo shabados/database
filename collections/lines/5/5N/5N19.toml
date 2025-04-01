@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਮੁੜ ਮੁੜ) ਨਾਹ ਜੰਮਦੇ ਹਨ ਨਾਹ ਮਰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਆਵਾ-ਗਵਨ ਦਾ ਚੱਕਰ ਮੁੱਕ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

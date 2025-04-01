@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੋ ਜੋ ਨਿੱਤ ਸਵੇਰ ਤੋਂ ਹੀ ਭੌਂਕਣਾ ਸ਼ੁਰੂ ਕਰ ਦਿੰਦੀਆਂ ਹਨ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲਕੇ = ਨਿੱਤ। ਬਇਆਲਿ = ਸਵੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

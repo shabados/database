@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਨੁੱਖ ਦਾ ਮਨ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ ਰੱਜ ਜਾਂਦਾ ਹੈ ਉਸ ਦੇ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਸਾਰੇ ਬੰਧਨ ਟੁੱਟ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਨੋ = ਰੱਜ ਗਿਆ। ਜੰਜਾਲ = ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਬੰਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

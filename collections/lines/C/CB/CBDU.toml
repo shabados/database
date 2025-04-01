@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਤੂੰ (ਸਭ ਜੀਵਾਂ ਦਾ) ਮਾਂ ਪਿਉ ਮਾਲਕ ਤੇ ਸੱਜਣ ਹੈਂ, ਸਾਰਾ ਜਗਤ ਤੇਰੇ ਬੱਚੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਮਿ = ਮਾਲਕ। ਗੋਪਾਲਾ = ਹੇ ਗੋਪਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

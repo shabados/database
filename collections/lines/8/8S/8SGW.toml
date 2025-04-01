@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਇਹ ਵਧਾਇਆਂ ਰਤਾ ਭੀ ਵਧਦੇ ਹਨ, ਨਾਹ ਇਹ ਘਟਾਇਆਂ ਰਤਾ ਭਰ ਘਟਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਲੁ = ਰਤਾ ਭਰ ਭੀ। ਬਧਹਿ = ਵਧਦੇ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸਰੀਰ ਦੀ ਖ਼ਾਤਰ ਦੇਵਤੇ ਭੀ ਤਾਂਘਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ ਕਉ = ਸਰੀਰ ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

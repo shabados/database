@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇ ਤੇਰਾ ਕਦੀ ਉਸ ਰੱਬ ਦੀ ਜ਼ਾਤ ਨਾਲ ਮਿਲਾਪ ਹੋ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਤੂ ਵਾਸਿਲ ਗਸ਼ਤਾਈ ਦਰ ਜ਼ਾਤਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

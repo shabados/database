@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕ ਆਖਦੇ ਹਨ ਕਿ) ਲੰਕਾ ਦਾ ਕਿਲ੍ਹਾ ਸੋਨੇ ਦਾ ਬਣਿਆ ਹੋਇਆ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਢੁ = ਕਿਲ੍ਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

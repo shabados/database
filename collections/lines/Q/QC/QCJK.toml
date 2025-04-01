@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਿੰਦੂ! ਮੈਨੂੰ ਹੁਕਮ ਕਰ (ਜੋ ਹੁਕਮ ਤੂੰ ਦੇਵੇਂਗਾ ਮੈਂ ਕਰਾਂਗਾ), ਮੈਨੂੰ ਬਖ਼ਸ਼, ਮੈਂ ਤੇਰੀ ਗਾਂ ਹਾਂ ॥੨੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖਸੀ = ਮੈਨੂੰ ਬਖ਼ਸ਼। ਹਿੰਦੂ = ਹੇ ਹਿੰਦੂ! ॥੨੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

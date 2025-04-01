@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਆਕਲ ਪੁਰਖ ਨੂੰ ਇਕਾਗਰ ਮਨ ਨਾਲ ਸਿਮਰ ਕੇ, ਜੋ ਬਖ਼ਸ਼ਿਸ਼ਾਂ ਕਰਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ ਮਨਿ = ਇਕ ਮਨ ਨਾਲ, ਇਕਾਗਰ ਹੋ ਕੇ। ਧਿਆਇ = ਸਿਮਰ ਕੇ, ਯਾਦ ਕਰ ਕੇ। ਬਰਦਾਤਾ = ਬਖ਼ਸ਼ਿਸ਼ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

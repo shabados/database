@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਲਈ) ਮੌਤ (ਦਾ ਡਰ ਹੀ) ਇਕ (ਐਸਾ) ਕੰਡਾ ਹੈ (ਜੋ ਹਰ ਵੇਲੇ ਦਿਲ ਵਿਚ ਚੁੱਭਦਾ ਹੈ) ਕੋਈ ਹੋਰ ਕੰਡਾ (ਭਾਵ, ਸਹਿਮ) ਇਸ ਵਰਗਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਟਕੁ = ਕੰਡਾ। ਕਾਲੁ = ਮੌਤ, ਮੌਤ ਦਾ ਸਹਿਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪੂਰਾ ਸਤਿਗੁਰੂ ਹੀ ਰੱਬ ਦੀ ਅਸਲ ਪਰਾਪਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਿਲਿ ਹੱਕ ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

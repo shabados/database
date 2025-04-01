@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਮਿਹਰ ਕਰ ਕੇ ਆਪ ਹੀ ਬਖ਼ਸ਼ ਲੈ, ਮੈਂ ਪਾਪੀ ਹਾਂ, ਗੁਨਾਹਗਾਰ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਬਖਸਿ ਲੈਹੁ = ਮੁਆਫ਼ ਕਰ, ਖਿਮਾ ਕਰ। ਹਉ = ਹਉਂ, ਮੈਂ। ਗੁਨਹਗਾਰੁ = ਗੁਨਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

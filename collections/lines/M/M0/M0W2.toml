@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਹੇ ਹਰੀ! ਹੇ ਲਾਲ! ਹੇ ਸੋਹਣੇ ਲਾਲ! (ਸਭ ਜੀਅ ਜੰਤ) ਸਾਰੇ ਤੇਰੇ ਹੀ ਰੂਪ ਹਨ ਤੇਰੇ ਹੀ ਰੰਗ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਸਭਿ = ਸਾਰੇ। ਲਾਲਨ = ਹੇ ਲਾਲ! ਲਾਲ ਗੁਲਾਰੇ = ਹੇ ਸੋਹਣੇ ਲਾਲ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

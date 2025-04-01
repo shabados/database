@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-(ਇਹੋ ਜਿਹੇ) ਸਿਆਣੇ ਅਸਵਾਰ (ਜੋ ਆਪਣੇ ਮਨ ਉੱਤੇ ਸਵਾਰ ਹੁੰਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਲੇ = ਚੰਗੇ, ਸਿਆਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

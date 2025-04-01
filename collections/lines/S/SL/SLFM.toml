@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਕਿਸੇ ਨ ਕਿਸੇ ਆਤਮਕ) ਰੋਗ ਵਿਚ (ਫਸਿਆ ਹੋਇਆ) ਹੀ ਮਰ ਜਾਂਦਾ ਹੈ, (ਕਿਸੇ ਨ ਕਿਸੇ ਆਤਮਕ) ਰੋਗ ਵਿਚ (ਗ੍ਰਸਿਆ ਹੋਇਆ) ਹੀ ਜੰਮਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੋਗੇ = ਰੋਗ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

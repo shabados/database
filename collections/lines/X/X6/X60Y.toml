@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ) ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ। (ਜਿਹੜਾ ਮਨੁੱਖ ਨਾਮ ਸਿਮਰਦਾ ਹੈ, ਉਸ ਵਲੋਂ ਪਰਮਾਤਮਾ ਆਪਣਾ) ਮੂੰਹ ਨਹੀਂ ਮੋੜਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ ਸਾਸਿ = ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ। ਨਹੀ ਮੋਰੈ = ਨਹੀਂ ਮੋੜਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

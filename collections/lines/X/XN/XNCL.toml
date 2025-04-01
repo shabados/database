@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਤੇਰਾ ਮਨੋਰਥ ਅਵੱਸ਼ ਸਮਪੂਰਨ ਹੋ ਜਾਵੇਗਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੌਹਰਿ ਮਕਸੂਦ ਤੂ ਹਾਸਿਲ ਸ਼ਵਦ ।੩੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਤਨਾ ਇਹ ਸਾਰਾ ਜਗਤ ਹੈ ਹਰੇਕ ਜੀਵ ਸਤਿਗੁਰੂ ਨੂੰ ਮਿਲਣ ਲਈ ਤਾਂਘਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੋ = ਨੂੰ। ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਜੇਤਾ = ਜਿਤਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

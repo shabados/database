@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਮਨੁੱਖ ਸਿਮਰਦਾ ਹੈ) ਉਹ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਹਿ ਕੇ ਨਰਕ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕਿ = ਨਰਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

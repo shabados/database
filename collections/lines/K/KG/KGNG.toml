@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪ੍ਰਭੂ ਆਪਣੀ ਦਇਆ ਕਰੇ ਤਾਂ (ਇਹ ਸ਼ਾਂਤੀ) ਸਾਰੇ ਜਗਤ ਵਿਚ (ਇਉਂ) ਵਰਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਇ = ਲੋਕਿ, ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

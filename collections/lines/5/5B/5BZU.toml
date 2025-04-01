@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੁਰਤਿ ਜੋੜ ਕੇ ਦਿਨ ਰਾਤ ਭਗਤੀ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵਿਚਾਰੇ ਬੰਦਿਓ! ਇਸ ਬੱਦਲ ਨੂੰ ਉੱਠ ਉੱਠ ਕੇ ਕੀਹ ਵੇਖਦੇ ਹਉ, ਇਸ ਦੇ ਆਪਣੇ ਵੱਸ ਕੁਝ ਨਹੀਂ (ਕਿ ਇਹ ਵਰਖਾ ਕਰ ਸਕੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਪੁੜੇਂ = ਹੇ ਵਿਚਾਰੇ ਬੰਦਿਓ! ਮੇਘ = ਬੱਦਲ। ਮੇਘੈ ਹਥਿ = ਬੱਦਲ ਦੇ ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

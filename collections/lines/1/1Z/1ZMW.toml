@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਵਿਚ ਰੱਤੇ ਤਾਣ ਸਦਾ ਹੀ ਪ੍ਰੇਮ ਦੇ ਕੁੱਠੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਸ਼ਿਕਾਣ ਦਾਰੰਦ ਚੂੰ ਇਸ਼ਕਿ ਮੁਦਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

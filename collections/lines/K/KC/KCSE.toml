@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਪ੍ਰਭੂ ਦੀ ਸ਼ਰਨ ਆ, ਉਸ ਤੋਂ ਸਦਾ ਹੀ ਸਦਕੇ ਹੋ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਾਗਤੀ = ਸਰਣ ਆਓ। ਸਦ ਸਦ = ਸਦਾ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

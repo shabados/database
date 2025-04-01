@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰ ਕੇ ਤੂੰ ਸਾਰੇ ਸੁਖ ਹਾਸਲ ਕਰ ਲਏਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਹਿ = ਤੂੰ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

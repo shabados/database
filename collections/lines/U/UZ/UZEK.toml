@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ! ਤੇਰੇ ਕਹਿਣ ਅਨੁਸਾਰ ਜੇ ਹੁਣ) ਕਲਿਜੁਗ ਦਾ ਸਮਾ ਹੀ ਆ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖੁ ਗੁਣਾ = (ਪਰਮਾਤਮਾ ਦੇ) ਗੁਣ ਆਖ। ਕਲਿ ਆਈਐ = (ਜੇ) ਕਲਿਜੁਗ (ਭੀ) ਆਇਆ ਮੰਨ ਲਿਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

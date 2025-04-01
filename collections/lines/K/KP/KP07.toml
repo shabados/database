@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਿਵੇਂ ਜਿਸ ਘਰ ਵਿਚ) ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਅਨੁਸਾਰ ਦਸੀਂ ਮਹੀਨੀਂ ਪੁੱਤਰ ਜੰਮਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸੀ ਮਾਸੀ = ਦਸੀਂ ਮਹੀਨੀਂ। ਹੁਕਮਿ = (ਪਰਮਾਤਮਾ ਦੇ) ਹੁਕਮ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

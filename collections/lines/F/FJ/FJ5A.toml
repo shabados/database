@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਾਰ ਵੇਦ ਸਿਮ੍ਰਿਤੀਆਂ ਸਾਸਤ੍ਰ ਆਦਿਕ ਧਾਰਮਿਕ ਪੁਸਤਕਾਂ (ਦੇ ਪੜ੍ਹਨ ਵਾਲੇ) ਤੇ ਛਿਆਂ ਭੇਖਾਂ ਦੇ ਸਾਧੂ ਭੀ ਅੰਤ ਨੂੰ ਚੱਲ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਟੁ ਦਰਸ = ਛੇ ਭੇਖਾਂ ਦੇ ਸਾਧ। ਸਮਾਸੀ = ਸਮਾ ਜਾਣਗੇ, ਮਰ ਜਾਣਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

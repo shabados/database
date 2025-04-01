@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਵਾਸੀਆਂ ਅਤੇ ਹਜ਼ਾਰਾਂ ਵਾਸਿਆਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਮਕੀਨੋ ਹਜ਼ਾਰਾਂ ਮਕਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

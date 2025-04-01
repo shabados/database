@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਮਨ ਦੀ ਸ਼ਾਂਤੀ ਮਿਲਦੀ ਹੈ, ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨ ਦੀ ਆਦਤ ਬਣਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜੁ = ਅਡੋਲ ਅਵਸਥਾ, ਮਨ ਦੀ ਸ਼ਾਂਤੀ। ਸਾਲਾਹ = ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਦੀ ਆਦਤ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

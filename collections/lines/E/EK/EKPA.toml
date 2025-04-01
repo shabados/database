@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਨੇ ਵਿਸ਼ਿਆਂ ਦਾ ਚੋਗਾ ਜਾਲ ਵਿਚ ਤਿਆਰ ਕਰ ਕੇ ਉਹ ਜਾਲ ਖਿਲਾਰਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਾਰਿਆ = ਖਿਲਾਰਿਆ। ਭੀਤਰਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

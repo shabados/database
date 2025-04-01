@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਆਪਣੀ ਹਿਰਸ ਹਵਸ ਤੋਣ ਭੱਜਨ ਦੀ ਇੱਛਾ ਰਖਦਾ ਹੈਣ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਖ਼ੁਦ ਹਵਸ ਮੈਲਿ ਰਮੀਦਨ ਦਾਰੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੂੰ ਦੁਨੀਆਣ ਦੇ ਗਮਾਣ ਤੋਣ ਆਜ਼ਾਦ ਹੇ ਜਾਵੇਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਯਾਬੀ ਅਜ਼ ਗ਼ਮਿ ਆਲਮ ਫ਼ਰਾਗ ।੪੭।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

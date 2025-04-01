@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਮੈਂ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੁਮਲਾਈ ਰਹਿੰਦੀ ਹਾਂ, ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਕੌਲ-ਫੁੱਲ ਕੁਮਲਾਇਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਬਾਝੁ = ਬਿਨਾ। ਉਡੀਣੀਆ = ਉਦਾਸ। ਕਮਲ = ਕੌਲ-ਫੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

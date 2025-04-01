@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਅਕਾਲ ਪੁਰਖ ਆਪਣੀ ਮੌਜ ਵਿਚ ਆਪਣੇ ਹੀ ਸਰੂਪ ਵਿਚ ਟਿਕਿਆ ਬੈਠਾ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਸਨ = ਤਖ਼ਤ, ਸਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

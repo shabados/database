@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਤੋਂ ਬਿਨਾ ਕੋਈ ਬੋਲਣ-ਜੋਗਾ ਨਹੀਂ ਹੋ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਵਾ = ਜੀਭ। ਕਹਾ = ਕਹਾਂ? ਕਿੱਥੇ? ਕੋ = ਕੋਈ। ਬਕਤਾ = ਬੋਲਣ-ਯੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

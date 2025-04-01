@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਦੇ ਸੰਤ ਜਨੋ! ਹੇ ਭਰਾਵੋ! ਸੁਣੋ, ਛੇਤੀ ਹੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਜਾਓ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰੁ ਸੇਵਿਹੁ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਜਾਓ। ਬੇਗਿ = ਛੇਤੀ। ਬੇਗਿ ਬੇਗਾਲੀ = ਬਹੁਤ ਛੇਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਕਿਸ ਨੇ ਤੈਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ? (ਭਾਵ, ਤੈਨੂੰ ਜਨਮ ਦੇਣ ਵਾਲਾ ਕੋਈ ਨਹੀਂ ਹੈ)। ਉਸ (ਪ੍ਰਭੂ) ਦਾ ਨਾ ਕੋਈ ਪਿਉ ਹੈ ਨਾ ਮਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨਿ = ਕਿਸ ਨੇ? ਤੂ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

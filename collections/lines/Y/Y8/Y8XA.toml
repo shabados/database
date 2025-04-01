@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਜਗਤ ਵਿਚ) ਮੋਹ ਕੂੜ ਤੇ ਜੰਜਾਲ (ਪ੍ਰਬਲ) ਹੈ, ਮੂਰਖ ਆਪ-ਹੁਦਰਾ ਮਨੁੱਖ ਇਸ ਵਿਚ ਰੱਤਾ ਹੋਇਆ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਗਧੁ = ਮੂਰਖ। ਕੁਟੰਬੁ = (ਭਾਵ,) ਘਰ ਦਾ ਜੰਜਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

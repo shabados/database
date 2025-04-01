@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀਆਂ ਬਰਕਤਾਂ ਅਤੇ ਬਖਸ਼ਿਸ਼ਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਸਿਲ ਅਜ਼ ਬਰਕਾਤਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੩੨।"
+page = 10
+line = 132
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

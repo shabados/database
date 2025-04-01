@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਨੇ 'ਨਾਮ' ਦੀ ਕਮਾਈ ਕੀਤੀ ਹੈ ਉਹੀ ਵਿਦਵਾਨ ਹੈ ਪੰਡਿਤ ਹੈ ਤੇ ਸਿਆਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੀਨਾ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

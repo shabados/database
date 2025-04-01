@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣ ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ। ਮੇਰੀ ਕੀਹ ਤਾਕਤ ਹੈ ਕਿ ਮੈਂ ਤੇਰੇ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਥੌ = ਜਿਸ ਦੇ ਗੁਣ ਕਥੇ ਨਹੀਂ ਜਾ ਸਕਦੇ। ਕਥਉ = ਮੈਂ ਬਿਆਨ ਕਰ ਸਕਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

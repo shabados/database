@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਹਜ ਸ਼ਿੰਗਾਰ ਵਿਬ ਉਹ ਸਿਰ ਤੋਂ ਪੈਰਾਂ ਤੱਕ ਹੁਸਨ ਹੀ ਹੁਸਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਜ਼ੇਬੋ ਤਜੱਈਅਨ ਸਰਾਪਾ ਜਮਾਲ ।੧੫੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

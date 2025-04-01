@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਵਿਚਾਰੇ ਕੀਹ ਕਰਨ? ਹੇ ਕਰਤਾਰ! ਹੇ ਗੋਬਿੰਦ! ਹੋ ਗੋਪਾਲ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾਰ = ਹੇ ਕਰਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

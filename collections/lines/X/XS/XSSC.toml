@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਨੇ ਜ਼ੱਰੇ ਨੂੰ ਚੰਨ ਬਣਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਜ਼ੱਰਾ ਰਾ ਚੂੰ ਮਾਹ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

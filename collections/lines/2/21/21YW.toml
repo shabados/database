@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰਾ ਦਰਸਨ ਮੰਗਦਾ ਹਾਂ (ਮੈਨੂੰ ਆਪਣੇ ਦਰਸਨ ਦੀ ਦਾਤਿ) ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗਉ = ਮਾਂਗਉ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

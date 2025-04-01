@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਨੇ ਸਤਿਗੁਰੂ ਦਾ ਪੱਲਾ ਫੜਿਆ ਹੈ, ਹੇ ਸੱਜਣ! ਉਹਨਾਂ ਦੇ ਸੰਗੀ-ਸਾਥੀ ਭੀ ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਥ = {सार्थ} ਕਾਫ਼ਲੇ, ਸੰਗੀ ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

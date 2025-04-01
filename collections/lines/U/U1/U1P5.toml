@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹਨਾਂ ਪਦਾਰਥਾਂ ਨੂੰ ਖਾਣ ਨਾਲ ਖ਼ੁਆਰ ਹੋਈਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਭਾਈ! ਖੁਆਰ = ਜ਼ਲੀਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

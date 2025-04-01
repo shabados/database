@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮਨ ਵਿਚ ਪ੍ਰਭੂ (ਸਦਾ) ਪ੍ਰੋਤਾ ਰਹਿੰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਤੋਂ ਇਕ ਖਿਨ ਲਈ ਭੀ ਜੁਦਾ ਨਹੀਂ ਹੁੰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਨ ਮੰਝਾਹਿ = ਮਨ ਵਿਚ। ਨ ਥੀਵੈ = ਨਹੀਂ ਹੁੰਦਾ। ਬਾਹਰਾ = ਜੁਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

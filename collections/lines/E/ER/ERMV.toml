@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਅਤਿਅੰਤ ਫ਼ਾਇਦਾ ਬਖ਼ਸ਼ਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਨਫ਼ੀਆ ਬਿਸੀਆਰ ਆਵੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

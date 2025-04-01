@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਪ੍ਰਭੂ ਨੇ ਆਪ ਜਗਤ ਦੀ ਖੇਡ ਰਚ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਪੰਚੁ = {Skt. प्रपंच} ਦ੍ਰਿਸ਼ਟਮਾਨ ਸੰਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

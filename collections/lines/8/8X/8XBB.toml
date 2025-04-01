@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾ ਹੀ ਮੰਗਣ ਵਿਚ ਸਾਡੀ ਮਨ-ਮਰਜ਼ੀ ਚੱਲਦੀ ਹੈ ਅਤੇ ਨਾ ਹੀ ਦੇਣ ਵਿਚ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਣਿ = ਮੰਗਣ ਵਿਚ। ਦੇਣਿ = ਦੇਣ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

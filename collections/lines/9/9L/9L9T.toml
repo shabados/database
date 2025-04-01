@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਤਨਾ ਚਿਰ ਪੁੱਤਰ ਇਸਤ੍ਰੀ ਗ੍ਰਿਹਸਤ (ਦੇ ਮੋਹ) ਦਾ ਫਾਹਾ (ਗਲ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤ੍ਰ = ਇਸਤਰੀ। ਗਿਰਸਤ = ਗ੍ਰਿਹਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਤੂੰ ਸਤਸੰਗੀਆਂ ਦੀ ਨਿਮਾਣੀ ਜਿਹੀ ਦਾਸੀ ਬਣੀ ਰਹੁ-ਬੱਸ! ਇਹ ਕਰਤੱਬ ਸਿੱਖ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਾ ਕੀ = ਸਤਸੰਗੀਆਂ ਦੀ। ਹੋਇ = ਬਣ ਜਾ। ਦਾਸਰੀ = ਨਿਮਾਣੀ ਜਿਹੀ ਦਾਸੀ। ਆਚਾਰਾ = ਕਰਤੱਬ। ਰੀ = ਹੇ (ਜਿੰਦੇ)!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਮੂਰਖਾਂ ਦੀ (ਕੋਈ ਜਾਇਦਾਦ ਆਤਮਕ ਜੀਵਨ ਦੇ ਰਸਤੇ ਵਿਚ) ਉਹਨਾਂ ਦੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੂ ਕਾਜਿ = ਕਿਸੇ ਕੰਮ ਵਿਚ। ਗਾਵਾਰ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

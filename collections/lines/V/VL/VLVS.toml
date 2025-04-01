@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਭਰਾ ਪੁੱਤਰ ਤੇ ਨੌਕਰ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਾਤ = ਭਰਾ। ਹਾਰੀ = ਹਾਲੀ, ਕਾਮੇ, ਨੌਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

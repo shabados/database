@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਮੈਂ ਵੇਖ ਲਿਆ ਹੈ ਕਿ ਉਹ ਸੋਹਣਾ ਪ੍ਰਭੂ ਬਹੁਤ ਉੱਚਾ ਹੈ ਸਭ ਨਾਲੋਂ ਉੱਚਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੀ = ਹੇ ਸਖੀ! ਪੇਖਿਓ = ਵੇਖਿਆ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

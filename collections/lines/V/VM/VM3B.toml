@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੇਰੇ ਉੱਤੇ ਮੇਹਰ ਕਰ (ਮੇਰੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦਾ ਮੋਹ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁਗ੍ਰਹੁ = ਕਿਰਪਾ। ਦੁਤੀਆ ਭਾਉ = ਦੂਜਾ ਪਿਆਰ, ਮੇਰ-ਤੇਰ, ਮਾਇਆ ਦਾ ਮੋਹ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

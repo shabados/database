@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜਗਿਆਸੂਆਂ ਵਾਂਗ ਉਹ ਸੰਸਾਰ ਤੋਂ ਵਿਰਕਤ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਸਰਿ ਦੁਨਿਆ ਚੂ ਮਰਦਾਂ ਦਰ ਗੁਜ਼ਰਤ ।੨੦੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

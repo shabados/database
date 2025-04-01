@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਕੰਮ ਹੋਰ ਸਾਰੀਆਂ ਧਾਰਮਿਕ ਰਸਮਾਂ ਨਾਲੋਂ ਉੱਤਮ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਆ = ਧਾਰਮਿਕ ਰਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

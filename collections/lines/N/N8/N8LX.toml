@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਚੰਚਲ ਕਾਮ! ਤੂੰ ਸੁਖ ਤਾਂ ਥੋੜਾ ਹੀ ਦੇਂਦਾ ਹੈਂ, ਪਰ ਇਸੇ ਨਾਲ ਤੂੰ ਜੀਵਾਂ ਨੂੰ (ਸੁੱਧ ਆਚਰਨ ਦੇ) ਧਨ ਤੋਂ ਸੱਖਣਾ ਕਰ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਪ = (अल्प) ਥੋੜਾ। ਅਵਿਤ = ਵਿੱਤ (ਧਨ) ਹੀਣ ਕਰਨ ਵਾਲਾ (वित = ਧਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਂ ਬੰਦਗੀ ਦੇ ਰੰਗ ਵਿਚ ਉਸ ਦੀ ਸ਼ਰਨ ਆਏ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਬਾਰੰਗ ਬੰਦਗੀ ਅੰਦਰ ਪਨਾਹ ।੨੨੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

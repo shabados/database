@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਤੇ ਤਾਂ ਇਹ) ਇਸਤ੍ਰੀ ਨੂੰ ਵੇਖ ਕੇ ਕਾਮ-ਵਾਸਨਾ ਵਿਚ ਫਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਣਿ = ਇਸਤ੍ਰੀ। ਕਾਮਿ = ਕਾਮ-ਵਾਸਨਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

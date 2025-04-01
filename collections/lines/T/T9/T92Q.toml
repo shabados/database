@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਮਾਂ ਆਪਣੇ ਬੱਚਿਆਂ ਦੀ ਸੰਭਾਲ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਮਾਰੇ = ਸੰਭਾਲਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

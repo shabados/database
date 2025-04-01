@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੂੰ ਆਦਰ ਮਿਲ ਰਿਹਾ ਹੈ (ਉਹ ਇਸ ਆਦਰ ਵਿਚ ਅਹੰਕਾਰੀ ਹੈ) ਕਿਸੇ ਦੀ ਨਿਰਾਦਰੀ ਹੋ ਰਹੀ ਹੈ (ਜਿਸ ਕਰਕੇ ਉਹ ਆਪਣੀ ਮਨੁੱਖਤਾ ਦਾ ਕੌਡੀ ਮੁੱਲ ਨਹੀਂ ਸਮਝਦਾ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਨੁ = ਇੱਜ਼ਤ। ਅਪਮਾਨੁ = ਨਿਰਾਦਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

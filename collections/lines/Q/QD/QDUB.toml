@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਦਰ ਤੇ ਕ੍ਰੋੜਾਂ ਸ਼ਿਵ ਜੀ ਤੇ ਕੈਲਾਸ਼ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾਦੇਵ = ਸ਼ਿਵ। ਕਬਿਲਾਸ = ਕੈਲਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

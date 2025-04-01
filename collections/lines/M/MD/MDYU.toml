@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਅਵਸਥਾ ਵਿਚ ਬੇਅੰਤ ਭਵਣ ਤੇ ਅਕਾਰ ਦਿੱਸਦੇ ਹਨ, (ਜਿਨ੍ਹਾਂ ਸਭਨਾਂ ਵਿਚ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਅ ਲੋਅ = ਕਈ ਲੋਕ, ਕਈ ਭਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

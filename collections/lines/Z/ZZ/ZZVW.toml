@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਨ੍ਹਾ ਮਨੁੱਖ (ਨਿਰਾ) ਸੁਣ ਕੇ ਕਿਵੇਂ ਰਾਹ ਲੱਭ ਲਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨਿ = ਸੁਣ ਕੇ। ਮਾਰਗੁ = ਰਸਤਾ। ਪਾਵੈ = ਲੱਭ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

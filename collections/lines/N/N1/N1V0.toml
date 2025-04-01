@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਪੈਦਾ ਕਰਦਾ ਹੈ ਆਪ ਨਾਸ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਥਾਪੇ = ਨਾਸ ਕਰਦਾ ਹੈ, ਉਖੇੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

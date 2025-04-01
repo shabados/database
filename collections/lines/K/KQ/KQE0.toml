@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੂੰ (ਮਾਨੋ) ਕਈ ਕਿਸਮ ਦੇ ਖਾਣੇ ਕੱਪੜੇ ਤੇ ਰਾਗ-ਰੰਗ ਹਾਸਲ ਹੋ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਪਰ = ਕੱਪੜੇ। ਸੰਗੀਤ = ਰਾਗ-ਰੰਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

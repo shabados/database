@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਹਣੇ ਰਾਗ ਆਪਣੇ ਪਰਵਾਰ ਤੇ ਰਾਣੀਆਂ ਸਮੇਤ (ਮੇਰੇ ਮਨ ਵਿਚ, ਮਾਨੋ,) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਵਣ ਆ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੀਆ = ਰਾਗਾਂ ਦੀਆਂ ਪਰੀਆਂ, ਰਾਗਣੀਆਂ। ਰਾਗ ਰਤਨ = ਸੋਹਣੇ ਰਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

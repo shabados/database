@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਤੂੰ ਹਰੇਕ ਥਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈਂ, ਸੰਸਾਰ ਦੀ ਸਾਰੀ ਬਣਤਰ ਤੇਰੀ ਹੀ ਬਣਾਈ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਨੰਤਰਿ = ਥਾਨ ਅੰਤਰਿ। ਥਾਨ ਥਨੰਤਰਿ = ਥਾਨ ਥਾਨ ਅੰਤਰਿ ਹਰੇਕ ਥਾਂ। ਕਰਤੇ = ਹੇ ਕਰਤਾਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

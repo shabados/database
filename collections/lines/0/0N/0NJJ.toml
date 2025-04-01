@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੰਦ ਨੂੰ (ਇਹ ਗੱਲ) ਸਮਝਾ ਕਿ (ਮੌਤ ਦਾ) ਇਹ ਮਿਥਿਆ ਹੋਇਆ ਸਮਾ ਟਲ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਚਲਨੀ = ਨਹੀਂ ਟਲ ਸਕਦੇ। ਜਿੰਦੁ ਕੂੰ = ਜਿੰਦ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

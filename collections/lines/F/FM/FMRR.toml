@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਤਾਰੇ ਜੋ ਅਕਾਸ਼ ਵਿਚ ਦਿੱਸ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਇ = {ਇਹ ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ 'ਬਹੁ-ਵਚਨ' (Plural) ਹੈ}। ਦੀਸਹਿ = ਦਿੱਸ ਰਹੇ ਹਨ। ਅੰਬਰਿ = ਅੰਬਰ ਵਿਚ, ਅਕਾਸ਼ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

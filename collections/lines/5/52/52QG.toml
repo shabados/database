@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਜਦੋਂ ਭੀ) ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ ਨੇ ਬੱਦਲ ਘੱਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮਿ = ਪਾਰਬ੍ਰਹਮ ਨੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਮੇਘ = ਬੱਦਲ। ਪਠਾਇਆ = ਭੇਜਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

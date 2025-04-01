@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਦਾ ਸਹਾਰਾ ਤੂੰ ਹੀ ਹੈਂ, ਨਾਨਕ ਦਾ ਤਾਣ ਤੂੰ ਹੀ ਹੈਂ ॥੪॥੫॥੧੪੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਕੀਆ = ਸਹਾਰਾ। ਤਾਣੁ = ਬਲ, ਤਾਕਤ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

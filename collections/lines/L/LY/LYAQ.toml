@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਨੇ ਮਾਇਆ ਨੂੰ ਨੱਕ ਤੋਂ ਕੱਟ ਦਿੱਤਾ ਹੈ, ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੱਟ ਕੇ ਪਰੇ ਸੁੱਟ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਕਹੁ = ਨੱਕ ਤੋਂ। ਕਾਟੀ = ਵੱਢ ਦਿੱਤਾ। ਕਾਨਹੁ = ਕੰਨ ਤੋਂ। ਕਾਟਿ ਕੂਟ ਕਰਿ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੱਟ ਕੇ। ਡਾਰੀ = ਪਰੇ ਸੁੱਟ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

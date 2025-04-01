@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਠਾਕੁਰ! (ਜਿਹੜੇ ਭੀ ਵਡਭਾਗੀ ਤੇਰੀ ਸਰਨ ਪੈਂਦੇ ਹਨ, ਉਹ) ਤੇਰਾ ਦਰਸਨ ਕਰ ਕੇ ਜਨਮਾਂ ਜਨਮਾਂਤਰਾਂ ਦੇ ਪਾਪ ਮਿਟਾ ਲੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਛਤ = ਪਾਪ। ਭੇਟਿ = ਭੇਟ ਕੇ, ਕਰ ਕੇ। ਮਿਟਾਹਿਓ = ਮਿਟਾ ਲੈਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

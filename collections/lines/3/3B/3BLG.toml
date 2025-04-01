@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੈਦਪੁਰ ਵਿਚੋਂ) ਹਯਾ ਤੇ ਧਰਮ ਦੋਵੇਂ ਲੋਪ ਹੋ ਚੁਕੇ ਹਨ, ਝੂਠ ਹੀ ਝੂਠ ਚੌਧਰੀ ਬਣਿਆ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਮੁ = ਸ਼ਰਮ, ਹਯਾ। ਪਰਧਾਨੁ = ਚੌਧਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

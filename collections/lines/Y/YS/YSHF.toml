@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੂਰੇ ਗੁਰੂ ਦੇ ਪ੍ਰਤਾਪ ਨਾਲ ਉਸ ਦੇ (ਸਾਰੇ) ਕਲੇਸ਼, ਦੁੱਖ ਤੇ ਰੋਗ ਦੂਰ ਹੋ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਾਪਿ = ਪ੍ਰਤਾਪ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

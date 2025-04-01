@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ ਵਿਚ ਤੂੰ ਆਪ ਹੀ ਬੋਲਦਾ ਹੈਂ, ਹਰੇਕ ਜੀਵ ਦੀ ਤੂੰ ਆਪ ਹੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈਂ (ਤੂੰ ਹੀ ਕਰਦਾ ਹੈਂ) ਜਿਸ ਨੇ ਇਹ ਸੰਸਾਰ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਹਿ = ਤੂੰ ਆਖਦਾ ਹੈਂ, ਤੂੰ ਬੋਲਦਾ ਹੈਂ। ਵੇਖਹਿ = ਤੂੰ ਸੰਭਾਲ ਕਰਦਾ ਹੈਂ। ਜਿਨਿ = ਜਿਸ ਤੈਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

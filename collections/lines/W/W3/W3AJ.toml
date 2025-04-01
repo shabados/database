@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਹਾਂ ਪੁਰਖਾਂ ਦੀ ਬਾਣੀ, ਮਹਾਂ ਪੁਰਖਾਂ ਦਾ ਉਪਦੇਸ਼ ਹੀ ਮਨ ਦਾ ਮਾਣ ਦੂਰ ਕਰਨ ਲਈ ਸਮਰਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ੍ਰੁ = ਉਪਦੇਸ਼। ਮਨਹਿ ਮਾਨ ਉਤਾਰਨ ਕਉ = ਮਨ ਦਾ ਮਾਣ ਦੂਰ ਕਰਨ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

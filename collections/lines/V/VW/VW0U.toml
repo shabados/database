@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰਿ-ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ) ਮਨੁੱਖ ਬੜੇ ਕਰੜੇ ਅਤੇ ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੇ ਰੋਗਾਂ ਦੀ ਪੋਟਲੀ (ਆਪਣੇ) ਸਿਰ ਉਤੇ ਚੁੱਕੀ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਜਰ = ਬੱਜਰ, ਕਰੜੇ। ਬਿਖ = ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ ਜ਼ਹਰ। ਬਿਆਧੀ = ਰੋਗ। ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਪੋਟ = ਪੋਟਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

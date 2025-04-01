@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਰੱਬ ਨੇ ਦਿਲ ਨੂੰ ਗੰਦਗੀ ਤੋਂ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਗ਼ਿਲਾਜ਼ਤਿ ਦਿਲ ਖ਼ੁਦਾ ਚੂੰ ਪਾਕ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

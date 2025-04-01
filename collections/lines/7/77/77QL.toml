@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਤੂੰ ਕਰਮਾਂ ਦੀ ਮਾਰੀ ਨੇ ਭੈੜੀ ਮੱਤੇ ਲੱਗ ਕੇ ਸੋਹਣਾ ਬਾਂਕਾ ਪਤੀ-ਪ੍ਰਭੂ ਭੁਲਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਭਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ (ਮਨ) ਨੂੰ ਸਾੜ ਦਿਆਂ ਜੋ ਪ੍ਰਭੂ ਨੂੰ ਨਹੀਂ ਸਿਮਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਰਉ = ਮੈਂ ਸਾੜ ਦਿਆਂ। ਤਿਸੈ = ਉਸ (ਨਾਮ ਨੂੰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

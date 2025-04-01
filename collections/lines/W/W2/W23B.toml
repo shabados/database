@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਮਨ! ਹੋਰ) ਆਸਾਂ ਛੱਡ ਕੇ ਤਕੜਾ ਹੋ ਕੇ ਕਿਉਂ ਨਹੀਂ ਰਹਿੰਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਕਿ = {ਸੰ: ਸ਼ਕ = ਤਕੜਾ ਹੋਣਾ। ਸ਼ਕਤੀ = ਤਾਕਤ} ਤਕੜਾ ਹੋ ਕੇ, ਉੱਦਮ ਨਾਲ। ਕਿ ਨ = ਕਿਉਂ ਨਹੀਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

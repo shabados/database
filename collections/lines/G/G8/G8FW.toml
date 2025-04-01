@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੇ-ਮੁਹਾਰ ਮਨ! ਹੇ ਮੇਰੇ ਪਿਆਰੇ ਮਨ! ਗੁਰੂ ਦੀ ਇਹ ਸਿੱਖਿਆ (ਧਿਆਨ ਨਾਲ) ਸੁਣ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਾਇ = ਸੁਣ। ਸਿਖ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

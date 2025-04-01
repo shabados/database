@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਨੇ (ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਮੰਤ੍ਰ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ = ਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

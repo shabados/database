@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰਾ ਸੰਸਾਰ ਇਸੇ ਤਰ੍ਹਾਂ ਮਾਇਆ ਦੇ ਜਾਲ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੈ, ਇਸ ਵਿਚੋਂ ਉਹੀ ਬਚ ਕੇ ਨਿਕਲਦਾ ਹੈ ਜਿਸ ਦਾ ਰਾਖਾ ਪੂਰਾ ਗੁਰੂ ਬਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹੈ ਬਿਧਿ = ਇਸੇ ਤਰ੍ਹਾਂ। ਬਿਆਪਿਓ = ਫਸਿਆ ਹੋਇਆ ਹੈ। ਉਬਰਿਓ = ਬਚਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

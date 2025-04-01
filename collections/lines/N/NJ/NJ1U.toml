@@ -5,6 +5,11 @@ language = "pa"
 data = "ਏਸੇ ਤਰ੍ਹਾਂ ਹਰ ਉਹ ਬੰਦਾ ਜੋ ਰੱਬ ਨਾਲ ਮਿਲ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਚੁਨਾਂ ਹਰ ਬੰਦਾ ਕੁ ਵਾਸਿਲ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

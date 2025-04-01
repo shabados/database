@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਭਜਨ ਕਰਨ ਵਾਲੇ ਸਾਰੇ ਬੰਦਿਆਂ ਤੋਂ ਮੈਂ ਤੇਰਾ ਨਾਮ-ਪਦਾਰਥ ਹੀ ਮੰਗਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਪਹਿ = ਪਾਸੋਂ। ਮਾਂਗਉ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਵਸਤੁ = ਚੰਗੀ ਸ਼ੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

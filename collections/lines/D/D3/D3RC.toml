@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਪੂਰੇ ਗੁਰੂ ਪਾਸੋਂ ਵਡਿਆਈ-ਇੱਜ਼ਤ ਪ੍ਰਾਪਤ ਕਰ ਲਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਵਡਿਆਈ = ਗੌਰਵਤਾ, ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

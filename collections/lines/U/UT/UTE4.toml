@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਖ਼ਰ) ਜਦੋਂ ਇਹ ਗਲ ਨਾਲ ਚੰਬੜੀ ਹੋਈ ਛੱਡਦੀ ਹੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਿ = ਗਲ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੀਵਿਆਂ ਉੱਤੇ (ਸੜਨ ਵਾਲੇ) ਭੰਬਟ ਮਾਇਆ ਵਿਚ ਪ੍ਰੋਤੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪਕ = ਦੀਵੇ। ਪਤੰਗ = ਭੰਬਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

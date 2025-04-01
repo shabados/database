@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਜਿਉਂ ਜਿਉਂ ਇਸ ਨਾਲ ਸਾਥ ਬਣਾਈਦਾ ਹੈ, ਤਿਉਂ ਤਿਉਂ ਇਸ ਨਾਲ ਮੋਹ ਵਧਦਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ ਮਿਲੀਐ = ਜਦੋਂ ਇਸ ਨਾਲ ਸਾਥ ਬਣਾਈਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰਾ ਦਾਸ) ਬੇਣੀ (ਭੀ ਤੇਰੇ ਦਰ ਤੋਂ) (ਇਹ) ਨਾਮ ਹੀ ਮੰਗਦਾ ਹੈ ॥੯॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚੈ = ਮੰਗਦਾ ਹੈ ॥੯॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

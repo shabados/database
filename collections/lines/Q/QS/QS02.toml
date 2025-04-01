@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਹੋਰ ਹੋਰ ਦੇਸ਼ਾਂ ਵਿਚ ਭੌਂਦੇ ਫਿਰਦੇ ਹਨ, ਆਪਣੇ ਸਿਰ ਵਿਚ ਮਿੱਟੀ ਪਾਂਦੇ ਹਨ (ਖ਼ੁਆਰ ਹੁੰਦੇ ਰਹਿੰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਸੰਤਰੁ = {ਦੇਸ-ਅੰਤਰੁ} ਹੋਰ ਹੋਰ ਦੇਸ। ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਧੂਰਿ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

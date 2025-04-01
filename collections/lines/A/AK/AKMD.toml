@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਅਨੇਕਾਂ ਨਾਵਾਂ ਤੇ ਰੰਗਾਂ ਵਾਲੇ ਜੀਵਾਂ ਦੇ) ਆਪੋ-ਆਪਣੇ ਕੀਤੇ ਹੋਏ ਕਰਮਾਂ ਅਨੁਸਾਰ (ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰ ਤੇ) ਨਿਬੇੜਾ ਹੁੰਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮੀ ਕਰਮੀ = ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

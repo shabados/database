@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! ਪਰਮਾਤਮਾ ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਅਜਿਹਾ ਸਾਥੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨ ਦੁਨੀ ਸਹਾਈ = ਦੀਨ ਦਾ ਸਾਥੀ ਤੇ ਦੁਨੀਆ ਦਾ ਸਾਥੀ, ਲੋਕ ਪਰਲੋਕ ਦਾ ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਪਰਮਾਤਮਾ ਦਇਆਵਾਨ ਹੋ ਗਿਆ, ਉਸ ਨੇ ਹਰਿ-ਨਾਮ ਹਾਸਲ ਕਰ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ। ਜਿਸੁ = ਜਿਸ (ਮਨੁੱਖ) ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

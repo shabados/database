@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ!) ਪਰਮੇਸਰ ਨੇ ਉਸ ਦੇ ਦੋਖੀ ਵੈਰੀ ਸਭ ਮੁਕਾ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸਰਿ = ਪਰਮੇਸਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

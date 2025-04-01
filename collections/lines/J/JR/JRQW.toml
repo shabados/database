@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਵੇਂ ਜਹਾਨ ਉਸ ਦੇ ਹੁਕਮ ਦੀ ਪਾਲਨਾ ਕਰਨ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਬੰਦਾਇ ਫ਼ਰਮਾਨਿ ਊ ।੩੪੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

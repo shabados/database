@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤ ਕਬੀਰ ਜੀ ਦੀ ਘਰ ੨ ਵਿੱਚ ਚਾਰ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਪਦਾ = {ਚਉ-ਚਾਰ। ਪਦ-ਬੰਦ} ਚਾਰ ਬੰਦਾਂ ਵਾਲਾ ਸ਼ਬਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

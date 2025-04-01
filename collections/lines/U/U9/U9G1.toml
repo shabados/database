@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਾਇਆ ਦੇ ਲੱਖਾਂ ਕ੍ਰੋੜਾਂ ਸੁਆਦਲੇ ਖਾਣੇ ਹੋਣ, ਉਹਨਾਂ ਵਿਚ ਲੱਗਿਆਂ (ਖਾਣ ਦੀ) ਤ੍ਰਿਸ਼ਨਾ ਨਹੀਂ ਮੁੱਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ = ਮਾਇਆ। ਬਿੰਜਨ = {व्यंजन} ਸੁਆਦਲੇ ਖਾਣੇ। ਤਾ ਮਹਿ = ਉਹਨਾਂ ਵਿਚ। ਤ੍ਰਿਸਨ = ਤ੍ਰੇਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

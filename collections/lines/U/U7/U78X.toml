@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੁਭਾਗੇ ਹਨ ਉਹ ਹੱਥ ਜਿਨ੍ਹਾਂ ਨੇ ਉਸ ਦੀ ਸਿਫਤ ਸ਼ਲਾਘਾ ਲਿਖੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਦਸਤੇ ਕਿ ਵਸਫ਼ਸ਼ ਊ ਨਵਿਸ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

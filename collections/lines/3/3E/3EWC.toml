@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਵਪਾਰੀ ਦਾ ਵਪਾਰ ਬੰਧਨਾਂ ਦਾ ਮੂਲ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਣਵੀਚਾਰੀ = (ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਵਿਚਾਰਨ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਚੀਜ਼ ਮੇਰੀ ਹੈ, ਇਹ ਜਾਇਦਾਦ ਮੇਰੀ ਹੈ-ਕਿਉਂ ਅਜੇਹਾ ਮਾਣ ਕਰ ਰਿਹਾ ਹੈਂ? ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਇਹ ਸਭ ਕੁਝ ਦਿੱਤਾ ਹੈ, ਉਸ ਨੂੰ ਲੱਭ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ। ਲੋੜਿ = ਲੱਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

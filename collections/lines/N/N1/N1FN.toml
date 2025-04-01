@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸਾਰੀ ਧਰਤੀ ਉਤੇ ਹਰਿਆਉਲ ਹੀ ਦਿੱਸਦੀ ਹੈ ਤੇ ਢੇਰਾਂ ਦੇ ਢੇਰ ਅੰਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰੀਆਵਲੀ = (ਹਰੀ-ਆਵਲੀ) ਸਬਜ਼ੀ ਵਾਲੀ। ਜੰਮਿਆ = ਪੈਦਾ ਹੁੰਦਾ ਹੈ। ਬੋਹਲ = ਦਾਣਿਆਂ ਦੇ ਢੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

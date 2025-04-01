@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤ ਬਸ ਇੱਕੋ ਕੰਮ ਉਸ ਦੀ ਯਾਦ ਹੀ ਹੋਣਾ ਚਾਹੀਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਸਤ ਕਾਰਿ ਰੂਜ਼ੋ ਸ਼ਬ ਦਰ ਯਾਦਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

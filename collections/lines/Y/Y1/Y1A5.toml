@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਿਰਦੇ-ਘਰ ਵਿਚ ਉਸ ਦਾ ਦਰਸਨ ਕਰ ਕੇ) ਫਿਰ ਤੂੰ ਖ਼ੁਸ਼ੀ ਆਨੰਦ ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਹਰਿ-ਗੁਣ ਗਾਇਆ ਕਰੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲ = ਖ਼ੁਸ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

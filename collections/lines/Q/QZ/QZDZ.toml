@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਏ ਰਹਿੰਦੇ ਹਨ-ਇਹ ਸਜ਼ਾ ਉਹਨਾਂ ਨੂੰ ਮਿਲਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ = ਮਰ ਕੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

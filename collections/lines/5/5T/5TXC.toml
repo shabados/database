@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜਿਹੇ ਮਨੁੱਖ) ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਏ ਰਹਿੰਦੇ ਹਨ, ਅਤੇ ਖ਼ੁਆਰ ਹੁੰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ = ਮਰ ਕੇ। ਜਨਮਹਿ = ਜਨਮਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)। ਹੋਹਿ = ਹੁੰਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

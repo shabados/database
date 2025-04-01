@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਾਲਕ ਦੇ ਸੰਗ ਜੀਊਣਾ ਹੈ, ਉਸੇ ਨਾਲ ਸ਼ਰੀਕਾ ਕਰ ਕੇ ਕਿਉਂ ਰੋਈਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਆਵਣਾ = ਸ਼ਿਕੈਤ ਕਰਨੀ। ਦੇਇ = ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

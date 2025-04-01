@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ, ਮੇਰਾ ਹੋਰ ਕੋਈ ਆਸਰਾ ਨਹੀਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਰਾ = ਮੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

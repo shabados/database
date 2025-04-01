@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਖੇਤੀ ਨੂੰ ਬੱਦਲ ਦਾ ਵਰ੍ਹਨਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਖਹਿ = ਖੇਤੀ ਨੂੰ। ਬਰਸ ਮੇਘ = ਬੱਦਲ ਦਾ ਵਰ੍ਹਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

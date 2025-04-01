@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸੇ ਕਰਤਾਰ ਨੇ (ਤੇਰੇ ਮੱਥੇ ਉਤੇ ਇਹ) ਲੇਖ (ਭੀ) ਲਿਖ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ ਨੇ। ਕਰਤੈ = ਕਰਤਾਰ ਨੇ। ਤਿਨਿ ਕਰਤੈ = ਉਸ ਕਰਤਾਰ ਨੇ। ਲੇਖੁ = (ਤੇਰੇ ਕਰਨ-ਯੋਗ ਕੰਮ ਦੀ) ਲਿਖਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

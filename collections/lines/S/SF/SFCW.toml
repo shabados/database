@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਾਲਕ ਹਰ ਸਰੀਰ ਵਿੱਚ ਤੇ ਨੇੜੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ = ਸਰੀਰ। ਸਾਹਿਬੁ = ਮਾਲਕ। ਤਾਕੀ = ਤੱਕੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

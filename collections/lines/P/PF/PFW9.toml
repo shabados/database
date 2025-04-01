@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖਾ-ਸਰੀਰ (ਮਾਨੋ,) ਇਕ ਵੱਡਾ ਕਿਲ੍ਹਾ ਹੈ ਜੋ ਮਨੁੱਖ ਨੂੰ ਭਾਗਾਂ ਨਾਲ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਮਨੁੱਖਾ ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

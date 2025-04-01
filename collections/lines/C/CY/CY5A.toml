@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਣੇ ਚੰਗੇ ਭਾਗਾਂ ਤੇ ਸੁਖ ਦਾ ਰੂਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿਆਣ = ਸੁਖ। ਮੰਗਲ = ਚੰਗੇ ਭਾਗ। ਗਾਮ = ਗਾਉਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

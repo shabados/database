@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਆਪਣੀ ਸੁਰਤ ਵਿਚ ਟਿਕਾ ਰੱਖੇਂ, ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਆਪਾ-ਭਾਵ ਦੂਰ ਹੋ ਸਕੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

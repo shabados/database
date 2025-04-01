@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਤੋਂ ਵਾਂਜੇ ਹੋਏ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਮੈਲ (ਆਪਣੇ ਮਨ ਵਿਚ) ਟਿਕਾਈ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਾਰੀ = ਧਾਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

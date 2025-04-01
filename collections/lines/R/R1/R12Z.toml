@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਕਿਵੇਂ ਪਹੁੰਚ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਵੈ = ਜਾਵੇ, ਪਹੁੰਚੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

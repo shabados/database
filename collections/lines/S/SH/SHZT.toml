@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਸੂਰਜ ਦੀ ਕਿਰਣ, ਅਤੇ ਨਾਹ ਹੀ ਆਕਾਸ਼ ਦੀ ਬਿਜਲੀ ਪਹੁੰਚ ਸਕਦੀ ਹੈ (ਬਰਾਬਰੀ ਕਰ ਸਕਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਣਾਰਾ = ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

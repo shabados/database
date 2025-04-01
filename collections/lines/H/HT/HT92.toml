@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੂੰ ਜਮ ਦਾ ਸੱਦਾ ਨਹੀਂ ਆਉਂਦਾ (ਭਾਵ, ਉਹਨਾਂ ਨੂੰ ਮੌਤ ਤੋਂ ਡਰ ਨਹੀਂ ਲੱਗਦਾ) ਨਾਹ ਹੀ ਉਹ ਕਿਸੇ ਤਰ੍ਹਾਂ ਦੁਖੀ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਲਬ = ਸੱਦਾ। ਓਇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

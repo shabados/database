@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਬੀਅਤ ਕਰਕੇ ਉਹ ਸਖੀ ਹੈ, ਉਹ ਬਖਸ਼ਿਸ਼ ਅਤੇ ਸਖਾਵਤ ਦਾ ਮਾਲਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰੀਮੁਲ ਮਨਿਸ਼ ਮਾਲਕਿ ਫ਼ੈਜ਼ੋ ਜੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਹੇ ਮੇਰੇ ਠਾਕੁਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਹੇ ਠਾਕੁਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

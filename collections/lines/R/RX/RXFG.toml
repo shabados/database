@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਰਪਾਲ ਪ੍ਰਭੂ ਹਰੇਕ ਜੀਵ ਦੀ ਸੁਆਸ ਸੁਆਸ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਸੈ ਨੋ = ਹਰੇਕ ਜੀਵ ਨੂੰ। ਸਾਹਿ ਸਾਹਿ = ਹਰੇਕ ਸੁਆਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

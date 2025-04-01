@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਬੜਾ ਵੱਡਾ ਦਾਤਾ ਹੈ, ਉਸ ਦੀ ਥਾਂ (ਜਿਥੇ ਉਹ ਰਹਿੰਦਾ ਹੈ ਬਹੁਤ) ਵੱਡੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਈ = ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

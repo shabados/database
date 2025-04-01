@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜਿਹੜਾ ਮਨੁੱਖ ਆਤਮਕ ਜੀਵਨ ਬਾਰੇ) ਆਪ (ਤਾਂ ਕੁਝ) ਸਮਝਦਾ ਨਹੀਂ, ਪਰ ਲੋਕਾਂ ਨੂੰ ਸਮਝਾਂਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝੈ = ਸਮਝਦਾ। ਬੁਝਾਵੈ = ਸਮਝਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

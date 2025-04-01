@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਤੂੰ ਕਿੱਥੇ (ਲੋਭ ਆਦਿਕ ਵਿਚ ਫਸ ਕੇ) ਪਾਗਲ ਹੋ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਿਥੇ? ਬਉਰਾ = ਪਾਗਲ, ਕਮਲਾ, ਝੱਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

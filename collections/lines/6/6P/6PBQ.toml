@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਹਰੀ! ਮੈਂ ਮੂਰਖ ਹਾਂ, ਮੈਨੂੰ ਆਪਣੇ (ਨਾਮ ਸਿਮਰਨ ਦੇ) ਕੰਮ ਵਿਚ ਜੋੜ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪਿਆਂ (ਵਿਆਧੀਆਂ ਦਾ) ਸੇਕ ਨਹੀਂ ਲੱਗਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾਤੀ = ਤੱਤੀ। ਤਾਤੀ ਵਾਉ = ਤੱਤੀ ਹਵਾ, ਸੇਕ। ਲਗਈ = ਲਗਏ, ਲੱਗੈ, ਲੱਗਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

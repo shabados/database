@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਮੂੰਹੋਂ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਮੁਖਿ = ਮੂੰਹ ਨਾਲ। ਬੋਲੀਐ = ਬੋਲਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਉਦੋਂ ਤੋਂ) ਤੇਰੇ ਆਸਰੇ-ਪਰਨੇ ਰਹਿਣ ਨਾਲ ਮੇਰੇ ਵਾਸਤੇ ਸਾਰੇ ਸੁਖ ਹੀ ਸੁਖ ਬਣ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇਰੈ ਓਲ੍ਹ੍ਹੈ = ਤੇਰੇ ਆਸਰੇ (ਰਹਿਣ ਨਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

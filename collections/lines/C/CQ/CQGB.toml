@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੈਨੂੰ ਰੱਬ ਦੇ ਸਨਮੁਖ ਹੋਣ ਦੀ ਚਾਹ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਹਜ਼ੂਰੀ ਬਾ ਖ਼ੁਦਾ ਬਾਇਦ ਬ-ਤੌ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

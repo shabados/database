@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈਂ, ਤੂੰ ਘਟ ਘਟ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਸਭ ਤੋਂ ਸ਼ਿਰੋਮਣੀ ਹੈਂ, ਤੇਰੇ ਜੇਡਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ। ਸੁਜਾਨੁ = ਸਿਆਣਾ। ਪਰਧਾਨੁ = ਮੰਨਿਆ-ਪ੍ਰਮੰਨਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

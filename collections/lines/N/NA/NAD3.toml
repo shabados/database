@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਮੰਨੇ-ਪ੍ਰਮੰਨੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਾਨ = ਕਬੂਲ, ਮੰਨੇ ਪ੍ਰਮੰਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

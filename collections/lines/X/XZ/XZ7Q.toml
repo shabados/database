@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਜੀਵਾਂ ਦੀ ਇਕੋ ਹੀ ਮਿੱਟੀ ਹੈ, ਸਭ ਵਿਚ (ਕਰਤਾਰ ਦੀ) ਇਕੋ ਹੀ ਜੋਤਿ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕਾ = (ਸਭ ਜੀਵਾਂ ਦੀ) ਇਕੋ ਹੀ {ਲਫ਼ਜ਼ 'ਏਕਾ' ਇਸਤ੍ਰੀ ਲਿੰਗ ਹੈ, ਲਫ਼ਜ਼ 'ਏਕੋ' ਪੁਲਿੰਗ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

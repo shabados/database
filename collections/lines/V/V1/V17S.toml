@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ! ਜੇ ਮੇਰੇ ਪਾਸ ਤੇਰੀ ਵਡਿਆਈ ਨਾਲ ਭਰੇ ਹੋਏ) ਲੱਖਾਂ ਮਣਾਂ ਕਾਗ਼ਜ਼ ਹੋਣ। ਉਹਨਾਂ ਨੂੰ ਮੁੜ ਮੁੜ ਪੜ੍ਹ ਕੇ ਵਿਚਾਰ (ਭੀ) ਕੀਤੀ ਜਾਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਦ = ਕਾਗ਼ਜ਼। ਕੀਚੈ = ਕੀਤਾ ਜਾਏ। ਭਾਉ = ਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

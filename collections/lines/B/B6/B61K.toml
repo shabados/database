@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-) ਖ਼ਜ਼ਾਨਾ ਸਾਰਾ (ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਦੇ ਅੰਦਰ ਹੀ ਹੈ, ਬਾਹਰ ਜੰਗਲ ਆਦਿਕ ਵਿਚ (ਢੂੰਢਿਆਂ) ਕੁਝ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਥੁ = ਵਸਤੁ, ਚੀਜ਼ {वस्तु}। ਬਾਹਰਿ = ਜੰਗਲ ਆਦਿਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਬੁਲ੍ਹਾਂ ਪਰ ਵੀ ਉਸ ਦਾ ਸਿਮਰਨ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮ ਬਦਿਲ ਯਾਦਿ ਖ਼ੁਦਾ ਵ ਹਮ ਬਲਬ ।੫।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਨੇ ਆਪ ਹੀ) ਦਿਨ ਅਤੇ ਰਾਤ ਬਣਾਏ ਹਨ, (ਜੀਵਾਂ ਦੇ ਅੰਦਰ) ਡਰ ਅਤੇ ਪਿਆਰ (ਭੀ ਪਰਮਾਤਮਾ ਨੇ ਆਪ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਨੰਤੁ = ਦਿਨ। ਭਉ = ਡਰ। ਭਾਉ = ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

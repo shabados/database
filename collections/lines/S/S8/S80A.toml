@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਮੈਂ) ਤੇਰਾ ਦਾਸ ਤੇਰੇ ਪਿਆਰ ਦੀ ਰੱਸੀ ਨਾਲ ਬੱਝਾ ਹੋਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਵਰੀ = ਰੱਸੀ (ਨਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

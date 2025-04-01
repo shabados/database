@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਰ ਤੇ) ਅਰਦਾਸ ਵੀ ਕਿਸ ਮੂੰਹ ਨਾਲ ਕਰੀਏ? (ਆਪਣੇ ਢੀਠਪੁਣੇ ਵਿਚ ਅਰਦਾਸ ਕਰਦਿਆਂ ਭੀ ਸ਼ਰਮ ਆਉਂਦੀ ਹੈ, ਕਿਉਂਕਿ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਮੁਹੁ ਲੈ = ਕੇਹੜਾ ਮੂੰਹ ਲੈ ਕੇ? ਕਿਸ ਮੂੰਹ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਕਿਰਪਾ ਨਾਲ (ਮੇਰਾ ਅੰਦਰੋਂ) ਮਾਇਆ ਦਾ ਮੋਹ ਮੁੱਕ ਜਾਏ, ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਏ, ਮੇਰੀ ਭਟਕਣਾ ਦਾ ਨਾਸ ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਨਾਲ। ਛੁਟੈ = ਮੁੱਕ ਜਾਏ। ਭਰਮਾਈ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ ਪ੍ਰਭੂ! (ਮੈਨੂੰ) ਮਿਲ, ਮੈਂ ਤੈਥੋਂ ਸਦਕੇ ਜਾਂਦੀ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨ = ਹੇ ਸਾਜਨ! ਹਉ = ਹਉਂ, ਮੈਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

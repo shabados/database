@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਵਿਚ ਮੌਜੂਦ ਹੈ (ਜਦੋਂ ਇਹ ਨਿਸ਼ਚਾ ਹੋ ਜਾਏ) ਤਾਂ ਕੋਈ ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਜਾਮੀ = ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ। ਵਰਤੈ = ਮੌਜੂਦ ਹੈ। ਭਾਈ = ਹੇ ਭਾਈ! ਕੈਸਾ = ਕੇਹਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

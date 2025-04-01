@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੁਰਬਾਣੀ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਕਲੇਸ਼ਾਂ-ਭਰੇ ਜੀਵਨ-ਸਮੇ ਦੇ ਸਾਰੇ ਕਲੇਸ਼ ਮਿਟ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲੀ = ਝਗੜੇ-ਕਲੇਸ਼। ਕਾਲ = ਜੀਵਨ-ਸਮਾ। ਕਲੀ ਕਾਲ = ਕਲੇਸ਼ਾਂ-ਭਰਿਆ ਜੀਵਨ-ਸਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

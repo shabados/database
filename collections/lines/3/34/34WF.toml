@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹਾ ਬ੍ਰਾਹਮਣ (ਲੋਕ ਪਰਲੋਕ) ਕਿਤੇ ਭੀ ਕਾਮਯਾਬ ਨਹੀਂ ਹੁੰਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਸੀਝੈ = ਕਾਮਯਾਬ ਨਹੀਂ ਹੁੰਦਾ। ਕਹੀ = ਕਿਤੇ ਭੀ, ਕਹੀਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

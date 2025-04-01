@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਹੀ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਜ਼ਿੰਦਗੀ ਹੈ, ਇਸ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਰਾਹੀਂ ਖਸਮ-ਪ੍ਰਭੂ ਨਾਲ (ਜੀਵ ਦਾ) ਮਿਲਾਪ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਸਬਦੁ = ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ। ਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ। ਸਹ = ਖਸਮ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

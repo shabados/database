@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਤੈਨੂੰ ਸਿਮਰਿਆ ਹੈ ਉਸ ਨੇ ਸੁਖ ਪਾਇਆ ਹੈ, ਕੋਈ ਹੋਰ ਮਨੁੱਖ ਉਸ ਦੀ ਕੀਹ ਰੀਸ ਕਰ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ = ਤੈਨੂੰ। ਤਿਨਿ = ਉਸ ਮਨੁੱਖ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

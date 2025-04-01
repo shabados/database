@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਮਨੋਂ ਮਾਇਆ ਨਹੀਂ ਭੁੱਲਦੀ, ਜੋ (ਨਾਮ ਦੀ ਦਾਤ ਮੰਗਣ ਦੇ ਥਾਂ) ਸੁਆਸ-ਸੁਆਸ (ਮਾਇਆ ਹੀ) ਮੰਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੰਮਾ ਦੰਮ = ਦਮ-ਬ-ਦਮ, ਸੁਆਸ ਸੁਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

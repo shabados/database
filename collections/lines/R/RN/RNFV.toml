@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੂੰ ਪਾਣੀ ਉਤੇ ਇਹੋ ਜੇਹਾ ਦੀਵਾ ਤਾਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਰਿ = ਪਾਣੀ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

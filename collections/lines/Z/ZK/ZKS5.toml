@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਮਨੁੱਖ ਸਿਰਜਣਹਾਰ ਕਰਤਾਰ ਦਾ ਧਿਆਨ ਧਰਦਾ ਹੈ ਕਰਤਾਰ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਏ = ਧਿਆਨ ਕਰਦਾ ਹੈ। ਗਾਏ = ਗਾਂਦਾ ਹੈ। ਕਰਨੈਹਾਰ = ਸਿਰਜਣਹਾਰ ਕਰਤਾਰ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

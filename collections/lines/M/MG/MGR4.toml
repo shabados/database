@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਜਗਤ ਜਨਮ ਮਰਨ ਦਾ ਚੱਕਰ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾਗਉਣੁ = ਆਉਣਾ ਜਾਣਾ, ਜੰਮਣਾ ਮਰਨਾ, ਜਨਮ ਮਰਨ ਦਾ ਚੱਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

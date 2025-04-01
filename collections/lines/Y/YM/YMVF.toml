@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮਨ ਵਿਚ (ਪ੍ਰਭੂ ਦੇ) ਦਰਸਨ ਦੀ ਤ੍ਰੇਹ ਹੈ। ਹੇ ਨਾਨਕ! (ਆਖ) ਮੈਂ (ਸਤਸੰਗੀਆਂ ਤੋਂ) ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੧੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ ॥੧੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

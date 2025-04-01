@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖੋਟੀ ਮੱਤ ਵਾਲੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਝੂਠ ਵਿਚ ਭੈੜ ਵਿਚ ਮਸਤ ਰਹਿੰਦੀ ਹੈ, ਉਹ ਭੈੜ ਦਾ ਅੱਡਾ ਬਣੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਖੋਟੀ ਮੱਤ ਵਾਲੀ ਜੀਵ-ਇਸਤ੍ਰੀ। ਬੁਰੀ = ਭੈੜੀ। ਬੁਰਿਆਰਿ = ਭੈੜ ਦਾ ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

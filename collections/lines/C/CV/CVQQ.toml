@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ) ਮਿੱਤਰ ਹਰੀ-ਪਰਮਾਤਮਾ ਕਿਵੇਂ ਮਿਲ ਸਕਦਾ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ = ਕਿਵੇਂ? ਸਹਾਈ = ਸਹਾਇਕ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

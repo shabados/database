@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮੂਰਖ ਦੇ ਚਿਤ ਵਿਚ (ਕਦੇ) ਮੌਤ (ਦਾ ਖ਼ਿਆਲ ਭੀ) ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜੇ ਚੀਤਿ = ਮੂਰਖ ਦੇ ਚਿੱਤ ਵਿਚ। ਕਾਲੁ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

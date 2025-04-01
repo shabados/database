@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲੇ ਸੋਹਣੇ ਲਾਲ! ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਆਸਰੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨ = ਹੇ (ਮਨ ਨੂੰ) ਮੋਹਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਅਨੂਪ = ਹੇ ਸੁੰਦਰ! ਸਰਬ ਸਾਧਾਰੀਆ = ਹੇ ਸਭ ਦੇ ਆਸਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

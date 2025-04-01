@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਹਰਵਾਨ! ਅਸੀਂ ਜੀਵ ਗੁਣ-ਹੀਨ ਹਾਂ, ਸਾਡੇ ਵਿਚ ਕੋਈ ਗੁਣ ਨਹੀਂ ਹੈ। ਤੂੰ ਸਾਨੂੰ ਗੁਣਾਂ ਦੀ ਦਾਤਿ ਬਖ਼ਸ਼ਦਾ ਹੈਂ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੁ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ। ਮਿਹਰਵਾਨਾ = ਹੇ ਮਿਹਰਵਾਨ! ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

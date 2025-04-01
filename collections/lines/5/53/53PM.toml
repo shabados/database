@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭਾਗਾਂ ਵਾਲਾ ਸਿਆਣਾ ਬੰਦਾ ਹੀ ਇਸ (ਰਮਜ਼ ਨੂੰ) ਸਮਝਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਝਨਹਾਰੁ = ਬੁੱਝਣ ਵਾਲਾ, ਸਿਆਣਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

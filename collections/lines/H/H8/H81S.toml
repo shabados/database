@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਇਕ ਐਸਾ ਅਸਥਾਨ ਹੈ ਜਿਥੇ ਬਖ਼ਸ਼ਸ਼ਾਂ ਦੇ) ਭੰਡਾਰੇ ਭਰੇ ਰਹਿੰਦੇ ਹਨ, (ਉਥੇ ਇਹਨਾਂ ਬਖ਼ਸ਼ਸ਼ਾਂ ਦੀ) ਕਦੇ ਭੀ ਤੋਟ ਨਹੀਂ ਆਉਂਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਟਿ = ਘਾਟ। ਨ ਮੂਲਿ = ਬਿਲਕੁਲ ਨਹੀਂ। ਪੂਰਨ = ਭਰੇ ਹੋਏ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

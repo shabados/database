@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੱਕੇ ਘਰ ਆਦਿਕ ਤਾਂ ਕਿਤੇ ਰਹੇ) ਇਹ ਸਰੀਰ (ਭੀ) ਘਾਹ ਦੇ ਛੱਪਰ ਵਾਂਗ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟਾਟੀ = ਟੱਟੀ, ਛੱਪਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਇਹ ਮਨ ਪੰਜਾਂ ਤੱਤਾਂ ਤੋਂ ਜੰਮਿਆ ਹੋਇਆ ਹੈ (ਭਾਵ, ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਲਈ ਫਿਰਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ ਤਤੁ ਤੇ ਜਨਮਾ = ਪੰਜਾਂ ਤੱਤਾਂ ਤੋਂ ਜੰਮਿਆ ਹੋਇਆ, ਜਨਮ ਮਰਨ ਵਿਚ ਲੈ ਜਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

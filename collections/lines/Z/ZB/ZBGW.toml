@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਮਨ! ਤੂੰ ਕਿਉਂ ਸਦਾ ਮਾਇਆ ਵਾਸਤੇ ਹੀ ਤਰਲੇ ਲੈ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਕਾਰ = ਗਿਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

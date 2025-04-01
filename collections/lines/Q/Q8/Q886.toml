@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਜੀਭ ਨਾਲ ਝੂਠ ਨੂੰ ਛੋਹਣ ਨਹੀਂ ਦੇਂਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਿਆ = ਝੂਠ। ਪਰਸ = ਛੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਸਿਮਰਨ ਦੀ ਦਾਤਿ) ਉਹ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਕਰਦਾ ਹੈ, ਜਦੋਂ ਉਹ (ਇਹ ਦਾਤਿ) ਦੇਂਦਾ ਹੈ ਤਦੋਂ ਮਿਲਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ = ਦੇਂਦਾ ਹੈ। ਤ = ਤਾਂ, ਤਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

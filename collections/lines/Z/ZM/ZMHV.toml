@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕੋਈ ਹੋਰ ਭੇਖ ਕਰਨਾ ਨਹੀਂ ਜਾਣਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = ਕੋਈ ਹੋਰ {अन्य}। ਜਾਨਾ = ਜਾਨਾਂ, ਮੈਂ ਜਾਣਦਾ। ਵੇਸ = ਭੇਖ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

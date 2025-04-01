@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੀਆਣ ਅੱਖਾਣ ਉਸ ਦੇ ਦਰਸ਼ਨਾਣ ਲਈ ਤੀਬਰ ਹੋ ਗਈਆਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਮਾਮ ਚਸ਼ਮ ਤਵਾਣ ਸ਼ੁਦ ਪੈਇ ਨੱਜ਼ਰਾਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

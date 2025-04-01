@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਖੋ! ਬੰਦਾ ਚਹੁੰ ਮਨੁੱਖਾਂ ਦੇ ਮੋਢੇ ਤੇ ਤੁਰ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੰਨ੍ਹ੍ਹਿ = ਮੋਢੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

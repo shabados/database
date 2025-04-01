@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦੱਸ, ਕਿਸੇ ਮਨੁੱਖ ਦਾ ਉਸ ਉੱਤੇ ਕੀਹ ਜ਼ੋਰ ਚੜ੍ਹ ਸਕਦਾ ਹੈ? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤ ਚਲਾਈ = ਕਿਤਨੀ ਕੁ ਪੇਸ਼ ਜਾ ਸਕਦੀ ਹੈ? ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

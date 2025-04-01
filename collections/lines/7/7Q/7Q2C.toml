@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਪਹਿਲਾਂ ਹੀ (ਆਪੋ ਆਪਣੇ ਫ਼ਰਜ਼ ਨੂੰ) ਚੇਤੇ ਕਰਦੇ ਰਹੀਏ (ਚੇਤੇ ਰੱਖੀਏ) ਤਾਂ (ਅਜੇਹੀ) ਸਜ਼ਾ ਕਿਉਂ ਮਿਲੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗੋ ਦੇ = ਪਹਿਲਾਂ ਹੀ। ਕਾਇਤੁ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

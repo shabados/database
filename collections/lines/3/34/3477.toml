@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਅਕਾਲ ਪੁਰਖ ਦੇ ਨਾਮ ਵਿਚ ਸੁਰਤ ਜੋੜਨ ਵਾਲੇ) ਭਗਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸਦਾ ਖਿੜਾਉ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਗਾਸੁ = ਖਿੜਾਉ, ਉਮਾਹ, ਖ਼ੁਸ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

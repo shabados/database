@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਹਕੀਕਤ ਦੀ ਅਤਿ ਸੋਹਣੀ ਸੂਰਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾਅਨੀਏ ਹੱਕ ਸੂਰਤੇ ਦਾਰਦ ਨਿਕੂ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

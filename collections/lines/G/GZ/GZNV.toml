@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਸਭ ਨਾਲੋਂ ਬਲੀ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪ = ਆਪਣੇ ਆਪ ਨੂੰ। ਬਲਵੰਤੁ = ਬਲ ਵਾਲਾ, ਬਲੀ, ਤਾਕਤ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

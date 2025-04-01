@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ, ਅਹੰਕਾਰ, ਵਿਸ਼ਿਆਂ ਦੇ ਚਸਕੇ-ਇਹਨਾਂ ਦੇ ਸਾਥ ਤੋਂ ਸਦਾ ਪਰੇ ਟਿਕਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਿਮਾਨੁ = ਅਹੰਕਾਰ। ਬਿਖੈ ਰਸ = ਵਿਸ਼ਿਆਂ ਦੇ ਸੁਆਦ। ਇਨ ਸੰਗਤਿ ਤੇ = ਇਹਨਾਂ ਦੀ ਸੰਗਤ ਤੋਂ। ਰਹੁ = ਹਟ ਜਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

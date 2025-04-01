@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ (ਤੈਨੂੰ) ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ (ਹੀ ਸਹੀ ਜੀਵਨ ਦੀ) ਚਾਲ ਚਲਾ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਗੁਰਮਤਿ = ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ (ਹੀ)। ਚਾਲ = (ਸਹੀ ਜੀਵਨ ਦੀ) ਚਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

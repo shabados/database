@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਸਾਡੇ ਸਰੀਰ ਵਿਚ ਨਿੱਘ ਪਾ ਕੇ ਜਿੰਦ (ਸਰੀਰ ਵਿਚ) ਟਿਕਾ ਦਿੱਤੀ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੁ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

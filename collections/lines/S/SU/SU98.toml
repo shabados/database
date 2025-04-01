@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੈਂ ਤੇਰੀ ਓਟ ਵਿਚ ਆ ਪਿਆ ਹਾਂ, ਮੈਂ ਤੇਰੀ ਸਰਨ ਆ ਡਿੱਗਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓੜਿ = ਸਰਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

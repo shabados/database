@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਿਆਪਕਤਾ ਵਾਲੇ ਯਕੀਨ ਤੋਂ ਪੈਦਾ ਹੋਏ) ਆਤਮਕ ਰਸ ਤੋਂ ਉਸ ਨੂੰ ਐਸਾ ਸੁਖ ਮਿਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਆਹੂ = ਉਸੇ ਬੰਦੇ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

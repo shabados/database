@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਰਚੀ ਹੈ ਉਸ ਦਾ ਸਿਮਰਨ ਕਰ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਪ੍ਰਭੂ ਨੇ। ਮੇਦਨੀ = ਧਰਤੀ, ਸ੍ਰਿਸ਼ਟੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

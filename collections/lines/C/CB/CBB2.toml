@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋ, ਕੂੜ ਦੀ ਕੰਧ ਦੂਰ ਕਰਨ ਲਈ) ਕੇਵਲ ਉਸ (ਅਕਾਲ ਪੁਰਖ) ਨੂੰ ਪ੍ਰਣਾਮ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦੇਸੁ = ਪਰਣਾਮ। ਤਿਸੈ = ਉਸੇ ਹੀ ਅਕਾਲ ਪੁਰਖ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

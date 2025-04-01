@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਨੀਵੀਂ ਜਾਤਿ ਵਾਲਾ ਮਨੁੱਖ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਣ ਨਾਲ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਚ ਜਾਤਿ = ਨੀਵੀਂ ਜਾਤਿ ਵਾਲਾ ਮਨੁੱਖ। ਉਤਮ ਪਦਵੀ = ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ। ਪਾਇ = ਪਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

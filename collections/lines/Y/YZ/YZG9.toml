@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੱਥੇ ਵੀ ਮੈਣ ਦੇਖਿਆ ਹੈ, ਆਪਣੇ ਸੱਜਨ ਦਾ ਮੁਖੜਾ ਹੀ ਦੇਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਜਾ ਕਿ ਦੀਦਾਏਮ ਰੁਖ਼ਿ ਯਾਰ ਦੀਦਾਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

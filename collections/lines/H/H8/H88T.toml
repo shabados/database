@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ ਤੂੰ ਹਰੇਕ ਕਾਰ-ਵਿਹਾਰ ਵਿਚ ਕਾਮਯਾਬ ਹੁੰਦਾ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਪੂਰਨ = ਪੂਰਨ ਤੌਰ ਤੇ, ਹਰੇਕ ਕਾਰ-ਵਿਹਾਰ ਵਿਚ, ਹਰ ਪਾਸੇ। ਫਲਹਿ = ਫਲਦਾ ਹੈਂ, ਫਲ ਹਾਸਲ ਕਰਦਾ ਹੈਂ, ਕਾਮਯਾਬ ਹੁੰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

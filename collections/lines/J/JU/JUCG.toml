@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ (ਸਦਾ) ਸੱਚਾ ਕਰਕੇ ਮੰਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ, ਸੱਚਾ। ਮਾਨੁ = ਮੰਨ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

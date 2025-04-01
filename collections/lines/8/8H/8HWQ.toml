@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਕ ਪਾਸੇ) ਇਸ ਮਨੁੱਖਾ ਸਰੀਰ ਵਿਚ (ਮਾਇਆ ਦਾ) ਬਹੁਤ ਖਿਲਾਰਾ ਖਿਲਾਰਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਸਾਰਾ = ਮਾਇਆ ਦਾ ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਇਹ ਸਾਡੇ ਵੱਸ ਵਿਚ ਆ ਗਈ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਵਸਗਤਿ = ਸਾਡੇ ਵੱਸ ਵਿਚ। ਪਰਸਾਦੇ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

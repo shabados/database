@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਧਰਮ, ਅਰਥ, ਕਾਮ, ਮੋਖ) ਚਾਰੇ ਪਦਾਰਥ, ਹਿਰਦੇ-ਕਮਲ ਦਾ ਖੇੜਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਲ ਪ੍ਰਗਾਸ = ਹਿਰਦੇ ਰੂਪ ਕਉਲ ਫੁੱਲ ਦਾ ਖੇੜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

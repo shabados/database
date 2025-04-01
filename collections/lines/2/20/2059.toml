@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਨੇ (ਉਚੇਚਾ) ਜਤਨ ਕਰ ਕੇ ਆਪਣੇ ਸੇਵਕਾਂ ਦੀ ਸਦਾ ਆਪ ਰਾਖੀ ਕੀਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਕਰਿ = ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

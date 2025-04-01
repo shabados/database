@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੀ ਧਨ ਸ੍ਰੇਸ਼ਟ ਧਨ ਹੈ, ਇਸ ਤੋਂ ਬਿਨਾ ਦੁਨੀਆ ਦੀ ਮਾਇਆ ਸੁਆਹ ਸਮਾਨ ਹੈ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ। ਬਿਖਿਆ = ਮਾਇਆ। ਛਾਰੁ = ਸੁਆਹ, ਨਿਕੰਮੀ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

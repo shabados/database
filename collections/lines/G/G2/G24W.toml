@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਵੀ ਮੌਜੂਦ ਦਿਸਦਾ ਹੈ, ਇਹ ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਕਰਕੇ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਚਿ ਹਸਤ ਅਜ਼ ਸੁਹਬਤਿ ਏਸ਼ਾਣ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

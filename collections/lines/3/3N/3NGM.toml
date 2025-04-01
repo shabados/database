@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਹੰਕਾਰ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ ਅਤੇ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰਣੁ = ਦੂਰ ਕਰਨ ਵਾਲਾ। ਭਵ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

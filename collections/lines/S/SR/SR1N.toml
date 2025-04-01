@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਥੋਣ ਬਾਦਸ਼ਾਹ ਨੇ ਗੁਜ਼ਰ ਜਾਨਾ ਹੈ ਤੇ ਫਕੀਰਾਣ ਨੇ ਵੀ ਗੁਜ਼ਰ ਜਾਨਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹ ਖ਼ਾਹਦ ਗੁਜ਼ਜ਼ ਤੋ ਹਮ ਗਦਾ ਖ਼ਾਹਦ ਗੁਜ਼ਸ਼ਤ ।੧੧।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

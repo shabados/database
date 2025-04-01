@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰਤਾਰ ਨੇ ਆਪਣਾ ਆਪ ਗੁਰੂ ਵਿਚ ਲੁਕਾ ਰੱਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਣਾ ਆਪ। ਕਰਤਾਰੇ = ਕਰਤਾਰਿ, ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ-ਵੇੜ੍ਹੇ ਮਨੁੱਖ ਦੇ) ਮਨ ਤੋਂ ਮਾਇਆਂ ਕਦੇ ਨਹੀਂ ਭੁੱਲਦੀ, (ਉਹ ਹਰ ਵੇਲੇ) ਧਨ ਹੀ ਧਨ ਭਾਲਦਾ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਵੀਸਰੈ = ਭੁੱਲਦੀ। ਮਾਂਗੈ = ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ। ਦੰਮਾਂ ਦੰਮ = ਪੈਸੇ ਹੀ ਪੈਸੇ, ਧਨ ਹੀ ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

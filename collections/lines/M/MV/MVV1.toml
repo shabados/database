@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਨੇ ਪ੍ਰਭੂ ਨੂੰ ਪਛਾਣ ਲਿਆ, ਉਹ ਸੋਭਾ ਵਾਲੇ ਹੋ ਗਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ = ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

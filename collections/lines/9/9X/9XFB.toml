@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਮ 'ਸਾਧ' ਪੈ ਜਾਂਦਾ ਹੈ ਤੇ ਉਸ ਦੇ ਕੰਮ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਤੋਂ ਸਾਫ਼ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

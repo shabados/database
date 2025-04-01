@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ (ਰੱਬ ਨੂੰ ਯਾਦ ਕਰਨ ਵਾਲੇ) ਦੀ ਅੱਖ ਗ਼ੈਰ ਉੱਪਰ ਖੁਲ੍ਹਦੀ ਹੀ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਊ ਬਰ ਗ਼ੈਰ ਹਰਗ਼ਿਜ਼ ਵਾ ਨਾ-ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

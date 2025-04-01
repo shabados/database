@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁੱਖ ਤਪ ਆਦਿਕ ਹੌਲੇ ਮੇਲ ਦੇ ਕੰਮ ਕਰ ਕੇ ਇੰਦਰ-ਪੁਰੀ ਜਾਂ ਸ਼ਿਵ-ਪੁਰੀ ਵਿਚ ਭੀ ਅੱਪੜ ਜਾਇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇੰਦ੍ਰ ਲੋਕ = ਸੁਰਗ। ਸਿਵ ਲੋਕਹਿ = ਸ਼ਿਵ ਪੁਰੀ ਵਿਚ। ਜੈਬੋ = (ਜੇ ਮਨੁੱਖ ਅੱਪੜ) ਜਾਇਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

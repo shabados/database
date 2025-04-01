@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਹੀ ਨਮਸਕਾਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ, ਉਹ ਸਭ ਦਾ ਮੁੱਢ ਹੈ, ਸਭ ਦਾ ਰਾਖਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦੇਸੁ = ਨਮਸਕਾਰ। ਪ੍ਰਭ ਆਦੇਸੁ = ਪ੍ਰਭੂ ਨੂੰ ਨਮਸਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

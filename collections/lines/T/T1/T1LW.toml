@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਇਹ ਸੰਸਾਰ ਹਰ ਪਾਸੇ ਭੱਜਾ ਫਿਰਦਾ ਹੈ ਕਿ ਉਹ ਰੱਬ ਕਿੱਥੇ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਲਮੇ ਹਰ ਸੂ ਦਵਾਂ ਕਆਂ ਸ਼ਹਿ ਕੁਜਾ-ਸਤ ।੨੪੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

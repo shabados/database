@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ-ਹੀਣ ਮਨੁੱਖ ਇਉਂ ਹੀ ਹੈ, ਜਿਵੇਂ) ਕੋਈ ਮਨੁੱਖ ਸਾਰਾ ਦਿਨ (ਇਹ) ਮਜੂਰੀ ਕਰਦਾ ਹੈ (ਕਿ) ਮੂਹਲੀ ਨਾਲ ਤੁਹ ਹੀ ਛੜਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਸਲਹਿ = ਮੂਹਲੀ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਾਲਕ-ਪ੍ਰਭੂ ਦਇਆਵਾਨ ਹੋ ਕੇ ਕਿਰਪਾਲ ਹੋ ਕੇ ਆਪ ਹੀ (ਜਿਸ ਮਨੁੱਖ ਦੀ) ਬੇਨਤੀ ਸੁਣ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ = ਹੋ ਕੇ। ਆਪੇ = ਆਪ ਹੀ। ਮੇਲਿ = ਮੇਲੇ, ਮੇਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

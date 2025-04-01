@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ ਜੀਉ! ਤੂੰ ਹੀ ਹੈਂ ਜਗਤ ਦਾ ਮਾਲਕ, ਤੂੰ ਹੀ ਹੈਂ ਦੈਂਤਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਦੀਸੁਰ = ਜਗਤ ਦਾ ਈਸ਼੍ਵਰ। ਅਸੁਰ ਸੰਘਾਰੇ = ਦੈਂਤਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

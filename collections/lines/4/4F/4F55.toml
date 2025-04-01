@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਵੇਲੇ ਦੁਨੀਆ ਵਾਲੇ ਧੰਧੇ ਕਰਦਿਆਂ ਹੀ ਉਹਨਾਂ ਦੀ ਉਮਰ ਗੁਜ਼ਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤ = ਕਰਦਿਆਂ। ਵਿਹਾਇ = (ਉਮਰ) ਬੀਤਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

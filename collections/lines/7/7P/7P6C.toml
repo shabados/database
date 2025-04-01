@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੱਗੇ (ਜਜਮਾਨ) ਉਹ ਭੋਜਨ ਲਿਆ ਰੱਖਦਾ ਹੈ ਜਿਸ ਨੂੰ ਅਜੇ ਕਿਸੇ ਹੋਰ ਨੇ ਭਿੱਟਿਆ ਨਹੀਂ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਚੇ ਅਗੈ ਰਖਿਓਨੁ = (ਉਹ ਭੋਜਨ) ਇਸ (ਨ੍ਹਾ-ਧੋ ਕੇ ਆਏ ਮਨੁੱਖ) ਦੇ ਅੱਗੇ (ਕਿਸੇ ਨੇ) ਰੱਖ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

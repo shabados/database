@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਨੇ ਉਸਦੇ ਹੱਥੋਂ ਖ਼ੁਸ਼ਬੂ ਅਤੇ ਰੌਣਕ ਪਰਾਪਤ ਕੀਤੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੋ ਆਲਮ ਅਜ਼ੋ ਯਾਫ਼ਤਾ ਬੂ ਓ ਰੰਗ ।੧੬੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

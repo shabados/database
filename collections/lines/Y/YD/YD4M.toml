@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਅਸਚਰਜ ਹੈ ਮਿੱਠਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਐਸੋ = (ਭਾਵ) ਅਸਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

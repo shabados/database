@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਨਾਲ ਉਚਾਰਦਿਆਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਅਤੇ (ਸੁਚੱਜੀ) ਅਕਲ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਵਾ = ਜੀਭ (ਨਾਲ)। ਬਕਤ = ਉਚਾਰਦਿਆਂ। ਗਤਿ = ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ। ਮਤਿ = ਚੰਗੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

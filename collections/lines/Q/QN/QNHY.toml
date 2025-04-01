@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਅੰਦਰਲਾ ਅਤੇ ਬਾਹਰਲਾ ਇੱਕ ਸਮਾਨ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰੋ ਬਾਤਨ ਸ਼ੁਦਾ ਯਕਸਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

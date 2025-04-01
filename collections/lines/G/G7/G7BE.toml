@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਪੰਡਿਤ! (ਇਹਨਾਂ ਜੁਗਾਂ ਦੇ ਵੰਡੇ ਹੋਏ ਕਰਮਾਂ ਧਰਮਾਂ ਨਾਲ, ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦਾ) ਪਾਰਲਾ ਬੰਨਾ ਕਿਵੇਂ ਲੱਭੋਗੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦਾ ਪਾਰਲਾ ਕੰਢਾ। ਪਾਇਬੋ = ਪਾਉਗੇ। ਰੇ = ਹੇ ਭਾਈ! ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

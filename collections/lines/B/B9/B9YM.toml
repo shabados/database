@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਸੁਖਾਂ ਦੇ ਸਮੁੰਦਰ! (ਤੂੰ ਐਸਾ ਹੈਂ) ਜਿਸ ਦੀ ਸੋਭਾ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਆਪਣਾ ਪ੍ਰਭਾਵ ਪਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ ਨਿਧਾਨ = ਹੇ ਮਿਹਰ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਸਾਗਰ = ਹੇ ਸਮੁੰਦਰ! ਜਸੁ = ਸੋਭਾ। ਜਾ ਕੋ = ਜਿਸ ਦਾ। ਛਾਇਓ = ਖਿਲਰਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

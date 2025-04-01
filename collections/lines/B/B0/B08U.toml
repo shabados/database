@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਦੀ ਆਤਮਕ ਖ਼ੁਰਾਕ ਖਾਂਦਾ ਹੈ, ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਦੀ ਦਵਾਈ ਖਾਂਦਾ ਹੈ (ਜੋ ਉਸ ਦੇ ਆਤਮਕ ਰੋਗਾਂ ਦਾ ਇਲਾਜ ਕਰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਖਿਆ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

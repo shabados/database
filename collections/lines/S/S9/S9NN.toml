@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਸਭ ਨੂੰ ਦਾਤਾਂ ਦੇਈ ਜਾਂਦਾ ਹੈ, ਪਰ) ਉਸ ਵੇਪਰਵਾਹ ਨੂੰ ਰਤਾ ਭਰ ਭੀ ਕੋਈ ਲਾਲਚ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਲੁ = ਰਤਾ ਭਰ ਭੀ। ਤਮਾਇ = ਤਮ੍ਹਾ, ਲਾਲਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੌਤ (ਦਾ ਸਮਾ) ਤਾਂ (ਨੇੜੇ) ਆ ਪਹੁੰਚਿਆ ਹੈ (ਦੱਸ, ਤੂੰ ਇਸ ਪਾਸੋਂ) ਭੱਜ ਕਿੱਥੇ ਚਲਾ ਜਾਏਂਗਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲੁ = ਮੌਤ ਦਾ ਸਮਾ। ਆਨਿ = ਆ ਕੇ। ਭਾਜਿ = ਭੱਜ ਕੇ। ਕਹਾ = ਕਿੱਥੇ? ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

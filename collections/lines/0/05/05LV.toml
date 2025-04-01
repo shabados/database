@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗ਼ਮ ਕੀ ਹੈ # ਉਸ ਰੱਬ ਦੀ ਯਾਦ ਤੋਣ ਗ਼ਫਲਤ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਮ ਚਿਹ ਬਾਸ਼ਦ ਗ਼ਫਲਤ ਅਜ਼ ਯਾਦਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਸੋਲ੍ਹਾਂ ਸਿੰਗਾਰ ਭੀ ਕਰ ਲਏ ਜਾਣ, ਤੇ (ਅੱਖਾਂ ਵਿਚ) ਸੁਰਮਾ ਭੀ ਪਾ ਲਿਆ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਲਹ = ਸੋਲ੍ਹਾਂ। ਅੰਜਨੁ = ਸੁਰਮਾ। ਪਾਜਿਆ = ਪਾ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਝਗੜੇ ਦੇ ਮੁੱਢ ਕ੍ਰੋਧ! (ਤੇਰੇ ਅੰਦਰ) ਕਦੇ ਦਇਆ ਨਹੀਂ ਉਪਜਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਿ = ਮੂਲ-ਝਗੜੇ ਦਾ ਮੁੱਢ (कलि = strife, quarrel)। ਕਦੰਚ = ਕਦੇ ਭੀ (कदा च)। ਕਰੁਣਾ = ਤਰਸ, ਦਇਆ (करुण)। ਉਪਰਜਤੇ = ਪੈਦਾ ਹੁੰਦੀ। (उपजिनं = acquiring)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

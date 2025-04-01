@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਸਾਰ ਵਿਚ ਉਹ ਪਿੰਡ ਮੁਬਾਰਿਕ ਹੈ, ਉਹ ਥਾਂ ਧੰਨ ਹੈ, ਉਹ ਪਵਿਤ੍ਰ ਕੁਲ ਭਾਗਾਂ ਵਾਲੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨਿ = ਭਾਗਾਂ ਵਾਲਾ। ਗਾਉ = ਪਿੰਡ। ਠਾਉ = ਥਾਂ। ਲੋਇ = ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

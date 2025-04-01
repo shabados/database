@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਨਾਨਕ ਦਾ ਪੱਲਾ ਫੜ ਕੇ ਮੈਂ ਤੇਰੀ ਸਰਣ ਆਇਆ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਇਓ = ਆਇਆ ਹਾਂ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਨਾਨਕ ਕੇ ਸਾਥ = ਗੁਰੂ ਦੇ ਨਾਲ, ਗੁਰੂ ਦੀ ਚਰਨੀਂ ਪੈ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

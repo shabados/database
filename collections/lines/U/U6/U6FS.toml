@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ (ਆਪਣੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਅਤੇ ਮਮਤਾ ਨੂੰ ਸਾੜ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਮਤਾ = {ਮਮ = ਮੇਰਾ, ਮੇਰੀ} ਕਬਜ਼ੇ ਦੀ ਵਾਸ਼ਨਾ। ਸਬਦਿ = ਸਬਦ ਦੀ ਰਾਹੀਂ। ਜਲਾਏ = ਸਾੜ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

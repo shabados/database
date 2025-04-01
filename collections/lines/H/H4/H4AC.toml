@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਜਨੋ! ਆਤਮਕ ਆਨੰਦ ਦੇਣ ਵਾਲਾ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ = ਆਤਮਕ ਆਨੰਦ। ਸੋਹਿਲੜਾ = {सुख केल:ਸੋਹਿਲਾ} ਖ਼ੁਸ਼ੀ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਗੀਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

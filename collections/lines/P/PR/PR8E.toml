@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜੀਵਾਂ ਦੇ) ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਹੇ ਕੀਮਤੀ ਪਦਾਰਥਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖ ਭੰਜਨ = ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਨਿਧਾਨ = ਹੇ ਖ਼ਜ਼ਾਨੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਸਦਾ ਹੋਂਦ ਵਾਲਾ ਹੈ, ਉਸ ਦੀ ਟਿਕਾਈ ਹੋਈ ਰਚਨਾ ਭੀ ਹੋਂਦ ਵਾਲੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ। ਧਾਰੀ = ਟਿਕਾਈ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

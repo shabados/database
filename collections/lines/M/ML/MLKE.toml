@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਉਮਰ ਚਾਰ ਜੁਗਾਂ ਜਿਤਨੀ ਹੋ ਜਾਏ, (ਨਿਰੀ ਇਤਨੀ ਹੀ ਨਹੀਂ, ਸਗੋਂ ਜੇ) ਇਸ ਤੋਂ ਭੀ ਦਸ ਗੁਣੀ ਹੋਰ (ਉਮਰ) ਹੋ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ ਚਾਰੇ = ਚਹੁੰ ਜੁਗਾਂ ਜਿਤਨੀ। ਆਰਜਾ = ਉਮਰ। ਦਸੂਣੀ = ਦਸ ਗੁਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

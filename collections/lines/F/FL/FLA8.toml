@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਭਜਨ ਹੀ) ਜਪ ਤਪ ਸੰਜਮ ਆਦਿਕ ਸਾਰੀ ਮਿਹਨਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜਮ = ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਵੱਸ ਵਿਚ ਰੱਖਣ ਦੇ ਜਤਨ। ਘਾਲ = ਮਿਹਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

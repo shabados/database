@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਛੇ ਸ਼ਾਸਤਰ ਭੀ ਇਹੀ ਗੱਲ ਬਿਆਨ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਟੁ = ਛੇ ਸ਼ਾਸਤਰ। ਏਕਾ ਬਾਤ = (ਇਹੀ) ਇਕੋ ਗੱਲ। ਵਖਾਨਹਿ = ਬਿਆਨ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

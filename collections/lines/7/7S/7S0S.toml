@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੁਹਮਤਾਂ ਲਾਣ ਵਾਲੇ ਝੂਠ ਬੋਲ ਕੇ (ਫਿਰ) ਅਫ਼ਸੋਸ ਹੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲਿ = ਬੋਲ ਕੇ। ਪਛਤਾਨੇ = ਅਫ਼ਸੋਸ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

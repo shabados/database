@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਨੂੰ ਵਿਸਾਰ ਕੇ) ਤੂੰ ਦੁਰਜਨ ਨਾਲ ਪਿਆਰ ਪਾ ਲਿਆ ਹੈ, ਮੈਨੂੰ ਦੱਸ, ਮੈਂ ਵੇਖਾਂ ਇਸ ਦਾ ਕੀਹ ਕਾਰਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਖਾ = ਮੈਂ ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

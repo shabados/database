@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਹੜਾ ਕਦੀ ਜ਼ਰੂਰੀ ਹੋ ਜਾਣਦਾ ਹੈ ਅਤੇ ਕਦੀ ਨਿਰਧਾਰਤ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਾਹੇ ਲਾਜ਼ਮ ਸ਼ਵਦ ਵ ਗਾਹੇ ਮਲਜ਼ੂਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੀ ਭੈਣ ਮੈਨੂੰ ਮੇਰੇ ਪ੍ਰੀਤਮ ਦੀ ਦੱਸ ਪਾਇਗੀ, ਮੈਂ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਵਾਂਗੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਕੈ = ਉਸ ਤੋਂ। ਹਉ = ਮੈਂ। ਵਾਰੀਆ = ਸਦਕੇ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

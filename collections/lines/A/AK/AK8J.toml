@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਚੰਗੇ-ਮੰਦੇ ਕੰਮ ਦੀ ਪਰਖ ਕਰਨ ਵਾਲੀ ਅਕਲ ਸਾਧ-ਸੰਗਤ ਵਿਚ ਬੈਠਿਆਂ ਹੀ ਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਬੇਕ ਬੁਧਿ = ਚੰਗਾ-ਮੰਦਾ ਪਰਖਣ ਦੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

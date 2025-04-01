@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਰਾਇਣ ਦਾ ਭਜਨ ਕਰ ਕੇ) ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਾਏ ਧਨ ਤੇ ਪਰਾਈ ਇਸਤ੍ਰੀ ਦਾ ਤਿਆਗ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਰਾ = ਇਸਤ੍ਰੀ। ਪਰਹਰੀ = ਤਿਆਗ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

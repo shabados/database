@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਬ੍ਰਹਮਾ ਭੀ (ਉਸ ਦੇ) ਦਿਲ ਦੀ ਗੱਲ ਨਹੀਂ ਜਾਣਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੇ = ਅਨੇਕਾਂ ਬ੍ਰਹਮਾ {ਬਹੁ-ਵਚਨ}। ਭੇਦ = (ਪਰਮਾਤਮਾ ਦੇ) ਦਿਲ ਦੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

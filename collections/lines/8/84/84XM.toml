@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਅਹੰਕਾਰੀ ਮਨ ਦੀ ਅਗਵਾਈ ਵਿਚ) ਜੋ ਕੁਝ ਬੋਲਦੇ ਹਾਂ ਸਭ ਭੈੜ ਹੀ ਭੈੜ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਤੋ ਖਤਾ = ਖ਼ਤਾ ਹੀ ਖ਼ਤਾ, ਭੁੱਲ ਹੀ ਭੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

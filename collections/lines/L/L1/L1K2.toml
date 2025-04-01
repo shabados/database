@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਮਨੁੱਖ) ਪਾਪ ਸੋਚਦਿਆਂ (ਰਤਾ ਭੀ) ਢਿੱਲ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਵਤ = ਚਿਤਵਦਿਆਂ, ਸੋਚਦਿਆਂ। ਆਲਕੁ = ਆਲਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

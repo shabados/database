@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! (ਤੇਰਾ ਨਾਮ) ਜਪ ਕੇ ਸਦਾ ਖਿੜੇ ਰਹਿ ਸਕੀਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ। ਨਿਹਾਲ = ਪ੍ਰਸੰਨ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

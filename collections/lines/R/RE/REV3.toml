@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਅੜੀ ਕੀਤੀਓਈ, ਤਾਂ ਤੈਨੂੰ ਮੈਂ ਪ੍ਰੇਮ ਦਾ ਚਾਬਕ ਮਾਰਾਂਗਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਚਹਿ = ਜੇ ਤੂੰ ਅੜੀ ਕਰੇਂਗਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

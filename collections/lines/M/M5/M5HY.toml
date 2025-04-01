@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਇਹ ਜੀਵ ਕਿਥੋਂ ਆਉਂਦਾ ਹੈ? ਕਿਥੇ ਜਾਂਦਾ ਹੈ? ਕਿਥੇ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ? (ਭਾਵ, ਜੀਵ ਕਿਵੇਂ ਜੀਵਨ ਬਿਤੀਤ ਕਰਦਾ ਹੈ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ ਤੇ = ਕਿਥੋਂ? ਇਹੁ = ਇਹ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

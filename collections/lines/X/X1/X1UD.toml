@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਆਪ ਆਪਣੇ ਲੜ ਲਾ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਨੋ = {ਲਫ਼ਜ਼ 'ਜਿਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਨੋ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}। ਲੜਿ = ਲੜ ਨਾਲ, ਪੱਲੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

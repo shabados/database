@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰ, ਖ਼ਜ਼ਾਨੇ ਭਰ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਚਿ = ਇਕੱਠਾ ਕਰ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

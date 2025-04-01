@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ) ਅਕਲ ਹੁੰਦਿਆਂ ਭੀ ਅੰਞਾਣਾ ਬਣੇ (ਭਾਵ, ਅਕਲ ਦੇ ਤ੍ਰਾਣ ਦੂਜਿਆਂ ਤੇ ਕੋਈ ਦਬਾਉ ਨ ਪਾਏ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ = ਅਕਲ। ਹੋਇ = ਬਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

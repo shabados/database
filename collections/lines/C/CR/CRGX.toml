@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਵਾਨ ਹੋਵੇ ਭਾਵੇਂ ਬੁੱਢਾ-ਮਨਮੁਖ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਭੁੱਖ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ = ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

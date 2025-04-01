@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ ਜੋਗੀਆਂ ਵਿਚ ਭੀ ਤੇ ਗ੍ਰਿਹਸਤੀਆਂ ਵਿਚ ਭੀ ਹਰ ਥਾਂ) ਤੂੰ ਆਪ ਹੀ ਆਪ ਮੌਜੂਦ ਹੈਂ, ਜੋ ਕੁਝ ਤੂੰ ਕਰਦਾ ਹੈਂ, ਉਹੀ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਤਦਾ = ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

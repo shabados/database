@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਰੁੱਖ ਦੇ) ਪੈਰ (ਜੜ੍ਹਾਂ) ਉਪਰ ਵਲ ਹਨ, ਤੇ ਸਿਰ ਹੇਠਲੇ ਪਾਸੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਪਰਿ = ਉਤਾਂਹ ਵਲ। ਤਲੈ = ਹੇਠਲੇ ਪਾਸੇ। ਆਕਾਸੁ = ਉਤਲਾ ਪਾਸਾ, ਸਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

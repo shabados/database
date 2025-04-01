@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਿਮਰਨ ਦਾ ਸਦਕਾ) ਪਰਾਏ ਧਨ (ਆਦਿਕ) ਦੇ ਕੋਈ ਐਬ ਪਾਪ ਮੰਦੇ ਕਰਮ ਨਹੀਂ ਹੁੰਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਧਨ = ਪਰਾਇਆ ਧਨ। ਦੋਖ = ਐਬ। ਫੇੜੇ = ਮੰਦੇ ਕਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

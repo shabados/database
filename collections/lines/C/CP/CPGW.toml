@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਨਿਰਵੈਰ ਨਾਲ ਵੈਰ ਕਰਦਾ ਹੈ ਉਹ ਸਾਰੇ ਸੰਸਾਰ ਦੇ ਪਾਪਾਂ (ਦਾ ਭਾਰ) ਆਪਣੇ ਸਿਰ ਤੇ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

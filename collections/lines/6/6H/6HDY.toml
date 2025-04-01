@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਉਹ ਪੂਰਨ ਸਤਿਗੁਰੂ, ਜਿਸਨੇ ਇਕ ਪਾਣੀ ਕੇ ਕਤਰੇ ਨੂੰ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਮੁਰਸ਼ਦ ਕਿ ਊ ਅਜ਼ ਕਤਰਾ ਆਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

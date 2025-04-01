@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਨ੍ਹਾਂ ਉਤੇ ਸੋਹਣੇ ਲੰਮੇ ਕੇਸਾਂ ਵਾਲਾ ਪ੍ਰਭੂ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ, ਉਹ ਬੰਦੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦੇ ਰਹਿੰਦੇ ਹਨ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਸਵਾ = {केशाः प्रशस्याः सन्ति अस्य} ਲੰਮੇ ਕੇਸਾਂ ਵਾਲਾ ਪ੍ਰਭੂ। ਗਾਹਿ = ਗਾਂਦੇ ਹਨ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

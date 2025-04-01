@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਨਿਆਜ਼ ਆਦਿਕ ਦੇਣ ਲਈ ਸਰਧਾਲੂ ਮੁਸਲਮਾਨ ਆਟਾ) ਪਿਹਾ ਕੇ ਪਕਾ ਕੇ ਖਾਣਾ ਸੰਵਾਰ ਕੇ ਤਿਆਰ ਲਿਆ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਣਿ = ਲਿਆ ਕੇ। ਮਉਜੂਦ = (ਖਾਣ ਲਈ) ਤਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

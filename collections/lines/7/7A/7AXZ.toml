@@ -5,6 +5,11 @@ language = "pa"
 data = "ਡਾਚੀ ਗਲ ਪਈ ਟੱਲੀ ਐਵੇਣ ਪਈ ਵਜਦੀ ਹੈ, ਅਸੀ ਕਦੋਣ ਅੱਟਕਣ ਵਾਲੇ ਹਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਰਸ ਬੇਹੂਦਾ ਮੀ-ਨਾਲਦ ਕੁਜਾ ਬੰਦੇਮ ਮਹਿਮਲ ਹਾ ।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

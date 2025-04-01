@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਦੂਜਾ ਸਾਰੇ ਅਨ੍ਹੇਰੇ ਅਤੇ ਜ਼ੁਲਮ ਨੂੰ ਨਾਸ਼ ਕਰਨ ਹਾਰਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਸਾਨੀ ਹਮਾ ਜ਼ੁਲਮੋ ਜ਼ੁਲਮਤ ਜ਼ਦਾ ।੭੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

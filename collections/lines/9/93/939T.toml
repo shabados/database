@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣਾ ਵਿਅਰਥ ਹੈ) ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਇਹ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਸੀ, ਉਸੇ ਨੇ ਜਿੰਦ ਵਾਪਸ ਲੈ ਲਈ ਹੈ, ਉਸੇ ਦੀ ਰਜ਼ਾ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਆ = ਪੈਦਾ ਕੀਤਾ। ਲੀਆ = ਵਾਪਸ ਲੈ ਲਿਆ। ਭਾਣਾ = ਰਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

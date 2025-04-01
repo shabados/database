@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ-) ਬਾਜੀਗਰ ਨੇ (ਇਹ ਜਗਤ) ਇਕ ਤਮਾਸ਼ਾ ਰਚਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਜੀਗਰਿ = ਬਾਜੀਗਰ ਨੇ। ਬਾਜੀ ਪਾਈ = ਤਮਾਸ਼ਾ ਰਚਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

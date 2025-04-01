@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਸੰਤ ਜਨ ਨੇ (ਪ੍ਰਭੂ ਨੂੰ) ਜਾਣ ਲਿਆ ਹੈ ਉਸ ਦੀ ਰਹਿਣੀ ਹੀ ਇਹ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਸਾਧੂ) ਨੇ। ਰਹਤ = ਰਹਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

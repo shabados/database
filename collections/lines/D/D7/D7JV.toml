@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਹਾਂ) ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹੀ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਸਕਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਈ = ਜੇਹੜਾ ਮਨੁੱਖ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

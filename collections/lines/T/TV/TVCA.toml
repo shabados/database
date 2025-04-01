@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸਾਰੇ ਉਸ ਦਾ ਸਾਥ ਛੱਡ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਤਿਆਗੈ = ਸਾਰੇ ਸਾਥ ਛੱਡ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

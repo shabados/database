@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤ ਨਾਲ ਮੈਂ ਉਹਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਮਿਲਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਮੇਲਿ = ਉਹਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ। ਮਿਲਾਉ = ਮਿਲਾਉਂ, ਮੈਂ ਮਿਲਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

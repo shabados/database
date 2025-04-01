@@ -42,6 +42,12 @@ language = "pa"
 data = "(ਸਾਰੇ ਵੇਦ ਇੱਕ-ਜ਼ਬਾਨ ਹੋ ਕੇ ਆਖਦੇ ਹਨ) \"ਪਾਤਾਲਾਂ ਦੇ ਹੇਠ ਹੋਰ ਲੱਖਾਂ ਪਾਤਾਲ ਹਨ ਅਤੇ ਆਕਾਸ਼ਾਂ ਦੇ ਉੱਤੇ ਹੋਰ ਲੱਖਾਂ ਆਕਾਸ਼ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਤਾਲਾ ਪਾਤਾਲ = ਪਾਤਾਲਾਂ ਦੇ ਹੇਠ ਹੋਰ ਪਾਤਾਲ ਹਨ। ਆਗਾਸਾ ਆਗਾਸ = ਆਕਾਸ਼ਾਂ ਦੇ ਉੱਤੇ ਹੋਰ ਆਕਾਸ਼ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

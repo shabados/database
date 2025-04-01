@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੇਹੜੀ ਗੱਲ ਨਾਲ ਤੂੰ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਾ = ਗੱਲ। ਕਵਣ ਕਥਾ ਲੇ = ਕੇਹੜੀ ਗੱਲ ਨਾਲ। ਨਿਰਾਲੇ = ਵੱਖਰੇ, ਨਿਰਲੇਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

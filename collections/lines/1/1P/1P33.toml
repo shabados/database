@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੌਤ (ਸਿਰ ਤੇ) ਆ ਅੱਪੜੀ ਉਸ ਵੇਲੇ ਤਾਂ ਭਜਨ ਨਹੀਂ ਹੋ ਸਕੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤੁ = ਅਖ਼ੀਰਲਾ ਵੇਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

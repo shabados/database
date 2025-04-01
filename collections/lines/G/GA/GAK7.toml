@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਨੇ ਆਪਣੇ ਮਿੱਤਰ ਨਾਲ ਪੁੱਤਰ ਨਾਲ ਭਰਾ ਨਾਲ ਸਾਥ ਗੰਢਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਸ ਹੀ = ਕਿਸਹਿ, ਕਿਸੇ ਨੇ। ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

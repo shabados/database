@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ-ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ) ਹਉਮੈ ਵਿਚ (ਫਸ ਕੇ) ਸਾਰਾ ਜਗਤ ਝੱਲਾ ਹੋ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਉਰਾਨਾ = ਝੱਲਾ ਹੋ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

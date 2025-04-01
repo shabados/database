@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ) (ਸਾਰੇ ਪਾਪਾਂ ਨੂੰ ਸਾੜ ਦੇਂਦੇ ਹਨ) ਪਾਪਾਂ ਤੋਂ ਬਚੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਦੋਖ = ਦੋਖ-ਰਹਿਤ, ਪਾਪਾਂ ਤੋਂ ਬਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਆਪਣੇ) ਮਨ ਦੀ ਸਾਰੀ ਚਿੰਤਾ ਲਹਿ ਜਾਂਦੀ ਹੈ (ਮਨ ਤੋਂ ਵਿਕਾਰਾਂ ਦਾ ਚਿੰਤਨ ਲਹਿ ਜਾਂਦਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਦਾ = ਚਿੰਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

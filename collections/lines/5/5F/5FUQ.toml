@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਮ੍ਰਿਤੀਆਂ ਸ਼ਾਸਤਰ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕ ਹਰਿ-ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ) ਬਹੁਤ ਵਿਚਾਰ-ਖਿਲਾਰਾ ਖਿਲਾਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਥਾਰਾ = (ਕਰਮ ਕਾਂਡ ਆਦਿਕ ਦਾ) ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

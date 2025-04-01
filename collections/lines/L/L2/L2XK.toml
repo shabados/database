@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ, ਮੇਰ-ਤੇਰ ਵਿਚ ਭੀ ਜੀਵ (ਉਸ ਨੇ ਆਪ ਹੀ) ਪਾਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਦੂਜੈ = ਮੇਰ-ਤੇਰ ਵਿਚ। ਪਾਜੇ = ਪਾਏ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੰਨੀ ਚੰਗੀ ਹੈ ਉਹ ਆਯੂ ਜਿਹੜੀ ਸਾਂਈ ਦੀ ਯਾਦ ਵਿਚ ਗੁਜ਼ਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖੁਸ਼ ਅਸਤ ਉਮਰ ਕਿਹ ਦਰ ਯਾਦ ਬਿਗੁਜ਼ਰਦ ਵਰਨਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

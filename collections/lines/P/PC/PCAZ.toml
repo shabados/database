@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ ਅੰਦਰ ਦੀ) ਸ਼ਾਂਤੀ ਨੇ ਮੇਰੀ ਤਪਸ਼ ਬੁਝਾ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਸਿ = ਚੰਦ੍ਰਮਾ, ਸੀਤਲਤਾ, ਠੰਢ, ਆਤਮਕ ਸ਼ਾਂਤੀ। ਸੂਰ = ਸੂਰਜ, ਤਪਸ਼, ਮਨ ਦੀ ਵਿਕਾਰਾਂ ਦੀ ਤਪਸ਼। ਗਿਰਾਸਾ ਕੀਨੋ = ਹੜੱਪ ਕਰ ਲੈਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

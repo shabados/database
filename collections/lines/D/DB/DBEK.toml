@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੇ ਸਰੀਰ ਵਿਚੋਂ ਕਾਮ ਚਲਾ ਜਾਂਦਾ ਹੈ ਕ੍ਰੋਧ ਚਲਾ ਜਾਂਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨ ਤੇ = ਸਰੀਰ ਤੋਂ। ਜਾਇ = ਚਲਾ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

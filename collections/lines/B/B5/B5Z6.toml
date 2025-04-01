@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਨੂੰ ਮਨ ਵਿਚ ਮਿੱਠੀ ਕਰ ਕੇ ਮੰਨਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗਿਆ = ਹੁਕਮ, ਰਜ਼ਾ। ਆਤਮ = ਆਪਣੇ ਅੰਦਰ। ਹਿਤਾਵੈ = ਹਿਤ ਵਾਲੀ ਜਾਣੇ, ਮਿੱਠੀ ਕਰ ਕੇ ਮੰਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

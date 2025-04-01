@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸਿਰਜਣਹਾਰ ਤਾਂ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ (ਬਾਹਰ ਜੰਗਲਾਂ ਵਿਚ ਭਾਲਣਾ ਵਿਅਰਥ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਥੈ ਕਿਥੈ = ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

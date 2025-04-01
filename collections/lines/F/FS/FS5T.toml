@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਇਹ) ਨਿਮਾਣੀ ਜਿੰਦ (ਗੋਪਾਲ ਦਾ) ਸਹਾਰਾ ਗੰਵਾ ਬੈਠਦੀ ਹੈ ਤਾਂ ਥਰਥਰ ਕੰਬਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅੜਾ = ਨਿਮਾਣਾ ਜੀਵ, ਨਿਮਾਣੀ ਜਿੰਦ (ਨੋਟ: 'ਜੀਵ' ਲਫ਼ਜ਼ ਤੋਂ 'ਜੀਅੜਾ' ਅਲਪਾਰਥਕ ਨਾਂਵ ਹੈ)। ਥਾਨੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

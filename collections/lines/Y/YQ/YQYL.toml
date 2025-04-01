@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ ਸਤਿਗੁਰੂ ਨੇ) ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ (ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਕਰ ਦਿੱਤਾ ਹੈ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "xxx ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

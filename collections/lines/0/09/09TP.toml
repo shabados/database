@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤ ਸੰਗੀਓ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਸਿਮਰਨ ਦੀ ਖੱਟੀ ਖੱਟਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਹਰਿ = ਹੇ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ (ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਸੁਣਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਨਾਮ ਹੀ ਮੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣੀ = ਸੁਣੀਂ, ਮੈਂ ਸੁਣਦਾ ਹਾਂ। ਨਾਮੋ = ਨਾਮ ਹੀ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

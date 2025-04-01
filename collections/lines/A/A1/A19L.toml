@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਬ੍ਰਾਹਮਣ! ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਕਿਉਂ ਨਹੀਂ ਸਿਮਰਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਮ੍ਹ੍ਹਨ = ਹੇ ਬ੍ਰਾਹਮਣ! {ਨੋਟ: ਪਹਿਲੀ ਤੁਕ ਵਿਚ ਲਫ਼ਜ਼ 'ਬ੍ਰਹਮਨ' ਕਰਤਾ ਕਾਰਕ ਇਕ-ਵਚਨ ਹੈ, 'ਰਹਾਉ' ਵਿਚ ਲਫ਼ਜ਼ 'ਬਾਮ੍ਹ੍ਹਨ' ਸੰਬੋਧਨ ਇਕ-ਵਚਨ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

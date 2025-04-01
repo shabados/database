@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੱਥੋਂ ਤਕ ਹੋ ਸਕੇ, ਕਿਸੇ ਲਾਲਚੀ ਮਨੁੱਖ ਦਾ ਇਤਬਾਰ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਕੀਜੈ = ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ। ਵੇਸਾਹੁ = ਇਤਬਾਰ। ਜੇਕਾ ਪਾਰਿ = ਜਿੱਥੋਂ ਤਕ। ਵਸਾਇ = ਵੱਸ (ਚੱਲ ਸਕੇ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

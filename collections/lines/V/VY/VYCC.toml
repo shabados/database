@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ (ਹਰੀ) ਆਪ ਹੀ ਸਭ ਜੀਆਂ ਦੇ ਅੰਦਰ ਵਿਆਪਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ। ਗੁਣਤਾਸੁ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

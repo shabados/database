@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਵਿਚ ਸੜੀ ਹੋਈ (ਖੇਤੀ ਫਿਰ) ਹਰੀ ਨਹੀਂ ਹੁੰਦੀ, ਭਾਵੇਂ (ਉਸ ਖੇਤੀ ਨੂੰ) ਪਾਣੀ ਵਿਚ (ਕੋਈ) ਡੋਬਾ ਦੇ ਦੇਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੀ = ਤੱਤੀ, ਸੜੀ ਹੋਈ। ਤੋਇ = ਪਾਣੀ ਵਿਚ। ਪਲਵੈ = ਪਲ੍ਹਰਦੀ ਹੈ, ਪ੍ਰਫੁਲਤ ਹੁੰਦੀ ਹੈ। ਜਲਿ = ਜਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

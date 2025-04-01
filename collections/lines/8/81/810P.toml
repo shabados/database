@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੱਪ ਦੀ ਖੁੱਡ ਬੰਦ ਕਰ ਦਿੱਤੀ ਜਾਏ, (ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਉਸ ਖੁੱਡ ਵਿਚ ਰਹਿਣ ਵਾਲਾ) ਸੱਪ ਨਹੀਂ ਮਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਮੀ = ਸੱਪ ਦੀ ਖੁੱਡ। ਮਾਰੀ = ਬੰਦ ਕਰ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

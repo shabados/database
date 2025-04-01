@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਤਾਣ ਆਪਣੇ ਬਾਦਸ਼ਾਹ ਦੇ ਚਰਨਾਣ ਤੇ ਆਪਣਾ ਸਿਰ ਰੱਖ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਬਪਾਇ ਸ਼ਾਹ ਸਰ ਅਫ਼ਗੰਦਾ-ਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

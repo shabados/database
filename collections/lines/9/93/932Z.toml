@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੋ ਵੀ ਉਸ ਤੋਣ ਗ਼ਾਫਲ ਰਿਹਾ ਹੈ, ਉਹ ਕਿਵੇਣ ਅਕਲਮੰਦ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਗ਼ਾਫ਼ਿਲ ਸ਼ੁਦ ਚਿਰਾ ਆਕਿਲ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

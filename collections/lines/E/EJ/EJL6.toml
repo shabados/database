@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਦਾ ਦਰਬਾਰ ਹੈਰਾਨ ਕਰਨ ਵਾਲਾ ਹੈ, ਉਸ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ) ਅਨੇਕਾਂ ਹੀ ਹਵਾ ਪਾਣੀ ਅਤੇ ਅੱਗ (ਆਦਿਕ) ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਨ = ਹਵਾ। ਪਾਵਕ = ਅੱਗ। ਅਰੁ = ਅਤੇ (ਅਰਿ = ਵੈਰੀ)। ਨੀਰ = ਪਾਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੁਰ-ਸਿੱਖੋ!) ਮੈਨੂੰ ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਮਿੱਠਾ ਜਿਹਾ ਸਨੇਹਾ ਦਿਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਦੇਸਰੋ = ਪਿਆਰਾ ਸੰਦੇਸ਼। ਕਹੀਅਉ = ਦੱਸੋ। ਪ੍ਰਿਅ ਸੰਦੇਸਰੋ = ਪਿਆਰੇ ਦਾ ਮਿੱਠਾ ਸੁਨੇਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

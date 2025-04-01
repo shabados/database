@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ) ਭਜਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਮਿੱਟੀ ਹੁੰਦਾ ਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੇਹ = ਮਿੱਟੀ, ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

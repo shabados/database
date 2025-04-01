@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸੱਚੀ ਬੋਲ-ਚਾਲ ਦੇ ਮੱਥੇ ਦੀ ਚਮਕ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਫ਼ਰੋਗ਼ਿ ਜਬੀਨਿ ਰਸੂਖੋ ਸਦਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

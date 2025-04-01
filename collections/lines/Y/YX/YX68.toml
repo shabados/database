@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਮਿਹਰ ਸਦਕਾ ਦੋਵੇਂ ਜਹਾਨ ਸਫਲ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਸਾਇਲੇ ਲੁਤਫ਼ਿ ਹੱਕ ਪਰਵਰਸ਼ ।"
+page = 8
+line = 95
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

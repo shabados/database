@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਵਜੂਦ ਸੱਚ ਸਦਕਾ ਸਦੀਵੀ ਅਤੇ ਅਮਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਜੂਦਸ਼ ਬਹੱਕ ਪਾਇਦਾਰੋ ਮੁਦਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

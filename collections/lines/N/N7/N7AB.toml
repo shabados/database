@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਮੰਗਤੇ ਨੂੰ ਸੱਤਾਣ ਵਲਾਇਤਾਣ ਦਾ ਬਾਦਸ਼ਾਹ ਬਣਾ ਦਿੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਗ਼ਦਾ ਰਾ ਬਾਦਸ਼ਾਹਿ ਹਫ਼ਤ-ਕਿਸ਼ਵਰ ਮੀ ਕੁਨਦ ।੩੧।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

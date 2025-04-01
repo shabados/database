@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੱਸਿਆ ਵਾਲੇ ਦਿਨ (ਵਰਤ-ਇਸ਼ਨਾਨ ਆਦਿਕ ਤੇ ਹੋਰ ਹੋਰ) ਆਸਾਂ ਦੂਰ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਰਹੁ = ਦੂਰ ਕਰੋ। ਅੰਮਾਵਸ ਮਹਿ = ਮੱਸਿਆ ਵਾਲੇ ਦਿਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

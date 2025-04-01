@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਸ ਗੋਯਾ ਦੇ ਦਿਲ ਦੀ ਏਨੀ ਹੀ ਚਾਹ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਗੋਯਾ ਹਮੀਣ ਰਾ ਆਰਜ਼ੂ ਕਰਦ ।੩੩।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

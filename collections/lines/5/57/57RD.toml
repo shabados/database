@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪ੍ਰਭੂ-ਸਿਮਰਨ ਤੋਂ ਖੁੰਝ ਕੇ ਹੋਰ ਹੋਰ ਕੰਮ ਕਰਨੇ ਫਿਟਕਾਰ-ਜੋਗ ਹੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧ੍ਰਿਗੁ = ਫਿਟਕਾਰ-ਯੋਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

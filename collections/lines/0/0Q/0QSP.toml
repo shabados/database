@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਸਦਾ ਪਰਮਾਤਮਾ ਨਾਲ ਸੁਰਤਿ ਜੋੜੀ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਤੀ = ਨਾਲ। ਲਿਵ = ਲਗਨ। ਮਨ ਰੇ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

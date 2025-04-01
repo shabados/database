@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪੰਡਿਤ! (ਜਗਤ ਵਿਚ) ਚਾਹੇ ਕੋਈ ਭਲਾ ਹੈ ਚਾਹੇ ਬੁਰਾ ਹੈ ਹਰੇਕ ਵਿਚ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਹੀ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

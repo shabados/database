@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਸਤਿਗੁਰੂ ਜਿਸ ਨੇ ਮੈਨੂੰ ਰੱਬ ਤੋਂ ਜਾਣੂ ਕਰਵਾ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਮੁਰਸ਼ਦ ਕਿ ਬਾ ਹੱਕ ਆਸ਼ਨਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

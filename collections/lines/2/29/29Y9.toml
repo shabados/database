@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਾਣੀ!) ਆਪਣੇ ਕੀਤੇ ਕਮਾਏ ਕਰਮਾਂ ਅਨੁਸਾਰ ਦੁੱਖ ਸਹਾਰਦਾ ਹੈ ਤੇ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਵਾਇਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਤ = ਕੀਤੇ ਹੋਏ। ਕਮਾਣੇ = ਕਮਾਏ ਹੋਏ। ਪਰਾਣੀ = ਹੇ ਪ੍ਰਾਣੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

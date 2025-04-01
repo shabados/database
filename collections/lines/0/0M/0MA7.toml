@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਹਰੇਕ ਜੀਵ ਤੇਰਾ (ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ), ਸਾਰੇ ਜੀਵ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

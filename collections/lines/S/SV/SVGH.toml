@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਤੇ ਜਗਤ ਦਾ ਆਸਰਾ ਪ੍ਰਭੂ ਆਪ ਉਸ ਨੂੰ ਆ ਮਿਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗਜੀਵਨੁ = ਜਗਤ ਦਾ ਜੀਵਨ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

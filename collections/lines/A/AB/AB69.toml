@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਸ਼ਰਮਿੰਦੇ ਦਿਲ ਨੂੰ ਸੁਰਖੁਰੂ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਰਖ਼ੁਰੂ ਕੁਨ ਹਰ ਦਿਲਿ ਸ਼ਰਮਿੰਦਾ ਰਾ ।੫੦੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

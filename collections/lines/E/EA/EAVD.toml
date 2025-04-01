@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ ਵਿਚ ਇਸ ਤਰ੍ਹਾਂ ਦੇ) ਕਈ ਮੰਗਤੇ ਤੇ ਕਈ ਦਾਤੇ ਹਨ, ਪਰ ਮੈਨੂੰ ਤੇਰਾ ਨਾਮ ਹੀ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਾਣੁ = ਕਬੂਲ, ਪਸੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

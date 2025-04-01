@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਪ੍ਰਭੂ-ਨਾਮ ਦਾ ਮਿੱਠਾ ਸੁਆਦ ਚੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੁ = ਸ੍ਰੇਸ਼ਟ, ਚੰਗਾ, ਮਿੱਠਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

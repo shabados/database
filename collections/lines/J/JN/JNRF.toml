@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਬਖਸ਼ਿਸ਼ਾਂ ਅਤੇ ਭੇਟਾਂ ਦੇ ਆਸਮਾਨ ਦਾ ਚੰਦਰਮਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਪਹਿਰਿ ਸਖ਼ਾ ਓ ਅਤਾ ਰਾ ਕਮਰ ।੧੦੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ) ਮਨ ਦੇ ਫੁਰਨੇ ਨੂੰ ਸਿਰਫ਼ ਨਿਰੰਕਾਰ (ਦੀ ਯਾਦ) ਵਿਚ ਸ਼ਾਂਤ ਕਰ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = (मनीषा) ਮਨ ਦਾ ਫੁਰਨਾ। ਮਾਨਿ = ਸ਼ਾਂਤਿ ਕਰ। ਨਿਰੰਕੇਰੈ = ਨਿਰੰਕਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

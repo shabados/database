@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! (ਇਸ ਤਰ੍ਹਾਂ) ਉਸ ਸਭ ਤੋਂ ਵੱਡੇ ਗੋਰਖ (ਜਗਤ-ਰੱਖਿਅਕ ਪ੍ਰਭੂ) ਦੀ ਤੈਨੂੰ ਸੋਝੀ ਨਹੀਂ ਪਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਰਖ = ਗੋਪਾਲ {ਗੋ = ਧਰਤੀ। ਰਖ = ਰੱਖਿਆ ਕਰਨ ਵਾਲਾ}। ਤੈ = ਤੂੰ, ਤੈਂ। ਬੂਝ = ਸੋਝੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

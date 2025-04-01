@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਮਸਕੀਨਾਣ ਦੀ ਕੌਮ, ਰੱਬ ਦੇ ਬੰਦਿਆਣ ਦੀ ਕੌਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੌਮਿ ਮਿਸਕੀਣ ਕੌਮਿ ਮਰਦਾਨਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

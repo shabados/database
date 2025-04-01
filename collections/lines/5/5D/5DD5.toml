@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਜਗਤ ਦਾ ਮੂਲ ਹੈ, ਤੇ, ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣ ਕਾਰਣ = ਜਗਤ ਦਾ ਮੂਲ। ਕਰਣ = ਜਗਤ। ਸਮਰਾਥਾ = ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

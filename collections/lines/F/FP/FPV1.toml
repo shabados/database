@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਦੇ) ਜੰਮਣ ਮਰਨ ਦਾ ਤਮਾਸ਼ਾ ਤੂੰ ਆਪ ਹੀ ਰਚਾਇਆ ਹੋਇਆ ਹੈ, ਇਹ ਤਮਾਸ਼ੇ ਰਚ ਕੇ ਤੂੰ ਆਪ ਹੀ ਵੇਖ ਰਿਹਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਜ = ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

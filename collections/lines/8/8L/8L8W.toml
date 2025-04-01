@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਬੰਦੇ ਪੂਰੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਚਿੱਤ ਜੋੜ ਕੇ ਆਪਣੇ ਮਾਲਕ ਦੀ ਬੰਦਗੀ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸਬਦ ਵਿਚ। ਵੀਚਾਰਿ = ਵਿਚਾਰ ਕਰਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

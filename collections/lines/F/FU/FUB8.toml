@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਸਦਾ ਜੁੜਿਆ ਰਹੁ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਚੁ = ਜੁੜਿਆ ਰਹੁ। ਰੰਗਿ = ਪ੍ਰੇਮ ਵਿਚ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

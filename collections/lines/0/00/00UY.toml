@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਮੱਥੇ ਉੱਤੇ (ਪੂਰਬਲੇ ਕਰਮਾਂ ਦਾ) ਭਾਗ ਜਾਗ ਪਏ ਤਾਂ ਮੈਂ ਉਹਨਾਂ ਸੁਹਾਗਣਾਂ ਦੀ ਸੰਗਤਿ ਹਾਸਲ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਥੈ = ਮੱਥੇ ਉਤੇ। ਸੰਗੁ = ਸਾਧ, ਸੰਗਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

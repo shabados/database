@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਸ ਜਗਤ-ਰਚਨਾ ਦਾ ਬਣਾਣ ਵਾਲਾ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਨ ਕਰਨ = ਕਰਨ ਦਾ ਕਾਰਨ, ਕੀਤੇ ਹੋਏ (ਜਗਤ) ਦਾ ਬਣਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

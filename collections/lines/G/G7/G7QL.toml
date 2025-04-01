@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੀ ਹਉਮੈ ਮੁੱਕ ਜਾਂਦੀ ਹੈ, ਮਨ ਵਿਚ ਆਨੰਦ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਮਨ ਵਿਚੋਂ ਹਉਮੈ ਦਾ ਅਭਾਵ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਥੇ ਪ੍ਰਭੂ ਆਪ ਆ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਮੈ। ਤਿਹ ਹਉ = ਉਸ ਮਨੁੱਖ ਦੀ ਹਉਮੈ। ਤਹ = ਉਥੇ, ਉਸ ਦੇ ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

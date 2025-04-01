@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਨਿਕਰਮਣ ਜੀਭ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖ, ਤੇ ਹੋਰ ਹੋਰ ਰਸਾਂ ਦੇ ਸੁਆਦ ਛੱਡ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਨਾ ਮੁਯੇ = ਹੇ ਨਿਕਰਮਣ ਜੀਭ! ਅਨ ਰਸ ਸਾਦ = ਹੋਰਨਾਂ ਰਸਾਂ ਦੇ ਸਵਾਦ। ਗਵਾਏ = ਗਵਾਇ, ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

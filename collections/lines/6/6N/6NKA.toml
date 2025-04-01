@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਸੁਖਾਂ ਦੇ ਦਾਤੇ ਪਤੀ! (ਤੇਰੇ ਵਿਚ ਕੋਈ) ਦੋਸ ਨਹੀਂ, ਮੈਂ ਮੰਦ-ਕਰਮਣ ਆਪ ਹੀ ਤੈਥੋਂ ਵਿੱਛੁੜੀ ਹੋਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰ = ਹੇ ਪਤੀ! ਹਉ = ਮੈਂ (ਆਪ)। ਬੁਰਿਆਰੇ = ਮੰਦ-ਕਰਮਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

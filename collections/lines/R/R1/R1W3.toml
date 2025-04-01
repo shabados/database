@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲਾਲ ਤੇ ਚਿੱਟੇ ਦੁਲੀਚਿਆਂ ਉਤੇ ਬੈਠ ਕੇ ਬੜੀਆਂ ਮਜਲਸਾਂ ਲਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਪੇਦ = ਚਿੱਟੇ। ਸਭਾ = ਮਜਲਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

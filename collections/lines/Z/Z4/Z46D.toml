@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀਆਂ ਮੋਹ-ਭਰੀਆਂ ਆਸਾਂ ਹੁਣ ਮੁੱਕ ਗਈਆਂ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹ ਮਇ = ਮੋਹ ਦੀ ਭਰੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

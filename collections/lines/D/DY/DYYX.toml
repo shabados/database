@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਆਪਣੇ ਮਨ ਵਿਚ ਇਕੱਠਾ ਕਰ ਰੱਖ ॥੨੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਜਿ ਧਰਿ = ਸੰਚ ਲੈ, ਇਕੱਠਾ ਕਰ ॥੨੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

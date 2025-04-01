@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਦੁਰਲੱਭ ਮਨੁੱਖਾ ਸਰੀਰ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = (ਮਨੁੱਖਾ) ਸਰੀਰ। ਦੁਲਭ = ਮੁਸ਼ਕਿਲ ਨਾਲ ਮਿਲਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

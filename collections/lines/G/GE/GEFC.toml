@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਸਹੇੜਦਾ, ਉਹ ਸਦਾ ਹੀ ਆਤਮਕ ਜੀਵਨ ਜੀਊਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰੈ = ਆਤਮਕ ਮੌਤ ਸਹੇੜਦਾ ਹੈ। ਸਦ ਸਦ ਹੀ = ਸਦਾ ਹੀ ਸਦਾ ਹੀ। ਜੀਵੈ = ਆਤਮਕ ਜੀਵਨ ਜੀਊਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

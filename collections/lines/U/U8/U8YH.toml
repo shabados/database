@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਵਖ ਵਖ ਹਿੱਸੇ, ਟਾਪੂ, ਸਾਰੇ ਲੋਕ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੰਡ = ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਹਿੱਸੇ। ਦੀਪ = ਜਜ਼ੀਰੇ। ਸਭਿ = ਸਾਰੇ। ਲੋਆ = ਲੋਕ, ਮੰਡਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

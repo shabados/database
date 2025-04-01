@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਨੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਕਾਮਯਾਬ ਬਣਾ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਫਲ = ਕਾਮਯਾਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

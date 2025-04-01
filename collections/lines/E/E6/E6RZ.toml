@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਕਿਰਪਾ ਕਰ) ਮੈਂ ਦਿਨ ਰਾਤ ਹਰਿ-ਨਾਮ ਜਪਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = {रजनि} ਰਾਤ। ਦਿਨਸੁ = ਦਿਨ। ਜਪਉ = ਜਪਉਂ, ਮੈਂ ਜਪਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

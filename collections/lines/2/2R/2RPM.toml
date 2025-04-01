@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਦੁਨੀਆ (ਵਿਚ ਜੀਉਣ) ਚਾਰ ਦਿਨਾਂ ਦਾ ਹੈ, ਇਥੇ ਮੌਜ ਮਾਣਿਆਂ ਦੁੱਖ ਹੀ ਨਿਕਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਿ ਕੀਤੈ = ਮੌਜ ਮਾਣਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

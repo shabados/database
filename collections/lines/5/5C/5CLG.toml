@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕੇ ਰਹਿਣ ਕਰਕੇ ਉਸ ਦੇ ਅੰਦਰੋਂ ਸਾਰਾ ਕਪਟ-ਭਾਵ ਮਿਟ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਾਉ = ਲੁਕਾ, ਕਪਟ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

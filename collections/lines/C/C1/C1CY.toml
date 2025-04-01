@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਹੇ ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਸਮਰਥ = ਹੇ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਸਿਮਰਉ = ਮੈਂ ਸਿਮਰਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

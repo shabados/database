@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਤਿਗੁਰੂ ਦੇ ਦਰਸ਼ਨ ਵਲੋਂ) ਅੰਨ੍ਹਾ (ਤੇ ਉਪਦੇਸ਼ ਵਲੋਂ) ਬੋਲਾ ਖੁੰਝ ਕੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੁਇ = ਖੁੰਝ ਕੇ। ਉਝੜਿ = ਕੁਰਾਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

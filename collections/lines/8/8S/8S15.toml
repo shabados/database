@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਲ ਦਾ ਜੋ ਦੁੱਖ ਹੋਵੇ ਉਹ ਆਪਣੇ ਸਤਿਗੁਰੂ ਅਗੇ ਬੇਨਤੀ ਕਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = (ਸੰ: ਵ੍ਯਥਾ) ਪੀੜ, ਦੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

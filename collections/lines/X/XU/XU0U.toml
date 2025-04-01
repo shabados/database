@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਆਪ ਹੀ ਜਜ਼ੀਰੇ ਹੈ, ਆਪ ਹੀ ਸਾਰੇ ਭਵਨ ਹੈ, ਆਪ ਹੀ (ਸਾਰੇ ਭਵਨਾਂ ਵਿਚ) ਚਾਨਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਪ = ਜਜ਼ੀਰੇ। ਲੋਅ = ਲੋਕ, ਭਵਨ {ਬਹੁ-ਵਚਨ}। ਦੀਪਾਹਾ = ਰੌਸ਼ਨੀ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

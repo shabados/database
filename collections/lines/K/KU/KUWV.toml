@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਵਾਂ (ਇਹ ਮੇਰੀ ਕਾਮਨਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਉ = ਮੈਂ ਗਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

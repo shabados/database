@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹੇ ਪਿਆਰੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਮੈਨੂੰ (ਅਸਲ) ਧਨ (ਅਸਲ) ਸਰਮਾਇਆ (ਜਾਪਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

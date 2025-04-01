@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਸਰੀਰ ਬਣਾ ਕੇ (ਉਸ ਵਿਚ) ਜਿੰਦ ਪਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟੀ = ਸਰੀਰ। ਜੋਤਿ = ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ ਵੇਦਾਂਤ ਆਦਿਕ) ਛੇ ਸ਼ਾਸਤ੍ਰਾਂ (ਦੀ ਵਿਕਾਰ) ਦਾ ਰਿਵਾਜ ਚੱਲ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਟੁ = ਛੇ। ਖਟੁ ਦਰਸਨ = ਛੇ ਸ਼ਾਸਤ੍ਰ {ਸਾਂਖ, ਨਿਆਏ, ਵੈਸ਼ੇਸ਼ਿਕ, ਮੀਮਾਂਸਾ, ਯੋਗ, ਵੇਦਾਂਤ}। ਵਰਤਾਰਾ = ਰਿਵਾਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

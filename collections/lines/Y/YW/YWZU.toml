@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਾਲਕ! ਜਿਨ੍ਹਾਂ ਸੰਤ ਜਨਾਂ ਨੇ ਤੈਨੂੰ ਜਾਣ ਲਿਆ (ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਲਈ), ਉਹਨਾਂ ਦਾ ਹੀ ਜਗਤ ਵਿਚ ਆਉਣਾ ਸਫਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂ = ਤੈਨੂੰ। ਠਾਕੁਰ = ਹੇ ਮਾਲਕ! ਤੇ = ਉਹ {ਬਹੁ-ਵਚਨ}। ਆਏ = (ਜਗਤ ਵਿਚ) ਆਏ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

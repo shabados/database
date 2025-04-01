@@ -5,6 +5,13 @@ language = "pa"
 data = "ਹਰਖ ਅਤੇ ਸੋਗ ਦੇ ਦਿਨ ਗਿਣਦੇ ਹਨ ॥"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਸ਼ੁਮਾਰੰਦ ਰੂਜ਼ਿ ਸ਼ਾਦੀ ਓ ਗ਼ਮ ।੪੩।"
+page = 1
+line = 43
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ, ਮੂਰਖ ਗੋਯਾ, ਤੂੰ ਫਾਲਤੂ ਗੱਲਾਣ ਨ ਕਰ, ਉਸ ਦੇ ਪਿਆਰ ਦੀ ਡੀਣਗ ਨ ਮਾਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਬੁਅਲਫ਼ਜ਼ੂਲ ਗੋਯਾ ਅਜ਼ ਇਸ਼ਕਿ ਊ ਮੱਜ਼ਨ ਦਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

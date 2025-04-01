@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਇਹ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ ਕਿ ਕਿਤੇ ਭੀ ਕੋਈ ਚੀਜ਼ (ਸਦਾ-ਥਿਰ) ਨਹੀਂ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ = ਜਦੋਂ। ਜਾਪੈ = ਇਹ ਸਮਝ ਆਉਂਦੀ ਹੈ ਕਿ। ਕਿਥਾਊ = ਕਿਤੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

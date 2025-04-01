@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਇਸ ਨੂੰ (ਕਿਸੇ ਨਾਲ) ਕੋਈ ਸਾੜਾ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸ ਨੋ = {'ਇਸ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਨੋ' ਦੇ ਕਾਰਨ}। ਤਾਤਾ = ਸਾੜਾ, ਈਰਖਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

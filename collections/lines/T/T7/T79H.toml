@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸਨੇ ਸਭ ਤੋਂ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ਹਾਸਲ ਕਰ ਲਿਆ ਹੈ ॥੪॥੪੮॥੧੧੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮ ਪਦੁ = ਸਭ ਤੋਂ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

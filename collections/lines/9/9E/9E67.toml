@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੇਵਤਿਆਂ ਨੇ ਮੰਗਲਚਾਰ ਕੀਤਾ ਹੈ, ਤੇਰਾ ਜਸ ਤੇ ਜੈ-ਜੈਕਾਰ ਕਰ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹਸੁ = ਖ਼ੁਸ਼ੀ, ਮੰਗਲ। ਸੁਰਦੇਵ = ਦੇਵਤਿਆਂ ਨੇ। ਤੋਹਿ ਜਸੁ = ਤੇਰਾ ਜਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

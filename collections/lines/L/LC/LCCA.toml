@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਤਾਂ) ਸਿਮਰਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਪਸਿ = ਤੂੰ ਨਹੀਂ ਜਪਦਾ। ਗਵਾਰਾ = ਹੇ ਗੰਵਾਰ! ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

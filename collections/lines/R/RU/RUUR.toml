@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਤਸ਼ਾਹ ਨਾਲ ਜਪਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਮਾਹਾ = ਉਤਸ਼ਾਹ (ਨਾਲ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਨਾਨਕ ਤੇਰੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਤੇਰੇ ਅੱਗੇ (ਹੀ) ਅਰਦਾਸ-ਬੇਨਤੀ ਕਰਦਾ ਹੈ ॥੧੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਨਿ ਦਾਸੁ = ਦਾਸਾਂ ਦਾ ਦਾਸ ॥੧੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

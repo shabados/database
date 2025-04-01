@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਤੁਸੀ ਮੇਰੇ ਹਰਿ-ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਵੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਜੀਉ = ਹੇ ਸੰਤ ਜੀ! ਕੇਰੇ = ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

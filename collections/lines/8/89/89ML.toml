@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਰਾਤ, ਦਿਨ, ਤਾਰੇ, ਸੂਰਜ, ਚੰਦ੍ਰਮਾ-ਇਹ ਸਾਰੇ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ। ਬਾਸੁਰ = ਦਿਨ। ਨਖਿਅਤ੍ਰ = ਤਾਰੇ। ਬਿਨਾਸੀ = ਨਾਸਵੰਤ। ਰਵਿ = ਸੂਰਜ। ਸਸੀਅਰ = {शशधर} ਚੰਦ੍ਰਮਾ। ਬੇਨਾਧਾ = ਨਾਸਵੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

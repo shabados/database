@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ ਫਲ; ਹੇ ਨਾਨਕ! ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਆ ਵੱਸਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹ ਫਲ = ਇਹ ਸਾਰੇ ਫਲ (ਜਿਨ੍ਹਾਂ ਦਾ ਜ਼ਿਕਰ ਉਪਰ ਕੀਤਾ ਹੈ)। ਮੁਖਿ = ਮੂੰਹ ਤੋਂ। ਭਨੇ = ਉਚਾਰਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

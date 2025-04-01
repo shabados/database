@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਆਪਣੇ ਵਰਗੇ) ਆਪ ਹੀ ਆਪ! ਹੇ ਮਿਹਰਵਾਨ! ਹੇ ਅਪਹੁੰਚ! ਹੇ ਡੂੰਘੇ ਜਿਗਰੇ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਅਥਾਹੇ = ਹੇ ਅਥਾਹ! ਹੇ ਡੂੰਘੇ ਜਿਗਰੇ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

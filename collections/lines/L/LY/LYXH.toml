@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਨੀਵੀਂ ਜਾਤਿ ਦਾ ਸਮਝ ਕੇ ਕੋਈ ਜਾਣਦਾ-ਪਛਾਣਦਾ ਭੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਚ ਕਉ = ਨੀਵੀਂ ਜਾਤੀ ਵਾਲੇ ਮਨੁੱਖ ਨੂੰ। ਨ ਜਾਨੈ = ਨਹੀਂ ਜਾਣਦਾ-ਪਛਾਣਦਾ, ਕਿਸੇ ਗਿਣਤੀ ਵਿਚ ਨਹੀਂ ਗਿਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

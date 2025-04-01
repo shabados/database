@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਉਹ ਸਤਿਗੁਰੂ, ਜਿਸ ਨੇ ਦਿਲ ਨੂੰ ਚਾਉ ਬਖਸ਼ਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਮੁਰਸ਼ਦ ਕਿ ਦਿਲ ਰਾ ਸ਼ੌਕ ਦਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

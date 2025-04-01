@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਮਨੁੱਖ (ਤੇਰੀ ਮਿਹਰ ਨਾਲ) ਤੇਰੀ ਸਰਨ ਆਉਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮ = ਹੇ ਪਾਰਬ੍ਰਹਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

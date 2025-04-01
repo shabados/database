@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਹੈਂ ਬਨਵਾਲੀ ਤੇ ਸੁਦਰਸ਼ਨ-ਚੱਕ੍ਰ-ਧਾਰੀ। ਤੂੰ ਬੇ-ਮਿਸਾਲ ਸਰੂਪ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਵਾਲੀ = ਬਨ ਹੈ ਮਾਲਾ ਜਿਸ ਦੀ। ਚਕ੍ਰਪਾਣਿ = {ਪਾਣਿ = ਹੱਥ} ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ (ਸੁਦਰਸ਼ਨ) ਚੱਕ੍ਰ ਹੈ। ਦਰਸਿ ਅਨੂਪਿਆ = ਉਪਮਾ-ਰਹਿਤ ਦਰਸਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

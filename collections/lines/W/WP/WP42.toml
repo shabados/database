@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਸਲ ਵਿਚ ਜਦ ਮੈਂ ਤੇਰਾ ਰਾਹ ਵਿਖਾਉਣ ਵਾਲਾ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਹਕੀਕਤ ਮਨਮ ਚੂ ਰਾਹ-ਨੁਮਾ ।"
+page = 1
+line = 31
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

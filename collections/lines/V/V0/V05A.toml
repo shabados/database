@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਯਕੀਨ ਆ ਗਿਆ ਹੈ ਕਿ) ਇਹ ਸਾਰਾ ਜਗਤ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਇਹ ਤਿੰਨੇ ਭਵਨ ਤੇਰੇ ਹੀ ਬਣਾਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਭਵਣੋ = ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਾਲਾ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

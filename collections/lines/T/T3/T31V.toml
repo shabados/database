@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਇਹ ਸਾਰਾ ਦਿੱਸਦਾ ਜਗਤ ਕਰਤਾਰ ਨੇ ਆਪ ਬਣਾਇਆ ਹੈ, ਇਸ ਜਗਤ ਵਿਚ ਉਸ ਨੇ ਆਪ ਹੀ ਆਪਣੀ ਜੋਤੀ ਰੱਖੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਪੰਚੁ = ਇਹ ਦਿੱਸਦਾ ਸੰਸਾਰ। ਸਭੁ = ਸਾਰਾ। ਕਰਤੈ = ਕਰਤਾਰ ਨੇ। ਧਰਈਐ = ਧਰੀ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਕਿਥੇ ਕੋਈ ਵੇਦ (ਹਿੰਦੂ ਧਰਮ ਪੁਸਤਕ) ਤੇ ਕਤੇਬਾਂ (ਮੁਸਲਮਾਨਾਂ ਦੇ ਧਰਮ ਪੁਸਤਕ) ਵਿਚਾਰਦਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਨ੍ਹ੍ਹ = ਜਾਣਦਾ, ਪਛਾਣਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮੇਸ਼ਰ ਦਾ ਨਾਮ ਜਪਣ ਤੋਂ ਖੁੰਝ ਕੇ ਮਨੁੱਖ ਜੋ ਕੁਝ ਭੀ ਕਰਦਾ ਹੈ, ਉਸ ਨਾਲ ਜ਼ਿੰਦਗੀ ਫਿਟਕਾਰ-ਜੋਗ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਟੁ = ਫਿਟਕਾਰ-ਯੋਗ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

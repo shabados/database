@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਧੀਆ ਹਾਥੀ, ਵਧੀਆ ਘੋੜੇ, ਸੋਨਾ, ਪੁੱਤਰ, ਇਸਤ੍ਰੀ-(ਇਹਨਾਂ ਦਾ ਮੋਹ ਜੂਏ ਦੀ ਖੇਡ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੈਵਰ = ਗਜ ਵਰ, ਵਧੀਆ ਹਾਥੀ। ਹੈਵਰ = ਹਯ ਵਰ, ਵਧੀਆ ਘੋੜੇ। ਕੰਚਨ = ਸੋਨਾ। ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

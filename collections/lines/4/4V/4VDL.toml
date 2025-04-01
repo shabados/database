@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਜਿਸ ਤਰ੍ਹਾਂ ਮੈਂ ਆਪਣਾ ਜੀਵਨ ਅਜਾਈਂ ਗਵਾ ਲਿਆ, ਉਹ ਮੈਂ ਕਿੱਥੋਂ ਤਕ ਆਪਣੀ ਕਰਤੂਤ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕੀਹ? ਕਹਾਉ = ਕਹਾਉਂ, ਮੈਂ ਕਹਾਂ। ਕਰਨੀ = ਆਚਰਨ। ਜਿਹ ਬਿਧਿ = ਜਿਸ ਤਰੀਕੇ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

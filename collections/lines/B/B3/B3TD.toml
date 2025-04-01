@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੂਰਖ ਮਨੁੱਖ ਨੇ (ਆਪਣਾ ਪੈਰ ਮੋਹ ਦੇ ਚਿੱਕੜ ਵਿਚ) ਫਸਾਇਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਹਡਿਓ = ਗੱਡਿਆ ਹੋਇਆ ਹੈ, ਫਸਾਇਆ ਹੋਇਆ ਹੈ। ਮੂੜ ਨਰਿ = ਮੂਰਖ ਮਨੁੱਖ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

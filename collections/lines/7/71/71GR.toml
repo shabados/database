@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕ ਸੰਤ ਜਨਾਂ ਨੂੰ ਸਦਾ ਸਦਾ ਨਮਸਕਾਰ ਕਰਦਾ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਮੋ = ਨਮਸਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

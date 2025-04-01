@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਸਹਾਰਾ ਦੇਣ ਵਾਲੇ! ਹੇ ਸਭਨਾਂ ਨੂੰ ਪਾਲਣ ਵਾਲੇ! ਮੈਂ ਨਿਮਾਣਾ ਇਕ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਧਾਰਨ = ਹੇ ਸਾਰਿਆਂ ਨੂੰ ਸਹਾਰਾ ਦੇਣ ਵਾਲੇ! ਸਰਬ ਪ੍ਰਤਿਪਾਰਨ = ਹੇ ਸਭ ਨੂੰ ਪਾਲਣ ਵਾਲੇ! ਬਿਨਉ = ਬੇਨਤੀ। ਦੀਨਾ = ਮੈਂ ਨਿਮਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

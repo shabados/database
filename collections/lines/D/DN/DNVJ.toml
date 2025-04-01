@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਿਚ) ਭੁੱਲੇ ਹੋਏ ਨੂੰ ਬੰਦਗੀ ਦੀ ਜਾਚ ਵਿੱਸਰ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪ ਤਾਲੁ = ਤਪ ਦੀ ਜਾਚ, ਬੰਦਗੀ ਦਾ ਵੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

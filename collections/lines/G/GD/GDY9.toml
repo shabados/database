@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੂੰ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸੇ ਦਾ ਡਰ ਕਿਉਂ ਮੰਨਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਕਾ = ਕਿਸ ਕਾ? ਮਾਨਹਿ = ਤੂੰ ਮੰਨਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

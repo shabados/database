@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਖੋਤਾ ਮਿੱਟੀ ਵਿਚ ਹੀ (ਲੇਟਣ ਨਾਲ) ਸੁਖ ਸਮਝਦਾ ਹੈ, ਭਾਵੇਂ ਉਸ ਦੇ ਸਰੀਰ ਉਤੇ ਚੰਦਨ ਦਾ ਲੇਪ ਪਏ ਕਰੀਏ (ਇਹੀ ਹਾਲ ਤੇਰਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ ਕਉ = ਸਰੀਰ ਨੂੰ। ਗਰਧਭ = ਖੋਤਾ। ਭਸਮ = ਸੁਆਹ, ਮਿੱਟੀ। ਸੰਗੀਤਿ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

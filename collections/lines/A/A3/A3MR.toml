@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ (ਸਰੀਰ ਵਿਚੋਂ) ਸੁਆਸ ਨਿਕਲ ਜਾਂਦਾ ਹੈ ਤਾਂ ਸਰੀਰ ਮਿੱਟੀ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਵਗਿ = ਹੋ ਜਾਇਗੀ। ਪਵਣੁ = ਸੁਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

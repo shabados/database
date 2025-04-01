@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਦੀ ਕਮਾਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਰਤੁ = ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਦਾ ਇਕੱਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

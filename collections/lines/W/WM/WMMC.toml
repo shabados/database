@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਨਸੂਰ ਵਾਣਗ ਉਸ ਨੂੰ ਪ੍ਰੇਮ ਦੀ ਸੂਲੀ ਹੀ ਠੀਕ ਫਬਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਚੂ ਮਨਸੂਰਸ਼ ਸਜ਼ਦ ਬੇ ਦਾਰਿ ਇਸ਼ਕ ।੫੦।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

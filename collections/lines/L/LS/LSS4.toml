@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਪ ਸਦਾ ਅਟੱਲ ਰਹਿੰਦਾ ਹੈ, ਨਾਹ ਕਦੇ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵੈ ਨ ਜਾਇ = ਜੇਹੜਾ ਨਾਹ ਜੰਮਦਾ ਹੈ ਨਾ ਮਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

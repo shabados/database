@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਮਾਇਆ ਦੇ) ਤਿੰਨ ਗੁਣਾਂ (ਦੇ ਪ੍ਰਭਾਵ) ਨੂੰ ਛੱਡ ਕੇ ਉਸ ਅਵਸਥਾ ਵਿਚ ਟਿਕ ਜਿਥੇ ਇਹਨਾਂ ਤਿੰਨਾਂ ਦਾ ਜ਼ੋਰ ਨਹੀਂ ਪੈਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਡਿ = ਛੱਡ ਕੇ। ਚਉਥੈ = ਉਸ ਅਵਸਥਾ ਵਿਚ ਜਿਥੇ ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

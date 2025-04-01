@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸਾਰੇ ਪੈਦਾ ਕੀਤੇ ਜਗਤ ਨੂੰ ਰੂਪ-ਰੰਗ ਦੇਣ ਵਾਲਾ ਭੀ ਤੂੰ ਆਪ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰੰਨਿਆ = ਬਿਆਨ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਦੇ ਪੈਰੀਂ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਂਈ = ਪੈਰੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

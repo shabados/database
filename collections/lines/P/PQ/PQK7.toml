@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੇ ਹਰ ਵਾਲ ਤੋਣ ਅੰਮ੍ਰਿਤ ਦੀ ਬਰਖਾ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਰਦ ਅਜ਼ ਹਰ ਮੂਇ ਸ਼ਾਣ ਆਬਿ ਹਯਾਤ ।੮੯।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

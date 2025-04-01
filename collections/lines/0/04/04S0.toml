@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਉਸ ਵੇਗਾਰੀ ਵਾਂਗ ਹੈ ਜੋ ਆਪਣੇ ਸਿਰ ਉੱਤੇ (ਬਿਗਾਨਾ) ਭਾਰ ਚੁੱਕ ਕੇ ਵੇਗਾਰ ਕੱਢਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

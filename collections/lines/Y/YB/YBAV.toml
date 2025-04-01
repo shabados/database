@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਸਾਧ ਸੰਗਤ ਵਿਚ (ਜੀਵਨ ਨੂੰ) ਪਵਿੱਤਰ ਕਰਨ ਵਾਲੀ ਬਾਣੀ ਦਾ ਉਚਾਰਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ ਬਾਣੀ = ਪਵਿੱਤਰ ਕਰਨ ਵਾਲੀ ਬਾਣੀ (ਦਾ ਉਚਾਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

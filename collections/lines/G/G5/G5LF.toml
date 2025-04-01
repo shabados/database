@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਵੇਂ ਜਹਾਨ ਗੁਰੂ ਨਾਨਕ ਸਦਕਾ ਰੋਸ਼ਨ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਨੱਵਰ ਅਜ਼ੋ ਹਰ ਦੋ ਆਲਮ ਬਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

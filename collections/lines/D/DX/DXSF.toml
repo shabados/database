@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ) ਚਿੱਟੇ ਖੰਭਾਂ ਵਾਲੀ (ਕੂੰਜ ਮਿੱਠੇ) ਬੋਲ ਬੋਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਗੇ = ਬੱਗੇ, ਚਿੱਟੇ। ਕਾਪੜ = ਕੱਪੜੇ, ਖੰਭ। ਬੈਣ = (ਮਿੱਠੇ) ਬੋਲ। ਬੋਲੈ = ਬੋਲਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

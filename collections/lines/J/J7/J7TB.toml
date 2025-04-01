@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਨੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਕਰੋੜਾਂ ਹੀ ਜੀਵ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਤਿ = ਕਿਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

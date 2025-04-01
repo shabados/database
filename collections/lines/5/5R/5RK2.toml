@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸੀਣ ਉਸ ਨਰਗਸੀ ਸੱਜਨ ਦੇ ਹੱਥੋਣ ਬੀਮਾਰ ਹਾਣ, ਜਿਸ ਦਾ ਨਰਗਸ ਵੀ ਗੁਲਾਮ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੀਮਾਰ ਨਰਗਸੇਮ ਕਿ ਨਰਗਸ ਗ਼ੁਲਾਮਿ ਊ ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

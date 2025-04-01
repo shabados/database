@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤੋਂ ਉੱਚੇ, ਅਪਾਰ ਅਤੇ ਬੇਅੰਤ ਮਾਲਕ-ਪ੍ਰਭੂ! ਕੋਈ ਭੀ ਮਨੁੱਖ ਤੇਰੇ (ਸਾਰੇ) ਗੁਣ ਨਹੀਂ ਜਾਣ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਾਰ = ਹੇ ਬੇਅੰਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

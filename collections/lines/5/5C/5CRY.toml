@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਅੱਗ ਹਵਾ ਧਰਤੀ ਤੇ ਆਕਾਸ਼-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪੁ = {आप्} ਪਾਣੀ। ਤੇਜੁ = ਅੱਗ। ਵਾਇ = ਹਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

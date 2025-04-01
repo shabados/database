@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਰਦੇਸੀ ਜੀਵਾਤਮਾ! ਤੂੰ ਕਿਉਂ (ਮਾਇਆ ਦੇ) ਜੰਜਾਲ ਵਿਚ ਫਸ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ = ਕਾਹਦੇ ਲਈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੇ ਲੋਕਾਂ ਵਾਲੀ ਉਸ ਦੀ ਸਾਰੀ ਮੁਥਾਜੀ ਮੁੱਕ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਣਿ = ਮੁਥਾਜੀ। ਲੋਕਾਣੀ = ਲੋਕਾਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

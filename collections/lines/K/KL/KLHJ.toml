@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ, ਹੇ ਜੋਗੀ! ਜਿਵੇਂ ਮਾਲਾ ਦੇ ਇਕੋ ਧਾਗੇ ਵਿਚ ਕਈ ਮਣਕੇ ਪ੍ਰੋਤੇ ਹੋਏ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੈ ਸੂਤਿ = ਇਕੋ ਧਾਗੇ ਵਿਚ, ਇਕੋ ਪਰਮਾਤਮਾ ਦੀ ਚੇਤਨ-ਸੱਤਾ ਵਿਚ। ਸੂਤਿ = ਸੂਤਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

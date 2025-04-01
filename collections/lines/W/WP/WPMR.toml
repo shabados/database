@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਸ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਜਿੰਦ ਵਾਸਤੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘਣ ਲਈ ਵਸੀਲਾ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ ਕਾ = ਜਿੰਦ ਦਾ। ਨਿਸਤਾਰਾ = ਪਾਰ-ਉਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

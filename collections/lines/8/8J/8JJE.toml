@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੁਹੂਰਤ, ਉਹ ਮਿਲਣ ਦਾ ਸਮਾਂ ਭਾਗਾਂ ਵਾਲਾ ਹੁੰਦਾ ਹੈ, ਜਦੋਂ ਧਰਤੀ ਦਾ ਸਾਂਈ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਰਤੁ = ਮੁਹੂਰਤ, ਸਾਹਾ। ਸੰਜੋਗੁ = ਮਿਲਣ ਦਾ ਸਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

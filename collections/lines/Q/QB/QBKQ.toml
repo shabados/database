@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮੂਰਖ ਬਾਹਰ ਜੰਗਲਾਂ ਵਿਚ ਮਨ ਨੂੰ ਮਾਰਨ ਵਾਸਤੇ ਗਏ ਉਹ ਮਾਰ ਨ ਸਕੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰੂ = ਮਾਰੂਥਲੇ ਵਿਚ, ਭਾਵ, ਜੰਗਲ ਬੀਆਬਾਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

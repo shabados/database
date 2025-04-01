@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਨੇ ਜਟਾਂ ਰੱਖੀਆਂ ਹੋਈਆਂ ਹਨ, ਸੁਆਹ ਭੀ ਮਲੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਹੀ = ਗ੍ਰਿਹਸਤੀ। ਬਿਭੂਤ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

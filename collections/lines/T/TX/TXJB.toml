@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਇਸ ਜਨਮ ਵਿਚ ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨ ਲਈ ਜਨਮਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਯਾ ਜੁਗ ਮਹਿ = ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

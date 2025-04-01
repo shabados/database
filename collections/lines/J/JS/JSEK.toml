@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਗੂਜਰੀ, ਘਰ ੨ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਪੰਜ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚਪਦਾ = ਪੰਜ ਬੰਦਾਂ ਵਾਲਾ ਸ਼ਬਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

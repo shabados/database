@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਮੇਰੇ ਮਨ ਵਿਚ ਬੜੀ ਤਾਂਘ ਹੈ ਕਿ ਮੈਂ ਕਿਸੇ ਨ ਕਿਸੇ ਤਰ੍ਹਾਂ, ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਹਰੇ = ਹੇ ਹਰੀ! ਪਾਵਾ = ਪਾਵਾਂ, ਮੈਂ ਪਾ ਲਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

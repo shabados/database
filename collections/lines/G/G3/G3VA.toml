@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖਾ ਸਰੀਰ ਤਦੋਂ ਤਕ ਮਨੁੱਖਾ ਸਰੀਰ ਹੈ ਜਦ ਤਕ ਇਸ ਸਰੀਰ ਵਿਚ ਸਾਹ ਚੱਲ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ = ਸਰੀਰ। ਸਾਸੁ = ਸਾਹ। ਸਾਸਿ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਿਹਾਂ ਤੇਰਾ ਪਾਰ-ਉਤਾਰਾ ਹੋ ਜਾਇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸੰਗਤਿ = ਗੁਰੂ ਦੀ ਸੰਗਤ। ਉਧਾਰੁ = ਪਾਰ-ਉਤਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

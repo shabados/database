@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਉੱਥੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਇੱਕ-ਰਸ, ਮਾਨੋ, ਰਾਗ ਹੁੰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਹਦ = ਇੱਕ-ਰਸ। ਝੁਨਕਾਰ = ਸੁੰਦਰ ਰਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

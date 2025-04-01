@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਅਨੇਕਾਂ ਹੀ ਸੁਣਨ ਵਾਲੇ ਉਸ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ ਦੀਆਂ ਸਿਫ਼ਤਾਂ ਸੁਣ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੋਤੇ = ਸੁਣਨ ਵਾਲੇ। ਸੁਨਹਿ = ਸੁਣਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨਾ ਹਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

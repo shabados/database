@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ ਸੇਵਕ) ਨਾਨਕ (ਤੇਰੇ ਦਰ ਤੇ) ਇਕ ਅਰਜ਼ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕੁ ਕਰੈ = ਨਾਨਕ ਕਰਦਾ ਹੈ। ਅਰਦਾਸਿ = ਬੇਨਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

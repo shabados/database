@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਨੇ (ਮੱਥੇ ਉਤੇ) ਗੋਪੀ ਚੰਦਨ ਦਾ ਟਿੱਕਾ ਲਾਇਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪੀ ਚੰਦਨ = ਦੁਆਰਕਾ ਦੇ ਤਲਾਬ ਦੀ ਪੀਲੀ ਮਿੱਟੀ ਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

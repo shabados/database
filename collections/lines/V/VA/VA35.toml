@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਘਰ ਵਿਚ ਸਾਰੇ ਹੀ (ਖ਼ਜ਼ਾਨੇ) ਟਿਕੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਘਰਿ = ਦੇ ਘਰ ਵਿਚ। ਸਗਲ = ਸਾਰੇ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

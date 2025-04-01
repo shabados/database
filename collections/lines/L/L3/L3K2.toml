@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿੱਥੇ ਹੈ ਉਹ ਸੁਖ ਦੇਣ ਵਾਲੀ ਇਸਤ੍ਰੀ ਤੇ ਉਸ ਦੀ ਸੇਜ, ਜਿਸ ਨੂੰ ਵੇਖ ਕੇ (ਅੱਖਾਂ ਵਿਚੋਂ) ਨੀਂਦ ਮੁੱਕ ਜਾਂਦੀ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਖਿ = ਵੇਖ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

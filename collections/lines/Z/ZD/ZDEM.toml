@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਾਣੀ ਤੋਂ ਅਨੇਕਾਂ ਲਹਿਰਾਂ ਉਠਦੀਆਂ ਹਨ (ਮੁੜ ਪਾਣੀ ਵਿਚ ਰਲ ਜਾਂਦੀਆਂ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਊਠਹਿ = ਉੱਠਦੇ ਹਨ। ਤਰੰਗ = ਲਹਿਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

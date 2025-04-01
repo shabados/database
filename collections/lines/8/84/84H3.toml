@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਲੇਖ (ਭੀ) ਰੱਬ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੁਕਮਿ = (ਰੱਬ ਦੇ) ਹੁਕਮ ਅਨੁਸਾਰ। ਲੇਖੁ = (ਇਹ ਹਉਮੈ ਵਾਲਾ) ਲੇਖ, ਜੀਵ ਦੇ ਅੰਦਰ ਦਾ ਇਹ ਸੰਸਕਾਰ ਕਿ ਮੈਂ ਇਕ ਅੱਡਰੀ ਹਸਤੀ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

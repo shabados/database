@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭਨਾਂ ਨਾਲ ਤੇਰਾ ਮੇਲ-ਮਿਲਾਪ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਤੁਮ ਸੰਗਿ = ਸਭਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਅਹੰਕਾਰ ਗਵਾ ਕੇ) ਖਸਮ ਵਿਚ ਸਮਾਏ ਤਾਂ ਹੀ ਖਸਮ ਨੂੰ ਭਾਉਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਟੀ = ਸਮਾਈ। ਭਾਨੀ = ਚੰਗੀ ਲੱਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

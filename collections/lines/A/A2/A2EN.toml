@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਉਸ ਦੀਆਂ ਸਾਰੀਆਂ ਲੋੜਾਂ ਪੂਰੀਆਂ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਰਥ = ਲੋੜਾਂ, ਮੰਗਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਉਸ ਦੇ ਹਰ ਪੇਚ ਵਿਚ ਇਹੋ ਸੂਹ ਮਿਲੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਫ਼ਤਮ ਅਜ਼ ਪੇਚ ਪੇਚਿ ਊ ਸੁਰਾਗ਼ ।੪੭।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

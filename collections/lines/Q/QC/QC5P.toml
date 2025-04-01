@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਗੁਨਾਹਾਂ ਨੂੰ ਬਖਸ਼ਨ ਵਾਲਾ ਹੈ ਅਤੇ ਜਗਤ ਦਾ ਪੱਖ ਪੂਰਨ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਫ਼ੀਲੁਲ ਜਰਾਇਮ ਵਕੀਲੁਲ ਵਰਾ ।੬੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

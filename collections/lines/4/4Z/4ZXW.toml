@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਬਾਣੀ ਸਭ ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਣ-ਜੋਗ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਮਾਹਿ ਸਮਾਣੀ = ਸਭ ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਣ-ਯੋਗ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

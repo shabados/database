@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ (ਮਾਨੋ) ਇਕ ਸ਼ਾਹ ਹੈ, ਪੰਜ ਗਿਆਨ-ਇੰਦਰੇ (ਇਸ ਸ਼ਾਹ ਦੇ ਨਾਲ) ਵਣਜਾਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇਕੁ = ਸ਼ਾਹ (ਜੀਵ)। ਬਨਜਾਰੇ = ਵਣਜ ਕਰਨ ਵਾਲੇ ਵਪਾਰੀ। ਪਾਚ = ਪੰਜ ਗਿਆਨ ਇੰਦਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

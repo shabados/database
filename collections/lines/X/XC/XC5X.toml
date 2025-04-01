@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਮੁਸਲਮਾਨ ਹੈ ਜੋ ਮਨ ਵਿਚੋਂ ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਦੀ ਨਾਸ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲੁ = ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ। ਖੋਵੈ = ਨਾਸ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

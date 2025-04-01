@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਦੱਸੋ, ਮੌਤ ਦਾ ਡਰ ਕਿਸ ਨੂੰ ਹੋ ਸਕਦਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਾਸ = ਡਰ। ਜਮ = {Skt. यम} ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

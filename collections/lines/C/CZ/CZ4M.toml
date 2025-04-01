@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਆਪਣੇ ਸੇਵਕਾਂ ਦਾ ਜੀਵਨ ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਸਵਾਰੇ = ਸੋਹਣੇ ਜੀਵਨ ਵਾਲੇ ਬਣਾਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

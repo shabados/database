@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! (ਇਹ ਉਮਰ ਇਉਂ ਹੀ ਹੈ) ਜਿਵੇਂ ਪਾਣੀ ਦਾ ਹੌਜ਼ਾ ਬਣਾ ਰੱਖਿਆ ਹੋਵੇ, ਤੇ ਲੂਣ ਉਸ ਵਿਚ ਪੈਂਦਿਆਂ ਹੀ ਗਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਭ = {अभ्भस्} ਪਾਣੀ। ਕੁੰਡ = ਹੌਜ਼। ਪਰਤ = ਪੈਂਦਾ ਹੀ। ਸਿੰਧੁ = ਲੂਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

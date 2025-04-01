@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਬੜੇ ਸੁੰਦਰ, ਚੰਗੀ ਕੁਲ ਵਾਲੇ, ਸਿਆਣੇ, ਗਿਆਨਵਾਨ ਤੇ ਧਨਵਾਨ ਬੰਦੇ ਭੀ ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੁਖੀ, ਮੰਨੇ-ਪਰਮੰਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

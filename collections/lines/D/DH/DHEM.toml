@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਸਾਰੀਆਂ ਵਿਚਾਰਾਂ ਦਾ ਨਿਚੋੜ ਇਹ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਕਾਇ ਕਰੀਜੈ = ਬਹੁਤੀਆਂ ਵਿਚਾਰਾਂ ਕਾਹਦੇ ਲਈ ਕਰਨੀਆਂ ਹੋਈਆਂ? ਭਾਵ, ਮੁੱਕਦੀ ਗੱਲ ਇਹ ਹੈ; ਸਾਰੀਆਂ ਵਿਚਾਰਾਂ ਦਾ ਨਿਚੋੜ ਇਹ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

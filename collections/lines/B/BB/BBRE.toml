@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਕਾਮ ਦੇ ਹੱਥੋਂ) ਕੌਣ ਕੌਣ ਖ਼ੁਆਰ ਨਹੀਂ ਹੋਇਆ? ਮੇਰੀ (ਗ਼ਰੀਬ) ਦੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੌਣ? ਮੈ ਕੋ ਆਹਿ = ਮੈਂ ਕੌਣ ਹਾਂ? ਮੇਰੀ ਕੀਹ ਪਾਂਇਆਂ ਹੈ? ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

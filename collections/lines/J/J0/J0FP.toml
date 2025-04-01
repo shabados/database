@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦਾ ਬਹਿਣ-ਖਲੋਣ ਸਦਾ ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਹੈ, ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਆਖੇ ਜਾ ਸਕਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਢੀਅਹਿ = ਕਹੇ ਜਾਂਦੇ ਹਨ। ਵਾਸੋ = ਨਿਵਾਸ, ਬਹਿਣ-ਖਲੋਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

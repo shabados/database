@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਦਿਲ ਦਾ ਮੁਲਕ ਜਿੱਤ ਲਿਆ, ਸਮਝੋ ਉਹ ਸੁਲਤਾਨ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਆਣ ਕਿ ਮਮਲਕਤਿ ਦਿਲ ਗ੍ਰਿਫਤ ਸੁਲਤਾਣ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

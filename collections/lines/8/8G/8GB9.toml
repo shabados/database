@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰਾ ਇਹ) ਮੰਗਤਾ (ਤੇਰੇ ਪਾਸੋਂ) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੰਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਿਕੁ = ਮੰਗਤਾ। ਜਾਚੈ = ਮੰਗਦਾ ਹੈ। ਰਵਾਲਾ = ਚਰਨ ਧੂੜ। ਸਾਧ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

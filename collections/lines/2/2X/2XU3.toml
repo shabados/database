@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਲਾ ਦੱਸੋ,) ਪੰਡਿਤ ਜੀ! (ਇਹ ਕੀਹ ਕਿ) ਬਾਹਰੋਂ ਲਿਆਂਦਾ ਹੋਇਆ ਮਾਸ ਮਾੜਾ ਤੇ ਘਰ ਦਾ (ਵਰਤਿਆ) ਮਾਸ ਚੰਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹਰ ਕਾ ਮਾਸੁ = ਬਾਹਰੋਂ ਲਿਆਂਦਾ ਹੋਇਆ ਮਾਸ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਹੇ ਪੰਡਿਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

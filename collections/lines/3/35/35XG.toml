@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਸੋਹਣੇ ਚਰਨਾਂ ਤੋਂ ਸਦਕੇ ਹੁੰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਈ = ਜਾਈਂ, ਮੈਂ ਜਾਵਾਂ। ਬਲਿਹਾਰਾ = ਸਦਕੇ, ਕੁਰਬਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

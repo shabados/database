@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹੈ ਸਿਆਣਾ ਸਤਿਗੁਰੂ ਪੁਰਖ ਜੋ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਰਹਿਣ ਦਾ ਥਾਂ ਵਿਖਾ ਦੇਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰੁ = ਪ੍ਰਭੂ ਦੇ ਰਹਿਣ ਦਾ ਥਾਂ। ਸੁਜਾਣੁ = ਸਿਆਣਾ। ਘਰ ਮਹਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

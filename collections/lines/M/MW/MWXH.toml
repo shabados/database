@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਤਦੋਂ ਇਹ) ਉਮਾਹ ਵਿਚ ਆ ਕੇ (ਆਤਮਕ) ਆਨੰਦ ਨਾਲ (ਜੀਵਨ-ਚਾਲ) ਚੱਲਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਮਕਿਤ = ਉਮਾਹ ਵਿਚ ਆ ਕੇ। ਰਸਿ = ਆਨੰਦ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜ ਕੇ ਆਪਾ-ਭਾਵ ਮਿਟਾ ਲਿਆ ਹੈ ॥੪॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ ॥੪॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

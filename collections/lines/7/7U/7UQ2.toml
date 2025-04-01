@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਇਸ ਵਿਚਾਰ ਨੂੰ ਵਿਚਾਰਨ ਵਾਲਾ (ਕੋਈ ਵਿਰਲਾ) ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਬੇਕ = ਵਿਚਾਰ, ਪਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

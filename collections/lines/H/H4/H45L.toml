@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮਨੁੱਖ (ਆਪਣੇ ਆਪ ਨੂੰ) ਸਿਆਣਾ ਪੰ​‍ਡਿਤ ਅਖਵਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਤੁਰੁ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

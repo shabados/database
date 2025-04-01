@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਪੀਰ, ਪੈਗ਼ੰਬਰ, ਬੇਅੰਤ ਸ਼ੇਖ਼ ਤੇ ਵਲੀ (ਤੇਰੇ ਗੁਣ ਗਾ ਰਹੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਕਾਬਰ = ਪੈਗ਼ੰਬਰ। ਮਸਾਇਕ = ਕਈ ਸ਼ੇਖ਼। ਅਉਲੀਏ = ਵਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

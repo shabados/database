@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਰੱਬ ਤੋਣ ਇਕ ਪਲ ਭਰ ਲਈ ਵੀ ਅਵੇਸਲੇ ਰਹਿਣਾ ਮਾਨੋ ਸੌ ਮੌਤਾਣ ਬਰਾਬਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗ਼ਫ਼ਲਤ ਅਜ਼ ਵੈ ਯੱਕ ਜ਼ਮਾਣ ਸਦ ਮਰਗ ਦਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

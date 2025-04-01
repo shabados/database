@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਅੰਦਰ ਸਾਰੇ ਔਗੁਣ ਹੀ ਹਨ, ਗੁਣ ਇੱਕ ਭੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਮੈ = ਮੇਰੇ ਅੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੰਗਦਾ ਹੈ ॥੪॥੯੨॥੧੬੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚੈ = ਮੰਗਦਾ ਹੈ। ਰਵਾਲ = ਚਰਨਾਂ ਦੀ ਧੂੜ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਪਹਿਲਾਂ (ਤੇਰੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਪੈਰੀਂ ਪੈ ਕੇ (ਤੇ, ਤੇਰਾ ਨਾਮ) ਸਿਮਰ ਸਿਮਰ ਸਿਮਰ ਕੇ ਮੈਂ (ਤੇਰੇ ਨਾਲ) ਪ੍ਰੀਤ ਬਣਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈ = ਪੈ ਕੇ। ਸੰਤ ਪਾਇ = ਸੰਤ ਜਨਾਂ ਦੀ ਪੈਰੀਂ। ਧਿਆਇ = (ਤੇਰਾ ਨਾਮ) ਸਿਮਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

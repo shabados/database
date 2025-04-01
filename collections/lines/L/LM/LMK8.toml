@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਜਿਹੜਾ ਪਰਮਾਤਮਾ ਪਾਣੀ ਵਿਚ ਧਰਤੀ ਵਿਚ (ਹਰ ਥਾਂ ਜੀਵਾਂ ਨੂੰ) ਰਿਜ਼ਕ ਅਪੜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਹੇ = ਸੰਬਾਹੇ, ਅਪੜਾਂਦਾ ਹੈ। ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਉੱਤੇ, ਧਰਤੀ ਵਿਚ। ਮੀਤ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

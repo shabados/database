@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪਰਮਾਤਮਾ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਇੱਜ਼ਤ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਨੋ = {ਲਫ਼ਜ਼ 'ਜਿਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਨੋ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}। ਦੇ = ਦੇਂਦਾ ਹੈ। ਵਡਿਆਈ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

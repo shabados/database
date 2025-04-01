@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਸਦਕਾ ਹੀ ਹਰ ਅਕਲ ਦੇ ਦੇਗ ਉਬਾਲਾ ਖਾਂਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੋ ਦੇਗਿ ਹਰ ਦਾਨਿਸ਼ ਆਮਦ ਬਜ਼ੋਸ਼ ।੮੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

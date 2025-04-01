@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਪਸ਼ੂ-ਸੁਭਾਵ, ਪ੍ਰੇਤ-ਸੁਭਾਵ ਤੇ ਗਿਆਨ-ਹੀਣਾਂ ਨੂੰ ਇਕ ਖਿਨ ਵਿਚ ਤਾਰ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਣੇ = ਖਿਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

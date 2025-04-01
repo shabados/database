@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫਿਰ ਉਹ ਮੁੜ ਮੁੜ (ਜਜਮਾਨਾਂ ਪਾਸੋਂ) ਕਿਉਂ ਮੰਗਣ ਜਾਇਗਾ? ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਗਨ = (ਜਜਮਾਨ ਤੋਂ) ਮੰਗਣ ਲਈ। ਕਾਹੇ = ਕਿਉਂ? ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

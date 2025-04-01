@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਕੇ ਹਾਂ ਉਸ ਸਤਿਗੁਰੂ ਤੋਂ ਜਿਸ ਨੇ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਦੀ ਰੀਤ ਚਲਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਣਤ = ਰੀਤ, ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

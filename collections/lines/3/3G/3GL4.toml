@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀ! ਤੂੰ ਮਨ ਨੂੰ ਮੈਲਾ ਕਰਨ ਵਾਲੀ ਮੋਹ ਦੀ ਨੀਂਦ ਤੋਂ ਬਚ ਗਈ ਹੈਂ, ਤੇਰੇ ਉਤੇ ਕੇਹੜੀ ਕਿਰਪਾ ਹੋਈ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲਨ = (ਮਨ ਨੂੰ) ਮੈਲਾ ਕਰਨ ਵਾਲੀ। ਤੇ = ਤੋਂ। ਛੁਟਕੀ = ਖ਼ਲਾਸੀ ਪਾਈ। ਅਨੁਗ੍ਰਹੁ = ਕਿਰਪਾ। ਰੀ = ਹੇ ਸਖੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

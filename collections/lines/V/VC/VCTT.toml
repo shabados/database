@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸਾਧੂ ਲੱਕਾਂ ਨਾਲ ਪੋਥੀਆਂ ਲਮਕਾਈਆਂ ਹੋਈਆਂ ਸਿਰਾਂ ਤੇ ਹੱਥ ਫੇਰਦੇ ਤੁਰੇ ਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲੋਸਿ = ਹੱਥ ਫੇਰ ਕੇ। ਕਮਰ = ਲੱਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

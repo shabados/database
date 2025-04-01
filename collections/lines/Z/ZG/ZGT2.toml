@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਤਸ਼ਾਹ ਨਾਲ ਤੇਰੇ ਨਾਮ ਦੀ ਕਮਾਈ ਕਰ ਕੇ ਗੁਰਮੁਖਾਂ ਦੀ ਮਿਹਨਤ (ਤੇਰੇ ਦਰ ਤੇ) ਕਬੂਲ ਪੈਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨਮਨਿ = ਉਨਮਨ ਵਿਚ, ਉਤਸ਼ਾਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

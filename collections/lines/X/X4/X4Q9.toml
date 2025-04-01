@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੈਰ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ ਜੋ ਤੇਰੇ ਪਾਸੇ ਵਲ ਤੁਰਦੇ ਹਨ, ਉਹ ਸਿਰ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜੋ ਤੇਰੇ ਕਦਮਾਂ ਉਤੇ ਡਿੱਗਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵ = ਪੈਰ। ਸੁਹਾਵੇ = ਸੋਹਣੇ। ਤਉ ਧਿਰਿ = ਤੇਰੇ ਪਾਸੇ। ਜੁਲਦੇ = ਤੁਰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

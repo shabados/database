@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੱਥੇ ਬੈਠ ਕੇ ਮੈਂ ਰੋਟੀ ਖਾ ਸਕਾਂ (ਤਾਂ ਜੁ ਪੂਰੀ ਸੁੱਚ ਰਹਿ ਸਕੇ)? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸਿ = ਬੈਠ ਕੇ। ਹਉ = ਮੈਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

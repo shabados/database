@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦਾ ਨਾਮ ਨਾਨਕ ਪਾਤਸ਼ਾਹ ਹੈ ਤੇ ਉਹ ਸੱਚੇ ਧਰਮ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮਿ ਊ ਸ਼ਾਹਿ ਨਾਨਕ ਹੱਕ ਕੇਸ਼ ।"
+page = 1
+line = 13
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

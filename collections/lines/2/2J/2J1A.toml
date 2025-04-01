@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਸਮ ਤੋਂ ਬਿਨਾ ਘਰ ਦਾ ਵਸੇਬਾ ਨਹੀਂ ਹੋ ਸਕਦਾ। (ਜੇ) ਹੋਰ ਸਖੀਆਂ ਸਹੇਲੀਆਂ ਨੂੰ ਪੁੱਛੋਗੇ (ਤਾਂ ਉਹ ਭੀ ਇਹ ਉੱਤਰ ਦੇਣਗੀਆਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਹ = {नाथ} ਖਸਮ। ਘਰ ਵਾਸੁ = ਘਰ ਦਾ ਵਸੇਬਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

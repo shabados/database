@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪ੍ਰਭੂ-ਪੁਰਖ ਨੇ ਮੈਨੂੰ ਨਿਮਾਣੇ ਗੁਣ-ਹੀਨ ਢਾਢੀ ਨੂੰ ਬਖ਼ਸ਼ ਲਿਆ ॥੯॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਨ। ਬਖਸਿਓਨੁ = ਉਸ ਨੇ ਬਖ਼ਸ਼ ਲਿਆ। ਪ੍ਰਭਿ ਪੁਰਖਿ = ਪ੍ਰਭੂ ਪੁਰਖ ਨੇ। ਵੇਦਾਵੈ = ਨਿਮਾਣੇ ਨੂੰ ॥੯॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

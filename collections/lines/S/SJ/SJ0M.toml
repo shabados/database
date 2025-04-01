@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ ਹੀ ਜਿਊਂਦਾ ਹੈ, ਕਦੇ (ਜਨਮ) ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

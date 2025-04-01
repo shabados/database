@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਪਵਿਤ੍ਰ-ਸਰੂਪ ਹੈਂ, ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈਂ, ਤੇ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣੀ ਗਹੀਰੁ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

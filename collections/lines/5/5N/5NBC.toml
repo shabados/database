@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਗੋਯਾ # ਜਦ ਤੂੰ ਗੁਰੂ ਜੀ ਦੀ ਚਰਨਧੂੜ ਨੂੰ ਆਪਣੇ ਨੇਤ੍ਰਾਣ ਲਈ ਸੁਰਮਾ ਬਨਾ ਲਵੇਣਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂ ਸੁਰਮਾਇ ਦੀਦਾ ਕੁਨੀ ਖ਼ਾਕਿ ਮੁਰਸ਼ਦ ਐ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

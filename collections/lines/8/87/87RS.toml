@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾਰੇ ਡਰ ਸਹਿਮ ਇਕ ਖਿਨ ਵਿਚ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ = {ਬਹੁ-ਵਚਨ} ਸਾਰੇ ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

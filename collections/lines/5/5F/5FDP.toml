@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜਦੋਂ ਧਰਮਰਾਜ ਨੇ (ਤੈਥੋਂ ਜੀਵਨ ਵਿਚ ਕੀਤੇ ਕੰਮਾਂ ਦਾ) ਹਿਸਾਬ ਮੰਗਿਆ, ਤਾਂ ਕੀਹ ਮੂੰਹ ਲੈ ਕੇ ਉਸ ਦੇ ਸਾਹਮਣੇ ਹੋਵੇਂਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਆ ਮੁਖੁ ਲੈ ਕੇ = ਕਿਹੜੇ ਮੂੰਹ ਨਾਲ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

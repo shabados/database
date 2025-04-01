@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਗੁਰੂ ਉਪਦੇਸ਼ ਦੀ ਦਾਤ ਦੇਂਦਾ ਹੈਂ, ਉਸ ਨੂੰ ਮੁੜ ਜੂਨਾਂ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਪਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹੁੜਿ = ਮੁੜ, ਫਿਰ। ਗਰਭਿ = ਗਰਭ ਵਿਚ, ਜੂਨ ਵਿਚ। ਮੰਤਾ = ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

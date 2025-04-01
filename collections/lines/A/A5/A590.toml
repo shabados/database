@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਝਾਕਾ ਲਾਹ ਕੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਉ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸੰਗੁ = ਝਾਕਾ ਲਾਹ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

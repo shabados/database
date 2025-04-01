@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਉਸ ਬੰਦੇ ਨੇ ਜਿਸ ਨੇ ਉਸਦੇ ਪਵਿੱਤਰ ਦਰਸ਼ਨ ਕੀਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਆਂ ਕਸ ਕਿ ਦੀਦਾਰਿ ਪਾਕਿਸ਼ ਬਦੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

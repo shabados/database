@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ ਦੀ ਸਾਰੀ ਫੂੰ-ਫਾਂ ਝੂਠੀ ਹੈ (ਚਾਰ ਦਿਨਾਂ ਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਰੁ = ਸ਼ੋਰੁ, ਰੌਲਾ, ਫੂੰ-ਫਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

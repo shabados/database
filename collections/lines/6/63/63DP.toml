@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹਨਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਦੇ ਰਾਹ ਵਿਚ ਆਉਣ ਵਾਲੀਆਂ ਕ੍ਰੋੜਾਂ ਰੁਕਾਵਟਾਂ ਇਕ ਖਿਨ ਵਿਚ ਨਾਸ ਹੋ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਹਿਰੇ = ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

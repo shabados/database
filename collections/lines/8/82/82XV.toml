@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੰਦੇ ਪਾਸੇ ਪਿਆਰ ਪਾਣ ਦੇ ਕਾਰਨ) ਅਸਾਂ ਮੰਦੇ ਪਾਸੇ ਜੀਵਨ ਰਸਤਾ ਮੱਲਿਆ ਹੋਇਆ ਹੈ, ਅਸੀਂ ਜੀਵਨ ਦੀ ਵਿੰਗੀ ਚਾਲ ਚੱਲ ਰਹੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਵੈ = ਬਾਏਂ, ਖੱਬੇ ਪਾਸੇ, ਉਲਟੇ ਪਾਸੇ। ਮਾਰਗੁ = ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

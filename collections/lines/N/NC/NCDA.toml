@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦਾ ਚਾਉ ਰੋਮ ਰੋਮ ਵਿਚ ਸਮਾਇਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕਿ ਊ ਆਗੁਸ਼ਤਾ ਦਰ ਹਰ ਮੂ ਬਵਦ ।੩੬੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ!) ਮੇਰਾ ਮਨ (ਤੈਂ) ਆਪਣੇ ਪਿਆਰੇ ਪਤੀ ਨਾਲ ਰੰਗਿਆ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਡਾ = ਮੇਰਾ। ਰਤਾ = ਰੰਗਿਆ ਹੋਇਆ ਹੈ। ਪਿਰ = ਪਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

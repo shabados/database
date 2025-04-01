@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਰਬ-ਵਿਆਪੀ ਪ੍ਰਭੂ) ਕਦੇ ਪੰਡਤ ਬਣ ਕੇ (ਦੂਜਿਆਂ ਨੂੰ) ਉਪਦੇਸ਼ ਕਰ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਖ੍ਯ੍ਯਾਨੁ = ਵਖਿਆਨ, ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਮਨ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ ॥੪॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ ॥੪॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

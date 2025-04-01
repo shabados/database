@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਰਹਿਮ ਕਰਨ ਵਾਲਿਆਂ ਲਈ ਵੀ ਰਹਿਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਾਹਮੁਲ-ਰੱਹਾਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੭।"
+page = 10
+line = 127
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

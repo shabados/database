@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਤੇ ਭੀ) ਉਸ ਤੋਂ ਬਿਨਾ ਕੋਈ ਦੂਜਾ ਨਹੀਂ ਦਿੱਸਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = {अन्य} ਦੂਜਾ ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

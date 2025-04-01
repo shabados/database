@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਪਿਆਰਿਆਂ ਦੀ ਸੰਗਤ ਇੱਕ ਵੱਡੀ ਬਖ਼ਸ਼ਿਸ਼ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਮਰਦਾਨਿ ਹੱਕ ਬਾਸ਼ਦ ਕਰਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

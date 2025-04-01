@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਇਹ ਜੀਵ ਪਹਿਲਾਂ ਹੈ ਹੀ ਨਹੀਂ ਸੀ ਤਦੋਂ (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ) ਕਿਸ ਨੇ ਇਸ ਨੂੰ ਪੈਦਾ ਕਰ ਸਕਣਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਹੁ = ਇਹ ਜੀਵ। ਨ ਸੋ = ਨਹੀਂ ਸੀ। ਕਿਨਹਿ = ਕਿਸਨੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

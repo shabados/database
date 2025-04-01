@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਜਹਾਨ ਦੇ ਅੰਤ ਨੂੰ ਮੈਣ ਇਸ ਦੇ ਆਦਿ ਵਿਚ ਹੀ ਵੇਖ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਇੰਤਹਾਇ ਜਹਾਣ ਰਾ ਦਰ ਇਬਤਦਾ ਦੀਦਮ ।੫੫।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

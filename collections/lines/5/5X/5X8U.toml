@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ (ਸਤਸੰਗੀ) ਸੱਜਣੋ ਪਿਆਰਿਓ! ਤੁਸੀ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਭਗਤੀ ਸਦਾ ਕਰਦੇ ਰਿਹਾ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨ ਮੇਰੇ = ਹੇ ਮੇਰੇ ਸੱਜਣੋ! ਪ੍ਰੀਤਮਹੁ = ਹੇ ਮੇਰੇ ਪਿਆਰਿਓ! ਸਹ ਕੀ = ਖਸਮ-ਪ੍ਰਭੂ ਦੀ। ਕਰੇਹੋ = ਕਰਦੇ ਰਹੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਜਗਤ ਨੂੰ ਸੁਪਨੇ (ਵਿਚ ਵੇਖੇ ਪਦਾਰਥਾਂ) ਦੇ ਬਰਾਬਰ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮ = ਬਰਾਬਰ। ਜਾਨੁ = ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਖਸਮ! ਹੇ ਪਿਆਰੇ ਲਾਲ! (ਮੇਰੀ ਅਰਜ਼ੋਈ) ਸੁਣ। ਮੈਂ ਆਪਣੇ ਲਾਲ ਦਾ (ਭਾਵ, ਤੇਰਾ) ਅਜੇਹਾ ਸੇਵਕ-ਗ਼ੁਲਾਮ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਾ = ਗ਼ੁਲਾਮ, ਸੇਵਕ। ਲਾਲ ਕੋ = ਲਾਲ ਦਾ, ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ। ਖਸਮ = ਹੇ ਖਸਮ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

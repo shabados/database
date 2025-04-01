@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਦਿਲ ਉੱਪਰ ਰੱਬ ਦਾ ਪਰਛਾਵਾਂ ਪੈ ਜਂਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਦਿਲਤ ਗਰ ਪਰਤਵੇ ਹੱਕ ਬਰਫ਼ਗੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

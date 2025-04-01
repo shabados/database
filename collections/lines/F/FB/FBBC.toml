@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਫਿਰ ਭੀ ਉਹ) ਅਦ੍ਰਿਸ਼ਟ ਰੂਪ ਵਿਚ ਮੌਜੂਦ ਹੈ ਅਪਹੁੰਚ ਹੈ ਤੇ ਬੇਅੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖੁ = {अलक्ष्य = Invisible, Unobserved} ਅਦ੍ਰਿਸ਼ਟ। ਅਗਮ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

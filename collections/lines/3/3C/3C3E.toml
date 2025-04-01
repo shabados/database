@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਸਿਰ ਚਿੱਟਾ ਹੋ ਗਿਆ ਹੈ, ਦਾੜ੍ਹੀ ਚਿੱਟੀ ਹੋ ਗਈ ਹੈ, ਮੁਛਾਂ ਭੀ ਚਿੱਟੀਆਂ ਹੋ ਗਈਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਲਿਆ = ਚਿੱਟਾ ਹੋ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

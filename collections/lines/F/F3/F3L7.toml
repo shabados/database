@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਵਕਤ ਮੋਮ ਬੱਤੀ ਦੇ ਕੋਮਲ ਦਿਲ ਵਿੱਚੋਂ ਅਥਰੂ ਨਿਕਲ ਪਏ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਸ਼ਕ ਮੇ ਰੇਜ਼ਦ, ਦਿਲਿ ਅਫ਼ਗਾਰਿ ਸ਼ਮਾਅ ।੪੬।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

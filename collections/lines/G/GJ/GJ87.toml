@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੁੱਤੇ, ਗਿੱਦੜ, ਬਾਂਦਰ, ਚਿੱਤ੍ਰੇ, ਸ਼ੇਰ ਸਭ ਮਾਇਆ ਵਿਚ ਰੰਗੇ ਪਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਆਲ = ਗਿੱਦੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

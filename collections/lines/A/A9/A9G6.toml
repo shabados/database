@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇਹੇ ਅਸਲ ਜੋਗੀ ਉਤੇ ਕਾਮਾਦਿਕ ਕੋਈ) ਰੋਗ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ, ਉਸ ਨੂੰ ਮੌਤ ਦਾ ਭੀ ਡਰ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਬਿਆਪੈ = ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ। ਜਮ ਦੋਖੰ = ਜਮ ਦਾ ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

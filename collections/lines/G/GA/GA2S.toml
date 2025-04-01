@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ ਮਨ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ (ਇਸ ਤਰ੍ਹਾਂ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ (ਮਨ ਦਾ) ਨਿਵਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਿ = ਮਿਲ ਕੇ। ਮਾਂਜੀਐ = ਮਾਂਜਣਾ ਚਾਹੀਦਾ ਹੈ। ਕੈ ਨਾਮਿ = ਦੇ ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

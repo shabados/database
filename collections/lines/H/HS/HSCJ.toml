@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਫ਼ਕੀਰ! (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਨ ਦਾ ਫੁਰਨਾ ਮਾਰ ਕੇ ਮੁਕਾ ਦੇਹ-ਇਸ ਨੂੰ ਸੋਟਾ ਬਣਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਮਨ ਦਾ ਫੁਰਨਾ। ਮਾਰਿ = ਮਾਰ ਕੇ। ਨਿਵਾਰਿਹੁ = ਦੂਰ ਕਰੋ। ਆਸਾ = (ਫ਼ਕੀਰ ਦਾ) ਸੋਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

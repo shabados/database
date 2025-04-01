@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਤੈਨੂੰ ਉਹ) ਅਟੱਲ ਨਿਯਮ (ਦੱਸਦਾ ਹਾਂ ਜੋ) ਪਰਮਾਤਮਾ ਦੇ ਦਰ ਤੇ (ਸਦਾ) ਵਾਪਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ = {सत्य} ਅਟੱਲ, ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਵਰਤਹਿ = ਵਰਤਦੇ ਹਨ, ਵਾਪਰਦੇ ਹਨ। ਦੁਆਰੇ = ਦੁਆਰਿ, ਦਰ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

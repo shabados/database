@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਆਪ ਇਹ ਲੋਕ) ਅਪਵਿੱਤਰ ਸਰੀਰ ਨਾਲ ਮੰਦੇ ਕੰਮ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ ਫਿਟੈ = ਫਿਟੇ ਹੋਏ ਸਰੀਰ ਨਾਲ, ਗੰਦੇ ਸਰੀਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

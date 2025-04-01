@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਹਸਤੀ ਦਾ ਤਖਤ ਸੱਚੇ ਪਾਤਿਸ਼ਾਹ ਦਾ ਸੰਘਾਸਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਤਖ਼ਤਿ ਵਜੂਦਿ ਮਸਨਦਿ ਸੁਲਤਾਨਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

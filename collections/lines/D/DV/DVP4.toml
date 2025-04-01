@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨਾਲ ਉਸ ਦਾ ਪਿਆਰ ਬਣ ਜਾਂਦਾ ਹੈ, ਇਹੀ ਉਸ ਲਈ ਹਾਥੀ ਤੇ ਘੋੜੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ = ਇਹ ਪ੍ਰੀਤ। ਹਸਤੀ = ਹਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

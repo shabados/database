@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੰਗਲ ਦੀ ਅੱਗ ਹਰੇ ਬੂਟੇ ਵਿਚ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ (ਉਸ ਨੂੰ ਨਹੀਂ ਸਾੜਦੀ। ਬਾਕੀ ਜੰਗਲ ਨੂੰ ਸਾੜਦੀ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਵਾ ਅਗਨਿ = ਜੰਗਲ ਦੀ ਅੱਗ। ਰਹੇ = ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ। ਹਰਿ ਬੂਟ = ਹਰੀ ਬੂਟੀ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

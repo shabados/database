@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਕੇਡਾ ਵੱਡਾ ਹੈ-ਇਹ ਗੱਲ (ਚਾਰੇ) ਵੇਦ (ਭੀ) ਨਹੀਂ ਜਾਣਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ। ਨ ਜਾਨਹਿ = ਨਹੀਂ ਜਾਣਦੇ {ਬਹੁ-ਵਚਨ}। ਬੇਦ = ਚਾਰੇ ਵੇਦ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

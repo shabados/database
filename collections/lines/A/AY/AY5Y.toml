@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਰੱਬ ਦੇ ਬੰਦੇ ਉਸ ਦੀ ਬੰਦਗੀ ਵਿਚ ਸੌਖੇ ਅਤੇ ਖੁਸ਼ ਰਹਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਹਾ ਦਰ ਬੰਦਗੀ ਆਸੂਦਾ ਅੰਦ ।੩੪੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

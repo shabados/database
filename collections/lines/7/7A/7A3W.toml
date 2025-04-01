@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਅਤੇ ਸਭ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਸਾਰੇ ਜੀਵ ਤੈਨੂੰ ਸਦਾ ਸਿਮਰਦੇ ਹਨ, ਤੇਰਾ ਧਿਆਨ ਧਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ ਜੀਵ {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਹੀ (ਸਦਾ ਨਾਲ ਨਿਭਣ ਵਾਲਾ) ਸਾਥੀ ਹੈ, ਉਸ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ (ਸਾਥੀ) ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਥੀਅੜਾ = ਪਿਆਰਾ ਸਾਥੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

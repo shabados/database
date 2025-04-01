@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਰਮਾਤਮਾ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਗੱਲ ਜਾਣ ਲੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਗਤਿ = ਅੰਦਰ ਦੀ ਲੁਕਵੀਂ ਗੱਲ, ਦਿਲ ਦੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

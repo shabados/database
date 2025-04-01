@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਤਾਂ ਪਰੇ ਤੋਂ ਪਰੇ ਹੈ, ਤੇ ਸਦਾ ਹੀ ਹੋਂਦ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਰੰਪਰੁ = ਪਰੇ ਤੋਂ ਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

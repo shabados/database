@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮਾਇਆ ਦੇ ਕਾਰਨ (ਜਗਤ ਵਿਚ) ਮਿਲੀ ਵਡਿਆਈ ਨਾਲ ਕੋਈ ਭੀ ਮਨੁੱਖ (ਅਸਲ ਵਿਚ) ਵੱਡਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਉ = ਕੋਈ ਭੀ। ਮਾਇਆ ਵਡਿਆਈ = ਮਾਇਆ ਦੇ ਕਾਰਨ ਮਿਲੀ ਵਡਿਆਈ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

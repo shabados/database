@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਅਕਾਲ ਪੁਰਖ # ਗੋਯਾ ਦੇ ਦਿਲ ਵਿਚ ਪ੍ਰੇਮ ਦੀ ਚਾਹ ਬਖਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਦਿਲਿ ਗੋਯਾ ਹਵਾਇ ਸ਼ੌਕ ਬਖ਼ਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

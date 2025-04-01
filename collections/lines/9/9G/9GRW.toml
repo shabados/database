@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰਿਆਣ ਦੇ ਸੀਨੇ ਲੂਹੇ ਪਏ ਹਨ, ਝੁਲਸੇ ਪਏ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਰਾ ਸੀਨਾ ਬਿਰੀਆਨਸਤੋ ਬਿਰੀਆਨਸਤੋ ਬਿਰੀਆਨਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

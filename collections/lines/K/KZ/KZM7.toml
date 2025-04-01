@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪਣੇ ਆਪ ਨੂੰ) ਗੁਰੂ (ਕਹਾਣ ਵਾਲੇ) (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਚੇਲਿਆਂ ਦੇ ਘਰ ਵਿਚ ਸਿੱਖਿਆ ਦੇਣ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਜਾਹਿ = ਗੁਰੂ ਜਾਂਦੇ ਹਨ। ਘਰਿ = (ਚੇਲਿਆਂ ਦੇ) ਘਰ ਵਿਚ। ਦੀਖਿਆ = ਸਿੱਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

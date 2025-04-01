@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਮਾਧੀਆਂ ਲਾਣ ਵਾਲੇ ਕ੍ਰੋੜਾਂ ਹੀ ਸਾਧੂ (ਉਸ ਵਿਚ) ਸੁਰਤ ਜੋੜੀ ਰੱਖਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਿਆਨੀ = ਸਮਾਧੀ ਲਾਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

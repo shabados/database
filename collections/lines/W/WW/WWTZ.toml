@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਤੇਰੀ) ਬਰਕਤਿ ਨਾਲ ਹਰੇਕ ਜੀਵ ਸਜਿੰਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਦੀ ਰਾਹੀਂ। ਸਭੁ = ਹਰੇਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

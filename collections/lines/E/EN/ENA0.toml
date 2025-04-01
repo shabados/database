@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਖਰ੍ਹਵੇ ਬੋਲਦੇ ਹਨ ਕਈ ਮਿੱਠੇ ਬੋਲ ਬੋਲਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਤਤੇ = ਖਰ੍ਹਵੇ, ਤਿੱਖੇ। ਬੋਲਨਿ = ਬੋਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

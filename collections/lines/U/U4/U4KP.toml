@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਤੇਰੀ ਭਗਤੀ ਕੀਤੀ, ਉਹ ਸਭ ਸੁਖੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ, ਜਿਸ ਜਿਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

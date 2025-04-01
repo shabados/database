@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾ ਕੇ) ਜਗਤ ਇੱਜ਼ਤ ਗਵਾ ਕੇ ਜੰਮਦਾ ਹੈ ਮਰਦਾ ਹੈ, ਮਰਦਾ ਹੈ ਜੰਮਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

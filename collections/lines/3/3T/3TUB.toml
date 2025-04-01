@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਭ ਆਬਾਦੀ ਰੱਬ ਦੀ ਮਿਹਰ ਕਰਕੇ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਮਾ ਆਬਾਦੀ ਅਜ਼ ਲੁਤਫ਼ਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

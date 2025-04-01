@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਮਨੁੱਖ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨੂੰ ਹੀ ਹਰ ਵੇਲੇ ਵਰਤਣ ਵਾਲੀ ਸ਼ੈ ਜਾਣਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ। ਵਰਤਨਿ = ਹਰ ਵੇਲੇ ਵਰਤਣ ਵਾਲੀ ਸ਼ੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

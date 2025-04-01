@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਕਾਲ ਪੁਰਖ ਦਾ) ਸ੍ਰੇਸ਼ਟ ਨਾਮ (ਭੀ) ਬੇਅੰਤ ਹੈ, ਅਮੋਲਕ ਹੈ, (ਉਸ ਦੇ ਨਾਮ ਦਾ) ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਮ = ਮੁੱਲ। ਨਹੁ = ਨਹੀਂ। ਅਮੁਲਉ = ਅਮੋਲਕ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

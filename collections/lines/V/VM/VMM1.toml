@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਸਦਾ ਤੋਂ ਹੀ ਲੋਕ ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ ਕਰਮ ਕਰਦੇ ਆਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ = ਸਾਰੇ। ਸਗਲੇ ਜੁਗ = ਸਾਰੇ ਜੁਗਾਂ ਵਿਚ, ਸਦਾ ਤੋਂ ਹੀ। ਕਰਮ ਧਰਮ ਸਾਧਾ = ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ ਕੰਮ ਕੀਤੇ ਗਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

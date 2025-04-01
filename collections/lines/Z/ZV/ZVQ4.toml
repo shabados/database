@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਪ੍ਰਭੂ ਨਾਲ ਇਹੋ ਜਿਹੀ ਪ੍ਰੀਤ ਕਰ, ਜਿਹੋ ਜਿਹੀ ਪਪੀਹੇ ਦੀ ਮੀਂਹ ਨਾਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਹ = ਮੀਂਹ, ਵਰਖਾ। ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

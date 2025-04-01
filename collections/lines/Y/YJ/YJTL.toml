@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਧੋ! ਤੂੰ ਚੰਦਨ ਦਾ ਬੂਟਾ ਹੈਂ, ਮੈਂ ਨਿਮਾਣਾ ਹਰਿੰਡ ਹਾਂ (ਪਰ ਤੇਰੀ ਮਿਹਰ ਨਾਲ) ਮੈਨੂੰ ਤੇਰੇ (ਚਰਨਾਂ) ਵਿਚ ਰਹਿਣ ਲਈ ਥਾਂ ਮਿਲ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਪੁਰੇ = ਵਿਚਾਰੇ, ਨਿਮਾਣੇ। ਸੰਗਿ ਤੁਮਾਰੇ = ਤੇਰੇ ਨਾਲ। ਬਾਸਾ = ਵਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

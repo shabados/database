@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਮਨ ਵਿਚ ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰ ਸਕੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਤ = ਸਿਮਰਦਿਆਂ। ਮਨਹਿ = ਮਨ ਵਿਚ। ਪਾਈਐ = ਪ੍ਰਾਪਤ ਕਰ ਲਈਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

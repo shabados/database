@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਗ਼ਲਤ ਰਸਤੇ ਪਾ ਦੇਵੇ, ਉਹ (ਸਹੀ ਰਾਹ ਲੱਭਣ ਵਾਸਤੇ) ਕਿਸੇ ਹੋਰ ਦਾ ਆਸਰਾ ਨਹੀਂ ਲੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਲਾਏ = ਗ਼ਲਤ ਜੀਵਨ-ਰਾਹ ਤੇ ਪਾ ਦੇਵੇ। ਕਿਥੈ ਹਥੁ ਪਾਏ = ਕਿਸ ਦਾ ਪੱਲਾ ਫੜੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

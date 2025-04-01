@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਹਾਵਤ ਨੇ) ਗੁੱਸੇ ਵਿਚ ਆ ਕੇ ਹਾਥੀ ਦੇ ਸਿਰ ਉੱਤੇ (ਸੱਟ) ਮਾਰੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰੋਧਿ = (ਮਹਾਵਤ ਨੇ) ਕ੍ਰੋਧ ਵਿਚ (ਆ ਕੇ)। ਹਸਤੀ ਮੂੰਡ ਮਹਿ = ਹਾਥੀ ਦੇ ਸਿਰ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

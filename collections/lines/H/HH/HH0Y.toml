@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ (ਸੰਸਾਰ ਦਾ) ਕੋਈ ਦੁੱਖ ਕੋਈ ਰੋਗ ਕੋਈ ਡਰ ਮਨੁੱਖ ਉੱਤੇ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪੈ = ਜ਼ੋਰ ਪਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

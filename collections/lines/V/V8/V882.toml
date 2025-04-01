@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਵੇਲੇ ਉਹਨਾਂ ਜਮਾਂ ਨੇ ਪੱਕੇ ਹੱਥ ਪਾਏ ਹੁੰਦੇ ਹਨ, ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! ਉਹ ਰਤਾ ਭਰ ਸਮੇ ਦੀ ਢਿੱਲ-ਮਠ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦੇਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਲਮ = ਦੇਰ। ਦੇਵਨੀ = ਦੇਵਨਿ, ਦੇਂਦੇ। ਓਨੀ = ਉਹਨਾਂ (ਜਮਾਂ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

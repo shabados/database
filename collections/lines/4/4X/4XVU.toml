@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਾ-ਭਾਵ ਛੱਡ ਕੇ, ਸਤਿਗੁਰੂ ਦੀ ਸਰਨੀ ਪੈ ਕੇ (ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਮੁੱਕਦਾ ਹੈ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

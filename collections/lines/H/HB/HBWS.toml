@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਛਿੰਦ੍ਰ! ਸੁਣ। ਵਿਰਕਤ ਦੇ ਲੱਛਣ ਇਹ ਹਨ ਕਿ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਧੂ ਨੀਸਾਣੀ = ਵਿਰਕਤ ਸਾਧ ਦੇ ਲੱਛਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

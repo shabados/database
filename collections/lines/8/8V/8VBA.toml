@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਆਪੋ ਆਪਣੇ) ਪਰਵਾਰਾਂ ਦੇ ਸੰਬੰਧ ਦੇ ਕਾਰਨ ਮਾਂ ਪਿਉ, ਮਾਇਆ, ਸਰੀਰ-ਇਹ ਸਾਰੇ ਹੀ ਹਉਮੈ ਦੇ ਰੋਗ ਵਿਚ ਫਸੇ ਹੋਏ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹ = ਸਰੀਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

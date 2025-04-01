@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਿਸ ਨੇ (ਜਗਤ ਵਿਚ) ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਰੰਗ (-ਰੂਪ) ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਏ = ਬਣਾਏ। ਪ੍ਰਕਾਰ = ਕਿਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

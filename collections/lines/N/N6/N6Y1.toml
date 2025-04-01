@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਮਨੁੱਖ ਨੂੰ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ ਜਦੋਂ ਉਹ ਮਾਇਆ ਕਮਾਂਦਾ ਹੈ ਧਨ ਖੱਟਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰ ਪ੍ਰਾਣੀ = ਹਰੇਕ ਮਨੁੱਖ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

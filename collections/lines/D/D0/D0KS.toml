@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਗੱਲ ਸੱਚੀ ਮੰਨ ਕਿ (ਇਹ ਜਗਤ) ਇਕ ਛਿਨ ਵਿਚ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਿਨ ਮਹਿ = ਇਕ ਛਿਨ ਵਿਚ। ਸਾਚੀ ਮਾਨੁ = ਇਹ ਗੱਲ ਸੱਚੀ ਮੰਨ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

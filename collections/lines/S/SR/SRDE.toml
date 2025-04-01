@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਤ ਅਤੇ ਦਿਨ ਇਹ ਦੋਵੇਂ ਇਸ ਗੱਲ ਦੇ ਗਵਾਹ ਹਨ (ਜਿਹੜਾ ਦਿਨ ਰਾਤ ਲੰਘ ਜਾਂਦਾ ਹੈ, ਉਹ ਵਾਪਸ ਉਮਰ ਵਿਚ ਨਹੀਂ ਆ ਸਕਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਦੁਇ = ਦੋਵੇਂ। ਸਾਖੀ = ਗਵਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਤੂੰ ਮੇਹਰ ਕਰਦਾ ਹੈਂ ਉਸ ਮਨੁੱਖ ਨੇ ਤੇਰਾ ਨਾਮ-ਰਤਨ ਲੱਭ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

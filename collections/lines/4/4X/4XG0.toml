@@ -42,6 +42,12 @@ language = "pa"
 data = "ਅਕਾਲ ਪੁਰਖ ਦੀ ਦਰਗਾਹ ਵਿਚ ਭੀ ਉਹ ਪੰਚ ਜਨ ਹੀ ਆਦਰ ਪਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚੇ = ਪੰਚ ਹੀ, ਸੰਤ ਜਨ ਹੀ। ਦਰਗਹ = ਅਕਾਲ ਪੁਰਖ ਦੇ ਦਰਬਾਰ ਵਿਚ। ਮਾਨੁ = ਆਦਰ; ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

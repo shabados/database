@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਦੇ ਮੱਥੇ ਉਤੇ ਪ੍ਰਭੂ ਨੇ (ਨਾਮ ਦੀ) ਬਖ਼ਸ਼ਸ਼ ਦੇ ਲੇਖ ਲਿਖ ਧਰੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮ = ਬਖ਼ਸ਼ਸ਼। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

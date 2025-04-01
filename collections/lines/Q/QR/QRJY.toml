@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਨੂੰ ਸਿਮਰ, ਤੇ, ਹੇ ਮਨ! ਇਕ ਪ੍ਰਭੂ ਦੇ ਮਿਲਣ ਦੀ ਤਾਂਘ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਆਹਿ = ਚਾਹ ਕਰ, ਤਾਂਘ ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

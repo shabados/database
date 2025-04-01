@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਮਾਲਕ! ਜਿਸ ਦੀ ਤੂੰ ਆਪ ਰੱਖਿਆ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਸਾਈ = ਹੇ ਗੁਸਾਈਂ!।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

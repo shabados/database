@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਰਾਮ ਦਾ) ਜਿਹੜਾ ਸਭ ਥਾਈਂ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਤ = ਵਿਆਪਕ, ਹਰ ਥਾਂ ਮੌਜੂਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣਿਆਂ ਜਮਰਾਜ (ਭੀ) ਛੱਡ ਜਾਂਦਾ ਹੈ ਤੂੰ ਉਸ ਦੀ ਸਰਨ (ਕਿਉਂ) ਨਹੀਂ ਪੈਂਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਿ ਸੁਨਿਐ = ਨਾਮ ਸੁਣਨ ਨਾਲ। ਜਾ ਕੈ ਨਾਮਿ ਸੁਨਿਐ = ਜਿਸ ਦਾ ਨਾਮ ਸੁਣਿਆਂ। ਨ ਪਾਵਸਿ = ਤੂੰ ਨਹੀਂ ਪੈਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

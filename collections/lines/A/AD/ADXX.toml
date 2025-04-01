@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜਿੱਥੇ ਜਿੱਥੇ ਤੂੰ ਦੌੜਦਾ ਫਿਰਦਾ ਹੈਂ ਉਥੇ ਉਥੇ ਹੀ ਪਰਮਾਤਮਾ ਤੇਰੇ ਨਾਲ ਹੀ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿੱਥੇ। ਮਨ = ਹੇ ਮਨ! ਧਾਵਦਾ = ਦੌੜਦਾ। ਤਹ = ਉਥੇ। ਨਾਲੇ = ਨਾਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

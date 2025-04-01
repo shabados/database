@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਇਕ ਖਿਣ ਵਿਚ ਉਹਨਾਂ (ਹਿਰਦਿਆਂ) ਨੂੰ (ਭਲੇ ਗੁਣਾਂ ਨਾਲ) ਨਕਾ-ਨਕ ਭਰ ਦੇਂਦਾ ਹੈ ਜੋ ਪਹਿਲਾਂ (ਗੁਣਾਂ ਤੋਂ) ਸੱਖਣੇ ਸਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਨੇ = ਖ਼ਾਲੀ। ਸੁਭਰ = ਨਕਾ-ਨਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

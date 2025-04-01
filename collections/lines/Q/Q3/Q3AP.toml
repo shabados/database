@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪਰਮਾਤਮਾ ਸੰਤ ਜਨਾਂ ਦੇ (ਪਿਆਰ ਦੇ) ਵੱਸ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣਨਿਧੇ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ। ਕੈ ਵਸਿ = ਦੇ ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

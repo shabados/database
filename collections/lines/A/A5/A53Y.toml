@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੁਣੋ, ਹੇ ਜਗਤ ਦੇ ਲੋਕੋ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਲੋਈ = ਹੇ ਲੋਕ! ਹੇ ਜਗਤ! {ਨੋਟ: ਲਫ਼ਜ਼ 'ਰੇ' ਪੁਲਿੰਗ ਹੈ, ਇਸ ਵਾਸਤੇ ਲਫ਼ਜ਼ 'ਲੋਈ' ਭੀ ਪੁਲਿੰਗ ਹੀ ਹੈ। ਵੇਖੋ ਇਸੇ ਹੀ ਰਾਗ ਵਿਚ ਕਬੀਰ ਜੀ ਦਾ ਸ਼ਬਦ ਨੰ: ੩੫}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

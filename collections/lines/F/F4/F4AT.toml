@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਦੇ ਜੀਵਨ ਵਿਚ ਸਾਰੀ ਬਾਦਸ਼ਾਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਲਿਬਾਸਿ ਬੰਦਗੀ ਸ਼ਾਹੀ ਤੁਰਾਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

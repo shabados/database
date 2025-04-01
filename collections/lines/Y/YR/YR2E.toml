@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ ਰੇਸ਼ਮੀ ਕੱਪੜੇ ਹੰਢਾਉਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਟੰਬਰ = ਪਟ-ਅੰਬਰ, ਰੇਸ਼ਮ ਦੇ ਕੱਪੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

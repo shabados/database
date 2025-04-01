@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਜਿਹੀ ਦੌਲਤ ਅਤੇ ਨੇਕ-ਬਖ਼ਤੀ ਨੂੰ ਕੋਈ ਚਿੰਤਾ ਜਾਂ ਗ਼ੰਮ ਨਹੀਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤੇ ਕਆਂ ਰਾ ਨਭਬਾਸ਼ਦ ਹੀਚ ਗ਼ਮ ।੨੩੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

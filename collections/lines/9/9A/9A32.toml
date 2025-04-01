@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਜਗਤ ਦੀ ਬਣਤਰ) ਮੁੜ ਮੁੜ ਭੱਜਦੀ ਹੈ ਤੇ ਘੜੀਦੀ ਹੈ, ਮੁੜ ਮੁੜ ਘੜੀਦੀ ਹੈ ਤੇ ਭੱਜਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਨਿ ਭਨਿ = ਮੁੜ ਮੁੜ ਭੰਨ ਕੇ। ਘੜਿ ਘੜਿ = ਫਿਰ ਫਿਰ ਘੜ ਕੇ। ਉਸਰੇ = ਬਣੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

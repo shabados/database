@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਮਾਲਕ! (ਮੇਰੇ ਉਤੇ) ਦਇਆ ਕਰ ਮਿਹਰ ਕਰ। ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਅਨਾਥ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਇਆ = ਕਿਰਪਾ। ਪ੍ਰਾਨਪਤਿ ਮੋਰੇ = ਹੇ ਮੇਰੀ ਜਿੰਦ ਦੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

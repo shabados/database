@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਜੇਹੜਾ) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ ਰਹਿਆ = ਮੌਜੂਦ ਹੈ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

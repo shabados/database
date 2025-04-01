@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ) ਅਵਧੂਤ ਉਹ ਹੈ ਜੋ ਆਪਾ-ਭਾਵ ਨੂੰ ਸਾੜ ਦੇਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਧੂਤੀ = ਅਵਧੂਤ, ਜਿਸ ਨੇ ਮਾਇਆ ਦੇ ਬੰਧਨ ਤੋੜ ਦਿੱਤੇ ਹਨ। ਧੂਪੈ = ਧੁਖਾਂਦਾ ਹੈ, ਸਾੜ ਦੇਂਦਾ ਹੈ। ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

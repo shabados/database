@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੀ ਕਿਰਪਾ ਨਾਲ ਹੀ (ਜੀਵ ਨੂੰ) ਸਦਾ ਲਈ ਆਤਮਕ ਆਨੰਦ ਮਿਲ ਸਕਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੁ = ਆਤਮਕ ਆਨੰਦ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਜਪਦਿਆਂ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਸਾਰੇ ਹਨੇਰੇ ਮਿਟ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਅੰਧੇਰ = ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਹਨੇਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

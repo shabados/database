@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ (ਪਹਿਲਾ) ਅੰਞਾਣ ਮਨ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਗਿੱਝ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਮਝੁ ਮਨੁ = ਅੰਞਾਣ ਮਨ। ਸਾਧ ਸੰਗਿ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ। ਪਤੀਆਨਾ = ਪਤੀਜ ਜਾਂਦਾ ਹੈ, ਗਿੱਝ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

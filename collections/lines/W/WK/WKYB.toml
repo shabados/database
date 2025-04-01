@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੰਛੀਆਂ ਦੇ ਗੰਢੇ-ਪੱਲੇ ਧਨ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰੰਦਏ ਗਿਰਾਹ = ਪੰਛੀਆਂ ਦੇ ਗੰਢ-ਪੱਲੇ। ਜਰ = ਜ਼ਰ, ਧਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

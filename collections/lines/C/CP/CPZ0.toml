@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਹੀਂ ਤਾਂ) ਕਲਮ ਦਵਾਤ ਤਾਂ ਨਾਸ਼ ਹੋ ਜਾਣ ਵਾਲੀ (ਸ਼ੈ) ਹੈ ਤੇ (ਇਸ ਦਾ) ਲਿਖਿਆ (ਕਾਗ਼ਜ਼) ਭੀ ਨਾਸ਼ ਹੋ ਜਾਣਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਉ = ਕਲਮ। ਮਸਾਜਨੀ = ਦਵਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

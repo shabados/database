@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਦੀ ਉਮਰ ਮਾਂ ਪਿਉ ਪੁੱਤਰ ਆਦਿਕ ਪਰਵਾਰ ਦੇ ਮੋਹ ਵਿਚ ਗੁਜ਼ਰ ਰਹੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

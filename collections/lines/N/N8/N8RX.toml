@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਭਗਤ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਿਆਂ ਪ੍ਰਸੰਨ-ਚਿੱਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜਨੁ = ਪਰਮਾਤਮਾ ਦਾ ਭਗਤ (ਇਕ-ਵਚਨ)। ਹਸਿਆ = ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਪ੍ਰਸੰਨ-ਚਿੱਤ ਰਹਿੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ਤੂੰ ਹੀ ਮੇਰੇ ਨਾਲ ਵੱਸਦਾ ਹੈਂ ॥੪॥੫॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਤਿ ਪੋਤਿ = ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ। ਓਤ = ਉਣਿਆ ਹੋਇਆ। ਪੋਤ = ਪ੍ਰੋਤਾ ਹੋਇਆ। ਸੰਗਿ = ਨਾਲ ॥੪॥੫॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

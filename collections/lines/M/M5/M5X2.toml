@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹਨਾਂ ਨੇ ਜਗਤ ਨੂੰ ਬੜਾ ਖ਼ੁਆਰ ਕੀਤਾ ਹੈ) ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਉੱਧਰ ਦੁੱਖਾਂ ਦੀ ਰਾਸਿ-ਪੂੰਜੀ ਬਣੀ ਪਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ = ਜਿੱਧਰ। ਦੇਖਉ = ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਰਾਸੀ = ਖਾਣ, ਸਾਮਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

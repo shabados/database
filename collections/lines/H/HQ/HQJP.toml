@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਉਸਨੂੰ ਹਰ ਉੱਚੇ ਪੁਰਸ਼ ਤੋਂ ਵੀ ਉਚੇਰਾ ਮਾਨ ਬਖਸ਼ਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਅਫ਼ਰਾਖ਼ਤਸ਼ ਹੱਕ ਜ਼ਿ ਹਰ ਸਰਬੁਲੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

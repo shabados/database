@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ ਲਾਲ ਰੰਗ ਦੀ ਤੁਲਾਈ ਉਤੇ ਗੁਲਾਲ ਫੁੱਲ (ਖਿਲਰੇ ਹੋਏ) ਹੋਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲ ਨਿਹਾਲੀ = ਲਾਲ ਰੰਗ ਦੀ ਤੁਲਾਈ। ਫੂਲ ਗੁਲਾਲਾ = ਗੁਲ ਲਾਲਾ (ਦੇ) ਫੁੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

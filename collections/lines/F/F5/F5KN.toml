@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੇ ਕੋਈ (ਪੰਜ-ਤੱਤੀ) ਸਰੂਪ ਹੋਵੇ, ਤਾਂ ਦਿੱਸੇ ਭੀ, ਉਸ ਦਾ ਤਾਂ ਨਾਹ ਕੋਈ ਰੂਪ ਜਾਪਦਾ ਹੈ ਨਾਹ ਕੋਈ ਜਾਤਿ ਦਿੱਸਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਹੁ = ਕੁਝ, ਕੋਈ (ਪੰਜੀ = ਤੱਤੀ) ਸਰੂਪ। ਨ ਜਾਪੈ = ਨਹੀਂ ਦਿੱਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇ ਤੂੰ ਦਿਲ ਦਾ ਮਾਲਕ ਹੋ ਜਾਵੇਂ, ਅਤੇ ਨੇਕ ਸੁਭਾਉ ਵਾਲਾ ਹੋ ਜਾਵੇਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਾਹਿਬਿ ਦਿਲ ਗਰਦੀ ਵਾ ਖ਼ੁਸ਼ਬੂ ਸ਼ਵੀ ।੪੦੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

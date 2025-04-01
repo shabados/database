@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਇਹ ਲੇਖਾ ਲਿਖਣਾ ਜਾਣਦਾ ਹੈ (ਭਾਵ, ਪਰਮਾਤਮਾ ਦੀ ਕੁਦਰਤ ਦਾ ਅੰਤ ਕੋਈ ਭੀ ਜੀਵ ਪਾ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਿਖਿ ਜਾਣੈ = ਲਿਖਦਾ ਜਾਣਦਾ ਹੈ, ਲਿਖਣ ਦੀ ਸਮਝ ਹੈ। ਕੋਇ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

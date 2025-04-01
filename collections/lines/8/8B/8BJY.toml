@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਉਹ ਕਰਤਾਰ ਹੈਂ ਜਿਸ ਦਾ (ਰਚਿਆ ਹੋਇਆ ਇਹ) ਸਾਰਾ ਜਗਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = (ਤੂੰ) ਆਪ ਹੀ। ਸਭੁ ਜਿਸੁ ਕਰਣਾ = ਜਿਸੁ ਸਭੁ ਕਰਣਾ ਜਿਸ ਦਾ (ਇਹ) ਸਾਰਾ ਜਗਤ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

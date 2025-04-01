@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰ-ਤੇਰ ਵਾਲਾ ਸੁਭਾਉ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਮਨੁੱਖ ਏਕਤਾ ਦੇ ਘਰ ਵਿਚ ਆ ਟਿਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਤੁ ਘਰਿ = ਇੱਕ ਘਰ ਵਿਚ (ਭਾਵ, ਏਕਤਾ ਦੇ ਘਰ ਵਿਚ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

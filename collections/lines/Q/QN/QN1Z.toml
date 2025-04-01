@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦਾ ਤੀਰ ਸਖ਼ਤ ਪੱਥਰ ਨੂੰ ਇਸਤਰ੍ਹਾਂ ਕੱਟ ਦਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ਦੰਗਸ਼ ਚੁਨਾਂ ਸੰਗਿ ਖ਼ਾਰਹ ਦਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

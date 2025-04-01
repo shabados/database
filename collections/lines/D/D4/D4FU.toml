@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਘਰਾਂ ਦੇ ਮੋਹ ਦਰਿਆ ਦੀਆਂ ਘੁੰਮਣ ਘੇਰੀਆਂ (ਵਾਂਗ) ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰ = ਘਰਾਂ ਦੇ ਮੋਹ। ਘੁੰਮਣ ਵਾਣੀ = ਘੁੰਮਣ ਘੇਰ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

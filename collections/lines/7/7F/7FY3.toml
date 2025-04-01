@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣ ਜੋ ਪਰਵਾਨੇ ਅਤੇ ਬੁਲਬੁਲ ਦੇ ਦਿਲ ਨੂੰ ਤੇਰੇ ਨਾਲ ਕੁਝ ਕੰਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਿ ਪਰਵਾਨਾ ਓ ਬੁਲਬੁਲ ਬ-ਤੂ ਕਾਰੇ ਦਾਰਦ ।੨੯।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

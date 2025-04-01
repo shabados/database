@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਯਾਦ ਕਰਿਆ ਕਰ ਜੋ ਅਕੱਥ ਸੁਣਿਆ ਜਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਜਪਿ = ਜਪਿਆ ਕਰ। ਅਕਥ = ਅ-ਕੱਥ, ਜਿਸ ਦੇ ਸਾਰੇ ਗੁਣ ਬਿਆਨ ਨਾਹ ਕੀਤੇ ਜਾ ਸਕਣ। ਸੁਨਥਈ = ਸੁਣਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

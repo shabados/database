@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਹਰ ਰੋਜ਼ ਸਾਰੰਗ-ਪਾਣੀ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੰਗਪਾਣੀ = ਪਰਮਾਤਮਾ {ਸਾਰੰਗ = ਧਨੁਖ। ਪਾਣੀ = ਹੱਥ। ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ ਧਨੁਖ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਨਿਰਦਈ ਮਨੁੱਖ ਨਰਮ-ਦਿਲ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਕੇ = ਨਿਰਦਈ, ਖੁਸ਼ਕ-ਦਿਲ। ਹਰੇ = ਨਰਮ-ਦਿਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

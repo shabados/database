@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਨੇ ਹੀ ਇਸ ਔਖੇ ਮਨ-ਕਿਲ੍ਹੇ ਨੂੰ ਵੱਸ ਵਿਚ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁੜ = ਗੜ੍ਹ, ਕਿਲ੍ਹਾ। ਬਿਖਮੁ = ਔਖਾ, ਜਿਸ ਨੂੰ ਜਿੱਤਣਾ ਔਖਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

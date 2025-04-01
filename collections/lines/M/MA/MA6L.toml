@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦਾ ਨਿੰਦਕ ਸਦਾ ਮੈਲੇ ਮਨ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਵਿਤੁ = ਮੈਲੇ ਮਨ ਵਾਲਾ, ਖੋਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

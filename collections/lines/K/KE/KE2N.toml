@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪੁੱਤਰ ਹਨ, ਮੇਰੀਆਂ ਇਸਤ੍ਰੀਆਂ ਹਨ, ਮੈਨੂੰ ਬੜੀਆਂ ਮੌਜਾਂ ਹਨ, ਅਤੇ ਮੇਰੇ ਪਾਸ ਕਈ ਪੁਸ਼ਾਕਾਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਦਾਰਾ = ਇਸਤ੍ਰੀ। ਰੰਗ = ਮੌਜਾਂ। ਵੇਸ = ਪਹਿਰਾਵੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

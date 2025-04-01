@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਰੱਬ ਦਾ ਨਾਮ ਜਪ, ਉਹੀ ਸਾਥ ਨਿਭਾਉਣ ਵਾਲਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਸਾਰ ਲੈਣ ਵਾਲਾ, ਸੱਚਾ ਸਾਥੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

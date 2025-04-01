@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸੱਚੇ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਧਰਮ ਦਾ ਇਨਸਾਫ਼ (ਹੀ) ਹੁੰਦਾ ਹੈ ॥੧੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਾਵਸੁ = ਨਿਆਉ। ਦਰਿ = ਦਰ ਤੇ ॥੧੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

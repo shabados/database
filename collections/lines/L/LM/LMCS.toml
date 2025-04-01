@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਰਾਤ ਨੂੰ ਸੁੱਤੇ ਰਹਿੰਦੇ ਹਨ (ਭਾਵ, ਰਾਤ ਤਾਂ ਸੁੱਤਿਆਂ ਗੁਜ਼ਾਰ ਦੇਂਦੇ ਹਨ), ਤੇ ਦਿਨੇ (ਦੁਨਿਆਵੀ) ਕੰਮ-ਧੰਧੇ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਨ = ਦਿਨੇ, ਸਾਰਾ ਦਿਨ। ਕਾਮ = ਕੰਮ-ਕਾਰ। ਕਰਹਿ = ਕਰਦੇ ਹਨ। ਜਿ = ਜੋ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

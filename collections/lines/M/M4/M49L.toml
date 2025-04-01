@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਹੇਲੀਏ! (ਉਸ ਕੰਤ ਦੇ ਦਰਬਾਰ ਵਿਚ ਸਦਾ) ਆਨੰਦ ਦੇ ਵਾਜੇ ਵੱਜਦੇ ਰਹਿੰਦੇ ਹਨ, ਦਿਨ ਰਾਤ (ਉਥੇ) ਚਾਉ (ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਵਜਹਿ = ਵੱਜਦੇ ਹਨ। ਰੈਣਿ = ਰਾਤ। ਉਮਾਹਾ = ਉਤਸ਼ਾਹ, ਚਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

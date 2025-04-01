@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਮੇਰੇ ਹੱਥ ਸਦਾ ਕੰਮ ਵਿਚ ਰੁਝੇ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਦਸਤਿ ਮਨ ਹਮੇਸ਼ਾ ਪੈਇ ਕਾਰ ਮੀਰਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

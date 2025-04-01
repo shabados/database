@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਭ ਆਦਿਕ ਹਰੇਕ ਇੰਦ੍ਰੀ ਨੂੰ ਆਪੋ ਆਪਣਾ ਚਸਕਾ (ਲੱਗਾ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕ ਸੁਆਉ = ਇਕ ਇਕ ਚਸਕਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

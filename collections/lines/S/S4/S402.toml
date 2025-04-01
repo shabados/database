@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਮੱਥਾ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜੇਹੜਾ ਗੁਰੂ-ਸੰਤ ਦੇ ਚਰਨਾਂ ਉਤੇ ਨਿਊਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਨੀਤ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

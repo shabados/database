@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਅਕਾਲ ਪੁਰਖ ਆਪ ਹੀ ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਵਿਚ ਸਿਆਣਾ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਾ = ਤਾਕਤ। ਪਰਬੀਨ = ਸਿਆਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

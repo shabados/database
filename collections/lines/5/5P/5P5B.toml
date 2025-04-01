@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਗ਼, ਜ਼ਮੀਨਾਂ, ਘਰ-ਘਾਟ ਜਿਨ੍ਹਾਂ ਨੂੰ ਮਨੁੱਖ ਆਪਣੇ ਸਮਝਦਾ ਹੈ ਕਿਤੇ ਜਾਂਦੇ ਨਹੀਂ ਲੱਭਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿ = ਉਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

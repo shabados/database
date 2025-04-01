@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਖੰਡਾਂ ਮੰਡਲਾਂ ਪਾਤਾਲਾਂ (ਸਾਰੇ ਜਗਤ) ਦਾ ਹਰੇਕ ਸੁਖ ਉਸ ਸਰੀਰ ਦੇ ਅੰਦਰ ਆ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਸੁਖ! ਖੰਡ = ਦੇਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

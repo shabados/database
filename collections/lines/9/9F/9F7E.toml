@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਅਸਲ) ਸਾਧੂ ਹੈ, ਉਹੀ ਬੈਰਾਗੀ ਹੈ ਜੇਹੜਾ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵਸਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗੀ = ਵਿਰਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

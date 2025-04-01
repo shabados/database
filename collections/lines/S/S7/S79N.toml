@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਓਟ ਲੈਂਦੇ ਹਨ, ਉਹ ਖਸਮ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਕਾਮਯਾਬ ਹੋ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰ, ਚਰਨ। ਸਫਲਿਓ = ਕਾਮਯਾਬ। ਸਨਾਥਾ = ਖਸਮ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

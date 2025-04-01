@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮਨੁੱਖ ਜੀਵਨ-ਬਾਜ਼ੀ ਹਾਰ ਕੇ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਰਿ = ਹਾਰ ਕੇ, (ਜੀਵਨ-ਬਾਜ਼ੀ) ਹਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

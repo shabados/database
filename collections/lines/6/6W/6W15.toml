@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਨ ਵਾਲਾ ਮਨੁੱਖ (ਸਦਾ) ਇਉਂ ਹੀ ਆਖਦਾ ਹੈ ਕਿ ਮੈਂ ਹੋਰ ਧਨ ਕਮਾਣ ਲਈ ਜਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਵ ਹੀ = ਇਉਂ ਹੀ, ਇਸੇ ਤਰ੍ਹਾਂ ਹੀ। ਧਨ ਕਉ = ਧਨ ਵਾਸਤੇ, ਧਨ ਇਕੱਠਾ ਕਰਨ ਲਈ। ਜਾਉ = ਜਾਉਂ, ਜਾਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਸਦਾ-ਅਟੱਲ ਤਖ਼ਤ ਉਤੇ (ਬੈਠਾ ਹੋਇਆ ਪ੍ਰਭੂ) ਉਸ ਸੇਵਕ ਨੂੰ ਸੱਦਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਖਤਿ = ਤਖ਼ਤ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

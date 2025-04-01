@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੀ) ਜਿੰਦੇ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ (ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਜਪੋ, (ਤੇਰੇ) ਭਾਗ (ਜਾਗ ਪਏ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ। ਜਿੰਦੂ = ਹੇ ਜਿੰਦੇ! ਕਰੰਮਾ = ਭਾਗ (ਜਾਗ ਪਏ ਹਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

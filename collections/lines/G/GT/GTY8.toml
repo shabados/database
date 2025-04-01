@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ! ਹਰੇਕ ਜੀਵ ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਹੈ, ਤੈਥੋਂ ਆਕੀ ਕੋਈ ਜੀਵ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

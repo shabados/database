@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਰੀਰ ਅੰਦਰ ਸੂਰਜ ਚਮਕ ਪਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਵਜੂਦਸ਼ ਆਫਤਾਬੇ ਤਾਫ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

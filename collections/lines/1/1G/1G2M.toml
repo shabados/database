@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ, ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਬਹੁਤ ਹੀ ਵਿਚਾਰੀ ਸਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੰਉ = ਮੈਂ। ਖਰੀ = ਬਹੁਤ। ਨਿਮਾਣੀ = ਆਜਿਜ਼ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

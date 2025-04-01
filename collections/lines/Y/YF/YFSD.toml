@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਤੋ ਬਿਨਾਣ ਦੂਜਾ ਹਰਫ ਕਦੀ ਵੀ ਗੋਯਾ ਦੇ ਬੁੱਲਾਣ ਤੇ ਨਹੀਣ ਆਉਣਦਾ,  "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰਫਿ ਗ਼ੈਰ ਅਜ਼ ਹੱਕ ਨਿਆਇਦ ਹੀਚਗਾਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸਾਮ੍ਹਣੇ ਸਭ ਦਾ ਕੰਮ ਜਾਨ ਵਾਰਨਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪੇਸ਼ਿ ਊ ਕਾਰਿ ਜੁਮਲਾ ਜਾਨਬਾਜ਼ੀ ।੧੪।"
+page = 1
+line = 14
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

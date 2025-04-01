@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਸਤਿਗੁਰੂ ਨੂੰ (ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਰਾਮ ਪਾਰਬ੍ਰਹਮ ਦੇ ਬਰਾਬਰ ਦਾ ਮੰਨਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ, (ਬਰਾਬਰ ਦਾ) ਕਰ ਕੇ। ਮਾਨੇ = ਮੰਨਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

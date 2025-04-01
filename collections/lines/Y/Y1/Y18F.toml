@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ ਹਰੀ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ, ਮੈਨੂੰ ਗੁਰੂ ਦੀ ਸਰਨ ਸਤਿਗੁਰੂ ਦੀ ਸਰਨ ਵਿਚ (ਸਦਾ ਰੱਖ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਜਗ ਜੀਵਨਾ = ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ ਹਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

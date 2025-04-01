@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸਦਾ ਵਾਸਤੇ ਖਸਮ-ਵਾਲੀ ਹੋ ਜਾਏਂਗੀ, ਫਿਰ ਕਦੇ ਪ੍ਰਭੂ-ਪਤੀ ਨਾਲੋਂ ਵਿਛੋੜਾ ਨਹੀਂ ਹੋਏਗਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਵਹਿ = ਤੂੰ ਰਹੇਂਗੀ। ਸੋਹਾਗਣੀ = ਖਸਮ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

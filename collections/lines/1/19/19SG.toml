@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਰੋਣਦਾ ਹੋਇਆ ਆਇਆ ਅਤੇ ਸਧਰਾਣ ਆਪਣੇ ਨਾਲ ਲਈ ਮਰ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਗਿਰੀਆਣ ਕੁਨਾਣ ਆਮਦ ਬ-ਹਸਰਤ ਮੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

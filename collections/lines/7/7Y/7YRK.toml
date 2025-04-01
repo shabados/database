@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਜੋ) ਬੇਨਤੀ ਮੈਂ ਕਰਦਾ ਹਾਂ, ਪ੍ਰਭੂ ਸਭ ਜਾਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਉ = ਮੈਂ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

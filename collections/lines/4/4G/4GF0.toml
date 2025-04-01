@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਉਸ ਨੇ) ਹਾਥੀ ਘੋੜੇ (ਵਧੀਆ) ਮਨ-ਭਾਉਂਦੇ ਕੱਪੜੇ (ਇਕੱਠੇ ਕਰ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤਿ = ਹਾਥੀ। ਜੋੜੇ = ਕੱਪੜੇ। ਮਨਿ ਭਾਨੀ = ਮਨ-ਭਾਉਂਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

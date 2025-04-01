@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁੰਦਰ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੁਨੀਆ ਦੇ ਚੰਗੇ ਪਦਾਰਥਾਂ ਦਾ ਭੋਗ ਲੋੜਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਨਿ = ਇਸਤ੍ਰੀ। ਸੁੰਦਰਿ = ਸੋਹਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

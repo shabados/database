@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਮੇਰੀ ਇੱਜ਼ਤ ਕਰੇ ਜਾਂ ਨਿਰਾਦਰੀ ਕਰੇ, ਮੈਂ ਇਸ ਵਿਚ ਕੋਈ ਹਾਣਤ ਨਹੀਂ ਸਮਝਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ ਅਪਤਿ = ਆਦਰ ਨਿਰਾਦਰੀ। ਲਾਜ = ਪਰਵਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

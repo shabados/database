@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਤੋਂ ਬਿਨਾ ਸਾਰੀ (ਲੋਕਾਈ) ਨੂੰ ਭਟਕਣਾ ਨੇ ਕੁਰਾਹੇ ਪਾ ਰੱਖਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਾ = ਕਰਮ, ਬਖ਼ਸ਼ਸ਼, ਮਿਹਰ। ਸਭ = ਸਾਰੀ ਲੁਕਾਈ। ਭਰਮਿ = ਭਟਕਣਾ ਨੇ। ਭੁਲਾਈ = ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਵੀਰ! (ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਿੰਦ ਦੀ ਖ਼ੁਰਾਕ ਹੈ, ਇਹ) ਖ਼ੁਰਾਕ ਰੱਜ ਰੱਜ ਕੇ ਖਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜਿ = ਰੱਜ ਕੇ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

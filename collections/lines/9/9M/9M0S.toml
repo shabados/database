@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਪਦਾਰਥਾਂ ਦੀ ਖ਼ਾਤਰ ਮਨੁੱਖ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਜੀਵਨ ਦੇ ਗ਼ਲਤ ਰਸਤੇ ਪੈ ਜਾਂਦੇ ਹਨ ਅਤੇ ਵਿਅਰਥ ਮਾਣ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੂਲੇ = ਕੁਰਾਹੇ ਪਏ ਹੋਏ। ਬਾਦਿ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

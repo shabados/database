@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਕੋਈ ਜੀਵ ਉਸ ਪ੍ਰਭੂ ਦੀ ਤਾਕਤ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੇ, ਆਖਦਾ ਹੈ। ਕੋ = ਕੋਈ ਜੀਵ। ਪਾਰ = ਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

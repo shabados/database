@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ (ਦੇ ਭਜਨ) ਤੋਂ ਬਿਨਾ ਜ਼ਿੰਦਗੀ ਵਿਅਰਥ ਚਲੀ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਾਰਥ = ਵਿਅਰਥ। ਜਾਤ = ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

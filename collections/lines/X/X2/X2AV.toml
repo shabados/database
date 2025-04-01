@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ ਸਭਨਾ ਲਈ ਜ਼ਰੂਰੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਈਂ ਜੁਮਲਾ ਰਾ ਲਾਜ਼ਮ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

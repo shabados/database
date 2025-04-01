@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਦਸਤਰਖਾਨ ਤੋਂ ਪਲ ਭਰ ਲਈ ਟੁਕੜੇ ਚੁਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੇਜ਼ਾ-ਚੀਨੀ ਕੁਨ ਦਮੇ ਅਜ਼ ਖ਼ਾਨਿ ਊ ।੩੬੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦੀਆਂ) ਵੱਡੀਆਂ ਲਹਿਰਾਂ ਤੋਂ (ਬਚ ਕੇ) ਕੰਢੇ ਆ ਲੱਗਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰੰਗ = ਲਹਿਰਾਂ। ਤੇ = ਤੋਂ। ਕਾਂਢੈ = ਕੰਢੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

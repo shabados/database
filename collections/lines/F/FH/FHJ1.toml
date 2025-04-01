@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਦੀ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਭਟਕਣਾ ਮੁੱਕ ਗਈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣ ਜਾਣੁ = ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ, ਭਟਕਣਾ। ਰਹਿਓ = ਮੁੱਕ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

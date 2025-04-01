@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੀ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ ਹਾਂ, ਮੈਂ ਤੈਨੂੰ ਚਾਹੁਣ ਵਾਲਾ ਹਾਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਵਰੀ ਬਖ਼ਸ਼ੋ ਖ਼ਾਸਤਗਾਰਿ ਤੂ ਅਮ ।੨੭।"
+page = 1
+line = 27
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, ਜਿਸ ਨੂੰ ਕਿਸੇ ਤੋਂ ਕੋਈ ਡਰ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਭਉ = ਜਿਸ ਨੂੰ ਕਿਸੇ ਤੋਂ ਡਰ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

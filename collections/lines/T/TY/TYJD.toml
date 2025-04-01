@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ, ਹੇ ਭਾਈ!) ਇਹ (ਨਾਮ-) ਖ਼ਜ਼ਾਨਾ ਗੁਰੂ ਤੋਂ (ਹੀ) ਮਿਲਦਾ ਹੈ, ਆਪਾ-ਭਾਵ ਤਿਆਗ ਕੇ ਸਦਾ (ਗੁਰੂ ਦੀ) ਸਰਨ ਪੈਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਪਰੀਐ = ਪੈਣਾ ਚਾਹੀਦਾ ਹੈ। ਤੇ = ਤੋਂ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

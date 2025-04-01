@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰਾ ਪ੍ਰਭੂ ਸਦਾ ਦਇਆ ਦਾ ਘਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਰੁ = ਦਇਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

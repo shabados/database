@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੇਰੇ ਮੁਖੜੇ ਦੀ ਚਰਚਾ ਹਰ ਪਾਸੇ ਛਿੜਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਪਰਦਾਇ ਜਮਾਲਿ ਤੂ ਰੋਸ਼ਨ ਸ਼ਵਦ ਜਹਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

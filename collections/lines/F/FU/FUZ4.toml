@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ (ਤੇਰੇ) ਬੱਚੇ ਤੇਰੀ ਸ਼ਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤੇਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

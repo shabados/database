@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪਾਰਬਤੀ ਦੀ ਪੂਜਾ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਾ = ਵੱਡੀ। ਮਹਾ ਮਾਈ = ਵੱਡੀ ਮਾਂ, ਪਾਰਵਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

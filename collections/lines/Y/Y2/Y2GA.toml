@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੈਨੂੰ ਸੋਹਣਾ ਮਨੁੱਖਾ ਸਰੀਰ ਮਿਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਈ ਪਰਾਪਤਿ = ਮਿਲੀ ਹੈ। ਦੇਹੁਰੀਆ = ਸੋਹਣੀ ਦੇਹ, ਸੋਹਣਾ ਸਰੀਰ। ਮਾਨੁਖ ਦੇਹੁਰੀਆ = ਸੋਹਣਾ ਮਨੁੱਖਾ ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

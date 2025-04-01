@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦੋਂ (ਕਿਸੇ ਜੀਵ ਦੇ ਹੱਥੋਂ ਪ੍ਰਭੂ ਦਾ ਪੱਲਾ) ਛੁੱਟ ਜਾਂਦਾ ਹੈ, ਤਦੋਂ ਉਹ (ਮਾਨੋ) ਪਾਤਾਲ ਵਿਚ ਜਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ = ਜਦੋਂ। ਛੂਟਉ = ਪੱਲਾ ਛੁੱਟ ਜਾਂਦਾ ਹੈ। ਤਉ = ਤਦੋਂ। ਜਾਇ = (ਜੀਵ) ਜਾ ਪੈਂਦਾ ਹੈ। ਪਇਆਲ = ਪਾਤਾਲ (ਵਿਚ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

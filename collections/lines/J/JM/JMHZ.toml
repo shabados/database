@@ -5,6 +5,11 @@ language = "pa"
 data = "ਧਰਤੀ ਹੇਠਲੀ ਮੱਛੀ ਤੋਂ ਲੈ ਕੇ ਉਚੇਰੇ ਅਨੰਤ ਦੀ ਸੀਮਾ ਤਕ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਮਾਹੀ ਜ਼ਮੀਂ ਤਾ ਸਰਿ ਲਾ-ਮਕਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

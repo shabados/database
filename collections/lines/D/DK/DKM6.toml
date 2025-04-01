@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! 'ਅਭਿਆਗਤ' ਉਹੀ ਹਨ ਜੋ ਆਤਮਕ ਮੰਡਲ ਦੀ ਸੈਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਉਣੁ = ਸੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

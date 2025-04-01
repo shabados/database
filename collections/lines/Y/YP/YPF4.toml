@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਦੇਵਤਿਆਂ ਨੇ ਲੱਛਮੀ ਦੀ ਵਡਿਆਈ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵ ਕੁਲੀ = ਦੇਵਤਿਆਂ ਦੀ ਸਾਰੀ ਕੁਲ, ਸਾਰੇ ਦੇਵਤੇ। ਲਖਿਮੀ = ਲੱਛਮੀ। ਕਉ = ਨੂੰ। ਕਰਹਿ = ਕਰਦੇ ਹਨ, ਕਰਨ ਲੱਗ ਪਏ। ਜੈਕਾਰੁ = ਨਮਸਕਾਰ, ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

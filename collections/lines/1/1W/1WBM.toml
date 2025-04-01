@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੀ ਅੱਖ ਤਾਣ ਮਿੱਟੀ ਦੀ ਹੈ, ਪਰ ਉਸ ਵਿਚ ਨੂਰ ਰੱਬ ਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਤੂ ਖ਼ਾਕੀ ਵ ਦਰ ਵੈ ਨੂਰਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

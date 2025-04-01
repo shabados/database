@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਸਦਾ ਹੀ ਗੋਬਿੰਦ-ਪ੍ਰਭੂ ਦੀ ਸਿਫਤਿ-ਸਾਲਾਹ ਗਾਂਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤਿ-ਸਾਲਾਹ। ਗਾਈਐ = ਗਾਣਾ ਚਾਹੀਦਾ ਹੈ। ਨੀਤ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

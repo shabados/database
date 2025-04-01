@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਜੀਵਾਂ ਨੂੰ ਪਾਲਣ ਵਾਲੇ! ਹੇ (ਸਭਨਾਂ ਉਤੇ) ਰਹਿਮ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲ = ਪਾਲਣ ਵਾਲਾ। ਰਹੀਮ = ਰਹਿਮ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

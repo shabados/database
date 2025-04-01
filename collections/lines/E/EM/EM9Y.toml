@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੁੜ ਇਸ ਦਾ ਵਿਸਾਹ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸ੍ਵਾਸੁ = ਵਿਸਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

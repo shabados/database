@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਸਭ ਦਾ) ਪਾਤਸ਼ਾਹ ਹੈ ਇਸ (ਚਿਤ੍ਰਕਾਰ ਪ੍ਰਭੂ) ਦੇ ਪਾਸ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਤ੍ਰਪਤਿ = ਛੱਤ੍ਰ ਦਾ ਮਾਲਕ, ਜਿਸ ਦੇ ਸਿਰ ਉੱਤੇ ਛੱਤ੍ਰ ਝੁੱਲ ਰਿਹਾ ਹੈ, ਰਾਜਾ, ਪਾਤਸ਼ਾਹ। ਇਹੈ ਪਾਸਾ = ਇਸੇ ਦੇ ਪਾਸ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

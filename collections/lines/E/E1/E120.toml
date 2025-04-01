@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਕੰਨਾਂ ਵਿਚ) ਮੁੰਦ੍ਰਾਂ (ਭੀ) ਪਾਈਆਂ ਹੋਈਆਂ ਹਨ (ਪਰ ਤੇਰੇ ਅੰਦਰ) ਮੇਰ-ਤੇਰ ਵੱਸ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੀ ਤੇਰੀ = ਮੇਰ-ਤੇਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

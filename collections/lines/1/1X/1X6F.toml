@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਤੇਰੇ ਲਈ ਇਕ ਰਸਾਇਨ ਇਲਾਜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਕੀਮੀਆ ਬਾਸ਼ਦ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਉਹ ਦਿਨ ਭਾਗਾਂ ਵਾਲੇ ਹੁੰਦੇ ਹਨ, (ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ) ਕਬੂਲ ਹੁੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਓਇ = {ਲਫ਼ਜ਼ 'ਓਹ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਧੰਨਿ = ਭਾਗਾਂ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

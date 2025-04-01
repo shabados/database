@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸੇਜ ਤੇ ਆਉਂਦੀ ਹਾਂ (ਮੈਂ ਹਿਰਦੇ-ਸੇਜ ਵਲ ਪਰਤਦੀ ਹਾਂ, ਪਰ ਅਜੇ ਭੀ) ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਦੀ ਪਿਆਸ ਨਾਲ ਮੈਂ ਵਿਆਕੁਲ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਆਸੀ = ਪਿਆਸ ਨਾਲ ਵਿਆਕੁਲ। ਆਸ ਪਿਆਸੀ = ਦੁਨੀਆ ਦੀਆਂ ਆਸਾਂ ਦੀ ਪਿਆਸ ਨਾਲ ਵਿਆਕੁਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

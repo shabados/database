@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਨਾ ਹੀ ਜਤ ਸਤ ਤੇ ਤੀਰਥ-ਇਸ਼ਨਾਨ (ਦਾ ਉੱਦਮ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤੁ = ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਰੋਕਣਾ। ਸਤੁ = ਪਵਿਤ੍ਰ ਆਚਰਨ। ਮਜਨੁ = ਮੱਜਨੁ, ਚੁੱਭੀ, ਇਸ਼ਨਾਨ। ਨਾਮਿ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

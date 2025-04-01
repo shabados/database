@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਰਾਹ ਅਵਤਾਰ ਧਾਰ ਕੇ) ਧਰਤੀ ਨੂੰ ਆਪਣੀਆਂ ਦਾੜ੍ਹਾਂ ਉੱਤੇ ਚੁੱਕਣ ਵਾਲਾ ਭੀ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾੜਾ ਅਗ੍ਰੇ = ਦਾੜ੍ਹਾਂ ਦੇ ਉੱਤੇ। ਪ੍ਰਿਥਮਿ = ਧਰਤੀ। ਧਰਾਇਣ = ਚੁੱਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

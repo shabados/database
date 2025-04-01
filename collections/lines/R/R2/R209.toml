@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਜੇ ਤੂੰ ਉਸ ਸਦਾ-ਥਿਰ ਹਰੀ ਦੀ ਸਰਨ ਪਏਂ, ਤਾਂ ਹੀ ਰਸ ਮਾਣੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੂਲਹਿ = ਭਿੱਜੇਂਗਾ, ਰਸ ਮਾਣੇਂਗਾ। ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

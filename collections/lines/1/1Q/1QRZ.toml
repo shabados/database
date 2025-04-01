@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ ਅੱਗੇ ਇਹ ਅਰਜ਼ੋਈ ਕਰ-ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਤੈਨੂੰ ਚੰਗੇ ਲੱਗਣ ਤਾਂ ਜੀਵ ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੀ ਸ਼ਰਨ ਆਉਂਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਆਰਿ = ਦਰ ਤੇ। ਭਾਵਹੀ = ਚੰਗੇ ਲੱਗਣ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

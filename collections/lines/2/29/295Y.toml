@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੋ ਬੰਦੇ ਤੇਰਾ ਸੱਚਾ ਨਾਮ-ਰੂਪ ਦਾਨ ਤੈਥੋਂ ਮੰਗਦੇ ਹਨ ਉਹ ਤੇਰੇ ਵਰਗੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜੋ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

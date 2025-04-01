@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵਾਂ ਦੇ ਅਣਗਿਣਤ ਹੀ ਪਾਪ ਖਿਣ ਵਿਚ ਬਖ਼ਸ਼ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸੰਖ = ਅਣਗਿਣਤ, ਜਿਨ੍ਹਾਂ ਦੀ ਸੰਖਿਆ (ਗਿਣਤੀ) ਨ ਹੋ ਸਕੇ। ਖਤੇ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

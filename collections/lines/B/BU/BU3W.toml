@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੰਸ ਉੱਡ ਕੇ ਕੋਧਰੇ ਦੀ ਪੈਲੀ ਵਿਚ ਜਾ ਬੈਠਾ ਤਾਂ ਦੁਨੀਆ ਦੇ ਬੰਦੇ ਉਸ ਨੂੰ ਉਡਾਣ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਡਿ = ਉੱਡ ਕੇ। ਕੋਧ੍ਰੈ = ਕੋਧਰੇ ਦੀ ਪੈਲੀ ਵਿਚ। ਪਇਆ = ਜਾ ਪਿਆ, ਜਾ ਬੈਠਾ। ਵਿਡਾਰਣਿ = ਉਡਾਣ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

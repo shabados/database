@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਲਕ-ਪ੍ਰਭੂ ਹੀ ਆਪਣਾ ਅਸਲ ਮਿੱਤਰ ਹੈ। ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਤੁ = ਮਿੱਤਰ। ਸੁਆਮੀ = ਮਾਲਕ। ਗਾਈਐ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

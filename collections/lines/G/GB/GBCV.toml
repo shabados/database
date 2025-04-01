@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿੰਤਾ ਦੂਰ ਕਰਨ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ (ਮੇਰੇ ਅੰਦਰੋਂ ਸਾਰੇ) ਵੈਰ-ਵਿਰੋਧ ਨਾਸ ਹੋ ਗਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰ = ਵੈਰ-ਵਿਰੋਧ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

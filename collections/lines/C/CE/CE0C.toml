@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਤਾਣ ਆਰਫ਼ ਦੇ ਦਿਲ ਵਿਚ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਦਰ ਦਿਲਿ ਆਰਿਫ਼ ਕਰਦਾ ਜ਼ਹੂਰ ।੧੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

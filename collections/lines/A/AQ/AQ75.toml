@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਅਰਦਾਸ ਕਰੋ ਕਿ) ਮੈਂ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤਹੁ = ਹੇ ਸੰਤ ਜਨੋ! ਧਿਆਈ = ਧਿਆਈਂ, ਮੈਂ ਧਿਆਉਂਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

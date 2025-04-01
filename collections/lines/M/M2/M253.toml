@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੋਹਣੇ ਮਨ! ਹੇ ਰੰਗੀਲੇ ਮਨ! (ਤੂੰ ਆਪਣੇ ਉੱਤੇ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਨਾਮ-ਰੰਗ ਚਾੜ੍ਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏ = ਹੇ! ਰੂੜ੍ਹ੍ਹੇ = ਸੁੰਦਰ। ਰੰਗੁਲੇ = ਰੰਗੀਲੇ। ਸਚਾ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

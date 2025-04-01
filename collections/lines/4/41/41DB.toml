@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਪਾਪ ਜਾਂ ਪੁੰਨ ਕਿਸ (ਜੀਵ) ਤੋਂ ਹੋ ਸਕਦਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹ ਤੇ = ਕਿਸ (ਜੀਵ) ਤੋਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

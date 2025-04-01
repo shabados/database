@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਧਰ ਕਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਪਰਮਾਤਮਾ ਮੇਰੇ ਨਾਲ ਮਦਦਗਾਰ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤ = ਜਿਧਰ ਕਿਧਰ। ਪੇਖਉ = ਪੇਖਉਂ, ਵੇਖਦਾ ਹਾਂ। ਸੰਗਿ = ਨਾਲ। ਸਹਾਈ = ਮਦਦਗਾਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

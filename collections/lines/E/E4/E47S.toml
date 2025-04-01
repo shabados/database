@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇ ਆਖਦੀ ਹੈ-) ਹੇ ਪਰਮਾਤਮਾ! (ਕਬੀਰ ਦੇ) ਇਹ ਅੰਞਾਣੇ ਬਾਲ ਕਿਵੇਂ ਜੀਊਣਗੇ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰਿਕ = ਅੰਞਾਣੇ ਬਾਲ। ਰਘੁਰਾਈ = ਹੇ ਪ੍ਰਭੂ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

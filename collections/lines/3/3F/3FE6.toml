@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਾਨਸਕ ਹਾਲਤ ਨੂੰ 'ਭਰਮ ਭੁਲਾਵਾ' ਆਖੀਦਾ ਹੈ, ਸਾਰਾ ਜਗਤ ਉਹਨਾਂ (ਭਰਮ ਭੁਲਾਵਿਆਂ ਵਿਚ) ਫਸਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭਟਕਣਾ। ਭੁਲਾਵਾ = ਭੁਲੇਖਾ। ਤਿਨ ਮਹਿ = ਉਹਨਾਂ (ਭਰਮ ਭੁਲਾਵਿਆਂ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

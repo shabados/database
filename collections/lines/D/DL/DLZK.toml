@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਦੁਖੀ ਹੁੰਦੇ, (ਤੇ ਨਿੱਤ ਵਿਕਾਰਾਂ ਦੀਆਂ) ਸੱਟਾਂ ਸਹਾਰਦੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖੇ = ਦੁਖੀ। ਖਾਹਿ = ਖਾਂਦੇ ਹਨ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

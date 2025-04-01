@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮਨ!) (ਕਿਸੇ) ਮਨੁੱਖ ਦਾ ਆਸਰਾ ਉੱਕਾ ਹੀ ਵਿਅਰਥ ਸਮਝ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਆਸਰਾ। ਬ੍ਰਿਥੀ = ਬੇ-ਫ਼ਾਇਦਾ। ਜਾਨੁ = ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

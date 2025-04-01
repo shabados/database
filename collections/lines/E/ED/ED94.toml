@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਦਾ ਸਤਿਗੁਰੂ ਦਾ ਭਾਣਾ ਮੰਨਦੇ ਹਨ, ਉਹ ਸੱਚੇ ਹਰੀ ਵਿਚ ਸਮਾਏ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

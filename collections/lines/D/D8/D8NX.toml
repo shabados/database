@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਰਬ-ਵਿਆਪਕ ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸਰ ਦਾ ਨਾਮ ਸਦਾ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

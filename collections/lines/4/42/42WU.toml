@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਹੇ ਪ੍ਰਭੂ! ਹੋਰ ਸਾਰੇ ਜਤਨ ਛੱਡ ਕੇ ਮੈਂ ਸਿਰਫ਼ ਤੈਨੂੰ ਹੀ ਸਿਮਰਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਤੁਹੀ = ਤੈਨੂੰ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

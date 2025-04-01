@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਰੀਰ ਦਾ ਮਾਲਕ ਆਤਮਾ (ਸਰੀਰ ਵਿਚ) ਲੁਕਿਆ ਰਹਿੰਦਾ ਹੈ, ਸਿਰਫ਼ ਸਰੀਰ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਦੇਹ ਦਾ ਮਾਲਕ, ਸਰੀਰ ਦਾ ਮਾਲਕ ਆਤਮਾ। ਬਿਦੇਹੀ = ਜੋ ਆਤਮਾ ਨਹੀਂ, ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

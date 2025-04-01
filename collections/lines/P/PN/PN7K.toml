@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਰਉ = ਰਮ, ਸਿਮਰ। ਨਿਤ ਨੀਤਿ = ਸਦਾ ਹੀ, ਨਿੱਤ ਨਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਦਾ ਜ਼ਿਕਰ ਕਿੰਨਾ ਸੁਆਦਲਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਯਾਦਿ ਹੱਕ ਕਿ ਊ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

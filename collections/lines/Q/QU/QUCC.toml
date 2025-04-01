@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ ਬੈਰਾਗੀ! ਜੇ ਮਨੁੱਖ ਦਾ ਮਨ (ਤ੍ਰਿਸ਼ਨਾ ਮਮਤਾ ਵਲੋਂ) ਮਰ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਲਿ = ਸਾੜ ਕੇ। ਤਨੁ = ਸਰੀਰ, ਸਰੀਰ ਦਾ ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

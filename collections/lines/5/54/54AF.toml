@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਰਾਹ ਵਿਖਾਉਣ ਵਾਲਾ ਹੈਂ, ਅਤੇ ਸਭ ਦੇ ਦਿਲਾਂ ਨੂੰ (ਆਪਣੇ ਵੱਲ) ਮੋੜਣ ਵਾਲਾ ਹੈਂ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰਹਿਬਰੋ ਦਿਲ-ਗਿਰਾਮੀਇ ਜੁਮਲਾ ਤੂਈ ।੫੩।"
+page = 1
+line = 53
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

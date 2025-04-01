@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੂੰ ਸਿਮਰਦਿਆਂ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਬੇ-ਦਾਗ਼ ਸੋਭਾ ਮਿਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ ਸੋਇ = ਬੇ-ਦਾਗ਼ ਸੋਭਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

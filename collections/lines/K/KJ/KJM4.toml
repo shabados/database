@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ (ਪਰ ਉਹਨਾਂ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਕਰਤਾਰ ਨੇ ਆਪ (ਹੀ ਉਹਨਾਂ ਨੂੰ) ਕੁਰਾਹੇ ਪਾਇਆ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤੈ = ਕਰਤਾਰ ਨੇ। ਖੁਆਇ = ਕੁਰਾਹੇ ਪਾਏ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

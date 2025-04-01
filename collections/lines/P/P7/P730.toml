@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੱਡਾ ਸੁਭਾਗਾ ਹੈ ਉਹ ਦਿਲ, ਜਿਸ ਦੇ ਅੰਦਰ ਰੱਬ ਦਾ ਚਾਉ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਦਿਲ ਕਿ ਅੰਦਰਸ਼ ਸ਼ੌਕਸ਼ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

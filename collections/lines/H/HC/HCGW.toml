@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਭ ਦੀ ਇੱਛਾ ਪੂਰਨ ਸਤਿਗੁਰੂ ਦੀ ਪਰਾਪਤੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਰਸ਼ਦਿ ਕਾਮਿਲ ਹਮਾ ਰਾ ਆਰਜ਼ੂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

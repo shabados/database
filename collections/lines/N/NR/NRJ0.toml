@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗਿਆਨ ਆਦਿਕ ਦੀਆਂ ਗੱਲਾਂ ਨਿਰੀਆਂ) ਆਖਣੀਆਂ ਜਾਂ ਅਖਵਾਣੀਆਂ-ਇਹ ਰਸਤਾ ਹੈ ਦੁਨੀਆ ਤੋਂ ਸੋਭਾ ਖੱਟਣ ਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸੋਭਾ, ਵਡਿਆਈ। ਕਰਲਾ = ਰਸਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

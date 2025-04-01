@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਗੁਰੂ ਦੇ) ਦਰ ਤੇ ਰਿਹਾਂ ਹੀ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਦਰਸਨ ਹੁੰਦਾ ਹੈ ॥੪॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ = (ਗੁਰੂ ਦੇ) ਦਰ ਤੇ (ਡਿੱਗਿਆਂ)। ਘਰਿ = ਹਿਰਦੇ ਵਿਚ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

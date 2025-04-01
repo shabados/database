@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਣਾਂ ਨੂੰ ਮੰਡੇ, ਸੀਤਲ ਸੁਭਾਉ ਨੂੰ ਘਿਉ ਤੇ ਸ਼ਰਮ ਨੂੰ ਮਾਸ ਵਾਲੀ (ਇਹ ਸਾਰੀ) ਖ਼ੁਰਾਕ ਬਣਾ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਡੇ = ਰੋਟੀਆਂ। ਸੀਲ = ਚੰਗਾ ਸੁਭਾਉ। ਸਰਮੁ = ਹਯਾ। ਆਹਾਰੁ = ਖ਼ੁਰਾਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

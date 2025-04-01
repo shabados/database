@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕੌਲ ਫੁੱਲ ਵਿਚ ਮਕਰੰਦ ਆ ਨਿਵਾਸ ਕਰਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਜ = ਮਕਰੰਦ, ਫੁੱਲ ਦੇ ਅੰਦਰ ਦੀ ਧੂੜ। ਪੰਕਜ = ਕੌਲ-ਫੁੱਲ। {ਪੰਕ = ਚਿੱਕੜ। ਜ = ਜੰਮਿਆ ਹੋਇਆ। ਚਿੱਕੜ ਵਿਚ ਉੱਗਿਆ ਹੋਇਆ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

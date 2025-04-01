@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭੈਣ!) ਮੈਂ (ਉਸ) ਐਸੇ ਤਰਖਾਣ ਦਾ ਸਰੂਪ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ। (ਉਂਞ) ਉਹ ਸਭਨਾਂ ਵਿਚ ਹੈ, ਉਹ ਸਭ ਥਾਈਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਰਨਿ ਨ ਸਾਕਉ = ਮੈਂ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਅੰਤਰ = ਅੰਦਰ। ਠਾਂਈ = ਥਾਂਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

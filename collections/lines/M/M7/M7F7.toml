@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ਮਨੁੱਖ ਹੀ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਾ ਮਨੁੱਖ (ਹੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

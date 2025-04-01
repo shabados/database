@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਹਰਿ-ਨਾਮ-ਰਸ ਦਾ ਅਨੰਦ ਗੁਰੂ ਪਾਸੋਂ ਹੀ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਪਾਸੋਂ। ਸਾਦੁ = ਸੁਆਦ, ਆਨੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

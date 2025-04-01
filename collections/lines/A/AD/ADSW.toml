@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੱਸ) ਕੇਹੜੀ ਚੀਜ਼ ਤੇਰੇ ਨਾਲ ਆਈ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਤੁ = ਚੀਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

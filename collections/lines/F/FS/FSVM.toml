@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਦਿਨ ਰਾਤ (ਮੇਰੇ) ਮਨ ਵਿਚ ਟਿਕਿਆ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਨਿਸਿ = ਰਾਤ। ਬਾਸਰੋ = ਦਿਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

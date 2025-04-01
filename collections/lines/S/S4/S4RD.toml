@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਮਿਲ ਪਿਆ, ਉਹਨਾਂ ਦੀਆਂ ਸਭ ਭਟਕਣਾਂ ਮੁੱਕ ਜਾਂਦੀਆਂ ਹਨ ॥੪॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭ੍ਰਮ = ਭਟਕਣਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

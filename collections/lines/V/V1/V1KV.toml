@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਦਾ ਮਨ ਪਰਵਾਰ ਦੇ ਮੋਹ ਵਿਚ ਰੰਗਿਆ ਰਹਿੰਦਾ ਹੈ, ਉਹ ਸਦਾ ਅਹੰਕਾਰ ਵਿਚ ਹੀ ਫਿਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਿ = ਅਹੰਕਾਰ ਵਿਚ। ਫਿਰਾਮੀ = ਫਿਰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

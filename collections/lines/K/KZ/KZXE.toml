@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਅਤੇ ਪਰਮਾਤਮਾ ਨੂੰ ਇੱਕ ਰੂਪ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੋ = ਇਕ-ਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

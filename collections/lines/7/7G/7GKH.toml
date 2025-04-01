@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਜੋ ਮੇਰੀ ਇਸ ਬੇਨਤੀ ਨੂੰ ਸਿਰੇ ਚਾੜ੍ਹ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਉ ਮੋਹਿ = ਮੇਰੀ ਬੇਨਤੀ ਨੂੰ। ਸਾਰਿਆ = ਸਾਰ ਲੈਣ ਵਾਲਾ, ਸਿਰੇ ਚਾੜ੍ਹਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

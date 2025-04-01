@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਨਾਮ ਸਭ ਜੀਵਾਂ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਕਰਨ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਉਧਾਰਣ = ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਪਰਮਾਤਮਾ ਮੇਰੇ ਉਤੇ) ਦਇਆਵਾਨ ਹੋ ਗਿਆ ਹੈ (ਮਾਇਆ ਡੈਣ ਤੋਂ ਬਚਣ ਲਈ ਮੇਰਾ) ਆਪ ਸਹਾਈ ਬਣਿਆ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਗੁਰੂ। ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਸਹਾਇ = ਸਹਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

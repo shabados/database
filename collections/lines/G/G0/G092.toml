@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ) ਜਿਤਨੇ ਭੀ ਜੀਵ (ਆਉਂਦੇ) ਹਨ ਸਾਰੇ ਮੁਸਾਫ਼ਿਰ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟਾਊ = ਮੁਸਾਫ਼ਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਗੁਰਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਉੱਚਾ ਆਚਰਣ ਬਣ ਕੇ ਪ੍ਰਭੂ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਗੁਰਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਅਚਾਰਿ = ਆਚਾਰ ਦੀ ਰਾਹੀਂ, ਚੰਗੇ ਆਚਰਨ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

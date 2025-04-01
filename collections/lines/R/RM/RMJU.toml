@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ (ਗੁਰਜ) ਅੱਗੇ, ਇਸ (ਖੰਡੇ) ਅੱਗੇ ਕੋਈ ਭੀ ਕੁਕਰਮੀ ਟਿਕ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਟਿਕੈ = ਖਲੋ ਨਹੀਂ ਸਕਦਾ, ਠਹਿਰ ਨਹੀਂ ਸਕਦਾ। ਵੇਕਾਰੀ = ਕੁਕਰਮੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

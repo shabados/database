@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਦੇ ਮੁੰਢ ਪ੍ਰਭੂ! ਹੇ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ ਪ੍ਰਭੂ! ਹੇ ਪ੍ਰਕਾਸ਼-ਰੂਪ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ = ਹੇ ਸਾਰੇ ਜਗਤ ਦੇ ਮੂਲ! ਪੁਰਖ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਅਪਰੰਪਰ = ਹੇ ਪਰੇ ਤੋਂ ਪਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

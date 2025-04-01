@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਹੁਣ ਮਨੁੱਖਾ ਜਨਮ ਮਿਲਣ ਤੇ (ਨਾਮ ਬੀਜਣ ਦਾ) ਸਮਾ ਤੈਨੂੰ ਮਿਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬ = ਹੁਣ, ਮਨੁੱਖਾ ਜੀਵਨ ਮਿਲਣ ਤੇ। ਕਲੂ = ਕਾਲੁ, ਸਮਾ, ਨਾਮ ਬੀਜਣ ਦਾ ਸਮਾ। ਰੇ = ਅਨ = {अन्य} ਕੋਈ ਹੋਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

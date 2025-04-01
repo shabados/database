@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਇਕ ਦਾਤਾਰ ਦੇ ਗੁਣ ਗਾਓ ਜੋ ਹਰੇਕ ਜੀਵ ਨੂੰ ਆਸਰਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ = ਜਿਹੜਾ। ਸਭਸੈ = ਸਭਨਾਂ ਨੂੰ। ਆਧਾਰੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

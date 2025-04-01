@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਠਾਸੀ ਕਰੋੜ ਉਸ ਦੇ (ਦਰ ਤੇ ਰਹਿਣ ਵਾਲੇ) ਬਜ਼ੁਰਗ ਆਲਿਮ ਸ਼ੇਖ਼ ਕਹੇ ਜਾ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਖ = ਬਜ਼ੁਰਗ, ਵਿਦਵਾਨ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

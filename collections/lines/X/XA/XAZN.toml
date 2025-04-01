@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਲਾਂ ਨੂੰ ਮਾਰਨ ਵਾਲੀ ਅਤੇ ਕਪਟ ਨਾਲ ਭਰੀ ਹੋਈ (ਉਸ ਪੂਤਨਾ ਦਾ ਉਧਾਰ ਹੋ ਗਿਆ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਤਨੀ = ਮਾਰਨ ਵਾਲੀ। ਕਪਟ = ਧੋਖਾ, ਫ਼ਰੇਬ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

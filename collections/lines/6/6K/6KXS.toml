@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਅੱਗ ਨਾਲ ਮੈਣ ਅਜਿਹਾ ਸੜਿਆ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਚੁਨਾਣ ਸੋਖ਼ਤਮ ਅਜ਼ਾਣ ਆਤਿਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

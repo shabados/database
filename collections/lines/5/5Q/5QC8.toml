@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਚ ਦੀ ਇਹ ਭੁਆਟਣੀ ਹੋਵੇ ਕਿ ਪ੍ਰਭੂ ਦਾ ਡਰ ਅਦਬ ਮਨ-ਚਿਤ ਵਿਚ ਟਿਕਿਆ ਰਹੇ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫੇਰੀ = ਭੁਆਟਣੀ। ਚੀਤਿ = ਚਿਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

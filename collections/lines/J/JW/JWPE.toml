@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ ਸੰਤਾਂ ਦੀ ਸੰਗਤ ਕੀਤਿਆਂ ਪਾਪਾਂ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਛਤ = ਪਾਪ। ਸੰਤ ਸੰਗਿ = ਸੰਤਾਂ ਦੀ ਸੰਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

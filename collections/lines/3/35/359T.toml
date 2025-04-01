@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇੱਕ ਪ੍ਰਭੂ-ਪਿਤਾ ਵਾਲੇ ਨੂੰ (ਕਿਸੇ ਤੋਂ) ਕੋਈ ਡਰ ਨਹੀਂ ਰਹਿੰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੇ ਕਉ = ਇੱਕ ਪ੍ਰਭੂ-ਪਿਤਾ ਵਾਲੇ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

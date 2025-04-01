@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਮੈਂ ਕਿਸੇ) ਮੁੱਲ ਤੋਂ ਨਹੀਂ ਲਿਆ, (ਇਹ ਲਾਲ) ਮੈਨੂੰ ਸਤਿਗੁਰੂ ਨੇ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਿਧਾ = ਲਿਆ। ਮੈਕੂ = ਮੈਨੂੰ। ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

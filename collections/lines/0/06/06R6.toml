@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ-ਚਰਚਾ ਵਿਚ ਭੀ ਮੇਰੀ ਸੁਰਤ ਮੇਰੀ ਮਤਿ ਨਹੀਂ ਟਿਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨਿ = ਗਿਆਨ = ਚਰਚਾ ਵਿਚ। ਸੁਰਤਿ = ਧਿਆਨ, ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

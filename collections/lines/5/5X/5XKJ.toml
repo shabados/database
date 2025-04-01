@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸਾਰਾ ਜਗਤ ਤੇਰੇ ਹੀ ਆਸਰੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਕਾਰੁ = ਜਗਤ। ਧਾਰਾ = ਟਿਕਾਇਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

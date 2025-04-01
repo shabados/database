@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਇਸ ਪ੍ਰਭਾਵ ਤੋਂ ਬਚਣਾ ਇਉਂ ਹੀ ਔਖਾ ਹੈ ਜਿਵੇਂ ਬਿਨਾ ਦੰਦਾਂ ਦੇ ਲੋਹਾ ਚੱਬਣਾ) ਦੰਦਾਂ ਤੋਂ ਬਿਨਾ ਲੋਹਾ ਕਿਵੇਂ ਚੱਬਿਆ ਜਾਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੰਤ = ਦੰਦ। ਸਾਰੁ = ਲੋਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

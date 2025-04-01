@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਧਰਮ ਵਿਚ ਹੋਰਨਾਣ ਦੀ ਪੂਜਾ ਨਹੀਣ ਕਰਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਮਜ਼ਹਬਿ ਮਾ ਗ਼ੈਰ-ਪਰਸਤੀ ਨ ਕੁਨੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

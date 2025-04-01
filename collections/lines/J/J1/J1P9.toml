@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ-ਬੱਦਲ) ਨਿਉਂ ਨਿਉਂ ਕੇ ਆਇਆ ਹੈ ਤੇ ਸਾਫ਼ ਜਲ ਵਰਸ ਰਿਹਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਪੰਗੁ = (ਨਿ-ਪੰਗੁ; ਪੰਗੁ = ਪੰਕ, ਚਿੱਕੜ) ਚਿੱਕੜ-ਰਹਿਤ, ਸਾਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

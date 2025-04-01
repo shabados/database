@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਆਪਣੀ ਮਿਹਰ ਕਰ ਅਤੇ ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਸਾਰ ਲੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਾਲਿ = ਸੰਭਾਲ, ਸਾਰ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

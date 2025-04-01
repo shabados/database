@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਹਿਲਾਦ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, ਇਹ ਗੱਲ ਆਖ ਕੇ) ਮੈਨੂੰ ਮੁੜ ਮੁੜ ਕਿਉਂ ਦਿੱਕ ਕਰਦੇ ਹੋ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰ ਬਾਰ = ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵ ਉਸ ਮਾਲਕ ਦੇ ਦਰਬਾਰ ਵਿਚ ਪਹੁੰਚੇ ਰਹਿੰਦੇ ਹਨ ਜੋ ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ ਜੋ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈ ਜੋ ਬੇਅੰਤ ਹੈ ਤੇ ਅਪਹੁੰਚ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂਚ = ਵੱਡਾ। ਅਪਾਰ = ਬੇਅੰਤ, ਅ-ਪਾਰ। ਅਗਮ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

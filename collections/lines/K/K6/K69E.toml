@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਦੇਖਿਆ ਕਿ ਇੱਕ ਜ਼ੱਰਾ ਵੀ ਜਹਾਨ ਦਾ ਸੂਰਜ ਬਣ ਗਿਆ, ਜਦ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੱਰਾ ਰਾ ਦੀਦਮ ਕਿ ਖ਼ੁਰਸ਼ੀਦਿ ਜਹਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

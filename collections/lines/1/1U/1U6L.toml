@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹਨਾਂ ਦੀ ਸਰਨ ਪਈਏ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਕਦੇ ਭੁੱਲਦਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ = ਜਿਨ੍ਹਾਂ ਨੂੰ {ਲਫ਼ਜ਼ 'ਜਿਨਿ' ਇਕ-ਵਚਨ, ਲਫ਼ਜ਼ 'ਜਿਨ' ਬਹੁ-ਵਚਨ}। ਤਾ ਕੀ = ਉਹਨਾਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

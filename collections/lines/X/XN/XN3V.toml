@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਲੋਕੋ! ਸੁਣ ਲਵੋ, ਭਗਤੀ ਤੋਂ ਬਿਨਾ (ਮਨ ਭਟਕਦਾ ਹੀ ਰਹਿੰਦਾ ਹੈ) ਅੰਤਰ ਆਤਮੇ ਟਿਕਾਉ ਨਹੀਂ ਲੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਕ ਸਬਾਏ = ਹੇ ਸਾਰੇ ਲੋਕੋ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

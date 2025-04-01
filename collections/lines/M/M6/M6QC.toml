@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਦਾ) ਜੰਮਣਾ ਤੇ ਮਰਨਾ-ਇਹ ਤੇਰਾ ਹੁਕਮ ਹੈ (ਭਾਵ, ਤੇਰੀ ਖੇਡ ਹੈ), ਤੇਰਾ ਆਪਣਾ ਟਿਕਾਣਾ ਸਦਾ ਅਟੱਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣ ਜਾਣਾ = ਜੰਮਣਾ ਤੇ ਮਰਨਾ। ਨਿਹਚਲੁ = ਅਟੱਲ। ਥੇਹੁ = ਟਿਕਾਣਾ। ਤੁਧੁ = ਤੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

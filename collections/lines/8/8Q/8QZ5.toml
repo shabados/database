@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਤੇ) ਆਪ ਜੋਗੀ ਪ੍ਰਭੂ ਵਿਰਕਤ ਹੈ, ਮਾਇਆ ਦੇ ਅਸਰ ਤੋਂ ਪਰੇ ਹੈ ਤੇ ਅਨ-ਜੁੜਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤੀਤੁ = ਵਿਰਕਤ। ਅਲਿਪਤੁ = ਜਿਸ ਉਤੇ (ਮਾਇਆ ਦਾ) ਅਸਰ ਨਾ ਹੋ ਸਕੇ। ਨਿਰਜੋਗੁ = ਨਿਰਬੰਧ, ਮੁਕਤ, ਅਨ-ਜੁੜਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

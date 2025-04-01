@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਵਿਤ੍ਰ! ਹੇ ਪਾਲਣਹਾਰ! ਤੂੰ ਆਪ (ਸਾਡਾ) ਖਸਮ ਹੈਂ ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈਂ, ਤੇਰੀ ਵੱਡੀ ਹਸਤੀ ਨੂੰ ਤੋਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਕ = ਹੇ ਪਵਿਤ੍ਰ! ਪਰਵਦਗਾਰ = ਹੇ ਪਾਲਣਹਾਰ! ਖੁਦਿ = ਖ਼ੁਦਿ, ਆਪ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

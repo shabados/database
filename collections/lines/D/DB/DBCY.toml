@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਉਂ ਜਿਉਂ ਗਿਆਨ ਗਿਆਨ) ਆਖ ਕੇ ਚਰਚਾ ਕਰਦਾ ਹੈ (ਉਸ ਚਰਚਾ ਵਿਚੋਂ) ਕਲੇਸ਼ ਹੀ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਥਿ ਕਥਿ = (ਗਿਆਨ = ਚਰਚਾ) ਆਖ ਆਖ ਕੇ। ਬਾਦੁ = ਚਰਚਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

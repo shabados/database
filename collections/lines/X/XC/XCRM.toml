@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸੇਵਾ ਸਦਾ ਹੀ ਸੁਖ ਦੇਣ ਵਾਲੀ ਹੁੰਦੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ = ਗੁਰੂ। ਸੁਹੇਲੀ = ਸੁਖ ਦੇਣ ਵਾਲੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

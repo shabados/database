@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣੇ ਸੇਵਕ ਦੀ ਇੱਜ਼ਤ ਆਪ ਰੱਖਦਾ ਹੈਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਖਹੁ = ਤੂੰ ਰੱਖਦਾ ਹੈਂ। ਲਾਜ = ਇੱਜ਼ਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

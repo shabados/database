@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ! ਹੇ ਅਲੱਖ ਤੇ ਅਭੇਵ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖ = ਜਿਸ ਦਾ ਸਹੀ ਸਰੂਪ ਬਿਆਨ ਨਾਹ ਕੀਤਾ ਜਾ ਸਕੇ। ਅਭੇਵ = ਜਿਸ ਦਾ ਭੇਤ ਨਾਹ ਪਾਇਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ ਸ੍ਰੇਸ਼ਟ ਰਤਨ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਮੇਰੈ = ਮੇਰੇ ਪਾਸ, ਮੇਰੇ ਅੰਦਰ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

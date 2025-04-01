@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਹੇ ਪੰਡਿਤ!) ਸਾਰਾ ਸੰਸਾਰ ਇਹ ਗੱਲ ਜਾਣਦਾ ਹੈ ਕਿ ਸੂਰਜ ਦੇ ਚੜ੍ਹਿਆਂ ਕਿਵੇਂ ਰਾਤ (ਦਾ ਹਨੇਰਾ) ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ = ਸੂਰਜ। ਰਜਨੀ = ਰੈਣਿ, ਰਾਤ। ਜਥਾ ਗਤਿ = ਜਿਵੇਂ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

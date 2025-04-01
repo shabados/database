@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਨਾਮ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿਹਾਰੈ = ਕੁਰਬਾਨ। ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਂਦਾ ਹਾਂ। ਵਿਟਹੁ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

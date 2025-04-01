@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਵਿਚ ਕੋਈ ਗੁਣ ਨਹੀਂ ਸੀ, ਮੈਂ ਨੀਵੇਂ ਜੀਵਨ ਵਾਲਾ ਸਾਂ, ਮੈਂ ਅਨਾਥ ਸਾਂ। ਪਰ ਪ੍ਰਭੂ ਜੀ ਨੇ ਮੇਰੇ ਔਗੁਣਾਂ ਵਲ ਧਿਆਨ ਨਹੀਂ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣੁ = ਗੁਣ-ਹੀਨ। ਅਨਾਥੁ = ਨਿਮਾਣਾ। ਦੋਖ = ਐਬ, ਉਕਾਈਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

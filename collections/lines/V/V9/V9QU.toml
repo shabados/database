@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੀ ਤਾਕਤ ਹਰ ਥਾਂ (ਆਪਣਾ ਪ੍ਰਭਾਵ ਪਾ ਰਹੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਪੂਰਨੁ = ਹਰ ਥਾਂ ਮੌਜੂਦ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

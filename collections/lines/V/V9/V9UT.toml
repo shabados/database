@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ) ਬਾਣੀ ਅਪਾਰ ਹੈ, ਇਸ ਬਾਣੀ ਨੇ ਮੇਰਾ ਹਰੇਕ ਕਾਰਜ ਸੰਵਾਰ ਦਿੱਤਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰਿਆ = ਸੰਵਾਰ ਦਿੱਤਾ ਹੈ। ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਕਾਰਜ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੱਥ ਵਿਅਰਥ ਹਨ (ਜੇ ਇਹ) ਪਰਾਏ ਧਨ ਨੂੰ ਚੁਰਾਉਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ, {ਲਫ਼ਜ਼ \"ਹਸਤ\" ਅਤੇ \"ਹਸਤਿ\" ਦਾ ਜੋੜ ਵਖੋ ਵਖਰਾ ਹੈ, ਤੇ, ਅਰਥ ਭੀ ਵਖੋ ਵਖਰੇ। ਹਸਤ = ਹੱਥ। ਹਸਤਿ = ਹਾਥੀ}। ਦਰਬ = ਧਨ। ਹਿਰਹਿ = ਚੁਰਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਸਦਾ ਜਵਾਨ ਰਹਿਣ ਵਾਲਾ ਹੈ ਉਹ ਹਰੇਕ ਹਿਰਦੇ ਵਿਚ ਹੀ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲਾ = ਜਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

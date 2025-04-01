@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਬਾਸੁਦੇਵ ਹੈ ਜੋ ਸਭਨੀਂ ਥਾਈਂ ਵੱਸ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਸੁਦੇਵ = {ਸ੍ਰੀ ਕ੍ਰਿਸ਼ਨ} ਪਰਮਾਤਮਾ। ਠਾਇ = ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਭੀ ਆਖ਼ਰ ਕੇਹੜੀ ਮੱਲ ਮਾਰ ਲਈ? ਉਹ ਰਤਨ) ਦੋ ਚਾਰ ਦਿਨ ਹੀ ਸੋਹਣਾ ਲੱਗਦਾ ਹੈ (ਅੰਤ) ਉਸ ਰਤਨ ਨੂੰ ਕਦੇ ਮਿੱਟੀ ਹੀ ਖਾ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ = ਉਸ (ਮਣੀ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

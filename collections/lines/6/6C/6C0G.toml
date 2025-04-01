@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਤੇ ਕਹਿਣ ਲੱਗਾ-ਦੱਸ) ਕਿੱਥੇ ਹੈ ਤੇਰਾ ਹਰੀ, ਜਿਹੜਾ (ਤੈਨੂੰ) ਬਚਾ ਲਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਾ = ਕਹਾਂ? ਕਿੱਥੇ? ਲਏ ਉਬਾਰਿ = ਉਬਾਰਿ ਲਏ, (ਜੋ ਤੈਨੂੰ) ਬਚਾ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

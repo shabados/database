@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਉਹ ਪਰਮਾਤਮਾ ਐਸਾ ਗ੍ਰਿਹਸਤੀ ਹੈ) ਕਿ ਉਸ ਦੇ ਘਰ ਵਿਚ ਅਨੇਕਾਂ ਹੀ ਜੀਵ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = (ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

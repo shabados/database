@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲਾ ਹੈ। ਕੋਈ ਹੋਰ ਉਸ ਵਰਗਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚਾ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ। ਸਚੁ = ਸਦਾ-ਥਿਰ, ਅਟੱਲ। ਸੋਈ = ਉਹ ਪਰਮਾਤਮਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

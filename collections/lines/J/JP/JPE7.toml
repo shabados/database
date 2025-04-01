@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਆਪਣੇ ਆਪ ਨੂੰ ਸਮਝਾ ਕਿ ਹੇ ਮਨ!)-ਸਾਰਿੰਗਪਾਨੀ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਜੁ = ਸਿਮਰ। ਸਾਰਿਗਪਾਨੀ = ਧਨਖ ਜਿਸ ਦੇ ਹੱਥ ਵਿਚ ਹੈ {ਸਾਰਿਗ = ਵਿਸ਼ਨੂੰ ਦੇ ਧਨਖ ਦਾ ਨਾਮ ਹੈ। ਪਾਨੀ = ਹੱਥ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

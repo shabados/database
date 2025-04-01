@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬਾਹਰ) ਢੂੰਡਦਿਆਂ ਢੂੰਡਦਿਆਂ ਤੇਰੇ ਪ੍ਰਾਣ ਭੀ ਥੱਕ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢਹਿ ਗਏ = ਥੱਕ ਗਏ ਹਨ। ਪਰਾਨਾ = ਪ੍ਰਾਣ, ਜਿੰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

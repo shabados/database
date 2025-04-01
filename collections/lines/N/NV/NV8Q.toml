@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਨੇ ਆਖਿਆ ਹੈ ਕਿ ਮੇਰੇ ਬੜੇ ਭਰਾ ਹਨ, ਮੇਰੇ ਬੜੇ ਸਾਥੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਹ ਬਹੁ ਭਾਈ = ਬਹੁਤ ਭਰਾ ਹਨ, ਬਹੁਤ ਬਾਹਾਂ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

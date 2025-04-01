@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਕੋਈ ਵਿਰਲਾ ਵਿਚਾਰਵਾਨ ਹੀ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਣਤਿ = ਆਖਦਾ ਹੈ। ਕੋ ਬੀਚਾਰੀ = ਕੋਈ ਵਿਚਾਰਵਾਨ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

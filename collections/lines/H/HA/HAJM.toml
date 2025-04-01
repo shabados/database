@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ ਇਸ ਜਿੰਦ (ਨੂੰ ਸੁਖ ਦੇਣ) ਦੀ ਖ਼ਾਤਰ ਜੀਵ ਵਿਕਾਰ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੈ = ਕਰਦਾ ਹੈ। ਜੀਅਰਾ = ਜਿੰਦ। ਕੈ ਤਾਈ = ਦੀ ਖ਼ਾਤਰ, ਦੇ ਵਾਸਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

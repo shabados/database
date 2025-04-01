@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦੇ ਕੌਤਕ ਤਮਾਸ਼ਿਆਂ ਦਾ ਜ਼ਿਕਰ ਕਰ ਕੇ ਆਤਮਕ ਆਨੰਦ ਖ਼ੁਸ਼ੀਆਂ ਮਾਣਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲ = ਖ਼ੁਸ਼ੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

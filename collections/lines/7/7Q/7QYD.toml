@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਗੋਪਾਲ!) ਤੂੰ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈਂ, ਤੂੰ ਦਾਤਿਆਂ ਦਾ ਦਾਤਾ ਹੈਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਾਨ ਥਨੰਤਰੀ = ਥਾਨ ਥਾਨ ਅੰਤਰੀ, ਹਰ ਥਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

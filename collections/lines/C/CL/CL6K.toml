@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਤੈਨੂੰ ਰੱਬ ਦਾ ਪਿਆਰ ਬਖਸ਼ਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਹਬਤਿ ਸ਼ਾਣ ਸ਼ੌਕਿ ਹੱਕ ਬਖ਼ਸ਼ਦ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

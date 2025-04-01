@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਤੀ ਤੋਂ ਵਿਛੁੜ ਕੇ ਘਬਰਾਈ ਹੋਈ ਉਹ ਆਖਦੀ ਹੈ-) ਹੇ ਮਾਂ! ਹੁਣ ਤਾਂ (ਪਤੀ ਵਲੋਂ) ਕੋਈ ਸਨੇਹਾ ਭੀ ਨਹੀਂ ਆਉਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਦੇਸਰੋ = ਸਨੇਹਾ। ਮਾਇਓ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

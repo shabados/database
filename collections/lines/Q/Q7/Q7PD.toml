@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਨੂੰ) ਲੱਭਣ ਵਾਸਤੇ ਤੂੰ ਜੰਗਲਾਂ ਵਿਚ ਕਿਉਂ ਜਾਂਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ = ਕਾਹਦੇ ਵਾਸਤੇ? ਰੇ = ਹੇ ਭਾਈ! ਬਨ = ਜੰਗਲਾਂ ਵਿਚ। ਬਨਿ = ਜੰਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

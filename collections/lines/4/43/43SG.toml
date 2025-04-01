@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕ੍ਰੋੜਾਂ ਹੀ ਜੀਵ ਉਸ ਦੀ ਸੇਜ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਜੀਵ {ਬਹੁ-ਵਚਨ}। ਸਿਹਜਾਇ = ਸੇਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

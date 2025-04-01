@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ (ਜਪਣ) ਦੀ ਰਾਹੀਂ ਉਸ ਹਿਰਦੇ ਵਿਚ (ਸਦਾ ਲਈ) ਨਾਮ ਦਾ ਨਿਵਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ = ਉਸ ਵਿਚ। ਤਿਤੁ ਘਟਿ = ਉਸ ਹਿਰਦੇ ਵਿਚ। ਨਾਮੈ ਨਿਵਾਸੁ = ਨਾਮ ਦਾ ਨਿਵਾਸ। ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ ॥੫॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

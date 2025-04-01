@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਚੋਜ-ਤਮਾਸ਼ੇ ਕਰ ਰਿਹਾ ਹੈ, (ਉਸ ਦੇ ਇਹਨਾਂ ਚੋਜ-ਤਮਾਸ਼ਿਆਂ ਦੀ) ਕੋਈ ਸਮਝ ਨਹੀਂ ਪੈ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨੋਦ = ਖੇਲ-ਤਮਾਸ਼ੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

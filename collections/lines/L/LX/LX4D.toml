@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਾਜੇ ਵੱਜ ਰਹੇ ਹਨ, ਢੋਲ ਵੱਜ ਰਹੇ ਹਨ, ਨਗਾਰੇ ਵੱਜ ਰਹੇ ਹਨ (ਭਾਵ, ਸਾਰੇ ਜੀਵ ਮਾਇਆ ਵਾਲੀ ਦੌੜ-ਭਜ ਕਰ ਰਹੇ ਹਨ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਤ = ਮੂੰਹ ਨਾਲ ਵੱਜਣ ਵਾਲੇ ਵਾਜੇ। ਟੰਮਕ = ਛੋਟੇ ਨਗਾਰੇ। ਭੇਰੀ = ਛੋਟਾ ਨਗਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

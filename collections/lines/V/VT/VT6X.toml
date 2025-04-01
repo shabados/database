@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਉੱਚੇ ਉੱਚੇ ਪੱਕੇ ਘਰ ਤੇ ਰਸੋਈ-ਖ਼ਾਨੇ ਹੋਣ (ਤਾਂ ਭੀ ਕੀਹ ਹੋਇਆ?)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲ ਰਸੋਈ = ਰਸੋਈ ਸ਼ਾਲਾ, ਰਸੋਈ ਖ਼ਾਨੇ, ਰਸੋਈ-ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

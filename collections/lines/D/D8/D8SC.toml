@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਸਰੀਰ ਤੇਰੇ (ਬਣਾਏ ਹੋਏ) ਹਨ, ਤੂੰ (ਇਹਨਾਂ) ਸਾਰਿਆਂ ਵਿਚ ਵੱਸਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਘਟ = ਘੜੇ, ਸਰੀਰ {ਬਹੁ-ਵਚਨ}। ਮਾਹਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

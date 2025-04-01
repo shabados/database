@@ -30,6 +30,12 @@ language = "pa"
 data = "(ਤੇ ਆਖਿਆ-) ਹੇ ਮਾਤਾ! (ਪ੍ਰੇਰਨਾ ਕਰ ਤੇ ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਨਰਸਿੰਘ ਵਾਲਾ ਰੂਪ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਤਾ = ਹੇ ਮਾਤਾ! ਨਿਵਾਰੁ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਹੁੰਦਾ ਹਾਂ ਸਦਾ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿਹਾਰੀ = ਸਦਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

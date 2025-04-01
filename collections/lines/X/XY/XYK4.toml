@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਨੁੱਖ ਨੂੰ ਸਾਰੇ ਸੁਖ ਆਨੰਦ ਪ੍ਰਾਪਤ ਰਹਿੰਦੇ ਹਨ, ਉਹ (ਮਾਨਸਕ) ਰੋਗਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਅਰੋਗ = ਰੋਗਾਂ ਤੋਂ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

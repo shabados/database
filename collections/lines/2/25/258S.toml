@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿੰਮ੍ਰਿਤੀਆਂ ਸ਼ਾਸਤ੍ਰਾਂ ਦੇ ਪੰਡਿਤਾਂ ਦੇ ਮੂੰਹੋਂ ਭੀ ਇਹੀ ਸੁਣੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

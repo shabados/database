@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਅਟੱਲ ਪ੍ਰਭੂ ਦੀ ਮੂਰਤਿ ਨੂੰ ਸਦਾ ਮਨ ਵਿਚ ਟਿਕਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿ ਸਰੂਪ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਮੂਰਤਿ। ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੇਰੇ ਅੰਦਰ ਬੜਾ ਆਤਮਕ ਆਨੰਦ ਬਣਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੇ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ। ਮਾਨਿਆ = ਪਤੀਜ ਗਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

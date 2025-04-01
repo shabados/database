@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਭਾਵੇਂ ਆਮ ਤੌਰ ਤੇ ਜਗਤ ਵਿਚ) ਹਰੇਕ ਜੀਵ ਆਪਣੇ ਸੁਆਰਥ ਲਈ ਲਿਫਦਾ ਹੈ, ਕਿਸੇ ਦੂਜੇ ਦੀ ਖ਼ਾਤਰ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪ ਕਉ = ਆਪਣੇ ਮਤਲਬ ਵਾਸਤੇ, ਆਪਣੇ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

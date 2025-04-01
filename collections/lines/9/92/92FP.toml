@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਨੇ ਸੱਚੇ ਗਿਆਨ ਦਾ ਤਾਜ ਉਸ ਦੇ ਸਿਰ ਉੱਪਰ ਰੱਖ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਜਿ ਇਰਫ਼ਾਂ ਰਾ ਬਫ਼ਰਕਿ ਊ ਨਿਹਾਦ ।੩੯੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

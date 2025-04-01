@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਲਜੁਗ ਦੇ ਡਰਾਉਣੇ ਸਮੁੰਦਰ ਵਿਚ ਡੁੱਬ ਰਹੇ ਸਾਂ, ਹੇ ਭਾਈ! ਪੱਛੋਤਾਵਾ ਕਿਸੇ ਵੇਲੇ ਮਿਟਦਾ ਨਹੀਂ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋਰ = ਡਰਾਉਣਾ। ਬੂਡਤ ਥੇ = ਡੁੱਬ ਰਹੇ ਸਾਂ। ਪਛੁਤਾਯਉ = ਪਛੁਤਾਉਣਾ। ਰੇ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

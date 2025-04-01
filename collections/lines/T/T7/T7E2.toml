@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਤੀਰਥ, ਦੇਵਤੇ, ਮੰਦਰ, (ਧਰਮ-) ਪੁਸਤਕਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵ = ਦੇਵਤੇ। ਦੇਹੁਰਾ = ਦੇਵਤੇ ਦਾ ਘਰ, ਮੰਦਰ। ਪੋਥੀ = ਪੁਸਤਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

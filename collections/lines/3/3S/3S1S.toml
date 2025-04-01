@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਦਾ ਭਾਣਾ ਮੰਨ ਕੇ ਸਤ-ਸੰਗ ਵਿਚ ਮਿਲ ਕੇ ਉਸ ਨੂੰ ਲੱਭ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮੰਨਿ, ਮੰਨ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

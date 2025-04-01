@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਰੇਕ (ਦਾਤਿ) ਮਾਲਕ ਦੇ ਆਪਣੇ ਇਖ਼ਤਿਆਰ ਵਿਚ ਹੈ, ਉਹ ਆਪ ਹੀ ਸਭ ਕੁਝ ਕਰਨ ਕਰਾਣ ਜੋਗਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਗਤਿ = ਵੱਸ ਵਿਚ। ਕਰਣ ਕਰੇਵ = ਕਰਨ-ਕਰਾਣ ਜੋਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

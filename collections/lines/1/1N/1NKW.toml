@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ ਤੇ ਪਰਲੋਕ ਵਿਚ ਮੈਂ ਤੇਰਾ ਹੀ ਆਸਰਾ ਤੱਕਦਾ ਹਾਂ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ = ਇਸ ਲੋਕ ਵਿਚ। ਉਤ = ਪਰਲੋਕ ਵਿਚ। ਦੇਖਉ = ਦੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

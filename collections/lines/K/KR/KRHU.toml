@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਮੇਰੇ ਉਤੇ) ਮੇਹਰ ਕਰ, ਮੇਰੇ ਮਨ ਵਿਚ ਆ ਵੱਸ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਆਇ = ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਵਿਚ ਰੁੱਝ ਕੇ ਭੀ (ਕਿਸੇ ਦੇ) ਮਨ ਨੇ ਸ਼ਾਂਤੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਨੇ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

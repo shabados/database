@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਉਹ) ਕਿਸੇ ਮੁੱਲ ਤੋਂ ਨਹੀਂ ਮਿਲਦਾ (ਕਿਉਂਕਿ) ਅਮੋਲਕ ਗੁਣਾਂ ਵਾਲਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਲਿ = ਮੁੱਲ ਤੋਂ। ਗੁਣਹ ਅਮੋਲ = ਅਮੋਲਕ ਗੁਣਾਂ ਵਾਲਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

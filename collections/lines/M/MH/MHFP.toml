@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਮੁਖ ਮਨੁੱਖ ਆਪਾ-ਭਾਵ ਛੱਡ ਕੇ ਉਸ ਦੀ ਸਰਨੀਂ ਪੈਂਦਾ ਹੈ, ਉਸ ਦੇ ਭਾਣੇ ਅੱਗੇ ਸਿਰ ਨਿਵਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਾ-ਭਾਵ। ਰਜਾਇ = ਭਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

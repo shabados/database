@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦਾ ਸਦਕਾ ਹੀ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧੂ = ਗੁਰੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

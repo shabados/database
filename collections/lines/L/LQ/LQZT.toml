@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਕਾਮਾਦਿਕ ਪੰਜ ਵਿਕਾਰ ਕਾਬੂ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਿ = ਕਾਬੂ ਵਿਚ। ਪੰਚ = ਪੰਜ (ਪ੍ਰਸਿੱਧ ਵਿਕਾਰ); ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ, ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

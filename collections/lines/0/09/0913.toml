@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਸਿਰਜਣਹਾਰ ਪ੍ਰਭੂ ਉਸ ਉਤੇ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ ॥੪॥੭੧॥੧੪੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤਾ = ਸਿਰਜਣਹਾਰ ਪ੍ਰਭੂ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

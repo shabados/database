@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਾਇਆ ਨੇ ਸਾਰੇ ਜਗਤ ਨੂੰ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਕੋਈ ਵਿਰਲਾ ਹੀ ਇਹ ਗਲ ਸਮਝਦਾ ਹੈ ॥ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਿ = ਇਸ ਨੇ ॥ ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

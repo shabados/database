@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦਾ, ਤਾਂ) ਸੋਨਾ, ਚਾਂਦੀ, ਰੁਪਇਆ-ਪੈਸੇ (ਤੇਰੇ ਵਾਸਤੇ) ਮਿੱਟੀ (-ਸਮਾਨ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਪਾ = ਚਾਂਦੀ। ਦਾਮ = ਰੁਪਏ-ਪੈਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

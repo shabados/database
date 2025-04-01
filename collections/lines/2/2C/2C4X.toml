@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਲਕਾਣ ਵਾਣਗ ਤੂੰ ਭੀ ਅੱਖਾਣ ਦਾ ਪੱਲਾ ਉਤਨੀ ਦੇਰ ਨ ਛੱਡ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਮਾਨਿ ਚਸ਼ਮ ਮਗੁਜ਼ਾਰ ਅਜ਼ ਦਸਤ ਹਮਚੂ ਮਿਜ਼ਗਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਤਸ਼ੀ (ਆਦਿਕ) ਵਿਦਵਾਨ ਲੋਕ (ਵਿਚਾਰ ਵਾਲੀਆਂ ਪੁਸਤਕਾਂ) ਪੜ੍ਹਦੇ ਹਨ ਪਰ (ਪ੍ਰਭੂ ਦੇ ਇਸ ਕੌਤਕ ਦੀ) ਵੀਚਾਰ ਨੂੰ ਸਮਝਦੇ ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤਕੀ = ਜੋਤਸ਼ੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

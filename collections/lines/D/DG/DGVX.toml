@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਸੋਨਾ ਘੜਦਿਆਂ ਸੁਨਿਆਰਾ (ਸੋਨੇ ਵਲ ਗਹੁ ਨਾਲ) ਤੱਕਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਢਤੇ = ਘੜਦਿਆਂ। ਹਿਰੈ = ਹੇਰੈ, ਗਹੁ ਨਾਲ ਤੱਕਦਾ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

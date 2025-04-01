@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪੂਰੇ ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਮੰਤ = ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

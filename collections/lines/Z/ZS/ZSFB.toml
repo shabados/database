@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਗੁਰੂ ਤੋਂ (ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ) ਰਸਤਾ ਲੱਭ ਲੈਂਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਦਾ ਮਹਲ ਘਰ ਲੱਭ ਲੈਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਟ = ਰਸਤਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਤੋਂ ਬਿਨਾ ਕੋਈ ਦੂਜਾ ਦੱਸਿਆ ਹੀ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੀਐ = ਦੱਸਿਆ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

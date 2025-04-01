@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਲਜੁਗ ਵਿਚ ਉਸਨੇ ਫਿਰ ਸਤਜੁਗ ਕੁਝ ਇਸਤਰ੍ਹਾਂ ਲੈ ਆਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਕਲਜੁਗ ਚੁਨਾਂ ਸਤਿਜੁਗ ਆਵਰਦ ਬਾਜ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

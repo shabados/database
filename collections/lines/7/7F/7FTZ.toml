@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਹੀਲੇ-ਜਤਨ ਛੱਡ ਕੇ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ-ਪਰਨਾ ਫੜ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਵ = (ਲਫ਼ਜ਼ 'ਉਪਾਉ' ਤੋਂ ਬਹੁ-ਵਚਨ। ਸੰਸਕ੍ਰਿਤ ਲਫ਼ਜ਼ ਹੈ उपाय) ਢੰਗ, ਜਤਨ। ਗਹੁ = ਫੜ। ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਮਾਇਆ ਦੀ ਆਸਾ ਅਤੇ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਦੇ ਬੰਧਨ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਦੇਸਾ = ਚਿੰਤਾ। ਬੰਧਿ = ਬੰਧਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

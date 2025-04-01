@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਮੁੜ ਮੁੜ ਸਿਮਰ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਾ = ਜੀਵਾਂ, ਮੈਂ ਜੀਊਂਦਾ ਹਾਂ, ਮੈਂ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

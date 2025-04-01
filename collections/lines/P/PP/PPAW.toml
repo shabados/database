@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਸਭ ਤਰ੍ਹਾਂ ਦੇ ਸਾਮਾਨ ਉਤੇ ਜਾਦੂ ਕਰਨ ਵਾਲੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਜਾਦੂ ਫ਼ਨ ਅੰਦ ਬਰ ਸਾਮਾਂ ।੩੭।"
+page = 1
+line = 37
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

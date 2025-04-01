@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! (ਬਿਰਧ ਹੋਣ ਦੇ ਕਾਰਨ) ਤੇਰੇ ਸਿਰ ਵਿਚ ਪੀੜ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ, ਸਰੀਰ ਵਿਚ ਸੜਨ ਰਹਿੰਦੀ ਹੈ, ਕਲੇਜੇ ਵਿਚ ਦਰਦ ਉਠਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੀਰਿ = ਸਰੀਰ ਵਿਚ। ਜਲਨਿ = ਸੜਨ। ਕਰਕ = ਦਰਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

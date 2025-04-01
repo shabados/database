@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀ (ਚਿਰਾਂ ਦੀ) ਤਾਂਘ ਪੂਰੀ ਹੋ ਗਈ ਹੈ, ਮੇਰੇ ਮਨ ਵਿਚ ਠੰਢ ਪੈ ਗਈ ਹੈ, (ਮੇਰੇ ਅੰਦਰੋਂ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਤਪਸ਼ ਬੁੱਝ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁੰਨੀ = ਪੂਰੀ ਹੋ ਗਈ ਹੈ। ਮਨਿ = ਮਨ ਵਿਚ। ਤਪਤਿ = ਤਪਸ਼, ਸੜਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

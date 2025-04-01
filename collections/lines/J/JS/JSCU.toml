@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਤੇਰਾ ਆਸਰਾ ਲਿਆ, ਉਹ ਤੇਰੀ ਸ਼ਰਨ ਵਿਚ ਰਹਿ ਕੇ ਸੁਖ ਮਾਣਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਟ = ਆਸਰਾ। ਗਹੀ = ਫੜੀ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

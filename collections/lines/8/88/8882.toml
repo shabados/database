@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਮੈਂ ਤੈਨੂੰ ਚੇਤਾ ਕਰਾਂਦਾ ਹਾਂ, ਮਤਾਂ ਫਿਰ ਗੁਮਰ ਰਹਿ ਜਾਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੇਤਾਵਨੀ = ਚੇਤਾ, ਯਾਦ-ਦਿਹਾਨੀ। ਮਤ = ਮਤਾਂ, ਕਿਤੇ। ਸਹਸਾ = ਗੁਮਰ, ਹਸਰਤਿ, ਭਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

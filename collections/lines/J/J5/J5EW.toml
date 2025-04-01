@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜੋ ਕੁਝ ਵਾਪਰਦਾ ਹੈ ਤੇਰਾ ਹੀ ਕੀਤਾ ਹੁੰਦਾ ਹੈ ਤਾਂ (ਅਸੀਂ) ਕਿਉਂ (ਕਿਸੇ ਤੋਂ) ਡਰੀਏ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਇ = ਹੁੰਦਾ ਹੈ, ਵਾਪਰਦਾ ਹੈ। ਕਾਹੇ = ਕਿਉਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

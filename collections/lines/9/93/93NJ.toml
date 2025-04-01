@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦੇ ਫਿਟਕਾਰੇ ਹੋਏ ਬੰਦੇ ਦੀ ਕੋਈ ਮਨੁੱਖ ਸਹੈਤਾ ਨਹੀਂ ਕਰ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਤੇ ਕਉ = ਮਾਰੇ ਨੂੰ, ਫਿਟਕਾਰੇ ਨੂੰ। ਰਖੈ = ਰੱਖ ਸਕਦਾ, ਸਹੈਤਾ ਕਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

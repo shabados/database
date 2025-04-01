@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਸੋਹਣੇ ਹਰੀ ਦੇ (ਇਸ ਜਗਤ ਵਿਚ) ਅਨੇਕਾਂ ਹੀ ਰੰਗ ਤਮਾਸ਼ੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗ ਰੰਗ ਰੰਗ = ਅਨੇਕਾਂ ਹੀ ਰੰਗ। ਹਰਿ ਅਨੂਪੇਰੈ = ਸੋਹਣੇ ਹਰੀ। ਅਨੂਪ = (ਅਨ-ਊਪ) ਜਿਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ, ਬਹੁਤ ਸੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

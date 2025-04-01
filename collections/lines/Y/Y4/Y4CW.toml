@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! (ਪਰਮਾਤਮਾ ਨਾਲ ਜੁੜ ਕੇ) ਮਨ ਦੀਆਂ ਸਾਰੀਆਂ ਮੁਰਾਦਾਂ ਹਾਸਲ ਕਰ ਲਈਦੀਆਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਈਅਹਿ = {ਕਰਮ ਵਾਚ, ਵਰਤਮਾਨ ਕਾਲ, ਅੱਨ ਪੁਰਖ, ਬਹੁ-ਵਚਨ} ਪਾ ਲਈਦੇ ਹਨ। ਮੀਤਾ = ਹੇ ਮਿੱਤਰ! ਲਾਈਐ = ਲਾਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

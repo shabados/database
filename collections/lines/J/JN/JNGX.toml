@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਮਨ ਦੇ ਸਾਰੇ) ਕਲੇਸ਼ ਮਿਟ ਜਾਂਦੇ ਹਨ, ਸੁਖੀ ਜੀਵਨ ਵਾਲਾ ਹੋ ਜਾਈਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੀਐ = ਜੀਵੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

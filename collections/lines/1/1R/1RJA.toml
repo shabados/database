@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਦੇ ਕਲਾਮ ਵਿੱਚੋਂ ਰੱਬੀ ਗਿਆਨ ਦੀ ਸੁਗੰਧੀ ਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਜ਼ ਤਕੱਲੁਮ ਬੂਇ ਇਰਫ਼ਾਂ ਆਇਦਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

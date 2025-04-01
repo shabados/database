@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾਸ ਨਾਨਕ (ਤੈਨੂੰ ਇਹ) ਗੱਲ ਦੱਸਦਾ ਹੈ ਕਿ ਤੇਰਾ (ਤਾਂ ਇਹ ਆਪਣਾ ਮਿਥਿਆ ਹੋਇਆ) ਸਰੀਰ (ਭੀ) ਨਾਸ ਹੋ ਜਾਇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕੁ ਕਹਤ = ਨਾਨਕ ਆਖਦਾ ਹੈ। ਬਾਤ = ਗੱਲ। ਬਿਨਸਿ ਜੈ ਹੈ = ਨਾਸ ਹੋ ਜਾਇਗਾ। ਗਾਤੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

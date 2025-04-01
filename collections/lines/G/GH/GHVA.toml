@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕੀਮਤੀ ਰਤਨ (ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਹੀ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟ ਹੀ ਮਾਹੀ = ਹਿਰਦੇ ਵਿਚ ਹੀ। ਪੜਿ = ਪੜ੍ਹ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

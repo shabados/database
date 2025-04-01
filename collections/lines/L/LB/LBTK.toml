@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ (ਤੇਰੇ ਦਾਸਾਂ ਦੀ) ਪ੍ਰੀਤਿ (ਕਿਧਰੇ ਤੇਰੇ ਨਾਲੋਂ) ਟੁੱਟ ਨਾਹ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੈ ਪ੍ਰਕਾਰਿ = ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ। ਨ ਤੂਟਉ = ਟੁੱਟ ਨਾਹ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੋਰਨਾਂ ਨੂੰ ਆਖਦੇ ਹਨ-ਸਾਡੇ ਚੌਕੇ ਦੇ ਨੇੜੇ ਨਾ ਆਉਣਾ) ਕਿਤੇ ਚੌਕਾ ਭਿੱਟਿਆ ਨਾਹ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤੁ ਭਿਟੈ = ਮਤਾਂ ਭਿੱਟਿਆ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

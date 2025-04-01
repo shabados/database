@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਨਾ ਤੇਰਾ ਕੋਈ ਸਾਥੀ ਬਣੇਗਾ, ਤੂੰ ਸਦਾ ਹੱਥ ਮਲਦਾ ਰਹਿ ਜਾਏਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਛੋਤਾਵਹੇ = ਪਛੋਤਾਵਹਿ, ਤੂੰ ਪਛੁਤਾਂਦਾ ਰਹੇਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

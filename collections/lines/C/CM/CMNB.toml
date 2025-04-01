@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲੇ ਮਨ! (ਸਭ ਤੋਂ ਉੱਚੇ ਮਾਲਕ ਦੀ ਸ਼ਰਨ ਆ ਕੇ ਹੁਣ) ਜੱਕੋ-ਤੱਕੇ ਛੱਡ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡਗਮਗ = ਡੱਕੋ-ਡੋਲੇ, ਜੱਕੋ-ਤੱਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

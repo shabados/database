@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਵਿਚ (ਭਾਵੇਂ) ਅਨੇਕਾਂ ਹੀ ਮਿੱਤਰ ਸਾਥੀ (ਬਣਾ ਲਈਏ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੇ = ਕਿਤਨੇ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

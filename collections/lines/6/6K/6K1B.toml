@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ (ਹੋਰਨਾਂ ਪਾਸੋਂ ਸਿਰਫ਼) ਸੁਣ ਕੇ (ਹੀ) ਆਖ ਦੇਂਦਾ ਹੈ ਕਿ (ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਵੱਡਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਸਭੁ ਕੋਇ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

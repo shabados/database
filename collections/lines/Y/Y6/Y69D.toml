@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਲੋਕ ਅਤੇ ਪਰਲੋਕ ਵਿਚ (ਵਿਕਾਰਾਂ ਦੇ ਹੱਲਿਆਂ ਦੇ ਸਾਹਮਣੇ) ਘਬਰਾਹਟ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਹ ਡੋਲਿਐ = ਨਹੀਂ ਡੋਲਦਾ। ਇਤ = ਇਸ ਲੋਕ ਵਿਚ। ਊਤ = ਪਰਲੋਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਖੀਰ ਗੋਯਾ ਦੇ ਦਿਲ ਨੇ ਇਸ ਉਮਰ ਦਾ ਨਫ਼ਾ ਖੱਟ ਲਿਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਲਿ ਈਣ ਉਮਰ ਰਾ, ਆਖ਼ਰ ਦਿਲਿ ਗੋਯਾ ਗ੍ਰਿਫ਼ਤ ।੧੩।੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸੂਤਕ ਨੂੰ ਮੰਨ ਲਈਏ (ਭਾਵ, ਜੇ ਮੰਨ ਲਈਏ ਕਿ ਸੂਤਕ ਦਾ ਭਰਮ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ, ਤਾਂ ਇਹ ਭੀ ਚੇਤਾ ਰੱਖੋ ਕਿ ਇਸ ਤਰ੍ਹਾਂ) ਸੂਤਕ ਸਭ ਥਾਈਂ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਤੈ = ਸਭ ਥਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖ ਸਾਰੀ ਅਪਣੱਤ ਛੱਡ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਮੈ, ਆਪਣੀ ਹਸਤੀ ਦਾ ਮਾਣ, ਸਭ ਨਾਲੋਂ ਵੱਖਰੇ-ਪਨ ਦਾ ਖ਼ਿਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

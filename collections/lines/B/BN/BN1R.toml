@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ, ਜਿਹੜੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਨਿ = {ਬਹੁ-ਵਚਨ} ਜੋ ਸੇਂਵਦੇ ਹਨ, ਜੋ ਸਰਨ ਆਉਂਦੇ ਹਨ। ਸੇ = {ਬਹੁ-ਵਚਨ} ਉਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

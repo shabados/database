@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਾਰਬ੍ਰਹਮ! ਹੇ ਮੁਰਾਰੀ! ਮੇਹਰ ਕਰ, ਕਿਰਪਾ ਕਰ (ਦੀਦਾਰ ਬਖ਼ਸ਼) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੁਗ੍ਰਹੁ = ਕਿਰਪਾ। ਮੁਰਾਰਿ = {ਮੁਰ-ਅਰਿ} ਹੇ ਪ੍ਰਭੂ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

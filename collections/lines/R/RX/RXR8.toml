@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਂ, ਪਿਉ, ਭਰਾ, ਪੁੱਤਰ, ਧਨ, ਇਸਤ੍ਰੀ, ਦੁਨੀਆ ਵਾਲੀ ਚਤੁਰਾਈ (ਸਦਾ ਲਈ) ਸਾਥੀ ਨਹੀਂ ਬਣ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਤ = ਪਿਤਾ। ਸੁਤ = ਪੁੱਤਰ। ਸੰਪੈ = ਧਨ। ਨਾਰੇ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

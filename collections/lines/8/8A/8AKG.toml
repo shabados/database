@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਸਦਾ ਨਿਊਂ ਨਿਊਂ ਕੇ ਤੇਰੀ ਹੀ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਿ = ਨਿਊਂ ਕੇ। ਪਾਈ = ਪੈਰੀਂ, ਚਰਨੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

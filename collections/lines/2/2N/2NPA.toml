@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕੱਚ ਦੇ ਵੱਟੇ ਲਾਲ ਗਵਾ ਰਿਹਾ ਹੈਂ। (ਹੇ ਕਮਲੇ!) ਇਹ ਮਨੁੱਖਾ ਜਨਮ ਵਾਲਾ ਸਮਾ ਫਿਰ ਕਦੋਂ ਲੱਭੇਂਗਾ? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਚ = ਕੱਚ। ਬਾਦਰੈ = ਬਦਲੇ, ਵੱਟੇ ਵਿਚ। ਖੋਈ ਹੈ = ਗਵਾ ਰਿਹਾ ਹੈਂ। ਅਉਸਰੁ = ਸਮਾ। ਕਦਿ = ਕਦੋਂ? ਲਹਾ = ਲੱਭੇਗਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

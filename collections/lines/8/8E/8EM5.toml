@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਨ੍ਹਾ (ਮਨੁੱਖ ਆਪਣੇ ਮੱਥੇ ਉੱਤੇ) ਤਿਲਕ ਲਾਂਦਾ ਹੈ, (ਮੂਰਤੀ ਦੇ) ਪੈਰਾਂ ਉੱਤੇ (ਭੀ) ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਰਾਵੈ = ਮੱਥੇ ਉੱਤੇ ਲਾਂਦਾ ਹੈ। ਪਾਈ = ਪਾਈਂ, ਪੈਰੀਂ। ਪਾਇ = ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ, ਜੋ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਪਰੇ ਹੈ, ਜਿਸ ਦਾ ਕੋਈ ਖ਼ਾਸ ਸਰੂਪ ਨਹੀਂ ਦੱਸਿਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਿਰੰਜਨੁ = {ਨਿਰ-ਅੰਜਨੁ। ਅੰਜਨੁ = ਮਾਇਆ ਦੀ ਕਾਲਖ} ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

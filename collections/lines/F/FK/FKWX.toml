@@ -36,6 +36,12 @@ language = "pa"
 data = "'ਨਾਮ' ਜਪਿਆਂ ਸਦਾ ਹਿਰਦੇ ਵਿਚ ਸੁਖ ਹੁੰਦਾ ਹੈ, ਮਨ ਵਿਚ ਠੰਢ ਤੇ ਸ਼ਾਂਤੀ ਆ ਵੱਸਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ = ਸੀਤਲਤਾ, ਠੰਢ। ਸਾਤਿ = ਸ਼ਾਂਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

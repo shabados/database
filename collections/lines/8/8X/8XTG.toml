@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਚਰਨ ਮੇਰੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਬਣ ਗਏ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨ ਅਧਾਰ = ਜਿੰਦ ਦਾ ਆਸਰਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

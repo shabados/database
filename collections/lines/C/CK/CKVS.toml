@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਪਹੁੰਚ ਤੇ ਅਥਾਹ ਪ੍ਰਭੂ! (ਕਿਰਪਾ ਕਰ, ਹਰ ਥਾਂ) ਮੈਂ (ਤੈਨੂੰ) ਅੱਖਾਂ ਨਾਲ ਵੇਖਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੈਣੀ = ਨੈਣੀਂ, ਅੱਖਾਂ ਨਾਲ। ਪੇਖਾ = ਪੇਖਾਂ, ਮੈਂ ਵੇਖਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

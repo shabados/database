@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਜਗਤ ਦੇ) ਸਾਰੇ ਜੀਅ ਜੰਤ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਹੀ ਹੱਥ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਉ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਭਿ = ਸਾਰੇ। ਕੈ ਹਾਥਿ = ਦੇ ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

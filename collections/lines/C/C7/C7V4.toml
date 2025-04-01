@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹਨਾਣ ਭਲੇ ਲੋਕਾਣ ਕੋਲ ਨਿਜੀ ਸਿਫਤਾਣ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਅਸ਼ਰਾਫ਼ ਅੰਦ ਦਰ ਜ਼ਾਤੋ ਸਿਫ਼ਾਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

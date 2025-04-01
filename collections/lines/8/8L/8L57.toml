@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਉਪਦੇਸ਼ (ਭੀ ਹੋਰਨਾਂ ਨੂੰ) ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਮਲ = ਮਲ-ਹੀਣ, ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ। ਮੰਤ = ਮੰਤਰ, ਉਪਦੇਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

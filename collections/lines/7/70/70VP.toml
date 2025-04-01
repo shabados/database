@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ ਸਿਮਰਿਆ ਹੈ, ਉਸ ਨੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਮਨੁੱਖ) ਨੇ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਸੇਵਿਆ = ਸਿਮਰਿਆ। ਤਿਨਿ = ਉਸ ਨੇ {ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

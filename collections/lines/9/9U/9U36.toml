@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਦੀ) ਜੀਭ ਮੈਲੀ, ਬਚਨ ਭੀ ਮਾੜੇ, ਕੰਨ ਅੱਖਾਂ ਆਦਿਕ ਸਾਰੇ ਹੀ ਅਪਵਿੱਤਰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹਬਾ = ਜੀਭ। ਬੋਲਤ = ਬਚਨ ਜੋ ਬੋਲੇ ਜਾਂਦੇ ਹਨ। ਕਰਨ = ਕੰਨ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

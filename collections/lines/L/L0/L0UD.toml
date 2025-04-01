@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਕਿਰਪਾ ਕਰ ਕੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਵਿਚ ਮਿਲਾ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਲਾਇਅਨੁ = ਮਿਲਾਏ ਹਨ, ਉਸ ਪ੍ਰਭੂ ਨੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

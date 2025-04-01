@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਨੁੱਖ ਦੇ) ਇਸ ਸਰੀਰ ਸਰੋਵਰ ਵਿਚ (ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗੁਰੂ ਨੇ ਹੀ) ਪਰਗਟ ਕੀਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੀਰਿ = ਸਰੀਰ ਵਿਚ। ਸਰੋਵਰਿ = ਸਰੋਵਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

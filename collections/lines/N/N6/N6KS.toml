@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਆਪਾ-ਭਾਵ ਗਵਾਇਆ ਹੈ, ਉਸ ਦੇ ਅੰਦਰ ਹਰ ਵੇਲੇ ਹੀ ਖਿੜਾਉ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਰਹਸੁ = ਖਿੜਾਉ, ਆਨੰਦ। ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

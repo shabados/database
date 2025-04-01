@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਦਇਆ ਕਰਨ ਵਾਲਾ ਮਾਲਕ ਹੈਂ (ਪਰ) ਤੇਰੇ ਤਾਈਂ ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਸਕਦੀ; ਸਭ ਜੀਵ ਜੰਤ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮੁ = ਅਪਹੁੰਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

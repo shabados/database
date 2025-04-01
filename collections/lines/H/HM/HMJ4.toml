@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ (ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ-) ਥਾਂ ਵਿਚ ਕੋਈ ਡਰ, ਕੋਈ ਭਰਮ, ਕੋਈ ਗ਼ਮ, ਕੋਈ ਚਿੰਤਾ ਪੋਹ ਨਹੀਂ ਸਕਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਹ = ਉਸ ਅਵਸਥਾ-ਨਗਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

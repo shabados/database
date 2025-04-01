@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਉਸ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ) ਮਨ ਤੋਂ ਕਿਉਂ ਭੁਲਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਵਿਸਾਰੇ = ਵਿਸਾਰੇਂ, ਤੂੰ ਵਿਸਾਰਦਾ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

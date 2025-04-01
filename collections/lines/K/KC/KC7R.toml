@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਚਾਰਾ ਬਗਲਾ ਛਪੜੀ ਵਿਚ ਕਾਹਦੇ ਲਈ ਨ੍ਹਾਉਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਗੁ = ਬਗਲਾ। ਬਪੁੜਾ = ਵਿਚਾਰਾ। ਨਾਇ = ਨ੍ਹਾਉਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

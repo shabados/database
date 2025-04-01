@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਉਸ ਨੇ ਮਾਇਆ (ਦੀ ਨਦੀ) ਪਾਰ ਕਰ ਲਈ ਹੈ ॥੪॥੫॥੫੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰੀ = ਪਾਰ ਕਰ ਲਈ, ਪਾਰ ਲੰਘ ਗਿਆ। ਤਿਨਿ = ਉਸ (ਮਨੁੱਖ) ਨੇ ॥੪॥੫॥੫੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

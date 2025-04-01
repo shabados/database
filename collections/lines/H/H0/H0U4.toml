@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਜੀਵਾਂ ਦੀ ਰੱਖਿਆ ਕਰਨ ਦੇ ਸਮਰਥ ਪ੍ਰਭੂ! ਜਿਵੇਂ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗੇ, ਉਸੇ ਤਰ੍ਹਾਂ ਮੇਰੀ ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਖਣਹਾਰਿਆ = ਹੇ ਰੱਖਿਆ ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

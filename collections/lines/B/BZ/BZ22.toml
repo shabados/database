@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ (ਸਿਰਫ਼) ਤੇਰੀ (ਸਹਾਇਤਾ ਦੀ) ਆਸ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਧਉ = {माया धव = ਮਾਇਆ ਦਾ ਪਤੀ} ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

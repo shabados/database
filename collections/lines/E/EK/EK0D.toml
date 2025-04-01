@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗ਼ਫ਼ਲਤਿ ਦੀ ਨੀਂਦ ਦਾ ਦੱਬਿਆ ਹੋਇਆ, ਕਾਮ ਦਾ ਮਾਰਿਆ ਹੋਇਆ, ਮੂੰਹ ਨਾਲ ਹੀ 'ਹਰੇ! ਹਰੇ!' ਆਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕਾਮ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

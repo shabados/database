@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਲੋਕ ਵਿਚ, ਪਰਲੋਕ ਵਿਚ, ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਉਸ ਦੀ ਸੋਭਾ ਹੋਣ ਲੱਗ ਪੈਂਦੀ ਹੈ, ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਉਸ ਦੀ ਲਗਨ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਲਤਿ = ਇਸ ਲੋਕ ਵਿਚ {अत्र}। ਪਲਤਿ = {परत्र} ਪਰਲੋਕ ਵਿਚ। ਅੰਤਰਿ = ਵਿਚ। ਨਾਮਿ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

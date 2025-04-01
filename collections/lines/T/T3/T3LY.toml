@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਆੜਿ! (ਪੰਛੀ ਆੜਿ ਵਾਂਗ ਦੂਜਿਆਂ ਉਤੇ ਵਧੀਕੀ ਕਰਨ ਵਾਲੀ ਹੇ ਜਿੰਦੇ!) ਤੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਜਾਲ ਵਿਚ ਕਿਵੇਂ ਫਸ ਗਈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆੜਿ = (आडि, आटि) ਬਗਲੇ ਦੀ ਕਿਸਮ ਦਾ ਇਕ ਪੰਛੀ। ਜਾਲਿ = ਜਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

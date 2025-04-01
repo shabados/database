@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਬਾਲਕ) ਹਰਿ ਗੋਬਿੰਦ ਨੂੰ (ਭੀ) ਪ੍ਰਭੂ ਨੇ (ਆਪ) ਬਚਾਇਆ ਹੈ (ਕਿਸੇ ਦੇਵੀ ਆਦਿਕ ਨੇ ਨਹੀਂ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਮੈਂ ਸਦਾ ਤੇਰੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ ਹੋਇਆ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂਰਿ = ਧੂੜ, ਖ਼ਾਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

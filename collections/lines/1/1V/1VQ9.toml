@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਹੋਰ ਨੂੰ ਦੋਸ਼ ਨਹੀਂ ਦੇਣਾ ਚਾਹੀਦਾ, ਦੋਸ਼ ਤਾਂ ਪਿਛਲੇ ਕੀਤੇ ਸੰਸਾਰਾਂ ਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਊ = ਮੈਂ ਦਿਆਂ। ਕਰੰਮਾ = ਕਰਮਾਂ, ਕੀਤੇ ਕੰਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

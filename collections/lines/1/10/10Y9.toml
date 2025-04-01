@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸੇ ਲੱਬ ਤੇ ਪਾਪ ਦੇ ਦਰਬਾਰ ਵਿਚ ਕਾਮ ਨਾਇਬ ਹੈ, (ਇਸ ਨੂੰ) ਸੱਦ ਕੇ ਸਲਾਹ ਪੁੱਛੀ ਜਾਂਦੀ ਹੈ, ਇਹੀ ਇਹਨਾਂ ਦਾ ਵੱਡਾ ਸਲਾਹਕਾਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਬੁ = ਨਾਇਬ। ਸਦਿ = ਸੱਦ ਕੇ, ਬੁਲਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

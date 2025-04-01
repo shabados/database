@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਾਣੀ! ਤੂੰ ਕਾਮ ਕ੍ਰੋਧ ਵਿਚ, ਲੋਭ ਵਿਚ ਮੋਹ ਵਿਚ ਬੱਝਾ ਪਿਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰੋਧਿ = ਕ੍ਰੋਧ ਵਿਚ। ਬਾਧਾ = ਬੱਝਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

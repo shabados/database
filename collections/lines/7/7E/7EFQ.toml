@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ-ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਸਰਨ ਪਏ ਦੀ ਸਹਾਇਤਾ ਕਰ ਸਕਣ ਵਾਲੇ ਮਾਲਕ! ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਸੁਖਦਾਤੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਾ ਜੋਗੁ = ਸਰਨ ਆਏ ਦੀ ਸਹਾਇਤਾ ਕਰ ਸਕਣ ਵਾਲਾ। ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਹੰਉ = ਮੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

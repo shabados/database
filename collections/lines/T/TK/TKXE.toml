@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਟਿਕਿਆਂ (ਮਨੁੱਖ) ਮਾਇਆ (ਦੇ ਅਸਰ) ਤੋਂ ਬੇ-ਦਾਗ਼ ਰਹਿੰਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਿੰਨ = ਵੱਖਰਾ, ਨਿਰਲੇਪ, ਬੇ-ਦਾਗ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

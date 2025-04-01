@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਦੁਨੀਆ ਦੇ ਪ੍ਰਸਿੱਧ ਚਾਰ ਪਦਾਰਥ) ਧਰਮ ਅਰਥ ਕਾਮ ਅਤੇ ਮੋਖ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਪ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰੁ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

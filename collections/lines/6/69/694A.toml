@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੀ 'ਗਤਿ ਮਿਤਿ' ਤੂੰ ਦੱਸ ਸਕਦਾ ਹੈਂ ਤੇ ਆਪ ਹੀ ਬਿਆਨ ਕਰ ਸਕਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੈ = ਅਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

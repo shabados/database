@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਸੱਚੇ ਵਿਚ ਰੱਤਾ ਹੋਇਆ (ਗੁਰਮੁਖ) ਇੱਜ਼ਤ ਲੈ ਕੇ ਆਪਣੇ ਘਰ ਵਿਚ ਅੱਪੜਦਾ ਹੈ (ਤੇ ਉਸ ਦੀ ਘੜਨ ਭੱਜਣ ਦੀ ਖੇਡ ਮੁੱਕ ਜਾਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਉ = ਰੱਤਾ ਹੋਇਆ। ਪਤਿ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

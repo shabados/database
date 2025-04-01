@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਧਨ ਨਹੀਂ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਵੈ ਜੇਵਡੁ = ਨਾਮ ਦੇ ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

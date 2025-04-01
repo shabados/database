@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਬੰਦੇ (ਮਜ਼ਹਬੀ ਕਿਤਾਬਾਂ) ਪੜ੍ਹਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ = ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ। ਪਰੁ = ਪਰੰਤੂ। ਬਿਧਿ = (ਉਸ ਉਤੇ ਅਮਲ ਕਰਨ ਦੀ) ਜਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

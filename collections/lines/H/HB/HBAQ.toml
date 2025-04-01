@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਉਸ ਦੇ ਪੰਜੇ ਕਾਮਾਦਿਕ ਵੈਰੀ ਤੂੰ ਕਾਬੂ ਵਿਚ ਕਰ ਦੇਂਦਾ ਹੈਂ, ਤੇ ਡਰਾਣ ਵਾਲਾ ਕਾਲ (ਭਾਵ, ਮੌਤ ਦਾ ਡਰ) ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ ਦੂਤ = ਕਾਮਾਦਿਕ ਪੰਜ ਵੈਰੀ। ਕੰਟਕੁ = ਕੰਡਾ। ਕੰਟਕੁ ਕਾਲੁ = ਡਰਾਉਣਾ ਕਾਲ, ਮੌਤ ਦਾ ਡਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

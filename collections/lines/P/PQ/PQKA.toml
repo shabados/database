@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪੰਡਿਤ)! ਇਹੋ ਜਿਹਾ ਜਨੇਊ ਨਾ ਟੁੱਟਦਾ ਹੈ, ਨਾ ਹੀ ਇਸ ਨੂੰ ਮੈਲ ਲੱਗਦੀ ਹੈ, ਨਾ ਇਹ ਸੜਦਾ ਹੈ ਅਤੇ ਨਾ ਹੀ ਇਹ ਗੁਆਚਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਜਾਇ = ਨਾ ਹੀ ਇਹ ਜਨੇਊ ਗੁਆਚਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

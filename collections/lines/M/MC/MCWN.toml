@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਦਸ਼ਾਹੀ ਅਤੇ ਦਰਵੇਸ਼ੀ ਕੀ ਹੈ# ਸਮਝ ਲੈ ਕਿ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੀਸਤ ਸੁਲਤਾਨੀ ਵਾ ਦਰਵੇਸ਼ੀ ਬਿਦਾਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

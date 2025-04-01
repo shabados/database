@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੇਰੀ ਇਹ ਤਾਂਘ ਪੂਰੀ ਕਰ ॥੮॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = {मनीषा} ਮਨ ਦਾ ਫੁਰਨਾ। ਪੂਰਿ = ਪੂਰੀ ਕਰ ॥੮॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

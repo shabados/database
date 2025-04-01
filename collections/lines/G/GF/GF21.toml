@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਗਹਣੇ (ਮੇਰੇ ਸਰੀਰ ਉਤੇ ਫਬ ਰਹੇ ਹਨ) ਫੁੱਲਾਂ ਦੇ ਹਾਰ ਮੇਰੇ ਗਲ ਵਿਚ ਸੋਭਾ ਦੇ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਆਭਰਣ = ਗਹਣੇ। ਕੰਠਿ = ਗਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

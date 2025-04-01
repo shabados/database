@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੰਗਤ ਦੇ ਰਾਹ ਦੀ ਧੂੜ ਤੋਣ ਕੁਬਾਨ ਹੋ ਜਾਵਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਵਦ ਕੁਰਬਾਨ ਖ਼ਾਕਿ ਰਾਹਿ ਸੰਗਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

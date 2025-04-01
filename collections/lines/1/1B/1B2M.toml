@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਬਿਨਾਸੀ ਨਾਸ-ਰਹਿਤ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਮਾਇਆ ਦੇ ਸਾਰੇ ਨਸ਼ੇ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੁਤ = {ਅਚੁੱਤ} ਨਾਸ ਰਹਿਤ। ਮਾਦ = ਮਸਤੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

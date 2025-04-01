@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਖ ਵਖ) ਜਾਤਾਂ, (ਬ੍ਰਾਹਮਣ, ਖੱਤ੍ਰੀ ਆਦਿਕ) ਵਰਨ, ਮੁਸਲਮਾਨ ਅਤੇ ਹਿੰਦੂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਰਨ = ਬ੍ਰਾਹਮਣ, ਖਤ੍ਰੀ, ਵੈਸ਼, ਸ਼ੂਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਗੁਰੂ ਦੀ ਸੇਵਾ ਦੀ ਰਾਹੀਂ ਬੰਦਗੀ ਦੀ ਕਮਾਈ ਕਰੇਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ, ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

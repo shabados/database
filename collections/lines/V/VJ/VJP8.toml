@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਪ੍ਰਭੂ ਆਪ ਮਾਪਿਆਂ ਵਾਂਗ ਸਾਡੀ ਪਾਲਣਾ ਕਰਦਾ ਹੈ ॥੩੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਹਿ = ਆਪ ਹੀ ॥੩੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਉਸ ਪੁਰਸ਼ ਨੇ ਜਿਸਨੇ ਸੱਚੇ ਦਿਲੋਂ ਅਤੇ ਵਸ਼ਵਾਸ ਨਾਲ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਆਂ ਕਸ ਕਿ ਅਜ਼ ਰਹਿ ਸਿਦਕ ਇਅਤਕਾਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

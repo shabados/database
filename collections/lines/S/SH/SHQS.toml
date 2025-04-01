@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਬਹੁਤ ਤਰ੍ਹਾਂ ਦੇ ਰੰਗ ਤਮਾਸ਼ੇ (ਵੇਖਣ ਨੂੰ ਹੋਣ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਥਾਰ = ਖਿਲਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

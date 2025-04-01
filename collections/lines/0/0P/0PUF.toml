@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸ਼ੋਖ ਅੱਖ ਮੇਰਾ ਦੀਨ ਅਤੇ ਦਿਲ ਲੈ ਜਾਣਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੀ-ਬੁਰਦ ਦੀਨੋ ਦਿਲਮ ਈਣ ਚਸ਼ਮਿ ਸ਼ੋਖ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

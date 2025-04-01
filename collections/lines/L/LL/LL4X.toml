@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਗਤੀ ਤੋਂ ਬਿਨਾ ਇਹ ਸਰੀਰ ਕਿਸੇ ਕੰਮ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਾਰੁ = ਸੁਆਹ, ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

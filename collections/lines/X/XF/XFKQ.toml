@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! ਜਦੋਂ ਮੇਰਾ ਮਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਜਲ ਦੀ ਬੂੰਦ ਪੀਂਦਾ ਹੈ ਤਾਂ ਠੰਢਾ-ਠਾਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲੁ = ਠੰਡਾ। ਪੀਵੈ = ਪੀਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

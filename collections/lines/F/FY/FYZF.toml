@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਅਟੱਲ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਸ ਨੂੰ ਮੌਤ ਦਾ ਸਹਮ ਨਹੀਂ ਵਿਆਪਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਰੁ = ਅਟੱਲ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ। ਥੀਵੈ = ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

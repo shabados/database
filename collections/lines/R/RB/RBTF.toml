@@ -36,6 +36,12 @@ language = "pa"
 data = "ਟੇਢੀਆਂ ਚਾਲਾਂ ਚੱਲਣ ਵਾਲਾ ਇਹ ਮਨ ਹੁਣ ਵਿੱਝ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਧੀਅਲੇ = ਵਿੱਝ ਜਾਂਦੇ ਹਨ। ਚਕ੍ਰ ਭੁਅੰਗਾ = ਭੁਇਅੰਗਮ ਨਾੜੀ ਦੇ ਚੱਕਰ, ਟੇਢੇ ਚੱਕਰਾਂ ਵਾਲਾ ਮਨ, ਟੇਢੀਆਂ ਚਾਲਾਂ ਵਾਲਾ ਮਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

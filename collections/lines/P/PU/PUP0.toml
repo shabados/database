@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੀ ਸਰਨ ਪਏ ਅਨੇਕਾਂ) ਗੁਣ-ਹੀਣ ਬੰਦਿਆਂ ਨੂੰ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾ ਦਿੱਤਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਣ = ਗੁਣ-ਹੀਨ ਬੰਦੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

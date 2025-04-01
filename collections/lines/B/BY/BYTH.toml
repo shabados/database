@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਜੀਵ ਉਸ ਨੇ ਆਪ ਹੀ ਕੁਰਾਹੇ ਪਾਏ ਹੋਏ ਹਨ ਤੇ ਕਈ ਜੀਵ ਉਸ ਨੇ ਬੰਦਗੀ ਵਿਚ ਲਾਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਕਈ ਜੀਵ। ਉਝੜਿ = ਕੁਰਾਹੇ। ਲਾਇਅਨੁ = ਲਾਏ ਹਨ ਉਸ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

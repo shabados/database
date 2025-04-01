@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਆਸਰੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ, ਮਿਹਰ ਕਰ ਮੈਂ ਤੇਰੀ ਸਰਨ ਪਿਆ ਹਾਂ, ਮੈਨੂੰ (ਇਹਨਾਂ ਪੰਜਾਂ ਤੋਂ) ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗ ਜੀਵਨ = ਹੇ ਜਗਤ ਦੇ ਜੀਵਨ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

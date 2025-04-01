@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਨੂੰ ਹੀ ਮੈਂ ਆਪਣੇ ਚਿੱਤ ਵਿਚ (ਜੀਵਨ ਦਾ) ਸਹਾਰਾ ਬਣਾ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ! ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਜਗਤ ਵਿਚ ਆਇਆ ਤੇ ਤੁਰ ਗਿਆ, (ਜਗਤ ਵਿਚ ਉਸ ਦਾ) ਨਾਮ ਭੀ ਭੁੱਲ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਇਆ = ਭੁੱਲ ਗਿਆ, ਮੁੱਕ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

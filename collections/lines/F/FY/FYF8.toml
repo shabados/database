@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਤੀ ਪਾਤਿਸ਼ਾਹ! ਮੈਂ (ਤੇਰੇ ਬੈਠਣ ਲਈ) ਆਪਣੇ ਹਿਰਦੇ ਨੂੰ ਤਖ਼ਤ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂ = ਮੈਂ, ਮੇਰਾ ਹਿਰਦਾ, ਮੇਰਾ ਆਪਣਾ ਆਪ। ਮਹਿੰਜੇ = ਮੇਰੇ। ਪਿਰੀ ਪਾਤਿਸਾਹ = ਹੇ ਮੇਰੇ ਪਤੀ! ਹੇ ਪਾਤਿਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

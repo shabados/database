@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਿਚਾਰਾਂ ਵਿਚ) ਡੁੱਬਦਾ ਤਰ ਜਾਂਦਾ ਹੈ, (ਗੁਣਾਂ ਤੋਂ) ਸੱਖਣਾ (ਗੁਣਾਂ ਨਾਲ) ਭਰ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੂਡੰ = ਡੁੱਬਦਾ। ਊਣੰ = ਸੱਖਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

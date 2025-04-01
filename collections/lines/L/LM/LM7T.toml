@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਤੂੰ ਭੀ ਸਦਾ ਹੀ ਉਸ ਹਰੀ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ ॥੪॥੧੧॥੧੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਪੈ = ਜਾਪਿ, ਜਪਿਆ ਕਰ ॥੪॥੧੧॥੧੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

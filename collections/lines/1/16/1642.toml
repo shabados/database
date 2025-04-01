@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ ਤਾਂ ਸੁੱਕੇ ਕਾਠ ਹਰੇ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸੁ ਭਾਣਾ = ਉਸ (ਪ੍ਰਭੂ) ਨੂੰ ਚੰਗਾ ਲੱਗੇ। ਕਾਸਟ = ਕਾਠ, ਲੱਕੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਦੋਂ ਤੂੰ ਮੈਨੂੰ ਵਿਸਰ ਜਾਂਦਾ ਹੈਂ, ਉਸੇ ਵੇਲੇ ਮੇਰੀ ਆਤਮਕ ਮੌਤ ਹੋ ਜਾਂਦੀ ਹੈ! ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਿ ਜਾਉ = ਮੈਂ ਮਰ ਜਾਂਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

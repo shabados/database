@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹਾ (ਬੰਦਾ) ਜੋਗੀ (ਅਖਵਾਣ ਦਾ ਹੱਕਦਾਰ ਹੋ ਸਕਦਾ ਹੈ ਜੋ ਜੀਵਨ ਦੀ ਸਹੀ) ਜੁਗਤਿ ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਐਸਾ = ਅਜੇਹਾ ਬੰਦਾ। ਜੁਗਤਿ = ਸਹੀ ਜੀਵਨ ਦੀ ਜਾਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

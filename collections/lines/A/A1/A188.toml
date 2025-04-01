@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਕਾਰਾਂ ਦੇ ਪੱਥਰ (ਤੇਰੇ) ਗਲ ਨਾਲ ਬੱਝੇ ਪਏ ਹਨ, ਨਿੰਦਾ ਦੀ ਪੋਟਲੀ (ਤੇਰੇ) ਸਿਰ ਉੱਤੇ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਹਿ = ਗਲ ਵਿਚ। ਬਾਧੇ = ਬੱਝੇ ਹੋਏ ਹਨ। ਨਿੰਦ ਪੋਟ = ਨਿੰਦਾ ਦੀ ਪੋਟਲੀ। ਸਿਰਾਇ = ਸਿਰ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

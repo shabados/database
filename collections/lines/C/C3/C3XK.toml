@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅਨੇਕਾਂ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਸ ਦਾ ਮਨ ਪਵਿੱਤਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਹਿ = ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ। ਨਿਰਮਲ = ਪਵਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਤੂੰ ਜੀਭ ਦੇ ਚਸਕੇ ਵਿਚ, ਮਾਇਆ ਦੇ ਲੋਭ ਵਿਚ, ਅਹੰਕਾਰ ਵਿਚ ਮਸਤ ਹੈਂ, ਤੂੰ ਸਦਾ ਹਉਮੈ ਵਿਚ ਲੀਨ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਬਿ = ਲੱਬ ਵਿਚ, ਜੀਭ ਦੇ ਚਸਕੇ ਵਿਚ। ਮਾਤਾ = ਮਸਤ। ਗਰਬਿ = ਅਹੰਕਾਰ ਵਿਚ। ਸਮਾਇਣੁ = ਲੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

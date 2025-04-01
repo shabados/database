@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦੀ ਮੱਤ ਲੈ ਕੇ ਜੀਵਨ-ਚਾਲ ਚੱਲ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ = ਜੀਵਨ-ਕਰਤੱਬ। ਸਾਰੁ = ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

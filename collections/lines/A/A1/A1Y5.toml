@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ ਖਾਣੀਆਂ, ਬੋਲੀਆਂ, ਖੰਡ ਤੇ ਬ੍ਰਹਮੰਡ ਬਣਾਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਣੀ = ਜਗਤ ਦੀ ਉਤਪੱਤੀ ਦੇ ਵਸੀਲੇ (ਅੰਡਜ, ਜੇਰਜ, ਸੇਤਜ, ਉਤਭੁਜ)। ਬਾਣੀ = ਬੋਲੀਆਂ। ਖੰਡ = ਜਗਤ ਦੇ ਹਿੱਸੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

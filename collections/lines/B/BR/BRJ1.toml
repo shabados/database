@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਪੂਰਬਲੇ ਜਨਮ ਵਿਚ (ਧੁਰੋਂ) ਲਿਖੇ ਅਨੁਸਾਰ (ਜਿਨ੍ਹਾਂ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇ) ਦਿਨ ਮਿਲਦੇ ਹਨ ਉਹ ਜਗਤ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ (ਜੰਮ ਪੈਂਦੇ ਹਨ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਪਹਿਲੇ ਜਨਮ ਵਿਚ। ਡੇਹ = ਦਿਨ। ਸਿ = ਉਹ ਦਿਨ। ਮਾਇਆ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

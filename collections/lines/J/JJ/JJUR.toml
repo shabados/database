@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਮਰ ਦੀ ਇਸ ਵਿਸ਼ਾਲ ਧਰਤ ਨੂੰ ਸਮਝਣ ਤੇ ਪਾਉਣ ਦਾ ਜਤਨ ਕਰ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਬਸਾਤਿ ਉਮਰ ਰਾ, ਦਰਯਾਬ ਕੀਣ ਬਾਦਿ ਸਬਾ, ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

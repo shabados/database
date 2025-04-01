@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਾਲਾਂਕਿ ਹਰ ਚੜ੍ਹਾਉ ਨੂੰ ਉਤਰਾਉ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਰਨਾ ਬੀਨੀ ਪੁਰ ਜ਼ਵਾਲੇ ਹਰ ਕਮਾਲ ।੩੩੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੋਈ ਨਿੰਦਾ ਪਿਆ ਕਰੇ) ਕਿਸੇ ਨਾਲ ਝਗੜਾ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦੁ ਬਿਬਾਦੁ = ਝਗੜਾ, ਬਹਿਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

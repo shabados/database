@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! (ਮੈਨੂੰ) ਆਪਣੇ ਚਰਨਾਂ ਦਾ ਦਰਸ਼ਨ ਕਰਾ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ = ਹੇ ਹਰੀ! ਦਿਖਾਵਹੁ = ਦਰਸ਼ਨ ਕਰਾ ਦਿਓ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੱਗੇ (ਦੋਵੇਂ) ਹੱਥ ਜੋੜਦੀ ਹੈ ਉਸ ਦੀ ਸੇਵਾ ਕਰਦੀ ਹੈ, ਉਸ ਅੱਗੇ ਬੇਨਤੀ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = ਹੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

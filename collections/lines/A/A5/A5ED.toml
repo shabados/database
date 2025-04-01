@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸਤ੍ਰੀ ਨੇ ਸੁਰਮਾ, ਫੁੱਲ ਤੇ ਪਾਨਾਂ ਦਾ ਰਸ ਲੈ ਕੇ ਸਿੰਗਾਰ ਕੀਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਜਲ = ਸੁਰਮਾ। ਧਨ = ਇਸਤ੍ਰੀ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

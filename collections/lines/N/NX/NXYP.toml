@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਹਨਾਂ ਲਈ) ਇਕ ਨਾਮ ਹੀ ਅੰਮ੍ਰਿਤ ਹੈ ਹੋਰ ਕਿਸੇ ਚੀਜ਼ ਨੂੰ ਉਹ ਅੰਮ੍ਰਿਤ ਨਹੀਂ ਮੰਨਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤੁ = ਅਮਰ ਕਰਨ ਵਾਲਾ ਜਲ, ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

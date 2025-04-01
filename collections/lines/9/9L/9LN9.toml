@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਾਹਿਬ ਦੇ ਰੰਗ ਵਿਚ ਸੰਸਾਰ ਦਾ ਬਾਦਸ਼ਾਹ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਊ ਬਰੰਗਿ ਸਾਹਿਬਿ ਫ਼ਰਮਾਂ ਰਵਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

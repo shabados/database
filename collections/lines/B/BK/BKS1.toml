@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦੇ ਪਾਪ ਕੱਟੇ ਗਏ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਰੂ ਰਾਮਦਾਸ ਮਿਲ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਨਰਹੁ ਕੇ = ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

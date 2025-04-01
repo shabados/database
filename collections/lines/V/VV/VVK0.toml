@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ ਮਨੁੱਖ ਕਿਸੇ ਤੀਰਥ ਉਤੇ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ, ਕੋਈ ਮਨੁੱਖ (ਮੱਕੇ) ਹੱਜ ਕਰਨ ਵਾਸਤੇ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਵੈ = ਨ੍ਹਾਵੈ, ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ। ਤੀਰਥਿ = ਤੀਰਥ ਉੱਤੇ। ਹਜ ਜਾਇ = ਕਾਅਬੇ ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

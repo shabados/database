@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ ਵਿਚ ਉਹਨਾਂ ਦੀ ਲਗਨ ਹਰ ਵੇਲੇ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ। ਸਾਚਿ ਨਾਮਿ = ਸਦਾ-ਥਿਰ ਨਾਮ ਵਿਚ। ਲਿਵ = ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਇਸ (ਟਿਕੇ ਹੋਏ) ਮਨ ਦੀ ਰਾਹੀਂ ਇਹ ਸਾਰੀ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੀ ਖੇਡ ਵੇਖ ਲਈ ਹੈ (ਸਮਝ ਲਈ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨਿ = ਇਸ ਨੇ। ਮਨਿ = ਮਨ ਨੇ। ਇਨਿ ਮਨਿ = ਇਸ ਮਨ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

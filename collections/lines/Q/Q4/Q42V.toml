@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ ਆਪਣੇ ਆਪ) ਨਾਹ ਕੋਈ ਮਨੁੱਖ ਸਿਆਣਾ ਬਣ ਸਕਦਾ ਹੈ, ਨਾਹ ਕੋਈ ਮਨੁੱਖ (ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ) ਮੂਰਖ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਤੁਰੁ = ਚਾਲਾਕ, ਸਿਆਣਾ। ਮੂੜਾ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

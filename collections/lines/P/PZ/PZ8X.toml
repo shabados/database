@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਜਿਸ ਆਹਰੇ ਤੂੰ ਲਾਉਂਦਾ ਹੈਂ ਉਸ ਉਸ ਆਹਰ ਵਿਚ ਜੀਵ ਲੱਗੇ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ (ਕੰਮ ਵਿਚ)। ਤਿਤੁ = ਉਸ (ਆਹਰ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

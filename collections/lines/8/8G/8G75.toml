@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕਾਮਾਦਿਕ) ਉਸ ਮਾਇਆ ਦੇ ਮੁਸਾਹਬ (ਵੀ) ਵੱਡੇ ਠੱਗ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਰਕ = ਅੱਗੇ ਅੱਗੇ ਤੁਰਨ ਵਾਲੇ, ਚੌਧਰੀ, ਮੁਸਾਹਬ। ਠਗਾਊ = ਠੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

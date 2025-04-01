@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੋਹ ਵਿਚ ਹੀ ਜਕੜਿਆ ਹੋਇਆ ਤੂੰ ਜਮਰਾਜ ਦੇ ਦੇਸ ਵਿਚ ਜਾਵੇਂਗਾ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮਪੁਰਿ = ਜਮ ਦੇ ਦੇਸ਼ ਵਿਚ। ਜਾਹਿ = ਤੂੰ ਜਾਵੇਂਗਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

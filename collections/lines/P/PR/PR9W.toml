@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਉਸਤਤ ਕਰਨ ਤੋਂ ਤਿੰਨਾਂ ਲੋਕਾਂ ਦੀ ਜੀਭਾ ਅਸਮਰਥ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਤੌਸਫ਼ਿ ਊ ਸਲਸ ਕਾਸਿਰ ਜ਼ਬਾਂ ।"
+page = 4
+line = 71
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

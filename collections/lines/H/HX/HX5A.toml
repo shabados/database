@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਮੇਰੇ (ਪਿਛਲੇ) ਕੀਤੇ ਹੋਏ ਔਗੁਣ ਮਿਟ ਜਾਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਾਤੇ = ਕਮਾਏ ਹੋਏ। ਅਵਗੁਣ = ਵਿਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

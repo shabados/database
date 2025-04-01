@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਗੁਰੂ ਪਾਸੋਂ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਪੁੱਛਿਆ ਕਰਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ ਪੂਛਹ = ਅਸੀਂ ਪੁੱਛਦੇ ਹਾਂ, ਮੈਂ ਪੁੱਛਾਂਗਾ। ਹਰਿ ਬਾਤਾ = ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

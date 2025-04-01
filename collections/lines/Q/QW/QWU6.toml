@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵਾਂ ਦੇ ਜਨਮ-ਮਰਨ ਦਾ ਗੇੜ ਨਾਸ ਕਰਨ ਵਾਲੇ ਰਾਮ! ਤੂੰ ਜਾਣਦਾ ਹੈਂ ਕਿ ਮੇਰੀ ਆਪਣੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ ਕਿਛੁ ਨਹੀ = ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ। ਭਵਖੰਡਨ = ਹੇ ਜਨਮ ਮਰਨ ਨਾਸ ਕਰਨ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

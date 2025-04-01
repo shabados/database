@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੱਜਣ! ਜੀਵਨ-ਸਫ਼ਰ ਦੇ ਹੇ ਪਿਆਰੇ ਪਾਂਧੀ! (ਕੀ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ) ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾਪ ਕਿਵੇਂ ਹੁੰਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਜਨ = ਹੇ ਸੱਜਣ! ਚਲੇ ਪਿਆਰਿਆ = ਹੇ ਤੁਰੇ ਜਾ ਰਹੇ ਪਿਆਰੇ! ਹੇ ਜੀਵਨ-ਸਫ਼ਰ ਦੇ ਪਿਆਰੇ ਪਾਂਧੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

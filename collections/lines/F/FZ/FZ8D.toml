@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਕਦੀ ਇਸ ਮਾਰਗ ਦਾ ਜਾਨੂ ਮਿਲ ਜਾਵੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਕਫ਼ਿ ਈਂ ਰਾਹ ਅਗਰ ਦਸਤ ਆਮਦੇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

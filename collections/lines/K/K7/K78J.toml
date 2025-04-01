@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਸਦਾ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹੁ, (ਉਸ ਪਾਸੋਂ) ਜੋ ਕੁਝ ਤੂੰ ਚਾਹੇਂਗਾ ਉਹੀ ਮਿਲ ਜਾਂਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਹਹਿ = ਤੂੰ ਚਾਹੇਂਗਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

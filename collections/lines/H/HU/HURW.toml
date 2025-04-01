@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਇਹ ਚੀਜ਼ ਉਸ ਮਨੁੱਖ ਨੂੰ ਹੀ ਮਿਲਦੀ ਹੈ ਜਿਸ ਦੇ ਭਾਗਾਂ ਵਿਚ ਲਿਖੀ ਹੋਵੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸਹਿ = ਉਸ ਨੂੰ ਹੀ, ਤਿਸ ਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

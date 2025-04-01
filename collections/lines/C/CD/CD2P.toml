@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਰਾਤ ਦਿਨ ਅਬਿਨਾਸ਼ੀ ਪ੍ਰਭੂ (ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੇ ਗੀਤ) ਗਾਇਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਿਨਾਸੀ = ਨਾਸ-ਰਹਿਤ। ਰੈਣਿ = ਰਾਤ। ਗਾਉ = ਗਾਇਆ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

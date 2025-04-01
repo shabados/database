@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਖਸਮ-ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰਨ ਨਾਲ ਮੇਰੀ ਹਉਮੈ ਦੂਰ ਹੋ ਗਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਰੀ = ਮੇਰੀ। ਅਹੰ = ਹਉਮੈ। ਜਾਇ = ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

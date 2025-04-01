@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਮਾਨੰਦ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮਾਨੰਦ ਸੁਆਮੀ = ਰਾਮਾਨੰਦ ਦਾ ਪ੍ਰਭੂ। ਰਮਤ = ਸਭ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਆਪਣੇ ਟੱਬਰ ਵਾਸਤੇ ਕਈ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਦੇ ਹਨ, ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਅਨੇਕਾਂ ਆਹਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤਨ = ਕੋਸ਼ਿਸ਼ਾਂ। ਅਨੇਕ ਉਦਮਹ = ਕਈ ਆਹਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

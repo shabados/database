@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਉਸ ਦੇ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੪॥੯॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਪਲਾਇਣ = ਦੂਰ ਹੋ ਗਏ ਹਨ ॥੪॥੯॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

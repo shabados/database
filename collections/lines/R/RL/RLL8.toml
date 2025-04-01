@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੇ ਆਪਣਾ ਪ੍ਰਭਾਵ ਪਾਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਖੀ = ਸਾਖਿਆਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

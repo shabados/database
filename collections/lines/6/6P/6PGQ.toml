@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਸੋਹਾਗਣ ਨਾਰ ਦੇ ਗਲ ਵਿਚ ਹਾਰ ਸੋਭਦਾ ਹੈ, (ਭਾਵ, ਜੀਵਾਂ ਦੇ ਮਨ ਮੋਹਣ ਨੂੰ ਸਦਾ ਸੁਹਣੀ ਬਣੀ ਰਹਿੰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਲਿ = ਗਲ ਵਿਚ। ਸੋਹੈ = ਸੁਹਣਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

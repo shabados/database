@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਰਤਣ ਵਾਸਤੇ ਤੈਨੂੰ ਹਰੇਕ ਚੀਜ਼ ਦਿੱਤੀ ਹੈ, ਅਤੇ ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਭੋਜਨ ਤੈਨੂੰ ਖਵਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਵਾਸਤੇ। ਸਭੁ ਕਿਛੁ = ਹਰੇਕ ਚੀਜ਼। ਭੋਗਾਇ = ਛਕਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

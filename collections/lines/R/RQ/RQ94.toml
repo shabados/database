@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਆਨ-ਵਾਨ ਲੋਕਾਂ ਲਈ (ਇਹ ਅੱਖਰ) ਤੱਤ ਦੇ ਵਿਚਾਰਨ ਦਾ ਵਸੀਲਾ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੁ = ਅਸਲੀਅਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਅਸਲ ਵਿਚ) ਕੋਈ ਭੀ ਜੀਵਾਤਮਾ ਮਰਦਾ ਨਹੀਂ, ਇਹ ਪੱਕੀ ਗੱਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਕਉਨੁ ਮੂਆ = (ਅਸਲ ਵਿਚ) ਕੋਈ ਭੀ ਨਹੀਂ ਮਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

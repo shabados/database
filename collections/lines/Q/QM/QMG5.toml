@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸਤ੍ਰੀ ਤੋਂ ਹੀ ਇਸਤ੍ਰੀ ਪੈਦਾ ਹੁੰਦੀ ਹੈ (ਜਗਤ ਵਿਚ) ਕੋਈ ਜੀਵ ਇਸਤ੍ਰੀ ਤੋਂ ਬਿਨਾ ਪੈਦਾ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੰਡਹੁ ਹੀ ਭੰਡੁ = ਇਸਤ੍ਰੀ ਤੋਂ ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਸਦਾ ਚੇਤੇ ਰੱਖਾਂ ਕਿ ਮੈਂ ਜਗਤ ਤੋਂ ਜ਼ਰੂਰ ਚਲੇ ਜਾਣਾ ਹੈ, ਜੇ ਮੈਂ ਸਮਝ ਲਵਾਂ ਕਿ ਸਾਰਾ ਜਗਤ ਹੀ ਚਲੇ ਜਾਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਲਾ = ਚੱਲਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੰਨਿਆ ਪ੍ਰਮੰਨਿਆ ਮਾਲਕ ਹੈ ਕਿਉਂਕਿ ਉਸ ਦਾ ਹੁਕਮ ਕੋਈ ਮੋੜ ਨਹੀਂ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਰੀ = ਚਿੱਠੀ, ਪਰਵਾਨਾ, ਹੁਕਮ। ਨਾ ਫਿਰੈ = ਮੋੜੀ ਨਹੀਂ ਜਾ ਸਕਦੀ। ਪਰਵਾਣੁ = ਮੰਨਿਆ-ਪ੍ਰਮੰਨਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਿੱਤਰ! ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਦੀ ਵਡਿਆਈ (ਧਿਆਨ ਨਾਲ) ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ। ਸਾਧੂ ਸੰਗ ਕੀ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਦੀ। ਮੀਤਾ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

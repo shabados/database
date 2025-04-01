@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਉਸ ਨੂੰ ਹਰ ਚੁਨੇ ਹੋਏ ਤੋਂ ਉਚੇਰਾ ਚੁਨਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕਸ਼ ਬਰ-ਗੁਜ਼ੀਦਾ ਜ਼ਿ ਹਰ ਬਰ-ਗੁਜ਼ੀਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਉੱਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ (ਦੀ ਮਿਹਰ) ਦਾ ਹੱਥ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਦੋ ਆਲਮ ਦਸਤਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 156
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

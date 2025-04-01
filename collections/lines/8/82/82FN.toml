@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ?) ਹੇ ਨਾਨਕ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਨਾਲ ਜੀਵ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਸੁੱਤਾ ਹੋਇਆ ਹੈ, ਉਹੀ ਇਸ ਨੂੰ ਜਗਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਤੇ = ਜਿਸ (ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ) ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

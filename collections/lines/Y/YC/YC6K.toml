@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਸਤਿਗੁਰੂ ਨੇ ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ ਦੂਰ ਕਰ ਦਿੱਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਿ = ਅੱਗ, ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਅੱਗ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ ਦਿੱਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

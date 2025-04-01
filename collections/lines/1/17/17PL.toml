@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਬਿਨਾਣ ਮੇਰੇ ਦੋਹਾਣ ਨੇਤ੍ਰਾਣ ਅਤੇ ਭਰਵੱਟਿਆਣ ਵਿਚ ਹੋਰ ਕੋਈ ਨਹੀਣ ਸੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨ ਬੂਦ ਗ਼ੈਰਿ ਤੂ ਦਰ ਹਰ ਦੋ ਚਸ਼ਮੇ ਅਬਰੂਏਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

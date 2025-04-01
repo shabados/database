@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੁਣ) ਮੇਰੇ ਮਨ ਵਿਚ ਹਰ ਵੇਲੇ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਮਨਿ = ਮੇਰੇ ਮਨ ਵਿਚ। ਅਨਦਿਨੁ = (अनुदिनं) ਹਰ ਰੋਜ਼, ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

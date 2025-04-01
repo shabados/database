@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਦੋਂ ਹੀ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਹਰੇਕ ਕਿਸਮ ਦਾ ਪਾਪ (ਮਨ ਤੋਂ) ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੋਲਤ = ਸਿਮਰਿਆਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

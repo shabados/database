@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਜਾਣਦਾ ਹੈ (ਕਿ) ਇਥੇ ਜਗਤ ਵਿਚ (ਅਸਲੀ) ਮਿੱਤਰ ਕੌਣ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਈ = ਕੋਈ ਵਿਰਲਾ। ਈਹਾ ਜਗਿ = ਇਥੇ ਜਗਤ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

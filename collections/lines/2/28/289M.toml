@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਹੇ ਬੇ-ਸ਼ਰਮ! ਤੂੰ ਕਿਉਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਜਪਦਾ? ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਦਾ। ਕਿਉ ਨ ਲੇਹਿ = ਤੂੰ ਕਿਉਂ ਨਹੀ ਜਪਦਾ? (ਲੇਹਿਂ)। ਮੂਰਖ ਨਿਲਾਜ ਰੇ = ਹੇ ਮੂਰਖ! ਹੇ ਬੇ-ਸ਼ਰਮ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

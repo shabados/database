@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾਲ ਪ੍ਰਭੂ! (ਮੈਨੂੰ ਇਹਨਾਂ ਤੋਂ) ਬਚਾ ਲੈ ॥ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋ ਕਿਰਪਾਲ = ਹੇ ਕਿਰਪਾਲ!ਰਹਾਉ। ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

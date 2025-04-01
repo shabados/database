@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਜੀ! ਮੈਂ ਗੁਣ-ਹੀਨ ਹਾਂ ਤੇਰੇ ਅੰਦਰ ਸਾਰੇ ਹੀ ਗੁਣ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਂ। ਜੀਉ = ਹੇ ਪ੍ਰਭੂ ਜੀ! ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

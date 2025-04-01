@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ ਭੀ ਓਅੰਕਾਰ ਤੋਂ ਹੀ ਬਣੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੇਦ = ਵੇਦ ਆਦਿਕ ਧਰਮ = ਪੁਸਤਕ। ਨਿਰਮਏ = ਬਣੇ, ਪਰਗਟ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

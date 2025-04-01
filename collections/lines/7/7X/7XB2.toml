@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਤਿਕਾਰ ਹੀਨ ਰੱਬ ਦਾ ਰਾਹ ਕਿਵੇਂ ਜਾਣ ਸਕਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇ-ਅਦਬ ਰਾਹਿ ਖ਼ੁਦਾ ਕੈ ਦਾਨਦਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

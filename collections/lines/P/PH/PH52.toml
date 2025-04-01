@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਬਣਾਏ ਹੋਏ) ਅਨੇਕਾਂ ਹੀ ਸੂਰਜ ਚੰਦ੍ਰਮਾ ਅਤੇ ਤਾਰੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰ = ਸੂਰਜ। ਸਸੀਅਰ = (शशधर) ਚੰਦ੍ਰਮਾ। ਨਖਿਆਤਿ = ਤਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

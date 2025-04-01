@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਐਸੇ ਮਨੁੱਖ ਆਪਣਾ ਜਨਮ ਸਵਾਰ ਲੈਂਦੇ ਹਨ ਤੇ ਆਪਣੀ ਕੁਲ ਭੀ ਤਾਰ ਲੈਂਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਲ = ਪਰਵਾਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

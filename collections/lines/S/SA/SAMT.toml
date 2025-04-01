@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਕਿਹੜਾ ਥਾਂ ਹੈ ਜੋ ਡਰ ਤੋਂ ਖ਼ਾਲੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਵਨੁ = ਕਿਹੜਾ? ਘਰੁ = ਟਿਕਾਣਾ। ਨਿਰਭਉ = ਡਰ ਤੋਂ ਖ਼ਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

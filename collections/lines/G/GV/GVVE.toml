@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ਼ਾਂਤੀ ਦੇ ਪੁੰਜ ਅਕਾਲ ਪੁਰਖ! ਤੇਰੀ ਨਿਗਾਹ ਚੰਗੀ ਪਰਖ ਵਾਲੀ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲ = ਸ਼ਾਂਤ। ਸੁਜਾਣੀ = ਚੰਗੀ ਪਰਖ ਵਾਲੀ। ਦ੍ਰਿਸਟਿ = ਨਜ਼ਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

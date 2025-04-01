@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਤੇਰੀ ਸਰਧਾ ਬਣ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = (ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ। ਪਰਤੀਤਿ = ਸਰਧਾ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਵਾਸਤੇ, ਹੇ ਭਾਈ! ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ ਲੈ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਤੇ = ਇਸ ਵਾਸਤੇ। ਮੋਹਿ = ਮੈਂ। ਓਟ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

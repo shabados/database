@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ!) ਹਰੀ ਨੇ ਮੈਨੂੰ (ਮੇਰੇ ਅੰਦਰ) ਹਰਿ-ਨਾਮ ਦੀ ਸਿੱਕ ਲਾ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈ = ਮੈਨੂੰ। ਹਰਿ ਨਾਮੈ ਬਿਰਹੁ = ਹਰਿ-ਨਾਮ ਦੀ ਸਿੱਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦਾ ਮਾਨ ਸਤਿਕਾਰ, ਸਥਾਨ ਅਤੇ ਮਰਤਬਾ, ਅਤੇ ਨਾਮ ਨਿਸ਼ਾਨ ਦੁਨੀਆ ਤਕ ਸਥਿਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਬਦ ਆਬਾਦ ਕਦਰੋ ਜਾਹੋ ਨਿਸ਼ਾਂ ।"
+page = 1
+line = 21
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਵਿਚ) ਮਾਇਆ ਦਾ ਮੋਹ ਘੁੱਪ ਹਨੇਰਾ ਬਣਿਆ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤਿ ਗੁਬਾਰੁ = ਘੁੱਪ ਹਨੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

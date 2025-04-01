@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਡੀ ਕੁਲ ਵਿਚ ਕਦੇ ਕਿਸੇ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਨਹੀਂ ਸੀ ਕੀਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉਨੇ = ਕਿਸ ਨੇ? (ਭਾਵ, ਕਿਸੇ ਨਹੀਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

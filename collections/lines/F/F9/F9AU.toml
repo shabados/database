@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦੇ ਨੂੰ ਬੰਦਗੀ ਬਿਨਾਂ ਹੋਰ ਕਿਸੇ ਚੀਜ਼ ਦੀ ਤਲਾਸ਼ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਰਾ ਜੁਜ਼ ਬੰਦਗੀ ਨਬਵਦ ਤਲਾਸ਼ ।੪੭੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

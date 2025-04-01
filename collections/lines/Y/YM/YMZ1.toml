@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਰਾਇਣ (ਦਾ ਨਾਮ ਮਾਇਆ) ਡੈਣ ਦੇ ਦੰਦ ਭੰਨ ਦੇਂਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਨੇ = ਭੰਨ ਦੇਂਦਾ ਹੈ। ਦੰਤ ਡਾਇਣ = (ਮਾਇਆ) ਡੈਣ ਦੇ ਦੰਦ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

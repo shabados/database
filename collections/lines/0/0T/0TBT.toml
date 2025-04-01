@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਿਰ ਤੇ (ਮਨੁੱਖ) ਸੰਵਾਰ ਸੰਵਾਰ ਪੱਗ ਬੰਨ੍ਹਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਸਿਰਿ = ਜਿਸ ਸਿਰ ਤੇ। ਰਚਿ ਰਚਿ = ਸੰਵਾਰ ਸੰਵਾਰ ਕੇ। ਬਾਧਤ = ਬੰਨ੍ਹਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

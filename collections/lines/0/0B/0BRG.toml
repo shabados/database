@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਲੱਖਾਂ ਚਤੁਰਾਈਆਂ ਕਰਾਂ, ਜੇ ਮੈਂ ਲੱਖਾਂ ਬੰਦਿਆਂ ਨਾਲ ਪ੍ਰੀਤ ਕਰਾਂ, ਮਿਲਾਪ ਪੈਦਾ ਕਰਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰੀ = ਕਰੀਂ, ਮੈਂ ਕਰਾਂ। ਸਿਉ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

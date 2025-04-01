@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਨਾ, ਚਾਂਦੀ (ਅਤੇ ਸੋਨੇ ਚਾਂਦੀ ਨੂੰ ਪਹਿਨਣ ਵਾਲੇ ਭੀ) ਭਰਮ ਰੂਪ ਹੀ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਪਾ = ਚਾਂਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

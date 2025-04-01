@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਵਿਚ ਸਦਾ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇਨੁ = ਚਰਨ-ਧੂੜ। ਨਿਤਿ = ਸਦਾ। ਮਜਨੁ = ਇਸ਼ਨਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਅਤੇ ਅਪਹੁੰਚ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਦੇ ਰਿਹਾ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਿਹੁ = ਸਿਮਰਨ ਕਰਿਆ ਕਰੋ। ਅਗਮ = ਅਪਹੁੰਚ। ਅਪਾਰਾ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

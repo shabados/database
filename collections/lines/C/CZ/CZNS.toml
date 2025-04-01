@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਦੀ ਅਣਹੋਂਦ (ਮੇਰੇ ਅੰਦਰ) ਕਸਾਈ-ਪੁਣਾ ਕਰ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੇਮ ਬਿਛੋਹਾ = ਪ੍ਰੇਮ ਦੀ ਅਣਹੋਂਦ। ਬਿਛੋਹਾ = ਵਿਛੋੜਾ। ਕਸਾਈ = ਖਿੱਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

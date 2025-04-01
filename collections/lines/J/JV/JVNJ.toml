@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਉਹ ਮਨੁੱਖ ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਦੀ) ਕਦਰ ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਸਾਦੀ = ਪਰਸਾਦਿ, ਕਿਰਪਾ ਨਾਲ। ਕੀਮਤਿ = ਕਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

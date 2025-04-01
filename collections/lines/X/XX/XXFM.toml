@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੁਣ (ਵਿਚਾਰ ਕਿ) ਤੂੰ ਕੌਣ ਹੈਂ? (ਤੇਰਾ ਅਸਲਾ ਕੀਹ ਹੈ?), ਤੂੰ ਕਿਥੋਂ (ਇਸ ਜਗਤ ਵਿਚ) ਆਇਆ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ ਭਾਈ! ਕਹਾ ਤੇ = ਕਿਸ ਥਾਂ ਤੋਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

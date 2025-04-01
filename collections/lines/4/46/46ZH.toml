@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਬਰਫ਼ ਦਾ ਮੰਦਰ ਹੋਵੇ, ਉਸ ਉਤੇ ਅੱਗ ਦਾ ਚੋਲਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਵ = ਬਰਫ਼। ਪਿਰਾਹਨੁ = ਪੈਰਾਹਨ, ਚੋਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

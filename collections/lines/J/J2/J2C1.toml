@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹਨਾਣ ਜ਼ਾਹਰਾਣ ਅੱਖਾਣ ਨਾਲ ਨਾ ਵੇਖ, ਕਿਉਣਕਿ ਇਹ ਤਾਣ ਤੇਰੇ ਲਈ ਰੁਕਾਵਟ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੀਣ ਦੀਦਾ ਮਬੀਣ ਕਿ ਹਜ਼ਾਬ ਸਤ ਤੁਰਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

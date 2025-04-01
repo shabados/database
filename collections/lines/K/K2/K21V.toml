@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਉਸ ਨੇ ਹਰ ਬਦ-ਰੰਗ ਨੂੰ ਵੀ ਰੰਗੀਨ ਤੇ ਸੁਗੰਧਤ ਕਰ ਦਿੱਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਿ ਹਰ ਬੇਰੰਗ ਰਾ ਖ਼ੁਸ਼ਰੰਗੋ ਬੂ ਕਰਦ ।੩੩।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

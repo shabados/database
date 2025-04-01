@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜ਼ਿੰਦਗੀ ਨੂੰ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਾਉਣ ਦਾ ਇਹੀ ਵਸੀਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਆਉ = ਵਸੀਲਾ। ਤਰਨ = ਬਚਾਉਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

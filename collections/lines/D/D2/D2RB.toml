@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਓਟ ਮੈਂ ਉੱਕਾ ਹੀ ਭੁਲਾ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਵਰ = ਹੋਰ (ਓਟ)। ਬਿਸਾਰੀ = ਮੈਂ ਭੁਲਾ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

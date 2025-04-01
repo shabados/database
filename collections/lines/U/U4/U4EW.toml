@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਉਸ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਪਹੁੰਚ ਕੇ) ਕੋਈ (ਸਵਾਲੀ) ਖ਼ਾਲੀ ਨਹੀਂ ਮੁੜਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = ਖ਼ਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਭਗਤੀ ਕਰਦਾ ਹੈ) ਹੇ ਨਾਨਕ! ਉਸ ਨੂੰ ਮਨ-ਇੱਛਤ ਫਲ ਮਿਲ ਜਾਂਦੇ ਹਨ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ ਬੰਛਤ = ਮਨ-ਇੱਛਤ, ਜਿਨ੍ਹਾਂ ਦੀ ਮਨ ਤਾਂਘ ਕਰਦਾ ਹੈ। ਮਨਿ = ਮਨ ਵਿਚ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

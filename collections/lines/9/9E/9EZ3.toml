@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ ਕੇਹੜਾ ਜਤਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬ = ਹੁਣ। ਕਉਨੁ = ਕੇਹੜਾ ਜਤਨ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

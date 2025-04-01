@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿਉਣਕਿ ਉਸ ਦੀ ਜਾਦੂ ਵਰਗੀ ਨਜ਼ਰ ਸਾਡੇ ਲਈ ਰਸਾਇਣ ਵਰਗੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਣ ਤਲਿਸਮਿ ਚਸ਼ਮ ਮਾ ਰਾ ਕੀਮੀਆ ਸਤ ।੧੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

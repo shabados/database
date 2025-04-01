@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੂੰ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਆਸਰਾ ਹੈਂ, ਤੂੰ ਦਇਆ ਦਾ ਘਰ ਹੈਂ, ਤੂੰ ਸਭ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਹਰ ਥਾਂ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭ ਸਿਸਟਿ ਧਾਰ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

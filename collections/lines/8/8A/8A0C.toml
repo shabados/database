@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਜੋ ਵੈਰੀ ਹੈ ਉਸ ਨਾਲ ਪਿਆਰ ਕਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਈ = ਵੈਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

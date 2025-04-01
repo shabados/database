@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਭਿੱਛਿਆ ਮੰਗਣ ਲਈ) ਦਰ ਦਰ ਤੇ ਨਹੀਂ ਭਟਕਦੇ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਉਹ ਬੰਦੇ। ਬਾਰੈ ਬਾਰ = ਦਰ ਦਰ ਤੇ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

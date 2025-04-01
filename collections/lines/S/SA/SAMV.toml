@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੇ ਨਾਮ ਦੇ ਦਾਗ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਗ਼ਦਾਰਿ ਨਾਮਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੭।"
+page = 10
+line = 157
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

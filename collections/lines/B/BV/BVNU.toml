@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਹਰਿ-ਨਾਮ ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਦੇਵ-ਪੂਜਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜਾ ਦੇਵ = ਦੇਵ-ਪੂਜਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

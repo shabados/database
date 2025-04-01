@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਦ ਤਕ ਮੈਂ (ਆਪਣੀ ਚਤੁਰਾਈ ਦੀਆਂ) ਕੁਝ (ਸੋਚਾਂ) ਸੋਚਦਾ ਰਿਹਾ ਹਾਂ, ਚਿਤਵਦਾ ਰਿਹਾ ਹਾਂ, ਤਦ ਤਕ ਮੈਂ ਦੁੱਖਾਂ ਨਾਲ ਭਰਿਆ ਰਿਹਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਉ ਲਉ = ਜਦ ਤਕ। ਸੋਚਉ = ਮੈਂ ਸੋਚਦਾ ਹਾਂ। ਚਿਤਵਉ = ਚਿਤਵਦਾ ਹਾਂ। ਜਉ = ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

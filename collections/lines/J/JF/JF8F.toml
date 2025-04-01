@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਚੰਗਾ) ਖਾਈਦਾ ਹੈ, (ਚੰਗਾ) ਪਹਿਨੀਦਾ ਹੈ, (ਦੁਨੀਆ ਦੀ) ਮੌਜ ਮਾਣੀਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਜੈ = ਖਾਈਦਾ ਹੈ। ਪੈਝੈ = ਪਹਿਨੀਦਾ ਹੈ। ਰਲੀ = ਰੰਗ-ਰਲੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

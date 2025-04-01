@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਾਨੂੰ ਤੂੰ ਸਦਾ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਟਿਕਾਈ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਪਨੈ ਸਾਥ = ਆਪਣੇ ਨਾਲ, ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ। ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

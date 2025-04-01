@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਜੇ ਤੂੰ ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਨਹੀਂ ਜਾਗਿਆ ਤਾਂ (ਇਹ ਕੋਝਾ ਜੀਵਨ) ਜਿਊਂਦਾ ਹੀ ਤੂੰ ਮਰਿਆ ਹੋਇਆ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਛਲਿ ਰਾਤਿ = ਪਿਛਲੀ ਰਾਤੇ, ਅੰਮ੍ਰਿਤ ਵੇਲੇ। ਨ ਜਾਗਿਓਹਿ = ਤੂੰ ਨਾਹ ਜਾਗਿਆ। ਮੁਇਓਹਿ = ਤੂੰ ਮੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

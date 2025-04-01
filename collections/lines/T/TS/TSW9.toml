@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਾਤਿ ਪਾਤਿ ਤਾਂ ਜੀਵ ਦੀ ਉਹੀ ਹੈ ਜਿਹੋ ਜਿਹੇ ਜੀਵ ਕਰਮ ਕਮਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਤਿ ਪਤਿ = ਜਾਤ ਪਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

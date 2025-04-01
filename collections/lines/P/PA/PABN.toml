@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਮਨੁੱਖ ਉਤੇ) ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ ਨੇ ਮਿਹਰ ਕੀਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਬ੍ਰਹਮਿ = ਪਾਰਬ੍ਰਹਮ ਨੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਮਇਆ = ਦਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

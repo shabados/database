@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਹੱਥ ਪਵਿਤ੍ਰ ਹਨ ਜੇਹੜੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਲਿਖਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = {हस्त} ਹੱਥ। ਪੁਨੀਤ = ਪਵਿਤ੍ਰ। ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਲੇਖਹਿ = ਲਿਖਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ-ਗ੍ਰਸੀ ਕਾਇਆਂ ਦੀ ਸੰਗਤ ਵਿਚ ਜੀਵਾਤਮਾ ਚੰਚਲ ਚਤੁਰ ਹੋ ਕੇ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨ = ਕਾਇਆਂ (-ਇਸਤ੍ਰੀ)। ਅੰਧੀ = ਮਾਇਆ-ਗ੍ਰਸੀ, ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅੰਨ੍ਹੀ। ਪਿਰੁ = ਜੀਵਾਤਮਾ-ਪਤੀ। ਚਪਲੁ = ਚੰਚਲ। ਸਿਆਨਾ = ਚਤੁਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

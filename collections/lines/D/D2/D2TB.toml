@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸੋ ਮਾਲਕ ਕੌਣ ਸੀ ਤੇ ਸੇਵਕ ਕੌਣ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰੁ = ਮਾਲਕ। ਚੇਰਾ = ਸੇਵਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

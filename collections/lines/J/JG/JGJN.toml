@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਕਰਾਮਾਤ ਅਤੇ ਉਸਦੇ ਚੋਜ ਦੈਵੀ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਰਾਮਾਤੋ ਇਹਜਾਜ਼ਿ ਊ ਕਿਬਰੀਆ ।੫੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

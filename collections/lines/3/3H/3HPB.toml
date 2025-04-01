@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਜਨਾਂ ਨੂੰ ਇਹ ਨਾਮ-ਧਨ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ। ਉਹਨਾਂ ਨੂੰ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਪਿਆਰੀ ਲੱਗਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

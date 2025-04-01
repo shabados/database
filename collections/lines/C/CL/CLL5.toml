@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਉਹ ਭਗਤ ਭਾਗਾਂ ਵਾਲੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਤੇਰਾ ਦੀਦਾਰ ਕੀਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰ ਡਿਠਾ = ਤੈਨੂੰ ਵੇਖਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਇਕਰਾਰ ਦਾ ਮਾਪ ਇਹ ਹੋਵੇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਵਾਨ = ਮਾਪ, ਅੰਦਾਜ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਦੋਵੇਂ ਜਹਾਨ ਉਸ ਸਦਕਾ ਕਿਸੇ ਪਰਬੰਧ ਅਤੇ ਨਿਯਮ ਵਿਚ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੋ ਆਲਮ ਅਜ਼ੋ ਯਾਫ਼ਤ ਨਸਕੋ ਨਿਜ਼ਾਮ ।੧੦੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਮੇਰਾ ਪਿਆਰਾ ਹੈਂ, ਤੂੰ ਮੇਰਾ ਪਾਲਣਹਾਰ ਹੈਂ, ਤੂੰ ਬਹੁਤ ਵੱਡਾ (ਮਾਲਕ) ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਤਿ ਭਾਰੀ = ਬਹੁਤ ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

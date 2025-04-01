@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਗੋਬਿੰਦ ਜੀ! (ਮੇਰੇ ਅੰਦਰੋਂ ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲੀ) ਹਉਮੈ ਅਤੇ ਮਮਤਾ ਦੀ ਜ਼ਹਰ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਬਿੰਦ ਜੀਉ = ਹੇ ਗੋਬਿੰਦ ਜੀ! {ਸੰਬੋਧਨ}। ਬਿਖੁ = ਆਤਮਕ ਮੌਤ ਲਿਆਉਣ ਵਾਲਾ ਜ਼ਹਰ। ਮਮਤਾ = ਅਪਣੱਤ। ਮੁੰਞੁ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਹੇ ਅਕੱਥ! ਹੇ ਬੇਅੰਤ! ਹੇ ਪਵਿਤ੍ਰ-ਸਰੂਪ ਸੁਆਮੀ! ਮੇਰੀ ਇਹ ਅਰਦਾਸ ਸੁਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਥ = ਹੇ ਅਕੱਥ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

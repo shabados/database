@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਲ ਵਿਚ) ਸਾਡਾ ਮੰਦਾ ਚਿਤਵਣ ਵਾਲਾ ਮਨੁੱਖ ਉਹ ਹੈ, ਜੋ ਸਾਡੇ ਐਬ ਨਸ਼ਰ ਹੋਣੋਂ ਰੋਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੋਰੈ = ਰੋਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

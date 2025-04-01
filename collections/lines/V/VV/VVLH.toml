@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪ ਹੀ ਰਚਨਾ ਰਚੀ ਹੈ, ਤੂੰ ਆਪ ਹੀ ਇਸ ਨੂੰ ਨਾਸ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਜੀ = ਪੈਦਾ ਕੀਤੀ। ਗੋਈ = ਲੀਨ ਕਰ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

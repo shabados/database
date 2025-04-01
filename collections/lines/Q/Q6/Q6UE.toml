@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੀ ਖੇਡ ਹੀ ਖੇਡ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ ਤਤੁ ਕਾ ਰਚਨੁ = ਦੁਨੀਆ ਵਾਲੀ ਖੇਡ। ਰਚਾਨਾ = ਖੇਡ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

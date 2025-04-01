@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਪਰਾਏ ਘਰ ਵਿਚ ਜਾ ਕੇ ਇਉਂ (ਮੰਦ ਕਰਮ ਕਰਦਾ ਹੈਂ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਨਰ = ਹੇ ਮਨੁੱਖ! ਕਾਇ = ਕਿਉਂ? ਪਰ ਗ੍ਰਿਹਿ = ਪਰਾਏ ਘਰ ਵਿਚ। ਜਾਇ = ਜਾ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

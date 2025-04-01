@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਪ੍ਰਕਾਸ਼ ਵਿਚ ਸੁੰਦਰ ਪ੍ਰਭੂ ਆਪ ਵੱਸ ਰਿਹਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਤੀ ਅੰਤਰਿ = ਹਰੇਕ ਚਾਨਣ ਦੇਣ ਵਾਲੀ ਸ਼ੈ ਦੇ ਅੰਦਰ। ਅਨੂਪੁ = {ਅਨ-ਊਪ} ਜਿਸ ਵਰਗਾ ਹੋਰ ਕੋਈ ਨਹੀਂ, ਬੇ-ਮਿਸਾਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

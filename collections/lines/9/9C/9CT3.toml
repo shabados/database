@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ (ਵਲ ਪ੍ਰੇਰਨ) ਵਾਲੀ ਅਕਲ (ਹੋਰ ਹੋਰ ਕੰਮਾਂ ਵਲ ਪ੍ਰੇਰਨ ਵਾਲੀਆਂ ਅਕਲਾਂ ਨਾਲੋਂ) ਸ੍ਰੇਸ਼ਟ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮ ਕੀ ਮਤਿ = ਨਾਮ ਸਿਮਰਨ ਵਾਲੀ ਅਕਲ। ਸਾਰ = ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

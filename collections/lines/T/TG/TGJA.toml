@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕੰਤ ਪ੍ਰਭੂ! ਜਦੋਂ ਹਉਮੈ ਦੂਰ ਹੋਵੇ ਤਦੋਂ ਹੀ (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ) ਲੀਨਤਾ ਹੋ ਸਕਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਈ = ਜਾਵੇ, ਦੂਰ ਹੋਵੇ। ਕੰਤ = ਹੇ ਕੰਤ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

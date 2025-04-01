@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਤੇਰੇ ਨਾਲ ਸੰਗਤਿ ਕੀਤੀ ਉਹਨਾਂ ਦਾ ਮਨ ਪ੍ਰਸੰਨ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਾਲੁ = ਪ੍ਰਸੰਨ। ਤੁਮ੍ਹ੍ਹ ਸੰਗਿ = ਤੇਰੇ ਨਾਲ (ਹੇ ਪ੍ਰਭੂ!)। ਭੇਟਿਆ = ਸੰਗਤਿ ਕੀਤਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

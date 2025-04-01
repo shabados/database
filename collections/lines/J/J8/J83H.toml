@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਆਓ, ਅਸੀਂ ਪ੍ਰਾਣ-ਦਾਤੇ ਸੁਖ-ਦਾਤੇ ਅਬਿਨਾਸੀ ਪ੍ਰਭੂ (ਦਾ ਨਾਮ) ਸਿਮਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ = ਹੇ ਸੰਤ ਜਨੋ! ਸਿਮਰਹ = ਆਓ, ਅਸੀਂ ਸਿਮਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

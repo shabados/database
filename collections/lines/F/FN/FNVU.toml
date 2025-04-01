@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਦੀ ਉਮਰ ਪਰਾਇਆ ਧਨ ਚੁਰਾਂਦਿਆਂ ਬੀਤਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਦਰਬ = ਪਰਾਇਆ ਧਨ। ਚਰਾਏ = {ਅੱਖਰ 'ਚ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਲਫ਼ਜ਼ 'ਚੋਰ' ਤੋਂ ਚੋਰਾਏ', ਪਰ ਪੜ੍ਹਨਾ ਹੈ 'ਚੁਰਾਏ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

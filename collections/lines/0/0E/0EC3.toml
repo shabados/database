@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ ਖਸਮ ਜੀ! (ਮੇਰੀ ਬੇਨਤੀ) ਸੁਣੋ। (ਤੈਥੋਂ ਬਿਨਾ) ਮੈਂ ਜੀਵ-ਇਸਤ੍ਰੀ ਇਸ ਸੰਸਾਰ-ਜੰਗਲ ਵਿਚ ਇਕੱਲੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਹ = ਹੇ ਨਾਥ! ਹੇ ਖਸਮ! ਬਨ = ਸੰਸਾਰ-ਜੰਗਲ। ਮਾਹੇ = ਮਾਹਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

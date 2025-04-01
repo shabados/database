@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਡਰ-ਅਦਬ ਰੱਖਣ ਤੋਂ ਬਿਨਾ (ਸਾਡੀ ਜੀਵਨ-ਉਸਾਰੀ) ਸਾਡੇ ਮਨ ਦੀ ਘਾੜਤ ਹੋਛੀ ਹੋ ਜਾਂਦੀ ਹੈ, ਬਿਲਕੁਲ ਹੋਛੀ ਬਣਦੀ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾੜਤ = ਜੀਵਨ ਦੀ ਘਾੜਤ। ਕਚ = ਹੋਛੀ, ਬੇ-ਰਸੀ। ਨਿਕਚ = ਬਿਲਕੁਲ ਹੋਛੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

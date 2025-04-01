@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਉਸ) ਹੰਸ (ਵਰਗੇ ਚਿੱਟੇ ਬਗੁਲੇ) ਨੂੰ ਕਲੋਲ ਕਰਦੇ ਨੂੰ ਅਚਨ-ਚੇਤ ਬਾਜ਼ ਆ ਪੈਂਦੇ ਹਨ, (ਤਿਵੇਂ ਬੰਦੇ ਨੂੰ ਮੌਤ ਦੇ ਦੂਤ ਆ ਫੜਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਲ = ਕਲੋਲ। ਹੰਝ = ਹੰਸ (ਜਿਹਾ ਚਿੱਟਾ ਬਗੁਲਾ)। ਅਚਿੰਤੇ = ਅਚਨ -ਚੇਤ। ਤਿਹੁ = ਉਸ (ਹੰਝ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

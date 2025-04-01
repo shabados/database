@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਉਚੇਚੀ ਕਿਸਮ ਦੀ ਕ੍ਰਿਆ ਕਰਦਾ ਹੋਵੇ, ਦੇਵ-ਪੂਜਾ ਭੀ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਿਸੇਖ = ਵਿਸ਼ੇਸ਼, ਉਚੇਚੀ। ਕਰੇਇ = (ਜੋ ਮਨੁੱਖ) ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

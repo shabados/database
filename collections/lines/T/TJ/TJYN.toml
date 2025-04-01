@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵੱਸਦਾ ਹੈ ਉਸ ਦੇ (ਮਾਇਆ ਵਾਲੇ) ਬੰਧਨ ਕੱਟੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਘਟਿ = ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

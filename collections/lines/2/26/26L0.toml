@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਵੇਂ (ਜੇ ਕਿਸੇ ਭੁੱਖੇ ਮਨੁੱਖ ਨੂੰ ਕੁਝ ਖਾਣ ਨੂੰ ਮਿਲ ਜਾਏ, ਤਾਂ ਉਹ) ਭੁੱਖਾ ਮਨੁੱਖ ਖਾਂਦਿਆਂ ਸ਼ਰਮ ਮਹਿਸੂਸ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਜ = ਸ਼ਰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

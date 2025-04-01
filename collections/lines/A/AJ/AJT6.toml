@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਜਗਤ-ਰਚਨਾ ਵਿਚ) ਕਰੋੜਾਂ ਅਹੰਕਾਰੀ ਜੀਵ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਭਿਮਾਨੀ = ਅਹੰਕਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

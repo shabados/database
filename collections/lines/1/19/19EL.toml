@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਦਾ ਅਹਿੱਲ ਟਿਕਾਣਾ ਉਸ ਤਖ਼ਤ ਉੱਤੇ ਹੈ ਜੇਹੜਾ (ਪ੍ਰਭੂ ਵਾਂਗ ਹੀ) ਸੰਪੂਰਨ ਹੈ (ਜਿਸ ਵਿਚ ਕੋਈ ਉਕਾਈ ਨਹੀਂ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੇ ਠਾਕੁਰ ਅਡੋਲੁ = ਮੇਰੇ ਠਾਕੁਰ ਦਾ ਅਹਿੱਲ ਟਿਕਾਣਾ। ਤਖਤਿ = ਤਖ਼ਤ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

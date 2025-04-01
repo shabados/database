@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਖ਼ਾਵਤਾਂ ਕਰਕੇ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ, ਉਹ ਸੁਗਾਤਾਂ ਕਰਕੇ ਯਾਦ ਰਹਿੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਮੂਮੁਲ-ਅਤਾਇਆ ਸ਼ਮੂਮਲ ਨਵਾਲ ।੫੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

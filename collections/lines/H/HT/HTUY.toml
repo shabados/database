@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਦੇ ਕਾਰਨ ਸੁਖਾਂ ਤੋਂ ਵਾਂਜਿਆ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਖਨਾ = ਨਿੰਦਿਆ। ਟਰੈ = ਟਲੈ, ਵਾਂਜਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

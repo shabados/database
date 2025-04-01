@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਘਰ ਵਿਚ ਸ਼ਤੀਰ ਹੈ (ਸ਼ਤੀਰ ਤੋਂ ਬਿਨਾ ਘਰ ਦਾ ਛੱਤ) ਨਹੀਂ ਠਹਿਰ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਰ = ਘਰ। ਬਲਹਰ = ਵਲਾ, ਸ਼ਤੀਰ। ਠਾਹਰੈ = ਟਿਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

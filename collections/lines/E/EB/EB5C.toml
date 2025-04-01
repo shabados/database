@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਤੋਂ ਕੂਚ ਕਰਨ ਵੇਲੇ) ਨਾਹ ਕੋਈ ਭਰਾ ਨਾਹ ਕੋਈ ਭੈਣ ਕੋਈ ਭੀ ਜੀਵ ਦੇ ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = (ਪਰਲੋਕ ਵਲ) ਨਾਲ। ਭਈਆ = ਭਰਾ। ਬੇਬਾ = ਭੈਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

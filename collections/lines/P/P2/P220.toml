@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ) ਮੈਂ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਤੈਨੂੰ ਯਾਦ ਕਰਦਾ ਰਹਾਂ, ਤੈਨੂੰ ਕਦੇ ਵੀ ਨਾਹ ਭੁਲਾਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਹਿ = ਸਾਹ ਨਾਲ। ਸਾਹਿ ਸਾਹਿ = ਹਰੇਕ ਸਾਹ ਨਾਲ। ਸੰਮਲਾ = ਸੰਮਲਾਂ, ਮੈਂ ਯਾਦ ਕਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

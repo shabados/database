@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕਰਦੇ ਹਨ ਉਹ ਹਰ ਥਾਂ ਆਦਰ ਪਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਬੰਦੇ। ਪਰਧਾਨਾ = ਮੰਨੇ ਪ੍ਰਮੰਨੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਆਪਣੇ ਸਰੀਰ ਦੀ ਤ੍ਰਿਸ਼ਨਾ-ਅੱਗ ਨੂੰ ਸ਼ਾਂਤ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਿ = (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ। ਭਰਾਂਤਿ = ਭਟਕਣਾ। ਨਿਭਰਾਂਤਿ = ਭਟਕਣਾ ਦਾ ਅਭਾਵ, ਸ਼ਾਂਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

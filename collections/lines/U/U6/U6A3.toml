@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜੀਵ ਨੇ ਚਾਨਣ-ਦੇ-ਸੋਮੇ ਪ੍ਰਭੂ ਨਾਲ ਪਿਆਰ ਜੋੜਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਚਉ = {ਸੰ: ਪਰਿਚਯ} ਪਿਆਰ, ਸਾਂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬਹਿਸ ਆਦਿਕ ਗੱਲਾਂ ਦੇ) ਮਸਾਲੇ ਹਰਾਮ ਮਾਲ ਵਿਚ ਪਾਇਆਂ ਉਹ ਹੱਕ ਦਾ ਮਾਲ ਨਹੀਂ ਬਣ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਰਣ = ਮਸਾਲੇ (ਬਹਸ ਆਦਿਕ ਚੁਤਰਾਈ ਦੀਆਂ ਗੱਲਾਂ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

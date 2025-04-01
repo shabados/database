@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਲਾਲਚ, ਵਿਖਾਵੇ ਦਾ ਤਿਆਗ ਕਰ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਹਰੁ = {ਸੰ: ਪਰਿ-ਹ੍ਰਿ=ਤਿਆਗ ਦੇਣਾ} ਛੱਡ ਦੇਹ। ਲੋਕਾਚਾਰੁ = ਲੋਕਾਂ ਨੂੰ ਹੀ ਵਿਖਾਉਣ ਵਾਲਾ ਕੰਮ, ਵਿਖਾਵਾ, ਲੋਕ-ਪਤੀਆਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

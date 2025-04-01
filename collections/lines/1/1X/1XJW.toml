@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀਆਂ ਚੌਰਾਸੀ ਲੱਖ ਜੂਨਾਂ ਵਿਚੋਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਾਈ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

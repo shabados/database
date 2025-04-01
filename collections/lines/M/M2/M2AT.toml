@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵਾਂ ਦੇ ਪਾਪਾਂ ਦੇ ਢੇਰਾਂ ਦੇ ਢੇਰ ਇਕ ਪਲਕ ਵਿਚ ਨਾਸ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟ = ਕਿਲ੍ਹੇ। ਕੋਟ..ਕੇਰੇ = ਪਾਪਾਂ ਦੇ ਕਿਲ੍ਹਿਆਂ ਦੇ ਕਿਲ੍ਹੇ, ਪਾਪਾਂ ਦੇ ਢੇਰਾਂ ਦੇ ਢੇਰ। ਖੋਵੈ = ਨਾਸ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

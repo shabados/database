@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਪ੍ਰਾਣੀਓ! ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲੇ ਜੰਤ = ਹੇ ਸਾਰੇ ਪ੍ਰਾਣੀਓ! ਗੋਪਾਲੈ = ਗੋਪਾਲ ਨੂੰ, ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

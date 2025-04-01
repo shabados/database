@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਸਾਰੇ ਜਗਤ ਵਿਚ ਵਰਤ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੋਇ = ਜਗਤ ਵਿਚ {ਅਧਿਕਰਣ ਕਾਰਕ, ਇਕ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

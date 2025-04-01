@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਮਨ ਦੇ ਮੁਰੀਦਾਂ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿਅਰਥ ਗਵਾ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖਿ = ਮਨ ਦੇ ਮੁਰੀਦ ਬੰਦਿਆਂ ਨੇ। ਬਿਰਥਾ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

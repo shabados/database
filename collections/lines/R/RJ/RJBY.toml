@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਪੜਦਾ ਨਹੀਂ ਟੁੱਟੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਟਲ = ਪੜਦਾ, ਮਾਇਆ ਦਾ ਪੜਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

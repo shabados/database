@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ-) ਕਸੁੰਭੇ ਦੇ ਰੰਗਾਂ ਵਿਚ ਅਤੇ (ਮਾਇਆ ਸੰਬੰਧੀ) ਸੁਖਦਾਈ ਸੋਹਣੇ ਬੋਲਾਂ ਵਿਚ ਮਸਤ ਰਿਹਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖੇਣ = ਸੁਖਦਾਈ। ਬੈਣ ਰਤਨੰ = ਬੋਲ ਰੂਪ ਰਤਨ (वचन, वअण)। ਰਚਨੰ = ਮਸਤ ਹੋਣਾ। ਕਸੁੰਭ ਰੰਗਣਃ = (ਮਾਇਆ-) ਕਸੁੰਭੇ ਦੇ ਰੰਗਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

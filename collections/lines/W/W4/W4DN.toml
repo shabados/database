@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਇੱਕ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ; ਉਹੀ ਵਾਸ਼ਨਾ-ਰਹਿਤ ਅਵਸਥਾ (ਦੇਣ ਵਾਲਾ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਦੁ = ਦਰਜਾ, ਮੁਕਾਮ। ਨਿਰਬਾਨੁ = ਵਾਸ਼ਨਾ ਰਹਿਤ, ਜਿੱਥੇ ਦੁਨੀਆ ਦੀ ਕੋਈ ਵਾਸ਼ਨਾ ਨ ਫੁਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

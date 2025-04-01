@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਨੇ) ਮਾਇਆ ਦਾ ਮੋਹ (ਆਪ ਹੀ) ਪੈਦਾ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਗਲਿ = ਮੰਗਲ (ਵਾਰ) ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

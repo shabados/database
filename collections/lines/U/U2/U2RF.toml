@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਖ਼ਲਕਤ ਦੀ) ਸੇਵਾ, ਸੰਤੋਖ (ਵਾਲਾ ਜੀਵਨ)-ਇਹ ਦੋਵੇਂ ਛੈਣੇ ਵੱਜਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤੁ = ਦਾਨ, ਸੇਵਾ। ਤਾਲ = ਛੈਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

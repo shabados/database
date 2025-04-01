@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਹੜਾ ਮਨੁੱਖ ਆਤਮਕ ਸ਼ਾਂਤੀ ਵਾਸਤੇ ਜੀਭ ਨਾਲ) ਨਹੀਂ ਬੋਲਦਾ, ਮੋਨਧਾਰੀ ਬਣ ਕੇ ਬੈਠ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਨੀ = ਮੋਨਧਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

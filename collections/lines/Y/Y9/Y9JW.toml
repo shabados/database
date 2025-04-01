@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਸੰਤ ਜਨੋ! ਸੁਣੋ, ਹੁਣ ਅਜਿਹੀ ਹਾਲਤ ਬਣ ਰਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬ = ਹੁਣ (ਜਦੋਂ ਰਾਮ ਦੇ ਨਾਮ ਦੀ ਘਾਟੀ ਚੜ੍ਹਨੀ ਸ਼ੁਰੂ ਕੀਤੀ)। ਐਸੀ ਬਨਿ ਆਈ = ਅਜਿਹੀ ਹਾਲਤ ਬਣ ਗਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

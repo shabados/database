@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! ਉਸ ਇਕ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਦਾਤਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਏਕੀ ਬਾਹਰਾ = ਇਕ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

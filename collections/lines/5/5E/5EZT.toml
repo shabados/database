@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

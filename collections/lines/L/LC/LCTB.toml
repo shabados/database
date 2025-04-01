@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਾਰੇ ਸਰੀਰਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਤਿਪਾਲ = ਪਾਲਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਪ੍ਰਭੂ) ਆਪ ਜਗਤ ਪੈਦਾ ਕਰਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਇਸ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਦਨੀ = ਧਰਤੀ। ਸਾਰ = ਸੰਭਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

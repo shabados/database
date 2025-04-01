@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਵੇਖੋ, ਮਾਇਆ ਧਾਰੀ ਦੀ ਮੰਦ-ਭਾਗਤਾ! ਉਸ ਦੇ) ਮਨ ਦੀ ਆਸ ਮਨ ਵਿਚ ਹੀ ਰਹਿ ਗਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਹਿ = ਵਿਚ। ਰਹੀ = ਰਹਿ ਗਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

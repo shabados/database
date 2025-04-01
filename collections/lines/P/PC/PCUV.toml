@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਮੇਹਰ ਕਰ ਕੇ ਜਿਸ ਨੂੰ ਆਪਣੇ ਸੇਵਕਾਂ ਦਾ ਦਾਸ ਬਣਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਨਿ ਦਾਸ = ਦਾਸਾਂ ਦਾ ਦਾਸ, ਸੰਤ ਜਨਾਂ ਦਾ ਸੇਵਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

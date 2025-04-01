@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨ ਨਾਮ ਸਿਮਰਨ ਵਿਚ ਗਿੱਝ ਜਾਏ ਤਾਂ (ਅਜੇਹੇ ਮਨੁੱਖ ਦੀ) ਸਾਰੀ ਕੁਲ ਸਾਰਾ ਪਰਵਾਰ (ਭਵਜਲ ਵਿਚੋਂ) ਬਚ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਲੁ = ਖ਼ਾਨਦਾਨ। ਉਧਰੈ = (ਭਵਜਲ ਤੋਂ) ਬਚ ਨਿਕਲਦਾ ਹੈ। ਸਬਾਇਆ = ਸਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

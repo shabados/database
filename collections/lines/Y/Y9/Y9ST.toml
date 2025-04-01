@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੁਹਾਡਾ ਮੁਖੜਾ ਉਹ ਪਵਿੱਤ੍ਰ ਕਿਤਾਬ ਹੈ ਜੋ ਹਰ ਹਾਲ ਵਿਚ ਹਰ ਇੱਕ ਦੀ ਰਾਖੀ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਸਹਫ਼ਿ ਰੂਇ ਤੂ ਹਾਫ਼ਿਜ਼ ਹਮਾ ਰਾ ਹਮਾ ਦਰ ਹਾਲ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

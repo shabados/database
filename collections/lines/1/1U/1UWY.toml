@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਜੀਵ ਤੈਨੂੰ ਜਪਦੇ ਹਨ, ਅੰਤ ਵੇਲੇ ਮੌਤ ਦਾ ਸਹਮ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨ = ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ। ਨਿਦਾਨਾ = ਅੰਤ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

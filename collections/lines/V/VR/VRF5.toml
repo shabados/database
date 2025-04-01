@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਅੰਦਰ ਮਾਨੋ, ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਆ ਜਾਂਦੇ ਹਨ ॥੪॥੩੪॥੧੦੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ। ਨਿਧਾਨਾ = ਖ਼ਜ਼ਾਨੇ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਾਡੀ ਹਸਤੀ ਤਾਣ ਇਕ ਵਡੀ ਬਲਾ ਸੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਸਤੀਏ ਖ਼ੇਸ਼ਤਨ ਬਲਾ ਬੂਦ ਅਜ਼ੀਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

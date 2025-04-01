@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਜਦੋਂ) ਮੀਂਹ ਪਿਆ (ਜਦੋਂ) ਪਰਮੇਸ਼ਰ ਨੇ ਮੀਂਹ ਪਾਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮੇਸਰਿ = ਪਰਮੇਸਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

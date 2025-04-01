@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਰਨ ਤੇ) ਕੋਈ ਸਾੜੇ ਜਾਂਦੇ ਹਨ, ਕੋਈ ਦੱਬੇ ਜਾਂਦੇ ਹਨ, ਇਕਨਾਂ ਨੂੰ ਕੁੱਤੇ ਖਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਝਹਿ = ਸਾੜੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

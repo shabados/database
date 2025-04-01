@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖੋ ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ ਪ੍ਰਭਾਵ! ਜਦੋਂ ਕਿਸੇ ਘਰ ਵਿਚ ਕੋਈ) ਬਾਲਕ ਮਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੀਲਾ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

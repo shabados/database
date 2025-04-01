@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਅੰਦਰੋਂ) ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ, ਅਹੰਕਾਰ ਦੀ ਮਸਤੀ ਤੇ ਭੈੜੀਆਂ ਵਾਸ਼ਨਾ ਦੂਰ ਕਰ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਦ = ਅਹੰਕਾਰ ਦੀ ਮਸਤੀ। ਦੁਸਟ = ਭੈੜੀਆਂ। ਨਿਵਾਰਿ = ਦੂਰ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

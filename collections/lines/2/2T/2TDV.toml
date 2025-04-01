@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਦਿਨ ਤੋਂ ਜ਼ਰੂਰ ਰਾਤ ਪੈ ਜਾਇਗੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਸਰਪਰ = ਜ਼ਰੂਰ। ਪਉਸੀ = ਪਏਗੀ। ਰੈਣਿ = ਰਾਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

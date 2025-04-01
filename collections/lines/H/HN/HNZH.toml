@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਕ ਇਸ ਮਨੁੱਖ ਨੇ (ਦੁਨੀਆ ਨਾਲ) ਆਪਣਾ ਮੋਹ ਪੱਕਾ ਕੀਤਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਧਿਓ = ਬੰਨ੍ਹ ਲਿਆ, ਪੱਕਾ ਕਰ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

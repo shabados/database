@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨਮੁਖ ਦੁੱਖ ਵਿਚ ਜੰਮਦਾ ਹੈ, ਦੁੱਖ ਵਿਚ ਮਰਦਾ ਹੈ, ਉਸ ਦੀ ਸਾਰੀ ਉਮਰ \"ਮੈਂ; ਮੈਂ\" ਕਰਦਿਆਂ ਗੁਜ਼ਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖਿ = ਦੁੱਖ ਵਿਚ। ਵਿਹਾਇ = ਬੀਤਦੀ ਹੈ (ਉਮਰ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

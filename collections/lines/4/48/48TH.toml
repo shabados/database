@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ (ਮਿਥੇ ਹੋਏ) ਧਾਰਮਿਕ ਕਰਮ ਸਾਰੇ ਜੱਗ-ਹੋਮ ਭੇਟਾ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਪਉ = ਮੈਂ ਭੇਟਾ ਕਰ ਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

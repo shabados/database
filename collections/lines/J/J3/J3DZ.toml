@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸਰ ਦਾ ਆਸਰਾ ਲਿਆ, ਉਸ ਦਾ ਜਨਮ ਮਰਨ (ਦਾ ਗੇੜ) ਮੁੱਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਾ ਗਵਨ = ਆਉਣਾ ਜਾਣਾ, ਜਨਮ ਮਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

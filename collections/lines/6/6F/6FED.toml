@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਗ਼ੁਲਾਮ ਮੰਡੀ ਵਿਚੋਂ ਖ਼ਰੀਦਿਆ ਹੋਇਆ ਹੋਵੇ, ਉਸ (ਗ਼ੁਲਾਮ) ਦੀ (ਆਪਣੇ ਮਾਲਕ ਦੇ ਸਾਹਮਣੇ) ਕੋਈ ਚਾਲਾਕੀ ਨਹੀਂ ਚੱਲ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਲਾ = ਗ਼ੁਲਾਮ। ਹਾਟਿ = ਹੱਟ ਤੇ, ਮੰਡੀ ਵਿਚੋਂ। ਵਿਹਾਝਿਆ = ਖ਼ਰੀਦਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

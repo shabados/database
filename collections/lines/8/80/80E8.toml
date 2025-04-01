@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰ ਕੇ (ਮਨੁੱਖ ਦਾ ਤਨ ਮਨ) ਖਿੜ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਨਿਹਾਲ = ਪ੍ਰਸੰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

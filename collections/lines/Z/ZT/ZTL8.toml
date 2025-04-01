@@ -36,6 +36,12 @@ language = "pa"
 data = "ਐਸ ਵੇਲੇ ਭੀ ਮੌਜੂਦ ਹੈ, ਹੇ ਨਾਨਕ! ਅਗਾਂਹ ਨੂੰ ਭੀ ਸਦਾ ਕਾਇਮ ਰਹੇਗਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਹੋਸੀ = ਹੋਵੇਗਾ, ਰਹੇਗਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

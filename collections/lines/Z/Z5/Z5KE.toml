@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ! ਮੇਰਾ) ਉਹ (ਪਤੀ) ਕਦੇ ਮਰਨ ਵਾਲਾ ਨਹੀਂ, ਅਪਹੁੰਚ ਤੇ ਬੇਅੰਤ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਹੁ = ਉਹ ਪ੍ਰਭੂ-ਪਤੀ। ਅਗਮ = ਅਪਹੁੰਚ। ਅਪਾਰ = ਬੇਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

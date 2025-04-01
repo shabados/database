@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਅਨੇਕਾਂ ਹੀ ਦਾਸ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਕਰਹਿ = ਕਰਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

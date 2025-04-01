@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸ਼ਰਮ ਕਰ, ਕੁਝ ਸ਼ਰਮ ਕਰ, ਤੂੰ ਸ਼ਰਮ ਕਰ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਰਮ ਕੁਨ ਹਾਣ ਸ਼ਰਮ ਕੁਨ ਹਾਣ ਸ਼ਰਮ ਕੁਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

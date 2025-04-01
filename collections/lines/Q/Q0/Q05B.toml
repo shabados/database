@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਜੀਵਨ ਦਾ ਅਸਲੀ ਫਲ ਗੁਰੂ ਕੋਲ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਸਿਲਿ ਈਂ ਉਮਰ ਪੇਸ਼ਿ ਮੁਰਸ਼ਿਦ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

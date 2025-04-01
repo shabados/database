@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਹਰਿ-ਨਾਮ ਜਪ ਕੇ (ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਸਕੀਦਾ ਹੈ।) ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡਭਾਗੀ = ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

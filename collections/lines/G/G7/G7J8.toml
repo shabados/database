@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ) ਰਾਜੇ ਪਾਤਿਸ਼ਾਹ ਕੰਗਾਲ ਹੋ ਜਾਂਦੇ ਹਨ। ਉਹਨਾਂ ਰਾਜਿਆਂ ਨੇ ਤਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਝੂਠ ਹੀ ਰਾਜੇ ਅਖਵਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਉ = ਰਾਜਾ। ਰੰਕਾ = ਕੰਗਾਲ। ਉਨਿ = ਉਹਨਾਂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

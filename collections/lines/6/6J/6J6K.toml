@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਮਿਹਰ ਦਾ ਸਦਕਾ ਸਾਰੇ ਗੁਨਾਹਗਾਰਾਂ ਨੂੰ ਮੁਕਤੀ ਪਰਾਪਤ ਹੋ ਗਈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੁਫ਼ੈਲਸ਼ ਹਮਾ ਮੁਜਰਮਾਂ ਰਾ ਨਜਾਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

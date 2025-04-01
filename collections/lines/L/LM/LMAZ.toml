@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜਾ ਮਨੁੱਖ ਇਸ (ਮੇਰ-ਤੇਰ ਨੂੰ) ਮੁਕਾ ਲੈਂਦਾ ਹੈ, ਉਹੀ (ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਬਲੀ ਸੂਰਮਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਾ = ਸੂਰਮਾ, ਬਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

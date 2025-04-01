@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਣ ਹੀ ਪ੍ਰੇਮੀ ਤਲੀ ਤੇ ਜਾਨ ਰੱਖੀ ਉਸ ਦੇ ਰਾਹ ਉਤੇ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਦ ਹਜ਼ਾਰਾਣ ਜਾਣ ਬ-ਕਫ਼ ਦਰ ਰਾਹਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

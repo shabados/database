@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨਾ। ਕ੍ਰਿਪਾ ਨਿਧਾਨ = ਹੇ ਦਇਆ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

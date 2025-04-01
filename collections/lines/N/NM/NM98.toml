@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦਾ ਟਿਕਾਣਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਸ ਦੇ ਖ਼ਜ਼ਾਨੇ (ਭੀ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਲੁ = ਪਰਮਾਤਮਾ ਦਾ ਟਿਕਾਣਾ। ਸਚੇ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ। ਭੰਡਾਰਾ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

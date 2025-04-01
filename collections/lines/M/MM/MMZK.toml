@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਜਪਿਆਂ ਤੇਰੇ) ਸਾਰੇ ਵੈਰੀ (ਤੇਰੇ) ਮਿੱਤਰ ਬਣ ਜਾਣਗੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

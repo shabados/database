@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਨਸਾਫ ਅਤੇ ਮੁਹੱਬਤ ਦੇ ਮੁਖੜੇ ਦੀ ਰੌਣਕ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁਖ਼ਿ ਮਿਹਰੋ ਇਨਸਾਫ਼ ਰਾ ਇੰਜਲਾ ।੧੦੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

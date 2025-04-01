@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋਹਾਂ ਜਹਾਨਾਂ ਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦਾ ਨਗਾਰਾ ਵਜਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਦੋ ਆਲਮ ਕੌਸਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੨੧।"
+page = 10
+line = 121
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

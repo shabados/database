@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰਾ ਰਾਜ ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਇਹ ਕਦੇ ਭੀ ਨਾਸ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਹਚਲੁ = ਅਟੱਲ। ਨ ਜਾਵਏ = ਨ ਜਾਵੈ, ਨਹੀਂ ਜਾਂਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

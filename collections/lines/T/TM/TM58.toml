@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀਏ! ਤੂੰ ਗੁਰੂ ਦੇ ਪ੍ਰੇਮ ਵਿਚ (ਰਹਿ ਕੇ ਜੀਵਨ-ਸਫ਼ਰ ਤੇ) ਤੁਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁੰਧੇ = ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀਏ! ਭਾਇ = ਪ੍ਰੇਮ ਵਿਚ। ਭਾਉ = ਪ੍ਰੇਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

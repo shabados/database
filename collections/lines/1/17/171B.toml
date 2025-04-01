@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਮਦੇਵ ਦੇ ਖਸਮ! ਹੇ ਹਰੀ! ਤੂੰ ਸਭ ਬਖ਼ਸ਼ਸ਼ਾਂ ਕਰਨ ਵਾਲਾ ਹੈਂ ॥੩॥੧॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚ = ਦਾ। ਚੇ = ਦੇ। ਚੀ = ਦੀ। ਨਾਮੇ ਚੇ = ਨਾਮੇ ਦੇ। ਨਾਮੇ ਚੇ ਸੁਆਮੀ = ਹੇ ਨਾਮਦੇਵ ਦੇ ਸੁਆਮੀ! ॥੩॥੧॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

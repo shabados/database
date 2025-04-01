@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਮਿਲਾ ਲਿਆ ਹੈ, ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਮੇਲਿ = ਮਿਲਾਪ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

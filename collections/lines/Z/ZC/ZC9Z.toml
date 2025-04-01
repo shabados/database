@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣਾ ਖਿਲਾਰਾ ਉਸ ਨੇ ਆਪ ਹੀ ਬਣਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਥਾਰੁ = ਖਿਲਾਰਾ। ਆਪਨ = ਆਪਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

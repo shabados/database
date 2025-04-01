@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸਿਪਾਹੀ ਹਰਿ-ਨਾਮ ਦੀ ਖੱਟੀ ਖੱਟ ਕੇ ਮਾਲਕ ਦੀ (ਰਜ਼ਾ-ਰੂਪ) ਕਾਰ ਸਿਰ ਤੇ ਕਮਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਧਣੀ = ਮਾਲਕ ਦੀ। ਪਲੈ ਪਾਇ = ਹਾਸਲ ਕਰ ਕੇ, ਖੱਟ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

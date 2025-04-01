@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ) ਤ੍ਰੈ-ਗੁਣੀ (ਸੰਸਾਰ) (ਮਾਨੋ) ਇਕ ਅੱਤ ਡੂੰਘਾ ਸਮੁੰਦਰ ਹੈ, ਇਸ ਦੀ ਹਾਥ ਕਿਸ ਨੇ ਲੱਭੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣੀ = ਤ੍ਰੈਗੁਣੀ, ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਵਾਲਾ। ਕਿਨਿ = ਕਿਸ ਨੇ? ਕਿਸੇ ਵਿਰਲੇ ਨੇ। ਹਾਥਾਲਾ = ਹਾਥ, ਥਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

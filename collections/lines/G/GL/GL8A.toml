@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਗੁਣ ਗਾਂਦਾ ਰਿਹਾ ਕਰ। (ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਸਾਰੇ ਰੋਗ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਕੇ = ਸੋਹਣੇ, ਚੰਗੇ। ਗਾਉ = ਗਾ, ਗਾਇਆ ਕਰ। ਮਿਟਹੀ = ਮਿਟਹਿ, ਮਿਟ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

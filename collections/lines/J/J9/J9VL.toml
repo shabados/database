@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਭਟਕਣਾ ਤੋਂ ਬਚ ਕੇ) ਆਪਣੇ ਆਪ ਵਿਚ ਟਿਕ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ ਆਵੈ = (ਉਹ ਮਨੁੱਖ) ਭਟਕਣਾ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ, ਟਿਕ ਜਾਂਦਾ ਹੈ,। ਘਰਿ = ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

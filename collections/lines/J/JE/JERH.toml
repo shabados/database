@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕ ਦੇ ਚਰਨਾਂ ਉਤੇ ਆਪਣਾ ਸਿਰ ਰੱਖ ਦੇ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਮਸਕਾਰਹੁ = ਨਮਸਕਾਰ ਕਰੋ, ਆਪਣਾ ਸਿਰ ਨਿਵਾਓ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

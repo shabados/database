@@ -5,6 +5,11 @@ language = "pa"
 data = "ਵਾਹ ਵਾਹ ਉਸ ਕੁਦਰਤ ਤੋਂ ਜਿਹੜੀ ਸੱਚ ਦਾ ਫਲ ਲਿਆਉਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਕੁਦਰਤ ਕਿ ਹੱਕ ਬਾਰ ਆਵੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

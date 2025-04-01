@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੈਨੂੰ ਇਉਂ ਹੀ ਚੰਗਾ ਲੱਗਾ ਹੈ ਕਿ ਜੀਵਾਤਮਾ ਮਾਇਆ ਦੇ ਟਾਕਰੇ ਤੇ ਹਾਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਈਆ = ਚੰਗੀ ਲੱਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

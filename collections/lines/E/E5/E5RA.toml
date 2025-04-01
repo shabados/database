@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ ਤੁਸੀ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਉਗੇ ॥੪॥੪੨॥੫੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ ॥੪॥੪੨॥੫੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

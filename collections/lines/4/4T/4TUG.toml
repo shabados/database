@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਦ ਤਕ ਤੂੰ ਗ਼ਮ ਦੀ ਸਦੀਵੀ ਕੈਦ ਵਿਚ ਪਿਆ ਰਹੇਣਗਾ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਕੈ ਦਰ ਬੰਦਿ ਗ਼ਮ ਬਾਸ਼ੀ ਮਦਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

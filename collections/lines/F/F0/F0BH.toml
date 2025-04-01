@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪ ਹੀ ਜੋਗ ਦੀ ਸਾਧਨਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਆਪ ਹੀ ਭੋਗਾਂ ਵਿਚ ਪਰਵਿਰਤ ਹੈ ਤੇ ਆਪ ਹੀ ਸੰਨਿਆਸੀ ਬਣ ਕੇ ਉਜਾੜਾਂ ਵਿਚ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਬਾਣੀ = ਉਜਾੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

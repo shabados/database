@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਤਣੇ ਹੋਏ ਆਕਾਸ਼ ਬਣਾ ਕੇ ਇਕ ਪਲਕ ਵਿਚ ਨਾਸ ਕਰ ਕੇ (ਮੁੜ) ਬਣਾਣ ਦੇ ਸਮਰੱਥ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਡਾਣੇ = ਅੱਡੇ ਹੋਏ, ਤਣੇ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

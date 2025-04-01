@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ (ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ) ਸਿਮਰਾਂ ਤੇ ਸਿਮਰ ਸਿਮਰ ਕੇ ਸੁਖ ਹਾਸਲ ਕਰਾਂ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਉ = ਮੈਂ ਸਿਮਰਾਂ। ਸਿਮਰਿ = ਸਿਮਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

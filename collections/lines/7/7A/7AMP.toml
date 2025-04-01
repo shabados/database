@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਵਡ-ਭਾਗੀ) ਬੰਦੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਪਸੰਦ ਆਉਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = {ਬਹੁ-ਵਚਨ} ਉਹ। ਭਾਣੇ = ਪਸੰਦ ਆਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

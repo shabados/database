@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਰੱਬੀ ਗਿਆਨ ਦੇ ਬਾਗ ਚੋਣ ਸੁੰਦਰ ਫੁਲ ਤੋੜਨਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਲ ਜ਼ਿ ਬਾਗ਼ਿ ਮਾਅਰਫ਼ਤ ਬਰ-ਚੀਦਨ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

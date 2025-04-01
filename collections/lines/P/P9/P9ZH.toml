@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵਾਂ ਦੇ ਮਨ ਮੋਤੀ ਹਨ, (ਕਿਸੇ ਨੂੰ ਭੀ) ਦੁਖਾਣਾ ਉੱਕਾ ਹੀ ਚੰਗਾ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਹਣੁ = ਢਾਹਣਾ, ਦੁਖਾਣਾ। ਮੂਲਿ = ਉੱਕਾ ਹੀ। ਮਚਾਂਗਵਾ = ਚੰਗਾ ਨਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

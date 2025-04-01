@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਮੇਰੇ ਸਾਹਿਬ!) ਮੇਰੀ ਜਿੰਦ ਅੱਗ ਵਾਂਗ ਤਪ ਰਹੀ ਹੈ, ਮੇਰੇ ਅੰਦਰ ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਛੁਰੀ ਚੱਲ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਗੈ = ਚੱਲ ਰਹੀ ਹੈ। ਕਾਤੀ = ਛੁਰੀ, ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਛੁਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

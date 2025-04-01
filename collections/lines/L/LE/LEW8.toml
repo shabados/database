@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਿਰ ਤਾਣ ਰੱਬ ਨੂੰ ਮੱਥਾ ਟੇਕਣ ਲਈ ਹੀ ਪੈਦਾ ਕੀਤਾ ਗਿਆ ਸੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰ ਬਰਾਇ ਸਿਜਦਾ ਪੈਦਾ ਕਰਦਾ ਅੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

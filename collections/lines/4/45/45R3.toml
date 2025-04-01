@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਤੋਂ ਰਹਿਤ ਅਕਾਲ ਪੁਰਖ ਦੀ ਸੇਵਾ ਕਰ ਕੇ ਉਸ ਦਾ ਨਾਮ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰੰਜਨੁ = ਅੰਜਨ-ਰਹਿਤ, ਮਾਇਆ ਤੋਂ ਰਹਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗ਼ਾਫ਼ਲ ਮਨੁੱਖ) ਚੰਗੇ ਕੰਮਾਂ ਵਿਚ ਆਲਸ ਕਰਦਾ ਹੈ ਤੇ ਭੈੜੇ ਕੰਮਾਂ ਵਿਚ ਸ਼ੇਰ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਲਕੁ = ਆਲਸ। ਸੇਰੁ = ਭਾਵ, ਦਲੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

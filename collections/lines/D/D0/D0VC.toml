@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕਾਂ ਉਤੇ) ਵਧੀਕੀਆਂ ਕਰ ਕਰ ਕੇ ਮਾਲ-ਧਨ ਭੀ ਜੋੜ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਰਥ = ਧੱਕੇ, ਪਾਪ। ਵਿਹਾਝੀ = ਇਕੱਠੀ ਕਰ ਲਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

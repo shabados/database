@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮਾਦਿਕ ਪੰਜਾਂ ਨੂੰ ਵੱਸ ਕਰਨ ਤੋਂ ਬਿਨਾ ਮਨ ਮਾਰਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸਿ = ਵੱਸ ਵਿਚ। ਪੰਚ = ਕਾਮਾਦਿਕ ਪੰਜੇ। ਚੂਰੇ = ਮਾਰਿਆ ਜਾ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

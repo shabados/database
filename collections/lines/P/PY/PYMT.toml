@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਕੌਣ ਮਾਂ, ਪਿਉ, ਮਿਤ੍ਰ, ਪੁਤ੍ਰ ਜਾਂ ਭਰਾ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁਤ੍ਰ। ਭਾਈ = ਭਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਹੀਣ, ਸਗੋਣ ਜਹਾਨ ਦਾ ਸੂਰਜ ਵੀ ਤੇਰਾ ਗੁਲਾਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਲਕਿ ਖ਼ੁਰਸ਼ੀਦਿ ਜਹਾਣ ਹਮ ਬੰਦਾ ਅਸਤ ।੯।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

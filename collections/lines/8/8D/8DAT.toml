@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂਹੀਏਂ) ਹੇ ਮੇਰੇ ਸ਼ਾਹ! ਹੇ ਮੇਰੇ ਸਤਿਗੁਰੂ! ਮੈਂ (ਤੇਰੇ ਪਾਸੋਂ) ਹਰਿ-ਨਾਮ ਦੀ ਪੂੰਜੀ ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਜੀ = ਪੂੰਜੀ, ਸਰਮਾਇਆ। ਚਾਹੀ = ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਸਾਹਾ = ਹੇ ਮੇਰੇ ਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

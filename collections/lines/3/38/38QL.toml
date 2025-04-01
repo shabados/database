@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਰੋੜਾਂ ਜੀਵ ਲੰਮੀਆਂ ਉਮਰਾਂ ਵਾਲੇ ਪੈਦਾ ਕੀਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਰ ਜੀਵੇ = ਚਿਰ ਤਕ ਜੀਊਣ ਵਾਲੇ, ਲੰਮੀਆਂ ਉਮਰਾਂ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

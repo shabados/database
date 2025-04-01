@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸ, ਹੇ ਪੰਡਿਤ! ਤੁਸੀ ਬ੍ਰਾਹਮਣ ਕਦੋਂ ਦੇ ਬਣ ਗਏ ਹੋ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੁ = ਦੱਸ। ਰੇ = ਹੇ! ਕਬ ਕੇ ਹੋਏ = ਕਦੋਂ ਦੇ ਬਣ ਗਏ ਹਨ (ਭਾਵ, ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਤਾਂ ਸਭ ਜੀਵ ਇੱਕੋ ਜਿਹੇ ਹੁੰਦੇ ਹਨ, ਬਾਹਰ ਆ ਕੇ ਤੁਸੀ ਕਦੋਂ ਦੇ ਬ੍ਰਾਹਮਣ ਬਣ ਗਏ ਹੋ?)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਉਮਰ ਦੀ ਗੋਦੀ ਵਿਚ ਜਵਾਨ ਤੋਣ ਬੁੱਢਾ ਹੋ ਗਿਆ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਅਜ਼ ਜਵਾਣ ਕਿ ਪੀਰ ਸ਼ੁਦਮ ਦਰ ਕਿਨਾਰਿ ਉਮਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

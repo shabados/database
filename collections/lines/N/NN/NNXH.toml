@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦਾ ਮੋਹ ਢੋਲਕੀ ਹੈ-ਇਹ ਵਾਜੇ ਵੱਜ ਰਹੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੋਲਕ = ਢੋਲਕੀ। ਦੁਨੀਆ = ਦੁਨੀਆ ਦਾ ਮੋਹ। ਵਾਜਹਿ = ਵੱਜ ਰਹੇ ਹਨ। ਵਾਜ = ਵਾਜੇ, ਸਾਜ। ਨਾਰਦੁ = ਮਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

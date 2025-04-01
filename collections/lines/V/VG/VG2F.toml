@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਚਾਉ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ ਕਿ ਮੈਂ ਕਿਵੇਂ ਹਰਿ-ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਤਨਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

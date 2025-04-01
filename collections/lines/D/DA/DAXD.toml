@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਖ਼ਜ਼ਾਨਾ ਵੱਸਦਾ ਹੈ, ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਨਾਮ ਹੀ ਉੱਘੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

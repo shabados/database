@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਸ਼ਬਦ ਦਾ ਸੂਰਮਾ ਹੈਂ ਤੇ ਬਲਵਾਨ ਹੈਂ, ਕਾਮ ਅਤੇ ਕ੍ਰੋਧ ਨੂੰ ਤੂੰ ਨਾਸ ਕਰ ਦੇਂਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦ ਸੂਰ = ਸ਼ਬਦ ਦਾ ਸੂਰਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

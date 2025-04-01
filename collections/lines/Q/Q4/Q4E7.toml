@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅੱਖ ਦੀ ਪੁਤਲੀ ਵਿਚ ਉਸ ਦਾ ਜਲਵਾ ਇੱਤਨਾ ਸਮਾ ਗਿਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰੂਨਿ ਮਰਦੁਮਿ ਚਸ਼ਮ ਜ਼ਿ ਬਸ ਕਿ ਜਲਵਾ ਗਰਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

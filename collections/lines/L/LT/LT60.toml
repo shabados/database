@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤੇ ਜਿਸ ਕਿਸੇ ਨੂੰ ਮੈਂ ਕਰੋਪ ਨਾਲ ਕੁਰਾਹੇ ਪਾ ਦਿਆਂ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਾਂ ਕਿ ਗੁਮਰਾਹ ਸਾਜ਼ਮਸ਼ ਜ਼ਿ ਗ਼ਜ਼ਬ ।"
+page = 1
+line = 33
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

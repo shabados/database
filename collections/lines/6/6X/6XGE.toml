@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਗੁਰਸਿੱਖ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਸੇਵਾ ਕਰਦੇ ਹਨ, ਉਹ ਤੇਰੇ (ਸੇਵਕ) ਬਣ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੋਰ = ਤੇਰੇ। ਸਰੇਵਹਿ = ਸੇਵਾ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

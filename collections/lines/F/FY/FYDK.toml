@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰਮੁਖ ਮਿਲਾ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਮਿਲ ਕੇ ਮੈਂ ਤੇਰਾ ਰਾਹ ਪੁੱਛਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਜਣ = ਗੁਰਮੁਖ। ਮਿਲਿ = ਮਿਲਿ ਕੇ। ਪੰਥੁ = ਰਾਹ। ਦਸਾਈ = ਮੈਂ ਪੁੱਛਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

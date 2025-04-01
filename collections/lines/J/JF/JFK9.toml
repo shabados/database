@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਨੁੱਖ ਦਾ ਮਨ ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਨਾਲ ਜੁੜ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਉ = ਨਾਲ। ਮਾਨੁ = ਮਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਬੰਦੇ ਤਪੀ ਬਣੇ ਹੋਏ ਹਨ, ਜੰਗਲਾਂ ਵਿਚ (ਜਾ ਕੇ) ਤਪ ਸਾਧ ਰਹੇ ਹਨ, ਤੇ ਸਦਾ ਤੀਰਥਾਂ ਉਤੇ ਨਿਵਾਸ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = ਕਈ {ਨੋਟ: ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਤੀਰਥ = ਤੀਰਥਾਂ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

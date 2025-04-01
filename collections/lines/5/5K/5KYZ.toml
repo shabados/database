@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੇ ਮਿਲਿਆਂ ਮਨ ਵਿਚ ਆਨੰਦ ਪੈਦਾ ਹੋ ਜਾਏ, ਉਸ ਨੂੰ ਹੀ ਗੁਰੂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਹਰੇਕ ਚੀਜ਼ ਦਿੱਤੀ ਹੈ ਜੇਹੜਾ ਮਨੁੱਖ ਉਸ ਨੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

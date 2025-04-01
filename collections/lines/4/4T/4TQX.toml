@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨਾਲ ਮਿਲਾਪ ਦੀ ਇਸ ਵਿਚਾਰ ਨੂੰ ਉਹ ਮਨੁੱਖ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮ ਬਿਚਾਰੁ = ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਦੀ ਸੋਚ। ਸੁ = ਉਹ ਮਨੁੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

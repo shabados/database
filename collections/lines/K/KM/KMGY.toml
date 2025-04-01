@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਿਹਰ ਕਰ ਕੇ ਗੋਪਾਲ-ਪ੍ਰਭੂ (ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਪਰਗਟ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਪਾਲ = {ਅੱਖਰ 'ਗ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ ਹੈ 'ਗੋਪਾਲ'। ਇਥੇ 'ਗੁਪਾਲ' ਪੜ੍ਹਨਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

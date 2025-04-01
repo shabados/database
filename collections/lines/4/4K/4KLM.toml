@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਉਸ ਸ਼ੋਖ਼ ਅੱਖ ਨੂੰ ਇੱਕ ਨਜ਼ਰੇ ਵੀ ਦੇਖ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਰਾ ਗੋਯਾ ਗ਼ੁਬਾਰਿ ਦਿਲ ਨਿਸ਼ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅਬਿਨਾਸੀ! ਹੇ ਅਦ੍ਰਿਸ਼ਟ! ਹੇ ਅਗੋਚਰ! (ਜਗਤ ਦੀ) ਹਰੇਕ ਸ਼ੈ ਤੇਰੇ ਹੀ ਆਸਰੇ ਹੈ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਬਗਤ = {अव्यक्त} ਅਦ੍ਰਿਸ਼ਟ। ਅਗੋਚਰ = ਹੇ ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਰਹਿਣ ਵਾਲੇ! ਲਗਾ = ਆਸਰੇ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

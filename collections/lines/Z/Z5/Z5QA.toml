@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਾਤਾਲ ਤੋਂ ਲੈਕੇ ਸਤਵੇਂ ਅਸਮਾਨ ਤਕ ਸਾਰੇ ਉਸਦੇ ਹੁਕਮ ਨੂੰ ਮੰਨਣ ਵਾਲੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਰਾ ਤਾ ਸਮਾ ਜੁਮਲਾ ਫ਼ਰਮਾਂ-ਬਰਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

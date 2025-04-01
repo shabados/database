@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਜੋ ਅੰਤ ਸਮੇਂ (ਮੌਤ ਦੇ ਡਰ ਤੋਂ) ਛੁਡਾ ਲੈਂਦਾ ਹੈ, ਉਸ ਹਰੀ ਦਾ ਨਾਮ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤੀ ਅਉਸਰਿ = ਅਖ਼ੀਰਲੇ ਮੌਕੇ ਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ (ਨਾਮ-) ਖ਼ਜ਼ਾਨਾ ਮੈਨੂੰ ਗੁਰੂ ਨੇ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਗੁਰਿ = ਗੁਰੂ ਨੇ। ਮੋ ਕਉ = ਮੈਨੂੰ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਦੇ ਸਰੀਰ ਦੇ ਵਿਚ ਹੀ ਨਾਮ-ਪਦਾਰਥ ਹੈ, ਪਰ ਮਨੁੱਖ ਇਸ ਦੀ ਕਦਰ ਨਹੀਂ ਸਮਝਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਇਆ = ਸਰੀਰ। ਵਸਤੁ = ਨਾਮ-ਪਦਾਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ (ਜ਼ਿੰਦਗੀ ਰੂਪੀ) ਪੈਂਡੇ ਦੇ ਕੋਹ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ = ਜਿਸ। ਮਾਰਗ = ਰਾਹ, ਪੈਂਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

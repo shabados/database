@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਦੇ ਮਿਲਾਪ ਨੂੰ ਮਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹਿ = ਦਿਨ। ਨਿਸਿ = ਰਾਤ। ਰਾਵੇ = ਮਾਣਦਾ ਹੈ। ਭਗਤਿ ਜੋਗੁ = ਭਗਤੀ ਦੀ ਰਾਹੀਂ ਹੋਇਆ ਮਿਲਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

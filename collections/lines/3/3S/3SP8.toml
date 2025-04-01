@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਅਵਸਥਾ ਵਿਚ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਨਿਰਮਲ ਪ੍ਰਭੂ ਆਪ ਹੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੁਰਖੁ = ਆਕਾਲ ਪੁਰਖ। ਪੁਰਖਪਤਿ = ਪੁਰਖਾਂ ਦਾ ਪਤੀ, ਜੀਵਾਂ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

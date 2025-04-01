@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਾਹ ਵਾਹ! ਹੇ ਪਿਆਰੇ! ਹੇ ਗੁਰੂ! ਸਦਕੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਹਿ ਗੁਰੂ = ਹੇ ਗੁਰੂ! ਤੂੰ ਅਚਰਜ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

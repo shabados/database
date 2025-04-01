@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਮਨੁੱਖ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜਿਸ ਦਾ ਪਿਆਰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਪੈ ਜਾਂਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਭਾਗਾਂ ਵਾਲਾ। ਜਿਸੁ ਪਿਆਰੁ = ਜਿਸ ਦਾ ਪਿਆਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

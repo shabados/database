@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਆਪਣੇ) ਪੁੱਤਰ, ਧਨ, ਨਗਰ ਸ਼ਹਿਰ ਮੁੜ ਕਦੇ ਆ ਕੇ ਨਹੀਂ ਵੇਖ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੈ = ਉਹ। ਬਿਤ = ਧਨ। ਪੁਰ = ਨਗਰ। ਪਾਟਨ = ਸ਼ਹਿਰ। ਬਹੁਰਿ = ਫਿਰ ਕਦੇ। ਆਇ = ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਅਜੇਹੇ ਬੰਦੇ ਦੀ ਜੰਮਣ ਵਾਲੀ ਮਾਂ (ਬੜੇ) ਭਾਗਾਂ ਵਾਲੀ ਹੈ ॥੪॥੩॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਨੀ = ਮਾਂ, ਜੰਮਣ ਵਾਲੀ। ਧੰਨੀ = ਭਾਗਾਂ ਵਾਲੀ। ਮਾਇ = ਮਾਂ ॥੪॥੩॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

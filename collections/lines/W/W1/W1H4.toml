@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ ਤੇ ਹੇ ਕਬੀਰ! ਸਭ ਰਸਾਂ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਨਾਮ-ਰਸ ਪੀ ॥੪॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਾਇਨ = {ਰਸ-ਅਇਨ। ਅਇਨ = ਅਯਨ, ਘਰ} ਸਭ ਰਸਾਂ ਦਾ ਘਰ, ਨਾਮ-ਅੰਮ੍ਰਿਤ ॥੪॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

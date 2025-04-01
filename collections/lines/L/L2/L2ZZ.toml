@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ! ਤੇਰਾ ਹੁਕਮ ਭੀ ਅਟੱਲ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੇ ਸਾਹਿਬ = ਹੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਮਾਲਕ! ਸਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਫੁਰਮਾਣੁ = ਹੁਕਮ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

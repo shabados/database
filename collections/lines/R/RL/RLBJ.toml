@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਾਂ ਹਰ ਥਾਂ ਰੱਬ ਦੇ ਨੂਰ ਨੂੰ ਮਹਾਂ ਪੁਰਖਾਂ ਦੀ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕੁਜਾ ਦੀਦੇਮ ਅਨਵਾਰਿ ਖ਼ੁਦਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

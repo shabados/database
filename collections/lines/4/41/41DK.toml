@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ ਵਿਖਾਵਾ ਕਿਉਂ ਕਰਦਾ ਹੈਂ? ਜਗਤ ਵਿਚ ਜੋ ਕੁਝ ਪੈਦਾ ਹੋਇਆ ਹੈ ਸਭ ਇਥੋਂ ਚਲੇ ਜਾਣ ਵਾਲਾ ਹੈ (ਨਾਸਵੰਤ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੰਫੁ = ਵਿਖਾਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

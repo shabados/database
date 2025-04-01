@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਅਸਾਂ) ਸ਼ਾਂਤੀ ਹਾਸਲ ਕਰ ਲਈ ਹੈ ਤੇ (ਸਾਡੇ) ਭੁਲੇਖੇ ਤੇ ਭਟਕਣਾ ਮੁੱਕ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥਿਤਿ = ਟਿਕਾਉ, ਸ਼ਾਂਤੀ। ਚੂਕੇ = ਮੁੱਕ ਗਏ। ਭ੍ਰਮ = ਭਰਮ, ਭੁਲੇਖੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰੀ ਲੋਕਾਈ ਉਸ ਦੇ ਪਵਿੱਤ੍ਰ ਨਾਮ ਨੂੰ ਦਿਲ ਜਾਨ ਤੋਂ ਮੰਨਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਫ਼ਿਦਵੀਇ ਨਾਮਿ ਪਾਕਿਸ਼ ਬਜਾਂ ।੩੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

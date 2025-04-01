@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਮਰ ਉਹੀ ਚੰਗੀ ਹੈ, ਜੋ ਰੱਬ ਦੀ ਯਾਦ ਵਿਚ ਗੁਜ਼ਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਉਮਰ ਆਂ ਬਾਸ਼ਦ ਕਿ ਊ ਦਰ ਯਾਦ ਰਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

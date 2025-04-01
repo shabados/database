@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ (ਹੀ) ਆਪਣਾ (ਅਸਲ ਸਾਥੀ ਹੈ ਉਸ ਨਾਲ ਤੂੰ) ਇਕ ਛਿਨ ਵਾਸਤੇ ਭੀ ਜਾਣ-ਪਛਾਣ ਨਹੀਂ ਪਾਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੀਨੋ = ਪਛਾਣਿਆ, ਸਾਂਝ ਪਾਈ। ਖਿਨੂਆ = ਇਕ ਛਿਨ ਵਾਸਤੇ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਰੂਪ ਗੁਰੂ ਨੀਵਿਆਂ ਤੋਂ ਉੱਚੇ ਕਰ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੀਚਹੁ = ਨੀਵੇਂ ਤੋਂ। ਉਚ ਥਪੇ = ਉੱਚੇ ਥਾਪ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

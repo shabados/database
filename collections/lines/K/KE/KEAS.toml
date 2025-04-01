@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਹੈਂ, ਕ੍ਰੋੜਾਂ ਜੀਵ ਤੇਰੇ ਵਣਜਾਰੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੇ = ਜਿਸ ਦੇ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

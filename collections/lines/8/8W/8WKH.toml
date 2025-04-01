@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ) ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਮੇਰੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ, ਮੇਰੀ ਸੁਰਤ ਦਾ ਨਿਸ਼ਾਨਾ ਬਣ ਚੁਕਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੈ ਅੰਤਰਿ = ਮੇਰੇ ਅੰਦਰ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ। ਧਿਆਨੁ = ਮੇਰਾ ਧਿਆਨ, ਮੇਰੀ ਸੁਰਤਿ, ਮੇਰੀ ਸੁਰਤ ਦਾ ਨਿਸ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

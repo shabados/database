@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਦੇ ਰਾਹ ਤੇ ਪੂਰਨ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਤਰੀਕਿ ਬੰਦਗੀ ਬਸ ਕਾਮਿਲ ਅਸਤ ।੨੯੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

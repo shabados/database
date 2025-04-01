@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਹਰ ਵੇਲੇ ਹਰੀ ਦਾ ਨਾਮ ਜਪਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਿਖਿ ਲੀਓ ਸਰੀਰ = ਸਰੀਰ ਉੱਤੇ ਲਿਖ ਲਿਆ ਹੈ, ਜੀਭ ਤੇ ਪ੍ਰੋ ਲਿਆ ਹੈ, ਹਰ ਵੇਲੇ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

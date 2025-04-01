@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਸੀਂ ਇਂਸ ਚਿੰਤਾ ਵਿਚ ਹਾਂ, ਕਿ ਰੱਬ ਕੀ ਕਰਦਾ ਹੈ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਦਰੀਣ ਫ਼ਿਕਰ ਤਾ ਖ਼ੁਦਾ ਚਿਹ ਕੁਨਦ ।੧੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

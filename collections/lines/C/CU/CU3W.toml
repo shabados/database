@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੋਲੇ ਸੁਭਾਉ ਨਾਲ ਮਿਲਦਾ ਹੈ ॥੪॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਲੇ ਭਾਇ = ਭੋਲੇ ਸੁਭਾਉ ਨਾਲ। ਰਘੁਰਾਇਆ = ਪ੍ਰਭੂ ॥੪॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

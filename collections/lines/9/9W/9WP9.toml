@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁੜ ਮੁੜ ਇਸ ਸਰੀਰ ਨਾਲ ਹੀ ਚੰਬੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁਰਿ ਬਹੁਰਿ = ਮੁੜ ਮੁੜ। ਉਆ ਹੂ = ਉਸ (ਤਨ) ਨਾਲ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

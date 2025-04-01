@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਆਪਣਾ ਮਨ ਜੋੜੀ ਰੱਖਦੇ ਹਨ ਉਹ ਅਖ਼ੀਰ ਵੇਲੇ (ਇਥੋਂ) ਹੱਥ ਮਲਦੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਸੇ = {ਬਹੁ-ਵਚਨ} ਉਹ। ਅੰਤਿ = ਅਖ਼ੀਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

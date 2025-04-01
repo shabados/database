@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸੁਰਖ਼ਰੂ ਦਿੱਸਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਿ ਸਾਚੈ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ। ਸਚਿਆਰੁ = ਸੁਰਖ਼ਰੂ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਗੀ ਹੀ ਜ਼ਿੰਦਗੀ ਦਾ ਨਿਸ਼ਾਨ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਗੀ ਬਾਸ਼ਦ ਨਿਸ਼ਾਨਿ ਜ਼ਿੰਦਗੀ ।੪੭੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

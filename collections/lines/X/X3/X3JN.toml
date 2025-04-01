@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਪਰਮਾਤਮਾ ਦੀ ਆਪਣੀ ਹੀ ਮਿਹਰ ਹੈ, ਪ੍ਰਭੂ ਨੂੰ) ਆਪ ਹੀ (ਅਜਿਹੇ ਮਨੁੱਖ) ਚੰਗੇ ਲੱਗੇ, ਤੇ, ਆਪ ਹੀ ਉਸ ਨੇ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜ ਲਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਭਾਣੇ = ਚੰਗੇ ਲੱਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

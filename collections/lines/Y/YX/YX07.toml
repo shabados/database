@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਤਿਆਗੀ ਤੇ ਕਈ ਗ੍ਰਿਹਸਤੀ ਬਣਾ ਦਿੱਤੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਦਾਸੀ = ਵਿਰਕਤ। ਘਰਬਾਰੀ = ਗ੍ਰਿਹਸਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

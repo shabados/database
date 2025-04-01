@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੋ ਮਨੁੱਖ) ਜਾਣਦੇ ਤਾਂ ਹਨ ਖੂੰਡੀ ਦੀ ਖੇਡ ਖੇਡਣੀ, (ਪਰ) ਸੋਹਣੇ ਘੋੜੇ ਤੇ ਚੜ੍ਹ ਕੇ ਬੰਦੂਕਾਂ ਦੇ ਹੱਥੇ (ਹੱਥ ਵਿਚ) ਫੜਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋੜੜਾ = ਸੋਹਣਾ ਘੋੜਾ। ਘੋੜੜੈ = ਸੋਹਣੇ ਘੋੜੇ ਤੇ। ਕੁੰਦੇ = ਬੰਦੂਕ ਦਾ ਹੱਥਾ। ਖੇਡਾਰੀ = ਖੇਡ ਜਾਣਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

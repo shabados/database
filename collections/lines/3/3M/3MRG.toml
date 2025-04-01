@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਦਾ-ਥਿਰ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਕਾਰ ਕਮਾ ਕੇ ਜਿਨ੍ਹਾਂ ਦੇ ਮਨ ਵਿਚ ਸਦਾ-ਥਿਰ ਹਰੀ ਆ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਸਚੀ ਕਾਰ = ਸਦਾ-ਥਿਰ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

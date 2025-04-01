@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਹੱਲੇ ਵਲੋਂ ਸੁਚੇਤ ਰਹਿ ਕੇ ਸਿਮਰਨ ਕਰਨਾ) ਜੀਵ ਦੇ ਬਹੁਤ ਕੰਮ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਦੇਹ-ਧਾਰੀ, ਜੀਵ। ਅਧਿਕ = ਬਹੁਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

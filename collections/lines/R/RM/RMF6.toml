@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੈਨੂੰ ਮਹਾਪੁਰਖਾਂ ਦੀ ਸੰਗਤ ਦੀ ਲੋੜ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਬਜ਼ੁਰਗਾਂ ਸੁਹਬਤੇ ਮੀ ਬਾਇਦਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

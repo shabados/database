@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਧਨਾਢ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਹਿ = (ਜੋ) ਸਿਮਰਦੇ ਹਨ। ਸੇ = ਉਹ ਮਨੁੱਖ। ਧਨਵੰਤੇ = ਧਨ ਵਾਲੇ, ਧਨਾਢ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

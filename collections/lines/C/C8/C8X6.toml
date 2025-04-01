@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਦੇ ਚਿੰਤਾ ਦੇ ਵੱਸ ਨਹੀਂ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਰੇ = ਝੁਰਦਾ, ਚਿੰਤਾ ਕਰਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

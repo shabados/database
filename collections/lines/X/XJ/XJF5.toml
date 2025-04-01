@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸੋਨਾ ਚਾਂਦੀ ਤੇ ਦੌਲਤ ਭੀ (ਸਦਾ ਲਈ ਆਪਣੇ) ਨਹੀਂ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੂਪਾ = ਚਾਂਦੀ। ਫੁਨਿ = ਭੀ। ਦਾਮ = ਦੌਲਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

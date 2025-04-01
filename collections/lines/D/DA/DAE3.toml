@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ਼ਬਦ ਦੇ ਸੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਉ, ਤੇਰੇ ਸਾਰੇ ਪਾਪ ਕੱਟੇ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦ ਸਪੁੰਨ = ਸ਼ਬਦ ਸੰਪੰਨ, ਸ਼ਬਦ ਦਾ ਸੂਰਾ। ਅਘਨ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

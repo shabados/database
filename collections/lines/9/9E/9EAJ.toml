@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦਿਨ ਦੀ ਕਿਰਤ-ਕਾਰ ਕਰ ਕੇ ਥੱਕਿਆ ਹੋਇਆ) ਰਾਤ ਨੂੰ ਨੀਂਦਰ ਵਿਚ ਘੁੱਟਿਆ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੇ ਸਾਰੇ ਨੌ ਹੀ ਇੰਦਰੇ ਢਿੱਲੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਘੈ = ਨੀਂਦਰ ਵਿਚ। ਸੋਤ = ਇੰਦਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

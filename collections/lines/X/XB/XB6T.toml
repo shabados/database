@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਤੇ ਗੋਯਾ ਦੀ ਜੀਭ ਪੁਰ ਆਪਣੇ ਚਾਉ ਦਾ ਇਕ ਕਿਣਕਾ ਬਖਸ਼ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਜ਼ੁਬਾਨਸ਼ ਜ਼ੱਰਾ-ਇ ਅਜ਼ ਜ਼ੌਕ ਬਖ਼ਸ਼ ।੫੦੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

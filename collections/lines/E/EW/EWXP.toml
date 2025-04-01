@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਭੋਗਾਂ ਦਾ ਮਿਲਣਾ ਤੇ ਖੁੱਸ ਜਾਣਾ ਦੋਵੇਂ ਗੱਲਾਂ ਹੀ ਦੁਖਦਾਈ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਠਾ ਕਉੜਾ = ਭੋਗਾਂ ਦਾ ਮਿਲਣਾ ਤੇ ਵਿੱਛੁੜਨਾ। ਰੋਗ = ਦੁਖਦਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਲ ਮੋਨ-ਧਾਰੀ ਸਾਧੂ ਉਹ ਹੈ ਜਿਹੜਾ (ਆਪਣੇ) ਮਨ ਦੀ ਮੇਰ-ਤੇਰ ਮੁਕਾ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਨਿ = ਮੋਨ-ਧਾਰੀ ਸਾਧੂ। ਜਿ = ਜਿਹੜਾ। ਦੁਬਿਧਾ = ਦੁ-ਕਿਸਮਾ-ਪਨ, ਮੇਰ-ਤੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

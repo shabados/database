@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਕੁੱਤੇ!) ਤੂੰ ਚੱਕੀ ਚੱਟਦਾ ਹੈਂ, ਤੇ ਆਟਾ ਖਾਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੂਨੁ ਆਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਇਹ ਠੰਡ ਪਾਣ ਵਾਲੇ ਗੁਰੂ ਨੂੰ ਮਿਲ ਪਏ, ਤਾਂ ਫਿਰ ਦੂਜੀ ਵਾਰੀ ਨਾਹ ਸੜੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲੁ = ਠੰਡ ਪਾਉਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

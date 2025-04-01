@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਸਦਾ ਮਨੁੱਖ ਦੇ ਆਤਮਕ ਜੀਵਨ ਦੇ ਕੰਮ ਆਉਣ ਵਾਲਾ ਹੈ, ਇਹ ਉਪਦੇਸ਼ ਕਦੇ ਛਿੱਜਣ ਵਾਲਾ (ਪੁਰਾਣਾ ਹੋਣ ਵਾਲਾ) ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਟਲ = ਕਦੇ ਨਾਹ ਟਲਣ ਵਾਲਾ। ਅਛੇਦ = ਕਦੇ ਨਾਹ ਨਾਸ ਹੋਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

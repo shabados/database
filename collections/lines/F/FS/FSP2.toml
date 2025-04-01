@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਸਭ ਜੀਵਾਂ ਦੇ ਨੇੜੇ ਵੱਸਦਾ ਹੈ ਸਦਾ ਸਭਨਾਂ ਦੇ ਅੰਗ-ਸੰਗ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਕਟਿ = ਨੇੜੇ {ਨਿਅੜਿ}। ਜੀਅ ਕੈ ਨਿਕਟਿ = ਸਭ ਜੀਵਾਂ ਦੇ ਨੇੜੇ। ਸਦ = ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

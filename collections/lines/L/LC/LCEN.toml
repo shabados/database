@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਟੱਲ ਅਬਿਨਾਸੀ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਿਆਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੁਤ = {अच्युत} ਕਦੇ ਨਾਹ ਡਿੱਗਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

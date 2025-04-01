@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ (ਇਕੱਠੀ ਕਰਨ) ਦੇ ਜਤਨ (ਤਾਂ) ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ (ਮਾਇਆ ਇਥੇ ਹੀ ਧਰੀ ਰਹਿ ਜਾਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮਿ = ਕੰਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

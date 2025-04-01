@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾਲ (ਪ੍ਰਭੂ)! ਮੇਹਰ ਕਰ, ਤੇ ਤੂੰ ਆਪ ਹੀ ਮੈਨੂੰ ਬਖ਼ਸ਼ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸ, ਹੇ ਪੰਡਿਤ! ਅਕਾਸ਼ ਕਿਸ ਦੇ ਸਹਾਰੇ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਬਰੁ = ਅਕਾਸ਼। ਕਾ ਸਿਉ = ਕਿਸ ਨਾਲ, ਕਿਸ ਦੇ ਆਸਰੇ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

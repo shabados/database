@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਿੱਖਿਆ ਸੁਣਨ ਵਾਲੇ ਭਾਈ! ਜੋ ਬੇਨਤੀ ਨਾਨਕ ਕਰਦਾ ਹੈ ਉਹ ਸੁਣ! (ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਧਾਰਨ ਕਰ, ਇਸ ਤਰ੍ਹਾਂ ਤੂੰ) ਮਾਇਆ ਦੇ ਬੰਧਨ ਤਿਆਗ ਸਕੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਖਵੰਤੇ = ਹੇ ਸਿੱਖਿਆ ਲੈਣ ਵਾਲੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

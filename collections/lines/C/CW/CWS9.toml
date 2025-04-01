@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੈਥੋਂ ਸਦਾ ਹੀ ਲੱਖਾਂ ਵਾਰੀ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦ = ਸਦਾ। ਬਲਿਹਾਰਿ = ਕੁਰਬਾਨ। ਜਾਉ = ਜਾਉਂ, ਮੈਂ ਜਾਵਾਂ। ਬੇਰਾ = ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

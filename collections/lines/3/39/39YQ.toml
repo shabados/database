@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦਾ ਭੇਖ ਦੁਨਿਆਵੀ ਹੈ, ਪਰ ਰਹੁਰੀਤ ਧਰਮ ਵਾਲੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਲਿਬਾਸਿ ਦੁਨਯਵੀਣ ਵ ਰਸਮਿ ਦੀਣ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

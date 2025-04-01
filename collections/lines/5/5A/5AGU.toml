@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ! ਤੇਰੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੀ ਭਗਤੀ (ਦੀ  ਦਾਤ ਜੀਵ ਨੂੰ ਤਦੋਂ ਹੀ ਮਿਲਦੀ ਹੈ ਜੇ) ਤੇਰੀ ਰਜ਼ਾ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੀ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੀ। ਸਚੇ = ਹੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

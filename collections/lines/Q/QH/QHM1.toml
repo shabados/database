@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ (ਜਾਦੂ) ਅੱਗ ਨੂੰ ਪਾਣੀ ਵਾਂਗ ਬਣਾ ਦਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਤਿਸ਼ੇ ਰਾ ਕੁਨੰਦ ਆਬ ਵਸ਼ ।"
+page = 1
+line = 36
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

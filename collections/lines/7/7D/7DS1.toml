@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਸਿਰ ਨਿਵਾਉਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੰਦਨ = ਸਿਰ ਨਿਵਾਉਣਾ। ਕਰੁਣਾਪਤੇ = ਹੇ ਕਰੁਣਾ ਦੇ ਪਤੀ! {ਕਰੁਣਾ = ਤਰਸ} ਹੇ ਤਰਸ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

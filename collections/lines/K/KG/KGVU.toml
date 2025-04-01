@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੁੰਮੀ ਵਾਲਾ ਹਾਲ ਹੀ ਹੋਇਆ) ਤੁੰਮੀ ਬਾਹਰੋਂ ਤਾਂ ਧੋਤੀ ਗਈ, ਪਰ ਉਸ ਦੇ ਅੰਦਰ ਨਿਰੋਲ ਵਿਸੁ (ਭਾਵ, ਕੌੜੱਤਣ) ਟਿਕੀ ਰਹੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰਮੜੀ = ਤੁੰਮੀ। ਵਿਸੁ = ਜ਼ਹਿਰ। ਨਿਕੋਰ = ਨਿਰੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

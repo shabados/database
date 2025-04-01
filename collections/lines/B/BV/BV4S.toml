@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਉਮੈ ਦੀ ਉਲਝਣ ਛੱਡੋ, (ਵਿਕਾਰਾਂ ਵਿਚ) ਖਚਿਤ ਹੋਣ ਤੋਂ ਬਚੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੰਪਟਾਈ = ਲੰਪਟ ਹੋਣਾ, ਖਚਿਤ ਹੋਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

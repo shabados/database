@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਤੜਕੇ ਸਵੇਰ ਵੇਲੇ ਕਿੰਨਾ ਸੁੰਦਰ ਅਤੇ ਬਚਿੱਤ੍ਰ ਨਜ਼ਾਰਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੁਬਹ ਦਮ ਗੋਯਾ ਤਮਾਸ਼ਿਾਇ ਅਜੀਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

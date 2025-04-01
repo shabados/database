@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਉਸ ਨੂੰ ਦੇਵਤੇ ਮਨੁੱਖ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰ = ਸੁਰਗ ਦੇ ਰਹਿਣ ਵਾਲੇ। ਨਰ = ਮਨੁੱਖ। ਮੀਤਾ = ਹੇ ਮਿੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

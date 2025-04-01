@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕੂਕਰ ਬ੍ਰਿਤੀ ਦੇ ਮਨੁੱਖ) ਸੁਆਦਲੇ ਭੋਜਨ ਖਾਂਦੇ ਹਨ, ਚੰਗੇ ਚੰਗੇ ਖਾਣੇ ਖਾਂਦੇ ਹਨ, ਪੀਣ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ ਪੀਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਵਹਿ = ਖਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

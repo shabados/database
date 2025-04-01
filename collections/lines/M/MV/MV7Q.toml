@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ-ਦਰ ਤੇ ਅਰਦਾਸ ਹੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਕਿ) ਹੇ ਜੀਵਾਂ ਦੇ ਨਾਥ! ਸਾਨੂੰ ਗੁਣ-ਹੀਨਾਂ ਨੂੰ ਬਚਾ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗਨੁ = ਗੁਣ-ਹੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

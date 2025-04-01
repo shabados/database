@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਵਿੱਥ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਤਰਿ = ਅੰਦਰ, ਮਨ ਵਿਚ। ਅੰਤਰਾ = (ਪਰਮਾਤਮਾ ਨਾਲੋਂ) ਵਿੱਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

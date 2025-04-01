@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਂਞ ਤਾਂ ਇਸ ਸਰੀਰ ਦੇ) ਹਵਾ, ਪਾਣੀ, ਅੱਗ (ਆਦਿਕ ਸਾਦਾ ਜਿਹੇ ਹੀ ਤੱਤ ਹਨ, ਪਰ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਸੰਤਰੁ = ਅੱਗ। ਪਉਣੁ = ਹਵਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

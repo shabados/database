@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਗੁਰੂ ਦੀ ਚਰਨ-ਧੂੜ ਜਮ ਦੀ ਫਾਹੀ ਕੱਟ ਦੇਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਜਾਲੁ = ਜਮ ਦੀ ਫਾਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

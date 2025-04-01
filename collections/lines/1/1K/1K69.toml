@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਂ ਆਪਣੇ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਨਾਰ ਬਣ ਚੁੱਕੀ ਹਾਂ) ਪ੍ਰਭੂ ਮੇਰਾ ਖਸਮ ਹੈ ਤੇ ਮੈਂ (ਉਸ ਦੀ ਖ਼ਾਤਰ) ਕਮਲੀ ਹੋ ਰਹੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਉਰੀ = ਕਮਲੀ, ਝੱਲੀ। ਭਤਾਰੁ = ਖਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਲਈ ਉਹ ਚਾਹੇ ਗ੍ਰਿਹਸਤੀ ਹੈ ਚਾਹੇ ਤਿਆਗੀ ਉਹ ਤੇਰੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ ਕਬੂਲ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਨੇ। ਤੂੰ = ਤੈਨੂੰ। ਉਦਾਸੀ = ਤਿਆਗੀ। ਪਰਵਾਣੁ = ਕਬੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

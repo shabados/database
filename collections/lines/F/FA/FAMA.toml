@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਜਲ ਹੈ, ਅੰਮ੍ਰਿਤ ਦਾ ਸੁਆਦ ਦੇਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ ਬਾਣੀ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਗੁਰਬਾਣੀ ਦੀ ਰਾਹੀਂ। ਅਮਿਉ ਰਸੁ = ਅੰਮ੍ਰਿਤ ਦਾ ਸੁਆਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

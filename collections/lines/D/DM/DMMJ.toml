@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਤੂੰ (ਆਪਣੇ) ਪੁੱਤਰਾਂ ਨੂੰ ਵੇਖ ਕੇ (ਆਪਣੀ) ਇਸਤ੍ਰੀ ਦੇ ਹਾਵ-ਭਾਵ ਨੂੰ ਵੇਖ ਕੇ ਕਿਉਂ ਮਸਤ ਹੋ ਰਿਹਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਾ = ਰੱਤਾ, ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ ਵਿਚ ਸਭ ਤੋਂ ਉੱਚਾ (ਆਤਮਕ ਜੀਵਨ ਦਾ) ਖ਼ਜ਼ਾਨਾ (ਲੁਕਿਆ ਪਿਆ ਹੈ।)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਮ ਨਿਧਾਨੁ = ਸਭ ਤੋਂ ਉੱਚਾ (ਆਤਮਕ) ਖ਼ਜ਼ਾਨਾ {ਲਫ਼ਜ਼ 'ਨਿਧਾਨੁ' ਇਕ-ਵਚਨ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

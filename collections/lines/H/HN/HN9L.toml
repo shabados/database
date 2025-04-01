@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਨੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਸਦਾ ਬਹੁਤ ਦੁੱਖ ਪਾਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੈ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ (ਫਸ ਕੇ)। ਲੋਕੀ = ਦੁਨੀਆ ਨੇ, ਲੁਕਾਈ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

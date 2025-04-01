@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਆਪਣਾ ਮਨ ਦੇ ਕੇ (ਹੀ, ਅਹੰਕਾਰ ਗਵਾ ਕੇ ਹੀ) ਸੁਖਾਂ ਦਾ ਸੋਮਾ ਪ੍ਰਭੂ-ਨਾਮ ਪ੍ਰਾਪਤ ਕਰੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇ = ਦੇ ਕੇ। ਪਾਵਿਹ = ਤੂੰ ਹਾਸਲ ਕਰੇਂਗਾ। ਸੁਹੇਲਾ = ਸੁਖ ਦਾ ਘਰ, ਸੁਖ ਦਾ ਸੋਮਾ {सुख आलय}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

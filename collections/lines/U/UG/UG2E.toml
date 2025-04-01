@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਨਮ ਤੇ ਮਰਨ ਉਸ ਮਨੁੱਖ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦੇ (ਉਸ ਨੂੰ ਵੇਖ ਕੇ ਝੱਲੇ ਹੋ ਜਾਂਦੇ ਹਨ, ਸਹਮ ਜਾਂਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਲੁ = ਮੌਤ, ਮਰਨ। ਬਿਕਾਲੁ = ਜਨਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੈਰ, ਸਿਰ, ਹੱਥ ਕੰਬਣ ਲੱਗ ਜਾਂਦੇ ਹਨ, ਅੱਖਾਂ ਵਿਚੋਂ ਆਪ-ਮੁਹਾਰੇ ਪਾਣੀ ਵਗੀ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ = ਹੱਥ। ਕੰਪਨ = ਕੰਬਣ। ਅਸਾਰ = ਆਪ-ਮੁਹਾਰਾ, ਬਿਨਾ ਰੁਕਣ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਰੱਬ ਦੀ ਯਾਦ ਦਾ ਕੀਮਤੀ ਸਰਮਾਇਆ ਭਾਗਾਂ ਵਾਲਿਆਂ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਸਰਮਾਯਾਇ ਦੌਲਤ ਬਵਦ ।੨੨੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

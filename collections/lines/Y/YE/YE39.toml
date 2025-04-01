@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਨਾਮਦੇਵ ਨੇ ਪ੍ਰਭੂ ਦਾ ਭਜਨ ਕਰ ਕੇ ਪ੍ਰਭੂ ਨਾਲ ਸਾਂਝ ਪਾ ਲਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮਦੇਇ = ਨਾਮਦੇਉ ਨੇ। ਕਰਿ = ਕਰ ਕੇ। ਜਾਨਾਂ = ਜਾਣ ਲਿਆ ਹੈ, ਪਛਾਣ ਲਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

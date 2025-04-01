@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਘਰ ਵਿਚ (ਕਿਸੇ ਚੀਜ਼ ਦੀ) ਕੋਈ ਕਮੀ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਛੁ ਊਣਾ = ਕੋਈ ਕਮੀ। ਜਨ = ਹੇ ਜਨ! ਤਾ ਕੈ = ਉਸ (ਪ੍ਰਭੂ) ਦੇ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

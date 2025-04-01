@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬ੍ਰਹਮਗਿਆਨੀ ਸਦਾ ਸਭ ਵਲ ਇਕੋ ਜਿਹੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਦਰਸੀ = (ਸਭ ਵਲ) ਇਕੋ ਜਿਹਾ ਵੇਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਉਸ ਦੇ ਪੱਲੇ ਪੈਸਾ ਨਾਹ ਹੋਵੇ, ਕੋਈ ਮਨੁੱਖ ਉਸ ਨੂੰ ਹੌਸਲਾ ਨਾ ਦੇਵੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੀਰ = ਧੀਰਜ, ਹੌਸਲਾ, ਧਰਵਾਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

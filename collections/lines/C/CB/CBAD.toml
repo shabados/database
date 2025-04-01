@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਨਾਲ (ਕਿਸੇ ਦਾ) ਮਨ ਤ੍ਰਿਪਤ ਨਹੀਂ ਹੋ ਸਕਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਤੇ = ਉਸ ਨਾਲ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

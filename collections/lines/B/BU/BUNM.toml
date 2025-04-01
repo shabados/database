@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਾਤਿਸ਼ਾਹ (ਜੀਵਾਂ ਦੇ ਸਾਰੇ) ਡਰ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ, ਉਹ ਆਪ ਨਾਸ-ਰਹਿਤ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੈ ਭੰਜਨ = ਸਾਰੇ ਡਰਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ। ਰਾਇ = ਪਾਤਿਸ਼ਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

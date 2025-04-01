@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੂਰਖ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਵੱਡੇ ਮੋਹ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ। ਮੋਹਿਓ = ਮੋਹਿਆ ਰਹਿੰਦਾ ਹੈ, ਮਸਤ ਰਹਿੰਦਾ ਹੈ। ਗਾਵਾਰਾ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

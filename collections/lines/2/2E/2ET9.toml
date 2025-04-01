@@ -36,6 +36,12 @@ language = "pa"
 data = "ਲੋਕ ਅਠਾਹਠ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰ ਕੇ, ਤੇ, ਸਾਰੀ ਧਰਤੀ ਤੇ ਭੌਂ ਕੇ ਆ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠਸਠਿ = ਅਠਾਹਠ। ਮਜਨੁ = ਇਸ਼ਨਾਨ, ਚੁੱਭੀ। ਭ੍ਰਮਿ = ਭੌਂ ਭੌਂ ਕੇ। ਧਰ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

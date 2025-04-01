@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰਭੂ ਜਲ ਵਿਚ, ਧਰਤੀ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ ਆਪ ਹੀ ਮੌਜੂਦ ਹੈ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਮਹੀਅਲਿ = ਮਹੀਤਲਿ, ਧਰਤੀ ਦੇ ਤਲ ਉੱਤੇ, ਪੁਲਾੜ ਵਿਚ, ਆਕਾਸ਼ ਵਿਚ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

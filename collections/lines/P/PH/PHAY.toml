@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਭਾਈ! ਭੈੜੇ ਮਨੁੱਖ ਸਦਾ ਭੈੜ ਹੀ ਕਮਾਂਦੇ ਹਨ, ਉਹ ਵਿਚਾਰ ਕਰ ਕੇ ਸਮਝਦੇ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਸਟ ਚਉਕੜੀ = ਦੁਸ਼ਟਾਂ ਦਾ ਟੋਲਾ। ਵੀਚਾਰੇ = ਵੀਚਾਰਿ, ਵਿਚਾਰ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

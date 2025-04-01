@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਜਦੋਂ ਤੋਂ ਕਿਸੇ ਵਲੋਂ ਕਿਸੇ ਵਧੀਕੀ ਦਾ) ਉਲਾਹਮਾ ਮੈਂ ਕਿਸੇ ਨੂੰ ਕਦੇ ਨਹੀਂ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਲਾਹਨੋ = ਉਲਾਹਮਾ, ਗਿਲਾ। ਕਾਹੂ = ਕਿਸੇ ਨੂੰ ਭੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

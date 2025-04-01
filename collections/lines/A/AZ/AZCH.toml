@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੋਈ ਮਨੁੱਖ ਖੇਤੀ-ਵਾੜੀ ਨੂੰ ਆਸਰਾ ਮੰਨਦਾ ਹੈ, ਪਰ) ਮੇਰੇ ਲਈ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਖੇਤੀ ਹੈ, ਤੇ ਨਾਮ ਹੀ ਬਗ਼ੀਚੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰੀ = ਵਾੜੀ, ਬਗ਼ੀਚੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

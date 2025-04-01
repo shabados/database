@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮੇ ਨੇ ਗੋਰੀ ਗਾਂ ਚੋ ਕੇ ਲਿਆਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਪਲ ਗਾਇ = ਗੋਰੀ ਗਾਂ। ਦੁਹਿ = ਚੋ ਕੇ। ਆਨੀ = ਲਿਆਂਦੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

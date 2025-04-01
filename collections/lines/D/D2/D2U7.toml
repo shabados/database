@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰਾ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਦੀਆਂ ਗੱਲਾਂ ਆਖਣ ਸੁਣਨ ਨਾਲ ਪ੍ਰਭੂ-ਮਿਲਾਪ ਨਹੀਂ ਹੋ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਗੁ = ਮਿਲਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

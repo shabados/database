@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਆਪਣੇ ਆਪ ਨੂੰ ਚੰਗੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਅਖਵਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮਵੰਤੁ = (ਚੰਗੇ) ਕੰਮ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

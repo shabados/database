@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੰਦ-ਭਾਗੀ ਮਨੁੱਖ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੈ = ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ। ਭੂਲਾ = ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

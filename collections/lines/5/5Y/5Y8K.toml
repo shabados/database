@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੈਨੂੰ ਅਚਰਜ-ਰੂਪ ਨੂੰ ਵੇਖ ਕੇ ਅਸੀਂ ਜੀਵ ਹੈਰਾਨ ਹੁੰਦੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਬਿਸਮਾਦਿ = ਹੈਰਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਿਨ ਉਹਨਾਂ ਦੇ ਖਾਣ-ਹੰਢਾਣ ਦੀ ਕੋਈ ਗੱਲ ਪੁੱਜ ਨ ਆਵੇ, ਉਸ ਦਿਨ ਉਹ ਫਿੱਕਾ ਬੋਲ ਬੋਲਣ ਲੱਗ ਪੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੰਧੁ = ਰੁੱਖਾ ਬੋਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

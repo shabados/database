@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਨੇ ਬਹੱਤਰ ਫਿਰਕੇ ਪੈਦਾ ਕੀਤੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੱਕ ਕਿ ਹਫ਼ਤਾਦੋ ਦੋ ਮਿੱਲਤ ਆਫਰੀਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

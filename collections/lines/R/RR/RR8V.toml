@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਨੂੰ ਝੂਠਾ ਮੋਹ ਚੰਬੜਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਨ ਮੋਹਰੀਆ = ਮਿਥਨ ਮੋਹ, ਝੂਠਾ ਮੋਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

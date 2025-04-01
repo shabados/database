@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਇਸ ਦੀ (ਕਾਮਾਦਿਕ ਵੈਰੀਆਂ ਦੇ ਵਿਰੁੱਧ) ਸਾਰੀ ਸ਼ਿਕੈਤ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਕਾਰਾ = (ਕਾਮਾਦਿਕ ਵੈਰੀਆਂ ਦੇ ਵਿਰੁੱਧ) ਸ਼ਿਕੈਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

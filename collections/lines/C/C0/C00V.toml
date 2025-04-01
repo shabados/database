@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਆਪਣਾ ਠਾਠ ਵੇਖ ਕੇ ਆਕੜਦੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿਰਾਵਾ = (ਸਰੀਰ ਦਾ) ਠਾਠ, ਪੁਸ਼ਾਕ। ਊਭਿ ਜਾਹਿ = ਆਕੜਦੀ ਹੈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

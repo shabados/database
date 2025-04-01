@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਆਸਰੇ (ਮਨੁੱਖ ਦੀ) ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਫਾਹੀ ਟੁੱਟ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੰਜਾਲੁ = ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਫਾਹੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

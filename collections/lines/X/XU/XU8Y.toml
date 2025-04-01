@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ! ਤੇਰੇ ਬਚਨਾਂ ਨੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ = ਹੇ ਸਤਿਗੁਰੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

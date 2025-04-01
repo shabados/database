@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰ-ਆਸ਼ੇ ਤੋਂ ਉਲਟ ਬਾਣੀ (ਮਾਇਆ) ਦੀ ਝਲਕ ਦੇ ਸਾਹਮਣੇ ਥਿੜਕਾ ਦੇਣ ਵਾਲੀ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰੂ ਬਿਨਾ = ਗੁਰ-ਆਸ਼ੇ ਤੋਂ ਉਲਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

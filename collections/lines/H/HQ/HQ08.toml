@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਪਹਿਲਾਂ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਆ ਨਿਵਾਸ ਕਰਦਾ ਹੈ, (ਫਿਰ) ਉਹ ਥਾਂ ਛੱਡ ਕੇ ਧਰਤੀ ਤੇ ਆਉਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਥਮੇ = ਪਹਿਲਾਂ। ਊਹਾ = ਉਹ ਥਾਂ। ਧਰਨਿ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਭੋਗਾਂ ਤੋਂ (ਆਖ਼ਿਰ) ਰੋਗ ਪੈਦਾ ਹੁੰਦੇ ਹਨ ਤੇ ਮਨੁੱਖ ਅੰਤ ਨੂੰ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਗਹੁ = ਮਾਇਆ ਦੇ ਭੋਗਾਂ ਤੋਂ। ਵਿਗੋਵੈ = ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

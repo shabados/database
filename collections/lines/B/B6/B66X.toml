@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਜੀਵ!) ਪ੍ਰਭੂ ਨਾਲ ਮੁੱਢਲੀ ਪ੍ਰੀਤ ਪਛਾਣ, ਉਸ ਵੱਡੇ ਮਾਲਕ ਨੂੰ ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਰਾਣਿ = ਪਛਾਣ। ਮਾਣਿ = ਭਾਵ, ਸਿਮਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

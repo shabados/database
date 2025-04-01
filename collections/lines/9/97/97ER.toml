@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਲੱਛਮੀ ਦੇ ਪਤੀ! ਹੇ ਬੈਕੁੰਠ ਦੇ ਰਹਿਣ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰੀ ਰੰਗ = ਹੇ ਲਛਮੀ ਦੇ ਪਤੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

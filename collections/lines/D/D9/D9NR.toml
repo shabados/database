@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਇਹ ਸੰਸਾਰ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਦਾ ਸਮੁੰਦਰ ਹੈ (ਇਸ ਵਿਚ ਜੀਵਾਂ ਉਤੇ) ਮਾਇਆ ਆਪਣਾ ਬਹੁਤ ਜ਼ੋਰ ਪਾਈ ਰੱਖਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਨਿ ਸਾਗਰੁ = ਅੱਗ ਦਾ ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

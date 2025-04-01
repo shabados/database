@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਸ਼ਹਿਨਸ਼ਾਹ ਗੁਰੂ ਨਾਨਕ ਦੇ ਹਜ਼ੂਰੀ ਗ਼ੁਲਾਮ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਸ਼ਹਿਨਸ਼ਾਹ ਪੇਸ਼ਸ਼ ਗ਼ੁਲਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

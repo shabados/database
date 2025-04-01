@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਸਭ ਜੀਵਾਂ ਦੇ) ਨੇੜੇ ਵੱਸਦਾ ਹੈਂ, ਪਰ (ਲਾਲਚੀ ਪਖੰਡੀ ਮਨੁੱਖ) ਤੈਨੂੰ ਦੂਰ (ਵੱਸਦਾ) ਸਮਝਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਤੁਮਹਿ = ਤੈਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

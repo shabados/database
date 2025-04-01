@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਸਦਾ ਹੀ ਤੇਰੇ ਅੰਞਾਣ ਬੱਚੇ ਹਾਂ, ਤੂੰ ਸਾਡੀ ਮਾਂ ਹੈ ਸਾਡਾ ਪਿਉ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੋਹਰੇ = ਬੱਚੇ। ਹਮਰੋ = ਸਾਡਾ। ਮੀਰਾ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

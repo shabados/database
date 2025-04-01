@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਪਰਮਾਤਮਾ ਸਾਡੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨ = ਜਿੰਦ, ਜਿੰਦ ਦਾ ਆਸਰਾ। ਗੁਪਾਲ = ਗੋਪਾਲ, ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਪਾਲਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

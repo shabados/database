@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੀ ਭਗਤੀ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮਹਾਂ ਮੂਰਖ ਮਨੁੱਖ ਸਿਆਣਾ ਹੋ ਜਾਂਦਾ ਹੈ ਗਿਆਨਵਾਨ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੂੜ ਮੁਗਧੁ = ਮਹਾਂ ਮੂਰਖ। ਚਤੁਰ = ਸਿਆਣਾ। ਸੁਗਿਆਨੁ = ਗਿਆਨ-ਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

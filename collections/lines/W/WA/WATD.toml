@@ -42,6 +42,12 @@ language = "pa"
 data = "ਅਤੇ (ਮੰਗਣ ਵਾਲੇ) ਕਈ ਹੋਰ ਅਜਿਹੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦੀ ਗਿਣਤੀ 'ਤੇ ਵਿਚਾਰ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਣਤ = ਗਿਣਤੀ। ਕੇਤਿਆ = ਕਈਆਂ ਦੀ। ਵੇਕਾਰ = ਵਿਕਾਰਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

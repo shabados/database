@@ -5,6 +5,11 @@ language = "pa"
 data = "ਯਕੀਨ ਜਾਣੋ ਕਿ ਉਹ ਬਿਲਕੁਲ ਪ੍ਰੀਤਮ ਦਾ ਹੀ ਰੂਪ ਬਣ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਹਿਕੀਕ ਬਿਦਾਣ ਕਿ ਐਨਿ ਜਾਨਾਣ ਸ਼ੁਦਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

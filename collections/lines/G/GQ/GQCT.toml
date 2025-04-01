@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਬ੍ਰਾਹਮਣ ਆਪਣੇ) ਘਰ ਵਿਚ ਬਹੁਤ ਸਾਰੀਆਂ ਮੂਰਤੀਆਂ ਸਮੇਤ ਠਾਕਰਾਂ ਦੀ ਮੂਰਤੀ ਅਸਥਾਪਨ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਘਰ ਵਿਚ। ਨਾਰਾਇਣੁ = ਠਾਕੁਰ ਦੀ ਮੂਰਤੀ। ਸਭਾ ਨਾਲਿ = ਹੋਰ ਮੂਰਤੀਆਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

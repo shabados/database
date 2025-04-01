@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਂ ਤੁੱਛ ਹਾਂ, ਮੈਂ ਨੀਵਾਂ ਹਾਂ, ਪਰ ਮੈਂ (ਪ੍ਰਭੂ-ਦਰ ਤੇ ਹੀ) ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ, ਮੈਂ ਉਸ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ (ਦੇ ਪੱਲੇ) ਨੂੰ ਨਹੀਂ ਛੱਡਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੀਣਉ = ਹੀਣਾ, ਤੁੱਛ। ਕਰਉ = ਮੈਂ ਕਰਦਾ ਹਾਂ। ਸਾਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

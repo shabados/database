@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨੁੱਖ ਨੇ) ਕੱਪੜੇ ਤੇ ਲੱਕੜ ਦਾ ਸਾਮਾਨ ਰੰਗ ਨਾਲ ਰੰਗਾ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਪੜੁ ਕਾਠੁ = ਕੱਪੜੇ ਤੇ ਲੱਕੜ ਦਾ ਸਾਮਾਨ (ਪਰਦੇ ਕੁਰਸੀਆਂ ਆਦਿਕ)। ਰਾਂਗਿ = ਰੰਗ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

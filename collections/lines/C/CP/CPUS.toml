@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹ ਦਇਆ ਦਾ ਸੋਮਾ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਨਾਰਾਇਣ ਹੈ ਆਪ ਹੀ ਨਰਸਿੰਘ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਰਾਇਣ = ਜਲ ਵਿਚ ਨਿਵਾਸ ਰੱਖਣ ਵਾਲਾ, ਵਿਸ਼ਨੂ, ਪਰਮਾਤਮਾ। ਨਰਹਰ = ਨਰਸਿੰਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

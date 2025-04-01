@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਪਣੀ ਰੋਜ਼ੀ ਲਈ) ਫ਼ਿਕਰ ਚਿੰਤਾ ਨਾਹ ਕਰੋ, ਇਹ ਫ਼ਿਕਰ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਆਪ ਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿੰਤਾ = ਫ਼ਿਕਰ। ਤਿਸ ਹੀ = ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਹੀ। ਕੋਇ = ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

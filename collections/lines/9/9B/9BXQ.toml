@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹਨਾਂ ਵਿਚੋਂ ਭੀ ਕੋਈ ਅੰਤ ਵੇਲੇ ਸੰਗੀ-ਸਾਥੀ ਨਹੀਂ ਬਣ ਸਕਦਾ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਿ = ਅਖ਼ੀਰ ਵੇਲੇ। ਸਹਾਈ = ਸਾਥੀ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

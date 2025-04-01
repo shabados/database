@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਇਹ ਨੌ ਹਿੱਸਿਆਂ ਵਾਲੀ ਧਰਤੀ ਸਾਜ ਕੇ ਤੂੰ ਇਸ ਵਿਚ ਅਨੇਕਾਂ ਰੰਗ ਸਜਾਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਵ = ਨੌ। ਸਾਜਿ = ਸਾਜ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

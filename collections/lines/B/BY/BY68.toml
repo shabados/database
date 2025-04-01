@@ -36,6 +36,12 @@ language = "pa"
 data = "ਫ਼ਕੀਰਾਂ ਦੀ (ਇਹ ਸਬਰ ਵਾਲੀ) ਕਾਰ ਕਿਸੇ ਵਿਰਲੇ ਬੰਦੇ ਨੇ ਕਮਾਈ ਹੈ ॥੧੧੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਨਿ ਕਿਨੈ = ਕਿਸੇ ਇੱਕ ਨੇ, ਕਿਸੇ ਵਿਰਲੇ ਨੇ। ਚਾਲੀਐ = ਚਲਾਈ ਹੈ। ਦਰਵੇਸਾਵੀ = ਦਰਵੇਸ਼ਾਂ ਵਾਲੀ ॥੧੧੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

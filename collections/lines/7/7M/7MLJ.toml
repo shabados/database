@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਇਕੱਠ ਭੈੜਾ ਹੈ ਜਿੱਥੇ ਸ਼ੈਤਾਨੀ ਦੇ ਕੰਮ ਹੋਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਹਜੂਮਿ ਬਦ ਕਿ ਸ਼ੈਤਾਨੀ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

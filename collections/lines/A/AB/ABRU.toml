@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਭਵਨਾਂ ਵਿਚ ਉਸ ਦਾ ਤੇਜ-ਪਰਤਾਪ ਚਮਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਤਾਪ = ਤੇਜ, ਤਾਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

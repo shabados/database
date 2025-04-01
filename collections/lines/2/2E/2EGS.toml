@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਓਟ ਛੱਡ ਕੇ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਹੀਂ ਜਾਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨ ਕਤਹਿ = ਕਿਸੇ ਹੋਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

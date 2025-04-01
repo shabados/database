@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਭ ਨਾਲ) ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ (ਪਰ) ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਸੁਆਦ ਵਿਚ ਪੰਡਤ ਲੋਕ ਵੇਦਾਂ ਦੀ ਵਿਆਖਿਆ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣਹਿ = ਵਿਆਖਿਆ ਕਰਦੇ ਹਨ। ਸੁਆਇ = ਸੁਆਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

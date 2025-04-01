@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ, ਉਹਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਣ ਨੂੰ ਤਿਆਰ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰੇਵਹ = ਅਸੀਂ ਸੇਂਵਦੇ ਹਾਂ, ਸੇਵਾ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ। ਲਾਗਹ = ਅਸੀਂ ਲੱਗਦੇ ਹਾਂ, ਅਸੀਂ ਲੱਗਣ ਨੂੰ ਤਿਆਰ ਹਾਂ। ਕੈ ਪਾਏ = ਦੇ ਚਰਨੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸੋ, ਮਨ ਨੂੰ ਮਾਰ ਕੇ ਉਹ ਕਿਸ ਨੂੰ ਤਾਰਦਾ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਭਾਉ = {ਸ੍ਵ-ਭਾਵ} ਨਿਜ ਦੀ ਲਗਨ, ਰੁਚੀ। ਮਾਰਿ = ਮਾਰ ਕੇ। ਕਹਹੁ = ਦੱਸੋ। ਕਿਸੁ = ਕਿਸ ਨੂੰ? ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

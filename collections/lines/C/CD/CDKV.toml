@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਸ਼ੌਕ ਦਾ ਇੱਕ ਕਿਣਕਾ ਉਸ ਦੇ ਦਿਲ ਵਿਚ ਵੱਸ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੱਰਾ ਅਜ਼ ਸ਼ੌਕ ਜਾ ਦਰ ਦਿਲ ਗ੍ਰਿਫ਼ਤ ।੩੩੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

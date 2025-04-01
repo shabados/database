@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਮਾਇਣ (ਆਦਿਕ) ਦਾ ਪਾਠ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਵਾ ਸਕਤਿ ਸੰਬਾਦ = ਸ਼ਿਵ ਤੇ ਪਾਰਬਤੀ ਦੀ ਪਰਸਪਰ ਗੱਲ-ਬਾਤ, ਰਾਮਾਇਣ। ਰਾਮਾਇਣ ਦੀ ਸਾਰੀ ਵਾਰਤਾ, ਸ਼ਿਵ ਜੀ ਨੇ ਪਾਰਬਤੀ ਨੂੰ ਇਹ ਵਾਰਤਾ ਵਾਪਰਨ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਸੁਣਾਈ ਦੱਸੀ ਜਾਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

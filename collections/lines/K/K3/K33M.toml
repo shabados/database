@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨੁੱਖ! ਆਪਣੇ ਦਿਲ ਵਿਚ ਇਹ ਪੱਕੀ ਗੱਲ ਟਿਕਾ ਲੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਚੀ, ਅਟੱਲ, ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੀ। ਜੀਅ = ਦਿਲ ਵਿਚ। ਧਾਰਿ = ਟਿਕਾ ਲੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

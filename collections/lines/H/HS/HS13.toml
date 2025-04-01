@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਸਤਿਗੁਰੂ ਨੇ ਮੈਨੂੰ, (ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ) ਦਰਸ਼ਨ ਕਰਾ ਦਿੱਤਾ, ਤਾਂ ਹੁਣ ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਤੂੰ ਹੀ ਤੂੰ ਦਿੱਸਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਾ = ਦੇਖਾਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਸਤਿਗੁਰਿ = ਸਤਿਗੁਰੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ! ਤੇਰਾ ਨਾਮ ਮੈਂ ਅੰਨ੍ਹੇ ਦੀ ਡੰਗੋਰੀ ਹੈ, ਸਹਾਰਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਓਟ, ਸਹਾਰਾ। ਖੁੰਦਕਾਰਾ = ਸਹਾਰਾ। ਖੁੰਦਕਾਰ = ਬਾਦਸ਼ਾਹ, ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

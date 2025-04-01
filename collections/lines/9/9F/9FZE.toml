@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ (ਕਿਸੇ ਜੀਵ ਤੋਂ) ਦੂਰ ਨਹੀਂ ਹੈਂ, ਤੂੰ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈਂ, ਤੂੰ ਪ੍ਰਤੱਖ ਦਿੱਸਦਾ ਹੈਂ, ਤੂੰ (ਸਭ ਜੀਵਾਂ ਦੇ) ਨਾਲ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਿ = ਵਿਆਪਕ। ਹਜੂਰਿ = ਹਾਜ਼ਰ-ਨਾਜ਼ਰ, ਪ੍ਰਤੱਖ। ਸੰਗੇ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

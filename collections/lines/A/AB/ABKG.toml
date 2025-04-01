@@ -42,6 +42,12 @@ language = "pa"
 data = "ਰਾਖਸ਼ ਤੇ ਦੇਵਤੇ (ਵੀ) ਅਕਾਲ ਪੁਰਖ ਦੀ ਵਡਿਆਈ ਆਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਵ = ਰਾਖਸ਼, ਦੈਂਤ। ਦੇਵ = ਦੇਵਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

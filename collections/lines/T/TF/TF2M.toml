@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤਿ ਸੁਆਸ ਸੁਆਸ ਹੱਥ ਜੋੜ ਕੇ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੈਣਿ = ਰਾਤ। ਕਰ = ਹੱਥ। ਧਿਆਈਐ = ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ["
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

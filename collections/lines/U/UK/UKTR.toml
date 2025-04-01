@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਨਾਮ ਨਿਰੰਕਾਰ ਹੈ, ਜੇ ਤੇਰਾ ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ ਨਰਕ ਵਿਚ ਨਹੀਂ ਪਈਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਇ ਲਇਐ = ਜੇ (ਤੇਰਾ) ਨਾਮ ਸਿਮਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਈ ਕਰੋੜਾਂ ਵੱਡੇ ਵੱਡੇ ਤਪੀਏ ਬਣੇ ਹੋਏ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪੀਸੁਰ = ਤਪੀ ਈਸੁਰ, ਵੱਡੇ ਵੱਡੇ ਤਪੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

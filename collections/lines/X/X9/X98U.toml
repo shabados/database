@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ, ਉਸ ਦੇ ਸਾਰੇ ਫ਼ਿਕਰ ਤੇ ਕਲੇਸ਼ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਸਾਈਆ = ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

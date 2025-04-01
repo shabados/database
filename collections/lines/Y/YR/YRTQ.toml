@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭਾਵੇਂ ਉਸ ਨੇ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਸਾਰੇ ਵੇਦ-ਪਾਠ ਸੋਧੇ ਹੋਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਹੁ ਬਿਧਿ = ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

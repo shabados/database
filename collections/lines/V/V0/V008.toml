@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਗਰੀਬਾਂ ਦਾ ਖਸਮ-ਸਹਾਰਾ ਹੈ, ਉਹ ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਜੀਵਾਂ ਨੂੰ ਬਚਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੈਆਲ = {ਨ;ਕ ਵਕੇ;} ਦਇਆ ਦਾ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

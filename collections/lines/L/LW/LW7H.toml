@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸ਼ੇਖ! ਜੇ ਤੇਰੇ ਆਪਣੇ ਅੰਦਰ ਸੰਤੋਖ ਨਹੀਂ ਹੈ, ਤਾਂ ਕਾਬੇ ਦਾ ਹੱਜ ਕਰਨ ਲਈ ਜਾਣ ਦਾ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬੂਰੀ = ਸੰਤੋਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

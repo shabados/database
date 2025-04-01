@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਟਕਾਂ ਦੇ ਨਾਚ ਵੇਖਿਆਂ ਭੀ ਆਤਮਕ ਆਨੰਦ ਨਹੀਂ ਪ੍ਰਾਪਤ ਹੁੰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖੇ = ਵੇਖਿਆਂ। ਨਿਰਤਿ = ਨਾਚ। ਨਾਟੇ = ਨਾਟਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹਨਾਂ ਦੀਆਂ ਸਾਰੀਆਂ ਮਨੋ-ਕਾਮਨਾ ਪੂਰੀਆਂ ਹੋ ਗਈਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨੋਰਥ = ਮਨੋ-ਕਾਮਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

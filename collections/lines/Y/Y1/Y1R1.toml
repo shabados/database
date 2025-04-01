@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਪ੍ਰਭੂ) ਇਕ ਚੀਜ਼ ਭੀ ਨਾਹ ਦੇਵੇ, ਤੇ, ਦਸ (ਦਿੱਤੀਆਂ ਹੋਈਆਂ) ਭੀ ਖੋਹ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਿ ਲੇਇ = ਖੋਹ ਲਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

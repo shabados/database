@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਚਿੱਤ ਜੋੜ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਨਾਮਿ = ਨਾਮ ਵਿਚ। ਲਾਇ = ਜੋੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਿਮਰਨ-ਹੀਨ ਬੰਦੇ) ਆਪਣਾ ਪੇਟ ਭਰਨ ਦੀ ਖ਼ਾਤਰ ਪਰਾਇਆ ਧਨ ਚੁਰਾਂਦੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਿਰਹਿ = ਚੁਰਾਂਦੇ ਹਨ। ਪਰਦਰਬੁ = ਪਰਾਇਆ ਧਨ {द्रव्य}। ਉਦਰ = ਪੇਟ। ਕੈ ਤਾਈ = ਦੀ ਖ਼ਾਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

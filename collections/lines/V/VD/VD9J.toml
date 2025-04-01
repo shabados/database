@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖ ਦੇਣ ਵਾਲੇ! ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਦਾਸ ਨਾਨਕ ਤੈਥੋਂ ਸਦਾ ਸਦਕੇ ਜਾਂਦਾ ਹੈ ॥੨॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਦਾਤੇ = ਹੇ ਸੁਖ ਦੇਣ ਵਾਲੇ! ਦੁਖ ਭੰਜਨ = ਹੇ ਦੁੱਖਾਂ ਦੇ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਸਦ = ਸਦਾ ॥੨॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

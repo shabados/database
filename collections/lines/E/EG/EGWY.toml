@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਦੁਨੀਆ ਵਿਚ ਉਹ ਬਾਦਸ਼ਾਹ ਹੈ, ਜਿਸਦਾ ਕੋਈ ਯਾਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹੇਸਤ ਦਰੀਣ ਦਹਿਰ ਕਿ ਯਾਰੇ ਦਾਰਦ ।੨੯।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

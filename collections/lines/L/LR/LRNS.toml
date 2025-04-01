@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਅੱਗ ਦਿੱਤੀ, ਬਾਲਣ ਦਿੱਤਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕੁ = ਅੱਗ। ਬਲਨਾ = ਬਾਲਣ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

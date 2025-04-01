@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਵਣ ਵਰਗੇ ਵੱਡੇ ਬਲੀ ਰਾਜੇ ਦੀ ਲੰਕਾ ਸਾਰੀ ਦੀ ਸਾਰੀ ਸੋਨੇ ਦੀ ਸੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਇਨ = {ਅੱਖਰ 'ਸ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ (ੋ) ਅਤੇ (ੁ); ਅਸਲ ਲਫ਼ਜ਼ ਹੈ 'ਸੋਇਨ', ਇੱਥੇ ਪੜ੍ਹਨਾ ਹੈ 'ਸੁਇਨ'}। ਅਧਿਕਾਈ = ਵੱਡੇ ਬਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

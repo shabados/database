@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਈਸ਼੍ਵਰ! (ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ) ਤੇਰੇ ਚਰਨਾਂ ਦਾ (ਹੀ) ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਅ ਚਰਨ ਆਸਰੋ = ਤੇਰੇ ਚਰਨਾਂ ਦਾ ਆਸਰਾ। ਈਸ = ਈਸ਼, ਹੇ ਈਸ਼੍ਵਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

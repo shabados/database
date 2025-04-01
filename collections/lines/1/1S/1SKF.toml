@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਇਸ ਸਰੀਰ ਵਿਚ ਹਉਮੈ ਦਾ ਰੋਗ ਹੈ, (ਉਸ ਦੇ ਸਰੀਰ ਵਿਚ ਇਸ ਰੋਗ ਦੀ) ਕਰੜੀ ਪੀੜ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਠਿਨ = ਕਰੜੀ। ਤਨਿ = ਸਰੀਰ ਵਿਚ। ਪੀਰਾ = ਪੀੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

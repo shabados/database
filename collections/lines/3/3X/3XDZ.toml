@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਸਾਰੇ ਜਗਤ ਦਾ ਉਹ) ਮਾਲਕ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ ਰਹਿਆ = ਵਿਆਪਕ ਹੈ। ਸਰਬਤ = {सर्वत्र} ਹਰ ਥਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

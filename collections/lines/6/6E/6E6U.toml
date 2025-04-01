@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਫਿਰ ਭੀ,) ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾਪ ਦਾ ਚਾਹਵਾਨ ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੂੰ ਹੀ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਹਕੁ = ਮਿਲਣ ਦਾ ਚਾਹਵਾਨ। ਜਾਣੁ = ਸਮਝੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

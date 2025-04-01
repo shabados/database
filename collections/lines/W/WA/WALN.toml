@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਮੰਗਤਾ (ਤੇਰੇ 'ਅਪਾਰ ਸ਼ਬਦ' ਦਾ) ਖ਼ੈਰ ਮੰਗਦਾ ਹਾਂ, ਮੈਨੂੰ ਖ਼ੈਰ ਪਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਕੁ = ਮੰਗਤਾ। ਦਾਨੁ = ('ਅਪਾਰ ਸ਼ਬਦ' ਦਾ) ਖ਼ੈਰ। ਪਿਆਰਿਆ = ਹੇ ਪਿਆਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

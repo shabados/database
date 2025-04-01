@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਬੇ-ਦਾਗ਼ ਸੋਭਾ ਤੇ ਉਸ ਦੀ ਬਾਣੀ (ਨਾਮ-) ਅੰਮ੍ਰਿਤ ਨਾਲ ਭਰਪੂਰ ਹੁੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੀ ਬਾਨੀ = ਉਸ ਮਨੁੱਖ ਦੇ ਬਚਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

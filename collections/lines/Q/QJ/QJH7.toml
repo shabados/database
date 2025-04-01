@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰਾ) ਇਹ (ਮਨ) ਸਾਧ ਸੰਗਤ ਵਿਚ ਟਿਕਾਣਾ ਪ੍ਰਾਪਤ ਕਰੀ ਰੱਖੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸ੍ਰਾਮੁ = ਟਿਕਾਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

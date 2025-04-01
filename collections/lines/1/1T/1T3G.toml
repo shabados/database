@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਤੇਰਾ ਨਾਮ (ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਠੰਢ ਪਾਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲਾ = ਸੀਤਲ, ਠੰਢ ਪਾਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

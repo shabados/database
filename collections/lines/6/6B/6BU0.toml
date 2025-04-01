@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਿਰਸਾਣ ਹਵਸਾਣ ਦਾ ਹਰ ਬੰਦਾ ਉਸ ਰੱਬ ਤਕ ਨਹੀਣ ਪਹੁੰਚ ਸਕਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਬੂਅਲਹਵਸੇ ਬਸੂਇ ਊ ਰਾਹ ਨ ਬੁਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

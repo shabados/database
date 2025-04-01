@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨੁਖ (ਪ੍ਰਭੂ ਦੇ) ਡਰ ਵਿਚ ਰਚ ਕੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਹੋਈ ਸੇਵਾ ਚਾਕਰੀ ਕਾਰ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਕਰੀ = ਨੌਕਰੀ। ਭੈ = ਡਰ ਵਿਚ। ਕਮਾਇ = ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

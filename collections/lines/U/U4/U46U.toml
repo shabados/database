@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਿਆਇ ਅਤੇ ਇਨਸਾਫ ਦਾ ਮੁਖੜਾ ਚਮਕ ਪਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੁਖ਼ਿ ਅਦਲੋ ਇਨਸਾਫ਼ ਅਫ਼ਰੋਖ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

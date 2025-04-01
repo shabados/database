@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ ਮੁਬਾਰਕ ਹੈ ਚੰਗੇ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ਜਿਸ ਨੇ ਖਸਮ-ਪ੍ਰਭੂ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਨੁ = {धन्य} ਮੁਬਾਰਕ, ਕਿਸਮਤ ਵਾਲੀ। ਸੋਹਾਗਣਿ = {सौभागिनी} ਚੰਗੇ ਭਾਗਾਂ ਵਾਲੀ। ਨਾਰਿ = ਇਸਤ੍ਰੀ। ਜਿਨਿ = ਜਿਸ (ਨਾਰਿ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

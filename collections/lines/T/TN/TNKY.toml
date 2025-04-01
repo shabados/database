@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੁਨੀਆ ਦੇ ਗੀਤ ਸੁਣ ਵੇਖੇ ਹਨ, ਸੁਆਦ ਚੱਖ ਵੇਖੇ ਹਨ; ਇਹ ਗੀਤ ਤੇ ਸੁਆਦ ਸਰੀਰ ਵਿਚ ਰੋਗ ਹੀ ਪੈਦਾ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਦ = ਵਾਜੇ, ਗੀਤ। ਤਨਿ = ਤਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

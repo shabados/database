@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਵਿਚ ਸੁਰਤ ਜੋੜਨੀ ਸਤਿ (-ਕਰਮ ਹੈ) ਪ੍ਰਭੂ ਦਾ ਜਸ ਸੁਣਨ ਵਾਲਾ ਭੀ ਸਤਿ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤਿ = ਧਿਆਨ। ਜਸੁ = ਸਿਫ਼ਤਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

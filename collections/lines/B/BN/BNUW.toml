@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਹੱਥ ਵਿਚ ਦੋ ਮੋਤੀ ਹਨ ਜੋ ਸੂਰਜ ਵਾਂਗ ਚਮਕਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਦਸਤਸ਼ ਫ਼ਰੋਜ਼ਾਂ ਦੋ ਗੌਹਰ ਚੂੰ ਮਿਹਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

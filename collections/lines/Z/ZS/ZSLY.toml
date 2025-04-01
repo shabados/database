@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਵਾਲ ਵਾਲ ਵਿੱਚੋਂ ਅੰਮ੍ਰਿਤ ਚੋਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਬਿ ਹੈਵਾਂ ਮੀਚਕਦ ਅਜ਼ ਮੂਇ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

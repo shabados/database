@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਮ ਤੋਂ ਸੱਖਣੀ ਰਹਿ ਕੇ ਸਾਰੀ ਲੁਕਾਈ ਦੁੱਖ ਵਿਚ ਸੜਦੀ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਖਿ = ਦੁੱਖ ਵਿਚ। ਸਬਾਈ = ਸਾਰੀ ਲੁਕਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

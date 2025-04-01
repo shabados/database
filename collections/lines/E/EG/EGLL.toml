@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਆਪ ਤੋਂ ਗਏ-ਗੁਜ਼ਰੇ ਉਹ ਲੋਕ ਹੋਰਨਾਂ ਨੂੰ ਭੀ ਖੁੰਝਾਉਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਵਹਿ = ਖੁੰਝਾਉਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

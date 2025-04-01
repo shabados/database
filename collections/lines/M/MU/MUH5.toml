@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਾਲਕ! ਤੇਰਾ ਮੂੰਹ ਕਿਹੋ ਜਿਹਾ ਹੈ? ਮੈਂ ਤੇਰਾ ਮੁਖ ਦੇਖਣ ਦਾ ਬੜਾ ਚਾਹਵਾਨ ਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੂ = ਵਾਸਤੇ। ਮੁਸਤਾਕੁ = ਉਤਾਵਲਾ, ਚਾਹਵਾਨ। ਕਿਜੇਹਾ = ਕਿਹੋ ਜੇਹਾ? ਤਉ = ਤੇਰਾ। ਧਣੀ = ਹੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

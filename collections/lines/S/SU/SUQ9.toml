@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਟਿਕ ਕੇ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦਾ ਜਾਪ ਜਪਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

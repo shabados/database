@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਾਰੇ ਫਰਿਸ਼ਤੇ ਅਤੇ ਦੇਵਤੇ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਾ੍ਹਮਣੇ ਤੁਛ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਉਲਵੀ ਪਸਤਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੬।"
+page = 10
+line = 156
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

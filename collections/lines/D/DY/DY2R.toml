@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ 'ਚੰਚਲ ਬੱਧ' ਦੇ ਕਾਰਨ, ਹੁਣ) ਮੇਰੇ ਇਸ ਤਨ ਮਨ ਵਿਚ ਕਾਮਦੇਵ ਚੋਰ ਆ ਵੱਸਿਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਧੇ = ਵਿਚ। ਮਦਨ = ਕਾਮਦੇਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

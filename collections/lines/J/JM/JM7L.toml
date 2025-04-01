@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਉਂ ਇਹ (ਉਦਾਸੀ-) ਭੇਖ ਧਾਰਿਆ ਸੀ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਸੀ = ਧਾਰਨ ਵਾਲੇ (ਹੋਏ ਸੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜਾ ਜੀਵ ਤੈਨੂੰ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਉਹ ਤੇਰੇ ਨਾਲ ਸਾਂਝ ਪਾ ਲੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਧੁ = ਤੈਨੂੰ। ਭਾਣਾ = ਪਿਆਰਾ ਲੱਗਾ। ਬੁਝਈ = ਸਮਝਦਾ ਹੈ, ਸਾਂਝ ਪਾ ਲੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਤੇ) ਹੇ ਮਿੱਤਰ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਜਪ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਮ੍ਰਿਤ = ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਮੀਤ = ਹੇ ਮਿੱਤਰ! ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

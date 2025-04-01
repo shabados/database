@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਸੰਤ ਜਨਾਂ ਨੇ (ਉਸ ਦੇ ਮੋਹ ਨੂੰ) ਟੋਟੇ ਟੋਟੇ ਕਰ ਦਿੱਤਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ ਜਨੀ = ਸੰਤ ਜਨਾਂ ਨੇ। ਜਨੀ = ਜਨੀਂ, ਜਨਾਂ ਨੇ। ਖੰਡ ਖੰਡ = ਟੋਟੇ ਟੋਟੇ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

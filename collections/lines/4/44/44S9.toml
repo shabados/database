@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਅਨੁਸਾਰ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰ ਕੇ ਉਹ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭ ਲੈਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਲਾਹਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰ ਕੇ। ਸਚੁ = ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ। ਗੁਣਤਾਸੁ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

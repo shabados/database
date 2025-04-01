@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਨਾਹ ਉਹ ਸਰੀਰ ਤੇਰਾ ਹੈ, ਤੇ, ਨਾਹ ਹੀ (ਉਸ ਸਰੀਰ ਵਿਚ ਵੱਸਦਾ) ਮਨ ਤੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨੁ = ਸਰੀਰ। ਤੋਹਿ = ਤੇਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

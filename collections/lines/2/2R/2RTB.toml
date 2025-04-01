@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਚਰਜ ਖੇਡ ਹੈ) ਜੋ ਹੱਸਦਾ ਜਾਂਦਾ ਹੈ ਉਹ ਰੋਂਦਾ (ਵਾਪਸ) ਆਉਂਦਾ ਹੈ; ਜੋ ਰੋਂਦਾ ਜਾਂਦਾ ਹੈ ਉਹ ਹੱਸਦਾ ਮੁੜਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤੋ = ਹੱਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

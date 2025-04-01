@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਤੇਰਾ ਹੀ ਆਸਰਾ ਹੈ, ਤੂੰ ਮੈਨੂੰ ਆਪਣੇ ਮਨ ਤੋਂ ਨਾਹ ਵਿਸਾਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸਾਨੂੰ, ਮੈਨੂੰ। ਧਰ = ਆਸਰਾ। ਮਨਹੁ = (ਆਪਣੇ) ਮਨ ਤੋਂ। ਕਿਉ ਬਿਸਾਰੇ = ਕਿਉਂ ਵਿਸਾਰਦਾ ਹੈਂ? ਨਾਹ ਵਿਸਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

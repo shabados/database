@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਹੀ ਮਨੁੱਖ ਔਖੇ (ਸੰਸਾਰ) ਸਮੁੰਦਰ ਤੋਂ (ਆਤਮਕ ਪੂੰਜੀ ਸਮੇਤ) ਪਾਰ ਲੰਘਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਮ = ਔਖਾ। ਤੇਈ ਜਨ = ਉਹੀ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੇ) ਮਨ ਵਿਚ ਪਿਆਰੇ ਦਾ ਬਹੁਤ ਪ੍ਰੇਮ ਵੱਸ ਰਿਹਾ ਹੈ, ਆਓ ਅਸੀਂ (ਉਸ ਪਾਸੋਂ) ਭਗਤੀ ਦੀ ਦਾਤ ਮੰਗੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਘਣਾ = ਬਹੁਤ। ਮੰਗਹ = ਆਓ, ਅਸੀਂ ਮੰਗੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

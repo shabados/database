@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੰਦੇ! ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਾਨੀ = ਹੇ ਬੰਦੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

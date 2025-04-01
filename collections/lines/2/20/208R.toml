@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਦੇ ਪੈਰ ਮਲ ਮਲ ਕੇ ਧੋਵਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਲਿ = ਮਲ ਕੇ। ਹਉ = ਮੈਂ। ਧੋਵਾ = ਧੋਵਾਂ, ਮੈਂ ਧੋਵਾਂ। ਪਾਓ‍ੁ = {ਅਸਲ ਲਫ਼ਜ਼ ਹੈ 'ਪਾਉ'=ਪੈਰ। ਇਥੇ ਪੜ੍ਹਨਾ ਹੈ 'ਪਾਓ'} ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੀਵ! ਤੂੰ (ਆਪਣੀ ਚੰਗੀ ਸੂਝ-ਅਕਲ ਵਿਖਾਣ ਲਈ) ਕਿਉਂ ਚਲਾਕੀ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = ਹੇ ਜੀਵ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

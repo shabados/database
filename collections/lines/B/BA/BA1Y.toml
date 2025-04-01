@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ (ਹਿਰਦੇ ਦੇ) ਵੇਹੜੇ ਵਿਚ ਸੋਭਾ ਦਾ ਚੰਦ ਚੜ੍ਹ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਂਗਨਿ = (ਹਿਰਦਾ-ਰੂਪ) ਵੇਹੜੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੇਰੇ ਸਾਰੇ ਵਿਕਾਰ ਨਾਸ ਹੋ ਜਾਣ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਸਾਦਿ = ਕਿਰਪਾ ਨਾਲ। ਬਿਖੈ = ਵਿਸ਼ੇ-ਵਿਕਾਰ। ਹੰਤ = ਨਾਸ ਹੋ ਜਾਣ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

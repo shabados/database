@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੂੰ ਅਜਿਹਾ ਫ਼ਿਕਰ ਨਹੀਣ, ਉਹ ਖੁਸ਼ ਨਹੀਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿਰਾ ਈਣ ਗ਼ਮ ਨਭਬਾਸ਼ਦ ਸ਼ਾਦ ਨੀਸਤ ।੮੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

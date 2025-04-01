@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮਨ ਵਿਚ ਇਸ ਸਬਰ ਦੀ ਕਮਾਨ ਹੋਵੇ, ਜੇ ਸਬਰ ਹੀ ਕਮਾਣ ਦਾ ਚਿੱਲਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਝ = (ਮਨ) ਮੰਝ, (ਮਨ) ਵਿਚ। ਸਬਰ ਕਮਾਣ = ਸਬਰ ਦੀ ਕਮਾਣ। ਸਬਰੁ = ਧੀਰਜੁ, ਸਿਦਕ। ਕਾ = (ਕਮਾਣ ਦਾ)। ਨੀਹਣੋ = ਚਿੱਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

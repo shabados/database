@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ # ਅਜਿਹਾ ਕੌਣ ਹੈ, ਜਿਹੜਾ ਸਿਰ ਤੋਣ ਪੈਰਾਣ ਤਕ ਰੱਬ ਦਾ ਹੀ ਨੂਰ ਨਹੀਣ # "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੀਸਤ ਐ ਜਾਨ ਕੂ ਸਰਾਪਾ ਨੂਰ ਨੀਸਤ ।੬੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

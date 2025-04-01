@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦਾ ਕਿਸੇ ਨਾਲ ਕੋਈ ਵੈਰ ਨਹੀਂ, ਜਿਸ ਦੀ ਹਸਤੀ ਮੌਤ ਤੋਂ ਪਰੇ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਵੈਰੁ = ਜਿਸ ਦਾ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਹੀਂ। ਅਕਾਲ ਮੂਰਤਿ = {ਅਕਾਲ = ਮੌਤ-ਰਹਿਤ। ਮੂਰਤਿ = ਹਸਤੀ, ਸਰੂਪ} ਜਿਸ ਦਾ ਵਜੂਦ ਮੌਤ-ਰਹਿਤ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

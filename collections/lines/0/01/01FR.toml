@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪ ਹੀ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਜਗਤ ਦਾ ਮੂਲ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਕਰਣਾ = ਕਰਣ, ਜਗਤ। ਕਾਰਣ = ਮੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

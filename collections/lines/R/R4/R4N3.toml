@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਜੀਵਾਂ ਦੇ) ਜਨਮ ਦੇ ਗੇੜ ਕੱਟਣ ਵਾਲੇ! (ਜਗਤ ਵਿਚ) ਕੋਈ ਭੀ ਚੀਜ਼ ਤੈਥੋਂ ਆਕੀ ਨਹੀਂ ਹੋ ਸਕਦੀ (ਸਾਨੂੰ ਭੀ ਸਹੀ ਜੀਵਨ-ਰਾਹ ਉਤੇ ਪਾਈ ਰੱਖ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਬਾਹਰਿ = ਆਕੀ, ਵੱਖਰਾ। ਭਵ = ਜਨਮ ਮਰਨ (ਦਾ ਗੇੜ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

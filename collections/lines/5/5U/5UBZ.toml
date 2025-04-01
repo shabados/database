@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਗਤ ਤੇਰਾ ਆਪਣਾ ਹੀ (ਸਰਗੁਣ) ਰੂਪ ਹੈ, ਤੇ ਇਹ ਤੈਥੋਂ ਹੀ ਇਸ ਦਿੱਸਦੇ ਰੂਪ ਵਿਚ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪੰਨਿਆ = ਪੈਦਾ ਹੋਇਆ, ਦਿੱਸਦੇ ਰੂਪ ਵਿਚ ਆਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

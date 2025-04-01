@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਲਿੱਟ ਦੁਨੀਆ ਵਿਚ ਆਫਤ ਮਚਾ ਦਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਕਲਿ ਉ ਫ਼ਿਤਨਾ ਜ਼ਨਿ ਆਲਮ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਨਟ-ਨਾਰਾਇਨ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਪੜਤਾਲ'।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜਤਾਲ = {पटहताल। ਪਟਹ = ਢੋਲ।} xxx"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

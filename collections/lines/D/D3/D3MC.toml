@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਿਆਰੇ ਪ੍ਰੀਤਮ ਦਾ ਪ੍ਰੇਮ ਖਿੱਚ ਪਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗੁ = ਪ੍ਰੇਮ। ਹਿਰੈ = ਖਿੱਚ ਪਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

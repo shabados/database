@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਥੇ ਉੱਚਾ-ਪਨ ਹੈ, ਉਥੇ ਨੀਵਾਂ-ਪਨ ਭੀ ਆ ਜਾਂਦਾ ਹੈ, ਜਿਥੇ ਗ਼ਰੀਬੀ ਹੈ, ਉਥੇ ਵਡੱਪਣ ਭੀ ਆ ਸਕਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ = ਤੇ, ਭੀ। ਨਾਨ੍ਹ੍ਹਾ = ਨਿੱਕਾ। ਮੂਚੰ = ਵੱਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

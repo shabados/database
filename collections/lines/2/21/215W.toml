@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਦੇ) ਸਾਰੇ ਪਦਾਰਥ ਤੇਰੇ ਹੀ ਹੁਕਮ ਵਿਚ ਟਿਕੇ ਹੋਏ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਗ੍ਰੀ = ਪਦਾਰਥ। ਸੂਤ੍ਰਿ = ਸੂਤ੍ਰ ਵਿਚ, ਮਰਯਾਦਾ ਵਿਚ, ਹੁਕਮ ਵਿਚ। ਧਾਰੀ = ਟਿਕੀ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

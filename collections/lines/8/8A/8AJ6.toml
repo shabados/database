@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਸਭ ਸਰੀਰਾਂ ਵਿਚ ਵੱਸਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬੇ = ਸਭਨਾਂ ਵਿਚ {सर्व}। ਘਟ ਵਾਸੀ = ਸਭ ਸਰੀਰਾਂ ਵਿਚ ਵਾਸ ਰੱਖਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

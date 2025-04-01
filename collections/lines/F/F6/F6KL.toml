@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਲੋਂ) ਬਹੁਤ ਉਪਰਾਮ ਹੋ ਕੇ ਵੱਡਾ ਤਪੀ ਬਣ ਜਾਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪੀਸਰੁ = ਵੱਡਾ ਤਪੀ। ਥੀਵੈ = ਹੋ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

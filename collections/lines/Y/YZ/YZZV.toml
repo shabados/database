@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਰੇਸ਼ਮ ਰੇਸ਼ਮੀ ਕੱਪੜੇ ਪਹਿਨ ਕੇ ਹੰਢਾਵਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਟ = ਪੱਟ, ਰੇਸ਼ਮ। ਪਟੰਬਰ = ਪੱਟ ਦੇ ਅੰਬਰ। ਅੰਬਰ = ਕੱਪੜੇ। ਪਹਿਰਿ = ਪਹਿਨ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

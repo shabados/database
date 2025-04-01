@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਆਪਣਾ ਆਕਾਰ ਉਸ ਨੇ ਆਪ ਹੀ ਪੈਦਾ ਕੀਤਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਰਜਾ = ਪੈਦਾ ਕੀਤਾ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

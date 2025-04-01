@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ (ਭੁੱਖ ਨਾਲ ਵਿਲਕ ਰਹੇ) ਬੱਚੇ ਦੇ ਮੂੰਹ ਵਿਚ ਦੁੱਧ ਪੈ ਜਾਏ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਹਿ = ਮੂੰਹ ਵਿਚ। ਖੀਰ = ਦੁੱਧ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

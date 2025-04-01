@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਜਤਨਾਂ ਨਾਲ (ਇਹਨਾਂ ਬੰਧਨਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ਹੋ ਸਕਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਯਾਹੂ = ਜੇਹੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

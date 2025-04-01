@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹਰੇਕ ਸਰੀਰ-ਕੋਠੜੀ) ਵਿਚ ਮਨ ਨੂੰ ਕੋਤਵਾਲ ਬਣਾ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟਵਰੀਆ = ਕੋਤਵਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

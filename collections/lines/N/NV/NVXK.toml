@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਲਗਨ ਲੱਗ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਮਨ ਨੂੰ। ਰੁਚੈ = ਰੁਚੀ, ਚਾਹ, ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

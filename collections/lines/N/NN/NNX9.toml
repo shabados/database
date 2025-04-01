@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਜੇਡਾ ਦਾਤਾ ਹੋਰ ਕੋਈ ਨਹੀਂ। ਤੂੰ ਆਪ ਹੀ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋ = ਕੋਈ (ਭੀ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

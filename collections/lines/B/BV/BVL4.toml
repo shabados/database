@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ ਮਨ! ਤੈਨੂੰ ਮੈਂ ਸਦਾ ਸਿੱਖਿਆ ਦੇ ਦੇ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ, ਤੂੰ ਅਜੇ ਭੀ ਅਕਲ ਨਹੀਂ ਕਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਅਜਹੂ = ਅਜੇ ਭੀ। ਸਿਖ = ਸਿੱਖਿਆ। ਦੈ = ਦੇ ਕੇ। ਨੀਤ = ਨਿੱਤ, ਸਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

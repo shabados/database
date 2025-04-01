@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸੇ ਤਰ੍ਹਾਂ ਅਖ਼ੀਰਲੇ) ਬਲਦ ਤੋਂ ਭਾਰ (ਸਹਾਰਨ ਲਈ ਉਸ ਦੇ) ਹੇਠ ਕਿਹੜਾ ਆਸਰਾ ਹੋਵੇਗਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸ ਤੇ = ਉਸ ਬਲਦ ਤੋਂ। ਤਲੈ = ਉਸ ਬਲਦ ਦੇ ਹੇਠਾਂ। ਕਵਣੁ ਜੋਰੁ = ਕਿਹੜਾ ਸਹਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

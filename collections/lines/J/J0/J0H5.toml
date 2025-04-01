@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਸਮਾਨ ਧਰਤੀ ਦੇ ਸਾਹਮਣੇ ਇਸ ਲਈ ਮੱਥਾ ਟੇਕਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਸਮਾਣ ਸਿਜਦਾ ਕੁਨਦ ਪੇਸ਼ਿ ਜ਼ਮੀਣ ਕਿ ਬਰ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

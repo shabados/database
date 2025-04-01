@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! (ਅੰਦਰ ਹੀ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਟਿਕਿਆ ਰਹੁ, (ਵੇਖੀਂ, ਨਾਮ-ਅੰਮ੍ਰਿਤ ਦੀ ਭਾਲ ਵਿਚ) ਕਿਤੇ ਬਾਹਰ ਨਾਹ ਭਟਕਦਾ ਫਿਰੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਤ = ਕਿਤੇ ਬਾਹਰ। ਮਤੁ ਜਾਹੀ = ਨਾਹ ਜਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

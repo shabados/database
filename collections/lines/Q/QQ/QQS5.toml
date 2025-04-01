@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਇਕ ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਹੈ ਜਿਸ ਨੇ ਇਹ ਜਗਤ-ਰਚਨਾ ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਇ = ਉਹੀ ਪ੍ਰਭੂ। ਜਿਨਿ = ਜਿਸ ਪ੍ਰਭੂ ਨੇ। ਸਾਹਿਬੁ = ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

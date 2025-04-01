@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇੱਕ ਗੱਲ ਹੋਰ ਚੇਤੇ ਰੱਖਣ ਵਾਲੀ ਹੈ ਕਿ) ਜਦ ਤਕ ਮਨ ਵਿਚ ਬੈਕੁੰਠ ਜਾਣ ਦੀ ਤਾਂਘ ਲੱਗੀ ਹੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਉਹਨਾਂ ਦੀਆਂ ਦਾਸੀਆਂ ਦੀ ਪਾਣੀ ਢੋਣ ਵਾਲੀ ਬਣਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਸਨਿ ਦਾਸੀ = ਦਾਸੀਆਂ ਦੀ ਦਾਸੀ। ਪਨਿਹਾਰਿ = ਪਾਣੀ ਭਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

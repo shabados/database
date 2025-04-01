@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਭੀ ਵਿਆਖਿਆ ਕਰ ਕੇ ਇਹੀ ਆਖਦੇ ਹਨ ਕਿ ਇਕ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਖਾਣਿ = ਵਖਾਣ ਕੇ, ਵਿਆਖਿਆ ਕਰ ਕੇ। ਕਹੀਐ = ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ ਸੁਵਖਤੇ ਘੁਸਮੁਸੇ (ਵੇਲੇ ਉੱਠ ਕੇ) ਕਿਸ ਦਾ ਸੋਹਣਾ ਨਾਮ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝਾਲਿ = ਝਾਲਾਂਘੇ। ਵਡੜੈ ਝਾਲਿ = ਬੜੇ ਸਵੇਰ ਵੇਲੇ, ਬਹੁਤ ਸਵੇਰੇ। ਝਲੁੰਭਲੈ = ਘੁਸਮੁਸੇ। ਨਾਵੜਾ = ਸੋਹਣਾ ਨਾਮ। ਕਿਸੁ ਨਾਵੜਾ = ਕਿਸ ਦਾ ਸੋਹਣਾ ਨਾਮ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

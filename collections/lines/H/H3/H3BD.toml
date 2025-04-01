@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੱਤ ਕੰਗਾਲਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਹਰੀ-ਪ੍ਰਭੂ! ਮੈਨੂੰ ਸਾਧ ਸੰਗਤਿ ਦਾ ਸਾਥ ਮਿਲਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਨਾ ਦੀਨ = ਕੰਗਾਲਾਂ ਤੋਂ ਕੰਗਾਲ। ਪ੍ਰਭੁ = ਹੇ ਪ੍ਰਭੂ! ਸੰਙੁ = ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

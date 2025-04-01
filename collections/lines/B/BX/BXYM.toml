@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਕਬਾਲ ਮਰਤਬੇ ਵਿਚ ਉਹ ਸਭ ਨਾਲੋਂ ਵਧੇਰੇ ਸੁਭਾਗਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਇਕਬਾਲ ਫ਼ੀਰੋਜ਼ਮੰਦ ਅਜ਼ ਹਮਾ ।੧੫੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

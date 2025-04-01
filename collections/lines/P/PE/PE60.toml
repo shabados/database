@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਆਸਰੇ ਪਰਮਾਤਮਾ ਦਾ ਧਿਆਨ ਧਰਿਆ ਕਰ, ਆਪਣੇ ਮਨ ਵਿਚ ਹਰਿ-ਨਾਮ ਸਿਮਰਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਗ ਜੀਵਨੁ = ਜਗਤ ਦਾ ਆਸਰਾ। ਮਨਿ = ਮਨ ਵਿਚ। ਸਿਮਰੀ = ਸਿਮਰਿ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

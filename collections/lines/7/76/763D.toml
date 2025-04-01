@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਤੂੰ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਜੁ = ਜਪਿਆ ਕਰ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਮੂਲ! ਹੇ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲੇ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਨ = ਸਬੱਬ, ਮੂਲ। ਕਰਨ = ਕੀਤਾ ਹੋਇਆ ਜਗਤ। ਕਾਰਨ ਕਰਨ = ਜਗਤ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਕਰਮੁ = ਬਖ਼ਸ਼ਸ਼। ਕਰੀਮ = ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

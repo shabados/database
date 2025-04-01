@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਉਸ ਦੀ ਗਲੀ ਇਤਨੀ ਪਿਆਰੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਸਕਿ ਮਾ ਰਾ ਕੂਇ ਊ ਬਾਸ਼ਦ ਲਜ਼ੀਜ਼ ।੩੫।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

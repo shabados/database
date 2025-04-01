@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਜੇ ਇਕ ਮੋਤੀ ਕਿਸੇ ਅੰਨ੍ਹੇ ਨੂੰ ਮਿਲ ਜਾਏ ਤਾਂ ਉਹ ਉਸ ਨੂੰ ਵੇਚਣ ਲਈ ਘਰ ਘਰ ਫਿਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਣਕੁ = ਮੋਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

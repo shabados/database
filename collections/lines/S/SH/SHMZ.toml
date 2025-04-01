@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਉਤੇ ਮੇਹਰ ਹੋਵੇ ਉਸ ਨੂੰ (ਮਾਇਆ ਦੀ) ਅੱਗ ਪੋਹ ਹੀ ਨਹੀਂ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਇਆ = ਦਇਆ। ਅਗਨਈ = (ਵਿਕਾਰਾਂ ਦੀ) ਅੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ (ਮੇਰੇ) ਮਨ! ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ ਜੁੜਿਆ ਰਹੁ, (ਇਹ ਸੰਗਤ) ਭਲੇ ਗੁਣ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸੁਭਵੰਤੀ = (ਸੰਗਤ) ਭਲੇ ਗੁਣ ਦੇਣ ਵਾਲੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

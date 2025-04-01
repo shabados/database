@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਕੁੰਜੀ ਜ਼ਖ਼ਮੀ ਦਿਲਾਣ ਅਤੇ ਜਾਨਾਣ ਦੀ ਮਲ੍ਹਮ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਰਹਮਿ ਦਿਲਹਾਇ ਰੇਸ਼ੇ ਜਾਣ ਬਵਦ ।੧੬੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

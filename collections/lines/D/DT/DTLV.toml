@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਨਕ ਉਸ ਪ੍ਰਭੂ ਤੋਂ ਸਦਕੇ ਹੈ ਜੋ ਸਾਰਿਆਂ ਵਿਚ ਵਿਆਪਕ ਹੈ ॥੨੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਵਿ ਰਹਿਆ = ਵਿਆਪਕ ਹੈ। ਸਰਬਤਿ = ਸਾਰਿਆਂ ਵਿਚ ॥੨੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

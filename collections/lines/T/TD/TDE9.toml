@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸੀਂ ਗੱਲਾਂ ਵਿਚ ਸੁਚੱਜੀਆਂ (ਹਾਂ, ਪਰ) ਆਚਰਨ ਦੀਆਂ ਮਾੜੀਆਂ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰੀ = ਚਾਲ-ਚਲਣ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

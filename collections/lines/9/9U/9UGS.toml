@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਦੇਵਤਿਆਂ ਦਾ ਨਾਥਾਂ ਦਾ ਭੀ ਦੇਵਤਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਿ = ਦੇਵਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

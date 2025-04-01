@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਸ ਦੀ ਸਿਫਤ ਦੇ ਰਾਹ ਤੇ ਮੈਂ ਕਿਵੇਂ ਚਲਾਂ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਰਹਿ ਵਸਫ਼ਿ ਊ ਚਿ ਪੇਇਮ ਮਨ ।੧੬।"
+page = 1
+line = 16
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਰਫ਼ ਇਕ ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ = ਹਰ ਥਾਂ। ਵਰਤੈ = ਮੌਜੂਦ ਹੈ। ਸੋਈ = ਉਹ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

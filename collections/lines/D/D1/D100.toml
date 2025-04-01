@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਬਾਦਸ਼ਾਹਾਂ ਦਾ ਬਾਦਸ਼ਾਹ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਾਹਿ ਸ਼ਹਨਸ਼ਾਹ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੦੭।"
+page = 10
+line = 107
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

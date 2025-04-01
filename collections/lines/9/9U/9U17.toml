@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਭਟਕਦੇ ਫਿਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮਹਿ = ਜਨਮ ਵਿਚ। ਮਰਿ = ਮਰ ਕੇ। ਭਗੇ = ਦੌੜਦੇ ਰਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

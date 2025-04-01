@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭੀ ਐਸਾ ਨਹੀਂ ਦਿੱਸਦਾ ਜੋ ਸੰਸਾਰ ਵਿਚ ਸਦਾ ਟਿਕਿਆ ਰਹਿ ਸਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰੈ = ਸੰਸਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

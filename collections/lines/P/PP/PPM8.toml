@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰਿ-ਨਾਮ ਸਿਮਰਿਆਂ ਸਭ ਭਟਕਣਾਂ ਦੂਰ ਹੋ ਜਾਂਦੀਆਂ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਹਰਿ ਕਰਤ = ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ। ਭਰਮਾ = ਭਟਕਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

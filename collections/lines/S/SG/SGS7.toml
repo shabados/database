@@ -14,3 +14,9 @@ asset = "VBGS"
 type = "translation"
 language = "pa"
 data = "ਕਿੰਨੇ ਹੀ ਰੋਕੜੀਏ, ਨਿਗਰਾਨੀ ਰੱਖਣ ਵਾਲੇ ਦਰੋਗੇ ਤੇ ਰਸਦ ਦੇਣ ਵਾਲੇ ਹਨ।"
+
+[[content]]
+asset = "VBGS"
+type = "note"
+language = "pa"
+data = "ਤਹਵੀਲਦਾਰ=ਰੋਕੜ ਰੱਖਣ ਵਾਲਾ। ਮੁਸਰਫ ਦਾਰ=ਇਨਸਪੈਕਟਰ, ਕਿਸੇ ਕੰਮ ਦੀ ਨਿਗਰਾਨੀ।"

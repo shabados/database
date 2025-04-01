@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਉੱਚ-ਅਵਸਥਾ ਤੇ ਉਸ ਦੇ ਵਡੱਪਣ ਦਾ ਅੰਦਾਜ਼ਾ ਕੋਈ ਨਹੀਂ ਲਗਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਤਿ = ਹਾਲਤ, ਅਵਸਥਾ। ਮਿਤਿ = ਮਿਣਤੀ, (ਵਡੱਪਣ ਦਾ) ਅੰਦਾਜ਼ਾ। ਨ ਲਾਖੈ = ਨਹੀਂ ਸਮਝ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

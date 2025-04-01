@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੈ ਲਾਲ ਹੋਠਾਣ ਤੋਣ ਮੇਰੇ ਜ਼ਖ਼ਮੀ ਦਿਲ ਉੱਤੇ ਲੂਣ ਛਿੜਕ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਮਕ ਜ਼ਿ ਲਾਲਿ ਲਬਤ ਰੇਜ਼ ਬਰਦਿਲਿ ਰੇਸ਼ਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

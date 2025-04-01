@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸੁਆਮੀ! ਹੇ ਪਾਰਬ੍ਰਹਮ! ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਮਾਲਕ ਹੈਂ। ਜੁਗਾਂ ਜੁਗਾਂ ਤੋਂ ਤੇਰੀ ਭਾਲ ਹੁੰਦੀ ਆ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਮ ਖੋਜਹੁ = ਤੁਸੀ ਖੋਜੇ ਜਾ ਰਹੇ ਹੋ, ਤੁਹਾਡੀ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਜੁਗ ਜੁਗਨੇ = ਜੁਗਾਂ ਜੁਗਾਂ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

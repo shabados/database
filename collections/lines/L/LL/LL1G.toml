@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮੈਨੂੰ ਗੁਣ-ਹੀਨ ਨੂੰ ਸਾਰੇ ਗੁਣਾਂ ਤੋਂ ਸੱਖਣੇ ਨੂੰ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੈਨੂੰ। ਨਿਰਗੁਨ = ਗੁਨ-ਹੀਨ (ਨੂੰ)। ਬਿਹੂਨਾ = ਸੱਖਣਾ। ਧਾ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

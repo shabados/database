@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ (ਕਰ, ਇਹ) ਮਿਹਨਤ ਫਲ ਦੇਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਸੇਵ ਹਰਿ = ਹਰੀ ਦੀ ਸੇਵਾ-ਭਗਤੀ (ਕਰ)। ਘਾਲ = ਮਿਹਨਤ। ਸਫਲ = ਫਲ ਦੇਣ ਵਾਲੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

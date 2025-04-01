@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ ਹਰ ਭੁੱਲੜ ਨੂੰ ਰਾਹ ਦੱਸਣ ਵਾਲੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਹਰ ਗੁਮ-ਸ਼ੁਦਾ ਰਾ ਰਾਹਨੁਮਾ ਸਤ ।੨੫੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

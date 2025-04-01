@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਦਵਾਨ ਲੋਕ ਧਰਮ-ਚਰਚਾ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੀ = ਵਿਦਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

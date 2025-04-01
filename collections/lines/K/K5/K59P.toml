@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਾਂ ਵਾਸਤੇ) ਉਹੀ ਗੱਲ ਚੰਗੀ ਹੈ ਜੋ ਕਰਤਾਰ ਨੇ (ਆਪ ਉਹਨਾਂ ਵਾਸਤੇ) ਕੀਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾਰਿ = ਕਰਤਾਰ ਨੇ। ਸਾਈ = ਓਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

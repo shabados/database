@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੋਣ ਸਾਡਾ ਤੇਰੀ ਗਲੀ ਗਿਰਦ ਘੁੰਮਣਾ ਆਮ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬਗਰਦੇ ਸਰਿ ਕੂਇ ਤੂ ਬਗਰਦੀਦ ਆਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

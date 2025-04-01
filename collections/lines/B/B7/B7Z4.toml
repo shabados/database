@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੁੱਲਾਂ! ਤੂੰ (ਹੋਰ ਲੋਕਾਂ ਨੂੰ ਤਾਂ) ਖ਼ੁਦਾ ਦਾ ਨਿਆਂ ਸੁਣਾਉਂਦਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਲਾਂ = ਹੇ ਮੁੱਲਾਂ! ਕਹਹੁ = ਸੁਣਾਉਂਦਾ ਹੈਂ। ਨਿਆਉ = ਇਨਸਾਫ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਗੋਬਿੰਦ ਦੀ ਮਿਹਰ ਨਾਲ) ਮੇਰੇ ਮੱਥੇ ਉੱਤੇ (ਭੀ) ਉਸ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਲੱਗੀ ਹੈ (ਭਾਵ, ਮੈਨੂੰ ਭੀ ਗੋਬਿੰਦ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮੱਥੇ ਉੱਤੇ ਲਾਉਣੀ ਨਸੀਬ ਹੋਈ ਹੈ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਥੈ = ਮੱਥੇ ਉੱਤੇ। ਲਾਗੀਲੇ = ਲੱਗੀ ਹੈ। ਧੂਰਿ = ਧੂੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

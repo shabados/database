@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਮੈਂ ਤੇਰੇ ਕਿਹੜੇ ਕਿਹੜੇ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਹਉਂ, {अहम्} ਮੈਂ। ਆਖਾ = ਆਖਾਂ, ਮੈਂ ਬਿਆਨ ਕਰਾਂ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

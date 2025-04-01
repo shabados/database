@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਕੋਈ ਮਨੁੱਖ ਰਾਜਾ ਭੀ ਬਣ ਜਾਏ) ਤਖ਼ਤ ਉਤੇ (ਬੈਠੇ ਹੋਏ ਨੂੰ) ਨੇਜ਼ਾ-ਬਰਦਾਰ ਤੇ ਫ਼ੌਜੀ ਵਾਜੇ ਵਾਲੇ ਸਲਾਮ ਕਰਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਖਤਿ = ਤਖ਼ਤ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

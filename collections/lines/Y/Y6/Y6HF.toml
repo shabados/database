@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਮਝੋ, ਉਹ ਸਾਰੇ ਫਿਕਰਾਣ ਅਤੇ ਅੰਦੇਸ਼ਿਆਣ ਤੋਣ ਮੁਕਤ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਸ਼ਤ ਫ਼ਾਰਿਗ ਅਜ਼ ਹਮਾ ਤਸ਼ਵੀਸ਼ੋ ਰੰਜ ।੧੭੦।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

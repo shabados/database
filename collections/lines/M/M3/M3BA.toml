@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੀ ਉਚਿਆਈ ਫ਼ਰਿਸ਼ਤਿਆਂ ਦੀ ਸਮਝ ਤੋਂ ਬਾਹਰ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਉਲੂਅਸ਼ ਜ਼ਿ ਫ਼ਹਿਮਿ ਮਲਾਇਕ ਫ਼ਜ਼ੂੰ ।੧੬੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

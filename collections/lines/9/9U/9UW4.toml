@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ, ਹਰ ਪਾਸ ਤੇਰੀ ਸੂਹ ਲੱਭ ਰਿਹਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਯਾਸਤ ਬਹਰ ਤਰਫ਼ ਸੁਰਾਗ਼ਤ ਜੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

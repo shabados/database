@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰੇਮ-ਰਤਨ ਪੈਦਾ ਹੋ ਪਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਤਰਿ = (ਮੇਰੇ) ਅੰਦਰ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ। ਰਤੰਨਾ = ਰਤਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਅਤੇ, ਰੂਹਾਨੀ ਸੰਸਾਰ ਦੇ ਸਾਰੇ ਫਰਿਸ਼ਤੇ ਵੀ ਉਸ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਮਾ ਲਾਹੂਤੀਆਂ ਬਪਾਇ ਊ ।੧੮।"
+page = 1
+line = 18
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਖੀ! ਹੁਣ) ਮੈਂ ਪਿਆਰੇ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਦਾਸੀ ਬਣ ਗਈ ਹਾਂ ਸੇਵਾਦਾਰਨੀ ਬਣ ਗਈ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਬੰਦੀ = ਦਾਸੀ। ਖਿਜਮਤਦਾਰ = ਸੇਵਾ ਕਰਨ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

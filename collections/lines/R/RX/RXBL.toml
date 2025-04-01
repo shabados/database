@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਸਰਵੋਤਮ ਗੁਨਾਂ ਦਾ ਧਾਰਨੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਰ ਤਰੀਂ ਔਸਾਫ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੧੮।"
+page = 10
+line = 118
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

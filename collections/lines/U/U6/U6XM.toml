@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਘਰ ਪ੍ਰਭੂ! ਤੇਰਾ ਨਾਮ (ਮੇਰੇ ਹਰੇਕ ਰੋਗ ਦੀ) ਦਵਾਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਉਖਧੁ = ਦਵਾਈ। ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

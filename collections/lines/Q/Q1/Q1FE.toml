@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਨਿਰੋਲ ਆਪਣੇ ਆਪੇ ਤੋਂ ਹੀ ਸ੍ਰਿਸ਼ਟੀ ਪੈਦਾ ਹੁੰਦੀ ਹੈ ਤੇ ਉਸ ਦੇ ਆਪੇ ਵਿਚ ਹੀ ਸਮਾ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਜੀ = ਪੈਦਾ ਹੁੰਦੀ ਹੈ। ਸੁੰਨਿ = ਨਿਰੋਲ ਉਸ ਦੇ ਆਪਣੇ ਆਪੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

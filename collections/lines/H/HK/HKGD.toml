@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ!) ਤੇਰੀ ਯਾਦ ਤੋਂ ਬਿਨਾ ਮੈਂ ਵਿਆਕੁਲ ਹੋ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਵ ਰਹਾ = ਕਿਵੇਂ ਰਹਿ ਸਕਦਾ ਹਾਂ? ਮੈਂ ਵਿਆਕੁਲ ਹੋ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

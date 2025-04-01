@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਸਦਾ ਗਿਣ-ਮਿਥ ਕੇ ਆਪਣੀ ਜੀਭ ਨਾਲ ਝੂਠ ਬੋਲਦਾ ਰਹਿੰਦਾ ਹੈ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਿਆ = ਝੂਠ। ਰਸਨਾ = ਜੀਭ (ਨਾਲ)। ਉਠਿ = ਉੱਠ ਕੇ। ਨਿਤ ਉਠਿ = ਸਦਾ ਹੀ, ਹਰ ਰੋਜ਼। ਭਾਖੈ = ਬੋਲਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

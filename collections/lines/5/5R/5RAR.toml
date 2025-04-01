@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਫਿਰ ਕਦੀ ਪਹਿਲਾਂ ਤੇ ਕਦੀ ਪਿੱਛੋਂ ਅਜੇਹਾ ਕਹਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਜ਼ ਗੋਇੰਦ ਕਬਲੋ ਬਾਅਦ ਹਮੇ ।੪੪।"
+page = 1
+line = 44
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

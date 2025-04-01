@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੋਹ ਨਾਲ ਭਰੀ ਹੋਈ ਕ੍ਰੋਧ ਦੀ (ਮਾਨੋ) ਕਟੋਰੀ ਹੈ ਤੇ ਅਹੰਕਾਰ (ਮਾਨੋ) ਪਿਲਾਉਣ ਵਾਲਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

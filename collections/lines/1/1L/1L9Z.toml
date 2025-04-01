@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਅਨੇਕਾਂ ਵਿਚੋਂ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਹੀ ਹਰਿ-ਨਾਮ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕੇਲਾ = ਕੋਈ ਵਿਰਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

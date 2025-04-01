@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਜਨ ਦੇ ਬਿਰਹਾ ਦੀ ਅੱਗ ਵਿਚ ਸੜਨਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੋਖਤਮ ਦਰ ਫ਼ਿਰਾਕਿ ਆਤਿਸ਼ਿ ਯਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

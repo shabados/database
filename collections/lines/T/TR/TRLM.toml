@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਜਗਤ ਦਾ ਮੂਲ ਹੈ, ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈ, ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਨ ਕਾਰਨ = ਜਗਤ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਕਰਨ = ਜਗਤ। ਦਇਆਰ = ਦਇਆਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

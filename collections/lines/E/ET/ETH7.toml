@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸਦੇ ਨੂਰ ਤੋਂ ਪੂਰਬ ਅਤੇ ਪੱਛਮ ਰੌਸ਼ਨ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਨੂਰਸ਼ ਫ਼ਰੋਜ਼ਾਂ ਸ਼ਰਕੁਲ ਗ਼ਰਬ ।੧੩੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

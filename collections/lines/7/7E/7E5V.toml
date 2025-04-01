@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ (ਦੁਨੀਆ ਵਾਲਾ) ਸੁਖ ਮੰਗਦਾ ਹੈ, ਕੋਈ ਭੀ ਦੁੱਖ ਨਹੀਂ ਮੰਗਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਕਉ = ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

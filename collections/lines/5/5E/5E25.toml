@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਗੋਬਿੰਦ ਜਿਸ ਮਨੁੱਖ ਦਾ ਸਹਾਈ ਬਣਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸਹਿ ਸਹਾਈ = ਜਿਸ ਦੀ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

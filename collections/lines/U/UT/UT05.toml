@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਨ੍ਹੇ! ਤੂੰ ਅੱਖਾਂ ਨਾਲ (ਕਿਉਂ) ਨਹੀਂ ਵੇਖਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਅੰਧੇ = ਹੇ ਅੰਨ੍ਹੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

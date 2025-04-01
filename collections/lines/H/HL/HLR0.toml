@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਦੇ ਹਿਰਦਿਆਂ ਵਿੱਚੋਂ ਦੂਈ ਦਾ ਮੋਹ ਕਢ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹੁੱਬਿ ਗ਼ੈਰ ਅਜ਼ ਜ਼ਮੀਰਿ ਸ਼ਾਂ ਬਜ਼ਦਾਇ ।"
+page = 1
+line = 49
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

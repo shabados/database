@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਦਾਸ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੇ (ਜ਼ਿੰਦਗੀ ਵਿਚ) ਹਰੀ ਦਾ ਨਾਮ ਸਿਮਰਿਆ, ਹਰੀ ਉਹਨਾਂ ਦਾ ਜ਼ਰੂਰ ਮਦਦਗਾਰ ਬਣਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਖਾਈ = ਮਦਦਗਾਰ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

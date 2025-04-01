@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ, ਇਹ ਜਗਤ ਇਕ ਖੇਡ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਿ = ਕਹੇ, ਆਖਦਾ ਹੈ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਦੇ ਘਰ ਵਿਚ ਬਹੁਤ ਮਾਇਆ ਹੁੰਦੀ ਹੈ, ਉਸ ਮਨੁੱਖ ਦੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ (ਹਰ ਵੇਲੇ) ਚਿੰਤਾ ਰਹਿੰਦੀ ਹੈ (ਕਿ ਕਿਤੇ ਖੁੱਸ ਨਾਹ ਜਾਏ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸੁ ਗ੍ਰਿਹਿ = ਜਿਸ ਮਨੁੱਖ ਦੇ ਘਰ ਵਿਚ। ਤਿਸੈ ਗ੍ਰਿਹਿ = ਉਸੇ ਦੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

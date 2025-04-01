@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਜ਼ਾਰਾਂ ਬ੍ਰਹਮਾ ਗੁਰੂ ਨਾਨਕ ਦੀ ਉਸਤਤਿ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਜ਼ਾਰਾਂ ਬ੍ਰਹਮਾਂ ਸਨਾਖ਼ਾਨਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

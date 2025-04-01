@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਭ ਤੋਂ ਵੱਡੇ (ਮਾਲਕ)! ਤੂੰ ਸਭ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ ਹੈਂ, ਤੂੰ ਜਗਤ ਦਾ ਰਚਨਹਾਰ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਮਰਥਾ = ਸਾਰੀਆਂ ਤਾਕਤਾਂ ਦਾ ਮਾਲਕ। ਕਾਰਨ = ਸਬੱਬ, ਮੂਲ। ਕਰਨ = ਜਗਤ। ਕਰਨ ਕਾਰਨ = ਜਗਤ ਦਾ ਮੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

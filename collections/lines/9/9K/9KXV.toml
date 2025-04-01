@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾੜੇ ਕੰਮ ਛੱਡੋ, ਗੁਣ ਗ੍ਰਹਣ ਕਰੋ, ਇਸ ਤਰ੍ਹਾਂ ਅਸਲ (ਖੱਟੀ) ਖੱਟੋ! ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਤੁ = ਅਸਲੀਅਤ। ਪਰਾਵਹੁ = ਪ੍ਰਾਪਤ ਕਰੋ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਪਾਤਸ਼ਾਹ (ਨਾਨਕ) ਨੇ ਕਿਹਾ, ਮੈਂ ਇਸ ਦੇ ਕੀ ਲਾਇਕ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਾਹ ਗੁਫ਼ਤਾ ਚਿ ਲਾਇਕ ਆਨਮ ।"
+page = 1
+line = 50
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

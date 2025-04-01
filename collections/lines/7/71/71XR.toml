@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਜ, ਮਾਲ, ਮਹਲ-ਮਾੜੀਆਂ, ਦਰਬਾਰ ਲਾਉਣੇ (ਜੋ ਸੁਖ ਇਹਨਾਂ ਵਿਚ ਹਨ, ਨਾਮ ਸਿਮਰਨ ਵਾਲਿਆਂ ਨੂੰ ਉਹ ਸੁਖ ਨਾਮ-ਸਿਮਰਨ ਤੋਂ ਪ੍ਰਾਪਤ ਹੁੰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਦਨ = {सदन} ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

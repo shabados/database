@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੂੰ ਬਾਲਮੀਕ ਵਲ ਕਿਉਂ ਨਹੀਂ ਵੇਖਦਾ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਹੇ ਨ = ਕਿਉਂ ਨਹੀਂ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

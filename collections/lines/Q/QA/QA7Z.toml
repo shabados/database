@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਉਸ ਦੇ (ਹਿਰਦੇ ਦਾ) ਕਉਲ-ਫੁੱਲ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਮਲ = ਹਿਰਦਾ ਰੂਪ ਕਉਲ ਫੁੱਲ। ਬਿਗਾਸਨੁ = ਖਿੜਾਉ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

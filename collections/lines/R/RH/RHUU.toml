@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਦਇਆਲ ਪ੍ਰਭੂ ਆਪ (ਤ੍ਰਿਸ਼ਨਾ ਤੋਂ) ਬਚਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਖੈ = (ਤ੍ਰਿਸ਼ਨਾ ਤੋਂ) ਬਚਾਂਦਾ ਹੈ। ਦਇਆਰਾ = ਦਇਆਲ, ਦਇਆ ਦਾ ਘਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

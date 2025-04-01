@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਪੂਰਾ ਗੁਰੂ ਜਿਸ ਮਨ ਨੂੰ ਇਸ ਦੀ ਸੂਝ ਬਖ਼ਸ਼ ਦੇਵੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਇ ਬੁਝਾਇ = ਸਮਝਾ ਦੇਵੇ, ਸੂਝ ਪਾ ਦੇਵੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਸਿਰ ਤੋਂ ਪੈਰਾਂ ਤੱਕ ਉਚਾਈਆਂ ਅਤੇ ਵਡਿਆਈਆਂ ਦਾ ਭੰਡਾਰ ਸਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੁਰੂ ਤੇਗ਼ ਬਹਾਦਰ ਆਂ ਸਰਾਪਾ ਅਫ਼ਜ਼ਾਲ ।"
+page = 9
+line = 99
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

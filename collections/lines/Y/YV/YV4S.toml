@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! (ਦੁਨੀਆ ਦੇ) ਰਾਜਿਆਂ ਵਿਚ ਤੂੰ (ਸ਼ਿਰੋਮਣੀ) ਰਾਜਾ ਅਖਵਾਂਦਾ ਹੈਂ, ਭੁਇਂ ਦੇ ਮਾਲਕਾਂ ਵਿਚ ਤੂੰ (ਸਭ ਤੋਂ ਵੱਡਾ) ਭੁਇਂ ਦਾ ਮਾਲਕ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹੀਅਹਿ = ਤੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈਂ। ਭੂਮਾ = ਭੂਮੀ ਦਾ ਮਾਲਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

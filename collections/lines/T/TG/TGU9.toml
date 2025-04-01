@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ (ਆਪਣੇ) ਇਸ ਮਨ ਨੂੰ ਨਵੇਂ ਸਿਰੇ ਘੜੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਬਦਿ = ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਬਨਾਵਹੁ = ਨਵੇਂ ਸਿਰੇ ਘੜੋ, ਸੋਹਣਾ ਬਣਾ ਲਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

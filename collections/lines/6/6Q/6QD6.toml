@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿ ਸਾਰਾ ਸੰਸਾਰ ਤਾਣ ਸੁੱਤਾ ਪਿਆ ਹੈ ਅਤੇ ਸ਼ਮ੍ਹਾ ਜਾਗ ਰਹੀ ਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜੁਮਲਾ ਆਲਮ ਖ਼ੁਫ਼ਤਾ ਓ ਬੇਦਾਰ ਸ਼ਮਆ ।੪੬।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

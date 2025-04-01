@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਉਹ ਅੱਖ ਜਿਸ ਨੇ ਰੱਬ ਨੂੰ ਨਾ ਪਛਾਣਿਆ, ਮਾਨੋ ਅੰਨ੍ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੂਰ ਅਸਤ ਹਰ ਆਣ ਦੀਦਾ ਕਿ ਹੱਕ ਰਾ ਨਭਸ਼ਨਾਖ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

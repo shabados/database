@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖਿਨ ਮਾਤ੍ਰ, ਪਲ ਮਾਤ੍ਰ ਜਾਂ ਚਸਾ ਮਾਤ੍ਰ ਭੀ ਦੀਨਾਂ ਦੇ ਨਾਥ, ਪ੍ਰਾਣਾਂ ਦੇ ਮਾਲਕ, ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਸਾਜਣਹਾਰ ਦਾ ਨਾਮ ਨਹੀਂ ਜਪਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਰੀ = ਸ੍ਰਿਸ਼ਟੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

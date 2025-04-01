@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਸ਼ਰਨ ਪਏ ਰਹੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ ਜਨ = ਹੇ ਦਾਸ ਨਾਨਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

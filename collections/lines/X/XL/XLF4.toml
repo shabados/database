@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਸੂਰ ਦੀ ਜੂਨੇ ਮੁੜ ਮੁੜ ਜੰਮਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਕਰ = ਸੂਰ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

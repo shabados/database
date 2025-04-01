@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪੰਜੇ ਦੁਸ਼ਟ ਸਿਰਫ਼ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਹੀ ਕਾਬੂ ਵਿਚ ਆਉਂਦੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਸਿ = ਕਾਬੂ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

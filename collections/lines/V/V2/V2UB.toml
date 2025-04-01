@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਸੀਂ ਜੀਵ ਪਰਮਾਤਮਾ (ਸ਼ਾਹੂਕਾਰ) ਦੇ (ਭੇਜੇ ਹੋਏ) ਵਪਾਰੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਣਜਾਰੇ = ਵਣਜ ਕਰਨ ਵਾਲੇ, ਵਪਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

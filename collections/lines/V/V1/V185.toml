@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇ ਇਸ (ਮਾਇਆ) ਨਾਲ ਬਹੁਤੀ ਪ੍ਰੀਤਿ ਕਰੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਨ੍ਹ੍ਹ ਸਿਉ = ਇਸ (ਮਾਇਆ) ਨਾਲ। ਘਨੇਰੀ = ਬਹੁਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

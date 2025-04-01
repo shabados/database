@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਏ ਦੇ ਸਿਰ ਉਤੇ ਸੁਆਹ ਪੈਂਦੀ ਹੈ (ਫਿਟਕਾਰ ਪੈਂਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੜੈ = ਪੈਂਦੀ ਹੈ। ਛਾਰੋ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਵਰਤਾਂ ਸੰਜਮਾਂ ਦੇ ਨੇਮ ਵਿਚ ਰੁੱਝਾ ਰਹਿੰਦਾ ਹੈ, ਪਰ ਉਹਨਾਂ ਉੱਦਮਾਂ ਦਾ ਮੁੱਲ ਉਸ ਨੂੰ ਇਕ ਕੌਡੀ ਭੀ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਢੁ = ਅੱਧੀ ਕੌਡੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

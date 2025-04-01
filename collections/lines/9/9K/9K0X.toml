@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਜਿਸ ਕੰਮ ਵਿਚ ਤੇਰੀ ਰਜ਼ਾ ਹੋਈ ਤੂੰ ਉਸ ਉਸ ਕੰਮ ਵਿਚ (ਸਾਰੇ ਜੀਅ ਜੰਤ) ਲਾਏ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਪਾਸੇ ਜਿਸ (ਕੰਮ) ਵਿਚ। ਭਾਣਾ = ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਾ। ਤਿਤੁ = ਉਸ (ਕੰਮ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

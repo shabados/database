@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਧ ਸੰਗਤ ਵਿਚ ਟਿਕਿਆਂ (ਹਿਰਦੇ ਵਿਚੋਂ) ਹਰੇਕ ਕਿਸਮ ਦਾ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਤੁ = {दुरित} ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਰਾਮ ਦੇ ਕੰਮ ਵੇਖਣੇ ਚਾਹੁੰਦਾ ਹਾਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਉ = ਮੈਂ ਵੇਖਾਂ, ਮੈਂ ਵੇਖਣੇ ਚਾਹੁੰਦਾ ਹਾਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੇ ਰੱਬ ਨਾਲ ਦਿਲ ਲਗਾ ਲਿਆ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਸ ਕੂ ਬਾ ਖ਼ੁਦਾ ਦਿਲ ਬਸਤਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

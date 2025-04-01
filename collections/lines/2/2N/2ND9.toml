@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਾਈ ਨਿੰਦਿਆ ਨਹੀਂ ਹੈ, ਪਰਾਈ ਖ਼ੁਸ਼ਾਮਦ ਨਹੀਂ ਹੈ, ਜਿਸ ਨੂੰ ਸੋਨਾ ਲੋਹਾ ਇਕੋ ਜਿਹੇ ਦਿੱਸਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ = ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ। ਕੰਚਨੁ = ਸੋਨਾ। ਲੋਹ = ਲੋਹਾ। ਸਮਾਨੋ = ਇਕੋ ਜਿਹਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਭੂ) ਜਿਸ ਨੇ ਇਹ ਧਰਤੀ ਤੇ ਅਕਾਸ਼ ਆਦਿਕ ਰਚੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ ਪ੍ਰਭੂ ਨੇ। ਧਰ = ਧਰਤੀ। ਗਗਨੁ = ਆਕਾਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

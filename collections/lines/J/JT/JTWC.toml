@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਆਸਰੇ ਰਿਹਾਂ) ਜਮ-ਰੂਪ ਬਿੱਲਾ ਮੇਰਾ ਕੀਹ ਵਿਗਾੜ ਸਕਦਾ ਹੈ? ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਜਾਰੁ = ਬਿੱਲਾ। ਕਹਾ ਕਰੈ = ਕੀਹ ਕਰ ਸਕਦਾ ਹੈ? ਕੀਹ ਵਿਗਾੜ ਸਕਦਾ ਹੈ? ਮੋਰ = ਮੇਰਾ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

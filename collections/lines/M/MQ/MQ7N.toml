@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪੁੱਤਰ, ਧਨ, ਪਦਾਰਥ, ਇਸਤ੍ਰੀ ਦੇ ਲਾਡ-ਪਿਆਰ-ਅਨੇਕਾਂ ਲੋਕ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ। ਸੰਪਤਿ = ਧਨ-ਪਦਾਰਥ। ਬਿਨੋਦ = ਲਾਡ-ਪਿਆਰ। ਬਨਿਤਾ = ਇਸਤ੍ਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

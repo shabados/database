@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਹਵਾ (ਵਾਂਗ) ਮਾਇਆ (ਜੀਵਾਂ ਨੂੰ) ਹੁਲਾਰੇ ਦੇਂਦੀ ਰਹਿੰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਨੁ = ਹਵਾ। ਝੁਲਾਰੇ = ਝਕੋਲੇ। ਦੇਇ = ਦੇਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

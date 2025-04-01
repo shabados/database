@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਦੁਨੀਆ ਵਿਚ) ਹਰੇਕ ਜੀਵ 'ਮੌਤ, ਮੌਤ' ਆਖ ਰਿਹਾ ਹੈ (ਭਾਵ, ਹਰੇਕ ਜੀਵ ਮੌਤ ਤੋਂ ਘਾਬਰ ਰਿਹਾ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਨੋ ਮਰਨੁ = ਮੌਤ ਆ ਜਾਣੀ ਹੈ, ਮਰ ਜਾਣਾ ਹੈ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

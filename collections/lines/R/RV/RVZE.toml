@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਤੇਰੇ ਦਰਸਨ ਦੀ ਬੜੀ ਤਾਂਘ ਹੈ (ਪਰ ਤੇਰੇ ਦਰ ਤੋਂ) ਕੋਈ ਉੱਤਰ ਨਹੀਂ ਮਿਲਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਿਆਸ = ਦਰਸਨ ਦੀ ਤਾਂਘ। ਜਬਾਬੁ = ਉੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

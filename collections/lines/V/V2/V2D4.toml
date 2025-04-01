@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ ਸੋਹਣਾ ਰਾਮ ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਰਮਈਆ = ਸੋਹਣਾ ਰਾਮ। ਓਤਿ ਪੋਤਿ = {ओत = ਉਣਿਆ ਹੋਇਆ। प्रोत = ਪ੍ਰੋਤਾ ਹੋਇਆ} ਤਾਣੇ ਪੇਟੇ ਵਾਂਗ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

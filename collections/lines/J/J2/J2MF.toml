@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਸ਼ਰ ਹੋਣ ਤੇ ਨਿੰਦਕ) ਹੱਥ ਮੱਥੇ ਉਤੇ ਮਾਰਦੇ ਹਨ ਤੇ ਆਪਣਾ ਸਿਰ ਧਰਤੀ ਨਾਲ ਪਟਕਾਂਦੇ ਹਨ (ਭਾਵ, ਬਹੁਤ ਹੀ ਸ਼ਰਮਿੰਦੇ ਹੁੰਦੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥ ਪਛੋਰਹਿ = (ਆਪਣੇ) ਹੱਥ (ਮੱਥੇ ਤੇ) ਮਾਰਦੇ ਹਨ। ਧਰਨਿ = ਧਰਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

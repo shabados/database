@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ ਪ੍ਰਭੂ! ਲੋਕ ਪਰਲੋਕ ਵਿਚ (ਮੇਰੀ) ਰੱਖਿਆ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਤ ਉਤ = ਲੋਕ ਪਰਲੋਕ ਵਿਚ, ਇਥੇ ਉਥੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

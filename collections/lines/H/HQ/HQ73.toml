@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਹ ਮਨ) ਰਾਜ ਜੋਬਨ ਧਨ ਨਾਲ ਨਹੀਂ ਰੱਜਦਾ, ਮੁੜ ਮੁੜ (ਇਹਨਾਂ ਪਦਾਰਥਾਂ ਦੇ ਪਿੱਛੇ) ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤ੍ਰਿਪਤਾਨੋ = ਰੱਜਦਾ। ਜੋਬਨਿ = ਜੁਆਨੀ ਨਾਲ। ਧਨਿ = ਧਨ ਨਾਲ। ਬਹੁਰਿ = ਮੁੜ। ਧਾਇਆ = ਭਟਕਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

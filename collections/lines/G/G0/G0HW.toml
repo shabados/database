@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤ ਦਾ ਨਿੰਦਕ ਅੰਦਰੋਂ (ਅਸਲੀ ਜ਼ਿੰਦਗੀ ਤੋਂ ਜੋ ਮਨੁੱਖ ਦਾ ਆਧਾਰ ਹੈ) ਖ਼ਾਲੀ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥੋਥਾ = ਖ਼ਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

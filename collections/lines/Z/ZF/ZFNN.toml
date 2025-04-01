@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ ਮੂਰਖ ਮਨੁੱਖ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਬੜੀ ਮਿਹਨਤ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਮੁ = ਮਿਹਨਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

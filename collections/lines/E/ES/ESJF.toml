@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਸਾਂ ਗੁਰਮੁਖਾਂ ਦੇ ਦਰਸ਼ਨਾਂ ਲਈ (ਉਦਾਸੀ-) ਭੇਖ ਧਾਰਿਆ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਤਾਈ = ਦੀ ਖ਼ਾਤਰ। ਦਰਸਨ = ਗੁਰਮੁਖਾਂ ਦਾ ਦਰਸ਼ਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

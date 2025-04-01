@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆ ਸਾਕੀ# ਇੱਥੇ ਪਿਆਲੇ ਨੂੰ ਰੰਗੀਨ ਸ਼ਰਾਬ ਨਾਲ ਭਰ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਆ ਐ ਸਾਕੀਏ ਰੰਗੀਨ ਜ਼ਿ ਮੈ ਪੁਰ ਕੁਨ ਅੱਯਾਗ਼ ਈਂਜਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

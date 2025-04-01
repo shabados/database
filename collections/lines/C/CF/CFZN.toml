@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣੇ ਆਪ ਨੂੰ ਪੈਦਾ ਕਰ ਕੇ ਪਰਗਟ ਹੋਇਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = (ਪ੍ਰਭੂ) ਆਪ ਹੀ। ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ। ਉਪਾਇ = ਪੈਦਾ ਕਰ ਕੇ। ਉਪੰਨਾ = ਪਰਗਟ ਹੋਇਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

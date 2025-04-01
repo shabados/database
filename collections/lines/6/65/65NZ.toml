@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ (ਪਾਪੀ) ਪਾਪ ਨਾਲ ਲੱਦਿਆ ਹੋਇਆ ਪਾਪ ਦਾ ਹੀ ਖਿਲਾਰਾ ਖਿਲਾਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਪਿ = ਪਾਪ ਨਾਲ। ਪਾਪੇ = ਪਾਪ ਦਾ ਹੀ। ਪਾਪੇ ਪਸਾਰਾ = ਪਾਪ ਦਾ ਪਸਾਰਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

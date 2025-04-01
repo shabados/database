@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸਹੇਲੀਏ! ਜਿਵੇਂ) ਵਰਖਾ-ਰੁੱਤ ਬੜੀ ਸੁਖਦਾਈ ਹੁੰਦੀ ਹੈ, ਸਾਵਣ ਭਾਦਰੋਂ ਦੇ ਮਹੀਨਿਆਂ ਵਿਚ (ਵਰਖਾ ਦੇ ਕਾਰਨ) ਬੜੀਆਂ ਮੌਜਾਂ ਬਣੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੁਤਿ = ਮੌਸਮ। ਬਰਸੁ = ਵਰਖਾ (ਦਾ ਮੌਸਮ)। ਸੁਹੇਲੀਆ = ਸੁਖਦਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

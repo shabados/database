@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਾਧ ਸੰਗਤ ਵਿਚ (ਟਿਕ ਕੇ) ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਏ ਹਨ, ਉਸ ਦਾ ਸਾਰਾ ਭਰਮ-ਭੁਲੇਖਾ ਦੂਰ ਹੋ ਗਿਆ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਧ ਸੰਗਿ = ਸਾਧ ਸੰਗਤ ਵਿਚ। ਸਭੁ = ਸਾਰਾ। ਪਰਮਾਦ = {प्रमाद} ਭੁਲੇਖਾ, ਗ਼ਲਤੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

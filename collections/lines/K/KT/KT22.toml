@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਕਰਤਾਰ ਜਿਸ ਮਨੁੱਖ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ, ਉਸ ਦਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਜੀਵ ਉਸ ਮਨੁੱਖ ਦਾ ਕੁਝ ਭੀ ਨਹੀਂ ਵਿਗਾੜ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤਾ = ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਜੀਵ। ਕਉਨੁ = ਕੀਹ ਵਿਚਾਰਾ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

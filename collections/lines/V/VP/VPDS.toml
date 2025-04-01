@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਮੇਰੇ ਅੰਦਰੋਂ) ਮੇਰੀਆਂ ਭੁੱਲਾਂ ਕਿਉਂ ਦੂਰ ਨਹੀਂ ਕਰਦਾ? ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਖੰਡਸਿ = ਤੂੰ ਨਹੀਂ ਨਾਸ ਕਰਦਾ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

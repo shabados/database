@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਕੋਈ ਖ਼ਾਸ ਘਰ ਨਹੀਂ, ਉਸ ਨੂੰ ਕਿਸੇ ਖ਼ੁਰਾਕ ਦੀ ਲੋੜ ਨਹੀਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਰਹ = ਗ੍ਰਿਹ, ਘਰ। ਨਿਰੰਹਾਰੰ = ਨਿਰ-ਅਹਾਰੰ, ਖ਼ੁਰਾਕ ਤੋਂ ਬਿਨਾ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

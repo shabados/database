@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸਾਰੇ ਤੇਰੇ ਹੀ ਅਚਰਜ ਤਮਾਸ਼ੇ ਹਨ, ਇਹ ਸਾਰਾ ਤੇਰਾ ਹੀ ਖੇਲ ਹੈ ॥੧੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਵਿਡਾਣ = ਅਚਰਜ। ਕਾਹਣੋ = ਖੇਡ, ਬਣਤਰ। ਚੋਜ = ਤਮਾਸ਼ੇ ॥੧੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

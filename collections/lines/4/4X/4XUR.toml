@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰ ਇਉਂ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ, ਜਿਵੇਂ) ਪੰਜ ਹੀ ਕਿਸਮਾਂ ਦੇ ਸਾਜ਼ਾਂ ਨੇ ਮਿਲ ਕੇ ਸੁੰਦਰ ਰਾਗ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੰਚ ਸਬਦ ਮਿਲਿ = ਪੰਜ ਕਿਸਮਾਂ ਦੇ ਸਾਜ ਮਿਲ ਕੇ। ਵਾਇਆ = ਵਜਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

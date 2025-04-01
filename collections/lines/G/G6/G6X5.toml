@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੇਕ ਜੀਵ (ਆਪਣੇ ਵਲੋਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ) ਆਖ ਆਖ ਕੇ (ਉਹਨਾਂ ਗੁਣਾਂ ਦਾ) ਵਰਣਨ ਕਰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਨੈ = ਕਿਸੇ (ਜੀਵ) ਪਾਸੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

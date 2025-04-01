@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਹੜਾ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਵਿਚ ਆਪਣੇ ਤਨ ਵਿਚ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਰੱਖਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣ ਨਿਧਾਨ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ। ਰਵਿਆ = ਸਿਮਰਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

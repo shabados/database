@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਰੱਬ ਦੇ ਭਗਤਾਂ ਦੇ ਢੂੰਢਾਊਆਂ ਦਾ ਸੱਜਨ ਬਣ ਜਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਲਿਬਿ ਮਰਦਾਨਿ ਹੱਕ ਰਾ ਦੂਸਤਦਾਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨਾਮ ਨੂੰ ਦੇਵਤੇ, ਮਨੁੱਖ, ਗਣ, ਗੰਧਰਬ ਤੇ ਛੇ ਹੀ ਭੇਖ ਲੋਚ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛਿਅ ਦਰਸਨ = ਜੋਗੀ ਜੰਗਮ ਆਦਿਕ ਛੇ ਭੇਖ। ਆਸਾਸੈ = ਲੋਚਦੇ ਹਨ (ਆਸਾਸਹਿ)। ਸੁਰਿ = ਦੇਵਤੇ। ਨਰ = ਮਨੁੱਖ। ਗੰਧਰਬ = ਦੇਵਤਿਆਂ ਦੇ ਰਾਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਪਿਆਰੇ ਸਤਿਗੁਰੂ ਤੋਂ ਸਦਕੇ ਹਾਂ ਜਿਸ ਨੇ ਮੈਨੂੰ ਅਦ੍ਰਿਸ਼ਟ ਪਰਮਾਤਮਾ ਦੀ ਸੋਝੀ ਪਾ ਦਿੱਤੀ ਹੈ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਲਖੁ = ਅਦ੍ਰਿਸ਼ਟ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

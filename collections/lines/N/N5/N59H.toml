@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਾਹੇ (ਸਰੇਵੜਿਆਂ ਵਾਂਗ) ਗੰਦਾ ਤੇ ਮੈਲਾ ਰਹਾਂ-ਇਹ ਸਾਰੇ ਭੈੜੀ ਮਤਿ ਦੇ ਮੰਦੇ ਕਰਮ ਹੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਚੀਲੁ = ਗੰਦਾ। ਮਲੁਧਾਰੀ = ਮੈਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

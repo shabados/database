@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਿਰਫ਼ ਉਸ ਹਿਰਦੇ ਵਿਚ ਤੇਰੇ ਚਰਨਾਂ ਦਾ ਪ੍ਰੇਮ ਪੈਦਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਡੈ = ਭਾਂਡੇ ਵਿਚ, ਹਿਰਦੇ ਵਿਚ। ਭਾਉ = ਪ੍ਰੇਮ। ਤਿਤੁ = ਉਸ ਵਿਚ। ਤਿਤੁ ਭਾਂਡੈ = ਉਸ ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

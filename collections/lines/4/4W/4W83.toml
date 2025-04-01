@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਵਿਚ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਦਾ ਭਾਂਬੜ ਮਚ ਰਿਹਾ ਹੈ, ਹਰ ਵੇਲੇ ਮਚਿਆ ਰਹਿੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੜਹਾੜੁ = ਭਾਂਬੜ। ਅਨਦਿਨੁ = ਹਰ ਰੋਜ਼। ਭਖੈ = ਭਖ ਰਿਹਾ ਹੈ, ਬਲ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

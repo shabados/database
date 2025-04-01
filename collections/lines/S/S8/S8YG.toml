@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਲੋਕ ਉਹਨਾਂ ਅੱਗੇ ਨਿਊਂਦੇ ਹਨ, ਤੇ ਹਰ ਵੇਲੇ ਉਹਨਾਂ ਦਾ ਆਦਰ-ਸਤਕਾਰ ਕਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉ = ਨੂੰ। ਸਭਿ = ਸਾਰੇ। ਕਰਾਹੀ = ਕਰਾਹਿ, ਕਰਹਿ, ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

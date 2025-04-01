@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰੀ ਗੋਪਾਲ ਦੇ ਸੰਤ ਜਨਾਂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਡੂੰਘੀ ਵਿਚਾਰ ਵਿਚ ਸੁਰਤ ਜੋੜੀ ਰੱਖ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਤ = ਉਪੇਦਸ਼। ਗਿਆਨ = ਡੂੰਘੀ ਸਾਂਝ। ਧਿਆਨ = ਸੁਰਤ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਨੇ ਕਰਤਾਰ ਨੇ (ਆਪ ਬਾਲਕ ਹਰਿਗੋਬਿੰਦ ਦਾ) ਤਾਪ ਉਤਾਰਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਿਆ = ਉਤਾਰਿਆ। ਸਿਰਜਨਹਾਰਿ = ਸਿਰਜਨਹਾਰ ਨੇ, ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਰਨ ਆਏ ਮਨੁੱਖ ਦੇ) ਪਹਾੜਾਂ ਜੇਡੇ ਵੱਡੇ ਤੇ ਭਿਆਨਕ ਐਬ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਬਤ ਦੋਖ = ਪਹਾੜ ਜੇਡੇ ਐਬ। ਬਿਕਰਾਲਾ = ਡਰਾਉਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

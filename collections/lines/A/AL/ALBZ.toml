@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਪ੍ਰਭੂ ਨੇ ਸਾਰੇ ਆਤਮਕ ਸੁਖ ਆਨੰਦ ਪੈਦਾ ਕਰ ਦਿੱਤੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਕੁਸਲ ਖੇਮ = ਸੁਖ ਆਨੰਦ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

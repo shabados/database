@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੁਰਬਾਨ ਜਾਈਏ ਉਸ ਸਰਬ ਸ਼ਕਤੀਮਾਨ ਤੋਂ, ਜਿਸਨੇ ਪਾਣੀ ਦੇ ਇੱਕ ਕਤਰ ਤੋਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਐ ਜ਼ਹੇ ਕਾਦਰ ਕਿ ਅਜ਼ ਯੱਕ ਕਤਰਾ ਆਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

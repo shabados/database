@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੇਰੇ ਬਚਨਾਂ ਵਿਚ ਤੇ ਖ਼ਿਆਲਾਂ ਵਿਚ ਨਾਮ-ਰਤਨ ਹੀ ਪਰੋਤਾ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਸਾ = ਮੂੰਹ ਵਿਚ ਤੇ ਖ਼ਿਆਲਾਂ ਵਿਚ, (ਭਾਵ, ਬਚਨਾਂ ਵਿਚ ਤੇ ਖ਼ਿਆਲਾਂ ਵਿਚ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਤਸ਼ਾਹ, ਰਾਜੇ, ਕੰਗਾਲ ਤੇ ਅਮੀਰ-ਸਭ ਮਾਇਆ-ਰੂਪ ਜ਼ਹਿਰ ਜੋੜਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੂਪਤਿ = (ਭੂ = ਧਰਤੀ। ਪਤਿ = ਖਸਮ) ਧਰਤੀ ਦਾ ਖਸਮ, ਰਾਜਾ, ਪਾਤਸ਼ਾਹ। ਰੰਗ = ਰੰਕ, ਕੰਗਾਲ। ਰਾਇ = ਅਮੀਰ। ਸੰਚਹਿ = ਇਕੱਠੀ ਕਰਦੇ ਹਨ। ਬਿਖੁ = ਜ਼ਹਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

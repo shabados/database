@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੇ ਵਾਸਤੇ ਖੱਟਣ ਕਮਾਣ ਲਈ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਰੋਜ਼ੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਾਟਣ ਕਉ = ਖੱਟਣ ਵਾਸਤੇ। ਰੋਜਗਾਰੁ = ਰੋਜ਼ੀ ਕਮਾਣ ਲਈ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਮੇਸ਼ਾ ਤੂ ਨਸ਼ਈ ਹੋਨ ਤੋਣ ਬਾਦ ਸੂਫੀ ਅਤੇ ਸਾਫ ਬਨ ਜਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਦਾਮ ਬਾਦਾ-ਕਸ਼ੋ ਸੂਫੀ ਓ ਸਫ਼ਾ ਮੀ ਬਾਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

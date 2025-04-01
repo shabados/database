@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਹੁਣ ਜੀਊਂਦੇ ਹਨ ਉਹ (ਮਾਇਆ ਜੋੜਨ ਲਈ) ਲੱਕ ਬੰਨ੍ਹ ਕੇ ਖਲੋ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਬਰੇ = ਬਚੇ ਹੋਏ ਹਨ, ਜੀਊਂਦੇ ਹਨ। ਸੇ = ਉਹ ਬੰਦੇ। ਬੰਧਿ = ਬੰਨ੍ਹ ਕੇ। ਖਰੇ = ਖਲੋਤੇ ਹੋਏ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

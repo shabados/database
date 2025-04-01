@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦਾ ਰਹੁ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰਿਪਾ ਨਿਧਿ = ਹੇ ਕਿਰਪਾ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ। ਨੀਤ = ਨਿੱਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

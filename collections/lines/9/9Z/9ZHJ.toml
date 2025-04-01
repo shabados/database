@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਆਪਣੇ ਹੀ ਰਸ-ਮਾਣ ਵਿਚ ਮੱਤੀ ਸਖੀਏ! ਮੇਰੀਏ ਸਹੇਲੀਏ! (ਹੇ ਮੇਰੇ ਕੰਨ! ਹੇ ਮੇਰੀ ਜੀਭ!)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਿ = ਗਰਬ ਵਿਚ, ਅਹੰਕਾਰ ਵਿਚ। ਗਹੇਲੀ = ਗ੍ਰਸੀ ਹੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

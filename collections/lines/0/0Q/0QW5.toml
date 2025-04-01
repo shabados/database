@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਮਿਹਰ ਕਰ, ਅਸੀਂ (ਤੇਰੇ ਦਰ ਦੇ) ਮੰਗਤੇ ਹਾਂ, ਮੈਂ (ਤੇਰੇ ਦਰ ਤੋਂ) ਇਕ ਦਾਨ ਮੰਗਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਚਕ = ਮੰਗਤੇ। ਮਾਗਉ = ਮਾਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਪਿਆਰੇ = ਹੇ ਪਿਆਰੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

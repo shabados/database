@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸੱਚ ਦੇ ਗਿਆਨ ਤੋਂ ਉਹ ਸਭਨਾਂ ਨਾਲੋਂ ਵਧੇਰੇ ਵਾਕਫਕਾਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬ-ਆਗਾਹੀ ਅਜ਼ ਜੁਮਲਾ ਆਗਾਹ ਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

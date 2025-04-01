@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਪੱਟ ਦਾ ਕੱਪੜਾ ਪਾੜ ਕੇ ਮੈਂ ਲੀਰਾਂ ਕਰ ਦਿਆਂ, ਤੇ ਮਾੜੀ ਜਿਹੀ ਕੰਬਲੀ ਪਾ ਲਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾੜਿ = ਪਾੜ ਕੇ। ਪਟੋਲਾ = (ਸਿਰ ਉਤੇ ਲੈਣ ਵਾਲੀ ਜ਼ਨਾਨੀ ਦਾ) ਪੱਟ ਦਾ ਕੱਪੜਾ। ਧਜ = ਲੀਰਾਂ। ਕੰਬਲੜੀ = ਮਾੜੀ ਜਿਹੀ ਕੰਬਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ, ਲੋੜ ਭੀ ਕੋਈ ਪੂਰੀ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਥਾ = ਲੋੜ, ਗ਼ਰਜ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

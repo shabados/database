@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਿਥੇ ਹੋਏ) ਨੇਕ ਕਰਮ, ਦਾਨ, ਜਪ ਤੇ ਤਪ-ਇਹ ਜਿਤਨੇ ਭੀ ਹਨ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਣਾ ਇਹਨਾਂ ਸਭਨਾਂ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਕਰਮ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਤੇ = ਜਿਤਨੇ ਭੀ ਹਨ। ਊਪਰਿ = ਉੱਚਾ, ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

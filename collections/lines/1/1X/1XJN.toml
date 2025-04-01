@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਮਿਲਦਾ ਹੈ, ਤੇ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਚੱਖ ਸਕੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

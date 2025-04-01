@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੇ) ਖ਼ਾਨ ਤੇ ਸੁਲਤਾਨ (ਭੀ) ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਅਧੀਨ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾ ਕੈ ਵਸਿ = ਜਿਸ (ਪਰਮਾਤਮਾ) ਦੇ ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

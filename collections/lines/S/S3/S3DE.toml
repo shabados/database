@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ ਬੜੇ ਧਨ ਵਾਲਾ ਹੋਵੇ, ਚੰਗੀ ਰਹਿਣੀ-ਬਹਿਣੀ ਵਾਲਾ ਹੋਵੇ, ਸੋਭਾ ਵਾਲਾ ਹੋਵੇ ਤੇ ਸਾਫ਼ ਸੁਥਰੀ ਜੀਵਨ-ਮਰਯਾਦਾ ਵਾਲਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚਾਰਵੰਤੁ = ਚੰਗੀ ਰਹਿਣੀ ਬਹਿਣੀ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਮੈਂ ਆਪਣੇ ਸਰੀਰ ਉਤੇ ਅਨੇਕਾਂ ਸੁਗੰਧੀਆਂ ਵਰਤਦੀ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਗੰਧਤ = ਸੁਗੰਧੀਆਂ, ਖ਼ੁਸ਼ਬੋਆਂ। ਲਾਵਉ = ਮੈਂ ਲਾਉਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

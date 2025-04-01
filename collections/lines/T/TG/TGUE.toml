@@ -5,6 +5,13 @@ language = "pa"
 data = "ਬਖਸ਼ਿਸ਼ਾਂ ਦੁਆਰਾ ਉਸ (ਅਕਾਲਪੁਰਖ) ਨੂੰ ਸੰਬੋਧਨ ਕੀਤਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ ਅਨਾਯਾਤਿ ਹਜ਼ਰਤਿ ਵਹਾਬ ।੨੨।"
+page = 1
+line = 22
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਵੇਂ ਅੱਗ ਦਾ ਕੁਦਰਤੀ ਸੁਭਾਉ ਹੈ (ਹਰੇਕ ਚੀਜ਼ ਦੀ ਮੈਲ ਸਾੜ ਦੇਣੀ) ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਕ = ਅੱਗ। ਸਹਜ = ਕੁਦਰਤੀ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

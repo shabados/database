@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭੈਣ!) ਮੈਂ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ (ਪ੍ਰਭੂ-ਪਤੀ ਤੋਂ) ਵਿੱਛੁੜੀ ਹੋਈ ਹਾਂ (ਇਸ ਬਾਰੇ) ਮੈਂ ਕਿਸੇ ਹੋਰ ਨੂੰ ਦੋਸ਼ ਨਹੀਂ ਦੇ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪ ਕਮਾਣੈ = ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ। ਕਾਹੂ = ਕਿਸੇ (ਹੋਰ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

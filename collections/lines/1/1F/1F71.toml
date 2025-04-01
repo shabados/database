@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੇਰੇ ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਹੁਣ ਮੈਂ ਹੋਰ ਹੋਰ ਕਿਹੜੀਆਂ ਸੋਚਾਂ ਸੋਚਾਂ? ਮੈਂ ਹਰੇਕ ਸੋਚ ਵਿਸਾਰ ਦਿੱਤੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਚਉ = ਸੋਚਉਂ, ਮੈਂ ਸੋਚਾਂ। ਕਿਆ ਸੋਚਉ = ਮੈਂ ਕੀਹ ਸੋਚਾਂ ਕਰਾਂ? ਬਿਸਾਰੀ = ਛੱਡ ਦਿੱਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

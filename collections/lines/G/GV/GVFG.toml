@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਰੋਗ ਦੀ) ਅਜੇਹੀ ਦਵਾਈ ਭਾਲ ਲੈ ਜਿਸ ਨਾਲ ਸਾਰੇ (ਆਤਮਕ) ਰੋਗ ਦੂਰ ਹੋ ਜਾਣ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੰਞੈ = ਦੂਰ ਹੋ ਜਾਏ। ਰੋਗਾ ਘਾਣਿ = ਰੋਗਾਂ ਦੀ ਘਾਣੀ, ਰੋਗਾਂ ਦਾ ਢੇਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

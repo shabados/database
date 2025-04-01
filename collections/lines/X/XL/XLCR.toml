@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਉਚੇਰੀ ਸ਼ਾਨ ਵਾਲਾ ਤਾਜ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੁਲਾਹਿ ਸਰ ਅਫ਼ਰਾਜ਼ੀਇ ਜਾਵਿਦਾਂ ।੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

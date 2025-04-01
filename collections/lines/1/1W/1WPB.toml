@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਉਸ ਮਾਲਕ ਦੇ ਇਹਸਾਨਾਣ ਕਾਰਨ ਸ਼ਰਮਸਾਰ ਹਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਾਇਮ ਅਜ਼ ਇਹਸਾਨਿ ਊ ਸ਼ਰਮਿੰਦਾ-ਏਮ ।੫੭।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

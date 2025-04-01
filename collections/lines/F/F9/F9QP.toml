@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਭਗਤਾਂ ਨੂੰ ਤੇਰਾ ਆਸਰਾ ਹੁੰਦਾ ਹੈ, ਉਹ ਸੱਚੇ ਨਾਮ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਟੇਕ = ਆਸਰਾ। ਸਚਿ = ਸੱਚ ਵਿਚ। ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

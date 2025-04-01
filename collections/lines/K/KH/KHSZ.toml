@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਬਾਲਕ ਨੂੰ ਸੌ ਖੇਡਾਂ ਨਾਲ ਖਿਡਾਇਆ ਜਾਏ (ਪਰਚਾਇਆ ਜਾਏ), ਤਾਂ ਭੀ ਉਹ ਦੁੱਧ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਰਹਿ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉ = ਸੌ ਵਾਰੀ। ਖੀਰ = ਦੁੱਧ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

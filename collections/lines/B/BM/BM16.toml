@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਯਾਰ! ਸੋਹਣੀ ਤੇਰੀ ਪੱਗ ਹੈ (ਭਾਵ, ਸੋਹਣਾ ਤੇਰਾ ਸਰੂਪ ਹੈ) ਤੇ ਪਿਆਰੇ ਤੇਰੇ ਬਚਨ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੂਬ = ਸੋਹਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

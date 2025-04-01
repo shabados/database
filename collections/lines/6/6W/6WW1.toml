@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਨਹੀਂ ਪੈ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਿਆਨੁ = ਆਤਮਕ ਜੀਵਨ ਦੀ ਸਮਝ, ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

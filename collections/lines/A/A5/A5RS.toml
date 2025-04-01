@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਤਸ਼ਾਹ ਮਾਲਕ ਤੇ ਫ਼ੌਜਾਂ ਦੇ ਸਰਦਾਰ ਸਭ ਨੂੰ ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਨਾ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਰ = ਪਾਤਸ਼ਾਹ। ਸਲਾਰ = ਫ਼ੌਜ ਦੇ ਸਰਦਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

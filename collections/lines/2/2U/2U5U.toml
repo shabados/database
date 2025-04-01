@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵਨ-ਪੰਧ ਵਿਚ) ਮੈਂ ਔਗੁਣ (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਿਟਾ ਕੇ ਤੁਰ ਰਿਹਾ ਹਾਂ, ਮੇਰੇ ਨਾਲ ਗੁਣਾਂ ਦਾ ਸਾਥ ਬਣ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਟਿ = ਮਿਟਾ ਕੇ। ਸੰਗਮ = ਸਾਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

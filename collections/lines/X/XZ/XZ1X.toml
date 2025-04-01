@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੀ ਪ੍ਰੇਰਨਾ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਭੀ ਜੀਵ ਕੁਝ ਨਹੀਂ ਕਰਦਾ, ਕਰਨ ਦੀ ਸਮਰਥਾ ਭੀ ਨਹੀਂ ਰੱਖਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੈ ਜੋਗਾ = ਕਰ ਸਕਣ ਦੀ ਸਮਰਥਾ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

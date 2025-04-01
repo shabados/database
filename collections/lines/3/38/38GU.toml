@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵਾਂ ਬਾਰੇ ਵਿਚਾਰਾਂ (ਉਹਨਾਂ ਨੂੰ ਕੀਹ ਕੁਝ ਦੇਣਾ ਹੈ) ਪ੍ਰਭੂ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬ ਵੀਚਾਰ = ਸਭ ਜੀਵਾਂ ਬਾਰੇ ਵਿਚਾਰਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

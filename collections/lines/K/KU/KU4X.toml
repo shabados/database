@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਉਤਾਰ ਚੜ੍ਹਾਓ ਦੇ ਹਿਸਾਬ ਤੋਂ ਬਾਹਰ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੁਲੰਦ ਅਜ਼ ਸ਼ੁਮਾਰਿ ਫ਼ਰਾਜ਼ੋ ਨਸ਼ੇਬ ।੧੨੬।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

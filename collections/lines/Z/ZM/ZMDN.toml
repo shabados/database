@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ (ਇਸ ਤਰ੍ਹਾਂ) ਆਪਣਾ ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ ਮਨੋਰਥ ਸਵਾਰ ਲੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਘਰ = ਛੇਤੀ। ਕਾਰਜੁ = ਜੀਵਨ-ਮਨੋਰਥ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

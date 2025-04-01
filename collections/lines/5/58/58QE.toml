@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਮੇਰੀ ਤਾਂਘ ਇਹ ਹੈ ਕਿ) ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਉਚਾਰ ਕੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਈ ਰੱਖਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਿ = ਆਖ ਕੇ, ਬਿਆਨ ਕਰ ਕੇ। ਵੀਚਾਰੀ = ਵੀਚਾਰੀਂ, ਮੈਂ ਮਨ ਵਿਚ ਵਸਾਵਾਂ। ਮਾਇ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

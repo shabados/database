@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਾਂ (ਗਾਂ ਦੇ) ਥਣ ਚੁੰਘਦਾ ਹੈ, ਤੇ ਮੱਖਣ ਦੇ ਘੁੱਟ ਭਰਦਾ ਹੈ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੋਖਤਾ = ਚੁੰਘਦਾ ਹੈ। ਘੂਟਲਾ = ਘੁੱਟ ਭਰਦਾ ਹੈ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

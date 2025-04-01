@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਾਲਾਣਕਿ ਸਭ ਨਾਲੋਣ ਚੰਗੀ ਮਿਸਾਲ ਇਹ ਹੀ ਹੋ ਸਕਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈ ਮਿਸਲ ਰਾ ਕਿ ਗੁਫ਼ਤਮ ਜ਼ੀਣ ਖ਼ੂਬਤਰ ਨ ਬਾਸ਼ਦ ।੩੨।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

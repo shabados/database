@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਦੁਨੀਆ ਦੇ ਕਈ) ਰਸ ਭੋਗਦਾ ਹੈਂ, ਤੂੰ (ਕਈ ਤਰ੍ਹਾਂ ਦੀਆਂ) ਖ਼ੁਸ਼ੀਆਂ ਮਾਣਦਾ ਹੈਂ, ਤੂੰ ਅਨੇਕਾਂ (ਕਿਸਮ ਦੀਆਂ) ਮੌਜਾਂ ਮਾਣਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਗਹਿ = ਤੂੰ ਭੋਗਦਾ ਹੈਂ। ਅਪਾਰ = ਬੇਅੰਤ। ਫੁਰਮਾਇਸੀ = {ਲਫ਼ਜ਼ 'ਫੁਰਮਾਇਸਿ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਹੁਕਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲੇ! ਮਾਂ, ਪਿਉ, ਵਹੁਟੀ, ਪੁੱਤਰ, ਧਨ-ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਅਖ਼ੀਰ ਵੇਲੇ ਨਾਲ ਨਹੀਂ ਤੁਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਿਤਾ = ਵਹੁਟੀ। ਸਤੁ = ਪੁੱਤਰ। ਸੰਪਤਿ = ਧਨ। ਸੰਗਾਤ = ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

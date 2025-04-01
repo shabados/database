@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਦੇ ਬਰਾਬਰ (ਜਗਤ ਵਿਚ) ਹੋਰ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇਵਡੁ = ਜੇਡਾ, ਬਰਾਬਰ ਦਾ। ਲਾਹਾ = ਲਾਭ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

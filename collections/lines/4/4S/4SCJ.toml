@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੱਸੋ, ਇਹਨਾਂ ਵਿਚੋਂ ਕਿਸ ਦੇ ਨਾਲ (ਮੋਹ ਪਾਇਆਂ) ਸਦਾ ਲਈ (ਮਾਇਆ ਤੋਂ) ਖ਼ਲਾਸੀ ਮਿਲ ਸਕਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਛੁਟਕਾਰ = ਸਦਾ ਲਈ ਛੋਟ, ਸਦਾ ਵਾਸਤੇ ਖ਼ਲਾਸੀ। ਕਹਹੁ = ਦੱਸੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

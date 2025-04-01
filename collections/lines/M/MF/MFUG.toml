@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਤਾਂ ਦੀ ਸਰਨ ਜਾ ਕੇ ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨਾ- ਧਰਮ ਦੇ ਇਹ ਲੱਛਣ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਲਬਿਖ = ਪਾਪ (किल्विषां)। ਲਖ੍ਯ੍ਯਿਣ = ਲੱਖਣ (लक्षण)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

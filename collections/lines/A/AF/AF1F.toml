@@ -5,6 +5,11 @@ language = "pa"
 data = "ਭਾਵੇਣ ਉਨ੍ਹਾਣ ਦਾ ਸਰੀਰ ਮੁੱਠੀ ਭਰ ਮਿੱਟੀ ਦਾ ਬਣਿਆ ਹੋਇਆ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਚਿਹ ਜਿਸਮਿ ਸ਼ਾਣ ਜ਼ਿ-ਮੁਸ਼ਤਿ ਖ਼ਾਕ ਕਰਦ ।੧੯੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

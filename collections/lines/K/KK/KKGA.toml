@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਵੱਡੀ ਕਿਸਮਤਿ ਨਾਲ ਭਲੇ ਸੰਜੋਗਾਂ ਨਾਲ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਡ ਭਾਗਿ = ਵੱਡੀ ਕਿਸਮਤਿ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

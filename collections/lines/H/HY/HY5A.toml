@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰੱਬ ਮਿਹਰ ਹੀ ਕਰੇ! ਹੇ ਭਾਈ! ਉਨ੍ਹਾਂ ਦਾ ਦਰਸ਼ਨ ਨਾਹ ਕਰੋ, ਉਹ ਬੜੇ ਪਾਪੀ ਤੇ ਹੱਤਿਆਰੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਜੀਉ = ਸ਼ਾਲਾ! ਰੱਬ ਮਿਹਰ ਕਰੇ। ਪਾਪਿਸਟ = ਬਹੁਤ ਪਾਪੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

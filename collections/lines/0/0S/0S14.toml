@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਖ਼ੁਦਾ ਦੇ ਬੰਦੇ! (ਅਸਲ) ਮੁਸਲਮਾਨ ਉਹ ਹੈ ਜੋ ਮੋਮ ਵਰਗੇ ਨਰਮ ਦਿਲ ਵਾਲਾ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਿਲਿ = ਦਿਲ ਵਾਲਾ। ਮੋਮ ਦਿਲਿ = ਮੋਮ ਵਰਗੇ (ਨਰਮ) ਦਿਲ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

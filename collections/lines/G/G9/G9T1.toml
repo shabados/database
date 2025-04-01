@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜਾ ਕਰਤਾਰ ਹਰੇਕ ਜੁਗ ਵਿਚ ਆਪ ਹੀ (ਮੌਜੂਦ ਚਲਿਆ ਆ ਰਿਹਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਜੁਗਿ ਜੁਗਿ = ਹਰੇਕ ਜੁਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

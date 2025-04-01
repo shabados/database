@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਕਿਸੇ ਨੂੰ ਰੱਬ ਦੇ ਭਗਤਾਂ ਦੀ ਚਰਨ ਧੂੜ ਦਾ ਸੁਰਮਾ ਮਿਲ ਗਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਕਿ ਖ਼ਾਕਿ ਪਾਇ ਸ਼ਾਂ ਰਾ ਸੁਰਮਾ ਯਾਫ਼ਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

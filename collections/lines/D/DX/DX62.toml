@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ (ਰੱਬ ਦੇ ਪਿਆਰੇ) ਰੱਬ ਦੇ ਦਰਸ਼ਨਾਂ ਦੇ ਮੁਸ਼ਤਾਕ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਹਮਾ ਮੁਸ਼ਤਾਕਿ ਦੀਦਾਰਿ ਖ਼ੁਦਾ-ਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

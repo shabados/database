@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਖੇਡ-ਤਮਾਸ਼ੇ ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਹੋ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਕਾਰ = ਕਿਸਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਕਦੇ ਕੋਈ ਨੇਕੀ ਦਾ ਕੰਮ ਨਹੀਂ ਕੀਤਾ। (ਹੇ ਕਰਤਾਰ!) ਮੇਰਾ ਇਹੋ ਜਿਹਾ ਹਾਲ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਾਹੇ = ਕਦੇ। ਗਾਹੇ ਨ = ਕਦੇ ਭੀ ਨਾਹ। ਕਰਦਮ = ਮੈਂ ਕੀਤੀ। ਈ = ਇਹ। ਚਿਨੀ = ਜਿਹਾ। ਈ ਚਿਨੀ = ਇਹੋ ਜਿਹਾ। ਅਹਵਾਲ = ਹਾਲ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

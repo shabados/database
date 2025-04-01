@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਆਪਣੇ ਸੇਵਕਾਂ ਨੂੰ ਸਭ ਕਲੰਕਾਂ ਤੋਂ) ਹੱਥ ਦੇ ਕੇ ਬਚਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ ਪੂਰੈ = ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

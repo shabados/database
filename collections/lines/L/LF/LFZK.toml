@@ -36,6 +36,12 @@ language = "pa"
 data = "ਰਾਜ ਜੁਆਨੀ ਤੇ ਧਨ ਮਾਲ ਸਭ ਨਾਸਵੰਤ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋਬਨ = ਜੁਆਨੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

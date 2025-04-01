@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧਨ ਵਾਲਾ ਹੋ ਕੇ ਕੀਹ ਕੋਈ ਮਨੁੱਖ ਅਹੰਕਾਰ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬੈ = ਅਹੰਕਾਰ ਕਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

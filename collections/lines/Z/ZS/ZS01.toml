@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਸ਼ਾਹ-ਪ੍ਰਭੂ ਦੇ ਹੱਟ ਤੇ) 'ਨਾਮ' ਨਫ਼ਾ ਹੀ ਕਬੂਲ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਾਹਾ = ਨਫ਼ਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

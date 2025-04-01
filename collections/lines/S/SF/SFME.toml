@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੁੜ ਮੁੜ (ਇਹ) ਸੁਣ ਕੇ (ਕਿ ਤੇਰਾ) ਨਾਮ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ (ਹੈ,) ਮੈਂ (ਤੇਰਾ ਨਾਮ) ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਣਿ = ਸੁਣ ਕੇ। ਧਿਆਵਾ = ਧਿਆਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

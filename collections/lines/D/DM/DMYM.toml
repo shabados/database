@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮਾਇਆ ਵਿਚ ਮੋਹੇ ਹੋਏ ਦੇ ਕੰਮ ਮੁੱਕਣ ਵਿਚ ਨਹੀਂ ਆਉਂਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨ ਭਏ ਨ = ਮੁੱਕਦੇ ਨਹੀਂ, ਸਿਰੇ ਨਹੀਂ ਚੜ੍ਹਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

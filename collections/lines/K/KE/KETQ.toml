@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜੇ ਮਨ ਹਉਮੈ ਨਾਲ ਮੋਟਾ ਹੋ ਗਿਆ, ਤਾਂ ਇਸ (ਨਿੱਕੇ ਜਿਹੇ ਦਰਵਾਜ਼ੇ) ਵਿਚੋਂ ਦੀ ਕਿਵੇਂ ਲੰਘਿਆ ਜਾ ਸਕੇ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥੂਲੁ = ਮੋਟਾ। ਵਿਚੁ ਦੇ = ਵਿਚੋਂ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

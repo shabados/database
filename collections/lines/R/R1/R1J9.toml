@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! (ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭਣ ਵਾਸਤੇ) ਅਸੀਂ ਦਸੀਂ ਪਾਸੀਂ ਭਾਲ ਕਰਦੇ ਫਿਰੇ, ਪਰ ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਹੁਣ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਹੀ ਆ ਕੇ ਲੱਭ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਹਦਿਸ = ਦਸੀਂ ਪਾਸੀਂ। ਪਾਇਅੜਾ = ਲੱਭ ਲਿਆ। ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਆਏ = ਆਇ, ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

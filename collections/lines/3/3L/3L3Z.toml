@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਤਾਂ ਉਸ ਨੇ ਬਿਨਾ ਦੰਮਾਂ ਦੇ ਆਪਣਾ ਗੋੱਲਾ ਬਣਾ ਲਿਆ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮੋਲ = {ਅ-ਮੋਲ} ਮੁੱਲ ਦੇਣ ਤੋਂ ਬਿਨਾ, ਬਿਨਾ ਦੰਮਾਂ ਦੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਮਿਹਰ ਕਰ ਕੇ (ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਨੇ) ਆਪਣੇ ਬਣਾ ਲਿਆ, ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਪ੍ਰਭੂ ਦੇ ਦਰਸਨ ਦੀ ਤਾਂਘ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਲੀਨੇ ਕਰਿ = ਬਣਾ ਲਏ। ਪਿਆਸ = ਤਾਂਘ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

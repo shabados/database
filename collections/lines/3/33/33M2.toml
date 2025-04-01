@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਤੱਕ ਕਿ ਸਾਡੀ ਅੱਖ ਤੇਰੀ ਯਾਦ ਵਿਚ ਸਾਗਰ ਨਹੀਣ ਬਣ ਜਾਣਦੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾ ਹਾਸਿਲਿ ਮੁਰਾਦ ਕੁਜਾ ਆਸ਼ਨਾ ਸ਼ਵੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

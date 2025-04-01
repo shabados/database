@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ ਕਈ ਕਿਸਮਾਂ ਦੇ ਵਧੀਆ ਘੋੜੇ, ਵਧੀਆ ਹਾਥੀ ਤੇ ਕਦੇ ਨਾਹ ਥੱਕਣ ਵਾਲੇ ਰਥ ਇਕੱਠੇ ਕਰ ਲਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੈਵਰ = {हयवर} ਵਧੀਆ ਘੋੜੇ। ਗੈਵਰ = {गज वर} ਵਧੀਆ ਹਾਥੀ। ਬਹੁ ਰੰਗੇ = ਕਈ ਰੰਗਾਂ ਦੇ, ਕਈ ਕਿਸਮਾਂ ਦੇ। ਅਥਾਕ = ਅਥੱਕ, ਨਾਹ ਥੱਕਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

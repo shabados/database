@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿਹਰਵਾਨ! ਸਿਰਫ਼ ਤੂੰ ਹੀ ਮੁਕਤੀ ਦੇਣ ਵਾਲਾ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਉਲਾ = {ਅਰਬੀ ਲਫ਼ਜ਼} ਨਜਾਤ (ਮੁਕਤੀ) ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

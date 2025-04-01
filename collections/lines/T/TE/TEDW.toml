@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਤੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਕੈ ਚਰਨਿ = ਦੇ ਚਰਨ ਵਿਚ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

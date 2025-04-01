@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਨਿਰਮਾਣ ਹੋ ਕੇ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਢਹਿ ਪਉ। ਵੇਖੀਂ, ਕਿਤੇ ਆਪਣਾ ਆਪ ਜਤਾਣ ਨਾਹ ਲੱਗ ਪਈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੁ = ਆਪਣਾ ਆਪ। ਲਖਾਵਹੇ = ਜਣਾਏਂ, ਵਿਖਾਏਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

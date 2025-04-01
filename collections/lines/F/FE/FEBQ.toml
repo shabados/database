@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਯਾਦ, ਬਸ ਉਸ ਦੀ ਯਾਦ, ਹਾਣ ਉਸੇ ਦੀ ਯਾਦ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਹਾਣ ਯਾਦਿ ਊ ਹਾਣ ਯਾਦਿ ਊ ।੫੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

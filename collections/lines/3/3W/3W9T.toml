@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਸਾਰ ਦੇ ਰੋਗ (ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਭੋਗਾਂ) ਨੂੰ ਉਹ ਕੌੜੇ ਜਾਣ ਕੇ ਤਿਆਗ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਪੰਚ = ਸ੍ਰਿਸ਼ਟੀ। ਬਿਆਧਿ = ਰੋਗ। ਕਵਰੇ = ਕੌੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

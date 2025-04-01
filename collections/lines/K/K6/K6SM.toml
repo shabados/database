@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਨ ਤਾਂਘਦਾ ਹੈ ਕਿ) ਆਪਣੇ ਪਿਆਰੇ ਨੂੰ (ਸਦਾ) ਮਿਲੀ ਰਹਾਂ, ਅੰਦਰ ਹਿਰਦੇ ਵਿਚ ਪਰੋ ਰੱਖਾਂ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰਿ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

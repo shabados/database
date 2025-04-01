@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਨੂੰ ਉਹ ਸਾਰੇ ਵੇਲੇ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ ਉਹ ਸਾਰੇ ਵਕਤ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਸੁਹਾਇਆ = ਸੋਹਣੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

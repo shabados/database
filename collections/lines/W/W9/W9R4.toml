@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜੇਹੜੇ ਮਨੁੱਖ ਮੰਦੇ ਕੰਮ ਕਰਦੇ ਹਨ (ਉਸ ਦੇ ਨਿਆਂ ਅਨੁਸਾਰ) ਉਹ ਅਨੇਕਾਂ ਰੋਗਾਂ ਵਿਚ ਗ੍ਰਸੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਆਪੇ = ਘਿਰੇ ਹੋਏ, ਦਬਾਏ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

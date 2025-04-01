@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਸਿਮਰਨ ਕਰਨ ਦਾ) ਇਹ ਕੰਮ ਜ਼ਰੂਰ ਫਲ ਦੇਂਦਾ ਹੈ ॥੪॥੩੩॥੪੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਮੁ = ਕੰਮ ॥੪॥੩੩॥੪੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

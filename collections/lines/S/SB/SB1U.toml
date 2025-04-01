@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ) ਸ਼ਾਹ ਆਪਣੀ ਕੋਈ ਅਮਾਨਤ ਮੋੜ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਮਾਨ = ਅਮਾਨਤ। ਬਹੁਰਿ = ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦਾ ਉਚਾਰਨ-ਇਹ ਹੀ ਸਿਮਰਨ ਵਾਸਤੇ (ਸ੍ਰੇਸ਼ਟ ਦਾਤ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਮਣ ਕਉ = ਸਿਮਰਨ ਵਾਸਤੇ। ਗੁਣ ਬਾਦ = ਗੁਣਾਨਵਾਦ, ਗੁਣਾਂ ਦਾ ਉਚਾਰਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

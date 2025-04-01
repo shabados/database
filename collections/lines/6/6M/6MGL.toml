@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨੂੰ ਤਿਆਗਿਆਂ ਹੀ ਸੁਖ ਵਿਚ ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਟਿਕੇ ਰਹੋਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸਹਿ = ਇਸ (ਦੁਰਮਤਿ) ਨੂੰ। ਸੋਊ = ਟਿਕੋਗੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

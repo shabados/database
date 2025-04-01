@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਦੀ ਮਾਂ (ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਮੇਰੀ ਮਾਂ) ਡੁਸਕ ਡੁਸਕ ਕੇ ਰੋਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਸਿ ਮੁਸਿ = ਡੁਸਕ ਡੁਸਕ ਕੇ। ਮਾਈ = ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

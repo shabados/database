@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰਾ ਜਗਤ ਉਹਨਾਂ ਦੇ ਉਪਦੇਸ਼ਾਂ ਨਾਲ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨ ਮੰਤ = ਉਹਨਾਂ ਦੇ ਉਪਦੇਸ਼ਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

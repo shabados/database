@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹਉਮੈ (ਦੀ ਮੈਲ) ਨਾਲ ਮੈਲਾ ਹੋਇਆ ਹੋਇਆ ਜਗਤ ਭਟਕ ਰਿਹਾ ਹੈ, ਮੁੜ ਮੁੜ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲਾ = ਮੈਲੇ ਮਨ ਵਾਲਾ। ਵਾਰੋ ਵਾਰ = ਮੁੜ ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

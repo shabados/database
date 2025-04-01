@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਦੋਂ ਮਨੁੱਖ) ਮਾਇਆ ਦੇ ਲੋਭ ਵਿਚ ਫਸਦਾ ਹੈ (ਤਦੋਂ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪੈ ਜਾਂਦਾ ਹੈ (ਉਸ ਹਾਲਤ ਵਿਚ ਇਹ) ਸੁਖ ਕਿਵੇਂ ਪਾ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ। ਭੁਲਾਏ = ਕੁਰਾਹੇ ਪੈ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

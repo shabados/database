@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ ਦੇ) ਸਾਰੇ ਪਦਾਰਥ ਉਸ ਦੇ ਘਰ ਵਿਚ (ਮੌਜੂਦ) ਸੁਣੀਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਨੀਅਹਿ = ਸੁਣੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਮੁਰਦਾ ਦਿਲਾਣ ਨੂੰ ਸੁਰਜੀਤ ਅਤੇ ਮੁਕਤ ਕਰ ਦਿੰਦਾ ਹੈ । "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਲਹਾਇ ਮੁਰਦਾ ਰਾ ਬਿਕੁਨਦ ਜ਼ਿੰਦਾ ਓ ਖ਼ਲਾਸ ।੪੨।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

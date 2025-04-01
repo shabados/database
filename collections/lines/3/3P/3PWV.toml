@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਖ਼ਸ਼ਣਹਾਰ ਗੁਪਾਲ ਗੋਬਿੰਦ-ਪ੍ਰਭੂ ਜੀ ਉਸ ਉਤੇ ਦਇਆਵਾਨ ਹੋ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਾਲ = ਧਰਤੀ ਦਾ ਪਾਲਣਹਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

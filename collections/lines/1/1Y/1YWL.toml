@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੀ ਪਾਤਸ਼ਾਹੀ ਦਾ ਤਖਤ ਸਦਾ ਸਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸਰੀਰਿ ਸ਼ਹਿਨਸ਼ਾਹੀਇ ਦਾਇਮਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

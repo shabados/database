@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨੂੰ ਭੁਲਾ ਕੇ ਹੋਰ ਹੋਰ ਪਦਾਰਥਾਂ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਜਿ = ਤਿਆਗ ਕੇ। ਅਨ = ਹੋਰ (ਪਦਾਰਥਾਂ) ਵਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

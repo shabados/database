@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਰਬਾਰ ਵਿਚ ਤੇਰੇ ਭਗਤ ਸੁਰਖ਼ਰੂ ਰਹਿੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੇ = ਸੁਰਖ਼ਰੂ। ਤੇਰੈ ਦਰਵਾਰੇ = ਤੇਰੇ ਦਰਬਾਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

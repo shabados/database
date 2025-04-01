@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਬੇਅੰਤ ਲੁਕਾਈ ਤੇਰੇ ਦਰਸਨ ਵਾਸਤੇ ਤਰਲੇ ਲੈਂਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੇਤੀ = ਬੇਅੰਤ ਲੁਕਾਈ। ਬਿਲਲਾਇ = ਤਰਲੇ ਲੈਂਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

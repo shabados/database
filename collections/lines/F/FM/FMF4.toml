@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਸ ਲਈ ਤੈਨੂੰ ਹਰ ਵੇਲੇ ਰੱਬ ਅੱਗੇ ਸਿਰ ਝੁਕਾਉਣਾ ਚਾਹੀਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਪਸ ਤੁਰਾ ਬਾਇਦ ਕੁਨੀ ਹਰਦਮ ਸਜੂਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਧਰਤੀ ਦੇ ਸਾਈਂ! (ਹਉਮੈ ਦੀ ਚੋਭ ਤੋਂ ਬਚਣ ਲਈ ਅਨੇਕਾਂ ਚਤੁਰਾਈਆਂ ਸਿਆਣਪਾਂ ਕੀਤੀਆਂ, ਪਰ ਕੁਝ ਨ ਬਣਿਆ, ਹੁਣ) ਹਾਰ ਕੇ ਤੇਰੀ ਸਰਨ ਪਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਰੇ = ਹਾਰਿ, ਹਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

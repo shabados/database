@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਕਹਿੰਦਾ ਹੈ ਕਿ ਮੈਂ ਆਪਣੇ ਆਪ ਨੂੰ ਅਤੇ ਆਪਣੇ ਦੀਵਾਨੇ ਦਿਲ ਨੂੰ ਵੇਚਨਾ ਚਾਹੁੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੇ ਫ਼ਰੋਸ਼ਦ ਦਿਲਿ ਦੀਵਾਨਾ-ਇ ਖ਼ੁਦ ਰਾ, ਗੋਇਆ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਦਾ) ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਜਪਿਆ ਕਰ, (ਹਰਿ-ਨਾਮ ਦੀ) ਸੰਜੋਅ ਪਹਿਨੀ ਰੱਖ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪਿਆ ਕਰ। ਪਹਿਰਿ = ਪਹਿਨੀ ਰੱਖ। ਸਨਾਹ = {संनाह} ਸੰਜੋਅ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

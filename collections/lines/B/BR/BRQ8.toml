@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਮੈਂ (ਹੋਰ) ਅਨੇਕਾਂ (ਸੁਖ) ਵਾਰਦੀ ਹਾਂ, ਸਦਕੇ ਰਹਿੰਦੀ ਹਾਂ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰਿ ਡਾਰਿ = ਵਾਰਿ ਡਾਰਉਂ, ਮੈਂ ਸਦਕੇ ਕਰਦੀ ਹਾਂ। ਵਾਰਉ = ਵਾਰਉਂ, ਮੈਂ ਵਾਰਦੀ ਹਾਂ। ਅਨਿਕ = ਅਨੇਕਾਂ (ਹੋਰ ਸੁਖ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

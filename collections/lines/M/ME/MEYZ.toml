@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ!) ਜੇ ਤੂੰਬੀ ਅਠਾਹਠ ਤੀਰਥਾਂ ਉੱਤੇ ਭੀ ਇਸ਼ਨਾਨ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਉਕੀ = ਤੂੰਬੀ। ਅਠਸਠਿ = ਅਠਾਹਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਕਿਸੇ ਦੇ ਸਰੀਰਕ ਵਿਛੋੜੇ ਤੇ ਰੋਣ ਵਾਲਾ ਪ੍ਰਾਣੀ ਉਸ ਵੇਲੇ) ਅਗਾਂਹ (ਸਦਾ) ਬੀਤਣ ਵਾਲੀ ਗੱਲ ਨਹੀਂ ਸਮਝਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਲੀ = ਅਗਾਂਹ ਵਰਤਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪੈ ਸਕਦਾ, ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ, ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਰਾ = ਪਾਰਲਾ ਬੰਨਾ, ਅੰਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

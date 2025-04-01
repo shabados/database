@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜੋਗੀ! ਗਿਆਨ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ ਕੇਹੜਾ ਸਾਧਨ ਹੈ? ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗੇ ਹੋਏ ਜੋਗੀ ਨੂੰ ਕੀਹ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਦ੍ਰਾ = ਸਾਧਨ। ਅਉਧੂ = ਹੇ ਜੋਗੀ! ਸਿਧ = ਜੋਗ-ਸਾਧਨਾਂ ਵਿਚ ਪੁੱਗਾ ਹੋਇਆ ਜੋਗੀ। ਕਵਨ ਕਮਾਈ = ਕੀਹ ਮਿਲ ਜਾਂਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

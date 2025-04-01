@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਗ਼ਜ਼ ਕਲਮ (ਲੈ ਕੇ ਕਈਆਂ ਨੇ) ਅਨੇਕਾਂ ਵਿਦਵਤਾ ਵਾਲੇ ਲੇਖ ਲਿਖੇ ਹਨ (ਮਾਇਆ ਉਹਨਾਂ ਨੂੰ ਵਿਦਵਤਾ ਦੇ ਰੂਪ ਵਿਚ ਮੋਹ ਰਹੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲੇਖੀ = ਲਿਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਲਵਾਨ ਪਰਮਾਤਮਾ ਆਪ ਹੀ (ਆਪਣੇ ਆਪ ਨੂੰ) ਮਾਇਆ ਅਖਵਾ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਸਬਲੁ = ਸ-ਬਲੁ, ਬਲ ਵਾਲਾ (ਪਰਮਾਤਮਾ)। ਸਕਤੀ = ਸ਼ਕਤੀ, ਮਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

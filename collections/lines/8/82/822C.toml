@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਨਾਮ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਨਿ = ਮਨਿ, ਮਨ ਵਿਚ। ਵਸਾਈ = ਵਸਾਈਂ, ਮੈਂ ਵਸਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

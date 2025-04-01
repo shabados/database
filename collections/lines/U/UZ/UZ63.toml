@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੁਹਾਡੇ ਦੀਦਾਰ ਦੇ ਸਦਕੇ ਸਾਡੀ ਅੱਖ ਰੌਸ਼ਨ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਸ਼ਮਿ ਮਾ ਰੌਸ਼ਨ ਜ਼ਿ ਦੀਦਾਰਿ ਸ਼ੁਮਾ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

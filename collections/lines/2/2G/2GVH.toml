@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੇ ਅੰਦਰੋਂ) ਦੁੱਖਾਂ ਦਾ ਵਿਕਾਰਾਂ ਦਾ ਅੱਡਾ ਹੀ ਢਹਿ ਗਿਆ, ਉਸ ਮਨੁੱਖ ਦਾ ਜੀਵਨ-ਮਨੋਰਥ ਕਾਮਯਾਬ ਹੋ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਢਾਠਾ = ਢਹਿ ਗਿਆ। ਕਾਰਜੁ = ਜੀਵਨ-ਮਨੋਰਥ। ਆਇਆ ਰਾਸੀ = ਕਾਮਯਾਬ ਹੋ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਮਨੁੱਖ ਨੂੰ ਆਨੰਦ-ਸਰੂਪ ਪ੍ਰਭੂ ਹਰੇਕ ਥਾਂ ਵਿਚ ਵੱਸਦਾ ਦਿੱਸ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨਦ ਰੂਪ = ਆਨੰਦ-ਸਰੂਪ ਪ੍ਰਭੂ। ਸਭ ਥਾਨਿ = ਹਰੇਕ ਥਾਂ ਵਿਚ (ਵੱਸਦਾ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ ਖ਼ਜ਼ਾਨਾ-ਰੂਪ ਭੋਜਨ ਖਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਜਨੁ ਖਾਇਆ = ਭਾਵ, ਆਤਮਾ ਦਾ ਆਸਰਾ ਬਣਾਇਆ ਹੈ (ਜਿਵੇਂ ਭੋਜਨ ਸਰੀਰ ਦਾ ਆਸਰਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

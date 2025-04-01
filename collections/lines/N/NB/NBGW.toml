@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬਾਬਾ! ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨਾ ਨਹੀਂ ਛੱਡਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ ਬਾਬਾ = ਹੇ ਬਾਬਾ! ਛੋਡਉ = ਮੈਂ ਛੱਡਦਾ ਹਾਂ, ਮੈਂ ਛੱਡਾਂਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

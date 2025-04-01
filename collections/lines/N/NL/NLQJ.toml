@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਤਖ਼ਤ ਅਤੇ ਅਸਥਾਨ ਦੀ ਸ਼ੋਭਾ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ੇਬਿ ਤਖ਼ਤੋ ਗਾਹਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੬।"
+page = 10
+line = 146
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

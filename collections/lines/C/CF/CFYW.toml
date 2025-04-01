@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਆਪਣੇ ਸਿੱਖ ਦੀ ਭੈੜੀ ਮਤਿ-ਰੂਪੀ ਮੈਲ ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੁਰਮਤਿ = ਭੈੜੀ ਮਤਿ। ਹਿਰੈ = ਦੂਰ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

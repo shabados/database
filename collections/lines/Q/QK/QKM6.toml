@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਉਹ ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੰਗਿ = ਪਿਆਰ ਵਿਚ। ਰਾਤਾ = ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਾਂਡੇ! ਗੋਪਾਲ ਨਾਲ ਚਿੱਤ ਜੋੜਿਆਂ) ਜੇ ਧਨ ਗੁਆਚਦਾ ਹੈ ਤਾਂ ਗੁਆਚਣ ਦੇਹ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਚਹਿ = ਤੂੰ ਰਚਿਆ ਰਹੇਂ। ਰੰਗਿ ਏਕ = ਇਕ ਗੋਪਾਲ ਦੇ ਰੰਗ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

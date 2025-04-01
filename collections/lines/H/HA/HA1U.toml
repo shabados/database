@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਇਕ ਨਾਮ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ (ਇਸ ਵਾਸਤੇ ਉਹ ਨਾਮ ਜਪਦਾ ਹੈ) ॥੪॥੧੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਸਥਿਰੁ = ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ॥੪॥੧੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

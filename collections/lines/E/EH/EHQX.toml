@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਕੌਣ ਤੇਰਾ ਮੁੱਲ ਪਾ ਸਕਦਾ ਹੈ? (ਜਿਸ ਉਤੇ ਤੂੰ ਦਇਆ ਕਰਦਾ ਹੈਂ, ਉਸ ਨੂੰ) ਤੂੰ ਆਪ ਹੀ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਲੀਨ ਰੱਖਦਾ ਹੈਂ ॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

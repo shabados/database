@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ) ਅਸੀਂ ਸੰਸਾਰੀ ਜੀਵ ਪਾਪੀ ਬਣ ਜਾਂਦੇ ਹਾਂ, ਗੁਣ-ਹੀਣ ਹੋ ਜਾਂਦੇ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਮ = ਅਸੀਂ (ਸੰਸਾਰੀ ਜੀਵ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

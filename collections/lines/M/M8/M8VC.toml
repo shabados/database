@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੈਣ! ਤੂੰ ਬੜੀ ਸੋਹਣੀ ਦਿੱਸ ਰਹੀ ਹੈਂ, ਤੇਰਾ ਸੁਹਾਗ-ਭਾਗ ਉੱਘੜ ਆਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁੰਦਰਿ = {ਇਸਤ੍ਰੀ ਲਿੰਗ} ਸੋਹਣੀ। ਤੁਮਹਿ ਸੁਹਾਗੁ = ਤੇਰਾ ਹੀ ਸੁਹਾਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

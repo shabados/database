@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤਾਂ ਤੇ) ਹੇ ਮਨ! ਅਜੇਹਾ (ਸੁਹੇਲਾ) ਨਾਮ ਸਦਾ ਸਿਮਰੀਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

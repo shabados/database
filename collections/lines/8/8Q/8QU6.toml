@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰਸਿੱਖ! ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ (ਗਾਉਣੇ) ਪਰਮਾਤਮਾ ਨੂੰ ਪਸੰਦ ਆਉਂਦੇ ਹਨ। ਮੈਂ ਉਹ ਗੁਣ (ਗਾਉਣੇ) ਗੁਰੂ ਪਾਸੋਂ ਸਿੱਖੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਾਵਦੇ = ਚੰਗੇ ਲੱਗਦੇ ਹਨ। ਸੇ = ਉਹ ਗੁਣ (ਬਹੁ-ਵਚਨ)। ਤੇ = ਤੋਂ, ਪਾਸੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਗੁਰੂ ਦੇ) ਚਰਨਾਂ ਦੀ ਧੂੜ (ਹੀ) ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਠਸਠਿ = ਅਠਾਹਠ (ਤੀਰਥ)। ਮਜਨੁ = ਇਸ਼ਨਾਨ। ਚਰਨਹ = (ਗੁਰੂ ਦੇ) ਚਰਨਾਂ ਦੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

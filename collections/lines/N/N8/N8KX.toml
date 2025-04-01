@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਕਰਤਾਰ ਦਾ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ ॥੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਮਾਰੁ = ਅੰਦਾਜ਼ਾ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

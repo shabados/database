@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਝੰਬੇਲਿਆਂ ਨਾਲ ਵਿਆਕੁਲ ਹੋਏ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਕਲ = ਵਿਆਕੁਲ, ਘਬਰਾਏ ਹੋਏ। ਸੰਗਿ = ਨਾਲ। ਮਾਇਆ ਧੰਧ = ਮਾਇਆ ਦੇ ਧੰਧੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

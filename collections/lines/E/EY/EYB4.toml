@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਸਮਾਈ ਤਾਂ ਹੀ ਹੁੰਦੀ ਹੈ ਜੇ ਧੁਰੋਂ ਮੱਥੇ ਤੇ ਭਾਗ ਲਿਖਿਆ ਹੋਵੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਬਿ = ਮੁੱਢ ਤੋਂ। ਸਮਾਉ = ਸਮਾਈ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਕਿਉਂ ਘਬਰਾਂਦਾ ਹੈਂ? ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਪ੍ਰਭੂ ਤੇਰੀ (ਜ਼ਰੂਰ) ਰੱਖਿਆ ਕਰੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੋਲਹਿ = ਤੂੰ ਘਬਰਾਂਦਾ ਹੈਂ। ਪ੍ਰਾਣੀਆ = ਹੇ ਪ੍ਰਾਣੀ! ਤੁਧੁ = ਤੈਨੂੰ। ਸਿਰਜਣਹਾਰੁ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

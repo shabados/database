@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਉੱਚੇ ਮਹਿਲਾਂ ਵਾਲਾ ਹੈ, ਅਤੇ ਉੱਚੀਆਂ ਹਵੇਲੀਆਂ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਜ਼ੀਮੁਲ-ਮਨਾਜ਼ਿਲ ਰਫ਼ੀ-ਉਲ-ਮਕਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

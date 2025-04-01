@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਦਾਸਾਂ ਦੇ ਦਾਸਾਂ ਦਾ ਮੈਂ ਪਾਣੀ ਭਰਨ ਵਾਲਾ ਬਣਾਂ (ਉਹਨਾਂ ਦੀ ਸੇਵਾ ਵਿਚ ਮੈਨੂੰ ਆਨੰਦ ਪ੍ਰਤੀਤ ਹੋਵੇ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਨੀਹਾਰੇ = ਪਾਣੀ ਭਰਨ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪਿਆਰੀ ਜੀਭ! ਲੱਖਾਂ ਵਾਰੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਦੀ ਰਹੁ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਲਖ ਬਾਰੀ = ਲੱਖਾਂ ਵਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

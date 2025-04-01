@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਨੂੰ ਭਲਾ ਫਿਰ ਭੇਤ ਭਰੀ ਸ਼ਰਾਬ ਦੀ ਚਾਹ ਕਿਉਣ ਰਹੇ#"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕੈ ਖ਼ਾਹਸ਼ਿ ਸ਼ਰਾਬਿ ਪੁਰ ਅਸਰਾਰ ਮੀ ਕੁਨੇਮ ।੫੯।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

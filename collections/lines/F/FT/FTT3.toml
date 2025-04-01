@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆਲ ਪ੍ਰਭੂ! ਸਦਾ ਤੋਂ ਹੀ ਸਦਾ ਤੋਂ ਹੀ ਮੈਨੂੰ ਤੂੰ ਹੀ ਸੁਖ ਦੇਣ ਵਾਲਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੂੰ ਹੈ = ਤੂੰ ਹੀ। ਸੁਖਦਾਈ = ਸੁਖ ਦੇਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

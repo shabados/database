@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸੇ ਮਨੁੱਖ ਦੀ ਉਮਰ ਮੁੰ​‍ਡੇ ਪੜ੍ਹਾਉਂਦਿਆਂ ਲੰਘ ਜਾਂਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਲ ਪੜਾਵਤ = ਮੁੰ​‍ਡੇ ਪੜ੍ਹਾਂਦਿਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

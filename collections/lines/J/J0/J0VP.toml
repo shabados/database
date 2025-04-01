@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਾ ਕੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਈ ਰਹੁ, ਗੁਰੂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਦੀ ਦੱਸ ਪਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਾਇ = ਜਾ ਕੇ। ਕੇਰੇ = ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

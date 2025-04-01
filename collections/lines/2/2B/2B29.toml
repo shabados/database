@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇ-ਮੁਰਾਦ ਹੋ ਕੇ ਨਹੀਂ ਜਾਂਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਥਾ = ਖ਼ਾਲੀ, ਸੱਖਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

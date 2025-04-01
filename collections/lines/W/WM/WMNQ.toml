@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਤੇਰੀ ਮੁੱਠੀ ਭਰ ਮਿੱਟੀ ਵਿਚ ਆਪਣੀ ਥਾਣ ਬਨਾ ਰੱਖੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਣ ਕਿ ਜਾ ਕਰਦਾ ਬ-ਮੁਸ਼ਤਿ ਖ਼ਾਕਿ ਤੂ ।੫੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਬਹੁਤ ਭਾਲ ਕਰ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ। ਕੋਈ ਹੋਰ ਉਸ ਦੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨ = {अन्य} ਕੋਈ ਹੋਰ। ਸਮਸਰਿ = ਬਰਾਬਰ। ਮੂਚਾ = ਬਹੁਤ। ਢੂਢਿ ਰਹੇ = ਢੂੰਢ ਕੇ ਰਹਿ ਗਿਆ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

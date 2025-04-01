@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਠੰਢੀ (ਹਵਾ) ਸੁਗੰਧੀ-ਭਰੀ (ਹਵਾ) ਮੱਠੀ ਮੱਠੀ ਸਭਨਾਂ ਥਾਂਵਾਂ ਵਿਚ ਇਕੋ ਜਿਹੀ ਚੱਲਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤ = ਠੰਢੀ। ਮੰਦ = ਹੌਲੀ ਹੌਲੀ। ਸਮਾਨ = ਇਕੋ ਜਿਹੀ। ਸਰਬ ਥਾਨ = ਸਭਨੀਂ ਥਾਈਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

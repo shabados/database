@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਸਮੁੰਦਰ ਹੈ ਅਤੇ ਉਸ ਦਾ ਖ਼ਜ਼ਾਨਾ ਅਖੁੱਟ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਗਰੁ = ਸਮੁੰਦਰ। ਪੂਰਾ = ਭਰਿਆ ਹੋਇਆ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

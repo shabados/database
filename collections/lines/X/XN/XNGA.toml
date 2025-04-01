@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਆਪਣੇ ਸੇਵਕ ਉੱਤੇ ਪ੍ਰਭੂ ਜੀ ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਠਾਕੁਰ = ਮਾਲਕ-ਪ੍ਰਭੂ ਜੀ। ਦਇਆਲ = ਦਇਆਵਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

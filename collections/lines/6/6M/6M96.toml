@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹੋ ਜਿਹੀ ਹੀ ਹੈ) ਜਿਹੀ ਸੋਨੇ ਤੇ ਸੋਨੇ ਦੇ ਕੜਿਆਂ ਦੀ, ਜਾਂ, ਪਾਣੀ ਤੇ ਪਾਣੀ ਦੀਆਂ ਲਹਿਰਾਂ ਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਨਕ = ਸੋਨਾ। ਕਟਿਕ = ਕੜੇ, ਕੰਗਣਾ। ਜਲ ਤਰੰਗ = ਪਾਣੀ ਦੀਆਂ ਲਹਿਰਾਂ। ਜੈਸਾ = ਜਿਵੇਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

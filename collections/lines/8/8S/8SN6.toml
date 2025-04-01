@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ ਤੂੰ ਰੀਤਾਂ ਰਸਮਾਂ ਕਰਨ ਜੋਗਾ ਹੋਇਆ ਹੈਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਚਾਰ = {Skt. आचार} ਰਸਮ ਰਿਵਾਜ। ਬਿਉਹਾਰੀ = {Skt. व्यवहारिन्} ਵਿਹਾਰ ਕਰਨ ਵਾਲਾ, (ਰਸਮ ਰਿਵਾਜ) ਕਰਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

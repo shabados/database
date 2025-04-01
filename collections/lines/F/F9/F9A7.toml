@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਮ-ਦੂਤ ਭੀ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਮ ਕੰਕਰੁ = {ਕਿੰਕਰੁ = किंकर} ਜਮ ਦਾ ਸੇਵਕ, ਜਮ-ਦੂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

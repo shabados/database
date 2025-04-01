@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਖ਼ੀਰਲੇ ਸਮੇ ਪਰਮਾਤਮਾ ਹੀ ਮਦਦਗਾਰ ਬਣਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਰ ਅੰਤ ਕੀ = ਅੰਤ ਦੇ ਸਮੇ। ਸਹਾਇ = ਸਹਾਈ, ਮਦਦਗਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

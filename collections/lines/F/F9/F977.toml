@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੀ ਅਮਲੀ ਜ਼ਿੰਦਗੀ ਤੇ ਜ਼ਿੰਦਗੀ ਦੇ ਅਸੂਲ ਇਕ-ਰਸ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ = ਅਮਲੀ ਜ਼ਿੰਦਗੀ, ਚਾਲ ਚਲਨ। ਰਹਤ = ਜ਼ਿੰਦਗੀ ਦੇ ਅਸੂਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

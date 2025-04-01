@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੋ ਜਿਹੇ ਸੇਵਕ ਦੀ ਕੇਹੜੀ ਵਡਿਆਈ ਮੈਂ ਦੱਸਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਹਿਮਾ = ਵਡਿਆਈ। ਬਖਾਨਉ = ਮੈਂ ਦੱਸਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

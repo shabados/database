@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਵਾ, ਪਾਣੀ, ਅੱਗ ਅਤੇ ਪਾਤਾਲ- ਇਹਨਾਂ ਸਾਰਿਆਂ ਦੇ ਇਕੱਠ ਵਿਚ (ਅਕਾਲ ਪੁਰਖ ਨੇ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਵਣ = ਸਭ ਪ੍ਰਕਾਰ ਦੀ ਹਵਾ। ਪਾਤਾਲ = ਸਾਰੇ ਪਾਤਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਤੂੰ ਮੇਰੇ ਮਨ ਤੋਂ ਕਦੇ ਭੀ ਨਾਹ ਵਿੱਸਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਕਬਹੁ ਨ = ਕਦੇ ਭੀ ਨ। ਗਪਾਲ = ਹੇ ਗੋਪਾਲ! {ਅੱਖਰ 'ਗ' ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ: (ੋ) ਅਤੇ (ੁ) ਅਸਲ ਲਫ਼ਜ਼ 'ਗੋਪਾਲ' ਹੈ, ਇਥੇ 'ਗੁਪਾਲ' ਪੜ੍ਹਨਾ ਹੈ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

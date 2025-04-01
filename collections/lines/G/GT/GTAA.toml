@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬਾਦਸ਼ਾਹ ਨੇ ਮੈਨੂੰ (ਨਾਮੇ ਨੂੰ) ਬੰਨ੍ਹ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਲਤਾਨੇ = ਸੁਲਤਾਨ ਨੇ। ਬਾਧਿਆ = ਬੰਨ੍ਹ ਲਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

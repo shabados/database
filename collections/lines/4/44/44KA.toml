@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਵੇਲੇ ਨਾਮ ਹੀ ਸਿਮਰਿਆ ਕਰੋ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਪੀਂਦੇ ਰਿਹਾ ਕਰੋ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮ ਹੀ ॥ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

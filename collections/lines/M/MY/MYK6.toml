@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਉਸ ਦਾ ਮੁੱਲ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਮਤਿ = ਮੁੱਲ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

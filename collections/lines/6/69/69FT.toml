@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਮਨੁੱਖ ਹਰੀ ਦੇ ਦਰਬਾਰ ਵਿਚ ਮਿਲਿਆ (ਆਦਰ ਪਾਉਣ-ਯੋਗ ਹੋਇਆ) ਹੈ, ਉਸ ਨੂੰ (ਸੰਸਾਰ ਦੇ) ਸਭ ਦਰਬਾਰਾਂ ਵਿਚ ਆਦਰ ਮਿਲਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਬਾਣ = ਦਰਬਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਦੋਂ ਨਾਹ ਕੋਈ ਜਤੀ ਸੀ ਨਾਹ ਕੋਈ ਸਤੀ ਸੀ ਤੇ ਨਾਹ ਕੋਈ ਤਿਆਗੀ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤੀ = ਉੱਚਾ ਆਚਰਨ ਬਣਾਣ ਦਾ ਜਤਨ ਕਰਨ ਵਾਲਾ। ਜਤੀ = ਜਤ ਧਾਰਨ ਵਾਲਾ, ਬਿੰਦ ਸਾਂਭ ਕੇ ਰੱਖਣ ਦਾ ਜਤਨ ਕਰਨ ਵਾਲਾ। ਬਨਵਾਸੀ = ਜੰਗਲ ਵਿਚ ਰਹਿਣ ਵਾਲਾ ਤਿਆਗੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

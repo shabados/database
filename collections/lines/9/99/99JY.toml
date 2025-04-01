@@ -42,6 +42,12 @@ language = "pa"
 data = "ਵੇਦਾਂ ਦੇ ਮੰਤਰ ਤੇ ਪੁਰਾਣ ਅਕਾਲ ਪੁਰਖ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਖਹਿ = ਆਖ ਰਹੇ ਹਨ, ਵਰਣਨ ਕਰਦੇ ਹਨ। ਵੇਦ ਪਾਠ = ਵੇਦਾਂ ਦੇ ਪਾਠ, ਵੇਦਾਂ ਦੇ ਮੰਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਡੱਡੂ! (ਤੇਰਾ) ਸਦਾ ਪਾਣੀ ਦਾ ਵਾਸ ਹੈ, ਭੌਰਾ (ਪਾਣੀ ਵਿਚ) ਨਹੀਂ ਵੱਸਦਾ, (ਫਿਰ ਭੀ) ਉਹ (ਫੁੱਲ ਦੀ) ਚੋਟੀ ਦਾ ਰਸ ਮਾਣਦਾ ਹੈ (ਚੂਸਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਸੁ = ਬਾਸੁ, ਵਾਸ। ਅਲੀਅਲ = ਭੌਰਾ। ਮੇਰ = ਚੋਟੀ, ਕੌਲ ਫੁੱਲ ਦੀ ਚੋਟੀ। ਚਚਾ = ਚੂਸਦਾ। ਗੁਨ = ਰਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

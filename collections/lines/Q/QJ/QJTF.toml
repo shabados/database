@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ, ਤੂੰ (ਸਰਨ ਆਏ ਦੀ) ਰੱਖਿਆ ਕਰਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਕਥਨੁ ਨ ਜਾਇ = ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦਾ। ਅਕਥੁ = ਬਿਆਨ ਤੋਂ ਪਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

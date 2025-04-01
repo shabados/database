@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੇ ਰਾਹ ਤੇ ਸਤਿਕਾਰ ਤੋਂ ਸਿਵਾ ਹੋਰ ਕੋਈ ਸਿਖਿਆ ਨਹੀਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਰਾਹਿ ਹੱਕ ਜੁਜ਼ ਅਦਬ ਤਾਅਲੀਮ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

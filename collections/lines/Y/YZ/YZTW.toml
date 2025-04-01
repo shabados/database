@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਅਸੀਂ ਨਿਮਾਣੇ ਚਾਤ੍ਰਿਕ ਹਾਂ ਤੇ ਗੁਰੂ ਦੀ ਸਰਨ ਆਏ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਾਤ੍ਰਿਕ = ਪਪੀਹੇ {ਨੋਟ: ਪ੍ਰਚਲਤ ਖ਼ਿਆਲ ਹੈ ਕਿ ਪਪੀਹਾ ਸ੍ਵਾਂਤੀ ਨਛੱਤ੍ਰ ਸਮੇ ਪਈ ਬੂੰਦ ਨੂੰ ਹੀ ਪੀਂਦਾ ਹੈ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਾਮ ਤੋਂ ਬਿਨਾ, ਵਿਕਾਰਾਂ ਦੇ ਕਾਰਨ) ਮੂਰਖ ਜੀਵ ਦੀ ਇਹ ਦੇਹੀ ਪਸ਼ੂਆਂ ਤੇ ਪਰੇਤਾਂ ਨਾਲੋਂ ਭੀ ਭੈੜੀ (ਸਮਝੋ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਤੋਂ। ਬੁਰੀ = ਭੈੜੀ। ਮੁਗਧ = {मुग्ध} ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

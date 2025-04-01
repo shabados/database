@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਗੋਯਾ # ਤੂੰ ਸਦਾ ਉਸ ਦੀ ਯਾਦ, ਉਸ ਦਾ ਸਿਮਰਨ ਕਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯਾਦਿ ਊ ਕੁਨ ਯਾਦਿ ਊ ਗੋਯਾ ਮੁਦਾਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਸੰਗ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ ਕੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਿ = ਜਪ ਕੇ, ਜਪਣ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

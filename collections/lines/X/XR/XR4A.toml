@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਸੰਤਾਂ ਦਾ ਆਸਰਾ ਹੈ ਅਤੇ ਜੋ ਸਦਾ ਹਾਜ਼ਰ-ਨਾਜ਼ਰ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸਹਾਰੁ = ਸੰਤਾਂ ਦਾ ਆਸਰਾ। ਬਿਖਿਆਤਾ = ਪ੍ਰਗਟ, ਹਾਜ਼ਰ-ਨਾਜ਼ਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

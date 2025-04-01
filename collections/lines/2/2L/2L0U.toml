@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਂ ਜੋ ਰੱਬ ਦੀ ਯਾਦ ਤੌਂ ਬਿਨਾਂ ਦੂਜਾ ਕੋਈ ਸਿਮਰਨ ਨਾ ਕਰੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾਂ ਨ ਬਾਸ਼ਦ ਵਿਰਦਿ ਆਂ ਜੁਜ਼ ਯਾਦਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

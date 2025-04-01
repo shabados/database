@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਹੇ ਪੁਰਖ! ਹੇ ਸਰਬ-ਗੁਣ ਭਰਪੂਰ ਦੇਵ! ਮੈਂ (ਤੇਰਾ) ਦਾਸ ਨਾਨਕ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ ॥੨॥੫॥੮॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਣਾਗਤੀ = ਸਰਨ ਆਇਆ ਹੈ। ਹਰਿ = ਹੇ ਹਰੀ! ਪੂਰਨ ਦੇਵ = ਹੇ ਸਰਬਗੁਣ-ਭਰਪੂਰ ਦੇਵ! ॥੨॥੫॥੮॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪ੍ਰੇਮ ਦੇ ਰਾਹ ਉੱਤੇ ਮੈਣ ਇਸੇ ਗੱਲ ਨੂੰ ਬਾਰ ਬਾਰ ਦੁਹਰਾਣਦਾ ਹਾਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਰਾਹਿ ਇਸ਼ਕ ਈਣ ਹਮਾ ਤਕਰਾਰ ਮੀ ਕੁਨੇਮ ।੫੯।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

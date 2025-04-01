@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੋਯਾ ਦੇ ਦਿਲ ਦੀ ਤਰਹ ਸੰਤੋਖੀ ਅਤੇ ਹਰਿਆ ਭਰਿਆ ਰਹੁ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਦਾਮ ਸ਼ਾਕਿਰੋ ਸ਼ਾਦਾਬ ਚੂੰ ਦਿਲਿ ਗੋਯਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

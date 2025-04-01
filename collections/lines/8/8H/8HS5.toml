@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਉਹੀ ਸਾਰੇ ਬੰਦੇ (ਅਸਲ) ਭਾਗਾਂ ਵਾਲੇ ਹਨ ॥੪॥੩੭॥੫੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਈ ਜਨ = ਉਹ ਬੰਦੇ {ਬਹੁ-ਵਚਨ}। ਧੰਨ = ਭਾਗਾਂ ਵਾਲੇ ॥੪॥੩੭॥੫੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

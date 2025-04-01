@@ -36,6 +36,12 @@ language = "pa"
 data = "ਧੰਨ ਹੈ ਗੁਰੂ ਜੋ ਹਰੀ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ, ਉਸ ਦੇ ਅੱਗੇ ਸਦਾ ਸਿਰ ਨਿਵਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਮੁਬਾਰਿਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

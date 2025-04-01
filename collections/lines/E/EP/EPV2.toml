@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਗੁਰੂ ਦੀ ਬਾਣੀ ਗਾਵੋ, ਇਹ ਬਾਣੀ ਹੋਰ ਸਭ ਬਾਣੀਆਂ ਨਾਲੋਂ ਸ਼ਿਰੋਮਣੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰ = ਸਿਰ ਉਤੇ, ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

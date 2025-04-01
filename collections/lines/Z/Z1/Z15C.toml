@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਧਰ ਕਿਧਰ ਵੇਖਦਾ ਹਾਂ, ਹਰ ਥਾਂ ਉਹ ਪ੍ਰਭੂ ਆਪ ਹੀ ਮੌਜੂਦ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤ = {यत्र कुत्र} ਜਿੱਥੇ ਕਿੱਥੇ, ਹਰ ਥਾਂ। ਪੇਖਉ = ਪੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਤਤ ਤਤ = ਉਥੇ ਉਥੇ। ਸੋਇ = ਉਹ (ਪਰਮਾਤਮਾ) ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

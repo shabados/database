@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਸਾਰੇ ਦਾ ਸਾਰਾ ਬੰਦਗੀ ਹੋ ਜਾ, ਅਤੇ ਮਲੰਗ ਰਿੰਦ ਬਣ ਜਾ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਮਾਮਿ ਜ਼ੁਹਦ ਸ਼ੌ ਵਰਿੰਦਿ ਬੀਨਵਾ ਮੀ ਬਾਸ਼ ।੪੦।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

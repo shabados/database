@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੇਰੇ ਵਿਛੋੜੇ ਕਾਰਨ ਸੀਨਾ ਕਬਾਬ ਹੋ ਚੁਕਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸੀਨਾ ਅਜ਼ ਹਿਜਰਿ ਤੂ ਬਿਰਯਾਣਸਤੋ ਬਸ ।੩੯।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

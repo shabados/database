@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੇ ਸਹੀ ਜੀਵਨ-ਜੁਗਤਿ ਨੂੰ ਸਮਝਣ ਵਾਲੀ) ਸੁਚੱਜੀ ਅਕਲ ਦੀ ਮਿੱਟੀ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਝੀ = ਸਮਝ, ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

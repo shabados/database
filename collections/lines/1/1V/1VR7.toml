@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਮਾਦਿਕ ਵੈਰੀਆਂ ਦੀ ਸੰਗਤ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਤਨ ਸੰਗਰੀਆ = ਕਾਮਾਦਿਕ ਵੈਰੀਆਂ ਦੀ ਸੰਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

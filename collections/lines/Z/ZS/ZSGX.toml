@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ) ਸਰੀਰ ਵਿਅਰਥ ਹਨ ਜੋ ਦੂਜਿਆਂ ਨਾਲ ਭਲਾਈ ਨਹੀਂ ਕਰਦੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਉਪਕਾਰ = ਦੂਜਿਆਂ ਦੀ ਭਲਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

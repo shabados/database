@@ -5,6 +5,11 @@ language = "pa"
 data = "ਰੱਬ ਦੀ ਯਾਦ ਦੇ ਚਾਉ ਨੇ ਉਸ ਨੂੰ ਵਡਿਆਈ ਬਖ਼ਸ਼ੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ੌਕ ਅਜ਼ ਯਾਦਿ ਹੱਕਸ਼ ਮੁਮਤਾਜ਼ ਕਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

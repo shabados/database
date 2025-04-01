@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਨ ਵਿਚ ਲਾਲਚ ਹੈ ਭਟਕਣਾ ਹੈ, ਮੂਰਖ ਠੇਡੇ ਖਾਂਦਾ ਫਿਰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮੁ = ਭਟਕਣਾ। ਭਰਮੈ = ਭਟਕਦਾ ਹੈ, ਠੇਡੇ ਖਾਂਦਾ ਹੈ। ਗਾਵਾਰੀ = ਮੂਰਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

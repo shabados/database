@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬਾਹਰੋਂ ਭਾਵੇਂ ਉਹ ਊਠਾਂ ਘੋੜਿਆਂ ਵਲ ਧਿਆਨ ਦੇ ਰਿਹਾ ਦਿਸੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਾਹਿਰ ਅੰਦਰ ਮਾਇਲਿ ਅਸਪੋ ਸ਼ੁਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

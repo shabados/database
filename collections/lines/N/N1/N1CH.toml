@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਹਰੀ! ਆਪਣੇ ਮਨ ਵਿਚ ਦਇਆ ਧਾਰ ਕੇ ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਦੇਹ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆ ਧਾਰੇ = ਦਇਆ ਧਾਰਿ, ਦਇਆ ਧਾਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

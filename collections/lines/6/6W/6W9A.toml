@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਸਾਰੇ (ਆਤਮਕ) ਖ਼ਜ਼ਾਨੇ ਸਾਰੇ ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰ ਲਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

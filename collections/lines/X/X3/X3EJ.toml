@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ) ਮੋਹ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਮਨੁੱਖ ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਵਾਏ ਜਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਮਿ = ਭਟਕਣਾ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

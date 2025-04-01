@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਤਾਂ ਮੈਨੂੰ ਅੰਦਰਲਾ ਚਾਨਣ ਲੱਭ ਪਿਆ ॥੩॥੨੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੌ = ਤਦੋਂ। ਅਨਭਉ = ਪ੍ਰਕਾਸ਼, ਗਿਆਨ, ਅੰਦਰਲਾ ਚਾਨਣ ॥੩॥੨੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

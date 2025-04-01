@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਧਰਤੀ ਤੇ ਆਕਾਸ਼ ਨੂੰ ਆਪਣੀ ਸੱਤਿਆ ਦੇ ਆਸਰੇ (ਥਾਂ ਸਿਰ) ਟਿਕਾਈ ਰਖਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧਰਣਿ = ਧਰਤੀ। ਕਲ = ਸੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

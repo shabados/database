@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੈਨੂੰ ਡਰ ਰਹਿੰਦਾ ਹੈ ਕਿ) ਗੋਬਿੰਦ ਨਾਲ ਮੇਰੀ ਪ੍ਰੀਤ ਕਿਤੇ ਘਟ ਨਾਹ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਮਤਾਂ। ਜਿਨਿ ਘਟੈ = ਮਤਾਂ ਘਟ ਜਾਏ, ਕਿਤੇ ਘਟ ਨਾਹ ਜਾਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

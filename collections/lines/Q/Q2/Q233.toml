@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੋ ਮਨੁੱਖ ਸਿਆਣੇ ਹਨ ਜੋ ਹਰੀ-ਨਾਮ ਸਿਮਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਚਖਣ = ਸਿਆਣੇ। ਧਿਆਇਆ = ਸਿਮਰਿਆ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

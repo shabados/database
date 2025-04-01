@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਸ ਮਨੁੱਖ ਦੇ (ਉਹ) ਪੈਰ ਸਦਾ ਪੂਜੇ ਜਾਂਦੇ ਹਨ ਜੇਹੜੇ (ਪੈਰ) ਧਰਮ ਦੇ ਰਾਹ ਉਤੇ ਤੁਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਗ = ਪੈਰ। ਪੂਜੀਅਹਿ = ਪੂਜੇ ਜਾਂਦੇ ਹਨ। ਮਾਰਗਿ ਧਰਮ = ਧਰਮ ਦੇ ਰਸਤੇ ਉਤੇ। ਚਲੇਸਹਿ = ਚੱਲਣਗੇ, ਚੱਲਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

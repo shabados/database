@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਦੇ ਮਨ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕ ਦੀ ਚਰਨ-ਧੂੜ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੀਠ ਖਟਾਨੀ = ਮਿੱਠੀ ਲੱਗੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

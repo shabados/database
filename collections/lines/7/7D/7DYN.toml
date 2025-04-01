@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਰੀਰ, ਧਨ, ਵਹੁਟੀ-(ਮੋਹ ਦੇ ਇਹ ਸਾਰੇ) ਖਿਲਾਰੇ ਨਾਸਵੰਤ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲਤੁ = {कलत्र} ਇਸਤ੍ਰੀ। ਮਿਥਿਆ = ਨਾਸਵੰਤ। ਬਿਸਥਾਰ = (ਮੋਹ ਦਾ) ਖਿਲਾਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

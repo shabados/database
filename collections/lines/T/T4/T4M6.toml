@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮਿੱਤਰ ਦੀ ਯਾਦ ਵਿਚ ਸਾਰੀ ਉਮਰ ਕੱਟੀ ਜਾ ਸਕਦੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਯਾਦਿ ਦੂਸਤ ਤਵਾਣ ਉਮਰ ਰਾ ਬਸਰ ਬੁਰਦਨ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

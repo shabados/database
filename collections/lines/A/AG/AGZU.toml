@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਾਤਿ-ਵਰਨ ਅਤੇ ਲੋਕ-ਲਾਜ ਦੀ ਖ਼ਾਤਰ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਧਰਮ-ਕਰਮ ਬੱਸ ਹੋ ਗਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਤਿ = ਇੱਜ਼ਤ, ਲੋਕ-ਲਾਜ। ਆਚਾਰਾ = ਕਰਮ-ਕਾਂਡ, ਧਾਰਮਿਕ ਰਸਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

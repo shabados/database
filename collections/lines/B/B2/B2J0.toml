@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ) ਮਾਇਆ ਦੀ ਮਮਤਾ ਦਾ ਖ਼ਿਆਲ ਮਨ ਵਿਚ ਟਿਕਾ ਕੇ ਮੋਹ ਦੇ ਬੰਧਨ ਵਿਚ ਬੱਝੇ ਰਹਿੰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੇਰੀ ਮੇਰੀ ਧਾਰਿ = ਮਾਇਆ ਦੀ ਮਮਤਾ ਦੇ ਖ਼ਿਆਲ ਮਨ ਵਿਚ ਟਿਕਾ ਕੇ। ਬੰਧਨਿ = (ਮੋਹ ਦੇ) ਬੰਧਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

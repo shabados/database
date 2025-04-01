@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਭੀ ਮਨੁੱਖ ਆਖਿਆਂ (ਭਾਵ, ਸਮਝਾਇਆਂ) ਨਾਹ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਮੰਨਦਾ ਹੈ ਤੇ ਨਾਹ ਹਉਮੈ ਛੱਡਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨ ਮਾਨਈ = ਨਹੀਂ ਮੰਨਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

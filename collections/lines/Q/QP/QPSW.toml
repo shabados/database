@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਗਤ-ਵਿਖਾਵੇ ਵਾਲੇ) ਸਾਰੇ ਧਾਰਮਿਕ ਭੇਖ ਤੇ ਵਰਨ (ਆਸ਼੍ਰਮਾਂ ਦਾ ਮਾਣ) ਮਿੱਟੀ ਸਮਾਨ ਦਿੱਸਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੀਸਹਿ = ਦਿੱਸਦੇ ਹਨ। ਸਭਿ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

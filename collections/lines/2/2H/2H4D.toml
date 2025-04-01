@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਸੰਤ ਜਨੋ! ਤੀਰਥ ਆਦਿਕਾਂ ਤੇ) ਸਰੀਰ ਨੂੰ ਧੋਤਿਆਂ (ਮਨ ਦੀ ਵਿਕਾਰਾਂ ਵਾਲੀ) ਮੈਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਹੀ = ਸਰੀਰ। ਧੋਇ = ਧੋ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

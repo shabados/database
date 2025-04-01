@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਤਾਣ ਮਸਤ ਰਿੰਦਾਣ ਦੀ ਮਜਲਿਸ ਹੈ, ਕੋਈ ਕਿੱਸੇ ਕਹਾਣੀਆਣ ਦੀ ਥਾਣ ਨਹੀਣ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਜ਼ਮਿ ਮਸਤਾਨ ਅਸਤ ਜਾਇ, ਕਿੱਸਾ ਓ ਅਫ਼ਸਾਨਾ ਨੀਸਤ ।੧੦।੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

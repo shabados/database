@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਦੀਦਾਰ ਕੀਤਿਆਂ ਜਗਤ ਦਾ ਉੱਧਾਰ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਰਸਨੁ ਪੇਖਤ = ਦੀਦਾਰ ਕਰ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

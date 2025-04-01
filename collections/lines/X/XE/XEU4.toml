@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ) ਤੂੰ ਕਿਹੋ ਜਿਹਾ ਹੈਂ, ਕੇਡਾ ਵੱਡਾ ਹੈਂ-ਇਹ ਗੱਲ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਕਥ = ਅ-ਕੱਥ, ਜੋ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

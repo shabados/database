@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਕ੍ਰੋੜਾਂ ਹੀ ਬ੍ਰਹਮੇ ਜਗਤ ਪੈਦਾ ਕਰਨ ਦੇ ਕੰਮ ਤੇ ਲਾਏ ਹੋਏ ਹਨ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮੇ = {ਲਫ਼ਜ਼ 'ਬ੍ਰਹਮਾ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਾਜਣ = ਪੈਦਾ ਕਰਨ ਦੇ ਕੰਮ ਤੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

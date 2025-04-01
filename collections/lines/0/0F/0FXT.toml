@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਮਲੇ ਮਨ! ਮੈਂ ਮੈਂ ਕਰਨ ਵਾਲੀ ਬ੍ਰਿਤੀ ਭੁਲਾ ਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੋਲਿਆ = ਹੇ ਕਮਲੇ (ਮਨ)! ਸੁਰਤਿ = ਬ੍ਰਿਤੀ। ਵਿਸਾਰਿ = ਭੁਲਾ ਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

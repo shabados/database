@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਸਿਮਰਨ ਨਾਲ (ਵਿਕਾਰ ਤੇਰੇ ਰਾਹ ਵਿਚ) ਰੁਕਾਵਟ ਨਹੀਂ ਪਾ ਸਕਣਗੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਨਕਾਰੁ = ਇਨਕਾਰ, ਰੋਕ-ਟੋਕ, ਵਿਕਾਰਾਂ ਵਲੋਂ ਰੁਕਾਵਟ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

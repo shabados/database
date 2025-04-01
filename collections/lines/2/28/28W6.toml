@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਫਿਰ ਉਹ ਦੁੱਧ ਵਿਚ ਰਲਾ ਕੇ ਰਿਝੇ ਹੋਏ ਚਾਵਲਾਂ ਦਾ ਭੋਜਨ ਕਰੇ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰੁੜਾ = ਰਿੱਝੇ ਹੋਏ ਚਾਵਲ। ਗਾਡਿ = ਮਿਲਾ ਕੇ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

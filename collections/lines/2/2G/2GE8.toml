@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਾਰਬ੍ਰਹਮ ਨੂੰ ਆਪਣੇ ਅੰਗ-ਸੰਗ ਵੇਖਾਂ ਤੇ ਕੇਵਲ ਉਸੇ ਦਾ ਹੀ ਨਾਮ ਧਿਆਵਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਉ = ਮੈਂ ਦੇਖਾਂ। ਧਿਆਵਉ = ਮੈਂ ਧਿਆਵਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

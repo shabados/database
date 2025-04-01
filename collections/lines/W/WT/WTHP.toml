@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਰਤਾਰ! ਹਰੇਕ ਜੀਵ ਤੇਰੇ ਹੁਕਮ ਵਿਚ (ਹੀ ਤੁਰ ਸਕਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤਾ = ਹੇ ਕਰਤਾਰ! ਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਤੇਰੈ ਜੋਰਿ = ਤੇਰੇ ਜ਼ੋਰ ਵਿਚ, ਤੇਰੇ ਹੁਕਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

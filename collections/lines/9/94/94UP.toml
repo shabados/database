@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਹੇ ਮਨ! ਜੇ ਜੀਵ ਸੁਚੱਜੀ ਜ਼ਿੰਦਗੀ ਨੂੰ ਇਸਤ੍ਰੀ ਬਣਾ ਲਏ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਣੀ = ਸੁਚੱਜੀ ਜ਼ਿੰਦਗੀ। ਕਾਮਣਿ = ਇਸਤ੍ਰੀ। ਮਨ = ਹੇ ਮਨ! ਕਰਿ ਲਏ = (ਜੀਵ) ਬਣਾ ਲਏ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

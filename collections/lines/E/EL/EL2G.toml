@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕਰਕੇ (ਕਾਮਾਦਿਕ) ਪਸ਼ੂ ਅਡੋਲ ਹੀ (ਮੈਨੂੰ) ਆ ਦਬਾਉਂਦੇ ਸਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ = ਜਿਸ ਕਮਜ਼ੋਰੀ ਦੀ ਰਾਹੀਂ। ਮਿਰਗ = ਕਾਮਾਦਿਕ ਪਸ਼ੂ। ਚੋਰੀ = ਚੁਪ-ਕੀਤੇ, ਅਡੋਲ ਹੀ, ਪਤਾ ਦੇਣ ਤੋਂ ਬਿਨਾ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

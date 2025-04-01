@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੇਰੀਆਂ ਬਾਹਾਂ ਬੰਨ੍ਹ ਕੇ ਢੇਮ ਵਾਂਗ (ਮੈਨੂੰ ਇਹਨਾਂ ਲੋਕਾਂ ਹਾਥੀ ਅੱਗੇ) ਸੁੱਟ ਦਿੱਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੁਜਾ = ਬਾਂਹ। ਭਿਲਾ = ਢੀਮ। ਭਿਲਾ ਕਰਿ = ਢੀਮ ਬਣਾ ਕੇ, ਢੀਮ ਵਾਂਗ। ਡਾਰਿਓ = ਸੁੱਟ ਦਿੱਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

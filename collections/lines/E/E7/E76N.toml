@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਅਪਹੁੰਚ ਹੈ, ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਦੀ ਉਸ ਤਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਗਮ = ਅਪਹੁੰਚ। ਅਗੋਚਰੁ = {ਅ-ਗੋ-ਚਰੁ} ਜਿਸ ਤਕ ਗਿਆਨ-ਇੰਦ੍ਰੀਆਂ ਦੀ ਪਹੁੰਚ ਨਾਹ ਹੋ ਸਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

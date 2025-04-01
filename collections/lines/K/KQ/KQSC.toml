@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਾਡਾ ਜੀਊਣ, ਸਾਡਾ ਬੁਢੇਪਾ ਤੇ ਸਾਡੀ ਮੌਤ ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਵੱਸ ਵਿਚ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਨਮੁ = ਜ਼ਿੰਦਗੀ। ਜਰਾ = ਬੁਢੇਪਾ। ਮਿਰਤੁ = ਮੌਤ। ਵਾਸਿ = ਵੱਸ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

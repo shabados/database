@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਜਮ੍ਹਾਂ ਹੋ ਜਾਂਦਾ ਹੈ ਉਹੀ ਮਨੁੱਖ ਸਦਾ ਲਈ ਸਾਹੂਕਾਰ ਬਣ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਚੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ। ਸਾਹੁ = ਸਾਹੂਕਾਰ। ਘਟਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਸੰਚਾਣਾ = ਜਮ੍ਹਾਂ ਹੋ ਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

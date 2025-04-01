@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰੀ ਅਰਜ਼ੋਈ ਸੁਣ ਕੇ) ਪੂਰੇ ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਪ੍ਰਭੂ ਮਿਲਾ ਦਿੱਤਾ ਹੈ, (ਹੁਣ) ਮੈਂ ਜਿਧਰ ਤੱਕਦਾ ਹਾਂ ਓਧਰ ਉਹ ਪ੍ਰਭੂ ਹੀ ਦਿੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਿ ਪੂਰੈ = ਪੂਰੇ ਗੁਰੂ ਨੇ। ਜਤ = ਜਿਧਰ। ਤਤ = ਓਧਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

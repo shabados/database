@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੋਪਾਲ! ਹੇ ਗੋਬਿੰਦ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ, ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਜਪਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰ ॥ ਰਹਾਉ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੋਪਾਲ = ਹੇ ਗੋਪਾਲ! ਜਪਾਵਹੁ = ਜਪਣ ਵਿਚ ਸਹਾਇਤਾ ਕਰੋ  ॥ ਰਹਾਉ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

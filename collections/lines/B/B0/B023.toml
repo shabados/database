@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਪ੍ਰੇਮ ਦੇ ਮਾਮਲੇ ਦੀ ਰੂਹਾਨੀ ਖ਼ੁਸ਼ੀ ਨੂੰ ਗਨੀਮਤ ਸਮਝਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮੁਗ਼ਤਨਮ ਦਾਨਦ ਸਰੂਰਿ ਕਾਰਿ ਇਸ਼ਕ ।੫੦।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

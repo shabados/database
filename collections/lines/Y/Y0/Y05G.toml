@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਜਗਤ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੈ ਸਬਦਿ = ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਤਿਸ ਦੈ = {ਸੰਬੰਧਕ 'ਦੈ' ਦੇ ਕਾਰਨ ਲਫ਼ਜ਼ 'ਤਿਸੁ' ਦਾ (ੁ) ਉਡ ਗਿਆ ਹੈ}। ਨਿਸਤਰੈ = (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

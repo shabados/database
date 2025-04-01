@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਇਸ ਹੋਛੀ ਦੁਨੀਆ ਲਈ ਚਿੰਤਾਤੁਰ ਨ ਹੋ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨੇ ਪਏ ਦੁਨੀਆਇ ਦੂੰ ਗ਼ਮਨਾਕ ਬਾਸ਼ ।੪੫੮।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

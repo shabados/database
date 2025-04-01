@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਵਿਚ ਲੁਕਿਆ ਹੋਇਆ ਮੌਜੂਦ ਹੈ, ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਪਰਗਟ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਪਤੁ = ਲੁਕਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

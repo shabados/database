@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਇਹ ਜੰਜਾਲ ਆਦਿਕ ਭੀ ਜੋ ਕੁਝ ਬਣਾਇਆ ਹੈ ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ਬਣਾਇਆ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੈ = ਆਪ ਹੀ ਆਪ, ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

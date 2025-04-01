@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਅਵਸਥਾ ਦੀਆਂ ਗੱਲਾਂ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕੀਆ = ਉਸ ਅਵਸਥਾ ਦੀਆਂ। ਕਥੀਆ ਨ ਜਾਹਿ = ਕਹੀਂਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਕਰਤੱਬ ਪੜ੍ਹੋ (ਭਾਵ, ਇਹ ਸਿੱਖੋ ਕਿ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ ਜੀਵਨ ਸਫਲ ਕਰਨ ਵਾਸਤੇ ਕੀਹ ਉੱਦਮ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੁਗ = ਮਨੁੱਖਾ ਜੀਵਨ, ਸੰਸਾਰ। ਧਰਮੁ = ਕਰਤੱਬ, ਫ਼ਰਜ਼। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

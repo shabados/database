@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸੰਸਾਰ ਮਦਾਰੀ ਦੇ ਨਾਟਕ ਵਾਂਗ ਇਕ ਖੇਡ (ਹੀ) ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਟੂਐ = ਨਟ ਨੇ, ਮਦਾਰੀ ਨੇ। ਬਾਜੀ = ਖੇਡ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

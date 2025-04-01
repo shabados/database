@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਤੂੰ ਭੀ ਜੰਮਣ ਮਰਨ ਨੂੰ ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਹੀ ਸਮਝ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਵਣ ਜਾਣਾ = ਜੰਮਣਾ ਮਰਨਾ। ਸਬਦੁ = (ਪਰਮਾਤਮਾ ਦਾ) ਹੁਕਮ। ਪਛਾਣੁ = ਸਮਝ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

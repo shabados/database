@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦਾ ਤਾਂ ਕਹਿਣਾ ਹੀ ਕੀਹ ਹੋਇਆ? (ਭਾਵ, ਉਸ ਦੀ ਪੂਰੀ ਸਿਫ਼ਤ ਕੀਤੀ ਹੀ ਨਹੀਂ ਜਾ ਸਕਦੀ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਾ ਕਹਣਾ = ਉਸ ਮਨੁੱਖ ਬਾਬਤ ਕੁਝ ਆਖਣਾ। ਕਹਹੁ ਨ ਕੋਇ = ਤੁਸੀਂ ਕੋਈ ਧਿਰ ਭੀ ਨਾ ਆਖੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

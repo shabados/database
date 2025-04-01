@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਹਰੀ ਸਭ ਜੀਵਾਂ ਨੂੰ ਧਰਵਾਸ ਦੇਂਦਾ ਹੈ, ਇਹ ਜਿੰਦ ਤੇ ਸਰੀਰ ਸਭ ਕੁਝ ਉਸੇ ਦਾ (ਦਿੱਤਾ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਪਿੰਡੁ = ਸਰੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

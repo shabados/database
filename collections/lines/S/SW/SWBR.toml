@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਾਹ ਉਤਪੱਤੀ ਸੀ ਨਾਹ ਪਰਲੌ ਸੀ, ਨਾਹ ਜੰਮਣ ਸੀ ਨਾਹ ਮਰਨ ਸੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਓਪਤਿ = ਉਤਪੱਤੀ। ਖਪਤਿ = ਨਾਸ, ਪਰਲੌ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

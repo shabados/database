@@ -5,6 +5,13 @@ language = "pa"
 data = "ਮੈਨੂੰ ਫਿਰ ਆਪਣੀ ਅਪਰਮ ਅਪਾਰ ਜ਼ਾਤ ਵਿਖਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨ ਊ ਰਾ ਜ਼ਾਤਿ ਖ਼ੁਦ ਨੁਮਾਇਮ ਬਾਜ਼ ।"
+page = 1
+line = 29
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

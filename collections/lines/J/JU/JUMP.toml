@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋ, ਇਕ ਪਰਮਾਤਮਾ ਦੇਵ ਦਾ ਭਜਨ ਕਰੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਵਾ = ਪ੍ਰਕਾਸ਼-ਰੂਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

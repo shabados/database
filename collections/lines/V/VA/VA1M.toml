@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਇਸ ਵਾਸਤੇ ਇਹਨਾਂ ਦੀ ਖ਼ਾਤਰ) ਕਾਮ ਵਿਚ ਕ੍ਰੋਧ ਵਿਚ ਅਹੰਕਾਰ ਵਿਚ ਝੱਲੇ ਹੋਏ ਫਿਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕ੍ਰੋਧਿ = ਕ੍ਰੋਧ ਵਿਚ। ਦੇਵਾਨਿਆ = ਪਾਗਲ, ਝੱਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! ਹਰਿ-ਪ੍ਰਭੂ ਨੂੰ ਵੇਖ ਕੇ ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਜੀਵਾ = ਜੀਵਾਂ, ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਪੈਦਾ ਹੁੰਦਾ ਹੈ, ਮੈਂ ਜੀਊ ਪੈਂਦਾ ਹਾਂ। ਮਾਈ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

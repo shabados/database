@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗੁਰੂ ਤੋਂ ਬਿਨਾਂ ਕਿਸੇ ਹੋਰ ਦਾ ਨਾਮ ਆਪਣੀ ਜ਼ਬਾਨ ਉੱਪਰ ਨਾ ਲਿਆ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਮ ਬੇ ਮੁਰਸ਼ਦ ਮਿਆ ਵਰ ਬਰ ਜ਼ੁਬਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

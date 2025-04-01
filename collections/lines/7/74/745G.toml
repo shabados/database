@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਸਰੀਰ ਨਾਸ ਹੋ ਜਾਣ ਵਾਲਾ ਹੈ, ਇਸ ਨੂੰ ਬੁਢੇਪਾ ਆ ਦਬਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਜਰੀ = ਪੁੱਗਾ, ਨਾਸ ਹੋ ਜਾਣ ਵਾਲਾ। ਇਸ ਨੋ = ਇਸ ਨੂੰ। ਜਰੁ = ਬੁਢੇਪਾ। ਪਹੁਚੈ ਆਏ = ਪਹੁਚੈ ਆਇ, ਆ ਅੱਪੜਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

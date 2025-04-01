@@ -36,6 +36,12 @@ language = "pa"
 data = "ਖੋਟੀ ਮੱਤ ਵਾਲੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਸਦਾ ਖੋਟ ਨਾਲ ਭਰੀ ਰਹਿੰਦੀ ਹੈ ਸਦਾ ਖੋਟ ਕਮਾਂਦੀ ਹੈ (ਖੋਟਾ ਕੰਮ ਕਰਦੀ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਟੁ = ਖੋਟਾ ਕੰਮ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

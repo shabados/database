@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਤੂੰ ਐਸਾ ਹੈਂ) ਜਿਸ ਨੇ ਦਿਨ ਬਣਾਇਆ ਹੈ ਤੇ ਰਾਤ ਬਣਾਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਤੈਂ) ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

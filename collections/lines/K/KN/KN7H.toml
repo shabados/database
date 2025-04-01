@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪੰਡਿਤ ਲੋਕ) ਸਿਮ੍ਰਤੀਆਂ ਸ਼ਾਸਤ੍ਰ ਵੇਦ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ) ਉੱਚੀ ਉੱਚੀ ਪੜ੍ਹਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਤ੍ਰ = ਹਿੰਦੂ ਫ਼ਿਲਾਸਫ਼ੀ ਦੇ ਛੇ ਪੁਸਤਕ = ਸਾਂਖ, ਜੋਗ, ਨਿਆਇ, ਮੀਮਾਂਸਾ, ਵੈਸ਼ੇਸਕ, ਵੇਦਾਂਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

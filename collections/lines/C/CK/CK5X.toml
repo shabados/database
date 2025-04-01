@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ) ਸੰਤ-ਜਨ ਸੱਜਣ ਸਿੱਖ ਸੁਖੀ ਜੀਵਨ ਵਾਲੇ ਹੋ ਗਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਖ = (ਸਾਰੇ) ਸਿੱਖ (ਬਹੁ-ਵਚਨ)। ਸੁਹੇਲੇ = ਸੁਖੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

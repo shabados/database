@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਚੰਗੀ ਅਕਲ ਮੈਂ (ਆਪਣੇ) ਗੁਰੂ ਤੋਂ ਲਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਮਤਿ = ਚੰਗੀ ਅਕਲ। ਤੇ = ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

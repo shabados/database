@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਡੇ ਇਸ ਭੁੱਜ ਚੁਕੇ ਦਿਲ ਨੂੰ ਚਾਉ ਬਖਸ਼,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਦਿਲਿ ਬਿਰਯਾਨਿ ਮਾ ਰਾ ਸ਼ੌਕ ਦਿਹ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

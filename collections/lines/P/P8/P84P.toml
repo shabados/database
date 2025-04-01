@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਜੇਹੇ ਬੰਦੇ ਇਸ ਸੰਸਾਰ ਵਿਚ ਜਿੱਥੇ ਵਿਕਾਰਾਂ ਦਾ ਪਹਿਰਾ ਹੈ ਬੜੇ ਘੱਟ ਵੇਖੀਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਸਾਰਿ = ਸੰਸਾਰ ਵਿਚ। ਜੁਗ = ਸਮਾ, ਪਹਿਰਾ। ਕਲ = ਕਲੇਸ਼, ਝਗੜੇ, ਵਿਕਾਰ। ਕਲਜੁਗ = ਜਿਥੇ ਵਿਕਾਰਾਂ ਦਾ ਪਹਿਰਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

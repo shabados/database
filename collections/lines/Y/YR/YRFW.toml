@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੀੜੀ ਤੋਂ ਲੈ ਕੇ ਹਾਥੀ ਤਕ ਸਭਨਾਂ ਦੇ ਨਾਲ ਵੱਸਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਟ = ਕੀੜਾ। ਹਸਤ = ਹਸਤਿ, ਹਾਥੀ। ਪੂਰਨ = ਵਿਆਪਕ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

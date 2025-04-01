@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਮੈਂ ਉਹਨਾਂ ਬੰਦਿਆਂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਕੁਰਬਾਨ ਹਾਂ, ਜੇਹੜੇ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਆਤਮਕ ਆਨੰਦ ਦੀ ਸਮਾਧੀ ਲਾਈ ਰੱਖਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜਿ = ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ। ਸੁਖ ਸਮਾਧਿ = ਆਤਮਕ ਆਨੰਦ ਦੀ ਸਮਾਧੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

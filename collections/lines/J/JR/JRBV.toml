@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖ ਜਿਹੋ ਜਿਹੀ ਕਰਤੂਤ ਕਰਦਾ ਹੈ, ਉਸ ਦਾ ਉਹੋ ਜਿਹਾ ਹੀ ਨਾਮ ਉੱਘਾ ਹੋ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲਣਾ ਘਾਲੇ = ਕਮਾਈ ਕਰੇ। ਤੇਵੇਹੋ = ਤਿਹੋ ਜਿਹਾ ਹੀ। ਪਚਾਰੀਐ = ਪਰਚਲਤ ਹੋ ਜਾਂਦਾ ਹੈ, ਮਸ਼ਹੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

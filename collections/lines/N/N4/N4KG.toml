@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਸਿਰ ਉੱਤੇ ਆਰਾ ਰਖਾ ਕੇ ਸਰੀਰ ਨੂੰ ਦੁ-ਫਾੜ ਚਿਰਾ ਦਿੱਤਾ ਜਾਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਰਧ = ਅੱਧੋ ਅੱਧ, ਦੁ-ਫਾੜ। ਸਿਰਿ = ਸਿਰ ਉੱਤੇ। ਕਰਵਤੁ = ਆਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

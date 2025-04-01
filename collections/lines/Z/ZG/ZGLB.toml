@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਿਆਂ ਰਤਾ ਭਰ ਭੀ ਦੇਰ ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ। ਕੀਹ ਪਤਾ ਹੈ! ਮਤਾਂ ਅਗਲਾ ਸਾਹ ਲਿਆ ਜਾਏ ਜਾਂ ਨਾਹ ਲਿਆ ਜਾਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਜਈ = ਕਰਨੀ ਚਾਹੀਦੀ। ਮਤੁ = ਮਤਾਂ, ਇਹ ਨਾਹ ਹੋਵੇ। ਕਿ ਜਾਪੈ = ਕੀਹ ਪਤਾ ਹੈ? ਕਿ = ਜਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਕਿਰਪਾ ਕਰ, ਦਇਆ ਕਰ, ਨਾਨਕ ਦਾ ਸਹਿਮ ਦੂਰ ਕਰ ਦੇਹ ॥੧੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ ਭਉ = ਨਾਨਕ ਦਾ ਸਹਿਮ। ਭੰਜੀਐ = ਨਾਸ ਕਰ ॥੧੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

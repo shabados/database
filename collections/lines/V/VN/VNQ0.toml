@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਮੈਂ ਉਸ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਹੀ ਵੱਸਦਾ ਵੇਖ ਲਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੰਤ ਸੰਗਿ = ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ। ਮਨ ਮਾਏਂ = ਮਨ ਮਾਹਿ, ਆਪਣੇ ਮਨ ਵਿਚ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

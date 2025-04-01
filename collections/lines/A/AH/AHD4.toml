@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਘਰ ਵਿਚ ਉਸ ਮਨੁੱਖ ਦਾ ਨਿਵਾਸ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ ਜੋ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਤੁ ਘਰਿ = ਉਸ ਘਰ ਵਿਚ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

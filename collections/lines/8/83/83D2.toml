@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਗੁਨਾਹਗਾਰ ਹਾਂ, ਅਕਲੋਂ ਸੱਖਣਾ ਹਾਂ, ਗੁਣ-ਹੀਣ ਹਾਂ, ਨਿਆਸਰਾ ਹਾਂ, ਮੰਦੇ ਸੁਭਾਵ ਵਾਲਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਤਿ ਹੀਨੁ = ਅਕਲੋਂ ਸੱਖਣਾ। ਅਨਾਥੁ = ਨਿਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

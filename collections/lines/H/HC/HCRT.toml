@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਿਆਂ (ਹਿਰਦਾ-) ਕੌਲ-ਫੁੱਲ ਖਿੜ ਪੈਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਪਤ = ਜਪਦਿਆਂ। ਕਮਲੁ = ਹਿਰਦਾ ਕੌਲ-ਫੁੱਲ। ਪਰਗਾਸੈ = ਖਿੜ ਪੈਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰੀਤਮ! ਮੈਂ ਤੇਰੇ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਧਰਦਾ ਰਹਾਂ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਤੇਰੀ ਆਸ ਟਿਕੀ ਰਹੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਉ = ਸਿਮਰਉਂ, ਮੈਂ ਸਿਮਰਦਾ ਹਾਂ। ਪ੍ਰੀਤਮ = ਹੇ ਪ੍ਰੀਤਮ! ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ) ਮੋਹ ਵਿਚ ਫਸਿਆ ਮਨੁੱਖ ਸਮਝਦਾ ਹੈ (ਕਿ ਪਰਮਾਤਮਾ ਕਿਤੇ) ਦੂਰ ਵੱਸਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਿ = ਮੋਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

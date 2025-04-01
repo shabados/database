@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਸਹਿਜ ਅਵਸਥਾ-ਰੂਪ ਸ਼ਰਾਬ ਪਿਲਾਉਣ ਵਾਲੀ ਆ ਮਿਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਹਜ = ਸਹਿਜ ਅਵਸਥਾ, ਅਡੋਲਤਾ। ਕਲਾਲਨਿ = ਸ਼ਰਾਬ ਪਿਲਾਉਣ ਵਾਲੀ। ਜਉ = ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

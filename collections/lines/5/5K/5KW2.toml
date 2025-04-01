@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਨ! ਨਿੰਦਾ ਕਰਨੀ ਛੱਡ ਦੇਹ, (ਆਪਣੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਤੇ ਅਹੰਕਾਰ ਦੂਰ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ਤਜਿ = ਤਿਆਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

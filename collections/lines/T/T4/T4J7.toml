@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਖਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਸੁਆਮੀ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖ ਨਿਧਾਨ = ਹੇ ਸੁਖਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਅਲਖ = ਹੇ ਅਦ੍ਰਿਸ਼ਟ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

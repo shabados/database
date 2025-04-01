@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸਾਰੀ ਉਮਰ) ਉੱਨ ਕਤਾਂਦਾ ਫਿਰਦਾ ਹੈ, ਪਰ ਰੇਸ਼ਮ ਪਹਿਨਣਾ ਚਾਹੁੰਦਾ ਹੈ ॥੨੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੰਢੈ = ਫਿਰਦਾ ਹੈ। ਪੈਧਾ ਲੋੜੈ = ਪਹਿਨਣਾ ਚਾਹੁੰਦਾ ਹੈ ॥੨੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

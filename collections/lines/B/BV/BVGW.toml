@@ -5,6 +5,13 @@ language = "pa"
 data = "ਕੀ ਵੱਡਾ ਅਤੇ ਕੀ ਛੋਟਾ, ਕੀ ਬਾਦਸ਼ਾਹ ਅਤੇ ਕੀ ਫਕੀਰ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਆਅਲਾ ਚਿਹ ਅਦਨਾ ਚਿਹ ਸ਼ਹ ਚਿਹ ਫ਼ਕੀਰ ।੭੩।"
+page = 4
+line = 73
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

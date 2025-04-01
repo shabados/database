@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਤਨਾ ਚਿਰ) ਮਨ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ, (ਮਨੁੱਖ ਦੇ) ਸਿਰ ਉਤੇ ਵਿਕਾਰਾਂ ਦਾ ਬੋਝ ਇਕੱਠਾ ਹੁੰਦਾ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ। ਭਾਰੁ = ਵਿਕਾਰਾਂ ਦਾ ਭਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

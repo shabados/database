@@ -36,6 +36,12 @@ language = "pa"
 data = "ਨਿਰੇ ਮਾਇਆ ਵਾਲੇ ਹੋਛੇ ਵਣਜ ਕੀਤਿਆਂ (ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਘਾਟਾ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉਦੀ = ਸੌਦਿਆਂ ਵਿਚ। ਤੋਟਾ = ਘਾਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

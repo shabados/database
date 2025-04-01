@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਾਣੀ ਦਾ ਆਪਣੇ ਜਤਨ ਨਾਲ ਕੀਤਾ ਹੋਇਆ ਕੋਈ ਕੰਮ ਸਿਰੇ ਨਹੀਂ ਚੜ੍ਹਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪਨ ਕੀਆ = ਮਨੁੱਖ ਦੇ ਆਪਣੇ ਬਲ ਨਾਲ ਕੀਤਾ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

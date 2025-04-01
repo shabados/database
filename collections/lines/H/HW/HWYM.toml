@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਭਰੋਸੇ ਨਾਲ ਆਇਆ ਹਾਂ ਕਿ ਤੂੰ ਕਿਰਪਾ ਕਰੇਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰੋਸੈ = ਭਰੋਸੇ ਨਾਲ, ਇਤਬਾਰ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

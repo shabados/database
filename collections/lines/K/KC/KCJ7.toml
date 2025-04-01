@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਦਿਵਾਣ ਵਾਲਾ ਗੁਰੂ ਮੈਨੂੰ ਮਿਲ ਪਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟਿਆ = ਮਿਲਿਆ। ਮੁਕਤਿ ਦਾਤਾ = (ਵਿਕਾਰਾਂ ਤੋਂ) ਆਜ਼ਾਦੀ ਦੇਣ ਵਾਲਾ। ਕੀਈ = ਕੀਤੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

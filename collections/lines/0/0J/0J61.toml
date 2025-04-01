@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰ ਕਦੇ ਵੀ ਉਨ੍ਹਾਣ ਲਈ ਭਾਰ ਨ ਬਣੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਸ਼ੀ ਓ ਹਰਗਿਜ਼ ਨਭਬਾਸ਼ੀ ਬਾਰਿ ਸ਼ਾਣ ।੧੨੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

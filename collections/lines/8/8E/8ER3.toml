@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤਾਣ ਜੋ ਤੈਨੂੰ ਪ੍ਰੇਮ ਦੀ ਗੱਲ ਬਾਤ ਦਾ ਸੁਆਦ ਆ ਸਕੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤਾ ਬ-ਯਾਬੀ ਲੱਜ਼ਤ ਅਜ਼ ਗੁਫ਼ਤਾਰਿ ਇਸ਼ਕ ।੫੦।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

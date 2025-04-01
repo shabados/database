@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਲੋਭ ਅਤੇ ਵਿਸ਼ਿਆਂ ਵਿਚ ਲੱਗੇ ਹੋਏ (ਪਰਾਇਆ) ਧਨ ਚੁਰਾ ਕੇ (ਦੂਜਿਆਂ ਦੇ) ਦਿਲ ਦੁਖਾਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਖਿਆ = ਮਾਇਆ। ਬਿਖੈ = ਵਿਸ਼ੇ। ਹਿਰਿ = ਚੁਰਾ ਕੇ। ਵਿਤ = ਧਨ। ਦੁਖਾਹੀ = ਦੁਖਾਹਿ, ਦੁਖਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

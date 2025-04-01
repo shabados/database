@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਨਾਥ-ਪ੍ਰਭੂ ਸਾਰੇ ਜਗਤ ਦੀ ਮਾਂ ਹੈ) ਇਹ ਸਾਰਾ ਜਗਤ ਉਸ ਮਾਂ (-ਨਾਥ-ਪ੍ਰਭੂ) ਦਾ ਪੁੱਤਰ ਹੈ (ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਾਈ = ਮਾਇਆ, ਮਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

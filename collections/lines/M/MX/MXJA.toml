@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰੂ ਨੇ (ਮੈਨੂੰ) ਜਿਸ ਤਰ੍ਹਾਂ ਉਪਦੇਸ਼ ਕੀਤਾ ਹੈ, ਉਹ (ਤੂੰ ਭੀ) ਸੁਣ ਲੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਹ ਬਿਧਿ = ਜਿਸ ਤਰੀਕੇ ਨਾਲ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਰੇ = ਹੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

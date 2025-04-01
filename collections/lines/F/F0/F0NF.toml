@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹ ਤਨ ਇਹ ਮਨ, ਇਹ ਜਿੰਦ ਇਹ ਸਰੀਰ ਦੇ ਕੇ ਤੂੰ ਮੈਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਉ = ਜਿੰਦ। ਦੇ = ਦੇ ਕੇ। ਸਾਜਿਆ = ਪੈਦਾ ਕੀਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

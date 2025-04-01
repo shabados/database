@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਮਾਇਆ) ਛੱਡ ਜਾਣੀ ਹੈ, ਉਸ ਨੂੰ ਸਦਾ ਅਟੱਲ ਸਮਝਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੋ = ਜੋ (ਧਨ ਪਦਾਰਥ)। ਸੁ = ਉਸ ਨੂੰ। ਅਸਥਿਰੁ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

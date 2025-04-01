@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹਰ ਕੋਈ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਜ਼ਿਕਰ ਕਰਦਾ ਹੈ, ਇਹ  ਕਰਤਾਰ ਨੇ ਆਪ ਹੀ ਬਣਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ ਕਰਤੈ = ਉਸ ਕਰਤਾਰ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਓਥੇ ਕਿਸ ਨੂੰ ਮਾਇਆ ਪੋਹ ਸਕਦੀ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਊਹਾ = ਓਥੇ। ਕਿਸਹਿ = ਕਿਸ ਨੂੰ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

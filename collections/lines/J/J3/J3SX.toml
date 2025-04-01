@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਦ ਉਹ ਸੱਚਾ ਪਤਿਸ਼ਾਹ ਤੇਰੀ ਸ਼ਹਿਰਗ ਤੋਂ ਵੀ ਨੇੜੇ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚੂੰ ਜ਼ ਸ਼ਹਿਰਗ਼ ਹਸਤ ਸ਼ਾਹ ਨਜ਼ਦੀਕ ਤਰ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

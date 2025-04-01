@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਮਨੁੱਖ (ਆ ਕੇ) ਸ਼ਹਿਦ ਲੈ ਲੈਂਦਾ ਹੈ ਤੇ ਉਸ ਮੱਖੀ ਦੇ ਮੂੰਹ ਵਿਚ ਸੁਆਹ ਪਾਂਦਾ ਹੈ (ਭਾਵ, ਉਸ ਮੱਖੀ ਨੂੰ ਕੁਝ ਭੀ ਨਹੀਂ ਦੇਂਦਾ);"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹ ਵਿਚ। ਛਾਰੁ = ਸੁਆਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

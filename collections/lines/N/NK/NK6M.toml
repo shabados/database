@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਮੈਂ ਤੈਨੂੰ ਹਰ ਵੇਲੇ ਸਮਝਾਉਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਉ = ਤੈਨੂੰ। ਛਿਨੁ ਛਿਨੁ = ਹਰ ਛਿਨ, ਹਰ ਵੇਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

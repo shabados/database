@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਵਫਾਦਾਰ ਹੋ ਜਾਵੇਣ, ਤਾਣ ਹੋਰ ਕੋਈ ਵੀ ਬੇਵਫਾਈ ਨਹੀਣ ਕਰੇਗਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੇਵਫ਼ਾ ਨੀਸਤ ਕਸੇ ਗਰ ਤੂ ਵਫ਼ਾਦਾਰ ਸ਼ਵੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

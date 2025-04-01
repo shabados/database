@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿ) ਸਾਰਾ ਸੰਸਾਰ ਸੁਪਨੇ ਵਰਗਾ ਹੈ, (ਇਸ ਦੇ) ਨਾਸ ਹੁੰਦਿਆਂ ਚਿਰ ਨਹੀਂ ਲੱਗਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰਾ। ਬਿਨਸਤ = ਨਾਸ ਹੁੰਦਿਆਂ। ਬਾਰ = ਚਿਰ, ਦੇਰ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

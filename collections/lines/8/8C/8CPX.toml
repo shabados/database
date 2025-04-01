@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਰਾਜ ਦੇ ਮਾਣ ਵਿਚ ਜੇ ਉਹ ਮੌਤ ਵਲੋਂ) ਨਿਡਰ ਹੋ ਗਿਆ ਨਿਧੜਕ ਹੋ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਭਉ = ਨਿਡਰ, ਨਿਧੜਕ। ਨਿਹੰਗਾ = ਨਿਸੰਗ, ਢੀਠ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

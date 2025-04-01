@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸੱਤੇ ਸੰਸਾਰ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਫ਼ਤ ਹਮ ਸ਼ੈਦਾਇ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੫੪।"
+page = 10
+line = 154
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

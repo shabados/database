@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਰੱਬੀ ਖ਼ਜ਼ਾਨਾ ਦਿਲਾਣ ਦਿਆਣ ਮਾਲਕਾਂ ਕੋਲ ਹੀ ਹੁੰਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਮਤਾਇ ਹੱਕ ਬ-ਪੇਸ਼ਿ ਸਾਹਿਬਾਨਿ-ਦਿਲ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

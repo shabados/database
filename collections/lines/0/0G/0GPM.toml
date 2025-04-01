@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਤਮਾਕ ਜਾਗ ਵਿਚ, ਗਿਆਨ ਵਿਚ ਅਤੇ ਵਿਚਾਰ ਵਿਚ ਰਹਿਣ ਦੀ ਭੀ ਸਾਡੀ ਸਮਰਥਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਰਤੀ = ਸੁਰਤ ਵਿਚ, ਆਤਮਕ ਜਾਗ ਵਿਚ। ਗਿਆਨਿ = ਗਿਆਨ (ਪ੍ਰਾਪਤ ਕਰਨ) ਵਿਚ। ਵੀਚਾਰਿ = ਵੀਚਾਰ (ਕਰਨ) ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

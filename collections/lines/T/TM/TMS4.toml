@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਅਥਾਹ ਤੇ ਵੱਡੇ ਜਿਗਰ ਵਾਲੇ ਹਰੀ ਦਾ ਭਜਨ ਕਰ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ = ਹੇ ਮਨ! ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

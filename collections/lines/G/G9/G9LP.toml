@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਗੁਰੂ ਨੇ ਆਪਣਾ) ਸ਼ਬਦ ਸੋਹਣਾ ਉਚਾਰਿਆ ਹੋਇਆ ਹੈ, (ਇਹ ਸ਼ਬਦ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ ਬਾਣੀ = ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ। ਸੁਭਾਖਿਆ = ਸੋਹਣਾ ਉਚਾਰਿਆ ਹੋਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

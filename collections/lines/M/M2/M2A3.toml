@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਕਰੋੜਾਂ (ਐਸੇ ਹਨ ਜੋ ਰੋਟੀ ਦੀ ਖ਼ਾਤਰ) ਮੇਹਨਤ ਕਰਦੇ ਹਨ ਤੇ ਥੱਕ ਟੁੱਟ ਜਾਂਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲਹਿ = ਮੇਹਨਤ ਕਰਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

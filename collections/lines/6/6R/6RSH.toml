@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਅਮਰ ਦੌਲਤ ਉਨ੍ਹਾਣ ਦੀ ਸੰਗਤ ਵਿਚ ਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੌਲਤਿ ਜਾਵੀਦ ਅੰਦਰ ਸੁਹਬਤ ਅਸਤ ।੧੯੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

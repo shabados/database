@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਸਭ ਤੋਂ ਵੱਡੇ ਦੇਵਤੇ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ-ਸੇਵਾ (ਜ਼ਰੂਰ) ਫਲ ਦੇਣ ਵਾਲੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰਦੇਵਾ = ਸਭ ਤੋਂ ਵੱਡਾ ਦੇਵਤਾ, ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

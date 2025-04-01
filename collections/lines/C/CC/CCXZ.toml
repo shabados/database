@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੀ ਹੋਈ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਉਹ ਕੁਰਾਹੇ ਪਈ ਰਹਿੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜੇ = ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ। ਭੁਲਾਵੈ = ਕੁਰਾਹੇ ਪਈ ਰਹਿੰਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

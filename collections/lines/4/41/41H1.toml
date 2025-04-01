@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕੋਈ ਮਨੁੱਖ (ਗੁਰੂ ਪਾਸੋਂ ਸੁਨੇਹਾ) ਲਿਆ ਕੇ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਗੱਲ ਸੁਣਾਏ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਨਿ = ਲਿਆ ਕੇ, ਸੁਨੇਹਾ ਲਿਆ ਕੇ। ਗਾਲ = ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

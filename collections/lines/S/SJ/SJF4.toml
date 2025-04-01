@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਾਸ ਨਾਨਕ ਆਖਦਾ ਹੈ- ਮੈਂ ਉਸ ਮਨੁੱਖ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੪॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੁਰਬਾਣੁ = ਸਦਕੇ ॥੪॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

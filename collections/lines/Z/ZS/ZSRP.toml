@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇਹੜੇ ਬੰਦੇ ਰਾਜ, ਰੰਗ-ਤਮਾਸ਼ੇ, ਰੂਪ, ਮਾਲ-ਧਨ ਤੇ ਜਵਾਨੀ-ਸਿਰਫ਼ ਇਹੀ ਵਿਹਾਝਦੇ ਰਹਿੰਦੇ ਹਨ ਉਹਨਾਂ ਨੂੰ ਜੁਆਰੀਏ ਸਮਝੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

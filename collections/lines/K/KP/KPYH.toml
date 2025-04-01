@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੀਵ ਤੇਰੀ ਗਤਿ ਭਾਲਦੇ ਹੈਰਾਨ ਤੇ ਅਚਰਜ ਹੋ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮਨ ਬਿਸਮ = ਅਚਰਜ ਤੋਂ ਅਚਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

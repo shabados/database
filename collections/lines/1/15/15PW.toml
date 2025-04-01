@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਜਗਤ ਤੋਂ ਤੁਰਨ ਵੇਲੇ ਮਾਇਆ ਜੀਵ ਦੇ ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ, ਖਿਨ ਪਲ ਵਿਚ ਹੀ ਸਾਥ ਛੱਡ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਲਾਮੀ = ਬਿਲਮ, ਦੇਰ, ਚਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

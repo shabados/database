@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਆਪਣੇ ਆਪ ਨੂੰ (ਜਗਤ-ਰੂਪ ਵਿਚ) ਆਪ ਹੀ ਪਰਗਟ ਕੀਤਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਆਪੁ = ਆਪਣੇ ਆਪ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

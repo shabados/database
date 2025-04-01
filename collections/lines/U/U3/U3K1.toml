@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਤਿਗੁਰੂ! ਮੈਨੂੰ ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਾ (ਜਿਸ ਕਰਕੇ) ਮੈਂ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰ ਸਕਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ = ਹੇ ਸਤਿਗੁਰੂ! ਧਿਆਈ = ਮੈਂ ਧਿਆਵਾਂ। ਮਨਿ = ਮਨ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

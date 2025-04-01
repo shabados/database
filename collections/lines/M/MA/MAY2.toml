@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੂੰ (ਆਪਣੇ ਅੰਦਰ) ਹਉਮੈ ਦਾ ਬੀਜ ਬੀਜਿਆ ਹੋਇਆ ਹੈ (ਜਿਸ ਤੋਂ) ਮਮਤਾ ਦਾ ਅੰਗੂਰ (ਉੱਗ ਰਿਹਾ ਹੈ), ਤੇਰੀ ਉਮਰ ਪਾਪ ਕਰਦਿਆਂ ਬੀਤ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰ = ਹਉਮੈ। ਮਮ = ਮਮਤਾ। ਅੰਕੁਰੁ = ਅੰਗੂਰ। ਅਉਧ = ਉਮਰ। ਅਘਨਾਂ = ਪਾਪ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

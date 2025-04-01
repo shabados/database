@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ! ਹੇ ਗੁਣ-ਹੀਨ (ਮਨੁੱਖ)! ਉਸ ਮਾਲਕ ਨੂੰ ਸਦਾ ਯਾਦ ਕਰ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਗੁਨੀਆਰ = ਹੇ ਨਿਰਗੁਣ ਜੀਵ! ਹੇ ਗੁਣ-ਹੀਣ ਜੀਵ! ਇਆਨਿਆ = ਹੇ ਅੰਞਾਣ! ਸਮਾਲਿ = ਚੇਤੇ ਰੱਖ, ਯਾਦ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

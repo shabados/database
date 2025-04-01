@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੋਇਆ ਹੋਇਆ (ਤਾਂ) ਉਹ ਜੀਵ ਹੈ ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਭੁਲਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਬਿਸਾਰੈ = ਭੁਲਾ ਦੇਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

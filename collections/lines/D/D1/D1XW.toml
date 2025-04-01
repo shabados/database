@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੇਰੇ (ਸਾਰੇ) ਕੰਮ ਸਿਰੇ ਚੜ੍ਹਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਰਜ = ਕੰਮ। ਪੂਰੇ = ਮੁਕੰਮਲ, ਸਿਰੇ ਚੜ੍ਹਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

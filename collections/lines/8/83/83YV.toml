@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਵੱਡੇ) ਭਾਗਾਂ ਨਾਲ ਸਾਧ ਜਨ ਮਿਲਦੇ ਹਨ ॥੭॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਟੇ = ਮਿਲਦੇ ਹਨ। ਸੰਜੋਗ = ਭਾਗਾਂ ਨਾਲ ॥੭॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

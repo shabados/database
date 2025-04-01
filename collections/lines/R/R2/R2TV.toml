@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਾਰੇ ਜਗਤ ਦਾ) ਮੂਲ ਉਹ ਅਕਾਲ ਪੁਰਖ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿਤ = {आदित्य} ਸੂਰਜ। ਵਾਰਿ = ਵਾਰ ਵਿਚ, ਵਾਰ ਦੀ ਰਾਹੀਂ। ਆਦਿਤ ਵਾਰਿ = ਇਤਵਾਰ ਦੀ ਰਾਹੀਂ, ਸੂਰਜ ਦੇ ਦਿਨ ਦੀ ਰਾਹੀਂ। ਆਦਿ = ਸਭ ਦਾ ਮੂਲ। ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਸੋਈ = ਉਹ ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

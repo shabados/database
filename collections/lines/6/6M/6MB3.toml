@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪਰਮਾਤਮਾ ਨੇ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ (ਤੇਰੀ) ਪਾਲਣਾ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ। ਪ੍ਰਤਿਪਾਲਿਆ = ਰੱਖਿਆ ਕੀਤੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

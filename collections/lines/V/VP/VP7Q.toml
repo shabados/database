@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਿੰਦ ਦੇ ਮਾਲਕ! ਹੇ ਨਿਖਸਮਿਆਂ ਦੇ ਸਹਾਈ! ਹੇ ਗ਼ਰੀਬਾਂ ਦੇ ਦਰਦ ਦੂਰ ਕਰਨ ਵਾਲੇ! ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਨ ਨਾਥ = ਹੇ ਪ੍ਰਾਣਾਂ ਦੇ ਮਾਲਕ! ਅਨਾਥ ਸਖੇ = ਹੇ ਨਿਖਸਮਿਆਂ ਦੇ ਮਿੱਤਰ! ਦੀਨ ਦਰਦ ਨਿਵਾਰ = ਹੇ ਗਰੀਬਾਂ ਦੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਵਾਲੇ! ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਬੇਅੰਤ ਡੂੰਘੇ ਰਹਿਮ-ਦਿਲ ਖ਼ੁਦਾ ਦੀ ਮੁਹੱਬਤ ਤੇ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਨੂੰ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਹੀਮ = ਰਹਿਮ ਕਰਨ ਵਾਲਾ ਰੱਬ। ਮੁਹਬਤਿ = ਮੁਹੱਬਤਿ, ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

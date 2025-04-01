@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪ੍ਰਸ਼ਨ:) ਹੇ ਪੁਰਖ! ਜਗਤ ਕਿਸ ਕਿਸ ਵਿਧੀ ਨਾਲ ਉਪਜਦਾ ਹੈ, ਕਿਸ ਤਰ੍ਹਾਂ ਦੁੱਖ ਵਿਚ (ਪੈਂਦਾ) ਹੈ ਤੇ ਕਿਵੇਂ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਤੁ = ਕਿਸ ਨਾਲ? ਕਿਤੁ ਬਿਧਿ = ਕਿਸ ਵਿਧੀ ਨਾਲ? ਪੁਰਖਾ = ਹੇ ਪੁਰਖ! ਦੁਖਿ = ਦੁੱਖ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

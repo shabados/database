@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਨ! ਦੁੱਖ ਸੁਖ ਕਰਦਿਆਂ ਮਨੁੱਖ ਕਦੇ ਮਰਦਾ ਹੈ ਕਦੇ ਜੀਊ ਪੈਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਤ = ਕਰਦਿਆਂ। ਜਨਮਿ = ਜਨਮ ਵਿਚ (ਆ ਕੇ), ਜੰਮ ਕੇ। ਫੁਨਿ = ਮੁੜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

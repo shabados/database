@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਹੀ ਜਪ ਹੈ ਤੇ ਇਹੀ ਤਪ ਹੈ ਜੋ ਸਤਿਗੁਰੂ ਨੂੰ ਭਾ ਜਾਂਦਾ ਹੈ (ਚੰਗਾ ਲੱਗ ਪੈਂਦਾ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ ਸਤਿਗੁਰ ਭਾਵੈ = ਜੋ ਗੁਰੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇਰੇ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਤੇਰੀ ਹਰੇਕ ਗਿਰਾਹੀ ਦੇ ਨਾਲ ਤੇਰਾ ਸੰਗੀ ਬਣ ਕੇ ਤੇਰੀ ਸੰਭਾਲ ਕੀਤੀ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਸਿ = (ਹਰੇਕ) ਸਾਹ ਦੇ ਨਾਲ। ਗ੍ਰਾਸਿ = (ਹਰੇਕ) ਗ੍ਰਾਹੀ ਦੇ ਨਾਲ। ਸੰਗਿ = ਨਾਲ। ਸਮਾਲਿਆ = ਸੰਭਾਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

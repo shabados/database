@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਭਗਵਾਨ ਦਇਆ ਕਰੇ ਤਦੋਂ ਮੇਰਾ ਮਨ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੂੜਿ = ਚਰਨ-ਧੂੜ। ਜਾ = ਜਦੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

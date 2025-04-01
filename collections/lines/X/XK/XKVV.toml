@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਤੂੰ (ਹੀ) ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈਂ। ਮੈਨੂੰ (ਤੇਰੇ) ਹੀ ਸੋਹਣੇ ਚਰਣਾਂ ਦਾ ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਪੁਰਖ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਗੁਣਤਾਸੁ = ਗੁਣਾਂ ਦਾ ਭਾਂਡਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

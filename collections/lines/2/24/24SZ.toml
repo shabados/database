@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ, ਇਹਨਾਂ ਜੈਦੇਵ ਤੇ ਨਾਮਦੇਵ ਜੀ (ਵਰਗੇ ਭਗਤਾਂ) ਨੇ ਹੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਪਰਸਾਦੀ = ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ। ਨਾਮਾਂ = ਨਾਮਦੇਵ ਜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

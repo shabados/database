@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗ਼ਰੀਬਾਂ ਨੂੰ ਉੱਚੇ ਕਰ ਕੇ ਅਮੀਰ ਬਣਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵਾਜਿ = ਨਿਵਾਜ ਕੇ, ਉੱਚਾ ਕਰ ਕੇ। ਮੀਰੇ = ਅਮੀਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

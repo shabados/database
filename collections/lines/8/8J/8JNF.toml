@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦ ਤਾਈਂ ਮੱਥੇ ਦੇ ਭਾਗ ਨਹੀਂ ਸਨ ਜਾਗੇ, ਤਦ ਤਾਈਂ ਬਹੁਤ ਭਟਕਦੇ ਤੇ ਭੱਜਦੇ ਫਿਰਦੇ ਸਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਬ ਲਉ = ਜਦ ਤਾਈਂ। ਲਿਲਾਰ ਭਾਗ = ਮੱਥੇ ਦੇ ਭਾਗ। ਉਦੈ = ਜਾਗੇ। ਬਹੁ ਧਾਯਉ = ਬਹੁਤ ਦੌੜਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! (ਜਗਤ ਵਿਚ) ਮੈਂ ਇਕ ਅਚਰਜ (ਮੂਰਖਤਾ ਦਾ) ਤਮਾਸ਼ਾ ਵੇਖਿਆ ਹੈ। ਹੀਰਾ ਹੱਟੀ ਹੱਟੀ ਤੇ ਵਿਕ ਰਿਹਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਚੰਭਉ = ਅਰਚਜ (ਮੂਰਖਤਾ ਦਾ) ਤਮਾਸ਼ਾ। ਹਾਟ = ਹੱਟੀ ਹੱਟੀ ਤੇ। ਬਿਕਾਇ = ਵਿਕ ਰਿਹਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

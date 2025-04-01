@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਿੰਦਗੀ ਦਾ ਅੰਮ੍ਰਿਤ ਹਿਰਦੇ ਰੂਪੀ ਘਰ ਵਿਚ ਹੀ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਬਿ ਹੈਵਾਂ ਅੰਦਰੂਨਿ ਖ਼ਾਨਾ ਹਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

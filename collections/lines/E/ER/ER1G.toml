@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਉਹੀ ਮਨੁੱਖ (ਸਹੀ ਜੀਵਨ ਨੂੰ) ਸਮਝਦਾ ਪਛਾਣਦਾ ਹੈ, ਜਿਸ ਉਤੇ ਸਿਰਜਣਹਾਰ ਦੀ ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਈ = ਉਹੀ ਮਨੁੱਖ। ਜਾ ਕਉ = ਜਿਸ ਉੱਤੇ। ਨਦਰਿ = ਮਿਹਰ ਦੀ ਨਿਗਾਹ। ਸਿਰੰਦੇ = ਸਿਰਜਣਹਾਰ ਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

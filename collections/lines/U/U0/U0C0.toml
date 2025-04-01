@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਚਿੱਤ ਜੋੜੀ ਰੱਖੀਏ ਤਾਂ (ਉਸ ਦੇ ਦਰ ਤੋਂ) ਜਿਹੜੀ ਭੀ ਚੀਜ਼ ਮੰਗੀ ਜਾਂਦੀ ਹੈ ਉਹੀ ਮਿਲ ਜਾਂਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿ ਵਸਤੁ = ਜਿਹੜੀ ਚੀਜ਼। ਨਾਮਿ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

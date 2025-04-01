@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਾਰੇ ਉਸ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਪਾਇਸ਼ ਹਮਾ ਬੰਦਾ-ਇ ਖ਼ਾਕ-ਰਾਹ ।੩੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

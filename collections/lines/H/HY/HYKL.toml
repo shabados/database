@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਹਰੀ!) ਮੋਹਨ, ਮਾਧਵ, ਕ੍ਰਿਸ਼ਨ, ਮੁਰਾਰੀ ਤੂੰ ਹੀ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੋਹਨ = ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲਾ। ਮਾਧਵ = {ਮਾਇਆ ਦਾ ਧਵ} ਮਾਇਆ ਦਾ ਪਤੀ। ਮੁਰਾਰੇ = ਮੁਰ-ਦੈਂਤ ਦਾ ਵੈਰੀ {ਮੁਰ-ਅਰਿ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਖ਼ਾਵਤਾਂ ਅਤੇ ਦਾਨਾਈਆਂ ਦਾ ਅਤਿਅੰਤ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਫ਼ੂਰੁਲ ਤਜ਼ਾਜ਼ੀਲੋ ਇਜਲਾਲ ਹਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

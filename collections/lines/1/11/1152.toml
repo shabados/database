@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੋਈ ਪੂਰੇ ਸਤਿਗੁਰੂ ਦੀ ਨਿੰਦਾ ਕਰਦਾ ਹੈ ਉਸ ਨੂੰ ਸਾਰਾ ਸੰਸਾਰ ਫਿਟਕਾਰਾਂ ਪਾਉਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਫਿਟੁ ਫਿਟੁ ਕਹੈ = ਫਿਟਕਾਰਾਂ ਪਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

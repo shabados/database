@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਲੋਕਾਂ ਨਾਲ) ਛਲ ਕਰ ਕੇ ਆਪਣਾ ਪੇਟ ਪਾਲਦਾ ਰਿਹਾ, ਤੇ, ਪਸ਼ੂਆਂ ਵਾਂਗ ਸੁੱਤਾ ਰਿਹਾ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰਪੰਚ = ਪਖੰਡ, ਛਲ। ਉਦਰ ਨਿਜ = ਆਪਣਾ ਪੇਟ। ਪੋਖਿਓ = ਪਾਲਿਆ। ਪਸੁ ਕੀ ਨਿਆਈ = ਪਸ਼ੂਆਂ ਵਾਂਗ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

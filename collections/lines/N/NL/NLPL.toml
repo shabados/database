@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁਆਮੀ! ਹੇ ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਤੂੰ ਸਦਾ ਹੀ ਪਵਿਤ੍ਰ ਹੈਂ, ਪਰ ਅਸੀਂ ਮੈਲੇ ਜੀਵਨ ਵਾਲੇ ਹਾਂ, ਅਸੀਂ ਤੈਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਦੇ ਹਾਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਨ = ਪਵਿਤ੍ਰ। ਪੁਰਖ = ਸਰਬ-ਵਿਆਪਕ। ਕਿਉ ਕਰਿ = ਕਿਵੇਂ? ਮਿਲਹ = ਅਸੀਂ ਮਿਲੀਏ। ਜੂਠਾਰੀ = ਮਲੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

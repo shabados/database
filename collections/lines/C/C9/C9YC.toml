@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਅਸਾਂ ਜੀਵਾਂ ਨੇ ਤਾਂ ਮਾਇਆ ਦੀ ਪੰਡ (ਹਰ ਵੇਲੇ ਸਿਰ ਉਤੇ) ਚੁਕੀ ਹੋਈ ਹੈ, ਸਾਨੂੰ ਤਾਂ ਆਪਣੇ ਅੰਦਰ ਮਾਇਆ ਸ਼ੱਕਰ ਖੰਡ ਵਰਗੀ ਮਿੱਠੀ ਲੱਗ ਰਹੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਨਿ = ਤਨ ਵਿਚ। ਪੰਡ = ਮਾਇਆ ਦੀ ਪੰਡ। ਉਚਾਈ = ਚੁੱਕੀ ਹੋਈ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

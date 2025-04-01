@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਜਗਤ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਹੈ, ਹੁਣ ਭੀ ਹੈ, ਜਗਤ ਦੇ ਅਖ਼ੀਰ ਵਿਚ ਭੀ ਹੋਵੇਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਦਿ ਮਧਿ ਅੰਤਿ = ਸਦਾ ਹੀ। ਆਦਿ = ਜਗਤ ਦੇ ਸ਼ੁਰੂ ਵਿਚ। ਮਧਿ = ਵਿਚਕਾਰਲੇ ਸਮੇ। ਅੰਤਿ = ਅਖ਼ੀਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

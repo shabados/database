@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਸੇ ਭੀ ਜੀਵ ਪਾਸੋਂ ਆਪਣੇ) ਮੂੰਹ ਨਾਲ ਤੇਰੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਵਡਿਆਈ। ਮੁਖਹੁ = ਮੂੰਹ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੁਣ ਮੇਰਾ ਮਨ ਇਹ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਢੋਲਕੀ ਨਹੀਂ ਵਜਾਉਂਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੰਦਰੀਆ = ਢੋਲਕੀ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

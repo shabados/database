@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ ਗੁਰੂ ਦੀ ਆਗਿਆ ਵਿਚ (ਤੁਰ ਕੇ) ਆਨੰਦ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਗ੍ਯ੍ਯਿ = ਆਗਿਆ {आज्ञा} ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

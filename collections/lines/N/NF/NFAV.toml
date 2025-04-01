@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਵੇਂ ਆਖਦਾ ਹੈ-) ਮੈਂ ਸਦਕੇ ਹਾਂ ਇਸ ਸੋਹਣੇ ਬੰਦੇ ਤੋਂ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

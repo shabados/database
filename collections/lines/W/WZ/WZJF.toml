@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਵੱਸ ਵਿਚ ਹਨ, ਸਾਰੇ ਤੇਰੀ ਸੰਭਾਲ ਵਿਚ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ = {ਲਫ਼ਜ਼ 'ਜੀਵ' ਤੋਂ ਬਹੁ-ਵਚਨ}। ਸਭਿ = ਸਾਰੇ। ਵਸਿ = ਵੱਸ ਵਿਚ। ਸਾਰਿਆ = ਸੰਭਾਲ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

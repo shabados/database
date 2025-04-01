@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਹ ਵੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦੀ ਬੰਦਗੀ ਵਿਚ ਬੱਧੀ ਰਹਿਣਾ ਚਾਹੁੰਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਇਨਕਿਯਾਦ ਅੰਦੇਸ਼ਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।੧੪੧।"
+page = 10
+line = 141
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

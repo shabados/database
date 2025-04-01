@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹਰ ਥਾਂ ਵੱਸਦਾ ਹੈਂ, ਹਰੇਕ ਜੀਵ ਤੇਰਾ (ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਰਬਤ੍ਰ = ਸਭ ਥਾਈਂ। ਸਭੁ ਕੋਈ = ਹਰੇਕ ਜੀਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

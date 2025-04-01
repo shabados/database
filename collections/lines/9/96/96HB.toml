@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜਾਨ ਤਾਣ ਕੇਵਲ ਪਿਆਰੇ ਤੋਣ ਵਾਰਨ ਲਈ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਾਣ ਫ਼ਿਦਾਈ ਜਾਨਿ ਜਾਨਾਣ ਨਸਤੋ ਬਸ ।੩੯।੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

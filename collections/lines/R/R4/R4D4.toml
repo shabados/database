@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਜੋ ਮਨੁੱਖ ਇਸ ਰਮਜ਼ ਨੂੰ ਸਮਝਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੇਉ = ਭੇਦ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

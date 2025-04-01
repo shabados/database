@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ ਹੀ ਚੋਰ ਹਨ, ਜੋ ਪਰਾਇਆ ਮਾਲ (ਚੁਰਾ ਚੁਰਾ ਕੇ) ਵਰਤ ਰਹੇ ਹਨ"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਾਮਖੋਰ = ਪਰਾਇਆ ਮਾਲ ਖਾਣ ਵਾਲੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

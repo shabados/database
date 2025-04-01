@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਮਰ ਮੁੱਕਣ ਤੇ ਆ ਰਹੀ ਹੈ, ਪਰ ਤੂੰ ਆਪਣਾ ਰਾਹ ਸੁਚੱਜਾ ਨਹੀਂ ਬਣਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਾਨੋ = ਗੁਜ਼ਰ ਰਿਹਾ ਹੈ। ਪੰਥੁ = ਜ਼ਿੰਦਗੀ ਦਾ ਰਸਤਾ। ਸਵਾਰਾ = ਸੋਹਣਾ ਬਣਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

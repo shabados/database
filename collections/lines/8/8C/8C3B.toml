@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਜਿਸ ਭੀ ਮਨੁੱਖ ਦਾ ਪੱਖ ਪਰਮਾਤਮਾ ਨੇ ਕੀਤਾ ਹੈ ॥੪॥੧੨॥੧੪॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅੰਗੁ = ਪੱਖ। ਨਾਨਕ ਕਾ ਅੰਗੁ = ਹੇ ਨਾਨਕ! ਜਿਸ ਦਾ ਪੱਖ। ਕਰਤਾਰਿ = ਕਰਤਾਰ ਨੇ ॥੪॥੧੨॥੧੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

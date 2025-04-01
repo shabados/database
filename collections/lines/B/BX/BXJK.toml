@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਪਣੇ ਅੰਦਰੋਣ ਉਹ ਹਉਮੈ ਬਾਹਰ ਕੱਢ ਮਾਰਦੇ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੁਦ-ਪ੍ਰਸਤੀ ਅਜ਼ ਮਿਆਣ ਬਰਦਾਸ਼ਤੰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

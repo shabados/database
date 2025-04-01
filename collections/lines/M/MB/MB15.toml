@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸਾਰਾ ਸੰਸਾਰ ਹੀ ਉਸਦੇ ਨੂਰ ਨਾਲ ਰੋਸ਼ਨ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੌਸ਼ਨ ਅਜ਼ ਨੂਰਿ ਖ਼ੁਦਾਇ ਮੁਤਲਿਕ ਅਸਤ ।੪੦੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

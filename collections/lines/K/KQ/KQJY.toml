@@ -5,6 +5,11 @@ language = "pa"
 data = "ਅਸਾਣ ਵਿਛੋੜੇ ਦੀ ਜ਼ਬਾਨੀ ਮਿਲਾਪ ਦੀਆਣ ਗੱਲਾਣ ਸੁਣੀਆਣ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਨੀਦਾਇਮ ਸੁਖ਼ਨਿ ਵਸਲ ਅਜ਼ ਜ਼ਬਾਨਿ ਫ਼ਿਰਾਕ ।੪੯।੩।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

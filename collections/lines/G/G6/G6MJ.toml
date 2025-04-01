@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ ਕਾਮਾਦਿਕ ਪੰਜਾਂ ਨੂੰ ਮਾਰ ਕੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕਿ = {ਲਫ਼ਜ਼ 'ਇਕ' ਤੋਂ ਬਹੁ-ਵਚਨ} ਕਈ। ਮਾਰਿ = ਮਾਰ ਕੇ। ਸਬਦਿ = ਸ਼ਬਦ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

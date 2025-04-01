@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕੀ ਮਿੱਟੀ ਅਤੇ ਕੀ ਅੱਗ, ਕੀ ਹਵਾ ਅਤੇ ਕੀ ਪਾਣੀ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਚਿਹ ਖ਼ਾਕੋ ਚਿਹ ਆਤਿਸ਼ ਚਿਹ ਬਾਦੋ ਚਿਹ ਆਬ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

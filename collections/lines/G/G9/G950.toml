@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸ੍ਵਾਂਗੀ ਮਨੁੱਖ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਅਨੇਕਾਂ ਮਨ-ਬਾਂਛਤ ਸ੍ਵਾਂਗ ਬਣਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਛੇ = (कांछित) ਮਨ-ਬਾਂਛਤ। ਭੇਖਧਾਰੀ = ਸ੍ਵਾਂਗ ਰਚਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

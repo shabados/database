@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਅਤੇ ਉਹ ਜਹਾਨ ਦੋਵੇਂ ਸੱਚ ਨਾਲ ਭਰਪੂਰ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਂ ਜਹਾਨੋ ਆਂ ਜਹਾਂ ਅਜ਼ ਹੱਕ ਪੁਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

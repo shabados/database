@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਤੂੰ ਰੱਬ ਦੇ ਭਗਤਾਂ ਦੀ ਛਤਰ ਛਾਇਆ ਹੇਠ ਕਦੀ ਜਾਏਂ, "
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਰ ਪਨਾਹਿ ਸਾਇਆਇ ਮਰਦਾਨਿ ਹੱਕ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

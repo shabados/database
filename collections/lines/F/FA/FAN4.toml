@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੰਸਾਰ-) ਰੁੱਖ ਦੇ ਹੇਠ ਇਕੱਠੇ ਹੋਏ ਹੋਏ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਕ-ਤਰੀਆ = ਇਕੱਤਰ ਹੋਏ ਹੋਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

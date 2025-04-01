@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਉਸ ਪਰਮਾਤਮਾ ਬਾਰੇ ਸੋਚ ਕੇ) ਬਹੁਤ ਹੀ ਹੈਰਾਨ ਹੋ ਜਾਈਦਾ ਹੈ। ਕੋਈ ਭੀ ਹੋਰ ਦੂਜਾ ਉਸ ਦੇ ਬਰਾਬਰ ਦਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਸਮਨ ਬਿਖਮ ਬਿਸਮਾਦਾ = ਬਹੁਤ ਹੀ ਹੈਰਾਨ। ਆਨ = {अन्य} ਹੋਰ। ਬੀਓ = ਦੂਜਾ। ਲਾਵਨ = ਬਰਾਬਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

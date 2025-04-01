@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਿਉਂਕਿ) ਪਰਮਾਤਮਾ ਦਾ ਪਵਿਤ੍ਰ ਨਾਮ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਸੋਭ ਰਿਹਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਹਿ = ਸੋਹੈ, ਸੋਭਦਾ ਹੈ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

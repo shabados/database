@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਜਿਸਨੂੰ ਮੈਂ ਘਰ ਘਰ ਢੂੰਡਦਾ ਰਿਹਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਆਂ ਕਿ ਊ ਰਾ ਜੁਸਤਮ ਅਜ਼ ਹਰ ਖ਼ਾਨਾਇ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

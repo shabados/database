@@ -5,6 +5,13 @@ language = "pa"
 data = "ਦੋਵੇਂ ਦੁਨੀਆਂ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਦਾ ਕਬੀਲਾ ਹਨ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦੋ ਆਲਮ ਖ਼ੈਲਿ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 149
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

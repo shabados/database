@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਨੂੰ ਸਾਰੇ ਮਨ-ਇੱਛਤ ਫਲ ਮਿਲ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨ ਚਿੰਤਤ = ਮਨ-ਇੱਛਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਰੰਤੂ ਮਨਸੂਰ ਵਾਣਗ ਸੂਲੀ ਉੱਤੇ ਕਦਮ ਧਰ ਕੇ ਉਹ ਪੁਜ ਸਕਦਾ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਨਸੂਰ ਸਿਫ਼ਤ ਬਾ-ਕਦਿਮ ਦਾਰ ਤਵਾਣ ਰਫ਼ਤ ।੧੨।੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

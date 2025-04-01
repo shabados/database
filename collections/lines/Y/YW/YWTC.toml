@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਾਂ! (ਪਤੀ ਦੇ ਵਿਛੋੜੇ ਵਿਚ) ਮੇਰੀ ਸੱਖਣੀ ਸੇਜ ਮੈਨੂੰ ਬਹੁਤ ਦੁਖਦਾਈ ਹੋ ਰਹੀ ਹੈ, (ਪਤੀ ਤੋਂ ਵਿਛੋੜੇ ਦਾ) ਦੁੱਖ ਮੈਨੂੰ ਮੌਤ (ਬਰਾਬਰ) ਹੋ ਗਿਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖਰੀ = ਬਹੁਤ। ਦੁਹੇਲੀ = ਦੁਖਦਾਈ। ਮਾਏ = ਹੇ ਮਾਂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

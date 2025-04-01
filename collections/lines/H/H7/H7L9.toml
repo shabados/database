@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗੁਰੂ ਉਸ ਦੇ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸਹਾਰਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਰਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ। ਦੀਬਾਣੁ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

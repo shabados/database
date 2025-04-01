@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੂਰਖ! ਮਾਇਆ ਦਾ ਕਿਉਂ ਮਾਣ ਕਰਦਾ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗਰਬਸਿ = ਅਹੰਕਾਰ ਕਰਦਾ ਹੈਂ। ਮੂੜੇ = ਹੇ ਮੂਰਖ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

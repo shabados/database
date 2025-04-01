@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਾਸ ਨਾਨਕ! ਉਹ ਪ੍ਰਭੂ-ਪ੍ਰੇਮ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ ॥੪॥੧॥੨੭॥੬੫॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰੇਮਿ = ਪ੍ਰੇਮ ਵਿਚ। ਰਤੰਨਾ = ਰੱਤਾ ਹੋਇਆ ॥੪॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

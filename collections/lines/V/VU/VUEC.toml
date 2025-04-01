@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਨਹੀਂ ਤਾਂ) ਵੇਖੋ, ਇਹ ਅਚਰਜ ਧੱਕੇ ਦੀ ਗੱਲ ਹੈ ਕਿ ਦਾਨ ਦੇਣ ਵਾਲੇ ਨਰਕੇ ਪੈਣ ਤੇ ਲੈਣ ਵਾਲੇ ਸੁਰਗ ਵਿਚ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਰਕਿ = ਨਰਕ ਵਿਚ। ਸੁਰਗਿ = ਸੁਰਗ ਵਿਚ। ਧਿਙਾਣਾ = ਧੱਕੇ ਦੀ ਗੱਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਿਮਰਨ ਵਿਚ ਹੀ ਜੁੜ ਕੇ (ਰਿਸ਼ੀਆਂ ਨੇ) ਵੇਦ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕ) ਰਚੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ ਸਿਮਰਨਿ = ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਵਿਚ। ਲਗਿ = ਲੱਗ ਕੇ, ਜੁੜ ਕੇ। ਉਪਾਏ = ਪੈਦਾ ਕੀਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

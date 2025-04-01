@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਸੁੰਦਰ ਸੁਆਦਲੇ ਖਾਣੇ ਖਾਂਦੇ ਹੋਣ (ਤਾਂ ਭੀ) ਬਹੁਤਾ ਵਿਸ਼ਟਾ ਹੀ ਵਧਾਂਦੇ ਹਨ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੈਲ = ਵਿਸ਼ਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

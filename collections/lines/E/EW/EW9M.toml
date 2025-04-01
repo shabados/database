@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੈਨਤ ਨਾਲ ਜੇ) ਆਖੀਏ (ਇਹ) ਰਾਤ ਹੈ ਤਾਂ ਉਹ ਸਮਝ ਲੈਂਦਾ ਹੈ (ਇਹ) ਦਿਨ (ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਸਿ = ਰਾਤ। ਭੋਰਾ = ਦਿਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

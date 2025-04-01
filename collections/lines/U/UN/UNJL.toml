@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਦੋਂ ਮੈਂ ਉਹਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ (ਬੈਠ ਕੇ, ਆਪਣੇ) ਕੰਨਾਂ ਨਾਲ (ਤੇਰਾ) ਜਸ ਸੁਣਦਾ ਹਾਂ, ਮੈਂ ਨਿਹਾਲ ਹੋ ਜਾਂਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਣੀ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

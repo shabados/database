@@ -5,6 +5,11 @@ language = "pa"
 data = "ਕਿੱਥੋਣ ਕੁ ਤੱਕ ਇਸ ਬ੍ਰਿਹਾ ਦੀ ਵਿਥਿਆ ਸੁਣਾਉਣਦੇ ਰਹੀਏ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦਿਹੇਮ ਤਾ ਬਕੁਜਾ ਸ਼ਰਹਾ ਦਾਸਤਾਨਿ ਫ਼ਿਰਾਕ ।੪੯।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

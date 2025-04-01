@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦਿਨ ਰਾਤਿ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਓ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਸਤਤਿ = ਵਡਿਆਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

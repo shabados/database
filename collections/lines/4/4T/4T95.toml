@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਜੇਹੇ) ਸੁਆਦਾਂ ਤੇ ਸੁਖਾਂ ਨਾਲ ਮਨ ਨੂੰ ਪਰਚਾਂਦਾ ਰਿਹਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਾਦ = ਸੁਆਦ। ਸਹਜ = ਸੁਖ। ਸਾਦ ਕਰਿ = ਸੁਆਦਾਂ ਨਾਲ। ਖੇਲਾਇਆ = ਖਿਡਾਇਆ, ਪਰਚਾਇਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

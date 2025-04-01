@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਫਰੀਦ! ਤੂੰ ਪਹੇ ਦੀ ਦੱਭ (ਵਰਗਾ) ਬਣ ਜਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਥੀਉ = ਹੋ ਜਾ, ਬਣ ਜਾ। ਪਵਾਹੀ = ਪਹੇ ਦੀ, ਰਸਤੇ ਦੀ। ਦਭੁ = ਕੁਸ਼ਾ, ਘਾਹ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

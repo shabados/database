@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਜਿਹੜੇ ਮਨੁੱਖ ਸਗਨ ਆਦਿਕਾਂ ਦੇ ਭਰਮ ਛੱਡ ਕੇ ਸਿੱਧੇ) ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਆ ਪਏ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਿ = ਕਰ ਕੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

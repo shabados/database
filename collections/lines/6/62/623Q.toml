@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਸ ਦੇ ਭਾਗਾਣ ਭਰੀ ਆਉਣ ਦੀ ਸੁਗੰਧੀ ਨਾਲ ਮੈਣ ਸੁਰਜੀਤ ਹੋ ਜਾਣਦਾ ਹਾਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿੰਦਾ ਮੀ ਗਰਦਮ ਜ਼ਿ ਬੂਇ ਮਕਦਮਸ਼ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

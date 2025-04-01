@@ -36,6 +36,12 @@ language = "pa"
 data = "'ਨਾਮ' ਤੋਂ ਬਿਨਾ (ਮਮਤਾ ਤੋਂ) ਬਚ ਭੀ ਨਹੀਂ ਸਕੀਦਾ, (ਮਨੁੱਖ) ਆਖ਼ਰ ਨਰਕ ਵਿਚ ਹੀ ਡਿੱਗਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਸਾਤਲਿ = ਰਸਾਤਲ ਵਿਚ, ਪਤਾਲ ਵਿਚ, ਨਰਕ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜੀਵ-ਰਚਨਾ ਦੀਆਂ) ਬੇਅੰਤ ਖਾਣੀਆਂ ਹਨ, (ਜੀਵਾਂ ਦੀਆਂ ਬੋਲੀਆਂ ਭੀ ਚਾਰ ਨਹੀਂ) ਬੇਅੰਤ ਬਾਣੀਆਂ ਹਨ, ਬੇਅੰਤ ਪਾਤਸ਼ਾਹ ਤੇ ਰਾਜੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਤ = ਪਾਤਸ਼ਾਹ। ਨਰਿੰਦ = ਰਾਜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

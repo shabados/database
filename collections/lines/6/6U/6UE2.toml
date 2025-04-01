@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਹੱਥ ਸਫਲੇ ਹਨ, ਜੋ ਹੱਥ ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ ਦੇ ਚਰਨਾਂ ਤੇ ਲੱਗਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਰ ਅਮਰ ਪਯ = ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ ਦੇ ਪੈਰਾਂ ਉੱਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

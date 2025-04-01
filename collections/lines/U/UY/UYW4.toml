@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਦਇਆ ਦੇ ਸੋਮੇ ਅਕਾਲ ਪੁਰਖ! (ਤੇਰੇ ਸੇਵਕ) ਨਾਨਕ ਦੀ ਭੀ ਇਹੀ ਅਰਜ਼ੋਈ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਇਆਲ = ਹੇ ਦਇਆ ਦੇ ਘਰ ਪ੍ਰਭੂ! ਨਾਨਕ ਅਰਦਾਸਿ = ਨਾਨਕ ਦੀ ਅਰਜ਼ੋਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -30,6 +30,12 @@ language = "pa"
 data = "ਰਾਗ ਬਿਲਾਵਲੁ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਚਾਰ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਉਪਦੇ = ਚਾਰ ਬੰਦਾਂ ਵਾਲੇ ਸ਼ਬਦ। ਪਰ ਇਹ ਪਹਿਲਾ ਸ਼ਬਦ 'ਪੰਚਪਦਾ' ਹੈ। ਇਸ ਤੋਂ ਅਗਾਂਹ ੧੭ ਸ਼ਬਦ ਚਉਪਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

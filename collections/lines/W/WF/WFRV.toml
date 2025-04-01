@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਨੇਕਾਂ (ਸੁੰਦਰ ਇਸਤ੍ਰੀਆਂ ਦੇ) ਰੂਪ ਵੇਖ ਕੇ ਭੀ ਮਨ ਦੀ ਤਸੱਲੀ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਪਤੀਆਨਾ = ਪਤੀਜਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

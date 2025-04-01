@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਪਾਰਸ ਅਤੇ ਚੰਦਨ-ਇਹਨਾਂ ਦੋਹਾਂ ਵਿਚ ਇਕ ਇਕ ਗੁਣ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚੰਦਨੈ = ਚੰਦਨ ਵਿਚ। ਪਾਰਸ ਚੰਦਨੈ = ਪਾਰਸੈ ਚੰਦਨੈ, ਪਾਰਸ ਵਿਚ ਤੇ ਚੰਦਨ ਵਿਚ। ਤਿਨ ਹੈ = ਇਹਨਾਂ ਪਾਰਸ ਤੇ ਚੰਦਨ ਵਿਚ ਹੈ। ਸੁਗੰਧ = ਗੁਣ, ਖ਼ੁਸ਼ਬੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਨੁੱਖ (ਕਾਮਾਦਿਕ ਵਲੋਂ) ਪਰਤ ਕੇ ਆਤਮਕ ਆਨੰਦ ਵਿਚ ਆ ਟਿਕੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਖਿ ਸਾਂਦਿ = ਆਤਮਕ ਆਨੰਦ ਵਿਚ, ਸ਼ਾਂਤ ਅਵਸਥਾ ਵਿਚ। ਆਏ = ਆ ਟਿਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

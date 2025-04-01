@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਗਾਂਹ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਮੈਂ (ਟਿਕਣ ਜੋਗਾ) ਥਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਾਂਗਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਵਉ = ਪਾਵਉਂ, ਮੈਂ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

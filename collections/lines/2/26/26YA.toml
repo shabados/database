@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਸਾਣਾਂ ਤਕ ਹੋਰ ਲੋਕ ਤੇ ਪਰਵਾਰ ਦੇ ਬੰਦੇ ਜਾਂਦੇ ਹਨ। ਪਰ ਜਿੰਦ ਇਕੱਲੀ ਹੀ ਜਾਂਦੀ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਹਟ = ਮਰਘਟ, ਮਸਾਣ। ਹੰਸੁ = ਜਿੰਦ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

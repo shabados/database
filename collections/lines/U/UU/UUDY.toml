@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਸਿਰਫ਼ ਤੂੰ ਹੀ ਸਭ ਕੁਝ ਕਰਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈਂ, ਜੀਵਾਂ ਪਾਸੋਂ ਕਰਾਣ ਦੀ ਸਮਰੱਥਾ ਰੱਖਦਾ ਹੈਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੁਹੀ = ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

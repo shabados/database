@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਭ ਹੀਲਿਆਂ ਤੇ ਚਤੁਰਾਈਆਂ ਤੋਂ (ਪ੍ਰਭੂ) ਪਰੇ ਹੈ (ਭਾਵ, ਕਿਸੇ ਹੀਲੇ ਚਤੁਰਾਈ ਨਾਲ ਪ੍ਰਸੰਨ ਨਹੀਂ ਹੁੰਦਾ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਤੇ ਰਹਤ = ਸਭ ਤੋਂ ਪਰੇ ਹੈ। ਉਪਾਵ = ਹੀਲੇ। ਰਹਤ = ਰਹਿਣੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

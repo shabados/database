@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਪਿੰਜਰੇ ਵਿਚ ਬੈਠੇ ਤੋਤੇ ਨੂੰ ਬਿੱਲਾ ਨਹੀਂ ਖਾ ਸਕਦਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਆ = ਤੋਤਾ। ਪਿੰਜਰਿ = ਪਿੰਜਰੇ ਵਿਚ। ਬਿਲਾਸੁ = ਬਿੱਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

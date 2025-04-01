@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਪਰ ਲੈਣ ਲਈ ਰਜ਼ਾਈ ਦੀ ਲੋੜ ਹੈ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੀਂਧਾ = ਰਜ਼ਾਈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਤੂੰ ਰੱਬ ਦਾ ਹੋ ਗਿਆ ਅਤੇ ਰੱਬ ਤੇਰਾ ਹੋ ਗਿਆ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਤੂ ਜ਼ ਹੱਕ ਬਾਸ਼ੀ ਵਾ ਹੱਕ ਬਾਸ਼ਦ ਜ਼ ਤੂ ।੨੮੫।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

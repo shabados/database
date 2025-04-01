@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਆਕਾਸ਼ ਵਿਚ ਪੰਛੀ ਉੱਡਦਾ ਹੈ, ਪਰ ਉਸ ਦੇ ਉੱਡਣ ਵਾਲੇ ਰਸਤੇ ਦਾ ਖੁਰਾ-ਖੋਜ ਵੇਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਰਖਿਓ ਨ ਜਾਈ = ਵੇਖਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਵਜੂਦਸ਼ ਸਰਾਪਾ ਕਰਮਹਾਇ ਹੱਕ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਵਜੂਦਸ਼ ਸਰਾਪਾ ਕਰਮਹਾਇ ਹੱਕ ।"
+page = 6
+line = 83
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

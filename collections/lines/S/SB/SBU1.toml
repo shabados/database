@@ -5,6 +5,11 @@ language = "pa"
 data = "ਪਾਤਸ਼ਾਹੀ ਉਹੋ ਹੀ ਹੈ ਜਿਹੜੀ ਸਦਾ ਕਾਇਮ ਰਹੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਾਦਸ਼ਾਹੀ ਆਣ ਕਿ ਊ ਦਾਇਮ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

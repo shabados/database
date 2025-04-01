@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ (ਉਸ ਮਨੁੱਖ ਦੇ ਮਨ ਅੰਦਰ) ਸੁਖ ਹੀ ਸੁਖ ਬਣ ਗਿਆ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਮਰਿ = ਸਿਮਰ ਕੇ। ਕਲਿਆਣੁ = ਸੁਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

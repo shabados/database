@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਥੇ) ਜਨਮ ਹੈ (ਉਥੇ) ਮੌਤ ਭੀ ਹੈ, ਖ਼ੁਸ਼ੀ ਹੈ ਤਾਂ ਗ਼ਮੀ ਭੀ ਹੈ, (ਮਾਇਕ ਪਦਾਰਥਾਂ ਦੇ) ਭੋਗ ਹਨ ਤਾਂ (ਉਹਨਾਂ ਤੋਂ ਉਪਜਦੇ) ਰੋਗ ਭੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਖੰ = ਖ਼ੁਸ਼ੀ, ਆਨੰਦ (हर्ष)। ਸੋਗੰ = ਚਿੰਤਾ (शोक)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵਿਸ਼ੇ-ਵਿਕਾਰ ਜੋ ਆਖ਼ਰ ਦੁਖਦਾਈ ਹੁੰਦੇ ਹਨ ਸੁਆਦਲੇ ਜਾਣ ਕੇ ਮਾਣਦਾ ਰਿਹਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਉੜਾ = ਉਹ ਵਿਸ਼ੇ-ਭੋਗ ਜੋ ਅੰਤ ਨੂੰ ਦੁਖਦਾਈ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਗੁਰਮੁਖਾਂ ਦੇ ਘਰ ਦੀ ਰੁੱਖੀ ਰੋਟੀ (ਜੇ ਮਿਲੇ ਤਾਂ ਉਸ ਨੂੰ ਦੁਨੀਆ ਦੇ) ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ (ਸਮਝ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਾਨਾ = ਅੰਨ। ਸਰਬ = ਸਾਰੇ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

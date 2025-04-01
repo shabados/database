@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ ਕੁਝ ਗੁਰੂ ਨੇ ਦੱਸਿਆ ਉਹ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਵਸਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਧਰਿ = ਰੱਖ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

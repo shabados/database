@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਾਣੀ ਵਿਚ, ਧਰਤੀ ਤੇ, ਹਰ ਥਾਂ ਪ੍ਰਭੂ-ਖਸਮ ਜੀ ਵੱਸ ਰਹੇ (ਜਾਪਦੇ) ਹਨ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਤੇ। ਪੂਰਿ ਰਹੇ = ਹਰ ਥਾਂ ਮੌਜੂਦ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

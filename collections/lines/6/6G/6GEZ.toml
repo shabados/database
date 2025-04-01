@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਕਰਤਾਰ ਨੇ ਇਹ ਸਾਰਾ ਜਗਤ ਬਣਾਇਆ ਹੈ ਉਸ ਦੀ ਵਡਿਆਈ ਕਰੋ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨਿ = ਜਿਸ (ਕਰਤਾਰ) ਨੇ। ਆਕਾਰੁ = ਇਹ ਦਿੱਸਦਾ ਜਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

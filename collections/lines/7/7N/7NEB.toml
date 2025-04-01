@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਰਾਮ! ਅਸੀਂ ਜੀਵ ਨਿਰਦਈ ਹਾਂ, ਗੁਣਾਂ ਤੋਂ ਸੱਖਣੇ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਾਮ = ਹੇ ਰਾਮ! ਪਾਥਰ = ਨਿਰਦਈ, ਪੱਥਰ-ਚਿੱਤ। ਨਿਰਗੁਨੀਆਰੇ = ਗੁਣ-ਹੀਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕੋਇਲ ਭੀ ਇਹੀ ਉੱਤਰ ਦੇਂਦੀ ਹੈ) ਮੈਨੂੰ ਮੇਰੇ ਪ੍ਰੀਤਮ ਦੇ ਵਿਛੋੜੇ ਨੇ ਸਾੜ ਦਿੱਤਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਉ = ਮੈਂ। ਬਿਰਹੈ = ਵਿਛੋੜੇ ਵਿਚ। ਜਾਲੀ = ਸਾੜੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

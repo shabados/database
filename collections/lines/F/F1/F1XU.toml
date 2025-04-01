@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੁੰਦਰ ਸਰੂਪ! ਤੂੰ ਹੀ ਸੀਤਲਾ ਤੋਂ ਬਚਾਇਆ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੀਤਲਾ = ਮਾਤਾ ਦਾ ਰੋਗ, ਚੀਚਕ। ਤੇ = ਤੋਂ। ਰਖਿਆ = ਬਚਾਇਆ। ਬਿਹਾਰੀ = {विहारिन्} ਹੇ ਸੁੰਦਰ ਪ੍ਰਭੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

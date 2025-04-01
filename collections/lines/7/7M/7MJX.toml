@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! (ਵਿਕਾਰਾਂ ਦੀ ਤਪਸ਼ ਨਾਲ ਤਪ ਰਹੇ ਇਸ ਸੰਸਾਰ ਵਿਚ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਇਕ ਸੋਹਣਾ ਰੁੱਖ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਰਵਰ = ਤਰ-ਵਰ, ਸੋਹਣਾ ਰੁੱਖ। ਤਰ = ਰੁੱਖ। ਬੈਰਾਗੁ = ਨਿਰਮੋਹਤਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

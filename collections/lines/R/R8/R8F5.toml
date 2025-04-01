@@ -5,6 +5,11 @@ language = "pa"
 data = "ਆਸ਼ਕ ਦੀ ਆਸ ਦੀ ਟਹਿਣੀ ਕਦੀ ਵੀ ਫਲਦੀ ਜਾਣ ਫੁਲਦੀ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਸ਼ਾਖ਼ਿ ਉਮੀਦਿ ਆਸ਼ਕਿ ਹਰਗਿਜ਼ ਸਮਰ ਨਹਿ ਗੀਰਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

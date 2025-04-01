@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਕਬੀਰ! ਆਪਣਾ ਉੱਚਾ ਮਹਲ ਵੇਖ ਕੇ (ਭੀ) ਅਹੰਕਾਰ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ (ਇਹ ਭੀ ਚਾਰ ਦਿਨ ਦੀ ਹੀ ਖੇਡ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਅਵਾਸੁ = ਮਹਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

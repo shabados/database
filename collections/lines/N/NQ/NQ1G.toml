@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪਿਆਰੇ ਮਨ!) ਜਦੋਂ ਤੈਨੂੰ ਪਤਾ ਹੈ ਕਿ ਆਖ਼ਰ ਮਰਨਾ ਹੈ ਤੇ ਮੁੜ (ਇਥੇ) ਨਹੀਂ ਆਉਣਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੇ ਜਾਣਾ = ਜਦੋਂ ਇਹ ਪਤਾ ਹੈ। ਘੁਮਿ = ਮੁੜ ਕੇ, ਫਿਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ ਭੀ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਤਲਖ਼ ਬਣਾਈ ਹੋਈ ਹੈ ਅਤੇ ਦੁੱਖ ਸਹਾਰ ਰਿਹਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜਾ = (ਨਾਮ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਅਡੰਬਰ। ਭਾਇਆ = ਚੰਗਾ ਲੱਗਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੰਸਾਰ ਨੂੰ ਆਪ ਹੀ ਰਚ ਕੇ ਹਰੇਕ ਜੀਵ ਨੂੰ ਮਾਇਆ ਦੇ ਕਜ਼ੀਏ ਵਿਚ ਲਾ ਦੇਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰਿ, ਹਰੇਕ ਸਿਰ ਉਤੇ, ਹਰੇਕ ਜੀਵ ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

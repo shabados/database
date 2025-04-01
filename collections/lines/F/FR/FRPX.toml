@@ -5,6 +5,11 @@ language = "pa"
 data = "(ਮੈਂ ਆਪਣੇ ਪ੍ਰੀਤਮ ਲਈ) ਮੋਤੀ, ਲਾਲ ਅਤੇ ਜਵਾਹਰ ਬਣ ਜਾਂਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗੋਹਰੋ ਲਾਲੋ ਜਵਾਹਰ ਪੇਸ਼ਿ ਸ਼ਾਂ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

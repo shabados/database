@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਵਲ) ਅਮਰ ਕਰਨ ਵਾਲੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕਦਾ ਹੈ ਓਹੀ ਸੰਤ ਹੋ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਖੈ = ਵੇਖਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

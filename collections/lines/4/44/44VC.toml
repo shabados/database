@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ (ਸੁਆਰਥ ਵਿਚ) ਪਸ਼ੂ ਬਣਿਆ ਪਿਆ ਹੈ, ਹਉਮੈ-ਮੌਤ ਇਸ ਦੇ ਆਤਮਕ ਜੀਵਨ ਦਾ ਸੱਤਿਆਨਾਸ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਹੰ = ਹਉਮੈ। ਕਸਾਈ = ਮਾਰਨ ਵਾਲਾ। ਕਾਲੁ = ਮੌਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

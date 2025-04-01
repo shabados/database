@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸੋਹਣੇ ਦਰਵਾਜ਼ਿਆਂ ਵਾਲੇ ਸੋਹਣੇ ਘਰ ਤੇ ਮਹੱਲ, ਹਜ਼ਾਰਾਂ ਪੱਕੇ ਕਿਲ੍ਹੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੋਟ = ਕਿਲ੍ਹੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹੀ ਪੂਰਨ ਪੁਰਖ ਤੇ ਕਾਦਰ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਧਾਤਾ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਪੂਰਨ ਪੁਰਖੁ = ਸਭ ਵਿਚ ਵਿਆਪਕ ਪ੍ਰਭੂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਉਸ ਭਗਤ ਜਨ ਤੋਂ ਸਦਕੇ ਹਾਂ ਜੋ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਲਿ ਬਲਿ = ਸਦਕੇ। ਬਿਸਨ ਤਨਾ = ਵਿਸ਼ਨੂ ਦਾ ਪੁਤਰ, ਪ੍ਰਭੂ ਦਾ ਭਗਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

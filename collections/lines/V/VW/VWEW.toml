@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਲਮ ਅਤੇ ਅਦਬ ਉਨ੍ਹਾਣ ਦੇ ਸੁਭਾਉ ਵਿਚੋਣ ਪ੍ਰਗਟ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਖ਼ੂਇ ਸ਼ਾਣ ਇਲਮੋ ਅਦਬ ਰਾ ਮੁਜ਼ਹਰ ਅਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸੰਤ ਜਨੋ! (ਮੈਨੂੰ ਉਸ ਦਾ ਪਤਾ) ਦੱਸੋ, ਮੈਂ ਉਸ ਹਰੀ-ਸੱਜਣ ਦੀ ਭਾਲ ਕਰਦਾ ਫਿਰਦਾ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਖੋਜੁ = ਭਾਲ। ਪਵਾਈ = ਮੈਂ ਪਵਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

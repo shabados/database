@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਤਿਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਟਿਕਿਆ ਰਹੁ, ਤੇਰੇ ਸਾਰੇ ਕੰਮ (ਭੀ) ਸੰਵਰ ਜਾਣਗੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਸਵਾਰੀਅਹਿ = ਸੰਵਾਰੇ ਜਾਂਦੇ ਹਨ। ਲਾਗੁ = ਲੱਗ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

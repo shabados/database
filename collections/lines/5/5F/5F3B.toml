@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਜਦੋਂ ਇਸ ਦੇ ਅੰਦਰੋਂ ਸਾਰੀਆਂ ਭਟਕਣਾ ਮੁੱਕ ਜਾਂਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਇਸ ਤੇ = {'ਇਸੁ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਤੇ' ਦੇ ਕਾਰਨ} ਇਸ ਤੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

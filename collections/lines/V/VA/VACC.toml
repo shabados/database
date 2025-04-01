@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਨੇ ਕਾਰ ਕਰਨ ਲਈ ਤੈਨੂੰ ਹੱਥ ਦਿੱਤੇ ਹਨ, ਅਤੇ ਨੱਕ ਤੇ ਜੀਭ ਦਿੱਤੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤ = ਹੱਥ। ਬਾਸਨ = ਨੱਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

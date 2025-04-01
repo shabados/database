@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਪਸ਼ੂ ਮਰਦਾ ਹੈ ਤਾਂ (ਫਿਰ ਭੀ ਉਸ ਦਾ ਸਰੀਰ ਮਨੁੱਖ ਦੇ) ਕਈ ਕੰਮ ਸਵਾਰਦਾ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦਸ ਕਾਜ = ਕਈ ਕੰਮ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

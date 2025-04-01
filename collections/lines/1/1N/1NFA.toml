@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ (ਮਾਨੋ) ਸਮੁੰਦਰ ਹੈਂ ਤੇ ਅਸੀਂ (ਜੀਵ) ਤੇਰੀਆਂ ਮੱਛੀਆਂ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਧਿ = ਖ਼ਜ਼ਾਨਾ। ਜਲ ਨਿਧਿ = ਸਮੁੰਦਰ। ਮੀਨ = ਮੱਛੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

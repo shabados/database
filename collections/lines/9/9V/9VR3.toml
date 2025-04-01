@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿ ਅੱਠੇ ਪਹਰ ਦੋਵੇਂ ਹੱਥ ਜੋੜ ਕੇ ਉਸ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰ ਜੋੜਿ = (ਦੋਵੇਂ) ਹੱਥ ਜੋੜ ਕੇ। ਧਿਆਵਾ = ਧਿਆਵਾਂ, ਮੈਂ ਸਿਮਰਦਾ ਰਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

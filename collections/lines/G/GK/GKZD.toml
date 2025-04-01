@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਬੰਦੇ! ਗੁਰੂ ਦੀ ਸਰਨ ਪਉ, ਤੇ, ਆਤਮਕ ਆਨੰਦ ਮਾਣ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪ੍ਰਾਣੀ = ਹੇ ਬੰਦੇ! ਸੇਵਿ = ਸੇਵਾ ਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

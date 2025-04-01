@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਅੰਞਾਣ ਬੈਰਾਗੀ! ਸਤਿਗੁਰੂ ਤਦੋਂ ਮਿਲਦਾ ਹੈ ਜੇ (ਪ੍ਰਭੂ ਦੀ) ਕਿਰਪਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਰਮੁ = ਬਖ਼ਸ਼ਸ਼।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

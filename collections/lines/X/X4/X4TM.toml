@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈ ਸੰਨਿਆਸੀ, ਕਈ ਤਪੱਸਵੀ ਤੇ ਕਈ ਇਹ ਮੂੰਹੋਂ-ਮਿੱਠੇ ਪੰਡਿਤ (ਭੀ ਵੇਖੇ ਹਨ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪਸੀਅਹ = ਤੱਪਸ੍ਵੀ ਲੋਕ। ਏ = ਇਹ। ਮੁਖਹੁ ਮਿਠੇ ਪੰਡਿਤ = ਮੂੰਹੋਂ ਮਿੱਠੇ ਪੰਡਿਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

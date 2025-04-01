@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਕਾਜ਼ੀ ਆਖਦਾ ਹੈ-) ਨਹੀਂ ਤਾਂ ਮੈਂ ਤੇਰਾ ਸਿਰ ਉਤਰਾ ਦਿਆਂਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰੇ = ਹੇ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਦੇ ਮਨ ਵਿਚ ਮੋਹ (ਪ੍ਰਬਲ) ਹੈ, ਉਸ ਦੀ ਭਟਕਣਾ ਖ਼ਤਮ ਨਹੀਂ ਹੁੰਦੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਸਟਸਿ = ਟਿਕਦਾ। ਤਿਸਟਸਿ ਨਾਹੀ ਦੇਹਾ = ਸਰੀਰ ਟਿਕਦਾ ਨਹੀਂ, ਭਟਕਣਾ ਖ਼ਤਮ ਨਹੀਂ ਹੁੰਦੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

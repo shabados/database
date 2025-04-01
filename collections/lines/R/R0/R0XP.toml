@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਤੂੰ (ਆਪਣੇ ਦਰ ਤੇ) ਆਦਰ ਦੇਂਦਾ ਹੈਂ, ਉਹ ਧੰਨ ਹਨ, ਸੁਭਾਗ ਹਨ, ਕਿਸਮਤ ਵਾਲੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਨ = ਜਿਨ੍ਹਾਂ ਨੂੰ {ਬਹੁ-ਵਚਨ}। ਮਾਨਾਂ = ਆਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਅਸਾਂ ਜੀਵਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਦੀ) ਡੋਰ ਤੇਰੇ ਹੱਥ ਵਿਚ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਾਥਿ = ਹੱਥ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

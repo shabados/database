@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕੀਤਿਆਂ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇਵਾ = ਭਗਤੀ। ਮਾਨੁ = ਇੱਜ਼ਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

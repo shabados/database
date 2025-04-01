@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਟਿਕ ਕੇ ਉਸ ਦੇ ਗੁਣ ਗਾਂਦੇ ਰਹੋ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੈ ਰੰਗਿ = ਦੇ ਪ੍ਰੇਮ ਵਿਚ। ਗਾਹਾ = ਗਾਵੋ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

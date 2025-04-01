@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇੱਕ ਜ਼ੱਰਾ ਵੀ ਉਸਦੀ ਰਹਿਮਤ ਅਤੇ ਬਖਸ਼ਿਸ਼ ਤੋਣ ਖਾਲੀ ਨਹੀਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਯੱਕ ਜ਼ੱਰਾ ਜ਼ਿ ਫ਼ੈਜ਼ਿ ਰਹਿਮਤਸ਼ ਖ਼ਾਲੀ ਨੀਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

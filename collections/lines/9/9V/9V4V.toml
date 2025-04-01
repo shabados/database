@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਹਰ ਵੇਲੇ ਉਹਨਾਂ ਦੇ ਨਾਲ ਵੱਸਦਾ ਹੈ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਮਖ ਨਿਮਖ = ਹਰ ਵੇਲੇ। ਨਿਮਖ = {निमेष} ਅੱਖ ਝਮਕਣ ਜਿਤਨਾ ਸਮਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਦਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਜੀਵ ਆਪਣੇ ਮਨ ਵਿਚ (ਮਾਇਆ ਦਾ) ਕੀਹ ਮਾਣ ਕਰ ਸਕਦਾ ਹੈ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕੀਤਾ = ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਜੀਵ। ਮਨਿ = ਮਨ ਵਿਚ। ਕਹਾ ਮਾਨੁ ਕਰੇ = ਕੀਹ ਮਾਣ ਕਰ ਸਕਦਾ ਹੈ?"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

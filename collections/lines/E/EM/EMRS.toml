@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਈਆਂ ਦੇ ਬੁਰਕੇ ਸਿਰ ਤੋਂ ਲੈ ਕੇ ਪੈਰਾਂ ਤਕ ਲੀਰ ਲੀਰ ਹੋ ਗਏ, ਤੇ ਕਈਆਂ ਦਾ (ਮਰ ਕੇ) ਮਸਾਣਾਂ ਵਿਚ ਜਾ ਵਾਸਾ ਹੋਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੇਰਣ = ਬੁਰਕੇ। ਸਿਰ ਖੁਰ = ਸਿਰ ਤੋਂ ਪੈਰਾਂ ਤਕ। ਮਸਾਣੀ = ਮਸਾਣਾਂ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

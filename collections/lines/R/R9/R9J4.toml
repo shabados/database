@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਸਾਰਾ ਜੀਵਨ ਵਿਅਰਥ ਜਾਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਝੂਠਾ = ਵਿਅਰਥ। ਆਵਣ ਜਾਣੁ = ਆਉਣਾ ਤੇ ਜਾਣਾ, (ਭਾਵ,) ਸਾਰਾ ਜੀਵਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

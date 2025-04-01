@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਲ ਵਿਚ, ਧਰਤੀ ਵਿਚ, (ਸਭ ਥਾਂ) ਹਰੀ ਆਪ ਹੀ ਵੱਸ ਰਿਹਾ ਹੈ, (ਸਭ ਜੀਵਾਂ ਵਿਚ) ਵਿਆਪਕ ਹੈ (ਕਿਸੇ ਜੀਵ ਤੋਂ ਉਹ ਹਰੀ) ਦੂਰ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਲਿ = ਜਲ ਵਿਚ। ਥਲਿ = ਧਰਤੀ ਵਿਚ। ਰਵਿ ਰਹਿਆ = ਰਮਿ ਰਹਿਆ, ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

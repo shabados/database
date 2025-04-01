@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਮੈਨੂੰ ਤੇਰੀ (ਸਹਾਇਤਾ ਦੀ) ਆਸ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ = ਹੇ ਗੁਰੂ! ਆਸਾਇਆ = ਆਸ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

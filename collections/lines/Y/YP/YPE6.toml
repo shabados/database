@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭੁੱਲੜ ਮੂਰਖ ਜਿੰਦੇ! ਤੂੰ ਪਰਮਾਤਮਾ ਨੂੰ ਕਿਉਂ ਦੋਸ ਦੇਂਦੀ ਹੈਂ?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿੰਦਸਿ ਕਾਇ = ਤੂੰ ਕਿਉਂ ਨਿੰਦਦੀ ਹੈਂ? ਭੂਲੀ ਗਵਾਰੀ = ਹੇ ਭੁੱਲੀ ਹੋਈ ਮੂਰਖ ਜੀਵ-ਇਸਤ੍ਰੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵੇਖ, ਤੂੰ ਹੁਣ) ਬੁੱਢਾ ਹੋ ਗਿਆ ਹੈਂ (ਪਰ ਤੈਨੂੰ ਅਜੇ ਭੀ ਇਹ) ਸਮਝ ਨਹੀਂ ਆ ਰਹੀ ਕਿ ਮੌਤ (ਸਿਰ ਤੇ) ਆ ਪਹੁੰਚੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਰਧਿ = ਬੁੱਢਾ। ਸੂਝੈ ਨਹੀ = ਸਮਝ ਨਹੀਂ ਪੈਂਦੀ। ਕਾਲੁ = ਮੌਤ। ਆਨਿ = ਆ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

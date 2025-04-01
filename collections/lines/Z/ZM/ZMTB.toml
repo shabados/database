@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਮੇਰਾ) ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ ਅਤੇ ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਏ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਨਸਿ ਜਾਇ = ਨਾਸ ਹੋ ਜਾਏ, ਮਿਟ ਜਾਏ, ਦੂਰ ਹੋ ਜਾਏ। ਅਹੰਮੇਵ = {Skt. अहं एव। ਮੈਂ ਹੀ (ਹਾਂ), ਇਹ ਖ਼ਿਆਲ ਕਿ ਮੈਂ ਹੀ (ਵੱਡਾ) ਹਾਂ} ਅਹੰਕਾਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

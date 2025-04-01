@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਗਤ ਦੇ ਇਹ ਸਾਰੇ ਜੀਆ-ਜੰਤ ਉਸ ਪ੍ਰਭੂ ਦੇ ਘਰ ਵਿਚ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਹਿ = ਹਨ। ਘਰੀ = ਘਰ ਵਿਚ। ਜਾਂ ਚੈ ਘਰੀ = ਜਾਂ ਚੈ ਘਰਿ, ਜਿਸ ਦੇ ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

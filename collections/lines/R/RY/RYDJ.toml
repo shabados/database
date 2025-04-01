@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮੁੜ ਮੁੜ (ਜਗਤ ਵਿਚ) ਜੰਮਦੇ ਹਨ, ਮਰਦੇ ਹਨ, ਜੰਮਦੇ ਹਨ ਮਰਦੇ ਹਨ ॥੨॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵਾਰੋ ਵਾਰਾ = ਮੁੜ ਮੁੜ ॥੨॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -5,6 +5,13 @@ language = "pa"
 data = "ਜਿਵੇਂ ਕਿ ਝਾੜਾਂ ਅਤੇ ਕੰਡਿਆਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਖੇਤ ਹੋਵੇ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਕਾਂ ਚੁਨਾਂ ਜ਼ਰਇ ਬਾਰ-ਵਰ ਦਾਨਦ ।੧੧।"
+page = 1
+line = 11
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

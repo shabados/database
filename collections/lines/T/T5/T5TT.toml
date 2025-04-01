@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਸਿਰ ਉੱਤੇ ਤੂੰ (ਹੱਥ ਰੱਖੇਂ) ਉਸ ਨੂੰ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਵਿਆਪਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸ ਕੇ = {ਲਫ਼ਜ਼ 'ਜਿਸ' ਦਾ (ੁ) ਸੰਬੰਧਕ 'ਕੇ' ਦੇ ਕਾਰਨ ਉਡ ਗਿਆ ਹੈ}। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

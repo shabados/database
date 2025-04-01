@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਜਿਸ ਜੀਵ ਦੇ) ਚਿੱਤ ਵਿਚ ਪ੍ਰਭੂ ਆ ਵੱਸਦਾ ਹੈ ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੁੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਰਾਚੈ = (ਜੋ) ਮਸਤ ਹੁੰਦਾ ਹੈ। ਨਾਇ = ਨਾਮ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

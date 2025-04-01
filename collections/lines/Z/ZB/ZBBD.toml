@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਆਪਣੇ) ਮਨ ਵਿਚ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਾਸਤੇ) ਪਿਆਰ ਦੀ ਲਗਨ ਪੈਦਾ ਕਰਨੀ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ। ਡੋਰਿ = ਡੋਰੀ, ਤਾਰ, ਲਗਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

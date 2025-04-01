@@ -5,6 +5,13 @@ language = "pa"
 data = "ਸਿਫਤ ਸ਼ਲਾਘਾ ਕਰਕੇ ਉਹ ਸਭ ਤੋਂ ਉਚੇਰਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿ ਵਸਫ਼ੋ ਸਨਾਇ ਹਮਾ ਬਰਤਰੀਂ ।"
+page = 3
+line = 65
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

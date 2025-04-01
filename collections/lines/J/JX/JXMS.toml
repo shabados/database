@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੁੜ ਮੁੜ ਸੁਆਸ ਸੁਆਸ ਹਰਿਨਾਮ ਸਿਮਰਦਿਆਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਰਿ......ਹਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

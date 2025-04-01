@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਸਭ ਕੁਝ ਇੱਕੋ ਵਾਰ ਤਿਆਗ ਦਿੰਦੇ ਹਨ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜਮਲਾ ਰਾ ਯੱਕ ਬਾਰੋਗੀ ਬਿਗੁਜ਼ਾਸ਼ਤੰਦ ।੩੮੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

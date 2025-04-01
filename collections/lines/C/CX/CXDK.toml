@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚੰਦ ਨੂੰ ਵੇਖ ਕੇ ਕੰਮੀਆਂ ਖਿੜਦੀਆਂ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਬਿਗਸਹਿ = ਖਿੜਦੀਆਂ ਹਨ। ਕਉਲਾਰ = ਕੰਮੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

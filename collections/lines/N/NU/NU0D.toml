@@ -5,6 +5,11 @@ language = "pa"
 data = "ਗ਼ਮ ਨੂੰ ਛਡ, ਰੱਬ ਦੀ ਯਾਦ ਕਰ ਅਤੇ ਸਦਾ ਸਲਾਮਤ ਰਹੋ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬਿਗੁਜ਼ਰ ਅਜ਼ ਗ਼ਮ ਯਾਦਿ ਹੱਕ ਕੁਨ ਵ-ਸਲਾਮ ।੬੪।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

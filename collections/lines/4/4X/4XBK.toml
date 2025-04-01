@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਜਿਸ ਭੀ ਮਨੁੱਖ ਉੱਤੇ ਪਿਆਰੇ ਪ੍ਰਭੂ ਨੇ ਮੇਹਰ ਕੀਤੀ ਉਸ ਦੇ ਸਾਰੇ ਕਲੇਸ਼ ਤੇ ਰੋਗ ਦੂਰ ਹੋ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਲੇਸ = ਮਾਨਸਕ ਦੁੱਖ। ਸਭਿ = ਸਾਰੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

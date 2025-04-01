@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਅਨੇਕਾਂ ਗੁਣ ਹਨ, ਮੈਨੂੰ ਕਿਸੇ ਇੱਕ ਦੀ ਭੀ ਪੂਰੀ ਸਮਝ ਨਹੀਂ ਹੈ, ਮੈਨੂੰ ਮੂਰਖ ਨੂੰ ਕੋਈ ਚੰਗੀ ਅਕਲ ਦੇਹ!"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਛੁ = ਕੋਈ ਚੰਗੀ ਅਕਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

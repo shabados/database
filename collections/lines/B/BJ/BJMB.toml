@@ -5,6 +5,11 @@ language = "pa"
 data = "ਐ ਹਵਾ # ਮੇਰੀ ਮਿੱਟੀ ਸੱਜਨ ਦੇ ਦਰਵਾਜ਼ੇ ਤੋਣ ਨ ਉੜਾਈਣ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਬਰ ਐ ਬਾਦ ਖ਼ਾਕਮ ਅਜ਼ ਦਰਿ ਦੂਸਤ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

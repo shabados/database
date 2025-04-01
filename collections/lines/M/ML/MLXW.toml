@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅੰਨ ਦੇ ਜਿਤਨੇ ਭੀ ਦਾਣੇ ਹਨ, ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਦਾਣਾ ਭੀ ਜੀਵ ਤੋਂ ਬਿਨਾ ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਆ ਬਾਝੁ = ਜੀਆਂ ਤੋਂ ਬਿਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

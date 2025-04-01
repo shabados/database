@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਮਰਨ ਵੇਲੇ ਚੋਰਾਂ ਵਾਂਗ ਕੱਸ ਕੇ ਬੱਧੇ ਜਾਂਦੇ ਹਨ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਸਿ = ਕੱਸ ਕੇ, ਘੁੱਟ ਕੇ। ਚੋਰ = ਚੋਰਾਂ ਵਾਂਗ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

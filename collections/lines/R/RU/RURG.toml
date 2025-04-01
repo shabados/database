@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਨਿਰੰਕਾਰ!) ਤੇਰੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਰਤਨ ਅਠਾਹਠ ਤੀਰਥਾਂ ਸਮੇਤ ਤੈਨੂੰ ਗਾ ਰਹੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਪਾਏ ਤੇਰੇ = ਤੇਰੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ। ਅਠ ਸਠਿ = ਅਠਾਹਠ। ਤੀਰਥ ਨਾਲੇ = ਤੀਰਥਾਂ ਸਮੇਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

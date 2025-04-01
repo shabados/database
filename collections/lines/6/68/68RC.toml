@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਖ਼ੁਸ਼ੀ ਛੱਡ ਕੇ) ਹੋਰ ਐਸ਼-ਇਸ਼ਰਤ ਦੀ ਖ਼ੁਸ਼ੀ ਖ਼ੁਆਰ ਕਰਦੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਉਣਾ = ਦੁਨਿਆਵੀ ਮੌਜਾਂ ਮਾਣਨੀਆਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

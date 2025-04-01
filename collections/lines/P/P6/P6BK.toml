@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਹ ਹਰ ਦਮ ਰੱਬ ਨਾਲ ਜੁੜਿਆ ਰਹਿੰਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਦਮੇ ਕੂ ਬਾ ਖ਼ੁਦਾ ਵਾਸਿਲ ਬਵਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

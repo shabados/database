@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਸ ਤਰ੍ਹਾਂ (ਮਨ ਵਿਚ) ਗਿਆਨ ਦਾ ਸੂਰਜ ਤਪਾਇਆ ਤਪਦਾ ਰਹੇ (ਭਾਵ, ਕਿਵੇਂ ਗਿਆਨ ਦਾ ਪ੍ਰਕਾਸ਼ ਸਦਾ ਬਣਿਆ ਰਹੇ)?"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੂਰਜੁ = ਗਿਆਨ ਦਾ ਸੂਰਜ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

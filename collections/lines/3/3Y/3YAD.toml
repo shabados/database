@@ -5,6 +5,13 @@ language = "pa"
 data = "ਉਨ੍ਹਾਂ ਸਭਨਾਂ ਦਾ ਮੂੰਹ ਮੇਰੇ ਧਿਆਨ ਵਲ ਭਵਾ ਦੇ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਰੂ ਨੁਮਾ ਜੁਮਲਾ ਰਾ ਸੂਇ ਫ਼ਿਕਰਮ ।"
+page = 1
+line = 46
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

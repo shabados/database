@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ (ਭਗਤ ਜਨਾਂ ਦੀ) ਜਿੰਦ ਦਾ, ਪ੍ਰਾਣਾਂ ਦਾ, ਮਨ ਦਾ, ਆਸਰਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਅ-ਜਿੰਦ ਦਾ {ਜੀਉ = ਜਿੰਦ}। ਮਨਹਿ = ਮਨ ਦਾ। ਅਧਾਰਾ = ਆਸਰਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

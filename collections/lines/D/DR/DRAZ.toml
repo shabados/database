@@ -36,6 +36,12 @@ language = "pa"
 data = "ਭੇਡਾਂ ਵਾਂਗ ਸਿਰ (ਦੇ ਵਾਲ) ਪੁਟਾਂਦੇ ਹਨ, (ਵਾਲ ਪੁੱਟਣ ਵਾਲਿਆਂ ਦੇ) ਹੱਥ ਸੁਆਹ ਨਾਲ ਭਰੇ ਜਾਂਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭਰਿਅਨਿ = ਭਰੇ ਜਾਂਦੇ ਹਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

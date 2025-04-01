@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ ਤੂੰ ਮੇਰੇ ਮਨ ਵਿਚ ਟਿਕਿਆ ਰਹੇਂ ਤਾਂ ਕੋਈ ਭੀ ਦੁੱਖ ਮੈਨੂੰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਿ = ਮਨ ਵਿਚ ॥੧॥ ਰਹਾਉ ॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

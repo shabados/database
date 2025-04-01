@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਕਦੇ ਉਸ ਨੂੰ ਭੁੰਞੇ (ਵਿਛਾਉਣ ਲਈ) ਪਰਾਲੀ ਭੀ ਨਹੀਂ ਮਿਲਦੀ ॥੩॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੈਆਰੁ = ਪਰਾਲੀ। ਨ ਪਾਵੈ = ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ ॥੩॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

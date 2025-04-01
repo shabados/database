@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਲੱਭ ਪੈਂਦੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਸਹਿ = ਜਿਸ ਮਨੁੱਖ ਨੂੰ। ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

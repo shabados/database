@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਨਾਹ ਕੋਈ ਮਾਂ, ਨਾਹ ਉਸ ਦੇ ਕੋਈ ਖ਼ਾਸ ਪੁੱਤਰ ਤੇ ਨਾਹ ਕੋਈ ਭਰਾ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤ = ਪੁੱਤਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

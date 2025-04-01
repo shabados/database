@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤਿਵੇਂ, ਹੇ ਨਾਨਕ! ਕਰਤਾਰ ਦੇ (ਇਹ ਸਾਰੇ ਜੀਆ ਜੰਤ) ਅਨੇਕਾਂ ਸਰੂਪ ਹਨ ॥੨॥੩੦॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਵੇਸ = ਰੂਪ। ਕੇਤੇ = ਅਨੇਕਾਂ ॥੨॥੩੦॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

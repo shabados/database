@@ -5,6 +5,11 @@ language = "pa"
 data = "ਉਨ੍ਹਾਣ ਦਾ ਜ਼ਿਕਰ ਹਰ ਬੋਲਦੀ ਜ਼ਬਾਨ ਉਪਰ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਜ਼ਿਕਰਿ ਊ ਬਰ ਹਰ ਜ਼ਬਾਨਿ ਗੋਯਾ ਸ਼ੁਦ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

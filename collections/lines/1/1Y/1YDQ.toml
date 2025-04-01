@@ -5,6 +5,11 @@ language = "pa"
 data = "ਇਹ ਸਾਰਾ ਜਹਾਨ ਤੇਰੀ ਜ਼ੁਲਫ਼ ਦਾ ਕੈਦੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਜੁਮਲਾਇ ਜਹਾਣ ਆਸੀਰਿ ਜ਼ੁਲਫ਼ਤ ਗਸ਼ਤਾ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਰੂ! ਤੇਰਾ ਦਰਸਨ ਕਰ ਕੇ ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਮਿਲ ਜਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਖਿ = ਵੇਖ ਕੇ। ਜੀਵਾ = ਜੀਵਾਂ, ਮੈਂ ਜੀਉ ਪੈਂਦਾ ਹਾਂ, ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਮਿਲ ਜਾਂਦਾ ਹੈ। ਗੁਰ = ਹੇ ਗੁਰੂ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

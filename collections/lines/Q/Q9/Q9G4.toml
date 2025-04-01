@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋਗੀ ਆਖਦੇ ਹਨ-ਹੇ ਭਾਈ! ਜੋਗ (ਦਾ ਮਾਰਗ ਹੀ) ਚੰਗਾ ਤੇ ਮਿੱਠਾ ਹੈ, (ਇਸ ਵਰਗਾ) ਹੋਰ ਕੋਈ (ਸਾਧਨ) ਨਹੀਂ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਹਹਿ = ਆਖਦੇ ਹਨ। ਭਲ = ਚੰਗਾ। ਅਵਰੁ = ਕੋਈ ਹੋਰ ਸਾਧਨ। ਭਾਈ = ਹੇ ਭਾਈ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

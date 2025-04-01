@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪੁੱਤਰ ਭਾਵੇਂ ਕਿਤਨੀਆਂ ਹੀ ਗ਼ਲਤੀਆਂ ਕਰੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੁਤੁ = ਪੁੱਤਰ। ਅਪਰਾਧ = ਭੁੱਲਾਂ, ਗ਼ਲਤੀਆਂ। ਜੇਤੇ = ਜਿਤਨੇ ਭੀ, ਭਾਵੇਂ ਕਿਤਨੇ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

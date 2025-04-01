@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਉਸ ਦੇ ਹੁਕਮ ਦੀ ਕਦਰ ਨਹੀਂ ਸਮਝਦੇ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਮੁਖ = ਮਨ ਦੇ ਮੁਰੀਦ ਮਨੁੱਖ। ਹੁਕਮ ਸਾਰਾ = ਹੁਕਮ ਦੀ ਸਾਰ, ਹੁਕਮ ਦੀ ਕਦਰ। ਨ ਜਾਣਹਿ = ਨਹੀਂ ਜਾਣਦੇ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

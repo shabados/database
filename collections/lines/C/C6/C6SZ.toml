@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮੇਰੇ ਸਰਬ-ਵਿਆਪਕ ਮਾਲਕ! ਕੋਈ ਜੀਵ ਤੇਰੀ ਤਾਕਤ ਦਾ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ ਰਉਣ = ਹੇ ਸਰਬ ਵਿਆਪਕ! ਜਗ"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

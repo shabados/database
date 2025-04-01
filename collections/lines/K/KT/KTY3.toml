@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਆਤਮਕ ਜੀਵਨ ਦੇ ਮਾਲਕ ਬਣ ਗਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੇ = ਉਹ ਬੰਦੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

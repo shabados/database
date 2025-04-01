@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਮਨ ਦੀ ਰਾਹੀਂ, ਬਚਨਾਂ ਦੀ ਰਾਹੀਂ, ਕਰਤੂਤਾਂ ਦੀ ਰਾਹੀਂ, ਚਸਕਿਆਂ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਚ = ਬਚਨ, ਗੱਲਾਂ। ਕ੍ਰਮ = ਕਰਮ, ਕਰਤੂਤ। ਰਸ ਕਸਹਿ = ਰਸਾਂ ਕਸਾਂ ਵਿਚ, ਸੁਆਦਾਂ ਵਿਚ, ਚਸਕਿਆਂ ਵਿਚ। ਲੁਭਾਨਾ = ਮਸਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

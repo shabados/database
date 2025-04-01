@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੋ (ਵਿਕਾਰਾਂ ਅਗੇ) ਨਾਹ ਨੀਊਂਦਾ ਹੈ, ਨਾਹ ਹੀ (ਉਹਨਾਂ ਨਾਲ) ਮੇਲ ਕਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਿਵੈ = ਨਿਵਦਾ ਹੈ, ਨੀਊਂਦਾ ਹੈ। ਨਾ ਫੁਨਿ = ਨਾਹ ਹੀ। ਸੰਚਰੈ = {ਸੰ: ਸੰ-ਚਰੈ = ਨਾਲ ਰਲ ਕੇ ਤੁਰਦਾ ਹੈ} ਮੇਲ ਕਰਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

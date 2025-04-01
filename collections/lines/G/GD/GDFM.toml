@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਨ ਲਈ ਉੱਦਮ ਆਦਿਕ) ਤਪ (ਜੀਵ ਦੀ ਕਰਣੀ-ਰੂਪ) ਕਾਗ਼ਜ਼ ਹੈ, ਤੇਰੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਉਸ ਕਾਗ਼ਜ਼ ਉਤੇ ਲਿਖੀ ਰਾਹਦਾਰੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਪੁ = ਉੱਦਮ ਆਦਿਕ। ਨੀਸਾਨੁ = ਪਰਵਾਨਾ, ਰਾਹਦਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

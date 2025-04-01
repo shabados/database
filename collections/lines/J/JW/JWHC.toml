@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਿੜੀ ਦੀ ਚੋਗ ਹੈ ਅੱਧਾ ਦਾਣਾ (ਭਾਵ, ਬਹੁਤ ਥੋੜ੍ਹੀ ਜਿਹੀ), (ਇਹ ਥੋੜ੍ਹੀ ਜਿਹੀ ਚੋਗ ਚੁਗ ਕੇ) ਉਹ ਆਕਾਸ਼ ਵਿਚ ਉੱਡਦੀ ਹੈ ਤੇ ਬੋਲਦੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਲ੍ਹ੍ਹਾ = ਗੁੱਲੀ। ਗੈਣਿ = ਆਕਾਸ਼ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

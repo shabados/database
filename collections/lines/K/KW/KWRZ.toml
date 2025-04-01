@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੇ ਜੀਵ ਸਭ ਕੁਝ ਦੇ ਸਕਣ ਵਾਲੇ ਪ੍ਰਭੂ (ਦੇ ਦਰ) ਦੇ (ਹੀ) ਮੰਗਤੇ ਹਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ। ਜਾਚਿਕ = ਮੰਗਤੇ {ਬਹੁ-ਵਚਨ}। ਦੇਵਨਹਾਰ = ਸਭ ਕੁਝ ਦੇ ਸਕਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

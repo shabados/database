@@ -5,6 +5,13 @@ language = "pa"
 data = "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਨਿਆਮਤਾਂ ਦੇਣ ਵਾਲਿਆਂ ਨੂੰ ਵੀ ਨਿਆਮਤਾਂ ਬਖਸ਼ਦਾ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਨਾਇਮੁਲ-ਮੁਨਆਮ ਗੁਰ ਗੋਬਿੰਦ ਸਿੰਘ ।"
+page = 10
+line = 128
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

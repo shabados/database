@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਾਗ਼ਜ਼ਾਂ ਉਤੇ (ਲਿਖ ਕੇ) ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਾਗਦ = ਕਾਗ਼ਜ਼ਾਂ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

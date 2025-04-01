@@ -36,6 +36,12 @@ language = "pa"
 data = "ਆਪਣੇ ਪਰਮਾਤਮਾ ਦੇ ਕੋਲ ਹੀ ਅਰਜ਼ੋਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਹਿ = ਪਾਸ, ਕੋਲ। ਕਹੀਐ = ਕਹਣੀ ਚਾਹੀਦੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

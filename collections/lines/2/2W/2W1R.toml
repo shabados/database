@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਉਹੀ ਮਨੁੱਖ ਸੂਰਮਾ ਮਰਦ (ਸਾਬਤ ਹੁੰਦਾ) ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਦਾਨਾ = ਸੂਰਮਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

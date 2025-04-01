@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਸੋਹਣੇ) ਕੱਪੜੇ, ਗਹਣੇ, ਉਚੇਚੇ ਅਨੇਕਾਂ ਸੁਖ-"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਭੂਖਨ = ਗਹਣੇ। ਬਿਸੇਖੈ = ਉਚੇਚੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

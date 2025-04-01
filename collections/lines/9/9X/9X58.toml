@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਦਾ ਹੀ ਸਿਮਰਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ। (ਹੇ ਭਾਈ!) ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਉਸ ਦੀ ਯਾਦ ਟਿਕਾ ਰੱਖ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਉਰ ਧਾਰਿ = ਹਿਰਦੇ ਵਿਚ ਟਿਕਾ ਕੇ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

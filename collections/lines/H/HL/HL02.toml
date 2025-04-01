@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪ੍ਰਭੂ ਦੀ ਬਖ਼ਸ਼ੀ ਹੋਈ ਇਹ ਜਿੰਦ-ਜਾਨ ਹੈ, ਉਸ ਨੂੰ ਕਦੇ ਮਨ ਤੋਂ ਭੁਲਾਣਾ ਨਹੀਂ ਚਾਹੀਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਨਹੁ = ਮਨ ਤੋਂ। ਜੀਅ = ਜਿੰਦ। ਪਰਾਣ = ਸਾਹ। ਜੀਅ ਪਰਾਣ = ਜਿੰਦ-ਜਾਨ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

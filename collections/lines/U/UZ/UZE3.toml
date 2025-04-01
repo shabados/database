@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਿਤੇ ਹਾਥੀ ਘੋੜਿਆਂ (ਸੁੰਦਰ) ਕੱਪੜਿਆਂ (ਦੀ ਲਗਨ ਹੈ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹਸਤਿ = ਹਾਥੀ। ਬਸਤਾ = ਬਸਤ੍ਰ, ਕੱਪੜੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

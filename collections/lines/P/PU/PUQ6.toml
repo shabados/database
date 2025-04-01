@@ -5,6 +5,11 @@ language = "pa"
 data = "ਨਹੀਣ ਤਾਣ ਵੈਰੀ ਭੰਡੀ ਕਰੇਗਾ, ਕਿ ਇਹ ਤਾਣ ਹਰ ਥਾਈਣ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਦੁਸ਼ਮਨਮ ਸਰਜ਼ਨਸ਼ ਕੁਨਦ ਕਿ ਹਰ ਜਾਈਸਤ ।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

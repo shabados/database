@@ -5,6 +5,13 @@ language = "pa"
 data = "ਤੂੰ ਹੀ ਸਭ ਦਾ ਰਾਹ ਵਿਖਾਊ ਅਤੇ ਹਾਦੀ ਹੈਂ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਾਦੀ ਓ ਰਹਿਨੁਮਾਈ ਜੁਮਲਾ ਤੂਈ ।"
+page = 1
+line = 53
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

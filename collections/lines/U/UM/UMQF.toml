@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹਰ ਛਿਨ ਤੇ ਹਰ ਪਲ ਗੋਯਾ ਸਾਡਾ ਹੁਸ਼ਿਆਰ ਦਿਲ"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਹਰ ਨਫਸ ਗੋਯਾ ਬ-ਯਾਦ ਨਰਗਸਿ ਮਖ਼ਮੂਰਿ ਊ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

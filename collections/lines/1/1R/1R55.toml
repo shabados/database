@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਤੇਰੇ ਦਰਸਨ ਲਈ ਉਤਾਵਲੀ ਹੋਈ ਸਾਰੇ ਥਾਂ ਵੇਖਦੀ ਫਿਰਦੀ ਹਾਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੈਰਾਗਨਿ = ਉਤਾਵਲੀ, ਵਿਆਕੁਲ, ਵੈਰਾਗ ਵਿਚ ਆਈ ਹੋਈ। ਪੇਖਉ = ਪੇਖਉਂ, ਮੈਂ ਵੇਖਦੀ ਹਾਂ। ਸਬਾਏ = ਸਾਰੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

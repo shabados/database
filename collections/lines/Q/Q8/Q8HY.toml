@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ, ਹੇ ਬ੍ਰਾਹਮਣ! (ਇਹ ਚੇਤਾ ਰੱਖ) ਜਿਸ ਪ੍ਰਭੂ-ਦਰ ਤੇ (ਆਖ਼ਿਰ) ਤੂੰ ਪਹੁੰਚਣਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਿਤੁ ਦਰਿ = ਜਿਸ (ਪ੍ਰਭੂ-) ਦਰ ਤੇ। ਬ੍ਰਾਹਮਣ = ਹੇ ਬ੍ਰਾਹਮਣ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਗਿਣਤੀ ਦਾ ਕੀਹ ਲਾਭ? ਅਣਗਿਣਤ ਹੀ ਜੀਵ (ਖਿਮਾ-ਵਿਹੂਣੇ ਹੋ ਕੇ) ਖ਼ੁਆਰ ਹੋਏ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਕਿਉ ਗਣੀ = ਗਿਣਨ ਦਾ ਕੀਹ ਲਾਭ? ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ। ਬਿਸੰਖ = ਅਣਗਿਣਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

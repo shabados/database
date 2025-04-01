@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮੈਂ ਜਿਸ ਭੀ ਪਾਸੇ ਵੇਖਦਾ ਹਾਂ, ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ ਪਰਮਾਤਮਾ ਹੀ (ਵੱਸ ਰਿਹਾ ਹੈ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਤ ਕਤ = ਜਿੱਥੇ ਕਿੱਥੇ, ਜਿਸ ਭੀ ਪਾਸੇ। ਪੇਖਉ = ਪੇਖਉਂ, ਮੈਂ ਵੇਖਦਾ ਹਾਂ। ਸੁਖ ਸਾਗਰ = ਸੁਖਾਂ ਦਾ ਸਮੁੰਦਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

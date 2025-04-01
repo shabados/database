@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਾਰੀਆਂ ਸਿਮ੍ਰਿਤੀਆਂ ਧਿਆਨ ਨਾਲ ਸੁਣੇ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸ੍ਰਵਨੀ = ਕੰਨਾਂ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

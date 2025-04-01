@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਮਾਲਕ! ਤੂੰ ਹੀ ਕਿਰਪਾ ਕਰ! (ਤਾ ਕਿ ਇਹ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਲੱਗ ਕੇ ਸੁਧਰ ਜਾਏ) ਕੋਈ ਹੋਰ ਇਸ ਨੂੰ ਸੁਚੱਜੇ ਪਾਸੇ ਲਾਣ ਜੋਗਾ ਹੀ ਨਹੀਂ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਨਵਾਰੀ = ਹੇ ਜਗਤ-ਵਾੜੀ ਦੇ ਮਾਲਕ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

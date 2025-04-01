@@ -5,6 +5,11 @@ language = "pa"
 data = "ਜੇਕਰ ਰਾਹ ਭੁੱਲੇ ਨੂੰ ਰਾਹ ਵਿਖਾ ਦੇਵੇਂ ਤਾਂ ਕੀ ਹਰਜ ਹੈ #"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਗਰ ਗੁਮ-ਸ਼ੁਦਾਰਾ ਰਹਿਨਮਾਈ ਚਿ ਸ਼ਵਦ ।੨੫।੭।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

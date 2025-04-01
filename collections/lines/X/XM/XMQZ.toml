@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੋਈ ਬ੍ਰਾਹਮਣ ਹੋਵੇ, ਖੱਤ੍ਰੀ ਹੋਵੇ, ਡੂਮ ਚੰਡਾਲ ਜਾਂ ਮਲੀਨ ਮਨ ਵਾਲਾ ਹੋਵੇ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਡੋਮ = ਡੂਮ, ਮਿਰਾਸੀ। ਮਲੇਛ ਮਨ = ਮਲੀਨ ਮਨ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

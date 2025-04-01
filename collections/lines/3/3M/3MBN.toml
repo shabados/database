@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਅਸਾਂ ਇਕ ਸੋਚ ਸੋਚੀ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬੁਧਿ = ਅਕਲ, ਸੋਚ। ਬੀਚਾਰੀ = ਵਿਚਾਰੀ ਹੈ, ਸੋਚੀ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਹ ਨਾਮ ਹੀ ਚਿਤਾਰਦਾ ਹੈ, ਨਾਮ ਹੀ ਪੜ੍ਹਦਾ ਹੈ ਤੇ ਨਾਮ ਵਿਚ ਹੀ ਬ੍ਰਿਤੀ ਜੋੜੀ ਰੱਖਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਮੋ = ਨਾਮ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

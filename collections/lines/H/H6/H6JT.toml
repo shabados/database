@@ -5,6 +5,11 @@ language = "pa"
 data = "ਮੈਣ ਪ੍ਰੀਤ ਦਾ ਬੰਦਾ ਹਾਣ, ਰੱਬ ਨੂੰ ਨਹੀਣ ਸਿਆਣਦਾ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਮਾ ਬੰਦਾਇ ਇਸ਼ਕੇਮ ਖ਼ੁਦਾ ਰਾ ਨਾ-ਸ਼ਨਾਸੇਮ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

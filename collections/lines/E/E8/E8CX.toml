@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! (ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਬਾਰੇ) ਇਹ ਭੇਤ ਦੀ ਗੱਲ (ਨਾਨਕ ਨੇ) ਗੁਰੂ ਪਾਸੋਂ ਸਮਝੀ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਹਜ = ਗੂਝ, ਲੁਕੀ ਹੋਈ। ਤੇ = ਤੋਂ, ਪਾਸੋਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

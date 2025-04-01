@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਇਸ ਮਨੁੱਖਾ ਸਰੀਰ ਵਿਚ ਨਾਮ-ਰਤਨ ਦੀ ਪਰਖ ਕਰਨ ਵਾਲਾ ਪ੍ਰਭੂ ਆਪ ਹੀ ਵੱਸਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਪ੍ਰਭੂ ਆਪ ਹੀ। ਤੋਲਣਹਾਰ = ਨਾਮ-ਰਤਨ ਦੀ ਪਰਖ ਕਰਨ ਵਾਲਾ। ਤੋਲਿ = ਨਾਮ-ਰਤਨ ਨੂੰ ਪਰਖ ਕੇ। ਤੁਲਾਵੈ = ਪਰਖਣ ਦੀ ਜਾਚ ਸਿਖਾਂਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

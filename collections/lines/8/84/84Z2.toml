@@ -36,6 +36,12 @@ language = "pa"
 data = "ਕੌਡੀ ਕੌਡੀ ਕਮਾਣ ਦੀ ਖ਼ਾਤਰ ਆਪਣੇ ਸਿਰ ਉਤੇ (ਦਗ਼ੇ-ਫ਼ਰੇਬ ਦੇ ਕਾਰਨ ਬਦਨਾਮੀ ਦੀ) ਸੁਆਹ ਪਾਂਦਾ ਫਿਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਿਰਿ = ਸਿਰ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

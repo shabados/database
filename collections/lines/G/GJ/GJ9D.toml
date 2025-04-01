@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ, (ਉਸ ਦੇ ਦਰ ਤੋਂ) ਸਾਰੇ ਸੁਖ (ਮਿਲ ਜਾਂਦੇ ਹਨ),"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਚਿਤਿ = ਚਿੱਤ ਵਿਚ। ਜਿ = ਜੋ ਕੁਝ। ਚਿਤਵਿਆ = ਸੋਚਿਆ, ਧਾਰਿਆ, ਮੰਗਿਆ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

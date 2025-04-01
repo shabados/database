@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਓ) ਅਸੀਂ ਭੀ ਉਸ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੀਏ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਗੁਣੀ ਨਿਧਾਨੁ = ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਨੂੰ। ਗਾਵੀਐ = ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੀਏ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

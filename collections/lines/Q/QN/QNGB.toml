@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰ (ਪਵਿੱਤਰ ਜੀਵਨ ਵਾਲੇ ਰਸਤੇ ਉਤੇ) ਕਦੇ ਭੀ ਸਿੱਧਾ ਪੈਰ ਨਹੀਂ ਧਰਦਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘਾਲੈ = ਘੱਲਦਾ, ਧਰਦਾ। ਸੀਧਾ ਪਾਉ = ਸਿੱਧਾ ਪੈਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

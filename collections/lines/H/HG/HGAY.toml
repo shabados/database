@@ -5,6 +5,11 @@ language = "pa"
 data = "ਬੰਦਾ ਬੰਦਗੀ ਲਈ ਹੀ ਪੈਦਾ ਹੋਇਆ ਹੈ,"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਬੰਦਾ ਪੈਦਾ ਸ਼ੁਦ ਬਰਾਏ ਬੰਦਗੀ ।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

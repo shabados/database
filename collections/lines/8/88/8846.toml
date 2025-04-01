@@ -36,6 +36,12 @@ language = "pa"
 data = "ਸਤਿਗੁਰੂ ਸਮੁੰਦਰ ਹੈ, ਉਸ ਵਿਚ (ਗੋਪਾਲ ਦੇ ਗੁਣਾਂ ਦੇ) ਰਤਨਾਂ ਦੀ ਕਮੀ ਨਹੀਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਰਤਨੀ = ਰਤਨਾਂ ਦੀ। ਤੋਟ = ਕਮੀ, ਘਾਟਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

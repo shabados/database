@@ -5,6 +5,11 @@ language = "pa"
 data = "ਸ਼ਮ੍ਹਾ ਦੀ ਮੋਤੀ ਵਸਾਉਣ ਵਾਲੀ ਅੱਖ ਅੱਥਰੂ ਕੇਰ ਰਹੀ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਅਸ਼ਕਿ ਰੇਜ਼ਿ ਚਸ਼ਮਿ ਗੌਹਰ-ਬਾਰਿ ਸ਼ਮਆ ।੪੬।੧।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

@@ -5,6 +5,11 @@ language = "pa"
 data = "ਹੇ ਮੌਲਵੀ # ਇਹ ਸਭ ਉਨ੍ਹਾਣ ਦੀ ਹੀ ਤਾਰੀਫ਼ ਹੈ ।"
 
 [[content]]
+asset = "GSNL"
+type = "primary"
+data = "ਈਣ ਹਮਾ ਤਾਰੀਫ਼ਿ ਸ਼ਾਣ ਐ ਮੌਲਵੀਸਤ ।੧੫੨।"
+
+[[content]]
 asset = "KEGP"
 type = "translation"
 language = "en"

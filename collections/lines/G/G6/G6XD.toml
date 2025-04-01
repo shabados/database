@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਸਖੀ! ਪਿਆਰੇ ਦਾ ਸਨੇਹਾ ਸੁਣਦਿਆਂ ਮੈਂ ਹਿਰਦੇ-ਘਰ ਵਿਚ ਸੇਜ ਵਿਛਾ ਦਿੱਤੀ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਦੇਸਰੋ ਪ੍ਰਿਅ = ਪਿਆਰੇ ਦਾ ਸਨੇਹਾ। ਗ੍ਰਿਹਿ = ਹਿਰਦੇ-ਘਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

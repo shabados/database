@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਨਾਮ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ। (ਤੇਰੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ) ਮੈਂ ਮੱਤ-ਹੀਨ ਰਹਿੰਦਾ ਹਾਂ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਾਬਾ = ਹੇ ਪ੍ਰਭੂ! ਹਾ = ਮੈਂ ਹਾਂ। ਨਾਵੈ = (ਤੇਰੇ) ਨਾਮ ਤੋਂ। ਜਾਉ = ਮੈਂ ਜਾਂਦਾ ਹਾਂ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

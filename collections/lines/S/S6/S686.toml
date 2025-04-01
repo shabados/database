@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਜੀਵਾਂ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਤੋਂ) ਵਿਛੋੜਦਾ ਹੈ, ਆਪ ਹੀ ਮਿਲਾਂਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬਿਛੋਰੈ = ਵਿਛੋੜਦਾ ਹੈ। ਆਪੇ = ਆਪ ਹੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

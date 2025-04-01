@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਹਿਰਦੇ ਵਿਚੋਂ ਆਪਾ-ਭਾਵ ਦੂਰ ਹੋ ਗਿਆ, ਉਥੋਂ ਹੋਰ ਸਭ ਡਰ-ਸਹਿਮ ਭੱਜ ਗਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜਹ = ਜਿਸ ਹਿਰਦੇ ਵਿਚੋਂ। ਆਪੁ = ਆਪਾ-ਭਾਵ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

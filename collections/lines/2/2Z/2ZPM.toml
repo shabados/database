@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਸ ਮਾਲਕ-ਪ੍ਰਭੂ (ਦੇ ਨਾਮ) ਨੂੰ ਸਦਾ ਹੀ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ ਜੋ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈ ਜੋ ਸਦਾ ਆਨੰਦ ਦਾ ਸੋਮਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਅਨੰਦੀ = ਅਨੰਦ ਦਾ ਸੋਮਾ। ਗੁਨ ਨਿਧਾਨ = ਗੁਣਾਂ ਦਾ ਖਜ਼ਾਨਾ। ਜਾਪੀਐ = ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

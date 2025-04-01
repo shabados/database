@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ) ਨਾਮ ਸੁਣ ਕੇ ਮੇਰੇ ਅੰਦਰ ਆਤਮਕ ਜੀਵਨ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਜੀਵਉ = ਜੀਵਉਂ, ਮੈਂ ਜੀਊ ਪੈਂਦਾ ਹਾਂ, ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਮਿਲ ਜਾਂਦਾ ਹੈ। ਸੁਨੀ = ਸੁਨਿ, ਸੁਣ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

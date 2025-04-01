@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਸਿਰਫ਼ ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ, ਕਿਸੇ ਹੋਰ ਦਾ ਪਿਆਰ (ਆਪਣੇ ਮਨ ਵਿਚ) ਨਾਹ ਲਿਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੂਜਾ ਭਾਉ = ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਦਾ ਪਿਆਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

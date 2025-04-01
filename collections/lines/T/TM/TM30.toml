@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜੇ (ਜਗਤ ਦੇ) ਸਾਰੇ ਹੀ ਜੀਵ ਰਲ ਕੇ (ਪ੍ਰਭੂ ਦੀ ਵਡਿਆਈ) ਬਿਆਨ ਕਰਨ ਦਾ ਜਤਨ ਕਰਨ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਭਿ = ਸਾਰੇ ਜੀਵ। ਆਪਣਿ ਪਾਹਿ = ਆਖਣ ਦਾ ਜਤਨ ਕਰਨ {'ਆਖਣਿ ਪਾਇ' ਇਕ-ਵਚਨ ਹੈ 'ਜੇ ਕੋ ਖਾਇਕੁ ਆਖਣਿ ਪਾਇ'}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

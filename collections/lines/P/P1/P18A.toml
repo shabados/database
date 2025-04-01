@@ -36,6 +36,12 @@ language = "pa"
 data = "ਦੇਸੋਂ ਪਰਦੇਸੋਂ ਧਨ ਠੱਗ ਕੇ ਲਿਆ ਕੇ ਉਹਨਾਂ ਨੂੰ ਖੁਆਂਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਦੇਸਿ = ਆਪਣੇ ਦੇਸ ਵਿਚੋਂ। ਪਰਦੇਸਿ = ਹੋਰ ਦੇਸ ਵਿਚੋਂ। ਆਣਿ = ਲਿਆ ਕੇ। ਮੁਹਿ = ਮੂੰਹ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਜਪੋ ਜੋ ਪਾਣੀ ਵਿਚ, ਧਰਤੀ ਉੱਤੇ (ਹਰ ਥਾਂ) ਮੌਜੂਦ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪੂਰਨੁ = ਵਿਆਪਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

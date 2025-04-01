@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ!) ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ ਉਹ ਪਰਮਾਤਮਾ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸੋਈ = ਉਹ (ਪਰਮਾਤਮਾ) ਹੀ। ਸਤਿ = ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

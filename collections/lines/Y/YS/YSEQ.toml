@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਹੀ (ਫਿਰ ਜੀਵ ਨੂੰ) ਬੜਾ ਫ਼ਿਕਰ ਆ ਵਾਪਰਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਾ ਕਾਰਣਿ = ਉਸ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ। ਬਿਆਪੈ = ਵਾਪਰਦਾ ਹੈ, ਆਪਣਾ ਪ੍ਰਭਾਵ ਆ ਪਾਂਦਾ ਹੈ। ਸੋਗੁ = ਗ਼ਮ, ਫ਼ਿਕਰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

@@ -36,6 +36,12 @@ language = "pa"
 data = "ਤੇ ਮੈਂ ਮੰਦਰ ਵਿਚ ਪੂਜਾ ਕਰਨ ਲਈ ਤੁਰ ਪਈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਬ੍ਰਹਮ ਠਾਇ = ਠਾਕੁਰ ਦੁਆਰੇ, ਮੰਦਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

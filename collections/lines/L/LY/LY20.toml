@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਵ ਤੇਰਾ ਹੀ ਆਰਾਧਨ ਕਰਦੇ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਗਲ = ਸਾਰੇ ਜੀਵ। ਅਰਾਧਹਿ = ਅਰਾਧਦੇ ਹਨ, ਯਾਦ ਕਰਦੇ ਹਨ। ਗੁਣਤਾਸ = ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

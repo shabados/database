@@ -36,6 +36,12 @@ language = "pa"
 data = "ਉਸ ਨੇ, ਹੇ ਨਾਨਕ! ਸਾਰੇ ਸੁਖ ਪਾ ਲਏ ਹਨ ॥੬॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਹ = ਉਸ ਨੇ ॥੬॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

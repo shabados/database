@@ -36,6 +36,12 @@ language = "pa"
 data = "ਅਤੇ ਜੇਹੜਾ ਭਿਆਨਕ ਗਰਭ ਵਿਚ ਰੱਖਿਆ ਕਰਨ ਜੋਗਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਘੋਰ = ਭਿਆਨਕ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

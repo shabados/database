@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਹੇ ਭਾਈ! ਮੈਂ ਤੈਨੂੰ) ਗੁਰੂ ਦੀ ਸਦਾ ਅਟੱਲ ਰਹਿਣ ਵਾਲੀ ਸਿੱਖਿਆ ਸੁਣਾਈ ਹੈ (ਕਿ)"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਸਿਖ = ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ। ਸਾਚੀ = ਅਟੱਲ, ਕਦੇ ਉਕਾਈ ਨਾਹ ਖਾਣ ਵਾਲੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

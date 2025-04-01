@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਨਾਨਕ! (ਆਖ-) ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਗੁਰੂ ਦਇਆਵਾਨ ਹੋ ਜਾਂਦਾ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਹੇ ਨਾਨਕ! ਜਾ ਕਉ = ਜਿਸ ਮਨੁੱਖ ਉਤੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

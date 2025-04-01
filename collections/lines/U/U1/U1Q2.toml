@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਵੇਂ ਵਿਧਵਾ ਆਪਣਾ ਸਰੀਰ ਪਰਾਏ ਮਨੁੱਖ ਦੇ ਹਵਾਲੇ ਕਰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਰ ਕਉ = ਪਰਾਏ (ਮਨੁੱਖ) ਨੂੰ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

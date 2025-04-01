@@ -36,6 +36,12 @@ language = "pa"
 data = "ਇਸ ਨੂੰ (ਮੂੰਹ) ਸੋਹਣਾ ਦਰਵਾਜ਼ਾ ਲੱਗਾ ਹੋਇਆ ਹੈ।  ਕਰਮ ਇੰਦ੍ਰੇ ਤੇ ਗਿਆਨ ਇੰਦ੍ਰੇ ਉਸ ਦੇ ਦਰਬਾਰੀ ਹਨ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨੇਬ = ਨਾਇਬ। ਖਵਾਸ = ਦਰਬਾਰੀ, ਮੁਸਾਹਿਬ। ਭਲਾ = ਚੰਗਾ, ਸੋਹਣਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

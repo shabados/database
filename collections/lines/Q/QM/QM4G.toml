@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਭਾਈ! ਮਨੁੱਖ ਨੇ (ਸਾਰੀ ਉਮਰ ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਨੂੰ) ਮਿੱਠੇ ਮੰਨ ਕੇ ਖਾਧਾ, ਉਸ ਮਿੱਠੇ ਨੇ (ਉਸ ਦੇ) ਸਰੀਰ ਵਿਚ ਰੋਗ ਪੈਦਾ ਕਰ ਦਿੱਤਾ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤਿਨਿ = ਉਸ (ਮਿੱਠੇ) ਨੇ। ਤਨਿ = ਸਰੀਰ ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"
