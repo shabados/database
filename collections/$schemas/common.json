@@ -14,9 +14,11 @@
     "ScriptField": {
       "description": "Script field represented by ISO 15924 script code key-values",
       "type": "object",
-      "propertyNames": { "$ref": "#/$defs/ScriptCode" },
-      "patternProperties": {
-        ".*": { "type": "string" }
+      "additionalProperties": false,
+      "properties": {
+        "Latn": { "type": "string" },
+        "Guru": { "type": "string" },
+        "Aran": { "type": "string" }
       }
     },
     "LanguageCode": {
@@ -27,10 +29,25 @@
     "LanguageField": {
       "description": "Language field represented by ISO 639 language code key-values",
       "type": "object",
-      "propertyNames": { "$ref": "#/$defs/LanguageCode" },
-      "patternProperties": {
-        ".*": { "type": "string" }
+      "additionalProperties": false,
+      "properties": {
+        "en": { "type": "string" },
+        "pa": { "type": "string" },
+        "ar": { "type": "string" },
+        "es": { "type": "string" },
+        "fr": { "type": "string" },
+        "de": { "type": "string" },
+        "it": { "type": "string" },
+        "ru": { "type": "string" }
       }
     }
+  },
+  "type": "object",
+  "properties": {
+    "Identifier": { "$ref": "#/$defs/Identifier" },
+    "ScriptCode": { "$ref": "#/$defs/ScriptCode" },
+    "ScriptField": { "$ref": "#/$defs/ScriptField" },
+    "LanguageCode": { "$ref": "#/$defs/LanguageCode" },
+    "LanguageField": { "$ref": "#/$defs/LanguageField" }
   }
 }

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "object",
-  "required": ["name", "description"],
+  "required": ["name", "description", "lineGroups"],
   "properties": {
     "name": {
       "$ref": "common.json#/$defs/ScriptField",

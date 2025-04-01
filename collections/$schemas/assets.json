@@ -77,7 +77,7 @@
   "required": ["name", "reference"],
   "additionalProperties": false,
   "properties": {
-    "name": { "$ref": "./common.json#/$defs/LanguageField" },
+    "name": { "$ref": "common.json#/$defs/LanguageField" },
     "reference": { "$ref": "#/$defs/Reference" }
   }
 }

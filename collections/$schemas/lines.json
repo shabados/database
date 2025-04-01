@@ -8,66 +8,55 @@
       "type": "object",
       "required": ["asset", "type", "data"],
       "properties": {
-        "asset": { "$ref": "common.json#/$defs/Identifier" },
         "type": { "type": "string" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
         "data": { "type": "string" }
       }
     },
     "primaryContent": {
       "type": "object",
-      "allOf": [
-        { "$ref": "#/$defs/baseContent" },
-        {
-          "properties": {
-            "type": { "const": "primary" },
-            "page": { "type": "integer" },
-            "line": { "type": "integer" }
-          }
-        }
-      ],
-      "unevaluatedProperties": false
+      "required": ["type", "asset", "data"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "const": "primary" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
+        "data": { "type": "string" },
+        "page": { "type": "integer" },
+        "line": { "type": "integer" }
+      }
     },
     "translationContent": {
       "type": "object",
-      "allOf": [
-        { "$ref": "#/$defs/baseContent" },
-        {
-          "properties": {
-            "type": { "const": "translation" },
-            "language": { "$ref": "common.json#/$defs/LanguageCode" }
-          },
-          "required": ["language"]
-        }
-      ],
-      "unevaluatedProperties": false
+      "required": ["type", "language", "asset", "data"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "const": "translation" },
+        "language": { "$ref": "common.json#/$defs/LanguageCode" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
+        "data": { "type": "string" }
+      }
     },
     "noteContent": {
       "type": "object",
-      "allOf": [
-        { "$ref": "#/$defs/baseContent" },
-        {
-          "properties": {
-            "type": { "const": "note" },
-            "language": { "$ref": "common.json#/$defs/LanguageCode" }
-          },
-          "required": ["language"]
-        }
-      ],
-      "unevaluatedProperties": false
+      "required": ["type", "language", "asset", "data"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "const": "note" },
+        "language": { "$ref": "common.json#/$defs/LanguageCode" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
+        "data": { "type": "string" }
+      }
     },
     "pronunciationContent": {
       "type": "object",
-      "allOf": [
-        { "$ref": "#/$defs/baseContent" },
-        {
-          "properties": {
-            "type": { "const": "pronunciation" },
-            "language": { "$ref": "common.json#/$defs/LanguageCode" }
-          },
-          "required": ["language"]
-        }
-      ],
-      "unevaluatedProperties": false
+      "required": ["type", "language", "asset", "data"],
+      "additionalProperties": false,
+      "properties": {
+        "type": { "const": "pronunciation" },
+        "language": { "$ref": "common.json#/$defs/LanguageCode" },
+        "asset": { "$ref": "common.json#/$defs/Identifier" },
+        "data": { "type": "string" }
+      }
     }
   },
   "properties": {
