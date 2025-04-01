@@ -37,6 +37,7 @@
     "format": "biome check --write .",
     "pretypes": "bun run collections:generate-types",
     "types": "tsc --noEmit",
+    "test": "bun test",
     "collections:preview": "redocly preview-docs 'collections/$schemas/_preview.yml'",
     "collections:validate": "bun scripts/validate-collections.ts",
     "collections:generate-types": "json2ts --cwd 'collections/$schemas' -i 'collections/$schemas/*.json' -o 'collections/$schemas/.types'",
@@ -47,11 +48,13 @@
   "dependencies": {
     "drizzle-orm": "^1.0.0-beta.1-8aabc28"
   },
+  "peerDependencies": {
+    "@libsql/client": "^0.15.1"
+  },
   "devDependencies": {
     "@biomejs/biome": "^2.0.0-beta.1",
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
-    "@libsql/client": "^0.15.1",
     "@types/bun": "^1.2.8",
     "ajv": "^8.17.1",
     "consola": "^3.4.2",
