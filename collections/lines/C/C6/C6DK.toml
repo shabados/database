@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਸ ਦੀ ਮੇਹਰ ਨਾਲ ਹੀ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਪਾਨ ਮੈਂ ਮੂੰਹ ਨਾਲ ਖਾਧਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਤੰਬੋਲੁ = ਪਾਨ। ਮੁਖਿ = ਮੂੰਹ ਨਾਲ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

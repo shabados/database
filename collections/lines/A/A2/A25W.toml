@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਉਹ ਬ੍ਰਾਹਮਣ) ਸਤਿਗੁਰੂ ਦੇ ਕਹੇ ਤੇ ਤੁਰਦਾ ਹੈ 'ਸੱਚ' ਰੂਪ ਸੰਜਮ ਰੱਖਦਾ ਹੈ, (ਤੇ ਇਸ ਤਰ੍ਹਾਂ) ਉਸ ਦਾ ਹਉਮੈ-ਰੋਗ ਦੂਰ ਹੁੰਦਾ ਹੈ;"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਸਤਿਗੁਰ ਪੁਛੈ = ਸਤਿਗੁਰੂ ਨੂੰ ਪੁੱਛੇ। ਸੰਜਮੁ = ਬੰਦਸ਼, ਪਾਬੰਦੀ, ਮਰਯਾਦਾ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

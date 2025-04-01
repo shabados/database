@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿਸ ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਦੇ ਖ਼ਾਤਰ (ਮਾਲਣ) ਪੱਤਰ ਤੋੜਦੀ ਹੈ, ਉਹ ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਨਿਰਜਿੰਦ ਹੈ ॥੧॥"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਹਨ = ਪੱਥਰ। ਨਿਰਜੀਉ = ਨਿਰਜਿੰਦ ॥੧॥"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

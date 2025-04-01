@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੇ ਮਿੱਤਰ! ਤੂੰ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕਰਿਆ ਕਰ, ਜਿਸ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਪ੍ਰਾਪਤ ਹੁੰਦੀ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਪਾਈਐ = ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ। ਤੈ = ਤੂੰ। ਰੇ ਮੀਤ = ਹੇ ਮਿੱਤਰ!"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

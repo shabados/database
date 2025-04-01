@@ -36,6 +36,12 @@ language = "pa"
 data = "ਜਿੰਦ, ਮਾਨੋ, ਵਹੁਟੀ ਹੈ, ਮੌਤ (ਦਾ ਫ਼ਰਿਸਤਾ ਇਸ ਦਾ) ਲਾੜਾ ਹੈ (ਜਿੰਦ ਨੂੰ) ਵਿਆਹ ਕੇ ਜ਼ਰੂਰ ਲੈ ਜਾਇਗਾ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਰਣੁ = ਮੌਤ। ਵਰੁ = ਲਾੜਾ। ਪਰਣਾਇ = ਵਿਆਹ ਕੇ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

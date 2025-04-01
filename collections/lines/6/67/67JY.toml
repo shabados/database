@@ -36,6 +36,12 @@ language = "pa"
 data = "ਹੋਰ ਹੋਰ ਆਹਰਾਂ ਵਿਚ ਲੱਗੀ ਹੋਈ ਜੀਭ ਵਿਅਰਥ ਹੈ,"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮਿਥਿਆ = ਵਿਅਰਥ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

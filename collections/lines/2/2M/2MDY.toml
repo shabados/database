@@ -36,6 +36,12 @@ language = "pa"
 data = "ਪਰਮਾਤਮਾ ਨੇ ਆਪ ਹੀ ਇਹ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਆਪਣੇ ਹੁਕਮ ਨਾਲ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਆਪੇ = ਆਪ ਹੀ। ਹੁਕਮਿ = ਹੁਕਮ ਨਾਲ। ਸਭ = ਸਾਰੀ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

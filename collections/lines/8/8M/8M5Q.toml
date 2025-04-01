@@ -36,6 +36,12 @@ language = "pa"
 data = "ਚਰਪਟ ਆਖਦਾ ਹੈ (ਭਾਵ, ਚਰਪਟ ਨੇ ਆਖਿਆ) ਹੇ ਵਿਰਕਤ ਨਾਨਕ! ਠੀਕ ਵਿਚਾਰ ਦੱਸ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਅਉਧੂ = ਵਿਰਕਤ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

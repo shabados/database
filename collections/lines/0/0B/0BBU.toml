@@ -36,6 +36,12 @@ language = "pa"
 data = "ਮਨੁੱਖਾ ਜਨਮ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਜੋ ਚੰਗੀ ਕਿਸਮਤ ਨਾਲ ਹੀ ਲਭਦਾ ਹੈ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਧੰਨੁ = ਭਾਗਾਂ ਵਾਲਾ। ਪੁੰਨਿ = ਚੰਗੀ ਕਿਸਮਤ ਨਾਲ। ਪਾਈਆ = ਪਾਈ ਹੈ, ਲੱਭੀ ਹੈ (ਇਹ ਦੇਹ)।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

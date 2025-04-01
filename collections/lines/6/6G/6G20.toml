@@ -36,6 +36,12 @@ language = "pa"
 data = "(ਪਰ) ਪਲਕ ਵਿਚ ਉਸ ਦਾ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ (ਤੇ ਉਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਸਹਾਈ ਨਹੀਂ ਹੁੰਦਾ)।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਭੀਤਰਿ = ਵਿਚ।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"

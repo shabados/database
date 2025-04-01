@@ -36,6 +36,12 @@ language = "pa"
 data = "ਵੇਦ ਪੁਰਾਣ ਸਿਮ੍ਰਿਤੀਆਂ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਦੇ ਲਿਖਣ ਵਾਲਿਆਂ ਨੇ ਹਰਿ-ਨਾਮ ਜਪਿਆ, ਪੰਡਿਤਾਂ ਨੇ ਮੂੰਹੋਂ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ।"
 
 [[content]]
+asset = "PSST"
+type = "note"
+language = "pa"
+data = "ਮੁਖਿ = ਮੂੰਹੋਂ। ਪੰਡਿਤ = ਪੰਡਿਤਾਂ ਨੇ {ਬਹੁ-ਵਚਨ}।"
+
+[[content]]
 asset = "SNST"
 type = "translation"
 language = "es"
