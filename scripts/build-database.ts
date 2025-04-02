@@ -164,6 +164,27 @@ await importCollection<Sources, typeof schema.sources>(
   },
 )
 
+await importCollection<Banis, typeof schema.banis>(
+  'banis',
+  schema.banis,
+  ({ name, sections }, id) => {
+    for (const [sectionIndex, { lines }] of sections.entries()) {
+      for (const [lineIndex, lineId] of lines.entries()) {
+        statements.push(
+          db.insert(schema.baniLines).values({
+            baniId: id,
+            lineId,
+            sectionOrder: sectionIndex + 1,
+            lineOrder: lineIndex + 1,
+          }),
+        )
+      }
+    }
+
+    return { id, name }
+  },
+)
+
 console.log('')
 consola.start('Committing changes')
 await db.batch(statements)

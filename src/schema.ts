@@ -72,3 +72,15 @@ export const assetLines = sqliteTable(
   },
   (t) => [index('priority_index').on(t.priority)],
 )
+
+export const banis = sqliteTable('banis', {
+  id: text().primaryKey(),
+  name: json().$type<ScriptField>(),
+})
+
+export const baniLines = sqliteTable('bani_lines', {
+  baniId: text(),
+  lineId: text(),
+  sectionOrder: integer(),
+  lineOrder: integer(),
+})

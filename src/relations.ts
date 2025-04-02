@@ -71,4 +71,22 @@ export default defineRelations(schema, (r) => ({
       to: r.assetLines.assetId,
     }),
   },
+  baniLines: {
+    bani: r.one.banis({
+      optional: false,
+      from: r.baniLines.baniId,
+      to: r.banis.id,
+    }),
+    line: r.one.lines({
+      optional: false,
+      from: r.baniLines.lineId,
+      to: r.lines.id,
+    }),
+  },
+  banis: {
+    lines: r.many.baniLines({
+      from: r.banis.id,
+      to: r.baniLines.baniId,
+    }),
+  },
 }))
