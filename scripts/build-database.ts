@@ -83,7 +83,7 @@ await importCollection<Asset, typeof schema.assets>(
 )
 
 await importCollection<Lines, typeof schema.lines>('lines', schema.lines, ({ content }, id) => {
-  for (const { asset, data, ...additional } of content) {
+  for (const [index, { asset, data, ...additional }] of content.entries()) {
     statements.push(
       db.insert(schema.assetLines).values({
         lineId: id,
@@ -91,6 +91,7 @@ await importCollection<Lines, typeof schema.lines>('lines', schema.lines, ({ con
         data,
         type: additional.type,
         additional,
+        priority: index + 1,
       }),
     )
   }
@@ -112,11 +113,11 @@ await importCollection<LineGroups, typeof schema.lineGroups>(
   'line-groups',
   schema.lineGroups,
   ({ author, lines, externalReferences }, id) => {
-    for (const [orderIndex, lineId] of lines.entries()) {
+    for (const [index, lineId] of lines.entries()) {
       statements.push(
         db
           .update(schema.lines)
-          .set({ lineGroupId: id, lineGroupOrder: orderIndex })
+          .set({ lineGroupId: id, lineGroupOrder: index + 1 })
           .where(eq(schema.lines.id, lineId)),
       )
     }
@@ -133,11 +134,11 @@ await importCollection<Sections, typeof schema.sections>(
   'sections',
   schema.sections,
   ({ name, description, lineGroups }, id) => {
-    for (const [orderIndex, lineGroupId] of lineGroups.entries()) {
+    for (const [index, lineGroupId] of lineGroups.entries()) {
       statements.push(
         db
           .update(schema.lineGroups)
-          .set({ sectionId: id, sectionOrder: orderIndex })
+          .set({ sectionId: id, sectionOrder: index + 1 })
           .where(eq(schema.lineGroups.id, lineGroupId)),
       )
     }
@@ -150,11 +151,11 @@ await importCollection<Sources, typeof schema.sources>(
   'sources',
   schema.sources,
   ({ name, translation, sections }, id) => {
-    for (const [orderIndex, sectionId] of sections.entries()) {
+    for (const [index, sectionId] of sections.entries()) {
       statements.push(
         db
           .update(schema.sections)
-          .set({ sourceId: id, sourceOrder: orderIndex })
+          .set({ sourceId: id, sourceOrder: index + 1 })
           .where(eq(schema.sections.id, sectionId)),
       )
     }

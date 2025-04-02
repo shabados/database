@@ -68,6 +68,7 @@ export const assetLines = sqliteTable(
     type: text(),
     data: text(),
     additional: json().$type<LinePayload>(),
+    priority: integer(),
   },
-  // (t) => [primaryKey({ columns: [t.lineId, t.assetId, t.type] })],
+  (t) => [index('priority_index').on(t.priority)],
 )
