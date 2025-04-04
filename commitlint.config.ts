@@ -2,7 +2,7 @@ import conventional from '@commitlint/config-conventional'
 import { RuleConfigSeverity, type UserConfig } from '@commitlint/types'
 
 export default {
-  extends: ['@commitlint/config-conventional'],
+  extends: ['@commitlint/config-angular'],
   rules: {
     'type-enum': [
       RuleConfigSeverity.Error,
