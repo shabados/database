@@ -53,9 +53,9 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.0.0-beta.1",
-    "@commitlint/cli": "^19.7.1",
-    "@commitlint/config-conventional": "^19.7.1",
-    "@types/bun": "^1.2.8",
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-angular": "^19.8.0",
+    "@types/bun": "latest",
     "ajv": "^8.17.1",
     "consola": "^3.4.2",
     "dedent": "^1.5.3",
