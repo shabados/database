@@ -10,7 +10,6 @@
         "@biomejs/biome": "^2.0.0-beta.1",
         "@commitlint/cli": "^19.7.1",
         "@commitlint/config-conventional": "^19.7.1",
-        "@libsql/client": "^0.15.1",
         "@types/bun": "^1.2.8",
         "ajv": "^8.17.1",
         "consola": "^3.4.2",
@@ -19,6 +18,10 @@
         "husky": "^9.1.7",
         "json-schema-to-typescript": "^15.0.4",
         "smol-toml": "^1.3.1",
+        "typescript": "^5",
+      },
+      "peerDependencies": {
+        "@libsql/client": "^0.15.1",
       },
     },
   },
