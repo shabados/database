@@ -26,7 +26,7 @@ const { generateSQLiteMigration, generateSQLiteDrizzleJson } =
   require('drizzle-kit/api') as DrizzleKitApi
 
 const DIST_PATH = 'dist'
-const DB_PATH = `${DIST_PATH}/database.sqlite`
+const DB_PATH = `${DIST_PATH}/master.sqlite`
 consola.box('Building SQLite database')
 consola.info(`Output path: ${DB_PATH}\n`)
 

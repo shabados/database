@@ -43,6 +43,7 @@
     "collections:generate-types": "json2ts --cwd 'collections/$schemas' -i 'collections/$schemas/*.json' -o 'collections/$schemas/.types'",
     "predatabase:build": "bun run collections:generate-types",
     "database:build": "bun scripts/build-database.ts",
+    "database:build-slices": "bun scripts/create-db-slices.ts",
     "database:view": "drizzle-kit studio"
   },
   "dependencies": {
