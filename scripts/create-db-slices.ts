@@ -4,18 +4,14 @@ import { consola } from 'consola'
 import { eq, not, sql } from 'drizzle-orm'
 import { drizzle } from 'drizzle-orm/libsql'
 
+import { BASE_DB, MASTER_DB, SLICES_PATH } from '#~/paths'
 import * as schema from '#~/schema'
 
 consola.box('Creating database slices')
 
-const DIST_PATH = 'dist'
-const SLICES_PATH = `${DIST_PATH}/slices`
-const MASTER_DB = `${DIST_PATH}/master.sqlite`
-const BASE_DB = `${SLICES_PATH}/base.sqlite`
-
 await mkdir(SLICES_PATH, { recursive: true })
 
-const createDatabaseClient = (path = './dist/master.sqlite') =>
+const createDatabaseClient = (path: string) =>
   drizzle({
     casing: 'snake_case',
     connection: {

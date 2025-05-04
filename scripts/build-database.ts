@@ -10,6 +10,7 @@ import { drizzle } from 'drizzle-orm/libsql'
 import type { SQLiteTable, TableConfig } from 'drizzle-orm/sqlite-core'
 import { parse } from 'smol-toml'
 
+import { DIST_PATH, MASTER_DB } from '#~/paths'
 import * as schema from '#~/schema'
 import type { Asset } from '#collections-types/assets'
 import type { Author } from '#collections-types/authors'
@@ -25,18 +26,16 @@ type DrizzleKitApi = typeof import('drizzle-kit/api')
 const { generateSQLiteMigration, generateSQLiteDrizzleJson } =
   require('drizzle-kit/api') as DrizzleKitApi
 
-const DIST_PATH = 'dist'
-const DB_PATH = `${DIST_PATH}/master.sqlite`
 consola.box('Building SQLite database')
-consola.info(`Output path: ${DB_PATH}\n`)
+consola.info(`Output path: ${MASTER_DB}\n`)
 
 await mkdir(DIST_PATH, { recursive: true })
-await rm(DB_PATH, { force: true })
+await rm(MASTER_DB, { force: true })
 
 const db = drizzle({
   casing: 'snake_case',
   connection: {
-    url: `file:./${DB_PATH}`,
+    url: `file:./${MASTER_DB}`,
   },
 })
 
