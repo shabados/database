@@ -13,7 +13,7 @@ jobs:
   ci:
     uses: ./.github/workflows/continuous-integration.yml
 
-  release-npm:
+  release:
     needs: ci
     runs-on: ubuntu-latest
     steps:
@@ -21,6 +21,7 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GH_BOT_TOKEN }}
+      - uses: ./.github/actions/setup
       - uses: actions/download-artifact@v4
         with:
           name: master.sqlite
