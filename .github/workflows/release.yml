@@ -38,6 +38,10 @@ jobs:
         with:
           github_token: ${{ secrets.GH_BOT_TOKEN }}
           npm_token: ${{ secrets.NPM_BOT_TOKEN }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: slices
+          path: dist/slices
       - uses: shabados/actions/publish-github@release/v3
         with:
           github_token: ${{ secrets.GH_BOT_TOKEN }}
