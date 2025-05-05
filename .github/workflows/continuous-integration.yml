@@ -1,7 +1,10 @@
 name: Continuous Integration
 
 on:
+  workflow_call:
   push:
+    branches-ignore:
+      - main
 
 jobs:
   lint:

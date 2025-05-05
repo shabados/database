@@ -1,0 +1,44 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: release
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    uses: ./.github/workflows/continuous-integration.yml
+
+  release-npm:
+    needs: ci
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_BOT_TOKEN }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: master.sqlite
+          path: dist
+      - uses: shabados/actions/setup-git-identity@release/v3
+        with:
+          user: Shabad OS Bot
+          email: team@shabados.com
+      - uses: shabados/actions/bump-version@release/v3
+        with:
+          prerelease: true
+        id: bump-version
+      - uses: shabados/actions/publish-npm@release/v3
+        with:
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
+          npm_token: ${{ secrets.NPM_BOT_TOKEN }}
+      - uses: shabados/actions/publish-github@release/v3
+        with:
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
+          release_version: ${{ steps.bump-version.outputs.next }}
+          asset_paths: dist/*
