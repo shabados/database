@@ -55,7 +55,7 @@ export const lines = sqliteTable(
     lineGroupId: text(),
     lineGroupOrder: integer(),
   },
-  (t) => [index('line_group_order_index').on(t.lineGroupOrder)],
+  (t) => [index('line_group_id_order_index').on(t.lineGroupId, t.lineGroupOrder)],
 )
 
 type LinePayload = DistributedOmit<Lines['content'][number], 'asset' | 'data'>
@@ -70,7 +70,10 @@ export const assetLines = sqliteTable(
     additional: json().$type<LinePayload>(),
     priority: integer(),
   },
-  (t) => [index('priority_index').on(t.priority)],
+  (t) => [
+    index('priority_index').on(t.priority),
+    index('line_id_priority_index').on(t.lineId, t.priority),
+  ],
 )
 
 export const banis = sqliteTable('banis', {
