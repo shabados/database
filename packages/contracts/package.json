@@ -1,0 +1,13 @@
+{
+  "name": "@giaan-khand/contracts",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@asteasolutions/zod-to-openapi": "^7.2.0",
+    "zod": "^3.24.2"
+  }
+}
+

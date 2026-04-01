@@ -1,0 +1,12 @@
+{
+  "name": "@giaan-khand/sdk",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@giaan-khand/contracts": "workspace:*"
+  }
+}
+

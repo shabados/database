@@ -1,0 +1,152 @@
+export const pangtiFixtures = {
+  works: [
+    {
+      id: 'work-1',
+      slug: 'guru-granth-sahib',
+      title: {
+        Guru: 'ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ',
+        Latn: 'Guru Granth Sahib',
+      },
+      translation: {
+        en: 'Guru Granth Sahib',
+      },
+      summary: {
+        en: 'The central Sikh scripture.',
+      },
+      classification: 'scripture',
+      textShape: 'verse',
+      metadata: null,
+    },
+    {
+      id: 'work-2',
+      slug: 'dasam-granth',
+      title: {
+        Guru: 'ਦਸਮ ਗ੍ਰੰਥ',
+        Latn: 'Dasam Granth',
+      },
+      translation: {
+        en: 'Dasam Granth',
+      },
+      summary: {
+        en: 'The Sikh text attributed to Guru Gobind Singh.',
+      },
+      classification: 'scripture',
+      textShape: 'verse',
+      metadata: null,
+    },
+  ],
+  structureNodes: [
+    {
+      id: 'section-1',
+      workId: 'work-1',
+      parentId: null,
+      slug: 'japji-sahib',
+      nodeType: 'composition',
+      title: {
+        Guru: 'ਜਪੁਜੀ ਸਾਹਿਬ',
+        Latn: 'Japji Sahib',
+      },
+      translation: {
+        en: 'Japji Sahib',
+      },
+      description: {
+        en: 'Morning prayer',
+      },
+      position: 1,
+      metadata: null,
+    },
+    {
+      id: 'section-2',
+      workId: 'work-2',
+      parentId: null,
+      slug: 'bachitra-natak',
+      nodeType: 'composition',
+      title: {
+        Guru: 'ਬਚਿੱਤਰ ਨਾਟਕ',
+        Latn: 'Bachitra Natak',
+      },
+      translation: {
+        en: 'Bachitra Natak',
+      },
+      description: {
+        en: 'Narrative composition',
+      },
+      position: 1,
+      metadata: null,
+    },
+  ],
+  passages: [
+    {
+      id: 'passage-1',
+      workId: 'work-1',
+      structureNodeId: 'section-1',
+      slug: 'passage-1',
+      passageType: 'pangti',
+      position: 1,
+      reference: '1',
+      metadata: null,
+    },
+    {
+      id: 'passage-2',
+      workId: 'work-2',
+      structureNodeId: 'section-2',
+      slug: 'passage-2',
+      passageType: 'pangti',
+      position: 8,
+      reference: '8',
+      metadata: null,
+    },
+  ],
+  passageTexts: [
+    {
+      id: 'text-1',
+      passageId: 'passage-1',
+      witnessId: 'witness-1',
+      slug: 'text-1',
+      contentRole: 'original',
+      languageCode: 'pa',
+      scriptCode: 'Guru',
+      body: 'ਦਇਆ ਕਰਹੁ ਗੋਬਿੰਦ',
+      position: 1,
+      page: null,
+      pageStart: 1,
+      pageEnd: 2,
+      folio: null,
+      folioStart: null,
+      folioEnd: null,
+      localIndex: 3,
+      unitStart: null,
+      unitEnd: null,
+      citationId: null,
+      metadata: null,
+    },
+    {
+      id: 'text-2',
+      passageId: 'passage-2',
+      witnessId: 'witness-2',
+      slug: 'text-2',
+      contentRole: 'original',
+      languageCode: 'pa',
+      scriptCode: 'Guru',
+      body: 'ਇਕ ਓਅੰਕਾਰ ਸਤਿਨਾਮੁ',
+      position: 1,
+      page: 4,
+      pageStart: 4,
+      pageEnd: 4,
+      folio: null,
+      folioStart: null,
+      folioEnd: null,
+      localIndex: 1,
+      unitStart: null,
+      unitEnd: null,
+      citationId: null,
+      metadata: null,
+    },
+  ],
+}
+
+export const pangtiQueryFixtures = {
+  directQuery: 'ਦਇਆ ਕਰਹੁ ਗੋਬਿੰਦ',
+  latinQuery: 'dkg',
+  aliasQuery: 'D K G',
+}

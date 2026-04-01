@@ -1,0 +1,950 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Giaan Khand Public API",
+    "version": "0.1.0"
+  },
+  "components": {
+    "schemas": {
+      "WorkSummary": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "slug": {
+            "type": "string"
+          },
+          "title": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "translation": {
+            "type": "object",
+            "nullable": true,
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "summary": {
+            "type": "object",
+            "nullable": true,
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "classification": {
+            "type": "string"
+          },
+          "textShape": {
+            "type": "string"
+          },
+          "featured": {
+            "type": "boolean",
+            "default": false
+          }
+        },
+        "required": [
+          "id",
+          "slug",
+          "title",
+          "translation",
+          "classification",
+          "textShape"
+        ]
+      },
+      "WorksResponse": {
+        "type": "object",
+        "properties": {
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "slug": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "translation": {
+                  "type": "object",
+                  "nullable": true,
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "summary": {
+                  "type": "object",
+                  "nullable": true,
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "classification": {
+                  "type": "string"
+                },
+                "textShape": {
+                  "type": "string"
+                },
+                "featured": {
+                  "type": "boolean",
+                  "default": false
+                }
+              },
+              "required": [
+                "id",
+                "slug",
+                "title",
+                "translation",
+                "classification",
+                "textShape"
+              ]
+            }
+          }
+        },
+        "required": [
+          "items"
+        ]
+      },
+      "StructureNodeSummary": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "slug": {
+            "type": "string"
+          },
+          "nodeType": {
+            "type": "string"
+          },
+          "title": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "translation": {
+            "type": "object",
+            "nullable": true,
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "description": {
+            "type": "object",
+            "nullable": true,
+            "additionalProperties": {
+              "type": "string"
+            }
+          },
+          "position": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "id",
+          "slug",
+          "nodeType",
+          "title",
+          "translation",
+          "description",
+          "position"
+        ]
+      },
+      "WorkDetailResponse": {
+        "type": "object",
+        "properties": {
+          "work": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "slug": {
+                "type": "string"
+              },
+              "title": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "string"
+                }
+              },
+              "translation": {
+                "type": "object",
+                "nullable": true,
+                "additionalProperties": {
+                  "type": "string"
+                }
+              },
+              "summary": {
+                "type": "object",
+                "nullable": true,
+                "additionalProperties": {
+                  "type": "string"
+                }
+              },
+              "classification": {
+                "type": "string"
+              },
+              "textShape": {
+                "type": "string"
+              },
+              "featured": {
+                "type": "boolean",
+                "default": false
+              }
+            },
+            "required": [
+              "id",
+              "slug",
+              "title",
+              "translation",
+              "classification",
+              "textShape"
+            ]
+          },
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "slug": {
+                  "type": "string"
+                },
+                "nodeType": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "translation": {
+                  "type": "object",
+                  "nullable": true,
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "description": {
+                  "type": "object",
+                  "nullable": true,
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                },
+                "position": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "id",
+                "slug",
+                "nodeType",
+                "title",
+                "translation",
+                "description",
+                "position"
+              ]
+            }
+          }
+        },
+        "required": [
+          "work",
+          "sections"
+        ]
+      },
+      "PassageDetailResponse": {
+        "type": "object",
+        "properties": {
+          "passageId": {
+            "type": "string"
+          },
+          "workSlug": {
+            "type": "string"
+          },
+          "workTitle": {
+            "type": "string"
+          },
+          "structureLabel": {
+            "type": "string"
+          },
+          "locatorLabel": {
+            "type": "string"
+          },
+          "originalText": {
+            "type": "string"
+          },
+          "pageStart": {
+            "type": "integer",
+            "nullable": true
+          },
+          "pageEnd": {
+            "type": "integer",
+            "nullable": true
+          }
+        },
+        "required": [
+          "passageId",
+          "workSlug",
+          "workTitle",
+          "structureLabel",
+          "locatorLabel",
+          "originalText",
+          "pageStart",
+          "pageEnd"
+        ]
+      },
+      "PangtiSearchItem": {
+        "type": "object",
+        "properties": {
+          "passageId": {
+            "type": "string"
+          },
+          "workSlug": {
+            "type": "string"
+          },
+          "workTitle": {
+            "type": "string"
+          },
+          "structureLabel": {
+            "type": "string"
+          },
+          "locatorLabel": {
+            "type": "string"
+          },
+          "originalText": {
+            "type": "string"
+          },
+          "matchedBy": {
+            "type": "string",
+            "enum": [
+              "gurmukhi",
+              "latin-initials"
+            ]
+          },
+          "matchedInitials": {
+            "type": "string"
+          },
+          "score": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "passageId",
+          "workSlug",
+          "workTitle",
+          "structureLabel",
+          "locatorLabel",
+          "originalText",
+          "matchedBy",
+          "matchedInitials",
+          "score"
+        ]
+      },
+      "PangtiSearchResponse": {
+        "type": "object",
+        "properties": {
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "passageId": {
+                  "type": "string"
+                },
+                "workSlug": {
+                  "type": "string"
+                },
+                "workTitle": {
+                  "type": "string"
+                },
+                "structureLabel": {
+                  "type": "string"
+                },
+                "locatorLabel": {
+                  "type": "string"
+                },
+                "originalText": {
+                  "type": "string"
+                },
+                "matchedBy": {
+                  "type": "string",
+                  "enum": [
+                    "gurmukhi",
+                    "latin-initials"
+                  ]
+                },
+                "matchedInitials": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "passageId",
+                "workSlug",
+                "workTitle",
+                "structureLabel",
+                "locatorLabel",
+                "originalText",
+                "matchedBy",
+                "matchedInitials",
+                "score"
+              ]
+            }
+          },
+          "nextCursor": {
+            "type": "string",
+            "nullable": true
+          },
+          "queryMeta": {
+            "type": "object",
+            "properties": {
+              "mode": {
+                "type": "string",
+                "enum": [
+                  "gurmukhi",
+                  "latin-initials"
+                ]
+              },
+              "normalizedQuery": {
+                "type": "string"
+              },
+              "page": {
+                "type": "integer",
+                "minimum": 0,
+                "exclusiveMinimum": true
+              },
+              "limit": {
+                "type": "integer",
+                "minimum": 0,
+                "exclusiveMinimum": true
+              },
+              "total": {
+                "type": "integer",
+                "minimum": 0
+              }
+            },
+            "required": [
+              "mode",
+              "normalizedQuery",
+              "page",
+              "limit",
+              "total"
+            ]
+          }
+        },
+        "required": [
+          "items",
+          "nextCursor",
+          "queryMeta"
+        ]
+      },
+      "ErrorResponse": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "error"
+        ]
+      }
+    },
+    "parameters": {}
+  },
+  "paths": {
+    "/v1/works": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "Curated work summaries",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "slug": {
+                            "type": "string"
+                          },
+                          "title": {
+                            "type": "object",
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "translation": {
+                            "type": "object",
+                            "nullable": true,
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "summary": {
+                            "type": "object",
+                            "nullable": true,
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "classification": {
+                            "type": "string"
+                          },
+                          "textShape": {
+                            "type": "string"
+                          },
+                          "featured": {
+                            "type": "boolean",
+                            "default": false
+                          }
+                        },
+                        "required": [
+                          "id",
+                          "slug",
+                          "title",
+                          "translation",
+                          "classification",
+                          "textShape"
+                        ]
+                      }
+                    }
+                  },
+                  "required": [
+                    "items"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/works/{slug}": {
+      "get": {
+        "parameters": [
+          {
+            "schema": {
+              "type": "string"
+            },
+            "required": true,
+            "name": "slug",
+            "in": "path"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Work detail",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "work": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string"
+                        },
+                        "slug": {
+                          "type": "string"
+                        },
+                        "title": {
+                          "type": "object",
+                          "additionalProperties": {
+                            "type": "string"
+                          }
+                        },
+                        "translation": {
+                          "type": "object",
+                          "nullable": true,
+                          "additionalProperties": {
+                            "type": "string"
+                          }
+                        },
+                        "summary": {
+                          "type": "object",
+                          "nullable": true,
+                          "additionalProperties": {
+                            "type": "string"
+                          }
+                        },
+                        "classification": {
+                          "type": "string"
+                        },
+                        "textShape": {
+                          "type": "string"
+                        },
+                        "featured": {
+                          "type": "boolean",
+                          "default": false
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "slug",
+                        "title",
+                        "translation",
+                        "classification",
+                        "textShape"
+                      ]
+                    },
+                    "sections": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "slug": {
+                            "type": "string"
+                          },
+                          "nodeType": {
+                            "type": "string"
+                          },
+                          "title": {
+                            "type": "object",
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "translation": {
+                            "type": "object",
+                            "nullable": true,
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "description": {
+                            "type": "object",
+                            "nullable": true,
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          },
+                          "position": {
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "id",
+                          "slug",
+                          "nodeType",
+                          "title",
+                          "translation",
+                          "description",
+                          "position"
+                        ]
+                      }
+                    }
+                  },
+                  "required": [
+                    "work",
+                    "sections"
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Work not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/passages/{id}": {
+      "get": {
+        "parameters": [
+          {
+            "schema": {
+              "type": "string"
+            },
+            "required": true,
+            "name": "id",
+            "in": "path"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Passage detail",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "passageId": {
+                      "type": "string"
+                    },
+                    "workSlug": {
+                      "type": "string"
+                    },
+                    "workTitle": {
+                      "type": "string"
+                    },
+                    "structureLabel": {
+                      "type": "string"
+                    },
+                    "locatorLabel": {
+                      "type": "string"
+                    },
+                    "originalText": {
+                      "type": "string"
+                    },
+                    "pageStart": {
+                      "type": "integer",
+                      "nullable": true
+                    },
+                    "pageEnd": {
+                      "type": "integer",
+                      "nullable": true
+                    }
+                  },
+                  "required": [
+                    "passageId",
+                    "workSlug",
+                    "workTitle",
+                    "structureLabel",
+                    "locatorLabel",
+                    "originalText",
+                    "pageStart",
+                    "pageEnd"
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Passage not found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/search/pangtis": {
+      "get": {
+        "parameters": [
+          {
+            "schema": {
+              "type": "string",
+              "minLength": 1
+            },
+            "required": true,
+            "name": "q",
+            "in": "query"
+          },
+          {
+            "schema": {
+              "type": "string",
+              "minLength": 1
+            },
+            "required": false,
+            "name": "work",
+            "in": "query"
+          },
+          {
+            "schema": {
+              "type": "string",
+              "minLength": 1
+            },
+            "required": false,
+            "name": "cursor",
+            "in": "query"
+          },
+          {
+            "schema": {
+              "type": "integer",
+              "minimum": 0,
+              "exclusiveMinimum": true,
+              "maximum": 50,
+              "default": 20
+            },
+            "required": false,
+            "name": "limit",
+            "in": "query"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Global pangti search results",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "passageId": {
+                            "type": "string"
+                          },
+                          "workSlug": {
+                            "type": "string"
+                          },
+                          "workTitle": {
+                            "type": "string"
+                          },
+                          "structureLabel": {
+                            "type": "string"
+                          },
+                          "locatorLabel": {
+                            "type": "string"
+                          },
+                          "originalText": {
+                            "type": "string"
+                          },
+                          "matchedBy": {
+                            "type": "string",
+                            "enum": [
+                              "gurmukhi",
+                              "latin-initials"
+                            ]
+                          },
+                          "matchedInitials": {
+                            "type": "string"
+                          },
+                          "score": {
+                            "type": "number"
+                          }
+                        },
+                        "required": [
+                          "passageId",
+                          "workSlug",
+                          "workTitle",
+                          "structureLabel",
+                          "locatorLabel",
+                          "originalText",
+                          "matchedBy",
+                          "matchedInitials",
+                          "score"
+                        ]
+                      }
+                    },
+                    "nextCursor": {
+                      "type": "string",
+                      "nullable": true
+                    },
+                    "queryMeta": {
+                      "type": "object",
+                      "properties": {
+                        "mode": {
+                          "type": "string",
+                          "enum": [
+                            "gurmukhi",
+                            "latin-initials"
+                          ]
+                        },
+                        "normalizedQuery": {
+                          "type": "string"
+                        },
+                        "page": {
+                          "type": "integer",
+                          "minimum": 0,
+                          "exclusiveMinimum": true
+                        },
+                        "limit": {
+                          "type": "integer",
+                          "minimum": 0,
+                          "exclusiveMinimum": true
+                        },
+                        "total": {
+                          "type": "integer",
+                          "minimum": 0
+                        }
+                      },
+                      "required": [
+                        "mode",
+                        "normalizedQuery",
+                        "page",
+                        "limit",
+                        "total"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "items",
+                    "nextCursor",
+                    "queryMeta"
+                  ]
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Validation error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "error": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "error"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

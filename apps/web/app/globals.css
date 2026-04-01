@@ -1,0 +1,45 @@
+@import url('../src/styles/tokens.css');
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top, rgba(214, 168, 72, 0.08), transparent 38%),
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.03), transparent 22%),
+    var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  border: 0;
+}
+
+::selection {
+  background: rgba(214, 168, 72, 0.3);
+  color: #fff;
+}

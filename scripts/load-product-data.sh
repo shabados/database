@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+PGPORT="${PRODUCT_PG_PORT:-54329}"
+DATABASE_URL="${DATABASE_URL:-postgresql://postgres@127.0.0.1:${PGPORT}/giaankhand}"
+ARCHIVE_DATABASE_PATH="${ARCHIVE_DATABASE_PATH:-${ROOT_DIR}/dist/archive/archive.sqlite}"
+TYPESENSE_HOST="${TYPESENSE_HOST:-127.0.0.1}"
+TYPESENSE_PORT="${TYPESENSE_PORT:-8108}"
+TYPESENSE_PROTOCOL="${TYPESENSE_PROTOCOL:-http}"
+TYPESENSE_API_KEY="${TYPESENSE_API_KEY:-xyz}"
+
+createdb -h 127.0.0.1 -p "${PGPORT}" -U postgres giaankhand >/dev/null 2>&1 || true
+
+cd "${ROOT_DIR}"
+
+DATABASE_URL="${DATABASE_URL}" pnpm product:init
+DATABASE_URL="${DATABASE_URL}" \
+ARCHIVE_DATABASE_PATH="${ARCHIVE_DATABASE_PATH}" \
+pnpm product:import
+DATABASE_URL="${DATABASE_URL}" \
+TYPESENSE_HOST="${TYPESENSE_HOST}" \
+TYPESENSE_PORT="${TYPESENSE_PORT}" \
+TYPESENSE_PROTOCOL="${TYPESENSE_PROTOCOL}" \
+TYPESENSE_API_KEY="${TYPESENSE_API_KEY}" \
+pnpm search:index

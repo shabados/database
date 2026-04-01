@@ -28,6 +28,7 @@
   },
   "type": "module",
   "imports": {
+    "#archive/*": "./archive/src/*.ts",
     "#~/*": "./src/*.ts",
     "#collections-types/*": "./collections/$schemas/.types/*.d.ts"
   },
@@ -44,7 +45,19 @@
     "predatabase:build": "bun run collections:generate-types",
     "database:build": "bun scripts/build-database.ts",
     "database:build-slices": "bun scripts/create-db-slices.ts",
-    "database:view": "drizzle-kit studio"
+    "database:view": "drizzle-kit studio",
+    "dev:api": "pnpm --filter @giaan-khand/api dev",
+    "dev:web": "pnpm --filter @giaan-khand/web dev",
+    "test:api": "pnpm --filter @giaan-khand/api test",
+    "test:search-core": "pnpm --filter @giaan-khand/search-core test",
+    "openapi:write": "pnpm --filter @giaan-khand/api openapi:write",
+    "product:init": "pnpm --filter @giaan-khand/api db:init",
+    "product:import": "pnpm --filter @giaan-khand/api import:archive",
+    "search:index": "pnpm --filter @giaan-khand/api index:pangtis",
+    "stack:postgres": "bash ./scripts/start-local-postgres.sh",
+    "stack:typesense": "bash ./scripts/start-local-typesense.sh",
+    "stack:load": "bash ./scripts/load-product-data.sh",
+    "stack:start": "bash ./scripts/start-product-apps.sh"
   },
   "dependencies": {
     "drizzle-orm": "^1.0.0-beta.1-8aabc28"
@@ -57,6 +70,7 @@
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-angular": "^19.8.0",
     "@types/bun": "latest",
+    "@types/node": "^22.13.10",
     "ajv": "^8.17.1",
     "consola": "^3.4.2",
     "dedent": "^1.5.3",
@@ -64,6 +78,8 @@
     "husky": "^9.1.7",
     "json-schema-to-typescript": "^15.0.4",
     "smol-toml": "^1.3.1",
+    "tsx": "^4.19.3",
     "typescript": "^5"
-  }
+  },
+  "packageManager": "pnpm@10.6.3+sha512.bb45e34d50a9a76e858a95837301bfb6bd6d35aea2c5d52094fa497a467c43f5c440103ce2511e9e0a2f89c3d6071baac3358fc68ac6fb75e2ceb3d2736065e6"
 }

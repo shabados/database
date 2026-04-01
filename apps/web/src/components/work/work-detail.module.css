@@ -1,0 +1,159 @@
+.page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 8vh 1.5rem 4rem;
+}
+
+.shell {
+  width: min(100%, 56rem);
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.backButton {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--color-text-muted);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition:
+    background-color 200ms ease,
+    color 200ms ease;
+}
+
+.backButton:hover,
+.backButton:focus-visible {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  outline: none;
+}
+
+.backButton svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.label {
+  margin: 0;
+  color: var(--color-text-subtle);
+  font-size: 0.9rem;
+}
+
+.title {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(1.4rem, 3vw, 1.75rem);
+  font-weight: 600;
+}
+
+.subtitle {
+  margin: 0;
+  color: #777;
+  font-size: 0.88rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.sectionCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-md);
+  background: #121212;
+  transition:
+    background-color 300ms ease,
+    border-color 300ms ease;
+}
+
+.sectionCard:hover {
+  background: var(--color-panel-strong);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.sectionCopy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.sectionTitle {
+  margin: 0;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.sectionCard:hover .sectionTitle {
+  color: var(--color-accent);
+}
+
+.sectionMeta {
+  margin: 0;
+  color: var(--color-text-subtle);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.sectionChevron {
+  flex: none;
+  color: #444;
+  transition: color 300ms ease;
+}
+
+.sectionCard:hover .sectionChevron {
+  color: rgba(214, 168, 72, 0.75);
+}
+
+.sectionChevron svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.emptyState {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 1rem;
+}
+
+.emptyCopy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  text-align: center;
+  color: var(--color-text-subtle);
+}
