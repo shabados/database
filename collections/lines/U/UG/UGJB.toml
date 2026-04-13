@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਬੰਧਨਾਂ ਤੋਂ ਮੁਕਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੨੪॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋਸਤ, ਅਬੰਧੇ ॥੨੪॥"
+page = 2
+line = 18

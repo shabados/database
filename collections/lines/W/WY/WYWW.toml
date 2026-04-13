@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਾਹਮਣੇ ਮੌਜੂਦ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਹਾਜਰ ਹਜੂਰ ਹੈਂ ॥"
+page = 8
+line = 11

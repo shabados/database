@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਮੁਕਤੀ ਪ੍ਰਦਾਨ ਕਰਨ ਵਾਲਾ ਦਇਆਵਾਨ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਰਾਜਕ ਰਹਿੰਦ ਹੈਂ ॥"
+page = 8
+line = 13

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਭ ਨੂੰ ਖ਼ਤਮ (ਹਰਨ) ਕਰਨ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੨੭॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸਰਬ ਹਰਤਾ ॥੨੭॥"
+page = 3
+line = 1

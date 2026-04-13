@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਅਚਲ ਪ੍ਰਕਾਸ਼ ਵਾਲਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਅਚਲੰ ਪ੍ਰਕਾਸ ਹੈਂ ॥"
+page = 9
+line = 1

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਰੂਪ-"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ, ਰੂਪੇ ॥"
+page = 10
+line = 13

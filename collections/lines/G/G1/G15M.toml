@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਭੇਖਾਂ ਤੋਂ ਰਹਿਤ, ਭਰਮਾਂ ਤੋਂ ਰਹਿਤ, ਭੋਗਾਂ ਤੋਂ ਰਹਿਤ ਅਤੇ ਨਾ ਭੋਗੇ ਜਾ ਸਕਣ ਵਾਲੇ!"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਭੇਖੀ ਅਭਰਮੀ, ਅਭੋਗੀ ਅਭੁਗਤੇ ॥"
+page = 3
+line = 19

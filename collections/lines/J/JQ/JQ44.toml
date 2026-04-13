@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਖੇਡ ਖੇਡ ਕੇ ਫਿਰ ਅਖੇਡਣ ਦੀ ਅਵਸਥਾ ਹੋ ਕੇ ਅੰਤ ਨੂੰ ਫਿਰ ਇਕ ਹੋ ਜਾਂਦਾ ਹੈ ॥੮੧॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਖੇਲ ਖੇਲ ਅਖੇਲ ਖੇਲਨ; ਅੰਤ ਕੋ ਫਿਰ ਏਕ ॥੮੧॥"
+page = 5
+line = 6

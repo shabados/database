@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਹਰਿ! (ਤੂੰ) ਸਭ ਮਨੁੱਖਾਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਦੇ ਸਮਰਥ ਹੈਂ ॥੧੬੧॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਹਰਿ ਨਰ, ਪ੍ਰਭੰਜ ॥੧੬੧॥"
+page = 9
+line = 4

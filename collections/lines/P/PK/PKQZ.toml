@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸਭ ਦਾ ਪਾਲਕ, ਸਭ ਦਾ ਨਾਸ਼ਕ ਅਤੇ ਫਿਰ ਸਭ ਦਾ ਕਾਲ-ਰੂਪ ਹੈਂ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਰਬ ਪਾਲਕ ਸਰਬ ਘਾਲਕ; ਸਰਬ ਕੋ ਪੁਨਿ ਕਾਲ ॥"
+page = 5
+line = 2

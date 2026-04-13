@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਧਰਮਾਂ ਦਾ ਨਿਸ਼ਾਨ (ਝੰਡਾ) ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਧਰਮੰ ਧੁਜਾ ਹੈਂ ॥"
+page = 6
+line = 11

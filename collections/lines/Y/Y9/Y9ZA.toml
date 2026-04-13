@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਰਾਜਿਆਂ ਦੇ ਰਾਜੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ; ਹੇ ਇੰਦਰਾਂ ਦੇ ਇੰਦਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਰਾਜ ਰਾਜੇ; ਨਮੋ, ਇੰਦ੍ਰ ਇੰਦ੍ਰੇ ॥"
+page = 10
+line = 4

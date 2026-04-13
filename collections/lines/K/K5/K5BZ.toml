@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਥਾਪਨਾ ਤੋਂ ਪਰੇ ਹੈਂ (ਦੇਵ-ਮੂਰਤੀਆਂ ਵਾਂਗ ਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ)"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਥਪਾ, ਥਪ ਹੈਂ ॥"
+page = 9
+line = 17

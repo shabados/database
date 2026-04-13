@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਨਾ ਢਾਹੇ ਜਾ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੬॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਢਾਹੇ ॥੬॥"
+page = 2
+line = 3

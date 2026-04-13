@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸ਼ੋਖਾਂ ਦੇ ਸ਼ੋਖ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸੋਖ ਸੋਖੇ ॥੬੮॥"
+page = 4
+line = 12

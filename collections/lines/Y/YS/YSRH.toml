@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਾਰਿਆਂ ਦੇਸ਼ਾਂ ਵਿਚ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਸਰਬਤ੍ਰ ਦੇਸੈ ॥"
+page = 6
+line = 17

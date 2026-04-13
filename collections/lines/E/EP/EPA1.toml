@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਪਾਲਣਾ ਕਰਨ ਵਾਲਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਗੋੁਬਿੰਦੇ ॥"
+page = 6
+line = 3

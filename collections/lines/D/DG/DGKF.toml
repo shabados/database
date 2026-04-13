@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੇਰੀ) ਗਤੀ ਅਤੇ ਸੀਮਾ ਅਖੰਡ (ਸਥਿਰ) ਹੈ ॥੯੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਮਿਤਿ ਗਤਿ, ਅਖੰਡ ॥੯੨॥"
+page = 6
+line = 2

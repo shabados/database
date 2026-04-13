@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਚਰਪਟ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਚਰਪਟ ਛੰਦ ॥ ਤ੍ਵਪ੍ਰਸਾਦਿ ॥"
+page = 4
+line = 17

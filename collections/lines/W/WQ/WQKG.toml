@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਯੰਤ੍ਰਾਂ ਦੇ ਯੰਤ੍ਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਜੰਤ੍ਰ ਜੰਤ੍ਰੰ ॥"
+page = 4
+line = 3

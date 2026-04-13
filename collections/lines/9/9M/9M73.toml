@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਡਰ ('ਬਾਕ') ਤੋਂ ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਨ੍ਰਿਬਾਕੇ ॥"
+page = 2
+line = 18

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ) ਸਾਰੇ ਕਰਮ ਬਿਨਾ ਕੀਤੇ ਹੋ ਰਹੇ ਹਨ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਆਲਿਸ੍ਯ ਕਰਮ ॥"
+page = 6
+line = 2

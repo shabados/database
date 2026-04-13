@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਅਕਾਲ ਪੁਰਖ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤ੍ਵੰ, ਅਕਾਲੇ ॥"
+page = 1
+line = 7

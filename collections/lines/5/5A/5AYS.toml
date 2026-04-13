@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਿਰਜਨਹਾਰਾਂ ਦੇ ਵੀ ਸਿਰਜਨਹਾਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸਾਜ ਸਾਜੇ ॥"
+page = 4
+line = 11

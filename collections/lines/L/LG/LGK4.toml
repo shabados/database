@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਉਹ ਸ਼ਰੀਰ-ਰਹਿਤ, ਨਾਸ਼ਰਹਿਤ ਅਤੇ ਆਤਮਾ ਰਹਿਤ ਇਕ ਅਪਾਰ ਪੁਰਸ਼ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅੰਗ ਹੀਨ ਅਭੰਗ ਅਨਾਤਮ; ਏਕ ਪੁਰਖ ਅਪਾਰ ॥"
+page = 5
+line = 13

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਦਾ ਅਗਾਧ ਸਰੂਪ ਵਾਲੇ!"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗਾਧਿ ਸਰੂਪੇ ॥"
+page = 8
+line = 8

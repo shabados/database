@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਸ ਦਾ ਦੇਸ, ਭੇਸ, ਰੂਪ, ਰੇਖ ਅਤੇ ਰਾਗ (ਮੋਹ) ਨਹੀਂ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਦੇਸ ਔਰ ਨ ਭੇਸ ਜਾਕਰ; ਰੂਪ ਰੇਖ ਨ ਰਾਗ ॥"
+page = 5
+line = 4

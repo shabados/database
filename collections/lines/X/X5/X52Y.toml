@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਾਰਿਆਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸਰਬ ਦ੍ਯਾਲੇ ॥"
+page = 3
+line = 2

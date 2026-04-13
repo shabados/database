@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਦੁਸ਼ਟਾਂ ਦਾ ਸੰਘਾਰਕ ਹੈਂ ॥੧੮੦॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਖਲ ਘਾਇਕ, ਹੈਂ ॥੧੮੦॥"
+page = 10
+line = 1

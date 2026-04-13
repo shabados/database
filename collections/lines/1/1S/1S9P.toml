@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਮੋਹ-ਰਹਿਤ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ, ਰਾਗੇ ॥"
+page = 10
+line = 13

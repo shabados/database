@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਗੁਪਤ ਤੋਂ ਵੀ ਗੁਪਤ ਹੈਂ ॥੧੦੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਗੈਬੁਲ ਗੈਬ ਹੈਂ ॥੧੦੮॥"
+page = 6
+line = 14

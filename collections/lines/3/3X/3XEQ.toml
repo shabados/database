@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਜਗਤ ਦੇ ਮਾਤਾ ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੫੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਲੋਕ ਮਾਤਾ ॥੫੨॥"
+page = 3
+line = 18

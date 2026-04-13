@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਗਹਿਰ ਗੰਭੀਰ ਧਰਮ ਵਾਲਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਮੀਕੁਲ, ਇਮਾ ਹੈਂ ॥"
+page = 8
+line = 19

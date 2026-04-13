@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਹਮੇਸ਼ਾ ਸਲਾਮਤ ਹੈਂ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਹਮੇਸੁਲ, ਸਲਾਮ ਹੈਂ ॥"
+page = 8
+line = 11

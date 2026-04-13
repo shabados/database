@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਅਟੁੱਟ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੧੫॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਭੰਗੇ ॥੧੫॥"
+page = 2
+line = 10

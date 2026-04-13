@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਬਿਨਾ ਕਿਸੇ ਖ਼ਾਸ ਦੇਸ਼ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਨ੍ਰਿਦੇਸੇ ॥"
+page = 2
+line = 6

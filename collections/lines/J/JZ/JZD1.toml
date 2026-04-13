@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਤੇ ਸਾਰਿਆਂ ਦਾ ਸੰਘਾਰਕ ਹੈਂ ॥੧੧੦॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਸਰਬੰ ਦਲੀ ਹੈਂ ॥੧੧੦॥"
+page = 6
+line = 16

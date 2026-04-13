@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਬਿਨਾ ਸਥਾਪਿਤ ਕੀਤੇ ਸ੍ਰੇਸ਼ਠ ਪੁਰਸ਼ ਹੈਂ ॥੧੬੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਬਰ ਨਰ, ਅਮੰਡ ॥੧੬੨॥"
+page = 9
+line = 5

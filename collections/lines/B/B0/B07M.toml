@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਦੇਸਾਂ ਤੋਂ ਰਹਿਤ ਅਤੇ ਲੇਖੇ ਤੋਂ ਰਹਿਤ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਦੇਸੁਲ, ਅਲੇਖ ਹੈਂ ॥"
+page = 8
+line = 18

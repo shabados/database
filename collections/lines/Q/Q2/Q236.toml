@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਭ ਦਾ ਸੰਘਾਰਕ ਵੀ ਹੈਂ ॥੧੭੪॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਰਬ, ਨਾਸਿਯ ਹੈਂ ॥੧੭੪॥"
+page = 9
+line = 15

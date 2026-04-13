@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਮੰਤ੍ਰਾਂ ਦੇ ਮੰਤ੍ਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਮੰਤ੍ਰ ਮੰਤ੍ਰੰ ॥"
+page = 4
+line = 3

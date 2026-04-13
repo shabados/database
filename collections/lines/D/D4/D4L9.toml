@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸ਼ਾਹਾਂ ਦੇ ਸ਼ਾਹ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ; ਹੇ ਰਾਜਿਆਂ ਦੇ ਰਾਜੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੫੫॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸਾਹ ਸਾਹੰ; ਨਮੋ, ਭੂਪ ਭੂਪੇ ॥੫੫॥"
+page = 4
+line = 2

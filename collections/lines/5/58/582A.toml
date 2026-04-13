@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਅਮਰ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅੰਮ੍ਰਿਤਾ, ਮ੍ਰਿਤ ਹੈਂ ॥"
+page = 9
+line = 17

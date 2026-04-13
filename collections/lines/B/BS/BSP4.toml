@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਨਾ ਤੇਰੀ ਕੋਈ ਜਾਤਿ ਹੈ ਅਤੇ ਨਾ ਹੀ ਭਾਈਚਾਰਾ ॥੧੪੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ ਜਾਤੈ, ਨ ਪਾਤੈ ॥੧੪੮॥"
+page = 8
+line = 9

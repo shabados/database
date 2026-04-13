@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੇਰਾ ਸਰੂਪ ਬਣਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਕ੍ਰਿਤਾ, ਕ੍ਰਿਤ ਹੈਂ ॥"
+page = 9
+line = 19

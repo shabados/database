@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਅਮਿਤ ਸੁਗੰਧ ਵਾਲਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਅਮਿਤੋ ਸੁਬਾਸ ਹੈਂ ॥"
+page = 9
+line = 1

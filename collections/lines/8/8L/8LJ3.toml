@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਦਾ ਆਜ਼ਾਦ (ਸੁਤੰਤਰ) ਹੈਂ ॥੧੪੧॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜਾਦਿ ਹੈਂ ॥੧੪੧॥"
+page = 8
+line = 4

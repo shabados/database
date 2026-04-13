@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਆਪ ਭੇਦ-ਰਹਿਤ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਆਪਿ ਅਭੇਵ ਹੈਂ ॥"
+page = 6
+line = 13

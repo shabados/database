@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਹੱਥਾਂ ਦੇ ਹੱਥ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਪਾਨ ਪਾਨੇ ॥"
+page = 3
+line = 15

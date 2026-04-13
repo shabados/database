@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਜਗਤ ਦਾ ਕਾਰਨ ਸਰੂਪ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਜਗ ਕੇ, ਕਰਨ ਹੈਂ ॥"
+page = 9
+line = 14

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਾਰਿਆਂ ਦੀ ਬੋਲੀ ਹੈਂ (ਅਰਥਾਤ ਸਭ ਵਿਚ ਤੂੰ ਹੀ ਬੋਲ ਰਿਹਾ ਹੈਂ)"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਮਸਤੁਲ, ਜੁਬਾ ਹੈਂ ॥"
+page = 8
+line = 16

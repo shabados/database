@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਤੇ ਸਾਰਿਆਂ ਭੇਸਾਂ ਵਿਚ ਸਥਿਤ ਹੈਂ ॥੧੧੭॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਸਰਬਤ੍ਰ ਭੇਸੈ ॥੧੧੭॥"
+page = 7
+line = 3

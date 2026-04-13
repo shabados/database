@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਅਪਰਅਪਾਰ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਪਾਰੇ ॥੮॥"
+page = 2
+line = 4

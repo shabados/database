@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਪਾਰਬ੍ਰਹਮ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਪਰਮਾਤਮ, ਹੈਂ ॥"
+page = 10
+line = 3

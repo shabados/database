@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਅਮਰ ਕਰਮ ਵਾਲਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅੰਮ੍ਰਿਤ ਕਰਮੇ ॥"
+page = 4
+line = 17

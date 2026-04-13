@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਅਮਿਤ ਸੀਮਾ ਦਾ ਮਾਲਕ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਮਿਤੇਸ੍ਵਰ ਹੈਂ ॥"
+page = 9
+line = 18

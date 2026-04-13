@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਅਚਲ ਅਤੇ ਸ਼ਰੀਰ-ਰਹਿਤ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਅਚਲੰ ਅਨੰਗ ਹੈਂ ॥"
+page = 9
+line = 2

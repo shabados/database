@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸਭ ਦੀ ਪਾਲਨਾ ਕਰਨ ਵਾਲਾ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ, ਪਾਲੇ ॥"
+page = 6
+line = 6

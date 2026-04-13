@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਨਾ ਤੇਰਾ ਕੋਈ ਪਿਤਾ ਹੈ ਨਾ ਮਾਤਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ ਤਾਤੈ, ਨ ਮਾਤੈ ॥"
+page = 8
+line = 9

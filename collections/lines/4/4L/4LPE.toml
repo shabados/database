@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਕਰਤਿਆਂ ਦਾ ਵੀ ਕਰਤਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਰਤਾ, ਕਰ ਹੈਂ ॥"
+page = 10
+line = 3

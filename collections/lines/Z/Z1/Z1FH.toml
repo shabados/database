@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸੂਰਜ ('ਆਦਿਤ') ਦੇ ਤੇਜ ਨੂੰ ਖ਼ਤਮ ਕਰ ਸਕਦਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਆਦਿੱਤ ਸੋਕੈ ॥"
+page = 6
+line = 11

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਭੈ-ਰਹਿਤ ਅਤੇ ਉਪਮਾ-ਰਹਿਤ ਹੈਂ ॥੧੦੬॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਅਨਭਉ ਅਨੂਪੈ ॥੧੦੬॥"
+page = 6
+line = 13

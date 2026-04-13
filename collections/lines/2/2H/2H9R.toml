@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਧਾਮ-ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੫॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਧਾਮੰ ॥੫॥"
+page = 2
+line = 2

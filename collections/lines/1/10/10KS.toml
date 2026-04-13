@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਨਾਸ਼-ਰਹਿਤ ਰੂਪ ਵਾਲੇ! ਹੇ ਨਿਰਾਕਾਰ ਅਤੇ ਨਾਮ-ਰਹਿਤ ਰੂਪ ਵਾਲੇ! (ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ);"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਭੰਗੀ ਸਰੂਪੇ; ਅਨੰਗੀ ਅਨਾਮੇ ॥"
+page = 10
+line = 9

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਅਜਿਤ ਅਤੇ ਅਜਨਮਾ ਹੈਂ ॥੧੪੯॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜੈ ਹੈਂ, ਅਜਾ ਹੈਂ ॥੧੪੯॥"
+page = 8
+line = 10

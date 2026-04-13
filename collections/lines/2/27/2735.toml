@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਸ ਦਾ ਕੋਈ ਚਿੰਨ੍ਹ, ਚਕ੍ਰ, ਵਰਨ, ਜਾਤਿ ਅਤੇ ਗੋਤ ਨਹੀਂ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਚੱਕ੍ਰ ਚਿਹਨ ਅਰੁ ਬਰਨ ਜਾਤਿ; ਅਰੁ ਪਾਤਿ ਨਹਿਨ ਜਿਹ ॥"
+page = 1
+line = 4

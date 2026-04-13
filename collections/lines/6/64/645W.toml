@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਉਹ ਧਰਮ ਦਾ ਸਰੋਤ, ਭਰਮ ਤੋਂ ਰਹਿਤ, ਪੰਜ ਤੱਤ੍ਵਾਂ ਤੋਂ ਨਿਆਰਾ, ਅਦ੍ਰਿਸ਼ ਅਤੇ ਭੇਸ ਰਹਿਤ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਧਰਮ ਧਾਮ ਸੁ ਭਰਮ ਰਹਤ; ਅਭੂਤ ਅਲਖ ਅਭੇਸ ॥"
+page = 5
+line = 11

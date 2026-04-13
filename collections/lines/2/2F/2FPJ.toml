@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਬਖ਼ਸ਼ਿਸ਼ (ਕਰਮ) ਕਰਨ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੨੫॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਕਰੀਮੇ ॥੨੫॥"
+page = 2
+line = 18

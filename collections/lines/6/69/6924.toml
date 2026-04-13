@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਵੈਰੀਆਂ ਨੂੰ ਮਾਰਨ ਵਾਲਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਰਿ ਗੰਜਨ, ਹੈਂ ॥"
+page = 10
+line = 2

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਗੀਤਾਂ ਦੇ ਗੀਤ!"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਗੀਤ ਗੀਤੇ ॥"
+page = 3
+line = 14

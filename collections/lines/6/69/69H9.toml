@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਅਸੀਮ ਸੰਪੱਤੀ ਵਾਲਾ ਹੈਂ ॥੧੫੯॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਅਮਿਤੋ ਬਿਭੂਤ ਹੈਂ ॥੧੫੯॥"
+page = 9
+line = 2

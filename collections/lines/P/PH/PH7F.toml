@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਪਰੇ ਤੋਂ ਪਰੇ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਪਰ ਤੇ, ਪਰ ਹੈਂ ॥"
+page = 9
+line = 16

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹਰ ਇਕ ਜੀਵ ਦੇ) ਚਿੱਤ ਵਿਚ ਤੇਰੇ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਅਤੇ ਤੇਰੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਚਿਤ ਚਰਨ, ਨਾਮ ॥"
+page = 9
+line = 9

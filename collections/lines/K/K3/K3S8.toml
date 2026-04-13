@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੂੰ) ਅਦਭੁਤ ਸੰਪੱਤੀ ਵਾਲਾ, ਦੁਸ਼ਮਣਾਂ ਉਤੇ ਕਹਿਰ ਢਾਉਣ ਵਾਲਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜਾਇਬ ਬਿਭੂਤੇ; ਗਜਾਇਬ ਗਨੀਮੇ ॥"
+page = 10
+line = 17

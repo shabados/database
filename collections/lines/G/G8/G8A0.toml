@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਉਸ ਦਾ ਵੇਦ, ਪੁਰਾਣ (ਆਦਿ ਸਾਰੇ ਧਰਮ ਗ੍ਰੰਥ) ਸ੍ਰੇਸ਼ਠ ਅਤੇ ਬੇਅੰਤ ਰੂਪ ਵਿਚ ਸਦਾ ਵਰਣਨ ਕਰਦੇ ਹਨ।"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਪਰਮ ਬੇਦ ਪੁਰਾਨ ਜਾਕਹਿ; ਨੇਤ ਭਾਖਤ ਨਿੱਤ ॥"
+page = 5
+line = 15

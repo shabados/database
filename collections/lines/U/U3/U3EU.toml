@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਮੁੱਢ-ਕਦੀਮ ਤੋਂ ਨਿਰਨਾਥ (ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਸੁਆਮੀ ਤੋਂ) ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਆਦਿ ਅਦੇਵ ਹੈਂ ॥"
+page = 6
+line = 13

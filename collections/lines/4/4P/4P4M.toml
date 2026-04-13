@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਰਸਾਵਲ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਰਸਾਵਲ ਛੰਦ ॥ ਤ੍ਵਪ੍ਰਸਾਦਿ ॥"
+page = 8
+line = 6

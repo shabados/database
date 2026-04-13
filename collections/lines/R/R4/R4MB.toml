@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਾਰਿਆਂ ਧੰਧਿਆਂ ਦੇ ਪ੍ਰੇਰਕ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਸਰਬ ਧੰਧੇ ॥"
+page = 2
+line = 17

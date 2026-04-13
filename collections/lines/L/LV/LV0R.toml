@@ -22,3 +22,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਨਾ ਭੰਨੇ ਜਾ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੬੫॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤ੍ਵੰ, ਅਭੰਜੇ ॥੬੫॥"
+page = 4
+line = 10

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਨਾਦਾਂ ਦੇ ਨਾਦ (ਧ੍ਵਨੀ)! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਨਾਦ ਨਾਦੇ ॥"
+page = 3
+line = 15

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਸ ਦਾ ਜਾਪ ਚੌਦਾਂ ਲੋਕਾਂ ਦੇ ਸਾਰੇ ਜਗਤ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਲੋਕ ਚਉਦਹ ਕੇ ਬਿਖੈ; ਜਗ ਜਾਪਈ ਜਿਹ ਜਾਪ ॥"
+page = 5
+line = 9

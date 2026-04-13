@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਜਗਤ ਦਾ ਕਰਤਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਜਗਤੰ ਕ੍ਰਿਤੀ ਹੈਂ ॥"
+page = 6
+line = 12

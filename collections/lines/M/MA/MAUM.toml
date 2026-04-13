@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਭਰਮਾਂ ਨੂੰ ਤੋੜਨ ਵਾਲਾ ਹੈਂ ॥੧੦੩॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਆਭੰਜ ਭਰਮੈ ॥੧੦੩॥"
+page = 6
+line = 10

@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਸ ਨੂੰ ਸ਼ਰੀਰ ਦਾ ਮੋਹ ਨਹੀਂ, ਜਿਸ ਦਾ ਕੋਈ ਰੰਗ, ਜਾਤਿ-ਪਾਤਿ ਜਾਂ ਨਾਮ ਨਹੀਂ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅੰਗ ਰਾਗ ਨ ਰੰਗ ਜਾਕਹ; ਜਾਤਿ ਪਾਤਿ ਨ ਨਾਮ ॥"
+page = 5
+line = 11

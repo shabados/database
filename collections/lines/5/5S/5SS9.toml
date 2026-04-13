@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਮਨੁੱਖਾਂ ਦਾ ਨਾਇਕ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਰ, ਨਾਇਕ ਹੈਂ ॥"
+page = 9
+line = 19

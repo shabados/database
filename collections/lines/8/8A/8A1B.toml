@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਬ੍ਰਹਮ-ਸਰੂਪੀ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਬ੍ਰਹਮੰ ਸਰੂਪੈ ॥"
+page = 6
+line = 12

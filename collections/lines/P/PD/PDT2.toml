@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਮਾਣਾਂ ਦੇ ਮਾਣ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੪੬॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਮਾਨ ਮਾਨੇ ॥੪੬॥"
+page = 3
+line = 14

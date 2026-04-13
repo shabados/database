@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਤਿੰਨਾਂ ਕਾਲਾਂ (ਅਥਵਾ ਤਿੰਨਾਂ ਲੋਕਾਂ) ਵਿਚ ਮੰਨੇ ਜਾਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਤ੍ਰਿਮਾਨੇ ॥"
+page = 2
+line = 8

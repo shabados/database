@@ -16,3 +16,10 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਬੁਰੇ ਸਮੇਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲਾ ਅਤੇ ਦਿਆਲੂ ਸਰੂਪ ਵਾਲਾ ਹੈਂ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਦੁਕਾਲੰ ਪ੍ਰਣਾਸੀ; ਦਇਆਲੰ ਸਰੂਪੇ ॥"
+page = 10
+line = 18
