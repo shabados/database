@@ -9,3 +9,8 @@ asset = "DSKO"
 type = "translation"
 language = "en"
 data = "The Tenth Sovereign."
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਪਾਤਿਸਾਹੀ ੧੦ ॥"
