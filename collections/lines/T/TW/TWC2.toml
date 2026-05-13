@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਮਹਾਨਤਾ ਵਾਲਾ ਹੈਂ ॥੩੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਮਹੰਤ ਹੈਂ ॥੩੮॥"

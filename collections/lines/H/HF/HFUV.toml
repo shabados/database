@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਨਿਰਦੁਅੰਦ (ਝਗੜੇ ਤੋਂ ਮੁਕਤ) ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਝੂਝ ਹੈਂ ॥"

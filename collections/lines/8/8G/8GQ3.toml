@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਸੂਝ (ਸਮਝੇ ਜਾਣ ਤੋਂ ਪਰੇ) ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਸੂਝ ਹੈਂ ॥"

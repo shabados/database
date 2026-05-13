@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਦੇਵਤਿਆਂ ਦਾ ਦੇਵਤਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਦੇਵਾਨ ਦੇਵ ॥"

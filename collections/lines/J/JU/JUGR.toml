@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਲੇਖੇ ਤੋਂ ਬਾਹਰ ਹੈਂ ॥੧੩੩॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਲੇਖ ਹੈਂ ॥੧੩੩॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੇਰੀ) ਚਮਕ ਸਥਾਈ (ਅਭੰਗ) ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਆਭਾ ਅਭੰਗ ॥"

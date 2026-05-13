@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਅਵਿਨਾਸ਼ੀ ਸਰੂਪ ਵਾਲੇ!"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ੍ਰਿਭੰਗੀ ਸਰੂਪੇ ॥"

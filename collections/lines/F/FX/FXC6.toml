@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੂੰ) ਅਦ੍ਰਿਸ਼ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਲੋਕ ਹੈਂ ॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਬੰਧਨ ਤੋਂ ਰਹਿਤ ਹੈਂ ॥੩੬॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਬੰਧ ਹੈਂ ॥੩੬॥"

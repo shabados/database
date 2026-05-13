@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਉਤਪਤੀ (ਸਰਗ) ਰਹਿਤ ਹੈਂ ॥੩੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਸਰਗ ਹੈਂ ॥੩੨॥"

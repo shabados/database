@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੂੰ) ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗੰਮ ਹੈਂ ॥"

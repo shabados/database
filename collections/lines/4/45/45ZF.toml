@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਦੇਹ (ਅੰਗ) ਰਹਿਤ, ਸੁਆਮੀ (ਨਾਥ) ਰਹਿਤ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਨੰਗੀ ਅਨਾਥੇ ॥"

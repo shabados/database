@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਸੁਤਹ ਗਿਆਨ ਦਾ ਪ੍ਰਕਾਸ਼ਕ ਹੈਂ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਨਭਉ ਪ੍ਰਕਾਸ ॥"

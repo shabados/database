@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸੂਰਜਾਂ ਦਾ ਸੂਰਜ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਭਾਨਾਨ ਭਾਨ ॥"

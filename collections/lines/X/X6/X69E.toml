@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੈਨੂੰ) ਨਾ ਕੋਈ ਭਰਮ ਹੈ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨ ਭਰਮੰ ॥"

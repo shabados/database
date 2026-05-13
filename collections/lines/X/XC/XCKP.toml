@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਮਹਾਨ ਉਪਮਾ ਵਾਲਾ ਹੈਂ ॥੮੯॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਉਪਮਾ ਮਹਾਨ ॥੮੯॥"
