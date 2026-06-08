@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਨਸ਼ਟ ਨਾ ਹੋ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਗੰਜੇ ॥"

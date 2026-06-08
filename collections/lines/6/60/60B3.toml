@@ -9,3 +9,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜੋ 'ਕਲਿ' ਨੂੰ ਇਕ ਵਾਰ ਧਿਆਉਂਦੇ ਹਨ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਜੋ ਕਲਿ ਕੋ; ਇਕ ਬਾਰ ਧਿਐਹੈ ॥"

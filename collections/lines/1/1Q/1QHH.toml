@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸਭ ਨੂੰ ਪ੍ਰਕਾਸ਼ਮਾਨ ('ਭਾਨੇ') ਕਰਨ ਵਾਲਾ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਰਬੰ ਭਾਨੇ ॥"

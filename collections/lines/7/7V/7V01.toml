@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਤੇ ਭੇਖ ਤੋਂ ਰਹਿਤ ਹੈਂ ॥੧੯੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਭੇਖ ॥੧੯੨॥"

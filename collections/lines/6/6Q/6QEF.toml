@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਬੋਲੀਆਂ (ਕਲਾਮ) ਦਾ ਸੁਆਮੀ ਹੈਂ ॥੧੨੦॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਸਾਹਿਬ ਕਲਾਮੈ ॥੧੨੦॥"

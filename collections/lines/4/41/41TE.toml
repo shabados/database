@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੇਰੇ ਕਰਮ ਬੜੇ ਦ੍ਰਿੜ੍ਹ ਹਨ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਤਿ ਢੀਠ, ਕਰਮ ॥"

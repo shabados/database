@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਵੈਰੀਆਂ ਦਾ ਨਾਸ਼ਕ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਹਰੀਫੁਲ, ਸਿਕੰਨ ਹੈਂ ॥"

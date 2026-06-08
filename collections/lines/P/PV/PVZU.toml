@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸੋਗੀ ਨਾ ਹੋ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੧੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮਸਤੰ, ਅਸੋਕੇ ॥੧੨॥"

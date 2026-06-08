@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਜੀਵਾਂ ਦੇ ਜੀਵ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਜੀਵ ਜੀਵੰ ॥"

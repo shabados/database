@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਵੈਰੀਆਂ ('ਗਨੀਮ') ਤੋਂ ਨਸ਼ਟ ਹੋਣ ਵਾਲਾ ਨਹੀਂ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗੰਜੁਲ, ਗਨੀਮ ਹੈਂ ॥"

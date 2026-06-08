@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਗਤੀ ਅਤੇ ਸੀਮਾ ਅਪਾਰ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਗਤਿ ਮਿਤਿ ਅਪਾਰ ॥"

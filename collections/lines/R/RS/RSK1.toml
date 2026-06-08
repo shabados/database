@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਭ ਬਾਰੇ ਜਾਣਕਾਰ ਹੈਂ ॥੧੪੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਰਬੰ ਗਿਆਤਾ ॥੧੪੨॥"

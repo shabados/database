@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ:"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਭੁਜੰਗ ਪ੍ਰਯਾਤ, ਛੰਦ ॥"

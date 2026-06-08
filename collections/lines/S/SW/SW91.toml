@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ (ਸਭ ਦਾ) ਵੱਡਾ ਮਿਤਰ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਹਰੀਫੁਲ ਅਜੀਮੈਂ ॥"

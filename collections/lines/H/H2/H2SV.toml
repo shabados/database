@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਮੁਨੀਆਂ ਦੇ ਮਨ ਦਾ ਪ੍ਰਕਾਸ਼ (ਗਿਆਨ) ਵੀ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਮੁਨਿ ਮਨ, ਪ੍ਰਕਾਸ ॥"

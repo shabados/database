@@ -15,3 +15,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਸ ਕਾਲ ਨੇ ਸਾਰਾ ਜਗਤ ਬਣਾਇਆ"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਜਵਨ ਕਾਲ; ਸਭ ਜਗਤ ਬਨਾਯੋ ॥"

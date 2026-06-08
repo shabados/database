@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਬਿਨਾ ਕਿਸੇ ਸਥਾਨ ਦੇ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜਾਹ ਹੈਂ ॥"

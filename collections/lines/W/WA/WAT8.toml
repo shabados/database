@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਕਿਸੇ ਗੱਲ ਲਈ ਵੀ ਅਸਮਰਥ (ਆਜਿਜ਼) ਨਹੀਂ ॥੧੬੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਆਜਿਜ ਨ, ਬਾਤ ॥੧੬੮॥"

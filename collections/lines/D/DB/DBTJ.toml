@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਥਾਹ (ਸਮੁੰਦਰ ਵਾਂਗ) ਹੈਂ ॥੪੨॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗਾਹ ਹੈਂ ॥੪੨॥"

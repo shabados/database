@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਧਰਤੀ ਦਾ ਸ਼ਿੰਗਾਰ ਹੈਂ ॥੧੭੧॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਮਹਿ ਮੰਡਨ, ਹੈਂ ॥੧੭੧॥"

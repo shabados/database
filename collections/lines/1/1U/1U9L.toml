@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਨਾਸ਼ਕ-ਰਹਿਤ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਪ੍ਰਮਾਥੇ ॥"

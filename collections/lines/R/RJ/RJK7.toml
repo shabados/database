@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੇਰਾ ਸਥਾਨ (ਮਕਾਨ) ਬਹੁਤ ਉੱਚਾ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਬਿਲੰਦੁਲ ਮਕਾਨੈਂ ॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਸਦਾ ਪ੍ਰਕਾਸ਼ਿਤ ਰਹਿਣ ਵਾਲੇ!"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਦੈਵੰ ਪ੍ਰਕਾਸੇ ॥"

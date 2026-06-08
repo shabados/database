@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਗੁਣਾਂ ਦੇ ਭੰਡਾਰ! (ਤੈਨੂੰ ਮੇਰਾ) ਪ੍ਰਨਾਮ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਗੁਨ ਗਨ, ਪ੍ਰਨਾਮ ॥"

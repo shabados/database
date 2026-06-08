@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਭ ਵਲ ਧਿਆਨ ਦੇਣ (ਰੁਜੂ ਕਰਨ) ਵਾਲੀ ਰੁਚੀ ਦਾ ਭੰਡਾਰ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਰੁਜੂਅਲ ਨਿਧਾਨੈ ॥"

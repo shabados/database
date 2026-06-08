@@ -9,3 +9,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਜਿਤਨੇ ਦੁਸ਼ਟ ਉਤਪਾਤ (ਉਪਦ੍ਰ) ਮਚਾਉਂਦੇ ਹਨ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਦੁਸਟ ਜਿਤੇ; ਉਠਵਤ ਉਤਪਾਤਾ ॥"

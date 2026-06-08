@@ -22,3 +22,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਭ ਲਈ ਅਦ੍ਰਿਸ਼ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਮਸਤੁਲ, ਅਦੀਸ ਹੈਂ ॥"

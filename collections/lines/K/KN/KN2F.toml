@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਜਗਤ ਦੁਆਰਾ ਜਾਣਨ ਯੋਗ ਹੈਂ ॥੧੭੩॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਜਗ ਜਾਨਿਯ, ਹੈਂ ॥੧੭੩॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਜੋਗਾਂ ਦੇ ਵੀ ਜੋਗ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਨਮੋ, ਜੋਗ ਜੋਗੇ ॥"

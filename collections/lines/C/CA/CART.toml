@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਤੇ ਸਾਰੀਆਂ ਨਿਧੀਆਂ ਦੇ ਭੰਡਾਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਮਸਤੀ ਨਿਧਾਨੇ ॥"

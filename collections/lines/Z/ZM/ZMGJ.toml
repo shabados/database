@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਹੁਸਨ ਦਾ ਦੀਪਕ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਹੁਸਨਲ ਚਰਾਗ ਹੈਂ ॥"

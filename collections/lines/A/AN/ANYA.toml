@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਹੇ ਹਰਿ! (ਤੂੰ) ਨਾ ਖੰਡਿਤ ਕੀਤੇ ਜਾ ਸਕਣ ਵਾਲਾ ਨਰ ਸ੍ਰੇਸ਼ਠ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਹਰਿ ਨਰ, ਅਖੰਡ ॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਜਨਮ-ਮਰਨ ਤੋਂ ਮੁਕਤ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜਾਤਿ ਹੈਂ ॥"

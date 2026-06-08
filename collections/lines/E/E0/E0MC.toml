@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੇਰਾ ਕੋਈ ਪਾਰਾਵਾਰ ਨਹੀਂ ਹੈ ॥੧੩੯॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗਾਹ ਹੈਂ ॥੧੩੯॥"

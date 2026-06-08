@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਧੀਰਜ-ਧਾਰੀਆਂ ਦਾ ਧੁਰਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਧ੍ਰਿਤ ਧਰ, ਧੁਰਾਸ ॥"

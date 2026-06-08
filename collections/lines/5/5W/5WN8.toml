@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸੰਸਾਰਿਕ ਧੰਧਿਆਂ ਤੋਂ ਪਰੇ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਧੰਧ ਹੈਂ ॥"

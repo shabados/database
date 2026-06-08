@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਖੰਡ ('ਅੰਬ੍ਰਿਤ') ਧਰਮ ਵਾਲਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅੰਬ੍ਰਿਤ ਧਰਮੇ ॥"

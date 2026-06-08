@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸ਼ਾਹਾਂ ਦਾ ਸ਼ਾਹ (ਸਭ ਤੋਂ ਉਪਰ) ਹੈਂ ॥੮੮॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਾਹਾਨ ਸਾਹੁ ॥੮੮॥"

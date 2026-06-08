@@ -22,3 +22,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਜਿਸ ਦਾ) ਰੂਪ, ਰੰਗ, ਜਾਤਿ-ਪਾਤਿ ਪਤਾ ਨਹੀਂ ਕਿਹੋ ਜਿਹਾ ਹੈ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਰੂਪ ਰੰਗ ਨ ਜਾਤਿ ਪਾਤਿ; ਸੁ ਜਾਨਈ ਕਿਹ ਜੇਬ ॥"

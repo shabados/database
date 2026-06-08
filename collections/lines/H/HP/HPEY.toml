@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਜਿਸ ਦਾ) ਭੇਦ ਦੇਵਤੇ, ਵੇਦ ਅਤੇ ਕਤੇਬ (ਸਾਮੀ ਧਰਮ ਪੁਸਤਕਾਂ) ਨਹੀਂ ਜਾਣਦੇ;"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਦੇਵ ਭੇਵ ਨ ਜਾਨਹੀ; ਜਿਹ ਬੇਦ ਅਉਰ ਕਤੇਬ ॥"

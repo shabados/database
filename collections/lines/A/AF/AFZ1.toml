@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਗ਼ਰੀਬਾਂ ਦਾ ਵੀ ਗ਼ਰੀਬ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਰੰਕਾਨ ਰੰਕ ॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੇਰਾ ਕਰਮ ਨਸ਼ਟ ਨਹੀਂ ਹੁੰਦਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਆਗੰਜ ਕਰਮੈ ॥"

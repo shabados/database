@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਛਤ੍ਰੀਆਂ (ਵੀਰਾਂ) ਦਾ ਵੀ ਛਤ੍ਰੀ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਕਿ, ਛਤ੍ਰੰ ਛਤ੍ਰੀ ਹੈਂ ॥"

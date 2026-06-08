@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਪਰ-ਅਪਾਰ ਹੈਂ ॥੯੪॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਪਾਰੇ ॥੯੪॥"

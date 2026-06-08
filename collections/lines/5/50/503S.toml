@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਅਮਿਤ ਅਤੇ ਅਪਾਰ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਮਿਤੋ, ਅਮੀਕ ਹੈਂ ॥"

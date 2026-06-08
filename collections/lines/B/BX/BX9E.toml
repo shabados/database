@@ -22,3 +22,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੂੰ) ਸਭ ਦਾ ਪ੍ਰਤਿਪਾਲਕ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਰਬਾ ਭਰਣਾਢਯ ॥"

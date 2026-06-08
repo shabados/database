@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਨਾ ਨਸ਼ਟ ਹੋਣ ਵਾਲਾ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਗੰਜ ॥"

@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਪੋਸ਼ਣ (ਭਰਨ) ਰਹਿਤ ਹੈਂ ॥੩੪॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਭਰਨ ਹੈਂ ॥੩੪॥"

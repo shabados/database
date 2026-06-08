@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "(ਤੇਰਾ) ਨਾ ਕੋਈ ਸਥਾਨ ਹੈ ॥੧੦੦॥"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਅਜਾਏ ॥੧੦੦॥"

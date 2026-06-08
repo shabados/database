@@ -22,3 +22,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਅਤੇ ਪੋਸ਼ਣ ਕਰਨ ਵਾਲਾ ਹੈਂ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ, ਭਰਤੀ ॥"

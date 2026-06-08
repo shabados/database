@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਤੂੰ ਸਦਾ ਗੁਣਾਂ ਦਾ ਸੁਆਮੀ ਹੈ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਗੁਨ ਗਨ, ਮੁਦਾਮ ॥"

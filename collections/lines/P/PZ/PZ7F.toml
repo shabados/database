@@ -16,3 +16,8 @@ asset = "RSJD"
 type = "translation"
 language = "pa"
 data = "ਸਭ ਦੇ ਸਰੂਪ,"
+
+[[content]]
+asset = "DDTK"
+type = "primary"
+data = "ਸਮਸਤੀ ਸਰੂਪੇ ॥"
