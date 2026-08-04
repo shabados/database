@@ -251,6 +251,44 @@ Though unmentioned in the bibliography of sources above, the following are ackno
 - Dr. Kulbir S Thind
 - SHARE Charity UK
 
+## Building the SQLite database (local)
+
+This repository can generate a ready-to-use SQLite database file containing the imported JSON data.
+
+Recommended local steps:
+
+1. Install Node 16 (we recommend using `nvm`). See [`.nvmrc`](.nvmrc).
+
+```bash
+nvm install 16
+nvm use 16
+npm install
+```
+
+2. Run the build script to generate the SQLite DB:
+
+```bash
+npm run build-sqlite
+# output: build/database.sqlite
+```
+
+3. Inspect the DB with the `sqlite3` CLI or your preferred DB viewer:
+
+```bash
+sqlite3 build/database.sqlite
+```
+
+CI
+
+A simple GitHub Actions workflow is included at `.github/workflows/ci.yml` which:
+
+- sets up Node 16
+- caches `node_modules` between runs
+- runs `npm ci` and `npm run build-sqlite`
+- uploads `build/database.sqlite` as a workflow artifact
+
+If you want, I can further extend the CI to run tests or publish the artifact automatically.
+
 [npm-image]: https://img.shields.io/npm/v/@shabados/database.svg
 [npm-url]: https://npmjs.org/package/@shabados/database
 [downloads-image]: https://img.shields.io/npm/dm/@shabados/database.svg
