@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/shabados/presenter/dev/resources/icon.png" width="128" alt="Shabad OS">
+# Development has moved to [shabados/shabados](https://github.com/shabados/shabados)
+
+This repo has been archived in favor of the above monorepo.
+
+<details>
+<summary>Archived README</summary>
 
 # Database
 
@@ -14,25 +19,27 @@ A digital representation of Sikh Bani and other Panthic texts with a public logb
 
 **Table of Contents**
 
-- [Introduction](#introduction)
-  - [Features](#features)
-  - [Screenshots](#screenshots)
-    - [Proofreading Flow [GIF]](#proofreading-flow-gif)
-    - [Database Schema Layout](#database-schema-layout)
-    - [NPM JS package API [GIF]](#npm-js-package-api-gif)
-- [Community](#community)
-- [Contributing](#contributing)
-- [People](#people)
-- [Feedback](#feedback)
-- [Related Projects](#related-projects)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Gurbani and Panthic Compositions](#gurbani-and-panthic-compositions)
-  - [Sri Guru Granth Sahib Ji](#sri-guru-granth-sahib-ji)
-  - [Sri Dasam Granth](#sri-dasam-granth)
-  - [Bhai Gurdaas Ji](#bhai-gurdaas-ji)
-  - [Bhai Nand Laal Ji](#bhai-nand-laal-ji)
-- [Acknowledgments](#acknowledgments)
+- [Development has moved to shabados/shabados](#development-has-moved-to-shabadosshabados)
+- [Database](#database)
+  - [Introduction](#introduction)
+    - [Features](#features)
+    - [Screenshots](#screenshots)
+      - [Proofreading Flow \[GIF\]](#proofreading-flow-gif)
+      - [Database Schema Layout](#database-schema-layout)
+      - [NPM JS package API \[GIF\]](#npm-js-package-api-gif)
+  - [Community](#community)
+  - [Contributing](#contributing)
+  - [People](#people)
+  - [Feedback](#feedback)
+  - [Related Projects](#related-projects)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
+  - [Gurbani and Panthic Compositions](#gurbani-and-panthic-compositions)
+    - [Sri Guru Granth Sahib Ji](#sri-guru-granth-sahib-ji)
+    - [Sri Dasam Granth](#sri-dasam-granth)
+    - [Bhai Gurdaas Ji](#bhai-gurdaas-ji)
+    - [Bhai Nand Laal Ji](#bhai-nand-laal-ji)
+  - [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -277,3 +284,5 @@ Though unmentioned in the bibliography of sources above, the following are ackno
 [contributor-url]: https://github.com/shabados/database/graphs/contributors
 [upvote-tracker-url]: https://github.com/shabados/database/issues?q=is%3Aopen+is%3Aissue+label%3A%22Type%3A+Feature%2FEnhancement%22+sort%3Areactions-%2B1-desc
 [contributor-covenant-url]: https://www.contributor-covenant.org/version/2/0/code_of_conduct/
+
+</details>
